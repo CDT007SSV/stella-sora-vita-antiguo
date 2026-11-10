@@ -3,6 +3,7 @@
 (function(){
 const RUTA="Resources/StellarSora/assets/assetbundles/actor2d/";
 const FUENTES=["https://srpg-kr.github.io/l2d-assets/"+RUTA,"https://cdn.jsdelivr.net/gh/srpg-kr/l2d-assets@main/"+RUTA];
+const JHON=["https://cdn.jsdelivr.net/gh/jhon1466/StellaSoraData@main/03_Modelos_Live2D/","https://raw.githubusercontent.com/jhon1466/StellaSoraData/main/03_Modelos_Live2D/"];
 const LIBS=["https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js","https://cdn.jsdelivr.net/npm/pixi.js@6.5.10/dist/browser/pixi.min.js","https://cdn.jsdelivr.net/npm/pixi-live2d-display@0.4.0/dist/cubism4.min.js"];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const activo=()=>{try{return localStorage.getItem("ssv_l2d")!=="0"}catch(e){return true}};
@@ -43,7 +44,11 @@ function cierra(){document.body.style.overflow="";limpia();try{if(app){app.destr
 async function pon(p,msg){
   const my=++tok;msg("Cargando modelo…");
   const L=PIXI.live2d.Live2DModel;let m=null;
-  for(const f of FUENTES){try{m=await L.from(f+p+".model3.json");break}catch(e){}}
+  const j=/^jhon:([^/]+)\/([^/]+)\/(\d+)$/.exec(p);
+  if(j){ /* modelos del repo de Jhon: no traen un .model3.json válido, se arma aquí */
+    const tx=[];for(let i=0;i<+j[3];i++)tx.push("texture_0"+i+".png");
+    for(const f of JHON){try{m=await L.from({url:f+j[1]+"/x.model3.json",Version:3,FileReferences:{Moc:"model.moc3",Textures:tx,Physics:j[2]+".physics3",Motions:{Idle:[{File:"idle.motion3"}]}},Groups:[]});break}catch(e){}}
+  }else for(const f of FUENTES){try{m=await L.from(f+p+".model3.json");break}catch(e){}}
   if(my!==tok||!app){try{m&&m.destroy()}catch(e){}return}
   if(!m){msg("No se pudo cargar este modelo. Prueba con otra versión o revisa tu conexión.");return}
   limpia();mdl=m;app.stage.addChild(m);m.anchor.set(.5,.5);reset();
