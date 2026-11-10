@@ -137,6 +137,13 @@ let root,T=null,mode="list";
 .tm-hb.h4{background:linear-gradient(135deg,#2f9a72,#1d5f86);border-color:rgba(120,240,190,.35)}.tm-hero{position:relative;border-radius:16px;padding:16px;margin-bottom:14px;background:linear-gradient(135deg,#2a2160,#14102c 70%);border:1px solid rgba(123,108,255,.5);overflow:hidden}
 .tm-hero:before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 85% 0,rgba(123,108,255,.45),transparent 55%);pointer-events:none}
 .tm-hero>*{position:relative}.tm-hero h3{margin:0 0 4px;font-size:1.15rem}.tm-hero p{margin:0 0 12px;font-size:.82rem;color:var(--t2)}
+.tm-md .tm-mb button.tm-pub{display:flex;align-items:center;gap:12px;width:100%;text-align:left;margin:0 0 10px;padding:12px;border-radius:16px;border:1px solid color-mix(in srgb,var(--tc) 55%,transparent);background:linear-gradient(120deg,color-mix(in srgb,var(--tc) 38%,#14112a),#14112a 75%);color:var(--t);font:inherit;cursor:pointer;box-shadow:0 3px 12px rgba(0,0,0,.25)}
+.tm-pub:active{transform:scale(.98)}
+.tm-pub .tm-pav{display:flex;flex:none}.tm-pub .tm-pav img,.tm-pub .tm-pav i{width:38px;height:38px;border-radius:50%;object-fit:cover;object-position:top;background:#221E3A;border:2px solid #14112a;margin-right:-10px}
+.tm-pub .tm-pav img:first-child{width:50px;height:50px;border-color:var(--tc);z-index:2;position:relative}
+.tm-pub .tm-pi{flex:1;min-width:0;padding-left:12px}.tm-pub .tm-pi b{display:block;font-size:.98rem;line-height:1.25}
+.tm-pub .tm-pi small{display:block;font-size:.74rem;color:var(--t2);margin-top:3px;line-height:1.35}
+.tm-pub .tm-pg{flex:none;font-size:.78rem;font-weight:800;padding:7px 11px;border-radius:999px;background:var(--tc);color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.4)}
 .tm-card{position:relative;border-radius:14px;margin-bottom:12px;cursor:pointer;overflow:hidden;border:1px solid #2a2740;background:var(--sf)}
 .tm-ctop{height:8px}.tm-cb{padding:12px 14px}.tm-cb h4{margin:0 0 8px;font-size:1.02rem}
 .tm-th{display:flex;align-items:center}.tm-th img,.tm-th i{width:48px;height:48px;border-radius:50%;object-fit:cover;object-position:top;background:#221E3A;border:2px solid var(--sf);margin-right:-10px;flex:0 0 48px}.tm-th i{display:block}
@@ -689,7 +696,7 @@ function cmPaint(){
 function pubPicker(){
   const m=document.createElement("div");m.className="tm-md";
   const A=load().teams;
-  m.innerHTML=`<div class="tm-mh"><div class="tm-mt"><b>Publicar una build</b><button class="chip" data-x="1">Cerrar</button></div></div><div class="tm-mb"><p class="nota">Elige uno de tus equipos guardados. Se abrirá un formulario con el código ya puesto; solo tienes que enviarlo. Las builds se revisan antes de aparecer.</p>${A.length?A.map((t,i)=>`<button class="tm-it" data-i="${i}"><span>${e(t.name||"Equipo sin nombre")}<br><small>${t.slots.map(s=>{const c=charOf(s.c);return c?c.name:"—"}).join(" · ")}</small></span></button>`).join(""):'<p class="nota">Aún no tienes equipos guardados. Arma uno en “Armador de equipos” y vuelve aquí.</p>'}</div>`;
+  m.innerHTML=`<div class="tm-mh"><div class="tm-mt"><b>Publicar una build</b><button class="chip" data-x="1">Cerrar</button></div></div><div class="tm-mb"><p class="nota" style="margin-bottom:12px">Elige uno de tus equipos guardados. Se abrirá un formulario con el código ya puesto; solo tienes que enviarlo. Las builds se revisan antes de aparecer.</p>${A.length?A.map((t,i)=>{const cs=t.slots.map(s=>charOf(s.c)),c0=cs.find(Boolean);return `<button type="button" class="tm-it tm-pub" data-i="${i}" style="--tc:${ec(c0?c0.element:"")}"><span class="tm-pav">${cs.map(c=>c?`<img src="${e(imgC(c))}" alt="" referrerpolicy="no-referrer" onerror="this.style.visibility='hidden'">`:"<i></i>").join("")}</span><span class="tm-pi"><b>${e(t.name||"Equipo sin nombre")}</b><small>${c0?eli(c0.element)+" ":""}${cs.map(c=>c?e(c.name):"—").join(" · ")}</small></span><span class="tm-pg">Publicar</span></button>`}).join(""):'<p class="nota">Aún no tienes equipos guardados. Arma uno en “Armador de equipos” y vuelve aquí.</p>'}</div>`;
   openM(m);m.querySelector("[data-x]").onclick=()=>closeM(m);
   m.querySelectorAll(".tm-it").forEach(b=>b.onclick=()=>{const t=A[+b.dataset.i];closeM(m);setTimeout(()=>publicar(t),50)});
 }
