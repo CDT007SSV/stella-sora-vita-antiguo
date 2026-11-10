@@ -74,6 +74,24 @@ const css=`#rd{touch-action:manipulation;position:fixed;inset:0;z-index:99999;ba
 @keyframes rdFi{to{opacity:.6}}
 #rd .fx-avg_star_lp{background-image:radial-gradient(circle,#fff 0 1.5px,transparent 2.5px),radial-gradient(circle,#ffe9a8 0 1px,transparent 2px);background-size:90px 90px,60px 60px;background-position:0 0,30px 40px;animation:rdTw 2.4s ease-in-out infinite alternate}
 @keyframes rdTw{from{opacity:.25}to{opacity:.95}}
+#rd .fx-line_cen_lp,#rd .fx-line_cen_lp_w{background:repeating-conic-gradient(from 0deg at 50% 50%,transparent 0 3deg,rgba(255,255,255,.55) 3deg 3.6deg,transparent 3.6deg 7deg);-webkit-mask-image:radial-gradient(circle,transparent 28%,#000 85%);mask-image:radial-gradient(circle,transparent 28%,#000 85%);animation:rdSp .18s steps(2) infinite}
+#rd .fx[class*="fx-line_go"]{background:repeating-linear-gradient(0deg,transparent 0 14px,rgba(255,255,255,.5) 14px 16px,transparent 16px 37px);background-size:200% 100%;-webkit-mask-image:linear-gradient(90deg,transparent,#000 30%,#000 70%,transparent);mask-image:linear-gradient(90deg,transparent,#000 30%,#000 70%,transparent);animation:rdLn .25s linear infinite}
+#rd .fx[class*="fx-line_goright"]{animation-direction:reverse}
+@keyframes rdLn{from{transform:translateX(6%)}to{transform:translateX(-6%)}}
+#rd .fx-line_down_lp,#rd .fx-line_down_lp_w{background:repeating-linear-gradient(90deg,transparent 0 22px,rgba(255,255,255,.45) 22px 24px,transparent 24px 51px);animation:rdLd .25s linear infinite}
+@keyframes rdLd{from{transform:translateY(-5%)}to{transform:translateY(5%)}}
+#rd .fx-rain,#rd .fx-rain_2,#rd .fx-rain_sky{inset:-20%;background-image:repeating-linear-gradient(100deg,transparent 0 9px,rgba(200,220,255,.35) 9px 10px,transparent 10px 23px);animation:rdRn .35s linear infinite}
+@keyframes rdRn{from{transform:translate(4%,-12%)}to{transform:translate(-4%,12%)}}
+#rd .fx-snow,#rd .fx-snowstorm_lp,#rd .fx-sakura{inset:-30% 0 0;background-image:radial-gradient(circle,#fff 0 2px,transparent 3px),radial-gradient(circle,rgba(255,255,255,.8) 0 1.5px,transparent 2.5px),radial-gradient(circle,rgba(255,255,255,.7) 0 3px,transparent 4px);background-size:110px 130px,70px 90px,170px 190px;animation:rdSn 7s linear infinite}
+#rd .fx-snowstorm_lp{animation-duration:2.2s}
+#rd .fx-sakura{background-image:radial-gradient(ellipse 4px 2.5px,#ffc4dc 0 99%,transparent),radial-gradient(ellipse 3px 2px,#ffd9e8 0 99%,transparent),radial-gradient(ellipse 5px 3px,#ffb3d1 0 99%,transparent)}
+@keyframes rdSn{from{background-position:0 0,20px 30px,60px 10px}to{background-position:40px 390px,-20px 300px,110px 390px}}
+#rd .fx-flash_light,#rd .fx-hit,#rd .fx-thunder{background:#fff;animation:rdFl .5s ease-out forwards}
+@keyframes rdFl{from{opacity:.85}to{opacity:0}}
+#rd .fx-fog_lp{background:linear-gradient(100deg,transparent,rgba(255,255,255,.28),transparent 60%,rgba(255,255,255,.2),transparent);background-size:200% 100%;animation:rdFg 9s linear infinite}
+#rd .fx-sunlight{background:linear-gradient(120deg,rgba(255,244,200,.45),transparent 55%)}
+#rd .fx-nega_ev{backdrop-filter:invert(1);-webkit-backdrop-filter:invert(1)}
+#rd .fx-movie{background:linear-gradient(#000 0 9%,transparent 9% 91%,#000 91%)}
 #rd .fx-avg_magic_ice{background:radial-gradient(circle at 50% 50%,rgba(170,230,255,.75),transparent 60%);animation:rdIce 1.2s ease-out forwards}
 @keyframes rdIce{from{opacity:1;transform:scale(.6)}to{opacity:0;transform:scale(1.6)}}
 #rd .rd-bgo{position:absolute;inset:0;transition:opacity var(--d,.5s) linear;pointer-events:none;z-index:1}

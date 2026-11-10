@@ -40,19 +40,39 @@ function gestos(stg){
   stg.addEventListener("dblclick",reset,true);
 }
 function limpia(){try{if(mdl){mdl.destroy();mdl=null}}catch(e){}}
-function cierra(){document.body.style.overflow="";limpia();try{if(app){app.destroy(false,{children:true});app=null}}catch(e){}tok++}
+function cierra(){document.body.style.overflow="";try{if(VA)VA.pause()}catch(e){}limpia();try{if(app){app.destroy(false,{children:true});app=null}}catch(e){}tok++}
+/* voces de las historias (vo_cgstory): letras disponibles por personaje, del repo de Jhon */
+let VZ=null;const vozIdx=()=>VZ||(VZ=fetch("l2d-voces.json").then(r=>r.ok?r.json():{}).catch(()=>({})));
+let VA=null;
+const idPj=p=>{const m=/character\/(\d{3})\d{2}\//.exec(p)||/char_l2d_(\d{3})\d{2}/.exec(p);return m&&m[1]};
+function mots(f){const m=/char_l2d_(\d{3})/.exec(f),o={Idle:[{File:"idle.motion3"}]};const L=m&&VZ_SYNC[m[1]];if(L)L.forEach(x=>{o["v_"+x]=[{File:"vo_cgstory_"+m[1]+"_"+x+"_jp.motion3"}]});return o}
+let VZ_SYNC={};
+async function vocesBar(p){
+  const cont=app&&app.view&&app.view.closest(".l2d-stage");if(!cont)return;
+  let bar=cont.parentNode.querySelector(".l2d-vz");if(bar)bar.remove();
+  const id=idPj(p),I=await vozIdx(),L=id&&I[id];if(!L||!L.length)return;
+  bar=document.createElement("div");bar.className="l2d-vz";bar.style.cssText="display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:8px 12px 0";
+  bar.innerHTML='<small style="opacity:.75;width:100%">🔊 Voces de sus historias (japonés)</small>'+L.map((x,i)=>'<button type="button" class="chip" data-v="'+x+'">'+(i+1)+'</button>').join("");
+  cont.insertAdjacentElement("afterend",bar);
+  bar.querySelectorAll("[data-v]").forEach(b=>b.onclick=()=>{
+    const c="vo_cgstory_"+id+"_"+b.dataset.v;try{if(VA)VA.pause()}catch(e){}
+    const u=["https://cdn.jsdelivr.net/gh/jhon1466/StellaSoraData@main/02_Audios/Voces_Personajes/Japones/"+c+"_jp.wav","https://raw.githubusercontent.com/jhon1466/StellaSoraData/main/02_Audios/Voces_Personajes/Japones/"+c+"_jp.wav"];
+    let i=0;const a=VA=new Audio();a.onerror=()=>{if(i<u.length){a.src=u[i++];a.play().catch(()=>{})}};a.src=u[i++];a.play().catch(()=>{});
+    try{if(mdl&&mdl.internalModel.motionManager.definitions["v_"+b.dataset.v])mdl.motion("v_"+b.dataset.v)}catch(e){}
+  });
+}
 async function pon(p,msg){
-  const my=++tok;msg("Cargando modelo…");
+  const my=++tok;msg("Cargando modelo…");VZ_SYNC=await vozIdx();
   const L=PIXI.live2d.Live2DModel;let m=null;
   const j=/^jhon:([^/]+)\/([^/]+)\/(\d+)$/.exec(p);
   if(j){ /* modelos del repo de Jhon: no traen un .model3.json válido, se arma aquí */
     const tx=[];for(let i=0;i<+j[3];i++)tx.push("texture_0"+i+".png");
-    for(const f of JHON){try{m=await L.from({url:f+j[1]+"/x.model3.json",Version:3,FileReferences:{Moc:"model.moc3",Textures:tx,Physics:j[2]+".physics3",Motions:{Idle:[{File:"idle.motion3"}]}},Groups:[]});break}catch(e){}}
+    for(const f of JHON){try{m=await L.from({url:f+j[1]+"/x.model3.json",Version:3,FileReferences:{Moc:"model.moc3",Textures:tx,Physics:j[2]+".physics3",Motions:mots(j[1])},Groups:[]});break}catch(e){}}
   }else for(const f of FUENTES){try{m=await L.from(f+p+".model3.json");break}catch(e){}}
   if(my!==tok||!app){try{m&&m.destroy()}catch(e){}return}
   if(!m){msg("No se pudo cargar este modelo. Prueba con otra versión o revisa tu conexión.");return}
   limpia();mdl=m;app.stage.addChild(m);m.anchor.set(.5,.5);reset();
-  msg("Pellizca o usa ＋ / － para acercar, arrastra para mover. Doble toque: restablecer.");
+  msg("Pellizca o usa ＋ / － para acercar, arrastra para mover. Doble toque: restablecer.");vocesBar(p);
 }
 /* crea el canvas y los botones dentro de stg; devuelve true si pudo */
 function arranca(stg,conFs){
