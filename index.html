@@ -484,6 +484,45 @@ button,input,select,textarea{font-family:inherit}
 /* v1.0: pulido */
 html.claro #aj-root .aj-r.on .aj-sw:after{background:#111}
 </style>
+<style id="pulido2">
+/* ===== Rediseño v1.1: tarjetas y botones ===== */
+/* tarjetas con imagen (menú, historia, galería, arte) */
+.hm{border-radius:18px;border:1.5px solid rgba(255,255,255,.5);box-shadow:0 8px 20px rgba(0,0,0,.42),inset 0 1px 0 rgba(255,255,255,.3)}
+.hm-sh{background:linear-gradient(to top,rgba(8,6,24,.78) 0%,rgba(8,6,24,.18) 45%,rgba(255,255,255,0) 70%,rgba(255,255,255,.08) 100%)}
+.hm b{font-weight:800;letter-spacing:.01em;left:12px;top:10px}
+.hm .ic{width:38px;height:38px;padding:7px;box-sizing:border-box;border-radius:50%;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);right:9px;bottom:9px;stroke-width:1.8;filter:none}
+.hm-big .hm-t{font-size:1.3rem;letter-spacing:.03em;bottom:16px}
+.hm-big .hm-t small{display:inline-block;margin-top:6px;padding:3px 12px;border-radius:999px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.3);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);font-size:.75rem}
+.hm-panel{border-radius:20px;background:linear-gradient(160deg,rgba(123,108,255,.14),rgba(20,16,44,.6));border:1px solid rgba(232,238,255,.18);padding:8px}
+.hm-grid{gap:8px}
+.hm-ban{background:linear-gradient(145deg,#2a3f8f,#3b6fd0 60%,#6a5cff)}
+.hm-thumbs img{border-radius:10px;border:1.5px solid rgba(255,255,255,.85);box-shadow:0 3px 8px rgba(0,0,0,.35)}
+.hm-badge{box-shadow:0 2px 8px rgba(0,0,0,.25)}
+#install-btn{display:flex;align-items:center;justify-content:center;gap:8px;background:linear-gradient(145deg,rgba(255,255,255,.12),rgba(255,255,255,.03))!important;border:1px solid rgba(255,255,255,.22)!important;color:#ece8ff!important;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
+/* subtarjetas (galería, arte, historia) */
+.hm-sub,.hm-ch,.hm-ev{border-radius:20px}
+.hm-subgrid{gap:12px}
+.hm-cn{left:14px;right:12px;bottom:12px}
+.hm-cn i{display:inline-block;padding:2px 10px;margin-bottom:6px;border-radius:999px;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.3);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);font-size:.7rem;font-weight:700;text-shadow:none}
+.hm-cn strong{font-size:1.12rem;font-weight:800;letter-spacing:.01em}
+.hm-sub.c-pur{border-color:rgba(206,172,255,.75)}.hm-sub.c-pink{border-color:rgba(255,150,195,.75)}.hm-sub.c-teal{border-color:rgba(140,230,210,.75)}.hm-sub.c-gold{border-color:rgba(255,215,130,.75)}.hm-sub.c-lav{border-color:rgba(180,182,255,.75)}
+/* historia: conserva las cintas de color, solo esquinas y bordes */
+#s-story .hm{border-radius:20px;border:2px solid rgba(255,255,255,.7)}
+#s-story .hm-cn i{display:block;padding:3px 8px 3px 14px;-webkit-backdrop-filter:none;backdrop-filter:none;border:0;background:rgba(255,255,255,.94)}
+/* botón de marcadores */
+.bkbtn{justify-content:flex-start;gap:14px;padding:14px 16px;border:1px solid rgba(255,255,255,.28);border-radius:20px;background:linear-gradient(120deg,#5b4de0,#8a6cf0 60%,#b77be6);font-size:1.05rem;font-weight:800;box-shadow:0 6px 18px rgba(91,77,224,.35)}
+.bkbtn>span:first-child{display:flex;align-items:center;justify-content:center;width:42px;height:42px;flex:none;border-radius:14px;background:rgba(255,255,255,.2);border:1px solid rgba(255,255,255,.35);font-size:1.3rem}
+.bkbtn::after{content:"›";margin-left:auto;display:flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;background:rgba(255,255,255,.2);font-size:1.3rem;line-height:1}
+/* detalle de capítulo / evento */
+.chap-img{border-radius:20px;border:1.5px solid rgba(255,255,255,.35);box-shadow:0 10px 26px rgba(0,0,0,.5)}
+.acc3{display:flex;flex-direction:column;gap:10px;margin-top:6px}
+.acc3 .btn{margin:0;display:flex;align-items:center;justify-content:center;gap:10px}
+.acc3 .btn svg{width:20px;height:20px;flex:none}
+.acc3 .btn.lee{padding:16px 18px;font-size:1.05rem;background:linear-gradient(120deg,#6d5cff,#9a62e8 55%,#e06aa8);border:1px solid rgba(255,255,255,.25);box-shadow:0 8px 22px rgba(130,90,240,.45),inset 0 1px 0 rgba(255,255,255,.3)}
+.acc3 .btn.res{background:linear-gradient(145deg,rgba(255,255,255,.14),rgba(255,255,255,.04));border:1px solid rgba(255,255,255,.24);color:#f0edff;box-shadow:none;-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
+.acc3 .btn.out{padding:11px 16px;font-size:.9rem}
+html.claro .acc3 .btn.res{color:#2b2550;background:rgba(123,108,255,.1)}
+</style>
 </head>
 <body class="home">
 <div id="splash" onclick="this.classList.add('out')"><b>Stella Sora</b><span></span><div class="vw"><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u></div><i>VITA</i></div>
@@ -832,11 +871,14 @@ const LECTOR={"nt:1":"STsp_01_01","nt:2":"STsp_02_01","nt:3":"STsp_03_01","nt:4"
 (window.__meta||Promise.resolve()).then(m=>{if(m&&m.LECT)Object.assign(LECTOR,m.LECT)});
 function accionesHist(key,resHtml,wikiUrl,wikiTxt){
   const L=LECTOR[key]||LECTOR[key.replace(/^nt:0/,"nt:")];
+  const IC={lee:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>',
+    res:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 5.5A1.5 1.5 0 0 1 3.5 4H9a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H3.5A1.5 1.5 0 0 1 2 16.5z"/><path d="M22 5.5A1.5 1.5 0 0 0 20.5 4H15a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h6.5a1.5 1.5 0 0 0 1.5-1.5z"/></svg>',
+    web:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6"/><path d="M20 4 11 13"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>'};
   return `<div class="acc3">
-    <button type="button" class="btn" onclick="var p=document.getElementById('acc-res');p.hidden=!p.hidden;this.textContent=p.hidden?'📖 Ver resumen':'📖 Ocultar resumen'">📖 Ver resumen</button>
-    ${L?`<button type="button" class="btn" onclick="abrirLector('${L}')">▶ Leer en el lector</button>`
-       :`<button type="button" class="btn out" disabled style="opacity:.55">▶ Lector (próximamente)</button>`}
-    <a class="btn out" href="${wikiUrl}" target="_blank" rel="noopener">${wikiTxt}</a>
+    ${L?`<button type="button" class="btn lee" onclick="abrirLector('${L}')">${IC.lee}Leer en el lector</button>`
+       :`<button type="button" class="btn out" disabled style="opacity:.55">${IC.lee}Lector (próximamente)</button>`}
+    <button type="button" class="btn res" onclick="var p=document.getElementById('acc-res');p.hidden=!p.hidden;this.lastChild.textContent=p.hidden?'Ver resumen':'Ocultar resumen'">${IC.res}<span>Ver resumen</span></button>
+    <a class="btn out" href="${wikiUrl}" target="_blank" rel="noopener">${IC.web}${String(wikiTxt).replace(/^🌐\s*/,"")}</a>
   </div>
   <div id="acc-res" hidden>${resHtml}</div>`;
 }

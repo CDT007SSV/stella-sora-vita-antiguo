@@ -119,19 +119,19 @@ const css=`#rd{touch-action:manipulation;position:fixed;inset:0;z-index:99999;ba
 @keyframes rdBl{50%{opacity:.25}}
 #rd .rd-map{width:100%;height:100%;display:flex;flex-direction:column;text-align:left}
 #rd .rd-mt{display:flex;align-items:center;justify-content:space-between;gap:calc(var(--u)*3);padding-bottom:calc(var(--u)*1.5)}
-#rd .rd-mt h2{margin:0;font-size:calc(var(--u)*4);line-height:1.2}
-#rd .rd-cont{margin:0 0 calc(var(--u)*1.5);align-self:flex-start}
-#rd .rd-ms{flex:1;overflow:auto;position:relative;border-radius:calc(var(--u)*2);background:linear-gradient(180deg,#14112f,#2a2260);border:1px solid #2f2a52}
+#rd .rd-mt h2{margin:0;font-size:calc(var(--u)*4);line-height:1.2}#rd .rd-mt .rd-b{background:linear-gradient(145deg,rgba(255,255,255,.16),rgba(255,255,255,.04))!important;border:1px solid rgba(255,255,255,.25)!important;box-shadow:none!important;padding:calc(var(--u)*1.4) calc(var(--u)*6)!important}
+#rd .rd-cont{margin:0 0 calc(var(--u)*1.8);align-self:flex-start;display:inline-flex;align-items:center;gap:calc(var(--u)*1.5);background:linear-gradient(120deg,#6d5cff,#9a62e8 55%,#e06aa8)!important;box-shadow:0 6px 18px rgba(130,90,240,.45)!important}#rd .rd-cont:before{content:"";width:0;height:0;border-left:calc(var(--u)*2.4) solid #fff;border-top:calc(var(--u)*1.5) solid transparent;border-bottom:calc(var(--u)*1.5) solid transparent}
+#rd .rd-ms{flex:1;overflow:auto;position:relative;border-radius:calc(var(--u)*3);background:radial-gradient(1px 1px at 12% 20%,rgba(255,255,255,.5),transparent 60%),radial-gradient(1px 1px at 70% 15%,rgba(255,255,255,.4),transparent 60%),radial-gradient(1.5px 1.5px at 40% 80%,rgba(190,180,255,.45),transparent 60%),radial-gradient(1px 1px at 88% 66%,rgba(255,255,255,.35),transparent 60%),radial-gradient(120% 90% at 50% 0%,#2c2470 0%,#141030 70%);border:1px solid rgba(255,255,255,.14);box-shadow:inset 0 1px 0 rgba(255,255,255,.08)}
 #rd .rd-mg{position:relative;display:flex;align-items:center;gap:calc(var(--u)*7);padding:calc(var(--u)*4) calc(var(--u)*4);min-height:100%;width:max-content;box-sizing:border-box}
 #rd .rd-mc{display:flex;flex-direction:column;gap:calc(var(--u)*3);justify-content:center;position:relative;z-index:1}
 #rd .rd-ml{position:absolute;left:0;top:0;pointer-events:none;z-index:0}
-#rd .rd-ml path{fill:none;stroke:#7B6CFF;stroke-width:2.5}
-#rd .rd-nd{display:flex;flex-direction:column;gap:2px;width:calc(var(--u)*27);min-height:calc(var(--u)*10);padding:calc(var(--u)*1.2) calc(var(--u)*1.8);border:2px solid transparent;border-radius:calc(var(--u)*1);background:#201b4a;color:#fff;border-color:rgba(123,108,255,.4);font:inherit;text-align:left;cursor:pointer;box-sizing:border-box}
+#rd .rd-ml path{fill:none;stroke:#9d8cff;stroke-width:3;stroke-linecap:round;filter:drop-shadow(0 0 4px rgba(157,140,255,.7))}
+#rd .rd-nd{display:flex;flex-direction:column;gap:2px;width:calc(var(--u)*27);min-height:calc(var(--u)*10);padding:calc(var(--u)*1.2) calc(var(--u)*1.8);border:2px solid transparent;border-radius:calc(var(--u)*2.2);background:linear-gradient(135deg,#2a2366,#1c1748);color:#fff;border-color:rgba(160,145,255,.45);box-shadow:0 4px 12px rgba(0,0,0,.35),inset 0 1px 0 rgba(255,255,255,.12);font:inherit;text-align:left;cursor:pointer;box-sizing:border-box}
 #rd .rd-nd b{font-size:calc(var(--u)*3.8);line-height:1.1}
 #rd .rd-nd span{font-size:calc(var(--u)*2.6);line-height:1.2;font-weight:700}
-#rd .rd-nd.leido{background:#2f2872}
-#rd .rd-nd.act,#rd .rd-nd.cur{border-color:#13d6d6;box-shadow:0 0 0 2px rgba(19,214,214,.35)}
-#rd .rd-nd.fin{background:#4a2f9a;color:#fff;min-height:calc(var(--u)*7)}
+#rd .rd-nd.leido{background:linear-gradient(135deg,#3a2f8f,#2a2370)}#rd .rd-nd.leido b{color:#9ff0e6}
+#rd .rd-nd.act,#rd .rd-nd.cur{border-color:#3fe6e0;box-shadow:0 0 0 3px rgba(63,230,224,.25),0 0 18px rgba(63,230,224,.45)}
+#rd .rd-nd.fin{background:linear-gradient(135deg,#b0569a,#6d3fc0);color:#fff;min-height:calc(var(--u)*7)}
 #rd .rd-nd.bt{background:#13c9cf;color:#04282b;cursor:default;opacity:.85}
 #rd .rd-card{position:absolute;inset:0;z-index:6;background:rgba(8,6,22,.985);display:none;flex-direction:column;justify-content:center;align-items:center;padding:calc(var(--u)*4) calc(var(--u)*10);text-align:center;color:#fff;overflow:auto}
 #rd .rd-card.on{display:flex}
