@@ -1,0 +1,136 @@
+# Evento · Para ti, mi persona más querida · 5 · ¿Fueron los monstruos?
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1206 | Donna
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_161 | Leafia
+N:avg3_167 | Chica
+N:avg3_211 | Líder de los cazatesoros
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | ¿Fueron los monstruos?
+0003 [Intro] | Gracias a Leafia, todos se dan cuenta de que el verdadero ladrón es un monstruo llamado «Búho Vendaval», no la cazatesoros. Decidida a arreglar las cosas, Donna se equipa y jura recuperar hasta la última carta.
+0004 [Freesia] | ¡Haaah!
+0005 [Treasure Hunter Leader] | ¡Oye, espera! ¡Alto, alto! ¡¿Estás loca?! ¡Un golpe de esa hacha y me mato!
+0006 [???] | ¿Oh? Todo un espectáculo. ¿Ese de ahí es Lanto?
+0007 [Tú] | ¿Hm? Conozco ese uniforme...
+0008 [Freesia] | Entrega la carta que llevas en la bolsa. ¡Ahora!
+0009 [Treasure Hunter Leader] | ¡Maldición...! ¡El mapa del tesoro que hay adentro es mío! ¡No me lo van a quitar!
+0010 [???] | Sabes que eso es solo un engaño, ¿verdad?
+0011 [Treasure Hunter Leader] | ¿Qué?
+0012 [Leafia] | Hola a todos. Soy Leafia, de la Asociación de Trekkers. Soy topógrafa de los Despertamares, pero también me encargo de la exploración en general.
+0013 [Tú] | Vi el uniforme. Supuse que la Asociación de Trekkers había enviado a alguien.
+0014 [Leafia] | Exacto. Y hablando de eso, he oído mucho sobre ti y tu equipo, Tirano.
+0015 [Treasure Hunter Leader] | ¡Al diablo con los cuentos! ¡Vuelve a la parte del «engaño»! ¡¿A qué te refieres?!
+0016 [Leafia] | La Asociación de Trekkers investigó esos rumores del «mapa del tesoro» hace unos dos años. Nunca encontramos una fuente creíble ni ninguna prueba, así que lo descartamos como un engaño.
+0017 [Treasure Hunter Leader] | ¡¿Eh?! ¡Entonces explíquenme por qué el Puerto Bellin está cubierto de estas cartas de aspecto antiguo! ¡Tiene que ser porque otros Trekkers también se pelean por los mapas que llevan adentro!
+0018 [Noya] | Cartas... ¿Puerto Bellin...?==W== Espera, ¿creen que el monstruo roba cartas las tiró?
+0019 [Iris] | Viéndolas de cerca... Se ven desgastadas, quizá porque están rasgadas y mordidas, manchadas por la lluvia y salpicaduras de lodo...
+0020 [Treasure Hunter Leader] | ¡¿Qué?! ¡¿O sea que nos hemos deslomado recogiendo basura que escupió un monstruo?! ¡¿Y yo cuidando la pila de otros Trekkers con mi vida?!
+0021 [Amber] | ¿«Recogiendo»? ¿Quieres decir que no rompiste ventanas para robar una?
+0022 [Treasure Hunter Leader] | ¡¿Romper ventanas?! ¡Para nada! ¡Las encontramos tiradas por toda la ciudad, lo juro! ¡Además, si fuéramos a dar un golpe, iríamos por algo mucho más legendario que unas cartas!
+0023 [Treasure Hunter Leader] | Hablando de eso... ¿Por qué están tan obsesionados con una sola carta? Pensé que eran cazadores rivales que querían ganarnos al tesoro...
+0024 [Donna] | Somos de Post Haste. Estamos investigando una carta entregada que fue robada en un allanamiento...
+0025 [Freesia] | Si no son los culpables... Entonces por favor acepten mis más sinceras disculpas por mi comportamiento.
+0026 [Treasure Hunter Leader] | ¡¿Entonces nos golpearon por absolutamente nada?!
+0027 [Narración] | Después, con la esperanza de ganar dinero rápido, los cazatesoros aceptan un encargo de Leafia para entregar como es debido las cartas que encontraron.
+0028 [Narración] | Sin embargo, aun después de revisar su bolsa, la carta dirigida a Howard no aparece por ningún lado.
+0029 [Teresa] | ¡¡Ya llegamooos!!==W== ¡Guau! ¡Miren la mesa! ¡Nos van a enterrar vivos las cartas! Hoy no hemos entregado nada de correo…
+0030 [Donna] | Ya despejé ese lote de allá. Las entregas son locales... Si nos apuramos, todavía llegamos.
+0031 [Donna] | ¡Con todos echando el resto, acabaremos con esta pila antes del anochecer! Mientras ustedes hacen sus rutas, yo me quedo aquí, sigo clasificando... ¡y empiezo la cena! Sé que fue un día largo, ¡pero necesito la ayuda de todos en esto!
+0032 [Noya] | ¡Déjamelo a mí! ¡Puedo seguir todo el día!
+0033 [Iris] | ¿Pero no queda todavía muchísimo por clasificar? ¿De verdad Donna puede con todo eso ella sola...?
+0034 [Tú] | Yo me quedo a ayudarte a clasificar, Donna.
+0035 [Donna] | Gracias, Jefe. ¡Muy bien, equipo, pongámonos en marcha!
+0036 [Donna] | Suspiro...
+0037 [Tú] | ¿Sigues preocupada por esa carta?
+0038 [Donna] | Mn... Sí.==W== Perdón. No quería bajar el ánimo.
+0039 [Tú] | ¿Piensas seguir buscándola?
+0040 [Donna] | Suspiro... Ya vamos muy atrasados por el ataque del monstruo...==W== Como líder, cargar a todos con todavía más trabajo... Quizá solo estoy siendo terca…
+0041 [Donna] | El rastro se enfrió. Puede que hayamos perdido la carta del señor Howard para siempre… Y tenemos muchas otras entregas esperando...==W== Jefe, ¿cuál es la decisión correcta?
+0042 [Tú] | Mmm... Desde un punto de vista puramente práctico, deberíamos priorizar los trabajos que sabemos que sí podemos terminar.
+0043 [Donna] | ¿Verdad? Se supone que un líder toma la decisión racional... En el fondo lo sé...
+0044 [Tú] | Pero saber la lógica no hace que sea más fácil aceptarlo.
+0045 [Donna] | Jaja... Sí. Diga lo que me diga, no puedo soltarlo. Esa carta sigue ahí, intacta…
+0046 [Tú] | ¿Por qué te aferras tanto a esta carta, Donna? De verdad te está consumiendo.
+0047 [Donna] | ... Jaja. Has estado muy pendiente de mí últimamente, Jefe... Supongo que...==W== te debo la verdad.
+0048 [Donna] | Lo que pasa es que... a mí me salvó la vida una carta.
+0049 [Tú] | ¿Te salvó... una carta?
+0050 [Donna] | Mis padres murieron cuando yo era muy pequeña...==W== Después de eso, me fueron pasando de un pariente a otro.
+0051 [Donna] | No los culpo. Que aparezca una niña cualquiera rogando «¡Por favor, háganme parte de la familia!»...==W== Eso es una carga para cualquiera.
+0052 [Donna] | Incluso entonces lo entendí bastante rápido:==W== sin importar dónde me quedara, siempre sería la extraña.
+0053 [Donna] | Es que...==W== no quiero volver a estar sola nunca más.
+0054 [Tú] | ... Así que eso quería decir. Ha pasado por tanto...
+0055 [Donna] | Para evitar que me desecharan, observaba a todos constantemente, transformándome en lo que quisieran que fuera… Justo cuando empezaba a perder la noción de quién era en realidad...==W== me encontró. Una carta de mis padres.
+0056 [Tú] | ¿Eh...?
+0057 [Donna] | Jaja... A mí también me dio un buen susto. Resulta que la enviaron cuando todavía estaban vivos.
+0058 [Donna] | Pero nunca me llegó. Justo después de enviarla... murieron en un accidente. Y como yo andaba rebotando entre parientes, nunca se entregó en la dirección correcta.
+0059 [Tú] | Entonces... ¿cómo logró encontrarte al final?
+0060 [Donna] | Fue el mensajero. Se negó a rendirse en la búsqueda... durante años.
+0061 [Tú] | ¡¿Años?!
+0062 [Donna] | Increíble, ¿verdad? Le debo a ese mensajero... todo. Estoy aquí hoy solo porque esa carta me fue entregada.
+0063 [Donna] | Las páginas estaban llenas de su amor, de cariño: «Donna, te queremos».==W== Darme cuenta de que alguien me había querido profundamente... me salvó la vida.
+0064 [Tú] | Ya veo... Me alegra mucho que esa carta te haya encontrado.
+0065 [Donna] | Por eso... decidí volverme mensajera.
+0066 [Donna] | Quiero ayudar a la gente entregando sus sentimientos. Quizá yo también pueda salvar a alguien, igual que ese mensajero me salvó a mí.
+0067 [Tú] | Eso explica por qué te desespera tanto que el destinatario lea su carta.
+0068 [Donna] | Sí. Es trágico que los sentimientos se desvanezcan sin que nadie los escuche jamás. Y... no deseo que el destinatario tenga arrepentimientos.
+0069 [Donna] | Pero... al final, eso es solo una proyección mía. ¡Meter emociones personales en el trabajo está mal!==W== Soy la líder de Post Haste. Necesito tomar las decisiones que más le convengan al negocio...
+0070 [Tú] | A veces no hay nada de malo en eso. De hecho, podemos llamarlo tu «convicción».
+0071 [Donna] | ¿Convicción...?
+0072 [Tú] | Sí. Solo vale la pena seguir a un líder con convicción.
+0073 [Tú] | Es la brújula que marca tu dirección. Si esa brújula falla, todo el equipo se pierde.
+0074 [Tú] | En el fondo, siempre has sabido exactamente a dónde quieres ir, ¿no es así?
+0075 [Donna] | Pues...
+0076 [Tú] | Entonces deja de dudar. Levanta la frente y guía a tu equipo hacia esa meta. El primer deber de un líder es mostrar el camino, después de todo.
+0077 [Donna] | Mostrar el camino...==W== Tienes razón. Si sigo titubeando así, Freesia y Teresa se preocuparán todavía más.
+0078 [Tú] | Exacto. Ahora que tenemos un destino, veamos cómo llegar.
+0079 [Tú] | Tenemos que dar caza al monstruo roba cartas. Creo que esa es la clave para arreglar todo este lío.
+0080 [Donna] | ¿El monstruo roba cartas? ¡Espera! ¿Crees que un monstruo rompió la ventana y se la llevó de la mesa?
+0081 [Tú] | Es muy probable. Y mira, aunque el monstruo no tenga la carta del señor Howard, detenerlo puede aliviar el atraso en las entregas. Eso libera tu agenda para investigar como se debe, ¿no?
+0082 [Donna] | Ya veo... Eso tiene sentido. Despejaríamos el atraso de Post Haste, arreglaríamos el desastre logístico del Puerto Bellin... y posiblemente encontraríamos la carta para quedarme tranquila... Jeje.
+0083 [Donna] | Sí que haces honor a tu fama de Tirano, matando dos pájaros de un tiro. ¿Qué tan codicioso eres?
+0084 [Teresa] | ¡Lo escuché todo!
+0085 [Freesia] | Ahora que la decisión está tomada, ideemos juntos un plan para dar con esta bestia.
+0086 [Donna] | ¡¿Teresa?! ¡¿Y Freesia también?! ¿Cu... cuánto escucharon ustedes dos...?
+0087 [Teresa] | Mmm... ¿Más o menos desde lo de «meter emociones personales en el trabajo está mal»?
+0088 [Donna] | ¡Eso fue hace siglos...! ¡¿Por qué no dijeron nada cuando volvieron?!
+0089 [Freesia] | Mis disculpas. Parecías estar en una conversación seria con el Jefe… Pensamos que sería de mala educación interrumpir.
+0090 [Donna] | Ugh... ¿Me vieron preocupada? Me quiero morir de la vergüenza...
+0091 [Teresa] | ¡No hace falta! ¡Si ya comemos, vivimos y trabajamos juntas! ¡También deberíamos compartir nuestras preocupaciones!
+0092 [Freesia] | Así es. Teresa y yo queremos ser de ayuda para ti, Donna... Por favor, permítenos compartir la carga.
+0093 [Donna] | Teresa... Freesia...
+0094 [Noya] | ¡No se olviden de nosotros!
+0095 [Iris] | El Gremio de la Nueva Estrella puede encargarse de la clasificación y las entregas por ahora. ¡Ya nos hemos vuelto bastante eficientes, así que estén tranquilas! Ustedes, mensajeras, concéntrense en dar caza a ese monstruo.
+0096 [Amber] | Conocen el Puerto Bellin... Lo encontrarán más rápido.
+0097 [Tú] | ¡Parece que todos estamos de acuerdo! Entonces, líder de Post Haste, ¿cuál es la decisión?
+0098 [Donna] | Yo...
+0099 [Donna] | Vaya, vaya. Hacía tiempo que no me ponía este atuendo. Qué bueno que te he mantenido en perfecto estado... Domina.
+0100 [Donna] | ... No se trata de «lo que debería hacer», sino de «lo que quiero hacer». ¿Verdad? Sí que sabes cuál es el camino más corto al corazón de una chica, ¿no, Tirano?
+0101 [Donna] | Es hora de despedirme de la antigua Donna, la que siempre buscaba la «respuesta correcta» y hacía de «niña buena». Basta de dudas. Voy a seguir mi propio corazón.
+0102 [Donna] | ¡Porque ahora... tengo a las mejores y más fuertes compañeras del mundo!
+0103 [Donna] | ¡Tachán!
+0104 [Tú] | Buenos días, Donna...==W== ¡guau! ¡¿Qué es ese atuendo?!
+0105 [Amber] | ... Con estilo.
+0106 [Donna] | Si me quedara sentada en la oficina todo el día, no sería gran mensajera, ¿o sí?
+0107 [Donna] | Ahora que los monstruos bloquean las rutas del correo, ¡es hora de que esta mensajera demuestre de qué está hecha!
+0108 [Teresa] | ¡Guau, hacía siglos que no veía a Donna con este atuendo! ¡Qué genial!
+0109 [Freesia] | Donna... te ves adorable.
+0110 [Donna] | ¡Hmph! Monstruos fastidiosos... le han causado tantos problemas a todo el mundo. ¡Ahora sí me hicieron enojar!
+0111 [Donna] | Por la paz del Puerto Bellin y por el corazón de cada remitente: ¡que comience la «Operación: Encontrar las Cartas Perdidas»!
+0112 [Tú] | Me alegra ver a Donna tan encendida, pero...==W== ¿cómo se supone que vamos a encontrar al monstruo que roba las cartas, para empezar?

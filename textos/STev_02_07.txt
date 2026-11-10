@@ -1,0 +1,111 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 7 · The Magic of Friendship
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_150 | Laru
+N:avg3_1261 | Espíritu del Árbol Nevado
+N:avg3_999 | ???
+N:avg4_101 | Laru pequeña, versión radiante
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | La magia de la amistad
+0003 [Intro] | De niña, Laru pidió un amigo bajo un Árbol Nevado. Una bruja respondió a su plegaria, consoló su tristeza con palabras cálidas y luego se la llevó en una escoba, volando hacia lo desconocido.
+0004 [Laru] | Uf...
+0005 [Narración] | Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A2==
+0006 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0007 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0008 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0009 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0010 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0011 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0012 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0013 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0014 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0015 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0016 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0017 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0018 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0019 [Narración] | _NOT_IN_LOG_Laru todavía lo recuerda... Ese día, la nevada caía con fuerza.==A0.03==
+0020 [Narración] | Una figura diminuta caminó por la nieve profunda y se detuvo bajo el Árbol Nevado.
+0021 [Laru] | Si solo le pido un deseo a este árbol...
+0022 [Narración] | Murmuró mientras contemplaba la corteza áspera.
+0023 [Laru] | Mmm...
+0024 [Laru] | Manos juntas... ¡Ojos cerrados!
+0025 [Laru] | ¡Espíritu del Árbol Nevado, voy a pedirte un deseo! Por favor... ¡Por favor, dame un amigo con quien jugar!
+0026 [Narración] | Bajo el árbol cubierto de blanco, su vocecita temblaba de esperanza.
+0027 [Laru] | Por favor...==W== ¡Por favor, dame un amigo con quien jugar!
+0028 [Narración] | Una vez, dos...==W== Repitió el mismo deseo una y otra vez.
+0029 [Narración] | Mantuvo los ojos bien cerrados. No sabía cuántas veces lo había dicho.
+0030 [Narración] | De algún lugar cercano llegó una voz.
+0031 [Laru] | ¿Eh?
+0032 [Narración] | Laru abrió los ojos y se volvió hacia el sonido.
+0033 [???] | Hola~
+0034 [Narración] | Frente a ella estaba una mujer que nunca había visto.
+0035 [Laru] | ¡¿Quién eres?!
+0036 [Narración] | Sobresaltada, Laru volvió a brillar.
+0037 [???] | ¡Ay, caray! ¡Titilas como una pequeña esfera de cristal!==W== ¡Qué linda!
+0038 [Narración] | Herida por el comentario, Laru intentó salir corriendo de inmediato.
+0039 [???] | Espera—==W==no salgas corriendo en cuanto me ves. No doy miedo.
+0040 [Narración] | Una mano cálida pero firme se posó en su hombro.
+0041 [???] | Yo soy...==W== el Espíritu del Árbol Nevado. Y he escuchado tu deseo~
+0042 [Laru] | ¿Qué...?
+0043 [Laru] | ¡¿D-de verdad?!
+0044 [Snowish Tree Spirit] | Claro. Pero antes de cumplirlo,==W== necesito saber un poco más sobre ti.
+0045 [Snowish Tree Spirit] | ¿Puedes responder unas preguntas?
+0046 [Laru] | Está bien...
+0047 [Snowish Tree Spirit] | ¿Cómo te llamas?
+0048 [Laru] | Laru...
+0049 [Snowish Tree Spirit] | ¿Laru? ¡Ay, qué nombre tan lindo!
+0050 [Snowish Tree Spirit] | Dime, pequeña Laru, ¿te gustaría jugar con una hermana mayor amable, como yo?
+0051 [Laru] | ¿Eh...? No sé...
+0052 [Snowish Tree Spirit] | ¿Y de dónde vienes, pequeña Laru?
+0053 [Laru] | Del Distrito de Plata...
+0054 [Snowish Tree Spirit] | Qué bien. ¿Y por qué quieres un amigo?
+0055 [Laru] | Eh...
+0056 [Laru] | Porque se siente muy solo estar sola...
+0057 [Snowish Tree Spirit] | Pero eres una niña muy buena. ¿Cómo es que no tienes amigos?
+0058 [Laru] | Yo...==W== no puedo controlar mi poder...==W== Siempre acabo brillando sin darme cuenta...
+0059 [Laru] | Y los peces se asustan con la luz...==W== Así que nadie quiere que pesque con ellos...
+0060 [Snowish Tree Spirit] | Ya veo. ¿Todavía no se te da muy bien controlar la magia?
+0061 [Laru] | No...==W== Si pudiera, no estaría brillando así ahorita.
+0062 [Snowish Tree Spirit] | ¿Ah, sí? Yo no creo que sea así para nada~
+0063 [Laru] | Vas a decirme algo como que tengo talento para la magia, ¿verdad?
+0064 [Snowish Tree Spirit] | ¿Oh? ¿Supongo que alguien ya te lo dijo?
+0065 [Laru] | Los adultos siempre dicen cosas así. «Ay, Laru, eres una niña muy especial». Como sea... Todos mienten...
+0066 [Laru] | Si de verdad fuera especial,==W== ¡sería una niña genial! ¡Tendría muchos amigos!
+0067 [Snowish Tree Spirit] | ¡Yo también creo que tienes algo especial dentro de ti!
+0068 [Laru] | Por qué...==W== ¿Por qué eres igual que ellos? ¡No eres un Espíritu! Y aun así dijiste que cumplirías mi deseo...==W== ¡Mentirosa! ¡Mentirosa!
+0069 [Snowish Tree Spirit] | No miento, Laru. Voy a cumplir tu deseo.
+0070 [Laru] | ¡Mentirosa! ¡No puede ser verdad!
+0071 [Narración] | Al alterarse Laru, su cuerpo volvió a iluminarse.
+0072 [Laru] | ¿Ves?==W== ¡Estoy brillando otra vez! ¡Nadie va a ser mi amigo así!
+0073 [Snowish Tree Spirit] | Mmm...==W== ¿No quieres ser mi amiga, pequeña Laru?
+0074 [Laru] | ¿Eh?
+0075 [Snowish Tree Spirit] | ¿Crees que la razón por la que no puedes hacer amigos==W== ... es que no puedes controlar el resplandor?
+0076 [Laru] | Mmm...
+0077 [Snowish Tree Spirit] | ¿Porque tu luz espanta a los peces?
+0078 [Laru] | Sí.
+0079 [Snowish Tree Spirit] | Pero, ¿ves? A mí eso no me importa para nada.==W== Además, ¡creo que te ves súper linda cuando te iluminas~!
+0080 [Laru] | Eso es...==W== ¡otra mentira! Los adultos siempre mienten. ¡No quiero ser amiga de gente como tú!
+0081 [Snowish Tree Spirit] | Mmm~ Entiendo por qué piensas así.
+0082 [Laru] | Lo sabía...
+0083 [Snowish Tree Spirit] | Si no podemos jugar juntas, ¿qué clase de amiga sería?
+0084 [Laru] | ¿Eh? ¿Qué quieres decir...?
+0085 [Snowish Tree Spirit] | ¿Qué tal si vamos a jugar juntas? ¿Qué dices?
+0086 [Snowish Tree Spirit] | ¡No estoy mintiendo, y te lo voy a demostrar!
+0087 [Snowish Tree Spirit] | Si logro que me creas,==W== me llamarás tu amiga, ¿de acuerdo?
+0088 [Laru] | ... Está bien...==W== Voy.
+0089 [Snowish Tree Spirit] | ¡Genial! ¡Vamos, entonces~!
+0090 [Laru] | Eh...==W== ¿A dónde me llevas...?
+0091 [Snowish Tree Spirit] | Lo descubrirás—==W==¡pronto!
+0092 [Narración] | La joven bruja le guiñó un ojo y, con un movimiento ágil, sacó una escoba de quién sabe dónde.
+0093 [Snowish Tree Spirit] | Súbete~
+0094 [Laru] | ¿Es... una escoba?
+0095 [Snowish Tree Spirit] | ¡Sí, es una escoba! Y es comodísima, no te preocupes.
+0096 [Laru] | Eh...==W== Está bien...
+0097 [Snowish Tree Spirit] | ¡Muy bien! ¡Agárrate fuerte!==W== ¡Despegamos!
+0098 [Laru] | ¡Guau! ¡E-estamos volando!==W== ¡Esto es increíble!
+0099 [Narración] | La escoba salió disparada hacia arriba y las llevó por el cielo invernal.
+0100 [Narración] | Laru no tenía idea de a dónde se dirigían, pero algo cálido floreció silenciosamente en su pecho.

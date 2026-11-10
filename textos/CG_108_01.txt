@@ -1,0 +1,94 @@
+# Historia de Kasimira · 1 · A Lucky Day (Part 1)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blue Team Merc | Mercenario del Equipo Azul
+N:Calm Blue Team Merc | Mercenario sereno del Equipo Azul
+N:Cautious Red Team Merc | Mercenario cauteloso del Equipo Rojo
+N:Hotblood Blue Team Merc | Mercenario fogoso del Equipo Azul
+N:avg1_108 | Kasimira
+N:avg2_967 | Mercenaria del Gato Blanco
+N:avg2_968 | Mercenaria del Gato Blanco
+N:avg2_970 | Trekker de las Aves Errantes
+N:avg2_971 | Trekker de las Aves Errantes
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Un día de suerte (Parte 1)
+0003 [Intro] | ¿Perdió su amuleto de la suerte? ¡Es un desastre!
+0004 [Tú] | Bien, los señuelos de la Zona A funcionaron. Ya gastaron un montón de munición.
+0005 [Tú] | Las balas mágicas del enemigo, que ya eran limitadas, se agotaron por completo, así que la Zona A definitivamente está asegurada.
+0006 [Hotblood Blue Team Merc] | El segundo escuadrón acaba de enviar un reporte: tras atraer con éxito al Stellaroid, se retiraron al punto de encuentro según lo planeado y ahora se están reabasteciendo.
+0007 [Tú] | Ja, cayeron redonditos.
+0008 [Tú] | Con mi táctica de desgaste, al Equipo Rojo pronto se le acabará la munición. Durante la próxima media hora, solo necesitamos mantener la línea con superioridad de fuego.
+0009 [Hotblood Blue Team Merc] | ¡Waaaahhh! ¿Será posible que... por fin vayamos a vencer a la capitana, ==W==a «Kasimira la Invicta», aunque sea por esta vez?
+0010 [Calm Blue Team Merc] | Es cierto, si seguimos resistiendo así, la victoria es nuestra... ==W==Pero ¿no creen que las cosas van un poquito demasiado bien?
+0011 [Tú] | No importa qué tan brillante seas en combate, eso no compensa una falla estratégica. Hasta Kasimira es una bestia sin colmillos cuando se queda sin munición.
+0012 [Narración] | Hoy, a petición de Kasimira, me uní al Equipo Azul en el ejercicio de combate de la Compañía del Gato Blanco.
+0013 [Narración] | Dado el estilo de combate de Kasimira, diseñé esta «trampa de munición» para consumir sus municiones con obstáculos y señuelos, y luego mantener nuestra línea con un poder de fuego abrumador.
+0014 [Tú] | Según las reglas del ejercicio, al Equipo Rojo solo le quedan treinta minutos de tiempo de ataque. Mientras aguantemos hasta entonces...
+0015 [Calm Blue Team Merc] | Jefe, alguien acaba de salir del elevador. Es la capitana Kasimira y el Equipo Rojo.
+0016 [Kasimira] | ¡Jefe, se acabó esconderse! ¡Resolvamos esto aquí y ahora!
+0017 [Tú] | Ni hablar. Nos replegamos a la última línea de defensa, tal como lo planeamos.
+0018 [Blue Team Merc] | ¡Sí, Jefe!
+0019 [Cautious Red Team Merc] | Capitana, el Equipo Azul no deja de correr. ¡Persigámoslos y acabemos con ellos!
+0020 [Kasimira] | No te confíes. Mira al frente.
+0021 [Cautious Red Team Merc] | Tantos Stellaroids... ==W==¿Por qué todos nos bloquean el paso?
+0022 [Kasimira] | El Jefe nos trajo aquí a propósito.
+0023 [Cautious Red Team Merc] | ¿Y qué? ¡Los atravesaremos! Unos cuantos disparos y esos Stellaroids están acabados.
+0024 [Kasimira] | ¿Cuántas balas mágicas te quedan?
+0025 [Cautious Red Team Merc] | D-diez cartuchos... ==W==Ah, ya entiendo. ¡El Jefe quiere agotarnos la munición con estos Stellaroids! Oye, Capi, ¡¿esto no va contra las reglas?!
+0026 [Kasimira] | La victoria es la única regla en la guerra. Un enemigo de verdad no esperará a que estés listo para atacarte.
+0027 [Kasimira] | Hmph, interesante. Escuchen. Olviden ahorrar munición. ¡Derriben a esos Stellaroids con todo lo que tengan!
+0028 [Cautious Red Team Merc] | ¿Eh? Pero ¿no significaría eso que caemos de lleno en la trampa que ==SEX== nos tendió?
+0029 [Kasimira] | Hmph, eso depende de si esas trampas son lo bastante grandes para contenerme.
+0030 [Kasimira] | Creo que la suerte está de mi lado. ¡Fuego a discreción!
+0031 [Tú] | A juzgar por los disparos... ==W==Probablemente se quedaron sin munición.
+0032 [Tú] | Todos, tomen posición. ¡La victoria está al alcance!
+0033 [Kasimira] | Tienes razón. Ya puedo saborear nuestra victoria.
+0034 [Tú] | ¡Kasimira, ríndete! Lo admito, avanzas rápido. Pero ¿cuántas balas te quedan? ¿Cinco? ¿Tres?
+0035 [Kasimira] | Solo una, gracias a la buena suerte.
+0036 [Kasimira] | Pero ustedes cargan muchas, ¿no?
+0037 [Kasimira] | Entonces es más que suficiente. En cuanto apriete el gatillo, tendré docenas más.
+0038 [Tú] | ¡Rayos! ¡Quiere arrastrarnos al combate cuerpo a cuerpo!
+0039 [Kasimira] | En el campo de batalla, recoger las armas del enemigo es lo más natural.
+0040 [Tú] | ¡Maldición! ¡¿Así que planeabas sacarnos la munición desde el principio?!
+0041 [Kasimira] | No. Solo se me ocurrió al ver los Stellaroids.
+0042 [Kasimira] | De verdad eres un oponente duro. Si no me entrego por completo, no será un verdadero respeto.
+0043 [Calm Blue Team Merc] | Perdón, capitana.
+0044 [Tú] | Bien. Pasados diez pasos, el arma sigue ganando.
+0045 [Calm Blue Team Merc] | ¡Ugh! ¡Es un cartucho defectuoso!
+0046 [Tú] | ¡¿Por qué justo ahora...?!
+0047 [Tú] | Y-yo también me quedé sin... ==W==¡No puedo creerlo...!
+0048 [Kasimira] | Bien, todos. Hoy aprendimos algunas cosas, ¿verdad?
+0049 [Kasimira] | Invité a ==PLAYER_NAME== hoy para que vieran que el combate no es solo agallas y fuerza bruta. La estrategia también importa.
+0050 [Calm Blue Team Merc] | Sí... Perdimos, pero es la primera vez que llevamos a la capitana Kasimira tan lejos. Las tácticas y la forma de pensar del Jefe fueron muy efectivas.
+0051 [Hotblood Blue Team Merc] | Sí, lanzarse de cabeza no es todo en una pelea.
+0052 [Kasimira] | ¡Ejem, el valor en combate y saber cuándo cargar también son importantes! Pero lo que de verdad quiero decir es... ==W==¡Deben trabajar en acumular suerte, todos los días!
+0053 [Tú] | ¿Suerte?
+0054 [Calm Blue Team Merc] | ¡Ugh! ¡Es un cartucho defectuoso!
+0055 [Tú] | Cierto. Cuando Kasimira cargó contra mí al final, si esa bala no hubiera sido defectuosa, habría sido el Equipo Rojo el que perdiera.
+0056 [Tú] | Oigan, ¿se les comió la lengua el gato?
+0057 [Calm Blue Team Merc] | L-la capitana está por empezar otra vez...
+0058 [Hotblood Blue Team Merc] | Su sermón sobre la importancia de la suerte.
+0059 [Cautious Red Team Merc] | Puede seguir una hora entera.
+0060 [Kasimira] | Como hoy, mi oponente falló el único disparo crítico porque yo llevaba...
+0061 [Kasimira] | ¿Eh? ¿Dónde está? Qué raro... ==W==No está en mi bolsillo, ==W==ni tampoco en mi capa... ==W==¡Oh no, no no no no no!
+0062 [Tú] | ¿Pasó algo?
+0063 [Kasimira] | Ustedes... ==W==¿Cuántas monedas tiene cada uno encima ahora mismo?
+0064 [Calm Blue Team Merc] | Cuatro.
+0065 [Hotblood Blue Team Merc] | Trece.
+0066 [Cautious Red Team Merc] | Cero.
+0067 [Kasimira] | Todos son números de mala suerte.
+0068 [Tú] | A ver... ==W==Dos, cuatro, seis... ==W==Ocho. Tengo ocho.
+0069 [Kasimira] | ¡Bien, entonces tú, Jefe!
+0070 [Kasimira] | Sí. Te necesito porque tienes un número de la suerte.
+0071 [Tú] | ¡Oye! ¡Espera! ¡¿A dónde vamos?!
+0072 [Kasimira] | Bien, por aquí debería estar bien.
+0073 [Tú] | ¿No es solo un pedazo de pasto común? ¿Qué hacemos aquí?
+0074 [Kasimira] | Este es un encargo ... ==W==que solo tú puedes manejar. Pagaré el triple de la tarifa habitual por ejercicio de combate; no, considerando la dificultad, que sea diez veces.
+0075 [Tú] | ¿Eh...? ==W==¿Quieres que dirija diez escuadrones? ¿O ahora me estás entregando todo un ejército?
+0076 [Kasimira] | Quiero que me ayudes a encontrar... ==W==Un trébol de cuatro hojas.
+0077 [Tú] | Entendido. Un trébol de cuatro hojas, lo hago de inmediat... ==W==Espera, ¿qué? ¿Me pagas diez veces la tarifa habitual solo por encontrar un trébol de cuatro hojas?

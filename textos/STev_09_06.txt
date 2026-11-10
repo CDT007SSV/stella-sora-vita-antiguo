@@ -1,0 +1,109 @@
+# Evento · Una tormenta de arena y disparos · 6 · Raid: Traps of the Dark Nest
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Enthusiastic Troupe Member | Miembro entusiasta de la compañía
+N:Escaped Miner | Minero fugado
+N:Excited Troupe Member | Miembro emocionado de la compañía
+N:Fellow Troupe Member | Compañero de la compañía
+N:Loud Noise | Ruido fuerte
+N:Nervous Scorpion Mercenary | Mercenario nervioso de los Escorpiones del Desierto
+N:Panicked Scorpion Mercenary | Mercenario aterrado de los Escorpiones del Desierto
+N:Panicked Voice | Voz presa del pánico
+N:Sympathetic Troupe Member | Miembro comprensivo de la compañía
+N:Terrified Voice | Voz aterrorizada
+N:White Cat Troupe Members | Miembros de la Compañía del Gato Blanco
+N:avg1_108 | Kasimira
+N:avg1_114 | Chaton
+N:avg1_146 | Benito
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_1228 | Mercenario Gato Blanco
+N:avg3_1294 | Secuaz de los Escorpiones del Desierto
+N:avg3_1295 | Secuaz de los Escorpiones del Desierto
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_218 | Residente de Mirage
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Asalto: trampas del nido oscuro
+0003 [Intro] | El instinto de Kasimira le dice que es una emboscada. Pero con vidas en juego, la Compañía del Gato Blanco no piensa echarse para atrás. Trampa o no, ¡van a entrar!
+0004 [Benito] | ¿Ves? Te dije que tenía razón.
+0005 [Benito] | Deberíamos dejar que lo intente por su cuenta más seguido. No es como si metiera la pata siempre.
+0006 [Kasimira] | Tienes razón. Ha avanzado mucho.
+0007 [Kasimira] | Sé que soy demasiado sobreprotectora.==W== Pero a veces soltar no es fácil...
+0008 [Benito] | Además, debiste darle ese colgante tú misma en lugar de pedírmelo a mí.
+0009 [Benito] | Cuando la llamaste antes, ibas a dárselo, ¿verdad?
+0010 [Kasimira] | Sí... Pero conociendo lo terca que es, jamás lo aceptaría.
+0011 [Benito] | «No sabrás qué tan bueno es hasta que lo pruebes». ¿No es lo que siempre dice?
+0012 [Benito] | Ustedes dos se parecen más de lo que creen. Una no habla y la otra no escucha.
+0013 [Benito] | En vez de seguir estancadas así, deberías sentarte a hablar con ella de verdad.
+0014 [Kasimira] | Lo intentaré. Después de esta misión.
+0015 [Benito] | Me alegra oírlo.
+0016 [Chaton] | ¡Ña-ja-ja-ja! ¡La gran Chaton ha regresado triunfante!
+0017 [Benito] | ¡¿Tan rápido?!
+0018 [Chaton] | Je, je. ¿Qué esperabas de la portadora del poder oscuro? Un pequeño paseo y... ¡pum!, ¡premio mayor!
+0019 [Chaton] | ¡Todos, vengan! ¡Tienen que escuchar la historia de este tipo!
+0020 [Escaped Miner] | Compañía del Gato Blanco, por favor... ¡Tienen que salvarnos!
+0021 [Benito] | ¿Y este quién es?
+0022 [Chaton] | Lo rescaté de un grupo de secuaces de los Escorpiones del Desierto. Dijo que es un minero que escapó del campamento.
+0023 [Benito] | Espera, un momento. ¿Un minero fugado? ¿Y lo salvaste tú sola?
+0024 [Chaton] | ¡Claro! ¡Como si unos cuantos Escorpiones del Desierto de pacotilla pudieran detener a la gran Chaton!
+0025 [Kasimira] | Buen trabajo, Chaton. Pero tengo curiosidad... ¿Cómo logró escapar exactamente delante de sus narices?
+0026 [Escaped Miner] | B-Bueno... Hay un monstruo enorme merodeando por los túneles. Detuvo por completo la excavación.
+0027 [Escaped Miner] | ¡Pero a los Escorpiones no les importó! Nos obligaron a seguir cavando hasta que el monstruo se enfureció por completo...==W== Aproveché el caos para escabullirme.
+0028 [Kasimira] | ¿Un monstruo?
+0029 [Escaped Miner] | ¡Sí! Es enorme y tiene una fuerza aterradora. Parece que anida justo en los túneles centrales...
+0030 [Chaton] | ¡Oh! Hace rato escuchamos a su subcapitana hablar de un monstruo.
+0031 [Escaped Miner] | ¡Cierto!==W== ¡Y esa subcapitana acaba de irse a Philae con la mitad de sus matones!
+0032 [Escaped Miner] | ¡Casi no hay vigilancia ahora! ¡Si yo los guío, pueden salvar a mis amigos!
+0033 [Kasimira] | ¿Se fue a Philae...?
+0034 [Enthusiastic Troupe Member] | Sí, nosotros también oímos esa parte.
+0035 [Kasimira] | Con su vigilancia reducida... De verdad es la oportunidad perfecta.
+0036 [Escaped Miner] | ¡Lo es! Muchos de mis amigos siguen encerrados allá adentro. ¡Por favor, tienen que ayudarnos!
+0037 [Escaped Miner] | ¡Hoy los obligan a cavar justo al lado de ese monstruo! ¡Podrían morir en cualquier momento!
+0038 [Kasimira] | ¿Esos trabajadores son todos Trekkers?
+0039 [Escaped Miner] | Algunos son Trekkers a los que estafaron, pero el resto son gente del lugar que secuestraron de Mirage...
+0040 [Kasimira] | Entendido. Si liberamos a las víctimas y exponemos esta nueva veta de mineral, podremos unir a todo el pueblo contra los Escorpiones del Desierto.
+0041 [Escaped Miner] | ¡Exacto! Hay vidas en juego. ¡No podemos esperar!
+0042 [Kasimira] | Pero piénsalo... ¿Aparece un monstruo y su subcapitana se va, convenientemente, con la mitad de su gente?
+0043 [Kasimira] | Es demasiada coincidencia. Tiene que ser una trampa.
+0044 [Chaton] | ¡¿Y qué si es una trampa?! ¡No podemos dejarlos morir!
+0045 [Escaped Miner] | ¡Tiene razón! ¡Para los Escorpiones del Desierto somos completamente prescindibles! ¡Por favor, no les den la espalda!
+0046 [Excited Troupe Member] | ¡Sí! ¡Capitana, esos bastardos de los Escorpiones del Desierto son una basura!
+0047 [Excited Troupe Member] | Ya los aguantamos demasiado. ¡Hagámosles pagar!
+0048 [Sympathetic Troupe Member] | Además...==W== Si queremos que el pueblo se rebele contra los Escorpiones del Desierto, necesitamos una victoria que demuestre que es posible.
+0049 [Escaped Miner] | ¡Sí! ¡Si salvan a esa gente, todo el pueblo y los Trekkers lucharán a su lado! ¡Lo juro!
+0050 [Kasimira] | Pero...
+0051 [Chaton] | ¡Tranquila! ¡Con la gran Chaton al frente, su trampita no es nada!
+0052 [Kasimira] | Está bien...==W== Según la Regla Uno del Tercer Escuadrón: en toda decisión operativa importante, cada miembro tiene voto.
+0053 [Kasimira] | Prepárense todos. Vamos a la mina.
+0054 [White Cat Troupe Members] | ¡Sí!
+0055 [Panicked Scorpion Mercenary] | ¡Maldición! ¡Avisen a los demás! ¡Llegó la Compañía del Gato Blanco!
+0056 [Panicked Scorpion Mercenary] | ¡Aaargh!
+0057 [Chaton] | Justo como pensé. ¡Casi no hay guardias!
+0058 [Chaton] | ¡Ja! Cautivos de este abismo oscuro, ¡la gran Chaton ha llegado para liberarlos!
+0059 [Kasimira] | Incluso sin su subcapitana, esta defensa es demasiado ligera. Algo anda mal.
+0060 [Kasimira] | Chaton, más despacio. No sabemos qué nos espera más adentro.
+0061 [Chaton] | ¡Sí, sí, te escucho!
+0062 [Nervous Scorpion Mercenary] | ¡Por aquí! ¡Están por aquí!
+0063 [Nervous Scorpion Mercenary] | Eh...
+0064 [Chaton] | ¡Fórmense y caigan uno por uno! ¡No son rivales para mí! ¡Ña-jajaja!
+0065 [Escaped Miner] | ¡Ya casi! ¡Justo adelante!
+0066 [Escaped Miner] | Por esa cueva. ¡Ahí tienen a los Trekkers!
+0067 [Chaton] | ¡Jajaja! ¡Allá voy!
+0068 [Chaton] | ¡Guau! ¡¿Qué fue eso?!
+0069 [Fellow Troupe Member] | Esta mina se va a derrumbar, ¿verdad...?
+0070 [Loud Noise] | ¡ROOOAAR...!
+0071 [Escaped Miner] | ¡Agh... es ese monstruo!
+0072 [Escaped Miner] | ¡Corran! ¡Salgan de aquí!
+0073 [Kasimira] | ¡Esperen! ¡No se dispersen! ¡Vuelvan aquí!
+0074 [Escaped Miner] | ¡Se los dejo a ustedes! ¡Yo me largo!
+0075 [Panicked Voice] | ¡Alguien, ayuda!
+0076 [Terrified Voice] | ¡No, aléjate!
+0077 [Fellow Troupe Member] | ¡Capitana! ¡Los Trekkers cautivos y los habitantes del pueblo están justo ahí!
+0078 [Chaton] | Hmph. La verdadera prueba comienza ahora.
+0079 [Chaton] | ¡Déjenme este monstruo a mí, la gran Chaton!

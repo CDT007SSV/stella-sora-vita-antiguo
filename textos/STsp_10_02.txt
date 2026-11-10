@@ -1,0 +1,107 @@
+# Nova Times #10 · Un día de cosecha · 2 · A Day of Harvest (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Customer | Cliente ansioso
+N:Eager Loong Staff | Empleado Loong entusiasta
+N:Food Connoisseur | Conocedor de comida
+N:Friendly Loong Staff | Empleado Loong amable
+N:Regular Customer | Cliente habitual
+N:avg1_116 | Ridge
+N:avg1_117 | Jinglin
+N:avg3_139 | Trekker
+N:avg3_144 | Residente
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Un día de cosecha (Parte II)
+0003 [Intro] | Ridge entrega las frutas y verduras más frescas al Bistró Jing y tiene un intercambio singular con la joven gerente del local.
+0004 [Narración] | Ese día, Ridge paseaba por la calle arrastrando un carrito de mano repleto de frutas y verduras frescas.
+0005 [Ridge] | Uf... Uf... Cómo pesa... Esta vez sí lo cargué de más.
+0006 [Ridge] | Cada vez me repito que debo escoger solo las mejores... Pero no logro decidirme.
+0007 [Ridge] | Bueno, no hay remedio. Después de todo, yo cultivé todo esto y todo salió buenísimo~ Jeje.
+0008 [???] | Oh, por fin llegó. ¡Todos, vengan rápido!
+0009 [Ridge] | ¿¡Eh!? ¿¡Quiénes son ustedes!? ¿Vienen por mis verduras—
+0010 [Friendly Loong Staff] | ¡No, no! Somos del Bistró Jing. Ya nos conocemos, ¿recuerdas?
+0011 [Ridge] | Ah... Cierto.
+0012 [Eager Loong Staff] | Perfecto. Debes de haber tenido un viaje difícil. Te ayudamos a descargar.
+0013 [Ridge] | E-está bien. ¡Gracias!
+0014 [Friendly Loong Staff] | Se ven muy frescas. ¡Una vez más cumpliste!
+0015 [Friendly Loong Staff] | ¡Guau, de solo imaginarlas cocinadas y servidas en la mesa se me hace agua la boca!
+0016 [Ridge] | Bueno, la cosecha fue muy grande esta vez, traje un poco más de lo habitual... ¿Su cocina podrá usarlo todo?
+0017 [Friendly Loong Staff] | Ningún problema. ¡Entre más, mejor!
+0018 [Eager Loong Staff] | Llevaremos las verduras primero con el tío Qin. Por favor, ve los detalles con nuestra gerente.
+0019 [Anxious Customer] | ¿Qué número vamos? ¿Cuántas mesas hay antes que nosotros? ¡Esto está tardando una eternidad!
+0020 [Regular Customer] | Relájese y tome un poco de té. La buena comida lleva tiempo.
+0021 [Ridge] | Guau, cuánta gente...
+0022 [Ridge] | Bistró Jing... ¡Verdaderamente el restaurante más popular de todo Philae!
+0023 [Ridge] | Está muy lleno. Si no fuera por el trabajo, jamás me atrevería a venir sola a un lugar así.
+0024 [Jinglin] | ¡Perdón por la espera, todos—!
+0025 [Jinglin] | ¡Por favor, tomen un poco de té y descansen los pies!
+0026 [Food Connoisseur] | Té fresco y relajante con galletas crujientes... El Bistró Jing de verdad se esmera, hasta con las botanas de cortesía.
+0027 [Jinglin] | ¡Gracias por el cumplido!
+0028 [Jinglin] | Últimamente ha hecho un poco de calor, así que preparamos té fresco. Refresca y ayuda a abrir el apetito.
+0029 [Jinglin] | ¡Todos, disfruten a sus anchas!==W== Si quedan satisfechos, no olviden dejarnos una buena reseña, ¿sí?
+0030 [Ridge] | Así que ella es Jinglin, la gerente de este lugar...
+0031 [Ridge] | Se ve más joven que yo, pero tan confiable...
+0032 [Jinglin] | ¡Hola, Ridge! ¡Gracias por traer verduras otra vez!
+0033 [Jinglin] | Acabo de verlas en la cocina. De primera, como siempre.
+0034 [Jinglin] | Últimamente ha costado conseguir verduras frescas,==W== y traerlas de otras ciudades sale demasiado caro.
+0035 [Jinglin] | Qué bueno que te tenemos, Ridge.==W== Te hemos esperado muchísimo.
+0036 [Ridge] | ¿De verdad? En ese caso, quizá pueda ampliar un poco más el área de siembra...
+0037 [Jinglin] | Eso sería genial.==W== Si no podemos usarlo todo aquí,==W== ¡podemos presentarte a otros restaurantes!
+0038 [Jinglin] | —Ah, perdón, ¡me emocioné y me salí del tema!
+0039 [Jinglin] | Tengo lista tu paga. ¡Ven conmigo!
+0040 [Ridge] | Eh, bueno, como ya terminé mi trabajo aquí, me ... retiro ahora...?
+0041 [Jinglin] | Ya que estás aquí, ¿por qué no te quedas a comer? ¡Va por mi cuenta!
+0042 [Ridge] | Comer...
+0043 [Ridge] | He estado ocupada cosechando frutas y verduras estos días. Hoy ni siquiera desayuné,==W== así que sí tengo un poco de hambre.
+0044 [Ridge] | E-entonces acepto la invitación.
+0045 [Ridge] | Claro que no comeré gratis. Pagaré...==W== Eh, ¿gerente?
+0046 [Jinglin] | ¡Te prepararemos una comida especial con los ingredientes que trajiste!==W== ¡Estará lista pronto, espera un momento, por favor!
+0047 [Ridge] | Q-qué rápido... En un abrir y cerrar de ojos,==W== ya está en la cocina...
+0048 [Jinglin] | ¡Tan-tan!==W== Un plato de Tres Tiras Salteadas,==W== y un plato de Raíz de Loto Rellena de Arroz Glutinoso. Toma, a ver si es de tu gusto.
+0049 [Ridge] | ¿Tres ... tiras?
+0050 [Jinglin] | Así es. Los ingredientes son papa, zanahoria y pimiento verde en tiras. Esa es la versión vegetariana.==W== También hay una con carne y jamón en tiras.
+0051 [Jinglin] | Creo que este platillo resalta a la perfección la frescura natural de los ingredientes.==W== El tío Qin también ajustó el sazón específicamente para el gusto de la gente de aquí.
+0052 [Jinglin] | Anda, pruébalo.
+0053 [Ridge] | Voy... a comer...==W== ¡Guau...! ¡Qué delicioso!
+0054 [Jinglin] | Jeje, justo lo que imaginaba.
+0055 [Jinglin] | Como los ingredientes vienen de ti, Ridge, es imposible que sepa mal.
+0056 [Ridge] | (sniff) Estoy tan conmovida.==W== Es el mayor elogio que podría recibir...
+0057 [Ridge] | Al probar este platillo, siento de verdad que todo mi esfuerzo no fue en vano...
+0058 [Jinglin] | Jaja, tu reacción es un poco dramática.
+0059 [Ridge] | ¡No lo es!
+0060 [Ridge] | Normalmente solo como en la cafetería de la empresa, donde lo único que dan es comida procesada recalentada con Artefactos...==W== Es práctico, pero el sabor es de la noche al día.
+0061 [Ridge] | Si el Bistró Jing pudiera colaborar con Cosecha Unida... Quizá podríamos crear comida aún más deliciosa.
+0062 [Jinglin] | Mmm... Eso sería bastante difícil.
+0063 [Ridge] | ¿Eh? Suenas tan segura. ¿P-por qué?
+0064 [Jinglin] | Pues... a decir verdad, sí hablamos de una colaboración antes.==W== Pero nosotros nos enfocamos en platillos calientes y recién cocinados, mientras que Cosecha Unida solo quería usar nuestra marca para vender comida preparada.
+0065 [Jinglin] | Podríamos decir que fue un caso de «diferencia de filosofías empresariales». En fin, después de eso, todo el asunto quedó archivado.
+0066 [Ridge] | Y-ya veo...==W==La verdad, mi mayor deseo es simplemente que todos tengan suficiente para comer. Pero si además los ingredientes pudieran ser más frescos, supongo que de verdad haría a la gente aún más feliz...
+0067 [Jinglin] | Jaja, ¡estamos en la misma sintonía! Comer bien y beber bien, esa es la verdadera felicidad.
+0068 [Ridge] | Sin duda.
+0069 [Jinglin] | Los Loong tenemos un viejo dicho: «Para el pueblo, el alimento es lo primero».
+0070 [Jinglin] | Esa es la prioridad que ocupa la comida en nuestra cultura, y el trabajo de un chef es honrarla.
+0071 [Ridge] | Proteger la felicidad de todos honrando la comida...==W== Son un pueblo tan amable.
+0072 [Ridge] | En efecto, la antigua filosofía de negocios de Cosecha Unida ... no parece encajar del todo con la de su restaurante.
+0073 [Jinglin] | Qué lástima. Estoy segura de que las dos podríamos trabajar a la perfección.
+0074 [Ridge] | Ji, ji.
+0075 [Jinglin] | Eh... ¿Dije algo malo?
+0076 [Ridge] | No, no...==W== Te voy a contar un pequeño secreto.
+0077 [Ridge] | En realidad cultivé esas frutas y verduras violando las políticas de Cosecha Unida.
+0078 [Jinglin] | ¿¡Qué!?==W== Entonces, si la empresa se enterara, ¿no te meterías en problemas...?
+0079 [Ridge] | No pasa nada, no pasa nada. Fíjate que dije «cultivé», en pasado.
+0080 [Ridge] | Cosecha Unida está cambiando poco a poco.==W== Han empezado a respetar mi trabajo y también lo que hace la gente fuera de la empresa.
+0081 [Ridge] | Hace unos días, ¡alguien incluso se tomó la molestia de elogiar mis verduras diciendo que eran especialmente deliciosas!==W== Estaba feliz de la vida.
+0082 [Jinglin] | ¿En serio?==W== Si Cosecha Unida puede cambiar su forma de pensar, quizá algún día de verdad podamos trabajar juntas...
+0083 [Ridge] | ¡Sí! Sea quien sea, rico o pobre...==W== Mientras comas algo delicioso, serás feliz. Y cuando tienes hambre, te sientes fatal—
+0084 [Ridge] | Es una verdad tan simple. ¡Todos podrían entenderla!
+0085 [Ridge] | Igual que ahora mismo—
+0086 [Ridge] | ¡Mmm~!==W== Esta clase de felicidad, la de probar buena comida, ¡es absolutamente única!
+0087 [Jinglin] | Verte comer con tantas ganas también me da hambre. Voy a probar un bocado.==W== Ñam...==W== ¡La comida del tío Qin de verdad es la mejor!
+0088 [Jinglin] | No sé si el Bistró Jing y Cosecha Unida tendrán alguna vez la oportunidad de unir fuerzas...==W== Pero brindo por un futuro en el que todos puedan comer bien en Philae...==W== ¡Salud!

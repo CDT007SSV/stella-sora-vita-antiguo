@@ -1,0 +1,141 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 4B · Lo que trae la victoria
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg1_156 | Nazuna
+N:avg1_163 | Greyhorn
+N:avg3_100 | Sylar
+N:avg3_152 | Bastelina
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Lo que trae la victoria
+0003 [Intro] | Por fin capturan a Angie, mientras Greyhorn aprovecha para retirarse. Se reúnen en el Eureka y refutan las afirmaciones de Angie. Antes de que nadie pueda celebrar, Bastelina llega herida con noticias terribles...
+0004 [Lugar y hora] | 15:11, 18.º del mes de Nebula, Mirage, pozo de mina abandonado
+0005 [Greyhorn] | Señora, ¿está herida?
+0006 [Angie] | Estoy bien.
+0007 [Angie] | ¿Dónde estamos?
+0008 [Greyhorn] | El suelo se hundió. Parece un pozo de mina abandonado.
+0009 [Greyhorn] | Quédese detrás de mí. El Tirano debió preparar una emboscada aquí abajo.
+0010 [Fuyuka] | ¡H-hola! Eh... Espero que mi puñetazo no les haya dolido demasiado. ¡Me contuve todo lo que pude!
+0011 [Greyhorn] | ¿Estás con el Tirano?
+0012 [Fuyuka] | ¡E-el Maestro no es el Tirano! ¡Deje de inventar cosas!
+0013 [Angie] | Greyhorn, vete. Sal de aquí antes de que lleguen las demás fuerzas del Tirano. Te concedo el mando total del Comité de Salvación.
+0014 [Greyhorn] | Señora, ¿qué está diciendo? Ni siquiera soy miembro del Comité. ¿Cómo voy a tomar el mando?
+0015 [Angie] | Las órdenes de tu gran capitán eran seguir mis instrucciones, ¿no?
+0016 [Angie] | Entonces esta es mi orden. Eres la única que queda capaz de dirigir al Comité. Tienes que matar al Tirano.
+0017 [Chitose] | Nadie saldrá de aquí. Por la seguridad de mi ==SEX11==, este pozo será su tumba.
+0018 [Tú] | Ten cuidado, Chitose. Esa caballera sabe manejar la espada.
+0019 [Greyhorn] | Qué postura de battojutsu tan feroz. Los exploradores mencionaron a una Trekker vestida de negro que protege al Tirano. Debe ser ella.
+0020 [Chitose] | ¿Mi espada... resbaló sobre su armadura?
+0021 [Chitose] | La curvatura de esas placas... ¿Está forjada específicamente para desviar los cortes?
+0022 [Chitose] | Entonces debo apuntar a las juntas.
+0023 [Greyhorn] | Ni siquiera con un estoque puedo igualar su velocidad. A este paso... Tendré que arriesgarme.
+0024 [Narración] | Hyaaah...
+0025 [Chitose] | ¿Se metió en el golpe? ¡¿Recibió el tajo con la coraza para forzar un contraataque?!
+0026 [Chitose] | Pensar que existe semejante técnica.
+0027 [Greyhorn] | La armadura resistió, pero sigo sin poder acertarle. ¿Esto se va a convertir en una guerra de desgaste?
+0028 [Tú] | ¡Chitose, cuidado con Angie!
+0029 [Chitose] | Una simple bala. Si puedo verla, puedo cortarla.
+0030 [Tú] | ¡Chitose, retrocede! Tu espada no puede atravesar esa armadura. ¡Asegura a Angie!
+0031 [Tú] | ¡Fuyuka, encárgate de Greyhorn!
+0032 [Greyhorn] | Maldición, el Tirano vio a través de mi defensa. Fuyuka... ¿Es la Trekker tímida de hace rato?
+0033 [Greyhorn] | Hazte a un lado. No quiero lastimarte.
+0034 [Tú] | Fuyuka. Ataca.
+0035 [Fuyuka] | ¡L-lo siento muchísimo!
+0036 [Greyhorn] | ¡Agh!
+0037 [Greyhorn] | Mis costillas... Creo que están rotas. Las placas imperiales no sirven de nada contra golpes contundentes tan pesados.
+0038 [Angie] | ¡Greyhorn, corre! ¡Recuerda tus órdenes!
+0039 [Greyhorn] | Perdóneme, Lady Angie. Volveré por usted.
+0040 [Angie] | Agh...
+0041 [Chitose] | Mi ==SEX11==, le corté los tendones. Ya no puede empuñar el Cetro.
+0042 [Angie] | Je. Ganaste, Tirano.
+0043 [Angie] | No he oído ni un solo cañonazo. ¿También emboscaron a mi Comité en las dunas?
+0044 [Tú] | Hice caer un poco de «lluvia» sobre las dunas. Tu Tercera Compañía debe estar ocupada forcejeando en la arena ahora mismo.
+0045 [Tú] | Chitose, detén su sangrado. Nos vamos.
+0046 [Tú] | La batalla por Mirage terminó.
+0047 [Lugar y hora] | 16:00, 18.º del mes de Nebula, Mirage, bar Eureka
+0048 [Chitose] | Adentro. Y nada de movimientos bruscos.
+0049 [Noya] | ¡==PLAYER_NAME==! ¡De verdad la atrapaste! ¡Increíble!
+0050 [Tú] | Chitose y Fuyuka hicieron todo el trabajo pesado.
+0051 [Nazuna] | ¡Jeje, buen trabajo, Fuyuka! Así es nuestra capitana de Petal Bloom.
+0052 [Fuyuka] | ¡Ustedes dos también se esforzaron mucho, Nazuna, Nazuka! ¿El Maestro me dijo que enterraron su artillería en arena?
+0053 [Nazuna] | Uf, ni me hagas empezar.
+0054 [Nazuna] | Jefe, sabré un poco de magia Terra, ¡pero no soy Hazana! ¡La arena no es precisamente mi especialidad!
+0055 [Nazuka] | Pero lo hiciste bien, ¿no? Metiste suficiente arena en mi ciclón como para soltar una tormenta literal sobre su campamento. Quedaron completamente sepultados.
+0056 [Nazuna] | ¡Me estaba exigiendo al límite absoluto! No podía ser un estorbo para ti. Pero mover toda esa arena me dejó el cerebro frito.
+0057 [Nazuna] | No voy a lanzar ni un solo hechizo en tres días. ¡No, mejor que sea una semana!
+0058 [Nazuna] | Necesito un peluche... Un peluche grande, suave y que huela rico para recuperarme.
+0059 [Tú] | Gracias, Nazuna. Eres nuestra única maga Terra, así que tuve que apoyarme en ti. Te compraré un peluche de tamaño real cuando salgamos de Mirage.
+0060 [Nazuna] | ¿Lo prometes?
+0061 [Tú] | Lo prometo.
+0062 [Nazuna] | ¡Sí! ¡Gracias, Jefe!
+0063 [Minova] | Qué tal, Jefe. Hace rato que no nos veíamos.
+0064 [Tú] | Qué gusto verte, Minova. ¿Cómo están los chicos del Clan Viento de Ceniza?
+0065 [Minova] | De maravilla, gracias a ti.
+0066 [Minova] | Boss Accord tiene mucho peso ahora. Con mi nombre oficialmente en la nómina, las pandillas callejeras no se atreven a meterse con nosotros.
+0067 [Minova] | Algunos de los mayores hasta van a presentar el examen de admisión a la Academia Platino el próximo año.
+0068 [Tú] | Eso es increíble.
+0069 [Tú] | Allie se va a poner feliz.
+0070 [Minova] | Por cierto, qué decisión táctica tan buena. Les caímos justo cuando estaban preparando el cañón. No alcanzaron a darle la vuelta a tiempo.
+0071 [Minova] | Aunque esa capitana, Gunhild, era terca como una mula. La golpeé hasta que ya ni podía ponerse de pie, y aun así seguía intentando pegarme.
+0072 [Minova] | Tuve que meterle mi bate por el cañón y se me partió. Le va a tomar medio día sacarlo.
+0073 [Tú] | ¿Se te partió? ¿Entonces qué traes en la mano?
+0074 [Minova] | Jaja, vamos, Jefe. ¿Quién lleva un solo bate a una pelea callejera?
+0075 [Minova] | En fin. Esta mujer de las manos destrozadas... Es Angie, ¿verdad?
+0076 [Angie] | Minova, del Clan Viento de Ceniza... Je. Hasta tienes a los pilluelos del Distrito de las Cenizas viajando desde tan lejos por ti, Tirano.
+0077 [Angie] | ¿A cuántas personas has embaucado? ¿Cuántas almas has atado?
+0078 [Minova] | ¿Eh? ¿Almas atadas?
+0079 [Minova] | Pensé que una pez gorda como tú tendría algo profundo que decir después de que la atraparan.
+0080 [Minova] | Resulta que no dices más que tonterías.
+0081 [Minova] | No vinimos corriendo hasta aquí por un control de almas. Vinimos porque el Jefe de verdad nos cuidó.
+0082 [Angie] | Eso fue simplemente... un movimiento calculado. ==SEX1== necesitaba comprar su lealtad.
+0083 [Minova] | ¿Cómo se llama otra vez tu grupito? ¿El Comité de Salvación?
+0084 [Minova] | Lindo nombre. Pero déjame preguntarte:==W== cuando Feagin hacía de las suyas en el Distrito de las Cenizas, golpeando niños y explotándolos en talleres, ¿dónde estabas tú?
+0085 [Minova] | Cuando ese Stellaroid gigantesco escapó del Monolito y las rocas del Canal aplastaron incontables casas, ¿dónde estabas entonces?
+0086 [Minova] | Si dices que el Jefe solo estaba comprando lealtad, ¿por qué no te adelantaste y nos compraste tú primero?
+0087 [Angie] | El Comité de Salvación tiene recursos limitados. Debemos priorizar lo esencial para salvar el mundo.
+0088 [Minova] | Puras mentiras. Ignoran el sufrimiento que tienen frente a sus narices. Ni siquiera mueven un dedo cuando es fácil.
+0089 [Minova] | ¿Y ahora se supone que debemos creer que andan salvando el mundo? ¡Solo un tonto se tragaría eso!
+0090 [Angie] | ¡Tú... tú no entiendes nada!
+0091 [Minova] | ¡No necesito entender tu lógica retorcida!
+0092 [Minova] | ¿Crees que matar al Jefe va a salvar el mundo?
+0093 [Minova] | ¡Yo digo que meterte una bala en el cráneo es lo que de verdad salvará al mundo!
+0094 [Angie] | Entonces aprieta el gatillo.
+0095 [1] | Minova, baja el arma.
+0096 [Tú] | No estamos aquí para ser verdugos. La batalla terminó. Solo la retendremos hasta que lleguen Firenze y los Árbitros del Ocaso para juzgar al Comité.
+0097 [Angie] | Je... Jajaja. De verdad eres ingenuo, Tirano.
+0098 [Angie] | ¿En serio creíste que capturarme pondría fin a esto?
+0099 [Angie] | Tu emboscada en el pozo de la mina me sorprendió. Pero también demostró algo.
+0100 [Angie] | Anticipar mi artillería es una cosa. Pero usar el pozo de la mina para tender una trampa... Esa táctica solo existía en mi mente. Y aun así, la conocías.
+0101 [Angie] | En ese momento, todo cobró sentido.
+0102 [Tú] | ¿Adónde quieres llegar, Angie?
+0103 [Angie] | Dime, Tirano. ¿Puedes ver el futuro? ¿O...==W== acaso regresaste de él?
+0104 [Tú] | ¿Qué?
+0105 [Angie] | Esa expresión lo dice todo. En el futuro que viste, debí haber ganado yo. No tenías ninguna respuesta para mi última carta.
+0106 [Angie] | Te mataré, y salvaré este mundo.
+0107 [Fuyuka] | Maestro, ¿qué... de qué está hablando? ¿Se volvió loca?
+0108 [Noya] | Solo está haciendo un berrinche porque le ganamos.
+0109 [Amber] | Está perdiendo la cabeza.
+0110 [Tú] | ¿A qué se refiere Angie? ¿Ver el futuro? ¿Regresar?
+0111 [Tú] | ¿Sabe de la Sala Blanca?
+0112 [Tú] | No. Es imposible. Contrarresté demasiadas de sus jugadas, así que solo se está aferrando a teorías.
+0113 [Tú] | Espera, piénsalo. Esta vez fui yo quien propuso la negociación. Ella no tuvo nada de tiempo para prepararse. Eso significa... que su objetivo en la negociación era distinto al de la última vez. No intentaba atraerme a una trampa.
+0114 [Tú] | Vino a la mesa mientras preparaba un ataque de artillería.==W== ¿Era una misión suicida? ¿O de verdad... tiene un as bajo la manga que todavía no ha jugado?
+0115 [Bastelina] | Uf... Uf...==W== ¡Por fin los encontré! Jefe, ¡¿por qué siguen aquí?!
+0116 [Tú] | ¿Bastelina? ¿Qué haces aquí?
+0117 [Iris] | La batalla terminó. ¿Por qué tendríamos que huir?
+0118 [Bastelina] | ¡No ha terminado! Sin Lady Angie para mantener la disciplina, las filas del Comité se rompieron. ¡Abandonaron la orden de atacar solo al Tirano!
+0119 [Bastelina] | ¡Lo que viene no es solo un equipo de asalto cazando a un objetivo! ¡Es una guerra total!
+0120 [Bastelina] | Tienen que... ¡huir...!
+0121 [Tú] | ¡Bastelina! ¿Qué te pasa?
+0122 [Iris] | ¡Sangre! Está herida... ¡Tiene la espalda empapada de sangre!

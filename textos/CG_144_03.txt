@@ -1,0 +1,86 @@
+# Historia de Chitose · 3 · The Way of Oneness (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El camino de la Unidad (Parte III)
+0003 [Intro] | La lluvia cae a cántaros y ella parece algo abatida. En ese instante, comprendes el deber que debes cumplir como «portador de la hoja»…
+0004 [Narración] | Una brisa húmeda recorre el puesto avanzado, resonando con el golpeteo de la lluvia.
+0005 [Narración] | El largo cabello de Chitose ondea con el viento. Se sienta erguida a mi lado, con la mirada distante y desenfocada.
+0006 [Tú] | Qué bueno que logramos encontrar refugio de la lluvia...
+0007 [Tú] | Chitose ... ¿Se ve un poco decaída?
+0008 [Chitose] | Le ruego que me perdone,==W== mi ==SEX11==.==W== He fracasado en comprender el camino de la Unidad,==W== y lo que es peor, en ayudarlo...==W== Soy una deshonra...
+0009 [Chitose] | Seguramente,==W== la única manera de que esta hoja expíe su falta es ser hecha pedazos y forjada de nuevo como una espada nueva...
+0010 [Opción] | Pero has estado esforzándote al máximo, ¿no?
+0011 [Chitose] | ¿Esforzándome?==W== Pero ¿de qué sirve,==W== si no da frutos?
+0012 [Opción] | El esfuerzo es esfuerzo, lleguen o no los resultados.
+0013 [Chitose] | No puedo controlar mi propia magia,==W== ni comprender sus sentimientos.==W== Y todo mi exceso de celo solo nos consigue un empapón bajo la lluvia...
+0014 [Chitose] | Supongo==W== que para alguien como yo…==W== el sueño de dominar la Unidad==W== es solo un sueño necio y sin esperanza…
+0015 [Opción] | No se trata solo de la Unidad.
+0016 [Chitose] | Sin embargo, yo,==W== como su hoja,==W== deseo dedicarme por completo a su servicio.
+0017 [Opción] | Sí, conocer la Unidad sería lo ideal.
+0018 [Opción] | Pero me basta con que quieras servirme con tal devoción.
+0019 [Opción] | Así que gracias.
+0020 [Chitose] | ¡No merezco su gratitud!==W== Desearía que no desperdiciara palabras así conmigo...
+0021 [Chitose] | Pero ¿eso significa...==W== que, aun siendo una hoja tan inadecuada,==W== usted aún==W== permitiría mi presencia a su lado?
+0022 [Opción] | Por supuesto. O mejor dicho, soy yo quien te pide tu presencia.
+0023 [Chitose] | ¡...! ¡El honor es más de lo que merezco!==W== Aun así,==W== ahora que ha dicho algo así…
+0024 [Chitose] | Entonces yo, Chitose, su hoja,==W== redoblaré mis esfuerzos ...==W== para dominar la Unidad,==W== ¡y convertirme en una hoja verdaderamente magnífica, digna de estar a su servicio!
+0025 [Opción] | Por mi parte, haré lo mejor para ser un portador digno de esa hoja.
+0026 [Chitose] | Entonces, mientras mi ==SEX11== me necesite…==W== No,==W== incluso si ya no me necesita…
+0027 [Chitose] | Mientras==W== dure esta vida,==W== seré su hoja.==W== Por la presente hago este juramento ante usted.
+0028 [Chitose] | Ahora que he renovado mi juramento... Mi ==SEX11==, esa zona es peligrosa; por favor, permanezca donde está por ahora.
+0029 [Tú] | ¿Peligrosa...? Espera, ¡¿qué haces?!
+0030 [Chitose] | Con mi poder, ==W==barreré estas gotas de lluvia... ¡Haah!
+0031 [Narración] | Con absoluta compostura, Chitose ataca en un destello: su hoja traza un arco grácil en el aire. Antes de darme cuenta de lo ocurrido, ya envainó su hoja.
+0032 [Tú] | ¿¡Qué clase de magia fue esa...!? ¡Hace un momento estaba empapado y ahora estoy completamente seco!
+0033 [Tú] | Puede partir rocas de un solo golpe ... y usar el viento de su espada para barrer la humedad ... La esgrima de Chitose es verdaderamente increíble...
+0034 [Chitose] | ¿Está mejor ahora, mi ==SEX11==?
+0035 [Tú] | Gracias. Una gran ayuda. Mmm ... Quizá no tenga una técnica con la hoja tan asombrosa como la tuya, ¡pero al menos puedo ayudarte a secarte el cabello!
+0036 [Chitose] | No, no podría molestarle por algo tan trivial...
+0037 [Tú] | No es ninguna molestia. Cuidar de la hoja es parte del trabajo del portador.
+0038 [Tú] | Tú misma lo dijiste.
+0039 [Chitose] | Parece que me ha superado por completo, mi ==SEX11==.
+0040 [Tú] | Aun así, con un cabello tan largo, tengo que ser creativo si quiero secarlo bien ... A ver qué traigo encima...
+0041 [Tú] | ...Mmm, supongo que esto es lo único que puedo usar.
+0042 [Chitose] | ¡Ese es ... mi sageo! ¿Lo ha llevado consigo todo este tiempo...?
+0043 [Tú] | Por supuesto. Es un recuerdo importante tuyo, después de todo.
+0044 [Tú] | Eh, entiendo lo que quieres decir... usarlo para secarte el cabello simplemente no se siente correcto...
+0045 [Chitose] | No... más bien, ahora es el momento perfecto para usarlo. No debe preocuparse, mi ==SEX11==. Por favor, adelante.
+0046 [Tú] | ¿El momento perfecto?
+0047 [Chitose] | Sí. Después de todo, ese sageo siempre estuvo enrollado alrededor de mi cuerpo antes.
+0048 [Tú] | ¿Alrededor de tu cuerpo...?
+0049 [Tú] | ¡Espera, un momento! ¿¡Lo llevabas pegado a la piel todo el tiempo!?
+0050 [Chitose] | Sí. Así que, por favor, no hace falta que dude. Adelante, úselo...
+0051 [Tú] | ¡Eso lo hace aún más difícil! No puedo creer que me hayan confiado algo tan íntimo. ¿Qué se supone que haga con esto...?
+0052 [Tú] | ¡Bien! En fin, ¡me aseguraré de guardar este regalo y de tratarlo con el cuidado que merece!
+0053 [Chitose] | Bien. Espero que tanto el sageo como yo podamos permanecer a su lado para siempre.
+0054 [Tú] | Dejando eso de lado ... Chitose, ¿de verdad estás bien así? Ni siquiera una «hoja» debería ser sobrecargada...
+0055 [Tú] | No tienes que estar a mi lado cada segundo. Está bien hacer lo que quieras, ir a donde quieras.
+0056 [Chitose] | No me estoy forzando ... Una hoja solo encuentra sentido al permanecer al lado de quien la empuña.
+0057 [Chitose] | El deber de una hoja es proteger a quien la empuña, así que incluso al dormir, debe estar siempre al alcance de la mano.
+0058 [Tú] | Creo que entiendo lo que quieres decir ... Aunque ... quizá necesite un poco de tiempo para asimilarlo...
+0059 [Chitose] | Por ejemplo, estas tres hojas==W== son mi «padre», mi «madre» y mi «maestro»…
+0060 [Chitose] | Nunca me he separado de ellos. Hemos compartido cada comida bajo el cielo abierto, cruzado montañas y campos juntos.
+0061 [Chitose] | Por eso ... Como usted es mi portador, espero que siempre me permita permanecer a su lado y servirle.
+0062 [Chitose] | ...¿Eh? Mi ==SEX11==, mire ... parece que la lluvia ha parado.
+0063 [Tú] | Oh, ¡de verdad paró...! Por fin ya no hace tanto frío. Este clima fresco y despejado es perfecto para una siesta.
+0064 [Chitose] | Entonces ... ¿descansamos aquí un rato antes de volver al pueblo?
+0065 [Chitose] | Ha tenido un día largo y agotador, mi ==SEX11==. Como de costumbre, preparé la ropa de cama aquí de antemano.
+0066 [Tú] | No es mala idea, ==W==echarme una siesta corta suena bastante bien...
+0067 [Tú] | Espera, ¿por qué estás bajo la manta? No me digas ... ¿que planeas dormir a mi lado?
+0068 [Chitose] | Exactamente. Como dije antes, una hoja debe permanecer al lado de quien la empuña en todo momento, ya sea despierta o dormida.
+0069 [Chitose] | Así que por favor, mi ==SEX11==, no hace falta que se avergüence. Venga, únase a mí bajo las cobijas.
+0070 [Tú] | Mmph...
+0071 [Tú] | Ah ... ¡Ah...!
+0072 [Tú] | Eh, paso. Por más que lo adornes, esto es demasiado...
+0073 [Chitose] | ¿Por qué se niega? ¿Será que no soy digna de ser su hoja después de todo...?
+0074 [Chitose] | Así que hemos llegado a esto. ¡Debo romper mi hoja como disculpa ante usted!
+0075 [Tú] | ¡Espera...!==W== ¡No hace falta llegar a tanto!
+0076 [Narración] | Al final, cedí ante la insistencia de Chitose. Tras una breve siesta, retomamos el camino, renovados y listos para volver.
+0077 [Narración] | La chica que se hace llamar «hoja» y quien se entrena para ser su portador... Su camino hacia la verdadera Unidad apenas ha comenzado.

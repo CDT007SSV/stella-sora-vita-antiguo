@@ -1,0 +1,88 @@
+# Historia de Gerie · 3 · Collars and Cords (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_149 | Gerie
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Collares y cuerdas (Parte III)
+0003 [Intro] | Las riendas del destino están ahora en tus manos: estás destinado a domar a la hambrienta joven que tienes enfrente.
+0004 [Narración] | Ha caído la noche. Con la cabeza despejada, Gerie me guía hacia un pequeño callejón.
+0005 [Gerie] | Por aquí, Jefe.
+0006 [Narración] | Una escalera estrecha y oscura conduce a una puerta de hierro oxidada.
+0007 [Tú] | ¿Qué es este lugar?
+0008 [Gerie] | Es una vieja prisión secreta de los Árbitros del Ocaso. Lleva abandonada una eternidad.
+0009 [Tú] | ¿Una prisión? Ay no...==W== ¿Toqué algo prohibido? No me vas a encerrar, ¿verdad?
+0010 [Gerie] | Por favor, no te preocupes, Jefe. Cuando sostuviste la cuerda, no solo cuando tiraste de ella,==W== el entumecimiento, la magia excedente ... todo simplemente se esfumó.
+0011 [Tú] | Pero apenas hice algo ...==W== aparte de agarrar la cuerda.
+0012 [Gerie] | Te traje aquí para que tengamos algo de privacidad. Hay cosas que debemos hablar, como la reliquia sagrada que llevo al cuello.
+0013 [Tú] | ¿Es algo que debería escuchar?
+0014 [Gerie] | Sí. De hecho, debes saberlo. Porque eres especial.
+0015 [Gerie] | Tanto las reliquias como los Artefactos son tesoros que el Dios de la Gracia nos concede a través de los Monolitos.
+0016 [Gerie] | Pero a diferencia de los Artefactos, que cualquiera puede usar, si una persona indigna toca una reliquia, se considera blasfemia.
+0017 [Gerie] | La reliquia consumirá su alma y la convertirá en un cadáver andante.
+0018 [Gerie] | Solo los elegidos del Dios de la Gracia pueden tocar una reliquia y comandar el «hechizo legendario» sellado en su interior.
+0019 [Gerie] | Y cada uno de ellos solo tiene dos opciones:==W== unirse a los Árbitros del Ocaso o ser encarcelado por ellos para siempre.
+0020 [Tú] | Espera, ¿eso significa que tendré que...==W== No, un momento. Tú no elegiste ninguna de las dos.
+0021 [Gerie] | ¿Recuerdas lo que pasó la primera vez que tocaste esta cuerda?
+0022 [Tú] | Creo que vi ... los recuerdos de alguien más...
+0023 [Gerie] | Lo sabía. Me has visto por completo.
+0024 [Gerie] | Mi reliquia guarda un hechizo legendario, «Juicio del Alma». Al lanzarlo, enfrenta mi alma con la de un objetivo. La más débil de las dos es decapitada.
+0025 [Gerie] | El día que lo usé contigo, tu alma no cedió. En cambio, la mía fue la que quedó completamente expuesta ante ti.
+0026 [Tú] | Así que lo que vi ... era el alma de Gerie. Sus recuerdos.
+0027 [Gerie] | Por eso oculté tu existencia a los Árbitros del Ocaso.
+0028 [Gerie] | Después de hoy, por fin está claro. No solo te eligió el Dios de la Gracia: eres un mensajero enviado aquí para salvarme.
+0029 [Tú] | No tengo idea de qué hablas.
+0030 [Gerie] | No es solo que el «Juicio del Alma» no funcione contigo. Cuando sostienes mi reliquia, toda mi magia excedente se drena, no, más bien es como si me la sacaran de golpe.
+0031 [Gerie] | La sensación es simplemente ... maravillosa. Mi vista nunca ha sido tan clara, mi oído nunca tan agudo. Incluso siento una calidez tuya que me alcanza desde la distancia.
+0032 [Gerie] | No hay dolor, y aun así me siento más viva que nunca. Es una alegría sin igual.
+0033 [Gerie] | Un milagro así solo puede ser obra del Dios de la Gracia.
+0034 [Gerie] | Eres tan especial. Ocultarte algo ahora sería un acto de blasfemia.
+0035 [Tú] | Soy el Jefe, Trekker, director de una empresa ... y ahora puedo añadir «Mensajero del Dios de la Gracia» a la pila.
+0036 [Tú] | Estoy acumulando títulos como si pasaran de moda.
+0037 [Gerie] | Ojojojo... Es extraordinario, ¿verdad? Una Árbitra del Ocaso, juramentada al dios, completamente bajo tu mando... Con solo pensarlo...
+0038 [Gerie] | Ahhh~ ♪ ¡Solo imaginarlo me estremece por completo~~!!
+0039 [Tú] | Y ahí va otra vez, a ese modo...
+0040 [Gerie] | Por favor, te lo ruego... Déjame sentirlo otra vez. Esa dulce sensación que me enseñaste, la que no tiene nada de dolor—==B==Ese éxtasis supremo que solo tú puedes darme—
+0041 [Tú] | Órale, espera, ¿seguro que es buena idea? Si seguimos así, ¿no es ... ya sabes, también blasfemia?
+0042 [Gerie] | Ojojojo... ¿Un pecado? Oh no, mi querido Jefe. Esto es solo para profundizar nuestro lazo—==W==nuestro lazo con el mensajero divino del Dios. Sí, considéralo un ritual sagrado~ ♪
+0043 [Narración] | Gerie me ofrece con reverencia la cuerda de su gargantilla, con una expresión de entrega total.
+0044 [Tú] | Ahora que lo pienso, también fue igual aquella vez…
+0045 [Gerie] | Eso es solo un síntoma. Mis sentidos ya están entumecidos por el desbordamiento constante. Si lo dejo así, la magia los obstruirá hasta que no pueda ver ni oír ...==W== y enloqueceré.
+0046 [Gerie] | Y si no la libero pronto, simplemente—==W==BUM—me haré pedazos con ella. Llevándome conmigo todo lo que me rodea.
+0047 [Tú] | Si esto puede aliviar su dolor, vale la pena intentarlo.
+0048 [Opción] | Tomar la cuerda que ofrece Gerie
+0049 [Gerie] | Ooh,==W== eso es, eso es...==W== Esta sensación de magia descargándose desde lo más profundo...==W== Qué calor...
+0050 [Gerie] | Ni siquiera siento dolor...==W== pero de algún modo,==W== me siento tan viva...==W== ¡ÉXTASIS! ♪♪♪
+0051 [Opción] | Hablo en serio.
+0052 [Gerie] | (Jadeo, jadeo)...==W== ¡Yo tampoco estoy jugando!==W== Salvo cuando he estado con un dolor extremo, nunca había sentido esto...
+0053 [Gerie] | ¡ÉXTASIS! ♪♪♪
+0054 [Opción] | ¡Ya, ya! ¿Tienes que gritar así?
+0055 [Gerie] | Fiu...==W== Estoy en el cielo...==W== ♪
+0056 [Gerie] | Nunca me había sentido==W== tan completamente destrozada...==W== Es como si...==W== es como si mi alma hubiera dejado mi cuerpo,==W== y no me importaría que lo hiciera ahora mismo. ♪
+0057 [Opción] | ¡Bueno, eso no le haría bien a nadie!
+0058 [Opción] | En fin, estoy por soltar, ¿de acuerdo?
+0059 [Gerie] | ¡No, espera!==W== ¡Solo un poquito más!==W== Un poquitito más...
+0060 [Opción] | ¿Y si alguien nos ve así?
+0061 [Gerie] | Jejeje...==W== No te preocupes. ¡Ya te lo dije!==W== Esta prisión no se usa desde hace siglos. Aquí estamos a salvo.==W== Además, no hay absolutamente nada indebido en que==W== simplemente me ayudes. ♪
+0062 [Opción] | Eso es cierto, pero...
+0063 [Gerie] | Oh...==W== Oh, no...==W== Siento que la magia está por salir de mi cuerpo...==W==¡ÉXTASIS! ♪♪♪
+0064 [Opción] | ¡Bueno, terminemos con esto de una vez!
+0065 [Gerie] | ¡Todavía no!==W== ¡Hoy no paramos==W== hasta que yo lo diga!
+0066 [Gerie] | Vamos,==W== ¡agarra fuerte la reliquia perdida!==W== No te contengas...==W== ¡Más, más, más, más!==W== ¡Más fuerte! ¡OH!
+0067 [Gerie] | Pero necesito tus dulces emociones...==W== ¡Por favor, por favor dame==W== ese éxtasis!
+0068 [Gerie] | Fiu, ¡creo que con eso basta! ♪
+0069 [Tú] | Gracias al cielo ...==W== Entonces, ¿de verdad profundizó nuestro lazo?
+0070 [Gerie] | Es difícil decirlo, todo sigue un poco borroso. Quizá solo necesitemos ...==W== confirmarlo unas cuantas veces más. Seguro lo sentiré entonces. ♪
+0071 [Tú] | ¡Solo inventas excusas para que siga jalando tu gargantilla!
+0072 [Gerie] | Jeje~ Me has descubierto por completo. Eso me hace tan feliz~ ♪
+0073 [Tú] | Oye, oye, oye. Esa lógica es un desastre total.
+0074 [Gerie] | Aun así ... eres ese «alguien especial» que el Dios de la Gracia me dio. Quien me hace sentir viva.
+0075 [Gerie] | Te lo prometo, estaré de tu lado, siempre.
+0076 [Tú] | Está bien... Eso me tranquiliza,==W== pero por favor, deja de hacer cosas que la gente pueda malinterpretar.
+0077 [Gerie] | Entiendo. Mientras nadie nos vea, no hay malentendido. Como ahora, en esta prisión desierta. ¿Verdad?==W== Jiji.
+0078 [Gerie] | Bueno entonces, mi queridísimo Jefe, es un placer conocerte formalmente. Soy toda tuya.
+0079 [Narración] | Desde ese día, una nueva leyenda urbana rondó las calles de Emor: gemidos fantasmales que se elevaban desde una prisión secreta de los Árbitros del Ocaso, enterrada en lo profundo de la ciudad.

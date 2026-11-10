@@ -1,0 +1,137 @@
+# Evento · ¡Latido! Rapsodia neoinspirada · 7 · Escape por poco
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Trekker | Trekker curioso
+N:Nervous Trekker | Trekker nervioso
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_131 | Bloc
+N:avg1_140 | Sparkla
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_212 | Leona
+N:avg3_937 | La multitud
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Escape por poco
+0003 [Intro] | El Rabbit Pie modificado de Sparkla y el Súper Pastel de Acción armado abren paso a través de las defensas de la Guardia. En medio del caos, tu equipo escapa hacia Loxy, donde Sparkla te hace una nueva promesa.
+0004 [Iris] | Cof, cof, ¡Jefe, ¿estás bien?!
+0005 [Tú] | ¡Estoy bien! ¿Y ustedes, Iris?
+0006 [Iris] | A nosotros tampoco nos alcanzó.
+0007 [Curious Trekker] | Las cosas se salieron de control mucho más de lo esperado. ¡Hay que largarnos de aquí rápido!
+0008 [Nervous Trekker] | Este lugar ya no es seguro. Vámonos.
+0009 [Noya] | Jefe, nosotros también deberíamos irnos, ¿verdad?
+0010 [Tú] | Sí. Primero veamos cómo están todos antes de retirarnos.
+0011 [Bloc] | No se preocupen~ Estamos acostumbrados a este tipo de caos. Jefe, ustedes adelántense. Nosotras tres nos quedaremos atrás cubriendo su escape.
+0012 [Bloc] | Leona, ¿cuánto tiempo nos puede ganar Ticka-Boom si se queda atrás?
+0013 [Leona] | Acabo de armar unas cuantas bombas con piezas de repuesto... Más que suficiente para sacar a todos sanos y salvos ♪
+0014 [Sparkla] | Solo no la riegues tanto como para volarte a ti misma.
+0015 [Leona] | ¡¡Como si eso fuera a pasar!!
+0016 [Bloc] | Bueno, bueno, ustedes dos. Tregua temporal por ahora, ¿sí?
+0017 [Bloc] | ¡Jefe, déjanos este lugar a nosotras. Nos reagrupamos más tarde donde esté estacionado el Oasis!
+0018 [Tú] | Entendido. Tengan cuidado, todas.
+0019 [Leona] | ¿Ya terminaron de hablar?==W== Entonces es hora de empezar a volar todo. ¡Ticka-Boom, FUEGO!!!
+0020 [Bloc] | Wuju~ Hacía siglos que no tenía una persecución tan explosiva con la Guardia Imperial.
+0021 [Bloc] | Sparkla, ¿todavía tenemos municiones para el Súper Pastel de Acción?
+0022 [Sparkla] | Claro que sí. Toma, disfruta también de la ternura de las Bombas Rastreadoras Conejo ♪
+0023 [Bloc] | ¡Guau! ¡Explosión perfecta! ¡Cien puntos de mi parte!
+0024 [Bloc] | Bombas Dispersoras Conejo, modo de Supresión Conejil de Área Completa, Bombas Rastreadoras Conejo... Esta batalla es básicamente publicidad gratis~ En cuanto volvamos, seguro nos inundan de pedidos. ¿Y si subimos los precios con valentía un veinte por ciento?
+0025 [Sparkla] | Pon los precios como quieras, Bloc. Pero los próximos tres meses me voy a concentrar por completo en inventos nuevos, así que no me eches pedidos nuevos encima.
+0026 [Sparkla] | Si alguien me molesta, directo a la lista negra.
+0027 [Bloc] | Tranqui, tranqui. Todavía nos queda mucho de este nuevo lote de municiones, así que no te molestaremos por un buen rato. Le pediré a Leona que piense en algunos productos nuevos también. Eso debería mantener las ventas un tiempo~
+0028 [Leona] | O sea que solo tengo que hacer algo más fuerte y más popular que las bombas conejo de Sparkla, ¿verdad? Pan comido ♪
+0029 [Bloc] | Como se esperaba de Leona. ¡Estoy ansiosa por verlo!
+0030 [Sparkla] | Más te vale hacer un buen trabajo... Si la riegas y Bloc vuelve a venir a llorarme, no pienso limpiar tu desastre.
+0031 [Leona] | ¿Riegarla? ¿Quién crees que soy...?==W== ¡¡OYE!! ¡¿No me dejen atrás?! ¡Espérenme! ¡Déjenme subir al paseo también~~~!!!!
+0032 [Tú] | Ya estamos muy lejos y todavía se ven las explosiones...
+0033 [Tú] | ¿Creen que de verdad saldrán a salvo...?
+0034 [Noya] | Si no regresan en diez minutos, Amber y yo volveremos a ver cómo están.
+0035 [Bloc] | ¡Perdón por hacerlos esperar!
+0036 [Bloc] | Costó un poco de trabajo, pero por fin nos quitamos de encima a los perseguidores~
+0037 [Tú] | Mjm. Mientras todos hayan vuelto sanos y salvos.
+0038 [Bloc] | Ustedes, jefes, tampoco están heridos, ¿verdad?
+0039 [Tú] | Estamos bien. Gracias a que ustedes desviaron la atención de la Guardia Imperial, nadie nos persiguió.
+0040 [Tú] | En serio, muchísimas gracias.
+0041 [Sparkla] | En realidad, yo debería ser quien les agradezca. Si no hubiera querido probar el rendimiento de la configuración «Pastel del Tirano», jamás se me habría ocurrido modificar el Súper Pastel de Acción en primer lugar.
+0042 [The Crowd] | ¿Pastel del Tirano?
+0043 [Sparkla] | Jeje. Como la inspiración vino de ==PLAYER_NAME==, lo nombré directamente en honor al Tirano.==W== Le queda perfecto, ¿verdad?
+0044 [Sparkla] | Ah, cierto, y tal como mencioné allá en el taller... Analizará los patrones de conducta del Jefe y se enfocará en funciones de apoyo dentro del Monolito.
+0045 [Sparkla] | Dicho eso, con la tecnología actual, lo máximo que podemos hacer es mejorar la detección de objetivos y las funciones de exploración. Recrear «esa idea» por completo todavía va a tomar mucho más tiempo.
+0046 [Tú] | ¿De verdad puede recrearla si le dan suficiente tiempo...? El talento de Sparkla es realmente aterrador...
+0047 [Sparkla] | Así que, ==PLAYER_NAME==, de ahora en adelante deberíamos escalar el Monolito juntos mucho más seguido. Reuniré montones de datos y documentaré todo con cuidado, jeje~
+0048 [Bloc] | Ahhh~ O sea que POR ESO le instalaste un sistema de armas al Súper Pastel de Acción además de a Rabbit Pie.==W== No me digas que también piensas trabajar de Trekker por fuera, ¿o sí?
+0049 [Sparkla] | Ni loca.==W== Solo quería convertir la inspiración que me dio ==PLAYER_NAME== en algo lo más lindo y perfecto posible.
+0050 [Tú] | ...==W== Por cierto, ¿por qué había tropas de la Guardia Imperial escondidas en el salón de la convención? ¿Qué pasó exactamente?
+0051 [Iris] | Toda la Convención Tecnológica era en realidad una trampa tendida por Greyhorn, la caballera de la Guardia Imperial...
+0052 [Bloc] | En serio, qué jugada tan sucia~
+0053 [Bloc] | Ese Sabueso de la Neo Gracia desapareció por un tiempo. Pensé que la habían reasignado a otro lado y que por fin podríamos relajarnos un poco. Resulta que en secreto estaba cocinando algo enorme.
+0054 [Leona] | ¡Maldita sea! ¡Al final, igual no pude arreglar cuentas con Sparkla!
+0055 [Tú] | Es una lástima que se arruinara la Convención Tecnológica. Yo también quería ver los inventos de todos...
+0056 [Leona] | Si tanto quieres ver inventos, ¡ven a visitar mi taller! Tengo montones de equipo sin lanzar~ ¡O hasta podríamos organizar una reunión de intercambio de artesanos!
+0057 [Tú] | De verdad deberían mantener un perfil más bajo por un tiempo. Si Greyhorn los vuelve a fijar como objetivo, será un problema.
+0058 [Bloc] | Oh, jojo, es claro que el Jefe no sabe cómo funcionan las cosas~ Esquivar la persecución mientras se inventan aparatos y se maneja el negocio es la vida normal de la Organización Neo Gracia. Este nivel ni siquiera cuenta como emoción~
+0059 [Leona] | Además, si lo piensas de otra manera, que nos persiga la Guardia Imperial solo significa que tenemos muñecos de prueba en vivo para nuestras bombas más nuevas.
+0060 [Iris] | Eh, Bloc... Todavía queda el asunto de la comisión adicional que nos prometiste hace rato...
+0061 [Bloc] | ¡O-ohhh...!==W== S-sí... La comisión adicional...
+0062 [Opción] | Olvidemos la comisión adicional.
+0063 [Opción] | Primero repasemos qué salió mal durante este encargo.
+0064 [Opción] | Esa cara dice que estás tramando alguna excusa sospechosa para evitar pagar~
+0065 [1] | La Guardia Imperial se metió de repente, así que tus finanzas deben de estar bastante apretadas ahorita, ¿no? Olvidemos la comisión adicional.
+0066 [Bloc] | ¡¡¡¡JEFE!!!! ¡Ahhh, tu resplandor es demasiado deslumbrante!!!!
+0067 [Bloc] | ¡¡Aunque tenga que subir los precios después, te seguiré vendiendo todo al precio original!! ¡Pase lo que pase, lo juro!!
+0068 [Tú] | G-gracias... Creo.
+0069 [Tú] | ¡Pero! Sí tengo una pequeñísima petición.
+0070 [Bloc] | ¡Lo que quieras, Jefe!
+0071 [Tú] | Rescatar a Sparkla de la prisión ya cumplió tu solicitud de comisión adicional.
+0072 [Bloc] | E-es cierto...
+0073 [Tú] | Pero como no pude comunicarme con Iris a tiempo, no me di cuenta de que el formato de la convención había cambiado. Por eso Sparkla nunca pudo competir en la final.
+0074 [Tú] | Esa parte fue error mío.
+0075 [Bloc] | J-Jefe...
+0076 [Tú] | Así que cancelemos la comisión adicional.
+0077 [Bloc] | ¡¡¡¡JEFE!!!! ¡Ahhh, tu resplandor es demasiado deslumbrante!!!!
+0078 [Tú] | ¡Pero! Sí tengo una pequeñísima petición.
+0079 [Bloc] | ¡Lo que quieras, Jefe!
+0080 [Tú] | Tú garantizaste que Sparkla se llevaría el primer lugar sin falta.
+0081 [Tú] | Nosotros cumplimos nuestra promesa de rescatar a Sparkla. Pero, por desgracia, tú no cumpliste la tuya.
+0082 [Tú] | Dicho eso, el pago acordado debe pagarse. Eso es cumplir un contrato, ¿no? Como excelente comerciante, seguro sabes lo que debes hacer.
+0083 [Bloc] | Lo sé, lo sé...==W== Jefe, ¡¿qué tal si primero te firmo un pagaré?! Estoy literalmente en la ruina ahorita... Buaa, buaa...
+0084 [Tú] | No hace falta el pagaré. ¡Pero! Sí tengo una pequeñísima petición.
+0085 [Bloc] | ¡Lo que quieras, Jefe!
+0086 [Tú] | Haz que la nueva prótesis de Willow sea realmente asombrosa~
+0087 [Willow] | ¿Eh? ¿Jefe? ¿A qué te refieres?
+0088 [Tú] | No es solo por esto. Siempre me has ayudado mucho.
+0089 [Tú] | Hace mucho que quería agradecerte...==W== Pero después de pensarlo bien, lo único que se me ocurrió fue pedirle a Bloc que ponga especial cuidado en tu pedido.
+0090 [Bloc] | ¡¡Por supuesto!! Haré que Sparkla cree el mejor brazo protésico de la historia. ¡Garantizado para dejar completamente satisfecha a la jefa Willow!==W== ¿Verdad, Sparkla?
+0091 [Bloc] | ¿Sparkla? ¿Eh? ¿Adónde se fue?
+0092 [Sparkla] | El sistema de escape de Loxy todavía se siente algo deficiente. ¿Y si mejor reemplazamos todo?
+0093 [Sparkla] | Tengo aquí un regulador de velocidad Neo que mantiene la contrapresión incluso a bajas velocidades. Esto es de primerísima calidad~
+0094 [Noya] | ¡Guau, suena increíble!
+0095 [Leona] | ¡Y si alguna vez los vuelven a perseguir, una sola ráfaga fuerte de aceleración podría quitarse de encima a los perseguidores al instante!
+0096 [Iris] | ¿Más rápido que la velocidad máxima actual de Loxy?
+0097 [Amber] | Eso suena ... emocionante.
+0098 [Noya] | Iris, ¿quieres probarlo de verdad?
+0099 [Iris] | ...
+0100 [Iris] | ¡Entonces prométeme que no manejarás a Loxy como si volara a menos que sea absolutamente necesario!
+0101 [Noya] | ¡Mjm! ¡Lo prometo!!!
+0102 [Noya] | Eh, Sparkla...==W== ¿Puedo ayudar a modificar a Loxy también? ¡Puedo pasarte las herramientas y ayudar desde un lado!
+0103 [Sparkla] | Jeje, claro que puedes. Después de todo, has estado criando con cariño a este pequeño todo este tiempo~
+0104 [Leona] | ¡Yo también voy a lucirme un poco! ¡Y con tres personas trabajando juntas, tendremos muchas más ideas!
+0105 [Sparkla] | ¿Eh? ¿Desde cuándo decidió Leona que ella también se une?==W== Y para que quede claro, Loxy no necesita ninguna función de autodestrucción.
+0106 [Leona] | Auch. Está bien.
+0107 [Leona] | Si no vamos a hacer explosiones, pues da igual. En fin,==W== ¡Noya! ¡¿Quieres unirte al Grupo de Intercambio Tecnológico de la ONG?!
+0108 [Noya] | ¿Y-yo?
+0109 [Leona] | Si lograste armar el Oasis tú sola, significa que ya tienes un conocimiento básico de los Artefactos.==W== Pero para unirte al grupo primero hay que pasar una prueba...
+0110 [Noya] | ¡¿Necesitas una PRUEBA solo para entrar a un grupo de chat?!
+0111 [Leona] | Sí. Pero escuchar todo esto de la nada seguramente confunde, ¿no? Si algún día te interesa, avísame. Te ayudaré.
+0112 [Leona] | Oye, Sparkla, no me robes a Noya.
+0113 [Sparkla] | Jeje, tranquila. Noya y Loxy son adorables, sí... Pero ahora mismo tengo un objetivo de prioridad aún mayor...
+0114 [Sparkla] | Después de todo, esa es la existencia más única y abrumadoramente adorable de todo este mundo para mí~
+0115 [Tú] | Ah... ¡Achú!
+0116 [Bloc] | Qué ambiente tan animado hay por allá~ ¿Qué estarán haciendo?
+0117 [Tú] | ¿Quién sabe? Pero seguro es algo divertido.

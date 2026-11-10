@@ -1,0 +1,131 @@
+# Capítulo 6 · Milagro de un destello · 12 · Loyalty Until the End
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Enthusiastic Student | Estudiante entusiasta
+N:Enthusiastically Sabotaging Student | Estudiante saboteador entusiasta
+N:Flattering Voice | Voz aduladora
+N:Proactive Student | Estudiante proactivo
+N:Proactively Disruptive Student | Estudiante proactivamente disruptivo
+N:Respectful Voice | Voz respetuosa
+N:avg1_110 | Firenze
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1266 | Estudiante de la Academia Luz de Gracia
+N:avg3_1267 | Estudiante de la Academia Luz de Gracia
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto doce
+0002 [Intro] | Lealtad hasta el final
+0003 [Intro] | Dentro del tanque yacen los recuerdos fragmentados de Darcia: una chica rechazada tras la repentina caída de su familia, que se aferró a la leyenda del Tirano en busca de esperanza. Al final, consigues la pieza del Alfil, mientras ella encuentra su fin con un amargo arrepentimiento...
+0004 [Tú] | Glub...
+0005 [Narración] | Me salen burbujas de los labios mientras me sumerjo en el tanque y pataleo con fuerza hacia el fondo.
+0006 [Tú] | Aquí abajo casi no se ve nada. ¿Dónde está esa pieza del Alfil...?
+0007 [Flattering Voice] | ¡Tú debes ser la nueva presidenta! Oí que eres de Philae, qué ciudad tan hermosa. Siempre he querido visitarla.
+0008 [Respectful Voice] | Vaya, este invernadero es precioso. Gracias por traer la belleza de Philae a nuestra Academia Luz de Gracia.
+0009 [Flattering Voice] | ¿Te gusta la jardinería?==W== ¡A mí también! ¿Te molesta si te acompaño y te ayudo a cuidar las flores?
+0010 [Respectful Voice] | Gracias por el apoyo económico de cada mes. ¡No te vamos a decepcionar!
+0011 [Flattering Voice] | No sabes cuánto te agradezco que le arreglaras el trabajo a mi papá. Nunca olvidaré tu amabilidad.
+0012 [Tú] | Las voces se oyen cada vez más claras. ¿La magia del fluido me está afectando la cabeza?==W== No...==W== Mi cuerpo se siente bien.
+0013 [Tú] | Concéntrate. Tengo que encontrar el Alfil.
+0014 [Tú] | Agh... Hay una luz más adelante...
+0015 [Proactive Student] | ¡Presidenta! ¿Cómo debo trasplantar esta? ¿Me enseñas?
+0016 [Tú] | Para proteger las raíces, cava amplio desde afuera. Levanta con cuidado todo el cepellón, con tierra y todo.
+0017 [Enthusiastic Student] | Presidenta, ¿por qué tres semillas por hoyo? ¿No es un desperdicio?
+0018 [Tú] | Así se garantiza que germinen. Si brotan las tres, luego solo hay que aclarar.
+0019 [Enthusiastic Student] | ¡Ya veo! La jardinería tiene toda una ciencia, ¿verdad?
+0020 [Tú] | ¿Por qué estoy jugando con estas plantas? ¿Y de dónde salieron estos datos de jardinería...?
+0021 [Tú] | Ya veo...==W== Este debe ser el recuerdo de alguien más. Yo solo voy de pasajero.
+0022 [Proactive Student] | Oye, ¿supiste la noticia? Van a hacer una elección extraordinaria para la presidencia del Consejo Estudiantil.
+0023 [Enthusiastic Student] | ¿Eh? ¿Por qué? ¿No acabamos de tener una elección?
+0024 [Proactive Student] | De verdad no te enteras de nada.==W== El papá de la presidenta se peleó en la reunión del Senado de Cosecha Unida y mató a golpes a otro senador.
+0025 [Enthusiastic Student] | ¡¿Entonces es un asesino?!
+0026 [Proactive Student] | Exacto. La Academia Luz de Gracia no puede dejar que la hija de un asesino dirija el Consejo Estudiantil.==W== De todos modos, seguro la elección está arreglada. Apuesto a que gana alguien del Imperio de la Gracia.
+0027 [Tú] | ...
+0028 [Proactive Student] | Shhh, ya cállate. Nos está oyendo.
+0029 [Narración] | A partir de ese día, el pequeño invernadero de la Academia se queda en silencio. El único sonido es el de una pala de jardín removiendo la tierra.
+0030 [Tú] | Cavar así de verdad es algo terapéutico.
+0031 [Tú] | Tengo la impresión de que a la dueña de este recuerdo nunca le importó ser presidenta del Consejo Estudiantil.
+0032 [Proactively Disruptive Student] | Apúrate. Tenemos que arrancar todas estas flores.
+0033 [Enthusiastically Sabotaging Student] | La pelea entre el Imperio de la Gracia y Cosecha Unida ya es totalmente pública. Si la gente sabe que nos juntábamos con ella, nos van a poner en la lista negra.
+0034 [Proactively Disruptive Student] | Mira, le agradezco que haya ayudado a mi papá, pero el drama de su familia es un asunto completamente aparte.
+0035 [Enthusiastically Sabotaging Student] | También financiaba todas nuestras actividades...==W== Era tan buena persona. ¿Cómo terminó todo así?
+0036 [Tú] | Qué bajo...==W== ¿Cómo pueden decir eso?
+0037 [Opción] | Intervenir
+0038 [Tú] | ¡Oigan! ¿Qué están haciendo?==W== Alguien se esforzó mucho para cultivarlas. ¡¿Cómo pueden destruirlas?!
+0039 [Proactively Disruptive Student] | Es una lástima, claro. Las plantas no tienen la culpa...==W== Pero cuando cambie la presidenta, de todos modos van a demoler este lugar.
+0040 [Enthusiastically Sabotaging Student] | Sí, el invernadero está condenado tarde o temprano. No nos pueden culpar.
+0041 [Narración] | Pero las dos chicas me ignoran por completo, blandiendo sus azadones y destrozando el jardín.
+0042 [Tú] | ¡Basta!
+0043 [Narración] | Mi mano intenta arrebatar el azadón, pero atraviesa el mango y solo agarra aire.==W== Las chicas acaban rápido con la última flor, se sacuden las manos y se van.
+0044 [Tú] | ¿Así que después de todo==W== solo soy espectador en esta historia?
+0045 [???] | G...==W== Gracias... Eres muy amable.
+0046 [Tú] | ¿Eh?
+0047 [Narración] | Me doy la vuelta y veo una figura delgada y sombría justo donde yo estaba hace un momento.
+0048 [Tú] | ¿Puedes verme?
+0049 [???] | Sí, pero...==W== por favor, no me defiendas. Si lo haces, también te van a pintar como un villano.
+0050 [Narración] | La figura me atraviesa para recoger una hoja caída y la guarda con cuidado dentro de un cuaderno de dibujo.
+0051 [Tú] | Ese símbolo en la portada...==W== ¡¿No es la marca del Tirano?!
+0052 [Darcia] | Así es. Esa es su marca.
+0053 [Tú] | ¿D-Darcia?==W== ¿Por qué estás aquí?
+0054 [Darcia] | Je, je.==W== Sin mi atuendo dramático,==W== casi no me reconoce, ¿verdad, Su Majestad?
+0055 [Darcia] | Estamos dentro de mis recuerdos.==W== Supongo que es obra del Fluido Psíquico...==W== No, no de ese lodo artificial.
+0056 [Darcia] | Debe ser su pieza del Alfil==W== tendiendo un puente==W== entre nuestras almas.
+0057 [Darcia] | Me considero afortunada==W== de estar unida al alma de Su Majestad==W== en estos últimos momentos.
+0058 [Tú] | Esa persona de hace un momento...==W== ¿Eras tú en la escuela?
+0059 [Darcia] | Sí.==W== Mi padre era senador de Cosecha Unida.==W== Dio la vida eliminando a los rivales de la empresa durante el conflicto con el Imperio de la Gracia==W== y, aun así,==W== el Senado se negó a honrar su sacrificio.==W== En cambio, se lanzaron como buitres a despojar a mi familia de su fortuna.
+0060 [Darcia] | Los compañeros que antes se arremolinaban a mi alrededor pidiéndome favores desaparecieron de la noche a la mañana.==W== Imitaron al Senado y se pusieron en mi contra,==W== acosándome y burlándose de mí.
+0061 [Darcia] | Al principio los descarté como tontos que disfrutaban atormentando a los débiles.==W== Me decía que todavía tenía mi jardín. Aunque todos los humanos de la tierra me traicionaran, mis plantas nunca lo harían.
+0062 [Darcia] | Pero cuando arrancaron mis flores,==W== me di cuenta de que estaba equivocada.==W== No intentaban obtener nada de mí. Ni siquiera lo hacían por diversión.
+0063 [Darcia] | Me acosaban simplemente para sentirse a salvo.
+0064 [Tú] | ¿A salvo?
+0065 [Narración] | «Eras demasiado cercana a la expresidenta. Si sigues hablándole, la gente se va a hacer una idea equivocada».
+0066 [Narración] | «Es la hija de un asesino, ¿sabes...?».
+0067 [Narración] | «Si alguien se entera de que éramos amigas, me va a arrastrar con ella».
+0068 [Darcia] | Miedo al aislamiento. Desesperación por ser aceptados. Los humanos necesitan una manada para sentirse seguros==W== y con gusto arrojan a los suyos a los lobos con tal de seguir en ella.==W== De verdad somos criaturas patéticas.
+0069 [Darcia] | Entre los restos de mi jardín encontré un libro.==W== Je. Me imagino que puede adivinar qué había dentro.
+0070 [Darcia] | Exacto. Era su historia. En su historia,==W== «usted» sufría igual que yo, traicionado una y otra vez por sus seres más cercanos,==W== pero siempre se levantaba para contraatacar. Su resiliencia me habló.
+0071 [Darcia] | Usted se convirtió en mi luz. Gracias al Tirano,==W== encontré la fuerza para recoger las piedras que me arrojaban==W== y usarlas para pavimentar mi camino hacia el poder.
+0072 [Darcia] | Jurarle lealtad a Su Majestad era lo más natural.==W== Traer plantas a su Legión, darles mente propia...==W== Así es como expío las flores inocentes que no pude proteger.
+0073 [Darcia] | Y lo más importante:==W== a diferencia de las personas, las plantas siempre corresponden a tus cuidados con belleza.
+0074 [Darcia] | Puede que tome décadas, quizá siglos...==W== Pero perfeccionaré este ejército paso a paso. No lo decepcionaré, Su Majestad.
+0075 [Darcia] | Si tan solo pudiéramos trasladar las almas de todos a recipientes vegetales...==W== Imagine qué mundo tan pacífico y tranquilo tendríamos por fin.
+0076 [Tú] | Las estás idealizando.==W== Las enredaderas parásitas desangran a sus huéspedes, y las trepadoras asfixian a los mismos árboles que las sostienen solo para robarles la luz.
+0077 [Tú] | Las hojas del nogal envenenan el suelo para matar a sus rivales.==W== Hasta los huecos en el dosel de un bosque son solo fronteras en una guerra constante por el territorio.
+0078 [Tú] | Darcia, ese jardín de paz que imaginas... no existe.
+0079 [Tú] | Igual que tu «luz».==W== El Tirano que veneras no es la persona que tienes enfrente.
+0080 [Tú] | Quieres que yo...==W== sea el Tirano de tus fantasías.==W== Pero solo soy yo.==W== Nunca podré ser el ídolo que construiste en tu mente.
+0081 [Darcia] | Lo sé, Su Majestad.==W== Lo he estado observando desde el momento en que cruzó nuestras puertas.
+0082 [Darcia] | Pero no podía admitirlo. Si lo hacía, volvería a estar sola.==W== Después de encontrar por fin un rayo de esperanza...==W== ¿cómo podría soportar dejarlo ir?
+0083 [Darcia] | Je... Jajaja.==W== En el fondo, lo sé. No soy distinta de los humanos que desprecio: les impongo mis delirios a los demás solo para tener una falsa sensación de seguridad.
+0084 [Tú] | ¿Es eso lo que de verdad sientes?==W== Tienes razón, los humanos somos cobardes. Le tenemos miedo a tantas cosas.
+0085 [Tú] | Pero también somos capaces de tener valor. Peleamos con uñas y dientes para vencer ese miedo por el bien de nuestros ideales.
+0086 [Tú] | Admitir nuestras carencias y aun así luchar por un futuro mejor. ¿No es eso una fortaleza en sí misma?
+0087 [Tú] | Para mí, esa humanidad es hermosa.
+0088 [Tú] | Darcia, detente. No es demasiado tarde.==W== Nadie murió en el caos de Philae.==W== Todavía tienes la oportunidad de enmendarte.
+0089 [Darcia] | Una miserable como yo no merece tanta amabilidad. Je...==W== De verdad es ==SEX12== Tirano que siempre admiré.
+0090 [Darcia] | Pero ya llegué demasiado lejos. Hace mucho que me fusioné con el tanque de cultivo para desarrollar la Planta Inteligente de 2.ª generación.
+0091 [Darcia] | Esta forma que ve ante usted es el último vestigio de mi humanidad.
+0092 [Tú] | Darcia...==W== ¿Por qué...?==W== ¿Por qué llegar tan lejos?
+0093 [Darcia] | Hice pasar a Firenze por el mismo infierno que yo viví, y aun así...==W== ella tuvo más suerte. Tenía amigas leales.
+0094 [Darcia] | Je...==W== Lo único que siempre quise fue ser amada.==W== Ser necesitada.==W== Que me dijeran que==W== mi existencia no era un error.
+0095 [Darcia] | Pero al ver a las personas que usted elige tener a su lado...==W== me di cuenta de que nunca podría ser una de ellas. Me desvié demasiado del camino.
+0096 [Darcia] | Así que esto es todo...==W== El fin de Darcia.
+0097 [Darcia] | Pero hice las paces con eso hace mucho. No busco redención.==W== Desprecio a la humanidad y seguiré siendo su enemiga hasta mi último aliento.
+0098 [Darcia] | Concédame un último deseo.==W== Tome la pieza de ajedrez... y acabe conmigo. Con sus propias manos.
+0099 [Darcia] | No puedo estar a su lado, pero recuerde esto:==W== todas las demás empresas de este mundo son sus enemigas.
+0100 [Tú] | Glub...==W== ¿Qué fue... eso...?
+0101 [Tú] | La pieza...==W== ¡Tengo el Alfil...!
+0102 [Lugar y hora] | 03:00, 8.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0103 [Firenze] | Jefe, ¿está bien?
+0104 [Tú] | Uf, uf... Ya volví.==W== Firenze, ¿cuánto tiempo estuve abajo?
+0105 [Firenze] | ¿Un minuto, quizá?==W== No estoy segura. Definitivamente no más de dos.
+0106 [Tú] | Se sintió como==W== toda una vida...
+0107 [Tú] | Espera, eso no importa.==W== ¿Dónde está Darcia? ¡¿Dónde está?!
+0108 [Firenze] | Ahí mismo. Parece que...==W== entró al tanque hace un rato. Se fusionó con la Madre Hierba Esbelta.
+0109 [Narración] | Su Majestad...==W== ¿Es usted?
+0110 [Tú] | Dar...
+0111 [Narración] | Perdóneme, Su Majestad. Ya no puedo ver ni oír.
+0112 [Narración] | Si tan solo lo hubiera conocido antes... Quizá no me habría perdido...

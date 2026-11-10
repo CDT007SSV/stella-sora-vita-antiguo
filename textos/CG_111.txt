@@ -1,0 +1,6 @@
+# Historia de Iris — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_111_01 | La guerra de las compras (Parte I)
+CG_111_02 | La guerra de las compras (Parte II)
+CG_111_03 | La guerra de las compras (Parte III)

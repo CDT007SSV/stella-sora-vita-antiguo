@@ -1,0 +1,101 @@
+# Capítulo 3 · 6A · Terapia psicológica
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Doll | Muñeca
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Terapia psicológica
+0003 [Intro] | Le presentas a Fuyuka la meditación y la terapia de conversación, pero los resultados siempre salen mal. Justo cuando estás preocupado, te topas con una bruja, Mistique.
+0004 [Lugar y hora] | 20:00, 17.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0005 [Tú] | En psicoterapia, la meditación es una herramienta bastante básica.
+0006 [Tú] | Una mente en calma es la clave para controlar tus emociones y, a través de ellas, tu cuerpo.
+0007 [Fuyuka] | V-vale.
+0008 [Tú] | Siéntate como te acomode: con las piernas cruzadas, en el suelo, en una silla o sobre un cojín.
+0009 [Fuyuka] | ¿Así...?
+0010 [Tú] | Relaja el cuerpo, despeja la mente e imagina un lago tranquilo y quieto.
+0011 [Tú] | Solo sigo lo que recuerdo de un libro del Monolito. Ojalá funcione.
+0012 [Tú] | Cierra los ojos. Sígueme. Exhala... luego inhala.
+0013 [Fuyuka] | Exhalo...==W== e inhalo...
+0014 [Tú] | Encuentra un ritmo que te resulte natural.
+0015 [Tú] | Sigue así y empezarás a sentir que te observas a ti misma desde lejos.
+0016 [Fuyuka] | Mmm...==W== Eh...
+0017 [Tú] | ¿Se te va la mente?
+0018 [Fuyuka] | P-perdón...
+0019 [Tú] | No hace falta disculparse. Lo único que importa es aprender a manejar tus sentimientos.
+0020 [Tú] | Y, la verdad, aprendes rápido. Ya le estás agarrando el truco.
+0021 [Fuyuka] | Yo...==W== ¿de verdad...?==W== Jeje...
+0022 [Tú] | Bien. Esto debería ayudar a que gane confianza.
+0023 [Fuyuka] | Eh... Entonces, ¿cuántas veces al día debería==W== ... hacer esto?
+0024 [Tú] | Lo importante es no forzarlo. Ve a tu ritmo y no te excedas.
+0025 [Tú] | Tampoco tienes que estar sentada. Puedes hacerlo en cualquier momento y lugar, incluso mientras caminas.
+0026 [Fuyuka] | ¡Entiendo! ¡Practicaré con todas mis fuerzas, lo prometo!
+0027 [Tú] | Bueno, espero que esto ayude. Veremos cómo está mañana.
+0028 [Lugar y hora] | 12:00, 18.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0029 [Fuyuka] | (solloza)...==W== Lo sabía. Soy una inútil...
+0030 [Nazuna] | Oye, no pasa nada. No estás herida y eso es lo importante.
+0031 [Tú] | ¿Qué pasa?
+0032 [Nazuna] | Iba a preguntarte lo mismo. ¿Me dijeron que fue por esa meditación que le enseñaste?
+0033 [Fuyuka] | N-no... No tiene nada que ver con ==PLAYER_NAME==...
+0034 [Fuyuka] | Es que soy tan tonta. Me concentré demasiado en practicar la meditación y me desconecté en plena pelea. Un monstruo terminó persiguiéndome por todos lados.
+0035 [Nazuna] | Mi error. Supongo que me precipité al sacar conclusiones.
+0036 [Tú] | Parece que la meditación simplemente no es lo suyo.
+0037 [Tú] | Fuyuka, probemos un enfoque distinto hoy.
+0038 [Fuyuka] | Lo siento mucho...==W== Después de todo el tiempo que dedicó a enseñarme...
+0039 [Tú] | No te angusties. Cada persona responde a métodos distintos. Además, saber meditar es una buena habilidad: quizá te sirva más adelante.
+0040 [Tú] | ¿Has probado simplemente... hablar con alguien sobre tus problemas?
+0041 [Fuyuka] | Y-yo... me da demasiado miedo...
+0042 [Tú] | No tienes que empezar con desconocidos. Prueba con las personas a tu alrededor.
+0043 [Tú] | Petal Bloom, Serena, cualquiera de nosotros... Puedes hablar con quien te sientas cómoda.
+0044 [Fuyuka] | Pero... ¿no los estaría molestando?
+0045 [Tú] | Quizá se preocupen al principio, pero el trabajo en equipo se construye sobre la confianza.
+0046 [Tú] | Aprender a comunicarse es el primer paso para volverse más fuerte.
+0047 [Fuyuka] | T-tiene razón...==W== Dicho así, tiene sentido.
+0048 [Tú] | Si te preocupa qué decir, incluso puedes practicar primero hablándole a un objeto.
+0049 [Tú] | Todo se trata de dominar tus propios sentimientos.
+0050 [Fuyuka] | Yo...==W== ¡haré lo mejor que pueda!
+0051 [Lugar y hora] | 14:00, 24.º del mes de Pluvia, afueras de Philae, linde del bosque
+0052 [Kaede] | Eh... ==PLAYER_NAME==, ¿podría intentar ayudar a Fuyuka?
+0053 [Tú] | ¿Qué pasa?
+0054 [Kaede] | Estoy muy preocupada por Fuyuka últimamente.
+0055 [Kaede] | Desde hace dos días, le habla al árbol de afuera.
+0056 [Tú] | Oh, no... Probablemente sea por mi culpa.
+0057 [Tú] | Bien...==W== Aparte de hablarle al árbol, ¿ha intentado hablar con usted?
+0058 [Kaede] | No.
+0059 [Tú] | Parece que hablar con objetos no le da el valor que necesita.
+0060 [Tú] | Gracias por avisarme. Iré a hablar con ella.
+0061 [Kaede] | Qué alivio. Estamos tan unidas que, en realidad, me cuesta sacar ciertos temas.
+0062 [Kaede] | ¡Cuento con usted!
+0063 [Tú] | Bien...==W== ¡Yo me encargo...!
+0064 [Lugar y hora] | 16:00, 24.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0065 [Nazuna] | ¡==PLAYER_NAME==! ¡¿Qué cosa rara le enseñaste esta vez a Fuyuka?!
+0066 [Tú] | ¿Qué pasa ahora? ¿Todavía le habla al árbol?
+0067 [Nazuna] | ¡Peor! ¡Ahora le habla a mi muñeca! ¡Vamos, mira!
+0068 [Fuyuka] | Mmm...==W== jeje, ¿ah, sí...?==W== Qué... divertido...
+0069 [Muñeca] | ...
+0070 [Fuyuka] | Ya veo...==W== Bueno, entonces... te contaré algo sobre mí...
+0071 [Nazuna] | ¿Ves? Súper escalofriante, ¿no?
+0072 [Nazuna] | ¿Crees que algún monstruo invisible poseyó a la muñeca y le echó una maldición?
+0073 [Tú] | No, es un tipo de...==W== terapia. Parece que este método tampoco es para ella.
+0074 [Lugar y hora] | 17:30, 24.º del mes de Pluvia, afueras de Philae, campamento de Trekkers
+0075 [Tú] | Ugh, la terapia de conversación fue un fracaso. ¿Quizá debería ir a un Monolito a buscar otros tratamientos?
+0076 [Tú] | Pero el camino al Monolito está bloqueado por monstruos ahora mismo. Qué lata.
+0077 [???] | ¡Oye, Trekker! ¡Espera un momento!
+0078 [Tú] | ¿A mí?
+0079 [???] | ¡Sí, sí, tú!
+0080 [???] | Si no me equivoco,==W== eres el Jefe, ¿verdad?
+0081 [Tú] | Lo soy. ¿Puedo ayudarte...?
+0082 [Mistique] | ¡Jejeje~ No hace falta estar tan a la defensiva. Soy Mistique, una bruja de Scarlet Sights Media. ¡Un verdadero placer!
+0083 [Tú] | Lo siento, pero ahora mismo no busco que me lean la fortuna, comprar una poción ni maldecir a nadie.
+0084 [Mistique] | Ah...==W== ¿eh? ¿Qué clase de cuentos de hadas has estado leyendo?
+0085 [Mistique] | Las brujas hace mucho que dejaron ese oficio. Hoy en día nos alimentamos de la verdad.
+0086 [Mistique] | Y tú, querido,==W== pareces el bocado más delicioso de todos.

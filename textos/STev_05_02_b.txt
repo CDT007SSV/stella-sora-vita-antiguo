@@ -1,0 +1,150 @@
+# Evento · Para ti, mi persona más querida · 2B · Sabio en letras
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Receptionist | Recepcionista
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+N:avg3_171 | Empleada
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Sabio en letras
+0003 [Intro] | Clasificas la pila de cartas junto con Freesia y escuchas la historia de cómo conoció a Donna. Con sus conocimientos legales, Freesia busca en los registros públicos y descubre los datos del destinatario.
+0004 [Freesia] | ¡Buenas! Post Haste viene por la recolección.
+0005 [Receptionist] | ¡No sé cómo agradecerles! Tomen. Estas son las cartas y los paquetes de salida.
+0006 [Noya] | ¡¡Guau!! ¡¡El mostrador está enterrado!!
+0007 [Receptionist] | La mayoría van para el quinto infierno. Tarda días entregarlos por una miseria... Obvio nadie quiere el trabajo.
+0008 [Receptionist] | Pero que Post Haste nos quite esta carga de encima es un enorme alivio.
+0009 [Tú] | Si esta es su rutina diaria...==W== Debe de ser duro para Post Haste.
+0010 [Receptionist] | ¡Cuento con ustedes!
+0011 [Noya] | Solo hay que sacarlos, ¿no? ¡Arriba!
+0012 [Tú] | Yo me llevo esta caja...==W== Uf, ¡¿pesa mucho?! ¡Ay, no...!
+0013 [Freesia] | ¿Está bien, Jefe?
+0014 [Tú] | Perdón, Freesia. Pesa muchísimo más de lo que parece. Casi se me resbala...
+0015 [Freesia] | Por favor, permítame encargarme de esas.
+0016 [Tú] | ¡¿Las levantaste con una sola mano como si nada?!
+0017 [Freesia] | Déjeme el trabajo pesado a mí. ¿Sería tan amable de ocuparse de las cartas?
+0018 [Tú] | Esa montaña de correo ya casi desapareció...
+0019 [Tú] | ¿Será esta rutina diaria el secreto de su fuerza? No, esta carga de trabajo es una locura... Freesia, tienes mi respeto.
+0020 [Freesia] | Ahora, clasificamos. Verificamos las direcciones, categorizamos por región y luego agrupamos las ubicaciones cercanas.
+0021 [Noya] | Qué atención al detalle. ¿Y luego tienen que entregar cada una en persona? ¡Es increíble!
+0022 [Freesia] | Las entregas son el cimiento de Post Haste. Nuestro principio es simple: la carta debe llegar a su destino, cueste lo que cueste.
+0023 [Tú] | Suena simple, pero imagina el esfuerzo que requiere...
+0024 [Tú] | ¿Esa es la filosofía de Donna?
+0025 [Freesia] | Sí. Me han dicho que mantiene ese estándar desde sus primeros días como Trekker mensajera. Para Donna, el vínculo entre remitente y destinatario lo es todo.
+0026 [Freesia] | En cierto modo, le debo mi encuentro con Donna a esa misma convicción.
+0027 [Noya] | ¿Eh? ¿Entonces no siempre estuviste en Post Haste?
+0028 [Freesia] | Correcto. Antes era abogada.
+0029 [Noya] | ¡¿Abogada?! ¡No puede ser! ¡Qué genial!
+0030 [Freesia] | No es tan glamuroso como imaginas... Era abogada solo de nombre. Apenas competente.
+0031 [Freesia] | Las expectativas de la familia, las dudas profesionales, mis propios errores...==W== El peso de todo eso se sentía como un aguacero torrencial ahogándome.
+0032 [Freesia] | Al final, no pude soportarlo más. Así que huí.
+0033 [Tú] | Jamás imaginé que Freesia tuviera un pasado así...
+0034 [Freesia] | Mientras vagaba sin rumbo... conocí a Donna.
+0035 [Donna] | ¡Uf! ¡Y así, otra carta llega sana y salva a su destinatario! ¡Misión cumplida!
+0036 [Donna] | Pero tengo que decir, Freesia, ¡estuviste increíble allá atrás!
+0037 [Donna] | ¡Si no hubieras intervenido, ese jabalí me habría tirado de la montaña!
+0038 [Freesia] | Es mi deber ayudar. Después de todo, me contrataste como guardaespaldas.
+0039 [Donna] | Sí, ¡pero la entrega ya está hecha! Técnicamente, tu trabajo terminó.
+0040 [Freesia] | No hasta que te vea regresar sana y salva al Puerto Bellin.==W== El contrato sigue vigente.
+0041 [Donna] | ¡Muchísimas gracias!
+0042 [Donna] | Entonces, cuando me dejes en el Puerto Bellin, ¿qué sigue para ti?
+0043 [Freesia] | Mmm...==W== No estoy segura. Supongo que veré a dónde me lleva el camino.
+0044 [Freesia] | ... Supongo que ni yo sé cuál debería ser mi siguiente paso.
+0045 [Donna] | Si es así...==W== ¿Quieres unirte a mí como mensajera?
+0046 [Donna] | Después de este encargo, estoy más convencida. ¡Tener una compañera confiable es genial de verdad! ¿Qué dices? ¡Ven a hacer equipo conmigo!
+0047 [Freesia] | En realidad... tenía curiosidad. ¿Por qué esforzarte tanto solo para entregar cartas? Esta tenía más de diez años. Ni siquiera te pagan por ella.
+0048 [Donna] | No se trata del dinero. Hay cosas que simplemente hay que hacer.
+0049 [Donna] | La gente escribe cartas para transmitir lo que no puede expresar en persona, pero aun así quiere transmitir. Si las cartas se pierden... entonces esos mensajes sinceros nunca llegan al corazón al que pertenecen, ¿o sí?
+0050 [Donna] | Por eso me hice mensajera. La idea de que, si me esfuerzo un poquito más, quizá una persona más se salve gracias a una carta entregada a tiempo...
+0051 [Freesia] | Salvar a otros... De verdad es un trabajo importante.
+0052 [Donna] | ¿Verdad? ¡Entonces desde hoy, Freesia, somos socias!
+0053 [Donna] | Bueno... La paga no es la gran cosa... Pero si todavía no quieres volver... ¡Puedes quedarte conmigo! ¡Yo también sé cocinar! ¿Qué te parece? ¿Qué te parece?
+0054 [Freesia] | Pero...==W== Quizá no tengo derecho a ser mensajera. Después de todo, soy yo quien ignora los sentimientos... que intentan llegar hasta mí.
+0055 [Donna] | ¿Eh? ¿Qué quieres decir?
+0056 [Freesia] | Cuando huí de casa, mi madre metió una carta en mi bolso. Todavía no he podido abrirla...==W== ¿Cómo puedo ser mensajera si ni siquiera puedo enfrentar una carta de mi propia familia?
+0057 [Donna] | Ya veo...==W== ¡Pero creo que esa es una razón más para que lo intentes!
+0058 [Freesia] | ¿Por qué? Ni siquiera puedo tratar los sentimientos de estas cartas con la sinceridad con que tú lo haces...
+0059 [Donna] | En realidad, yo estaba igual de perdida que tú cuando empecé... Yo también dudé si debía abrir o no esa carta dirigida a mí.
+0060 [Donna] | Pero aun así me convertí en quien soy hoy: mensajera. ¿Quién sabe? Quizá tú también cambies de opinión algún día, si se presenta la oportunidad adecuada.
+0061 [Donna] | Tómalo como una prueba por un tiempito... Los mensajeros siempre viajan a muchos lugares y se topan con todo tipo de personas y cosas... ¿Quién sabe? Tal vez encuentres tus respuestas en el camino.
+0062 [Freesia] | Mi... respuesta...
+0063 [Narración] | Ese encuentro fue como una ráfaga repentina... Un viento llamado «Donna» que dispersó las nubes oscuras que se cernían sobre mi corazón.
+0064 [Freesia] | Y así comencé a viajar con Donna para entregar cartas. Más tarde conocí a Teresa, nuestra navegante, y poco a poco llegué a comprender la convicción de Donna.
+0065 [Noya] | ¡Qué bonito! Un encuentro casual que cambia todo el rumbo de tu vida... ¡Suena tan romántico!
+0066 [Tú] | Entonces... ¿qué decía en realidad esa carta de tu madre?
+0067 [Freesia] | Esa carta... A decir verdad, todavía no la he abierto.
+0068 [Freesia] | Pero creo que, si sigo trabajando aquí, con el tiempo encontraré una respuesta propia. No una dictada por otros o por mis circunstancias, sino elegida por mi propio corazón. Una respuesta que me pertenezca solo a mí...
+0069 [Freesia] | Así que...==W== hasta que la encuentre, esa carta seguirá sellada.
+0070 [Noya] | ¡Justo eso es lo que hace tan interesante la vida! ¡Cuando piensas «ya me llevó el tren», de la nada se puede abrir un camino nuevo!
+0071 [Freesia] | Cierto. Fue precisamente por haber soportado esos tiempos difíciles que pude conocer a Donna y a Teresa.
+0072 [Freesia] | Antes de eso, pensaba que ser abogada era el único camino que podía tomar... Así que de verdad le estoy agradecida a Donna. Me mostró que había otras formas de vivir.
+0073 [Tú] | Espera... ¿Dijiste abogada?
+0074 [Tú] | Si Freesia tiene licencia de abogada, ¿no podríamos usar su acceso para consultar los archivos sobre «Howard»?
+0075 [Noya] | ¡Oh! ¡¿Entonces solo buscamos el nombre y listo, misterio resuelto?! ¡¿Mientras tengamos a Freesia con nosotros?!
+0076 [Freesia] | Bueno... Pero mi licencia... Actualmente está...==W== Y acceder a información personal sin un motivo válido está prohibido.
+0077 [Freesia] | Pero... Déjenme pensar... Los archivos...
+0078 [Freesia] | ¿Terminaron de clasificar el correo?
+0079 [Tú] | Ah, sí...==W== Más o menos.
+0080 [Freesia] | Aun sin una licencia legal, tal vez haya otras maneras.==W== Por favor, échenme una mano.
+0081 [Noya] | ¡Guau! Freesia, ¿qué son todos estos libros tan gruesos...?
+0082 [Freesia] | Conforme a la ley de acceso a la información pública del Continente Nova sobre la historia de las ciudades-estado, pedí prestados los registros de inscripción archivados; son documentos que cualquier persona puede consultar.
+0083 [Freesia] | Registros de cambios de vecindario y de propietarios... Si la familia Howard de verdad vivió en el Puerto Bellin, tal vez encontremos algún rastro de ella aquí.
+0084 [Tú] | Ya veo. Aun así, es una cantidad increíble de papel...
+0085 [Freesia] | Esa carta era bastante antigua...==W== Así que pedí los registros de los últimos veinte años.
+0086 [Noya] | ¡¿Veinte años?!
+0087 [Tú] | Tanta información... Me da vueltas la cabeza...
+0088 [Freesia] | En realidad es igual que clasificar correo. Solo concéntrense en la información necesaria y pasen las páginas una por una.
+0089 [Freesia] | Lo único que tenemos que buscar ahora es el nombre «Howard». Es más simple que clasificar todas esas cartas.
+0090 [Freesia] | ¡Repartamos el trabajo!
+0091 [Noya] | ¡Y-Yo haré mi mejor esfuerzo!
+0092 [Noya] | Howard... Howard... ¡Ah!==W== ¡Lo encontré! Lo encontré, pero...
+0093 [Tú] | Noya, ¿qué pasa?
+0094 [Noya] | El dueño de esta tienda de equipo... Su nombre sí era Howard, pero la tienda ya cerró...
+0095 [Freesia] | ... En la misma dirección, unos años después abrió una nueva tienda de equipo con el nombre «Justin».
+0096 [Noya] | ¿Se habrá mudado el señor Howard?
+0097 [Tú] | No lo sé, pero creo que hace falta una investigación de campo... Si son del mismo ramo, la tienda que abrió después podría saber algo.
+0098 [Freesia] | El Jefe tiene razón. Cuando Donna y los demás regresen, lo hablaremos todos juntos.
+0099 [Tú] | Según la información que reunimos, este tiene que ser el local de Howard.
+0100 [Freesia] | Gracias a todos, ya puedo confirmar la conexión entre «Howard» y «Justin».
+0101 [Donna] | Los Howard eran una famosa línea de artesanos. Coincide perfectamente con el resultado de la investigación de Freesia.
+0102 [Amber] | La razón de su desaparición encaja.
+0103 [Teresa] | ¡Y la dirección coincide con mi mapa también! ¡Este es definitivamente el lugar!
+0104 [Iris] | ¡Buen trabajo, Teresa!
+0105 [Donna] | ¡Buen trabajo, todos! Aunque ya se hizo tarde. Hagamos la entrega mañana.
+0106 [Donna] | Todos trabajaron muy duro. ¡Esta noche se merece un premio! ¡Preparé un banquete! ¡Coman todo lo que quieran!
+0107 [Amber] | Zzz... Zzz...
+0108 [Noya] | Uf... Estoy llena... No me cabe un bocado más...
+0109 [Tú] | Ahora que todos estamos bien alimentados, ¡estamos cargados para mañana!==W==
+0110 [Tú] | ¿Hm?
+0111 [Tú] | ¿Donna? ¿A dónde irá a estas horas...?
+0112 [Donna] | ¡Ah! ¿Jefe? ¿Te desperté?
+0113 [Tú] | Todavía estaba despierto. Qué raro... No tengo nada de sueño.
+0114 [Donna] | ¡Jeje, a mí me pasa igual!
+0115 [Donna] | ¡Me divertí muchísimo esta noche! Quizá estoy demasiado emocionada para dormir.
+0116 [Tú] | Tu comida estuvo increíble.==W== Hacer todo eso de golpe... debió de ser agotador.
+0117 [Donna] | ¡Para nada! Sentí como si mi familia de pronto se hubiera hecho mucho más grande. ¡Disfruté cada segundo!==W== Me encanta tener a todos juntos, con ruido y alboroto.
+0118 [Donna] | Al principio, era yo sola repartiendo las cartas.
+0119 [Donna] | Yo sola no había manera de terminar todas las entregas de una sola vez.
+0120 [Donna] | Tenía que dividir las rutas y hacerlas día por día.
+0121 [Donna] | Viéndolo ahora... no tengo idea de cómo le hacía.
+0122 [Tú] | Solo de pensarlo me da dolor de cabeza...
+0123 [Donna] | ¿Verdad?
+0124 [Donna] | Pero luego llegaron Freesia y Teresa, y fundamos Post Haste. Ahora podemos lograr muchísimo más.
+0125 [Donna] | Entre preocupaciones y alegrías, estamos juntas. Estos días soy tan feliz... Hasta me da un poco de miedo.
+0126 [Donna] | Es que...==W== no quiero volver a estar sola nunca más.
+0127 [Tú] | ¿Donna?
+0128 [Donna] | ¡Ah! Uy, eso sonó medio raro, ¿no?==W== ¡No quise decir nada profundo! Es solo que...
+0129 [Donna] | ¡Mira, el trabajo no deja de acumularse! Una sola persona definitivamente no puede entregarlo todo, ¿verdad?==W== O sea, lo que quise decir es que ¡ir por la vida sola ya no es una opción!==W== ¡No, para nada!
+0130 [Donna] | ¡En fin! Mañana hay que madrugar, ¡así que me voy a dormir!==W== ¡Buenas noches, Jefe!
+0131 [Tú] | Buenas noches.
+0132 [Tú] | ¿Qué fue esa sensación tan extraña...? Por una fracción de segundo, Donna parecía una niña a punto de llorar...
+0133 [Donna] | Es que...==W== no quiero volver a estar sola nunca más.
+0134 [Tú] | No quiere volver a estar sola nunca más, eh...

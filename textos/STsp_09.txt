@@ -1,0 +1,6 @@
+# Nova Times #09 · Pareja por un día — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_09_01 | Pareja por un día (Parte I)
+STsp_09_02 | Pareja por un día (Parte II)
+STsp_09_03 | Pareja por un día (Parte III)

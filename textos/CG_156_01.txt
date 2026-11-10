@@ -1,0 +1,68 @@
+# Historia de Nazuna · 1 · Small Room, Big Clean-up (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Un cuarto pequeño, una limpieza enorme (Parte I)
+0003 [Intro] | La Parca ha emitido el veredicto final y el fin está cerca. Fue entonces cuando apareció esa persona.
+0004 [Tú] | Con permiso.
+0005 [Tú] | ...==W== No hay nadie...==W== ¿Llegué demasiado temprano? Pensé que llegaba justo a tiempo.
+0006 [Tú] | Qué raro. Cuando hablamos ayer, Nazuna dijo que hoy estaría aquí.
+0007 [Tú] | ¡Con permiso!==W== Ayer prometí traerte esto. Lo dejo en el vestíbulo.
+0008 [Tú] | ... Nadie contesta.
+0009 [Tú] | En fin, ya entregué las cosas, no hay razón para quedarme más tiempo.
+0010 [Tú] | Es hora de irme.
+0011 [???] | ¡Iiih—!
+0012 [Tú] | ¿Esa voz es...?
+0013 [Tú] | ¡Nazuna! ¿Estás bien?
+0014 [Nazuna] | Mis amigos...
+0015 [Tú] | ¿Tus amigos?
+0016 [Nazuna] | Mis amigos ...==W== están heridos...
+0017 [Tú] | ...¿Eh?
+0018 [Tú] | Ya veo, las muñecas llevan demasiado tiempo amontonadas, así que se humedecieron.
+0019 [Tú] | No te preocupes.==W== Hay manera de limpiar y secar las partes húmedas.
+0020 [Nazuna] | ¿¡En serio!? Fiu...
+0021 [Tú] | Nazuna, deberías mantener tu cuarto ordenado. Ya no eres una niña pequeña.
+0022 [Nazuna] | ¡Ah! Kaede dijo lo mismo.
+0023 [Tú] | ¿Lo mismo?
+0024 [Nazuna] | Así...
+0025 [Narración] | Un día antes.
+0026 [Kaede] | Nazuna, ya eres una persona adulta.==W== Una persona adulta de verdad mantiene su cuarto ordenado.
+0027 [Kaede] | Sobre todo tus amigos favoritos...
+0028 [Kaede] | Suspiro... Haces que suene como tu mamá...
+0029 [Nazuna] | ¿No quieres ser mi mamá, Kaede?
+0030 [Kaede] | No es tanto eso...
+0031 [Kaede] | ¡Espera!==W== No trates de cambiar de tema.
+0032 [Kaede] | En fin, tienes muchos amigos en tu cuarto. Eso en sí está bien.
+0033 [Kaede] | Pero no puedes dejarlos a todos tirados por ahí así. Eso sí que no.
+0034 [Nazuna] | Pero mis amigos son todos muy importantes para mí...==W== Quiero estar con todos ellos, todo el tiempo...
+0035 [Kaede] | Con más razón debes tratarlos con más cuidado.==W== No puedes dejarlos donde sea, no es bonito para ellos.
+0036 [Nazuna] | Guaa... Pero...
+0037 [Kaede] | Escucha, mañana Fuyuka y yo tenemos que salir de la ciudad y no volveremos hasta muy tarde pasado mañana. Así que...
+0038 [Kaede] | Nazuna, vas a dejar a todos tus amigos ordenados y alineados antes de que regresemos, ¿verdad?
+0039 [Nazuna] | ¿Eh? Pero tengo planes para mañana.
+0040 [Kaede] | ¿Eh? Pero cuando te pregunté ayer, ¿no dijiste que estabas «tan aburrida que ya te estaba saliendo moho»?
+0041 [Nazuna] | Ugh... Está bien, está bien.==W== Me aseguraré de limpiar mi cuarto antes de que regresen.
+0042 [Tú] | Ya veo.
+0043 [Tú] | Mejor pórtate bien y limpia tu cuarto.
+0044 [Tú] | Si las cosas siguen así, el resto de tus muñe—==W==eh,==W== amigos—==W==también podrían humedecerse.
+0045 [Nazuna] | ¡Ay noooo!
+0046 [Nazuna] | ¡Decidido! ¡Aunque sea por el bien de mis amigos, voy a limpiar este cuarto!
+0047 [Nazuna] | P-Pero...==W== Hacerlo todo yo sola...
+0048 [Narración] | De pronto,==W== Nazuna me jala la esquina de la camisa==W== y me mira con ojos llorosos.
+0049 [Tú] | Na... ¿Nazuna?
+0050 [Nazuna] | ¿Por favor...?
+0051 [Nazuna] | Ayúdame, ==PLAYER_NAME==.==W== Si no termino de limpiar para mañana, Kaede se va a enojar muuuchísimo.
+0052 [Tú] | ¿Qué voy a hacer contigo...==W== Está bien. Total, hoy no tenía planes.
+0053 [Nazuna] | ¡Yupi! ¡Por eso eres a quien más quiero, ==PLAYER_NAME==!
+0054 [Tú] | No abuses... Solo esta vez, ¿sí?
+0055 [Tú] | Después de esto, Nazuna, tienes que limpiar tu cuarto tú sola. Si no, ¿de qué sirve?
+0056 [Nazuna] | ¡Sí♪ ¡Manos a la obra~!
+0057 [Tú] | Suspiro...==W== No puedo evitar sentir que me metí en un problema.

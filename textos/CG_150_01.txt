@@ -1,0 +1,84 @@
+# Historia de Laru · 1 · The Great Fry-tastrophe (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Chatty Employee | Empleado parlanchín
+N:Curious Employee | Empleado curioso
+N:Passerby Trekker | Trekker de paso
+N:avg1_150 | Laru
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_196 | Empleada corporativa
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El gran desastre de las papas (Parte I)
+0003 [Intro] | Laru tiene una regla: nada de hablar de trabajo mientras pesca. Pero si pescas algo, te presta toda su atención.
+0004 [Narración] | Un día entre semana, soleado.
+0005 [Tú] | ¿La Tienda de Almas? Seguro llegué aquí distraído.
+0006 [Tú] | Con este clima tan bonito, seguro Laru se escapó del trabajo para ir a pescar...
+0007 [Chatty Employee] | ¿Ya te enteraste?
+0008 [Chatty Employee] | No sé quién armó el pedido del té de la tarde de este mes, pero todo el mes han sido puras papas fritas de distintos sabores.
+0009 [Curious Employee] | ¿Nuestro té de la tarde? Ay, por favor, ¿papas fritas todos los días por un mes entero? Es demasiado.
+0010 [Chatty Employee] | Ya quisieras. Como si nos fueran a tratar así. Hablo del té de la tarde del Senado.
+0011 [Chatty Employee] | Fui a la sede por un asunto y justo vi a Lady Albedo despotricando por eso.
+0012 [Chatty Employee] | A quien haya hecho el pedido le espera un problema enorme.
+0013 [Tú] | ¿Papas fritas...? ¿Será Laru?
+0014 [Tú] | ¿Debería avisarle?
+0015 [Tú] | No se ve por ningún lado.
+0016 [Tú] | Qué raro. Debería estar pescando por aquí cerca.
+0017 [Tú] | Mmm … esa lanza que sostiene la estatua... Me suena familiar...
+0018 [???] | ¡Oye!
+0019 [Tú] | ¡Órale! ¡Se … se movió!
+0020 [???] | ¡Demonios, se escapó! ¡Mi pez...!
+0021 [Laru] | ¿Quién rayos llega y espanta a mi pez así?
+0022 [Laru] | Ah, eres tú, Jefe.
+0023 [Laru] | No me digas que Willow te pagó para impedirme pescar.
+0024 [Tú] | Tengo algo importante que decirte.
+0025 [Laru] | ¿Algo importante? No me digas que es del trabajo.
+0026 [Laru] | ¡No, no escucho! ¡Esta es mi hora de pesca!
+0027 [Tú] | ¿No cometiste algún error en el trabajo, verdad?
+0028 [Laru] | Claro que no.
+0029 [Laru] | Ya me conoces. Jamás me equivoco en el trabajo.
+0030 [Tú] | Es cierto... Quizá solo le estoy dando demasiadas vueltas.
+0031 [Tú] | Aun así, en todo el Imperio de la Gracia, probablemente es la única a quien de verdad le gustan las papas fritas. Mejor lo confirmo.
+0032 [Laru] | Bueno, basta de hablar de trabajo. Ya que estás aquí, ¿por qué no te unes?
+0033 [Laru] | Hoy eché como un kilo y medio de carnada molida. Hasta alguien sin experiencia pescaría algo.
+0034 [Tú] | ¿De verdad estás pescando o nada más alimentando a los peces?
+0035 [Laru] | Shhh—==W==¡picó uno, picó uno!
+0036 [Laru] | Guau, qué fuerza—
+0037 [Laru] | ¡Es grande! ¡Tiene que ser enorme!
+0038 [Laru] | ¡Maldición, no se cansa nada! ¡Si sigue así, se va a escapar!
+0039 [Laru] | Oye, Jefe. ¡Toma la caña!
+0040 [Tú] | ¿Eh—??? ¿¿¿Qué hago con esto????
+0041 [Laru] | ¡Solo agárrala fuerte, no dejes que se suelte!
+0042 [Narración] | Laru se lanza al agua sin dudarlo.
+0043 [Tú] | ¿En serio? ¿Harías eso por un pez?
+0044 [Laru] | ¡Yuju—==W==esto es genial! ¡Un pez gigantesco! Debe de pesar más de tres kilos... No, ¡cuatro y medio!
+0045 [Laru] | ¡Eso sí es pescar! ¡Je, mi ataque relámpago selló su destino!
+0046 [Tú] | Felicidades.
+0047 [Tú] | ¿La gente normal de verdad se mete al agua a atrapar el pez ella misma?
+0048 [Laru] | ¡Rápido, rápido, tómame una foto! ¡Y haz que el pez se vea grande!
+0049 [Laru] | Mañana voy a poner esta foto donde todos la vean en la oficina.
+0050 [Laru] | ¡Oye, tú! ¡¿Cómo supiste que acabo de sacar un pez tan enorme?!
+0051 [Passerby Trekker] | ¿Eh? ¿Qué?
+0052 [Laru] | No te pongas celoso. Este...==W== Je, ni siquiera es mi captura más grande.
+0053 [Passerby Trekker] | Ah, sí, está bastante grande.
+0054 [Passerby Trekker] | Ahora, con permiso. Que le vaya bien.
+0055 [Laru] | Este pez es señal de que mi suerte está cambiando. ¡Hoy me va a ir buenísimo, je!
+0056 [Tú] | Tu ropa sigue goteando...
+0057 [Laru] | Pan comido.
+0058 [Laru] | ¡Se seca fácil con Magia Lux!
+0059 [Laru] | ¿Qué haces ahí parado? ¡Siéntate y pesca conmigo!
+0060 [Tú] | Está bien. Pesquemos y platiquemos. Hay algo que oí...
+0061 [Laru] | ¿Sigues pensando en el trabajo? Vamos, ahorita es momento de aprovechar el impulso. ¡Primero pescar, luego trabajar!
+0062 [Tú] | ¿Me dejas terminar?
+0063 [Laru] | Pfff, es solo trabajo. No hay que estresarse hasta el día de la fecha límite.
+0064 [Tú] | ...
+0065 [Laru] | Está bien, está bien. Ya quita esa cara larga.
+0066 [Laru] | Hoy estoy de buen humor, así que haré una excepción y escucharé cosas del trabajo mientras holgazaneo.
+0067 [Laru] | Con una condición...==W== Tú también tienes que pescar algo.
+0068 [Laru] | Toma, aquí tienes. Te presto mi caña de repuesto.

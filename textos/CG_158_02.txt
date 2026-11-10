@@ -1,0 +1,70 @@
+# Historia de Snowish Laru · 2 · Gifts on Delivery (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Injured Trekker | Trekker herido
+N:avg1_132 | Minova
+N:avg1_158 | Laru
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Regalos a domicilio (Parte II)
+0003 [Intro] | Primera prueba del sistema de entrega por cañón: la cápsula que disparamos... ¿Por qué está regresando?
+0004 [Tú] | ¿De verdad está bien colgar así...? Albedo es tu superiora, ¿no?
+0005 [Laru] | ¡Está bien, está bien! Solo estaba haciendo la prueba de entrega por cañón por órdenes de Albedo, ¿no?==W== Tirano, tú puedes dar fe de eso, ¿verdad?
+0006 [Tú] | Mmm... Sí, es cierto.
+0007 [Laru] | O sea... Aunque los resultados de la prueba no sean ideales, eso es solo consecuencia de seguir órdenes, ¿no? Pase lo que pase, es culpa de la superiora que dio la orden—==W==¿verdad?
+0008 [Tú] | Parece que se agarra de un clavo ardiendo...
+0009 [Tú] | Si acabas probando tu propia medicina otra vez, no digas que no te lo advertí.
+0010 [Laru] | Tirano, te preocupas demasiado~==W== Tienes que tener un poco de ese espíritu libre.
+0011 [Tú] | ¡Tienes demasiado espíritu libre!
+0012 [Laru] | La vida es corta. Aprovecha el día, aprovecha el día...==W== ¿Eh?
+0013 [Tú] | Hay alguien sentado bajo ese árbol...==W== Vamos, vayamos a ver.
+0014 [Tú] | Oye, ¿necesitas ayuda?
+0015 [Injured Trekker] | Ah, perdón por preocuparlos.
+0016 [Laru] | ¿Te sientes bien?
+0017 [Injured Trekker] | Sí... Me torcí el tobillo hace rato. Solo necesito descansar un momento.
+0018 [Injured Trekker] | Pero si me retraso más, no llegaré a la fecha límite de la comisión...==W== Suspiro...
+0019 [Laru] | ¿Cuánto tiempo te queda?
+0020 [Injured Trekker] | Es una comisión urgente de Artefactos. Quedan ...==W== menos de cinco minutos. Estoy perdido.
+0021 [Laru] | ¡Entonces qué tal esto!
+0022 [Tú] | No estarás pensando en—
+0023 [Laru] | ¡Exacto! ¡Este es justo el momento para que el cañón brille! ¡Contempla el poder de mi Sistema de Entrega por Cañón!
+0024 [Injured Trekker] | ¿Sistema de Entrega por Cañón? ¿Qué es eso?
+0025 [Laru] | ¿Lesiones repentinas? ¡No hay problema! ¡Maneja cualquier emergencia con facilidad! ¡Este es el rey de las entregas del futuro! ¡Se acabaron los días de repartir paquetes a pie~!
+0026 [Injured Trekker] | Suena impresionante... Pero debe ser caro, ¿no?
+0027 [Laru] | ¡Producto nuevo: prueba gratuita~!==W== ¡Solo por esta vez!
+0028 [Injured Trekker] | ¡¿Gratis?!
+0029 [Laru] | Nuestro encuentro debe estar guiado por el Dios de la Gracia... Je, je, ¡déjame mostrarte cómo funciona!
+0030 [Tú] | ¡Espera!==W== ¡¿No falló el último intento?!
+0031 [Laru] | No te preocupes, no te preocupes. Como dice el dicho, ¡el fracaso es la madre del éxito! Esa última prueba me dio un dominio perfecto del equilibrio entre la distancia y la infusión mágica.
+0032 [Tú] | ...
+0033 [Laru] | ¡Ya verás!==W== Estos son los Artefactos de tu entrega urgente, ¿verdad? ¿A dónde van?
+0034 [Injured Trekker] | Al Clan Viento de Ceniza...==W== ¿De verdad estará bien? No se dañarán, ¿verdad...?
+0035 [Laru] | Tranquilo, los empacaré en cápsulas amortiguadoras.==W== A ver...==W== El Clan Viento de Ceniza está en esa dirección...
+0036 [Laru] | Las dos en punto,==W== distancia dos mil quinientos,==W== elevación cuarenta y cinco grados...==W== Viento estable,==W== cápsula cargada,==W== ¡energía mágica lista!
+0037 [Tú] | Cuánta seguridad... ¡Quizá de verdad funcione!
+0038 [Laru] | Sistema de Entrega por Cañón—==W==¡fuego!
+0039 [Narración] | Mientras tanto, en el Clan Viento de Ceniza—
+0040 [Neuvira] | ¿Te enteraste? ¡La Tienda de Almas fue bombardeada hace rato por un cañón misterioso!
+0041 [Minova] | Sí, lo oí. No sé si los atacantes iban contra el Imperio de la Gracia o solo disparaban a lugares al azar...==W== De todos modos, mantengan los ojos abiertos.
+0042 [Vollara] | ¡Capi, viene un proyectil hacia nosotros!
+0043 [Minova] | Tsk... Hablando del rey de Roma.==W== ¡Mientras yo esté aquí, nadie tocará al Clan Viento de Ceniza!
+0044 [Minova] | ¡Hyaaaaaaaah!
+0045 [Vollara] | ¡Buen trabajo! ¡Sabíamos que podías!
+0046 [Narración] | Y así, la paz volvió una vez más al Clan Viento de Ceniza.
+0047 [Laru] | Ahora, hay que revisar el estado de la entrega. Mis cálculos fueron impecables. Debió salir perfecto...==W== ¿Eh?
+0048 [Tú] | ¿Sí?
+0049 [Laru] | ¡Algo viene volando hacia nosotros!
+0050 [Laru] | ¡¿Es—es la cápsula?!==W== ¡Tirano, agáchate!
+0051 [Laru] | ¿Qué acaba de pasar? ¡¿Por qué regresó la cápsula?!==W== Noooo... Mi cañón...
+0052 [Tú] | Quedó completamente destruido... Ese contraataque fue brutal.
+0053 [Tú] | ¡Al menos la cápsula está intacta!==W== Pero con el cañón destruido, no hay forma de continuar las entregas...
+0054 [Laru] | ...
+0055 [Tú] | Pausemos la prueba por ahora. Como lo prometimos, tendremos que entregar la mercancía a pie~
+0056 [Laru] | ¡Noooooo! ¡¡¡¿Cómo pudo pasar esto?!!!

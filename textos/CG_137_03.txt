@@ -1,0 +1,116 @@
+# Historia de Eleanor · 3 ·  Something's on Her Mind (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Stressed Trekker | Trekker estresada
+N:avg1_103 | Amber
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Algo le preocupa (Parte III)
+0003 [Intro] | ¡Toma su mano y lánzala a un deslumbrante baile!
+0004 [Eleanor] | Perdón por haberlo preocupado antes, Mentor.==W== ¡Ya me recuperé por completo, se lo prometo!
+0005 [Tú] | Mientras hayas aprendido la lección, eso es lo que cuenta.==W== Como es tu primer día de regreso, ¿qué tal si empezamos con esta comisión?
+0006 [Eleanor] | A ver...==W== ¿Auditar un libro de cuentas?==W== ¡¿Y la clienta es capitana de un gremio?!
+0007 [Tú] | Esta comisión podría ser el empujón que necesitas.
+0008 [Eleanor] | ¡Entendido! ¡Daré lo mejor de mí!
+0009 [Eleanor] | Perdón por la espera. El libro de cuentas está completamente ordenado. Por favor, échele un vistazo.
+0010 [Stressed Trekker] | ¡Gracias! Sin su ayuda, señorita Eleanor, me habría quedado atrapada sacando cuentas para siempre.
+0011 [Stressed Trekker] | Yo... quiero ser tan capaz como usted.==W== Si tiene algún consejo secreto para hacer las cosas con tanta eficiencia, ¡por favor, compártalo!
+0012 [Eleanor] | ... ¿Cómo lo digo? Es algo que he estudiado por años. No los llamaría consejos secretos...
+0013 [Stressed Trekker] | ¡Ya veo! ¡Todo se reduce al esfuerzo constante! Alguien tan asombrosa como usted debe de liderar un gremio famoso, ¿verdad?
+0014 [Eleanor] | ¡Se equivoca! Espero liderar un equipo algún día, pero aún me falta mucho camino.
+0015 [Stressed Trekker] | ¡Jaja! Es confiable y capaz, señorita Eleanor. ¡No hace falta que sea modesta!==W== Cuando llegue a ser capitana, ¡su gremio será una estrella en ascenso, igual que usted!
+0016 [Eleanor] | ¡Gracias por el cumplido!
+0017 [Tú] | Je, parece que la clienta quedó impresionada contigo.
+0018 [Eleanor] | Me alegra oír eso, pero... ¿no fue un poco generosa?
+0019 [Tú] | Para nada. Lo dijo en serio, cada palabra. Eso demuestra cuánto confía en ti.
+0020 [Tú] | Bien, vamos a buscar nuestra siguiente comisión.
+0021 [Willow] | ¡Eleanor, aquí estás! ¿Te sientes mejor?
+0022 [Eleanor] | Mucho mejor, gracias. Señorita Willow, perdón por todos los problemas que causé el otro día.
+0023 [Willow] | No te preocupes, no fue nada. No te exijas demasiado de ahora en adelante, ¿vale?
+0024 [Willow] | ¿Vienen a recoger una comisión nueva?
+0025 [Tú] | Así es. ¿Tienes algo en lo que Eleanor pueda poner en práctica sus habilidades?
+0026 [Eleanor] | ... ¿Mis habilidades?
+0027 [Willow] | Ya veo...==W== ¿Qué tal esta, de la sede de la Asociación de Trekkers? Eleanor ya la ha hecho antes y siempre ha hecho un gran trabajo.
+0028 [Tú] | ¿Oh?==W== ¿De qué se trata?
+0029 [Eleanor] | ¡Mire, Mentor! ¡El paisaje por aquí es precioso!
+0030 [Tú] | Hasta se ve el Monolito desde allá. Un lugar perfecto para dibujar.
+0031 [Tú] | Hablando de eso, no sabía que ilustrabas para la Revista de Geografía de Nova. Es impresionante.
+0032 [Eleanor] | Bueno, dibujo desde pequeña. Al principio fue difícil aprender, pero con el tiempo empecé a usarlo para plasmar lo que sentía.
+0033 [Eleanor] | En aquel entonces, debo de haber dibujado la vista desde mi ventana cien veces...
+0034 [Tú] | ¿Ves? Todas esas habilidades que desarrollaste entonces siguen dando frutos ahora que eres Trekker.
+0035 [Eleanor] | Es cierto. La comisión del libro de cuentas de esta mañana salió bien gracias a todo ese entrenamiento de heredera...==W== Ah.
+0036 [Eleanor] | ... ¿O sea que mi vida como noble y como Trekker en realidad están conectadas?
+0037 [Tú] | Por fin lo entendiste, ¿verdad?
+0038 [Tú] | Sigue avanzando en esta dirección. Cumple tus comisiones de Trekker mientras desarrollas las habilidades que necesitas como heredera.
+0039 [Tú] | Ganas experiencia de campo para liderar un gremio, mientras creces con tus estudios ahora mismo.==W== Ambas cosas te importan, ¿no es así?
+0040 [Tú] | Tu tiempo y energía son limitados, obviamente. El truco está en mejorar tu eficiencia y elegir comisiones que de verdad te convengan.
+0041 [Eleanor] | ¡Es increíble, Mentor!==W== ¡Nunca se me ocurrió verlo de esa forma!
+0042 [Eleanor] | Siempre di por hecho que ser Trekker y ser noble eran polos opuestos...==W== Hui en aquel entonces porque sentía que una chica protegida que nunca salía de casa jamás podría convertirse en una verdadera Trekker...
+0043 [Eleanor] | Pero ahora sé que en realidad no chocan. Se nutren mutuamente. ¡Algún día, hasta una dama noble puede llegar a ser Trekker!
+0044 [Tú] | Otra vez con ese «algún día»...==W== Ya vas camino a lograr ese sueño, ¿no?
+0045 [Tú] | De ahora en adelante, administra bien tu tiempo. Alinea tus metas de Trekker con tus deberes de noble.
+0046 [Eleanor] | ¡Sí!==W== De pronto me siento mucho más segura. Aunque...==W== Je, je, querer ser a la vez una excelente Trekker y una dama elegante... ¿será demasiada ambición?
+0047 [Tú] | ¿Qué tiene de malo un poco de ambición?
+0048 [Tú] | Ser Trekker se trata de libertad. Nunca tienes que limitar tu propio potencial.
+0049 [Eleanor] | Ah...
+0050 [Tú] | No dudes de ti tan rápido.
+0051 [Tú] | Los Trekkers son más libres y tienen más potencial que nadie.
+0052 [Eleanor] | Ya veo... Me lo dijo hace mucho tiempo.==W== Je, supongo que volé de regreso a mi jaula sin darme cuenta.
+0053 [Tú] | Me alegra que por fin te hayas librado de eso. En fin, terminemos esta comisión antes de que anochezca. Todavía tenemos un bosque por explorar.
+0054 [Eleanor] | Guau...==W== ¡Mentor, mire! ¡Estas flores son preciosas!
+0055 [Tú] | Sí, es una vista excelente. ¿Quieres dibujar este lugar también?
+0056 [Eleanor] | ¡Me leyó la mente!
+0057 [Eleanor] | ... Me recuerdan a las flores de un libro ilustrado de mi infancia. Puras e inmaculadas.==W== Ahora que lo pienso, solía soñar con ser una de esas princesas con corona de flores.
+0058 [Eleanor] | Je, mi yo de antes jamás habría imaginado esto. En aquel entonces, solo me imaginaba encerrada en esa mansión, haciéndome cargo sin pensar del negocio de Padre y dejando pasar el resto de mi vida.
+0059 [Tú] | ... Eleanor, ¿alguna vez te arrepientes de haberte vuelto Trekker?
+0060 [Eleanor] | ¡Claro que no! He enfrentado peligros y dificultades, pero el crecimiento y las recompensas lo valen. Por eso siempre me entrego al máximo... Aunque termine desplomándome...
+0061 [Tú] | Eso no es algo que yo te recomendaría. Por favor, ten más cuidado de ahora en adelante.
+0062 [Eleanor] | ¡Lo sé! Aprendí la lección.
+0063 [Eleanor] | ... Si no me hubiera vuelto Trekker, nunca habría comprendido lo vasto que es el mundo. Ni que las flores sin nombre de mis libros florecen en la vida real.
+0064 [Eleanor] | Ver cómo se expande mi mundo... Nunca me cansaré de explorar lo desconocido.
+0065 [Eleanor] | ¡Incluso con los desafíos por delante, jamás me he arrepentido de perseguir mi sueño!
+0066 [Tú] | Qué bueno...
+0067 [Eleanor] | Ah, me dejé llevar hablando y olvidé dibujar. Ahora debo concentrarme, Mentor.
+0068 [Tú] | Está bien. Daré un paseo por los alrededores.
+0069 [Eleanor] | Listo, eso debería bastar. ¡Mentor, terminé!
+0070 [Tú] | Justo a tiempo. Yo también acabo de terminar mi paseo.
+0071 [Eleanor] | Perdón por hacerlo esperar, Mentor.
+0072 [Tú] | No te preocupes. Oye...==W== Eleanor, ¿podrías cerrar los ojos?
+0073 [Eleanor] | ¿Los ojos?==W== Está bien...
+0074 [Tú] | ... Listo, ábrelos.
+0075 [Eleanor] | ¿Mentor? ¿Me puso algo en la cabeza...==W== Oh...!
+0076 [Eleanor] | ¿Esto es...==W== una corona de flores!?
+0077 [Opción] | La hice mientras pintabas.
+0078 [Eleanor] | Guau...==W== ¡Es hermosa!==W== ¡Y muy linda!
+0079 [Eleanor] | Pero Mentor,==W== ¿por qué una corona de flores...?
+0080 [Opción] | Me di cuenta de que no he celebrado contigo.
+0081 [Opción] | Ya que oficialmente eres reconocida como Trekker.
+0082 [Eleanor] | ¡¿U-una celebración!?==W== ¡Muchísimas gracias!
+0083 [Eleanor] | Eh,==W== ¡Mentor!==W== ¿Me==W== queda bien?
+0084 [Opción] | Por supuesto.
+0085 [Eleanor] | Ejeje...==W== Estoy muy, muy feliz.==W== Siento que soy una princesa de libro ilustrado...
+0086 [Eleanor] | Ser Trekker es increíble, ¿verdad?==W== Me permite cumplir tantos sueños y aspiraciones...==W== Esto es definitivamente algo que==W== jamás habría podido vivir si me hubiera quedado en la mansión.
+0087 [Opción] | Sigamos haciéndolos realidad.
+0088 [Opción] | Todos tus nuevos sueños, Eleanor.
+0089 [Eleanor] | Mis nuevos sueños...==W== Creo que...==W== ahora mismo mi sueño es==W== convertirme en una verdadera «Trekker dama»,==W== fundar un gremio propio,==W== y vivir muchísimas aventuras==W== con mis queridos amigos.
+0090 [Opción] | Es un gran sueño.
+0091 [Opción] | Te apoyaré.
+0092 [Eleanor] | Mentor...==W== Gracias.==W== Me alegra tanto==W== haberlo conocido...==W== Soy verdaderamente feliz de estar bajo su guía.
+0093 [Eleanor] | Por favor, siga==W== viéndome crecer, ¿sí?
+0094 [Opción] | Te lo prometo.
+0095 [Eleanor] | ¡!...==W== ¡Entonces es una promesa!
+0096 [Eleanor] | ¡Ah, cierto, Mentor!==W== ¡Por favor, déjeme hacer algo para agradecerle!
+0097 [Eleanor] | Quería aprender a bailar, ¿verdad?==W== Si le parece bien,==W== ¿qué tal aquí mismo?
+0098 [Opción] | ¿Aquí?
+0099 [Eleanor] | Sí,==W== solo estamos los dos, así que podemos bailar con libertad...==W== Es una pista de baile preciosa, ¿no cree?
+0100 [Opción] | Sí. Y es un lugar hermoso.
+0101 [Eleanor] | Entonces, Mentor,==W== ¡bailemos juntos!
+0102 [Narración] | Tomo su mano con suavidad. La luz del sol se filtra entre las copas de los árboles y la sombra de la preocupación ha desaparecido de su rostro.
+0103 [Narración] | En esta pista de baile privada, sus pasos son ligeros y elegantes, como los de un hada del bosque de espíritu libre.

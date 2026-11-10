@@ -1,0 +1,160 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 5A · La intuición de Noya
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_139 | Allie
+N:avg1_142 | Cosette
+N:avg1_144 | Chitose
+N:avg1_146 | Benito
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_207 | Myrsha
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | La intuición de Noya
+0003 [Intro] | Un extraño presentimiento crece en el corazón de Noya: hoy vas a dejarlas. En el orfanato, sellas con ella una promesa de meñique. Después de afinar el plan de retirada, vas a la negociación para ganar tiempo...
+0004 [Lugar y hora] | 15:50, 18.º del mes de Nebula, Mirage, Orfanato Margarita
+0005 [Noya] | ...==W== Desde que salimos de la habitación secreta del Gato Blanco... He tenido este presentimiento muy pesado...
+0006 [Noya] | De que hoy... es el día en que nos dejas.
+0007 [Tú] | ¿El día en que las dejo? ¿Qué está pasando?==W== La intuición de Noya siempre da en el clavo. ¿Acaso...==W== cree que voy a morir?
+0008 [Tú] | No, no puede ser. Ya he enfrentado muchos peligros antes. Noya nunca se había alterado así solo por una corazonada.
+0009 [Tú] | Quizá la herida le está afectando. Si a eso le sumas que ahora las cosas están peor que de costumbre... ¿Será que el miedo le nubla el juicio?
+0010 [Tú] | Mmm...==W== Mientras tenga la Sala Blanca, la muerte no es permanente para mí. Aunque sigue doliendo, y no es algo que pueda explicarle a Noya. Mejor la consuelo por ahora.
+0011 [Tú] | No te preocupes, Noya. Diga lo que diga tu intuición, no me voy a ir a ningún lado.
+0012 [Noya] | Mm…
+0013 [Narración] | Pero la expresión de Noya solo se vuelve más seria.
+0014 [Noya] | ==PLAYER_NAME==, nunca dudo de tu determinación. Pero mi intuición no entiende de razones.
+0015 [Noya] | Incluso cuando algo parece completamente a prueba de fallas, como si nada pudiera salir mal... Las cosas pasan de todos modos. Una coincidencia, o algún detallito que se me escapó. Y entonces todo sucede justo como lo temía.
+0016 [Noya] | Por eso...==W== Por eso hoy no me he comportado como siempre. No sé qué va a salir mal. Lo único que puedo hacer es...==W== mantenerme ocupada para tener un poco de tranquilidad.
+0017 [Tú] | De verdad tiene miedo por mí. Lanzarse de nuevo contra el Comité de Salvación, ocultar su herida para seguir peleando... Todo lo hizo por mí. Siendo así...
+0018 [Tú] | Todavía tenemos un poco de tiempo. Dime exactamente qué te dice tu intuición, Noya.
+0019 [Tú] | Quizá no pueda convencerte de lo contrario, ya que tu intuición ignora la lógica. Como cuando creíste que estrellar a Loxy contra un Stellaroid gigantesco en el Canal de verdad funcionaría, y funcionó. Pero al menos puedo ayudarte a estar más tranquila.
+0020 [Noya] | ¿E-en serio?
+0021 [Tú] | Porque tu Jefe lo puede todo.
+0022 [Noya] | ¡Cierto! Eres el Jefe que cumple deseos. ==W==Jeje, todavía me debes un deseo, ¿sabes?
+0023 [Noya] | Entonces, Jefe, este es mi deseo.==W== ¡Por favor, quítame esta ansiedad!
+0024 [Tú] | Trato hecho. Entonces dime, ¿cómo se siente exactamente este presentimiento de que me voy?
+0025 [Noya] | Mm... Normalmente, no importa dónde estés, si estoy despierta o dormida, si puedo verte u oírte o no, mi corazón siempre te siente.
+0026 [Noya] | Es difícil de explicar. Como allá en Philae, cuando Chitose y tú entraron al Monolito. Todo el tiempo sentí que estabas a salvo.
+0027 [Tú] | ¿Por lo fuerte que es Chitose?
+0028 [Noya] | No exactamente. Es solo una sensación, de verdad. Sabía que tu viaje iba a salir bien. No sabía si podrías pedir el Artefacto correcto, pero estaba segura de que volverías a salvo y seguirías viajando con nosotras.
+0029 [Noya] | Pero... en cuanto salimos de la habitación secreta del Gato Blanco, perdí esa tranquilidad.
+0030 [Noya] | Aunque caminabas justo a mi lado, tenía un nudo en el estómago. No podía quitarme la sensación de que, si apartaba la vista aunque fuera un segundo, desaparecerías en los túneles.
+0031 [Tú] | Mmm... Eso sí que es difícil de resolver.==W== Espera, cuando hablaste de Laru hace rato, dijiste...
+0032 [Noya] | Saben que mis corazonadas nunca fallan. Y esta vez se siente...==W== diferente. Solo me he sentido así una vez antes.
+0033 [Tú] | ¿Cuándo fue eso? Como estoy aquí sentado contigo sano y salvo, tu corazonada debió equivocarse esa vez. Quizá esa sea la clave de todo esto.
+0034 [Noya] | ¿La última vez? Eh...==W== Me da un poco de pena admitirlo.
+0035 [Tú] | ¿Noya... sonrojada? Eso no se ve todos los días.
+0036 [Noya] | ¡Pero si no te lo digo, voy a seguir con esta ansiedad, y la odio!==W== Está bien. Te lo diré, ¡pero no te puedes reír de mí!
+0037 [Tú] | No me voy a reír. Te lo prometo.
+0038 [Noya] | La última vez que tuve esta sensación... fue al pie del Monolito de Philae.
+0039 [Tú] | ¿Cuando peleamos contra los Tres Grandes? Eso sí fue bastante peligroso.
+0040 [Noya] | No, no en ese momento. Fue cuando Nazuka y tú estaban susurrando al pie del Monolito.
+0041 [Tú] | ¿Eh?
+0042 [Noya] | Nazuka acababa de salir volando contigo. Seguimos a Nazuna y nos escondimos en el bosque para mirar.
+0043 [Noya] | Era una noche hermosa. Y oímos... todo lo que Nazuka te dijo.
+0044 [Noya] | Si pudieron hacer una promesa así, quiere decir que los dos se reconocen como alguien muy importante.
+0045 [Noya] | Ella es hermosa y muy fuerte. Mi intuición me dijo que quedarte en el campamento de Trekkers... y vivir con Petal Bloom quizá iba mejor contigo.
+0046 [Noya] | Aunque sería triste seguir viajando sin ti... No importa, mientras ustedes dos sean felices.
+0047 [Tú] | Nazuka es muy importante para mí.==W== Pero tú, Iris y Amber son igual de importantes. Chitose también. Todas las que han recorrido este camino conmigo son irremplazables.
+0048 [Tú] | Además, Nazuka jamás me dejaría quedarme tranquilo en Philae.==W== Somos Trekkers. Estamos hechos para explorar el mundo. ¿Por qué íbamos a quedarnos en un solo lugar?
+0049 [Noya] | Jeje, sí. Por eso se desvaneció la sensación. Supongo que esa fue la única vez que mi intuición se equivocó.
+0050 [Noya] | Pero esta vez no hay ninguna otra Trekker como Nazuka por aquí...==W== Mi intuición no puede querer decir que la malvada de Angie quiere capturarte y encerrarte para siempre, ¿verdad?
+0051 [Tú] | Angie no me capturaría. Solo me quiere muerto.
+0052 [Noya] | Ah. Ya entendí, Jefe. Ya sé qué es lo que me tiene tan ansiosa.
+0053 [Noya] | Te conozco bien... ¡Si de verdad no tenemos salida, seguro que vas a usarte a ti mismo como moneda de cambio para protegernos!
+0054 [Tú] | Yo...
+0055 [Tú] | Ni siquiera puedo discutirlo. Eso es exactamente lo que haría. Prefiero recibir el golpe yo que verlas sufrir. Además... todavía tengo la Sala Blanca.
+0056 [Tú] | Vita, ¿un Cetro de la Muerte me impediría entrar a la Sala Blanca?
+0057 [Vita] | Tirano, su autoridad para entrar a la Sala Blanca se la otorga la pieza del Rey. El Cetro de la Muerte es solo un arma no mágica. No puede impedirlo.
+0058 [Tú] | Eso lo decide. O el Libro de las Profecías de la Gracia tiene fallas, o Angie lo está interpretando mal.
+0059 [Tú] | No voy a tirar mi vida a la basura ni a romper las reglas de la Sala Blanca, pero no hay razón para dejar que mis compañeras sufran. Si se trata de morir, debería cargarlo yo solo.
+0060 [Noya] | Jefe, ¿por qué no dices nada? No me digas que... ¿de verdad eso es lo que planeas?
+0061 [Tú] | Bueno... No es mi primera opción. Pero si de verdad se reduce a una decisión así, supongo que tu intuición tiene razón.
+0062 [Noya] | ¡No! ¡No puedes hacer eso!
+0063 [Tú] | Sé que te preocupas. Pero... Perder una vida es mejor que perder las de todos.
+0064 [Noya] | ¡Para nada! ¿Crees que podríamos seguir viviendo como si nada si tú murieras?==W== ¡Si vamos a sufrir así, preferimos morir contigo!
+0065 [Noya] | ¡Voy a traer a Iris y a Amber ahora mismo! Voy a hacer que pidan un deseo... ¡Que desees nunca hacer algo tan increíblemente estúpido!
+0066 [Opción] | Tomar la mano de Noya
+0067 [Tú] | No las llames. No preocupemos a nadie más.
+0068 [Tú] | Te lo prometo, no voy a hacer ninguna estupidez. Nunca me usaré como moneda de cambio para su seguridad. Pelearé a tu lado, y al de todas las demás, hasta el final.
+0069 [Noya] | Pero...==W== ya no me quedan deseos.
+0070 [Tú] | Esto es parte de cumplir tu deseo de calmar tu ansiedad. Si necesitas algo más concreto, entonces...
+0071 [Opción] | Ofrecer el meñique
+0072 [Noya] | Entonces está decidido. No te puedes echar para atrás. Toma, promesa de meñique.
+0073 [Tú] | Muy bien. ¡Promesa de meñique!
+0074 [Noya] | Por siempre jamás.
+0075 [Narración] | Noya y yo entrelazamos los meñiques e hicimos un sencillo juramento.
+0076 [Narración] | Noya se queda así, negándose a soltar nuestros dedos entrelazados durante un buen rato.
+0077 [Tú] | ¿Noya?
+0078 [Noya] | Jefe, ¿me dejas quedarme así un ratito más?
+0079 [Noya] | Pienso que... entre más tiempo nos sostengamos, más fuerte será nuestra promesa.
+0080 [Noya] | Ay. Hoy me siento muy rara. Tengo la cabeza llena de cosas en las que nunca pensaría.
+0081 [Tú] | Podemos quedarnos así todo el tiempo que quieras.
+0082 [Tú] | Y la Noya que veo hoy sigue siendo la mejor Noya que hay.
+0083 [Narración] | Mantenemos los meñiques entrelazados en silencio, compartiendo este raro momento de paz.
+0084 [Iris] | Jefe, ¿cómo va la herida de Noya?
+0085 [Amber] | Ya es hora de ir al bar Eureka...==W==
+0086 [Iris] | ¡A-ay, perdón! Parece que llegamos en mal momento.
+0087 [Noya] | ¡No, llegaron justo a tiempo!
+0088 [Noya] | ¡Vengan, entrelacen los meñiques con nosotros!
+0089 [Iris] | ¡¿Eh?! ¿Y qué es exactamente lo que estamos prometiendo?
+0090 [Noya] | ¡No importa! ¡Si entrelazamos los dedos, estaremos juntos para siempre! ¡Entre más tiempo los sostengamos, mejor funciona!
+0091 [Amber] | Bueno...==W== Mejor amarro a todos juntos.
+0092 [Tú] | Oye, Amber, no uses eso...
+0093 [Narración] | Y así terminamos bien atados por el hilo del destino de Amber durante un buen rato, hasta que por fin nos desata.
+0094 [Narración] | Luego, vamos al bar Eureka para nuestra última reunión antes de la negociación.
+0095 [Lugar y hora] | 16:15, 18.º del mes de Nebula, Mirage, bar Eureka
+0096 [Tú] | Según la información que nos mandó Laru, la árbitra con la que peleamos hace rato, la n.º 160, de verdad puede espiar las comunicaciones de Heartlink dentro de cierto radio.
+0097 [Tú] | Así que, para evitar filtraciones, pensé que lo mejor era reunirlas a todas aquí y planear los siguientes pasos en persona.
+0098 [Tú] | Capitana Kasimira, por favor, ponnos al día sobre la evacuación.
+0099 [Kasimira] | Buenas noticias. Chaton encontró un pozo de mina abandonado que lleva al Monolito de las afueras de la ciudad. Algunos tramos están bloqueados por escombros,==W== pero, por suerte, encontramos a una ayudante muy capaz...
+0100 [Cosette] | Uf, ya despejé todos los escombros de aquí. Estoy agotada. Y me muero de sed.
+0101 [Cosette] | ¿Qué le pasa a esta ciudad? Todos esos Centinelas del Alba aparecieron de la nada...==W== Ya me preocuparé después por capturar al Jefe. ¡Por ahora, tengo que mezclarme con la gente de aquí y largarme!
+0102 [Benito] | ¡Wow, Cosette, eres increíble!==W== Diez de nosotros pasamos una hora tratando de quitar una roca de ese tamaño y aun así no pudimos.
+0103 [Cosette] | Jeje, se me da bastante bien cavar.
+0104 [Benito] | Debes tener sed. Toma, un poco de té dulce de cactus.
+0105 [Cosette] | Glu... Glu...==W== ¡Aaah! ¡Recuperé la energía! ¡Voy a quitar las rocas de más adelante!
+0106 [Kasimira] | Con su ayuda, la ruta al Monolito debería estar despejada a más tardar a las 17:00. Si los ciudadanos evacuan por este túnel, todos podrán salir de la zona de combate en tres horas.
+0107 [Tú] | Bien. Entonces mi objetivo mínimo es alargar la negociación al menos hasta las 17:00.==W== Si logramos retrasar a Angie y al Comité de Salvación hasta las 20:00, tendremos tiempo suficiente para retirarnos.
+0108 [Tú] | Nazuka, ¿algún movimiento del Comité de Salvación?
+0109 [Nazuka] | Por mi parte, solo malas noticias. Según mi reconocimiento, el Comité de Salvación tomó el control de los Escorpiones del Desierto y de la Guardia Imperial local.
+0110 [Noya] | ¿No estaban ya bajo el control del Comité? Estaban entre las fuerzas a las que contraatacamos hace rato.
+0111 [Amber] | Y la tormenta de arena de Hazana.
+0112 [Nazuka] | En ese momento, ni los Escorpiones del Desierto ni la Guardia Imperial se habían movilizado a gran escala. Probablemente eran acciones individuales, o agentes encubiertos del Comité.
+0113 [Nazuka] | Pero hace media hora, el Comité irrumpió en ambos campamentos y arrestó a cualquiera que se resistiera. Hasta vi a Myrsha atada.
+0114 [Nazuka] | Así que antes no les obedecían del todo. Como sea, con ambas fuerzas sumadas a sus filas, ahora el Comité puede comandar a unos mil soldados.
+0115 [Iris] | M-mil...==W== ¿Mil?==W== Incluso con los Gatos Blancos, solo somos sesenta o setenta personas...
+0116 [Tú] | No te preocupes, Iris. Los juntaron a última hora, así que su cadena de mando seguro está desorganizada. Nuestro objetivo es escapar, así que su gran número incluso podría jugar a nuestro favor.
+0117 [Tú] | En el orfanato todavía hay algunas armaduras de la Guardia Imperial y uniformes de los Escorpiones del Desierto, ¿verdad?
+0118 [Iris] | S-sí, así es. Los niños rescataron algunas armaduras, y a veces los Escorpiones nos traen ropa para remendar. Nos quedan unas cuantas piezas.
+0119 [Tú] | Nos las llevaremos. Cuando caiga la noche, nos las pondremos y nos mezclaremos con sus escuadrones. Así al Comité le costará más encontrarnos.
+0120 [Amber] | Buen plan. Yo voy por la ropa.
+0121 [Tú] | ¿Cómo va la evacuación de los niños?
+0122 [Iris] | Mamá organizó a los niños y los tiene esperando en el pozo de la mina.==W== Fuyuka y Nazuna la están ayudando.
+0123 [Tú] | Cuando terminemos aquí, Iris, llévate a Amber y vayan a ayudarlas. Kasimira va a necesitar toda la ayuda posible para evacuar a los ciudadanos de Mirage.
+0124 [Iris] | ¿Y tú? Negociar con Angie es peligrosísimo.
+0125 [Tú] | Noya, Chitose y Nazuka me protegerán. A la hora de escapar, un grupo grande solo complicaría las cosas.
+0126 [Iris] | E-está bien.
+0127 [Tú] | Y por último...==W== La gran Chaton.
+0128 [Chaton] | ¡Jojo! ¡El Jefe me llama «la gran Chaton»!==W== ¿Por fin reconoces mi poder oscuro?
+0129 [Tú] | Tengo una tarea importantísima para ti, una que solo alguien con poderes oscuros puede cumplir.
+0130 [Tú] | Encuentra la forma de contactar a Minova y a los demás fuera de la ciudad. Diles lo que estamos haciendo y que se retiren en el momento adecuado.
+0131 [Chaton] | Jojojo... Parece que tendré que escabullirme frente a todo un ejército enemigo. Será dificilísimo,==W== ¡pero eso es justo lo que le toca hacer a una descendiente de los poderes oscuros!==W== ¡Capitana Kasimira, todos, Chaton se pone en marcha!
+0132 [Tú] | Cuídate allá afuera.
+0133 [Tú] | Muy bien, todas. Sigamos el plan.
+0134 [Tú] | Recuerden esto: nuestro objetivo no es pelear. Seguir con vida importa más que cualquier otra cosa.
+0135 [Narración] | ¡Quiero que todas y cada una de ustedes salgan con vida de Mirage!

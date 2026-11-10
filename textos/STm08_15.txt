@@ -1,0 +1,237 @@
+# Capítulo 8 · Calor residual · 12 · Shadow Duel
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_145 | Otoha
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_100 | Sylar
+N:avg3_1288 | Escorpión del Desierto
+N:avg3_1304 | Chaton
+N:avg3_1313 | Allie
+N:avg3_150 | Albedo
+N:avg3_157 | Guardia Imperial
+N:avg3_207 | Myrsha
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_210 | Hazana
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto doce
+0002 [Intro] | Duelo con la «Oscuridad»
+0003 [Intro] | Chaton exige un duelo, y Amber lo acepta. Kasimira señala que las técnicas de combate de Amber provienen de los Gatos Blancos. Entonces aparece Hazana y les ofrece ayuda para enfrentar al Comité de Salvación.
+0004 [Lugar y hora] | 11:15, 17.º del mes de Nebula, Mirage, Calle principal
+0005 [Chaton] | ¡Je!==W== Podrás engañar a todos los demás,==W== ¡pero no a la gran Chaton! ¡No cuando mi ojo izquierdo late con ese mismo poder oscuro!
+0006 [Chaton] | Porque tú...==W== Tú eres el legendario Tirano, ¡¿verdad?!==W==
+0007 [Tú] | ¿Cómo supo Chaton de eso?
+0008 [Tú] | Revisamos esta ciudad cuando llegamos.==W== No hay periódicos, ni proyectores, ni balizas de Scarlet Sights. No hay comunicación entre ciudades como en Emor o Philae. Mirage está completamente aislada.==W== Aquí nadie sabe siquiera qué es Boss Accord.
+0009 [Tú] | La capitana y la vicecapitana de los Escorpiones del Desierto saben algunas cosas.==W== Lo mismo los caballeros nuevos que vinieron de fuera del desierto...
+0010 [Tú] | Pero odian a los Gatos Blancos. Es imposible que Chaton se haya enterado por ellos. A menos que...
+0011 [Tú] | ¡¿Ella también está con el Comité de Salvación?!
+0012 [Chaton] | Oigan, oigan,==W== ¿por qué esas caras de miedo, todos?==W== Je,==W== ¡eso solo demuestra que tengo razón!
+0013 [Tú] | No parece mala persona. Odio usar la fuerza, pero se nos acabó el tiempo.==W== Primero la detenemos y luego hacemos preguntas.
+0014 [Tú] | No quiero chocar con los Gatos Blancos, pero no tenemos opción.
+0015 [Noya] | Iris, Amber, vamos.
+0016 [Chaton] | Uy, ¿vamos a batirnos a duelo?==W== ¡Je!==W== A la gran Chaton no le molesta enfrentarlos a todos a la vez. Pero así no se arreglan las cosas en el desierto.
+0017 [Tú] | Reglas del desierto, ¿eh? ¿Qué tienes en mente?
+0018 [Chaton] | Sip. Los duelos tienen que ser uno contra uno.==W== En cuanto a las condiciones...
+0019 [Chaton] | ¡Si gano, tu poder oscuro será mío!==W== Entonces,==W== ¡destruiré este mundo con el poder del Tirano y descenderé como la nueva diosa!==W== ¡Nya-ja-ja-ja! ♪==B====W==
+0020 [Tú] | ¡¿Qué?! Tú...==W== ¿Quieres destruir el mundo?
+0021 [Lugar y hora] | 11:30, 17.º del mes de Nebula, Mirage, Calle principal
+0022 [Amber] | Yo pelearé en tu lugar,==W== ==PLAYER_NAME==.==W==
+0023 [Chaton] | Por fin te vestiste, ¿eh? Qué días tan duros, andando en pijama.==W== No me importa contra quién pelee.==W== ¡Es hora de que la gran Chaton aplaste a esta impostora!
+0024 [Chaton] | Pero escucha bien,==W== Tirano.==W== Permitiré un duelo por representante,==W== pero si esta impostora pierde,==W== ¡tu poder oscuro será mío!
+0025 [Tú] | ¿Qué es exactamente ese poder oscuro del que no deja de hablar?
+0026 [Tú] | No entiendo...==W== Pero está bien. Hagámoslo.
+0027 [Tú] | Ten cuidado, Amber.
+0028 [Amber] | Voy a ganar.
+0029 [Chaton] | No te confíes, niña. Nadie en este desierto le ha ganado jamás un duelo a la gran Chaton.
+0030 [Amber] | Tú==W== tampoco te ves vieja==W== que digamos.
+0031 [Chaton] | ¡Ja! Seguro no te lo esperabas.==W== ¡Este recipiente sella las almas de mi vida pasada,==W== de la vida anterior a esa==W== y de la anterior a la anterior a esa! En cuanto a edad verdadera, gano por mucho.==W==
+0032 [Noya] | ¿Eh?==W== ¿De qué está hablando? ¿Te dan un premio por ser más vieja?
+0033 [Iris] | Creo que quiere decir==W== que tiene más experiencia en este desierto que nosotras.
+0034 [Chaton] | Escuchen. Así se hacen los duelos en el desierto.==W== Nos ponemos espalda con espalda, con las armas apuntando hacia abajo. Caminamos hacia adelante.==W== Cuando el testigo dé la señal, nos damos la vuelta y disparamos.==W== La última que quede en pie gana.
+0035 [Amber] | Entendido.
+0036 [Allie] | Si están de acuerdo, yo puedo ser su testigo.
+0037 [Chaton] | ¿La directora del Orfanato Margarita?==W== Oí que ya ha ayudado a los Gatos Blancos. Parece de fiar.==W== Está bien, puede ser nuestra testigo.
+0038 [Allie] | Muy bien, ustedes dos. Empiecen a caminar.==W== Contaré hasta diez mentalmente y luego anunciaré el inicio del duelo.
+0039 [Tú] | El rifle de francotirador de Chaton es pesado. No se desenfunda ni de lejos tan rápido como las pistolas de Amber. A esta distancia, Amber debería tener una clara ventaja...
+0040 [Tú] | Un momento. ¿De verdad es tan sencillo?==W== Dijo que nunca pierde.==W== Debe tener algún truco bajo la manga...
+0041 [Chaton] | Je, je...
+0042 [Chaton] | ¡Nos vemos!
+0043 [Iris] | Qué tramposa. Está corriendo para ganar distancia antes de que empiece el duelo.
+0044 [Chaton] | ¡Jajaja! ¡Las reglas nunca dijeron qué tan rápido o qué tan lento hay que caminar!
+0045 [Allie] | ¡Comiencen!
+0046 [Amber] | Se... fue.
+0047 [Chaton] | Ahora que tengo mi distancia, ¿cómo van a aguantar esas pistolitas contra mi rifle de francotirador? ¡Vamos!
+0048 [Chaton] | ¡Prueba el terror de ser cazada!
+0049 [Chaton] | Ojo Maligno... ¡Liberado!==W== ¡Despierta, Varita Gatuna: Entrada de Códice Inconclusa MK Ⅰ!==W== ¡La luna carmesí se alza en lo alto! ¡Las puertas de sangre se abren de par en par! ¡Todos los que desafíen al Dios de los Miaus caerán al abismo maldito!==W==
+0050 [Chaton] | ¡Haaaaaaah!==W== ¡Que esta Luz del Fin del Mundo te atraviese de lado a lado!==W==
+0051 [Chaton] | ¿Qué?==W== ¡¿La gran Chaton falló?!==W== No,==W== ¡¿esa impostora de-desapareció...?!
+0052 [Chaton] | Es rápida.==W== ¿Cómo encuentra tantos lugares para cubrirse?==W== ¡Llegaron a Mirage hace apenas unos días!
+0053 [Noya] | Cada vez que Amber llega a una ciudad nueva, se trepa por todos lados para ubicar cada rincón. Seguro ya se sabe este lugar de memoria.
+0054 [Iris] | El terreno ya está parejo. ¡La verdadera pelea empieza aquí!
+0055 [Amber] | Brillo de mira. Está apuntando.
+0056 [Amber] | Alto.
+0057 [Allie] | Amber está leyendo cada uno de sus movimientos. Chaton no le va a atinar desde esa distancia.
+0058 [Chaton] | Hmph, je, je... ¡Nada mal para una impostora!==W== Ese estilo de pelea, esas técnicas... Se siente más Gato Blanco que los de verdad.
+0059 [Chaton] | ¡Entonces es hora==W== de que la gran Chaton se ponga seria!==W== ¡Que suene la música!
+0060 [Chaton] | ¡Nadie le gana a la gran Chaton==W== mientras suena esta canción!
+0061 [Iris] | Salió de su escondite. ¿Perdió los estribos por un tiro fallido?
+0062 [Noya] | No, no parece eso...==W== ¿Va a pelear cuerpo a cuerpo...==W== con un rifle de francotirador?==W==
+0063 [Chaton] | ¡Arde en las llamas del infierno que todo lo consumen!==W== ¡Llamarada Supersónica de la Oscuridad!==W==
+0064 [Iris] | ¡¿Un solo disparo derrumbó una pared entera?! ¡Esa potencia de fuego es una locura!
+0065 [Noya] | A quemarropa, con el cañón pegado a ella...==W== ¡Jaja!==W== ¡Eso prácticamente es un arma cuerpo a cuerpo!
+0066 [Amber] | Así que así es como peleas de verdad.
+0067 [Amber] | Ahora me toca a mí.
+0068 [Chaton] | Oye, oye, oye, ¿dónde aprendiste eso? ¡Es la técnica de tiro secreta de una antigua Gato Blanco!
+0069 [Amber] | En un libro. Iris me lo prestó.
+0070 [Chaton] | La ropa, las armas, la técnica... No eres una impostora cualquiera, ¿verdad?
+0071 [Chaton] | ¡Pero seas quien seas, la gran Chaton ríe al último!==W== ¡Rayo de Aniquilación, cambio de modo! ¡Modo de sobrecarga!==W==
+0072 [Kasimira] | Tonta. ¿Quieres arrasar la ciudad?
+0073 [Amber] | La descarga mágica...==W== La metió de vuelta.
+0074 [Chaton] | K-Kasimira,==W== ¡¿qué haces?!==W== ¡La gran Chaton estaba a punto de ganar!
+0075 [Kasimira] | Ganar, ¿eh? Es lo único que te importa.==W== ¿Sabes cuánta Gracia costó este duelo?==W== Mira tu Piedra del Alma. Está medio vacía.
+0076 [Chaton] | Ah... Bueno... No me había dado cuenta.
+0077 [Kasimira] | Y ese hechizo tarda en lanzarse. Se supone que debes ocultárselo a tu objetivo.
+0078 [Kasimira] | En cambio, gritaste a todo pulmón e hiciste una pose ridícula.==W== ¿Tenías miedo de que no te viera?
+0079 [Amber] | Mjm.==W== Fácil de esquivar si lo veo venir.
+0080 [Kasimira] | ¿Oíste? ¡La próxima vez pon atención!
+0081 [Chaton] | ¡¿Q-qué sabes tú?!==W== Es el ritual para canalizar el poder oscuro.==W== ¡Es obligatorio!
+0082 [Kasimira] | Entonces te descontaré la Gracia desperdiciada de tu mesada. ¿Te parece justo?
+0083 [Chaton] | Espera,==W== eso no es justo...
+0084 [Kasimira] | Ay...==W== Directora Allie, y todos los de Boss Accord.==W== Les pido disculpas por el comportamiento de mi compañera de escuadrón.
+0085 [Allie] | No se preocupe.==W== A las niñas les hace bien moverse y quemar un poco de energía.==W== Yo estaba vigilando, así que nadie corrió peligro.
+0086 [Kasimira] | Gracias por su comprensión.==W== Pero tú...==W== Amber, ¿verdad?==W== Tu estilo de combate está profundamente ligado a la Compañía del Gato Blanco.
+0087 [Tú] | ...==W== Así que nos estuvieron observando todo este tiempo.==W== Kasimira dejó que la pelea se alargara para analizar los movimientos de Amber.
+0088 [Allie] | Observé el duelo con atención.==W== El estilo de pelea de Amber es idéntico al de los Gatos Blancos. No lo voy a negar.
+0089 [Allie] | Pero el Orfanato de las Cenizas tenía un archivo enorme en su sótano. No sería raro encontrar ahí un manual de técnicas de los Gatos Blancos.
+0090 [Kasimira] | Mm. Le creo.
+0091 [Tú] | ¿Se lo creyó? ¿Así nada más?
+0092 [Kasimira] | Les debo una disculpa. Esas pistolas mágicas están ligadas a un acontecimiento importante de nuestra historia. Por eso, estos últimos días investigamos sus antecedentes en secreto.
+0093 [Kasimira] | Revisamos sus registros de los últimos diez años==W== y, efectivamente, no tuvieron ningún contacto con los Gatos Blancos. Nuestra suposición fue un error.
+0094 [Tú] | Investigación de antecedentes, ¿eh?==W== No puedo culparlas. Me alegra que hayamos aclarado las cosas.
+0095 [Kasimira] | Considérenlo una ofrenda de paz.==W== Han estado preguntando por...==W== el Monolito desaparecido.==W== Me imagino que tienen preguntas para nosotros.
+0096 [Tú] | ¿Preguntas sobre qué?
+0097 [Kasimira] | Ya saben del cuarto secreto de los Gatos Blancos, ¿no?
+0098 [Tú] | ¿Información gratis?==W== No. Nada es tan fácil. Tiene que haber trampa...
+0099 [Kasimira] | Saltémonos el preámbulo.==W== Tenemos la información que necesitan.
+0100 [Tú] | ¿Cuál es el precio?==W== No pueden estar regalándola.
+0101 [Kasimira] | Quiero saber todo sobre cómo encontraron esas pistolas.==W== Háblenme del Orfanato de las Cenizas.==W== Y usted, directora Allie,==W== cuénteme de su pasado.
+0102 [Iris] | Información a cambio de información.==W== Es un trato justo.==W== Jefe, se nos acaba el tiempo. ¿Aceptamos?
+0103 [???] | ¡Uy, esperen! ¡Jefe, no aceptes nada!
+0104 [Tú] | ¿Myrsha? ¿Qué haces aquí?
+0105 [Myrsha] | Oí que te habías peleado con los Gatos Blancos... Digo, no. Oí que estaban teniendo un duelo sagrado. Así que vine a verlo y me traje arrastrando a nuestra capitana.
+0106 [Hazana] | Bienvenidos a Mirage, Boss Accord.
+0107 [Hazana] | Los Escorpiones del Desierto...
+0108 [Hazana] | ... les mandan saludos.
+0109 [Tú] | ¡Hazana...!==W== ¿Nos va a atacar?
+0110 [Hazana] | ¡Ja! Tu cara lo dice todo. Tranquilo, no te voy a comer vivo en cuanto nos vemos.
+0111 [Kasimira] | Hazana. ¿Qué haces aquí?
+0112 [Hazana] | Ya lo dije. Vine a darles la bienvenida a los invitados.
+0113 [Hazana] | Veo que hoy no trajiste a esa zorrita mentirosa.
+0114 [Tú] | La contraté como guardia. No andamos pegados todo el tiempo.
+0115 [Tú] | Pero ya que la mencionas... ¿Todavía quieres vengarte?
+0116 [Hazana] | No me malinterpretes. Hasta las mejores armas se traban. Ese día estaba un poco oxidada.
+0117 [Hazana] | Además, si a los Escorpiones del Desierto nos importara tanto el orgullo, el desierto nos habría tragado hace mucho.
+0118 [Hazana] | Pero olvidemos eso por ahora. Nosotros también vinimos a hacer un trato.
+0119 [Hazana] | Jefe, aquí tienes una oferta que los Gatos Blancos no se atreverían a hacer. Ponte del lado de los Escorpiones. Haznos tus aliados y te ayudaremos a enfrentar a ese Comité de Salvación.
+0120 [Tú] | ¿Ayudarnos a enfrentar al Comité de Salvación? Estás bromeando. ¿Tienes idea de cuánto poder tienen?
+0121 [Hazana] | Sabemos quiénes son. La exlíder del Instituto del Cielo moviendo los hilos,==W== agentes infiltrados en todas las grandes empresas. Una bola de fanáticos obsesionados con salvar el mundo.
+0122 [Tú] | ¿Entonces por qué arriesgar el pellejo por un desconocido?
+0123 [Tú] | ¿Y de dónde sacaron esa información? Las noticias no llegan tan rápido a Mirage.
+0124 [Hazana] | Je. Tenemos nuestras razones. Acepta el trato y te lo cuento todo.
+0125 [Hazana] | No son los únicos aquí que se mueren de ganas de romperle la cabeza al Comité de Salvación. ¿Verdad, capitana Kasimira?
+0126 [Kasimira] | El Imperio de la Gracia nos dio caza.
+0127 [Hazana] | Esa fue la versión oficial. La verdadera orden de matarlos vino de una tal Angie.
+0128 [Hazana] | Nosotros mismos lo descubrimos hace poco. ¿La clienta encapuchada que nos contrató para eliminarte? Se llama Angie.
+0129 [Hazana] | ¿Y bien? Unamos fuerzas y llevémosles la pelea.
+0130 [Kasimira] | ... Lo siento. Los Gatos Blancos ya no tenemos ni la capacidad ni la voluntad para eso. Buscamos un lugar tranquilo al cual llamar hogar. Nuestros días de rebelión terminaron.
+0131 [Hazana] | ¡Ja! ¿Una paliza y ya se arrastran a lamerles las botas?
+0132 [Chaton] | ¡Cuida tu boca! ¿Y quién dice que ustedes podrían vencer al Comité? ¿No fue el Jefe quien los hizo pedazos?
+0133 [Hazana] | Culpable. Pero eso me da la razón.==W== Los Escorpiones tuvimos las agallas de ir tras el director ejecutivo de una empresa. ¿Crees que le tenemos miedo a una bola de herejes marcados?
+0134 [Tú] | Tiene razón... Aceptaron ese encargo sabiendo que se echarían encima a Boss Accord, Omnisky Aegis y Cosecha Unida Philae al mismo tiempo.
+0135 [Tú] | No le temen a nada. Buscarle pleito al Comité va totalmente con su forma de ser.
+0136 [Myrsha] | Además, esto es «el Fin del Mundo». Aquí no ondea la bandera de ninguna empresa. Este es territorio de los Escorpiones. Los trucos del Comité no los van a salvar en la arena. ¡Que vengan!
+0137 [Tú] | Está bien, ya entendí. ¿Cuál es el precio?
+0138 [Myrsha] | Queremos los Cetros de la Muerte. Ya los materializaste una vez. Puedes hacerlo otra vez.
+0139 [Iris] | Los Cetros de la Muerte...
+0140 [Tú] | Por un lado, los Gatos Blancos. Información barata, pero se mantienen al margen de la guerra.==W== Por el otro, los Escorpiones del Desierto. Sangrarían con nosotros contra el Comité, pero su precio es enorme. Y sí intentaron matarme una vez...
+0141 [Hazana] | ¿Ya elegiste, Jefe?==W== Los Escorpiones del Desierto no le tememos a absolutamente nada. Siempre y cuando puedas hacer realidad ese Artefacto con un deseo para nosotros.
+0142 [Hazana] | ¿Enfrentarnos al Comité de Salvación? No es problema para nosotros. Aquí en el desierto, los escorpiones no tienen depredadores naturales.
+0143 [Opción] | Pedirle consejo a Allie
+0144 [Opción] | Trabajar con los Gatos Blancos
+0145 [Opción] | Trabajar con los Escorpiones
+0146 [Tú] | No es una decisión que pueda tomar solo. Lo que decida aquí afecta a Allie y al orfanato, y apenas acaban de encontrar algo de estabilidad.
+0147 [Tú] | No puedo anteponer limpiar mi nombre a la seguridad de todos.
+0148 [Tú] | Además, apenas conocemos a los Gatos Blancos y a los Escorpiones del Desierto. Lo más seguro es pedirle su opinión a Allie.
+0149 [Tú] | Allie, necesito tu opinión sobre esto.
+0150 [Allie] | ¿La mía?
+0151 [Tú] | Sí.==W== Mi decisión afecta a todos aquí, y quiero darle prioridad al orfanato. También necesito ayuda para saber quién es más confiable. ¿Los Gatos Blancos o los Escorpiones del Desierto?
+0152 [Allie] | Ya veo.==W== En ese caso, elijo a la Compañía del Gato Blanco.
+0153 [Myrsha] | ¡Oye, oye, oye! Mamá Allie, ¿por qué no nosotros? ¡Y-yo hasta viví seis meses en tu orfanato bajo tu cuidado!
+0154 [Allie] | Ambos nos han cuidado a mí y al orfanato desde que nos mudamos aquí. Por experiencia propia, tanto los Gatos Blancos como los Escorpiones del Desierto son de fiar. Cualquiera de los dos lo daría todo por un amigo.
+0155 [Allie] | Pero sus métodos son completamente distintos. Cuido a huérfanos de ambas facciones, niños que perdieron a sus padres en esta guerra.
+0156 [Allie] | Los niños de los Gatos Blancos son disciplinados. Hacen lo que pueden con sus propios medios. Los niños de los Escorpiones son mucho más salvajes. Si creen que el resultado vale la pena, usan cualquier medio necesario.
+0157 [Allie] | Por eso, los niños de los Escorpiones siempre terminan ganando más. Pero también salen lastimados mucho más seguido.
+0158 [Hazana] | Pagar el precio por lo que quieres. Hasta los niños lo entienden. Eso apenas es un riesgo. Si te niegas a hacer lo necesario, ¿cómo esperas llegar a la cima y salir de este desierto?
+0159 [Allie] | Como líder, capitana Hazana, tiene toda la razón. Pero como su madre, me importa menos verlos subir más alto y más verlos crecer a salvo.
+0160 [Allie] | Si ==PLAYER_NAME== y las chicas se alían con ustedes, puede que sí tengan la potencia de fuego para aplastar al Comité de Salvación.
+0161 [Allie] | Pero, si puedo elegir, prefiero que tomen un camino menos violento.
+0162 [Allie] | Eso es lo que pienso.==W== ¿Tú qué opinas, ==PLAYER_NAME==?
+0163 [Tú] | Gracias, Allie. Eso pone las cosas en perspectiva.
+0164 [Hazana] | Ahí murió la negociación.
+0165 [Hazana] | Por mí está bien. Myrsha, nos vamos.
+0166 [Myrsha] | ¡Ay, tú te lo pierdes, Jefe!==W== ¡La próxima vez que puedas elegir, más te vale escogernos! ¡Adiós!
+0167 [Kasimira] | Directora Allie, gracias por su confianza. Todos, vamos al bar Eureka a afinar los detalles.
+0168 [Tú] | Con la información de los Gatos Blancos... Deberíamos poder encontrar ese Monolito desaparecido.
+0169 [Tú] | El plan de los Escorpiones es tentador. Resolvería nuestros problemas de raíz.
+0170 [Tú] | Pero no estamos aquí para eso. Necesitamos el Monolito para probar que no soy el Tirano. Empezar una guerra territorial no tiene ningún sentido.
+0171 [Tú] | Y pagarles con los Cetros de la Muerte es una pésima idea. Si un arma así llega a salir, quién sabe qué pasaría.
+0172 [Tú] | Hazana, Myrsha... Les agradezco la oferta,==W== pero tengo que rechazarla.
+0173 [Hazana] | Los Escorpiones del Desierto solo haremos esta oferta una vez.
+0174 [Tú] | Es una lástima. Pero me niego a invocar otra vez los Cetros de la Muerte.==W== Un arma que dispara balas sin nada de magia... Tengo que ser cauteloso hasta entender por completo las consecuencias.
+0175 [Hazana] | ¿De qué sirve la cautela? Sin nosotros cuidándote la espalda, ¿cómo piensas lidiar con el Comité de Salvación?
+0176 [Noya] | ¡==PLAYER_NAME== nos tiene a nosotras! ¡Vamos a proteger a ==SEX4== y a limpiar ==SEX3== nombre!
+0177 [Hazana] | ¿Limpiar ==SEX3== nombre? Maduren. La historia la escriben los vencedores. Pueden apostar a que Angie también cuenta con eso.
+0178 [Tú] | Tal vez. Pero si uso sus propias tácticas contra ella, derrotarla me convierte en la próxima Angie.
+0179 [Hazana] | Nunca te voy a entender. Si hubieras nacido en el desierto, a estas alturas no serías más que huesos.
+0180 [Hazana] | Pero respeto tu decisión. Vámonos, Myrsha.
+0181 [Myrsha] | ¡Ay, tú te lo pierdes, Jefe! ¡La próxima vez que puedas elegir, más te vale escogernos!
+0182 [Tú] | ... Bueno, asunto arreglado. Capitana Kasimira, quedamos en sus manos.
+0183 [Kasimira] | Entendido. Nosotros también esperamos trabajar con ustedes. Por aquí, por favor. Vamos al bar Eureka a repasar el plan.
+0184 [Tú] | Espero que esto salga bien. Su información tiene que llevarnos al Monolito para que por fin pueda revelar mi identidad.
+0185 [Tú] | Pedir un deseo por los Cetros de la Muerte... Si un arma así llega a salir, va a desatar una tormenta.
+0186 [Tú] | Por otro lado, se nos acabó el tiempo. Aunque consigamos la información de los Gatos Blancos, no hay forma de saber cuándo encontraremos el Monolito del Desierto, ni si guarda alguna pista sobre mi identidad.
+0187 [Tú] | No puedo apostar por una posibilidad remota y poner en riesgo a mis amigas. Prefiero unir fuerzas con los Escorpiones del Desierto y llevarle la pelea directamente al Comité de Salvación.
+0188 [Tú] | Aunque se sienta como una traición a Albedo.
+0189 [Tú] | Hazana, Myrsha. Ya lo decidí. Voy a trabajar con los Escorpiones del Desierto.
+0190 [Iris] | Jefe... ¡¿Lo dices en serio?!
+0191 [Allie] | ==PLAYER_NAME==, ¿no lo reconsiderarías? Ese camino es... demasiado peligroso para ti.
+0192 [Tú] | Lo sé. Iris, Allie, todos... Gracias por preocuparse. Lo entiendo, de verdad.
+0193 [Tú] | Pero se nos acabó el tiempo. En vez de perseguir el fantasma de una identidad, voy a forjarme una nueva a la fuerza.
+0194 [Hazana] | ¡Jajaja! ¡Bien dicho! ¡Me empiezas a caer bien!
+0195 [Noya] | ==PLAYER_NAME==, ¿de verdad te vas a aliar con los Escorpiones del Desierto? Entonces... voy contigo al Monolito a pedir el deseo de los Cetros de la Muerte.
+0196 [Tú] | No. Noya, Iris, Amber, ayuden a Allie a mudar el orfanato a Philae. Por si Mirage se convierte en zona de guerra.
+0197 [Tú] | Si los Gatos Blancos necesitan adónde ir, Philae está abierta. Tengo amigos allá que pueden ayudar.
+0198 [Kasimira] | Eso...
+0199 [Noya] | Pero si todas volvemos a Philae, ¿qué hay de ti? ¿Quién va a escalar el Monolito contigo para pedir el deseo?
+0200 [Tú] | Para eso están nuestros nuevos amigos Escorpiones, ¿no?
+0201 [Tú] | Además, apuesto a que quieren ver con sus propios ojos cómo se piden los Cetros de la Muerte.
+0202 [Myrsha] | ¡Puedes apostarlo!
+0203 [Amber] | Pero...
+0204 [Tú] | No es como si nunca nos fuéramos a volver a ver.
+0205 [Tú] | Cuando terminemos aquí y derrotemos a Angie, iré a buscarlas. Ahora mismo, poner a salvo a los niños importa más que lo que me pase a mí.
+0206 [Noya] | Está bien. Pero prométeme que vas a volver, ==PLAYER_NAME==.
+0207 [Tú] | No te preocupes. Volveré.
+0208 [Narración] | Y así acepté las condiciones de los Escorpiones del Desierto. Decidí usarlos como palanca para enfrentar de frente al Comité de Salvación.
+0209 [Tú] | Ahora sí me siento como el Tirano.==W== Angie, este es el Tirano que creaste con tus propias manos.

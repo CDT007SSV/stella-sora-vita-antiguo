@@ -1,0 +1,120 @@
+# Historia de Teresa · 3 · The Clever Courier Never Gets Hurt (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_127 | Teresa
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La mensajera astuta nunca se lastima (Parte III)
+0003 [Intro] | Una venda oculta la herida, pero no el dolor que hay detrás.
+0004 [Tú] | ¡¡¡Oooooohhh!!!==W== ¿L-la atrapé?
+0005 [Narración] | En el instante en que Teresa cae del acantilado, extiendo los brazos y corro hacia donde cae.
+0006 [Narración] | Pero no hay ninguna sacudida como esperaba.
+0007 [Narración] | Teresa aterriza en mis brazos, ligera como una pluma.
+0008 [Tú] | Eh... eso fue mucho más fácil de lo que esperaba… Teresa, ¿usaste alguna técnica...?
+0009 [Teresa] | Jeje, te diste cuenta, ¿eh?
+0010 [Teresa] | En realidad, escalo acantilados peligrosos todo el tiempo, así que ya estoy totalmente acostumbrada a caer, ¡miau!
+0011 [Teresa] | Tengo al menos tres maneras de aterrizar sin riesgo.
+0012 [Teresa] | Usar las salientes del acantilado para absorber la fuerza de la caída.
+0013 [Teresa] | Clavar mi espadón en el acantilado para detener mi caída.
+0014 [Teresa] | O extender el cuerpo para amortiguar el impacto al aterrizar.
+0015 [Tú] | ¿O sea que no necesitabas que te atrapara?
+0016 [Teresa] | Solo me sentí más segura contigo abajo. Saber que alguien está ahí para atraparme hace mis movimientos un poco más ágiles.
+0017 [Tú] | Ya veo... Bueno, mientras estés bien.
+0018 [Teresa] | ¡Mm...! ¡Ah, hora de bajar! ¡Si no corremos ahora, podríamos tener problemas de verdad!
+0019 [Tú] | Cierto. Más vale que despistemos a los Shrubshrews antes de que nos alcancen...
+0020 [Tú] | ¿Cuál es la forma más segura de escapar...?
+0021 [Teresa] | ¡Déjamelo a mí! Cuando caía, justo vi un pequeño sendero.
+0022 [Teresa] | Está oculto por las plantas, así que solo se ve desde el aire. ¡No hay forma de que los Shrubshrews nos alcancen por ese camino!
+0023 [Teresa] | Por ahí la entrega será mucho más rápida de lo habitual. Vamos, Jefe.
+0024 [Tú] | De verdad es... ==B==bastante optimista.
+0025 [Narración] | Dos horas después...
+0026 [Teresa] | Hemos llegado, Jefe.
+0027 [Tú] | Jaa... jaa... me equivoqué... no esperaba caminar tanto.==W== El atajo igual tomó dos horas. Teresa, ¿cuánto te tardas normalmente en entregar una carta así?
+0028 [Teresa] | Un día entero, o más.
+0029 [Teresa] | Pero como hay gente que vive en lugares remotos como este, y hay otros que quieren transmitirles sus sentimientos...
+0030 [Teresa] | ¡Entonces, sin importar cuánto tarde, hay que hacer las entregas como se debe!
+0031 [Teresa] | Espera un momento, ya vuelvo.
+0032 [Teresa] | Jejeje～♪ ¿Crees que la viejita se alegrará cuando reciba la carta?
+0033 [Tú] | Sin importar la distancia, una carta sigue conteniendo un mensaje sincero...
+0034 [Narración] | Unos minutos después.
+0035 [Teresa] | Ya volví, Jefe.
+0036 [Teresa] | Toma, prueba esto. La viejita nos dio unas frutas como «gracias».
+0037 [Tú] | Vaya... Nunca había visto esto. ¿Es una fruta? Huele muy rico... Ñam, ñam.
+0038 [Tú] | ¡Ah, es dulce y deliciosa!
+0039 [Teresa] | ¿Verdad? ¡Dice que es una de las ventajas de vivir en lo profundo del bosque!
+0040 [Tú] | Está tan rica que, la verdad, siento que todo el esfuerzo para llegar hasta aquí valió totalmente la pena...
+0041 [Teresa] | Sí, si lo piensas así, la fruta sabe todavía más dulce.
+0042 [Teresa] | Ah, cierto, Jefe. No tires los huesos.
+0043 [Teresa] | Se los llevaré a esos Shrubshrews.
+0044 [Tú] | ¿Por qué? Te atacaron hace rato.
+0045 [Teresa] | Bueno, yo fui la que primero pisó la entrada de su madriguera.
+0046 [Teresa] | Además, esta ruta de entrega pasa justo por su territorio. Si me mantengo en buenos términos con ellos, no habrá problemas la próxima vez.
+0047 [Tú] | Tienes razón.
+0048 [Tú] | Pero ahora mismo seguramente todavía te guardan rencor.
+0049 [Teresa] | No pasa nada. En el peor de los casos, nos damos de golpes. La última vez fue en un acantilado, pero en terreno plano no les tengo ningún miedo.
+0050 [Teresa] | Puedo esquivar todos sus ataques.
+0051 [Narración] | De regreso, Teresa esquiva efectivamente todos los ataques de los Shrubshrews.
+0052 [Narración] | También logra calmar a los Shrubshrews con los huesos de la fruta.
+0053 [Narración] | Volvemos a Post Haste a primeras horas de la noche.
+0054 [Teresa] | Por favor, siéntate, Jefe. Te traigo un té.
+0055 [Tú] | No hace falta. Ya tuviste un día largo.
+0056 [Teresa] | Ese sendero de montaña no es nada. Eres mi invitado, Jefe. Relájate y déjame ser la anfitriona.
+0057 [Teresa] | El té... creo que las hojas de té están en el segundo piso.
+0058 [Narración] | Teresa sube las escaleras de un salto ágil y desaparece en un instante, así que simplemente me siento y me relajo.
+0059 [Tú] | Es que...
+0060 [Tú] | Teresa se mueve tan rápido y piensa en cada detalle, ¿cómo es que termina llena de moretones?
+0061 [Teresa] | ¡Ahhh!
+0062 [Tú] | ¡Teresa! ¿Qué pasó?
+0063 [Teresa] | Yo... me caí de las escaleras.
+0064 [Teresa] | No te preocupes por mí, Jefe.
+0065 [Teresa] | Solo olvidé que no llevaba zapatos y corría muy rápido. Me di en el dedo meñique del pie al subir. Luego tropecé y me caí, jeje.
+0066 [Teresa] | Estoy totalmente acostumbrada, no hay problema. En serio, no te preocupes, miau.
+0067 [Teresa] | Y mira, hasta traigo cinta médica puesta aquí. ¡Estoy perfectamente bien!
+0068 [Tú] | Suspiro. Necesito pedirte prestado tu botiquín.
+0069 [Teresa] | Eh, ¿qué haces, Jefe?
+0070 [Teresa] | ¡E-espera, un momento! ¡¿Por qué te me acercas poco a poco sin decir nada～?!
+0071 [Tú] | Apenas puedes mantenerte en pie, así que deja de hacerte la dura.
+0072 [Tú] | Cuando duele, hay que decirlo en voz alta. ¿Entendido?
+0073 [Teresa] | ¡¿Nyaaaaa?!==W== ¡Jefe, para!==W== ¡No seas brusco!
+0074 [Opción] | Tranquila... Te pondré medicina.
+0075 [Teresa] | ¡¿M-medicina?! ==W==¡No necesito!==W== De todos modos es demasiado pedirte esto a ti...
+0076 [Teresa] | A-además, es el tipo de herida que debería sanar sola.==W== ¿Ves? ¡Mira aquí!==W== ¡Aquí me lastimé antes y ya sanó por completo!
+0077 [Opción] | Hay una cicatriz... No se desinfectó, ¿verdad?
+0078 [Teresa] | ¿Qué?==W== ¿Cómo lo supiste?
+0079 [Teresa] | ¡O-oye! ¡En serio, espera!==W== ¡No!==W== ¡Nada de antiséptico!==W== ¡M-mira, soy bastante dura!==W== ¡No necesito antiséptico!
+0080 [Opción] | ¿No soportas el antiséptico?
+0081 [Teresa] | N-==W==¡n-n-n-no!==W== ¡No es eso!
+0082 [Teresa] | ¡Lo soporto perfectamente!==W== ¡Gyaaaaahhh!
+0083 [Teresa] | ¡A-ay! ¡Arde!==W== ¡Ay, ay!==W== ¡Ugh...!==W== ¡J-Jefe...!==W== ¡Te lo ruego! ¡No más, por favor!
+0084 [Opción] | O sea que de verdad no lo soportas.
+0085 [Teresa] | Ugh... Sí.==W== No,==W== no puedo... no puedo con eso.
+0086 [Teresa] | ¡Es como si el dolor retumbara por todo mi cuerpo y no puedo!==W== ¿Qué...?==W== Espera.==W== De repente ya no duele tanto==W== después de que lo desinfectas...
+0087 [Opción] | Hay una manera correcta de hacerlo. Y te puse una venda.
+0088 [Teresa] | ¡G-gracias!==W== ¿Eh?==W== Esta venda...==W== ¡es tan linda!
+0089 [Teresa] | ¿Es tuya,==W== Jefe?==W== No lo habría esperado,==W== ¡pero... me gusta!
+0090 [Opción] | Probablemente deberíamos ponerte más antiséptico.
+0091 [Teresa] | ¡Uy!==W== ¡No, creo que estoy bien!==W== ¡Por favor, Jefe!==W== ¿No más, por favor?
+0092 [Tú] | Está bien, está bien. Ya que sabes que duele, trata de tener más cuidado la próxima vez, ¿sí?
+0093 [Tú] | Puedes aterrizar sin problema cuando caes de un acantilado...==B== Pero igual caes en esos agujeros a plena vista, y hasta tropiezas en tu propia casa.
+0094 [Teresa] | Los acantilados son peligrosos, así que estoy en máxima alerta.
+0095 [Teresa] | Quizá es porque, cuando estoy en un lugar seguro, bajo la guardia...
+0096 [Tú] | Si es así, entonces eres demasiado descuidada.
+0097 [Teresa] | No, eh, es solo porque estoy muy relajada cuando estoy contigo, Jefe.
+0098 [Teresa] | Cuando estoy contigo, tiendo a prestarte más atención a ti que a los peligros a mi alrededor...
+0099 [Tú] | Entendido. Trataré de venir menos seguido de ahora en adelante.
+0100 [Teresa] | ¡No, no, no! ¡No quise decir eso! ¡Deberías venir más seguido!
+0101 [Teresa] | La próxima vez que te vea, me envolveré en vendas de antemano para no lastimarme.
+0102 [Tú] | Eso es llevarlo demasiado lejos. Está bien, era broma. Perdón.
+0103 [Tú] | En Sailstead hay una tienda que vende Artefactos viejos y rotos. Muchísimos, y a buen precio.
+0104 [Tú] | Vayamos juntos algún día.
+0105 [Teresa] | ¡¿Eh, en serio?! ¡Si quieres ir, me encantaría acompañarte, miau!
+0106 [Tú] | Claro. Pero… esta vez no te lastimes otra vez, ¿sí?
+0107 [Tú] | Si puedes prometérmelo, te llevaré.
+0108 [Teresa] | Entendido. ¡Haré lo posible por pasar una semana sin lesiones!
+0109 [Narración] | Al final, Teresa tuvo extremo cuidado de no lastimarse. Logró cumplir su meta de «una semana sin lesiones».
+0110 [Narración] | Sin embargo, al día siguiente, se emocionó tanto al salir que se golpeó la frente contra el marco de la puerta.
+0111 [Teresa] | Pasar una semana sin lesiones es tan difícil, miau～

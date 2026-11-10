@@ -1,0 +1,109 @@
+# Historia de Shia · 1 · Trace of Scent (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Daring Tourist | Turista atrevido
+N:Disappointed Tourist | Turista decepcionado
+N:Excited Tourist | Turista emocionado
+N:Panicked Tourists | Turistas asustados
+N:Resigned Tourist | Turista resignado
+N:Sightseeing Boat Staff | Personal del bote turístico
+N:Startled Tourist | Turista sobresaltado
+N:avg1_155 | Shia
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_196 | Empleada corporativa
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Rastro de aroma (Parte I)
+0003 [Intro] | Un aroma nostálgico, flotando en la brisa marina.
+0004 [Narración] | Como le prometí a Shia, llegué temprano en la mañana a Pueblo Carlo. El aire de aquí lleva el aroma de la brisa marina.
+0005 [Tú] | Shia dijo que hoy me llevará a una «aventura junto al mar» de un día...
+0006 [Tú] | Me pregunto adónde iremos... ¡No puedo esperar!
+0007 [???] | Jeje♪ ¿Adivina quién soy?
+0008 [Tú] | ==W==¡Guau! ¡¿Q-qué pasa?!
+0009 [???] | Respuesta incorrecta. Mi nombre no es «Qué pasa».
+0010 [Tú] | ¿Qué clase de juego de palabras es este...?
+0011 [Tú] | Esta sensación suave y cálida... ¿Alguien me está tapando los ojos con las manos...?
+0012 [Tú] | Solo Shia==W== me haría algo así...
+0013 [Shia] | ¡Correcto♪ ¡Buenos días, Jefe!
+0014 [Tú] | Buenos días, Shia. Me asustaste mucho.
+0015 [Tú] | La próxima vez, ¿podrías—==W== ¡Oye, qué haces ahora!... ¿Huelo raro o qué?
+0016 [Shia] | Igual que siempre...==W== Sí. El único, el inigualable Jefe♪
+0017 [Tú] | ¿Haces esto de entrada? Mi pobre corazón no lo aguanta...
+0018 [Shia] | Pero ... hoy hay algo distinto, un aroma como de fruta madura. ==W==Jefe, ¿estás nervioso o qué?
+0019 [Tú] | Cualquiera estaría nervioso si le taparan los ojos de repente y alguien empezara a olerlo, ¿no?
+0020 [Shia] | ¿En serio? Entonces...==W== Jefe, ¿por qué no intentas olerme tú también♪
+0021 [Tú] | … ==W==¿Eh? ¿Quieres que te huela aquí mismo, en plena calle concurrida?
+0022 [Shia] | Sí~ ¿A qué crees que huelo, Jefe?
+0023 [Opción] | Olerla
+0024 [Opción] | No, gracias
+0025 [Tú] | ¿¡Vaya...!? Pensé que olería a mar, pero nunca imaginé...
+0026 [Tú] | Un aroma floral tan delicioso...
+0027 [Shia] | ¿Flores? Jeje, es solo mi champú.==W== Esta mañana temprano fui a nadar a la playa y vine a verte justo después de bañarme.
+0028 [Tú] | Olvídalo. No soy como tú; no puedo leer a las personas solo por su aroma.
+0029 [Tú] | Además, si dos personas andan oliéndose en público así… todos los demás pensarán que es rarísimo...
+0030 [Shia] | Jefe, te estás poniendo tímido... Qué lindo. Sabes, el aroma de verdad ayuda a entender a alguien♪
+0031 [Tú] | ¿¡Espera...!? ¿¡Otra vez...!?
+0032 [Tú] | Mmm. Parece que Shia está de especialmente buen humor hoy.
+0033 [Shia] | Bueno, aquí está nuestra primera parada.
+0034 [Tú] | ¿Eso es ... un bote turístico?
+0035 [Shia] | Sí. Recorrer la costa en un bote turístico para admirar el paisaje es la atracción número uno para los visitantes de Pueblo Carlo.
+0036 [Tú] | ¿Un paseo en bote? ¡Genial—!
+0037 [Narración] | Llegamos al animado muelle: nuestra «aventura junto al mar» ha comenzado oficialmente.
+0038 [Sightseeing Boat Staff] | Atención, todos los pasajeros que esperan el bote turístico: lamentamos mucho informar que nuestro timonel está recibiendo tratamiento por una lesión...
+0039 [Sightseeing Boat Staff] | Agradecemos su paciencia mientras...
+0040 [Tú] | ¿Eh? ¿Cómo va eso?
+0041 [Sightseeing Boat Staff] | El timonel resbaló al atracar y se lastimó la muñeca. Parece que hoy no podremos zarpar...
+0042 [Resigned Tourist] | ¿Cómo pudo pasar esto...? Vinimos desde muy lejos para esto...
+0043 [Disappointed Tourist] | Bueno, ni modo. Vayamos a ver otro lugar.
+0044 [Sightseeing Boat Staff] | Nos disculpamos sinceramente por las molestias. Les haremos un reembolso completo y también queremos ofrecerles un vale para el restaurante junto al mar...
+0045 [Shia] | Yo puedo pilotear el bote, si les parece bien.
+0046 [Sightseeing Boat Staff] | Agradecemos la intención, pero este es un trabajo profesional, no para turistas...
+0047 [Sightseeing Boat Staff] | Un momento. Se me hace conocida. ¿Eres ... Shia?
+0048 [Shia] | ¿Eh? ¿Me conoces?
+0049 [Shia] | Perdón, hace tiempo que no vengo y mi memoria está algo borrosa. ¿Podrías decirme quién eres...?
+0050 [Shia] | No reconozco el aroma...
+0051 [Tú] | ¿No reconoce el aroma?
+0052 [Sightseeing Boat Staff] | Ay, soy yo quien debe disculparse. No nos conocíamos, pero tu abuela, la señora Marlene, me cuidaba cuando yo era joven.
+0053 [Sightseeing Boat Staff] | Cuando la señora Marlene andaba por aquí, siempre intervenía para ayudarnos a pilotear el bote en días como este. Incluso ayudaba con las reparaciones... De vez en cuando, dejaba parte de su pesca en mi puerta.
+0054 [Shia] | ...Sí, eso definitivamente suena a algo que haría la abuela.
+0055 [Sightseeing Boat Staff] | Siendo la nieta de la señora Marlene, es otra cosa. Si nos ayudas a pilotear el bote, no te dejaremos ir con las manos vacías.
+0056 [Shia] | Como pueden ver, justo frente a nosotros está la bahía más famosa de nuestro pueblo. Rodeada por tres lados de arrecifes rocosos, es como una playa privada...
+0057 [Excited Tourist] | El agua es tan clara...==W== ¡Guau! ¡Aquí se ven peces!
+0058 [Shia] | Ahora es temporada alta de róbalo. Normalmente viven en aguas salobres, pero en esta época del año se les suele ver en aguas poco profundas.
+0059 [Shia] | El róbalo fresco es delicioso, ya sea al vapor o estofado. Quizá puedan probarlo después del recorrido.
+0060 [Shia] | Ah, la señora del sombrero de allá: si lleva botanas, ¡las gaviotas podrían ir tras ellas! ¡Es peligroso, sabe!
+0061 [Tú] | Además de manejar el bote, Shia básicamente hace también el trabajo de guía turística.
+0062 [Panicked Tourists] | ¡¡Ahhh—!!
+0063 [Shia] | ¡Todos, cuidado! Jefe, ¿estás bien?
+0064 [Tú] | Estoy bien. Solo me salpicó.
+0065 [Shia] | Qué bueno. Estimados pasajeros, acabamos de pasar una cresta de ola. El bote ya se estabilizó.
+0066 [Daring Tourist] | Ya, es suficiente. Si sigues pegada a mí, va a dar todavía más calor.
+0067 [Startled Tourist] | Solo unos minutos más ... por favor.
+0068 [Shia] | Esto está muy bonito... Me trae recuerdos de los viejos tiempos...
+0069 [Narración] | Cuando el bote llega al muelle y termina el recorrido, Shia y yo nos despedimos con la mano de los demás pasajeros.
+0070 [Tú] | Quería decírtelo desde nuestro último viaje: eres increíble al timón. Haces que ese enorme bote se mueva como un pez ágil.
+0071 [Shia] | Lo aprendí de mi abuela. Cuando era pequeña, me llevaba a pescar con ella. Estoy en el timón desde niña.
+0072 [Tú] | Debieron ser tiempos felices.
+0073 [Shia] | Sí. Recuerdos muy preciados.
+0074 [Shia] | Cada noche, mientras la abuela se sentaba en la proa a pescar, yo me acostaba detrás de ella, mirándola en silencio.
+0075 [Shia] | Quizá sea porque estaba recordando todo eso, pero aunque ese no era el bote de la abuela, juraría que percibí un aroma nostálgico♪
+0076 [Tú] | Shia y todos en el pueblo admiraban mucho a su abuela...
+0077 [Tú] | ¿Me puedes contar un poco más de tu abuela?
+0078 [Shia] | ¡Claro! Quiero que tú también la conozcas mejor.
+0079 [Shia] | La verdad... era bastante excéntrica. Lo único que me enseñó fueron cosas del mar. A veces pasaba un día entero sin decir una sola palabra.
+0080 [Shia] | Pero hay algo que de verdad se me quedó grabado.
+0081 [Tú] | ¿Qué es?
+0082 [Shia] | Los marineros de Pueblo Carlo tienen una tradición: siempre abrazan a su familia antes de hacerse a la mar. Una vez, intenté copiarlos y le di un abrazo a la abuela...
+0083 [Shia] | No lo vi venir, pero de pronto se puso a llorar... Casi nunca mostraba sus emociones.
+0084 [Shia] | Me asusté mucho... Pero luego me devolvió el abrazo, fuerte. Eso me hizo muy feliz♪
+0085 [Tú] | Con razón... Cuando vio a esos dos pasajeros abrazándose en el bote hace rato, se veía...
+0086 [Shia] | Esto está muy bonito... Me trae recuerdos de los viejos tiempos...
+0087 [Tú] | Un abrazo de verdad es una gran manera de compartir lo que sientes.
+0088 [Shia] | Muy bien. A la siguiente parada, Jefe.
+0089 [Shia] | Ese es mi lugar favorito~

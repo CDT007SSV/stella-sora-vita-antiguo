@@ -1,0 +1,105 @@
+# Capítulo 8 · Calor residual · Recuerdo · La solución en blanco Ⅱ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dessert Shop Staff | Personal de la pastelería
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg2_954 | Pezuñas Crujientes
+N:avg2_972 | Guantelete de la Ira
+N:avg3_1281 | Pezuñas Crujientes
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Recuerdos
+0002 [Intro] | La solución de la Nueva Estrella Ⅱ
+0003 [Intro] | Mientras compaginaba el trabajo con la preparación para el examen, Iris contó con el apoyo de Amber y Noya, aun sabiendo que su sueño podría llevarlas por caminos distintos. Pero justo antes de la prueba, un deseo le hizo olvidar algo importante...
+0004 [Narración] | Año 994 del Calendario Monolítico
+0005 [Lugar y hora] | 10:00, 24.º del mes de Clarus, Distrito de las Cenizas de Emor
+0006 [Iris] | Quiero usar este cupón, este vale y este boleto de descuento. Se supone que son acumulables.
+0007 [Dessert Shop Staff] | Déjame verificarlo...==W== Mmm. Tienes razón. Son acumulables. Tu total queda en... mil Dorra.
+0008 [Noya] | ¿Mil Dorra por todo esto? Allá afuera eso apenas alcanza para una barra de pan.
+0009 [Iris] | Los cupones de esta tienda son populares porque se acumulan.==W== Antes me pagaban con estos en lugar de efectivo por trabajitos. Nunca pensé que de verdad los usaríamos.
+0010 [Iris] | Nunca sabes qué va a pasar. Tengo que hacer que mis ahorros rindan. Los cien mil Dorra de mis trabajitos tienen que alcanzar.
+0011 [Amber] | Iris. Eres una diosa.
+0012 [Noya] | ¡Y una genio! Todavía no puedo creer que guardes Dorra en las botas.==W== ¿Por qué no usas una cartera?
+0013 [Iris] | Bueno... Leí que tanto las Tierras Salvajes como las ciudades son peligrosas. Es más inteligente repartir el dinero. Si te roban, no pierdes todo de golpe.
+0014 [Noya] | ¡Tiene sentido!==W== Pero ¿y si los malos leyeron el mismo libro y revisan cada escondite?
+0015 [Iris] | Ah... Yo, eh...
+0016 [Amber] | Les ganas a los malos. Te quedas con tu dinero y los entregas por la recompensa.
+0017 [Iris] | S-supongo que funciona si lo logras...==W== En fin, cambiando de tema. ¿Qué planes tienen?
+0018 [Amber] | Quiero... conocer otras ciudades. Nova es grande.
+0019 [Noya] | ¡Voy a ser Trekker! Voy a escalar todos los Monolitos igual que el Tirano. Hasta la mera cima.
+0020 [Noya] | Pero primero tengo que armar esto.
+0021 [Iris] | ¿Este es... el Artefacto por el que me preguntaste?
+0022 [Noya] | ¡Sí! El libro que me prestaste lo llamaba volante. Sirve para manejar un vehículo superrápido.==W== Nova es una extensión enorme de tierra con un montón de Monolitos. A pie tardaríamos una eternidad. ¿No sería más cómodo ir manejando?
+0023 [Iris] | Sí... Pero los carros Artefacto son raros. ¿De verdad puedes armar uno?
+0024 [Noya] | Jejeje. Contempla esto.
+0025 [Amber] | Es enorme. Y pesado. ¿Qué es?
+0026 [Noya] | Je. Estuvo todo este tiempo en el sótano del orfanato, lleno de polvo. Le pregunté a la tía Allie si me lo podía llevar cuando me fuera.
+0027 [Noya] | Ella tampoco sabía qué era. Pero mi instinto me dice que... ¡es el corazón de un carro Artefacto!
+0028 [Iris] | ¡¿El... corazón?!
+0029 [Noya] | ¡Sí! En fin, mi instinto me dice que si armo bien este montón de fierros y lo conecto al volante, va a correr como loco.
+0030 [Noya] | Jeje, ya contamos nuestros planes. ¡Te toca, Iris!
+0031 [Iris] | ¿Y-yo? Bueno, antes de dejar el orfanato, aprobé el examen preliminar de la Academia Luz de Gracia. El examen de admisión es la próxima semana.==W== Yo...==W== quiero ir a la universidad.
+0032 [Amber] | ¿Universidad? ¿Es para aprender magia poderosa?
+0033 [Iris] | No tengo sueños tan grandes. Quiero un trabajo en una gran empresa como el Imperio de la Gracia o Cosecha Unida... un lugar con sueldo estable y vacaciones.
+0034 [Iris] | Así podría quedarme en Emor. En mis días libres podría ayudar en el orfanato y quitarle un poco de peso de encima a la tía Allie.
+0035 [Iris] | Pero todo depende del examen de la próxima semana. Antes de eso, tengo que encontrar un trabajo temporal para juntar lo de las cuotas de materiales. Tengo que pagarlas el día del examen.
+0036 [Amber] | ¿Cuotas de materiales?
+0037 [Iris] | Sí. La Academia Luz de Gracia te examina en seis materias.
+0038 [Iris] | Matemáticas, Retórica, Principios de la Magia, Aplicación de la Magia, Estudios de la Energía de la Gracia y Hechizos de la Gracia.
+0039 [Iris] | El examen dura tres días, y cada materia es en un lugar distinto.
+0040 [Iris] | Las materias de magia y de Monolitos requieren materiales especiales y arenas destructibles.
+0041 [Iris] | En total, las cuotas suman doscientos mil Dorra.
+0042 [Amber] | Solo tenías cien mil, y los compartiste con nosotras. ¿No guardaste nada extra para las cuotas?
+0043 [Iris] | No.==W== ¡Pero no pasa nada! Si trabajo veinte horas al día desde ahora hasta entonces, seguro junto lo que falta.
+0044 [Noya] | ¡Uy, a ver, a ver! ¡Si haces eso, no te va a quedar tiempo para estudiar ni para dormir!==W== Yo sé cómo podemos ganar ese Dorra y que aun así duermas un poco. ¿Lo intentamos?
+0045 [Lugar y hora] | 16:35, 28.º del mes de Clarus, Monolito de las Tierras Salvajes, piso 25
+0046 [Iris] | ¡A-aaah! ¡¿E-ese es un Stellaroid de verdad?!
+0047 [Noya] | ¡Sip! Has leído sobre ellos, ¿no? Este es un monstruo Ignis. ¡Tu magia Aqua le va perfecto!
+0048 [Amber] | Yo te cubro, Iris. No te preocupes, adelante.
+0049 [Iris] | ¡C-c-c-congélate!
+0050 [Iris] | Lo...==W== Lo logré.
+0051 [Iris] | ¡Lo logré! ¡¿Lo vieron?! ¡Ya puedo pelear, como ustedes dos! No las retrasé... Ay, qué alivio.
+0052 [Amber] | Iris, emocionada.
+0053 [Noya] | ¿Por qué dices eso? ¡Tú siempre has sido la mejor de las tres!
+0054 [Iris] | ¿La mejor...?==W== No, no, no, ¿de qué hablas, Noya? Soy pésima peleando y soy una cobarde.
+0055 [Amber] | Pero lees mucho. Sabes cosas que nosotras no.
+0056 [Noya] | Olvida todo eso. ¡Vamos a pedir un deseo! Hay una Caja de Deseos grande más adelante.
+0057 [Amber] | Para pedir un deseo... Oí que solo la tocas y dices lo que quieres.
+0058 [Amber] | Dame un teléfono, por favor. Dame un teléfono, por favor. Dame un teléfono, por favor.
+0059 [Iris] | No, Amber, así no funciona.==W== Tienes que rezarle con sinceridad al Dios de la Gracia y describir tu Artefacto con detalle.
+0060 [Noya] | Un teléfono... ¿Cómo describirías eso? ¿Una máquina que habla con gente que está lejos?
+0061 [Iris] | Déjenmelo a mí. Lo investigué antes. Me sé la oración.
+0062 [Noya] | Espera, espera. No seré ratón de biblioteca, pero sé cómo funcionan los exámenes.
+0063 [Noya] | Pedir un deseo cuesta recuerdos. ¡Si olvidas lo que estudiaste, vas a reprobar el examen!
+0064 [Noya] | Dame la oración. Yo pido el deseo.
+0065 [Iris] | Nos tomó días llegar aquí y nos tomará días volver. No podemos darnos el lujo de equivocarnos. Tenemos que hacerlo bien a la primera.
+0066 [Iris] | Además, me divertí escalando con ustedes. Dicen que los deseos funcionan mejor cuando estás feliz. Te agradezco que me cuides,==W== pero yo voy a pedir este deseo.
+0067 [Noya] | Si tú lo dices...==W== Bueno, todo tuyo.
+0068 [Iris] | Déjamelo a mí. Ahí voy...==W== Oh, poderoso Dios de la Gracia, escucha nuestra plegaria... Por favor, concédeme...
+0069 [Narración] | Llegamos de vuelta a Emor el lunes en la mañana. Corrimos a la Tienda de Almas, cambiamos el teléfono por Dorra, quedamos a una hora para vernos y cada quien se fue por su lado.
+0070 [Narración] | Y así, sin más, junté lo de las cuotas de materiales y por fin presenté mi examen de admisión a la Academia Luz de Gracia.
+0071 [Narración] | Unos días después.
+0072 [Lugar y hora] | 12:00, 5.º del mes de Floris, Distrito de las Cenizas de Emor, Calle comercial
+0073 [Noya] | ¡Iris! ¿Cómo te fue en el examen?
+0074 [Iris] | Gracias a ustedes dos, creo que me fue bien en las cinco materias. El deseo no parece haber borrado nada de lo que aprendí en los libros. Supongo que esta vez tuve suerte.
+0075 [Amber] | Toma, Iris.
+0076 [Iris] | ¿Esto es... un teléfono? ¿De dónde lo sacaron?
+0077 [Noya] | Cuando te fuiste al examen, Amber y yo volvimos a subir al Monolito.==W== Copiamos tu oración y pedimos algunos deseos. Fallamos un montón de veces, pero tres funcionaron.==W== Ahora las tres tenemos teléfono.
+0078 [Iris] | ¿De... de verdad me lo puedo quedar? Ustedes pidieron los deseos. ¿No deberíamos venderlo por Dorra?
+0079 [Amber] | No. Noya y yo nos vamos de Emor. Con teléfonos, podemos comunicarnos cuando terminemos en la misma ciudad. Así es más fácil vernos.
+0080 [Iris] | Espera, ¿ustedes dos se van?
+0081 [Noya] | Sí, un gremio me ofreció una pasantía. Me voy hoy.
+0082 [Amber] | Me uní a un equipo de buscadores de tesoros. Salen mañana.
+0083 [Iris] | Cuando vuelvan a Emor, ya seré estudiante de la Academia Luz de Gracia y las invitaré a las dos.==W== Para entonces tendré suficiente ahorrado de mis trabajitos.
+0084 [Iris] | Ay, perdón, ya es hora de mi turno. Tengo que irme. Cuídense mucho, ¿sí?
+0085 [Amber] | Adiós.
+0086 [Noya] | ¡Tú también cuídate, Iris! ¡Volveremos antes de que te des cuenta!
+0087 [Noya] | Vámonos, Amber. Voy a terminar ese carro Artefacto cueste lo que cueste.
+0088 [Amber] | ¿Iris...==W== dijo algo raro?
+0089 [Noya] | ¿Eh? ¿Como qué?
+0090 [Amber] | Hace rato... Iris dijo que el examen tenía seis materias.

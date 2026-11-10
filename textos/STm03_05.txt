@@ -1,0 +1,140 @@
+# Capítulo 3 · 5 · Trauma
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Angry Trekker | Trekker furioso
+N:Frenzied Monster | Monstruo frenético
+N:Injured Trekker | Trekker herido
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_001 | Shrubshrew Thug
+N:avg2_958 | Weed Brawler
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Trauma
+0003 [Intro] | Pese a ser poderosa, a Fuyuka le cuesta cooperar con otros. Resulta que la razón es una experiencia traumática del pasado. Fuyuka piensa ofrecerte primero su alma, pero tú tienes otros planes.
+0004 [Lugar y hora] | 10:30, 17.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0005 [Fuyuka] | Uf...==W== Fiu...==W== Terminó...
+0006 [Fuyuka] | Esos deberían ser...==W== todos.
+0007 [Noya] | ¡Vaya! ¡¿Acabaste tú sola con todos esos monstruos?! ¡Genial!
+0008 [Iris] | Buen trabajo, Fuyuka. Toma, tómate un té y descansa un poco.
+0009 [Amber] | Eficiente.
+0010 [Fuyuka] | Je... jeje...==W== Gracias. Todavía me falta mucho para llegar a su nivel.
+0011 [Narración] | En el primer día del entrenamiento especial de Fuyuka, nos adentramos en el bosque, más allá de la Casa de los Trekkers.
+0012 [Narración] | El plan es medir su nivel de habilidad actual mientras eliminamos a algunos de los monstruos más pequeños.
+0013 [Narración] | Ante los monstruos, Fuyuka no duda. Sus delgados brazos esconden una fuerza sorprendente que le permite eliminar grupos enteros en un instante.
+0014 [Fuyuka] | Reacciona, Fuyuka. No puedes seguir así. Solo arrastrarás a todos contigo... Terminarás abandonada...
+0015 [Tú] | Qué raro. Con esa fuerza, ¿por qué es tan insegura?
+0016 [Noya] | ¡Vaya, parece que adelante hay uno duro! ¡Déjame echarte una mano, Fuyuka!
+0017 [Fuyuka] | V-vale...==W== Haré... lo mejor que pueda...
+0018 [Noya] | ¡Tengo su atención! ¡Tu oportunidad, Fuyuka!
+0019 [Fuyuka] | ¡Ja, hiyah!
+0020 [Fuyuka] | ¡Ah, qué...?! ¡Lo siento, lo siento mucho! ¡Me diste la oportunidad perfecta y aun así fallé! ¡Lo siento muchísimo!
+0021 [Noya] | ¡Oye, no pasa nada! No es para tanto. ¡Solo tranquilízate y apunta al siguiente!
+0022 [Tú] | ¿Eh? Sus golpes se han vuelto más lentos.
+0023 [Monstruo frenético] | Gluglú...
+0024 [Narración] | El monstruo ladea la cabeza, aparentemente decidiendo que Fuyuka es el blanco más fácil.
+0025 [Noya] | ¡Fuyuka, va hacia ti!
+0026 [Fuyuka] | Bien... ¡Hyaah...!
+0027 [Narración] | Fuyuka lanza un puñetazo, pero con notablemente menos fuerza. Recibe de lleno la embestida del monstruo.
+0028 [Fuyuka] | ¡Gah...?!
+0029 [Iris] | ¡Yo lo contengo! ¡Amber, acaba con él!
+0030 [Amber] | Entendido.
+0031 [Monstruo frenético] | ¡Roaar...!
+0032 [Noya] | ¡Trabajo en equipo perfecto!
+0033 [Noya] | Fuyuka, ¿estás bien?
+0034 [Fuyuka] | Y-yo... estoy bien. Lo siento, yo solo... volví a arrastrar a todos.
+0035 [Iris] | No te preocupes. Todos tenemos días malos.
+0036 [Fuyuka] | Pero no es solo en mis días malos. Es... todos los días. Siempre que me uno a otras personas, pasa esto.
+0037 [Tú] | Es cierto. Cuando Noya distraía al monstruo, los movimientos de Fuyuka parecían vacilantes.
+0038 [Noya] | Mmm... Cuando lo estaba atrayendo, ¿frenaste el golpe por miedo a darme a mí?
+0039 [Fuyuka] | Sí. Estos guanteletes... explotan al impacto.
+0040 [Noya] | ¿Y cuando se lanzó contra ti, suavizaste el puñetazo por la misma razón?
+0041 [Fuyuka] | Mjm... Ya... cometí ese error antes.
+0042 [Narración] | Hace tres meses. En un Monolito.
+0043 [Trekker herido] | Ssss... maldición, cómo duele. Su puñetazo derribó al Stellaroid, sí... Y también nos derribó a nosotros.
+0044 [Trekker furioso] | ¡¿De verdad es momento para bromas?! Estás gravemente herido. ¿Puedes siquiera ponerte de pie?
+0045 [Trekker herido] | Yo... creo que no voy a poder.
+0046 [Trekker furioso] | ¡Oye, tú! ¡Novata de pelo blanco! ¡Mira lo que hiciste! ¿Quién demonios lanza a un Stellaroid de vuelta contra sus propios compañeros?
+0047 [Fuyuka] | N-no fue mi intención...==W== No había nadie detrás cuando golpeé.
+0048 [Trekker furioso] | ¿Todavía poniendo excusas? ¡Hay gente herida por tu culpa!
+0049 [Fuyuka] | ¡Lo siento mucho! ¡De verdad lo siento!
+0050 [Trekker furioso] | ¿De qué sirve una disculpa? Paga por ello.
+0051 [Fuyuka] | ¿Q-qué?
+0052 [Trekker furioso] | Estás despedida. Y antes de irte, cubrirás los gastos médicos, los salarios perdidos, la compensación por angustia emocional y la reparación del equipo. Serán 5 millones de Dorra.
+0053 [Fuyuka] | ¿D-despedida...?
+0054 [Fuyuka] | ¿5... 5 millones?! ¡No tengo tanto!
+0055 [Fuyuka] | P-pero... de verdad es mi culpa que haya gente herida... Ahora no tengo el dinero, pero tomaré encargos para pagarles. ¡Lo prometo, pagaré hasta el último Dorra!
+0056 [Trekker furioso] | Eso está mejor. Te doy un consejo gratis.
+0057 [Trekker furioso] | ¿Con tus «habilidades»? Busca otro oficio. No estás hecha para ser Trekker.
+0058 [Lugar y hora] | 11:00, 17.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0059 [Fuyuka] | Así que... eso fue lo que pasó.==W== Después de eso, solo pude tomar encargos sola. Mi cuerpo simplemente se paraliza cuando hay otros Trekkers cerca.
+0060 [Fuyuka] | Tuve que vender todo para pagar la deuda. Menos mal que Nazuna y Kaede me acogieron. Si no, estaría en la calle.
+0061 [Iris] | Hay algo en ese equipo...==W== que no cuadra.
+0062 [Iris] | En una escalada de Monolito hay atacantes y apoyos designados. El equipo de apoyo no actúa sin órdenes, y menos aún se mete en la línea de fuego del atacante.
+0063 [Iris] | Estabas atacando al Stellaroid, Fuyuka, así que eras la atacante. Los miembros de apoyo que corrían sin control eran los culpables.
+0064 [Amber] | No es tu culpa.
+0065 [Nazuna] | Claro que no fue culpa de Fuyuka.
+0066 [Fuyuka] | ¡Nazuna...! ¿Q-qué haces aquí?
+0067 [Nazuna] | Eres de Petal Bloom. Tenía que asegurarme de que este Jefe no intentara robarte el alma.
+0068 [Tú] | Je, parece que eres una buena veterana. Ya que sabes lo que realmente pasó, ¿por qué no nos lo cuentas?
+0069 [Nazuna] | Ya se lo dije a Fuyuka antes...==W== Se topó con una banda de estafadores que se aprovechan de los novatos.
+0070 [Nazuna] | Hacen fracasar a los Trekkers nuevos, o simplemente fingen un error, para sacarles dinero.
+0071 [Noya] | ¡¿Hay Trekkers tramposos?! ¡¿Dónde están?! ¡Los dejaré en evidencia, a esos canallas!
+0072 [Nazuna] | Ojalá lo supiera.==W== Esa banda quería unirse al equipo de expedición que estábamos formando, pero su reputación era tan mala que dijimos que no.
+0073 [Nazuna] | Pero... se dice que nos siguieron de todos modos. Ninguno regresó.==W== Fin de la historia.
+0074 [Nazuna] | Un mes después, Fuyuka no pudo encontrarlos para pagarles, así que llegó a la antigua Casa de los Trekkers. Así nos conocimos.
+0075 [Iris] | Parece que recibieron lo que merecían.
+0076 [Nazuna] | ¿Ves, Fuyuka? Ese «accidente» no tiene nada que ver contigo. Fue solo una trampa de unos malnacidos. Solo sé tú misma y pelea como sabes que puedes.
+0077 [Fuyuka] | Yo... sé que fue una estafa, pero...==W== no puedo sacarme esa imagen de la cabeza: él ahí tendido. Me aterra que la próxima vez sea de verdad.
+0078 [Tú] | El incidente fue hace tres meses. Conoció a Nazuna y a Kaede hace un mes.
+0079 [Tú] | Así que vivió con esa culpa dos meses enteros. No me extraña que le haya afectado tanto la cabeza.
+0080 [Tú] | Una charla rápida no va a arreglar esto. Tengo que idear un plan de verdad.
+0081 [Lugar y hora] | 13:00, 17.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0082 [Fuyuka] | Por favor, sé sincera conmigo... ¿De verdad ese Jefe puede arreglar lo que me pasa?
+0083 [Fuyuka] | Me siento fatal, haciendo que todos pasen por tantas molestias solo por mí...
+0084 [Serena] | Tranquila, Fuyuka. Hablamos del Jefe. O quizá... debería decir «el Tirano».
+0085 [Serena] | Un pequeño problema como el tuyo no es nada para ==SEX4==.
+0086 [Fuyuka] | P-pero... ==SEX1== tenía una expresión tan sombría después de verme pelear esta mañana.
+0087 [Fuyuka] | ¿De verdad soy tan mala?
+0088 [Serena] | Si estás tan preocupada, hay un método infalible. Con esto, nunca más tendrás que preocuparte por lastimar a un compañero.
+0089 [Fuyuka] | ¿E-en serio? ¿De verdad hay una forma?
+0090 [Serena] | Entrega tu alma al Jefe.
+0091 [Serena] | Cede el control de tu cuerpo a otra persona. Conviértete en una marioneta. Así...==W== si alguien resulta herido, no será culpa tuya.
+0092 [Fuyuka] | Convertirme...==W== ¿en la marioneta del Jefe? Dejar que el Jefe controle mi cuerpo... Así no podría... no podría lastimar a nadie.
+0093 [Fuyuka] | Entiendo, señorita Serena. Gracias.
+0094 [Serena] | Dicho esto, debo advertirte. Ser una marioneta no es precisamente algo bueno, ¿sabes?
+0095 [Fuyuka] | Lo sé. Pero si esto corrige mi debilidad, por fin podré pelear junto a todos.
+0096 [Fuyuka] | ¡Q-quiero ser Trekker! ¡Quiero pelear con mis amigos! Estoy muy cansada de escalar Monolitos sola.
+0097 [Serena] | Ah... Mis disculpas. Hablé fuera de lugar. Subestimé tu determinación, Fuyuka.
+0098 [Serena] | Como es tu decisión, deberías hacerlo. Creo que...==W== deberías confiar en tus propios instintos.
+0099 [Serena] | Buena suerte. Te estaré animando.
+0100 [Lugar y hora] | 19:30, 17.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0101 [Narración] | Después de cenar, estoy a punto de ir a buscar a Fuyuka cuando siento una mirada ansiosa desde detrás del sofá.
+0102 [Tú] | ¿Fuyuka?
+0103 [Fuyuka] | ¡S-sí, soy yo! Eh, y-y-yo... esperaba poder hablar un momento con usted, eh... Jefe.
+0104 [Tú] | Buen momento. Justo te estaba buscando.
+0105 [Fuyuka] | ¿M-me buscaba? Oh, entonces... por favor, usted primero.
+0106 [Tú] | Ya sé cómo podemos resolver tu problema.
+0107 [Fuyuka] | Oh... Jefe... ¿Viene a llevarse mi alma?
+0108 [Tú] | ¿Tu alma? ¿Qué? Eso no forma parte del plan.
+0109 [Tú] | La solución que se me ocurrió es...
+0110 [Opción] | Masaje mental
+0111 [Opción] | Entrenamiento de adaptación
+0112 [Opción] | Terapia de choque
+0113 [Tú] | Vi algunos métodos para aliviar el estrés en un Monolito; debería dejar que Fuyuka los pruebe.
+0114 [Tú] | Mientras se relaje y deje de pensar en «hacer daño a sus compañeras de escuadra», su problema debería resolverse.
+0115 [Tú] | Más que evitar una dificultad, es mejor enfrentarla.
+0116 [Tú] | Solo tengo que dejar que se adapte a pelear junto a sus amigas mediante un entrenamiento intensivo. Mmm... Por seguridad, tendré que limitar un poco su poder.
+0117 [Tú] | No hay tiempo para métodos lentos. La forma de lidiar con un trauma es crear uno aún mayor que lo eclipse.
+0118 [Tú] | Je, je, ¡tengo una buena idea!

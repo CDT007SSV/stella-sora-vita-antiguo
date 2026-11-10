@@ -1,0 +1,6 @@
+# Historia de Amber — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_103_01 | El gatito perdido (Parte I)
+CG_103_02 | El gatito perdido (Parte II)
+CG_103_03 | El gatito perdido (Parte III)

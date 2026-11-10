@@ -1,0 +1,121 @@
+# Evento · Para ti, mi persona más querida · 7 · Un saludo que trasciende el tiempo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Howard | Howard
+N:Young Donna | Donna joven
+N:avg1_103 | Amber
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg2_950 | Búho Vendaval
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_161 | Leafia
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Un saludo que trasciende el tiempo
+0003 [Intro] | Recuperas la carta e intentas entregarla una vez más. Conmovido por la sinceridad de Donna, Howard por fin acepta tanto la carta como el amor y la disculpa de su padre. Al fin, años de resentimiento se disuelven.
+0004 [Gale Owl] | ¡Uuu-==W==uuu...==W== gaaah...!
+0005 [Freesia] | ¡Cayó!
+0006 [Teresa] | ¡Lo logramos! ¡Yupi!
+0007 [Donna] | ¡Rápido, revisemos su nido!
+0008 [1] | Guau... Este nido es muchísimo más grande de lo que esperaba. De hecho, aquí adentro hay bastante espacio.
+0009 [Leafia] | Parece que usó su saliva para pegar todas las cartas que recolectó en un solo bulto.
+0010 [Teresa] | Hay que despegarlas una por una...==W== Ugh, esto va a tardar una eternidad.
+0011 [Freesia] | Si nos tomamos el tiempo,==W== la encontraremos.
+0012 [Donna] | ¡Freesia tiene razón! ¡Dividámonos y pongámonos a excavar!
+0013 [Freesia] | Como la carta del señor Howard contiene un objeto duro, supuse que sería más fácil distinguirla...
+0014 [Teresa] | No la encuentro por ningún lado,==W== miau...
+0015 [Tú] | Casi desmantelamos todo el nido... Revisé este mar entero de cartas...
+0016 [Donna] | Llevamos tanto tiempo en esto sin suerte. Quizá simplemente...
+0017 [Tú] | ¡No, espera! ¡Esta...!
+0018 [Tú] | ¡Hay algo duro adentro! ¡Tiene que ser la carta de Howard!
+0019 [Donna] | ¡Déjame ver!
+0020 [Donna] | Un sobre amarillento...==W== ¡dirigido a «Howard»! ¡Es esta!==W== ¡Eres increíble, Jefe! ¡De verdad la encontraste!
+0021 [Teresa] | ¡Qué bien, Donna!==W== Date prisa y llévasela al señor Howard. ¡Asegúrate de que esta vez sí la lea!
+0022 [Donna] | ¡Por supuesto que sí!
+0023 [Freesia] | Bien. ¿Qué haremos con el resto de estas cartas desperdigadas?
+0024 [Donna] | No podemos dejarlas aquí...==W== Llevémoslas todas de vuelta. Vamos a entregar hasta la última.
+0025 [Tú] | Cierto. Podemos empezar a clasificarlas en cuanto volvamos.
+0026 [Donna] | ¡Guau! ¡Aprendes rápido, Jefe! ¡Ya hablas como todo un profesional!==W== ¿Pero seguro que quieres más? Es una pila enorme y la mitad de los sobres están destrozados...
+0027 [Tú] | «Cada carta entregada, sin importar la situación». Ese es el estilo de Post Haste, ¿no?==W== Ya llegamos hasta aquí; mejor terminamos lo que empezamos.
+0028 [Donna] | ¡Jeje, entonces cuento contigo! ¡No sé qué haríamos sin ustedes!
+0029 [Narración] | Tras despejar el nido del Búho Vendaval, el equipo de Post Haste se despide de Leafia. Con la preciada carta por fin a salvo, parten hacia la casa de Howard...
+0030 [Donna] | Respiro hondo...==W== Bien. Aquí vamos...
+0031 [Donna] | ¡Buenas...! ¡Entrega de Post Haste! ¡Señor Howard, tenemos una carta para usted!
+0032 [Howard] | Vaya... Así que son ustedes los que hacen todo ese escándalo... Gracias por el esfuerzo, supongo...==W== Espera...
+0033 [Howard] | ¡Esa carta!==W== ¡¿Por qué la tienen...?!
+0034 [Freesia] | La recuperamos del nido de un monstruo==W== y la trajimos de vuelta. Por favor, acéptela.
+0035 [Howard] | ¡¿El nido de un monstruo?! Eso suena sumamente peligroso... ¿Se tomaron todas esas molestias solo para recuperar esto?
+0036 [Howard] | Es solo una carta. Si se perdió, que se quedara perdida... No había necesidad de arriesgar el pellejo por ella. No les habría reprochado nada.
+0037 [Teresa] | Llueva o truene...==W== ¡Incluso si se la roban los monstruos, nos aseguraremos de que cada carta importante sea entregada! ¡Miau!
+0038 [Freesia] | Ese es el lema de Post Haste.
+0039 [Howard] | El trabajo es importante, claro, pero los ideales solo llegan hasta cierto punto...==W== Suspiro. Miren cómo andan, todos raspados. Pudieron haber muerto. No vale la pena.
+0040 [Howard] | Un pedazo de papel contra sus vidas... Son jóvenes. Tienen que aclarar sus prioridades. Cuídense más.
+0041 [Donna] | Con todo respeto, señor...==W== Para mí, la carta es más importante.
+0042 [Howard] | Si esa es su actitud,==W== entonces definitivamente no puedo aceptarla.
+0043 [Freesia] | ¡¿Disculpe?!==W== ¡¿Por qué no?!
+0044 [Teresa] | Pero nos esforzamos muchísimo==W== por recuperarla...
+0045 [Howard] | Precisamente. Si la acepto, se sentirán héroes, ¿no? Se dirán a sí mismas:==W== «Aunque un monstruo robe el correo, hay que recuperarlo a toda costa».==W== Y la próxima vez tomarán las mismas decisiones imprudentes.
+0046 [Howard] | Sigan metiéndose en las Tierras Salvajes con esa mentalidad y se les acabará la suerte.==W== Si mueren allá afuera, ¿han pensado en lo que eso les hace a sus familias?
+0047 [Donna] | ¡...!==W==
+0048 [Young Donna] | Mamá... Papá... ¿se fueron? ¿Un accidente...?==W== ¡Mienten...!==W== ¡No! ¡Están mintiendo!
+0049 [Donna] | Yo...
+0050 [Howard] | Los ideales están bien, pero solo se vive una vez. No se puede lograr nada estando muerto. No voy a apoyar esto...==W== Este juego imprudente de «mensajeras» que están jugando. Por favor, váyanse.
+0051 [Tú] | ¿«Juego imprudente»...? No puedo dejar pasar eso.
+0052 [Donna] | ¿Jefe...?
+0053 [Tú] | Post Haste se juega la vida para entregar el correo, sí, pero no confunda eso con imprudencia.
+0054 [Tú] | Tiene razón. No se puede cumplir un ideal estando muerto. Pero saberlo es justo lo que las hace tan fuertes.
+0055 [Tú] | Como prometieron entregar cada carta, se encargan de sobrevivir. Volverse más fuertes, más resistentes y mantenerse a salvo... Eso es parte del trabajo.
+0056 [Freesia] | ... Exacto.==W== No permitiremos que nada nos impida completar una entrega.
+0057 [Teresa] | ¡Así es!==W== ¡Si algo nos pasara, el correo no se entregaría, y eso no es una opción!
+0058 [Donna] | Freesia... Teresa...==W== Tienen razón.==W== Sí.
+0059 [Donna] | Señor Howard, quizá le parezcamos imprudentes... Quizá parezca que jugamos con nuestras vidas. Pero...
+0060 [Donna] | No caeremos tan fácilmente.
+0061 [Howard] | ¿A qué se refieren?
+0062 [Donna] | La distancia puede separarnos, pero la necesidad de conectar permanece... Ese deseo de salvar la brecha es justo la razón por la que escribimos cartas.
+0063 [Donna] | Pero... volcar el alma en el papel no significa nada si el mensaje nunca llega. Sin un mensajero, todos esos sentimientos simplemente se desvanecen en el vacío.
+0064 [Donna] | La paga es pésima y el peligro es real... Pero eso no es excusa para darle la espalda. Si al mundo le faltan personas que hagan este trabajo, entonces nosotras daremos el paso.
+0065 [Donna] | Nos negamos a caer. Hasta que cada mensaje llegue a salvo, sobreviviremos a cualquier infierno que nos espere. Seguiremos luchando.
+0066 [Howard] | ¿Por qué llegan tan lejos por esto...?
+0067 [Donna] | Porque una carta me salvó la vida una vez, llevándome un mensaje del pasado para darme fuerzas... Y me hizo quien soy hoy.
+0068 [Donna] | ¡Dedico mi vida a asegurar que ninguna carta quede sin entregar y ningún sentimiento quede sin ser escuchado!
+0069 [Howard] | ... Siempre pensé que los Trekkers eran unos imprudentes idiotas con ganas de morir.==W== Igualito que el desgraciado de mi padre, que escribió esto.
+0070 [Donna] | ¿Reconoce al remitente?
+0071 [Howard] | Ese estilo de firma tan particular... Es la letra del viejo, sin duda. Reconocería ese garabato en cualquier parte.
+0072 [Howard] | El negocio andaba mal en esa época... Así que de pronto se fue para volverse Trekker.==W== Viejo irresponsable. Abandonar un oficio sólido en busca de peligro... Estaba loco.
+0073 [Tú] | Entonces ¿por qué sigue forjando equipo para Trekkers?
+0074 [Tú] | El equipo Howard es famoso por combinar durabilidad con un diseño ligero. Para los Trekkers que enfrentan peligro constante, esa fiabilidad es un salvavidas.
+0075 [Tú] | Habla mal de la profesión, pero volvió a colgar su letrero y siguió trabajando la forja. ¿Por qué?
+0076 [Howard] | ... Alguien tiene que cuidar a esos maniáticos suicidas, ¿no?==W== Alguien tiene que salvarles el pellejo.
+0077 [Howard] | Mire, sé que Nova necesita Trekkers.==W== Todos los que vivimos seguros en las ciudades con nuestros Artefactos le debemos esa paz a ellos, de una forma u otra.
+0078 [Howard] | «Hay trabajos en este mundo que tienen que hacerse. Yo quiero ayudar, así que hago equipo». Mi papá lo decía todo el tiempo...==W== Y supongo que yo siento lo mismo.
+0079 [Teresa] | Si es así,==W== ¿por qué habla tan mal de él, miau?
+0080 [Howard] | Abandonó a su familia sin decir palabra por esa vida peligrosa, y desde entonces no hemos sabido nada de él.==W== ¿A quién no le molestaría?
+0081 [Donna] | Señor Howard...
+0082 [Howard] | Suspiro... Perdón que hayan visto eso.==W== Me puse en ridículo. Aceptaré la carta.
+0083 [Donna] | ¡¿D-De verdad?!
+0084 [Howard] | Si rechazara algo que ustedes, Trekkers, pelearon con uñas y dientes por recuperar...==W== mi reputación como herrero que «protege la vida de los Trekkers» no valdría ni un centavo.
+0085 [Donna] | ¡Muchísimas gracias!
+0086 [Narración] | Toma el sobre desgastado de manos de la chica y lo rasga. Cae un Artefacto duro y redondo.
+0087 [Howard] | ¿Esto es... una regla enrollada con marcas? Se ve práctica, supongo. Pero ¿por qué el viejo me mandaría una cosa así...?
+0088 [Narración] | Howard se atraganta con sus palabras, con los ojos clavados en la carta.
+0089 [Narración] | «Para mi querido hijo...»
+0090 [Narración] | «No sé si esto algún día te llegue, pero encontré un Artefacto genial que quería que tuvieras. Se llama "Cinta Métrica". Pensé que te serviría para tomar medidas cuando fabriques equipo».
+0091 [Narración] | «Siempre soñaste con ser herrero. Pero el taller empezó a fracasar bajo mi mando y siempre sentí que te había fallado... Salí de la ciudad para buscar trabajo y reunir dinero... Pero me dio demasiada vergüenza decirte la verdad antes de irme. Por favor, perdona el necio orgullo de tu viejo».
+0092 [Narración] | «Hoy en día, acepto encargos de Trekkers y vendo mi equipo en el campo. Incluso hago mantenimiento aparte: ¡el negocio va viento en popa! Así que tú concéntrate en perfeccionar tu oficio. No te preocupes por el dinero. Le estoy mandando dinero a tu madre».
+0093 [Narración] | «Volveré a casa en cuanto haya ahorrado un poco más... Cuando lo haga, me encantaría que trabajaras en mi equipo... Jaja, ¿será mucho pedir?».
+0094 [Howard] | Hasta entonces, gracias por mantener vivo el apellido familiar»...==W== ¿Qué es esto... qué demonios...?
+0095 [Howard] | Papá se fue... ¿por la familia? ¿Por mí? ¿Por eso se hizo Trekker...?
+0096 [Howard] | No puede ser... Y yo... Todo este tiempo... Ugh...
+0097 [Donna] | ...==W== Tome este pañuelo.
+0098 [Howard] | Perdón...==W==
+0099 [Howard] | Mi padre se hizo Trekker por mi sueño... Y yo me la he pasado odiándolo por eso todo este tiempo...==W== ¿Cómo pude ser tan... Soy patético...
+0100 [Donna] | ¡No diga eso!==W== ¡Creo que ha hecho un trabajo increíble, señor Howard!
+0101 [Howard] | ¿Eh?
+0102 [Donna] | ¡Mírese! Se convirtió en un herrero extraordinario, ¿no es así?==W== ¡El deseo de su padre ya se hizo realidad!
+0103 [Donna] | Él apoyó el sueño del hijo al que amaba...==W== ¡Y usted lo hizo realidad con sus propias manos!
+0104 [Howard] | ... Gracias. Gracias por traerme esto...==W== Gracias a esta carta, creo... que por fin puedo dar unos pasos de verdad hacia adelante.

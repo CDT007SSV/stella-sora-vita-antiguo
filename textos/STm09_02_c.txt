@@ -1,0 +1,164 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 2C · La torre del Tirano
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cautious Committee Member | Miembro del Comité cauteloso
+N:Committee Elite | Élite del Comité
+N:Committee Knight | Caballero del Comité
+N:Committee Mage | Mago del Comité
+N:Committee Standard Bearer | Abanderado del Comité
+N:Confused Committee Member | Miembro del Comité confundido
+N:Defending Committee Member | Miembro del Comité defensor
+N:Resisting Committee Member | Miembro del Comité que resiste
+N:Sales-Pitching Mascot | Mascota vendedora
+N:avg1_108 | Kasimira
+N:avg1_114 | Chaton
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1197 | Stellaroid
+N:avg1_1198 | Stellaroid
+N:avg1_1199 | Stellaroid
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_144 | Chitose
+N:avg1_145 | Otoha
+N:avg1_156 | Nazuna
+N:avg2_938 | Duque Glopo
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_1306 | Soldado de los Centinelas del Alba
+N:avg3_1307 | Soldado de los Centinelas del Alba
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_131 | Nazuna
+N:avg3_132 | Kaede
+N:avg3_133 | Portia
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_157 | Guardia Imperial
+N:avg3_158 | Pingüino artista
+N:avg3_216 | Gunhild
+N:avg3_217 | N.º 160
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La torre del Tirano
+0003 [Intro] | Preparas defensas por todo el Monolito mientras la batalla se intensifica. Aunque el Comité es poderoso, le cuesta ascender. Defendiendo sola el piso 45, Chitose detiene a la n.º 160 mientras resiste un veneno mortal.
+0004 [Lugar y hora] | 15:40, 18.º del mes de Nebula, Monolito del Desierto, piso 15
+0005 [Committee Knight] | Qué raro. ¿No se supone que este Monolito está abandonado? Se ve idéntico a los de la ciudad.
+0006 [Committee Elite] | Los Monolitos reaccionan a la gente. Si uno se queda vacío el tiempo suficiente, se vuelve estéril y queda reducido a roca desnuda, como lo que vimos hace rato.
+0007 [Committee Elite] | Pero en cuanto entra gente, despierta y vuelve a transformarse en la forma a la que estamos acostumbrados.
+0008 [Committee Knight] | No tenía idea. Ustedes, los Centinelas del Alba, de verdad saben lo que hacen.
+0009 [Committee Elite] | Je, no es nada. Si peleas todos los días contra Nocturn Eterna en Monolitos dormidos lejos de las Ciudades, tú también aprendes cosas.
+0010 [Committee Elite] | Pero los verdaderos expertos son los Trekkers. Las fuerzas del Tirano están llenas de ellos, y estamos peleando en su terreno. No bajen la guardia.
+0011 [Committee Mage] | Entendido. Les lancé a todos mi magia defensiva más fuerte. Podemos aguantar cuatro o cinco golpes de cualquier arma. Ni siquiera los lacayos del Tirano pueden tomarnos por sorpresa.
+0012 [Committee Knight] | Atentos. Hay movimiento.
+0013 [Committee Mage] | ¿Esto es... niebla? ¿Desde cuándo hay niebla en un Monolito?
+0014 [Narración] | Uuuuh... El odio... Arde...
+0015 [Committee Mage] | ¡¿Q-qué demonios es eso?!
+0016 [Narración] | Qué ironía... Morí en este Monolito antes de encontrar un Artefacto. Abandonado para pudrirme... Olvidado...
+0017 [Committee Knight] | El aire... Se puso helado de repente. ¿Eso es...==W== el fantasma de un Trekker muerto?
+0018 [Narración] | Di mi vida por protegerlos... Pero ellos ya habían seguido adelante con alguien más...
+0019 [Narración] | Qué más da, qué más da... Este lugar sin luz es una buena tumba... A nadie en este mundo le importo de todos modos...
+0020 [Committee Elite] | ¡¿Es en serio?! ¡Los fantasmas no existen! ¡Debe ser uno de los lacayos del Tirano haciendo trucos!
+0021 [Narración] | ¡P-pero miren! ¡¿Qué son todas esas sombras retorcidas detrás?!
+0022 [Committee Elite] | Uno, dos, tres...==W== ¿Como veinte? Je. Ya entiendo. Una ilusión barata.
+0023 [Committee Elite] | ¡El Tirano ni siquiera tiene tantos combatientes! Solo están ganando tiempo. ¡Disipen la niebla!
+0024 [Committee Mage] | ¡Vientos furiosos, respondan a mi llamado!
+0025 [???] | ¡Jeje! ¡Ustedes atacaron primero!
+0026 [Committee Mage] | ¿Eh? El fantasma desapareció.
+0027 [Committee Knight] | ¡Miren! Esas sombras son... ¡Stellaroids! ¡Y vienen directo hacia nosotros!
+0028 [Committee Elite] | ¡Formación! ¡¡¡Deténganlos!!!
+0029 [Nazuna] | ¡Buen trabajo, Kaede! Trajiste todo un enjambre.
+0030 [Kaede] | Es la jugada característica de Petal Bloom. Juntar a los Stellaroids y dejar que Nazuka los elimine.
+0031 [Nazuna] | Solo que hoy nuestro objetivo no son los Stellaroids. Son estos santurrones del Comité de Salvación.
+0032 [Nazuna] | En serio, qué bola de idiotas. ¿De verdad no saben que los Stellaroids se lanzan contra el primero que usa magia?
+0033 [Committee Elite] | L-los detuvimos...
+0034 [Nazuka] | Cierto. Pero también gastaron toda su magia defensiva.
+0035 [Nazuka] | Se atrevieron a lastimar a la persona más importante para mí.==W== ¡Vientos mordaces del invierno, entiérrenlos en este Monolito!
+0036 [Lugar y hora] | 16:00, 18.º del mes de Nebula, Monolito del Desierto, piso 21
+0037 [Sales-Pitching Mascot] | ¡Gu-gu-gah!
+0038 [Cautious Committee Member] | ¿Un pingüino? ¿Es una nueva especie de Stellaroid?
+0039 [Committee Standard Bearer] | No, creo que es la mascota de una tienda de conveniencia del Monolito. Está tratando de atraer clientes.
+0040 [Confused Committee Member] | ¿Una tienda de conveniencia? ¿En un lugar repleto de Stellaroids?
+0041 [Committee Standard Bearer] | Sí, funcionan como zonas seguras. Aquí puedes comprar bebidas que potencian la magia mientras escalas.
+0042 [Committee Standard Bearer] | Vamos a echar un vistazo. El Tirano y ==SEX3== lacayos llegaron mucho antes que nosotros. Nos llevan muchísima ventaja reuniendo poder, así que necesitamos esta tienda para acortar la distancia.
+0043 [Portia] | Bienvenidos. ¿Qué les puedo ofrecer hoy?
+0044 [Committee Standard Bearer] | Junten las Monedas del Monolito que encontramos. Deberíamos tener suficiente para una bebida potenciadora de magia cada uno.
+0045 [Portia] | Gracias por su visita.
+0046 [Committee Standard Bearer] | Bueno, eso salió bien. Tómenselas todos. Recarguen su poder y sigamos subiendo.
+0047 [Committee Standard Bearer] | Trescientos de nosotros entramos a este Monolito. Si aunque sea un escuadrón alcanza al Tirano, ganamos.
+0048 [Cautious Committee Member] | Glup... Glup...
+0049 [Committee Standard Bearer] | Sabe un poco raro. ¿Estas bebidas siempre fueron tan espesas?
+0050 [Confused Committee Member] | De repente... tengo mucho sueño.
+0051 [Cautious Committee Member] | No puedo mantener los ojos abiertos...
+0052 [Committee Standard Bearer] | ¡Oigan, reaccionen! Maldición, a mí también me pesan los ojos... Las bebidas tenían algo...
+0053 [Committee Standard Bearer] | Tengo que avisarles a los demás. El elevador... Retírense a la planta baja...
+0054 [Sales-Pitching Mascot] | ¡Gu-gu-gaaaaaah!
+0055 [Minova] | Listo. Tercer escuadrón fuera. Tu plan funciona de maravilla, Otoha. Ven a una dependienta y bajan la guardia.
+0056 [Otoha] | Solo porque eres un Sherlock muy convincente. Un pingüinito lindo hace que todos se relajen. Valió la pena cargar este traje desde Philae.
+0057 [Otoha] | Además, todavía necesitamos tu bate para los que resistan la poción para dormir.
+0058 [Minova] | Mi bate nunca falla. Un batazo y quedan noqueados. Ni de chiste vamos a dejar que estos alcancen al Jefe.
+0059 [Otoha] | Ah, ahí viene otro grupo. De vuelta al personaje~
+0060 [Minova] | ¡Va!
+0061 [Sales-Pitching Mascot] | ¡Gu... gu... gah!
+0062 [Lugar y hora] | 17:00, 18.º del mes de Nebula, Monolito del Desierto, piso 37
+0063 [Kasimira] | ¡Chaton, fuego de cobertura!
+0064 [Chaton] | ¡Desciende,==W== Luz del Fin del Mundo!==W== ¡La gran Chaton los mantendrá atrapados en el elevador!
+0065 [Chaton] | ¡Quédense quietos y reciban el bautismo del poder oscuro!
+0066 [Defending Committee Member] | ¡Maldición, su potencia de fuego es demasiado! ¡Ni siquiera podemos salir de las puertas! ¡¿Esas balas mágicas tienen una bendición del Monolito?!
+0067 [Resisting Committee Member] | ¡Aguanten! Su magia no es infinita. ¡Avanzamos en cuanto cambie su cartucho de Neo Solution!
+0068 [Kasimira] | ¡Ahora, Fuyuka!
+0069 [Fuyuka] | ¡Este golpe es por mi Maestro!
+0070 [Chaton] | ¡Guau, ese guantelete gigante salió disparado como un cohete! ¡Qué genial! ¡Te ves toda suavecita y delicada, pero tu poder oscuro está por las nubes!
+0071 [Fuyuka] | ¡N-no, no es poder oscuro! Es la bendición del Monolito que elegí con base en las notas de Iris... ¡No sabía que podía pegar tan fuerte!
+0072 [Kasimira] | Aquí resistimos. Mientras mantengamos la posición elevada, nuestro fuego cruzado tiene bloqueado el elevador. No importa cuántos miembros del Comité manden, solo son tiro al blanco.
+0073 [Gunhild] | ¡No se confíen!
+0074 [Kasimira] | Se nos coló una. ¿Tu escuadrón te sirvió de escudo?
+0075 [Resisting Committee Member] | Capitana Gunhild... Esto es lo último... de mi magia.
+0076 [Gunhild] | ¡Perforador, Forma Dos! ¡Fuego!
+0077 [Kasimira] | ¡Chaton, Fuyuka, a cubierto!
+0078 [Kasimira] | Cof, cof... Una explosión fuerte a corta distancia. ¿Están bien, ustedes dos?
+0079 [Fuyuka] | E-estoy bien. Solo unos raspones.
+0080 [Chaton] | ¡La gran Chaton solo sufrió un mechón chamuscado! ¡Esquivé todo lo demás a la perfección! Aunque qué lástima... Casi lograba un combo completo.
+0081 [Gunhild] | Eres rápida, eso te lo concedo. Pero ya gané. Una vez que el Perforador te marca, nunca puedes escapar de su fijación.
+0082 [Gunhild] | A ver.==W== La capitana del Gato Blanco con la escopeta está detrás del gabinete.==W== La francotiradora está detrás de la maceta.
+0083 [Gunhild] | ¡Perforador, Forma Uno! ¡Fuego!
+0084 [Chaton] | ¡Oye, oye! ¡Está haciendo trampa! ¡Ve a través de las paredes!
+0085 [Gunhild] | No es trampa, gatas callejeras ignorantes. Es una reliquia que me concedió Lady Angie.
+0086 [Gunhild] | El omnisciente Dios de la Gracia me bendice. ¡Encontrar sus escondites es un juego de niños!
+0087 [Gunhild] | Ya tuvieron inmovilizado a mi escuadrón bastante tiempo. Ahora me toca a mí.
+0088 [Kasimira] | Chaton, el Jefe tenía razón. El cañón de Gunhild de verdad tiene esta habilidad absurda.==W== Al principio no lo creí, pero tengo que admitirlo... ==SEX1== de verdad puede ver el futuro.
+0089 [Chaton] | ¡Entonces usemos la estrategia del Jefe y acabemos con esta tramposa!
+0090 [Gunhild] | ¡Sigan corriendo! Aunque huyan a otro piso, mi Perforador los fija incluso a través del suelo.
+0091 [Gunhild] | ¿Eh? ¿Solo dos Gatos Blancos en la mira? ¿Adónde se fue esa Trekker de cabello blanco? El Perforador debería estar rastreándola.
+0092 [Gunhild] | Si no está escondida por aquí, el único lugar que queda es...==W== ¡el techo!
+0093 [Narración] | ¡¡¡Iiih!!!
+0094 [Gunhild] | ¡Ríndete! Ya no tienes opciones. ¡El Tirano no merece tu lealtad!
+0095 [Kasimira] | La que ya no tiene opciones eres tú.
+0096 [Chaton] | ¡Fuyuka! ¡Usa la formación que te enseñó tu Maestro!
+0097 [Gunhild] | ¿Van al combate cuerpo a cuerpo? El Perforador pega fuerte. ¡Y aun a esta distancia, mi fijación funciona!
+0098 [Kasimira] | Sí. Pero no puedes apuntar ese cañón en todas direcciones a la vez.
+0099 [Gunhild] | Qué viles... Atacar desde tres ángulos a la vez.
+0100 [Gunhild] | Lady Angie... ==W==Hasta aquí... llego yo.
+0101 [Lugar y hora] | 17:30, 18.º del mes de Nebula, Monolito del Desierto, piso 45
+0102 [No. 160] | (¿Qué demonios pasa con este Monolito? Me topo con los lacayos del Tirano cada pocos pisos. Es exactamente como...)
+0103 [No. 160] | (...ese legendario Monolito del Tirano que los héroes tuvieron que escalar.)
+0104 [No. 160] | (He abusado de mi detención del tiempo para llegar hasta aquí. Solo cinco pisos más para alcanzar al Tirano.)
+0105 [No. 160] | (Tengo que abrirle el camino a Lady Angie. Cueste lo que cueste.)
+0106 [Chitose] | Tú debes ser la árbitra que detiene el tiempo lastimándose a sí misma.
+0107 [Chitose] | Soy Chitose. Mientras yo esté aquí, tu mirada inmunda jamás cruzará mi hoja, y mucho menos tocará el borde de las vestiduras de mi ==SEX11==.
+0108 [No. 160] | (¿Otra más?==W== La Trekker de la espada. Ya sabe cómo funciona mi magia.==W== Je, definitivamente hay un topo en el Comité.)
+0109 [No. 160] | (No importa. Me he estado cortando durante todo el ascenso. Acumulé muchísimo miedo.)
+0110 [No. 160] | Oh, Dios de la Gracia, si de verdad existes... ¡Por favor, detén el reloj! ¡Haz que se detenga!
+0111 [No. 160] | Y ahora, elegante Trekker. Estás infectada con mi Cicatriz. Veamos cuánto aguantas.
+0112 [No. 160] | El veneno botánico de mi daga hunde a sus víctimas en el terror más profundo y oscuro que se puedan imaginar.==W== No hay escapatoria. Simplemente se ahogan en su propio miedo.
+0113 [No. 160] | Y ahora, liberación de magia.
+0114 [Chitose] | Agh...
+0115 [No. 160] | Jajaja... ¡Está funcionando!==W== ¡Déjame ver cómo esa carita delicada y bonita se retuerce y se quiebra de puro terror! ¡Quiero ver lo hermosa que te ves cuando te rompes!
+0116 [Chitose] | Qué escándalo. No tengo ningún deseo de escuchar semejantes inmundicias.
+0117 [No. 160] | ¡¿C-cómo es posible?! ¡Estás envenenada!
+0118 [Chitose] | Soy la espada de mi ==SEX11==. ¡Mientras mi ==SEX11== habite en mi corazón, no le temo absolutamente a nada!
+0119 [Chitose] | ¿Creíste que un veneno vulgar podría corroer mi espíritu? Qué completa necedad.
+0120 [Narración] | Mi ==SEX11==...==P== A estas alturas, ya debe haber llegado a esa sala. Mi corazón está en paz.==P== Por favor, permítame ofrecer esta última plegaria por su camino...

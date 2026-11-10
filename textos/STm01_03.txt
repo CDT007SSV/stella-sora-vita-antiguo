@@ -1,0 +1,124 @@
+# Capítulo 1 · 3 · Oasis desvanecido
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Mercenary Leader | Líder de mercenarios
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1996 | Noya
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1222 | Guardia
+N:avg3_129 | Guardia Imperial
+N:avg3_152 | Bastelina
+N:avg3_157 | Guardia Imperial
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El oasis desaparecido
+0003 [Intro] | Una deuda sospechosa se le achaca al Gremio Nueva Estrella. Tu vehículo, que además es tu hogar y refugio, es embargado por la codiciosa Creta Trading como pago.
+0004 [Lugar y hora] | 10:00, 26 del mes de Floris, Distrito de las Cenizas, Emor. Entrada de la Tienda de Almas
+0005 [Líder de mercenarios] | ¡Jefa Feagin! El vehículo ya está bien amarrado y listo.
+0006 [Feagin] | ¡Cuidado con la pintura! Cualquier rasguño sale directo de sus pagos.
+0007 [Líder de mercenarios] | ¡Sí, jefa!
+0008 [Narración] | Gruesas vigas de madera están atadas al armazón del Lucky Oasis.
+0009 [Líder de mercenarios] | ¡Levantamos a la cuenta de tres! Una... dos... ¡ARRIBA!
+0010 [Narración] | Una docena de mercenarios cargan las vigas al hombro y levantan el vehículo con firmeza.
+0011 [Noya] | ¡Oigan! ¿Qué creen que están haciendo con Loxy?
+0012 [Iris] | Esto tiene que ser un error. ¿Por qué se llevan nuestras ruedas?
+0013 [Líder de mercenarios] | ¡Tranquilos, tranquilos!
+0014 [Líder de mercenarios] | Nosotros solo somos músculo contratado. Tienen que preguntarle los detalles a nuestra clienta.
+0015 [Líder de mercenarios] | Todos, alto un momento.
+0016 [Feagin] | ¿Y ahora qué? ¿Ya hay descanso para el café? ¿Les parece que les pago demasiado?
+0017 [Líder de mercenarios] | Jefa, los dueños están aquí.
+0018 [Feagin] | ¿Y a mí qué me importa que estén los dueños? ¡Yo soy quien firma sus cheques!
+0019 [Líder de mercenarios] | ¡S-sí, entendido! Lo volvemos a levantar.
+0020 [Noya] | ¿Así que tú eres la estafadora detrás de esto?
+0021 [Feagin] | ¿Perdón? ¿A quién llamas estafadora, ratas de alcantarilla?
+0022 [Feagin] | Soy Feagin, directora general de Creta Trading. Seguro que has oído el nombre. Ahora hazte a un lado si sabes lo que te conviene.
+0023 [Iris] | ¡¿Una directora general?!
+0024 [Iris] | ¡N-Noya, espera! ¡Es una directora general! ¡No podemos ganar!
+0025 [Noya] | Jefa o no, los ladrones son ladrones, y eso significa problemas.
+0026 [Noya] | Amber, prepárate para pelear.
+0027 [Amber] | Por favor, deténganse.
+0028 [Líder de mercenarios] | ¡Oigan, bajen las armas! ¡Lo estamos dejando en el suelo!
+0029 [Feagin] | No hay manera de razonar con gente como ustedes.
+0030 [Bastelina] | Bueno... no conozco todos los detalles, pero no se les puede culpar por estar molestas. No se puede llevar el vehículo de alguien así como así.
+0031 [Feagin] | ¿Eh? ¿Y tú quién eres?
+0032 [Bastelina] | Soy Bastelina, pasante del Imperio de la Gracia.==W== Usted debe de ser... ¿la jefa Feagin, de Creta Trading?
+0033 [Feagin] | Hmph. Por fin alguien con medio cerebro.
+0034 [Bastelina] | Con todo respeto, jefa, incluso siendo directora general, llevarse un vehículo sin permiso sigue siendo robo. Es un delito.
+0035 [Bastelina] | Y como esto ocurre frente a la Tienda de Almas, el Imperio de la Gracia tiene el deber de proteger a sus clientes.
+0036 [Bastelina] | Debo insistir en que detenga esto de inmediato. De lo contrario, tendré que llamar al Centinela del Alba.
+0037 [Feagin] | Vaya, vaya, qué valiente.
+0038 [Feagin] | Echa un vistazo a esto.
+0039 [Bastelina] | Esto es...
+0040 [Iris] | ¡¿Un contrato de préstamo?!
+0041 [Feagin] | Exacto. El vehículo es garantía de una deuda, lo que lo convierte en propiedad de Creta Trading.
+0042 [Noya] | ¡¿Qué?! ¡Construimos a Loxy con nuestras propias manos! ¿Cómo va a ser tuya?
+0043 [Iris] | La deudora... ¡¿es el Orfanato de las Cenizas?!
+0044 [Amber] | Nuestro... orfanato.
+0045 [Feagin] | Léanlo y lloren. Todo está ahí, en blanco y negro.
+0046 [Feagin] | Hace dos años, el Orfanato de las Cenizas nos pidió un préstamo de 10 mil millones de Dorra. Plazo de veinte años, 20 % de interés anual, pagos mensuales.
+0047 [Feagin] | Son 20 833 333 Dorra cada mes.
+0048 [Tú] | ¿20 % anual? ¡Eso es un robo!
+0049 [Noya] | ¡Imposible! ¡La tía Allie jamás pediría un préstamo tan grande!
+0050 [Iris] | Exacto. La tía Allie siempre priorizaba el bienestar de los niños. Nunca haría algo tan imprudente.
+0051 [Feagin] | ¿O tal vez fue precisamente por esos niños que tuvo que seguir pidiendo prestado?
+0052 [Noya] | Eh... bueno...
+0053 [Iris] | Aunque fuera cierto, todo esto es muy repentino.==W== Lo investigaremos y arreglaremos las cuentas con ustedes como corresponde.
+0054 [Iris] | No vamos a huir, lo juramos. Así que, por favor, ¿podrían devolvernos el vehículo por ahora?
+0055 [Feagin] | ¿Cuándo fue la última vez que estuvieron en Emor?
+0056 [Noya] | Hace dos años.
+0057 [Feagin] | ¡Ja! Qué conveniente.
+0058 [Feagin] | Hace un año y diez meses, el Orfanato de las Cenizas cerró sus puertas. La directora Allie y los niños desaparecieron.
+0059 [Noya] | ¡¿Qué?!
+0060 [Iris] | ¡Eso no puede ser!
+0061 [Amber] | ...
+0062 [Feagin] | ¿El dinero que nos debían? Puf. Desaparecido.
+0063 [Feagin] | Así que nada personal, pero ¿cualquier propiedad que tenga siquiera un rastro del Orfanato de las Cenizas? Ahora es nuestra.
+0064 [Noya] | Pero... pero Loxy... Construimos a Loxy con nuestras propias manos...
+0065 [Feagin] | Ya lo investigué.==W== Muchas de las piezas de este vehículo salieron del almacén del orfanato.
+0066 [Noya] | Bueno... verás...
+0067 [Feagin] | El contrato es clarísimo. Debemos embargar cualquier bien que incluya propiedad del orfanato.
+0068 [Tú] | ¿De verdad ese contrato de préstamo tiene tanto peso? ¿Se puede hacer cumplir una cláusula tan injusta?
+0069 [Tú] | Pero un enfoque tan agresivo como este seguro causará problemas.
+0070 [Feagin] | Y ustedes, ex huérfanas, son responsables solidarias de la deuda.
+0071 [Feagin] | Tómenlo como su introducción al mundo real. Piensen que es pagar la matrícula.
+0072 [Feagin] | ¡Vamos, ¿por qué esas caras largas? ¡Ánimo!==W== Este vehículo, más el orfanato y su terreno, deben valer al menos 20 millones.
+0073 [Feagin] | ¡Eso deja el saldo restante de este mes en unos miserables 833 333 Dorra!
+0074 [Feagin] | Bueno, ahí lo tienen. Vengan a pagarnos a Creta Trading cuando reúnan el dinero.
+0075 [Opción] | Señalar los huecos en la historia de Feagin
+0076 [Tú] | Un momento.
+0077 [Feagin] | ¿Mmm? ¿Y tú quién eres?
+0078 [Tú] | Soy su compañero de Gremio, pero no soy del orfanato.
+0079 [Tú] | Y creo que está intentando estafar a mis amigas.
+0080 [Feagin] | ¿Ah, sí? ¿Tienes idea de lo que estás haciendo?
+0081 [Feagin] | Más te vale tener pruebas, o te demandaré por todo lo que tengas.
+0082 [Tú] | Bastelina, ¿puedes recordarme cuánto tiempo estuvimos dentro de la Tienda de Almas?
+0083 [Bastelina] | Veamos... unos treinta minutos.
+0084 [Tú] | ¿En solo treinta minutos encontró nuestro vehículo en esta ciudad enorme,==W== reconoció piezas de hace dos años y contrató a todos estos para moverlo?
+0085 [Feagin] | ¿Q-qué importa? ¡Los tengo vigilados desde hace días! ¡Eso se llama estar preparada!
+0086 [Noya] | ¡Mentira! ¡Acabamos de volver a Emor esta mañana!
+0087 [Tú] | Además, al principio ni siquiera las reconoció como las dueñas, ¿verdad?
+0088 [Feagin] | ...
+0089 [Tú] | Algo no cuadra. Tiene que haber más en esta historia.
+0090 [Líder de mercenarios] | Oiga, tenemos otros trabajos. ¿Nos llevamos esto o no?
+0091 [Feagin] | ¡Llévenselo! ¡Ignoren a estos Trekkers vagabundos! Pago extra si intentan algo.
+0092 [Líder de mercenarios] | Señora, estamos agotados. Con ese sube y baja nos cansamos todos.
+0093 [Feagin] | ¿Qué? ¿Hablan en serio? ¿Por qué todos son tan inútiles...?
+0094 [Feagin] | ¿Q-qué crees que haces?
+0095 [Tú] | Como dije. Deje el vehículo con nosotros.
+0096 [Tú] | Si hay una deuda real, la cumpliremos.
+0097 [Feagin] | No, de ninguna manera. ¡Ustedes, vuelvan al trabajo!
+0098 [Bastelina] | La Guardia Imperial... ¿Qué hacen aquí?
+0099 [Feagin] | Qué bueno que pagué extra por su protección.
+0100 [Feagin] | ¡Rápido, saquen esa casa rodante de aquí!
+0101 [Noya] | ¡No pueden llevarse a Loxy!
+0102 [Iris] | ¡Noya! ¡Amber! No...
+0103 [Narración] | Iris sujeta a Noya y a Amber, que intentan lanzarse contra un muro de caballeros enfundados en plata.
+0104 [Narración] | Lo único que podemos hacer es ver cómo el Lucky Oasis desaparece.

@@ -1,0 +1,14 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_10_01 | ¡Hora de vacaciones!
+STev_10_02 | Con trajes de baño y escobas
+STev_10_03 | Escondidas en la playa
+STev_10_04 | La historia del Artefacto de venta automática
+STev_10_05 | Sombra gigante con tesoro
+STev_10_06 | Un mal comienzo
+STev_10_07 | Déjame ser tu mano
+STev_10_08 | El sol brilla de nuevo
+STev_10_09 | Sol y brisa marina
+@BT01 | ¡Tú otra vez!
+@BT02 | El cangrejo gruñón de las pinzas

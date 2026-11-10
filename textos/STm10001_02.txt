@@ -1,0 +1,161 @@
+# Especial 9.5 · 2 · The City of Perfection
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Listless Puppet | Listless Puppet
+N:avg1_111 | Iris
+N:avg1_162 | Alina
+N:avg3_100 | Sylar
+N:avg3_1321 | Puppet Soldier (Initial Coordinates)
+N:avg3_1322 | Puppet Soldier (Initial Coordinates)
+N:avg3_1323 | Puppet Soldier (Initial Coordinates)
+N:avg3_1324 | Puppet Soldier (Initial Coordinates)
+N:avg3_182 | Elis
+N:avg4_106 | Puppet Soldier (Initial Coordinates)
+
+## Texto
+0001 [Intro] | segundo acto
+0002 [Intro] | La ciudad de la perfección
+0003 [Intro] | Elis te salva de las muñecas, aliviando las sospechas de Alina. Durante los días siguientes, usted y Elis se acercarán más a través de charlas escritas con la palma de la mano. Al llegar a Filanis, sientes una leve familiaridad...
+0004 [Listless Puppet] | Crujido, crujido.
+0005 [Tú] | Estos títeres son implacables. Alina los cortó en pedazos antes de huir, pero...
+0006 [Tú] | Ahora se están arrancando sus propias extremidades y formando cinco cuerpos nuevos.
+0007 [Tú] | Gracias a Dios por las barras resistentes. Los ataques sin sentido no dejarán mella.
+0008 [Tú] | A este paso... estaré perfectamente a salvo aquí hasta que muera de hambre.
+0009 [Tú] | Pero a menos que alguien me rescate, terminaré muriendo de hambre para siempre.
+0010 [Tú] | Muy bien, entrar en pánico no ayudará. Es hora de volver sobre mis pasos.
+0011 [Tú] | Recuerdo...==W== Intenté usar mi habilidad para "deshacer un movimiento" y vencer a Angie. Para encontrar una salida donde nadie tuviera que morir.
+0012 [Tú] | Pero eso significó desperdiciar mi propia vida. Estaría muerto si Vita no hubiera bloqueado el disparo con el Trono.
+0013 [Tú] | El Trono se hizo añicos. Me desperté encerrado en la Sala Blanca, sin ningún bastón de Monolith a la vista. Era simplemente un vacío sin fin.
+0014 [Tú] | Caminé y caminé... hasta que mi mente se adormeció. Entonces escuché una voz familiar y abrí otra puerta.
+0015 [Tú] | Lo que me dejó aquí.==W== Se siente como despertar de nuevo en Lucky Oasis, excepto...
+0016 [Tú] | Noya es una Vigilante Nocturna,==W== Iris es la santa caída,==W== y Amber... no está a la vista.
+0017 [Tú] | ... ¿Es esto un sueño? No, no puedes soñar con cosas que no sabes.
+0018 [Tú] | ¿Una ilusión dentro de la Sala Blanca? ¿Otro mundo por completo? No tengo ni idea.
+0019 [Tú] | No importa. Encontré una salida en la Sala Blanca, lo que significa que aún no he perdido.
+0020 [Tú] | Que me cortaran la cabeza no era lo ideal, pero aun así logré atravesar la puerta del destino.
+0021 [Tú] | Callejón sin salida o no, hay una manera de salir de aquí. Por los demás, y por Vita... ¡tengo que volver!
+0022 [Tú] | ¿Qué está pasando? ¿Por qué tiembla el carruaje?
+0023 [Listless Puppet] | Clac, clac.
+0024 [Tú] | Espera, ¿por qué están todos amontonados en un lado del carrito?
+0025 [Listless Puppet] | Crujido, clac.
+0026 [Tú] | ¡Están intentando darle propina! ¡Si cae, pueden alcanzarme a través de los barrotes!
+0027 [Tú] | ¡Alina! ¡Vuelve aquí! ¡La jaula está cediendo!
+0028 [Narración] | Dios de la Magia, concédeme tu ardiente fuego sagrado...
+0029 [Tú] | Esa silueta...==W== ¿Elis?
+0030 [Narración] | ... ¡Quema estos bosques malvados!
+0031 [Tú] | ¡¿Magia de fuego?! ¡Oye, no me ases vivo!
+0032 [Listless Puppet] | Gemido...
+0033 [Tú] | Oh... palas de viento...
+0034 [Elis] | ¿Ves, mi querido Maestro? Siempre terminas necesitándome. Ese Night Watcher es completamente inútil.
+0035 [Elis] | Vio esos barrotes y pensó que la fuerza bruta no sería suficiente. Pero olvidó que estas cosas tienen medio cerebro. Un muro de hierro no significa nada si el enemigo puede simplemente escalarlo.
+0036 [Tú] | ¿Por qué estás aquí? Alina está cerca. Si te ve, te arrestará. Deberías irte.
+0037 [Elis] | ¿Oh? Mi Maestro realmente se preocupa por mí. Me siento halagada.
+0038 [Elis] | Soy una santa caída asesina, ¿recuerdas?
+0039 [Elis] | Has visto mi cara y has oído mi voz. ¿No tienes miedo de que silencie a mi único testigo?
+0040 [Tú] | Si hubieras venido a silenciarme, no me habrías salvado. Dejar que los títeres lo hicieran sería mucho más fácil.
+0041 [Tú] | Además... Puede que seas la Santa Caída, pero no creo que mates para cubrir tus huellas.
+0042 [Elis] | Fascinante. Te despertaste hace media hora y nos acabamos de conocer. ¿De dónde viene esta confianza?
+0043 [Elis] | No me digas… ¿te enamoraste de mi apariencia, o simplemente disfrutas escucharme llamarte Maestro?
+0044 [Tú] | Porque==W== Me niego a creer que alguien con la cara de Iris sea un asesino...==W==Je. Buena suerte diciendo eso en voz alta.
+0045 [Tú] | Ejem. No es tu apariencia. Así es como operas.
+0046 [Elis] | No mi apariencia, ¿eh? Lo entiendo. Estás encantada. Simplemente tienes otras razones para confiar en mí.
+0047 [Elis] | Ahora tengo curiosidad. ¿Qué revelaron exactamente mis acciones?
+0048 [Tú] | Bueno... Esta actitud descarada no se parece en nada a la de Iris. Será mejor que se lo explique.
+0049 [Tú] | Eres un mago poderoso. Si eres un asesino despiadado, no es necesario que arrastres a un amnésico aturdido a una identidad falsa.
+0050 [Tú] | Alina es una veterana. Ella hizo agujeros en mis respuestas en segundos. Contra alguien así, una emboscada mágica habría sido tu mejor opción.
+0051 [Tú] | Cuando salimos, estableciste un círculo mágico. Pero fue un hechizo apresurado, no letal.
+0052 [Tú] | Los hábitos son difíciles de romper. Evitas lastimar a la gente y claramente trataste de mantenerme fuera del fuego cruzado. No eres un asesino despiadado.
+0053 [Elis] | Tsk. ¡Qué día! Primero un Vigilante Nocturno astuto, y ahora un Maestro que hace todo lo posible para demostrar mi inocencia.
+0054 [Elis] | Ya basta de mí. Necesitamos movernos.
+0055 [Elis] | ¡Hola!
+0056 [Tú] | ¡¿Estás robando todo el carro?!
+0057 [Elis] | Exactamente. Veamos que Night Watcher nos atrape ahora. Puede quedarse en este bosque y jugar con esos montones de basura toda la noche.
+0058 [Elis] | Oh, más obstáculos.
+0059 [Elis] | Dios de la Magia, concédeme tu ardiente fuego sagrado... ¡Quema estos malvados bosques!
+0060 [Tú] | Magia correcta, canto incorrecto. Tiene algunos hábitos de casting extraños...
+0061 [Tú] | Espera, ¿las caras de los títeres simplemente cambiaron de color?
+0062 [Elis] | Las palas de viento... ¡¿desaparecieron?! ¿Tienen protecciones contra el viento?
+0063 [Listless Puppet] | Crujido, crujido.
+0064 [Elis] | ¡Qué tal esto!
+0065 [Elis] | Dios de la Magia, deja que las alas más veloces del bosque obedezcan mi orden. ¡Limpia este mundo clamoroso!
+0066 [Elis] | ¿C-cómo es eso posible? ¡Nadie desperdicia dos salas diferentes en chatarra!==W== Espera... No sólo barreras. ¡Se están alimentando de mi magia!
+0067 [Tú] | ¡Elis, cuidado!
+0068 [Listless Puppet] | Crujir...
+0069 [Elis] | Uf... Mi magia es inútil. Estamos rodeados.
+0070 [Tú] | ¡Entra! ¡La jaula los sostendrá!
+0071 [Elis] | No puedo. Si abro la puerta ahora, entrarán inundados.==W== y ambos estamos muertos...
+0072 [Elis] | Sobre los cimientos de mi alma, con mi espíritu como mortero... sello la jaula de mi Maestro. Capea la tormenta, mantente firme contra el vendaval, soporta la llama abrasadora...
+0073 [Tú] | Elis, ¿qué estás haciendo?
+0074 [Elis] | Finalmente encontré a alguien que me entiende. No dejaré que mueras hoy, acólito. Esta es toda la magia que me queda. Tómalo.
+0075 [Elis] | Esta protección debería aguantar... Al menos hasta que regrese el Vigilante Nocturno...==W==
+0076 [Tú] | Elis!!
+0077 [Alina] | ¡Llama Radiante!
+0078 [Alina] | De repente se volvieron más duros. No reconozco la magia que los protege...
+0079 [Tú] | ¡Alina, corta la magia! ¡Lo están absorbiendo de tu espada!
+0080 [Alina] | Ah, ya veo.==W== ¡Entonces los talaré con acero puro!
+0081 [Alina] | Tal como pensaba. Esto es mucho más fácil.
+0082 [Alina] | ¡Aléjate del carro!
+0083 [Alina] | ¡Este es el golpe final!
+0084 [Tú] | Increíble... Ella atravesó cincuenta,==W== no, ¡¿al menos cien títeres solo con espadachín?!
+0085 [Alina] | ==SEX12== Acólito, ¿estás bien? ¿Alguna herida?
+0086 [Tú] | Estaba a salvo en el carro. ¡Ve a buscar a Elis! ¡Los títeres acaban de enterrarla!
+0087 [Elis] | M-Maestro, estoy bien.
+0088 [Alina] | No te preocupes. Tu esclavo tuvo el buen sentido de esconderse debajo de los escombros para cubrirse mientras yo me balanceaba.
+0089 [Elis] | ¡Eres alguien para hablar! ¡Ese último golpe casi me arranca la cabeza!
+0090 [Elis] | Esperar. ¿Cómo me acabas de llamar?
+0091 [Alina] | Revisé los títeres en el bosque. Tu magia no los animó.==W== Además, vi lo que hiciste...
+0092 [Alina] | Usaste tus últimas reservas de magia protegiendo al Acólito justo cuando estabas a punto de ser invadido. Una Santa Caída nunca haría tal cosa. Un esclavo ferozmente leal lo haría.
+0093 [Alina] | Puede que todavía seas la Santa Caída escondida detrás de un disfraz inteligente, pero esta verdad ahora está más allá de mi juicio mortal.
+0094 [Alina] | Los llevaré a ambos a Filanis. Mi patrón,==W== el gran Arconte Olimpia, juzgará tu identidad y decidirá tu destino.
+0095 [Narración] | Tres días después.
+0096 [Narración] | ==A-2==Después de que Alina cesó abruptamente su interrogatorio, reanudamos nuestro viaje.==P== ==A-1==Sobre el papel, Elis sigue siendo una pecadora y yo su cómplice sospechoso. Sin embargo, Alina nos trata exactamente como a un acólito y ==SEX3== asistente, brindándonos todo el respeto que conllevan los títulos.==P== ==A-1==Incluso nuestras tres comidas diarias son mucho mejores que sus propias raciones.
+0097 [Narración] | Saltando en el carro, Elis y yo nos acercamos más y desarrollamos un método de conversación muy poco ortodoxo.
+0098 [Elis] | (Trazalo conmigo otra vez, ==PLAYER_NAME==! Un Acólito que ni siquiera puede escribir ==SEX3== su propio nombre es un defecto fatal.)
+0099 [Tú] | (Entendido. Una vez más. ¿Es así?)
+0100 [Elis] | (Apenas. Tu letra es un desastre.)
+0101 [Elis] | (Yo me encargaré de toda la escritura a partir de ahora. De todos modos, encaja perfectamente con el disfraz de esclavo personal).
+0102 [Tú] | (¿Por qué Alina abandonó el interrogatorio el otro día? ¿Alguna idea?)
+0103 [Elis] | (Algunos. Ella es astuta. Probablemente notó la misma discrepancia que tú. Mi comportamiento no se parece en nada a la Santa Caída que ella conoce).
+0104 [Elis] | (Además, pareces un noble. Arrestar injustamente a tu esclava personal le daría una severa reprimenda por parte de su patrón).
+0105 [Tú] | (Pero tú realmente eres la Santa fugitiva, ¿verdad?)
+0106 [Elis] | (No tiene sentido ocultártelo. Huí del ritual, pero llevo tres años estudiando magia en una torre cerca de Emor).
+0107 [Elis] | (No sé nada de esos crímenes. Cuando salgamos, les mostraré mis diarios en la torre. ¡Probarán mi inocencia!)
+0108 [Elis] | (Hace unos días dormí profundamente en la torre).
+0109 [Elis] | (Entonces ese Vigilante Nocturno irrumpió con un retrato y trató de arrestarme).
+0110 [Elis] | (Corrí a través del Monolito. Justo cuando estaba a punto de desplomarme, vi un ataúd adornado).
+0111 [Elis] | (Fui a esconderme adentro, pero sorpresa, ya estabas dentro).
+0112 [Elis] | (Estabas vestido como la realeza, así que dije que eras un acólito en trance de resurrección y que yo era tu esclavo haciendo guardia).
+0113 [Tú] | (Ser voluntario para ser esclavo... ¿Es eso realmente necesario?)
+0114 [Elis] | (Realmente no recuerdas nada. Los esclavos son una propiedad. Si quiere arrestarme, primero necesita tu permiso).
+0115 [Elis] | (Mientras diga ser tuyo, ella tiene que verificar tu propiedad antes de arrastrarme lejos, Fallen Saintess o no).
+0116 [Elis] | (Así que te cargó a ti y al ataúd en el carro para una investigación. Incluso me advirtió que si nuestras identidades no coincidían, me acusaría de profanar un cadáver).
+0117 [Elis] | (Gracias a ti, compré algo de tiempo. De lo contrario, estaría encadenado y no podría dibujar un solo círculo mágico).
+0118 [Elis] | (Hablando de eso, ¿quién eres? ¿Y por qué estabas en un ataúd en lo alto de ese Monolito? Nunca vi a nadie subir allí en tres años).
+0119 [Tú] | No hay manera posible de explicar el cruce a este mundo a través de la Sala Blanca... Sólo tendré que darle la versión abreviada.
+0120 [Tú] | (No soy un acólito y vengo de muy, muy lejos. En cuanto a por qué terminé en el Monolito con ese ataúd, honestamente no tengo idea).
+0121 [Elis] | (No importa. Te ves bien de todos modos. Nadie dudará del disfraz de Acólito. Sólo déjame hablar en Filanis para que no descubramos nuestra tapadera.)
+0122 [Elis] | (Seguiré jugando a ser tu esclavo.==W== Pero en serio, sé un poco más despiadado conmigo. ¡Muestre algo de autoridad! Nadie trata a un esclavo con tanta gentileza como tú.)
+0123 [Elis] | (Lo mismo se aplica a la Vigilante Nocturna. Deja la fachada educada. Eso rompe el carácter. Pero si ella te sirve bien, ofrécele una recompensa adecuada).
+0124 [Tú] | (Lo entiendo. Lo intentaré).
+0125 [Tú] | (Hablando de eso... ¿Este truco de escribir con la palma de la mano realmente está engañando a Alina?)
+0126 [Elis] | (Sin duda. Está preocupada por los caballos. E incluso si sospecha que hay una conspiración, tengo otras formas de desviar su atención.)
+0127 [Alina] | Estimados pecadores. Hemos llegado.
+0128 [Tú] | Mierda, estábamos tan concentrados que ni siquiera noté que el carro se detenía.==W== ¡Estamos atrapados!
+0129 [Elis] | Ah... Maestro.
+0130 [Tú] | ¿Q-qué?
+0131 [Elis] | Cuando lo frotas así, se siente...==W== extraño. ¿Podrías ser...?==W== un poco más suave con los dedos?
+0132 [Tú] | Uh... R-Cierto. Entiendo...
+0133 [Tú] | ¡¿Qué clase de tapadera tan loca es esta?!
+0134 [Alina] | Ejem. Son de esperar excentricidades íntimas entre amo y esclavo,==W== pero ya te has demorado bastante. Es hora de desembarcar.
+0135 [Tú] | ¿Desembarcar? ¿Aquí?
+0136 [Alina] | Teniendo en cuenta su supuesto estatus, hacerle desfilar por la ciudad en un carro de prisioneros antes de que los hechos queden claros sería una vergüenza.
+0137 [Elis] | Ejem. Qué excepcionalmente considerado de tu parte. Mi Maestro es un acólito distinguido. ==SEX1== absolutamente no puede presentar ==SEX8== al Arconte en tal inmundicia.
+0138 [Alina] | En efecto. Teniendo en cuenta su situación, elegí específicamente una casa de baños cerrada al público hoy. Somos los únicos aquí.
+0139 [Elis] | Qué pensativo. Aunque este lugar no parece apto para albergar una casa de baños. ¿Es Filanis realmente este remanso?
+0140 [Alina] | Esto no es Filani propiamente dicho. Se trata simplemente de un asentamiento espontáneo erigido en las afueras.
+0141 [Alina] | Mirad. La ciudad brillando a la luz del sol en la isla del lago, construida alrededor de esa torre.
+0142 [Tú] | Un monolito en una isla lacustre...==W== y este trazado de calle exacto.
+0143 [Tú] | Es esto ...==W== ¿Filae?
+0144 [Alina] | Ese es el verdadero Filanis.==W== La gran Ciudad de la Perfección.

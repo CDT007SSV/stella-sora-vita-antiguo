@@ -1,0 +1,137 @@
+# Evento · ¡Latido! Rapsodia neoinspirada · 1 · Crisis de energía
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Noya & Amber | Noya y Amber
+N:Three of Them | Los tres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_131 | Bloc
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_937 | La multitud
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Crisis de energía
+0003 [Intro] | Con la ayuda de Bloc, la crisis de energía del Lucky Oasis se resuelve de forma temporal. A cambio, aceptas su encargo: dar con el paradero de la artesana desaparecida, Sparkla.
+0004 [Bloc] | ¡Bienvenido! Este es el puesto móvil de Bloc~
+0005 [Bloc] | Te estaba esperando, director ejecutivo de Boss Accord~
+0006 [Opción] | Eres Bloc, la que lleva la tienda de suministros, ¿verdad?
+0007 [Opción] | Es mi primera vez en la tienda. ¿Quién eres?
+0008 [Opción] | Estaba muy ocupado reclamando las recompensas diarias... No pensé que de verdad hubiera alguien aquí.
+0009 [Bloc] | ¡Waaah~ Te acordaste de mí! Después de mostrarte la cara 225 días seguidos, Jefe, ¡por fin valió la pena!==W== Qué bueno que tengo una carita tan linda y memorable~ ¡Pasa por aquí más seguido!
+0010 [Bloc] | ¡¿Qué?! ¡Jefe, eso es una pérdida enorme para ti! Todos los días te espera aquí un regalito.
+0011 [Bloc] | Te has perdido... a ver, déjame contar...==W== ¡225 en total! Qué lástima~
+0012 [Bloc] | Pero bueno, al menos ahora ya te acuerdas de mí, ¿no? Espero verte pronto~
+0013 [Bloc] | ¡¿Q-qué?! ¿Mis 225 días de sonrisas con lluvia o sol... fueron en vano?! ¡No puede ser, si seguro cruzamos miradas!
+0014 [Opción] | Jaja, es broma. Te conozco~ Así que te llamas Bloc.
+0015 [Bloc] | Jeje, Jefe, eres terrible~ Que sea linda no significa que me tomes el pelo así~
+0016 [Bloc] | Solo quería pasar a desearte un buen viaje.
+0017 [Bloc] | Si surge algo urgente en las Tierras Salvajes, no dudes en contactarme cuando quieras.==W== Bloc, la comerciante viajera, siempre está disponible.
+0018 [Bloc] | Te prometo que no te voy a decepcionar. Lo que necesites, lo encontrarás en mi confiable carrito.
+0019 [Bloc] | ¡Cuídate mucho, Jefe! Que tengas aventuras tranquilas y mucha suerte~
+0020 [Bloc] | 
+0021 [Narración] | Y así, agregué a «Bloc» a mis contactos.
+0022 [Narración] | Parece muy amable... Pero seguro no la necesitaré pronto. O eso creía...==W== Hasta que llegó ese momento.
+0023 [Tú] | Noya... ¿De verdad están ...==W== completamente vacías?
+0024 [Noya] | Sí. Todas las Piedras del Alma se quedaron sin Gracia. O sea que...==W== ¡Loxy no va a arrancar!
+0025 [Iris] | Tenemos que reponer la Gracia... ¿Cuánto falta para el pueblo más cercano?
+0026 [Amber] | Dos días en auto, por lo menos.
+0027 [Three of Them] | ...
+0028 [Three of Them] | ¡¡¡Ehhhhh!!!
+0029 [Tú] | Cálmense. Quizá alguien pueda ayudarnos.
+0030 [Tú] | Bloc, ¿estás disponible ahora?
+0031 [Bloc] | 
+0032 [Bloc] | ¡Ay, Jefe! Qué buen momento~ Acaba de llegar un lote nuevo de mercancía. ¿Quieres que te lo muestre?
+0033 [Tú] | Productos nuevos, ¿eh? Normalmente me encantaría echar un vistazo, pero ahora necesito tu ayuda.
+0034 [Tú] | La verdad es que... al Oasis se le acabó la energía en las Tierras Salvajes.
+0035 [Tú] | ¿Tienes algo que sirva para reponer la Gracia?
+0036 [Bloc] | Jeje, ¡claro que sí~!
+0037 [Bloc] | Mmm... Dame 10 minutos. Te lo llevo enseguida~
+0038 [Bloc] | 
+0039 [Iris] | ¿Una comerciante viajera llamada Bloc?
+0040 [Iris] | Aquí, en medio de la nada... ¿De verdad puede aparecer cuando se le pida?
+0041 [Noya] | Bloc... Bloc...==W== Siento que he oído ese nombre en algún lado...
+0042 [Tú] | Bueno, no tenemos otra opción. Solo hay que esperar.
+0043 [Narración] | Diez minutos después...
+0044 [Amber] | Alguien llegó.
+0045 [???] | Jeje~ Una gran comerciante siempre es puntual. Después de todo, el tiempo es dinero~
+0046 [Bloc] | Jefe, nos volvemos a ver~
+0047 [Iris] | ¡¿De verdad llegó con tan poco aviso...?! ¿Cómo le habrá hecho...?
+0048 [Bloc] | Jeje. Secreto del oficio, querida señorita♪
+0049 [Noya] | ...¡Ah! ¡Ya me acordé! ¡Willow mencionó a una comerciante llamada Bloc; le compró su prótesis!
+0050 [Noya] | ¿Eras tú?
+0051 [Bloc] | Ah, esa jefa de la Asociación de Trekkers, ¿verdad? Esa prótesis costó bastante trabajo conseguirla, y de la mejor calidad, debo decir~
+0052 [Bloc] | En fin, Jefe, ¡traje lo que me pediste! ¡Tan-tan♪!
+0053 [Bloc] | Un sustituto perfecto de la Gracia: ¡una caja rinde como seis! ¡Bloc recomienda con todo: Neo Solution!
+0054 [The Crowd] | ...
+0055 [Tú] | Eso ...==W== no va a funcionar.
+0056 [Bloc] | ¡¿Eh?! ¿Por qué no, Jefe?
+0057 [Tú] | Necesitamos Gracia, no Neo Gracia.
+0058 [Tú] | Además, Neo Solution es un fluido mágico prohibido, ¿no?
+0059 [Iris] | Sí, ya lo vimos antes en Philae. Es algo peligroso.
+0060 [Iris] | Y he oído que puede arruinar los Artefactos... Incluso causar explosiones, ¿verdad?
+0061 [Bloc] | Eso pasa con los productos de mala calidad~ Yo solo manejo Neo Solution premium. Pueden confiar en mí.
+0062 [Bloc] | Todos saben que muchos Trekkers usan productos Neo en secreto, ¿no? Pero nunca han oído de ningún accidente grave, ¿verdad~?
+0063 [Noya] | Bueno... Eso es cierto...
+0064 [Bloc] | La Gracia solo se puede reponer en tiendas especializadas de los pueblos. Aquí afuera no hay nada. Jefe, no habrías venido conmigo de no ser porque no te quedaba otra opción, ¿verdad?
+0065 [Bloc] | No te preocupes~ Soy experta en productos Neo. Conmigo como guía, nada saldrá mal~
+0066 [The Crowd] | ...
+0067 [Noya] | ¡Jefe, tú decides! Mientras podamos ponernos en marcha otra vez, me aseguraré de que Loxy llegue a nuestro destino sano y salvo, ¡pase lo que pase!
+0068 [Tú] | Está bien... Probémoslo.
+0069 [Bloc] | Entendido~ Solo dibujen un circuito mágico y dejen que el vehículo absorba la energía de la Neo Solution; estará funcionando en un santiamén.
+0070 [Iris] | Noya, ¿puedes arrancarlo?
+0071 [Noya] | ¡Sí! ¡Loxy suena igualito que antes!
+0072 [Bloc] | ¿Ven? Se los dije~ Bloc solo vende productos de alta calidad a buen precio~
+0073 [Bloc] | Por cierto, tengo más artículos perfectos para ustedes~ Por ejemplo...==W== ¡Tan-tan! ¡Un ventilador con tecnología Neo! Solo 50,000 Dorra~
+0074 [Iris] | ¡¿C-cincuenta mil?! Pensé que los precios de la tienda empezaban en 500,000...
+0075 [Bloc] | ¡Y hay más! También les recomiendo mucho este sistema de sonido envolvente Neo~
+0076 [Bloc] | Este vehículo se siente tan acogedor... Debe significar mucho para ustedes, ¿verdad?
+0077 [Bloc] | Imaginen... Una tarde tranquila, sentados aquí adentro, escuchando su música favorita con un sonido cristalino, recargados en cojines suaves con un Pep Pep Juice...
+0078 [Noya & Amber] | Guau...
+0079 [Iris] | ¡Alto ahí! ¡Esto fue solo una emergencia! ¡Todavía no estamos convencidos de que la Neo Gracia sea segura!
+0080 [Bloc] | No se preocupen~ Son clientes muy valiosos. Jamás los estafaría~
+0081 [Bloc] | Si aún tienen dudas...==W== ¿Qué tal esto? De ahora en adelante, todos los productos de la ONG que me compren llevan 10% de descuento y soporte posventa completo.
+0082 [Bloc] | Entre nosotros... Resulta que tengo una excelente relación con una artesana de primer nivel de Neo Gracia.
+0083 [Bloc] | Jefe, la prótesis que mencioné hace rato, ¿ya la viste?
+0084 [Tú] | ¿La prótesis de Willow? Sí, la hechura se ve increíble.
+0085 [Bloc] | ¿Verdad? Es obra de una artesana llamada Sparkla. Con ella a cargo del servicio posventa, pueden estar tranquilos~
+0086 [Tú] | Suena tentador...==W== Pero primero quiero preguntarle a Willow cómo le ha ido.
+0087 [Bloc] | Por supuesto~
+0088 [Tú] | Gracias.
+0089 [Tú] | Willow, ¿tienes un minuto?
+0090 [Willow] | ¿Jefe? ¿Qué pasa?
+0091 [Tú] | Bloc mencionó a Sparkla, la que hizo tu prótesis. ¿Qué opinas de verdad de su trabajo?
+0092 [Willow] | Es excepcionalmente hábil. La prótesis que uso ahora es impecable, tanto en precisión como en control.
+0093 [Willow] | Sinceramente, ya no quiero que me la haga nadie más. Pensaba pedirle a Bloc que contactara de nuevo a Sparkla para mi siguiente pedido.
+0094 [Tú] | Si Willow habla tan bien de ella...==W== Quizá deberíamos probar los productos de Bloc.
+0095 [Noya] | ¡¡Sí!!
+0096 [Bloc] | ¡Oh, jojo, Jefe, qué decisión tan sabia!
+0097 [Bloc] | Disculpa, soy Bloc. Jefa Willow, ¿mencionaste que querías hacer otro pedido con Sparkla? ¡Dime tus requisitos y me aseguraré de que te entregue algo perfecto!
+0098 [Willow] | ¿En serio? Entonces te lo encargo. Intenté contactarla, pero me tiene bloqueada,==W== así que...
+0099 [Tú] | ¿Bloqueada?
+0100 [Bloc] | Jaja, los genios suelen tener sus manías.
+0101 [Bloc] | La verdad, hasta a mí me bloquea todo el tiempo~ De hecho, ahorita tampoco puedo comunicarme con ella...
+0102 [Tú] | ...==W== ¿Eso cuenta como buena relación?
+0103 [Willow] | Eso no es bueno. Este pedido es urgente. Si a ti también te bloquea...
+0104 [Bloc] | Y-yo me encargo, no hay ningún problema~ ¡Me pondré en contacto con ella lo antes posible y te prometo que no retrasará tu pedido!
+0105 [Tú] | Impresionante, Bloc. Una verdadera comerciante profesional.
+0106 [Bloc] | Jaja, gracias~ ¡Pero encontrar a Sparkla... eso depende de ustedes!
+0107 [Tú] | Espera, ¿de mí? ¿Por qué no la visitas directamente?
+0108 [Bloc] | No es tan sencillo~ Sparkla vive dentro de su taller móvil. Si no comparte su ubicación, nadie sabe dónde está.
+0109 [Bloc] | ¡¡Y ahí es donde entras tú!! Dicen que el Gremio de la Nueva Estrella no tiene igual para encontrar personas, o incluso gatos.
+0110 [Bloc] | Así que… quisiera encargarte...
+0111 [Tú] | ¿Quieres que encontremos a Sparkla?
+0112 [Bloc] | ¡Exacto! Y cuando lo logren, además del pago del encargo, ¡les ofreceré descuentos todavía mayores en el futuro!
+0113 [Tú] | Descuentos todavía mayores... Tentador.==W== Muy bien, aceptamos el trabajo.
+0114 [Bloc] | ¡¿En serio?! ¡Qué gran ayuda~!
+0115 [Willow] | ¿Puedo ir con ustedes? Nunca tuve oportunidad de agradecerle en persona por esta prótesis.
+0116 [Bloc] | ¡Oh! Con la jefa Willow también, ¡todavía mejor~♪!
+0117 [Willow] | Además... tengo una pista, quizá sirva...
+0118 [Willow] | Últimamente muchos Trekkers se han estado dirigiendo a Philae.
+0119 [Willow] | Oí que en el mercado clandestino del Distrito de las Cenizas se están reuniendo muchos artesanos de la Organización Neo Gracia. Seguro todos esperan conseguir algún artículo raro.
+0120 [Willow] | Tal vez ahí encuentren una pista sobre Sparkla.

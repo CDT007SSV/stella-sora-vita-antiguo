@@ -1,0 +1,157 @@
+# Capítulo 3 · Interludio 2 · Vita
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg3_100 | Sylar
+N:avg3_152 | Bastelina
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_197 | Feagin
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Interludio (II)
+0002 [Intro] | Vita
+0003 [Intro] | Vita quiere que recolectes almas para subir tu nivel de autorización. Pero, prudente, no piensas confiar en ella tan fácilmente. Y, de algún modo, un alma desconocida ha aparecido en tu teléfono.
+0004 [Lugar y hora] | 13:20, 9.º del mes de Pluvia, afueras de Emor, Oasis de la Suerte
+0005 [Vita] | Hace mucho, el consejero del Tirano desarrolló este teléfono llamado «Trono» y el Sistema de Desarrollo de Tiranos «Pozo de los Mundos» para entrenar al Tirano de forma eficiente.
+0006 [Vita] | El sistema monitorea automáticamente el estado del Tirano y genera misiones que promueven su desarrollo. Al completar una misión, el sistema sube de nivel y concede al Tirano más autorizaciones.
+0007 [Vita] | Sin embargo, el sistema resultó demasiado inestable para un uso práctico, por lo que el sacerdote ■■==W== optó por servirle como secretaria personal.
+0008 [Vita] | El intercambio de almas es una función central de su teléfono. Según los registros de Vita, ha recolectado cinco almas,==W== la mitad de su primera misión. ¡Felicidades!
+0009 [Tú] | Cinco almas...==W== ¿Eh? Espera...==W== ¿Dijiste cinco?
+0010 [Noya] | ==PLAYER_NAME==... ==W==ah, supongo que ahora debemos llamarte «Tirano»...==W== ¿Tú también lo notaste?
+0011 [Iris] | Estamos yo, Noya, Amber y Minova: son solo cuatro, ¿no?
+0012 [Tú] | Vita, ¿de quiénes son exactamente las almas recolectadas?
+0013 [Vita] | Disculpe. El nivel del sistema es insuficiente para que Vita responda esa pregunta.
+0014 [Tú] | ¿Qué? Pero eres mi secretaria personal, ¿no?
+0015 [Vita] | Es cierto, pero Vita debe cumplir las reglas del Sistema de Desarrollo de Tiranos «Pozo de los Mundos».
+0016 [Iris] | Las reglas son las reglas... De hecho, tiene sentido. Es como la jerarquía de una compañía: los puestos más altos acceden a más datos.
+0017 [Vita] | Precisamente, lady Iris. Comprende el principio a la perfección.
+0018 [Tú] | Bien, otra pregunta: ¿hay riesgos o costos para quienes intercambian almas conmigo?
+0019 [Vita] | Ninguno. Esas almas son de su propiedad y Vita las resguardará con diligencia. Mientras no las utilice realmente, tanto las almas como sus dueños originales permanecen perfectamente a salvo.
+0020 [Tú] | ¿Y qué significa exactamente «utilizarlas realmente»?
+0021 [Vita] | Disculpe. El nivel del sistema es insuficiente para que Vita responda esa pregunta.
+0022 [Tú] | ...
+0023 [Tú] | Así que tengo que subir de nivel este sistema para saber más...==W== Mmm... ¿No sienten que ==W==este sistema me tienta con información para que trabaje para él?
+0024 [Tú] | Bueno, al menos saber que las almas están «a salvo hasta que se utilicen» tranquiliza un poco. Qué bueno que nuestra apuesta contra Creta Trading no les saliera mal a todos.
+0025 [Tú] | ¿Hm? Es Amber.
+0026 [Amber] | ==PLAYER_NAME==, no te agobies por nuestros tratos de almas.
+0027 [Amber] | Fue nuestra decisión. Somos un Gremio, y los Gremios tienen que mantenerse unidos.
+0028 [Amber] | Noya e Iris piensan lo mismo. Tú nos defendiste, y no podíamos dejar que enfrentaras los riesgos solo.
+0029 [Amber] | 
+0030 [Tú] | Gracias, Amber.
+0031 [Vita] | El Tirano muestra una gran benevolencia. Pero este intercambio de almas conlleva notables beneficios para todos los empleados del Pacto del Tirano.
+0032 [Amber] | Entonces, ¿nos recargan las armas gratis?
+0033 [Noya] | ¿Como que el almuerzo aparece mágicamente todos los días?
+0034 [Iris] | Bueno...==W== ¿puedo cambiar mis beneficios por Dorra? Me gustaría ahorrar un poco.
+0035 [Vita] | Procesando... Lo lamento, Vita no puede procesar esa solicitud por el momento...
+0036 [Tú] | Te quedaste sin respuesta, ¿eh? Pues vaya... ==W==«excelente y capaz» secretaria la mía.
+0037 [Tú] | Ejem, en fin, dinos qué beneficios puedes ofrecernos.
+0038 [Vita] | Agradezco su clemencia, Tirano.==W== Por ahora, ¡Vita puede permitirle conservar sus recuerdos al pedir deseos! Además, habrá más beneficios con niveles de autorización más altos...
+0039 [Amber] | ¿Eh?
+0040 [Noya] | Espera, ¿ya no se pierde la memoria con los deseos?
+0041 [Iris] | Imposible, ¿cómo puede ser? La pérdida de memoria es un precio inevitable al pedir deseos...
+0042 [Vita] | Tiene razón, lady Iris. Los recuerdos son el costo que el Monolito exige por los deseos. Sin embargo, esta regla se suspende para quienes trabajan para el Pacto del Tirano.
+0043 [Vita] | Tirano, ¿le importaría mostrar el Sello de la Gracia de la Creta Trading original que posee?
+0044 [Tú] | ¿La pieza de ajedrez que parece un peón? Aquí está...
+0045 [Amber] | La pieza...==W== Está flotando y brillando.
+0046 [Vita] | El Sistema de Desarrollo de Tiranos «Pozo de los Mundos» ha identificado el poder de este Sello de la Gracia. Se llama «Promoción».
+0047 [Tú] | Promoción...==W== esa es la regla del ajedrez en la que un peón puede convertirse en cualquier pieza al llegar a la última fila del tablero.
+0048 [Vita] | En efecto, Tirano. Puede parecer un peón común, pero guarda un potencial ilimitado.
+0049 [Vita] | Sin embargo, como el sistema aún no está en un nivel avanzado, solo podemos acceder a parte de sus poderes: la replicación de información.
+0050 [Tú] | Ahora entiendo.==W== Para convertirse en otras piezas se necesita su información de antemano. Tiene sentido que la replicación sea parte del Poder de Promoción. Igual que lo que hizo Feagin, podríamos crear tarjetas de deseos en masa…
+0051 [Feagin] | ¡Imagínate!==W== Nada de escribir peticiones largas ni recitar oraciones complicadas. Solo sostienes una tarjeta, ofreces un recuerdo y pides un deseo.==W== ¿No es increíble?
+0052 [Vita] | Los recuerdos también son una forma de información. Vita replicará los recuerdos que el Monolito exija durante sus deseos y le entregará esas copias mientras usted conserva los originales.
+0053 [Iris] | ¿Puede...==W== realmente funcionar así?
+0054 [Tú] | Engañar al Monolito...==W== no, técnicamente no lo estamos engañando. El Monolito sí recibe los recuerdos, aunque sean copias. Información es información, y una copia sirve igual que la original.
+0055 [Tú] | ¿Eh...? ¿De verdad fue eso lo que pasó? Entonces este es...==W== el poder del Sistema de Desarrollo de Tiranos, o más bien, el poder de este teléfono...
+0056 [Tú] | Con un poder así, de verdad podría gobernar el mundo como el legendario Tirano.==W== Eso explica por qué este teléfono se llama «Trono», ¿eh?
+0057 [Vita] | En efecto. Para ser precisos, estos son sus poderes como Tirano. El «Trono», el Sistema de Desarrollo y Vita: todos lo servimos. Úsenos como mejor le parezca.
+0058 [Noya] | No entiendo la mecánica, ¡pero suena asombroso! ¿Dices que somos inmunes a la amnesia?
+0059 [Vita] | Dicho de forma simple, así es. Además, cualquiera que haya hecho un intercambio de almas con usted será considerado parte del Pacto del Tirano y podrá acceder a este beneficio.
+0060 [Amber] | Por fin...==W== ya no hace falta anotarlo todo en el teléfono.
+0061 [Iris] | Sí, es genial para nosotras, pero...==W== ¡si se filtra la noticia de este poder, todos los Trekkers y compañías de Nova irán tras nuestro sello!
+0062 [Iris] | Chicos, esto tiene que quedar en secreto. Ni una palabra a nadie, ¿entendido?
+0063 [Vita] | Lady Iris es muy meticulosa, pero Vita también recomienda lo mismo. Hasta que haya formado un ejército de verdaderos leales, Tirano, todo sobre el «Trono» y el sistema debe mantenerse en absoluta confidencialidad.
+0064 [Tú] | Tienes razón en esto. Estos secretos quedan solo entre nosotros.
+0065 [Amber] | Entendido.
+0066 [Noya] | Tranquilo. Ya estoy trabajando en borrarlo de mi memoria.
+0067 [Tú] | Por cierto, Vita, si cada pieza de ajedrez tiene su propio poder único...
+0068 [Opción] | Esa pieza de rey que nos llegó con el teléfono...
+0069 [Tú] | ¿Eh? ¿Dónde estoy?
+0070 [Lugar y hora] | ??:?? ?? ?? ????, Sala Blanca
+0071 [Tú] | ¿Por qué estoy de repente en la Sala Blanca?...==W== ¿Chocamos el vehículo? ¡¿Están todos bien?!
+0072 [Vita] | No se alarme, Tirano. Esta no es la verdadera Sala Blanca: es un espacio simulado que Vita creó dentro de su cabeza con la habilidad de la pieza de rey.
+0073 [Vita] | Como la pieza de rey guarda habilidades de suma importancia, Vita le aconseja encarecidamente que nuestra conversación siguiente sea privada: solo para sus oídos.
+0074 [Tú] | ¿Un espacio virtual creado por la pieza de rey? ¿Dices que...==W== entrar a la Sala Blanca es el poder de la pieza de rey?
+0075 [Vita] | Permítame aclarar. Su capacidad de creación va más allá de los espacios virtuales. La «Sala Blanca» original fue construida por la pieza de rey.
+0076 [Tú] | ¿Así que ese lugar... también lo hizo la pieza de rey?
+0077 [Vita] | Así es. Es un poder conocido como «Jugador»: la pieza de rey en el tablero representa al «Jugador» y, como tal, a veces se puede «deshacer una jugada».
+0078 [Vita] | Como ya estuvo en la Sala Blanca, debe conocer su naturaleza única.==W== Ese lugar es... la convergencia del tiempo y el espacio en el Monolito.
+0079 [Vita] | Si pierde la vida inesperadamente, volverá allí para una segunda oportunidad. Los dos mensajeros divinos del Monolito...==W== o, mejor dicho, empleados, estarán allí para ayudarle.
+0080 [Tú] | Entonces no puedo contarle esto a nadie más...==W== ¿verdad?
+0081 [Vita] | Me temo que no. La habilidad de esta sala no puede manipularse a voluntad. Elegir renunciar a la vida no activará su función.
+0082 [Vita] | Además, si alguien más aparte de usted y Vita se entera, la sala dejará de funcionar. Aunque ni siquiera esta salvaguarda es del todo infalible.
+0083 [Vita] | Precisamente por eso Vita le comunica esto dentro del ámbito de su mente. Además, Vita ha implantado una sutil barrera mental en su conciencia para evitar que lo mencione a nadie más.
+0084 [Vita] | Para su protección, maneje todo lo relacionado con la Sala Blanca con la mayor discreción. Vita confía en que usará buen juicio.
+0085 [Tú] | Eres muy considerada. Gracias.==W== O quizá simplemente no confías lo bastante en mí...==W== Es broma.
+0086 [Tú] | Parece que la Sala Blanca es solo una opción de respaldo. Lo que realmente dices es...==W== que no debo acostumbrarme a depender de ella.
+0087 [Vita] | Todas las acciones de Vita tienen un único propósito: ayudarle a convertirse en un poderoso Tirano.
+0088 [Tú] | Uf, ya regresé.
+0089 [Noya] | ¿Regresaste...==W== de dónde? Parecías perdido en tus pensamientos. ¿Estás bien?
+0090 [Tú] | ¿Toda esa conversación duró solo unos segundos en tiempo real? Si no puedo contarle a nadie sobre la Sala Blanca...
+0091 [Opción] | Perdón, me quedé en las nubes.
+0092 [Opción] | Estas piezas de ajedrez sí que son otra cosa.
+0093 [Opción] | Tienen que saber que...
+0094 [Tú] | Después de todo, es una habilidad valiosa. Si compartirla significa perderla, es mejor que me calle.
+0095 [Tú] | ¿En qué estábamos?
+0096 [Iris] | Así que ahora podemos pedir deseos sin perder la memoria. No estoy del todo convencida...==W== Pero si de verdad funciona, cambia mucho las cosas.
+0097 [Amber] | La compañía, increíble.
+0098 [Tú] | Volver a la vida después de morir...==W== Es tan irreal...
+0099 [Tú] | Se preocuparían si supieran todo, y además literalmente «no puedo» decírselo. Mejor sacarlo de mi mente.
+0100 [Tú] | Pedir deseos sin perder recuerdos...==W== suena demasiado bueno para ser verdad...
+0101 [Iris] | Suponiendo que funcione, podremos estar más tranquilas al pedir deseos de ahora en adelante.
+0102 [Noya] | ==PLAYER_NAME==, ¡lo mismo para ti: se acabaron los borrados de memoria! Oye, oye, ¿por qué no deseamos algunos Artefactos súper raros? ¡Solo para probar, ya sabes!
+0103 [Iris] | Entiendo lo que dices...==W== pero deberíamos ser cautelosos. ¿Quizá empezar con deseos más pequeños?
+0104 [Tú] | «Implantar una sutil barrera mental en la conciencia»...==W== ¿Es posible algo así? ¿Y si intento decir «Sala Blanca» en voz alta?
+0105 [Tú] | Sa—
+0106 [Tú] | N-no sale. Entonces, ¿y si lo escribo?
+0107 [Tú] | Uf, mi mente se quedó en blanco... ¿Cómo se escribía la palabra...?
+0108 [Vita] | Tirano, la prudencia le favorece. Probarlo usted mismo es mejor que confiar ciegamente en Vita.
+0109 [Noya] | ¿De qué hablas? ¿Qué es eso de «sa»?
+0110 [Tú] | Ejem, «salir», quiero decir, mientras todavía es de día deberíamos trabajar en nuestros planes.
+0111 [Tú] | Casi la riego. Parece que de verdad no hay forma de mencionar la «Sala Blanca» a los demás...
+0112 [Tú] | Entonces, vamos a Philae después, ¿no?
+0113 [Iris] | Así es. El viaje debería tomar más o menos una semana, incluso en el Oasis de la Suerte.
+0114 [Amber] | Ojalá descubramos algo. Estoy muy preocupada por la tía Allie y los niños.
+0115 [Noya] | ¡Tranquila! ¡La pequeña Bastelina hasta nos consiguió un contacto con un corredor de información!
+0116 [Bastelina] | En realidad es información.==W== Hay una corredora de información en Philae llamada Serena. Quizá sepa algo sobre lo que buscan.
+0117 [Tú] | ¿Crees que tendrá información sobre el orfanato? ¿O sobre el Pacto del Jefe?
+0118 [Bastelina] | Posiblemente. Si Serena no lo sabe, es poco probable que alguien lo sepa.==W== Incluso podría tener datos sobre esa oficial de Nocturn Eterna con la que se toparon.
+0119 [Bastelina] | Ah, ah,==W== y escuchen esto: la corredora Serena tiene la manía de jugar juegos mentales.
+0120 [Bastelina] | Así que quizá les proponga jugar algunos juegos...==W== jejeje. Mucha suerte cuando pase.
+0121 [Tú] | ¿De qué tipo de juegos hablamos?
+0122 [Bastelina] | Jiji, no estoy segura. Podría ser cualquiera, pero...
+0123 [Bastelina] | Serena no hace trampa.
+0124 [Bastelina] | Es la única pista que puedo darles.
+0125 [Tú] | Bastelina parece muy segura de esto. Encontrar a Serena debería darnos las pistas que necesitamos sobre el orfanato.
+0126 [Iris] | Sí, escalemos algunos Monolitos durante el viaje. Necesitamos reunir más fondos.
+0127 [] | ¡Claro!
+0128 [Amber] | ==PLAYER_NAME==, siéntete libre de charlar conmigo en cualquier momento durante el camino.
+0129 [Noya] | Jeje, me voy a tomar el volante, Tirano. ¡Avísame si necesitas algo!
+0130 [Tú] | No tienes por qué usar ese título...
+0131 [Noya] | ¿Por qué no? Suena genial, ¿no? ¿No les parece?
+0132 [Iris] | Bueno, «Jefe» parece más apropiado para asuntos oficiales, dado nuestro puesto como empleadas del «Pacto del Jefe».
+0133 [Amber] | Simplemente usaré el nombre guardado en tus contactos.
+0134 [Tú] | Está bien, como quieran.
+0135 [Narración] | Bajo el cielo azul, el pequeño Oasis de la Suerte recorre las interminables praderas. Vita guarda silencio y se retira a lo más hondo del teléfono hasta que yo vuelva a invocarla.
+0136 [Narración] | Las ruedas del destino comenzaron a girar: lentas, pero de manera irreversible.
+0137 [Tú] | Todavía faltan cinco almas para la primera misión.
+0138 [Tú] | ¿De verdad debería seguir recolectando...==W== aún más almas?
+0139 [Tú] | Esa quinta alma en el teléfono...==W== ¿de quién era?

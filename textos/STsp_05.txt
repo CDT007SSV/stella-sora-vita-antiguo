@@ -1,0 +1,6 @@
+# Nova Times #05 · La veterana y la novata — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_05_01 | La veterana y la novata (Parte I)
+STsp_05_02 | La veterana y la novata (Parte II)
+STsp_05_03 | La veterana y la novata (Parte III)

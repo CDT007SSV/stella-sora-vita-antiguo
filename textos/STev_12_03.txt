@@ -1,0 +1,135 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! · 3 · Progreso
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dance Instructor | Instructor de baile
+N:Eleanor's Father | Padre de Eleanor
+N:Eleanor's Mother | Madre de Eleanor
+N:General Store Owner | Dueña de la tienda general
+N:Impatient Customer | Cliente impaciente
+N:avg1_137 | Eleanor
+N:avg3_102 | Willow
+N:avg3_123 | Eleanor
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Progreso
+0003 [Intro] | El arduo trabajo de Eleanor por fin da frutos. Con un empujoncito de sus amigas, Eleanor se escabulle de casa otra vez, lista para afrontar su primer encargo.
+0004 [Narración] | Un mes después...
+0005 [Dance Instructor] | Uno,==W== y dos,==W== y tres,==W== y cuatro...
+0006 [Dance Instructor] | Eso es. Un juego de pies precioso.
+0007 [Dance Instructor] | Ja, tal como pensaba. Eres un talento natural.
+0008 [Eleanor] | Todo se lo debo a su guía.
+0009 [Eleanor] | Después de tanto entrenamiento, puedo moverme como quiero incluso con una caja así de pesada. Todavía no lo puedo creer.
+0010 [Dance Instructor] | Tu rápido progreso se debe en parte al talento, pero sobre todo a tu esfuerzo. Eso es una cualidad poco común.
+0011 [Dance Instructor] | …==W== Entonces, Eleanor. ¿Lo reconsiderarás?
+0012 [Eleanor] | ¿Eh? ¡Oh! Bueno, yo...
+0013 [Dance Instructor] | Je, es broma. Sé que tienes tu propio sueño. Sigue adelante.
+0014 [Eleanor] | ¡Seguiré esforzándome! Gracias por enseñarme.
+0015 [Impatient Customer] | ¡Oiga! ¿Hola...? ¡N-Necesito un Artefacto!
+0016 [Eleanor] | ¡Bienvenido! ¿Qué tipo de Artefacto busca?
+0017 [Impatient Customer] | Mmm...==W== ¿N-No está la dueña?
+0018 [Eleanor] | Salió un momento. Si necesita algo, también puedo ayudarlo.
+0019 [Impatient Customer] | Pero ... sin ella aquí... lo necesito urgente.==W== Ugh, olvídalo. Probaré suerte contigo.
+0020 [Impatient Customer] | Bueno, s-soy chef, y quiero el mismo Artefacto que usa el chef de la cocina de al lado, pero no tengo ni idea de cómo se llama.
+0021 [Impatient Customer] | ¡No puedo entrar así como así a la cocina de un rival y preguntarle!==W== No sé cómo explicarlo, ¡pero ahorra un montón de tiempo de preparación!
+0022 [Eleanor] | Tranquilo. Respire hondo. ¿Puede describirme cómo se ve?
+0023 [Impatient Customer] | Eh, solo lo vi de lejos un instante.==W== Se parece un poco a una jarra, ¿no? Con algo afilado adentro, y hace un ruido de zumbido muy fuerte.
+0024 [Impatient Customer] | Lo siento, es todo lo que recuerdo...
+0025 [Eleanor] | Un Artefacto de chef, ahorra tiempo, parece una jarra...==W== Entendido. Creo que sé lo que necesita.
+0026 [Impatient Customer] | ¡¿De verdad?!
+0027 [Eleanor] | Un momento. Voy a revisar en la bodega.
+0028 [Eleanor] | ¿Es esto lo que busca?
+0029 [Eleanor] | Es un Artefacto licuadora. Echa sus ingredientes y en segundos los licúa o los pica.
+0030 [Impatient Customer] | ¡Sí, sí! ¡Ese es!
+0031 [Impatient Customer] | Me salvaste la vida, señorita. S-Soy pésimo para explicar las cosas. Siempre salgo de otras tiendas con las manos vacías.
+0032 [Impatient Customer] | P-Pero la dueña de aquí es una experta en Artefactos. Balbuceo media frase y ella ya entiende.
+0033 [Impatient Customer] | Cuando me dijiste que no estaba, entré en pánico...==W== ¡Nunca esperé que alguien de tu edad fuera tan lista!
+0034 [Eleanor] | Me halaga. Todavía tengo mucho que aprender de ella.
+0035 [Eleanor] | ¡Gracias por venir!
+0036 [General Store Owner] | Buen trabajo.
+0037 [Eleanor] | ¡¿Eek?! ¿Cuándo regresó?
+0038 [General Store Owner] | Hace rato. Te vi con ese cliente y me quedé atrás para ver cómo lo manejabas.
+0039 [General Store Owner] | Lo hiciste perfecto. Sinceramente, yo no lo habría hecho mejor.
+0040 [General Store Owner] | Mira, Eleanor. Sé que eres becaria, pero si me dices que sí, el puesto de tiempo completo es tuyo.==W== Tenerte aquí sería una ayuda enorme.
+0041 [General Store Owner] | No es por presumir, pero el sueldo es bueno. Pronto abriré una segunda sucursal, y el puesto de gerente es tuyo si lo quieres. ¿Qué dices?
+0042 [Eleanor] | Le agradezco la oferta. Pero ...==W== tengo un sueño que debo perseguir.
+0043 [General Store Owner] | ¿Un sueño?
+0044 [Eleanor] | Quiero ser Trekker.
+0045 [General Store Owner] | Ah. Te pica el gusanito de la exploración. Eso no se discute.
+0046 [General Store Owner] | Bueno, cuando seas famosa, habla bien de nosotros. No te olvides de los pequeños, ¡jaja!
+0047 [Eleanor] | Ay, por favor. ¡Si algún día pasa, con gusto lo haré!==W== Pero ahora eso está a un mundo de distancia...
+0048 [General Store Owner] | ¿Segura? Yo creo que estás más cerca de lo que piensas.
+0049 [Eleanor] | Señorita Willow. Aquí estoy.
+0050 [Willow] | Eleanor. ¿Lista para empezar?
+0051 [Eleanor] | ¡Sí!
+0052 [Willow] | Bien. Tengo un encargo perfecto para una principiante. ¿Quieres tomarlo?
+0053 [Eleanor] | Es ahora...==W== Mi primer encargo.
+0054 [Eleanor] | Todos me ayudaron a llegar hasta aquí. Ahora toca afrontarlo sola.
+0055 [Eleanor] | ¿Habré crecido y madurado?==W== Supongo que pronto lo averiguaré.
+0056 [Eleanor] | —Y ese es el plan.
+0057 [Eleanor] | El equipo está empacado, la ruta está definida. Salgo esta tarde y regreso a casa antes del amanecer. Nadie se enterará.
+0058 [Vivian] | Guau...
+0059 [Caterine] | Increíble...
+0060 [Eleanor] | ¿Eh? ¿Qué es increíble?
+0061 [Caterine] | Nada... Me asombra lo decidida que eres, Eleanor.
+0062 [Vivian] | Caterine y yo hemos estado atrapadas en la misma rutina todo el mes,==W== y tú has crecido muchísimo.
+0063 [Vivian] | Jeje. Siento un poco de envidia.
+0064 [Eleanor] | …==W== Vivian, Caterine, ustedes...
+0065 [Caterine] | Espera, si te vas esta tarde, ya casi no te queda tiempo.
+0066 [Eleanor] | ¡Oh! Pensaba irme después de la tarde de té...
+0067 [Caterine] | ¡No digas tonterías! El té puede esperar. Es tu primer encargo oficial de Trekker.==W== No puedes holgazanear ahora.
+0068 [Eleanor] | No pasa nada. Terminé los preparativos hace mucho.
+0069 [Vivian] | ...==W== Entonces no nos queda nada por hacer.==W== Al menos permítenos a Caterine y a mí despedirte como se debe.
+0070 [Eleanor] | ¡No digas eso! Me han ayudado muchísimo.==W== Sin ustedes dos, todavía estaría encerrada en mi cuarto lamentándome.
+0071 [Vivian] | Jeje. Bueno, si tú lo dices...
+0072 [Vivian] | Entonces deberías aceptar nuestro gesto, ¿no crees?
+0073 [Vivian] | Ya te he visto con tu equipo de Trekker antes,==W== pero te ves increíble.
+0074 [Eleanor] | Gracias a las dos.
+0075 [Eleanor] | ...==W== Muy bien. Debería irme.
+0076 [Vivian] | Espera, un momento. ¿Cómo piensas salir de aquí?
+0077 [Eleanor] | Por ahí.
+0078 [Caterine] | No me digas que vas a usar eso...
+0079 [Vivian] | ¿N-No es peligroso?
+0080 [Eleanor] | Tranquilas. Lo he practicado un millón de veces.
+0081 [Eleanor] | ¿Ven? ¡A la primera!
+0082 [Eleanor] | Un muro más y soy libre.
+0083 [Vivian] | Guau...
+0084 [Caterine] | Increíble...
+0085 [Eleanor] | ¡Me voy! ¡Cuídense mucho!
+0086 [Vivian] | ¡Buen viaje, Eleanor!
+0087 [Caterine] | ¡Buen via—
+0088 [???] | ¿Eleanor? ¿Estás ahí dentro?
+0089 [???] | Qué raro... ¿A dónde se habrá ido ahora?
+0090 [Eleanor] | Espera... ¡¿acabo de oír a Madre y a Padre?!
+0091 [Eleanor] | Tengo que volver a entrar—
+0092 [Caterine] | No, tú vete. Vivian y yo nos encargamos.
+0093 [Vivian] | Me daba pena no poder ayudarte más, ¡pero esta es nuestra oportunidad!
+0094 [Vivian] | Caterine, yo distraeré a sus padres. Tú despeja su cuarto. No dejes ni rastro.
+0095 [Eleanor] | ¿Seguras que estarán bien?
+0096 [Caterine] | Lo tenemos controlado. ¿Qué, no confías en tus mejores amigas?
+0097 [Eleanor] | Yo...==W== Entiendo. ¡Gracias a las dos!
+0098 [Caterine] | Uf, por fin se fue.
+0099 [Caterine] | ¿Tienes lista una excusa para sus padres? Más vale que nos pongamos de acuerdo con la historia.
+0100 [Vivian] | Tranquila, se nos ocurrirá algo.
+0101 [Caterine] | Jamás pensé que vería el día en que te rebelaras y le mintieras a los adultos.
+0102 [Caterine] | Siempre fuiste la más obediente de las tres.
+0103 [Vivian] | Eso probablemente se debe a que he estado aprendiendo de una inspiradora==W== «mala influencia».
+0104 [Vivian] | Bien, voy a abrir la puerta. Les ganaré todo el tiempo que pueda. ¡El resto depende de ti, Caterine!
+0105 [Caterine] | Entendido. Considéralo hecho.
+0106 [Caterine] | Primero, esconder el vestido del que se cambió...
+0107 [Caterine] | ¡Ah!
+0108 [Vivian] | ¡Cuidado!
+0109 [Eleanor's Mother] | ¡¿Qué fue ese ruido?!
+0110 [Eleanor's Father] | ¡¿Eleanor?! ¿Estás bien ahí dentro?
+0111 [Caterine] | Ah ... jaja...
+0112 [Vivian] | Torpe. ¿Qué voy a hacer contigo?
+0113 [Vivian] | Gracias a ti, ahora tenemos todavía más que explicar.
+0114 [Eleanor] | Vivian... Caterine...==W== ¡Les juro que no las defraudaré!

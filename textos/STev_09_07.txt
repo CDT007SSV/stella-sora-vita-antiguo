@@ -1,0 +1,155 @@
+# Evento · Una tormenta de arena y disparos · 7 · Breakout: The Power Reborn
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Desert Scorpion Leader | Líder de los Escorpiones del Desierto
+N:Desert Scorpion Merc | Mercenario de los Escorpiones del Desierto
+N:Desert Scorpion Mercenary | Mercenario de los Escorpiones del Desierto
+N:Enthusiastic Troupe Member | Miembro entusiasta de la compañía
+N:Escaped Miner? | ¿Minero fugado?
+N:Fellow Troupe Member | Compañero de la compañía
+N:Monster | Monstruo
+N:Nervous Scorpion Mercenary | Mercenario nervioso de los Escorpiones del Desierto
+N:Other Trapped Trekkers | Otros Trekkers atrapados
+N:Panicked Scorpion Mercenary | Mercenario aterrado de los Escorpiones del Desierto
+N:Petrified Scorpion Mercenary | Mercenario petrificado de los Escorpiones del Desierto
+N:Terrified Scorpion Mercenary | Mercenario aterrorizado de los Escorpiones del Desierto
+N:Trapped Trekker | Trekker atrapado
+N:Trapped Trekker Leader | Líder de los Trekkers atrapados
+N:Worried Troupe Member | Miembro preocupado de la compañía
+N:avg1_108 | Kasimira
+N:avg1_114 | Chaton
+N:avg1_146 | Benito
+N:avg2_944 | Meadow Blade
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_1287 | Escorpión del Desierto
+N:avg3_1288 | Escorpión del Desierto
+N:avg3_1294 | Secuaz de los Escorpiones del Desierto
+N:avg3_1295 | Secuaz de los Escorpiones del Desierto
+N:avg3_1297 | Secuaz de los Escorpiones del Desierto
+N:avg3_1298 | Secuaz de los Escorpiones del Desierto
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_218 | Residente de Mirage
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Fuga: el poder renacido
+0003 [Intro] | El instinto de Kasimira acertó: es una emboscada. Cuando los Escorpiones del Desierto activan la trampa, Kasimira se lanza por instinto frente a Chaton...
+0004 [Chaton] | Uf...==W== Uf...==W== ¡Un debilucho así no es rival para la gran Chaton!
+0005 [Trapped Trekker] | ¡Capitán! ¡¿Está bien?!
+0006 [Trapped Trekker Leader] | Sí, estoy bien. ¿Tú estás bien?
+0007 [Trapped Trekker] | Yo también.==W== Pero en serio... ¿Quiénes son ustedes?
+0008 [Chaton] | ¡Hmph!==B====W== ¡Nosotros...==B====W== somos la==B====W== Compañía del Gato Blanco!
+0009 [Trapped Trekker] | ¿Compañía del Gato... Blanco?
+0010 [Chaton] | ¿Eh? ¿Nunca han oído hablar de nosotros?
+0011 [Trapped Trekker] | Ajaja... Perdón, estoy un poco desinformado.
+0012 [Trapped Trekker] | P-Pero les debemos la vida. ¡Algún día se lo pagaremos!
+0013 [Other Trapped Trekkers] | ¡Nosotros también!==W== ¡Gracias por salvarnos!
+0014 [Chaton] | Je, je, ¡no lo mencionen!==W== ¡Una emisaria del poder oscuro solo hace lo que le sale naturalmente!
+0015 [Kasimira] | ¿Están todos? ¿Alguien herido?
+0016 [Fellow Troupe Member] | Estamos todos, capitana. Los Trekkers tienen unos raspones, pero nuestro equipo está perfectamente bien.
+0017 [Chaton] | ¿Ves, Kasimira?==W== ¡Con la gran Chaton aquí, el destino siempre está de nuestro lado!
+0018 [Kasimira] | Sí,==W== parece que sí...==W== ¡¿Eh?!
+0019 [Kasimira] | ¡Chaton!==W== ¡Cuidado!
+0020 [Escaped Miner?] | ¡Jajaja! ¡La subcapitana lo predijo!
+0021 [Escaped Miner?] | ¿Por qué apuntarle a Kasimira? ¡Apunta a su equipo y ella recibirá la bala por ellos!
+0022 [Chaton] | ¡Kasimira! ¡Kasimira!
+0023 [Fellow Troupe Member] | ¡Maldición! Nos engañó desde el principio...
+0024 [Escaped Miner?] | ¡No puedo creer que este Artefacto de disfraz funcionara tan bien!
+0025 [Desert Scorpion Leader] | La subcapitana te descubrió en cuanto te colaste en la mina.
+0026 [Desert Scorpion Leader] | ¡Por eso me dio este falso papel de minero... para atraerlos hasta aquí y que mataran a ese monstruo por nosotros!
+0027 [Fellow Troupe Member] | ¡Malditos canallas...!
+0028 [Desert Scorpion Leader] | ¡Escuchen todos! ¡Kasimira cayó!==W== ¡La Compañía del Gato Blanco está acabada! ¡Ataquen y aniquílenlos!
+0029 [Desert Scorpion Merc] | ¡¡Raaaah...!!
+0030 [Chaton] | ¡Están muertos! ¡Nadie toca a Kasimira...!
+0031 [Desert Scorpion Leader] | ¡Sigan empujando! ¡Ese monstruo los dejó exhaustos! ¡No les queda nada en el tanque!
+0032 [Trapped Trekker Leader] | ¡Oye... a la una en punto!
+0033 [Worried Troupe Member] | ¡Entendido! ¡Gracias!
+0034 [Desert Scorpion Mercenary] | ¡Argh!==W==
+0035 [Worried Troupe Member] | ¡Rayos! ¡No podemos contenerlos mucho más!
+0036 [Worried Troupe Member] | ¡¿Cómo está la capitana?!
+0037 [Enthusiastic Troupe Member] | ¡Está viva! ¡No es grave! ¡Solo está inconsciente!
+0038 [Chaton] | ¡Maldición! ¡Kasimira, despierta!
+0039 [Enthusiastic Troupe Member] | ¡Chaton, concéntrate!==W== ¡Si no derribamos a estos tipos ahora mismo, de todos modos moriremos todos!
+0040 [Chaton] | Tsk...
+0041 [Desert Scorpion Leader] | Tengo una sugerencia... Abandonen a los Trekkers.
+0042 [Desert Scorpion Leader] | ¡Déjenlos atrás y quizá tengan una oportunidad!
+0043 [Worried Troupe Member] | ¡Chaton, ¿alguna idea?!==W== ¡Aquí somos blancos fáciles!
+0044 [Chaton] | Eh... Un plan...==W== Mi plan es...
+0045 [Chaton] | Mmm... Mmm...
+0046 [Chaton] | ¡¡¡ARGH...!!!
+0047 [Chaton] | ¡No tengo nada! ¡Tengo la mente en blanco!
+0048 [Chaton] | ¿Qué se supone que haga... Y si lo vuelvo a arruinar...
+0049 [Worried Troupe Member] | ¡Reacciona, Chaton! ¡Tú puedes!
+0050 [Worried Troupe Member] | ¿Por qué más te confiaría la capitana ese colgante?
+0051 [Chaton] | ¿El colgante?
+0052 [Chaton] | ¡Benito! ¡Ya me voy!
+0053 [Benito] | ¡Espera, Chaton!==W== ¡Toma esto!
+0054 [Chaton] | ¿Qué es esto...?
+0055 [Benito] | Un colgante de parte de Kasimira. Dijo que trae buena suerte.
+0056 [Benito] | Quería dártelo ella misma...
+0057 [Worried Troupe Member] | Ese colgante es un amuleto. La capitana solo se lo da a los miembros cuando están a punto de emprender una misión importante.
+0058 [Worried Troupe Member] | Quizá le dio pena dártelo ella misma, pero el hecho de que te lo diera significa que cree que estás lista.
+0059 [Chaton] | ¿Lista...?
+0060 [Enthusiastic Troupe Member] | Sí. Lo disfraza de amuleto de buena suerte... Pero todos sabemos lo que significa.
+0061 [Chaton] | Este colgante...==W== Es del mismo color que mi poder oscuro...
+0062 [Enthusiastic Troupe Member] | Lo tenía listo para ti desde hace mucho. Un amuleto hecho solo para ti.
+0063 [Chaton] | Solo para mí...
+0064 [Chaton] | Kasimira...
+0065 [Chaton] | ¡Maldición! Si siempre creíste en mi poder oscuro, ¡¿por qué nunca dijiste nada?!
+0066 [Chaton] | Algo tan importante... ¡Debiste dármelo tú misma!
+0067 [Desert Scorpion Mercenary] | ¡Jefe! Esos malandros del Gato Blanco llevan rato sin disparar.
+0068 [Desert Scorpion Mercenary] | ¡¿Será que se quedaron sin municiones?!
+0069 [Desert Scorpion Leader] | ¡Jah, seguro! Después de pelear con un monstruo tan enorme, ¿cuánto les puede quedar?
+0070 [Desert Scorpion Leader] | ¡Se quedaron sin balas! ¡Vamos, muchachos, acabemos con ellos!
+0071 [Worried Troupe Member] | ¡Chaton!==W== ¡Están cargando!
+0072 [Chaton] | Yo no soy Kasimira. No puedo dirigir un campo de batalla caótico sobre la marcha.
+0073 [Chaton] | Pero lo único que sí puedo hacer...
+0074 [Chaton] | ...¡es abrirles camino a todos!!!
+0075 [Chaton] | ¡Cuiden a Kasimira y a los Trekkers!==W==
+0076 [Enthusiastic Troupe Member] | ¡Espera, Chaton! ¡¿Qué haces?!
+0077 [Chaton] | ¡Lastimaron a las personas más importantes para mí, y lo van a pagar!!
+0078 [Desert Scorpion Leader] | ¿Oho? ¿Qué puede hacer una sola francotiradora?==W== ¿Qué? ¡¿Planea una carga suicida?!
+0079 [Desert Scorpion Leader] | ¡Oigan! ¡¿Qué esperan?! ¡Acribíllenla!
+0080 [Panicked Scorpion Mercenary] | ¡N-No puedo! ¡Se mueve demasiado rápido! ¡No puedo fijar el blanco!
+0081 [Desert Scorpion Leader] | ¡Tsk, inútiles! ¡Quítense! ¡Yo mismo lo hago!
+0082 [Chaton] | Si se hubieran preocupado por su gente como lo hace Kasimira, no habría tenido tiempo de preparar esto...
+0083 [Desert Scorpion Leader] | ¿Eh? ¿De qué demonios hablas?
+0084 [Chaton] | Qué lástima. Ya está maduro el momento...
+0085 [Chaton] | ¡Estafadores imperdonables! ¡Que el abismo de mi furia oscura los devore!
+0086 [Chaton] | Poder oscuro...==W== ¡atraviésalos!
+0087 [Desert Scorpion Leader] | ¡¡Gaaah!!==W==
+0088 [Panicked Scorpion Mercenary] | ¡¡Jefe!!
+0089 [Chaton] | Hmph. ¿Creían que eran los únicos que saben cortar la cabeza de la serpiente?
+0090 [Kasimira] | Ngh... ¿Dónde...?
+0091 [Worried Troupe Member] | ¡Capitana, despertó! ¡¿Puede caminar?!
+0092 [Kasimira] | Sí... A duras penas.
+0093 [Enthusiastic Troupe Member] | ¡Chaton abrió un hueco! ¡Retirémonos mientras podamos!
+0094 [Kasimira] | Chaton...
+0095 [Chaton] | ¡No se preocupen por mí! ¡Kasimira, saca a todos de aquí! ¡Yo espantaré a estas moscas y los alcanzo!
+0096 [Chaton] | Con la bendición de mi poder oscuro, la gran Chaton es invencible~
+0097 [Kasimira] | Pero...==W== No. Tienes razón.==W== Te lo dejo a ti, Chaton.
+0098 [Chaton] | ¡Cuenta conmigo!
+0099 [Chaton] | ¡Vamos, escoria Escorpión! ¡Prueben el poder oscuro cien por ciento puro de la gran Chaton!!
+0100 [Terrified Scorpion Mercenary] | ¡N-No te acerques!==W== ¡Que alguien la detenga!==W== ¡Agh!
+0101 [Monster] | ¡Roooaar...!!
+0102 [Nervous Scorpion Mercenary] | Espera... ¿Ese rugido era...?
+0103 [Monster] | ¡Grrrrr...!!
+0104 [Nervous Scorpion Mercenary] | ¡Rayos! ¡Meadow Blade!
+0105 [Nervous Scorpion Mercenary] | ¡Maldición! ¡¿De dónde salieron esos?!==W== ¡Aaaah!
+0106 [Chaton] | ¡Mírenme a mí! ¡La gran Chaton está aquí!
+0107 [Worried Troupe Member] | ¿Qué está pasando...?
+0108 [Kasimira] | Ese monstruo gigante acaparaba el centro. Probablemente ahuyentaba a los más pequeños.
+0109 [Kasimira] | Ahora que cayó, están regresando en masa. Esta mina ya no es segura. ¡Hay que movernos!
+0110 [Enthusiastic Troupe Member] | ¡Chaton! ¡Nos retiramos! ¡Repliégate!
+0111 [Chaton] | ¡Entendido!
+0112 [Petrified Scorpion Mercenary] | ¡Espera! ¡Por favor, ten piedad! ¡Déjame ir! ¡Tengo una familia que me espera!
+0113 [Petrified Scorpion Mercenary] | ¡Renunciaré a los Escorpiones del Desierto mañana! ¡Lo juro!
+0114 [Chaton] | Lárgate. Que no te vuelva a ver.==W== ¡Por tu familia, empieza de nuevo y mantente lejos!

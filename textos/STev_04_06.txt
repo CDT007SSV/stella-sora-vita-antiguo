@@ -1,0 +1,140 @@
+# Evento · Réquiem invernal y el gatillo del alba · 6 · Mala intención
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_106 | Aeloria
+N:avg1_1211 | Wraith
+N:avg1_143 | Wraith
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_971 | Trekker de las Aves Errantes
+N:avg3_100 | Sylar
+N:avg3_1283 | Wraith
+N:avg3_1284 | Wraith
+N:avg3_195 | Edda
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Mala intención
+0003 [Intro] | Se adentran más en el Monolito, pero la inquietud no hace más que crecer. Bajo el interrogatorio directo de Wraith, la fachada de Edda se derrumba y revela que todo el «incidente» es una trampa de su propia creación.
+0004 [1] | ¡Wraith! ¡Hostiles a las doce y a las tres! ¡Cuida los flancos!
+0005 [Wraith] | ¡Entendido!
+0006 [1] | ¡Edda!==W== ¡A las nueve! ¡Vienen hechizos!
+0007 [Edda] | ¡L-lo sé!
+0008 [Edda] | ¡Ugh, en serio! ¡¿Por qué hay tantos Stellaroids?!
+0009 [Wraith] | El último es mío.
+0010 [1] | Uf...==W== Sector despejado.==W== Buen trabajo, todos...
+0011 [Wraith] | ¡==PLAYER_NAME==!==W== ¡Al suelo!
+0012 [1] | Buen tiro.==W== Gracias. Me descuidé. Ese no lo vi para nada.
+0013 [Wraith] | Estos Stellaroids actúan raro. Son demasiado inteligentes, lo que significa que los están controlando... o los atrae algo.
+0014 [Tú] | Normalmente los Stellaroids salen en enjambre durante un Colapso del Monolito.
+0015 [Tú] | Pero estos se están atrincherando... ¿Habrá algo escondido dentro del Monolito?
+0016 [Edda] | ¡Mientras más fuerte pelean, más cerca estamos! ¡Nocturn Eterna tiene que estar escondida en lo más profundo!
+0017 [Tú] | Uf... Por fin. Aquí adentro podemos tomar aire.
+0018 [Wraith] | ...
+0019 [Edda] | ...
+0020 [Tú] | Mm... El ambiente entre ellas está tenso desde anoche. ¿Y si intento romper el hielo?
+0021 [Tú] | Eh... ¿C-cómo vamos a volver después de esto?
+0022 [Tú] | Es un camino largo de regreso a Emor. ¿Tenemos un carruaje arreglado? Espera, no... El cochero ya se...
+0023 [Tú] | ... Bueno, eso solo empeoró las cosas.
+0024 [Edda] | Tranquilo. Reservé un carruaje de respaldo antes de salir de la ciudad.
+0025 [Edda] | Si todo sale según lo planeado, llegará mañana a recogernos.
+0026 [Tú] | ¿«Según lo planeado»? Puede que no terminemos la misión para mañana... ¿Por qué la fecha de regreso ya está fijada?
+0027 [Tú] | Lo entiendo. Pero... hipotéticamente, ¿y si capturamos a un prisionero?==W== Un carruaje tiene asientos limitados. ¿Lo consideraste?
+0028 [Edda] | Los extremistas que destruyen Monolitos no merecen un debido proceso... Simplemente los neutralizamos. Problema resuelto.
+0029 [Wraith] | Edda, basta. Incluso con Nocturn Eterna, la justicia por mano propia no es la respuesta. Los entregaremos a los Árbitros del Ocaso.
+0030 [Edda] | Qué sorpresa. Esperaba que una Centinela del Alba me respaldara en esto.
+0031 [Wraith] | Destruir un Monolito es una blasfemia imperdonable, pero las reglas son las reglas. Como Centinela del Alba, no puedo romper el protocolo por una venganza personal. Si lo hago, no soy mejor que ellos.
+0032 [Edda] | Vaya...==W== Una respuesta de manual. De verdad confías en el Imperio de la Gracia, ¿no?==W== Ah, las puertas se están abriendo. Avancemos.
+0033 [Edda] | Este... es el Dominio del Jefe. Una vez que despejemos esta zona, la cima será nuestra.
+0034 [Wraith] | Sin duda conoces bien este lugar.
+0035 [Edda] | Naturalmente. La misión involucra al Monolito... ¿No es lógico hacer la tarea de antemano?
+0036 [Wraith] | Buena memoria. Supongo que esa figura que viste en la calle de verdad era una Nocturn Eterna.
+0037 [Edda] | Por supuesto. Los novianos normales no tienen cuernos blancos en la cabeza. Eso definitivamente era una Nocturn Eterna. Lo vi con claridad.
+0038 [Wraith] | Cuernos blancos, ¿eh?==W== En todos mis años combatiendo a Nocturn Eterna, nunca he visto a una sola con cuernos blancos.
+0039 [Tú] | ¿Eh?
+0040 [Edda] | ¡¿De qué hablas...?! ¡Tú fuiste quien dijo que tienen cuernos blancos...!
+0041 [Wraith] | Así es. Mencioné ese detalle a ==PLAYER_NAME==. Sin embargo...
+0042 [1] | ¿Eh? ¿Una Nocturn Eterna me seguía...? ¿La viste bien?
+0043 [Edda] | ...
+0044 [Wraith] | (... ¿Nos están vigilando?)
+0045 [Wraith] | ¿Mm...?
+0046 [Tú] | Wraith,==W== ¿qué pasa?
+0047 [Wraith] | Ah, perdón, estaba pensando...==W== Creo que en realidad no vi su rostro.
+0048 [Wraith] | Todavía no sé quién es...==W== Pero si planto información falsa, tarde o temprano sacaré a la rata de su escondite.
+0049 [Wraith] | Si ==PLAYER_NAME== es un topo, ==SEX== caerá en la mentira y hará algo.==W== Si no... entonces ==SEX== está libre de sospecha.
+0050 [Wraith] | No llevaba armas, así que no recuerdo los detalles...==W== Pero su piel pálida, característica de los Bayan, y los cuernos blancos y puntiagudos sobre su cabeza eran prueba suficiente de que era miembro de Nocturn Eterna.
+0051 [Wraith] | Me di cuenta de que alguien escuchaba a escondidas, así que te conté esa mentira a propósito.
+0052 [Wraith] | Esperaba estar paranoica... Pero, por desgracia, tenía razón. Hay una traidora entre nosotros.
+0053 [Edda] | ¡¿Estás bromeando?! ¡Vi esos cuernos con total claridad! ¡La mentirosa eres tú, Wraith! ¡Tú eres la traidora!
+0054 [Wraith] | Antes no teníamos pruebas contundentes. Pero anoche, mientras buscaba comida, examiné con más detenimiento las heridas de los demás.
+0055 [Tú] | Con razón tardaste tanto... Ahora todo tiene sentido.
+0056 [Wraith] | ¿Y adivina qué? Sus heridas eran idénticas: infligidas con magia.==W== Las únicas aquí capaces de eso... son tú y Maga.
+0057 [Wraith] | Como Maga ya está fuera de combate...==W== La única sospechosa que queda eres tú,==W== Edda.
+0058 [Edda] | ¡Eso es pura especulación! ¡Jefe, no dejes que tuerza la verdad! ¡La mentirosa es ella!
+0059 [Tú] | No. Creo que Wraith tiene razón.
+0060 [Edda] | ¡¿C-cómo puedes decir eso?!
+0061 [Tú] | Primero,==W== toda esta situación se siente rara.==W== No se parece en nada a mis encuentros anteriores con Nocturn Eterna.
+0062 [Tú] | Segundo,==W== nos enviaste a un lugar específico... y casualmente,==W== ahí fue exactamente donde encontramos esos murales y las armas antiguas.
+0063 [Tú] | Y por último,==W== eres la única que sigue en pie.==W== Ilesa y con todo bajo control.
+0064 [Edda] | ¡Ja! ¡¿Y qué?! ¡Eso no prueba nada! Tú y Wraith también están bien. ¿Acaso no pueden usar magia ustedes también?
+0065 [Tú] | Mi caso es... único. Pero olvida eso. Lo único que de verdad me molesta es esto:
+0066 [Tú] | ¿Por qué insistes tanto en que entremos al Monolito?
+0067 [Edda] | ¿Eh?
+0068 [Tú] | Vinimos a investigar... Prometiste expresamente que la seguridad era lo primero, que no enfrentaríamos ningún peligro real.
+0069 [Tú] | Y aun así, a mitad de camino usaste a Nocturn Eterna como carnada para atraernos al Monolito... Casi como si fueras tú la que estaba ansiosa por darles caza.
+0070 [Tú] | La misión era una simple investigación. No había necesidad de semejante riesgo. Como nuestra empleadora, debiste ser cautelosa. Sin embargo, nos empujaste más hacia dentro del Monolito porque había rastros de Nocturn Eterna... ¿Por qué?
+0071 [Edda] | Jejejeje...==W== De verdad estás a la altura de los rumores, Jefe. Nada se te escapa.
+0072 [Edda] | Supongo que tendré que acelerar las cosas...==W== No importa. ¡Solo es una complicación menor!
+0073 [Wraith] | —¡¿...?!
+0074 [Edda] | Estabas a un paso de la cima... Qué desperdicio.
+0075 [Tú] | ¡¿Qué buscas?! ¡¿Por qué lastimas a todos?!
+0076 [Edda] | ¡Ooh! Es raro ver al Tirano perder ==SEX3== calma. ¡Ahora sí le haces honor a esa imagen legendaria!
+0077 [Edda] | ¡Con esa furia, la tasa de éxito del ritual... acaba de dispararse!
+0078 [Tú] | ¿Ritual...? ¿A qué te refieres?
+0079 [Edda] | Jejeje. El ritual para traer de vuelta a «Ellos» a este mundo, por supuesto.
+0080 [Edda] | Me he dedicado==W== a las antiguas profecías de su descenso,==W== recorriendo Nova y reuniendo armas antiguas...
+0081 [Edda] | ¿Tienes idea de cuánto trabajo costó todo esto?
+0082 [Wraith] | Perdona. No me interesan en absoluto tus tonterías de rituales.
+0083 [Edda] | ¡Qué grosera! ¡¿Acaso tus maestros nunca te enseñaron a no interrumpir a alguien que está hablando?!
+0084 [Wraith] | Mi error. La única materia que me importaba en la escuela era educación física.
+0085 [Edda] | Yo también odio a ese tipo de gente.==W== Así matarte no me da cargo de conciencia. Me ahorra la molestia.
+0086 [Edda] | ¡Te aplastaré, me convertiré en la única «Vencedora»... y en el sacrificio perfecto!
+0087 [Tú] | ¿Sacrificio...? ¿De qué plan retorcido está hablando?
+0088 [Edda] | Con la «Vencedora» y el «Testigo» aquí...==W== ¡El Dios volverá a caminar sobre esta tierra...!
+0089 [Wraith] | ¡Guarda el discurso para cuando ganes!
+0090 [Edda] | Oh, eso pienso hacer.==W== ¡Pum!
+0091 [Wraith] | ¡Hgh...!
+0092 [Edda] | Je. Aguantas más que la mayoría==W==. Pero... ¿podrás con esto?
+0093 [Wraith] | (Su poder sigue aumentando... Se siente anormal, pero ella lo controla.==W== ¿Será que ese «Dios» realmente la alimenta?)
+0094 [Edda] | Terca. Mi formación de Stellaroids debió haberte dejado seca, y aquí sigues, de pie.
+0095 [Wraith] | ¿Dejarme seca? Ja.==W== Eso ni siquiera fue calentamiento.
+0096 [Edda] | A ver cuánto aguantas con esa actitud de dura.
+0097 [Wraith] | Ataques así no van a...
+0098 [Wraith] | (Otra trampa... No están solo aquí. Todo el Monolito está lleno de trampas...==W== De verdad vino preparada.)
+0099 [Edda] | Resistirte solo prolonga el dolor...==W== ¡Ríndete de una vez!
+0100 [Wraith] | Así que... en realidad me subestiman. Aun así, su técnica es impecable. Hora de replantear mi enfoque...==W== Probemos esto.
+0101 [Edda] | ¿Por fin llegaste a tu límite?==W== ¡Entonces es mi turno!
+0102 [Wraith] | ¡¿...?!
+0103 [Edda] | ¡¿Fallé?!==W== ¡¿Pero cómo?!
+0104 [Edda] | (Imposible... La tenía fijada. ¿Pelea por puro instinto?)
+0105 [Edda] | (No, está leyendo cada uno de mis movimientos... ¡Es como si pudiera ver el futuro!)
+0106 [Edda] | (¿Es este el verdadero poder de Wraith... el Vendaval Plateado de los Centinelas?)
+0107 [Edda] | (¡Al diablo...!==W== ¡Esto no ha terminado!)
+0108 [Tú] | ¡Van a derrumbar todo el Monolito! Tengo que encontrar la forma de ayudar a Wraith...
+0109 [Edda] | Tsk... ¡Fenómeno!==W== Debí acabar contigo en Emor cuando tuve la oportunidad.
+0110 [Wraith] | Hace un minuto presumías de ser el «sacrificio perfecto». ¿Dónde quedó ese valor?==W== Agotaste todos tus hechizos y todos tus trucos. El juego terminó. Ríndete.
+0111 [Edda] | ¿Rendirme? ¿Yo?==W== ¡Ja! No celebres todavía...==W== Toma esto...
+0112 [1] | —¡¿...?!
+0113 [Wraith] | Ríndete. Anticipé cada uno de tus movimientos.==W== Ya no tienes opciones. Se acabó.
+0114 [Edda] | C-cómo... De verdad eres un monstruo...==W== En realidad no tuve ni una sola oportunidad...
+0115 [Edda] | ...¿O sí?==W== Caíste en la trampa.
+0116 [1] | ¿Qué es esto?...==W== ¿Magia?
+0117 [Narración] | Un extraño círculo mágico se despliega sobre mi cuerpo y pulsa con una energía aterradora.
+0118 [Narración] | La magia no me afecta, pero me doy cuenta demasiado tarde de que ella está justo a mi lado.
+0119 [1] | ¡Wraith! ¡Corre!
+0120 [Wraith] | —==W==¡¿...?!
+0121 [1] | ¡¿Wraith?! ¡Aguanta! ¡Oye!
+0122 [1] | ¡Wraith...!

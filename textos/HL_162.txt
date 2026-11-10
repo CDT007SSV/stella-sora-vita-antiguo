@@ -1,0 +1,261 @@
+# Heartlink de Firstlight Noya: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Firstlight Noya] | 1
+A01.0002 [Tú] | Parece que la invitación llegó. ¡Prueba a decir algo!
+A01.0003 [Firstlight Noya] | 1111111111
+A01.0004 [Tú] | ¿Todo bien?
+A01.0005 [Firstlight Noya] | Es
+A01.0006 [Firstlight Noya] | toy bien
+A01.0007 [Firstlight Noya] | Es
+A01.0008 [Firstlight Noya] | solo que aún
+A01.0009 [Firstlight Noya] | me estoy acostum
+A01.0010 [Tú] | Tómate tu tiempo. Puedes escribir todo antes de darle a enviar.
+A01.0011 [Firstlight Noya] | Ya
+A01.0012 [Firstlight Noya] | veo
+A01.0013 [Firstlight Noya] | Este aparato es muy
+A01.0014 [Firstlight Noya] | complicadooooo
+A01.0015 [Firstlight Noya] | ooooooooooooo
+A01.0016 [Tú] | ¡Vale, eso ya asusta un poco!
+A01.0017 [Tú] | ¿Qué acaba de pasar? ¡¿Seguro que no necesitas ayuda?!
+A01.0018 [Firstlight Noya] | Mis disculpas.
+A01.0019 [Firstlight Noya] | Presioné enviar y el aparato escupió todas esas palabras por sí solo.
+A01.0020 [Tú] | ¿Qué tan fuerte lo presionaste para que pasara eso...
+A01.0021 [Firstlight Noya] | Con gran fuerza.
+A01.0022 [Tú] | No lo hagas. ¡Vas a romper la pantalla!
+A01.0023 [Tú] | Solo dale un toque ligero. Suave y con calma.
+A01.0024 [Firstlight Noya] | Entendido.
+A01.0025 [Firstlight Noya] | En efecto, es demasiado
+A01.0026 [Firstlight Noya] | complicadooooo
+
+## Conversación A02
+A02.0001 [Firstlight Noya] | Estás ahí signo de interrogación
+A02.0002 [Firstlight Noya] | Hay mucho que no entiendo puntos suspensivos
+A02.0003 [Firstlight Noya] | Espero que puedas enseñarme signo de exclamación
+A02.0004 [Tú] | Creo que ya veo el problema...
+A02.0005 [Tú] | Parece que aún no sabes usar bien el teclado.
+A02.0006 [Tú] | Prueba a presionar los números.
+A02.0007 [Tú] | ¿Ves los símbolos? Solo elige el que quieras.
+A02.0008 [Firstlight Noya] | ¡!
+A02.0009 [Firstlight Noya] | ¡Lo logré!
+A02.0010 [Tú] | Si quieres enviar un emote, es el mismo método.
+A02.0011 [Firstlight Noya] | ¿Un emote?
+A02.0012 [Firstlight Noya] | Mi emoción actual es la seriedad.
+A02.0013 [Tú] | No me refiero a eso. Me refiero a estos
+A02.0014 [Firstlight Noya] | ¡Identifícate!
+A02.0015 [Firstlight Noya] | ¡Un asesino se ha infiltrado en el aparato!
+A02.0016 [Tú] | ¡Espera! ¡Alto!
+A02.0017 [Tú] | ¡No es un asesino. Es solo una... imagen, una imagen en el teléfono! ¡Expresa mis sentimientos!
+A02.0018 [Firstlight Noya] | Ya veo.
+A02.0019 [Firstlight Noya] | Ya tenía la mano en la empuñadura.
+A02.0020 [Firstlight Noya] | Muy bien. Entonces, ¿qué es exactamente ese emote del que hablábamos?
+A02.0021 [Tú] | Mejor lo dejamos por ahora...
+
+## Conversación A03
+A03.0001 [Firstlight Noya] | Este aparato es bastante conveniente.
+A03.0002 [Firstlight Noya] | Si cada Vigía Nocturno llevara uno, mejoraría drásticamente nuestra comunicación.
+A03.0003 [Firstlight Noya] | Aunque, pensándolo mejor, sí veo un riesgo potencial.
+A03.0004 [Tú] | ¿Cuál es...?
+A03.0005 [Firstlight Noya] | Mirar la pantalla constantemente divide la atención.
+A03.0006 [Firstlight Noya] | La conciencia de lo que te rodea disminuye y te deja vulnerable a los accidentes.
+A03.0007 [Tú] | No te falta razón
+A03.0008 [Tú] | Mucha gente de mi tierra ni siquiera se da cuenta de eso
+A03.0009 [Tú] | Es bastante impresionante que lo hayas notado tan rápido
+A03.0010 [Firstlight Noya] | En realidad, es porque...
+A03.0011 [Firstlight Noya] | Estaba tan concentrada en nuestra conversación que choqué de frente con un árbol.
+A03.0012 [Tú] | Ah. Hablando por experiencia propia
+A03.0013 [Tú] | ¿Estás bien? ¿Te golpeaste la cabeza?
+A03.0014 [Firstlight Noya] | No. El árbol se cayó.
+A03.0015 [Firstlight Noya] | Estoy intentando arreglarlo. Dame un momento.
+A03.0016 [Tú] | Tómate todo el tiempo que necesites...
+
+## Conversación A04
+A04.0001 [Firstlight Noya] | No lo entiendo...
+A04.0002 [Opción] | ¿Qué pasa?
+A04.0003 [Firstlight Noya] | Lulu está haciendo un berrinche. Tiró mi pan preciado.
+A04.0004 [Tú] | Deberías hablar con ella. No puedes tirar comida así nada más
+A04.0005 [Tú] | Espera un segundo
+A04.0006 [Tú] | ¿Pan ... preciado?
+A04.0007 [Firstlight Noya] | Sí. Lo compré en el mercado hace siglos. Olía maravilloso.
+A04.0008 [Firstlight Noya] | Lo estaba guardando para una ocasión especial, así que lo conservé para su cumpleaños de hoy.
+A04.0009 [Tú] | ¡No, no, no!
+A04.0010 [Tú] | ¡El pan se echa a perder! Seguro que Lulu lo tiró porque estaba cubierto de moho
+A04.0011 [Firstlight Noya] | Qué desperdicio. Solo porque tenía moho...
+A04.0012 [Tú] | Alto ahí
+A04.0013 [Tú] | La comida echada a perder va a la basura
+A04.0014 [Tú] | Y antes de que siquiera toques una estufa, tenemos que hablar seriamente sobre las fechas de caducidad
+A04.0015 [Firstlight Noya] | Entendido... No volveré a cometer este error.
+A04.0016 [Firstlight Noya] | En ese caso, la llevaré al mercado ahora mismo a comprar una hogaza fresca.
+A04.0017 [Tú] | Buena decisión. Le va a encantar
+
+## Conversación A05
+A05.0001 [Firstlight Noya] | Últimamente he empezado a leer.
+A05.0002 [Opción] | ¿Tú lees?
+A05.0003 [Opción] | ¿Te preparas para la universidad?
+A05.0004 [Tú] | Nunca te imaginé como ratón de biblioteca
+A05.0005 [Firstlight Noya] | En realidad se parece más a escuchar.
+A05.0006 [Firstlight Noya] | No leo bien, así que Lulu y Elis me explican las cosas.
+A05.0007 [Tú] | ¿De repente decidiste que quieres ir a la universidad?
+A05.0008 [Firstlight Noya] | ¿Qué es una universidad?
+A05.0009 [Tú] | Un lugar donde se reúne un montón de gente sabia
+A05.0010 [Firstlight Noya] | Ya veo. Tú tienes mucho saber, ¿fuiste a una de esas universidades?
+A05.0011 [Tú] | En realidad, yo tampoco fui a la universidad... ¿creo?
+A05.0012 [Tú] | Entonces, ¿qué tipo de libros estás leyendo?
+A05.0013 [Firstlight Noya] | Arquitectura.
+A05.0014 [Tú] | ¡¿Te interesa la arquitectura?!
+A05.0015 [Firstlight Noya] | Es solo un capricho repentino. No pongas esa cara de asombro.
+A05.0016 [Firstlight Noya] | Pronto ayudaré a reconstruir unas casas, así que quise aprender lo básico.
+A05.0017 [Tú] | ¿No solo cargas piedras sino que de verdad ayudas con el rediseño?
+A05.0018 [Firstlight Noya] | Correcto. Quiero que las casas nuevas duren.
+A05.0019 [Firstlight Noya] | Elis tiene una visión más grandiosa. Quiere rediseñar por completo las calles de Filanis.
+A05.0020 [Tú] | Es como si planeara con mil años de anticipación
+A05.0021 [Firstlight Noya] | Otros han dicho lo mismo. Pero ya están haciendo todo lo posible solo para alimentar a sus familias.
+A05.0022 [Firstlight Noya] | Elis cree que su poder la obliga a asumir más responsabilidad.
+A05.0023 [Firstlight Noya] | La admiro por eso.
+A05.0024 [Tú] | La verdad, querer aprender todo esto y ayudar a reconstruir... creo que tú también eres bastante increíble
+A05.0025 [Firstlight Noya] | Gracias. Oír eso me da un segundo aire.
+A05.0026 [Firstlight Noya] | Te veo luego.
+A05.0027 [Tú] | ¡Nos vemos!
+
+## Conversación A06
+A06.0001 [Firstlight Noya] | Tengo una pregunta.
+A06.0002 [Tú] | ¿Cuál es?
+A06.0003 [Firstlight Noya] | Noté una pequeña marca al pie de nuestros mensajes.
+A06.0004 [Firstlight Noya] | Dice Leído.
+A06.0005 [Firstlight Noya] | ¿Tiene el mismo significado que cuando se revisa un documento?
+A06.0006 [Tú] | Más o menos
+A06.0007 [Tú] | Solo te avisa que la otra persona lo vio
+A06.0008 [Firstlight Noya] | Ya veo. En ese sentido, es muy parecido a intercambiar cartas.
+A06.0009 [Firstlight Noya] | Mmm...
+A06.0010 [Firstlight Noya] | Pero también se siente distinto.
+A06.0011 [Firstlight Noya] | Hay una capa adicional de confirmación. Una vez que envías un mensaje, debes esperar a que aparezca esa marca.
+A06.0012 [Firstlight Noya] | No puedo evitar sentir...
+A06.0013 [Firstlight Noya] | que coloca una carga invisible tanto sobre quien envía como sobre quien recibe.
+A06.0014 [Tú] | Vaya, ¿ya descubriste eso?
+A06.0015 [Tú] | ¿Seguro que nunca habías usado un teléfono?
+A06.0016 [Firstlight Noya] | Simplemente me pongo en el lugar de la otra persona.
+A06.0017 [Firstlight Noya] | Conozco gente que escribe cartas. Entiendo las emociones por las que pasan.
+A06.0018 [Firstlight Noya] | Cuanto más larga la espera, más pesada la ansiedad.
+A06.0019 [Firstlight Noya] | Pero recibir una respuesta convierte esa ansiedad en alegría.
+A06.0020 [Tú] | ¿Odias esperar?
+A06.0021 [Firstlight Noya] | Yo...
+A06.0022 [Firstlight Noya] | No diría que odio esperar. Si la espera es inevitable, la soportaré y esperaré con ilusión el momento en que termine.
+A06.0023 [Tú] | Nunca habíamos hablado de cosas así
+A06.0024 [Tú] | Siento que estoy conociendo un lado completamente nuevo de ti
+A06.0025 [Firstlight Noya] | Quizá ese sea el verdadero valor de escribir cartas en un teléfono.
+
+## Conversación A07
+A07.0001 [Firstlight Noya] | Te echo
+A07.0002 [Tú] | ¿Qué pasa?
+A07.0003 [Tú] | ¿Por qué dejaste de escribir?
+A07.0004 [Firstlight Noya] | Disculpa la intromisión...
+A07.0005 [Firstlight Noya] | ¿Hay forma de borrar el texto?
+A07.0006 [Tú] | ¿Borrar?
+A07.0007 [Tú] | Ah, ¿te refieres a anular el envío?
+A07.0008 [Firstlight Noya] | ¿Anular el envío? Quieres decir ... ¿que se puede pedir al texto que regrese?
+A07.0009 [Tú] | No funciona así
+A07.0010 [Tú] | Piénsalo como eliminar un mensaje que enviaste
+A07.0011 [Firstlight Noya] | Ya veo.
+A07.0012 [Firstlight Noya] | ¿Cómo lo hago?
+A07.0013 [Tú] | Lamento decírtelo, pero tu teléfono no tiene esa función
+A07.0014 [Firstlight Noya] | ¿Cómo puede ser...
+A07.0015 [Firstlight Noya] | Entonces esto es distinto a escribir cartas. Es más como hablar.
+A07.0016 [Firstlight Noya] | Las palabras habladas no se pueden retirar. Debo elegir cada palabra con la máxima cautela...
+A07.0017 [Tú] | ¡No es para tanto!
+A07.0018 [Tú] | Escribe lo que se te ocurra
+A07.0019 [Tú] | Si cometes un error o se te olvida algo, simplemente manda otro mensaje
+A07.0020 [Tú] | Tu primer mensaje no parecía un error de dedo, sin embargo
+A07.0021 [Tú] | ¿Le diste a enviar sin querer antes de terminar?
+A07.0022 [Firstlight Noya] | ¡Hoy!
+A07.0023 [Firstlight Noya] | ¡Es!
+A07.0024 [Firstlight Noya] | ¡Un buen día!
+A07.0025 [Firstlight Noya] | ¡Eso es todo lo que quería decirte!
+A07.0026 [Tú] | Claro, claro
+A07.0027 [Tú] | Yo también te extraño, por cierto
+A07.0028 [Firstlight Noya] | ...
+A07.0029 [Firstlight Noya] | Quisiera anular el envío de mis palabras ahora...
+
+## Conversación A08
+A08.0001 [Firstlight Noya] | ¿Tienes bebidas favoritas o recomendaciones?
+A08.0002 [Opción] | Algo dulce
+A08.0003 [Opción] | Algo ácido
+A08.0004 [Opción] | Algo gaseoso
+A08.0005 [Tú] | Yo prefiero los sabores más dulces
+A08.0006 [Firstlight Noya] | Qué sorpresa...
+A08.0007 [Tú] | ¿Qué pasa?
+A08.0008 [Firstlight Noya] | Porque no tenía nada dulce a la mano cuando me visitaste.
+A08.0009 [Firstlight Noya] | Y no te quejaste en absoluto.
+A08.0010 [Tú] | Son dos cosas distintas
+A08.0011 [Tú] | Yo prefiero las cosas más bien ácidas
+A08.0012 [Firstlight Noya] | Impresionante...
+A08.0013 [Tú] | ¿Por qué dices eso?
+A08.0014 [Firstlight Noya] | Me imagino que quien bebe cosas ácidas debe de ser bastante duro.
+A08.0015 [Firstlight Noya] | He conocido nobles de todo tipo de gustos, pero muy pocos aguantan lo ácido.
+A08.0016 [Tú] | ¿Alguna vez lo has probado tú?
+A08.0017 [Firstlight Noya] | Sí. Compré un vaso en el mercado por recomendación de Lulu.
+A08.0018 [Firstlight Noya] | Dijo que solo con la cara que puse tenía para reírse todo el día.
+A08.0019 [Tú] | Ahora me dan ganas de verlo
+A08.0020 [Firstlight Noya] | Por favor, no te burles de mí...
+A08.0021 [Tú] | Yo prefiero las bebidas gaseosas
+A08.0022 [Firstlight Noya] | ¿Qué son esas?
+A08.0023 [Tú] | Son bebidas agridulces con mucho gas. Te hacen cosquillas en la boca al beberlas
+A08.0024 [Firstlight Noya] | ¿Es una bebida de tu tierra? Siento bastante curiosidad.
+A08.0025 [Firstlight Noya] | Pero me disculpo, no encuentro nada similar por aquí.
+A08.0026 [Tú] | Solo lo mencionaba por mencionarlo
+A08.0027 [Tú] | Entonces, ¿a qué viene la pregunta repentina sobre bebidas?
+A08.0028 [Firstlight Noya] | Parece que hoy es mi cumpleaños. Desde el amanecer me han estado enviando fruta.
+A08.0029 [Firstlight Noya] | Pensaba preparar jugo fresco.
+A08.0030 [Tú] | Oh, ¿hoy también es tu cumpleaños?
+A08.0031 [Firstlight Noya] | ¿Qué quieres decir con «también»?
+A08.0032 [Tú] | Una amiga mía cumple exactamente el mismo día.
+A08.0033 [Tú] | Se pondría encantada de saber que lo comparte con una capitana de los caballeros.
+A08.0034 [Firstlight Noya] | El honor sería mío.
+A08.0035 [Firstlight Noya] | Por favor, felicítala de mi parte.
+A08.0036 [Tú] | ¡Feliz cumpleaños a ti también!
+
+## Conversación A09
+A09.0001 [Firstlight Noya] | Terminé el combate de práctica de hoy. Siento que he mejorado desde la última vez.
+A09.0002 [Tú] | ¿Cómo entrenas normalmente, por cierto?
+A09.0003 [Tú] | ¿Con muñecos de madera? ¿O con compañeros de tu nivel?
+A09.0004 [Firstlight Noya] | Con ambos. Pero, para ser más exacta, combato contra enemigos imaginarios en mi mente.
+A09.0005 [Tú] | ¿Quién califica como enemigo imaginario?
+A09.0006 [Firstlight Noya] | ...
+A09.0007 [Firstlight Noya] | Fantasmas de mi pasado.
+A09.0008 [Tú] | Oh...
+A09.0009 [Tú] | Perdón, no quise abrir viejas heridas...
+A09.0010 [Firstlight Noya] | No te disculpes. No me refería a eso...
+A09.0011 [Firstlight Noya] | Arruiné el ambiente. Lo siento.
+A09.0012 [Firstlight Noya] | En realidad me refería a los títeres a los que me enfrenté en la Gran Arena.
+A09.0013 [Firstlight Noya] | Eran poderosos y podían imitar mis movimientos a la perfección. Por eso respondí «ambos».
+A09.0014 [Firstlight Noya] | Pero como jamás volverán a aparecer, solo puedo combatirlos en mi mente.
+A09.0015 [Tú] | ¿No hay otros Vigías Nocturnos que puedan practicar contigo?
+A09.0016 [Firstlight Noya] | Algunos tienen talento natural y aprenden rápido.
+A09.0017 [Firstlight Noya] | Pero cruzar espadas con ellos se convierte simplemente en una lección unilateral.
+A09.0018 [Firstlight Noya] | Aunque me encanta verlos crecer, si he de proteger a todos, debo entrenar contra oponentes mucho más fuertes que yo.
+A09.0019 [Tú] | ¡Hablas como una verdadera capitana de los caballeros!
+A09.0020 [Firstlight Noya] | Me halagas. Tras oír tus historias, sé que tu camino tampoco ha sido nada fácil.
+A09.0021 [Firstlight Noya] | A menudo, los enemigos que enfrentas no pueden ser derrotados solo con una espada.
+A09.0022 [Tú] | Alguien de mi equipo dijo exactamente lo mismo. Pero tener a esa gente a mi lado es la única razón por la que puedo plantarme ante mis enemigos.
+A09.0023 [Firstlight Noya] | Compañeros... Suena maravilloso.
+A09.0024 [Tú] | Tú también eres parte de mi equipo
+A09.0025 [Firstlight Noya] | Me siento profundamente honrada.
+
+## Conversación A10
+A10.0001 [Firstlight Noya] | Permíteme preguntar, ¿qué es exactamente un Disco Rúnico?
+A10.0002 [Tú] | Puedes pensar en él como un disco que guarda recuerdos
+A10.0003 [Tú] | Si lo manipulas, hasta reproduce una melodía especial
+A10.0004 [Firstlight Noya] | Entonces, ¿por qué mi retrato aparece en este?
+A10.0005 [Tú] | Porque es un recuerdo tuyo
+A10.0006 [Tú] | ¿Recuerdas qué hacías ahí?
+A10.0007 [Firstlight Noya] | Tengo ... recuerdos tenues de eso.
+A10.0008 [Firstlight Noya] | Estaba perdida en esa época, así que fui al lago sola.
+A10.0009 [Firstlight Noya] | Luego simplemente blandí mi espada hasta que ya no pude más.
+A10.0010 [Tú] | Eso es muy tuyo
+A10.0011 [Firstlight Noya] | Pero por alguna razón, hablar contigo hizo que esa sensación de estar perdida se desvaneciera.
+A10.0012 [Tú] | Mmm...
+A10.0013 [Tú] | Los recuerdos siempre son un poco borrosos
+A10.0014 [Tú] | ¡Me alegra que hayas encontrado de nuevo tu camino!
+A10.0015 [Firstlight Noya] | Sí. Y seguiré protegiéndote con esta espada, como siempre lo he hecho.

@@ -1,0 +1,108 @@
+# Nova Times #11 · Deslizándose en la luz del sol · 1 · Slipping into Sunlight (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Elegant Lady | Dama elegante
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Deslizándose en la luz del sol (Parte I)
+0003 [Intro] | Donna, que siempre ha defendido el trabajo en equipo, últimamente ha estado evitando a todos y actuando por su cuenta. ¿Será que Post Haste enfrenta una crisis demasiado peligrosa como para hablar de ella?
+0004 [???] | ... Las ganancias de hoy, el sueldo de mi trabajito extra, más las propinas de esos mandados...
+0005 [???] | Ugh, todavía estoy lejísimos de la meta.
+0006 [???] | Voy a tardar una eternidad en ahorrar lo suficiente...
+0007 [???] | Si tan solo las Dorras se multiplicaran solas...
+0008 [Freesia] | ¿Donna? ¿Sigues despierta?
+0009 [Donna] | ¿¡Iik!? ¿¡Freesia!?
+0010 [Donna] | ¡Perdón! Solo estaba revisando algo rapidito. ¿Te desperté?
+0011 [Freesia] | ¿Te escuché mencionar las «Dorras»? ¿Andamos cortas de fondos este mes?
+0012 [Donna] | No, no, no es eso. No te preocupes.
+0013 [Donna] | En fin, baja la voz. Si seguimos hablando, también despertaremos a Teresa...
+0014 [Donna] | Me voy a dormir. ¡Buenas nochecitas!
+0015 [Freesia] | ... Claro. Buenas noches.
+0016 [Donna] | ¡Nos vemos!
+0017 [Teresa] | ¿¡Donna!? ¿¡Otra vez te vas tan temprano!?
+0018 [Donna] | ¡Sí, hoy tengo una montaña de cartas que repartir!==W== ¡Les dejé el desayuno en la mesa!
+0019 [Donna] | ¡Ah, y voy a regresar bastante tarde, así que cenen sin mí!
+0020 [Teresa] | ¿Por qué? Ya te vas muy temprano...
+0021 [Teresa] | Donna... ¿Está pasando algo últimamente? ¡Sabes que podemos ayudarte!
+0022 [Donna] | ¿Eh?==W== ¡Solo quiero adelantarme y despachar unas entregas, nada más!
+0023 [Donna] | ¡Me voy corriendo! ¡No olviden despertar a Freesia!
+0024 [Teresa] | ¡Lo presiento! Donna definitivamente nos está ocultando algún secreto...
+0025 [Freesia] | Temo que puedas tener razón...==W== Pero ¿qué podría ser?
+0026 [Teresa] | ¿Tienes alguna pista?
+0027 [Freesia] | Mmm...
+0028 [Freesia] | Recuerdo haberla oído murmurar hace un mes sobre quedarse sin Dorras...
+0029 [Teresa] | ¿¡Quedarse sin Dorras!?==W== ¡Uy! ¿¡Estamos en números rojos!? ¿¡Post Haste se va a hundir!?
+0030 [Freesia] | No tengo las cifras exactas... Pero considerando lo costosos que son los viajes largos y lo modestas que son nuestras tarifas...==W== ¿Habremos estado operando con pérdidas todo este tiempo?
+0031 [Teresa] | ¿Q-qué vamos a hacer?
+0032 [Teresa] | ¿Eso significa que...==W== Donna anda por ahí esforzándose sola para salvar a Post Haste de la ruina financiera?
+0033 [Teresa] | ¡Eso me recuerda! El mes pasado un cliente dijo algo extraño...
+0034 [Elegant Lady] | ¿Se especializan exclusivamente en servicios de mensajería?==W== Mmm. El modelo de negocio en realidad tiene potencial.
+0035 [Elegant Lady] | Sin embargo, su flujo de efectivo parece estancado. Y con una plantilla de solo tres personas...
+0036 [Elegant Lady] | Le propongo algo. Permítame adquirir su operación. Traeré a un equipo profesional y nos expandiremos a otras ciudades...
+0037 [Donna] | Mmm... ¡Gracias, pero no, gracias! ¡Post Haste no busca una fusión por ahora!
+0038 [Elegant Lady] | Qué lástima... Contácteme si cambia de opinión.
+0039 [Freesia] | ¿Qué...? No tenía idea de que ocurriera un intercambio así...
+0040 [Teresa] | Ay, no... Si nos compran, ¿nos obligarán a separarnos?
+0041 [Freesia] | Eso no pasará. Confío en Donna.
+0042 [Freesia] | Además, justo estábamos hablando de cómo viajar de forma eficiente con poco presupuesto...==W== Post Haste no va a ninguna parte. Simplemente no.
+0043 [Teresa] | Entonces, ¿qué nos oculta...?==W== ¡Argh! ¡El suspenso me está matando!
+0044 [Teresa] | ¡Hace siglos que no comemos juntas! Si esto sigue así, el equipo podría separarse para siempre...
+0045 [Freesia] | En ese caso, deberíamos investigar el asunto nosotras mismas.
+0046 [Teresa] | ¿Investigar ... qué?
+0047 [Freesia] | Lo que sea que Donna esté ocultando, naturalmente.
+0048 [Teresa] | ¿Te refieres a ...==W== seguirla?
+0049 [Freesia] | Precisamente.
+0050 [Teresa] | Se siente como jugar a los detectives...==W== ¿Y si nos descubren?
+0051 [Freesia] | No tenemos otra opción...==W== ¿A menos que tengas una solución más eficiente?
+0052 [Teresa] | Bueno, está bien. Es por el bien de Post Haste... Cuenta conmigo.
+0053 [Narración] | Al día siguiente...
+0054 [Donna] | ¡Buenos días! Guau, Freesia. No es común verte levantada a esta hora.
+0055 [Freesia] | Simplemente me desperté temprano hoy... No le des importancia.
+0056 [Freesia] | ¿Ya te vas?
+0057 [Donna] | ¡Sí! El desayuno está en la mesa. No me esperen para comer ni para cenar, ¿sí? ¡Me voy!
+0058 [Freesia] | Buen viaje.
+0059 [Freesia] | ...
+0060 [Freesia] | Teresa, asegura el desayuno.
+0061 [Teresa] | ¡Entendido! ¡Operación: Seguir a Donna en marcha!
+0062 [Donna] | ¡Mm-mm! ¡Mm-mm-mm! ♪
+0063 [Freesia] | Qué raro... La mañana casi termina y no ha hecho más que entregas.
+0064 [Freesia] | Salir tan temprano... ¿Mi ineficiencia la está arrastrando hacia abajo?==W== ¿Está cargando en silencio con trabajo extra para cubrirme?
+0065 [Teresa] | ¡Espera! ¡Se mueve demasiado rápido! ¡Hoy ni siquiera tuvimos tantos encargos! A este paso, terminará antes del mediodía.
+0066 [Freesia] | ¿Quieres decir ... que se apresura para despejar su agenda y hacer otra cosa esta tarde?
+0067 [Teresa] | ¡Bingo! ¡Sigámosla!
+0068 [Teresa] | Ay, no. ¿La perdimos?
+0069 [Freesia] | Habría jurado que la vi venir por aquí...
+0070 [Freesia] | ¡Ah, allá!
+0071 [Freesia] | ¿Eso son ...==W== periódicos? ¿Desde cuándo aceptamos encargos de reparto de periódicos?
+0072 [Teresa] | ¡Freesia, mira cómo corre!
+0073 [Teresa] | Típico de Donna... ¡Cargando esa pila enorme y aun así corre como el viento! ¡Y no falla ni un solo lanzamiento!
+0074 [Freesia] | Teresa, deja de mirar embobada o de verdad la perderemos.
+0075 [Freesia] | Ahora el mercado...==W== Lógicamente, hoy no debería tener compras que hacer.
+0076 [Teresa] | ¿No crees que esconda algún tipo de ...==W== trato en un callejón?
+0077 [Freesia] | Imposible. Donna jamás—
+0078 [Teresa] | ¡Freesia, mira! Está haciendo contacto con alguien...
+0079 [Teresa] | ¿Otra entrega? Ay, por dios, ¿y si está contrabandeando algo peligroso...?
+0080 [Freesia] | Si veo algo sospechoso, intervendré. Quizá estemos en la ruina, pero no permitiré que Donna se meta en nada ilegal.
+0081 [Teresa] | Espera. ¿Eso son ...==W== botellas de leche en su canasta?
+0082 [Teresa] | Solo está repartiendo leche de puerta en puerta...==W== Eh, ¿Freesia? ¿Por qué sacaste tu hacha?
+0083 [Freesia] | Ejem. Al parecer ... calculé mal.
+0084 [Donna] | Uf... ¡Pedido completo!==W== Siguiente parada de la lista...
+0085 [Teresa] | Freesia, parece que se está moviendo otra vez.
+0086 [Teresa] | ... Ha estado por todas partes, pero definitivamente hay un patrón...
+0087 [Freesia] | Trabajos varios. Solo está haciendo trabajos varios...==W== Haciendo malabares con múltiples turnos a nuestras espaldas.
+0088 [Freesia] | Suspiro... ¿La crisis financiera de Post Haste es de verdad tan grave? Donna debe de estar trabajando en secreto para que no nos preocupemos...
+0089 [Teresa] | ¡Nos trata como a perfectas desconocidas! ¡Tenemos que hablar seriamente cuando regrese!
+0090 [Freesia] | Paciencia. Lo ha mantenido oculto por una razón. Si la confrontamos de forma precipitada, solo nos despachará con alguna excusa.
+0091 [Freesia] | Necesitamos pruebas contundentes ... o algo con lo que obligarla a confesar. Eso nos pondrá en una mejor posición de negociación.
+0092 [Teresa] | ¡Buena idea! Sigamos tu plan.
+0093 [Teresa] | ¡Entonces está decidido! Mañana,==W== ¡la investigación continúa!
+0094 [Narración] | Y así... la misión ultrasecreta de Post Haste—
+0095 [Narración] | Operación: Seguir a Donna—comienza oficialmente.

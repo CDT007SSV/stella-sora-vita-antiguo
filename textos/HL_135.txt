@@ -1,0 +1,319 @@
+# Heartlink de Mistique: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Mistique] | ¡¡Holaaaa!! ¡Aquí Mistique en la línea EXCLUSIVA!
+A01.0002 [Mistique] | ¿Tienes algún chisme caliente? ¡Dímelo PRIMERO a mí!
+A01.0003 [Tú] | ¡POR SUPUESTO!
+
+## Conversación A02
+A02.0001 [Mistique] | ¿estás libre?
+A02.0002 [Mistique] | ¿¿estás libre?? ¿libre? ¿libre? ¿libre? ¿¿¿HOLAAAA???
+A02.0003 [Opción] | Deja de spamear
+A02.0004 [Opción] | ¿Cuál es la emergencia?
+A02.0005 [Opción] | trabajo trabajo trabajo trabajo trabajo trabajo
+A02.0006 [Mistique] | ¡Por fin! ¡Tengo NOTICIÓN!
+A02.0007 [Mistique] | Nah, no hay emergencia, ¡solo NOTICIÓN!
+A02.0008 [Mistique] | ¡¡¡NOTICIÓN NOTICIÓN NOTICIÓN!!!
+A02.0009 [Mistique] | ¡Un Trekker vio fantasmas de «gente que conoce» dentro del Monolito!
+A02.0010 [Mistique] | ¡Lo que significa que podría toparme con OTRA YO!
+A02.0011 [Mistique] | ¡¡Llévame contigo!! Ya debes conocer el Monolito de arriba abajo, ¿no?
+A02.0012 [Opción] | Eh, apenas estoy empezando en esto...
+A02.0013 [Opción] | Nuestro gremio acaba de empezar...
+A02.0014 [Opción] | TÚ deberías llevar la batuta
+A02.0015 [Mistique] | ¡Genial! Pero no olvides invitarme a tu próxima aventura, ¿sí?
+
+## Conversación A03
+A03.0001 [Mistique] | ¡Cuento contigo para la entrevista de hoy!
+A03.0002 [Mistique] | Respóndeme aquí mismo por mensaje, ¿vale? jeje
+A03.0003 [Opción] | ¿Cuál es la pregunta?
+A03.0004 [Opción] | Eh, ¿¿cuándo acepté esto??
+A03.0005 [Opción] | Lo sentimos, no pudimos entregar tu mensaje.
+A03.0006 [Mistique] | ¡Uy, no hace falta tanta formalidad!
+A03.0007 [Mistique] | ¡Ya puedes decir que sí!
+A03.0008 [Mistique] | ¡Je! Buen intento, ¡pero no te escondes de mis fuentes!
+A03.0009 [Mistique] | Bueno, ahí va. Dime, Jefe:
+A03.0010 [Mistique] | ¿Qué te motivó exactamente a convertirte en el Jefe del Pacto del Tirano?
+A03.0011 [Mistique] | ¿No quieres hablar de eso?
+A03.0012 [Opción] | ¡Para proteger a más Trekkers!
+A03.0013 [Opción] | ¡Para ganar más dinero!
+A03.0014 [Opción] | ¡Para conocer a más chicas lindas!
+A03.0015 [Mistique] | Uf, qué... respuesta tan seria
+A03.0016 [Mistique] | Se pone un poco incómodo. La gente de hoy quiere sazón, no heroísmos sencillos...
+A03.0017 [Mistique] | Ooooh, ya entiendo. O sea que el Jefe necesita fondos tanto como seguidores...
+A03.0018 [Mistique] | ¡Suena a conspiración jugosa! ¡Va a ser un titular enorme!
+A03.0019 [Mistique] | ¡JADEO! ¡ALERTA DE ESCÁNDALO! ¡Así que ESA es la VERDADERA razón por la que tantas chicas se reúnen bajo el Pacto del Tirano!
+A03.0020 [Mistique] | ¡¡Oye!! ¡Vamos, estoy tratando de hacer una entrevista seria! ¡Las noticias necesitan HECHOS!
+A03.0021 [Tú] | Es algo complicado. Difícil de explicar por mensaje.
+A03.0022 [Mistique] | Tienes razón. Creo que necesito más que una charla rápida para escribir una gran historia...
+A03.0023 [Mistique] | En fin, ¡gracias! ¡Nos vemos en la próxima entrevista!
+A03.0024 [Mistique] | ¡La próxima vez te pago por la entrevista!
+
+## Conversación A04
+A04.0001 [Mistique] | ¿¿Holaaaaa??
+A04.0002 [Mistique] | ¿Hay alguien ahí?
+A04.0003 [Opción] | ¿Qué pasa esta vez?
+A04.0004 [Opción] | ¿Ya me extrañas?
+A04.0005 [Opción] | ¿¿Holaaaaa??
+A04.0006 [Mistique] | ¡Qué bien! Espera, no, en realidad es horrible.
+A04.0007 [Mistique] | Ugh, creo que ya no puedo terminar esta historia
+A04.0008 [Tú] | ¿Qué pasa?
+A04.0009 [Mistique] | La víctima no quiere que digan su nombre y el sospechoso sigue suelto
+A04.0010 [Mistique] | Hasta la Guardia no avanza nada. ¿De qué sirve lo que escriba? Solo soy una bruja con una pluma.
+A04.0011 [Mistique] | Me hace dudar de si todo esto vale la pena...
+A04.0012 [Opción] | Una bruja saca la verdad a la luz
+A04.0013 [Opción] | Una bruja siempre ayuda a la gente
+A04.0014 [Opción] | Una bruja crea drama
+A04.0015 [Mistique] | ¡Uy, ¿tan bien piensas de mí?!
+A04.0016 [Mistique] | ¡No sé si merezco un título tan noble todavía!
+A04.0017 [Mistique] | ¡Pues sí, jeje, es un extra!
+A04.0018 [Mistique] | ¡Todos merecen saber lo que realmente pasa!
+A04.0019 [Mistique] | JAJAJAJAJA
+A04.0020 [Mistique] | ¡No inventamos el drama, solo lo servimos bien calientito!
+A04.0021 [Mistique] | ¡Gracias!
+A04.0022 [Mistique] | En serio, charlar contigo me hizo sentir mucho mejor
+A04.0023 [Mistique] | ¡Una bruja no se deja asustar por un poco de problemas!
+
+## Conversación A05
+A05.0001 [Mistique] | ¡¡Holaaaa!! ¡Jefe! ¿Qué haces?
+A05.0002 [Opción] | Dándole duro por aquí.
+A05.0003 [Opción] | Ganando mucho dinero
+A05.0004 [Opción] | Intentando echarme un sueñito
+A05.0005 [Mistique] | ¡Qué trabajador! ¡Me encanta!
+A05.0006 [Mistique] | Oye, ¿pasas por aquí más tarde? ¡Tengo fotos nuevas que enseñarte!
+A05.0007 [Opción] | ¡Ya quiero ver tu obra maestra!
+A05.0008 [Opción] | No serán solo selfies, ¿verdad...?
+A05.0009 [Opción] | ¿Son para mí?
+A05.0010 [Mistique] | ¡Por fin alguien con buen gusto! ¡Ahora te mostraré todas mis fotos primero a ti!
+A05.0011 [Mistique] | ¡No soy tan vanidosa, ¿vale?!
+A05.0012 [Mistique] | Bueno... ¡vale, quizá sí! ¡Pero déjame imprimir más copias primero!
+A05.0013 [Mistique] | ¡Luego paso por ti en mi escoba!
+A05.0014 [Mistique] | Sé que estás hasta el cuello, pero cuídate, ¿sí?
+
+## Conversación A06
+A06.0001 [Mistique] | Entoncesss... ¿es verdad que te sacaron del Monolito excavando?
+A06.0002 [Opción] | Sí... todavía intento entender esa parte yo mismo
+A06.0003 [Opción] | Sip. Qué locura, ¿verdad?
+A06.0004 [Opción] | ¡Falso! En realidad caí del cielo como una estrella.
+A06.0005 [Mistique] | Ah, la pérdida de memoria... Es casi un artículo del kit básico de Trekker.
+A06.0006 [Mistique] | ¡Una locura total! ¡Eso es oro puro para un titular!
+A06.0007 [Mistique] | Jaja, ¿o sea que montas escoba como yo?
+A06.0008 [Mistique] | ¡EL LEGENDARIO VIAJE DEL JEFE: ENTREVISTA EXCLUSIVA!
+A06.0009 [Mistique] | Me encanta el titular... pero ¿por dónde empiezo...
+A06.0010 [Mistique] | ¡Vamos, llevo mucho tiempo siendo tu fan leal! ¡Al menos dame esta exclusiva!
+A06.0011 [Opción] | ¿No es un titular algo dramático?
+A06.0012 [Opción] | ¡Asegúrate de que el pago de la entrevista llegue a mi cuenta!
+A06.0013 [Opción] | ¡Eso me duele! ¡Creí que nuestra amistad iba más allá!
+A06.0014 [Mistique] | Jejejeje... no puedes huir...
+A06.0015 [Mistique] | Te voy a mantener justo donde quiero...
+A06.0016 [Mistique] | ¡¡¡Y desenterraré pooooco a poco TODOS tus secretos!!! ¡Muajaja!
+A06.0017 [Mistique] | ¡Me voy a incrustar en tu vida, a desenterrar tu pasado y a ESTAR ahí en cada giro de trama futuro!
+A06.0018 [Tú] | ¡Mucha suerte con eso!
+A06.0019 [Mistique] | ¡No creas que te lo pondré fácil!
+A06.0020 [Mistique] | En serio, si pasa algo grande, ¡no dejes que la exclusiva ocurra sin mí!
+
+## Conversación A07
+A07.0001 [Mistique] | ¡Ya no aguanto este trabajo!
+A07.0002 [Tú] | ¿Qué pasa?
+A07.0003 [Mistique] | ¿¿¿Por qué siempre me pierdo las grandes noticias???
+A07.0004 [Mistique] | ¡Mientras tanto, tú eres material de titular a donde vayas!
+A07.0005 [Opción] | ¡Las noticias no caen del cielo!
+A07.0006 [Opción] | Tú podrías SER la noticia
+A07.0007 [Opción] | Entonces quédate conmigo
+A07.0008 [Mistique] | Es verdad... Si simplemente sigo tus pasos...
+A07.0009 [Mistique] | ¿Me prometes que no te vas a hartar de mí, eh?
+A07.0010 [Mistique] | O sea, tu reportera bruja oficial en el lugar...
+A07.0011 [Mistique] | Una bruja, justo en medio de la acción...
+A07.0012 [Mistique] | La Bruja y el Jefe...
+A07.0013 [Mistique] | ¡Hmph! Yo siempre te cuento todos los chismes. ¡¿Dónde están los tuyos?!
+A07.0014 [Opción] | Mi historia no es lo bastante jugosa
+A07.0015 [Opción] | Aún no me animo a compartirla
+A07.0016 [Opción] | El misterio es parte de mi encanto
+A07.0017 [Mistique] | ¡ÚLTIMA HORA: Brillante Bruja Derrotada por Jefe de Lengua de Plata!
+A07.0018 [Mistique] | ¡Lo Dio Todo, Pero Sigue Sin Exclusiva!
+A07.0019 [Mistique] | Pero yo juego a largo plazo.
+A07.0020 [Mistique] | Puedo esperar hasta el día en que lo cuentes todo...
+
+## Conversación A08
+
+## Conversación A09
+A09.0001 [Mistique] | ¡Ojojojo! ¡Esta bruja está subiendo de nivel últimamente!
+A09.0002 [Mistique] | ¡Desde que nos juntamos, todo ha ido mucho mejor!
+A09.0003 [Opción] | ¡Hay que tratar con respeto a esta bruja de primer nivel!
+A09.0004 [Opción] | ¡Eres mi fiel cómplice!
+A09.0005 [Opción] | Mi vida depende de ti
+A09.0006 [Mistique] | La legendaria Bruja y el fabuloso Jefe... jejeje
+A09.0007 [Mistique] | ¡Nunca pensé que la reportera que persigue noticias acabaría siendo la noticia!
+A09.0008 [Mistique] | ¡Busquemos más caos en el que meternos!
+A09.0009 [Mistique] | ¡A dejar huella en este mundo!
+
+## Conversación A10
+A10.0001 [Mistique] | Mis sueños... los sueños de una bruja
+A10.0002 [Mistique] | Están llenos de sabores maravillosos.
+A10.0003 [Mistique] | Lanterna, Pumpka... A veces desearía que esta bruja tuviera más magia...
+A10.0004 [Opción] | ¿Tu magia no es ya bastante fuerte?
+A10.0005 [Opción] | ¿Qué plan descabellado estás cocinando?
+A10.0006 [Opción] | Creer lo hace realidad
+A10.0007 [Mistique] | ¡¿Bromeas?! ¡Es puro espectáculo! Necesito muuucho más...
+A10.0008 [Mistique] | Jejeje, imagina que tuviera el poder de hacer milagros de verdad...
+A10.0009 [Mistique] | ¡¿En serio?! ¡¿La magia se consigue así de fácil?!
+A10.0010 [Mistique] | Hipotéticamente, si algún día me convirtiera en una gran villana, ¿vendrías a cazarme?
+A10.0011 [Mistique] | Solo tengo curiosidad. Jejejejeje
+A10.0012 [Mistique] | ¡Ser bruja significa que todo es posible!
+
+## Conversación B01
+B01.0001 [Mistique] | ¡¡¡AHHH!!!
+B01.0002 [Mistique] | ¡¡¡Jefe!!! ¡Me estoy muriendo aquí!
+B01.0003 [Opción] | ¿Qué te tiene tan agotada?
+B01.0004 [Opción] | Míralo por el lado bueno
+B01.0005 [Tú] | Míralo por el lado bueno.
+B01.0006 [Tú] | Si te desplomas en el trabajo, la indemnización por accidente laboral será enorme.
+B01.0007 [Mistique] | Vaya. ¿Tan sin corazón?
+B01.0008 [Mistique] | ¡Soy una bruja dedicada a LA VERDAD!
+B01.0009 [Mistique] | ¡Si muero, será una pérdida enorme para todo Nova!
+B01.0010 [Tú] | Jajaja
+B01.0011 [Tú] | Es broma.
+B01.0012 [Tú] | Pero en serio, ¿en qué estás trabajando?
+B01.0013 [Mistique] | Ese reportaje de investigación sobre las Chicas Mágicas clandestinas
+B01.0014 [Mistique] | La empresa quiere «optimizar nuestra estrategia de promoción» para ese sector
+B01.0015 [Mistique] | Así que, claro, me echaron toda la investigación encima
+B01.0016 [Mistique] | No solo tengo que hacer las visitas de campo
+B01.0017 [Mistique] | También tengo que pasar las noches en vela redactándolo
+B01.0018 [Tú] | Uf. Qué difícil.
+B01.0019 [Mistique] | Ni me lo digas...
+B01.0020 [Tú] | ¡Ánimo!
+B01.0021 [Tú] | ¡Cuando termines, vamos por unos tragos!
+B01.0022 [Mistique] | ¡¡¡Siiií!!!
+
+## Conversación B02
+B02.0001 [Mistique] | Estoy pensando en cambiar mi Capturador de Fotos
+B02.0002 [Tú] | ¿Qué pasa?
+B02.0003 [Tú] | ¿El que tienes te da problemas?
+B02.0004 [Mistique] | Nop
+B02.0005 [Mistique] | Es que vi el modelo más nuevo en la tienda
+B02.0006 [Mistique] | Se ve mucho más pequeño y tiene un montón más de funciones
+B02.0007 [Tú] | ¿Pero...?
+B02.0008 [Mistique] | ¡Cuesta una fortuna!
+B02.0009 [Mistique] | Son como seis meses de mis honorarios de escritura. Tendría que pasar hambre para poder pagarlo
+B02.0010 [Tú] | Podrías ir al Monolito y pedir uno nuevo como deseo
+B02.0011 [Mistique] | ¿Y si el que pido sale peor que el que tengo?
+B02.0012 [Mistique] | La verdad, ahora que miro el viejo
+B02.0013 [Mistique] | No es que esté inservible
+B02.0014 [Mistique] | Todavía funciona muy bien
+B02.0015 [Tú] | No caigas en la trampa del consumismo.
+B02.0016 [Mistique] | ¡Tienes razón!
+B02.0017 [Mistique] | Lo dejo pasar
+
+## Conversación B03
+B03.0001 [Mistique] | ¡Oye, Jefe!
+B03.0002 [Mistique] | ¿Dónde estás?
+B03.0003 [Opción] | ¿Por qué?
+B03.0004 [Opción] | Dentro de Loxy
+B03.0005 [Tú] | Dentro de Loxy.
+B03.0006 [Mistique] | ¿Notas algo raro en la calle Sur del Distrito de las Cenizas? ¿Como que hay demasiada gente?
+B03.0007 [Tú] | ¿Quizá?
+B03.0008 [Tú] | Sí veo una multitud yendo para allá.
+B03.0009 [Mistique] | Síguelos. Ya
+B03.0010 [Mistique] | Averigua qué está pasando
+B03.0011 [Mistique] | Infórmame en cuanto lo sepas
+B03.0012 [Tú] | ¿No debería encargarse de esto una bruja estrella?
+B03.0013 [Mistique] | Ugh, estoy encubierta en una fábrica
+B03.0014 [Mistique] | Atrapada aquí, me temo
+B03.0015 [Mistique] | ¿Me haces este favor, porfa?
+B03.0016 [Mistique] | Y toma unas fotos ya que estás
+B03.0017 [Mistique] | ¡Eres lo máximo, Jefe!
+B03.0018 [Mistique] | ¡La cena va por mi cuenta!
+
+## Conversación B04
+B04.0001 [Mistique] | Jejeje
+B04.0002 [Mistique] | Jejeje
+B04.0003 [Mistique] | Jejeje
+B04.0004 [Opción] | ¿Por qué te ríes por lo bajo?
+B04.0005 [Opción] | Jejeje
+B04.0006 [Mistique] | Nada, olvídalo.
+B04.0007 [Mistique] | Es que...
+B04.0008 [Mistique] | No te vas a reír por mucho tiempo
+B04.0009 [Tú] | ¿?
+B04.0010 [Mistique] | ¡ÚLTIMA HORA!
+B04.0011 [Mistique] | ¡Sorprenden tirando basura frente a la sede de Cosecha Unida a quien dirige Boss Accord!
+B04.0012 [Tú] | ¿?
+B04.0013 [Tú] | ¿Quién lo dice?
+B04.0014 [Tú] | ¡Yo no hice eso!
+B04.0015 [Tú] | ¡Las noticias deben basarse en hechos!
+B04.0016 [Tú] | ¡No puedes inventar cosas así nada más!
+B04.0017 [Mistique] | Pero sí lo hiciste, ¿no?
+B04.0018 [Mistique] | ¡Hasta tengo fotos!
+B04.0019 [Mistique] | ¿Quieres verlas?
+B04.0020 [Tú] | ¿?
+B04.0021 [Tú] | ¡Yo no!
+B04.0022 [Mistique] | ¿En serio?
+B04.0023 [Mistique] | Intenta recordar
+B04.0024 [Tú] | Está bien, tiré una lata.
+B04.0025 [Tú] | ¡Pero cayó en el bote!
+B04.0026 [Mistique] | ¿Estás reeeeeeal seguro?
+B04.0027 [Tú] | ...
+B04.0028 [Tú] | Fallé la primera vez.
+B04.0029 [Tú] | ¡Pero la recogí y la metí en el bote!
+B04.0030 [Mistique] | ¿Ves? ¿Tan difícil era?
+B04.0031 [Tú] | ¡Eso es sacarlo totalmente de contexto!
+B04.0032 [Mistique] | ¿A quién le importa el contexto una vez que la historia sale?
+B04.0033 [Tú] | Espera.
+B04.0034 [Tú] | ¡Me estabas siguiendo otra vez!
+B04.0035 [Mistique] | Yo no fui
+B04.0036 [Mistique] | Recibí el aviso de una ciudadana preocupada
+B04.0037 [Tú] | Ese día no había nadie más en Cosecha Unida.
+B04.0038 [Tú] | ¡¿Qué ciudadana?!
+B04.0039 [Mistique] | Jaja, es broma
+B04.0040 [Mistique] | Vale, sí te seguí. Pero no tomé ninguna foto
+B04.0041 [Mistique] | Aun así, para ser CEO, no manejas muy bien la mala prensa
+B04.0042 [Mistique] | Deberías contratarme como tu asesora personal de relaciones públicas
+B04.0043 [Tú] | ¿No eres tú la fuente de toda mi mala prensa?
+
+## Conversación B05
+B05.0001 [Mistique] | ¿Algún chisme jugoso últimamente, Jefe?
+B05.0002 [Opción] | Ah, sí, un montón
+B05.0003 [Opción] | ¿Para qué?
+B05.0004 [Opción] | Nada
+B05.0005 [Tú] | Ah, sí, un montón.
+B05.0006 [Mistique] | ¡Cuéntame! ¡Cuéntame!
+B05.0007 [Mistique] | Déjame ver si vale la pena publicarlo
+B05.0008 [Tú] | Son solo trivialidades aburridas del día a día. ¿A quién le interesaría leer eso?
+B05.0009 [Mistique] | Déjame ver si vale la pena publicarlo
+B05.0010 [Tú] | Aquí no hay nada digno de noticia.
+B05.0011 [Tú] | Nada.
+B05.0012 [Mistique] | ¿En serio? ¿Nada de nada?
+B05.0013 [Mistique] | Si no escribo algo pronto
+B05.0014 [Mistique] | puedo despedirme del sueldo del mes que viene
+B05.0015 [Mistique] | Sin dinero significa que...
+B05.0016 [Tú] | Está bien, está bien.
+B05.0017 [Tú] | Pero en serio, son puras trivialidades aburridas.
+B05.0018 [Tú] | Nada que valga la pena reportar.
+B05.0019 [Mistique] | No no no
+B05.0020 [Mistique] | Para una gran figura del emprendimiento como tú,
+B05.0021 [Mistique] | ¡hasta la maleza de tu jardín es material de titular!
+B05.0022 [Tú] | Entonces definitivamente no debería contarte nada.
+B05.0023 [Tú] | Además
+B05.0024 [Tú] | ¡Te voy a cobrar una Tarifa de Acceso a la Información!
+B05.0025 [Mistique] | ¡Okii!
+B05.0026 [Mistique] | ¡Jefe Expuesto como Aprovechado Sin Corazón!
+B05.0027 [Mistique] | ¡Ese es mi titular!
+B05.0028 [Tú] | ¿?
+
+## Conversación B06
+B06.0001 [Mistique] | ¿Sabes cuál es la mejor parte
+B06.0002 [Mistique] | de ser una bruja como yo?
+B06.0003 [Opción] | ¿Ser la envidia de muchos?
+B06.0004 [Opción] | Ni idea
+B06.0005 [Mistique] | Nop, incorrecto
+B06.0006 [Tú] | Ni idea.
+B06.0007 [Mistique] | Je
+B06.0008 [Mistique] | Es recibir la exclusiva antes que nadie
+B06.0009 [Tú] | ¿Ah, sí?
+B06.0010 [Mistique] | Acaba de abrir un local de bebidas baratísimo en el Distrito de Plata
+B06.0011 [Mistique] | Sus granizados de café con chocolate son de morirse
+B06.0012 [Mistique] | Tenemos que ir a probarlo
+B06.0013 [Mistique] | ¡antes de que se vuelva viral y las filas sean una locura!
+B06.0014 [Tú] | Espera ahí.
+B06.0015 [Tú] | Voy para allá.

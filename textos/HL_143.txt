@@ -1,0 +1,312 @@
+# Heartlink de Wraith: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Wraith] | Aquí Wraith.
+A01.0002 [Wraith] | A partir de ahora usaré esto para nuestras comunicaciones.
+A01.0003 [Tú] | Recibido.
+A01.0004 [Wraith] | Avísame de inmediato si te metes en problemas.
+A01.0005 [Tú] | Eres sorprendentemente confiable.
+A01.0006 [Wraith] | En realidad, no te molestes.
+A01.0007 [Wraith] | De todos modos te monitoreo las 24 horas.
+A01.0008 [Tú] | Vale, eso quizá ya es demasiado confiable...
+
+## Conversación A02
+A02.0001 [Wraith] | Acabo de publicar mi última reseña de armas.
+A02.0002 [Wraith] | ¿La viste en el número nuevo?
+A02.0003 [Tú] | La vi.
+A02.0004 [Tú] | Aunque la dejaron enterrada en la esquina inferior...
+A02.0005 [Wraith] | Con eso basta.
+A02.0006 [Tú] | En serio, ¿no te molesta?
+A02.0007 [Tú] | Siempre te relegan a los márgenes.
+A02.0008 [Wraith] | Es solo un trabajo extra. Si ayuda a la gente, con eso me basta.
+A02.0009 [Wraith] | Además, una vez sí salí en la portada.
+A02.0010 [Tú] | ¡¿Cuál era el titular?!
+A02.0011 [Wraith] | Las Peores Armas, las Más Rebuscadas de Todas
+A02.0012 [Tú] | ¡¿Querías empezar una guerra?!
+A02.0013 [Wraith] | Sí... Aprendí a mantener un perfil bajo después de eso.
+
+## Conversación A03
+A03.0001 [Wraith] | 1111111
+A03.0002 [Wraith] | 111111111111111
+A03.0003 [Wraith] | 11111111111
+A03.0004 [Opción] | ¿Qué está pasando?
+A03.0005 [Opción] | 2222222
+A03.0006 [Wraith] | ¿Mm?
+A03.0007 [Wraith] | ¿Por qué estoy enviando tantos mensajes?
+A03.0008 [Tú] | ¿No los escribiste tú?
+A03.0009 [Wraith] | Negativo.
+A03.0010 [Wraith] | ¡¿Habrán secuestrado mi teléfono?!
+A03.0011 [Tú] | ¿Quién tendría la habilidad...
+A03.0012 [Wraith] | ¡Ejecutando un barrido de seguridad ahora!
+A03.0013 [Sistema] | Wraith se ha desconectado.
+A03.0014 [Sistema] | Wraith se ha desconectado.
+A03.0015 [Sistema] | Wraith se ha conectado.
+A03.0016 [Wraith] | Extraño. Cero señales de intrusión.
+A03.0017 [Tú] | Dudo que sea un hacker.
+A03.0018 [Tú] | ¿Te apoyaste en la pantalla? ¿Dónde estaba tu teléfono?
+A03.0019 [Wraith] | En mi escritorio.
+A03.0020 [Tú] | ¿Y qué hacías?
+A03.0021 [Wraith] | Trabajando. Tuve que estirarme por toda la mesa para tomar una pieza de repuesto.
+A03.0022 [Tú] | Creo que ya resolví el misterio...
+A03.0023 [Wraith] | ¿Mm?
+
+## Conversación A04
+A04.0001 [Wraith] | ¡Por poco!
+A04.0002 [Tú] | ¡¿Qué pasó?!
+A04.0003 [Wraith] | N-nada...
+A04.0004 [Wraith] | Casi me bebo de un trago una botella de líquido para líneas de panel en lugar de mi agua.
+A04.0005 [Opción] | ¿Qué es el líquido para líneas de panel?
+A04.0006 [Opción] | ¿Cómo se pueden confundir...
+A04.0007 [Wraith] | Es un esmalte a base de aceite.
+A04.0008 [Wraith] | Antes lo pedíamos como deseo al Monolito solo para barnizar muebles.
+A04.0009 [Wraith] | Pero resultó que le da una profundidad increíble a los modelos de plástico.
+A04.0010 [Tú] | ... Menos mal que te detuviste a tiempo.
+A04.0011 [Wraith] | ¿No se ve totalmente distinto al agua?
+A04.0012 [Wraith] | Estaba en lo mío. No estaba mirando.
+A04.0013 [Tú] | Alégrate de haberte dado cuenta antes de tragar...
+A04.0014 [Wraith] | Supongo que es hora de ordenar mi mesa de trabajo. Y mi área de vivienda...
+A04.0015 [Tú] | Iré a ayudarte a ordenar.
+A04.0016 [Wraith] | Perdón por la molestia...
+A04.0017 [Wraith] | Ya sabes dónde es. Te espero.
+
+## Conversación A05
+A05.0001 [Wraith] | Sombra Uno a Base.
+A05.0002 [Wraith] | ¿Me copia?
+A05.0003 [Wraith] | Cambio.
+A05.0004 [Tú] | Aquí Base.
+A05.0005 [Tú] | Sector despejado.
+A05.0006 [Tú] | Cambio.
+A05.0007 [Wraith] | Je. Con eso me basta.
+A05.0008 [Wraith] | Gracias por seguirme el juego. Siempre quise probar eso.
+A05.0009 [Tú] | Cuando quieras.
+
+## Conversación A06
+A06.0001 [Wraith] | Ugh... Hace tanto calor...
+A06.0002 [Wraith] | ¿Siempre hace un calor sofocante por aquí?
+A06.0003 [Tú] | Es que creciste en un congelador, ¿recuerdas?
+A06.0004 [Tú] | Hoy en realidad está bastante templado.
+A06.0005 [Wraith] | Sobrecalentándome antes que mi arma...
+A06.0006 [Wraith] | Sería el hazmerreír si alguien se enterara.
+A06.0007 [Wraith] | Conclusión: necesito enfriarme de inmediato.
+A06.0008 [Wraith] | Casualmente pasé frente a una heladería.
+A06.0009 [Wraith] | Y casualmente su helado tenía una oferta de dos por uno.
+A06.0010 [Tú] | ...
+A06.0011 [Tú] | Esto es solo una excusa para...
+A06.0012 [Wraith] | No lo es.
+A06.0013 [Tú] | Eh, en realidad...
+A06.0014 [Wraith] | No, para nada.
+A06.0015 [Tú] | ...
+A06.0016 [Wraith] | ...
+A06.0017 [Wraith] | Está bien, lo admito.
+A06.0018 [Wraith] | Es una oferta por tiempo limitado. ¡Ven aquí cuanto antes!
+
+## Conversación A07
+A07.0001 [Wraith] | El otro día encontré algo especial en el mercado.
+A07.0002 [Tú] | A ver si adivino, ¿otra arma?
+A07.0003 [Wraith] | No.
+A07.0004 [Wraith] | Mira esto.
+A07.0005 [Wraith] | Jamás pensé que encontraría un pedacito de mi hogar tan lejos.
+A07.0006 [Tú] | ¿Eso es un arpa?
+A07.0007 [Wraith] | Exacto. Y está en perfecto estado.
+A07.0008 [Tú] | ¿Solo de adorno?
+A07.0009 [Wraith] | No. De hecho la toco.
+A07.0010 [Tú] | Estás bromeando.
+A07.0011 [Wraith] | ¿Te sorprende?
+A07.0012 [Wraith] | No te culpo. Supongo que normalmente solo hablo de armas y modelos.
+A07.0013 [Wraith] | Pero toco desde que era niño.
+A07.0014 [Wraith] | Escuché que era el instrumento más difícil de aprender, así que, naturalmente, tenía que dominarlo.
+A07.0015 [Tú] | Eso suena exactamente a ti.
+A07.0016 [Wraith] | Hacía tiempo que no, pero empecé a practicar en cuanto lo conseguí.
+A07.0017 [Wraith] | Hoy por fin recuperé el toque.
+A07.0018 [Tú] | ¿Te importa si voy a escuchar?
+A07.0019 [Wraith] | Ven con confianza.
+A07.0020 [Wraith] | Justo por eso te escribo.
+A07.0021 [Wraith] | El clima está perfecto para tocar afuera.
+A07.0022 [Wraith] | Estoy cerca de mi casa. Ven.
+A07.0023 [Wraith] | No te lo pierdas. Quiero que escuches una verdadera melodía de Norstheim.
+
+## Conversación A08
+A08.0001 [Wraith] | Acabo de terminar una reseña de arma nueva. ¿Tienes un segundo para revisarla?
+A08.0002 [Tú] | Claro, pero lo primero es lo primero.
+A08.0003 [Opción] | ¡Feliz cumpleaños, Wraith!
+A08.0004 [Wraith] | ¿Cumpleaños?
+A08.0005 [Wraith] | Define «cumpleaños».
+A08.0006 [Tú] | ¿Eh?
+A08.0007 [Tú] | ¿Nunca habías oído hablar de un cumpleaños?
+A08.0008 [Wraith] | Dame un segundo.
+A08.0009 [Wraith] | Mmm... Ya veo.
+A08.0010 [Wraith] | Acabo de buscarlo. Creo que ya entiendo el concepto.
+A08.0011 [Wraith] | Allá en casa no hacíamos ese tipo de cosas.
+A08.0012 [Wraith] | Solo celebrábamos las fechas que importaban a toda la tribu.
+A08.0013 [Tú] | ¡Tiene sentido!
+A08.0014 [Tú] | Sin embargo...
+A08.0015 [Wraith] | No te preocupes. Conozco la regla: a donde fueres, haz lo que vieres. En Philae, como los de Philae.
+A08.0016 [Wraith] | Entonces, ¿preparaste un pastel?
+A08.0017 [Tú] | Sí, justo iba a decírtelo.
+A08.0018 [Wraith] | Gracias. No dejaré que tu esfuerzo se desperdicie.
+A08.0019 [Wraith] | Corriendo hacia tus coordenadas. Llegaré en un abrir y cerrar de ojos.
+A08.0020 [Tú] | ¡Rápido como el viento, como siempre!
+A08.0021 [Wraith] | Como es mi primer cumpleaños aquí...
+A08.0022 [Wraith] | quiero pasarlo contigo.
+A08.0023 [Tú] | ¡Con gusto!
+
+## Conversación A09
+A09.0001 [Wraith] | Mi almacén de armas está lleno.
+A09.0002 [Wraith] | Es hora de ampliar la capacidad.
+A09.0003 [Tú] | De hecho llevaba tiempo queriendo preguntarte...
+A09.0004 [Tú] | Con tu colección tan enorme, ¿por qué siempre usas solo esa?
+A09.0005 [Wraith] | Cada arma tiene una especialidad única.
+A09.0006 [Wraith] | Hay que desplegarlas en el escenario de combate adecuado para aprovechar al máximo su potencial.
+A09.0007 [Wraith] | Por eso las reseño.
+A09.0008 [Tú] | Te nombro oficialmente Maestro de Armas.
+A09.0009 [Tú] | ¿Entonces te quedas con esa bayoneta por la misma razón?
+A09.0010 [Wraith] | Bueno...
+A09.0011 [Wraith] | En realidad, hay un poco de sesgo personal.
+A09.0012 [Wraith] | Esta es la que lleva más tiempo conmigo. Es una reliquia de mi padre.
+A09.0013 [Wraith] | Se dañó en un accidente, pero logré reforjarla fusionándola con otra arma.
+A09.0014 [Tú] | ¿Un símbolo de tu nueva vida aquí, quizá?
+A09.0015 [Wraith] | Je. Me leíste la mente.
+
+## Conversación A10
+A10.0001 [Wraith] | Dime.
+A10.0002 [Wraith] | ¿Los recuerdos tienen un valor de durabilidad, igual que las armas?
+A10.0003 [Tú] | Depende del recuerdo.
+A10.0004 [Tú] | Cuanto más profunda la huella, más difícil es que se desgaste.
+A10.0005 [Wraith] | Es un recuerdo de primavera.
+A10.0006 [Wraith] | Mi tierra solo conocía el invierno. Nunca entendí qué significaba realmente «primavera» hasta que llegué aquí.
+A10.0007 [Wraith] | Era hermosa. Traía... paz.
+A10.0008 [Wraith] | No se me ocurre otra forma de describirla.
+A10.0009 [Tú] | ¿No es algo bueno?
+A10.0010 [Wraith] | Es agradable. Pero dejé que se me escapara...
+A10.0011 [Wraith] | ¿Por qué pasó eso...
+A10.0012 [Opción] | Entonces vayamos a encontrarla de nuevo.
+A10.0013 [Wraith] | Encontrarla de nuevo...
+A10.0014 [Wraith] | Tienes razón. ¿Cómo pude pasar por alto algo tan sencillo?
+A10.0015 [Wraith] | Pero fuiste tú quien me ayudó a recuperarla.
+A10.0016 [Wraith] | Gracias. Eso es algo que prometo que jamás olvidaré.
+A10.0017 [Tú] | ¡Exageras!
+
+## Conversación B01
+B01.0001 [Wraith] | Hace poco fui al mercado de segunda mano de modelos.
+B01.0002 [Tú] | ¿Sí? ¿Qué tal?
+B01.0003 [Wraith] | Me alteró un poco.
+B01.0004 [Wraith] | Alguien vendía un modelo que había armado pero nunca pintó.
+B01.0005 [Tú] | Supongo
+B01.0006 [Tú] | que terminó de armarlo y luego decidió que pintarlo era demasiado trabajo
+B01.0007 [Wraith] | Supongo que sí.
+B01.0008 [Wraith] | Pero.
+B01.0009 [Wraith] | Si ya decidiste armarlo
+B01.0010 [Wraith] | ¿cómo puedes rendirte a la mitad?
+B01.0011 [Wraith] | Si hubiera andado con mucho trabajo últimamente y no tuviera tiempo de pintarlo, lo entendería.
+B01.0012 [Wraith] | Pero ponerlo a la venta para que lo tenga otro... No.
+B01.0013 [Wraith] | No lo entiendo.
+
+## Conversación B02
+B02.0001 [Wraith] | ¿Sabes qué me pasó hoy?
+B02.0002 [Tú] | Ni idea
+B02.0003 [Wraith] | Alguien dijo que leyó una de mis reseñas de armas
+B02.0004 [Wraith] | Y que gracias a ella encontró el arma que mejor le queda.
+B02.0005 [Tú] | ¡Oh!
+B02.0006 [Tú] | ¡Qué bueno!
+B02.0007 [Wraith] | Totalmente.
+B02.0008 [Wraith] | Ahora sé
+B02.0009 [Wraith] | que mi esfuerzo de verdad ha ayudado a otras personas
+
+## Conversación B03
+B03.0001 [Wraith] | Estoy pensando en empezar una nueva serie pronto.
+B03.0002 [Wraith] | Se llamará
+B03.0003 [Wraith] | Probando las Armas Más Inusuales del Mundo.
+B03.0004 [Tú] | ¿Qué te hizo pensar en eso?
+B03.0005 [Wraith] | Porque el otro día me topé con una pandilla. No tenían idea de lo que hacían.
+B03.0006 [Wraith] | O sea, los ahuyenté sin esfuerzo alguno.
+B03.0007 [Wraith] | Pero las armas que soltaron al huir eran bastante interesantes.
+B03.0008 [Tú] | ¿Qué clase de armas?
+B03.0009 [Wraith] | ¿Cómo lo explico...
+B03.0010 [Wraith] | Eran fluidas.
+B03.0011 [Tú] | ¿Fluidas?
+B03.0012 [Wraith] | Sí. Si las blandes con poca fuerza, se mantienen rígidas como una espada o un martillo.
+B03.0013 [Wraith] | Pero si les pones suficiente fuerza, el extremo del arma se lanza como un látigo.
+B03.0014 [Tú] | Suena a algo que solo se consigue pidiéndolo como deseo en un Monolito
+B03.0015 [Wraith] | Sí, creo que sí.
+B03.0016 [Wraith] | Pero también me dio curiosidad.
+B03.0017 [Wraith] | En cuanto termine de reseñar esta arma fluida
+B03.0018 [Wraith] | voy a buscar las armas más inusuales del mundo
+B03.0019 [Wraith] | Y convertirlo en una serie de reseñas de larga duración.
+B03.0020 [Tú] | ¡Tengo muchas ganas de verla!
+
+## Conversación B04
+B04.0001 [Wraith] | Ah...
+B04.0002 [Wraith] | Qué calor
+B04.0003 [Wraith] | Me voy a derretir
+B04.0004 [Tú] | Así son los veranos...
+B04.0005 [Wraith] | Ni siquiera puedo obligarme a salir
+B04.0006 [Wraith] | a comprar helado
+B04.0007 [Tú] | Wraith, no me digas que tienes una insolación
+B04.0008 [Wraith] | Un ainsolación
+B04.0009 [Wraith] | qeu es eso?
+B04.0010 [Tú] | Ay, no
+B04.0011 [Tú] | Creo que de verdad tienes una
+B04.0012 [Wraith] | ¿Eh?
+B04.0013 [Tú] | Espera ahí
+B04.0014 [Tú] | Compraré helado y voy para allá ahora mismo
+B04.0015 [Tú] | ¡Bebe mucha agua hasta que llegue!
+B04.0016 [Wraith] | Vale...
+
+## Conversación B05
+B05.0001 [Wraith] | Todavía quiero preguntarte.
+B05.0002 [Wraith] | ¿Seguro que no necesitas un arma?
+B05.0003 [Tú] | Aunque la necesitara, no sabría usarla
+B05.0004 [Tú] | Aunque sí he estado practicando un poco
+B05.0005 [Wraith] | Aun así deberías llevar contigo un cuchillo pequeño o algo así.
+B05.0006 [Wraith] | Para defensa propia.
+B05.0007 [Tú] | ¿Defensa propia?
+B05.0008 [Wraith] | No siempre puedo estar ahí para protegerte.
+B05.0009 [Wraith] | ¿Y si te topas con peligro sin nadie más?
+B05.0010 [Tú] | Hmph
+B05.0011 [Tú] | Si de verdad llegara a eso...
+B05.0012 [Wraith] | ¿Eh?
+B05.0013 [Wraith] | Quieres decir...
+B05.0014 [Wraith] | ¿que tienes algún tipo de arma secreta?
+B05.0015 [Tú] | Je je...
+B05.0016 [Tú] | Claro que sí
+B05.0017 [Tú] | ¿Quién crees que soy?
+B05.0018 [Tú] | Si de verdad terminara en peligro sin nadie cerca
+B05.0019 [Tú] | ¡mi inteligencia sería, naturalmente, mi mejor arma!
+B05.0020 [Tú] | ¿Qué?
+B05.0021 [Tú] | ¿No me crees?
+B05.0022 [Wraith] | No es eso.
+B05.0023 [Wraith] | Sí te creo.
+B05.0024 [Wraith] | Después de todo, nunca había visto esa «arma» en particular en nadie más.
+B05.0025 [Tú] | Eso fue un cumplido, ¿verdad?
+B05.0026 [Wraith] | Solo constato un hecho.
+B05.0027 [Wraith] | Aun así
+B05.0028 [Wraith] | Eso solo no basta.
+B05.0029 [Wraith] | Si alguna vez te encuentras en peligro, busca la forma de contactarme primero.
+B05.0030 [Wraith] | Usa esa inteligencia tuya para averiguar cómo. Del resto me encargo yo.
+B05.0031 [Tú] | Está bien, está bien. Como ordene
+
+## Conversación B06
+B06.0001 [Wraith] | Por cierto, ¿sabes qué es un buffet libre?
+B06.0002 [Wraith] | El otro día fui a la Asociación de Trekkers a entregar mi reseña
+B06.0003 [Wraith] | Y vi un restaurante nuevo que abrió a la orilla del camino.
+B06.0004 [Wraith] | Era una especie de buffet que cobraba cincuenta mil Dorra por persona.
+B06.0005 [Tú] | Ah, eso significa que pagas la entrada y luego comes todo lo que quieras
+B06.0006 [Tú] | Yo jamás comería lo suficiente para que valga la pena
+B06.0007 [Tú] | Y el restaurante tampoco te dejaría, de todos modos
+B06.0008 [Tú] | Si no, ¿cómo ganarían dinero?
+B06.0009 [Wraith] | Oh, ¿tú no?
+B06.0010 [Wraith] | Interesante...
+B06.0011 [Tú] | ¿Qué pasa?
+B06.0012 [Tú] | ¿Quieres probarlo, Wraith?
+B06.0013 [Tú] | Siendo tú, seguro podrías comer lo que vale tu dinero con creces
+B06.0014 [Wraith] | Ja, y que lo digas.
+B06.0015 [Wraith] | Una vez pasé una semana entera sin comer y luego me comí casi cien mil Dorra en comida de una sola vez.
+B06.0016 [Wraith] | Cincuenta mil no es nada.
+B06.0017 [Wraith] | Bueno, ¿qué dices?
+B06.0018 [Wraith] | ¿Vamos juntos?
+B06.0019 [Wraith] | Va por mi cuenta.
+B06.0020 [Wraith] | De paso comeré lo suficiente para cubrir también tu parte.
+B06.0021 [Tú] | ¿Seguro que el dueño no nos echará a la mitad...?

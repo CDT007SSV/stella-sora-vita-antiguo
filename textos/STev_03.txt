@@ -1,0 +1,14 @@
+# Evento · Un crepitante indicio de primavera — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_03_01 | Una cara conocida entre un millón
+STev_03_02 | Entre la gente
+STev_03_03 | A través de la niebla
+STev_03_04 | La carnada está puesta
+STev_03_05 | Ganancias difíciles
+STev_03_06 | Después del misterio
+STev_03_07 | La verdad revelada
+STev_03_08 | Años de distancia
+STev_03_09 | Un mundo renovado
+@BT01 | Barrida total
+@BT02 | Bondad de la sanadora

@@ -1,0 +1,268 @@
+# Heartlink de Shia: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Shia] | ey jefe, ¡perdón por hacerte esperar!
+A01.0002 [Shia] | acabo de volver a la orilla
+A01.0003 [Shia] | entoncesss déjame presentarme como se debe
+A01.0004 [Shia] | soy Shia
+A01.0005 [Tú] | ¡Hola!
+A01.0006 [Shia] | tienes un olor muy único, jefe...
+A01.0007 [Shia] | ¡tengo el presentimiento de que vas a ser una persona interesante!
+A01.0008 [Tú] | ¿Eh?
+A01.0009 [Tú] | ¡La próxima vez necesito un teléfono que pueda oler cosas!
+A01.0010 [Shia] | jeje, solo fue un olfateo rápido de cuando nos conocimos hace rato~
+
+## Conversación A02
+A02.0001 [Shia] | jefe, ¡tengo raspados recién hechos aquí!
+A02.0002 [Shia] | ¡ven a la cabañita de la orilla si quieres uno!
+A02.0003 [Tú] | ¡Voy para allá!
+A02.0004 [Tú] | Pero hace mucho calor.
+A02.0005 [Tú] | Me voy a achicharrar...
+A02.0006 [Shia] | lleva leche condensada y mermelada de fruta...
+A02.0007 [Shia] | nada más imagínatelo
+A02.0008 [Shia] | darle una gran mordida en un día de verano abrasador...
+A02.0009 [Shia] | ¡¡y esa oleada fresquita recorriéndote la lengua!!
+A02.0010 [Shia] | un sabor dulce e intenso como un recuerdo del verano pasado
+A02.0011 [Tú] | Vale vale, me estás haciendo agua la boca.
+A02.0012 [Tú] | ¡Voy para allá ahora mismo!
+
+## Conversación A03
+A03.0001 [Shia] | jefe, ¿tienes buenas ideas para ganar dinero junto al mar?
+A03.0002 [Opción] | ¡Buscar tesoros!
+A03.0003 [Opción] | ¡Ir a pescar!
+A03.0004 [Shia] | pff, todos los tesoros ya los encontraron
+A03.0005 [Shia] | ¡dudo que quede algo bueno!
+A03.0006 [Shia] | ¿en un pueblo pesquero? jaja
+A03.0007 [Shia] | es súper difícil ganar dinero así sin, o sea, toda una cadena de suministro, ¿sabes?
+A03.0008 [Tú] | Ay...
+A03.0009 [Tú] | Ser adulto es muy difícil.
+A03.0010 [Shia] | ¡¡¡tienes que encontrar la forma de hacernos ricos, jefe!!!
+A03.0011 [Tú] | ¡¿Yo?! ¡¿YO?!
+
+## Conversación A04
+A04.0001 [Shia] | jefe, asómate por la ventana~
+A04.0002 [Tú] | ¡Vaya!
+A04.0003 [Tú] | ¡Es tu dron!
+A04.0004 [Shia] | hay un sashimi para ti en el estante
+A04.0005 [Shia] | ¡disfrútalo mientras está fresco!
+A04.0006 [Tú] | ¡Voy!
+A04.0007 [Tú] | ¡¡¡Qué ricooooo!!!
+A04.0008 [Shia] | ¡lo acabo de pescar en el mar profundo!
+A04.0009 [Shia] | la calidad baja súper rápido cuando sale del agua
+A04.0010 [Shia] | así que te lo mandé enseguida con mi conejo de nieve
+A04.0011 [Tú] | ¡Shia, eres la mejor!
+
+## Conversación A05
+A05.0001 [Shia] | ey jefeee, si mal no recuerdo, no sabes nadar, ¿o sí?
+A05.0002 [Tú] | No, no sé.
+A05.0003 [Tú] | Espera. ¿Qué estás tramando?
+A05.0004 [Shia] | ¡yo puedo enseñarte!
+A05.0005 [Tú] | No.
+A05.0006 [Tú] | ¡Me voy a disolver en el agua, literalmente!
+A05.0007 [Shia] | ¡no te preocupes! aunque te disuelvas
+A05.0008 [Shia] | te recogeré con una cuchara, poquito a poquito
+A05.0009 [Tú] | ¡¡NOOOOO!!
+A05.0010 [Shia] | ¿y qué pasa si te caes al agua por accidente?
+A05.0011 [Tú] | Te llamo antes de hundirme...
+A05.0012 [Shia] | aww ¡confías tanto en mí!
+
+## Conversación A06
+A06.0001 [Shia] | jefe, ¡hoy intenté freír pescado seco!
+A06.0002 [Tú] | ¿Cómo te fue?
+A06.0003 [Shia] | la primera tanda quedó totalmente pasada
+A06.0004 [Shia] | medio quemada y amarga
+A06.0005 [Shia] | la segunda tanda no quedó lo bastante crujiente
+A06.0006 [Shia] | medio blanda
+A06.0007 [Shia] | la tercera tanda se veía perfecta
+A06.0008 [Shia] | pero no sabía tan rico como lo recuerdo de cuando era niña
+A06.0009 [Shia] | ¿por qué crees que sea?
+A06.0010 [Opción] | Nada supera a sí mismo en el recuerdo.
+A06.0011 [Opción] | Has crecido.
+A06.0012 [Shia] | Tienes razón.
+A06.0013 [Shia] | quizá el sabor en sí no sea tan distinto
+A06.0014 [Shia] | pero ya no soy la que era entonces
+A06.0015 [Shia] | en algún momento, sin que me diera cuenta
+A06.0016 [Shia] | llegó el futuro
+A06.0017 [Shia] | y apenas ahora me doy cuenta de que este pueblo no es tan grande después de todo
+A06.0018 [Shia] | hasta el sabor del pescado frito en la punta de mis dedos ya no es el mismo
+
+## Conversación A07
+A07.0001 [Shia] | ¿sabías? Abrazarse antes de zarpar es una antigua tradición de los marineros
+A07.0002 [Tú] | ¿Qué tan antigua?
+A07.0003 [Shia] | ¡probablemente de antes de que existiera nuestra lengua escrita!
+A07.0004 [Shia] | ya era una forma súper importante de mostrar lo que sientes
+A07.0005 [Tú] | ¡Vaya!
+A07.0006 [Shia] | en la era de los descubrimientos
+A07.0007 [Shia] | generación tras generación de exploradores se hizo a la mar
+A07.0008 [Shia] | entregaron su vida a las mareas
+A07.0009 [Shia] | para que poco a poco se fuera dibujando la forma de nuestro continente
+A07.0010 [Shia] | la gente se abrazaba antes de partir para no tener remordimientos
+A07.0011 [Tú] | Ese abrazo debió de valer más que mil palabras.
+A07.0012 [Shia] | ¡exacto!
+A07.0013 [Shia] | a veces nos enredamos tanto en el significado de las palabras
+A07.0014 [Shia] | que sabemos exactamente cuándo no significan nada
+A07.0015 [Shia] | así que en vez de hablar y hablar, un abrazo fuerte es muchísimo mejor
+A07.0016 [Tú] | Las cosas se pusieron un poco pesadas...
+A07.0017 [Shia] | Jeje...
+A07.0018 [Shia] | después de tanto teclear, ¿quieres dar un paseo, jefe?
+A07.0019 [Tú] | ¿Adónde?
+A07.0020 [Shia] | vamos a la costa, hoy el clima está increíble
+A07.0021 [Shia] | un día perfecto para ver el atardecer
+
+## Conversación A08
+A08.0001 [Shia] | Jefe
+A08.0002 [Shia] | hoy es mi cumpleaños
+A08.0003 [Shia] | ¿estás libre esta noche?
+A08.0004 [Opción] | ¡Estoy libre!
+A08.0005 [Opción] | ¡A tus órdenes!
+A08.0006 [Tú] | ¡Te conseguí un regalo!
+A08.0007 [Shia] | ¡¡YUPIIII!!
+A08.0008 [Shia] | iremos juntos por la tarde
+A08.0009 [Shia] | ¡oh! y ponte sandalias o chanclas
+A08.0010 [Tú] | ¿Eh? ¿Por qué?
+A08.0011 [Shia] | el lugar que elegí es súper especial
+A08.0012 [Shia] | de noche, la marea sube hasta las pantorrillas
+A08.0013 [Shia] | sentir las olas ir y venir es como una prueba de que de verdad estoy aquí, ¿sabes?
+A08.0014 [Shia] | estar con alguien en tu cumpleaños así... es la mejor sensación del mundo
+A08.0015 [Shia] | confía en mí, te va a encantar sentir las olas en los tobillos
+A08.0016 [Tú] | ¡¡Vale!!
+
+## Conversación A09
+A09.0001 [Shia] | jefe
+A09.0002 [Shia] | ¿qué tal el ejercicio acuático de hace rato?
+A09.0003 [Opción] | No muy bien...
+A09.0004 [Opción] | Un gran simulacro de rescate... supongo.
+A09.0005 [Tú] | Solo por favor no me voltees el flotador la próxima vez...
+A09.0006 [Shia] | ... LO SIENTO MUCHÍSIMO...
+A09.0007 [Tú] | Está bien.
+A09.0008 [Tú] | Fuiste rapidísima, Shia.
+A09.0009 [Tú] | Me agarraste antes de que empezara a hundirme.
+A09.0010 [Tú] | Me sentí muy seguro cuando me tomaste de la mano.
+A09.0011 [Shia] | awww, me estás haciendo sonrojar
+A09.0012 [Shia] | fue totalmente mi culpa, después de todo
+A09.0013 [Tú] | No te preocupes. ¡Podemos repetirlo algún día!
+
+## Conversación A10
+A10.0001 [Shia] | ¿sabes ese disco de la costa
+A10.0002 [Shia] | el que estaba medio ahogado en el agua?
+A10.0003 [Tú] | ¡Ah, claro! ¿Descubriste algo?
+A10.0004 [Shia] | descubrí muchísimo
+A10.0005 [Shia] | o más bien, RECORDÉ un montón
+A10.0006 [Shia] | cuando toqué los surcos del vinilo
+A10.0007 [Shia] | volví a oler las tardes de cuando era niña
+A10.0008 [Shia] | y vi ese tono perfecto de azul de aquella época
+A10.0009 [Shia] | durante esos veranos interminables
+A10.0010 [Shia] | pasaba cada tarde perezosa simplemente empapándome en el mar
+A10.0011 [Shia] | el cosquilleo de la brisa marina casi me quitaba el aliento
+A10.0012 [Shia] | y entonces...
+A10.0013 [Tú] | ¿Y entonces?
+A10.0014 [Shia] | esos días simplemente... se acabaron un día, ¡puf! se esfumaron
+A10.0015 [Shia] | los gritos de los vendedores ambulantes, el olor de los encurtidos de las tiendas...
+A10.0016 [Shia] | todo se desvaneció, como la espuma del mar...
+A10.0017 [Shia] | todo cambió
+A10.0018 [Tú] | ¡Está bien! Aunque no puedas recuperar lo que perdiste,
+A10.0019 [Tú] | ¡podemos crear nuevos recuerdos juntos!
+
+## Conversación B01
+B01.0001 [Shia] | Acaba de abrir un restaurante nuevo cerca de mí
+B01.0002 [Shia] | Hoy fui a echarle un vistazo
+B01.0003 [Tú] | ¿Algo bueno?
+B01.0004 [Shia] | Pedí un platillo llamado Pescado Bobo
+B01.0005 [Shia] | Es algo parecido a rebanadas de pescado hervido picante
+B01.0006 [Tú] | ¿Y? ¿Estaba rico?
+B01.0007 [Shia] | El sabor aparte...
+B01.0008 [Shia] | La cantidad de filete de pescado que traía era verdaderamente lastimosa
+B01.0009 [Tú] | ¿O sea que no hay pescado, solo «bobo»?
+B01.0010 [Shia] | Sí, era sobre todo puro caldo burbujeante
+B01.0011 [Shia] | Que contenía sobre todo germinado de frijol y cosas así
+B01.0012 [Shia] | Sentí que hasta la base del caldo era de esos sobres de condimento premezclado. Probablemente la compraron al mayoreo de Cosecha Unida
+B01.0013 [Tú] | ¡Qué estafa!
+
+## Conversación B02
+B02.0001 [Shia] | Hace unos días envié un artículo a la revista de la Asociación
+B02.0002 [Shia] | Era sobre Monolitos en aguas costeras
+B02.0003 [Tú] | ¿Ah, sí? ¿Cómo te fue?
+B02.0004 [Shia] | El revisor era el editor en jefe
+B02.0005 [Shia] | Cuando llegué a los comentarios de la revisión, me dio un sudor frío
+B02.0006 [Tú] | ¿Qué dijeron?
+B02.0007 [Shia] | Que el tema no era lo bastante innovador
+B02.0008 [Shia] | Que el resumen no puede ser simplemente un compendio del texto principal
+B02.0009 [Shia] | Y que solo llegué a conclusiones vagas y vacías que no explicaban realmente los asuntos que traté
+B02.0010 [Shia] | En resumen, necesita revisiones importantes, pero el revisor dio muchas sugerencias concretas
+B02.0011 [Shia] | Y sí dijeron que revisara con cuidado y apuntara a la publicación
+B02.0012 [Shia] | El revisor de verdad fue meticuloso
+B02.0013 [Shia] | Probablemente un veterano con muchísima experiencia
+B02.0014 [Shia] | Siento que hay mucho que podría aprender
+B02.0015 [Shia] | Pero a la vez, también siento que me está agitando una carnada enfrente...
+B02.0016 [Tú] | ¡Ánimo!
+
+## Conversación B03
+B03.0001 [Shia] | El cielo se veía especialmente hermoso esta tarde. Estaba tan feliz
+B03.0002 [Tú] | ¿Eh? ¿Pasó algo bueno?
+B03.0003 [Shia] | No pasó nada en absoluto. Simplemente estaba feliz, sin motivo
+B03.0004 [Shia] | La sala estaba vacía y en silencio. El Artefacto lavadora retumbaba en el balcón. Podía alzar la vista y ver el mar
+B03.0005 [Shia] | Los gritos de las aves marinas, el aroma del detergente, la brisa de la tarde atravesando la habitación
+B03.0006 [Shia] | Era tanta dicha. Casi deseé que el tiempo se detuviera ahí mismo
+B03.0007 [Tú] | ¡Vaya!
+B03.0008 [Tú] | Suena muy relajante
+B03.0009 [Shia] | El cielo color rosa se reflejaba dentro de la habitación. Los dedos rozando el Disco Rúnico, escuchando la melodía
+B03.0010 [Shia] | Así debería ser la vida
+B03.0011 [Tú] | ¡De acuerdo, así debería ser la vida!
+
+## Conversación B04
+B04.0001 [Shia] | Jefe, estoy planeando salir sola al mar por un tiempo
+B04.0002 [Tú] | ¿Eh?
+B04.0003 [Tú] | ¿Por qué?
+B04.0004 [Shia] | Hace poco trabajé en un patio de secado de pescado
+B04.0005 [Shia] | Antes de curar y secar, hay que quitar las escamas a los peces, destriparlos, deshuesarlos y luego rebanarlos
+B04.0006 [Shia] | Así que procesaba capturas sin parar. Ah... Peces sin fin...
+B04.0007 [Shia] | Ese ambiente sofocante me dejó muy decaída
+B04.0008 [Shia] | La única forma de quitarme ese olor es salir al mar
+B04.0009 [Tú] | ¿Eso es lo que la gente llama «olor a trabajo»?
+B04.0010 [Shia] | Quizá. Ese olor a «no ser libre», mezclado con un olor a pescado demasiado fuerte.
+B04.0011 [Shia] | Es como sostener agua de mar en las manos. Si no la dejas fluir libremente en el océano, se convierte en una salmuera turbia y sin vida
+B04.0012 [Tú] | ¿Pero y Karin?
+B04.0013 [Shia] | Está bien. Ella puede cuidarse sola
+B04.0014 [Shia] | No es la primera vez que hago algo así
+B04.0015 [Tú] | ¡Qué bien! ¡Entonces te deseo un viaje sin contratiempos!
+B04.0016 [Tú] | ¡Acuérdate de contactarme cuando puedas!
+B04.0017 [Shia] | ¡Claro que sí!
+
+## Conversación B05
+B05.0001 [Shia] | Jefe, ahora mismo estoy en alta mar
+B05.0002 [Shia] | Hay muchísimo viento
+B05.0003 [Tú] | ¡¡¡!!!
+B05.0004 [Tú] | ¿Es peligroso?
+B05.0005 [Shia] | Está bien. Confía en mis habilidades de navegación
+B05.0006 [Shia] | Incluso en la tormenta, puedo gobernar con una mano y escribirte con la otra
+B05.0007 [Tú] | Vaya... ¡Eso es increíble!
+B05.0008 [Shia] | Ahora mismo solo estamos el viento, la lluvia, el mar y yo
+B05.0009 [Shia] | Me rodean, meciéndome de un lado a otro
+B05.0010 [Shia] | Para ser honesta... La soledad de navegar sola siempre es difícil de soportar
+B05.0011 [Shia] | Y esa sensación se magnifica cuando enfrentas el vasto océano
+B05.0012 [Shia] | Pero...
+B05.0013 [Shia] | La tormenta me obliga a concentrarme, y me deja olvidar ese peso por un rato
+B05.0014 [Shia] | En momentos así, puedo gritar a todo pulmón y soltar todo
+B05.0015 [Shia] | El sonido de la lluvia torrencial golpeando las olas también ayuda a tapar un comportamiento tan poco digno
+B05.0016 [Shia] | AAAAAAAAAAAHHHHH—
+B05.0017 [Opción] | ¡AAAAAAAAAAAHHHHH!
+B05.0018 [Opción] | AAAAAAAAAAAHHHHH—
+
+## Conversación B06
+B06.0001 [Shia] | Jefe, mi travesía por el mar pronto llegará a su fin
+B06.0002 [Tú] | ¡Felicidades!
+B06.0003 [Shia] | Jajaja, siento que tardó bastante
+B06.0004 [Shia] | Jefe...
+B06.0005 [Shia] | Te extraño
+B06.0006 [Opción] | Yo también te extraño
+B06.0007 [Shia] | No, no es así
+B06.0008 [Shia] | Te extraño porque así lo siento yo, no porque tú me extrañes
+B06.0009 [Shia] | No hay ningún requisito previo para ello
+B06.0010 [Shia] | En fin, solo bromeo~
+B06.0011 [Shia] | Karin dijo que había preparado un banquete
+B06.0012 [Shia] | ¿Te unes a nosotras, Jefe?
+B06.0013 [Tú] | ¡Sí! Voy para allá a toda velocidad
+B06.0014 [Tú] | ¡Seré la primera cara que veas cuando vuelvas a puerto!

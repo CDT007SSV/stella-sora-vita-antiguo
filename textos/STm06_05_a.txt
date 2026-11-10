@@ -1,0 +1,145 @@
+# Capítulo 6 · Milagro de un destello · Final: El mundo en calma
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Bored Citizen | Ciudadano aburrido
+N:Intelligent Plant Assistant | Planta Inteligente asistente
+N:Intelligent Plant Companion | Planta Inteligente compañera
+N:Joyful Citizen | Ciudadano alegre
+N:Learning Intelligent Plant | Planta Inteligente aprendiz
+N:Relieved Citizen | Ciudadano aliviado
+N:Suffering Citizen | Ciudadano sufriente
+N:Tyrant Army Researcher | Investigador del Ejército del Tirano
+N:Virigia & Bernina | Virigia y Bernina
+N:avg1_110 | Firenze
+N:avg1_136 | Angie
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_138 | Trekker
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_150 | Albedo
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | El mundo en calma
+0003 [Intro] | El legendario Tirano vuelve a reinar con puro poderío militar. Con tu «ayuda», los novianos viven vidas «felices». Justo cuando todo se calma, ella aparece y desenvaina su espada contra ti con una determinación inquebrantable.
+0004 [Narración] | Cuatro años después.
+0005 [Narración] | Año 1000 del Calendario Monolítico, 14.º del mes de Venatio, Philae
+0006 [Darcia] | Albedo. En nombre del Tirano, estoy lista para aceptar la rendición del Imperio de la Gracia.
+0007 [Darcia] | Sin embargo, para un asunto de esta magnitud, ¿viniste sola? ¿Dónde están los Aspectos de la Tétrada?
+0008 [Darcia] | ¿El Imperio de la Gracia se burla del Tirano? No es precisamente la actitud correcta para una fuerza derrotada.
+0009 [Albedo] | ...==W== Lady Darcia, la Legión Flora del Tirano nos diezmó en Emor. Tres de los Aspectos de la Tétrada cayeron. Murieron en combate.
+0010 [Albedo] | La única superviviente,==W== la directora Angie del Instituto del Cielo, renunció a su mando ayer y desapareció.
+0011 [Albedo] | Sé que parece una falta de respeto. Pero como archivista de los Aspectos de la Tétrada y directora de operaciones del Instituto del Cielo... soy la funcionaria de mayor rango que queda en pie.
+0012 [Albedo] | Tengo plena autoridad para representar al Imperio de la Gracia en las negociaciones con...==W== el Tirano.
+0013 [Darcia] | Hmph. Esto es un insulto.==W== Si quieren paz, demuestren su sinceridad con hechos.
+0014 [Narración] | Tenemos tres condiciones.
+0015 [Narración] | ==A-1==Primera: entregar todo su armamento al Tirano.==P== ==A-1==Segunda: ceder el control de todos los Monolitos y hasta la última Piedra del Alma que posean.==P== ==A-1==Tercera: ayudarnos a acabar con los rebeldes Trekkers.
+0016 [Darcia] | Cumplan con esto y discutiremos las «negociaciones» que proponen. O, mejor dicho,==W== su capitulación.
+0017 [Albedo] | ...
+0018 [Darcia] | Tranquila, no exijo una respuesta inmediata. ==SEX2== Majestad es generoso: tienes un día entero para pensarlo.
+0019 [Darcia] | Su Majestad, su deseo de «tranquilidad universal» por fin está a su alcance.
+0020 [Darcia] | Todos los que tenían agallas en el Imperio de la Gracia murieron en el campo de batalla. Los supervivientes aceptarán lo que sea con tal de salvar el pellejo.
+0021 [Darcia] | La única molestia que queda son...==W== esos rebeldes. Pero su derrota, también, es solo cuestión de tiempo.
+0022 [Narración] | Hace cuatro años, por orden del Tirano, Darcia desató desde Philae una conquista que arrasó Nova.
+0023 [Narración] | Millones de Plantas Inteligentes invadieron la tierra, ahogando ciudades con su enorme número y aplastando a toda compañía que se atreviera a resistir.
+0024 [Narración] | Incluso Emor, el corazón de Nova, la «Ciudad del Deseo del Mundo» con siete Monolitos, cayó tras un brutal asedio de dos años.
+0025 [Narración] | Solo resisten algunos Trekkers dispersos y restos de las compañías. Desde Matsukawa y Cangwu, que siguen intactas, lanzan pequeñas incursiones para frenar al Tirano.
+0026 [Narración] | Aun así, Darcia y su ejército de plantas no dañaron a nadie fuera de las compañías.
+0027 [Narración] | Se rumora que esta clemencia se debe al Jefe, ==PLAYER_NAME==, quien desapareció en Philae hace cuatro años.
+0028 [Lugar y hora] | 10:30, 15.º del mes de Venatio, Distrito de Plata de Philae, paseo comercial
+0029 [Intelligent Plant Assistant] | ¡Iiii-ya!
+0030 [Suffering Citizen] | ¿Eh? ¿Ya no me vas a servir? ¿Que es malo para mi salud?
+0031 [Suffering Citizen] | ¡N-no me importa! Perdí el trabajo, mi esposa me dejó... ¡No tengo nada que perder!
+0032 [Intelligent Plant Assistant] | Uii-iii-uuu...
+0033 [Suffering Citizen] | ¿Dices que... todavía te tengo a ti?==W== Sí. Eres la única que no me va a dar la espalda.
+0034 [Relieved Citizen] | Está bien. Se acabó el alcohol. Vámonos a casa.
+0035 [Intelligent Plant Assistant] | ¡Uiii!
+0036 [???] | ...
+0037 [Lugar y hora] | 12:00, 15.º del mes de Venatio, Distrito Invernadero de Philae, Plaza de la Abundancia
+0038 [Bored Citizen] | Me muero de aburrimiento. Comer, jugar, dormir, cobrar Dorra gratis. Y otra vez lo mismo. ¿Sinceramente? Como que extraño la friega de Cosecha Unida.
+0039 [Joyful Citizen] | Qué malagradecido. ¿De verdad serías más feliz con turnos de 12 horas, siete días a la semana?
+0040 [Bored Citizen] | ¡Solo digo! Además, las plantas de 4.ª generación trabajan muchísimo mejor. El personal obsoleto como nosotros solo estorbaría.
+0041 [Joyful Citizen] | Cierto...==W== Oye, ¿por qué estamos hablando de trabajo?==W== Juntemos a la banda y vamos a divertirnos.
+0042 [Bored Citizen] | ¿A quién vas a llevar?
+0043 [Joyful Citizen] | Pues...==W== Primero hay que llevar a unas cuantas plantas, ¿no?
+0044 [Intelligent Plant Companion] | Uuuuu-ii...
+0045 [Bored Citizen] | ¡Hablando del rey de Roma! Ándale, vamos a comer algo.
+0046 [???] | ...
+0047 [Lugar y hora] | 13:30, 15.º del mes de Venatio, Distrito Invernadero de Philae, Invernadero n.º 100
+0048 [Tyrant Army Researcher] | No, no. Lo estás diciendo mal.==W== Repite conmigo: «A... mm... r. Amor. Te amo».
+0049 [Learning Intelligent Plant] | Iii-ya,==W== ¿uii?
+0050 [Tyrant Army Researcher] | Ay... Nada más no le entra. ¿Qué voy a hacer contigo?
+0051 [???] | ¿Intentas enseñarles a hablar?
+0052 [Tyrant Army Researcher] | ¡Sí! Oí que las Plantas Inteligentes de 5.ª generación ya casi están listas. Incluso pueden usar sus enredaderas para cambiar la forma de su propio cuerpo.
+0053 [Tyrant Army Researcher] | Si imitan formas humanas y se vuelven un poco más listas... ¡Quizá algún día de verdad salven la brecha entre especies!
+0054 [Tyrant Army Researcher] | De todos modos, la gente ya las trata como mascotas o amigos.
+0055 [Tyrant Army Researcher] | ¡Si tan solo logro que hablen, podrían convertirse en verdaderas compañeras!
+0056 [???] | Je. Una ambición noble. Buena suerte con eso.
+0057 [Lugar y hora] | 14:30, 15.º del mes de Venatio, Distrito Invernadero de Philae, Núcleo del laboratorio
+0058 [Darcia] | Su Majestad. El Imperio de la Gracia aceptó nuestras condiciones. Se rinden.
+0059 [Darcia] | Albedo entró a Philae con el Sello de la Gracia. Aceptaré su sumisión formal en su palacio del Distrito de Oro.
+0060 [Darcia] | Su visión de tranquilidad universal por fin se hizo realidad. Philae, Flavio, Sailstead, Jilguero, Emor... En todos los lugares que gobernamos, las Plantas Inteligentes cuidan bien a los ciudadanos.
+0061 [Darcia] | Je... Todo se desarrolla exactamente como usted lo quiso. Nunca había visto tanta felicidad en sus rostros.
+0062 [Tú] | ...
+0063 [Tú] | Hiciste un buen trabajo, Darcia. Ve. Consigue el último Sello de la Gracia.
+0064 [Darcia] | Sí, Su Majestad.==W== Pronto... Pronto volveremos a cuando todavía podía abrazarme.
+0065 [???] | Entonces, Jefe. ¿Este es el mundo que deseabas?
+0066 [Tú] | No. Ni de cerca.
+0067 [Tú] | Este no es el mundo que quería. Es solo uno un poco menos terrible.
+0068 [Firenze] | ¿Te cuesta admitirlo? Todos parecen bastante felices bajo el cuidado de las plantas...==W== ¿No es este el mejor final posible?
+0069 [Firenze] | Al parecer, tu gente sigue obsesionada con desarrollar nuevas Plantas Inteligentes. Darle a cada quien una «planta compañera» que nunca lo traicione. Da miedo lo dependiente que se está volviendo la gente de esas cosas.
+0070 [Tú] | Es cierto. Con el tiempo, los humanos no serán más que piezas de museo, protegidos como una especie en peligro de extinción. Lo tendríamos todo y aun así nos sentiríamos vacíos.
+0071 [Tú] | Puede que por un tiempo se sienta como felicidad,==W== pero si le quitas a una persona su propósito por demasiado tiempo, tarde o temprano perderá la razón.
+0072 [Firenze] | Sacrificaste tanto. Construiste un ejército tan poderoso. ¿De verdad esto es todo lo que tienes para mostrar?
+0073 [Tú] | Me llaman el Tirano, pero solo soy una persona. Hay un límite a lo que puede hacer un solo ser humano. Lo sé mejor que nadie.
+0074 [Tú] | Seguro que tú también lo sabes. Si ahora estás aquí parada es solo porque otros te ayudaron a llegar hasta aquí, ¿no?
+0075 [Firenze] | Nunca esperé que el Imperio de la Gracia muriera por mí. Cayeron tres de los Aspectos de la Tétrada... Incluso Angie emboscó a Darcia en la ceremonia de rendición, solo para darme tiempo.
+0076 [Firenze] | Y tus amigas, Jefe... Por más desesperado que se viera todo, nunca se rindieron. Siguieron luchando, desesperadas por salvarte.
+0077 [Firenze] | Vine a matarte sin decirles nada. Cuando regrese... Seguramente me odiarán el resto de sus vidas.
+0078 [Tú] | El Gremio de la Nueva Estrella, Petal Bloom, el Clan Viento de Ceniza... ¿Están bien?
+0079 [Firenze] | ...
+0080 [Firenze] | Algunas...==W== se perdieron antes de ver sus sueños hechos realidad.
+0081 [Tú] | Ya veo... Gracias por ser sincera.==W== Entonces ya no me queda ningún arrepentimiento. Hazlo.
+0082 [Tú] | Vamos, Firenze. Toma tu espada.
+0083 [Firenze] | ...
+0084 [Tú] | Firenze. ¿Desde cuándo te volviste tan blanda?
+0085 [Tú] | Los dos estamos acorralados. Ahora solo hay una salida: uno de los dos vive y el otro muere.
+0086 [Tú] | El ciclo de cuatro años terminó. Las Plantas Inteligentes están llegando al límite de su vida útil; morirán en masa. Una vez que yo no esté...
+0087 [Firenze] | Darcia no podrá reconstruir el ejército y su plan se vendrá abajo. Lo entiendo...==W== Lo siento, Jefe. Y gracias.
+0088 [Firenze] | Si nuestras almas se vuelven a encontrar algún día...==W== Ojalá podamos ser simplemente amigos.
+0089 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0090 [Tú] | Ugh... Mis brazos... No se mueven. Siento todo el cuerpo entumido.
+0091 [Bernina] | Vaya, vaya. Qué frágil para ser un Tirano. ¿Una pausita y ya te estás cayendo a pedazos?
+0092 [Virigia] | No seas mala. Fueron cuatro años. A ver,==W== querido Tirano, déjame trabajar esos músculos. Solo hay que quitarte lo entumido con un masaje y te sentirás mejor.
+0093 [Bernina] | ¡Yo también ayudo! ¡Hiyah!
+0094 [Tú] | ¡Agh! ¡Ay, ay, ay! ¡Me van a matar!
+0095 [Tú] | ¿Eh? De verdad se me quitó el dolor.
+0096 [Bernina] | Je, je. Es mi técnica secreta: el Masaje Rematador. La aprendí hace siglos de alguien de Loong.
+0097 [Virigia] | Se llama «Rematador», pero cura... No lo entiendo.==W== Bueno, mientras te estés recuperando. ¿Sabes, Tirano? Esta vez de verdad estuviste a la altura del título.
+0098 [Bernina] | Mira a esos humanos. Felices de vivir como animales de zoológico, consentidos por las Plantas Inteligentes...==W== Nunca voy a entender cómo funcionan sus mentes.
+0099 [Tú] | Mira quién habla. Ustedes dos también parecen muy cómodas holgazaneando dentro del Monolito...
+0100 [Virigia & Bernina] | ...
+0101 [Virigia] | Vaya, qué lengua tan afilada tienes, Tirano.
+0102 [Virigia] | Esa pregunta es demasiado profunda para Bernina. Se le está sobrecalentando el cerebro. Mejor veamos tu última grabación.
+0103 [Virigia] | Te ves muy lindo así. Me dan ganas de apapacharte.
+0104 [Bernina] | Hmph. Un malvado como tú merece estar atado, Tirano. Serías un excelente «nutriente» para esas plantas.
+0105 [Tú] | Auch. Qué duras... A veces me pregunto si ustedes dos de verdad me odian.
+0106 [Tú] | Olvídenlo...==W== Vita, abre la puerta.
+0107 [Vita] | Tu orden es mi voluntad.
+0108 [Darcia] | Su Majestad. Por favor, acepte mi lealtad eterna. Tome este ejército y conquiste esta Nova podrida que lo traicionó.
+0109 [Tú] | ¿Cómo elijo...?==W== No puedo volver a aceptar su lealtad a ciegas. Esta vez no.
+0110 [Vita] | Tirano, te aconsejo aprovechar su lealtad.
+0111 [Vita] | Su devoción es absoluta. Pura y sin mezcla.
+0112 [Vita] | Si le ordenaras quitarse la vida, ejecutaría la orden sin dudar.
+0113 [Tú] | No. No haré eso.
+0114 [Tú] | Si abuso de su lealtad, me convertiré exactamente en lo que dicen las leyendas: un Tirano sin corazón.
+0115 [Tú] | Elijo el camino honorable.

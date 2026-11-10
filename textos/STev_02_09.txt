@@ -1,0 +1,105 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 9 · A Spectacular Entrance
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Happy Girl | Niña feliz
+N:Lively Boy | Niño animado
+N:Shy Girl | Niña tímida
+N:The Kids | Los niños
+N:avg1_115 | Firefly
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_1080 | Niño
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+N:avg4_100 | Laru, versión radiante
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Una entrada espectacular
+0003 [Intro] | Laru interpreta al Espíritu del Árbol Nevado y cumple el deseo de los niños. Es entonces cuando la misteriosa niña que te ha estado siguiendo en secreto por fin hace su aparición.
+0004 [Little Boy] | ¡Gracias, señorita!
+0005 [Laru] | De nada. ¡Feliz Festival Nevado!
+0006 [Little Boy] | ¡Feliz Festival Nevado para usted también! ¡Adiós!
+0007 [Tú] | Eh...
+0008 [Laru] | ¿Sí?
+0009 [Tú] | Ese niño era el último de la fila...
+0010 [Laru] | Entonces la niña que se acaba de ir...==W== probablemente no vive cerca, ¿verdad?
+0011 [Tú] | Sí, supongo que vino con nosotros solo porque quería ver al Espíritu del Árbol Nevado.
+0012 [Laru] | Cierto...==W== Y eso hace que lo que haremos después tenga todavía más significado...
+0013 [Tú] | En otras palabras, será un reto, pero divertido.
+0014 [Laru] | ¡Guau, de verdad admiro tu actitud positiva, Tirano!
+0015 [Laru] | ¡Muy bien! ¡Yo—==W==Lady Laru—haré una excepción por ti hoy y trabajaré horas extra!
+0016 [Narración] | Tras esa ambiciosa declaración, Laru y yo vamos a su tienda favorita de artículos de pesca para preparar el plan.
+0017 [Laru] | Mmm... Creo que necesito un hilo de pescar nuevo...
+0018 [Laru] | ¡Guau! ¡Las cañas de pescar más nuevas! Se ven buenísimas... Pero compré una el otro día...==W== ¡Ah, olvídalo!
+0019 [Laru] | Bueno, solo un hilo de pescar y algo de carnada por hoy...==W== Pero ¿y si nunca vuelvo a encontrar estas cañas...?
+0020 [Tú] | Está comprando lo que necesitamos para nuestro plan... ¿Verdad?
+0021 [Tú] | Aunque no lo parece...
+0022 [Laru] | ¡Oye, Tirano! ¿Cuál prefieres? ¿La de pesca en aguas poco profundas o la de pesca de altura?
+0023 [Tú] | Vamos, tú eres la experta. Elige la que creas que va mejor.
+0024 [Laru] | ¡Ay, por favor! ¡Hazlo por mí! ¡Sigue tu instinto!
+0025 [Tú] | Bueno, la pesca de altura suena genial. ¡Esa elijo!
+0026 [Laru] | ¡Perfecto! ¡Y con eso ya tenemos casi todo lo que necesitamos!
+0027 [Tú] | Ah, ¿entonces sí te estás preparando?
+0028 [Laru] | ¡Claro! ¡Ya tengo todo listo!
+0029 [Tú] | Pensé que solo querías un equipo de pesca nuevo...
+0030 [Laru] | ¿Eh? Bueno... ¡Me lo merezco! Después de todo,==W== ¡trabajo muuuy duro todos los días!
+0031 [Laru] | Muy bien, ya deberíamos regresar al Árbol Nevado. Te explicaré los detalles del plan en el camino.
+0032 [Narración] | Cuando llegamos, se han reunido muchos niños alrededor del Árbol Nevado.
+0033 [Lively Boy] | ¿De verdad... veré al Espíritu del Árbol Nevado?
+0034 [Shy Girl] | Por favor... Déjenme ver al Espíritu antes de irme a casa...
+0035 [Happy Girl] | ¡Ya está oscureciendo. La veremos pronto!
+0036 [Lively Boy] | ¡Sí! ¡El Espíritu del Árbol Nevado brilla! ¡Seguro que la vemos fácilmente!
+0037 [Tú] | Guau, los niños están todos aquí, como era de esperarse.
+0038 [Tú] | Excepto esa niña... Qué raro... Parecía tan emocionada por ver al Espíritu...
+0039 [Tú] | Bueno, da igual. Primero llevaré a cabo el plan de Laru...
+0040 [Tú] | ¡Feliz Festival Nevado, niños!
+0041 [Lively Boy] | ¡Oye, eres tú! ¿Tú también vienes por el Espíritu?
+0042 [Tú] | ¡Sí! Vi esa foto y de verdad quiero ver al Espíritu con mis propios ojos.
+0043 [Happy Girl] | ¡Entonces esperémosla juntos!
+0044 [Lively Boy] | ¡Este año todos tenemos regalos, así que seguro la vemos!
+0045 [Tú] | Sí, la veremos.
+0046 [Narración] | De repente, una luz deslumbrante iluminó toda la plaza.
+0047 [Tú] | ¡La luz! ¿Será...?
+0048 [Shy Girl] | ¡Eh!
+0049 [Tú] | ¿Podría ser...==W== el Espíritu del Árbol Nevado?!
+0050 [Laru] | ¡Feliz Festival Nevado, niños buenos!
+0051 [The Kids] | Uhhh...
+0052 [Lively Boy] | El Espíritu... es más grande de lo que imaginaba...
+0053 [Shy Girl] | Mmm...
+0054 [Happy Girl] | ¿El Espíritu del Árbol Nevado crece igual que nosotros?
+0055 [The Kids] | ...
+0056 [Tú] | Ay, no, los niños están sospechando. ¡Hay que hacer algo!
+0057 [Tú] | ¡Ah! ¡La luz es tan brillante! ¡Ah, mis ojos!
+0058 [Tú] | ¡Tú puedes, Laru!
+0059 [Laru] | ¡¡...!!
+0060 [Tú] | ¡Perfecto! ¡Captó la indirecta!
+0061 [Lively Boy] | ¡¡Guau!! ¡¡Qué increíble!!
+0062 [Shy Girl] | Qué bonito...
+0063 [Happy Girl] | ¡De verdad es el Espíritu del Árbol Nevado!
+0064 [Laru] | ¡Ja, ja! Queridos niños, ¡pude sentir cuánto deseaban verme, así que vine corriendo solo por ustedes!
+0065 [The Kids] | ¡¡Guau!!
+0066 [Laru] | ¡Gracias a todos! ¡Gracias por esperarme a pesar del frío! Ahora, ¡caliéntense con estas ricas papas fritas!
+0067 [Lively Boy] | ¡Yupiii! ¡Gracias!
+0068 [Happy Girl] | ¡Todavía están calientitas!
+0069 [Shy Girl] | ¡Gracias, señorita Espíritu!
+0070 [Laru] | De nada, niños. ¡Me alegra mucho que les gusten!
+0071 [Lively Boy] | ¡Ay, no, tengo que irme a casa ya, o mi mamá se va a enojar conmigo!
+0072 [Happy Girl] | ¡Cierto, nosotros también deberíamos irnos!
+0073 [Lively Boy] | ¡Vimos al Espíritu del Árbol Nevado! ¡Tengo que contárselo a todos!
+0074 [Laru] | ¡Adiós, niños! ¡Cuídense!
+0075 [The Kids] | ¡Usted también!
+0076 [The Kids] | ¡Adiós, señorita Espíritu! ¡Feliz Festival Nevado!
+0077 [Laru] | ¡Feliz Festival Nevado!
+0078 [Tú] | Se acabó...
+0079 [Tú] | Y esa niña nunca vino...
+0080 [Laru] | En realidad sí vino.
+0081 [Tú] | ¿En serio?
+0082 [Laru] | Mira allá.
+0083 [Narración] | Sigo la mirada de Laru y veo ahí parada a una figura conocida.
+0084 [Narración] | Ahora que todos los demás niños se han ido, la niña se acerca corriendo.
+0085 [???] | ... Señorita Espíritu... Tengo un deseo...

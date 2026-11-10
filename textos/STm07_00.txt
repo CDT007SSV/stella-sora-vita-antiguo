@@ -1,0 +1,112 @@
+# Capítulo 7 · El precio de la estrella · Interludio · Omnisky Aegis
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Omnisky Aegis CEO | Directora ejecutiva de Omnisky Aegis
+N:Other Salespeople | Otros vendedores
+N:Salespeople | Vendedores
+N:Salesperson No. 17 | Vendedor n.º 17
+N:Salesperson No. 18 | Vendedor n.º 18
+N:Salesperson No. 19 | Vendedor n.º 19
+N:Salesperson No. 20 | Vendedor n.º 20
+N:Salesperson No. 21 | Vendedor n.º 21
+N:Slightly Coquettish Voice | Voz algo coqueta
+N:avg3_1237 | Pandillera genial
+N:avg3_1238 | Chica de la pandilla
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_207 | Myrsha
+N:avg3_210 | Hazana
+N:avg3_220 | Mercurio
+
+## Texto
+0001 [Intro] | Interludio
+0002 [Intro] | Omnisky Aegis
+0003 [Intro] | Los Escorpiones del Desierto, haciéndose pasar por agentes de seguros, causaron el caos en el banquete. Mercurio, la recién nombrada gerente de Omnisky Aegis, convierte el escándalo en una ventaja y le presenta al Senado un plan audaz...
+0004 [Lugar y hora] | 09:30, 8.º del mes de Venatio, Distrito de Oro de Philae, oficina de Omnisky Aegis
+0005 [Mercurio] | Gracias por elegirnos. Le habla Mercurio, gerente de la división de Philae de Omnisky Aegis.
+0006 [Mercurio] | Según el cuestionario que llenó, parece que busca una póliza de seguro de vida de alto valor.
+0007 [Mercurio] | ¿Ah, se le olvidó? No se preocupe. Acabamos de lanzar un nuevo paquete perfecto para una dama de su posición.
+0008 [Mercurio] | No se trata solo de tranquilidad. Es una red de seguridad para esas pequeñas emergencias impredecibles que la vida suele ponernos enfrente.
+0009 [Mercurio] | Respaldamos este producto con total confianza. Francamente, es nuestra principal recomendación para una ejecutiva de su calibre.
+0010 [Mercurio] | ¿Le preocupan nuestras prácticas comerciales? No, no, me temo que ha habido un terrible malentendido.
+0011 [Mercurio] | Claro, aquí tengo el Scarlet Sights de hoy. Primera plana... Ah, sí. La nota sobre el banquete de hace tres días.
+0012 [Mercurio] | Entiendo su preocupación, señora, de verdad. Pero, por favor, confíe en nuestra reputación.
+0013 [Mercurio] | Omnisky Aegis tiene un auténtico Sello de la Gracia. Jamás prestaríamos nuestro nombre a bandidos como los Escorpiones del Desierto. Fuimos víctimas de suplantación de identidad, como cualquier otro.
+0014 [Mercurio] | De hecho, si lo piensa bien, el incidente solo demuestra que nuestra cobertura de verdad «protege a los clientes en momentos de crisis inesperada». Esa promesa ya pasó la prueba de fuego, ¿no le parece?
+0015 [Mercurio] | Revise la nota. Todas las personas de ese evento que tenían una póliza de Omnisky salieron ilesas.
+0016 [Mercurio] | Sospechamos que, como los bandidos se disfrazaron de nuestros empleados, evitaron lastimar a nuestros clientes para no delatarse.
+0017 [Mercurio] | Exacto. Hasta que la Guardia Imperial confirme que hasta el último Escorpión del Desierto huyó de Philae, ser cliente de Omnisky es prácticamente una forma de inmunidad.
+0018 [Mercurio] | Gracias por su confianza. Esta tarde le mando a mi asistente para cerrar los detalles. Muy bien... Sí... Será un placer atenderla.
+0019 [Mercurio] | Número Diecisiete. Ve esta tarde al Imperio de la Gracia y cierra el trato con la señora Mary. Anótala con diez años de cobertura médica y cincuenta de vida.
+0020 [Salesperson No. 17] | Sí, señora. Ya estoy preparando el papeleo.
+0021 [Salesperson No. 18] | La llamamos hace horas y colgó en cuanto oyó «Omnisky». No puedo creer que usted la haya conseguido...==W== Gerente, de verdad es una maestra en lo suyo.
+0022 [Salesperson No. 19] | Dos días aquí y le dio la vuelta a todo. Antes de que llegara, estaba seguro de que la sede iba a cerrar la sucursal de Philae. Supongo que así se ve una verdadera profesional...
+0023 [Salesperson No. 20] | ¡Por favor, enséñenos sus secretos! La verdad, que me rechacen una y otra vez me está empezando a destrozar el alma...
+0024 [Mercurio] | Está bien. Déjenme preguntarles algo... ¿Qué creen que vendemos en realidad?
+0025 [Salesperson No. 20] | ¿Qué vendemos...? Pues seguros, obviamente... Como ese plan de salud que acaba de ofrecer. Cubre los gastos médicos del cliente.
+0026 [Salesperson No. 21] | Y el seguro de vida le paga una indemnización a un beneficiario si el cliente muere antes de cierta edad.
+0027 [Mercurio] | ...
+0028 [Mercurio] | Eso no es vender. Eso es recitar un manual. ¿No aprendieron nada en la inducción?
+0029 [Salesperson No. 21] | Ah, jaja... Bueno, en realidad no hubo inducción. El gerente anterior nos contrató y luego lo despidieron de inmediato por todo el desastre del banquete.
+0030 [Salesperson No. 20] | Tiene que ayudarnos, capi... digo, gerente.
+0031 [Mercurio] | Ya, ya...
+0032 [Mercurio] | Toma esta espada. Ahora, véndemela.
+0033 [Salesperson No. 21] | ¿Vender la espada...?==W== Eh, bueno. Esta es una... ¡Una hoja muy afilada! Está tan afilada que puede...==W== ¡Puede cortar armaduras como si fueran mantequilla!
+0034 [Mercurio] | ¡Reprobado!
+0035 [Mercurio] | Yo trabajo en una oficina. ¿Para qué querría andar cortando caballeros con armadura? Además, eso es publicidad engañosa. Si luego te pido que me vendas una armadura, ¿me vas a decir que detiene todas las armas que existen?
+0036 [Salesperson No. 21] | Eh... C-claro que no.
+0037 [Mercurio] | Olvídalo... Vuelvan al trabajo. Pero asegúrense de llevar algo para defenderse cuando salgan a campo.
+0038 [Salesperson No. 18] | ¿Para defendernos?
+0039 [Mercurio] | ¿No se han enterado? La primera plana del Scarlet Sights dice que la Guardia Imperial no está segura de si todavía hay Escorpiones del Desierto escondidos en la ciudad.
+0040 [Mercurio] | Y si quisieran volver a disfrazarse de personal de Omnisky... ¿De dónde creen que sacarían los uniformes?
+0041 [Salesperson No. 19] | ¡¿Quiere decir que los Escorpiones del Desierto podrían asaltarnos solo para robarnos el uniforme?!
+0042 [Salesperson No. 20] | ¡Oye! ¡Yo era quien estaba vendiendo la espada! ¡Quita las manos!
+0043 [Salesperson No. 21] | ¿Perdón? La gerente me estaba hablando a mí. ¡Debería ser mía!
+0044 [Salesperson No. 20] | ¿Qué no ya cargas con un martillo gigante?
+0045 [Salesperson No. 21] | ¡Nunca sobran las armas!
+0046 [Mercurio] | ...
+0047 [Salesperson No. 18] | Esperen. La gerente solo estaba tratando de «vendernos» la espada. Todo eso de los bandidos... En realidad fue una exageración, ¿verdad, gerente?
+0048 [Mercurio] | Número Dieciocho, eres listo. Puede que todavía haya esperanza para ti.
+0049 [Other Salespeople] | ¿Eh?
+0050 [Mercurio] | Ventas básicas: identifica la necesidad del cliente.
+0051 [Mercurio] | Una hoja afilada no significa nada si no responde a la necesidad de nadie. Pero en cuanto surge una necesidad, hasta un pedazo de acero cualquiera se vuelve algo por lo que la gente se pelea.
+0052 [Mercurio] | En el momento en que se dieron cuenta de que «podrían atacarlos los Escorpiones del Desierto», no solo querían una espada. Querían la seguridad que representa.
+0053 [Mercurio] | Pero sean honestos: ninguno de ustedes quiere tener que usarla, ¿o sí?
+0054 [Salesperson No. 20] | Claro que no... Solo quiero seguir con vida. ¿Quién querría toparse con un Escorpión del Desierto y acabar en una pelea a cuchillo?
+0055 [Mercurio] | ¿Ya lo entienden? Vender seguros no es distinto de vender esta espada.
+0056 [Mercurio] | Ofrece tranquilidad, pero es el único producto que el cliente espera no tener que usar nunca.
+0057 [Mercurio] | En cierto sentido, lo que realmente vendemos es «seguridad».
+0058 [Mercurio] | Es cierto, que los Escorpiones del Desierto se infiltraran en nuestro banquete hace tres días fue una pesadilla de relaciones públicas.
+0059 [Mercurio] | Pero, si se le da el giro correcto, hasta ese desastre se vuelve un argumento de venta. Demuestra que podemos ofrecer la seguridad que necesitan.
+0060 [Mercurio] | ¿Quedó claro?
+0061 [Salespeople] | ¡Clarísimo!
+0062 [Mercurio] | Pueden retirarse.
+0063 [Mercurio] | Ay... Por fin un poco de silencio.==W== ¿De dónde sacó el gerente anterior a esta gente? Todos tienen piedras en la cabeza.
+0064 [Mercurio] | Aun así, son baratos y tienen energía. Los mandaré a la sede para que los capaciten; quizá encuentre un diamante en bruto.
+0065 [Mercurio] | Hablando de la sede... Ya me toca reportarme. Operadora, comuníqueme con Geminia.
+0066 [Slightly Coquettish Voice] | ¡Mercurio! Ya te tardaste. ¿Cómo va la limpieza en Philae?
+0067 [Mercurio] | Señora directora. Gracias a Ventas, tenemos una cartera de clientes estable. También firmamos a tres clientes ejecutivos de alto perfil en los últimos dos días; deberían abrirnos las puertas a nuevas redes muy lucrativas.
+0068 [Omnisky Aegis CEO] | ¡Nada mal! Mientras todas las demás sucursales se hunden por la mala prensa, tú llegas y de hecho subes las cifras... Ay, ya me imagino las caras retorcidas de los senadores. Va a ser todo un placer.
+0069 [Mercurio] | No olvidemos que hace diez días propuse formalmente que asistiéramos al banquete de Firenze. Nos guste o no, ella es quien dirige Philae ahora.
+0070 [Mercurio] | Pero el Senado lo rechazó para no «molestar a la sede de Cosecha Unida». Esa negativa fue justo lo que permitió que los Escorpiones del Desierto se colaran disfrazados de nuestro personal.
+0071 [Mercurio] | Además, confirmé que el plan de suplantación lo orquestó un ejecutivo de Cosecha Unida que buscaba quedarse con el puesto de Firenze. A ellos no les preocupó en absoluto dañar las relaciones con nosotros.
+0072 [Mercurio] | Reuní todos los detalles en un nuevo informe. Un Trekker ya va en camino a Geminia con él.
+0073 [Omnisky Aegis CEO] | ...
+0074 [Omnisky Aegis CEO] | Ay... Mi tonta hermanita. Sabes que esa actitud fría y áspera es justo la razón por la que llevas tantos años estancada en mandos medios, ¿verdad?
+0075 [Mercurio] | ¿Y tú? Mi ingenua hermana mayor. El Senado no te dio esa silla por tu cerebro. Te pusieron ahí porque eres fácil de manejar: un sello de goma perfecto.
+0076 [Omnisky Aegis CEO] | Je... Puede que sea un «sello de goma». Pero ¿no es tu trabajo darle valor a las cosas que no valen nada?
+0077 [Omnisky Aegis CEO] | Hablando de trabajo, ¿cómo le haces para subir las ventas en medio de este lío? La opinión pública nos está comiendo vivos con esos rumores de que estamos coludidos con los Escorpiones del Desierto.
+0078 [Mercurio] | Los Escorpiones del Desierto son el sindicato de bandidos más grande del noroeste. ¿De verdad es tan malo que una aseguradora tenga una... reputación peligrosa?
+0079 [Mercurio] | ¿Quién crees que le pasó esas historias a Scarlet Sights? Esta semana me senté en persona con media docena de brujas.
+0080 [Mercurio] | Deberíamos lanzar de inmediato nuevos paquetes de seguridad y de bienes en la Región Occidental. El miedo vende, y la gente se va a tragar lo que le ofrezcamos durante meses.
+0081 [Omnisky Aegis CEO] | Espera, ¿tú lo filtraste? ¿Eso no va a arrastrar todavía más nuestro nombre por el lodo?
+0082 [Mercurio] | Un escándalo de este tamaño corre con o sin nosotros. Si los inundamos de entrevistas, controlamos la narrativa y le damos el giro a nuestro favor.
+0083 [Omnisky Aegis CEO] | Explotar sin piedad tu propio escándalo... aunque sea por el bien de la empresa. Je, de verdad eres una niña aterradora.
+0084 [Omnisky Aegis CEO] | En fin, buenas noticias. Como el Senado no supo leer para nada el ambiente en el banquete de Philae, esos viejos fósiles por fin están soltando las riendas.
+0085 [Omnisky Aegis CEO] | Ahora tienes acceso total a los recursos de la empresa. La única condición es que arregles este lío de los Escorpiones del Desierto haciéndose pasar por nuestro personal.
+0086 [Mercurio] | Quédate tranquila. Tengo un plan.
+0087 [Narración] | El dedo de Mercurio se desliza por la pantalla y se detiene en un titular de Scarlet Sights.
+0088 [Mercurio] | La mejor forma de enterrar una mala noticia... es crear una todavía más grande.

@@ -1,0 +1,6 @@
+# Historia de Chixia — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_141_01 | La aldea embrujada (Parte I)
+CG_141_02 | La aldea embrujada (Parte II)
+CG_141_03 | La aldea embrujada (Parte III)

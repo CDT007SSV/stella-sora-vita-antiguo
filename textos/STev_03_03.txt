@@ -1,0 +1,107 @@
+# Evento · Un crepitante indicio de primavera · 3 · A través de la niebla
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Hotpot Restaurant Owner | Dueño del restaurante de hotpot
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_141 | Chixia
+N:avg1_151 | Yunshu
+N:avg1_159 | Coronis
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_176 | Residente de Loong
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | A través de la niebla
+0003 [Intro] | En un restaurante de hotpot te topas con Shimiao, que investiga el robo de petardos. Conforme las piezas encajan, te das cuenta de que la desaparición de tus amigas está ligada a una red de contrabando...
+0004 [Chixia] | Oigan, ¿seguro que seguimos bien las indicaciones de mi senior?==W== ¡Porque no veo nada en esta pared!
+0005 [Coronis] | La pared del este...==W== Señorita Chixia, ¿su senior quiso decir que revisáramos la pared de verdad?
+0006 [Chixia] | Sí. ¿Dónde más?
+0007 [Coronis] | Asumí que era una metáfora. Algo que solo una Xuan Shi podría interpretar.
+0008 [Chixia] | Mi senior conoce nuestros límites, así que tradujo los hexagramas a lenguaje sencillo.
+0009 [Chixia] | Si dijo la pared del este, se refería a la pared del este.
+0010 [Tú] | ¿Mm? Espera, parece que hay algo pegado allá...
+0011 [Coronis] | ¿Un anuncio de empleo?
+0012 [Coronis] | Trabajo de cargador, bien pagado. Sin datos de contacto, solo un punto de reunión...==W== ¿«Restaurante Olla Roja», calle Fangcao n.º 9?
+0013 [Chixia] | ¡Ah! ¡Conozco ese lugar! Un hotpot buenísimo. La última vez, Shimiao lloró a mares por lo picante.
+0014 [Tú] | El papel todavía está firme. Debe de ser un anuncio reciente.
+0015 [Iris] | Ya conseguimos el encargo.
+0016 [Amber] | Ayudando con una entrega.
+0017 [Noya] | ¡Lo terminamos en un santiamén!
+0018 [Tú] | Entendido.
+0019 [Tú] | También mencionaron un trabajo de entrega...
+0020 [Tú] | Seguramente vieron este volante y aceptaron el trabajo.
+0021 [Tú] | El restaurante de hotpot no parece tener relación con Jinglin, pero vayamos a preguntar de todos modos.
+0022 [Hotpot Restaurant Owner] | Creí que por fin se había calmado todo. No puedo creer que esté pasando otra vez.
+0023 [Shimiao] | Entiendo su frustración.==W== La Oficina Baize está investigando y pronto tendremos respuestas para usted.
+0024 [Tú] | Disculpe, quisiera preguntar si...==W== ¿eh? ¿Shimiao?
+0025 [Shimiao] | Oh, eres tú. ¿Tuvieron suerte con la búsqueda? ¿O solo vinieron por hotpot?
+0026 [Tú] | Seguimos una pista. Vinimos a hacer unas preguntas.
+0027 [Chixia] | ¿Y tú qué haces aquí? ¿Viniste por la segunda ronda del Hotpot Picante Supremo Cielo e Infierno?
+0028 [Shimiao] | Q-qué tonterías...==W== Estoy aquí de servicio. Investigando los petardos robados.
+0029 [Tú] | ¿Petardos robados?
+0030 [Hotpot Restaurant Owner] | Ay... Anoche entró un ladrón. Se llevó todo nuestro inventario de petardos.
+0031 [Hotpot Restaurant Owner] | Sin ellos no es un verdadero festival. Intenté reponerlos, pero están agotados en todas partes.
+0032 [Hotpot Restaurant Owner] | Mi hijo llevaba días contando los días que faltaban. Se imaginarán lo desanimado que está ahora.
+0033 [Chixia] | ¡Qué identificada! Si de niña no hubiera podido jugar con petardos, habría llorado a mares.
+0034 [Chixia] | Por suerte yo tengo un montón guardados. Luego les mando algunos.
+0035 [Hotpot Restaurant Owner] | ¿En serio? ¡Me salvas la vida! ¡Gracias!
+0036 [Hotpot Restaurant Owner] | Ah, cierto, dijeron que... ¿tenían preguntas?
+0037 [Tú] | Estamos buscando a alguien. ¿Ha visto a alguna de estas chicas por aquí?
+0038 [Narración] | Le muestras al dueño las fotos del Gremio de la Nueva Estrella y de Jinglin.
+0039 [Hotpot Restaurant Owner] | ¡Pero si es Jinglin! Una pariente lejana. Pasó ayer mismo a ponernos al día.
+0040 [Coronis] | ¿De qué hablaron?
+0041 [Hotpot Restaurant Owner] | Dijo que saldría de la ciudad a recoger brotes de bambú de invierno. Quedan muy bien en estofado.
+0042 [Hotpot Restaurant Owner] | A esas tres sí las recuerdo. Llegaron justo cuando terminaba la hora pico de la comida. Se sentaron un rato, pero...==W== no estaban solas. Había alguien más con ellas.
+0043 [Tú] | ¿Alguien más? ¿Podría darnos más detalles?
+0044 [Hotpot Restaurant Owner] | Una chica local de rojo, que parecía muy enérgica. No pidieron nada, solo platicaron un rato y se fueron con prisa.
+0045 [Hotpot Restaurant Owner] | Ah, cierto. Cuando les serví el té, las oí planear un viaje fuera de la ciudad. Algo sobre mover objetos de valor.
+0046 [Tú] | Gracias. Nos ayudó muchísimo.
+0047 [Hotpot Restaurant Owner] | ¿De verdad? Me alegra haber servido de algo.
+0048 [Shimiao] | Lo dejamos volver a su negocio. Le avisaré cuando lleguemos a una conclusión sobre los petardos robados.
+0049 [Hotpot Restaurant Owner] | De nada. ¡Buen viaje!==W== Y vuelvan a probar nuestro hotpot de la casa...
+0050 [Tú] | Shimiao, cuando dijiste hace rato que tenías trabajo, ¿te referías a este robo de petardos?
+0051 [Shimiao] | Sí. La ciudad ha sufrido una serie de robos de petardos últimamente.
+0052 [Shimiao] | Por lo que hemos descubierto hasta ahora, algo es seguro: los fuegos artificiales han sido sacados de la ciudad...
+0053 [Shimiao] | Por desgracia, el rastro termina ahí. No hemos podido localizar el escondite de los ladrones en las vastas Tierras Salvajes.
+0054 [Chixia] | Espera, eso me suena...==W== Creo que alguien en el retiro también advertía a todos que estuvieran alerta.
+0055 [Shimiao] | Pensé que el caso se enfriaba cuando los ladrones desaparecieron sin dejar rastro durante días...==W== hasta que hoy empezamos a recibir una oleada de reportes sobre los robos de anoche.
+0056 [Tú] | ¿Desaparecieron por días, solo para volver y robar más?
+0057 [Shimiao] | Correcto... Y su modus operandi ha cambiado.
+0058 [Shimiao] | Los primeros robos afectaron a muchos hogares, pero de cada uno se llevaron solo pequeñas cantidades de fuegos artificiales.
+0059 [Shimiao] | Pero anoche apuntaron a casas con grandes reservas y las vaciaron por completo. No dejaron ni una bengala.
+0060 [Chixia] | ¿Pero para qué robar tanto? ¿Este tipo quiere hacer la fiesta de Buscaprimavera más grande de la historia?
+0061 [Coronis] | Trabajar como doctora clandestina en el Distrito de las Cenizas enseña mucho sobre cómo funciona el mercado negro.
+0062 [Coronis] | ¿Mi apuesta? Estamos ante contrabandistas.
+0063 [Chixia] | ¿Contrabandistas? ¿En serio? ¿De qué sirve contrabandear petardos?
+0064 [Coronis] | Los petardos son solo una fachada.==W== Los usan para traficar pólvora a través de las fronteras de la ciudad sin ser detectados.
+0065 [Coronis] | He oído rumores de un comprador que paga lo que sea por pólvora. Quiere armas que no requieran magia. Aunque todavía no hay casos de éxito.
+0066 [Shimiao] | La producción y el comercio de fuegos artificiales en Cangwu están estrictamente regulados. La exportación sin autorización está absolutamente prohibida.
+0067 [Shimiao] | Eso lo convierte en una falta gravísima. No podemos quedarnos de brazos cruzados mientras los productos de Cangwu se explotan con fines malintencionados.
+0068 [Tú] | Contrabando... Cargadores bien pagados...
+0069 [Shimiao] | ¿Qué sucede? ¿Te diste cuenta de algo?
+0070 [Hotpot Restaurant Owner] | A esas tres sí las recuerdo. Llegaron justo cuando terminaba la hora pico de la comida. Se sentaron un rato, pero...==W== no estaban solas. Había alguien más con ellas.
+0071 [Tú] | Según lo que dijo el dueño del restaurante, el Gremio de la Nueva Estrella definitivamente aceptó ese encargo del anuncio.
+0072 [Tú] | Y el trabajo tiene que ser sacar esa carga robada de la ciudad.
+0073 [Chixia] | ¿Eh? ¿Yo creía que estaban llevando petardos de dentro de la ciudad hacia afuera?
+0074 [Tú] | Shimiao acaba de confirmar que el grupo ya sacó los petardos de los límites de la ciudad.
+0075 [Tú] | Seguramente los sacaron de contrabando en lotes pequeños para no ser detectados, acumulando todo en un escondite en las Tierras Salvajes. Ahora que tienen la carga completa, están listos para moverla toda de una vez.
+0076 [Coronis] | Un envío de ese tamaño requiere manos extra. Contratar al Gremio de la Nueva Estrella para el trabajo físico... Sí, esa lógica se sostiene.
+0077 [Coronis] | ¿Pero por qué desapareció Jinglin?
+0078 [Chixia] | ¡Espera! ¿Y la lectura de Yunshu?
+0079 [Yunshu] | Sus destinos están entrelazados... Todas las personas que buscan están reunidas en el mismo lugar, ahora mismo.
+0080 [Yunshu] | Tranquilos, están ilesas. Simplemente las han retenido.
+0081 [Chixia] | Si la Nueva Estrella y Jinglin están juntas, ¡quizá se toparon con los contrabandistas y quedaron atrapadas!
+0082 [Coronis] | Es plausible... ¿Pero cómo se enredó Jinglin en esto?
+0083 [Tú] | Es solo una teoría basada en la adivinación, pero esto es lo que sospecho...
+0084 [Tú] | Lo más probable es que la Nueva Estrella se diera cuenta de la naturaleza del trabajo en pleno transporte y confrontara al cliente.
+0085 [Tú] | Y Jinglin, que andaba buscando ingredientes, seguramente se topó con la escena y la arrastraron al problema.
+0086 [Shimiao] | Si es así, localizar a los contrabandistas es nuestra máxima prioridad.
+0087 [Coronis] | ¿Pero cómo? Rastrear a un grupo que se ha esfumado en las Tierras Salvajes es casi imposible.
+0088 [Tú] | Sobre eso... De hecho, tengo un plan...
+0089 [Tú] | Podemos atraerlos para que caigan directo en nuestras manos.

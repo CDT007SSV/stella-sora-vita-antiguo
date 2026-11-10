@@ -1,0 +1,154 @@
+# Evento · Enmarcando los sentimientos invisibles · 6 · La primera vez
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheerful Trekker | Trekker alegre
+N:Composed Trekker | Trekker sereno
+N:Eye of Grace Researcher | Investigador del Ojo de la Gracia
+N:Trekkers | Trekkers
+N:avg1_115 | Firefly
+N:avg1_120 | Canace
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1275 | Lucky Rubbi
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_214 | Investigador del Ojo de la Gracia
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | La primera vez
+0003 [Intro] | Es la primera vez que Firefly salva a alguien. Experimenta emociones distintas a cualquiera que haya conocido. En ese momento, una Canace despeinada aparece ante ustedes...
+0004 [Cheerful Trekker] | Ay, qué alivio...==W== ¡Gracias! ¡Gracias a los dos!
+0005 [Composed Trekker] | Pensé que estábamos perdidos... Juro que vi a mi abuelo haciéndome señas para que fuera con él.
+0006 [Cheerful Trekker] | Ugh, no digas eso... ¿Pero la viste? ¡Fue increíble! ¡Llegó volando, pum-pum-pum, y acabó con todos los Stellaroids!
+0007 [Cheerful Trekker] | ¡Gracias, linda! ¡Sin ti no lo habríamos logrado!
+0008 [Firefly] | ...
+0009 [Tú] | Parece que no sabe cómo responder a eso.
+0010 [Tú] | Su situación involucra el experimento secreto del Ojo de la Gracia; necesito una historia de cobertura antes de que empiecen a preguntar algo más profundo...
+0011 [Tú] | ¿Están heridos?
+0012 [Composed Trekker] | Solo unos raspones. Llegaron justo a tiempo.
+0013 [Composed Trekker] | ¿Ustedes también son Trekkers?
+0014 [Tú] | Sí. Soy ==PLAYER_NAME== y ella es Firefly.
+0015 [Cheerful Trekker] | Vaya. ¿No es un poco joven para este oficio?
+0016 [Tú] | No digas nada sospechoso...
+0017 [Tú] | ¿E-ella? Es estudiante.
+0018 [Tú] | Se especializa en Estudios del Monolito. Estamos aquí de excursión...
+0019 [Tú] | Cuando en realidad vinimos por rollo.
+0020 [Tú] | Será joven, pero ya la vieron en acción. ¡No hay de qué preocuparse!
+0021 [Composed Trekker] | Cierto. Nos supera por completo.
+0022 [Composed Trekker] | Ah, antes de que se me olvide. Hace rato encontramos la Caja de Deseos de este piso. Es suya.
+0023 [Tú] | Espera, ¿en serio? ¿Están seguros?
+0024 [Cheerful Trekker] | ¡Por favor, llévensela! Tómenla como regalo de agradecimiento. Si Firefly no hubiera intervenido, seríamos residentes permanentes de este Monolito.
+0025 [Tú] | ¡Parece que hoy es nuestro día de suerte, Firefly!
+0026 [Firefly] | ¡Yupi, rollo! ♪ ¡Rollo! ♪
+0027 [Composed Trekker] | Nosotros ya nos vamos. ¿Y ustedes?
+0028 [Tú] | Igual. Ya conseguimos lo que veníamos a buscar.
+0029 [Composed Trekker] | Perfecto. Ningún Artefacto vale tanto como para morir por él.
+0030 [Composed Trekker] | Caray, el Dios de la Gracia debe de estar furioso hoy. Qué día para bajar aquí... Qué mala suerte.
+0031 [Tú] | ¿A qué te refieres? ¿Viste algo raro?
+0032 [Composed Trekker] | Los Stellaroids están pululando hoy. Y muchos de los fuertes también. Exploramos este Monolito todo el tiempo... pero nunca lo había visto tan traicionero.
+0033 [Tú] | Firefly dijo lo mismo... Definitivamente algo anda mal con el Monolito hoy.==W==
+0034 [Firefly] | ... Tirano, quiero tomar una foto.
+0035 [Firefly] | Pero si tomo fotos de todo, el rollo se va a acabar otra vez...
+0036 [Tú] | No hay prisa. Primero mira a tu alrededor. Es mejor esperar un momento significativo, algo que quieras capturar, antes de apretar el obturador.
+0037 [Firefly] | ¿Significativo...? ¿Quiero capturar...?
+0038 [Tú] | Sí. ¿Cómo te lo explico...?
+0039 [Tú] | Digámoslo así. Mira alrededor. ¿Hay algo especial aquí que quieras volver a ver?
+0040 [Firefly] | ¿Alrededor...? Las estrellas que brillan son bonitas.
+0041 [Firefly] | Pero afuera también hay estrellas... Así que no es tan especial.
+0042 [Tú] | Parece que nada más destaca...==W== ¡Espera, tengo una idea!
+0043 [Composed Trekker] | ¿Una foto?==W== ¡Claro! Será un gran recuerdo.
+0044 [Cheerful Trekker] | ¿Qué? ¿Con mi cara llena de polvo?==W== Bueno... ¿por qué no? Algún día nos reiremos de esto.
+0045 [Firefly] | ...
+0046 [Tú] | ¿Qué te parece, Firefly? Es una oportunidad poco común. Tómales una foto.
+0047 [Firefly] | Pero... nunca he tomado una foto de nadie.
+0048 [Firefly] | Siempre son otros los que me toman fotos a mí.
+0049 [Eye of Grace Researcher] | Datos registrados. Terminamos por hoy.
+0050 [Eye of Grace Researcher] | Buen trabajo, Firefly.
+0051 [Eye of Grace Researcher] | Los números son sólidos. Hasta podríamos ver ese bono del proyecto este año.
+0052 [Eye of Grace Researcher] | Claro. Firefly es nuestra sujeto de pruebas más prometedora. Es nuestra...==W== «esperanza».
+0053 [Eye of Grace Researcher] | Esperemos que siga así. Si su progreso se estanca demasiado tiempo, todos nos quedaremos sin trabajo.
+0054 [Eye of Grace Researcher] | Jaja, no lo gafes.
+0055 [Firefly] | Todos ustedes... ¿sonríen? ¿Están felices?
+0056 [Eye of Grace Researcher] | ¿Hm? ¿Firefly? ¿Sigues aquí?
+0057 [Firefly] | ¿Qué es... eso?
+0058 [Eye of Grace Researcher] | ¿Hm? ¿Esto?
+0059 [Eye of Grace Researcher] | Es un Capturador de Fotos. Un Artefacto que congela un solo momento y lo registra.
+0060 [Firefly] | ¿Las fotos... los hacen felices?==W== Si tomo una... ¿yo también sonreiré?
+0061 [Eye of Grace Researcher] | No es la foto lo que nos hace sonreír...
+0062 [Eye of Grace Researcher] | No gastes saliva con una niña.
+0063 [Eye of Grace Researcher] | Ya respaldamos los datos. Si tiene tanta curiosidad, que se quede con una copia.
+0064 [Firefly] | ...
+0065 [Narración] | ¿Esta soy... yo?
+0066 [Narración] | La foto. No estoy feliz. No estoy sonriendo para nada.
+0067 [Narración] | ¿La foto... está mal?
+0068 [Eye of Grace Researcher] | ¿Qué pasa? No dejas de mirar el Capturador de Fotos. No me digas que lo quieres.
+0069 [Eye of Grace Researcher] | ... ¿De verdad está mostrando interés en el Capturador de Fotos?
+0070 [Eye of Grace Researcher] | Déjala quedárselo. Quiero tomar otra lectura mientras reacciona.
+0071 [Firefly] | Capturador de Fotos clic-clic. Pero... no puedo sonreír...
+0072 [Firefly] | ...
+0073 [Tú] | ¿Tomar fotos de personas le trajo un recuerdo?
+0074 [Tú] | Aun así, es la primera vez que interactúa con alguien además de Canace y yo...==W== Eso tiene que ser buena señal.
+0075 [Tú] | Firefly, está bien ponerse retos. Anda, inténtalo. Tal vez te diviertas más de lo que crees.
+0076 [Firefly] | ¿Re-to...?==W== Yo... quiero intentarlo.
+0077 [Tú] | Je. Ese es el espíritu.
+0078 [Cheerful Trekker] | ¡Estoy listo! ¿Cómo pongo la pose? ¡Soy increíblemente fotogénico, ¿sabes?!
+0079 [Composed Trekker] | Con una V basta. Eres un descarado. Me da vergüenza hasta salir en la misma foto que tú.
+0080 [Tú] | ¿Todos listos? Firefly, cuenta hasta tres y aprieta el botón.
+0081 [Firefly] | Uno.
+0082 [Firefly] | Dos.
+0083 [Firefly] | Tres...
+0084 [Trekkers] | ¡Quesooo!
+0085 [Canace] | Firefly, llevas ese Capturador de Fotos a todas partes. ¿Te gusta tomar fotos?
+0086 [Firefly] | ¿Gustar...? No sé.
+0087 [Firefly] | Fue un regalo.==W== Lo primero... que alguien me dio.
+0088 [Canace] | Ya veo... ¿Y quién te lo dio?
+0089 [Canace] | Ahora entiendo...==W== Quieres saber por qué los demás sonríen y por qué tú no puedes.
+0090 [Firefly] | No entiendo... las cosas complicadas.
+0091 [Canace] | Escúchame, Firefly. No tienes que forzar una sonrisa. Cada día en ese lugar fue puro dolor. De hecho...==W== tienes todo el derecho a llorar.
+0092 [Firefly] | ¿Llorar...?==W== Pero mis lágrimas no salen...
+0093 [Firefly] | ¿Hice algo mal? ¿Soy... rara?
+0094 [Canace] | No, claro que no. Tienes sentimientos como todos... Como cualquier otra niña.
+0095 [Canace] | Simplemente aún no los has encontrado. Encerraste tus sentimientos para protegerte.==W== Pero un día, ese candado se romperá...
+0096 [Firefly] | ...
+0097 [Firefly] | ... Listo.
+0098 [Composed Trekker] | A ver...==W== Oh, nada mal.
+0099 [Cheerful Trekker] | ¡Puf! ¡Tienes los ojos medio cerrados!==W== ¡Qué risa!
+0100 [Composed Trekker] | ¡Así soy yo! ¡Déjame en paz!
+0101 [Firefly] | ... Creo que estoy empezando a entender.
+0102 [Firefly] | Lo que dijo el Tirano sobre encontrar lo que quiero capturar.
+0103 [Firefly] | Ver esta foto me hace feliz. Siento calor por dentro...
+0104 [Tú] | Espera, ¿esto es...?
+0105 [Canace] | Igna cree que Firefly se contiene de forma subconsciente. Su trauma pasado limita su progreso. Su falta de emoción se ha vuelto el mayor cuello de botella del experimento.
+0106 [Canace] | Creo... O al menos quiero creer... que es una señal de sanación.
+0107 [Tú] | ¡Esto es increíble, Canace! ¡Firefly realmente está dando un paso adelante, por su cuenta!
+0108 [Tú] | Qué lástima que Canace no esté aquí. La cara de Firefly... Ojalá pudiera verla.
+0109 [Firefly] | De verdad me siento distinta...==W== Tirano, ¿por qué?
+0110 [Tú] | Significa que estás conectando con ellos. Su alegría llegó a tu corazón a través de la foto.
+0111 [Tú] | Y ahora están sonriendo gracias a ti.
+0112 [Firefly] | ¿Están sonriendo... por mí?
+0113 [Cheerful Trekker] | ¡Oye, pequeña! ¡Gracias por salvarnos hoy! ¡Deberías visitarnos algún día!
+0114 [Composed Trekker] | ¡Sí, y gracias por la gran foto!==W== Tienes que dejar que te invitemos a una buena comida.
+0115 [Firefly] | Eh... Este...
+0116 [Firefly] | Tirano... ¿Qué digo?
+0117 [Tú] | Di «de nada».
+0118 [Firefly] | ...==W== De...==W== de nada.
+0119 [Cheerful Trekker] | Ay, ¿Firefly está tímida?==W== ¡Qué ternura! ¡En serio, deberías unirte a nuestro equipo!
+0120 [Composed Trekker] | Jaja, nunca le decimos que no a un Trekker habilidoso. Lo hablaremos en esa comida. Hasta luego, Firefly.
+0121 [Firefly] | ... Adiós.
+0122 [Tú] | Venir aquí fue buena idea, ¿verdad, Firefly?
+0123 [Firefly] | ¡Mhm! Estoy feliz...
+0124 [???] | ¡Firefly! ¡==PLAYER_NAME==!
+0125 [Tú] | ¿Es...?
+0126 [Firefly] | ¡Profesora!
+0127 [Canace] | Haa... Haa...
+0128 [Tú] | ¡¿Canace?!
+0129 [Canace] | Qué bueno... Están a salvo los dos.
+0130 [Tú] | Mírate... ¿Qué pasó?
+0131 [Canace] | ¡Les explico después! ¡Saquen a Firefly de aquí!
+0132 [Canace] | ¡No es seguro!

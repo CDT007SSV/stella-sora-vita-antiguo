@@ -1,0 +1,351 @@
+# Heartlink de Freesia: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Freesia] | 123
+A01.0002 [Freesia] | Listo, agregado
+A01.0003 [Tú] | ¿Eh?
+A01.0004 [Tú] | ¿Es alguna rara ceremonia de bienvenida?
+A01.0005 [Freesia] | No... No estoy muy familiarizada con esto.
+A01.0006 [Freesia] | Hubo varias veces en que quise tocar a alguien para agregarlo, pero terminé bloqueándolo.
+A01.0007 [Freesia] | Donna me dijo que, después de tocar a alguien, puedes probarlo enviando un montón de números.
+A01.0008 [Tú] | Ah, ya veo
+A01.0009 [Tú] | Pero esta vez fue fácil
+A01.0010 [Sistema] | Mensaje bloqueado.
+A01.0011 [Sistema] | Freesia quiere agregarte.
+A01.0012 [Sistema] | Tú y Freesia ya se agregaron.
+A01.0013 [Tú] | ...Lo sabía, hablé demasiado pronto
+A01.0014 [Freesia] | 123
+A01.0015 [Tú] | ¡Este tipo de prueba no sirve de nada!
+
+## Conversación A02
+A02.0001 [Tú] | ¿¿¿???
+A02.0002 [Tú] | ¿Qué está pasando?
+A02.0003 [Sistema] | Tres horas después...
+A02.0004 [Freesia] | ...Perdón, me encargaré de esto
+A02.0005 [Freesia] | ¿Por qué no puedo cancelar el envío de este mensaje?
+A02.0006 [Tú] | Lo enviaste hace demasiado
+A02.0007 [Freesia] | Llevaba el celular en el bolsillo mientras cabalgaba; quizá lo golpeé sin querer
+A02.0008 [Freesia] | Hoy tengo mucho correo, así que lo vi hasta ahora. Perdón
+A02.0009 [Tú] | Es bueno tener trabajo
+A02.0010 [Tú] | El otro día oí a Donna decir que, además de entregar cartas, Post Haste también hace entregas de paquetes. ¿Es cierto?
+A02.0011 [Freesia] | Sí, en Post Haste podemos hacer entregas de todo tipo
+A02.0012 [Freesia] | (Salvo artículos prohibidos)
+A02.0013 [Freesia] | Si insistes en enviar artículos prohibidos, avísame
+A02.0014 [Freesia] | Puedo ser tu abogada defensora en el juicio
+A02.0015 [Tú] | ...¿Entonces tienes dos trabajos?
+A02.0016 [Tú] | ¡Espera un momento, ni siquiera pienso enviar artículos prohibidos!
+
+## Conversación A03
+A03.0001 [Freesia] | Jefe, hay algo sobre lo que quisiera tu opinión
+A03.0002 [Freesia] | Si Post Haste desarrollara un negocio secundario, ¿cuál de los siguientes crees que sería mejor?
+A03.0003 [Freesia] | 1. Sastrería
+A03.0004 [Freesia] | 2. Búsqueda de tesoros antiguos perdidos
+A03.0005 [Freesia] | 3. Servicio a domicilio de captura de jabalíes
+A03.0006 [Tú] | ¿¿¿Eh???
+A03.0007 [Tú] | ¿Hablas en serio?
+A03.0008 [Freesia] | Por supuesto
+A03.0009 [Tú] | Vale...
+A03.0010 [Tú] | Una sastrería suena bien; debe de ser idea de Donna
+A03.0011 [Tú] | El otro día me remendó un desgarro en la ropa. Es excelente con la aguja
+A03.0012 [Freesia] | Gracias por tus amables palabras. Se lo diré
+A03.0013 [Tú] | Vale...
+A03.0014 [Tú] | No creo que la búsqueda de tesoros suene legítima
+A03.0015 [Freesia] | Eso fue algo que Teresa insistió en añadir
+A03.0016 [Freesia] | Dijo que hay tesoros por todo el mundo; solo nos falta la perspicacia para verlos
+A03.0017 [Tú] | ¿Y qué es eso de capturar jabalíes?
+A03.0018 [Freesia] | A decir verdad, esa fue mi sugerencia
+A03.0019 [Freesia] | Hace un tiempo ayudé a unos vecinos a ahuyentar a un jabalí que se había salido del bosque
+A03.0020 [Freesia] | Creo que es una enorme oportunidad de negocio esperando ser explorada
+A03.0021 [Freesia] | Jefe, estás bien informado: ¿sabes si alguna empresa grande tiene problemas con jabalíes enmascarados?
+A03.0022 [Freesia] | Podemos darles un descuento si te conocen
+A03.0023 [Tú] | Quizá lo mejor sea que te dediques solo a entregar cartas
+
+## Conversación A04
+A04.0001 [Freesia] | Jefe, tengo una situación urgente
+A04.0002 [Freesia] | Por favor, ayúdame
+A04.0003 [Freesia] | Hoy, al pasar por el centro comercial, noté que había oferta de papas fritas
+A04.0004 [Freesia] | Sin darme cuenta, compré un montón
+A04.0005 [Freesia] | Si Donna se entera, me va a sermonear otra vez
+A04.0006 [Tú] | jajajajaja
+A04.0007 [Tú] | Vale, ya paro de reírme
+A04.0008 [Tú] | ¿Quizá puedas esconderlas en algún rincón de la casa?
+A04.0009 [Freesia] | Pero Donna está en casa ahora mismo
+A04.0010 [Tú] | ¿No pensaste en eso antes de comprarlas?
+A04.0011 [Freesia] | Pensaba compartirlas con todos
+A04.0012 [Freesia] | Una para Donna, una para mí, una para Teresa, una para mí...
+A04.0013 [Tú] | ¿?
+A04.0014 [Freesia] | ¿Eh? ¿No es así?
+A04.0015 [Freesia] | En fin, espero que me ayudes a comerme todas las papas fritas de más que compré. Luego llevaré el resto a casa
+A04.0016 [Freesia] | Solo tienes que comerte diez paquetes
+A04.0017 [Tú] | ¡Tengo que irme ya, adiós!
+
+## Conversación A05
+A05.0001 [Freesia] | Jefe, ¿estás ahí?
+A05.0002 [Opción] | Sip
+A05.0003 [Opción] | Nop
+A05.0004 [Tú] | ¿Qué pasa?
+A05.0005 [Freesia] | Avísame entonces cuando estés presente
+A05.0006 [Tú] | Bueno, se acabaron las bromas
+A05.0007 [Tú] | Suéltalo. ¿Qué pasa?
+A05.0008 [Freesia] | Encontré algo interesante
+A05.0009 [Freesia] | Tengamos un duelo
+A05.0010 [Tú] | ¿?
+A05.0011 [Freesia] | Mira, con solo estos stickers podemos jugar piedra, papel o tijera sin vernos
+A05.0012 [Freesia] | No hay mejor momento que el presente: ¡empecemos ya! Yo voy primero
+A05.0013 [Tú] | ...
+A05.0014 [Freesia] | Bien, ganaste
+A05.0015 [Freesia] | Hagamos otro. Dos de tres
+A05.0016 [Freesia] | Felicidades por ganar este duelo
+A05.0017 [Freesia] | Qué increíble capacidad de predicción... Realmente admirable
+A05.0018 [Tú] | Eh, Freesia
+A05.0019 [Tú] | ¿De verdad no notaste que algo andaba mal?
+A05.0020 [Freesia] | Ya entiendo. Este duelo fue demasiado fácil para ti
+A05.0021 [Freesia] | Quizá podríamos organizar un duelo de Reversi, cara a cara
+A05.0022 [Freesia] | ¿Tienes tiempo ahora?
+
+## Conversación A06
+A06.0001 [Freesia] | ¿Ya llegaste a casa, Jefe?
+A06.0002 [Freesia] | Lamento mucho lo de hoy. No quise asustarte
+A06.0003 [Tú] | No, no, no te preocupes por eso
+A06.0004 [Tú] | Viste una injusticia y entraste a corregirla
+A06.0005 [Tú] | ¡Esos tipos eran lo peor, meterse así con una anciana!
+A06.0006 [Freesia] | Creo que eran unos Trekkers expulsados de un gremio grande
+A06.0007 [Freesia] | Últimamente andan por aquí, causando problemas dondequiera que van
+A06.0008 [Freesia] | Cuando Donna regresó hace un par de días, me contó que habían robado todos los cítricos del huerto de la tía Betty
+A06.0009 [Freesia] | Todo el pueblo les tiene miedo. Hasta los niños ya no se atreven a jugar afuera de noche
+A06.0010 [Tú] | ¡Eso es horrible!
+A06.0011 [Tú] | Qué bueno que les diste una lección hoy: se la merecían
+A06.0012 [Tú] | Cuando derribaste a ese tipo grande y fornido, todos alrededor empezaron a aplaudir
+A06.0013 [Freesia] | ¿En serio? En el momento no me di cuenta...
+A06.0014 [Freesia] | Después de todo, casi se te cae encima. Me asusté muchísimo
+A06.0015 [Tú] | No fue tu culpa. Me emocioné tanto viendo que quise lanzarme a ayudarte
+A06.0016 [Tú] | Aunque al final solo estorbé
+A06.0017 [Freesia] | Para nada: si no me hubieras detenido, quizá los habría dejado a todos hechos papilla
+A06.0018 [Freesia] | Entonces probablemente habría tenido que pagar una fortuna en gastos médicos y el presupuesto de Post Haste habría sufrido otro golpe
+A06.0019 [Freesia] | Entregarlos a la Asociación como hicimos fue sin duda la mejor manera de manejarlo
+A06.0020 [Tú] | Freesia está del lado de la Justicia
+A06.0021 [Freesia] | Justicia...
+A06.0022 [Freesia] | Hace tiempo que no oía esa palabra. Me da un poco de nostalgia
+
+## Conversación A07
+A07.0001 [Freesia] | Hay una pregunta que quisiera hacerte, Jefe
+A07.0002 [Freesia] | ¿Qué tipo de persona crees que soy?
+A07.0003 [Tú] | ¿?
+A07.0004 [Tú] | Es difícil responder una pregunta tan repentina
+A07.0005 [Freesia] | Entonces lo diré de otra manera
+A07.0006 [Freesia] | ¿Qué sientes por mí?
+A07.0007 [Tú] | Vale...
+A07.0008 [Freesia] | ¿Sigue siendo muy difícil?
+A07.0009 [Tú] | ¿Qué tal esto? Freesia, ¿por qué no empiezas compartiendo tu impresión de mí?
+A07.0010 [Freesia] | Claro
+A07.0011 [Freesia] | Cuando estoy contigo, me siento muy relajada y tranquila
+A07.0012 [Freesia] | Incluso cuando me encuentro con algo frustrante, mientras estés ahí, puedo calmarme rápido
+A07.0013 [Tú] | Vale...
+A07.0014 [Freesia] | Considerándolo todo, en mi mente eres el color blanco
+A07.0015 [Tú] | ¿El color blanco?
+A07.0016 [Freesia] | Sí, el blanco representa tranquilidad y paz
+A07.0017 [Freesia] | El rojo representa pasión e impulsividad
+A07.0018 [Freesia] | El azul representa melancolía y tristeza
+A07.0019 [Tú] | ...¿De dónde sacas todas estas tonterías...?
+A07.0020 [Freesia] | De un libro que estoy leyendo. Se llama «Cómo construir buenas relaciones»
+A07.0021 [Freesia] | Dice: «comprende la impresión que otros tienen de ti mediante el análisis de colores de personalidad».
+A07.0022 [Freesia] | A decir verdad, no estoy segura de qué sientes por mí
+A07.0023 [Freesia] | Pero espero acercarme más a ti y mantener una relación duradera
+A07.0024 [Tú] | ¿Por qué complicarlo tanto?
+A07.0025 [Tú] | Si quieres saber algo, solo pregúntame directamente
+A07.0026 [Tú] | Pero no puede ser unilateral. Yo soy de intercambios justos.
+A07.0027 [Tú] | Hmph
+
+## Conversación A08
+A08.0001 [Freesia] | Estimado Jefe,==RT====RT==Queda cordialmente invitado a honrar hoy nuestra humilde morada para asistir a la celebración de mi cumpleaños.==RT====RT==Todo el equipo de Post Haste espera ansioso su llegada.
+A08.0002 [Tú] | Jajaja
+A08.0003 [Tú] | No esperaba una invitación tan formal
+A08.0004 [Freesia] | Aunque ahora te conozco mejor, sigue siendo importante seguir la etiqueta adecuada
+A08.0005 [Freesia] | ¿A qué hora estarás libre? Iré a recogerte con anticipación
+A08.0006 [Tú] | No, es tu cumpleaños, no quiero darte trabajo extra
+A08.0007 [Tú] | Sería una sorpresa de cumpleaños
+A08.0008 [Tú] | Si aparezco sin avisar
+A08.0009 [Freesia] | Tienes toda la razón
+A08.0010 [Tú] | Te compré un regalo especial de cumpleaños
+A08.0011 [Tú] | Espero que te guste
+A08.0012 [Freesia] | Gracias por tomarte tantas molestias
+A08.0013 [Freesia] | Estoy segura de que me encantará sea lo que sea
+A08.0014 [Tú] | Entonces nos vemos pronto
+A08.0015 [Tú] | Y, lo más importante...
+A08.0016 [Tú] | ¡Feliz cumpleaños!
+A08.0017 [Tú] | ¡Te deseo felicidad, buena salud y muchos negocios para Post Haste!
+A08.0018 [Freesia] | Muchas gracias por tus amables palabras
+A08.0019 [Freesia] | Pero tengo un favor que pedirte...
+A08.0020 [Freesia] | Te lo pediré cuando nos veamos en persona la próxima vez
+
+## Conversación A09
+A09.0001 [Tú] | Guau... ¡Ese torbellino que hiciste al final hoy estuvo increíble!
+A09.0002 [Tú] | Derribó a todos los secuaces de un solo golpe
+A09.0003 [Freesia] | Me das demasiado crédito
+A09.0004 [Freesia] | Si no hubieras detectado a tiempo sus planes de emboscada, me habría visto en serios apuros
+A09.0005 [Freesia] | Esto me ha estado preocupando mucho últimamente
+A09.0006 [Tú] | ¿Eh? ¿Qué te preocupa?
+A09.0007 [Freesia] | Aunque la magia de mejora aumenta mucho mi resistencia física en combate
+A09.0008 [Freesia] | También me vuelve más impulsiva
+A09.0009 [Freesia] | Frente a enemigos astutos, me preocupa que esto me ciegue y me lleve directo a una trampa
+A09.0010 [Freesia] | Someter la fuerza a la razón... Esa ha sido siempre la búsqueda de toda la vida de todos en mi familia
+A09.0011 [Tú] | Nada se te escapa, Freesia
+A09.0012 [Tú] | Pero no creo que debas preocuparte tanto
+A09.0013 [Tú] | Después de todo, me tienes a mí y a todos los demás
+A09.0014 [Tú] | Aunque caigas en alguna trampa, estaremos ahí para sacarte
+A09.0015 [Freesia] | Eso es cierto
+A09.0016 [Freesia] | Cada vez que combatimos, mientras estés ahí, siempre tengo una sensación extraña
+A09.0017 [Tú] | ¿?
+A09.0018 [Freesia] | Déjame pensar...
+A09.0019 [Freesia] | Usando una frase popular que acabo de aprender, es como «¡beber Jugo Pep Pep con 100% de energía!»
+A09.0020 [Tú] | Jajaja
+A09.0021 [Tú] | ¿De dónde sacaste eso?
+A09.0022 [Freesia] | ¿Suena raro en esta situación?
+A09.0023 [Freesia] | Es ese sabor agridulce que te deja con energía después de beberlo
+A09.0024 [Freesia] | Parece que aún tengo mucho que aprender
+
+## Conversación A10
+A10.0001 [Freesia] | Jefe, ¿ya recibiste el extraño disco que emite sonidos?
+A10.0002 [Tú] | Ah, te refieres al Disco Rúnico
+A10.0003 [Tú] | Sí, ¡tengo tu Disco Rúnico, Freesia!
+A10.0004 [Freesia] | ¿Oh? ¿Esta soy yo en la portada?
+A10.0005 [Freesia] | Se siente familiar y extraño a la vez
+A10.0006 [Freesia] | Parece que recuerdo cuando, un día de lluvia, me agaché junto al camino, mirando sin expresión los charcos y las florecitas
+A10.0007 [Tú] | Quizá vi esta escena en un sueño.
+A10.0008 [Tú] | La música de este disco suena preciosa
+A10.0009 [Tú] | Es como esa sensación refrescante después de la lluvia, con el aire lleno del aroma de hierba y árboles
+A10.0010 [Freesia] | Tu descripción me está dando curiosidad
+A10.0011 [Freesia] | He oído que el Disco Rúnico de cada persona guarda un recuerdo único
+A10.0012 [Freesia] | A decir verdad, cuando supe que habías obtenido mi Disco por accidente, me puse un poco nerviosa
+A10.0013 [Freesia] | El pasado no siempre es bonito; puede estar lleno de arrepentimientos
+A10.0014 [Tú] | Pero lo pasado, pasado, ¿no?
+A10.0015 [Tú] | Es como la portada de este Disco. La lluvia ha cesado
+A10.0016 [Tú] | Arrepentimientos, tristeza, lo que sea: todo se convierte al final en el arcoíris
+
+## Conversación B01
+B01.0001 [Freesia] | Jefe, tengo una consulta.
+B01.0002 [Freesia] | ¿Cuántos fideos instantáneos son lo adecuado
+B01.0003 [Freesia] | para una persona sana?
+B01.0004 [Opción] | Ninguno. Cero.
+B01.0005 [Opción] | ¿Quizá uno?
+B01.0006 [Tú] | Sinceramente, si se trata de tu salud
+B01.0007 [Tú] | En realidad no deberías comer ninguno.
+B01.0008 [Freesia] | Como era de esperarse del Jefe. Tus estándares de autodisciplina son impecables.
+B01.0009 [Freesia] | ¿Uno es el máximo absoluto?
+B01.0010 [Tú] | ¿Por qué? ¿Cuántos quieres comer?
+B01.0011 [Freesia] | Recientemente adquirí una caja completa.
+B01.0012 [Freesia] | Sin embargo, hace apenas unos días Donna me prohibió expresamente consumirlos.
+B01.0013 [Freesia] | Por lo tanto, estoy formulando un plan
+B01.0014 [Freesia] | Para acelerar el consumo de dichos fideos.
+B01.0015 [Tú] | ¿Intentas comértelos todos tú sola para ocultar la evidencia?
+B01.0016 [Freesia] | ¿Es una estrategia desaconsejable?
+B01.0017 [Tú] | ¡¡Obvio!!
+B01.0018 [Freesia] | Entonces no me queda otra opción que llevármelos a casa.
+
+## Conversación B02
+B02.0001 [Freesia] | Jefe, hay algo que necesito confirmar contigo.
+B02.0002 [Tú] | ¿Qué pasa?
+B02.0003 [Freesia] | ¿Consideras que mi Razón es pesada?
+B02.0004 [Tú] | ¡¿Razón...?! ¿Por qué nos ponemos tan filosóficos de repente?
+B02.0005 [Tú] | Digo, creo que haces las cosas con razón el 99% del tiempo. Salvo quizá...
+B02.0006 [Tú] | Espera. Te refieres al hacha, el Filo de la Razón, ¿verdad?
+B02.0007 [Freesia] | Correcto.
+B02.0008 [Tú] | En realidad nunca he intentado levantarla.
+B02.0009 [Tú] | Pero viendo cómo la blandes, no puede ser tan pesada, ¿no?
+B02.0010 [Freesia] | Eso mismo pensaba yo.
+B02.0011 [Freesia] | Sin embargo, hoy fui a la Asociación de Trekkers y el personal me pidió que la dejara en la entrada.
+B02.0012 [Freesia] | Supongo que no la apoyé con la firmeza suficiente, porque se cayó.
+B02.0013 [Freesia] | Cuando volví a salir, vi a dos Trekkers compitiendo por levantarla.
+B02.0014 [Freesia] | Los dos perdieron.
+B02.0015 [Tú] | Eh...
+B02.0016 [Tú] | Supongo que la Razón de verdad es una carga pesada.
+B02.0017 [Freesia] | En efecto. Pero tengo una pregunta más.
+B02.0018 [Freesia] | Antes te interrumpiste. «Salvo quizá»... ¿qué?
+B02.0019 [Tú] | Jajaja.
+B02.0020 [Tú] | Nada. ¡Haz como que no dije eso!
+
+## Conversación B03
+B03.0001 [Freesia] | ¡Oferta por tiempo limitado!==RT==¡Desde ahora y hasta fin de mes, disfruta de 20% de descuento en todas las tarifas de envío de Post Haste!
+B03.0002 [Tú] | ¿Eh?
+B03.0003 [Freesia] | Ah. Mis disculpas, Jefe.
+B03.0004 [Freesia] | Donna me indicó hacer publicidad con mensajes masivos. Toqué tu perfil por error.
+B03.0005 [Tú] | No pasa nada. De hecho, tengo algo que enviar.
+B03.0006 [Freesia] | ¿Categoría del artículo?
+B03.0007 [Tú] | ¿Mi corazón?
+B03.0008 [Freesia] | ¿Tu corazón?
+B03.0009 [Tú] | Es broma jaja
+B03.0010 [Freesia] | ¿Te refieres a tu corazón físico?
+B03.0011 [Freesia] | Si es así
+B03.0012 [Freesia] | ¿Cómo exactamente propones extraerlo de tu cuerpo?
+B03.0013 [Tú] | ¡¡Dije que era broma!!
+B03.0014 [Freesia] | Ya veo.
+B03.0015 [Freesia] | Si te refieres al concepto abstracto...
+B03.0016 [Freesia] | Eso es intangible.
+B03.0017 [Freesia] | Sin embargo, si logras materializarlo en un objeto, Post Haste puede procesar el pedido.
+B03.0018 [Tú] | ¡Te dije que era broma!
+B03.0019 [Tú] | ¡Perdón!
+B03.0020 [Freesia] | Oh. ¿Era una broma?
+B03.0021 [Freesia] | Disculpa. Lo tomé demasiado literal.
+
+## Conversación B04
+B04.0001 [Freesia] | Jefe, si quisiera darle un regalo a una amistad,
+B04.0002 [Freesia] | ¿qué crees que sería lo mejor?
+B04.0003 [Opción] | ¿Algo que le guste?
+B04.0004 [Opción] | ¿Algo hecho a mano?
+B04.0005 [Tú] | ¿Por qué no te quedas con algo que ya le guste?
+B04.0006 [Freesia] | ¿Algo que le guste?
+B04.0007 [Freesia] | He dado regalos parecidos en el pasado. Me preocupa que parezca poco original.
+B04.0008 [Tú] | Nah. Si de verdad le encanta, estará feliz cada vez que lo reciba.
+B04.0009 [Freesia] | Ahh, tiene sentido.
+B04.0010 [Freesia] | Lo tomaré en cuenta.
+B04.0011 [Tú] | Si no sabes qué comprar,
+B04.0012 [Tú] | ¿has pensado en hacer algo tú misma?
+B04.0013 [Freesia] | ¿Hacerlo yo misma?
+B04.0014 [Freesia] | Aunque no tengo ningún talento artístico.
+B04.0015 [Tú] | No importa cómo salga. Lo que cuenta es la intención.
+B04.0016 [Freesia] | Tienes razón.
+B04.0017 [Freesia] | Gracias por el consejo.
+
+## Conversación B05
+B05.0001 [Freesia] | Jefe, escuché que mañana irás a Emor.
+B05.0002 [Tú] | Sí, ¿qué pasa?
+B05.0003 [Freesia] | Da la casualidad de que Donna acaba de asignarme una entrega de Post Haste a Emor.
+B05.0004 [Freesia] | Si no te importa, podríamos ir juntos.
+B05.0005 [Tú] | Claro, ¿cómo vas a ir?
+B05.0006 [Freesia] | Podría llevarte.
+B05.0007 [Tú] | Claro, supongo, pero...
+B05.0008 [Freesia] | Soy una jinete muy veloz. Llevo a Donna y a Teresa todo el tiempo.
+B05.0009 [Freesia] | Noya incluso me retó a una carrera contra Loxy.
+B05.0010 [Tú] | ¡¿Qué?! ¿Tú? ¿Compitiendo contra Loxy?
+B05.0011 [Freesia] | Sí, pero todavía falta encontrar un lugar adecuado.
+B05.0012 [Freesia] | Sería una pena que nos multaran por exceso de velocidad.
+B05.0013 [Tú] | Tilia las va a matar.
+B05.0014 [Tú] | ¡Sabes qué, mejor voy por mi cuenta!
+
+## Conversación B06
+B06.0001 [Freesia] | Jefe, si alguna vez necesitas una abogada...
+B06.0002 [Freesia] | Ten por seguro que estoy dispuesta a ofrecerte toda mi ayuda.
+B06.0003 [Tú] | ¿Eh? ¿A qué viene esto de repente?
+B06.0004 [Freesia] | Está bien. Ya sé lo que pasó. No tienes que ocultármelo.
+B06.0005 [Freesia] | Después de todo, no fue culpa tuya.
+B06.0006 [Tú] | ¡Espera, un momento!
+B06.0007 [Tú] | ¡¿De qué hablas?!
+B06.0008 [Tú] | Últimamente no he hecho nada ilegal... ¡¿o sí?!
+B06.0009 [Freesia] | Mmm...
+B06.0010 [Freesia] | A decir verdad, ayer vi cómo la Guardia Imperial te detenía.
+B06.0011 [Freesia] | También vi al Caballero entregarte una notificación de sanción.
+B06.0012 [Freesia] | Seguro fue una acusación injusta. Defenderé tus derechos.
+B06.0013 [Tú] | ¿Eh? ¿Una notificación de sanción?
+B06.0014 [Tú] | ¡Oh! Ahora entiendo.
+B06.0015 [Tú] | Ese Caballero solo me pidió llenar una encuesta sobre las condiciones del tránsito...
+B06.0016 [Tú] | Era larguísima, así que pasé bastante tiempo en la orilla del camino terminándola.
+B06.0017 [Freesia] | Ya veo...
+B06.0018 [Freesia] | Mis disculpas. Malinterpreté la situación.
+B06.0019 [Freesia] | Sin embargo... lo que dije antes iba en serio.
+B06.0020 [Freesia] | Si alguna vez llega a ocurrir una situación tan grave...
+B06.0021 [Freesia] | Por favor, déjamelo a mí.
+B06.0022 [Tú] | ¡Guau, eso estuvo bastante genial!
+B06.0023 [Tú] | Pero haré todo lo posible por mantenerme fuera de los tribunales de todos modos.

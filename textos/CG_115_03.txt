@@ -1,0 +1,119 @@
+# Historia de Firefly · 3 · Searching, Searching for a Friend (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Monster | Monstruo
+N:avg1_115 | Firefly
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_179 | Misha
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Buscando, buscando un amigo (Parte III)
+0003 [Intro] | Bromas, enojos y reconciliación en un instante.
+0004 [Firefly] | Jeje~
+0005 [Firefly] | Tirano, mira.
+0006 [Tú] | A ver...==W== Sí, están bonitas.
+0007 [Tú] | Ya pasó una semana desde lo de Misha... Parece que Firefly ya volvió a la normalidad.
+0008 [Firefly] | Tirano.
+0009 [Tú] | ¿Sí?
+0010 [Firefly] | Solo tú juegas conmigo...
+0011 [Tú] | … ¿Ah, sí?==W== Entonces, ¿quieres intentar hacer nuevos amigos otra vez?
+0012 [Firefly] | …
+0013 [Firefly] | Pero se me da mal. Con Misha tampoco funcionó.
+0014 [Tú] | No te preocupes. No a todos les sale a la primera...==W== Además, esa vez...
+0015 [Misha] | ¡Maestra...!==W==
+0016 [Firefly] | ¿Misha?
+0017 [Misha] | Te he estado buscando por todas partes. Por fin...
+0018 [Tú] | Misha.==W== ¿Cómo te sientes? Las heridas, ¿son graves?
+0019 [Misha] | ¡Sí, ya estoy perfectamente bien! ¡Con unos días de descanso me recuperé por completo!
+0020 [Firefly] | …
+0021 [Misha] | ¿Maestra?
+0022 [1] | Firefly, ¿qué pasa?
+0023 [Firefly] | Misha, ¿estás enojada?
+0024 [Misha] | ¿Enojada? ¿Yo? ¿Por qué lo piensas?
+0025 [Firefly] | No pude proteger a Misha. Misha se lastimó. Todo es mi culpa.
+0026 [Firefly] | Misha... Ya no quieres ir al Monolito conmigo, ¿verdad?
+0027 [Misha] | Pues...
+0028 [Tú] | Quizá mi sugerencia de entonces fue muy impensada y salió el tiro por la culata...
+0029 [Misha] | ¡Ma-maestra...!
+0030 [Firefly] | Objetivo fijado.
+0031 [Firefly] | Avalancha, activar...
+0032 [Firefly] | —¡Crac!
+0033 [Monster] | ¡Aaaaaaugh!
+0034 [Tú] | El nivel de poder de Firefly roza lo sobrenatural... Y Misha lo vio todo de primera mano...
+0035 [Misha] | En realidad, creo que fuiste...
+0036 [Misha] | ¡Súúúúper GENIAL!
+0037 [Firefly] | ... ¿Eh?
+0038 [Misha] | ¡Crac!==W== ¡Fiuuu, fiuuu...! ¡Cortaste a los monstruos en un instante!==W== ¡Escombros volando por todos lados, monstruos cayendo uno tras otro!==W== ¡Y cuando se disipó el polvo, ahí estabas, tan tranquila!
+0039 [Firefly] | ¿Entonces no estás enojada?
+0040 [Misha] | ¿Por qué estaría enojada?==W== ¡Más bien estoy frustrada conmigo misma por ser tan inútil!
+0041 [Misha] | ¡Perdón! ¡No me lo estaba tomando lo bastante en serio!==W== O mejor dicho, me equivoqué en lo más importante desde el principio...
+0042 [Misha] | ¡Si de verdad quiero ser Trekker, primero tengo que volverme tan fuerte como tú, Maestra!==W==
+0043 [Misha] | ¡Así que, Maestra! ¿Estarías dispuesta a guiar a alguien tan inexperta y torpe como yo?
+0044 [Firefly] | No me digas así. Solo Firefly.
+0045 [Tú] | Misha, cálmate. Y Firefly, deja de jalarme la ropa. La vas a estirar.
+0046 [Misha] | ¡P-perdón! Me emocioné demasiado y me dejé llevar...
+0047 [Misha] | Mm... Pensándolo bien, pedir ayuda de buenas a primeras es demasiado repentino...==B====W== En ese caso, Firefly, ¿podría pedirte primero que... SEAS MI AMIGA?==W==
+0048 [Firefly] | ¿Quieres... ser amiga mía?
+0049 [Firefly] | Tirano. En un momento así, ¿qué debo decir?
+0050 [Tú] | ... Di lo que sientes ahora mismo. Lo que estés pensando, dilo con sinceridad.
+0051 [Firefly] | Con sinceridad...==W== Bueno.
+0052 [Firefly] | Me siento feliz cuando estoy contigo, Misha.==W== Mi corazón hace pum-pum. Me emociono.==W== Así que sí, seré tu amiga.
+0053 [Misha] | ¡Firefly...! ¡Gracias!==W== Me esforzaré por volverme más fuerte: cuando podamos pelear lado a lado, ¡escalemos juntas el Monolito!
+0054 [Tú] | ¡Genial! Hiciste una nueva amiga.
+0055 [Firefly] | …
+0056 [Tú] | ¿Firefly?
+0057 [Firefly] | Yo... hice una nueva amiga, Tirano.
+0058 [Tú] | Se está sonrojando. ¿Eso significa que...
+0059 [Tú] | ¿Hiciste una nueva amiga y estás muy feliz?==W==
+0060 [Firefly] | Sí.
+0061 [Tú] | ¿No solo feliz... sino también un poquito avergonzada?
+0062 [Firefly] | No estoy avergonzada.
+0063 [Tú] | ¿Segura?
+0064 [Firefly] | Tirano, qué fastidio.==W== No estoy avergonzada.==W== Tonto.==W== Malo.==W== Yo ya no hablar contigo.
+0065 [Tú] | ¡¿Firefly?! ¡Espera!
+0066 [Narración] | Firefly corre directo a la oficina de Canace. No me queda más remedio que armarme de valor, tocar y entrar tras ella.
+0067 [Narración] | En el rincón más discreto de la oficina, una pequeña cortina separaba un espacio, con un letrero que decía «Cuarto de Firefly».
+0068 [Tú] | ¿Firefly? ¿Puedo pasar?==W== ¿Eh? ¿Dónde está? ==W==Seguro la vi entrar aquí... ¿Me habré equivocado...?==W== Bueno, buscaré en otros lados.
+0069 [Tú] | Este lugar está lleno de peluches de Sherlock...==B====W== ¿Adónde se fue Firefly?
+0070 [Tú] | ¡¿Eh?! ¡Firefly! ¡Así que estabas aquí!==W== ¡Vestida así, no te distingo de los demás Sherlocks!
+0071 [Firefly] | Yo no Firefly ahora. Yo Sherlock.
+0072 [Tú] | No, no, no, sigues siendo Firefly...==W== En fin, perdón por lo de antes. Ya no te molestaré. ¿Puedes perdonarme?
+0073 [Firefly] | No querer escuchar al Tirano. Vete.==W== Ignorar al Tirano. Ignorar, ignorar...
+0074 [Tú] | Vamos, no seas así... ¿Me escuchas, por favor?
+0075 [Firefly] | Bleh...
+0076 [Tú] | Cuando estuvo encerrada años en el Ojo de la Gracia, era muy rígida al expresar emociones.==W== Y ahora hasta puede hacer berrinche...
+0077 [Tú] | Aunque sea un poquito, algo dentro de Firefly quizá está empezando a cambiar para bien...
+0078 [Tú] | Me disculparé como se debe, así que reconciliémonos, ¿sí?
+0079 [Firefly] | ¿Reconciliar? Mm...==B====W==
+0080 [Firefly] | No.==W== El Tirano==W== molestó a Firefly.==W== Firefly==W== está llorando.
+0081 [Firefly] | Misha==W== ya es mi amiga.==W== Tirano malo,==W== no voy a jugar contigo un rato.
+0082 [Opción] | Esa cara de enojo no te va, Firefly, porque eres muy linda.
+0083 [Firefly] | Lo sé.==W== El Tirano diciendo eso==W== solo quiere halagarme,==W== es pura cortesía.
+0084 [Opción] | Pero... si ya no juegas conmigo...
+0085 [Opción] | Voy a estar muy triste y solo.
+0086 [Firefly] | Lo sé.==W== Eso==W== te pasa.==W== Aunque estés solo y triste,==W== no te voy a salvar.
+0087 [Opción] | Entonces, ¿qué tal si más tarde vamos juntos al Monolito?
+0088 [Opción] | Vamos por película para la cámara.
+0089 [Firefly] | Ese es un truco que usan ustedes, los adultos astutos.==W== Ya me lo aprendí,==W== así que no caeré.==W== No soy==W== tan fácil de convencer.
+0090 [Firefly] | La profesora también dijo:==W== «Si les das la mano,==W== te tomarán==W== el brazo».==W== Así que no hay perdón fácil para ti.
+0091 [Opción] | … ¡¡Canace!!
+0092 [Firefly] | Tirano...==W== ¿De verdad quieres ir==W== al Monolito conmigo tanto así?
+0093 [Opción] | Sí. Si pudiera ir contigo, sería muy feliz.
+0094 [Firefly] | ¿Pase lo que pase?==W== ¿Seguro?
+0095 [Opción] | Sí, muy seguro. Pase lo que pase.
+0096 [Opción] | Me siento solo sin Firefly.
+0097 [Firefly] | Mmm.==W== El Tirano==W== no puede vivir sin mí.==W== Lo voy a recordar.
+0098 [Firefly] | En ese caso...==W== Ya que quieres jugar conmigo pase lo que pase,==W== supongo que puedo ir al Monolito contigo.
+0099 [Tú] | Gracias, Firefly. Me alegra que te sientas mejor.
+0100 [Firefly] | Ay, mi pelo... Me lo vas a despeinar. No me acaricies tan fuerte.
+0101 [Tú] | ¿Mm? Ah, perdón, perdón. Me dejé llevar...==W== Mira, ya paré. ¿Así está mejor?
+0102 [Firefly] | Eso fue muy brusco, así que no está bien.==W== Pero que me acaricies la cabeza... no me desagrada.==W== Así que haré una excepción especial. Puedes hacerlo unas veces más.
+0103 [Tú] | ¿...?
+0104 [Tú] | Si me lo permites...==W== Así, si lo hago con más suavidad, ¿está mejor?
+0105 [Firefly] | Mm. Voy a calificar tu habilidad para acariciar cabezas, Tirano.
+0106 [Narración] | Aunque la expresión de Firefly siguió tan serena como siempre...
+0107 [Narración] | Durante ese momento tranquilo y apacible, seguí acariciándole el pelo con suavidad hasta que quedó satisfecha.

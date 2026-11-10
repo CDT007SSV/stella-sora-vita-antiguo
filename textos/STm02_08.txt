@@ -1,0 +1,117 @@
+# Capítulo 2 · 8 · Comercio de almas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_118 | Coronis
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_152 | Bastelina
+N:avg3_197 | Feagin
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Comercio de almas
+0003 [Intro] | Activar la compañía requiere comerciar un alma. Minova ofrece la suya sin dudarlo, decidida a liberarse de su jaula y volar, cueste lo que cueste.
+0004 [Lugar y hora] | 12:30, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Bóveda del Imperio de la Gracia
+0005 [Bastelina] | Gracias por esperar. El ámbito patentado de su compañía es...
+0006 [Bastelina] | Comercio de almas.
+0007 [Minova] | ¿Alma==W==...?
+0008 [Iris] | ¿Comercio==W==...?
+0009 [Tú] | Perdón,==W== creo que oí mal.==W== Y mi memoria está perdida,==W== así que necesito confirmarlo.
+0010 [Tú] | ¿«Alma» es algún tipo de comida?==W== ¿O un tipo de gema?==W== ¿Es eso lo que este Sello de la Gracia==W== me permite comerciar?
+0011 [Bastelina] | ¡Vaya, qué curioso sentido del humor!==W== Un alma es un alma. Algo que todos tienen.
+0012 [Bastelina] | Aunque,==W== supongo que para algunos,==W== podrían parecer comida o gemas.
+0013 [Tú] | ¿O sea que habla de almas, literalmente?
+0014 [Tú] | Pero ¿cómo se comercia siquiera algo intangible como eso?
+0015 [Bastelina] | Como su Sello de la Gracia posee esta patente en particular,==W== el Dios de la Gracia dará la respuesta.
+0016 [Narración] | Como si leyera mi mente, apareció nuevo texto en la losa de piedra.
+0017 [Tú] | Porta este Sello,==W== y que tu vida sirva de testimonio.==W== Por medio de él, los deseos forjan contratos,==W== atando almas a tu propia empresa.
+0018 [Tú] | Vale, entonces, el Tirano pone su propia vida en juego==W== y hace un «Pacto del Tirano» con los clientes para concederles sus deseos...
+0019 [Tú] | Cuando el deseo se cumple,==W== el Tirano obtiene el alma del cliente.
+0020 [Tú] | Esto suena...
+0021 [Opción] | Malvado sin duda
+0022 [Opción] | Algo justo
+0023 [Opción] | ¿Pura ganancia y nada de pérdida?
+0024 [Tú] | Qué transacción tan perversa.==W== Usar la vida como garantía y las almas como mercancía.
+0025 [Tú] | Aun así==W==...==W== esto me resulta familiar de algún modo.
+0026 [Tú] | Arriesgar tu vida para conceder un deseo,==W== y luego quedarte con su alma.
+0027 [Tú] | Básicamente apostar con la vida.==W== Brutal, sí, pero en cierto modo justo.
+0028 [Tú] | Este mundo es algo más. Se puede comerciar con cualquier cosa.
+0029 [Tú] | Pero espera...==W== Esto solo explica cómo obtener almas. Nada sobre venderlas.==W== ¿No es eso simplemente una pérdida?
+0030 [???] | Así que por favor, mi Tirano, no vuelva a convertirse en estrella.
+0031 [Tú] | ¿Ese recuerdo, o quizá fue un sueño?==W== Esa persona me llamó...
+0032 [Tú] | Tirano.
+0033 [Bastelina] | Ah,==W== lo ha leído mal.==W== Dice Jefe.
+0034 [Bastelina] | Su compañía se llama: Boss Accord Staffing Co.
+0035 [Bastelina] | Jefe es su título como titular del sello.==W== Piense en ello como el director general de otras compañías.
+0036 [Bastelina] | La forma en que lo pronunció, Tirano...==W== Es una forma antigua. No se usa desde hace muchísimo tiempo.
+0037 [Bastelina] | Pero...==W== ¿por qué no usar el nombre antiguo?==W== ¡Puede llamar a la compañía Tyrant Accord sin problema! ♪
+0038 [Tú] | Entonces...==W== Será Tyrant Accord Staffing Co.
+0039 [Tú] | Entiendo el modelo de negocio...==W== ¿Pero comerciar almas? ¿Quién caería en algo que suena tanto a estafa?
+0040 [Tú] | Así que mi plan de combatir una compañía con otra queda descartado.==W== Parece...==W== que la única otra opción es...
+0041 [Tú] | Bastelina, cambio de planes.==W== No voy a reactivar la compañía. En cambio, quiero vender este Sello de la Gracia.==W== ¿Podrías ayudarme a encontrar un comprador?
+0042 [Tú] | El comprador debe proteger al Clan Viento de Ceniza,==W== y garantizar que el Gremio Nueva Estrella salga a salvo...
+0043 [Minova] | Espera un momento.
+0044 [Minova] | ==PLAYER_NAME==, ¿qué pasó con el plan que nos contaste en el Canal?
+0045 [Tú] | Ese plan requiere que la compañía==W== esté activa ahora.
+0046 [Tú] | Y... ese es el verdadero problema.==W== Hablamos de comercio de almas. ¿Quién va a caer en eso?
+0047 [Minova] | Yo haré el trato.
+0048 [Tú] | ¿Qué? Esto no es una broma, Minova.
+0049 [Tú] | No tenemos idea de qué pasa después de hacer un trato así. Es demasiado arriesgado.
+0050 [Minova] | Lo que pase, pasa.
+0051 [Minova] | ¡Al diablo con el riesgo! No me importa un comino perder mi alma,==W== ¡con tal de hacer sangrar a esos bastardos de Creta Trading!
+0052 [Tú] | ¿No hay otra opción?==W== Si vendemos el sello, aún podemos ganar tiempo. Ya veremos lo demás después.
+0053 [Minova] | ==PLAYER_NAME==, mira, lo entiendo. Intentas encontrar la salida más segura==W== para todos.
+0054 [Minova] | Incluso si eso significa llevarte el golpe tú.
+0055 [Minova] | Pero a estas alturas,==W== ambos sabemos que la brecha entre nosotros y la compañía es demasiado grande.
+0056 [Minova] | ¿Intentar razonar? Feagin se sacará alguna regla nueva del trasero.==W== ¿Pelear a golpes? Feagin contrata más matones. Nos desbordarán.
+0057 [Minova] | Nos llamamos Viento de Ceniza...==W== Queremos ser libres, volar alto como el viento.
+0058 [Minova] | Pero==W== en realidad...==W== ni siquiera puedo proteger a mi propia banda.
+0059 [Tú] | Así que eso todavía le pesa...
+0060 [Minova] | Oiga, eh, ¿doctora?==W== Por favor, tiene que arreglar a ==SEX4==. ==W====SEX1== es muy importante para el Clan Viento de Ceniza.
+0061 [Amber] | No deja de murmurar que es una inútil porque no pudo protegerte... cosas así.
+0062 [Amber] | Sí... Mejor dejémosla tranquila por ahora.
+0063 [Amber] | 
+0064 [Minova] | Algunas decisiones... Solo puedes tomarlas después de darte cuenta de lo débil que eres en realidad.==W== ¿No crees?
+0065 [Minova] | Pase lo que pase... yo solo... necesito...
+0066 [Tú] | Necesitas la fuerza para proteger a las personas que te importan.
+0067 [Minova] | ==PLAYER_NAME==... ¿Cómo lo sabes?
+0068 [Tú] | Porque eso es lo que yo también quiero.
+0069 [Opción] | Igual que cuando huimos...
+0070 [Tú] | Minova, tus habilidades de combate eran mucho más importantes que mi cerebro en ese momento.==W== Por eso me lancé frente a ese hechizo.
+0071 [Tú] | Aunque no pudiera moverme,==W== aún podía pensar, ¿no?
+0072 [Opción] | No te confundas
+0073 [Opción] | No fue solo por protegerte a ti
+0074 [Opción] | Fue por proteger a todos
+0075 [Tú] | Ya que estamos de acuerdo, deja de culparte por esto.
+0076 [Tú] | ¿Así se supone que actúa una verdadera líder de pandilla?
+0077 [Minova] | ...
+0078 [Minova] | Jah. Buen punto.
+0079 [Minova] | Je. Supongo que realmente das más para jefe que yo.
+0080 [Minova] | Tu temple, tu inteligencia... cómo simplemente entiendes a la gente... Sí, no te llego ni a los talones.
+0081 [Minova] | Si pudiera, te haría líder del Viento de Ceniza.
+0082 [Minova] | Pero sé que tienes tu propio camino que recorrer. Cosas más grandes te esperan más adelante.
+0083 [Minova] | Así que en cambio...==W== puedes quedarte con mi alma.
+0084 [Minova] | Jefe, este es mi deseo.
+0085 [Minova] | Necesito que destruyas a Creta Trading.
+0086 [Opción] | Acepto tu deseo
+0087 [Minova] | Y cuando ese deseo se cumpla...
+0088 [Minova] | Mi alma será tuya.
+0089 [Bastelina] | ¡Felicidades!
+0090 [Bastelina] | ¡Su compañía queda oficialmente==W== reactivada!
+0091 [Bastelina] | ¡Honorable Jefe, su nombre será conocido por toda Nova!
+0092 [Bastelina] | Desde Cangwu==W== en el lejano este==W== hasta Matsukawa==W== en el oeste,==W== ¡todos sabrán quién es usted!
+0093 [Opción] | Bastelina, necesito ejercer un derecho de la compañía
+0094 [Bastelina] | ¡Qué rápido!==W== ¿Y qué derecho sería?
+0095 [Tú] | Declaro la guerra a Creta Trading.
+0096 [Tú] | El objetivo es...
+0097 [Narración] | ...cerrar Creta Trading.

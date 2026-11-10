@@ -1,0 +1,166 @@
+# Capítulo 5 · Una chispa en la oscuridad · 9 · La responsabilidad de decidir
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Alert Mercenary | Mercenario alerta
+N:Injured Mercenary | Mercenario herido
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg2_964 | Hummingbird
+N:avg2_965 | Lanterna
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1214 | Pumpka
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1262 | Guardabosques de Cosecha Unida
+N:avg3_134 | Mina
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | La responsabilidad de decidir
+0003 [Intro] | Lady Gray llega con mercenarios mientras destruyes el laboratorio. Nyx interviene para salvarte y revela su verdadera identidad: es inspectora de cumplimiento. Joseph suelta a la Espada de Jade, decidido a arrasar con todo.
+0004 [Lugar y hora] | 22:15, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0005 [Mistique] | Mi magia apenas les hace un rasguño.==W== Vuelven a crecer más rápido de lo que puedo destruirlas.
+0006 [Mistique] | Esta maleza tiene la puerta completamente sellada.==W== ¡Si no la despejamos pronto, nunca vamos a salir de aquí!
+0007 [Tú] | Noya y los demás nos están buscando,==W== pero todos los invernaderos de esta zona se ven idénticos. Les va a tomar tiempo dar con nuestra ubicación.
+0008 [Tú] | Mina, ¿tienes algo?==W== Coordenadas, planos...==W== ¡Danos algo con qué trabajar, lo que sea!
+0009 [Mina] | El problema es que... estas instalaciones no aparecen en los mapas actuales del distrito.==W== ¿Tal vez las abandonaron hace años?
+0010 [Mistique] | Lo dudo.==W== El piso está limpio, sin hierbas. Alguien definitivamente le da mantenimiento a este lugar.
+0011 [Mistique] | En cuanto a la puerta,==W== seguramente es solo una salida lateral que dejaron de usar.
+0012 [Mistique] | Estas enredaderas también trepan por los muros exteriores.==W== Apuesto a que alguien las plantó como camuflaje natural para ocultar el edificio.
+0013 [Mina] | Aun así,==W== este ritmo de crecimiento no es natural...==W== ¿Qué demonios lo está alimentando?
+0014 [Mistique] | La respuesta la tienes enfrente.==W== Mira.
+0015 [Mina] | ¡¿Hierba de Jade?!==W== Entonces este lugar es...==W== un sitio de cultivo de Hierba de Jade.
+0016 [Mina] | ¿Para qué necesitaría Sir Joseph una provisión tan enorme?==W== ¿Qué es exactamente lo que planea?
+0017 [Mistique] | No es solo la Hierba.==W== Mina, mira el residuo en sus hojas.
+0018 [Mina] | Ese tono...==W== y esa firma mágica...==W== ¿Neo Solution?
+0019 [Tú] | ¿Neo Solution? ¿Qué es eso?
+0020 [Mina] | Un compuesto mágico volátil.==W== El Imperio de la Gracia prohibió su uso.
+0021 [Mina] | Lanzar hechizos cerca de él==W== suele agitar la magia en bruto que contiene.==W== Miren...
+0022 [Narración] | Al reaccionar a la magia de Mina, el líquido de las hojas destella al instante con una luz cegadora.
+0023 [Mina] | Ese fluido está saturado de magia: un auténtico banquete para los monstruos.==W== ¿Recuerdan lo que nos dijo Sir Joseph?
+0024 [Joseph] | Atiborramos a la bestia con alimento de alta carga mágica y luego usamos las plumas, y ese viento, para potenciar al máximo la Hierba.
+0025 [Mina] | Creo que está usando la Neo Solution para criar a la Espada de Jade.
+0026 [Mina] | Y probablemente también la usa para regar la Hierba de Jade==W== y acelerar su crecimiento.
+0027 [Tú] | Tiene sentido. Miren estas plumas regadas.==W== Nazuka peleó contra la Espada de Jade. Le voy a mandar un mensaje para confirmarlo.
+0028 [Mina] | El mal uso que hace Sir Joseph de la Neo Solution==W== es una violación grave del protocolo de la empresa.
+0029 [Mina] | No, es algo más grande que el protocolo.==W== Está rompiendo el código ético que comparten todas las grandes empresas de Nova.
+0030 [Mistique] | Mina,==W== según tus propios criterios,==W== Sir Joseph ya rompió una lista interminable de reglas.
+0031 [Mistique] | ¿De verdad crees que citar el manual del empleado va a detener a un hombre==W== como él?
+0032 [Mina] | Yo...==W== Tengo que creer que alguien de más arriba va a intervenir y a poner las cosas en orden.
+0033 [Mistique] | ¿Ah, sí?==W== ¿Y quién exactamente va a ser ese salvador?==W== ¿Firenze?==W== ¿Darcia?
+0034 [Mistique] | Joseph dirige I+D.==W== Su operación abarca nueve invernaderos y un ejército privado de mercenarios.==W== ¿De verdad crees que Darcia y Firenze no saben nada?
+0035 [Mistique] | Si lo saben,==W== ¿crees que de verdad se van a volver contra uno de los suyos?
+0036 [Mistique] | Y si no lo saben,==W== son tan incompetentes que dejaron que una conspiración se pudriera justo debajo de sus narices.==W== ¿Qué puedes esperar de ellas?
+0037 [Mina] | Si...==W== Si esas dos de verdad están involucradas...
+0038 [Mina] | Llevaré esto directamente a la sede de Cosecha Unida.==W== No puede ser que toda la empresa esté podrida hasta la médula.
+0039 [Mistique] | ...==W==
+0040 [Mistique] | Está bien.==W== Si eso es lo que vas a hacer...==W== te sugiero que me dejes documentarlo todo.
+0041 [Mina] | ¿Quieres que te deje...==W== tomar fotos?
+0042 [Mistique] | Claro.==W== No vas a permitir que Cosecha Unida les venda a los clientes porquería sin nutrientes cultivada a la fuerza con magia, ¿o sí?
+0043 [Mistique] | Al menos en esto==W== nuestros objetivos coinciden.
+0044 [Mistique] | Aunque quieras que la empresa se encargue,==W== vas a necesitar mis fotos como prueba.
+0045 [Mina] | Jamás dejaré que esta comida contaminada llegue a los estantes.==W== Pero...==W== dime==W==...
+0046 [Mina] | ¿Por qué me pides permiso?==W== Tú eres la que siempre dice: «Lo único que importa es la verdad».
+0047 [Mistique] | Normalmente, así es.==W== Pero...
+0048 [Mistique] | Alguien acaba de salvarme el pellejo diciendo que «no podía abandonar a una colega».==W== Me recordó que, técnicamente, todavía no renuncio.
+0049 [Mistique] | Así que, bruja o no, supongo que sigo siendo tu colega==W==...==W== o tu subordinada.==W== Después de todo, tú eres la gerente del Ruiseñor Leonado.
+0050 [Mistique] | Me parece justo==W== que tú decidas cómo usamos las fotos incriminatorias.
+0051 [Mistique] | Además, tengo el presentimiento de que apenas estamos rascando la superficie.==W== Hay muchos más trapos sucios por desenterrar.
+0052 [Mistique] | Jefe,==W== nos vas a ayudar a llegar al fondo de esto, ¿verdad?
+0053 [Tú] | Por supuesto.==W== Nos han estado manipulando desde el día en que entramos,==W== usándonos como herramientas.
+0054 [Tú] | Si quieren usarnos de carnada para sacar a alguien de su escondite, adelante.==W== Veamos qué pasa cuando la carnada muerde de vuelta.
+0055 [Lugar y hora] | 22:30, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0056 [Pumpka] | ¡Arránquenlas todas!==W== ¡Que no quede ni una en pie!
+0057 [Lanterna] | ¡O podríamos==W== quemar todo el lugar!
+0058 [Mistique] | Esa es la actitud.==W== Sigan==W== hasta arrancar de raíz hasta la última Hierba de Jade.
+0059 [Mistique] | Oye,==W== Jefe,==W== ¿estás seguro de esto?==W== ¿De verdad Joseph va a perder la cabeza por unas plantas?
+0060 [Mistique] | Yo en su lugar==W== me habría largado de la ciudad hace mucho.
+0061 [Tú] | Es la única carta que nos queda por jugar.
+0062 [Tú] | Si está tan obsesionado con su investigación como creo,==W== no se va a quedar de brazos cruzados viendo cómo destrozamos su obra maestra.
+0063 [Tú] | Además,==W== con tantos mercenarios, y conocidos, por cierto,==W== seguramente cree que todavía tiene la ventaja.
+0064 [Joseph] | ¡Detengan esta locura ahora mismo!==W== ¡¿Qué creen que están haciendo?!
+0065 [Mistique] | ¡Sí vino!==W== Jefe, le atinaste.
+0066 [Mistique] | ¿Qué le parece que hacemos,==W== Sir Joseph?==W== Estamos deshierbando.==W== Estas cosas tan crecidas son una monstruosidad.
+0067 [Joseph] | ¿Hierbajos==W==...?==W== Está claro que no tienen el intelecto para==W== comprender el verdadero valor de la Hierba de Jade.
+0068 [Joseph] | Hmph.==W== Como los tienen en alta estima,==W== pensaba ser misericordioso y dejarlos vivir.
+0069 [Joseph] | Pero cambié de opinión==W==...==W== Voy a exterminarlos ahora mismo, alimañas,==W== y luego le daré explicaciones al Maestro.
+0070 [Mistique] | Ya te ganamos una vez.==W== ¿De verdad crees que un puñado de matones basta para detener a una bruja?
+0071 [Joseph] | ¿Un puñado?==W== Lady Gray,==W== parece que esta bruja la está subestimando.
+0072 [Lady Gray] | Buenas noches.==W== Supongo que==W== podemos saltarnos las presentaciones, ¿no?
+0073 [Lady Gray] | Soy Lady Gray.==W== Y debo agradecerles su diligente trabajo en las Tres Grandes Comisiones.
+0074 [Tú] | Sabía que eras tú.==W== Tus mercenarios te delataron por completo.
+0075 [Tú] | ¿No se supone que estabas escondida en Cosecha Unida?==W== Esto parece un poco llamativo, ¿no crees?
+0076 [Lady Gray] | ¿Yo? ¿Escondida?==W== ¡Jajaja!==W== Conseguí «eso», tal como me lo pidió el Maestro.==W== ¿Por qué demonios iba a esconderme?
+0077 [Tú] | «Eso»==W== otra vez==W==...
+0078 [Tú] | Sir Joseph,==W== apuesto a que Lady Gray omitió lo que de verdad pasó en el campamento==W== a las afueras de la ciudad.
+0079 [Joseph] | ¿Mmm?==W== ¿Te refieres a las Tres Grandes Comisiones?
+0080 [Lady Gray] | ¡No le hagas caso a ==SEX4==,==W== Joseph!==W== Hicimos exactamente lo que pidió el Maestro,==W== y el Maestro nos protegerá.
+0081 [Mistique] | Ah, claro, hicieron lo que les pidió...==W== ¡Rompiendo todas las reglas y pisoteando cualquier sentido de la moral!
+0082 [Lady Gray] | ¿Y qué? Eso demuestra que somos los únicos lo bastante capaces para que el Maestro nos valore.
+0083 [Mistique] | ¿Ah, sí?==W== Los archivos de Scarlet Sights están llenos de historias como esta.==W== ¿Quieres saber cómo suelen terminar?
+0084 [Lady Gray] | Silencio, bruja.==W== Tus juegos mentales no van a funcionar aquí.
+0085 [Lady Gray] | Soldados.==W== ¡Mátenlos!
+0086 [Joseph] | ¡Alto el fuego!
+0087 [Lady Gray] | Joseph, no me digas que de verdad eso te asustó...==W== ¿Adónde se fue toda tu furia?
+0088 [Joseph] | Sigo furioso porque esta bruja arruinó la obra de mi vida.==W== Pero, como director de I+D, respeto los hechos.
+0089 [Joseph] | Y el hecho es este:==W== llevamos horas bajo ataque y no hay ni rastro del Maestro, ni mensajes, nada.==W== Quizá la bruja tenga razón...
+0090 [Joseph] | No somos más que peones, sacrificados por capricho.
+0091 [Joseph] | Cuando un guante de laboratorio se ensucia, se tira a la basura. Eso es exactamente lo que nos está pasando.
+0092 [Lady Gray] | ¡Tonterías!==W== ¡Todavía podemos arreglarlo==W== si nos deshacemos de estos dos ahora mismo!
+0093 [Joseph] | Piénselo.==W== Por lo menos tres nos persiguieron, pero aquí solo hay dos.==W== Es obvio que el tercero fue por refuerzos.
+0094 [Joseph] | Hay cuatro Trekkers afuera,==W== más por lo menos un francotirador escondido en este invernadero que los cubre.
+0095 [Joseph] | Nuestra operación de recaudación de fondos para el Maestro está comprometida. Todo se está filtrando como una coladera.
+0096 [Lady Gray] | ¡¿Sus refuerzos ya están aquí?!==W== ¿Cómo es posible?
+0097 [Alert Mercenary] | ¡Contacto a la izquierda!==W==
+0098 [Injured Mercenary] | ¡Nos disparan desde la derecha!==W== ¡Me dieron!
+0099 [Lady Gray] | ¡Es una trampa!==W== ¡Retirada!
+0100 [Joseph] | ¡Agh...!
+0101 [???] | Lo siento.==W== No puedo dejar que te lleves a nuestro testigo estrella.
+0102 [Mina] | Menos mal...==W== ¡Justo a tiempo!
+0103 [Mina] | ==PLAYER_NAME==,==W== ¿cómo supiste que Nyx estaría aquí?
+0104 [Amber] | ¿Libre... otra vez?==W== ¿Por qué Nyx se toma todos los viernes? Y los jueves siempre llega tarde.
+0105 [Tú] | Amber me dio la pista.==W== De hecho, ella sospechaba que Nyx era quien estaba detrás de todo este lío.
+0106 [Nyx] | ¿Y qué te hizo darte cuenta==W== de que yo no era el enemigo?
+0107 [Tú] | Más que nada, suerte.==W== Junté lo que me dijeron Sapphire y Amber, y el patrón era obvio:==W== cada viernes te escabullías para hacer otra cosa.
+0108 [Tú] | Dijeron que en Marketing te traen como burro,==W== mandándote de un lado a otro==W== hasta que andas tan desvelada que te duermes en cualquier rincón.
+0109 [Tú] | Pero no tienes familia aquí en Philae,==W== y no le debes dinero a ningún usurero.
+0110 [Tú] | No cuadraba.==W== ¿Por qué aguantar ese maltrato si no necesitas el dinero?==W== O eres masoquista, o tenías otro motivo.
+0111 [Tú] | ¿Y cargar esa almohada a todas partes?==W== Demasiado teatral; rompía el personaje.==W== La única lógica era que necesitabas esconder algo encima. Eso te volvía muy sospechosa.
+0112 [Nyx] | Le atinaste. No puedo creer que ahí es donde la regué.==W== Supongo que mis habilidades de infiltración necesitan una pulidita.
+0113 [Nyx] | Permíteme presentarme de nuevo. Soy Nyx, inspectora del Departamento de Cumplimiento de Cosecha Unida. Superviso la sucursal de Philae. Lo de Marketing solo era una fachada.
+0114 [Nyx] | La almohada es para mi arma. Pero los viernes libres sí eran de verdad para echar la flojera. En Marketing te exprimen hasta los huesos, y la verdad no lo soporto.
+0115 [Tú] | ¿Dejaste que Amber notara tu horario a propósito, solo para atraernos aquí?
+0116 [Nyx] | Culpable. Y gracias por los refuerzos. Encargarme sola de estos mercenarios habría sido una lata. Te debo una.
+0117 [Tú] | Ayúdanos a atrapar a Lady Gray y a conseguir respuestas sobre el orfanato. Entonces estaremos a mano.
+0118 [Nyx] | Trato hecho.
+0119 [Lugar y hora] | 22:45, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0120 [Joseph] | ...
+0121 [Mina] | Director Joseph,==W== vámonos.==W== Afuera hay médicos esperando para atenderlo.
+0122 [Joseph] | No te molestes. Solo déjame descansar. Te diré todo lo que quieras saber.
+0123 [Joseph] | La Hierba de Jade fue un completo accidente.
+0124 [Joseph] | Hace dos meses me topé con pared en el proyecto de «Maduración Mágica».
+0125 [Joseph] | Los métodos antiguos, con Neo Solution, eran costosos y, en el mejor de los casos, daban resultados mediocres. El Maestro exigía un gran avance. Velocidad. Eficiencia.
+0126 [Joseph] | Justo cuando estaba desesperado, supe que unos Trekkers habían capturado a la Espada de Jade a las afueras de la ciudad. Ese monstruo me dio la chispa para modificar la Hierba de Jade silvestre.
+0127 [Joseph] | Pero esta nueva tecnología de maduración no era para el trigo. El grano era un subproducto que se vendía para financiar el verdadero deseo del Maestro: las Plantas Inteligentes.
+0128 [Joseph] | La Maduración Mágica existe para ellas.
+0129 [Joseph] | El Maestro quería una evolución acelerada. Forzamos su reproducción, bombardeándolas día y noche con la luz mágica de la Hierba de Jade.
+0130 [Joseph] | El resultado son esos tanques del laboratorio. Hermosos, ¿verdad?
+0131 [Mistique] | ¿A eso le llamas hermoso? Me pusieron la piel de gallina.
+0132 [Joseph] | Je. Estás ciega. Esas plantas van a cambiar el mundo.
+0133 [Joseph] | Haber contribuido a un plan tan grandioso... No desperdicié mi vida.
+0134 [Tú] | ¡Oye! ¿Qué estás haciendo?
+0135 [Joseph] | Je... Déjenme mostrarles mi último acto de lealtad.
+0136 [Joseph] | Je. Ya llegó. Abrí la jaula antes de salir. Va a destrozar este lugar.
+0137 [Mistique] | ¡Jefe! ¡Arriba de ti!
+0138 [Mina] | ¿Eso es...?
+0139 [Mistique] | ¡La Espada de Jade!

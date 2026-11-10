@@ -1,0 +1,103 @@
+# Historia de Chitose · 1 · The Way of Oneness (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blacksmith | Herrero
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+N:avg3_144 | Residente
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El camino de la Unidad (Parte I)
+0003 [Intro] | Un encuentro inesperado con Chitose en la calle da pie a una conversación sobre el entrenamiento del «Jinken Hitotsu»...
+0004 [Narración] | El reencuentro con Chitose fue inesperado.
+0005 [Chitose] | Nos volvemos a ver, mi ==SEX11==.
+0006 [Chitose] | ... Tal como sospechaba. Con solo esperar aquí, volvería a verle.
+0007 [Tú] | ¡Ah, Chitose! ¡Cuánto tiempo!
+0008 [Tú] | ¿Me esperaste aquí solo a mí? ¿Pasa algo?
+0009 [Chitose] | Mi ==SEX11==... Si me permite hablar con franqueza, esta vez vine a usted porque ...==W== tengo una petición.
+0010 [Tú] | ¿Una petición?
+0011 [Chitose] | Sí. Hasta ahora me he mantenido firme en mi entrenamiento, puliéndome siempre como la hoja que lo protege.
+0012 [Chitose] | Lo que busco no es otra cosa que el estado del «Jinken Hitotsu».
+0013 [Tú] | ¿«Jinken Hitotsu»? No quiero sonar ignorante, pero ¿podrías explicarlo?
+0014 [Chitose] | Significa que la hoja puede percibir desde lejos los pensamientos y sentimientos de quien la empuña y actuar por voluntad propia sin necesidad de órdenes. Ese es el ideal que persigo.
+0015 [Tú] | Ya veo, así que a eso te referías.
+0016 [Tú] | ¿Quieres que entrene contigo para que logres esta «unidad entre hoja y portador»?
+0017 [Chitose] | Como era de esperar, mi ==SEX11==, ha descubierto mi intención. Usted ya comprende el verdadero significado del «Jinken Hitotsu».
+0018 [Tú] | ¿Eh? No, solo ... lo supuse un poco...
+0019 [Chitose] | ¡Es tal como dice...!
+0020 [Chitose] | Deseo experimentar su estado de Unidad: ¡aquí y ahora, de ser posible! Espero captar su verdadera esencia lo antes humanamente posible.
+0021 [Tú] | Qué admiración tan intensa... Pero dejando eso de lado por ahora, esto del «Jinken Hitotsu»... Es la primera vez que oigo hablar de eso...
+0022 [Chitose] | ¿Será que... a sus ojos, aún no estoy lista para captar esa Unidad?
+0023 [Chitose] | Ugh... Todo es culpa mía... Simplemente no soy digna... Lo he decepcionado y me avergüenzo profundamente...
+0024 [Tú] | ¡Espera, espera! ¡No saques conclusiones y te eches la culpa de inmediato...!
+0025 [Tú] | En fin... ¡creo que todo saldrá bien! Chitose, sé que definitivamente podrás dominar el «Jinken Hitotsu».
+0026 [Chitose] | ¿D-de verdad...?
+0027 [Tú] | Por supuesto. Después de todo, yo... ejem ...==W== ¡hablo como alguien que ya dominó la Unidad!
+0028 [Tú] | Suspiro... ¿Qué estoy diciendo...?
+0029 [Chitose] | Aquí hay ... mucho ambiente...
+0030 [Tú] | Siempre parece algo perdida cuando está entre multitudes.
+0031 [Tú] | ¿Hay algo que te interese ver?
+0032 [Chitose] | No... no es que...
+0033 [Chitose] | Muy bien. Aunque intentara ocultarlo, usted me descubriría, mi ==SEX11==, pues ya ha dominado el «Jinken Hitotsu».
+0034 [Tú] | Siento decepcionarte, pero aquí no hay ningún «descubrir» de nada.
+0035 [Chitose] | Como sabe, soy una «hoja desenvainada». Por eso siempre me preocupa herir accidentalmente a alguien que simplemente pase cerca.
+0036 [Tú] | Ahora que lo dice, es cierto. Por alguna razón, parece que solo yo puedo tocar a Chitose sin resultar lastimado...
+0037 [Tú] | ¿Entonces todavía tienes problemas para controlar la hoja mágica de tu cuerpo?
+0038 [Chitose] | L-lo siento muchísimo... Todo es porque mi entrenamiento aún es insuficiente...
+0039 [Chitose] | ¡No me queda más remedio que romper mi propia hoja como disculpa!
+0040 [Tú] | ¡Espera! ¡Era solo una pregunta casual!
+0041 [Chitose] | ¡Mi ==SEX11==...! Usted siempre es tan amable y comprensivo. ¡De verdad ... no soy digna!
+0042 [Tú] | Uf... Oír a Chitose hablar de «romper su propia hoja» da muchísimo miedo. No es algo con lo que se bromee...
+0043 [Tú] | En fin, si te preocupa que haya demasiada gente alrededor...
+0044 [Tú] | Puedes acercarte un poco más a mí. Así, definitivamente no lastimarás a nadie más.
+0045 [Chitose] | ¿Desea que me acerque ... a usted, mi ==SEX11==...?
+0046 [Chitose] | ¡¿Hah?!
+0047 [Tú] | ¡¿Qué es esa reacción?! ¿¡Me malinterpretaste!?
+0048 [Chitose] | No, mi ==SEX11==, esto también es parte del entrenamiento para alcanzar la Unidad entre portador y hoja. ¡Lo comprendo por completo...!
+0049 [Tú] | ¿Es lo que crees? Bueno, no importa. Simplemente tomémonos de las...
+0050 [Chitose] | Entonces... Si me permite el atrevimiento...
+0051 [Tú] | ¡¡¡Me abrazó de repente con tanta fuerza!!!
+0052 [Chitose] | Mi ==SEX11==, ¿qué tal se siente?
+0053 [Tú] | ¡¿A qué te refieres con «qué tal se siente»?! ¡¿Qué estás haciendo ahora?! ¡Oye, oye, ¿me estás escuchando?!
+0054 [Chitose] | Soy su hoja, mi ==SEX11==; y una hoja pertenece por derecho al lado de su ==SEX11==.
+0055 [Chitose] | Por eso intento hacer que «envaine su hoja»...
+0056 [Tú] | ¡¿Eso fue lo que entendió de «más cerca»?!
+0057 [Chitose] | Ah... Esa expresión suya... ¿Será que malinterpreté su orden?
+0058 [Tú] | No... No es tu culpa. Yo fui quien dijo que podíamos acercarnos. En todo caso, no es tanto que hayas malinterpretado…
+0059 [Chitose] | ¿No logré comprender su intención, mi ==SEX11==...? Adiós a alcanzar la Unidad entre portador y hoja. ¿Ya fracasé...?
+0060 [Chitose] | ¡No tengo remedio...! Ahora no me queda más que romper mi propia hoja...
+0061 [Tú] | ¡A-alto ahí!
+0062 [Tú] | No, no puedo dejarme arrastrar por su forma de pensar... Necesito encontrar cómo reorientar la conversación…
+0063 [Tú] | Chitose, si quieres dominar la Unidad, ¿qué tal si probamos un enfoque distinto?
+0064 [Chitose] | ¿Se refiere a un corte de prueba? Estoy preparada.==W== Por favor, instrúyame. ¿Qué desea que corte?
+0065 [Tú] | Alto... D-déjame terminar...
+0066 [Tú] | Iremos a una tienda. Quiero que intentes adivinar qué planeo comprar. Bastante simple, ¿no?
+0067 [Chitose] | O sea que debo adivinar qué desea comprar... Ya veo.
+0068 [Chitose] | Como usted desee, mi ==SEX11==. No le fallaré.
+0069 [Narración] | Y así, con Chitose aferrada a mi cintura, entramos a la herrería.
+0070 [Blacksmith] | ¡Bienvenidos! ¿Buscan alguna hoja en particular? ¡Los productos de nuestra tienda no tienen igual en kilómetros a la redonda!
+0071 [Chitose] | ¿Esto es ... una herrería...? Ahhh...
+0072 [Tú] | Eh... ¿Q-qué pasa?
+0073 [Chitose] | Mi ==SEX11==... ¿Es porque perdí la compostura antes...? ¿De verdad va a desechar esta hoja, a desecharme a mí, aquí y ahora...?
+0074 [Tú] | ¡No, no es eso! ¡No siempre asumas lo peor!
+0075 [Tú] | Pero en serio, si de verdad dijera que quiero comprar una hoja nueva, ¿qué harías, Chitose?
+0076 [Chitose] | En ese caso... ¡lo resolvería con una prueba de hojas! Debo ver con mis propios ojos cuál hoja es verdaderamente digna de servirlo, mi ==SEX11==...
+0077 [Tú] | ¡Guau, de verdad se puso celosa!
+0078 [Tú] | Ugh, es mi culpa por no comunicarme con claridad. No me extraña que se haya hecho una idea equivocada...
+0079 [Tú] | Perdón. Decir que quería probar un enfoque distinto para lograr la Unidad era solo una excusa.
+0080 [Tú] | Para ser sincero, solo quería comprarte un regalo.
+0081 [Chitose] | ¿Un regalo? ¿Con qué motivo?
+0082 [Tú] | ¿Recuerdas cuando me diste ese sageo? Todavía no te he dado nada a cambio.
+0083 [Tú] | Es lo correcto corresponderte con algo, ¿no? Así que no se trata de adivinar qué quiero comprar. Quiero que elijas algo que te guste a ti.
+0084 [Chitose] | Si es así...
+0085 [Narración] | Sin dudarlo, señala una piedra de afilar de tamaño mediano.
+0086 [Tú] | ¿Una piedra de afilar? ¿Seguro que es todo lo que quieres? Hay muchísimos otros accesorios para hojas entre los cuales elegir, ¿sabes?
+0087 [Chitose] | No lo digo por cortesía: si tuviera esta piedra de afilar...
+0088 [Chitose] | Significaría que podría pedirle a mi ==SEX11== que me cuide en persona, cuando lo necesite. Para una hoja, es la dicha suprema...
+0089 [Tú] | De verdad eligió una piedra de afilar... Sorprendente, sin duda.
+0090 [Tú] | Pero si eso es lo que quiere, que así sea. Después de todo, dije que podía elegir por sí misma.
+0091 [Tú] | ¡Bien, bien! No lo entiendo del todo, pero ... si eso es lo que quieres, ¡la próxima vez la usaré para cuidar de ti!
+0092 [Narración] | Con la piedra de afilar comprada, Chitose y yo salimos juntos de la herrería, ambos satisfechos.

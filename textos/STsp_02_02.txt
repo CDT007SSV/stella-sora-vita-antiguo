@@ -1,0 +1,115 @@
+# Nova Times #02 · Tu nombre, desconocido para mi corazón · 2 · Your Name, Unknown to My Heart (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:The Space Walker | El Caminante Espacial
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg2_954 | Crispy Hooves
+N:avg2_955 | Space Walker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1244 | Space Walker
+N:avg3_1245 | Space Walker
+N:avg3_138 | Trekker
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Tu nombre, desconocido para mi corazón (Parte II)
+0003 [Intro] | Los cuatro se enfrentaron a un enemigo complicado y, aunque el Jefe encontró la forma de derrotarlo, el enemigo lanzó un último contraataque justo antes de morir...
+0004 [Iris] | ¡Amber, cuidado! ¡Te está apuntando!
+0005 [Amber] | Entendido.
+0006 [Noya] | ¡Perfecto! ¡Mi turno!
+0007 [Noya] | ¡Uf! ¡Camino libre!
+0008 [Noya] | ¿Eh? ¿Qué haces ahí en la esquina?
+0009 [Tú] | Estas Pezuñas Crujientes a veces se pasan en su embestida y se atascan en las esquinas. Solo reviso si queda alguna rezagada.
+0010 [Noya] | ¿En serio? Es la primera vez que lo oigo.
+0011 [Iris] | Sabes mucho.==W== Has estado señalando los puntos débiles de los Stellaroids todo este tiempo. Hoy nuestro combate es muchísimo más eficiente.
+0012 [Amber] | ¿Cómo... se te da tan bien esto?
+0013 [Tú] | La verdad no sé explicarlo.==W== Sigo sin recordar nada más,==W== pero en cuanto veo un Stellaroid, los datos sobre él simplemente... me vienen a la mente.
+0014 [Noya] | ¡Se te dan de maravilla los Stellaroids! ¡Apuesto a que eras un Trekker increíble antes de perder la memoria!
+0015 [Iris] | Estoy de acuerdo. Solo un Trekker veterano tendría esa clase de perspicacia.
+0016 [Iris] | Parece que, aun sin tus recuerdos, tu experiencia en combate sigue ahí.
+0017 [Tú] | En realidad no soy nada del otro mundo...
+0018 [Tú] | Ustedes se las arreglaron muy bien por su cuenta.
+0019 [Tú] | En serio, todo salió bien porque su trabajo en equipo es impecable. Los derriban con una limpieza...
+0020 [Tú] | Si fuera yo solo, no podría vencerlos ni sabiendo todas sus debilidades.
+0021 [Iris] | Nuestro trabajo en equipo, ¿eh...?
+0022 [Amber] | Je...
+0023 [Noya] | ¡Jajajaja! ¡Parece que todas estamos pensando lo mismo!
+0024 [Tú] | Eh... ¿Dije algo malo?
+0025 [Noya] | ¡Para nada! ¡Oírtelo decir nos hizo darnos cuenta de cuánto hemos mejorado peleando juntas!
+0026 [Iris] | Al principio éramos un desastre total...
+0027 [Noya] | ¿Te acuerdas de cuando empezamos a escalar? Yo estaba a punto de soltar una habilidad de espada buenísima y, antes de siquiera golpear al Stellaroid, ¡pum! Iris me congeló hasta los huesos.
+0028 [Iris] | Todavía no estaba acostumbrada, así que no calculé bien tu posición.==W== Además, apunté específicamente lejos de ti. ¡Tú fuiste quien se lanzó de lleno!
+0029 [Noya] | ¡Menos mal que Amber estaba ahí para hacer pedazos ese bloque de hielo un segundo después!
+0030 [Amber] | Ahora... controlo mejor.
+0031 [Noya] | ¡No te preocupes, Amber! ¡Son todos esos pequeños percances los que por fin nos ayudaron a conectar como equipo!
+0032 [Tú] | Sí que han pasado por mucho. Congeladas, recibiendo balazos...==W== En serio, Noya, ¿cómo es que sigues de pie?
+0033 [Noya] | ¡Je, soy más dura de lo que parezco! ¡Los rasguños se curan solos en un abrir y cerrar de ojos!
+0034 [Narración] | Entre bromas y burlas, seguimos adelante.
+0035 [Narración] | Hasta que...
+0036 [Noya] | Ese sí es un Stellaroid que nunca había visto.
+0037 [Iris] | Yo tampoco...==W== No tengo datos de sus patrones de combate... Un ataque frontal sería un suicidio. Tenemos que...
+0038 [Noya] | ¡Lancémonos sobre él y averigüemos!
+0039 [Iris] | ¡Espera! ¿Y si nos aplasta y ningún otro Trekker llega hasta aquí? ¡Nos quedaremos atrapadas! ¡Nadie vendrá a ayudarnos!
+0040 [Noya] | ¡Pero mira qué resistente es! ¡Derrótalo y seguro aparece una Caja de Deseos!==W== ¡Además, con un experto como tú, estamos más que listas!
+0041 [Tú] | ¿Yo?
+0042 [Iris] | Sí. Sabes cosas de los Stellaroids que no están en ningún libro. Tener a alguien con tu experiencia aquí es un gran alivio.
+0043 [Iris] | Tenemos que conseguir ese Artefacto, terminar este encargo...==W== ¡y por fin cobrar para poder COMER!
+0044 [Tú] | Vaya, pasó de cero a cien.
+0045 [Amber] | Así es Iris.
+0046 [Noya] | ¡Sí, te acostumbras!
+0047 [Noya] | ¡Vamos, destrocemos esta cosa y consigamos nuestra Caja de Deseos!
+0048 [Narración] | Unos minutos después.
+0049 [Noya] | ¡Guau! ¡¿De dónde salieron estas cosas?!
+0050 [Amber] | Simplemente... se materializaron. Justo detrás de nosotras.==W== No sentí nada.
+0051 [Noya] | ¡Nunca había visto a un Stellaroid hacer un movimiento así!==W== Iris, ¿alguna idea?
+0052 [Iris] | Creo que es un Caminante Espacial. La información es casi inexistente. Todo lo que sé es que se teletransporta.
+0053 [The Space Walker] | ¡Kree—!
+0054 [Noya] | ¡Ahí viene otra vez! ¡Dispérsense!
+0055 [Iris] | ¡Cuidado por dónde pisan!
+0056 [Amber] | No podemos seguirle el ritmo.
+0057 [Tú] | Esto no está bien. Las están acorralando...
+0058 [Tú] | Si de verdad era un Trekker con experiencia, seguro peleé contra uno de estos antes. Tiene que haber un punto débil... Solo necesito recordarlo...
+0059 [Tú] | Vamos, piensa... ¡Piensa—!
+0060 [???] | ¡Mi señor ■■! ¡¿Está herido?!
+0061 [Tú] | Estoy bien.==W== Llegaron justo a tiempo.
+0062 [???] | ¡El patrón de ataque de esta cosa es una locura! Nuestro escuadrón está a punto de quebrarse... No lo lograremos...
+0063 [Tú] | No, han hecho un gran trabajo. Solo con contenerlo tanto tiempo ya fue más que suficiente.
+0064 [Tú] | Sus ataques parecen imparables, pero tienen un ritmo.
+0065 [Tú] | Puede teletransportarse, pero no sin fin. Cada vez, apunta a un objetivo y luego transporta su ataque justo encima de él.
+0066 [Tú] | Se queda inmóvil mientras canaliza eso. No puede moverse ni detener el ataque. Ese es su momento de debilidad. Ahí es cuando atacamos.
+0067 [Tú] | Un momento...==W== ¿Fui yo, del pasado?
+0068 [Tú] | El Stellaroid de mi memoria era más grande, mucho más peligroso... Pero se veía y se movía igual que este Caminante Espacial.
+0069 [Tú] | Deben de ser del mismo tipo de Stellaroid. Si es así...
+0070 [Tú] | Amber, mantén la distancia, sé ágil. Atrae su fuego.
+0071 [Amber] | Entendido.
+0072 [Tú] | Iris, prepara una magia de área. Usa tu magia de hielo para inmovilizarlo.
+0073 [Iris] | ¡V-vale, haciendo los cálculos!
+0074 [Tú] | Noya, cuando se fije en Amber, te lanzas contra él.
+0075 [Noya] | ¡Entendido! ¡Déjamelo a mí!
+0076 [Tú] | El Caminante Espacial tiene que canalizar energía para teletransportarse. Esa es nuestra oportunidad.
+0077 [Tú] | ¡Mientras estemos sincronizadas, no podemos perder!
+0078 [Narración] | Siguiendo mis indicaciones, las tres se mueven como una sola y van desmontando sistemáticamente las defensas del Caminante Espacial.
+0079 [Noya] | ¡Prepárate!==W== ¡Esto va a doler!
+0080 [The Space Walker] | Gkk... ghh...
+0081 [Noya] | ¡Uf! Todo listo.
+0082 [Amber] | Terminado.
+0083 [Iris] | ¡La Caja de Deseos! ¡¿Dónde está la Caja de Deseos?!
+0084 [Tú] | Tengo un mal presentimiento... Algo anda mal...
+0085 [???] | ¡El Stellaroid se está desvaneciendo! ¡Mi señor, hemos ganado!
+0086 [Tú] | Buen trabajo. Que el equipo de inteligencia entre para la recolección final de datos.
+0087 [???] | ¡Espere... todavía se mueve! ¡¿Cómo?!
+0088 [???] | ¡El espacio se... se está deformando a su alrededor! ¡Se está sacrificando para lanzar una última magia de teletransportación!
+0089 [Tú] | ¡¿Qué?!
+0090 [???] | ¡Mi señor, aléjese de ahí!
+0091 [Tú] | Cuando este tipo de Stellaroid muere, él...
+0092 [Noya] | ¡Tranquilos, voy a cazarlo!
+0093 [Tú] | ¡NOYA, ATRÁS!
+0094 [Noya] | ¿Eh?
+0095 [Narración] | Me lanzo y empujo a Noya fuera de su alcance.==W==En el último segundo antes de que el mundo se desvanezca, la luz misma se dobla y se hace añicos a mi alrededor. Siento que el cuerpo se me desgarra mientras caigo a un vacío sin fin...

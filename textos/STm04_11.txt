@@ -1,0 +1,160 @@
+# Capítulo 4 · Más allá del sueño · Epílogo · Aún sin resolver
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Disheveled Employee | Empleado desaliñado
+N:Passing Employee | Empleado de paso
+N:Sleepless Employee | Empleado desvelado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_136 | Angie
+N:avg1_156 | Nazuna
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_974 | Serena
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Aún sin resolver
+0003 [Intro] | Claire es capturada y llevada a Emor, y Lady Gray se esconde en Cosecha Unida. Para llegar a Lady Gray y también para encontrar pistas sobre el orfanato, emprendes un nuevo viaje siguiendo las indicaciones de Serena.
+0004 [Lugar y hora] | 10:00, 14.º del mes de Tonitrua, Distrito de Oro de Philae, Cosecha Unida
+0005 [Narración] | El gran edificio de Cosecha Unida parecía un hormiguero enorme, con empleados de uniforme negro yendo y viniendo sin parar.
+0006 [Fuyuka] | Eh,==W== mmm,==W== ¿disculpe...?
+0007 [Sleepless Employee] | Perdón, no puedo hablar. Se me viene encima la fecha de entrega.==W== Pregunta en la recepción.
+0008 [Disheveled Employee] | ¿La directora ejecutiva? Mira, yo solo soy un empleado de a pie. ¿Cómo voy a saber dónde tienen sus oficinas los peces gordos?==W== Pregúntale a alguien más.
+0009 [Narración] | Todos eran educados pero distantes, y Fuyuka se sentía como una extraña que se había metido por accidente en la colmena equivocada.
+0010 [Fuyuka] | (Ay, esto intimida muchísimo...==W== ¿Así es la ciudad?==W== Quizá mejor me regreso...)
+0011 [Fuyuka] | (¡No!==W== Me ofrecí para recibir este premio en nombre del Maestro. ¡No puedo echarme para atrás ahora!)
+0012 [???] | ¿Deambulando por un lugar como este?==W== Ten cuidado de no perderte, pequeña.
+0013 [Fuyuka] | ¡Ah!==W== ¡Lo siento mucho! Soy de fuera...==W== ¡No era mi intención meterme sin permiso!
+0014 [???] | Vaya, qué niña tan adorable.==W== A juzgar por tu atuendo, debes de ser una Trekker, ¿no?
+0015 [Fuyuka] | S...==W== ¡Sí, lo soy!
+0016 [???] | ¿Tienes una cita?
+0017 [Fuyuka] | ¡Sí!==W== S-==W==Soy Fuyuka,==W== líder del Gremio Petal Bloom.
+0018 [Fuyuka] | Vine a recibir un premio en nombre del Gremio Petal Bloom, del Gremio de la Nueva Estrella==W== y... del Jefe.
+0019 [???] | Ya veo.==W== Qué feliz coincidencia.==W== Yo también asistiré a la ceremonia de premiación.
+0020 [???] | Mmm.==W== Por tu aspecto, cuesta imaginar que tengas el poder de derrotar monstruos gigantes.==W== Las apariencias de verdad engañan.
+0021 [Fuyuka] | Disculpe...==W== ¿Sabe dónde está la oficina de la directora ejecutiva? Quería pasar a saludarla.
+0022 [???] | Esa sería yo. Disculpa, debí presentarme antes.
+0023 [Darcia] | Soy Darcia,==W== directora ejecutiva de Cosecha Unida aquí en Philae.
+0024 [Fuyuka] | Ah, así que usted es la directora ejecutiva...==W== Eh,==W== ¡¿¿eh??!
+0025 [Passing Employee] | ¿Eh?==W== ¿Por qué la señora Darcia está hablando con una Trekker?
+0026 [Fuyuka] | (L-==W==La gente definitivamente empieza a mirarnos...==W== De verdad es ella).
+0027 [Darcia] | Por aquí, por favor.
+0028 [Darcia] | Te ves un poco tensa.==W== ¿Todo bien?
+0029 [Fuyuka] | E-==W==Estoy bien...
+0030 [Fuyuka] | (Esperaba que la directora ejecutiva fuera mucho más intimidante...==W== Pero==W== es tan amable. Debe de ser buena persona, ¿verdad?)
+0031 [Darcia] | Por favor, ponte cómoda. ¿Te ofrezco un té?
+0032 [Fuyuka] | ¡Ah, sí, por favor! ¡Gracias!
+0033 [Fuyuka] | (Estos muebles parecen haber costado una fortuna.==W== Mejor tengo cuidado).
+0034 [Darcia] | Aquí tienes.==W== Hasta hace poco estuve en Emor por negocios,==W== así que me temo que no estoy al día de lo que pasa fuera de la ciudad.
+0035 [Darcia] | Esperaba que pudieras contarme sobre la cacería de los Tres Grandes.==W== Los monstruos me parecen fascinantes.
+0036 [Fuyuka] | ¡Claro!==W== El primero que derrotamos fue la Espada de Jade.==W== Todo empezó cuando a Nazuka senpai y al equipo les tendieron una emboscada...
+0037 [Narración] | Una hora después
+0038 [Fuyuka] | Al final,==W== el Jefe hizo un comercio de almas con nosotras==W== que nos protegió de la niebla del Jardín Parásito.
+0039 [Fuyuka] | Así rescatamos a Nazuka senpai,==W== y con ella al frente,==W== derrotamos al último.
+0040 [Darcia] | Una historia verdaderamente emocionante.==W== Es una lástima que el Jefe no haya podido venir hoy.==W== Esperaba tener la oportunidad de conocer a ==SEX4==.
+0041 [Fuyuka] | B-bueno...==W== La verdad, el Jefe y todas nosotras estamos muy agradecidos con Cosecha Unida por limpiar nuestro nombre.==W== ==SEX1== de verdad quería agradecerle en persona.
+0042 [Fuyuka] | Pero todo fue tan repentino, y como todos estaban ocupados con trabajo urgente en el campamento, vine yo en representación...
+0043 [Fuyuka] | ¡Ay, lo siento mucho!==W== Debí explicar todo eso desde el principio.
+0044 [Darcia] | No pasa nada.==W== Lo decidí apenas ayer, al volver a Philae, y no avisé hasta esta mañana.==W== Es perfectamente comprensible que no pudieran reorganizar sus agendas.
+0045 [Darcia] | Tengo entendido que donaron la recompensa por derrotar a los Tres Grandes para ayudar a reparar el campamento, ¿cierto?
+0046 [Fuyuka] | Eh, sí.==W== La recompensa era para los Trekkers que derrotaran a los monstruos,==W== pero acabar con los Tres Grandes fue un esfuerzo de grupo. No fue obra de uno o dos Trekkers o gremios.
+0047 [Fuyuka] | Sentimos que lo justo era que todos pusieran de su parte para reparar los daños que el Jardín Parásito le causó al campamento.
+0048 [Fuyuka] | Eh...==W== Al menos, eso fue lo que dijeron el Jefe y Nazuka senpai.
+0049 [Darcia] | Ya veo.==W== Aun así, esta medalla es mi reconocimiento personal a los logros de Petal Bloom...
+0050 [Darcia] | ...y por eso==W== debo entregártela yo misma.
+0051 [Fuyuka] | Esto es...==W==
+0052 [Darcia] | La Medalla de Honor del Senado de Cosecha Unida.==W== Es la máxima distinción de nuestra empresa, otorgada a quienes han hecho contribuciones excepcionales==W== a la empresa y a nuestra ciudad.
+0053 [Fuyuka] | ¡¿Una medalla tan prestigiosa==W== ...para mí?!==W== ¿Está segura? ¡Debe de ser un error!
+0054 [Darcia] | Originalmente pensaba celebrar una ceremonia formal para darle más renombre a su gremio.==W== Las salvadoras de Philae no deberían pasar desapercibidas.
+0055 [Darcia] | Pero después de oír tu historia, me doy cuenta de que pensaba con poca visión.==W== Los verdaderos héroes como ustedes se ganan la admiración con sus actos,==W== no con ceremonias tediosas.
+0056 [Darcia] | Por favor, acéptala.
+0057 [Darcia] | Quien porte esta medalla será por siempre amiga de Cosecha Unida.==W== Y nosotros siempre apoyamos a nuestros amigos, sin condiciones.
+0058 [Lugar y hora] | 12:00, 14.º del mes de Tonitrua, afueras de Philae, campamento de Trekkers
+0059 [Nazuna] | Un poco más a la izquierda.
+0060 [Noya] | ¿Así?
+0061 [Nazuna] | No, eso ya es demasiado a la izquierda.==W== ¿Puedes mover la viga un poquito a la derecha?
+0062 [Amber] | Bien.
+0063 [Nazuna] | No, ahora quedó demasiado a la derecha.
+0064 [Noya] | ¡Oye! ¿Estás segura de esto?==W== Mejor que Iris encuentre el lugar. Esta cosa pesa una tonelada.
+0065 [Kaede] | Eh, ¿Iris?==W== Creo que se quedó de piedra.
+0066 [Iris] | Todo ese Dorra... para arreglar el campamento...==W== Es...==W== es demasiado...
+0067 [Claire] | Después de todo lo que pasó, es raro lo tranquilo que está todo por aquí.
+0068 [Claire] | Cuando arreglen el campamento y desaparezcan las huellas de los monstruos,==W== supongo que la gente empezará a olvidarse por completo de las Tres Grandes Comisiones.
+0069 [Nazuka] | Sí.==W== Con todos echando una mano, no debería tardar mucho en reconstruirse.
+0070 [Claire] | ¿No deberías estar ayudándolos? ¿Qué haces aquí, visitando a una pecadora como yo?
+0071 [Nazuka] | Aquella vez...==W== ¿Por qué estabas en el campamento?
+0072 [Claire] | ¿Te refieres a cuando me lancé como tonta y quedé atrapada en esa niebla mágica?
+0073 [Nazuka] | Mm, pensé...==W== que esperarías afuera. Que dejarías que se disipara la niebla antes de entrar por «esa cosa».
+0074 [Claire] | Lo admito, solo veía por mí misma.==W== Fue idea mía==W== usar al escuadrón de caza para desgastar la niebla.
+0075 [Claire] | Pero no soy tan depravada como para atraer al Jardín Parásito al campamento,==W== y mucho menos para quedarme mirando cómo pasaba.
+0076 [Claire] | Solo quería conseguir «esa cosa» más rápido,==W== para que Lady Gray alejara al Jardín Parásito.
+0077 [Claire] | Pero fui una tonta. Ella huyó en cuanto consiguió «esa cosa».==W== Al final, fuiste tú quien me salvó.
+0078 [Nazuka] | ¿Qué es exactamente «esa cosa»?
+0079 [Claire] | Hasta el día de hoy no sé cómo es,==W== solo que cabe en la palma de la mano==W== y estaba envuelta en ramas...
+0080 [Nazuka] | ...==W== ...==W==
+0081 [Claire] | Lo siento,==W== Nazuka.
+0082 [Nazuka] | Estaré ahí==W== el día de tu juicio.
+0083 [Claire] | Lo siento.
+0084 [Lugar y hora] | 12:30, 14.º del mes de Tonitrua, Distrito de Plata de Philae, pastelería
+0085 [Mistique] | ¡Ahh, eso estuvo delicioso!
+0086 [Tú] | ¿Ya terminaste?
+0087 [Mistique] | ¡Ay, no,==W== no hablo del postre!==W== Me refería a la primicia exclusiva que conseguí al entrevistar al Jefe.
+0088 [Mistique] | ¡Gracias otra vez por todo! Me aseguraré de que veas el borrador antes de que se imprima.
+0089 [Tú] | Me parece bien. Espero con ansias leer tu obra maestra.
+0090 [Tú] | Uf, estoy molido. Esta limpieza es más agotadora de lo que jamás fue pelear contra los Tres Grandes.==W== Me pregunto cómo le estará yendo a Fuyuka con lo del premio.
+0091 [Tú] | Ahora que nuestro trato está cerrado, tengo que ir a buscar a Serena y preguntarle por el orfanato.
+0092 [Vita] | Disculpe la intromisión, Tirano.==W== He observado que las almas que posee y resguarda suman ahora nueve.
+0093 [Tú] | Cinco antes de venir a Philae, más las cuatro de Petal Bloom... Sí, son nueve.
+0094 [Vita] | Si consiguiera solo una más, completaría su primera misión.
+0095 [Vita] | Pero no lo entiendo.
+0096 [Tú] | ¿A qué te refieres?
+0097 [Vita] | Cuando el Jardín Parásito andaba desatado,==W== pudo haber intercambiado las almas de todos los Trekkers presentes.==W== Su colección sería varias veces más grande de lo que es ahora.
+0098 [Vita] | Pero no lo hizo. ¿Por qué?
+0099 [Tú] | Porque las personas no son objetos.==W== Nunca deberían tratarse solo como herramientas para que yo complete una misión.
+0100 [Vita] | No lo entiendo.
+0101 [Tú] | Vita, ¿sabes por qué casi nunca te hago preguntas?
+0102 [Vita] | Ilústreme, por favor, Tirano.
+0103 [Tú] | Tu máxima prioridad==W== es solo asegurarte de que complete mi misión, ¿verdad?
+0104 [Vita] | Sí. Eso coincide con sus intereses, Tirano.
+0105 [Tú] | Pero eso es solo lo que tú supones que me conviene.
+0106 [Tú] | No estoy convencido de que tu «ayuda» no vaya a dañar a mis compañeras,==W== y no estoy seguro de que completar la misión me lleve al resultado que deseo.
+0107 [Tú] | ¿Puedes demostrarme que sí?
+0108 [Vita] | Procesando...==W== Mis disculpas.==W== No puedo proporcionar esa prueba.
+0109 [Tú] | Entonces todavía no puedo confiar en ti.
+0110 [Tú] | Y recuerda esto:==W== mis compañeras siempre serán mi máxima prioridad.
+0111 [Tú] | Y hasta que estés segura de eso, puede que nunca complete esa primera misión tuya.
+0112 [Vita] | ...
+0113 [Vita] | Tiene razón. No consideré lo que de verdad desea, Tirano.
+0114 [Vita] | Me retiro. Todo lo que hago es para ayudarle a convertirse en un Tirano más poderoso.
+0115 [Vita] | Sus deseos son órdenes.
+0116 [Serena] | Vaya, vaya, qué casualidad encontrarte aquí.
+0117 [Tú] | Serena. Justo iba a buscarte.
+0118 [Serena] | Llevo aquí un ratito.
+0119 [Serena] | Estabas ocupado con esa entrevista, y después parecías muy entretenido con ese teléfono tan peculiar tuyo.==W== No quise interrumpir.
+0120 [Tú] | Dejemos las cortesías.==W== ¿Puedes darnos la información que prometiste==W== sobre el orfanato?
+0121 [Serena] | Claro. La integridad es la base de un buen negocio, después de todo.==W== Por favor, echa un vistazo a esto.
+0122 [Tú] | Esto es...
+0123 [Tú] | ¿Y estás segura de que es confiable?
+0124 [Serena] | Cien por ciento auténtico.==W== Tengo mis contactos en las grandes empresas, así que conseguir estos registros de transacciones no fue difícil.
+0125 [Serena] | Todos los documentos de ese préstamo fraudulento==W== los falsificó una exempleada de Cosecha Unida llamada Lady Gray.
+0126 [Serena] | Y aquí va un dato extra:==W== puede que Cosecha Unida haya emitido una orden de arresto contra Lady Gray, pero ahora mismo ella se esconde ahí mismo, en sus narices.
+0127 [Tú] | ¡¿Emitieron una orden de arresto mientras esconden a la fugitiva?!
+0128 [Tú] | Cosecha Unida...==W== ¿Son amigos o enemigos?
+0129 [Narración] | Continuará

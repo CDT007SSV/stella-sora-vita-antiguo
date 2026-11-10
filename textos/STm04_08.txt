@@ -1,0 +1,241 @@
+# Capítulo 4 · Más allá del sueño · 8 · Un esfuerzo correspondido
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Claire in Despair | Claire desesperada
+N:Cold Female Voice | Voz femenina fría
+N:Confused Trekker | Trekker confundido
+N:Crazed Trekker | Trekker enloquecido
+N:Escaped Squad Member | Miembro del escuadrón fugado
+N:Frightened Trekker | Trekker asustado
+N:Garden of Parasite | Jardín Parásito
+N:Hired Trekker | Trekker contratado
+N:Numb Mercenary | Mercenario aturdido
+N:Sober Squad Member | Miembro del escuadrón sensato
+N:Wounded Squad Member | Miembro del escuadrón herido
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_136 | Angie
+N:avg1_137 | Eleanor
+N:avg1_156 | Nazuna
+N:avg1_1994 | Nazuka
+N:avg2_001 | Shrubshrew matón
+N:avg2_002 | Shrubshrew estaca
+N:avg2_976 | Árbol Asociado
+N:avg2_977 | Alpha Boar
+N:avg2_982 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_137 | Sapphire
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_184 | Lady Gray
+N:avg3_197 | Feagin
+N:avg3_973 | Trekker de paso
+N:avg3_974 | Serena
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Un esfuerzo correspondido
+0003 [Intro] | Las compañeras se reagrupan y ahora cuentas con el apoyo de Cosecha Unida. Lady Gray decide desgastar la niebla con los Trekkers del campamento. Nazuka logra rescatar a todos, pero ella misma queda atrapada en la niebla.
+0004 [Lugar y hora] | 13:00, 3.º del mes de Tonitrua, Philae, algún lugar del Distrito de Plata
+0005 [Nazuka] | Lo siento.==W== Todo esto es culpa mía. Mi terquedad no logró nada. Y para colmo, ahora todas ustedes están metidas en este lío.
+0006 [Nazuna] | No tienes que disculparte. Oímos lo que le dijiste al Jefe.
+0007 [Nazuna] | Además, aunque he estado molesta desde aquel día, y sí, todavía estoy enojada,==W== ¡nunca fue porque dejaras Petal Bloom!
+0008 [Nazuna] | Siempre eres tan buena, así que cuando de repente dijiste todas esas cosas frías y te saliste del gremio... Por favor, hasta una tonta se daría cuenta de que algo pasaba.
+0009 [Nazuka] | Nazuna... Kaede... ¿Lo sabían desde el principio?
+0010 [Kaede] | No sabíamos los detalles,==W== pero era obvio que nos ocultabas algo.
+0011 [Nazuna] | Pero tú, Nazuka, siempre queriendo cargar con todo tú sola, siempre guardando secretos.==W== ¡Eso hace enojar hasta a alguien tan relajada como yo!
+0012 [Nazuna] | ¿Creíste que no podías contar con nosotras o qué?
+0013 [Nazuka] | ¡No! ¡Jamás pensé eso!==W== Yo... solo dejé el gremio porque tenía miedo de que todas se metieran en...
+0014 [Nazuna] | ¡¿Peligro, verdad?! De verdad no nos tienes suficiente confianza. ¡Somos un gremio! ¡Enfrentar el peligro y resolver problemas juntas es lo que hacemos!
+0015 [Nazuka] | Solo fui... demasiado arrogante.
+0016 [Nazuna] | ¿Ves? ¡Lo entiendes!==W== Entonces, ¿por qué no lo repites?
+0017 [Nazuka] | ¿Re... repetir qué?
+0018 [Nazuna] | «Ojalá pudiera volver en el tiempo y hacerlo todo de nuevo...».
+0019 [Nazuna] | Ejem. La lluvia hacía tanto ruido que no oí lo que venía después.
+0020 [Nazuna] | Pero bueno, ahora todas estamos aquí. Podemos fingir que esto es «volver en el tiempo», ¿no?
+0021 [Nazuka] | ¿A-ahora mismo? ¡¿Aquí...?!
+0022 [Kaede] | Perdón, Nazuka. Nazuna está siendo ridícula otra vez. Con estas cosas siempre se pone necia. Je. Pero esa terquedad suya es bastante linda.
+0023 [Fuyuka] | Eh, como soy nueva en el gremio, mejor no me entrometo. Senpais, yo solo... ¡voy a dar un paseo!
+0024 [Nazuna] | ¡Quédate, Fuyuka! Tú también eres parte de Petal Bloom...==W== ¡y eres nuestra capitana! ¡No podemos hacer esto sin ti!
+0025 [Nazuka] | E-entonces... eh...==W== Ejem...
+0026 [Nazuka] | Ojalá pudiera volver en el tiempo y hacerlo todo de nuevo...==W== Quiero disculparme...==W== Solo quiero volver a estar con ellas...
+0027 [Nazuka] | No quiero volver a separarme nunca de las personas que quiero.==W== De verdad no quiero... nunca más...
+0028 [Kaede] | Nazuka...
+0029 [Fuyuka] | Nazuka senpai...
+0030 [Nazuna] | Sí. Oí cada palabra.==W== Que sepas que nosotras sentimos lo mismo. Tampoco queremos separarnos de ti.
+0031 [Nazuna] | ¡Muy bien, entonces está decidido! Ahora tienes que contarnos todo lo que pasó. ¡Y quiero decir TODO!
+0032 [Nazuka] | Bueno...
+0033 [Narración] | Veinte minutos después.
+0034 [Nazuna] | Nazuka, eso debió ser durísimo... No puedo creer que cargaras con todo eso tú sola...
+0035 [Kaede] | Pelear contra monstruos, dirigir el escuadrón de caza y aguantar la presión de un gigante como Cosecha Unida...
+0036 [Nazuna] | Perdóname por hablar tan en grande hace rato. Aunque me lo hubieras dicho en ese momento, el único plan que se me habría ocurrido era que todas huyéramos de Philae.
+0037 [Fuyuka] | Maestro, usted tiene un plan, ¿verdad?
+0038 [Tú] | Hace un momento no lo tenía. Pero ahora sí.
+0039 [Tú] | Nazuka, ¿te acuerdas de Sapphire? ¿La empleada de Cosecha Unida del otro día?
+0040 [Tú] | Acaba de pedir que nos veamos esta noche.
+0041 [Lugar y hora] | 22:00, 3.º del mes de Tonitrua, Distrito Invernadero de Philae, invernadero de Cosecha Unida
+0042 [Sapphire] | Por favor, póngase cómodo. La persona a cargo de este asunto lo atenderá en breve.
+0043 [Tú] | Se lo agradezco.
+0044 [Tú] | Así que así es por dentro un invernadero de Cosecha Unida...==W== Nunca había visto ninguna de estas plantas.
+0045 [Cold Female Voice] | Buenas noches. ¿Puedo llamarlo Jefe?
+0046 [Tú] | ¿Mm?==W== Ah, Jefe, Tirano, director ejecutivo... cualquiera sirve.==W== ¿Y usted es...?
+0047 [Cold Female Voice] | Es un honor conocerlo, Jefe. Soy Firenze, directora de operaciones de la sucursal de Philae de Cosecha Unida. Un placer.
+0048 [Tú] | Me halaga. No esperaba que la segunda al mando de la sucursal me recibiera en persona.
+0049 [Firenze] | Es usted muy amable. Como director ejecutivo de Boss Accord, el protocolo indicaría que se reuniera con nuestra directora ejecutiva, Darcia, para que fuera una reunión entre iguales. Por desgracia, en este momento ella está fuera de Philae.
+0050 [Tú] | Dejemos las cortesías.==W== ¿Organizó esta reunión solo para darme un recorrido por su invernadero?
+0051 [Firenze] | Lo haría con gusto, si así lo desea. Pero primero, permítame aclarar la situación respecto a la recompensa por los Tres Grandes y el asunto de Lady Gray.
+0052 [Firenze] | Antes que nada, quiero dejarlo claro: Cosecha Unida no está monopolizando la industria de los Trekkers en Philae, ni tenemos intención de hacerlo jamás.
+0053 [Firenze] | Por eso su denuncia, de que alguien está «usando nuestro nombre para engañar a los Trekkers», es un asunto de importancia crítica para nosotros.
+0054 [Tú] | Entonces dice que...==W== ¿ella no es su empleada?
+0055 [Tú] | Pero oí que llevaba un uniforme de Cosecha Unida y que los suministros tenían sus etiquetas.
+0056 [Tú] | Y hasta se enviaron directamente desde sus instalaciones.
+0057 [Firenze] | Para ser exactos, fue una contratista temporal, a la que Cosecha Unida contrató una sola vez, hace varios años.
+0058 [Firenze] | Me doy cuenta de lo absurdo que suena, pero es la verdad.
+0059 [Firenze] | Los suministros sí salieron de nuestras instalaciones, una clara falla de nuestra parte. Alguien de aquí tiene tratos ilícitos con ella, y ya iniciamos una investigación a fondo.
+0060 [Firenze] | En cuanto al reciente disturbio en el campamento de Trekkers, reconocemos nuestra gran responsabilidad y emitiremos el siguiente comunicado público:
+0061 [Firenze] | Primero, abordaremos y explicaremos la situación de la recompensa pendiente de pago.
+0062 [Firenze] | Segundo, revelaremos públicamente nuestra relación con Lady Gray.
+0063 [Firenze] | Y tercero, limpiaremos oficialmente los nombres de la señorita Nazuka, de Boss Accord y del Gremio Petal Bloom.
+0064 [Firenze] | Además, enviaremos al campamento a un representante dedicado para ayudar a resolver el caos actual.
+0065 [Tú] | Muy bien, veo que es sincera.==W== En ese caso, no tengo más exigencias.
+0066 [Tú] | ¿Intenta echarle la culpa a una temporal para evitar la responsabilidad de la empresa?
+0067 [Tú] | No parece... En cuanto salga ese anuncio mañana, Lady Gray y Claire van a quedar desconcertadas.
+0068 [Tú] | ¿Será que Cosecha Unida de verdad es inocente? ¿Una víctima en todo esto?
+0069 [Tú] | No, no puedo creerle a Firenze así nada más.
+0070 [Firenze] | Entiendo que la propuesta le parece aceptable. Si no hay otros asuntos, ¿damos por terminada la reunión de hoy?
+0071 [Tú] | Muy bien.==W== Gracias por lo de hoy...
+0072 [Tú] | Me retiro.
+0073 [Lugar y hora] | 22:30, 3.º del mes de Tonitrua, Distrito Invernadero de Philae, invernadero de Cosecha Unida
+0074 [Noya] | ¡==PLAYER_NAME==, volviste!==W== ¡¿Cosecha Unida no te causó problemas, verdad?!
+0075 [Tú] | La verdad, fueron casi demasiado amables. Hasta se ofrecieron a ayudarnos con el problema de los rumores.
+0076 [Iris] | Así operan las grandes empresas.
+0077 [Nazuna] | No bajes la guardia. Ninguna empresa es amable, solo les importa el dinero.==W== Ah, eh, sin ofender, Jefe.
+0078 [Tú] | Lo sé. He tratado con bastantes empresas así.
+0079 [Nazuka] | ¿Y cuál es nuestro siguiente paso? ¿Tienes un plan?
+0080 [Tú] | Sí. Esa directora de operaciones, Firenze, nos hizo un gran favor.
+0081 [Tú] | Sean cuales sean sus motivos, nos dio tiempo para contraatacar, y tenemos que aprovecharlo bien.
+0082 [Tú] | A partir de mañana, todos iremos al bosque a buscar al Jardín Parásito.
+0083 [Tú] | Si logramos acabar con él antes que Claire...
+0084 [Tú] | ...¡entonces, con el comunicado público de Cosecha Unida, los rumores se vendrán abajo solos!
+0085 [Lugar y hora] | 15:00, 6.º del mes de Tonitrua, afueras de Philae, campamento de Trekkers
+0086 [Hired Trekker] | Escúchenme. Ese Jefe de Emor es un verdadero monstruo.
+0087 [Hired Trekker] | ==SEX1== usó algún tipo de magia oscura para controlar al Gremio de la Nueva Estrella y a Petal Bloom, para que ==SEX== pudiera acaparar la recompensa.
+0088 [Eleanor] | Cosecha Unida ya sacó un comunicado sobre la recompensa. Dijeron que está retrasada por un problema de trámite. ¿Cómo puede alguien acaparar una recompensa que ni siquiera se ha pagado?
+0089 [Hired Trekker] | E-eso... ¡Entonces ese comunicado debe ser falso! ¡Seguro el Jefe también usó esa magia para controlar a la gente de Cosecha Unida!
+0090 [Eleanor] | Si el Jefe es tan poderoso como dices, ¿por qué no te controló ==SEX== a ti también? Así no quedaría nadie que se opusiera a ==SEX4==, ¿no?
+0091 [Hired Trekker] | ...
+0092 [Serena] | Uf, ¿mentirle así a una niña? ¿No te da vergüenza?
+0093 [Hired Trekker] | ¡No estoy mintiendo! ¡Hace apenas unos días, todos ustedes estaban ahí conmigo, denunciando al Jefe!
+0094 [Passing Trekker] | ¡Eso fue porque nos calentaste la cabeza! El nuevo anuncio de Cosecha Unida dice que nada de lo de antes es confiable.
+0095 [Passing Trekker] | En cuanto al primer escuadrón de caza... Ya no sé qué pensar. Pero la capitana Nazuka de verdad arriesgó la vida cubriendo nuestra retirada.
+0096 [Hired Trekker] | ¿Y qué, ahora crees que el Jefe es buena persona?
+0097 [Serena] | Sugiero que esperemos a ver. Tarde o temprano saldrá la verdad.
+0098 [Lugar y hora] | 16:00, 6.º del mes de Tonitrua, afueras de Philae, linde del bosque
+0099 [Claire] | Lady Gray, ¿de verdad trabaja para Cosecha Unida? ¿Por qué sacaron un comunicado diciendo que solo era una temporal? ¡¿Y de hace años, encima?!
+0100 [Claire] | Genial. Ahora ni siquiera logro que el escuadrón me haga caso.
+0101 [Lady Gray] | Tranquila. Sí trabajo para Cosecha Unida. Es solo que la situación es complicada.
+0102 [Claire] | ¿Y no me va a explicar nada? ¡Se supone que estamos juntas en esto!
+0103 [Lady Gray] | ¡Silencio! Eso no es asunto tuyo. Y que quede claro algo: tú y yo nunca hemos sido iguales.
+0104 [Lady Gray] | Hablando de eso... ¿Cómo va tu encargo de eliminar al Jefe y al Gremio de la Nueva Estrella?
+0105 [Claire] | ¿Yo? ¿Eliminar al Jefe y al Gremio de la Nueva Estrella?
+0106 [Claire] | ¡Lo hace sonar tan fácil! Si de verdad pudiera acabar con ellos, ¿por qué seguiría aquí recibiendo órdenes suyas?
+0107 [Lady Gray] | Sabía que la gente como tú no es de fiar. Qué patético. Nazuka, el Jefe y esos dos gremios desaparecieron. Deben de andar buscando al Jardín Parásito.
+0108 [Lady Gray] | Je... Pero estábamos preparados. Mi gente ya esparció por todo el bosque el cebo favorito del Jardín Parásito.
+0109 [Lady Gray] | Me acaban de informar que está siguiendo el rastro... directo hacia el campamento de Trekkers. Con suerte, se topará con ellos ahí.
+0110 [Claire] | ¿El campamento de Trekkers? ¡¿Qué está haciendo?!
+0111 [Lady Gray] | Usar a los Trekkers para desgastar su niebla mágica. ¿No fue idea tuya?
+0112 [Claire] | ¡Mi plan era un asalto controlado! ¡Si deja que esa cosa arrase el campamento, va a matar a todos!
+0113 [Lady Gray] | ¿Oh? ¿Te preocupas por ellos? Tenía la impresión de que solo te importaba salvar tu propio pellejo.
+0114 [Claire] | ¡M-maldita sea!
+0115 [Lugar y hora] | 16:20, 6.º del mes de Tonitrua, afueras de Philae, linde del bosque
+0116 [Amber] | Esta gente... Qué fastidio.
+0117 [Numb Mercenary] | Lo siento. Este camino está cerrado.
+0118 [Fuyuka] | ¿Tienen idea de lo que están haciendo? ¡El campamento de Trekkers está justo adelante!
+0119 [Numb Mercenary] | Órdenes son órdenes.
+0120 [Tú] | Por fin rastreamos al Jardín Parásito y estos mercenarios lo atraen con una poción rara.==W== Esto tiene el sello de Lady Gray por todos lados.
+0121 [Nazuka] | Jefe, ¿puedes encargarte de esto? Tengo que ir al campamento y decirles a todos que evacúen.
+0122 [Tú] | Lady Gray y Claire deben de estar ahí. Es demasiado peligroso que vayas sola.
+0123 [Nazuka] | Sé que lanzarme sola es arriesgado,==W== pero cuento con que tú y las demás me respalden.
+0124 [Nazuka] | Llegarán antes de que tenga que enfrentarme sola a esa cosa... ¿Verdad?
+0125 [Lugar y hora] | 16:30, 6.º del mes de Tonitrua, afueras de Philae, campamento de Trekkers
+0126 [Frightened Trekker] | ¡¿Dónde estoy?! ¿Por qué hay tantos monstruos? ¡Ayúdenme! ¡Aléjense de mí!
+0127 [Confused Trekker] | Mami, ¿dónde estás?
+0128 [Crazed Trekker] | Los mataré... Los mataré a todos...==W== Así estaré a salvo...
+0129 [Narración] | ¿Con qué puedo sostenerte...?
+0130 [Narración] | Un vendaval verde barre el campamento y dispersa la niebla púrpura.
+0131 [Nazuka] | ¡Si todavía tienen la mente clara, tomen a cualquiera afectado por la niebla y retírense! ¡Viene otra oleada!
+0132 [Sober Squad Member] | ¡Es ella! ¡La capitana Nazuka vino a salvarnos!
+0133 [Wounded Squad Member] | ¡Les dije que esos rumores sobre la capitana eran falsos!==W== ¡Tenemos que sacar a todos de aquí, ya!
+0134 [Nazuka] | Volvemos a vernos, Jardín Parásito. Pareces más fuerte, pero no importa. Te destruiré a ti y a «esa cosa» para siempre.
+0135 [Garden of Parasite] | ¡SSSSSS...!
+0136 [Nazuka] | Hay un hueco en tu tronco... ¿Eso es...?
+0137 [Claire in Despair] | Nazuka... ¡Lo logré! ¡Jajaja, conseguí «esa cosa»!
+0138 [Claire in Despair] | ¡Ajajajaja, lo logré!==W== ¡Fui yo! ¡Yo soy la que derrotó al Jardín Parásito!
+0139 [Lugar y hora] | 16:45, 6.º del mes de Tonitrua, afueras de Philae, campamento de Trekkers
+0140 [Nazuna] | Todo el campamento está lleno de esa niebla mágica. ¿Cómo pasó esto?
+0141 [Escaped Squad Member] | ¡La capitana Nazuka sigue ahí dentro! ¡Sacó a Claire a la fuerza y siguió peleando contra el Jardín Parásito para cubrir nuestra retirada!
+0142 [Noya] | ¡Voy a entrar!
+0143 [Kaede] | No lo hagas. La niebla es demasiado espesa y las alucinaciones serán mucho peores que antes. Si entramos a lo loco, solo le estorbaremos a Nazuka.
+0144 [Noya] | ¡Yo debería estar bien!
+0145 [Noya] | La última vez que nos topamos con el Jardín Parásito, cuando ==PLAYER_NAME== y Nazuka cayeron en ese hoyo, estuve expuesta a la niebla, pero no aluciné nada.
+0146 [Noya] | No sé por qué no me afectó... Quizá tengo una resistencia natural.==W== Iris, Amber, ¿y ustedes dos?
+0147 [Amber] | Yo no tuve alucinaciones.
+0148 [Iris] | Yo tampoco.
+0149 [Tú] | Mmm... ¿Entonces eso significa que solo el Gremio de la Nueva Estrella es inmune a las alucinaciones?
+0150 [Vita] | Tirano, perdone la interrupción. Las integrantes del Gremio de la Nueva Estrella son inmunes a los efectos de la niebla no por una resistencia natural, sino porque sus almas le pertenecen a usted.
+0151 [Vita] | La insignificante niebla de un monstruo salvaje no puede afectar a un alma que el Tirano ya posee, o que está a punto de poseer.
+0152 [Fuyuka] | ¡Maestro, su teléfono está hablando!
+0153 [Nazuna] | Olvida eso un segundo. ¿Qué es eso de que sus almas te pertenecen?
+0154 [Tú] | Cuando alguien me entrega su alma a cambio de un deseo, se convierte en empleado de Boss Accord, y su alma queda temporalmente bajo mi cuidado. Una vez que cumplo su deseo, el alma me pertenece.
+0155 [Tú] | Aunque eso es todo lo que sé. Hasta ahora, el trato no les ha traído ninguna desventaja...
+0156 [Tú] | Pero siempre siento que este trato no es tan seguro como parece.
+0157 [Fuyuka] | Pero, Maestro, yo también le entregué mi alma, ¿no?
+0158 [Tú] | No exactamente. Solo fingimos hacerlo. En realidad, el contrato solo nos registra como «maestro y aprendiz».
+0159 [Tú] | Como a nosotros no nos afecta la niebla, les dejo esto a ustedes.
+0160 [Tú] | El Gremio de la Nueva Estrella y yo iremos a apoyar a Nazuka.
+0161 [Nazuna] | ¡Ni...==W==loca!==W== ¡NI...==W==LOCA!
+0162 [Nazuna] | ¡Yo también voy! ¡Esa idiota! ¡Acaba de decirnos que no iba a cargar con todo sola, y otra vez se lanzó ella solita!
+0163 [Kaede] | El campamento es enorme. Entre más manos, más fácil.
+0164 [Fuyuka] | ¡Maestro! ¡El Gremio Petal Bloom no es nada si falta cualquiera de nosotras!
+0165 [Fuyuka] | Así que... voy a pedir un deseo.
+0166 [Nazuna] | Por favor, salva a Nazuka.
+0167 [Kaede] | Déjanos prestarte nuestra fuerza para proteger a todos.
+0168 [Fuyuka] | Por favor, devuélvale al campamento la paz que tenía antes.
+0169 [Tú] | ...
+0170 [Tú] | ...Entiendo.
+0171 [Opción] | Acepto su deseo.
+0172 [1] | Nazuka, ¿dónde estás?
+0173 [Narración] | Después de sellar los pactos de alma con Fuyuka y las demás, me separo de ellas y me adentro en el campamento cubierto de niebla.
+0174 [Tú] | Esta zona está muy dañada. Estas marcas... tienen que ser de la magia de Nazuka.
+0175 [Tú] | ¡Debe de estar cerca!
+0176 [Nazuka] | ...
+0177 [Nazuka] | ¿De verdad eres Mistique, la bruja que «se alimenta de la verdad»?
+0178 [Tú] | ¿Mistique? No está aquí...==W== ¿Nazuka está alucinando?
+0179 [Nazuka] | No. Prefiero enfrentar el dolor que ahogarme en una hermosa mentira.
+0180 [Tú] | Lo que pensaba. La niebla le afectó. Está viendo cosas.
+0181 [Nazuka] | Además, tengo fe en que ==SEX== vendrá por mí.
+0182 [Narración] | ==SEX1== siempre me encuentra.
+0183 [Tú] | ...!
+0184 [Tú] | ...¿Incluso en una situación tan desesperada, sigue creyendo en mí?
+0185 [1] | ¡Nazuka!
+0186 [Nazuka] | ¿Eres tú?
+0187 [Narración] | La mirada de Nazuka pasó por encima de mi hombro, como si viera algo detrás de mí.
+0188 [Tú] | La niebla alteró su percepción... No podemos tener una conversación normal, pero no hay otra opción.
+0189 [1] | Nazuka, ¿me oyes?
+0190 [Nazuka] | Lo siento, no entiendo lo que dices.
+0191 [1] | ¡Tendré que intentarlo!
+0192 [1] | Escucha, Nazuka, protegeré tu alma mediante el comercio de almas.
+0193 [1] | ¡Así que pídeme un deseo! Con toda tu voluntad...
+0194 [Narración] | ...¡Pídeme un deseo!

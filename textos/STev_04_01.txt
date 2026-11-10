@@ -1,0 +1,138 @@
+# Evento · Réquiem invernal y el gatillo del alba · 1 · Rumbo a la ciudad del norte
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Coachman | Cochero
+N:Familiar Lady | Dama conocida
+N:Familiar Voice | Voz conocida
+N:Gentle Lady | Dama amable
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_143 | Wraith
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg3_100 | Sylar
+N:avg3_1278 | Martillo de la Olla de Vapor
+N:avg3_1279 | Martillo de la Olla de Vapor
+N:avg3_1280 | Martillo de la Olla de Vapor
+N:avg3_129 | Guardia Imperial
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_157 | Guardia Imperial
+N:avg3_195 | Edda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Rumbo a la ciudad del norte
+0003 [Intro] | Despiertas en un carruaje que se dirige al norte cubierto de nieve. Gracias al recordatorio de Wraith, rememoras tu viaje al norte por un encargo especial.
+0004 [1] | Frío... Qué frío...
+0005 [Narración] | Ya no siento las extremidades. Mi mente se pierde en la niebla.
+0006 [Narración] | El enemigo se acerca y no tengo a nadie que me cubra la espalda.
+0007 [1] | Así que por fin me encontraron...
+0008 [Narración] | Una hoja afilada se alza ante mí. Una voz en mi interior promete que, si la tomo, el dolor terminará.
+0009 [Narración] | Tómala... Y luego... ¡Derriba a quienes se atrevan... a desafiar... al Tirano!
+0010 [Narración] | Es justo lo que merecen.
+0011 [1] | Poder... Necesito poder...
+0012 [1] | Un poder absoluto y abrumador para poner de rodillas al mundo.
+0013 [Familiar Voice] | ¡Tirano, no! ¡No toques esa arma maldita!
+0014 [Familiar Voice] | ¡Despierta de esta pesadilla! Tu verdadero enemigo es...
+0015 [???] | Oh. Por fin regresas con nosotros. Dormir con este frío es una excelente forma de morir, ¿sabes?
+0016 [???] | Sin un Artefacto de calefacción, te congelarías hasta dentro de este carruaje.
+0017 [???] | ¿O de verdad te lanzaste al norte sin investigar nada antes?
+0018 [Tú] | ¿Carruaje... El norte...?==W== Uf, me da vueltas la cabeza... ¿Dónde estoy?
+0019 [Narración] | Intento incorporarme, pero un peso sobre mi hombro me lo impide.
+0020 [Familiar Lady] | Mmm... Espera... Todavía no entiendo esa parte... Mi fecha límite es... Zzz...
+0021 [Tú] | ¿Qué está pasando? ¿Por qué estoy en un carruaje con estas dos?
+0022 [Tú] | Eh, ¿quién es ella...?
+0023 [???] | Es la clienta de este encargo. ¿Ya lo olvidaste?
+0024 [Tú] | ¿Clienta...? Es verdad, acepté un encargo hacia el norte.==W== Uf... Siento la cabeza pesada. No puedo pensar bien.
+0025 [???] | Te ves pálido. ¿Quieres agua?
+0026 [Tú] | Gracias,==W== pero mis amigas seguro me empacaron una botella antes de salir. Debe estar por aquí...
+0027 [Narración] | Guiándome por la memoria, tanteo hasta que mis dedos por fin tocan una botella detrás de mí.
+0028 [Tú] | Aquí está. Mi Pep Pep Ju...==W== ¿eh? ¿Q-qué es esto?
+0029 [Narración] | Unas semanas antes.
+0030 [Noya] | Mmm... Aquí y allá. Bastante feo el daño.==W== Pero bueno, cambias las piezas rotas por nuevas y problema resuelto.
+0031 [Minova] | Arreglo fácil. El Monolito de la zona ya se puede usar otra vez. Podemos pedir como deseo las piezas que necesitamos.
+0032 [Iris] | Pero necesitamos un montón, así que vamos a quedarnos aquí un buen rato.
+0033 [Amber] | No podemos aceptar encargos nuevos.
+0034 [Tú] | Pelear y arreglar autos no son precisamente mis fuertes. Quizá pueda ser útil de otras maneras.
+0035 [Tú] | Mientras ustedes se encargan de las reparaciones, yo haré unos encargos sencillos por mi cuenta.
+0036 [Iris] | ¿Tú solo, Jefe?
+0037 [Tú] | No se preocupen. Me quedaré con trabajos que requieran cerebro, no músculo. Ya saben cómo son.
+0038 [Iris] | Supongo, pero aun así...
+0039 [Noya] | ¡Mientras no sea un trabajo de combate, no hay problema! Sabes lo capaz que es el Jefe, ¿verdad, Iris?
+0040 [Iris] | Está bien... Contamos contigo, Jefe.
+0041 [Amber] | ¡Buena suerte, Jefe!
+0042 [Minova] | Déjanos las reparaciones a nosotras. Tendremos el Lucky Oasis como nuevo antes de que te des cuenta.
+0043 [Tú] | Bien, mejor me pongo en marcha. Iré a la Asociación de Trekkers a ver si hay algo para mí.
+0044 [Noya] | ¡Ah! ¡Espera, Jefe!
+0045 [Noya] | ¡Atrapa!
+0046 [Tú] | Oye... Lo tengo.
+0047 [Noya] | ¡Es Pep Pep Juice! Es bueno para los nervios. ¡Si te metes en problemas, toma un sorbo y estarás bien!
+0048 [Tú] | Preferiría no meterme en problemas, pero...==W== ¡gracias, Noya! ¡Nos vemos!
+0049 [Iris] | Y ahí va ==SEX==...==W== Ojalá todo salga bien...
+0050 [Noya] | No te preocupes, Iris. El Jefe puede con esto.
+0051 [Iris] | Lo sé, pero no puedo quitarme este mal presentimiento...
+0052 [Minova] | Qué raro... ¿Alguien ha visto mi quitaóxido? Estaba aquí hace un segundo.
+0053 [Iris] | ¿No lo dejaste junto a la caja de herramientas hace rato?
+0054 [Minova] | Sí. Pero le di la espalda un segundo y, por arte de magia, ¿se convirtió en un Pep Pep Juice...?
+0055 [Noya] | ¡Ah, ese es mío! ¡Qué buen momento, me muero de sed!
+0056 [Noya] | Espera. ¿No se lo acabo de dar al Jefe? ¿Por qué está aquí?
+0057 [Iris] | ... Noya, por favor dime que no le aventaste lo primero que agarraste sin fijarte...
+0058 [Noya] | ...==W== ...==W== ...
+0059 [Noya] | ¡Lo siento muchísimo, Jefe...!
+0060 [Narración] | Fui solo a la Asociación de Trekkers a buscar trabajo. Pero...
+0061 [Tú] | ¡Un fracaso total! Olvídate de los encargos normales: ni siquiera encuentro un gato callejero que rescatar.
+0062 [Tú] | Esto está mal. Presumí bastante allá atrás. Si aquí no consigo nada, quizá deba probar suerte en el Distrito de Oro...
+0063 [???] | ¡Ay!
+0064 [Tú] | Ah... ¡Perdón! ¡¿Estás bien?!
+0065 [Gentle Lady] | Estoy bien. Fue mi culpa... Estaba tan ocupada buscando a alguien entre la gente que no miré por dónde iba.
+0066 [Gentle Lady] | Oh, vaya. Ahora que te veo bien... Eres el Tirano, ¿verdad? Justo la persona que necesito.
+0067 [Edda] | Ejem. Disculpa mis modales. Soy Edda, investigadora del Ojo de la Gracia.
+0068 [Tú] | El Ojo de la Gracia... Canace los mencionó. Son la élite intelectual, la cima absoluta del mundo académico y de investigación de este continente.
+0069 [Tú] | ¿Qué quiere el Ojo de la Gracia conmigo?
+0070 [Edda] | De hecho, tengo un encargo para ti. Pero aquí hay mucha gente. Hablemos en un lugar privado.
+0071 [Edda] | Esto servirá.==W== Perdona, pero se trata de información clasificada. Debe quedar estrictamente entre nosotros.
+0072 [Tú] | Entendido. Te escucho.
+0073 [Edda] | ¿Has oído hablar de la Ciudad del Norte? Nocturn Eterna destruyó su Monolito y apagó su luz. La ciudad ha estado abandonada desde entonces.
+0074 [Tú] | Solo he leído sobre ella en libros.
+0075 [Edda] | Es probable que ya te hayas topado con la responsable. La Nocturn Eterna de este cartel de se busca.
+0076 [Tú] | ¡¿Es ella...?!
+0077 [Edda] | Lo sabía. La reconoces. Hace poco recibimos informes de que el Monolito de Norstheim se reactivó de repente.
+0078 [Edda] | Estamos organizando una expedición para investigar. Pero necesitamos a un consultor: alguien con experiencia de primera mano lidiando con una Nocturn Eterna.
+0079 [Tú] | Así que por eso estás aquí. Pero Norstheim queda lejísimos de aquí, ¿no...?
+0080 [Edda] | Quédate tranquilo, el Ojo de la Gracia cubre todos los gastos. Además, es una investigación de rutina. No hay ningún peligro.
+0081 [Tú] | Las reparaciones del Lucky Oasis van a tardar un rato, y ahora es difícil encontrar trabajos adecuados...
+0082 [Tú] | Entendido. Cuenta conmigo. Te ayudaré con la investigación.
+0083 [Edda] | ¿En serio? ¡Muchísimas gracias! Me siento mucho más segura sabiendo que el Tirano nos acompañará.
+0084 [Tú] | Pero con una condición. Necesito que la mitad del pago se adelante a mi gremio.==W== Es un viaje largo y quiero asegurarme de que estén cubiertos mientras no estoy.
+0085 [Edda] | Sin problema. Los fondos del Ojo de la Gracia les llegarán mañana.
+0086 [Edda] | Ah, de hecho, hay una cosa más...
+0087 [???] | Disculpen.
+0088 [Tú] | ¿Mm...?
+0089 [???] | No pude evitar escuchar que mencionaron a Nocturn Eterna. Si van a la Ciudad del Norte...
+0090 [???] | Yo también voy.
+0091 [Tú] | Bien, creo que ya entendí todo lo que pasó...
+0092 [Tú] | Esa chica dormida es Edda, del Ojo de la Gracia. Y esta mujer... Dice ser una Centinela del Alba que rastrea a Nocturn Eterna.
+0093 [Tú] | Eres... ¿Wraith? No recuerdo que se vistiera así...
+0094 [Wraith] | Por lo que veo, empiezas a recordar. Has estado mal desde que llegamos: te desmayaste varias veces, de hecho.
+0095 [Tú] | Uf... Todavía me zumban los oídos...==W== Pero estaré bien.
+0096 [Wraith] | Sígueme el ritmo. Inhala... y exhala... Abre el pecho, estabiliza tu respiración.
+0097 [Tú] | Ssss... Uf...
+0098 [Tú] | Vaya... Sí funcionó. Se me quitó el mareo. Ya no me zumban los oídos tampoco.
+0099 [Wraith] | Reacción típica de quien llega por primera vez a Norstheim. A ti simplemente te golpeó más fuerte que a la mayoría.
+0100 [Wraith] | Perdona que te presione apenas despiertas, pero necesito saberlo... Dijiste que conocías a la Nocturn Eterna de esos carteles de se busca. ¿Es cierto?
+0101 [Tú] | ¿Te refieres a Aeloria?==W== Pues, verás...
+0102 [Tú] | ¡¿Qué fue eso?!
+0103 [Coachman] | ¡¿S-Stellaroids...?! ¡¿Qué hacen aquí afuera?!
+0104 [Edda] | ¡Tirano! ¿Estás herido? ¿De dónde salió un enjambre así...?
+0105 [Wraith] | ¡Atrás, todos ustedes!
+0106 [Wraith] | ¡Yo me encargo de ellos!
+0107 [Edda] | ¡Y-yo también ayudo!
+0108 [Tú] | Perdón, cuento con tu—
+0109 [Tú] | ¡Espera! Wraith, ¡¿qué pasa con ese atuendo?!
+0110 [Wraith] | Guarda las preguntas. Primero tenemos un problema que resolver.

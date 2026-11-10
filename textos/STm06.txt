@@ -1,0 +1,25 @@
+# Capítulo 6 · Milagro de un destello — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm06_00 | Lealtad y traición
+STm06_01 | La leyenda del Tirano
+STm06_02_a | Negociar con un tigre
+STm06_02_b | El precio de la negación
+STm06_02_c | La sirvienta de la sirvienta
+STm06_03_a | Lealtad más allá de las palabras
+STm06_03_b | Carreras callejeras a medianoche
+STm06_04_a | Sin vuelta atrás
+STm06_04_b | Estación del teleférico
+STm06_05_a | El mundo en calma
+STm06_05_b | La caída
+STm06_06 | Plantas Inteligentes de 3.ª generación
+STm06_07 | Un trato a regañadientes
+STm06_08 | Firenze
+STm06_09 | La batalla de Philae I
+STm06_10 | La batalla de Philae Ⅲ
+STm06_11 | Una bestia acorralada sigue luchando
+STm06_12 | Lealtad hasta el final
+STm06_13 | Un mañana incierto
+@BT01 | Por un pelo
+@BT02 | La batalla de Philae Ⅱ
+@BT03 | Belleza esbelta

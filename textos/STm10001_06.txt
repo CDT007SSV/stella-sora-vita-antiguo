@@ -1,0 +1,126 @@
+# Especial 9.5 · 6 · The Meaning of the Saintess
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Lulu | Lulu
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_162 | Alina
+N:avg2_941 | Olympia (Puppet)
+N:avg2_942 | Coppelius
+N:avg2_978 | Rovina
+N:avg3_100 | Sylar
+N:avg3_1335 | Filanis Citizen Male
+N:avg3_182 | Elis
+N:avg3_227 | Filanis Elder
+N:avg3_228 | Filanis Citizen (M)
+
+## Texto
+0001 [Intro] | Acto Sexto
+0002 [Intro] | El propósito de una santa
+0003 [Intro] | En la ínsula de Alina, Elis y tú habláis más sobre este mundo. Esta "Nova" no coincide en absoluto con tu comprensión de ella. En cuanto a la propia Elis, es una Santa considerada un "consumible".
+0004 [Lugar y hora] | 15:00, quinto mes 26, fuera de la isla Filanis, Insula deteriorada
+0005 [Elis] | En Nova, tu habilidad mágica dicta tu estatus. Y esa habilidad mágica es ochenta por ciento talento, veinte por ciento sudor.
+0006 [Elis] | Básicamente, toda tu vida está prácticamente trazada incluso antes de nacer. Bloodline supera a todos.
+0007 [Elis] | ¿Tienes una gran aptitud mágica? Llegas a ser un noble.==W== Si no puedes lanzar un hechizo para salvar tu vida, entonces quedarás atrapado como un plebeyo, un liberto o un esclavo.
+0008 [Tú] | Hmm... ¿Entonces el poder es lo único que importa?==W== ¿Qué pasa si un noble tiene un niño sin talento?
+0009 [Elis] | Ese niño es degradado a plebeyo. Un padre cariñoso podría prepararlos para toda la vida, pero sin magia no hay título. Pueden despedirse de cualquier cargo público.
+0010 [Tú] | ¿Y si el hijo de un esclavo nace con el don?
+0011 [Elis] | Un talento mágico como ese es raro. En el momento en que un niño lo muestra, un noble lo adopta y libera a los padres. Ya no serán esclavos.
+0012 [Elis] | Eso suponiendo que alguna vez se hagan la prueba,==W== por supuesto. Si tienen mala suerte, seguirán siendo esclavos.
+0013 [Tú] | Sistema brutal. Pero de una manera retorcida... supongo que es justo.
+0014 [Elis] | El peldaño más bajo de la nobleza es el Caballero. Históricamente, eso significaba que los usuarios de magia traían sus propias armas y caballos para luchar por la ciudad.
+0015 [Elis] | Hoy en día, se trata principalmente de personas con magia mediocre y mucho dinero. Bien...==W== Excepto Alina.
+0016 [Elis] | Los Caballeros se encargan de las oficinas públicas de la ciudad. No reciben salario. De hecho, tienen que financiar los asuntos públicos con su propio bolsillo.
+0017 [Tú] | ¿De sus propios bolsillos? Te refieres a ...==W== ¿Alina paga ella misma toda la operación Night Watcher? ¿Por qué alguien aceptaría un trabajo tan ingrato como ese?
+0018 [Elis] | ¿Ingrato? Por favor. Donde hay poder, el oro sigue. En cuanto a por qué Alina está en quiebra... Tu suposición es tan buena como la mía.
+0019 [Elis] | Un paso por encima de los Caballeros están los Sacerdotes. Maestros de la magia, devotos de Goddess Trivia. Esa es tu tapadera.
+0020 [Elis] | Eres técnicamente un acólito, no un sacerdote completo todavía. Pero como los Acólitos están destinados a la grandeza, todos los tratan como si fueran auténticos.
+0021 [Tú] | Así que recibo un trato especial, pero sin las responsabilidades reales de un sacerdote pleno. Conveniente.
+0022 [Tú] | ¿Planeaste todo esto sobre la marcha cuando me desperté?
+0023 [Elis] | Obviamente. No se sobrevive tres años huyendo sin pensar rápidamente.
+0024 [Elis] | Quiero decir, pasé la mayor parte escondido en una torre, pero todavía tenía que comprar comida.
+0025 [Tú] | ¿Qué hay por encima de un sacerdote?
+0026 [Elis] | Sumos Sacerdotes y Senadores. Los primeros son la máxima autoridad de su ciudad en comunión con la Diosa de la Magia. Estos últimos se sientan en sus bancos de piedra en el Senado de Novia y dictan el destino de todo el continente.
+0027 [Elis] | Por encima de ellos están los Arcontes. Gobiernan las ciudades y las torres divinas y escriben las leyes. El patrón de Alina es el Arconte de Filanis.
+0028 [Tú] | Torres divinas... A los Monolitos también los llamamos regalos del Dios de la Gracia, pero aquí adoran a una Diosa de la Magia...
+0029 [Tú] | ¿Es esto sólo una diferencia en la fe? ¿O... un mundo completamente diferente?
+0030 [Elis] | Y en la cima absoluta, liderando el Senado y el pueblo de Nova... Los Cónsules. Son semidioses.
+0031 [Elis] | Sólo hay un puñado de ellos. Viven en total reclusión, bendecidos con una esperanza de vida increíblemente larga y una magia sin precedentes.
+0032 [Elis] | Rotan el poder cada año, turnándose al mando. Pero la mayoría de las veces simplemente se apegan a la rutina existente. Realmente nada cambia.
+0033 [Tú] | Entonces la magia es básicamente un "grado" aquí. Si no vas a una buena escuela, no entrarás en una empresa importante. Y esos títulos nobiliarios son sólo niveles de la escala corporativa.
+0034 [Tú] | Excepto que estudiar requiere trabajo real, mientras que Magic es una lotería genética.
+0035 [Tú] | Gracias, Elis.==W== Eso pone en perspectiva el rango de mi tapadera. Ahora sé cómo manejar a esta gente.
+0036 [Elis] | Te das cuenta rápido. Realmente eres un niño noble protegido, ¿no?
+0037 [Tú] | Ni mucho menos... Mi ciudad natal tiene ricos y pobres, claro, y muchos títulos elegantes. Simplemente no tenemos este rígido sistema de nobleza. Eres un gran maestro.
+0038 [Elis] | Maestro...==W== Mmm. Supongo que te he enseñado mucho. Me lo llevo.
+0039 [Elis] | Maestro. Maestro...==W== Ya sabes, ¡que te llamen así se siente muy bien!
+0040 [Tú] | Bueno, entonces su estudiante tiene dos preguntas más para usted.
+0041 [Elis] | ¡Pregunta!
+0042 [Tú] | Dijiste que la magia es ochenta por ciento de talento. Pero todavía tienes que aprender hechizos, ¿verdad? ¿El trabajo duro realmente cuenta para tan poco?
+0043 [Elis] | Por supuesto. Tu talento dicta qué hechizos puedes incluso aprender en primer lugar. Puedes estudiar tanto como quieras, pero sin la aptitud, igual obtendrás un cero.
+0044 [Tú] | E-espera, ¿en serio?
+0045 [Elis] | Déjame desglosarlo. El lanzamiento requiere magia. La magia proviene de nuestra energía espiritual, pero cada uno está construido de manera diferente.
+0046 [Elis] | Algunos convierten naturalmente la energía espiritual en magia. Otros almacenan cantidades masivas o lo controlan mejor. Gana el premio gordo con los tres y ¡bam!, eres un futuro Sumo Sacerdote.
+0047 [Elis] | Luego estoy yo...==W== Cinco minutos en un baño mágico y me desmayo. Mi cuerpo simplemente lo rechaza. Podría memorizar todos los hechizos que existen y aún así no tendría la magia para lanzarlos.
+0048 [Tú] | Tiene sentido. Cuando lanzabas hechizos en el bosque, extraías esta Piedra del Alma, ¿verdad?
+0049 [Elis] | ¿C-Cómo supiste eso?==W== Ah, claro. Murmuraste "Piedra del Alma" durante tu prueba en la casa de baños...
+0050 [Tú] | Bueno... Así es como los llamamos en casa. Todo el mundo tiene uno. Almacenan magia y tú simplemente la aprovechas cuando necesitas un hechizo.
+0051 [Elis] | ¡¡¡Imposible!!! ¡Sangré por esos experimentos durante años! ¡Se supone que esto es único!
+0052 [Elis] | ¿Y me estás diciendo que toda tu ciudad natal los está usando?
+0053 [Elis] | ¿Acabo de reinventar la rueda? ¡Contaba con esto para hacer una fortuna!
+0054 [Tú] | Ah, oye... No dejes que esto te afecte. Reinventar la rueda todavía requiere genio, ¿verdad? Además, nadie en Filanis tiene uno todavía.
+0055 [Elis] | Mmm...==W== Punto justo! Incluso si alguien en una tierra lejana me ganara, mientras Nova esté en la oscuridad, ¡todavía puedo ganar oro!
+0056 [Tú] | Aún eres un fugitivo buscado. Es un poco pronto para trazar el mapa de su imperio empresarial, ¿no?
+0057 [Elis] | ¡Una chica debe planificar con anticipación! Además, ¿de qué otra manera se supone que voy a financiar mi fuga? Ah, y vamos a dividir el dinero de la compensación de Filanis al cincuenta por ciento.
+0058 [Tú] | Ahorrativo y cauteloso.==W== Ella realmente actúa como Iris.
+0059 [Elis] | ¡Oye, oye! ¡Ojos en el maestro! ¿Estás distraído pensando en otra chica?
+0060 [Elis] | Hiciste exactamente lo mismo en el carro de prisioneros. Me miró directamente y me llamó por el nombre de otra persona. Hmph.
+0061 [Tú] | Lo siento. Es solo...==W== Tú y Alina os parecéis mucho a mis amigos de casa.
+0062 [Tú] | I...==W== Ni siquiera sé si algún día volveré a verlos.
+0063 [Elis] | ... Entiendo cómo te sientes.==W== Pero por favor no me trates como un sustituto. Ni siquiera en tu cabeza. En absoluto.
+0064 [Elis] | Mi nombre es Elis. E-lis.==W== No soy Iris ni soy nadie más.
+0065 [Elis] | Sé que suena duro, pero lo odio. Especialmente...==W== ¡Especialmente viniendo de ti!
+0066 [Tú] | Lo siento... Eso es mi culpa. No consideré tus sentimientos. Somos compañeros. No debería mirarte y ver a otra persona.
+0067 [Elis] | ¿Compañeros? ¡¿Quién dijo que somos compañeros?!==W== No lo hagas sonar tan amigo-amigo. Somos coconspiradores. Cómplices. Fugitivos en el mismo barco que se hunde.
+0068 [Tú] | Eso me suena bastante bien amigo...
+0069 [Tú] | Alto y claro. Eres Elis. E-lis. Iris no.
+0070 [Elis] | Hmph, eso es más bien. Como soy tu maestro, te perdonaré magnánimamente esta vez. Ahora, ¿cuál es tu segunda pregunta?
+0071 [Tú] | Elis, ¿por qué no mencionaste a las Santas en esa lista de noblezas? El de Filanis parece tener tanto peso como un Sumo Sacerdote.
+0072 [Elis] | Je. El trabajo principal de una Santa es rezar a los dioses en la torre. No pertenecen a la nobleza.
+0073 [Tú] | ¿Son entonces ciudadanos? ¿Libertos? ¿O alguna otra clase trascendente?
+0074 [Elis] | Ninguno de los anteriores.
+0075 [Tú] | Um...==W== No pueden ser esclavos, ¿verdad?
+0076 [Elis] | Eso tampoco.==W== Nosotras las Saintesses somos sólo "objetos".
+0077 [Tú] | ¿Objetos?
+0078 [Elis] | ¿Qué se necesita para iniciar un incendio?
+0079 [Tú] | Una chispa... Y algo de leña, como ramas secas o hierba...
+0080 [Elis] | Y cuando las llamas se apagan, ¿te molestas en comprobar las cenizas frías?
+0081 [Tú] | No, en realidad no...==W== Como mucho comprobaré si hay brasas para que no provoquen un incendio forestal.
+0082 [Elis] | Je. Nosotras las Saintesses somos exactamente eso. Objetos que gastas y te olvidas.
+0083 [Elis] | Cada Saintess es un "producto defectuoso" con talento mágico. Tómame, por ejemplo. Mi tolerancia mágica es terrible. Si hay un poco de magia en mí, tengo que liberarla o me enfermará.
+0084 [Elis] | Con un cuerpo como este, puedo memorizar hechizos, pero nunca puedo lanzarlos correctamente. Entonces ...==W== Sólo soy un defecto.
+0085 [Elis] | Pero incluso los defectos tienen su utilidad. Los peces gordos nos crían con mucho cuidado. Trátanos como damas nobles, enséñanos magia e historia... Todo para que podamos marchar hasta el altar de la torre y hacer nuestra ofrenda a los dioses cuando chasqueen los dedos.
+0086 [Tú] | Haz una ofrenda... No querrás decir...
+0087 [Elis] | Sacrificarnos a los dioses en la torre. Pagamos con nuestras vidas para conceder sus deseos.
+0088 [Elis] | Somos... sólo la chispa y el combustible de sus deseos. Un "objeto" raro y caro. Naturalmente, nos mantienen a salvo y nos dan un poco de autoridad... Hasta que nos queman.
+0089 [Tú] | ¡¿De qué estás hablando?! ¡¿Por qué tu gente desearía eso?! ¡No es así en absoluto como funciona el Monolito! ¡Encuentras una Caja de los Deseos, preparas tu oración, imaginas el Artefacto y simplemente dices las palabras!
+0090 [Elis] | Oh, ¿es así como lo desean en tu ciudad natal? Suena mucho más amable.==W== Lástima que no nací allí. Y Nova no es tu hogar.
+0091 [Tú] | Está mal. Hay algo fundamentalmente complicado en la forma de pedir deseos aquí.
+0092 [Tú] | Si alguien me arrastrara a un ritual idiota como ese, yo también huiría. ¡Me alegro mucho de que hayas salido!
+0093 [Elis] | Contento...? ¿Lo dices honestamente en serio?==W== Conceder deseos... es el trabajo de una Santa. Es nuestro destino. Se supone que nadie en Nova debe huir de ello.
+0094 [Tú] | ¿Qué podría importar más que una vida humana? Destino...==W== ¡El destino está destinado a romperse!
+0095 [Elis] | ... Pfff. Escúchate hablar en grande. "El destino está destinado a romperse"...==W== Qué arrogancia. ¿Necesito recordarte que estamos a un desliz del bloqueo del verdugo?
+0096 [Elis] | Pero... no odio esa arrogancia. Porque cuando salí corriendo del altar, tampoco estaba pensando en nada de eso. Mi único pensamiento fue: ¡No quiero morir! ¡No quiero morir!
+0097 [Elis] | Supongo que eso también me hace bastante arrogante.==W== Realmente eres especial...
+0098 [Tú] | Lo siento. No he comido desde ayer y llevamos un rato hablando. ¿Alina tiene… algo para comer por aquí?
+0099 [Elis] | Ella lo hace. Nos dejó un desayuno casero antes de salir a patrullar.==W== Toma, un sándwich de jamón.
+0100 [Tú] | Desayuno hecho por Alina...==W== Si cocina algo como Noya, me espera un placer.
+0101 [Tú] | Entonces tomaré un bocado con gracia.
+0102 [Tú] | ¿Qué... qué es esto? ¡¿Acabo de morder una roca?!
+0103 [Elis] | Jajaja. La cocina de ese Night Watcher es francamente letal. Su pan podría desviar las flechas.
+0104 [Tú] | No. Noya no. ¡Alina no se parece en nada a Noya!
+0105 [Lulu] | ==SEX12== ¡Acólito! Y ...==W== tú, el esclavo. Gracias a los dioses que ambos estáis aquí.
+0106 [Lulu] | ¡Rápido, ven conmigo! ¡La capitana Alina necesita refuerzos! ¡La Santa Caída está aquí!
+0107 [Elis] | ¡¿La Santa Caída?!

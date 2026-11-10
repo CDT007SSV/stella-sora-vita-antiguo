@@ -1,0 +1,93 @@
+# Historia de Ann · 1 · The Sleepless Little Guardian (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_123 | Ann
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_110 | Coco
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La pequeña guardiana insomne (Parte I)
+0003 [Intro] | Para ser guardiana del bosque no hay requisito de edad.
+0004 [Narración] | Esta es la Aldea Eaze, un pequeño asentamiento apartado tanto de la ciudad como de las Tierras Salvajes.
+0005 [Narración] | Para los Trekkers que buscan relajarse sin meterse de lleno en una ciudad, este lugar es el sitio de vacaciones perfecto.
+0006 [Narración] | Una brisa fresca, una luz suave del sol… ==W==El aire está lleno del aroma del trigo y del olor a tierra de la tierra recién removida.
+0007 [Tú] | Qué bien se siente esto... Sería increíble quedarme dormido aquí, como si estuviera recostado en una nube suave y esponjosa...
+0008 [Narración] | Justo entonces, las yemas de mis dedos rozan algo suave y esponjoso. Pero está demasiado tibio para ser una nube...
+0009 [???] | ¡Auuu!
+0010 [Tú] | ==W==¡¡Ahh!!
+0011 [Tú] | Ah, eres tú, pequeña Coco.==W== ¿No se supone que estás con Ann?
+0012 [Coco] | ¡Auuu! ¡Auuu!
+0013 [Tú] | ¿Qué pasa? ¿Adónde me llevas?==W== Parece que intentas guiarme hacia ella.
+0014 [Tú] | Está bien, está bien. Iré contigo, pero deja de jalarme así.
+0015 [Tú] | Uf... Uf... ==W==¿De verdad está Ann aquí, en medio de este bosque...?
+0016 [Coco] | ¡Auuu!
+0017 [Narración] | Sigo a Coco, apartando capas de maleza. De pronto se abre ante mí un pequeño claro de pasto plano. ==B==Y...
+0018 [Ann] | Zzz... Zzzz...
+0019 [Tú] | De verdad está durmiendo aquí afuera, ¿eh?
+0020 [Narración] | Ann duerme sobre el pasto junto a un grupo de animalitos. Es una escena que parece sacada de un libro ilustrado de cuentos de hadas.
+0021 [Tú] | Pero podría resfriarse durmiendo aquí afuera.
+0022 [Tú] | Oye～ Pequeña Ann, es hora de despertar.
+0023 [Ann] | Mmm...==W== Bubble, tienes que portarte bien mientras duermo la siesta...
+0024 [Ann] | ¿Eh? Jefe... ¿Jefecito?
+0025 [Tú] | ¿Ya despertaste? Buenos días, pequeña Ann.
+0026 [Ann] | ¡¿Je-jefecito?!
+0027 [Ann] | ¿Estoy soñando? ==W==Espera, ¡no estoy soñando! ¡¿Jefecito?! ¡¿Jefecito?! ¡Jefecito, Jefecito! ¡Jefecito～!
+0028 [Tú] | Vaya... ==W==No te lances así sobre mí. ¡Casi no te atrapo!
+0029 [Ann] | ¡Pero de alguna manera siempre me atrapas justo bien y me haces sentir segura!
+0030 [Ann] | ¡Por eso solo quiero abrazarte, Jefecito!
+0031 [Ann] | ¡Waaah! ¡Eres tú, Jefecito! ¡Viniste a jugar conmigo!
+0032 [Tú] | Ann, ¿te has portado bien estos días...==W== ¡Ahh!
+0033 [Tú] | Por eso te dije que es peligroso. No puedo prometer que te atraparé siempre.
+0034 [Ann] | No me digas que estás enojado conmigo... ¿Verdad que no?
+0035 [Tú] | No, no estoy enojado. Es solo que no quiero que te lastimes. ==W==Acuérdate de avisarme antes de lanzarte sobre mí la próxima vez, ¿sí?
+0036 [Ann] | Ah... ¡Está bien! ==W==¡La próxima vez gritaré muy fuerte para que me oigas desde súper lejos!
+0037 [Opción] | Acariciar la cabeza de Ann
+0038 [Ann] | Jeje～
+0039 [Coco] | ¡Auuu!
+0040 [Ann] | No se me olvidó, Coco. No hace falta que me lo recuerdes.
+0041 [Tú] | ¿Qué dice Coco?
+0042 [Ann] | Que ya casi es hora de la patrulla del bosque. No te preocupes, me acuerdo. Coco, te preocupas demasiado.
+0043 [Tú] | ¿Te refieres a tu rutina diaria? Si es así, cuenta conmigo también.
+0044 [Ann] | ¿El Jefecito quiere venir?==W== ¡Ah, sí, vamos!
+0045 [Ann] | Dame la mano, ¿sí? El bosque es grande y no queremos que te pierdas.
+0046 [Opción] | Tomar la mano de Ann
+0047 [Ann] | Je, je.
+0048 [Ann] | ¡Jefecito, ten cuidado! ¡Por aquí hay muchos malosos!
+0049 [Tú] | ... Es verdad, más vale prevenir que lamentar.
+0050 [Narración] | Sigo con cuidado a Ann. Mientras más nos adentramos en el bosque, más hermoso se vuelve el paisaje, pero mi atención está en otra parte.
+0051 [Narración] | Porque lo percibo: hay algo peligroso flotando en el aire entre los árboles, y me recorre un escalofrío por la espalda.
+0052 [Ann] | ¿Qué pasa, Jefecito? ==W==Espera... ¿Tú también lo sentiste?
+0053 [Tú] | ¿Eh? No. ¿De qué hablas?
+0054 [Ann] | No hace falta que me lo ocultes. ¡No te preocupes, puse muchas trampas por todo este bosque!
+0055 [Narración] | Ann recoge una piedra a sus pies y la lanza a una zona aparentemente despejada más adelante. Una enorme red salta al instante desde debajo del pasto.
+0056 [Tú] | Vaya... No tenía idea de que había una red escondida bajo todo eso... Habría caído redondito.
+0057 [Ann] | Yo misma hice esta trampa. Ha atrapado a muchos malosos. Coco y yo echamos del bosque a cada uno de ellos.
+0058 [Ann] | Patrullo todos los días para asegurarme de que no haya malosos por aquí. Pero algunas de las trampas viejas están rotas, así que tengo que encontrarlas y arreglarlas mientras estoy afuera.==W== ¿Entendiste, Jefecito?
+0059 [Tú] | Trampas viejas...==W== Espera, Ann, ¿me estás diciendo que hiciste todas las trampas de este bosque?
+0060 [Ann] | ¡Soy buena, pero no tanto!
+0061 [Ann] | Esas trampas las puso la Escuadra de Aventureros de la Aldea Eaze. En aquel entonces había muchísima gente en la escuadra. ¡No siempre fui solo yo!
+0062 [Ann] | La abuela Enya nos enseñó a todos a esconder trampas con ramas y hojas. Nalan corría rápido y saltaba alto, así que se encargaba de armar todos los mecanismos móviles.
+0063 [Ann] | La pequeña Pea dibujaba muy bien y podía convertir imágenes realistas en trampas ingeniosamente camufladas. Y el tío Mike arreglaba cualquier cosa: cuando un mecanismo se rompía, siempre lograba que volviera a funcionar.
+0064 [Ann] | Antes construíamos trampas juntos para mantener fuera a los monstruos peligrosos y evitar que esos malosos enmascarados se colaran al bosque.
+0065 [Ann] | Pero con el tiempo...==W== La escuadra fue haciéndose cada vez más pequeña. Algunos dijeron «hasta mañana» pero nunca regresaron. Cuando me di cuenta, era la única que quedaba...
+0066 [Ann] | Oí que se fueron a vivir a la ciudad. Pero no entiendo. ¿Por qué todos terminan dejando sus hogares? ¿Ya no van a volver...?
+0067 [Tú] | P-pues...
+0068 [Narración] | En lugar de darle mi respuesta, me agacho y acomodo el sombrerito de paja de Ann antes de que se le resbale.
+0069 [Tú] | La respuesta a esa pregunta tendrás que descubrirla tú misma cuando crezcas.
+0070 [Tú] | Así que no hay prisa por averiguarlo. Y aun sin tus compañeros, Ann, eres lo bastante fuerte para seguir adelante, ¿verdad?
+0071 [Ann] | ¡Mm-jm! ¡Ann seguirá adelante!
+0072 [Narración] | Vuelvo a acariciar la cabeza de Ann. Intenta actuar muy seria y madura, pero su cola delata todo lo que siente.
+0073 [Coco] | ¡Auuu! ¡Auuuu!
+0074 [Ann] | ¡Es Coco! ¡Encontró algo!
+0075 [Coco] | ¡Auuu—
+0076 [Ann] | ¿Qué pasa, Coco...?
+0077 [Tú] | Quédate aquí y no te muevas, Ann.
+0078 [Narración] | Camino hacia el lugar donde Coco está vigilando. Es un montón de hojas manchadas con algún tipo de líquido rojo.
+0079 [Tú] | Esto es... ==W==¿sangre?
+0080 [Tú] | Parece que lo que a Coco le inquieta es lo que se esconde detrás de esa maleza.
+0081 [Narración] | Me pongo frente a Ann y aparto con cuidado las ramas. ==W==Allí escondido hay algo increíblemente enorme...

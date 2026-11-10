@@ -1,0 +1,137 @@
+# Capítulo 8 · Calor residual · 8 · Rules of the Desert
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Defiant Desert Scorpion | Escorpión del Desierto desafiante
+N:Energetic Kid | Niño enérgico
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_133 | Nazuka
+N:avg2_946 | Fantasma de la Ópera
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_100 | Sylar
+N:avg3_1287 | Escorpión del Desierto
+N:avg3_1288 | Escorpión del Desierto
+N:avg3_157 | Guardia Imperial
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_207 | Myrsha
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Las reglas del desierto
+0003 [Intro] | Amber derrota a un Escorpión del Desierto y obliga a los mercenarios a retirarse. Luego, Myrsha revela que las facciones de Mirage mantienen al enemigo con vida a propósito. Siguiendo la pista, llegan al viejo teatro... y caen directo en una trampa...
+0004 [Lugar y hora] | 10:30, 7.º del mes de Nebula, Mirage, Calle sin nombre
+0005 [Amber] | Ganamos.
+0006 [Defiant Desert Scorpion] | Ugh. Las pistolas mágicas de los Gatos Blancos son una locura. Disparan más rápido y pegan más fuerte que las nuestras. Es la única razón por la que estoy mordiendo el polvo.
+0007 [Amber] | No son las pistolas.
+0008 [Defiant Desert Scorpion] | ¿Eh? ¡¿Entonces qué más podría ser?!
+0009 [Amber] | Toma una. Pruébala.
+0010 [Defiant Desert Scorpion] | Tú te lo buscaste.
+0011 [Defiant Desert Scorpion] | ¡Argh!
+0012 [Amber] | ¿Ves?==W== No es el arma.==W== Desenfundas lento y aprietas el gatillo sin fuerza.
+0013 [Defiant Desert Scorpion] | E-está bien. Perdí.
+0014 [Iris] | ¿Ya podemos hablar?==W== ¿Por qué nos siguen llamando Gatos Blancos?==W== ¿Y quiénes son?
+0015 [Defiant Desert Scorpion] | Traen ropa de Gato Blanco, cargan armas de Gato Blanco y pelean como Gatos Blancos. ¿Qué más podrían ser?
+0016 [Noya] | ¿Te refieres a la ropa y las armas de Amber?==W== ¿O sea que parece alguien de la Compañía del Gato Blanco?==W== Encontramos todo esto en nuestro sótano hace mucho tiempo.
+0017 [Amber] | Sí. Nunca he oído de los Gatos Blancos.
+0018 [Defiant Desert Scorpion] | Un sótano... No un sótano aquí en Mirage, ¿verdad?
+0019 [Iris] | Nuestro hogar está en Emor... O lo estaba.==W== Es la primera vez que venimos a Mirage. Llegamos anoche.
+0020 [Defiant Desert Scorpion] | Emor...==W== Así que se quedaron con el equipo de un Gato muerto.==W== Como sea. Ya no importa.
+0021 [Defiant Desert Scorpion] | Escorpiones, conmigo.==W==
+0022 [Defiant Desert Scorpion] | Los confundimos con Gatos Blancos y perdimos una pelea vergonzosa.==W== Según la ley del desierto, les debemos un favor.==W== Digan qué quieren.
+0023 [Amber] | Algo que queramos...==W== Jefe, ¿necesitas que hagan algo?
+0024 [Tú] | Algo que queramos... Déjame pensar.==W== ¿Qué tal si acordamos no ser enemigos? Ustedes no se meten en nuestro camino y nosotros no nos metemos en el suyo.
+0025 [Defiant Desert Scorpion] | ¿Eso es todo? ¿Qué te traes?==W== Normalmente los ganadores exigen un rescate enorme o hasta se llevan a los perdedores como esclavos.
+0026 [Tú] | ¿Normalmente? No conozco esas reglas.==W== Estamos en Mirage para conseguir provisiones y encontrar el Monolito que hay en el desierto. Si nos ayudan con eso, quedamos a mano.
+0027 [Defiant Desert Scorpion] | Qué generoso. Definitivamente no son Gatos Blancos.==W== Tomen las provisiones como disculpa por empezar este lío. Le preguntaré a la vicecapitana si podemos reabastecerlos.
+0028 [Tú] | La vicecapitana de los Escorpiones del Desierto...==W== Un momento. Los que me emboscaron en el banquete fueron la capitana y la vicecapitana de los Escorpiones del Desierto.==W== ¿De verdad puedo confiar en ellos ahora?
+0029 [???] | ¡Jefe! ¿Qué te trae hasta Mirage? ¿Pasó algo?==W== Espera, ¿vienes a unirte a los Escorpiones del Desierto? ¡Ja! ¡Te recibiría con los brazos abiertos!
+0030 [Iris] | ¿Qué fue lo que pasó volando?
+0031 [Amber] | Escorpión. Suéltalo. O disparo.
+0032 [Tú] | ¡Espera, ahorita no es una amenaza!==W== Pero Myrsha, suéltame. Espacio personal, por favor. Esto da miedo.
+0033 [Myrsha] | ¿Eh?==W== Solo hablamos una vez, ¿y te acordaste de mi nombre?==W== ¡Me hace tan feliz!
+0034 [Tú] | ¿Hablamos?==W== Suelo recordar el nombre de la asesina que intentó matarme.
+0035 [Noya] | ¡¿Una asesina?!==W== ¿Era ella? ==PLAYER_NAME==, ¿ella fue la que te atacó en el banquete?
+0036 [Myrsha] | Oye, tranquila con esa espada. Eso fue antes; esto es ahora.
+0037 [Myrsha] | El contrato se canceló y el cliente está tras las rejas. ¿Para qué íbamos a seguir yendo tras de ti?
+0038 [Myrsha] | Además, mi gente perdió limpiamente y ustedes la dejaron ir sin problema. Yo no pago la amabilidad con una puñalada.
+0039 [Myrsha] | Considera tu petición concedida. De ahora en adelante, oficialmente no somos enemigos.
+0040 [Myrsha] | ¿Todavía no me crees? Mira, hermana.==W== Tengo el cuello pegado a tu espada. ¿Te basta con eso?
+0041 [Noya] | ==PLAYER_NAME==, ¿qué hacemos? Es todavía más directa que yo.
+0042 [Tú] | Baja el arma, Noya.==W== En ese entonces solo eran asesinos a sueldo, y ahora no es hostil.==W== Somos nuevos aquí. No tiene caso buscar pleito con los locales.
+0043 [Myrsha] | Je. ¡Sabía que eras listo, Jefe! Entonces ahora somos amigos, ¿verdad?
+0044 [Myrsha] | ¡Muy bien, Escorpiones, a moverse!==W== Vayan a preparar esas provisiones y llénenle de Gracia el vehículo al Jefe.==W== Yo los llevo a un recorrido gastronómico por Mirage. Nos vemos cuando terminen.
+0045 [Tú] | Te lo agradezco.==W== Y eso nos cae perfecto. De todos modos necesitábamos a alguien de aquí para que nos respondiera unas preguntas.
+0046 [Lugar y hora] | 12:45, 7.º del mes de Nebula, Mirage, Calle sin nombre
+0047 [Iris] | Nunca vi comida así en Emor, ¡pero cada platillo está increíble! ♪==W== Quedé llenísima. ¡Y nuestras provisiones ya están listas!
+0048 [Amber] | El tayín está rico.
+0049 [Noya] | ¡Ya me aprendí la receta! En cuanto consiga los ingredientes, se los cocino.
+0050 [Myrsha] | ¿Ven? Estamos en medio de la nada, pero Mirage tiene su encanto, ¿no?
+0051 [Tú] | Como dicen: el hogar es donde te sientes en paz.
+0052 [Tú] | Aunque hace rato estaban peleando bastante en serio con la Guardia Imperial. ¿También hay rencillas entre la Guardia Imperial y los locales?
+0053 [Myrsha] | Nah, para nada. Nos llevamos bien con la Guardia Imperial.
+0054 [Myrsha] | ¿Cómo te lo explico...?==W== Digamos que es una sociedad de negocios.==W== Además somos compañeros de equipo a la hora de pelear contra la Compañía del Gato Blanco.
+0055 [Tú] | La Compañía del Gato Blanco...==W== No dejo de oír ese nombre. ¿Quiénes son?
+0056 [Myrsha] | Antes eran la guardia personal de la antigua Emperatriz de Nova. Hace más de una década la traicionaron y le quitaron la vida. Unos villanos de lo peor.
+0057 [Myrsha] | El Imperio de la Gracia contrató a la Guardia Imperial para darles caza. Los Gatos Blancos fueron peleando en retirada hasta llegar aquí. Mirage es su último bastión.
+0058 [Myrsha] | Dicen que en ese entonces Mirage nadaba en dinero. Pero años de pelea la dejaron así. Ahora casi toda la ciudad son ruinas vacías.
+0059 [Iris] | ¡¿H-hasta a la Emperatriz?!==W== ¿Son así de despiadados?==W== Ay, no.==W== ¡Ya estamos en su territorio!==W== ¡¿Y si están escondidos detrás de un muro ahorita esperando para saltarnos encima?!
+0060 [Myrsha] | Tranquila. Todo eso pasó cuando yo era niña.==W== Hoy en día Mirage técnicamente está en guerra, pero ya no quedan batallas que pelear.
+0061 [Myrsha] | Nosotros, los Escorpiones del Desierto, controlamos la mina abandonada de diamante cristalino al noreste.==W== La Guardia Imperial tiene el oasis central, al oeste. Lo que queda de los Gatos Blancos tomó el segundo oasis, al sur.==W== Cada quien tiene su territorio, y llevamos años sin meternos unos con otros.
+0062 [Myrsha] | Además, ya casi no quedan Gatos Blancos. Podríamos acabar con ellos por pura superioridad numérica cuando quisiéramos.
+0063 [Noya] | Si son tan peligrosos, ¿por qué no acaban con ellos?
+0064 [Myrsha] | ¿Y perder nuestro negocio?==W== Si acabamos con los Gatos Blancos, nos quedamos sin nada que hacer.
+0065 [Tú] | Negocio... Los niños de esta mañana dijeron algo parecido.
+0066 [Energetic Kid] | ¿De qué hablas? ¡Una pelea significa que por fin podemos hacer negocio!
+0067 [Tú] | Ah. Ahora lo entiendo.
+0068 [Opción] | Mantienen vivo al enemigo a propósito.
+0069 [Myrsha] | Tan perspicaz como siempre, Jefe.==W== El Mirage de hoy es una ciudad que vive por completo de la guerra.
+0070 [Myrsha] | Los Escorpiones del Desierto somos mercenarios rudos. Aunque seamos socios de la Guardia Imperial, un poco de roce viene incluido en el trato.
+0071 [Myrsha] | Así que de vez en cuando montamos una pelea. Dejamos tiradas algunas armas chatarra como botín para la Guardia, y ellos las usan para presumir victorias ante sus superiores.
+0072 [Myrsha] | ¿Y la Guardia? La guerra siempre cuesta algo, ¿no?==W== Tiran un poco de equipo caro, sacan pruebas con un Capturador de Fotos==W== y le cobran al Imperio de la Gracia las pérdidas en el campo de batalla.
+0073 [Myrsha] | Pero ese equipo no está roto. Entregan un informe pidiendo armaduras y lanzas nuevas,==W== y les aprueban el dinero.
+0074 [Myrsha] | Luego les pagan a los niños una vigésima parte del precio para que arrastren de vuelta ese equipo. Y del dinero destinado al equipo nuevo,==W== treinta por ciento para nosotros y setenta para ellos. Y así, vuelta tras vuelta, los Dorra siguen llegando.
+0075 [Tú] | Vaya negocio sinvergüenza...==W== Pero supongo que los niños se ganan unas monedas honradas con eso.==W== No sé qué pensar.
+0076 [Myrsha] | Ándale, no le des tantas vueltas ♪ Aquí nadie pierde. Todos ganan, ¿no?
+0077 [Myrsha] | Y~==W== ¿Adivina qué?==W== Hoy montamos un verdadero espectáculo con los «Gatos Blancos».==W== La Guardia va a presentar un informe sobre una batalla durísima, va a decir que repelió a todo el ejército de los Gatos Blancos y va a exigir una compensación enorme.
+0078 [Myrsha] | Jeje. ¡Visto así, deberíamos darles las gracias!
+0079 [Iris] | O sea que... convirtieron la guerra en un negocio.
+0080 [Myrsha] | ¡Jajaja!==W== Mirage no tiene mercancía que valga la pena sacar del desierto. Sin guerra, aquí nadie sobreviviría.
+0081 [Tú] | Si tan solo hubiera un Monolito aquí. Todos podrían vivir de los Artefactos.==W== Oye, Myrsha, ¿alguna vez han encontrado uno en el desierto?
+0082 [Myrsha] | ¿Un Monolito en el desierto?==W== Nunca he visto uno.==W== La gente de aquí ve cosas en la arena todo el tiempo, pero cuando van a revisar, no hay nada. Seguro es un castillo en el aire.
+0083 [Narración] | Intercambio miradas con el Gremio de la Nueva Estrella.==W== Olvídate de mi amnesia: esas tres estuvieron dentro de ese Monolito. No era un espejismo.
+0084 [Myrsha] | Pero... ==W==oí que, antes de que yo naciera, Mirage tenía un Monolito.
+0085 [Iris] | Espera, ¿antes había un Monolito aquí?==W== ¿Qué le pasó?
+0086 [Myrsha] | Lo que suena. Un día simplemente desapareció. Sin aviso.
+0087 [Myrsha] | Parece que nuestra capitana sabe algo, pero se queda callada cada vez que sale el tema.
+0088 [Tú] | Un Monolito que desaparece... ¿Será como lo que yo viví...?
+0089 [Nazuka] | No, no es un terremoto.==W== ¡El Monolito se está hundiendo!
+0090 [Nazuka] | Jefe, nos está arrastrando con él...==W== Lo siento. Puede que no logremos volver.
+0091 [Tú] | No, no... Ese es el recuerdo de algo que nunca pasó.
+0092 [Tú] | Además, si un Monolito se hundiera en la tierra, el impacto sería enorme. La gente de Mirage lo habría notado.
+0093 [Tú] | Si ando difundiendo esa especulación, causaría pánico. Por ahora me quedaré callado y me haré el desentendido.
+0094 [Tú] | Myrsha, aparte de tu capitana, ¿alguien más sabe del Monolito que desapareció?
+0095 [Myrsha] | Puede que la capitana de los Gatos Blancos lo sepa...==W== Pero nunca he tenido contacto con ellos.==W== Y no creo que la gente del pueblo lo sepa. De todos modos, en Mirage ya no quedan muchos viejos.
+0096 [Myrsha] | Pero conozco un lugar donde podríamos encontrar respuestas sobre lo que pasó.
+0097 [Lugar y hora] | 21:10, 7.º del mes de Nebula, Mirage, Calle sin nombre
+0098 [Iris] | Eh...==W== ¿De verdad nos vamos a colar aquí?==W== Se ve tenebroso.
+0099 [Noya] | Myrsha dijo que este era el antiguo teatro de los Gatos Blancos, de antes de que traicionaran a la Emperatriz.
+0100 [Iris] | Los Gatos Blancos son los que más tiempo han estado aquí. Puede que adentro haya pistas sobre el pasado de la ciudad.
+0101 [Iris] | ¡Pero Myrsha también dijo que el terrorífico==W== Gato Diablo de Patas Negras se apoderó de este lugar!
+0102 [Amber] | El Jefe es más poderoso que un diablo. No tengas miedo.
+0103 [Tú] | Eh, no creo que funcione así...==W== Pero no nos quedan opciones.==W== Vamos. Venimos por pistas. Nada de peleas.
+0104 [Lugar y hora] | 21:25, 7.º del mes de Nebula, Mirage, ???
+0105 [Amber] | ¿Jefe? ¿Dónde estás?==W== ¿Eres tú, Jefe?
+0106 [Tú] | ¡¿A-Amber?!==W== ¡Oye, no agarres cosas así en la oscuridad!
+0107 [Noya] | Mmm... No se ve nada, pero este lugar se siente extrañamente familiar...
+0108 [Iris] | ¡D-deberíamos salir! ¡Está oscurísimo! ¿Y si el Gato Diablo de Patas Negras nos ataca...?
+0109 [???] | ¡Ni se te ocurra!
+0110 [Iris] | ¡¡Aaaaaah!!
+0111 [Narración] | Una voz grave suena detrás de nosotros. Algo liso y metálico se apoya contra nuestras cabezas.
+0112 [Narración] | Nos emboscaron.

@@ -1,0 +1,10 @@
+textos/STm10001.txt
+textos/STm10001_01.txt
+textos/STm10001_02.txt
+textos/STm10001_03.txt
+textos/STm10001_04.txt
+textos/STm10001_05.txt
+textos/STm10001_06.txt
+textos/STm10001_07.txt
+textos/STm10001_08.txt
+textos/STm10001_09.txt

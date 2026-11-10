@@ -1,0 +1,124 @@
+# Evento · Un crepitante indicio de primavera · 1 · Una cara conocida entre un millón
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Noya & Amber | Noya y Amber
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg1_159 | Coronis
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_167 | Chica
+N:avg3_169 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_171 | Empleada
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Una cara conocida entre un millón
+0003 [Intro] | ¡El Gremio de la Nueva Estrella ha desaparecido en Cangwu! Mientras los buscas, te encuentras con Coronis, que también anda buscando a Jinglin.
+0004 [Noya] | ¡Wow, Cangwu es enorme!
+0005 [Amber] | Hay mucha gente.
+0006 [Iris] | Justo a tiempo. Nos tocó un festival de los Loong. Por eso las calles están mucho más llenas de lo normal.
+0007 [Noya] | ¿Un festival reciente? Ah, ¿te refieres al Día de los Enamorados?
+0008 [Noya] | ¡No sabía que los Loong se la pasaban tan en grande en el Día de los Enamorados! ¡Deben de ser expertos en el romance!
+0009 [Iris] | No, no es...
+0010 [Noya] | ¿Eh? Espera, ¿acaso son malos en eso?
+0011 [Iris] | ¡No es lo que quise decir!
+0012 [Amber] | ¿Entonces qué?
+0013 [Tú] | En realidad,==W== es el «Festival Buscaprimavera», la fiesta más grande del año para los Loong.
+0014 [Tú] | Dicen que todos los Loong que pueden hacer el viaje regresan a Cangwu para celebrar con su familia y sus amigos.
+0015 [Iris] | ¡Exacto! Espera, ¿cómo sabes todo eso,==W== ==PLAYER_NAME==?
+0016 [Tú] | Lo leí en este folleto. Hasta trae una lista de lugares para comer y de souvenirs.
+0017 [Noya] | ¡Genial! ¡Me moría de ganas de probar un auténtico hotpot Loong!
+0018 [Amber] | Los puestos de souvenirs están allá.==W== ¿Vamos a ver?
+0019 [Iris] | Tranquilas, habrá hotpot y souvenirs.==W== Hasta conseguí descuento en la posada. ¡Por fin estamos en Cangwu, así que aprovechemos al máximo!
+0020 [Noya & Amber] | ¡Hurra!
+0021 [Iris] | Pero primero, tenemos trabajo que hacer...
+0022 [Opción] | ¿Comemos hotpot?
+0023 [Opción] | ¿Vemos los souvenirs?
+0024 [Opción] | ¿Nos registramos en la posada?
+0025 [Iris] | Incorrecto. La prioridad número uno es...
+0026 [Iris] | ... ¡Tomar encargos y ganar Dorra a montones!
+0027 [Tú] | ¿Encargos? ¿Ahora?
+0028 [Iris] | ¡Claro que sí!==W== Las tarifas de temporada alta están por las nubes. ¡Estaríamos locas si dejáramos pasar un pago como este!
+0029 [Iris] | ¡Juntemos el dinero ahora y gastemos después sin culpa!
+0030 [Noya] | ¡Cuenten conmigo!
+0031 [Amber] | De acuerdo.
+0032 [Tú] | Buen punto. ¿Vamos a la Casa de los Trekkers?
+0033 [Iris] | Nosotras nos encargamos del encargo. Jefe, tú adelántate y registra nuestra entrada.
+0034 [Iris] | Si se nos pasa el horario de registro, perdemos el descuento.
+0035 [Tú] | Entendido. Nos vemos luego.
+0036 [Iris] | Bien. Nos vemos en la noche.
+0037 [Noya] | ¡Esta noche, a darnos un banquete!
+0038 [Amber] | Volvemos pronto.
+0039 [Narración] | Y así, las tres chicas del Gremio de la Nueva Estrella se perdieron entre las bulliciosas calles de Cangwu.
+0040 [Tú] | Ha pasado toda la noche y sigo sin saber nada de ellas.
+0041 [Iris] | Ya conseguimos el encargo.
+0042 [Amber] | Ayudando con una entrega.
+0043 [Noya] | ¡Lo terminamos en un santiamén!
+0044 [Tú] | Entendido.
+0045 [Tú] | ¿Ya terminaron?
+0046 [Tú] | Se está haciendo tarde. ¿Van a volver esta noche?
+0047 [Tú] | ¿Pasó algo? No puedo comunicarme con ninguna de ustedes.
+0048 [Tú] | Respondan en cuanto vean esto, por favor.
+0049 [Tú] | Estoy muy preocupado.
+0050 [Tú] | Las llamadas no entran y los mensajes siguen sin respuesta.
+0051 [Tú] | Ni siquiera el personal de la Casa de los Trekkers las ha visto.
+0052 [Tú] | ¿No dijeron que tomaron el encargo allí?
+0053 [Tú] | Supongo que debo reportarlo...
+0054 [Tú] | Para llegar a la Oficina Baize...==W== ¿Voy por aquí, o era por allá?
+0055 [???] | Vaya, vaya. Pero si es mi adorable asistente.
+0056 [Tú] | ¿Eh?
+0057 [Narración] | Sigo la voz. Las calles de Cangwu están tan animadas como siempre.==W== Pero entre las vistas festivas, destaca una figura conocida, aunque llamativa.
+0058 [Opción] | ¿Coronis?
+0059 [Coronis] | No esperaba verte aquí. Considéralo una grata sorpresa de las fiestas.
+0060 [Opción] | ¿Qué te trae por aquí?
+0061 [Opción] | Y... ¿qué es lo que llevas puesto?
+0062 [Coronis] | Recibí una invitación, así que decidí tomarme unas vacaciones aquí en Cangwu.
+0063 [Opción] | Ya veo...
+0064 [Coronis] | ¿Qué sucede? ¿Mi atuendo te distrae?
+0065 [Opción] | N-no, para nada...
+0066 [Tú] | ¡¡Ni siquiera sé dónde se supone que debo mirar!!
+0067 [Coronis] | Lo mandé hacer a la medida.
+0068 [Coronis] | A donde fueres, haz lo que vieres: en Cangwu, hay que vestir como los Loong. Eso es parte de la diversión, ¿no crees?
+0069 [Coronis] | Me permite mezclarme con el entorno. Prefiero no llamar la atención innecesariamente.
+0070 [Tú] | ¡No, ahora destacas todavía más!==W== Todos te están mirando...
+0071 [Coronis] | Pareces muy intrigado. ¿Quieres que te lleve con el sastre? Podríamos mandar a hacerte un atuendo a ti también.
+0072 [Opción] | Qué amable... Pero paso.
+0073 [Coronis] | ¿En serio? Qué lástima. Tenía curiosidad de ver cómo te verías con la moda de Loong.
+0074 [Coronis] | Ya que ambos estamos aquí, ¿por qué no caminamos juntos? Podrías guiarme por los lugares de Cangwu...
+0075 [Coronis] | O eso quisiera decir. Pero tengo asuntos urgentes que atender.==W== ==PLAYER_NAME==, ¿sabes cómo llegar a la Oficina Baize?
+0076 [Tú] | ¿Tú también vas a la Oficina? Perfecto. De hecho, yo voy para allá ahora mismo.
+0077 [Coronis] | ¿«También»? ¿Pasó algo?
+0078 [Tú] | Sí. Mis amigas, las del Gremio de la Nueva Estrella, desaparecieron.
+0079 [Coronis] | Qué coincidencia.==W== Yo tampoco puedo comunicarme con Jinglin.
+0080 [Tú] | ¿Qué?
+0081 [Shimiao] | Ya veo.
+0082 [Shimiao] | ==PLAYER_NAME== llegó cerca de Cangwu con Noya, Amber e Iris por un encargo, y se detuvieron aquí a descansar y reabastecerse.
+0083 [Shimiao] | Después de llegar ayer, las tres se separaron de usted para tomar un encargo secundario. Desde entonces, ==PLAYER_NAME== perdió contacto con ellas.
+0084 [Shimiao] | En cuanto a la señorita Coronis, conoce a Jinglin desde que atendió a su madre en Philae. Vino aquí de vacaciones por invitación de Jinglin.
+0085 [Shimiao] | Sin embargo, cuando ayer visitó la casa de Jinglin, se enteró de que había salido y nunca regresó.
+0086 [Tú] | Sigo sin poder comunicarme con ninguna. Buscaríamos pistas por nuestra cuenta, pero no conocemos bien Cangwu, ya que Coronis y yo somos nuevos aquí.
+0087 [Shimiao] | Entiendo. Normalmente yo misma encabezaría la búsqueda, pero tengo un asunto oficial urgente del que no puedo apartarme...
+0088 [Shimiao] | Sin embargo, avisaré a mis colegas para que estén atentos. Si surge alguna pista, se la haré saber de inmediato.
+0089 [???] | ¡En ese caso, déjenmelo a mí!
+0090 [Shimiao] | ¿Chixia? ¿Qué haces aquí?
+0091 [Chixia] | Me mandaron a hacer un mandado, ¿qué más?
+0092 [Chixia] | ¡Tara! ¡Contempla la Espada Miaravillosa de Shimiao, pulida y como nueva! ¡Los seniors hasta le añadieron unas mejoras, te van a encantar!
+0093 [Shimiao] | Nuevas mejoras... Bien. Gracias. Por favor, transmite también mis saludos a tus seniors.
+0094 [Chixia] | ¡No es nada!
+0095 [Chixia] | En fin, escuché lo que decían.==W== ¿Amigas desaparecidas? Suena bastante grave.
+0096 [Chixia] | Como Shimiao está atada a su escritorio, ¡yo, la gran Xuan Shi Chixia, los ayudaré a encontrarlas!

@@ -1,0 +1,6 @@
+# Historia de Freesia — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_125_01 | Un duelo de camaradería (Parte I)
+CG_125_02 | Un duelo de camaradería (Parte II)
+CG_125_03 | Un duelo de camaradería (Parte III)

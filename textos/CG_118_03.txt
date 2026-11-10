@@ -1,0 +1,83 @@
+# Historia de Coronis · 3 · Bones Obsession (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_118 | Coronis
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Obsesión con los huesos (Parte III)
+0003 [Intro] | Al despedirse, Coronis te confió un espécimen que había atesorado durante mucho tiempo.
+0004 [Coronis] | Ah, eres tú. Es tarde. ¿Pasa algo? ¿Tuviste una pesadilla?
+0005 [Tú] | Sí... ==W==En mi sueño, planeabas convertirme en un espécimen de esqueleto...
+0006 [Coronis] | Mmm...==W== Quizá en el fondo sí quieres ser un espécimen. Entonces, ¿qué dices? ¿Quieres que haga realidad ese sueño?
+0007 [Tú] | Gracias, pero no, gracias.
+0008 [Coronis] | Je, qué lástima. Bueno, este no es momento para que un paciente ande charlando. Deberías dormir un poco.
+0009 [Tú] | Ya me voy, pero ¿y tú? ¿Por qué no descansas?
+0010 [Coronis] | Todavía es horario de trabajo. Tengo que vigilar de cerca al paciente durante la noche.
+0011 [Tú] | O sea que, aun cuando el paciente duerme de noche, ¿tienes que vigilarlo? Espera, ¿no me digas que yo he estado...?
+0012 [Coronis] | Por supuesto. Si quieres, hasta puedo mostrarte las notas que tomé sobre las cosas vergonzosas que dijiste dormido.
+0013 [Tú] | ¡¿T-tomaste notas?!
+0014 [Coronis] | Soy una doctora de verdad, ¿sabes? Llevo notas detalladas de todo sobre mis pacientes.
+0015 [Coronis] | Basta de charla, eso sí. Si no te duermes pronto, tendré que darte una dosis de somnífero.
+0016 [Coronis] | Casualmente, tengo una medicina especial a la mano: un potente somnífero tan amargo que dejaría inconsciente hasta a un Stellaroid.
+0017 [Narración] | Su expresión suave contradice sus palabras amenazantes.
+0018 [Narración] | Sigue con su atuendo característico de «Demonio de Blanco», con un leve aroma a medicina a su alrededor. Pero en este momento, para mí, parece más un...==W== ángel de la guarda.
+0019 [Tú] | Gracias, Coronis...==W== Gracias a ti, mi estado ha mejorado mucho...
+0020 [Narración] | Tres días después...
+0021 [Tú] | El señor Hal está mucho mejor ahora.
+0022 [Coronis] | ¿El señor Hal?
+0023 [Tú] | El paciente n.º 68...==W== El del síndrome de temblor.
+0024 [Coronis] | Ah, el que rechazaba el tratamiento...==W== Es cuestión de tiempo para que se recupere. Jeje, mi análisis patológico del síndrome de temblor está casi terminado～
+0025 [Coronis] | Fue más fácil de lo que esperaba, lo cual es un poco decepcionante. Aun así, hay algunas cosas interesantes...
+0026 [Coronis] | Por cierto, ese... señor Hal, ¿verdad? Para gente como él, que básicamente se ha recuperado, te dejaré el seguimiento a ti～
+0027 [Tú] | ¿A mí? Debería estar bien, ya que casi se recuperaron,==W== pero probablemente quieran agradecerle en persona a la doctora.
+0028 [Coronis] | No es necesario. No investigo enfermedades para curar a los pacientes.
+0029 [Coronis] | Lo único que realmente quiero es desentrañar los misterios del cuerpo humano. Tratar pacientes es solo parte de ese proceso. Que me den las gracias de hecho me incomoda.
+0030 [Tú] | Aun así, mucha gente del Distrito de las Cenizas te está agradecida. Igual que cuando me ayudaste en Emor, seguro has ayudado a muchos otros también.
+0031 [Coronis] | Ah, me das demasiado crédito～
+0032 [Tú] | ...¿En serio? Bueno, está bien: hoy me encargo yo.
+0033 [Tú] | Pero a cambio, ¿por qué no vuelves a la clínica a descansar? Casi no has dormido estos días, cuidando a todos los internados.
+0034 [Coronis] | Je, eres muy observador. Con esa atención al detalle, quizá naciste para ser médico, o al menos asistente.
+0035 [Narración] | Dicho eso, Coronis se da la vuelta y se despide con la mano antes de regresar a la clínica.
+0036 [Narración] | Unas horas después, termino la visita de seguimiento y regreso a la clínica, y encuentro que la luz de su oficina sigue encendida.
+0037 [Tú] | ¿Otro paciente nuevo? Está muy ocupada. Hay pocas clínicas en el Distrito de las Cenizas.
+0038 [Tú] | Son caras de mantener y Coronis no tiene tarifas fijas. Casi no tiene tiempo de dormir y aun así trabaja tan bien... Es admirable.
+0039 [Narración] | Como soy su asistente, después de todo, debería ir a ayudar...
+0040 [Narración] | Me apresuro hacia la oficina de la clínica. Coronis está sentada en el escritorio, sosteniendo algo que parece importante y murmurando para sí.
+0041 [Coronis] | Qué cráneo tan hermoso. Es tan difícil separarme de él...
+0042 [Tú] | ¿Qué sostienes, Coronis?
+0043 [Coronis] | Ah, ya regresaste. Justo a tiempo. Estaba preparando tu regalo de alta～
+0044 [Coronis] | Mira estos hermosos contornos.==W== Es uno de mis cráneos favoritos.==W==
+0045 [Coronis] | ¿Quizá también puedes apreciar==W== la belleza salvaje de estos colmillos?==W== Y el esfenoides==W== está tan bien conservado.==W== Es un hueso muy delicado,==W== así que es difícil de encontrar.
+0046 [Opción] | Supongo que sí tiene cierta belleza.
+0047 [Coronis] | ¿Verdad? ¿A que sí?==W== Los huesos son evidencia==W== de que un organismo estuvo vivo alguna vez.==W==
+0048 [Coronis] | La carne y la sangre pasan con el tiempo...==W== Los recuerdos son consumidos por los Monolitos...==W== Hasta el alma==W== termina desvaneciéndose==W== con el tiempo.
+0049 [Opción] | Así que lo único que queda son los huesos.
+0050 [Coronis] | Correcto.==W== La única prueba de que alguien vivió alguna vez son==W== sus huesos,==W== su armazón.
+0051 [Opción] | Puedo ver cierto atractivo en eso.
+0052 [Coronis] | Jeje...==W== Me alegra que entiendas la belleza de la vida en su esplendor eterno.
+0053 [Coronis] | ¿Encontraremos contornos de proporción áurea?==W== ¿O encontraremos líneas largas y rectas que se extienden sin fin...?
+0054 [Coronis] | Ooh, solo de pensarlo...==W== Jeje.==W== Casi me estremezco de éxtasis...==W== Jejejeje.
+0055 [Opción] | ... Supongo que lo tomaré como un cumplido.
+0056 [Coronis] | Esos misterios escondidos dentro de tu cuerpo...==W== No puedo esperar a revelarlos==W== algún día.
+0057 [Tú] | Espera. Ya entendí.
+0058 [Tú] | Me estás reteniendo aquí, esperando a que dé mi último suspiro...==W== ¡¿para convertirme en uno de tus especímenes?!
+0059 [Tú] | Por cierto, hace un momento lo llamaste «regalo de alta»...==W== ¿Cómo encaja eso con una enfermedad terminal...?
+0060 [Coronis] | Supongo que eso también es cierto. Pero...==W== ¿Todavía no lo has descubierto?
+0061 [Coronis] | No hay nada terminal en tu caso. Es solo agotamiento y desnutrición, je.
+0062 [Coronis] | A Iris la engañó uno de esos folletos callejeros. Y a ti también.
+0063 [Tú] | Entonces...==W== ¿Entonces por qué me hiciste quedarme?
+0064 [Coronis] | Necesitabas una oportunidad para reiniciar tu cuerpo. Además, no se dan con frecuencia las oportunidades de observar de cerca al Jefe así～
+0065 [Coronis] | Jejeje...==W== Pude habértelo dicho antes, pero hacer visitas a domicilio contigo resultó más divertido de lo que esperaba, así que lo fui posponiendo.
+0066 [Tú] | Ya veo...==W== Me engañaron...
+0067 [Coronis] | Jajaja, perdona por eso. La próxima vez que te enfermes, te daré un descuento: quedamos a mano, ¿sí?
+0068 [Coronis] | Bueno, felicidades por tu recuperación. Estás oficialmente dado de alta.
+0069 [Narración] | Coronis me entrega su regalo de despedida: un cráneo pesado.
+0070 [Narración] | Su mandíbula está ligeramente entreabierta, casi como si me sonriera.
+0071 [Coronis] | Cuídate mucho.
+0072 [Coronis] | Si vuelves a mi clínica con alguna condición aburrida como esta...==W== quizá no pueda resistirme a convertirte en espécimen y guardarte en un lugar donde nadie te encuentre jamás...==W== Para estudiarte despacio.
+0073 [Tú] | Entonces te espera una larga espera. Ahora me siento de maravilla. No voy a caerme muerto pronto.
+0074 [Coronis] | ¿Quién sabe? La parca siempre aparece cuando menos lo esperas. Pero...==W== te creo. Por mucho que tarde, te estaré esperando～

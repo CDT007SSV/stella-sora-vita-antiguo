@@ -1,0 +1,159 @@
+# Capítulo 2 · 5 · Código de Honor
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:White-Haired Girl | Chica de pelo blanco
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_118 | Coronis
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_157 | Guardia Imperial
+N:avg3_196 | Empleada corporativa
+N:avg3_874 | Empleada
+N:avg3_970 | Iris y Amber
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Código de honor
+0003 [Intro] | Tu resistencia natural a la magia anula el hechizo, pero una preocupada Minova te lleva de todos modos a una clínica. Para agradecerte que la alimentaste, Chitose promete convertirse en tu espada.
+0004 [Lugar y hora] | 08:30, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Clínica clandestina
+0005 [Minova] | ¡Doctora! ¡Por favor, tiene que ayudar a ==SEX4==!
+0006 [Tú] | Minova, oye, tranquila. Me siento bien, de verdad.==W== No te alteres.
+0007 [Minova] | ¿Cómo puedes estar ==W==bien?! ==W==¡Te alcanzó esa magia oscura!
+0008 [Minova] | ¡No podemos quedarnos esperando hasta que sea demasiado tarde!
+0009 [Doctor] | Silencio, esto es ==W==una clínica.==W== Ahora,==W== ¿cuál de ustedes es el paciente?
+0010 [Minova] | Es ==SEX4==.==W== Un cuervo... pura magia... ¡se clavó directo en el pecho de ==SEX3==! ¡Cerca del corazón!
+0011 [Minova] | ¡Doctora, por favor! ==W==¡Tiene que examinar a ==SEX4==!
+0012 [Doctor] | Un cuervo mágico. ==W==Qué curioso...==W== Los acompañantes del paciente deben esperar afuera.
+0013 [Minova] | Ah...==W== C-==W==Claro.
+0014 [Minova] | Oiga, eh, ¿doctora?==W== Por favor, tiene que arreglar a ==SEX4==. ==W====SEX1== es muy importante para el Clan Viento de Ceniza.
+0015 [Doctor] | ...==W==...
+0016 [Minova] | Sí, vale. ==W==Ya me voy.
+0017 [Doctor] | Alto. ==W==Toma esto==W==.
+0018 [Minova] | ¿Qué es...? ==W==¿Ungüento?
+0019 [Doctor] | Aplícalo en los hombros y la espalda. Para mañana estará curado.
+0020 [Minova] | Doc, ¿cómo supo que yo...?
+0021 [Doctor] | Se te notaba algo torpe al abrir la puerta.
+0022 [Tú] | Cierto, Minova recibió unos golpes de esos Caballeros Imperiales mientras me traía...
+0023 [Tú] | Esta doctora es buena. Ve las heridas de Minova a través de la capa y la ropa.
+0024 [Doctor] | Normalmente no me molestaría, pero solo estoy prestando este espacio. ==W==No puedo permitir que te lastimes afuera y le des mala fama a la clínica de mi amiga.
+0025 [Minova] | G-gracias... ==W==Es muy buena. Entonces puede ayudar a ==SEX4==, ¿verdad...?
+0026 [Doctor] | Por eso hay que guardar silencio en una clínica.==W== ¿O prefieres ==W==que te cosa esa boca?
+0027 [Tú] | ... ==W==Bien. Más vale no ponerla en mi contra==W==.
+0028 [Coronis] | Permítanme presentarme de nuevo. ==W==Me llamo Coronis.==W== En realidad no me interesa curar a la gente, aunque «doctora» es técnicamente correcto.
+0029 [Tú] | ¿Esta mujer habla en serio?
+0030 [Coronis] | Sin embargo, los casos raros==W== sí me interesan.==W== Un paciente como tú,==W== por ejemplo, afectado por una magia tan fascinante.
+0031 [Tú] | ¿Es tarde para salir corriendo?
+0032 [Tú] | Sí, el pájaro negro como que se esfumó en mi pecho...==W== pero no siento nada. Así que debería estar...==W== ¿bien?
+0033 [Coronis] | Cierto.
+0034 [Tú] | ¡Qué ESCALOFRIANTE! ==W==¿De verdad un chequeo tiene que ser tan de cerca?
+0035 [Coronis] | Extraño.==W== Tus ojos no muestran rastro de...
+0036 [Coronis] | Dame la mano.
+0037 [Tú] | ...==W== ¿Está bien así?
+0038 [Coronis] | Raro.==W== Ni siquiera los diagnósticos de Loong detectan flujo de magia.==W== Una magia tan potente debería mostrar algo.
+0039 [Coronis] | La magia que te alcanzó es genuinamente fascinante.
+0040 [Tú] | Bueno, en realidad,==W== yo...
+0041 [Empleada] | Lo sentimos mucho. Hicimos un diagnóstico completo y su constitución es... bueno, muy inusual. Su cuerpo es inmune a la magia.
+0042 [Empleada] | Así es. Quizá no lo sabía, pero su cuerpo no puede usar magia. Sin magia, su alma no puede resonar con el Agua de la Gracia, así que no se puede hacer ninguna Piedra del Alma.
+0043 [Coronis] | Sin resonancia con el Agua de la Gracia... inmunidad total a la magia...==W== No creía que fuera posible.
+0044 [Tú] | ¿Soy solo una rata de laboratorio para ella?
+0045 [Coronis] | Notable. Absolutamente notable. Es imperativo que me convierta en tu médica personal.
+0046 [Tú] | ¡Genial, acabo de despertar más su interés!
+0047 [Tú] | ¿No acabas de decir que no te interesaba curar gente?
+0048 [Coronis] | Correcto. ==W==Sin embargo, tu fisiología única despierta mi interés.
+0049 [Coronis] | Sin trauma externo, órganos intactos, signos vitales estables...==W== y aun así completamente nulo a la magia. Ni siquiera la percibes.
+0050 [Coronis] | Un sujeto tan notable... Debes permitirme estudiarlo más a fondo.
+0051 [Tú] | ¡Oye! ¡Acabas de decir en voz alta lo que debías callar!
+0052 [Tú] | Jaja... ==W==Entonces, si en realidad no me pasa nada, supongo que ya puedo irme, ¿no?
+0053 [Coronis] | No.==W== Te recomiendo que te internes. En observación. Sería conveniente.
+0054 [Tú] | ¡¿Podrías ser más obvia con lo que realmente buscas?!
+0055 [Coronis] | Jeje.==W== Es broma.
+0056 [Coronis] | Llevas toda la noche despierto y las calles están plagadas de caballeros que te buscan.==W== Descansa un poco antes de salir.
+0057 [Lugar y hora] | 09:45, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Clínica clandestina
+0058 [Noya] | ==PLAYER_NAME==, tómatelo con calma y descansa.==W== Iremos al club==W== a ver qué hay.
+0059 [Tú] | Cuento con ustedes.==W== Por cierto, ¿dónde está Minova?
+0060 [Iris] | Está afuera.==W== Probablemente sea mejor darle espacio.
+0061 [Amber] | No deja de murmurar que es una inútil porque no pudo protegerte... cosas así.
+0062 [Amber] | Sí... Mejor dejémosla tranquila por ahora.
+0063 [Amber] | 
+0064 [Amber] | Seguro no quiere que la veas así de decaída.
+0065 [Tú] | Ah... No me di cuenta de que le estaba afectando tanto que yo recibiera el golpe por ella.
+0066 [Amber] | No te preocupes, ==PLAYER_NAME==. Ya se me ocurrirá algo para animarla y que se levante.
+0067 [Tú] | Está bien... Cuento contigo.
+0068 [Amber] | ¡Sí! ¡Le voy a recordar cómo esquivaste a ese Stellaroid enorme aun con amnesia, y cómo aguantaste la respiración muchísimo tiempo dentro de esa Caja de Deseos!
+0069 [Amber] | 
+0070 [Amber] | ¿Un poquito de magia como esa? ¡Imposible que de verdad te lastime!
+0071 [Tú] | ¿De verdad esa es la forma normal de consolar a alguien?
+0072 [Tú] | Aunque, dado todo lo que ha pasado...==W== quizá no soy el mejor juez de lo «normal» ahora mismo.
+0073 [Narración] | Miro hacia el otro lado de la habitación. Una chica de cabello oscuro duerme plácidamente bajo mantas cuidadosamente dobladas.
+0074 [Narración] | En el destello de un choque, frente a mí había puntas relucientes de varias lanzas muertas, afiladas y silenciosas...
+0075 [Tú] | Tú eres...
+0076 [???] | Mis disculpas por la demora, mi ==SEX11==.
+0077 [Tú] | Y luego simplemente... siguió a Noya y a las demás hasta la habitación.
+0078 [Tú] | Y ahora está ahí tendida como si fuera lo más normal del mundo.
+0079 [Noya] | Dijo que es tu espada, así que la dejamos acompañarnos.==W== Es increíble para el hackeo.
+0080 [Iris y Amber] | Cierto.
+0081 [Tú] | ¿Y todas están de acuerdo con esto?
+0082 [Chitose] | Soy Chitose, la espada forjada solo para ti.
+0083 [Chitose] | Como tu espada, mi ==SEX11==,==W== naturalmente debo permanecer al alcance.
+0084 [Tú] | Ah, ¿no estabas dormida?
+0085 [Chitose] | Una espada no duerme.==W== Además,==W== sentí el llamado de la intensa mirada de mi ==SEX11==.
+0086 [Tú] | Mi mirada definitivamente no era «intensa»...==W== Y==W== ¿por qué hablas de forma tan extraña?
+0087 [Tú] | Gracias por ayudar antes. ==W==Eh, ==W==¿puedo preguntarte algo?
+0088 [Tú] | ¿Por qué sigues llamándote espada?
+0089 [Chitose] | No me llamo simplemente espada.==W== Soy una espada.
+0090 [Tú] | ¿Eh?
+0091 [Opción] | Escucharla
+0092 [Opción] | Cuestionarla
+0093 [Opción] | Creerle
+0094 [Tú] | En combate usas una espada.==W== Si eres una espada, ¿cómo puede una espada empuñar otra?==W== No tiene sentido...
+0095 [Chitose] | Eso es solo porque mi entrenamiento aún está incompleto.==W== Me falta la fuerza para cortar las lanzas sin ayuda.
+0096 [Chitose] | Los objetos pequeños los corto con facilidad.
+0097 [Narración] | Chitose recoge un trozo de papel caído y lo lanza suavemente al aire.
+0098 [Narración] | Usando solo el borde de la mano, corta el papel en dos.
+0099 [Tú] | ¿Escondes un cuchillo en la mano o algo así?
+0100 [Chitose] | Los viejos pergaminos dicen:==W== «Con la hoja sostenida en el corazón, cualquier cosa puede ser filo».
+0101 [Chitose] | Con concentración absoluta, cortar cosas con el cuerpo no es difícil.==W== Por ahora, sin embargo,==W== solo puedo cortar objetos más blandos.
+0102 [Tú] | Lógicamente, eso tiene que ser magia, ¿no?
+0103 [Tú] | Pero explicarlo sería un fastidio. Mejor me callo.
+0104 [Tú] | Aun así, a mí me pareces una persona normal.
+0105 [Chitose] | Mis disculpas. Es solo prueba de que mi entrenamiento todavía es insuficiente.
+0106 [Tú] | Entonces quieres decir...==W== ¿cuando hayas entrenado lo suficiente, te convertirás en una espada de verdad?==W== ¿Como las que llevas?
+0107 [Chitose] | Correcto. Actualmente estoy en un viaje de templado.==W== Algún día me convertiré en una espada completa.
+0108 [Chitose] | Por eso te ruego que me permitas servirte en esta forma.
+0109 [Tú] | Parece que llamarse «espada» es cosa suya.==W== Supongo que por ahora lo aceptaré.
+0110 [Tú] | Mmm,==W== como quiera que le guste que la llamen está bien.==W== En realidad no cambia nada.
+0111 [Tú] | Eres toda una espada, entonces.==W== Muy impresionante,==W== enfrentar sola a todos esos caballeros.
+0112 [Chitose] | Tú...==W== ¿crees que soy una espada?
+0113 [Tú] | Pues sí. ¿No es lo que has estado diciendo?
+0114 [Chitose] | N-no, quiero decir... Es solo que...==W== eres la primera persona en aceptarlo tan fácilmente.
+0115 [Chitose] | Verdaderamente debes ser a quien el destino me guió.
+0116 [Tú] | Cierto, mejor dejar de lado todo este asunto de la espada...
+0117 [Tú] | Vale, pero...==W== ¿por qué me llamas «mi ==SEX11==»?==W== ¿Y por qué sigues diciendo que eres «mi espada»?
+0118 [Chitose] | Porque tú, mi ==SEX11==,==W== eres la única que he conocido==W== con el carácter para ser mi portador.
+0119 [Tú] | Espera, ¿nos hemos visto antes?==W== ¿Se referirá a...
+0120 [Tú] | Me da pena dejarla aquí, pero dejémosle algo de comida y vayamos primero al orfanato.
+0121 [Tú] | No tengo mucha hambre. Puede quedarse con la mitad de mi ración.
+0122 [Tú] | Oye, ¿no nos hemos visto antes? ¿En el Canal, quizá?
+0123 [Chitose] | Ah, sí, ahora lo recuerdo todo.
+0124 [Chitose] | Por fin recuerdas. No conseguía encargos y me quedé varada en las calles.==W== No podía pagar aceite para hojas, así que me oxidé hasta quedar rígida.
+0125 [Chitose] | Fuiste tú, mi ==SEX11==, quien permitió que esta hoja volviera a desenvainarse.
+0126 [Tú] | Sí, presentarte así seguramente hace difícil conseguir trabajo.
+0127 [Tú] | En fin,==W== entiendo. ¿Cuál es tu plan ahora?
+0128 [Chitose] | Permanecer a tu lado, mi ==SEX11==.
+0129 [Chitose] | No seré una molestia.==W== En verdad... te he estado siguiendo desde que fui desenvainada.
+0130 [Tú] | Así que esa sensación de ser observado...==W== era ella.
+0131 [Chitose] | Mi ==SEX11==,==W== ¡cuidado!
+0132 [Tú] | (tose) ==W==Chitose, ¿qué pasa?
+0133 [Chitose] | Los caballeros nos encontraron.
+0134 [Chica de pelo blanco] | Vaya, vaya.==W== Así que aquí se escondían.

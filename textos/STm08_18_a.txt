@@ -1,0 +1,249 @@
+# Capítulo 8 · Calor residual · Recuerdo · Feliz cumpleaños Ⅱ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Brave Sentinel of Dawn | Centinela del Alba valiente
+N:Calm Knight | Caballero sereno
+N:Captured White Cat | Gato Blanco capturado
+N:Confused Sentinel of Dawn | Centinela del Alba confundido
+N:Fierce Knight | Caballero feroz
+N:Freed White Cat | Gato Blanco liberado
+N:Homeless Kid | Niño sin hogar
+N:Hungry Kid | Niño hambriento
+N:Panicked Sentinel of Dawn | Centinela del Alba aterrado
+N:Sentinel of Dawn Commander | Comandante de los Centinelas del Alba
+N:Starved Kid | Niño famélico
+N:Supporting Sentinel of Dawn | Centinela del Alba de apoyo
+N:Taffett | Taffett
+N:Tied-up White Cat | Gato Blanco atado
+N:Vigilant Sentinel of Dawn | Centinela del Alba vigilante
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_139 | Allie
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_1313 | Allie
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_157 | Guardia Imperial
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_181 | Narida
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Recuerdos
+0002 [Intro] | Feliz cumpleaños Ⅱ
+0003 [Intro] | Taffett tenía varios trabajos para mantener a las niñas, pero con los asesinos cada vez más cerca, pensó en dejarlas para mantenerlas a salvo. Narida propuso usar el Monolito para borrar sus recuerdos de la Compañía del Gato Blanco...
+0004 [Narración] | Año 987 del Calendario Monolítico
+0005 [Lugar y hora] | 11:50, 17.º del mes de Sonus, Distrito de las Cenizas de Emor, Calle sin nombre
+0006 [Iris] | Aquí tienen: pan blanco y sopa de verduras.==W== Cuidado,==W== está caliente.
+0007 [Amber] | Alcanza para todos.==W== No empujen.
+0008 [Hungry Kid] | Está buenísimo...
+0009 [Homeless Kid] | Hace muchísimo que no comía algo caliente...==W== Snif...
+0010 [Starved Kid] | Mmf, mmf...==W==
+0011 [Noya] | ¡Iris, se está ahogando!==W== ¡Agua!
+0012 [Iris] | ¡Agua de manantial,==W== fluye!
+0013 [Starved Kid] | Glu, glu...==W==ah... Estoy bien. Perdón, comí demasiado rápido.==W== Es que... no había comido en tres días.
+0014 [Iris] | ¡¿T-tres días...?!==W== Entonces por ahora solo toma sorbitos de sopa. Llevas demasiado tiempo sin comer. Si te comes todo ese pan, te vas a enfermar.
+0015 [Noya] | Iris, ahora hay muchos más niños aquí afuera.==W== Vienen por comida por lo menos...==W== una docena más que la semana pasada.
+0016 [Iris] | Últimamente cerraron un montón de orfanatos. Unos cuantos niños con suerte consiguieron familias de acogida, pero los demás no tienen adónde ir. Se quedaron atrapados en la calle.
+0017 [Amber] | Son esos soldados de blanco. Los adultos dicen que están cazando a la Compañía del Gato Blanco, así que van tras cualquier orfanato relacionado con ellos.
+0018 [Noya] | Qué bueno que solo somos niñas que mamá acogió y no un orfanato de verdad. No vendrán por nosotras... ¿Verdad?
+0019 [Iris] | ¡Shh! No le digas «mamá». Tienes que decirle...==W==
+0020 [Amber] | Tía.
+0021 [Noya] | Ah, cierto. Los niños de los orfanatos de los Gatos Blancos siempre dicen «mamá». No debemos levantar sospechas...==W== Así que solo «tía».
+0022 [Noya] | ¿Crees que la tía podría ayudar a estos niños?==W== Después de todo,==W== nos acogió a Amber y a mí.
+0023 [Iris] | No.==W== Me dan mucha lástima, pero hice las cuentas a escondidas...==W==
+0024 [Iris] | La tía ya se agota todos los días con sus trabajos de costura,==W== y aun así el Dorra que gana==W== apenas alcanza para alimentarnos.
+0025 [Amber] | ¿Podemos, conseguir trabajo?
+0026 [Iris] | ¿No ya habíamos hablado de esto?==W== Los niños de nuestra edad no pueden conseguir trabajos de verdad.
+0027 [Iris] | Cuando le pregunté a la tía, solo me dio la llave del sótano y nos dijo que nos concentráramos en estudiar. Eso me dice que, por mucho que lo intentemos, solo somos niñas. No podemos ganar el Dorra que necesitamos.
+0028 [Noya] | Tienes razón. Aunque intentemos cuidar tiendas... o hacer mandados...
+0029 [Amber] | O==W== limpiar.
+0030 [Noya] | Las tres trabajamos una semana entera,==W== y la comida que ganamos apenas alcanzó para una comida para todos los de aquí.
+0031 [Iris] | Ay... Ganar Dorra es difícil.
+0032 [Noya] | Ay... Conseguir una comida completa es difícil.
+0033 [Amber] | Ay... Ser adulto es difícil.
+0034 [Narida] | Todavía son unas niñas, pero ya intentan ayudar.==W== Taffett, tus niñas tienen muy buen corazón.==W== ¿Cómo lo lograste? ¿Tienes algún secreto que quieras compartir?
+0035 [Narida] | Tengo una hermanita, Benito, de lo más dulce. Pero nos llevamos tantos años que, la verdad, no sé bien cómo hablar con ella.
+0036 [Taffett] | ¿Secretos? Bueno...==W== Después de enseñarles defensa personal básica, dejé por completo de enseñarles a pelear.
+0037 [Taffett] | Al final, depende de ellas decidir quiénes quieren ser. Así que le di a Iris la llave del sótano. Ahí están guardados los libros y tesoros de Su Majestad.
+0038 [Narida] | Vaya. ¿Dejar que lo descubran solas?==W== Entonces creo que iré a casa a ver qué es lo que Benito de verdad quiere hacer.
+0039 [Taffett] | Sí, yo también me sorprendí.==W== Son mucho más maduras de lo que creía.==W== Ahora hacen casi todo el quehacer, así que puedo descansar un poco cuando llego a casa.
+0040 [Narida] | No, no.==W== Eso es solo porque entre más intentas limpiar, más se ensucia el lugar. Seguro ya no lo aguantaban...==W==
+0041 [Taffett] | Ejem... Dejemos eso.==W== Narida, ¿conoces alguna forma de ganar mucho Dorra rápido?==W== Mi trabajo de costurera apenas cubre los gastos.
+0042 [Narida] | ¿Apenas? Te pasas los días cosiendo ropa y las noches cosiendo heridas. Mantienes a flote a una familia de cuatro; eso es bastante buen dinero para el Distrito de las Cenizas.
+0043 [Narida] | Hasta yo, que ando huyendo, he oído hablar del famoso «Gato de Patas Negras».
+0044 [Taffett] | ¿Gato de Patas Negras?==W== ¿Esa soy yo?
+0045 [Narida] | Sí.==W== Dicen en la calle que cuando se pone el sol,==W== una dama con elegantes zapatos de cuero negro se desliza por los callejones como un fantasma. Como una gata.
+0046 [Narida] | Remienda ropa, cura heridas==W== y, como si nada, acaba con las pandillas callejeras.==W== Andar de noche es más seguro que nunca.
+0047 [Narida] | Su estilo le recuerda a la gente a esos gatos de patas negras del desierto:==W== pequeños, pero feroces.==W== Así que el nombre se quedó.
+0048 [Taffett] | Qué apodo tan raro...==W== Espera, otra vez estás cambiando el tema.==W== Gano lo suficiente, pero en realidad solo alcanza para mantener a las tres niñas...
+0049 [Narida] | Bueno, sí conozco una forma de ganar mucho Dorra: ¡vamos a asaltar Finanzas del Mar Profundo!
+0050 [Taffett] | Deja de bromear. Eso nos pondría en la mira del Imperio de la Gracia.
+0051 [Narida] | Ah, ¿así que te preocupa que te descubran?
+0052 [Taffett] | Eh... ¿Y eso qué...?
+0053 [Narida] | La de antes nunca habría aceptado un trabajo tan llamativo. ¿Y encima te ganaste el apodo de «Gato de Patas Negras»? Eso prácticamente grita «Gato Blanco». ¿Le estás rogando a los Centinelas del Alba y a la Guardia Imperial que vengan a tocar tu puerta?
+0054 [Narida] | Y sí, siempre te dieron lástima los niños de la calle, pero nunca hiciste nada. Sabías que no podías. Eras una soldado en una misión; no podías salvar a todos.
+0055 [Narida] | Pero ahora de verdad estás intentando averiguar cómo ganar más Dorra por el bien de alguien más. De verdad cambiaste, Taffett.
+0056 [Taffett] | No es que...==W== No, tienes razón.==W== Tú estás allá afuera peleando con los Gatos Blancos, y yo aquí escondida, jugando a ser madre. Quizá ya no merezco llamarme soldado.
+0057 [Narida] | Oye, quizá eso no sea algo malo. Para las niñas, es...==W==shh. ¿Oyes eso? Pasos.==W== La Guardia Imperial viene directo hacia nosotras.
+0058 [Taffett] | La Guardia... Narida, llévate a las niñas y corre. Yo los detengo.
+0059 [Narida] | Déjamelo a mí. Seguramente es solo una ronda de rutina, así que no empieces una guerra. Solo saldré, les mostraré la carnada perfecta y vendrán tras de mí.
+0060 [Taffett] | Narida...==W==
+0061 [Narida] | Me debes una. Y oye...==W== De verdad me gusta esta nueva tú.
+0062 [Taffett] | ¿Eh?==W==
+0063 [Narida] | Mete a las niñas y cierra con llave.==W== Se te acaba el tiempo, Taffett.==W== Si quieres mantenerlas a salvo, tienes que tener un plan para cuando yo regrese.
+0064 [Narración] | En cuanto Taffett mete a los niños de la calle, estalla un intenso tiroteo en la cuadra de al lado.
+0065 [Taffett] | ¿Qué se supone...==W== que debo hacer?
+0066 [Narración] | Esa noche, después de que las niñas por fin se durmieron, me quedé despierta durante horas, dándole vueltas a todo.
+0067 [Narración] | Soy un Gato Blanco. Aunque haya pasado esos últimos años jugando a la casita, eso no cambia quién soy.
+0068 [Narración] | Fui cuidadosa. No dejé rastros. Pero los recuerdos siguen guardados en mi cabeza; nunca se borraron.
+0069 [Narración] | La Compañía usa magia de interrogatorio para extraer recuerdos. Como el Árbitro del Ocaso ya capturó a suficientes de nosotros, seguro ya aprendió el truco.
+0070 [Narración] | Si me quedo, tarde o temprano me encontrarán, y estaría arrastrando a las niñas conmigo para nada.
+0071 [Narración] | Entonces... creo que sé lo que debo hacer...
+0072 [Narración] | Me iría de este lugar, o me iría de este mundo por completo.
+0073 [Narración] | Y de paso, tengo que alejar sus miradas del Distrito de las Cenizas para siempre.
+0074 [Narración] | Año 987 del Calendario Monolítico
+0075 [Lugar y hora] | 18:00, 21.º del mes de Sonus, Distrito de las Cenizas de Emor, casa de seguridad
+0076 [Narida] | ¿Taffett? ¿Lista para irnos?
+0077 [Taffett] | Cuando quieras.
+0078 [Noya] | Mamá, ya está oscureciendo.==W== ¿De verdad vas a salir?
+0079 [Taffett] | Escúchame, Noya.==W== Esta noche tengo un trabajo importante que hacer. Ustedes tres quédense adentro==W== y no le abran la puerta a nadie. ¿Entendido?
+0080 [Iris] | Pero, mamá...==W== Dijiste que esta noche te ibas a quedar en casa con nosotras. Lo prometiste.
+0081 [Taffett] | Es importante. No lo hagan más difícil.==W== ¿Y qué les dije? Dejen de decirme así.
+0082 [Amber] | Entonces...==W== Te vamos a esperar.
+0083 [Taffett] | Voy a llegar tarde. Pongan las trampas y váyanse a dormir.==W== No se desvelen.
+0084 [Iris] | P-pero...==W== La última vez que Narida y tú tuvieron «trabajo», se fueron por días.==W== No sabíamos si ibas a volver.
+0085 [Taffett] | Así son las cosas.
+0086 [Taffett] | ¿Y qué es ese fuego en la cocina?==W== ¿Otra vez les están dando de comer a los niños del Distrito de las Cenizas?
+0087 [Taffett] | Saben que esos soldados de blanco se están llevando a la gente de las calles. Dejen de llamar la atención. Noya, apaga ese fuego. Ya.
+0088 [Noya] | Pero... lo estábamos haciendo para ti, mamá...==W==
+0089 [Taffett] | Noya,==W== ¡deja de decirme mamá!==W== ¡¿Cuántas veces te lo tengo que decir?!
+0090 [Noya] | ¡Buaaa!==W== ¡Ma...==W==la tía ya no nos quiere!
+0091 [Taffett] | No,==W== p-perdón...==W== No quise decirlo así. Yo... no lo decía en serio.
+0092 [Amber] | Mientes. Mentirosa.
+0093 [Iris] | Es que no quieres ser nuestra mamá. Dices que es «trabajo», pero la bolsa que llevas es enorme. No vas a volver esta noche, ¿verdad?
+0094 [Iris] | Como todos los demás padres del Distrito de las Cenizas. Cuando las cosas se ponen difíciles, simplemente se van. Y no regresan.
+0095 [Amber] | T-tengo miedo.
+0096 [Noya] | ¡Bueno! ¡Entonces ya no eres nuestra mamá! De ahora en adelante, solo eres la tía. ¡Tía, tía, tía, tía!
+0097 [Taffett] | No es lo que quise decir...==W== Está bien. Lo prometo. No importa qué tan tarde sea, ¡volveré antes del amanecer!==W== Solo esta vez...==W== Por favor, créanme.
+0098 [Lugar y hora] | 22:00, 21.º del mes de Sonus, Distrito de Oro de Emor, prisión secreta
+0099 [Narida] | Lado izquierdo despejado.
+0100 [Taffett] | Lado derecho despejado.
+0101 [Narida] | El convoy de prisioneros de la Guardia Imperial viene esta noche. Los vamos a emboscar aquí.
+0102 [Taffett] | Narida, necesito estar segura. ¿Van a traer aquí juntos a todos los Gatos Blancos capturados en Emor?
+0103 [Narida] | Así es. En cuanto los saquemos, los Gatos Blancos nos retiraremos de Emor y de las demás ciudades. Nos reagruparemos en Mirage y seguiremos peleando contra la nueva emperatriz.
+0104 [Taffett] | ¿Por qué Mirage? Está apartada, pero los suministros escasean y el desierto nos aísla.==W== Si nos rodean, nuestras tácticas de guerrilla no servirán de nada.
+0105 [Narida] | Porque... Su Majestad ordenó a todos los Gatos Blancos, excepto a ti, sellar el Monolito de Mirage.==W== Nadie tiene permitido entrar.
+0106 [Taffett] | Pero ese Monolito no tiene entrada. Es imposible entrar.
+0107 [Narida] | Cierto, pero el Imperio de la Gracia mandó a mucha gente a Mirage. Lo han estado estudiando. Quizá encontraron una entrada oculta.
+0108 [Narida] | Los Gatos Blancos que quedan hicieron reuniones. Todos insisten en cumplir la última orden de Su Majestad. No tenemos más remedio que resistir.
+0109 [Narida] | Pero ¿y tú? ¿Estás bien? Esa pelea con las niñas fue la primera para ti, ¿no?
+0110 [Taffett] | Estoy bien. Desde que me dijiste que tenía que tomar una decisión, he estado pensando. Y mi decisión es...==W==
+0111 [Taffett] | Después de esta noche, me voy de Emor con los Gatos Blancos. Así las niñas no se ven arrastradas a esto, y yo alejo a los que nos buscan.
+0112 [Narida] | ¿De verdad puedes dejar atrás a esas niñas?
+0113 [Taffett] | Saben cuidarse solas. El Árbitro del Ocaso tiene a la Guardia Imperial haciendo una búsqueda exhaustiva en el Distrito de las Cenizas. Podrían aparecer cualquier día.
+0114 [Taffett] | Que yo me vaya de Emor es lo mejor para ellas. Al menos...==W== eso pensaba hasta esta noche.
+0115 [Narida] | ¿Y ahora...?
+0116 [Taffett] | Narida, en cuanto rescatemos a todos y consigamos la información, llévate a los Gatos Blancos y retírense. Yo voy a la catedral, donde está el Árbitro del Ocaso.
+0117 [Taffett] | Si acabo con todos los árbitros que conocen el hechizo de extracción de memoria, podré quedarme en Emor sin peligro.
+0118 [Narida] | Taffett, ¿sabes lo estricta que es la seguridad en esa catedral? Quizá logres matar a todos los árbitros, pero también morirás en el intento.
+0119 [Taffett] | Los muertos no hablan...==W== Mientras eso proteja a esas niñas, me parece bien.
+0120 [Taffett] | Pero pase lo que pase, no... no quiero dejarlas. Y no soy tan tonta como para tirar mi vida por nada.
+0121 [Narida] | ¿El Gato Blanco que se ganó el nombre en clave de Taffett por ser la más fuerte está dispuesta a arriesgarlo todo para cuidar a unas niñas?==W== Aun así, entiendo por qué te sientes así.
+0122 [Narida] | Cuando me enteré de que ibas a ser mamá, me moría de envidia. Pensaba: ¿por qué Taffett, la loca de las batallas? ¡Yo lo haría mucho mejor!
+0123 [Taffett] | Nunca lo habría imaginado.
+0124 [Narida] | Es porque soy buena para ocultarlo.
+0125 [Narida] | Lógicamente, habría tenido más sentido que yo cuidara a las niñas mientras tú guiabas a los Gatos Blancos a custodiar el Monolito de Mirage. Habría aprovechado nuestras fortalezas.
+0126 [Narida] | Pero al verte con esas niñas, por fin lo entendí. Cuando éramos pequeñas, no estabas obsesionada con pelear porque lo disfrutaras...==W==
+0127 [Narida] | ... Era tu forma de proteger a las personas que querías.
+0128 [Narida] | Si te lo pidieran, hasta alterarías tu propia mente por ellas.
+0129 [Taffett] | Me das demasiado crédito. No pensé tan a futuro. Solo...==W== hice lo que había que hacer. En el orfanato, nadie más quería pelear, así que di un paso al frente.
+0130 [Narida] | Su Majestad... por fin entiendo su plan.==W== Esta es la única forma de reescribir el destino para mí, para Taffett==W== y para los Gatos Blancos.
+0131 [Taffett] | ¿Eh? ¿De qué hablas, Narida? No te entiendo.
+0132 [Narida] | Ah, de nada. Ay... No tienes remedio. Dejarte morir en una pelea sin sentido con el Árbitro del Ocaso arruinaría todo el propósito del plan de Su Majestad.
+0133 [Narida] | Conozco una forma de vencer su hechizo de extracción de memoria, pero tiene un precio muy alto.
+0134 [Taffett] | No me importa. Mientras pueda quedarme con esas niñas,==W== haré lo que sea.
+0135 [Narida] | Me alegra oírlo. Mira, si el Árbitro del Ocaso sospecha, usará ese hechizo contigo.==W== Pero si borras de tu memoria todo rastro de los Gatos Blancos antes, saldrás limpia.
+0136 [Taffett] | Entonces... ¿basta con que olvide por completo a la Compañía del Gato Blanco? ¿Siquiera es posible escoger qué recuerdos pierdes?
+0137 [Narida] | Si se puede, no sé cómo. Además, la amnesia normal solo entierra las cosas en lo profundo del cerebro. La magia todavía puede desenterrarlas.
+0138 [Narida] | Para un borrado completo, solo hay una opción. El Monolito.
+0139 [Taffett] | Pedir un deseo... y ofrecer mis recuerdos como pago...==W== Pero creí que no se puede escoger lo que te quita.
+0140 [Narida] | No se puede. Pero aprendí un truco muy bueno de los Trekkers.
+0141 [Narida] | Primero, escribe en un cuaderno todo lo que quieras conservar. Luego pide deseos sin parar. Repasa tus notas después de cada deseo.
+0142 [Narida] | Así, los recuerdos que quieres se refuerzan, y los que no, terminan borrándose. Dicen que algunos Trekkers reescribieron por completo su personalidad así.
+0143 [Taffett] | Tiene sentido.==W== Entendido. Empiezo a escalar mañana.
+0144 [Narida] | Decidida como siempre. Entonces ajustemos nuestro plan.
+0145 [Taffett] | ¿Eh?
+0146 [Narida] | Reescribir tu memoria así va a tomar tiempo.==W== Tenemos que armar un escándalo enorme y hacer que todos los Árbitros del Ocaso y la Guardia Imperial salgan de Emor detrás de mí.==W== Hacerles creer que los Gatos Blancos dieron un último golpe y se largaron de la ciudad para siempre.
+0147 [Narida] | Olvida la emboscada. ¡Salgamos a las calles a hacer ruido!
+0148 [Lugar y hora] | 23:30, 21.º del mes de Sonus, Distrito de las Cenizas de Emor, puerto
+0149 [Fierce Knight] | ¡Muévanse, traidores!
+0150 [Captured White Cat] | ¡Somos la guardia personal de Su Majestad! ¡¿Con qué derecho nos arrestan?!
+0151 [Fierce Knight] | ¡Malditos regicidas! ¡¿Todavía se atreven a contestar?!
+0152 [Calm Knight] | ¡Basta! ¡Somos caballeros, no verdugos!
+0153 [Fierce Knight] | Hmph. Considérense afortunados por ahora. Las celdas están justo adelante. Ustedes, gatos locos, pueden quedarse quietecitos esperando el patíbulo.==W== Nadie vendrá a salvarlos.
+0154 [???] | No estés tan seguro. ¡Los refuerzos ya llegaron!
+0155 [Captured White Cat] | ¡Capitana Narida!
+0156 [Narida] | ¡Vengan, latas oxidadas! ¡Coman plomo de Gato Blanco!
+0157 [Calm Knight] | ¡Formen filas! ¡Mantengan la línea!==W== Vienen refuerzos. ¡Los Centinelas del Alba llegarán en cualquier momento!
+0158 [Tied-up White Cat] | ¡Capitana, no se acerque! ¡Es una trampa!==W== ¡Nos están exhibiendo para hacerla salir!
+0159 [Narida] | Así que tendieron una red.==W== Pero==W== ¿de verdad creen que pueden detener a un Gato Blanco cuando pelea en serio?
+0160 [Supporting Sentinel of Dawn] | ¡Rápido, rápido, rápido! ¡Tiroteo en el puerto! Los Gatos Blancos están montando un rescate. ¡Acorrálenlos y acaben con todos!
+0161 [Confused Sentinel of Dawn] | ¡Agh! ¡Me dieron! ¿De dónde vino eso?
+0162 [Supporting Sentinel of Dawn] | ¿No se oyen disparos?==W== ¡Formación defensiva! ¡Localicen a ese francotirador!
+0163 [Panicked Sentinel of Dawn] | ¡No los vemos!==W== ¡Se mueven demasiado rápido!
+0164 [Supporting Sentinel of Dawn] | Maldición.==W== ¡Que alguien mande una señal de auxilio!==W==
+0165 [Taffett] | La primera oleada de refuerzos en el puerto está fuera de combate.==W== Me muevo a la siguiente calle.
+0166 [Lugar y hora] | 23:50, 21.º del mes de Sonus, Distrito de las Cenizas de Emor, puerto
+0167 [Calm Knight] | ¿Dónde están nuestros refuerzos?==W== ¡Maldición!
+0168 [Narida] | No te molestes en esperarlos. Acabé con sus refuerzos antes de llegar aquí.
+0169 [Calm Knight] | ¿Hiciste esto tú sola? E-eso es imposible.
+0170 [Narida] | Soy Narida, capitana del Primer Escuadrón y líder interina de la Compañía. Recuerda el nombre.==W== Ahora entrégame las llaves y te dejaré vivir.
+0171 [Calm Knight] | N-Narida. No lo olvidaré.
+0172 [Narida] | ¡Victoria! ♪ Bien, todos, quítense esos grilletes. Su equipo está en estas cajas.==W== Prepárense y tomen un barco para salir de Emor. ¡Muévanse!
+0173 [Freed White Cat] | ¡Capitana Narida, venga con nosotros!
+0174 [Narida] | No, adelántense. Yo los cubro.==W== Esta noche, ningún caballero ni centinela de Emor va a poder dormir.
+0175 [Lugar y hora] | 02:00, 22.º del mes de Sonus, Distrito de las Cenizas de Emor, Bajo el puente del canal
+0176 [Vigilant Sentinel of Dawn] | ¡Gato Blanco! ¡Hasta aquí llegaste!
+0177 [Narida] | ¡Demasiado lento!
+0178 [Brave Sentinel of Dawn] | ¡¿Agh?!==W== ¡¿De dónde vino eso?!
+0179 [Narida] | Bien hecho, Taffett. Sigues en forma.==W== Sigue así. Yo atraeré su fuego a campo abierto, y tú sigue atacando desde las sombras. Que nadie te vea la cara.
+0180 [Taffett] | Le saqué información a un caballero. El puesto de mando temporal de los Centinelas es un hotel en el Distrito de Oro. La seguridad es mínima. Todos nuestros expedientes y listas están ahí.
+0181 [Narida] | Causamos suficiente caos en el Distrito de las Cenizas para atraer a sus fuerzas hasta aquí. Escabullámonos por el canal y tomémoslos completamente desprevenidos.
+0182 [Narida] | Quema esos expedientes y desaparecerás de sus registros, Taffett. ¡Vamos!
+0183 [Lugar y hora] | 03:30, 22.º del mes de Sonus, Distrito de Oro de Emor, centro de mando temporal
+0184 [Calm Knight] | Comandante. Nos emboscaron durante el traslado, y los Gatos Blancos escaparon. La atacante se identificó como Narida, y afirmó ser la capitana del Primer Escuadrón y líder interina de la Compañía.
+0185 [Sentinel of Dawn Commander] | ¿Y? El Distrito de las Cenizas es un completo desastre ahora mismo. ¿Con cuántos Gatos Blancos estamos lidiando?
+0186 [Calm Knight] | Uno... Hasta donde pudimos ver, era una sola persona.
+0187 [Sentinel of Dawn Commander] | Invéntate una mentira mejor.==W== Tenemos a más de cien caballeros y centinelas fuera de combate, ¿y esperas que crea que fue un solo enemigo?
+0188 [Narida] | Así es. Solo yo.
+0189 [Sentinel of Dawn Commander] | ¡Guardias! ¡¿Dónde están los guardias?!
+0190 [Narida] | Están profundamente dormidos. Ustedes dos deberían rendirse. Y por cierto, nuestro estilo de pelea los engañó. De verdad creyeron que los Gatos Blancos eran presa fácil.==W==
+0191 [Narida] | Esta es nuestra verdadera fuerza. Recuérdenla bien.==W== Ustedes pidieron una guerra, así que ahora la van a tener.
+0192 [Sentinel of Dawn Commander] | ¡Maldita!==W== ¡Por el mundo!
+0193 [Narida] | Patético.
+0194 [Taffett] | ¡Narida, cuidado!
+0195 [Narida] | ¿Q-qué pasó?
+0196 [Taffett] | Activó un círculo explosivo en la oficina. Quería llevarte con ella.
+0197 [Taffett] | Caballero, ¿estás bien?
+0198 [Calm Knight] | Y-yo... estoy bien. Pero ¿por qué me salvaste?==W== Soy tu enemigo.
+0199 [Taffett] | Je. La Guardia Imperial solo sigue órdenes del Imperio de la Gracia. Tú no pediste esta pelea. Además, protegiste a mi gente durante el traslado.
+0200 [Taffett] | Este lugar va a arder. Ve a buscar ayuda y saca de aquí a tus compañeros.
+0201 [Calm Knight] | ¡Entendido! ¡Gracias!
+0202 [Taffett] | Narida, ¿se quemaron los expedientes?
+0203 [Narida] | Estaban todos en el centro de mando. Ardieron junto con la comandante.
+0204 [Narida] | Taffett, ¿qué tienes? Es muchísima sangre. ¡¿Recibiste la explosión para protegerme?!
+0205 [Taffett] | Narida, estoy bien.==W== Ahora...==W== por fin puedo...==W== estar con... las niñas...==W==
+0206 [Narida] | ¡Taffett! ¡Taffett!

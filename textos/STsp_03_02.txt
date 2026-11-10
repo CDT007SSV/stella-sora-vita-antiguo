@@ -1,0 +1,80 @@
+# Nova Times #03 · Mil flores en la noche · 2 · A Thousand Blossoms by Night (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Chixia & Jinglin & Shimiao | Chixia, Jinglin y Shimiao
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Mil flores en la noche (Parte II)
+0003 [Intro] | Las tres amigas se reúnen en el Retiro para empezar a hacer faroles de pez. Entonces Chixia presenta un diseño sorprendente e ingenioso que nadie esperaba…
+0004 [Jinglin] | Guau, este es ese bosquecillo a las afueras de la ciudad, ¿verdad? ¿El que visitábamos a escondidas en el carro de reparto cuando éramos niñas?
+0005 [Chixia] | ¿De verdad te acuerdas de eso?==W== Yo estaba muerta de miedo escondida en ese carro...==W== Si nos hubieran atrapado, nos habríamos metido en un buen lío.
+0006 [Shimiao] | Sí, ustedes dos eran muy traviesas en ese entonces—==W==y la verdad, no han cambiado mucho.
+0007 [Jinglin] | Entonces,==W== ¿se supone que tenemos que reunir aquí los materiales para los faroles?
+0008 [Shimiao] | Tradicionalmente, sí. La gente recogía ramas y cáscara de bambú para tejer tiras.==W== Pero hoy en día ya no es tan estricto: haces un armazón y lo cubres.
+0009 [Chixia] | ¡Nononono, dijimos que esto sería un concurso! ¡La forma tradicional es definitivamente mejor!
+0010 [Chixia] | En fin, ¡cada una que tome los materiales más bonitos que encuentre y luego nos reunimos en el Retiro para armarlos!
+0011 [Jinglin] | ¡Entendido!
+0012 [Chixia] | ¡Genial, parece que todas volvieron con buen botín—! ¡Empecemos!
+0013 [Jinglin] | Sí, más vale que nos apuremos o no los terminaremos a tiempo para el festival.
+0014 [Jinglin] | Así que...==W== ¿Este es el famoso Retiro Yunji?==W== En persona se siente==W== tan imponente.
+0015 [Shimiao] | He venido unas cuantas veces por trabajo, así que no es nuevo para mí... ==W==Pero pensándolo bien, esta es tu primera vez, ¿verdad, Jinglin?
+0016 [Chixia] | ¡No sean tímidas, siéntanse como en casa!==W== Ya le avisé a mi maestro que usaríamos el lugar. Todos los alumnos mayores tienen la tarde libre,==W== así que estamos solo las tres.
+0017 [Chixia] | Entonces, ¿qué tipo de faroles piensan hacer ustedes dos?
+0018 [Shimiao] | Es un secreto... Si te lo digo ahora, arruinaría la sorpresa.
+0019 [Chixia] | ¡Ah! Cierto.
+0020 [Jinglin] | ¡Jeje, la diversión apenas comienza! ¡Trabajemos en nuestros faroles por separado y comparemos al terminar!
+0021 [Jinglin] | Chixia, ¿dónde están las herramientas? ¡Voy por ellas!
+0022 [Narración] | Para cuando se consumió una varita de incienso, la tranquila tarde solo se llenaba con el sonido de la artesanía.
+0023 [Chixia] | ¡Tara! ¡Mi farol está terminado! ¡Seguro gano el primer lugar!
+0024 [Jinglin] | Ah, por poco te gano. Pero el mío también está listo.
+0025 [Shimiao] | Eh... Aquí también terminé.
+0026 [Chixia] | ¡Perfecto! Mostrémoslos todas a la vez.
+0027 [Shimiao] | Está bien, ya que dijimos que esto era un concurso.
+0028 [Jinglin] | Contemos hasta tres.==W== Uno,==W== dos—
+0029 [Chixia & Jinglin & Shimiao] | ¡Tres!
+0030 [Jinglin] | ¡Guau—Shimiao, el tuyo es una carpa!
+0031 [Chixia] | ¡Qué poco original!
+0032 [Shimiao] | El Festival del Pez Nadador está ligado a ricas tradiciones.==W== Ustedes dos conocen la historia detrás del festival, ¿verdad?
+0033 [Shimiao] | Cuando Cangwu fue fundada por primera vez—
+0034 [Chixia] | ¡Uy, ya empezó otra vez!
+0035 [Shimiao] | Hace mucho tiempo, una gran inundación azotó Cangwu. Un héroe dio un paso al frente y guio a la gente a abrir canales a través de las montañas, construir diques y dragar las vías fluviales...
+0036 [Jinglin] | Sí, Shimiao de siempre, convirtiendo la hora del cuento en una conferencia...
+0037 [Shimiao] | Cuando por fin cedió la inundación, el gran héroe se transformó en una carpa y desapareció en los ríos.==W== Así reza la historia transmitida de generación en generación, el origen del Festival del Pez Nadador...
+0038 [Shimiao] | Lo cual significa que la forma más apropiada para un farol del festival es la carpa.==W== Ejem, ¿entendido?
+0039 [Chixia] | Sí, sí. ¡Hemos oído esa historia cien veces!==W== ¡Nuestros padres la contaron, nuestros maestros la contaron, incluso mi maestro la contó! ¡Y ahora tú otra vez!
+0040 [Shimiao] | Es una pieza importante del folclor...==W== Bueno, está bien.
+0041 [Shimiao] | El de Jinglin también está lindo: es un Kun, ¿verdad? ¿El legendario pez gigante?
+0042 [Jinglin] | ¡Exacto! Shimiao lo sabe todo, como siempre.
+0043 [Chixia] | Yo sé lo que es un Kun. Es ese pez enorme...
+0044 [Shimiao] | El legendario gran pez, que se dice habita en los mares del norte...==W== con un cuerpo tan vasto como una montaña, que se transforma en un roc gigante.==W== Pero nadie ha visto jamás un Kun de verdad.==W== El diseño de este farol, ¿salió de tu propia imaginación, Jinglin?
+0045 [Chixia] | Bueno, bueno, entendí.==W== Cualquier excusa es buena para otra mini conferencia.
+0046 [Jinglin] | Una vez, un cliente de mi restaurante se sintió tan inspirado==W== que pintó un Kun ahí mismo, en el momento, con pincel y tinta.
+0047 [Jinglin] | Modelé este farol de pez a partir de esa pintura~
+0048 [Shimiao] | También tienes buena memoria... Es impresionante.
+0049 [Shimiao] | En fin,==W== ¿qué dibujaste exactamente, Chixia...?
+0050 [Jinglin] | ¿Eso es... un perro?==W== Parece un cachorro. ¡Qué lindo!
+0051 [Chixia] | ¿Eh?
+0052 [Chixia] | ¡Nooo—! ¡No es un perro, y mucho menos un cachorro!
+0053 [Chixia] | Miren el diseño—==W==¡claramente hice un—==W=="Loong"!
+0054 [Jinglin] | ¿Loong...?
+0055 [Shimiao] | ... ¿Se supone que esto es un Loong?
+0056 [Chixia] | ¡Claro que sí! Miren: la cola, los cuernos.==W== Es un Loong de pies a cabeza.
+0057 [Shimiao] | Eh...==W== Lo mires por donde lo mires, no se parece mucho...
+0058 [Jinglin] | ¡Jajaja! ¿Así que se supone que eso es un Loong?==W== ¡Jajaja!
+0059 [Shimiao] | Jinglin, no te rías tan fuerte...==W== Pfft—
+0060 [Chixia] | ¿Por qué se ríen las dos? ¿Tanto les gusta mi Loong?
+0061 [Chixia] | ¡Hmph! ¡Mi Loong será el que más atención reciba esta noche, ya verán!
+0062 [Shimiao] | Pfft... Está bien, está bien. Lo llamaremos Loong... Pero no es realmente un pez, ¿o sí?
+0063 [Jinglin] | Jaja, cierto. Un cachorro... digo, un «Loong»... no es exactamente un pez.
+0064 [Chixia] | ¡No se fijen en los detalles! Hay un dicho: «La carpa salta la Puerta del Loong». Shimiao, conoces esa leyenda, ¿verdad? ==W==
+0065 [Chixia] | ¡Así que si una carpa puede convertirse en Loong, eso significa que un Loong es básicamente una carpa, lo que lo hace un pez!
+0066 [Shimiao] | Mm... La leyenda existe, sí... Pero aun así me suena a lógica retorcida.
+0067 [Shimiao] | Lo dice quien acaba de hacer comentarios sobre mi folclor.==W== Hmmm...
+0068 [Jinglin] | ¡Qué bien se llevan!
+0069 [Jinglin] | ¡Qué feliz estoy==W== de haber llegado justo a tiempo para esto!

@@ -1,0 +1,137 @@
+# Capítulo 6 · Milagro de un destello · 5 · La caída
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Aila | Aila
+N:Elite Soldier | Soldado de élite
+N:Nia | Nia
+N:United Harvest Messenger | Mensajero de Cosecha Unida
+N:avg1_110 | Firenze
+N:avg1_133 | Nazuka
+N:avg1_135 | Mistique
+N:avg1_156 | Nazuna
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_108 | Cosson
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1262 | Guardabosques de Cosecha Unida
+N:avg3_132 | Kaede
+N:avg3_134 | Mina
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | La caída
+0003 [Intro] | La legión que ocupa el campamento derriba a Mistique de un disparo; Nazuka negocia para que la atiendan. Mientras tanto, Darcia informa sobre el avance de las Plantas Inteligentes de 3.ª generación y revela que tiene presa a Nyx como su fuente de energía.
+0004 [Lugar y hora] | 07:10, 5.º del mes de Messis, Distrito de Plata de Philae, casa de Mina
+0005 [Mina] | Nia, Aila, cuiden la casa. Me voy al trabajo.
+0006 [Nia] | ¿Eh? ¿Por qué? ¿No tienes el día libre hoy?
+0007 [Mina] | Ese es el asunto...==W== Este día libre tan repentino para el personal me da mala espina, así que voy a ver qué pasa.
+0008 [Mina] | Los invitados del otro día todavía son nuevos. Como su superior, tengo que dar el ejemplo, ¿no?
+0009 [Aila] | ¡Hop! Toma.
+0010 [Mina] | ...¿Un sándwich?==W== ¿Tú lo hiciste, Aila?
+0011 [Aila] | Nia y yo lo hicimos mientras tomabas una siesta. Prométeme que te lo vas a comer, ¿sí?
+0012 [Mina] | Te lo prometo. Ya me voy.
+0013 [Mina] | Mistique... Ni una palabra desde que habló con ==PLAYER_NAME==.==W== ¿Le pregunto a ==PLAYER_NAME== si le ha vuelto a llamar?
+0014 [Mina] | Aunque, pensándolo bien, ==PLAYER_NAME== debe de estar hasta el cuello...==W== No quiero ser una molestia por andar fastidiando a ==SEX4==...
+0015 [Mina] | ¿Eh? ¡Mistique!
+0016 [Mina] | ¿Mistique? ¿Dónde estás? ¿Estás bien? ¿Por qué no contestabas?
+0017 [Mistique] | Oye, tranquila. Baja la voz, ¿quieres?
+0018 [Mistique] | Me pasé toda la noche persiguiendo a un pájaro rarísimo. Volamos muy lejos del alcance del Monolito de Philae. Obvio no me iban a llegar tus llamadas.
+0019 [Mistique] | Jeje, ¿por qué tanto pánico?==W== Aaay, ¿de verdad estabas preocupada por mí, Mina?
+0020 [Mina] | ¡¿No es obvio?! Te lo dije: bruja o no, sigues siendo empleada de aquí. Además, eres mi subordinada.
+0021 [Mistique] | Ya, ya. Estoy justo encima del campamento de Trekkers.==W== Regreso en un instante.
+0022 [Mistique] | ¿Hubo alguna primicia grande en la ciudad mientras no estaba?
+0023 [Mina] | Lady Darcia mandó llamar a ==PLAYER_NAME==. Estuvieron encerrados en una reunión toda la noche. Parecía un asunto serio.
+0024 [Mistique] | Uy. ¿Una reunión entre la directora ejecutiva de la sucursal y el Jefe? Eso sí es noticia.
+0025 [Mina] | Además, hoy en la mañana llegó un memorándum. Toda la compañía tiene el día libre. Pagado.
+0026 [Mistique] | ¿D-día libre pagado? ¿En Cosecha Unida?==W== ¡Es la noticia del siglo! Philae de verdad es mi lugar de la suerte.
+0027 [Mistique] | Espera un segundo... ¿Qué pasa en el campamento de Trekkers? Esos tipos no están vestidos como Trekkers.
+0028 [Mistique] | ¡Oigan, oigan! ¡No disparen! ¡Solo soy una bruja inofensiva!
+0029 [Mistique] | ¡Agh! ¡Me dieron!
+0030 [Mina] | ¿Qué pasó? ¡Mistique, contéstame! ¡Mistique!
+0031 [Lugar y hora] | 07:15, 5.º del mes de Messis, afueras de Philae, campamento de Trekkers
+0032 [1] | ¿La sede de Cosecha Unida tiene tropas en el campamento de Trekkers?
+0033 [Nazuka] | Sí. Vinieron a actuar contra Darcia.
+0034 [Narración] | Hace veinte minutos logré comunicarme con Nazuka.
+0035 [Narración] | Anoche, las legiones de la sede marcharon sobre Philae. Se apoderaron del campamento de Trekkers, mandaron a todos a las ciudades vecinas y cortaron las comunicaciones.
+0036 [Narración] | En pleno traslado, oyó sonar su teléfono.==W== Al darse cuenta de que era yo, se escabulló de los guardias con Nazuna y Kaede y se regresaron para organizar un rescate.
+0037 [Nazuka] | Jefe, Philae se está convirtiendo en zona de guerra. ¿Dónde te tienen? Voy por ti.
+0038 [1] | No vengas. La ciudad está llena de Plantas Inteligentes y soldados. Es demasiado peligroso.
+0039 [Nazuka] | ¿Recuerdas el deseo que pedí bajo el Monolito?==W== Deseé que te quedaras a mi lado. Siempre.
+0040 [Nazuka] | Así que ahórrate las advertencias sobre el peligro. No me importa. Solo quiero verte. Ya.
+0041 [Nazuna] | ¡Nazuka! ¡El cielo! ¡Mira arriba!
+0042 [Mistique] | No puedo creer que se rompiera la escoba...==W== Pero una bruja no se rinde. No voy a caer así...
+0043 [Kaede] | Es la bruja que nos ayudó.
+0044 [Nazuka] | Jefe, espera un momento.
+0045 [Nazuka] | ¡Mistique, no te me vayas!
+0046 [Mistique] | ¿Nazuka...?==W== Je... Supongo que Philae sí es mi lugar de la suerte, después de todo...
+0047 [Nazuna] | ¡Está inconsciente! Las heridas se ven mal...==W== Si no la atienden rápido...
+0048 [Kaede] | Hay medicinas en el campamento de Trekkers...==W== Pero el ejército lo tomó.
+0049 [Elite Soldier] | ¡Contacto! ¡Hostiles a la vista!
+0050 [Elite Soldier] | ¡Bajen las armas! ¡Sabemos que son espías de Darcia!
+0051 [Nazuna] | ¿Qué? ¡No estamos con Darcia! ¡Somos Trekkers de aquí!
+0052 [Cosson] | ¿Trekkers de aquí, dicen?
+0053 [Elite Soldier] | ¡Comandante Cosson! Esa bruja estaba dando vueltas sobre el campamento. Sin duda nos estaba espiando.
+0054 [Elite Soldier] | La derribamos y estas «Trekkers» corrieron a salvarla. Están confabuladas.
+0055 [Nazuka] | Comandante Cosson...==W== Supongo que usted está al mando. Quisiera negociar en nombre de mi compañía.
+0056 [Nazuka] | Jefe, no lo puedo creer. Su actitud cambió por completo en cuanto le enseñé ese sello.
+0057 [Tú] | Eso es lo que representa el Sello de la Gracia:==W== la autoridad real de una compañía.
+0058 [Nazuka] | Aquella vez... El Jefe usó el Sello para ganarse el respeto de Cosecha Unida. Ahora mismo, esa identidad es mi única carta.
+0059 [Cosson] | Soy Cosson, del Senado, comandante de la Tercera Legión. ¿Y a qué compañía, si se puede saber, representa usted?
+0060 [Nazuka] | A Boss Accord. Todas somos empleadas. Y esta bruja entrevistó personalmente a nuestro director ejecutivo.
+0061 [Cosson] | Boss Accord... ¿Esa compañía que acaba de reabrir en Emor?==W== He oído rumores. Diga qué asunto la trae aquí.
+0062 [Nazuka] | Nuestro director ejecutivo está atrapado en Philae. Estamos en una misión de rescate.==W== Esta bruja estaba explorando el perímetro cuando sus hombres la derribaron.
+0063 [Cosson] | Mmm. No puedo comprobarlo...==W== Pero vulnerar derechos basándose en suposiciones no es nada elegante. Muy bien. Le tomaré la palabra. Disculpe la descortesía.
+0064 [Cosson] | Sin embargo,==W== las afueras ahora son zona de guerra. Por su seguridad, permanecerán bajo nuestra protección hasta que cesen las hostilidades. Confío en que lo entiende.
+0065 [Cosson] | Usted. Escolte a nuestras invitadas a la antigua Asociación de Trekkers. Y traiga de inmediato a un médico para la bruja.
+0066 [Elite Soldier] | ¡Sí!
+0067 [Lugar y hora] | 08:00, 5.º del mes de Messis, Distrito de Oro de Philae, sala de recepción VIP
+0068 [Nazuka] | Perdón, Jefe. Ni siquiera el nombre de Boss Accord funcionó. Seguimos atrapadas aquí.
+0069 [1] | No te culpes. Tomaste la decisión correcta. Además, no parece que esta gente quiera hacernos daño.
+0070 [1] | ¿Cómo está Mistique?
+0071 [Kaede] | El médico la atendió y dijo que está fuera de peligro, pero... todavía no despierta.
+0072 [Tú] | Por favor, cuídenla por mí mientras no estoy.
+0073 [Nazuna] | Jefe, en serio, ¿qué está pasando? No entiendo nada de esta guerra.==W== ¿Por qué Cosecha Unida pelea contra sí misma? ¿Y por qué tuvieron que arrastrar a Mistique y al campamento de Trekkers?
+0074 [1] | En cierto modo, todo esto es mi culpa.
+0075 [1] | Perdón, surgió algo aquí. Tendré que volver a llamarte.
+0076 [United Harvest Messenger] | ==SEX12== Tirano, Lady Firenze. Está por comenzar la mejora de las Plantas Inteligentes. Lady Darcia solicita su presencia para presenciarla.
+0077 [Firenze] | ¿Una mejora? ¿No vamos ya en la segunda generación de Plantas Inteligentes?
+0078 [United Harvest Messenger] | No conozco los detalles. Por favor, síganme.
+0079 [Lugar y hora] | 08:20, 5.º del mes de Messis, Distrito Invernadero de Philae, laboratorio subterráneo
+0080 [Darcia] | ==SEX12== Tirano. Bienvenido a mi laboratorio.
+0081 [Firenze] | ...
+0082 [Tú] | ¿Qué le pasa a Firenze? Se ve muy distante desde que miró el cielo.
+0083 [Darcia] | Gracias a Su Majestad, la tercera generación está lista.==W== Estas nuevas plantas son mucho más letales: una sola unidad ya puede enfrentarse de tú a tú con un Trekker veterano.
+0084 [Tú] | Producir en masa soldados tan fuertes... ¿Eso es posible siquiera?
+0085 [Tú] | ¿Cómo piensa lograrlo?
+0086 [Darcia] | Por aquí, ==SEX12== Tirano. El núcleo del proyecto está justo adelante.
+0087 [Narración] | Llegamos a la cámara más profunda del laboratorio. Tanques de cultivo vacíos se alinean sobre el piso metálico e irradian un frío estéril e inquietante.
+0088 [Tú] | Darcia, ¿para qué son estos tanques?
+0089 [Darcia] | Su Majestad. Estos tanques contienen «Fluido Psíquico», un compuesto que sinteticé usando la Neo Solution.
+0090 [Darcia] | Sus propiedades mágicas permiten que cualquier sujeto sumergido en él forme un vínculo mental parcial.
+0091 [Tú] | Un vínculo mental parcial... ¿Qué tiene que ver eso con las Plantas Inteligentes?
+0092 [Darcia] | Su Majestad, observe esa enorme Hierba Esbelta. Cosecha Unida encontró a ese monstruo en las selvas del sur. Es la progenitora, la Madre, de todas las Plantas Inteligentes.
+0093 [Darcia] | Mediante cría selectiva, creé la Hierba Radiante Mandrágora a partir de sus descendientes: una variedad capaz de seguir órdenes sencillas.
+0094 [Darcia] | Pero un monstruo sigue siendo un monstruo. No pueden dominar herramientas complejas, y mucho menos hablar. A veces ni siquiera podemos controlar sus movimientos básicos.
+0095 [Darcia] | Criaturas tan inferiores no son dignas de servir en el ejército del Tirano.
+0096 [Darcia] | Me negué a aceptar el fracaso. Intenté incontables modificaciones, pero todas y cada una terminaron en decepción.
+0097 [Darcia] | Justo cuando llegué a un callejón sin salida, obtuve su pieza del Alfil del Jardín Parásito.
+0098 [Tú] | Ya veo... Así que esta es «esa cosa» que mencionó Claire. Aunque...==W== yo no diría precisamente que esa pieza es mía.
+0099 [Darcia] | Por supuesto que le pertenece. Yo solo la tomé prestada.
+0100 [Darcia] | Seguramente ya dedujo su poder:==W== transferir mentes y recuerdos humanos. En pocas palabras, colocarla en un tanque de Fluido Psíquico conecta la conciencia del sujeto a la red.
+0101 [Darcia] | Le damos esos datos a la Madre, que los transmite a cada Planta Inteligente de 2.ª generación de Philae. Una verdadera evolución.
+0102 [Firenze] | Lady Darcia, ¿está diciendo que...?
+0103 [Darcia] | Mientras usemos humanos como nutrientes en estos tanques, las plantas pueden absorber sus habilidades y su experiencia.
+0104 [Darcia] | Contemple, ==SEX12== Tirano. El nutriente clave de esta mejora está justo aquí.
+0105 [Narración] | La cortina detrás de Darcia se retrae lentamente. Un rostro conocido flota en el Fluido Psíquico naranja, durmiendo plácidamente.
+0106 [Tú] | ¿Esa es...?
+0107 [Firenze] | ¡Nyx!
+0108 [Darcia] | Jeje... ¿Lo ves, Firenze? Este es el destino de la persona que llevó a juicio a tu padre.
+0109 [Darcia] | Saboréalo. Este es el sabor de la verdadera venganza.

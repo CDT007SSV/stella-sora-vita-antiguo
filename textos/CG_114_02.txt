@@ -1,0 +1,117 @@
+# Historia de Chaton · 2 · Commission: Tyrant's Trials (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Awakened Boy | Niño despierto
+N:Awakened Girl | Niña despierta
+N:Diligent Girl | Niña aplicada
+N:Father | Padre
+N:Mother | Madre
+N:Rebellious Boy | Niño rebelde
+N:avg1_114 | Chaton
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_200 | Niño del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Encargo: Las pruebas del Tirano (Parte II)
+0003 [Intro] | Formar el ejército de un Tirano significa empezar desde pequeños.
+0004 [Tú] | No puedo dejarla plantada. Mejor me presento...
+0005 [Tú] | ¿Chaton ya está aquí? Estuvo presumiendo de un trabajo que sacude el alma. ¿Qué estará tramando...?==W== ¿Eh?
+0006 [???] | Uf...==W== Ay...
+0007 [Tú] | Alguien carga una montaña de papeles...==W== ¿Esa es Chaton?
+0008 [Tú] | Haré como que no vi nada...
+0009 [Chaton] | ¡Oye!==W== ¡Tardaste una eternidad, Tirano!
+0010 [Tú] | ¡Rayos, me descubrió!
+0011 [Tú] | Jaja, buenos días, Chaton...==W== ¿Cómo me viste detrás de esa pila gigante?
+0012 [Chaton] | Jeje...==W== ¡Porque el Tirano y la gran Chaton estamos unidos por los poderes oscuros! ¡Es el destino!
+0013 [Chaton] | ¡Toma!==W== ¡Tal como prometí, escogí a mano los encargos más dignos del Tirano!
+0014 [Tú] | No me digas que aceptaste todos esos...
+0015 [Chaton] | ¡Claro! ¡Hoy te ayudaré a recuperar tu majestad legítima y a desatar tu verdadero poder, Tirano!
+0016 [Tú] | ¿Majestad legítima? Qué va...==W== A ver qué encargos son en realidad...
+0017 [Tú] | Espera, ¿por qué todos son sobre niños?
+0018 [Chaton] | ¡Exacto! Si quieres lavar el cere...==W==ejem, cultivar a tus seguidores, ¡hay que empezar desde pequeños!
+0019 [Tú] | Alto, alto, alto, un momento.==W== ¿Acabas de decir algo muy peligroso como si nada?
+0020 [Chaton] | ¿A qué te refieres?
+0021 [Tú] | ¡¿Por qué se menciona lavar el cerebro?!
+0022 [Chaton] | ¡¿No es obvio?! ¡El Tirano es un ser capaz de hechizar a las masas!
+0023 [Chaton] | ¡Tus palabras serán el evangelio de su despertar! ¡Ofrecerán gustosos sus almas para ser el cimiento del dominio de la oscuridad!==W== ¡Eso es esencial para restaurar la era del Tirano!
+0024 [Chaton] | ¡Por eso debemos enseñarles tu grandeza desde pequeños!
+0025 [Tú] | Eh...==W== No quiero tener nada que ver con eso.
+0026 [Chaton] | Solo lo dices porque perdiste la memoria, ¿verdad?==W== En fin, vamos a llegar tarde a nuestro primer trabajo. ¡Andando!
+0027 [Tú] | ¡Oye! ¡No me jales tan fuerte, Chaton!
+0028 [Narración] | [Encargo 1] Platicar con una niña que solo estudia y nunca juega.
+0029 [Mother] | Suspiro...==W== Qué bueno que le guste aprender, pero ojalá probara otras cosas.==W== Tampoco parece tener muchos amigos. Me preocupa.
+0030 [Tú] | Está bien...==W== Lo intentaremos.
+0031 [Tú] | Eso sí...==W== ¿Cómo empezamos esta conversación?
+0032 [Tú] | Ya casi es hora de comer y hoy hace buen clima. ¿Quieres comer afuera? ¿Cambiar un poco de aires?
+0033 [Diligent Girl] | Lo que quieras. Puedo estudiar mientras como.
+0034 [Tú] | Ah. Claro...
+0035 [Tú] | ¡Esto no avanza! Es mucho más difícil de lo que pensé. ¿Y ahora qué...?
+0036 [Chaton] | ¡¿Cómo te atreves a rechazar la buena voluntad del Tirano?!==W== ¡Qué insolencia! ¡Debes expiarlo con tu vida!
+0037 [Diligent Girl] | ¿Eh? ¿De qué hablas?
+0038 [Chaton] | Jejeje. Supongo que no te culpo por no entender las palabras de la gran Chaton.==W== ¡Al fin y al cabo solo te sepultas en tus estudios, encerrando tu mente en esos diminutos libros!
+0039 [Diligent Girl] | Entonces... ¿cuál es tu punto?
+0040 [Chaton] | ¡Mi punto es que hay demasiadas cosas en este mundo que jamás entenderás solo con un libro!
+0041 [Chaton] | Por lo tanto...==W== ¡Doncella, ha llegado la hora de tu despertar!==W== ¡Adéntrate en este vasto mundo y desata tu verdadero poder!
+0042 [Diligent Girl] | Sigo sin entender bien...==W== Pero sonó bastante genial. ¿Qué tengo que hacer para ser como tú?
+0043 [Chaton] | Jejeje.==W== Si deseas dar tu primer paso hacia el despertar, ¡debes grabar las palabras del Tirano en lo más profundo de tu alma!==W== ¡Hazlo y las puertas de la verdad se abrirán de par en par!
+0044 [Chaton] | ¡Bien, Tirano, es tu turno!==W== ¡Suéltale una sabiduría que haga temblar la tierra!
+0045 [Tú] | ¡Qué manera de ponerme en evidencia!
+0046 [Narración] | [Encargo 2] Enseñar a un niño por qué importa saludar.
+0047 [Father] | Mi hijo debe estar en su etapa rebelde. Se niega a saludar a cualquiera.==W== Tampoco le hace caso a su mamá. No sabemos qué hacer con él.
+0048 [Chaton] | ¡No digas más! ¡Déjaselo al Tirano y a la gran Chaton, maestros de las artes oscuras!
+0049 [Father] | ¿Eh? ¿Las tartas oscuras? ¿Son pasteleros?
+0050 [Tú] | Mejor dejarlo pasar...
+0051 [Rebellious Boy] | ¡Porque saludar es un fastidio! Y no es como si tuviera que hacerlo, ¿cuál es el problema?
+0052 [Tú] | Bueno, pero ¿por qué es un fastidio?
+0053 [Rebellious Boy] | ¡Pues porque sí!
+0054 [Tú] | Cero lógica.==W== ¿Por dónde empiezo...?
+0055 [Chaton] | ¿Qué te parece esto? La gran Chaton te enseñará una forma súper genial de saludar. ¡Escucha bien!
+0056 [Rebellious Boy] | ¿Súper genial? ¿Se puede hacer que saludar sea genial?
+0057 [Tú] | Chaton, no me digas que vas a...
+0058 [Chaton] | ¡Oh, hermanos sedientos de los poderes oscuros!==W== ¡Con su voluntad inquebrantable y sus almas sombrías, avancen y ahoguen este mundo en una noche eterna!
+0059 [Chaton] | ¡Festival: Himno del Despertar Oscuro!
+0060 [Tú] | Despertar...==W== ¿Eso solo significa «Buenos días»?
+0061 [Chaton] | ¡Exacto!==W== Espera, ¡¿te está volviendo la memoria?!
+0062 [Tú] | No, solo adiviné.==W== Pero decir todo eso nada más para saludar es, la verdad, un poco...
+0063 [Rebellious Boy] | ¡¡¡Eso es súper genial!!!
+0064 [Tú] | Espera...==W== ¿Genial? ¿En serio?
+0065 [Rebellious Boy] | ¡No sé qué significó, pero esas palabras suenan increíblemente geniales!
+0066 [Rebellious Boy] | ¡Dilo otra vez!==W== ¡Lo voy a memorizar y lo usaré todos los días!
+0067 [Chaton] | ¡Por supuesto! Soy la heredera del poder oscuro,==W== ¡enviada a este reino para esparcir los saludos del mundo de las sombras!
+0068 [Chaton] | ¿Listo? ¡Repite después de mí!==W== ¡Oh, hermanos sedientos de los poderes oscuros!
+0069 [Rebellious Boy] | ¡Oh, hermanos sedientos de los poderes oscuros!
+0070 [Tú] | ... ¿De verdad es buena idea?
+0071 [Father] | Jaja... Bueno, supongo que es mejor que ignorar a todo el mundo...
+0072 [Chaton] | ¡Todos==W== y cada==W== encargo==W==: ¡completado!==W== ¡Buen trabajo, Tirano!
+0073 [Tú] | S-sí... Igualmente.
+0074 [Chaton] | No te ves muy contento.
+0075 [Tú] | ... No es nada.==W== Solo me pregunto si esto fue buena idea.
+0076 [Awakened Girl] | El crepúsculo se desvanece...==W== Llega la hora de la despedida.
+0077 [Awakened Boy] | ¡De vuelta a nuestro dominio legítimo, antes de que caigan las sombras!
+0078 [Tú] | Solo ha pasado un día y los niños ya hablan como tú...
+0079 [Chaton] | ¡Sí! ¡Tal como lo planeé! ¡Ahora tenemos muchos reclutas para el futuro ejército del Tirano!
+0080 [Chaton] | Además, resolvimos los problemas de esos padres. Todos ganan, ¿no?
+0081 [Tú] | Pues... Sí, tienes razón...
+0082 [Tú] | Aun así, si los dejamos en paz, seguro se aburrirán tarde o temprano.==W== Seguro...
+0083 [Tú] | No esperaba que fueras tan buena con los niños, Chaton.
+0084 [Chaton] | ¿En serio?==W== ¡Solo copié a quien despertó mi poder oscuro!
+0085 [Tú] | Espera, ¿alguien más habla como tú?
+0086 [Chaton] | ¡¿Qué quieres decir con «habla como yo»?!==W== ¡Es el lenguaje ancestral de la Compañía del Gato Blanco!
+0087 [Tú] | ¿En serio...?==W== ¿La Compañía del Gato Blanco tiene esa clase de historia?
+0088 [Chaton] | Además, la verdad es que no sé tratar con niños. Solo les hablé como lo hacíamos en la Compañía.
+0089 [Chaton] | Ponte en su lugar cuando hables con ellos...==W== Benito siempre lo dice.
+0090 [Tú] | Ya veo...
+0091 [Tú] | Puede ser terca, pero de verdad tiene buen corazón.
+0092 [Tú] | Supongo que por eso los niños se abrieron con ella tan fácil.
+0093 [Chaton] | Sabes, Kasimira apenas reconoció hace poco la verdadera magnitud de mi poder oscuro.
+0094 [Chaton] | ¡En fin, basta de charla! ¡Hay que movernos, Tirano!
+0095 [Tú] | ¿Eh? ¿Movernos adónde? Creí que ya habíamos terminado.
+0096 [Chaton] | ¿A qué te refieres? ¡Todavía falta uno!==W== ¡El más importante para desatar tu verdadero poder!
+0097 [Tú] | ¡¿Oye?!==W== ¡Espera, Chaton! ¡Nunca mencionaste esto!==W== ¡Al menos dime adónde vamos...!

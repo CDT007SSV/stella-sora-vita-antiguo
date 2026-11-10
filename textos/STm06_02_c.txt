@@ -1,0 +1,121 @@
+# Capítulo 6 · Milagro de un destello · 2C · La sirvienta de la sirvienta
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cautious Soldier | Soldado cauteloso
+N:Elite Soldier | Soldado de élite
+N:Suspicious Officer | Oficial suspicaz
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_138 | Nyx
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La sirvienta de la sirvienta
+0003 [Intro] | Rechazas a Darcia con el tono de un Tirano y, a través de Vita, les indicas a tus compañeras que escapen. Pese al arresto domiciliario, tu relación con Firenze parece haber mejorado un poco.
+0004 [Lugar y hora] | 01:30, 5.º del mes de Messis, Distrito de Oro de Philae, pasillo de la compañía
+0005 [Firenze] | ==SEX12== Tirano. Un momento.
+0006 [Narración] | Afuera de la oficina, Firenze me cierra el paso con su bastón.
+0007 [Tú] | Firenze, tus órdenes eran llevarme con mi equipo al cuarto de al lado. ¿Por qué me cierras el paso?
+0008 [Firenze] | ==SEX12== Tirano, la lealtad de Lady Darcia es absoluta. ¿Por qué la rechazó?
+0009 [Tú] | Como Tirano, tengo mis razones.
+0010 [Tú] | No te corresponde preguntar por qué, Firenze.
+0011 [Firenze] | Tengo que preguntarlo. Ella es la directora ejecutiva de esta sucursal. Alguien de su rango le ofrece lealtad y usted la rechaza. ¿Por qué?
+0012 [Tú] | Ridículo. ¿Darcia te mandó a hacer esto?
+0013 [Firenze] | Para nada. Es pura curiosidad mía. Concédamela.
+0014 [Tú] | Pregunta todo lo que quieras, ya terminé de dar explicaciones. Ahora, quítate.
+0015 [Firenze] | Perdóneme, ==SEX12== Tirano.
+0016 [Tú] | ¿Te das cuenta de lo que haces? Darcia se entregó a mí. Faltarme al respeto a mí es insultarla a ella.
+0017 [Firenze] | Yo lo llamo necesario. Hacer cumplir su voluntad aquí y ahora... Así es como demuestro mi lealtad.
+0018 [Firenze] | ¿Lo entiende?
+0019 [Tú] | Leal a la sirvienta, pero no al señor...
+0020 [Tú] | Mi título ata a Darcia, pero para Firenze no vale nada.
+0021 [Firenze] | Conozco a Lady Darcia. Es implacable. Su rechazo solo pondrá a sus subordinadas en la mira.
+0022 [Firenze] | Estoy segura de que alguien con su intelecto sabe exactamente lo que eso implica.
+0023 [Tú] | Esto pinta mal. Tengo que mandar una advertencia como sea...==W== ¡Espera! Puedo...
+0024 [Tú] | Vita, mándale un Heartlink a Amber. Diles que me dejen y huyan.
+0025 [Vita] | Tu orden es mi voluntad. Transmitiendo ahora, imitando tu tono.
+0026 [Vita] | Por favor, gana tiempo mientras se completa la transmisión.
+0027 [Firenze] | Ahora, responda la pregunta, ==SEX12== Tirano. ¿Por qué exactamente rechazó a Lady Darcia?
+0028 [Tú] | Hmph. Como si alguna vez hubiera tenido opción.==W== Bien. Te lo diré.
+0029 [Tú] | Puede que sea el Tirano, pero mi camino no se parece en nada al que ella imagina.
+0030 [Firenze] | ¿Caminos distintos? Interesante.
+0031 [Vita] | Mensaje enviado, ==SEX12== Tirano.
+0032 [Tú] | Entendido, Vita.
+0033 [Firenze] | Según entiendo, Lady Darcia decidió conquistar Nova con poder absoluto, solo para ponerla a sus pies.
+0034 [Firenze] | ¿Y qué clase de camino sigue usted exactamente, ==SEX12== Tirano?
+0035 [Firenze] | ¿Una explosión? Pero ¿por qué?
+0036 [Elite Soldier] | ¡R-reporte! ==W==¡Las Trekkers del cuarto de al lado escaparon!
+0037 [Narración] | Unos minutos antes.
+0038 [Lugar y hora] | 01:30, 5.º del mes de Messis, Distrito de Oro de Philae, oficina de Cosecha Unida
+0039 [Noya] | ==PLAYER_NAME== lleva media hora allá dentro.==W== ¿De qué tanto estarán hablando?
+0040 [Fuyuka] | Sir Joseph y Lady Gray estaban detrás del Ruiseñor Dorado, Mistique tenía secretos de la compañía sobre el capturador y nuestra pelea destrozó dos invernaderos.
+0041 [Fuyuka] | S-seguro solo están interrogando al Maestro un poco más. La vez pasada, cuando acepté ese premio, Lady Darcia me interrogó una hora entera.
+0042 [Iris] | ¿Te refieres a cuando vencimos al Jardín Parásito y acabamos con los Tres Grandes?
+0043 [Fuyuka] | S-sí... Dijo que le interesaban mucho los monstruos.
+0044 [Fuyuka] | Una medalla tan prestigiosa...==W== ¡¿para mí?!==W== ¿Está segura? ¡Debe de ser un error!
+0045 [Darcia] | Originalmente pensaba celebrar una ceremonia formal para elevar el renombre de tu gremio. Los salvadores de Philae no deberían pasar desapercibidos.
+0046 [Darcia] | Pero después de escuchar tu historia, me doy cuenta de que mi idea era muy limitada.==W== Los verdaderos héroes como ustedes se ganan la admiración con sus actos, no con ceremonias tediosas.
+0047 [Fuyuka] | Lady Darcia en realidad es muy amable. De verdad entiende lo que intentamos hacer.
+0048 [Nyx] | ¿Ah, sí?==W== Si de verdad «entiende», ¿por qué puso un ejército justo afuera de esa puerta?
+0049 [Amber] | ¿Mm? Es el Jefe.
+0050 [Tú] | Amber, Darcia ya está actuando. Están en peligro. ¡Salgan ya! (Enviado por Vita)
+0051 [Tú] | Olvídense de mí. Que estén a salvo es mi mejor carta contra Darcia. ¡Váyanse! (Enviado por Vita)
+0052 [Noya] | Amber, ¿eso es de ==PLAYER_NAME==?
+0053 [Amber] | ==SEX1== dice que estamos en peligro.
+0054 [Suspicious Officer] | Órdenes de Lady Darcia: ¡acaben con ellas! ¡Sin dejar sobrevivientes!
+0055 [Nyx] | ¡Atentas! Escucho hechizos afuera...
+0056 [Noya] | ¡Fuyuka, ayúdame a volar la puerta!
+0057 [Fuyuka] | ¡E-entendido!
+0058 [Suspicious Officer] | ¡Agh! ¿Cómo es que nos estaban esperando?
+0059 [Suspicious Officer] | ¡No se apresuren! Formación defensiva, avancen despacio. Estas Trekkers son peligrosas.
+0060 [Cautious Soldier] | ¡Reporte! La sala está vacía.
+0061 [Suspicious Officer] | Imposible. No hay otra salida.
+0062 [Cautious Soldier] | ¡Atravesaron la pared! ¡Van hacia los invernaderos!
+0063 [Lugar y hora] | 01:35, 5.º del mes de Messis, Distrito de Oro de Philae, pasillo de la compañía
+0064 [Darcia] | Firenze, ¿qué crees que estás haciendo? ¿Cómo te atreves a faltarle así al respeto a ==SEX12== Tirano?
+0065 [Firenze] | Agh...
+0066 [Firenze] | ¡L-lo siento, Lady Darcia! Yo solo...
+0067 [Tú] | Darcia, te estás haciendo una idea equivocada.
+0068 [Tú] | Solo me pegó contra la pared para protegerme de la explosión.
+0069 [Darcia] | ¿Es cierto, Firenze?
+0070 [Firenze] | ...==W== S-sí. Así es.
+0071 [Darcia] | Entonces me corrijo.==W== Escolta a ==SEX12== Tirano a una habitación segura. Yo me encargaré de las Trekkers.
+0072 [Firenze] | De inmediato.
+0073 [Tú] | Darcia, ¿qué es exactamente lo que piensas hacer con mis subordinadas?
+0074 [Darcia] | ==SEX12== Tirano, sé exactamente qué clase de prueba me ha preparado.
+0075 [Darcia] | Valgo mucho más que todos sus subordinados anteriores juntos, y se lo demostraré personalmente.
+0076 [Lugar y hora] | 02:00, 5.º del mes de Messis, Distrito de Oro de Philae, sala de recepción VIP
+0077 [Firenze] | Aquí estamos, ==SEX12== Tirano. Esta es su suite provisional. Por favor, siéntase como en casa.
+0078 [Tú] | ¿Así que arresto domiciliario? Darcia sin duda tiene una forma muy peculiar de demostrar lealtad.
+0079 [Firenze] | ...
+0080 [Tú] | ¿Algo más?
+0081 [Firenze] | ==SEX12== Tirano... ¿Por qué me defendió allá atrás?
+0082 [Tú] | ¿Defenderte? Para nada. Solo estaba devolviendo un favor.
+0083 [Tú] | Tu aviso sobre Darcia me dio tiempo para advertirle a mi equipo. Además, de verdad recibiste esa explosión por mí.
+0084 [Tú] | Ya que estamos en eso... ¿Por qué te tomaste la molestia de advertirme? ¿Eso no cuenta como traicionar a Darcia?
+0085 [Lugar y hora] | 02:45, 5.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 7
+0086 [Noya] | ¡Esto no se acaba nunca! ¿Cuántas Plantas Inteligentes hay? ¿Darcia quiere tapizar toda Nova con estas cosas?
+0087 [Iris] | ¡Noya, mídete! ¡No gastes toda tu energía!
+0088 [Noya] | A pie no vamos a escapar nunca.==W== Voy por Loxy. ¡Cúbranme!
+0089 [Nyx] | Recibido. Amber y yo nos encargamos.
+0090 [Amber] | Entendido.
+0091 [Fuyuka] | ¡C-cuántas pistolas voladoras! ¡Derritieron esas plantas en segundos!
+0092 [Nyx] | Escondí esas armas por el invernadero hace rato. Solo que no esperaba tener que usarlas así de verdad.
+0093 [Darcia] | Trekkers insensatas.==W== Solo yo puedo ofrecerle verdadera lealtad a ==SEX12== Tirano.
+0094 [Nyx] | ¡Fuyuka, Iris, Amber, retírense! Yo detendré a Darcia.
+0095 [Amber] | Nyx, ven con nosotras.
+0096 [Nyx] | ¡Deja de discutir! Alguien tiene que quedarse a cubrirlas.==W== ¡Es mi deber como inspectora!

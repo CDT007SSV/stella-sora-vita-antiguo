@@ -1,0 +1,89 @@
+# Historia de Coronis · 2 · Bones Obsession (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_118 | Coronis
+N:avg3_100 | Sylar
+N:avg3_1055 | Paciente que apesta a alcohol
+N:avg3_1056 | Paciente alterado
+N:avg3_144 | Residente
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Obsesión con los huesos (Parte II)
+0003 [Intro] | Te quedas en la clínica para recibir tratamiento y eres testigo de las notables habilidades de Coronis. ¿Serán suficientes para curarte...?
+0004 [Flustered Patient] | Doctora, doctora, esto debe de ser algo grave, ¿verdad?
+0005 [Coronis] | O sea que te sientes cansado y sin apetito. ¿Cómo dedujiste solo con eso que hay algo mal en tu cerebro?
+0006 [Flustered Patient] | Pues hace unos días tuve dolor de cabeza todo el día y fiebre leve.
+0007 [Flustered Patient] | Además, no podía dormir y me sentía completamente agotado...
+0008 [Flustered Patient] | Doctora, deje de andarse con rodeos y dígame la verdad...==W== ¿Tengo alguna enfermedad cerebral? ¡Ya pregunté por ahí!
+0009 [Coronis] | Hmph...==W== Parece que fuiste a ver a algún «especialista famoso», ¿eh?
+0010 [Flustered Patient] | Aparte de lo del cerebro, creo que también podría ser un trastorno mental.
+0011 [Flustered Patient] | Eh... Doctora... ¿Hay...==W== alguna esperanza para mí...?
+0012 [Coronis] | Mmm, aquí tengo la cura especial. Espera.
+0013 [Flustered Patient] | ¡Ah! ¡Entonces tengo cura! ¡Estoy salvado! ¡Gracias, doctora!
+0014 [Coronis] | Asistente, pásame esos frascos de tapa roja.
+0015 [Tú] | Eh, está bien. Pero...
+0016 [Tú] | ¿Esto siquiera es un diagnóstico de verdad? Parece demasiado simple...
+0017 [Narración] | Mientras dudo, Coronis me lanza una mirada que dice: «Está bien, dale la medicina». Con todo y mis dudas, hago lo que dice y saco los frascos de la caja.
+0018 [Coronis] | Tome uno en la mañana y uno en la noche durante una semana. Coma ligero, nada de carne.
+0019 [Coronis] | Mi asistente irá a verlo en una semana.
+0020 [Tú] | ¡¿Yo?!
+0021 [Coronis] | Muy bien. A la siguiente visita.
+0022 [Tú] | Doctora, ¿quiere que yo haga el seguimiento?
+0023 [Tú] | ¡Ni hablar! ¡No tengo ni una pizca de conocimientos médicos!
+0024 [Coronis] | Está bien. No hace falta.
+0025 [Tú] | ¡¿Qué?!
+0026 [Coronis] | Un paciente que en realidad no está enfermo es perfecto para un asistente sin conocimientos médicos.
+0027 [Tú] | Espera...==W== ¿No está enfermo?
+0028 [Coronis] | Solo sus ansiedades de siempre.
+0029 [Coronis] | La medicina que le di es simplemente agua con un poco de sabor amargo. Cuando se le calme la ansiedad, mejorará solo.
+0030 [Coronis] | Fue literalmente jugar al doctor con él. Pero hacer que una doctora de verdad lo haga ya es mucho.
+0031 [Coronis] | Ahora prepárate.==W== Nuestro verdadero reto de hoy es el paciente n.º 68. Jeje～
+0032 [Tú] | ¿El verdadero reto...?
+0033 [Coronis] | Tiene un caso raro de síndrome de temblor.
+0034 [Coronis] | Jeje... Al principio pensé que sus síntomas eran solo efectos temporales de abstinencia por dejar el alcohol.
+0035 [Coronis] | Pero en mi última visita descubrí que tenía parientes con el mismo problema.
+0036 [Coronis] | Así que sospecho que podría tener síndrome de temblor hereditario.
+0037 [Coronis] | Si de verdad es así...==W== Sería un espécimen de investigación fascinante... Jeje. Ah, me emociono con solo pensarlo. Me dan ganas de disecar una rana ahora mismo.
+0038 [Tú] | ¿Espécimen...==W== de investigación?
+0039 [Tú] | Y hasta habla de disecciones y esas cosas...==W== ¿Lo dirá en serio...?
+0040 [Alcohol-reeking Patient] | ¡Ya te dije que me siento mucho mejor! ¡No necesito ir a verte!
+0041 [Coronis] | O sea que volviste a beber, ¿eh?
+0042 [Alcohol-reeking Patient] | ¡No es asunto tuyo!
+0043 [Coronis] | Incluso más que antes, parece.
+0044 [Coronis] | A ver si adivino...
+0045 [Coronis] | Un día, cuando se agravaron tus síntomas, te diste cuenta de que beber en realidad detenía el temblor.
+0046 [Coronis] | Así que tenías un motivo para volver a beber.
+0047 [Coronis] | Pero con el tiempo, te diste cuenta de que necesitas cada vez más alcohol para mantener a raya los temblores.
+0048 [Coronis] | Pero la verdad es que solo sentías que dejabas de temblar porque estabas ebrio...==W== De verdad eres un caso, ¿lo sabías?
+0049 [Alcohol-reeking Patient] | ¡Lo que sea! ¡No voy a ir a tu clínica!
+0050 [Coronis] | Por supuesto, no obligaré a ningún paciente a recibir tratamiento. Si acaso, que te des por vencido sería una bendición para mí～
+0051 [Coronis] | Si el paciente rechaza el tratamiento en vida, tengo más oportunidades de hacerle una autopsia patológica al cuerpo después, quizá hasta convertirlo en espécimen para seguir estudiándolo, jeje～
+0052 [Alcohol-reeking Patient] | ¿Au... autopsia? ¡¿Espécimen?!
+0053 [Coronis] | Si quieres saber...==W== cómo disecciono y preparo esos especímenes...
+0054 [Alcohol-reeking Patient] | ¡E-espera! ¡Q-quiero recibir tratamiento! ¡No quiero saber nada de eso!
+0055 [Coronis] | Ay, qué pena.
+0056 [Coronis] | Pero... si no quieres terminar disecado o convertido en espécimen,==W== mejor coopera.
+0057 [Narración] | Altas horas de la noche
+0058 [Coronis] | Jejeje...==W== Por fin, el momento que tanto esperaba...
+0059 [Coronis] | La feliz oportunidad de disecarte y hacer contigo lo que yo quiera.
+0060 [Tú] | ¿Qué? ¿Disecarme? ¡¿Qué haces...?!
+0061 [Coronis] | ¿Ves estas tijeras para huesos? Me permiten cortar las costillas tras separar los músculos para extraer órganos como el corazón y los pulmones.
+0062 [Coronis] | Jeje... Con solo imaginar la sensación de cortar tus huesos —crac, crac— ya me emociono... Jejeje.
+0063 [Coronis] | Esta sierra quirúrgica también es nueva. ¿Ves que está cubierta de dientecitos tan pequeños que apenas se ven a simple vista?
+0064 [Coronis] | Pero no te preocupes, tendré mucho cuidado. Extraeré el cerebro completamente intacto.
+0065 [Coronis] | Mientras conserve tu cerebro y tus órganos en fijador y cambie la solución con regularidad... Tendrás que quedarte a mi lado para siempre, hasta el día en que yo muera. Jeje... jejeje. ¿No es algo romántico?
+0066 [Coronis] | Ah, por supuesto, también cuidaré muy bien tus huesos. Los convertiré en un esqueleto de exhibición como se debe. Déjame pensar... Los pondría junto a mi cama, al lado de mis especímenes favoritos.
+0067 [Coronis] | Así...==W== ninguno de los dos se sentirá solo.
+0068 [Coronis] | Jejeje...==W== Con solo pensarlo me siento toda calentita y tierna. Tú también lo sientes, ¿verdad?
+0069 [Tú] | ¡Esto no tiene nada de calentito y tierno! ¡Es puro sudor frío! ¡Detente, Coronis! ¡No sabes lo que haces!
+0070 [Coronis] | Sé perfectamente lo que hago, jeje, jejeje～～
+0071 [Tú] | ¡No! ¡NOOOOOOO...!==W== Uf... Uf... Qué alivio que fue solo un sueño...
+0072 [Tú] | Pero fue demasiado vívido para mi gusto...==W== Quizá sea por todas esas cosas morbosas que oí hoy en sus visitas a domicilio...
+0073 [Tú] | Todavía es medianoche. ¿Mm...?==W== ¿La luz del cuarto de Coronis sigue encendida...?
+0074 [Narración] | Una luz suave y cálida se asomaba por la habitación. Quizá fue esa luz la que ahuyentó la sombra de la pesadilla que acababa de tener.
+0075 [Narración] | Me asomo en silencio a la habitación, y la persona de mi sueño está sentada ahí mismo.
+0076 [Narración] | Tiene una expresión suave mientras hojea un grueso montón de papeles sobre el escritorio.
+0077 [Tú] | Coro... nis...? ¿Sigues despierta?

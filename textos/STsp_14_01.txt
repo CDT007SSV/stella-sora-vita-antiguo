@@ -1,0 +1,149 @@
+# Nova Times #14 · Resonancia más allá de la luz estelar · 1 · Resonance Beyond the Starlight (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Attentive Audience | Público atento
+N:Cheering Audience | Público eufórico
+N:Disgruntled Audience | Público disgustado
+N:Innocent Boy | Niño inocente
+N:Kind Girl | Niña amable
+N:Now Satisfied Audience | Público ya satisfecho
+N:Peer Trekker | Trekker colega
+N:Peer Trekker From Before | Trekker colega de antes
+N:Stellaroid | Stellaroid
+N:Travelling Trekker | Trekker viajero
+N:Travelling Trekker From Before | Trekker viajero de antes
+N:avg1_1195 | Stellaroid
+N:avg1_147 | Caramel
+N:avg2_978 | Rovina
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_133 | Portia
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_167 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_187 | Residente de Flavio
+N:avg3_188 | Residente de Flavio
+N:avg3_205 | Igna
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Resonancia más allá de la luz estelar (Parte I)
+0003 [Intro] | Para juntar dinero para sus gastos de vida en Emor durante los próximos días, Caramel va al Monolito cercano a pedir deseos. Mientras descansa en el camino, se encuentra con algo extraño...
+0004 [???] | Uf... Uf...
+0005 [???] | ¿D-dónde estoy...? ¿Ya llegué a Emor?
+0006 [???] | ¡Ah...!
+0007 [Kind Girl] | ¡Señorita! ¿¡Está bien!?
+0008 [Innocent Boy] | ¡Guau! ¡Le sangra la rodilla! Y el brazo también lo tiene todo raspado. ¿Necesita un médico?
+0009 [???] | ¡Ay...! ¿Cuándo me lastimé tanto...?
+0010 [Innocent Boy] | ¿¡Ni siquiera se dio cuenta!? ¡Debería ir con un médico ahora mismo!
+0011 [Kind Girl] | ¡Sí, la llevaremos con la doctora Igna!
+0012 [Innocent Boy] | Señorita, ¿todavía puede caminar? ¿Quiere que la ayude?
+0013 [???] | Gracias... Estoy bien. Todavía puedo moverme, más o menos.
+0014 [Innocent Boy] | ¿¡De verdad!? ¡Entonces por aquí! ¡Sígannos!
+0015 [???] | Dis... disculpe...
+0016 [Igna] | Hola, ¿en qué puedo ayudarle?
+0017 [Innocent Boy] | ¡Doctora Igna! ¡Está lastimada por todas partes! ¿Puede revisarla?
+0018 [Igna] | Mmm... Rodillas, brazos, pantorrillas... Sí que tienes cortes y raspones por todos lados.==W== ¿Cómo te llamas?
+0019 [Caramel] | Caramel.
+0020 [Igna] | Muy bien, señorita Caramel. Por favor, siéntate en esa silla de allá. Empezaremos desinfectando las heridas.
+0021 [Caramel] | S-sí.
+0022 [Innocent Boy] | No tuvo cuidado, ¿verdad? La doctora Igna siempre nos dice que nos fijemos por dónde pisamos cuando corremos.
+0023 [Kind Girl] | ¡Mira quién lo dice! Dime un niño que se tropiece más que tú en todo el Distrito de las Cenizas.==W== Ya nos vamos, señorita. ¡Cuídese!
+0024 [Caramel] | ¡Sí, gracias a los dos! ¡Cuídense mucho por ahí~!
+0025 [Igna] | Esto podría arder un poco. Por favor, aguanta.
+0026 [Caramel] | Está bien. Eh, haré mi mejor esfuerzo, así que por favor... sea gentil—
+0027 [Caramel] | ¡¡Aaaaaaaaah—!!
+0028 [Igna] | —Listo, ya quedó vendado. No es grave. No hay daño en el hueso. No dejes que las heridas se mojen durante los próximos tres días.
+0029 [Igna] | La mayoría son solo raspones. ¿Te caíste varias veces? Cargando un instrumento así, de verdad debes fijarte por dónde pisas.
+0030 [Caramel] | Mi instrumento... ¡Cierto! ¡Midas! ¿¡Mi Midas está bien!?
+0031 [Caramel] | ♪—
+0032 [Caramel] | ... Qué alivio. Parece que Midas no sufrió daños...
+0033 [Igna] | ¿Midas...?
+0034 [Caramel] | Este pequeñín de aquí. Desde que lo conseguí con un deseo, lo uso para tocar las Notas del Monolito...
+0035 [Igna] | ¿Las Notas del Monolito?
+0036 [Caramel] | ¡Sí! Puedo oírlas. No me lo estoy inventando. Hay un sonido que resuena por las salas del Monolito, una y otra vez...
+0037 [Caramel] | La gente dice que es raro que alguien pueda oírlo con tanta claridad...==W== Pero yo sí.
+0038 [Igna] | ¿Desde cuándo te pasa esto? ¿Has ido a ver a un médico por esto?
+0039 [Caramel] | No, en serio, puedo oírlo. Antes de venir hoy a Emor, hasta di un rodeo para subir... ¿Eh?
+0040 [Igna] | ¿Estás bien, señorita Caramel?
+0041 [Caramel] | Algo anda mal... ¿Por qué volví a entrar al Monolito? N-no recuerdo nada. Hoy ni siquiera pedí un deseo...
+0042 [Narración] | Los dedos de Caramel recorrieron el bajo sin pensar, sacando una nota grave y pesada.
+0043 [Caramel] | ¡Sí! ¡Ese es el sonido! ¡Así tocaba en el Monolito...!
+0044 [Caramel] | Este sonido... Mi sonido...
+0045 [Caramel] | No... Mi sonido... No es así...
+0046 [Narración] | Unas horas antes—
+0047 [Caramel] | ~♪♪♪
+0048 [Caramel] | ~♪~~~♪♪♪
+0049 [Travelling Trekker] | ¡Jaja! ¡Gracias a la música de la señorita Caramel, este aburrido viaje por fin se puso mucho más interesante!
+0050 [Peer Trekker] | ¡Ni que lo digas! Señorita Caramel, ¿tiene planes de presentarse en el Gran Teatro de Emor?
+0051 [Caramel] | ¿El Gran Teatro? ¡Ni pensarlo! Un lugar tan grande... ¡Solo soy una artista callejera, ni siquiera me atrevería a pensarlo!
+0052 [Peer Trekker] | ¡Claro que podría! Cuando llegue el momento, avísenos. ¡Seguro iremos a apoyarla!
+0053 [Travelling Trekker] | Su música es genial, usted es genial. ¡Si se lo propone, llegará en un abrir y cerrar de ojos!
+0054 [Peer Trekker] | ¡Sí! ¡La apoyaremos hasta el final! ¡Ya somos sus fans!
+0055 [Caramel] | Jeje, gracias a todos ♪ ¡Haré mi mejor esfuerzo!
+0056 [Caramel] | Tomo la derecha en la bifurcación de adelante. ¡Ustedes dos, quizá nos volvamos a ver!
+0057 [Travelling Trekker] | ¿Mm? ¿La ciudad de Emor no está en la dirección contraria? ¿A dónde va?
+0058 [Caramel] | Oí que Emor ... ¡no es amigable con el bolsillo...! Así que primero haré un viaje al Monolito ♪
+0059 [Peer Trekker] | Ah... Sí, los precios allá son bastante altos.
+0060 [Peer Trekker] | Pero una bajista tan talentosa como usted, señorita Caramel, ¿de verdad tiene que preocuparse por el dinero?
+0061 [Travelling Trekker] | Si toca unas cuantas canciones en la calle, esos agentes de Scarlet Sights vendrían corriendo, ¿no?
+0062 [Caramel] | Jaja, me dan demasiado crédito. Y no subo solo por los Artefactos.
+0063 [Peer Trekker] | ¿Quiere formar equipo entonces? Nunca se sabe qué puede pasar dentro del Monolito. ¡Más vale prevenir que lamentar!
+0064 [Caramel] | Agradezco la oferta, ¡pero estoy bien! Además, ustedes también tienen sus propios planes, ¿no...?
+0065 [Caramel] | Estoy acostumbrada a subir Monolitos sola. No se preocupen por mí ♪
+0066 [Peer Trekker] | Está bien, entonces por favor tenga cuidado, señorita Caramel. ¡Esperaremos el día en que dé un concierto en Emor!
+0067 [Caramel] | ¡Gracias!
+0068 [Stellaroid] | ¡Graaah—!
+0069 [Caramel] | Uf...==W== Ese debería ser el último. Tomemos un descanso por ahora. Ojalá la Caja de Deseos no esté muy lejos...
+0070 [Caramel] | Ahora que lo pienso, hoy hay demasiado silencio aquí, ¿no...?==W== Tampoco están el personal de la tienda de conveniencia ni la enfermera.
+0071 [Caramel] | Y ni siquiera oigo el sonido del Monolito... Eso nunca había pasado, ¿verdad?
+0072 [Caramel] | Si toco a Midas, ¿responderá el Monolito?
+0073 [Caramel] | ... Sí. De todos modos necesito un descanso, ¡así que bien puedo tocar un poco y relajarme!
+0074 [Caramel] | ♪~~♪♪
+0075 [Caramel] | ♪♪...
+0076 [Caramel] | ♪...
+0077 [???] | ...
+0078 [???] | Qué melodía tan nostálgica...
+0079 [Caramel] | ¿Eh? Me pareció oír algo hace un momento...
+0080 [Caramel] | Olvídalo. Seguramente lo imaginé. Ya debí haber eliminado a todos los Stellaroids de este piso...
+0081 [Caramel] | No tiene caso darle vueltas. Necesito concentrarme en tocar. Quizá el Monolito me responda...
+0082 [Caramel] | Ah... Ya puedo oír el Monolito. Eso es: apilar las emociones enredadas, dejar que resuenen y darles forma de melodía...
+0083 [???] | Quiero escuchar más de esto...
+0084 [Caramel] | ¡Muy bien! Ese dueto de hace un momento fue perfecto—
+0085 [Cheering Audience] | ¡Eso fue increíble! ¡La perfección misma!
+0086 [Caramel] | ¿Eh? ¿D-dónde estoy? ¿En un escenario? ¿No estaba dentro del Monolito...?
+0087 [Travelling Trekker From Before] | La música de Caramel es celestial. Podría escucharla para siempre.
+0088 [Peer Trekker From Before] | ¡Sabía que triunfaría!
+0089 [Cheering Audience] | ¡Otra! ¡Otra!
+0090 [Caramel] | ¿Estoy soñando? ¿Tanta gente de verdad quiere oírme tocar...?
+0091 [Caramel] | No. Sueño o no, ¡no importa! ¡Lo que tengo que hacer ahora es darles la mejor actuación posible!
+0092 [Attentive Audience] | ...
+0093 [Travelling Trekker From Before] | ...
+0094 [Peer Trekker From Before] | ...
+0095 [Caramel] | ¿Eh? Esta no es la reacción que esperaba... Esa canción suele ser bastante popular...
+0096 [Caramel] | Mi actuación debió ser perfecta. ¿Por qué todos se ven tan molestos?
+0097 [Attentive Audience] | ¿Así que así suena su música?
+0098 [Travelling Trekker From Before] | Esto no me emociona nada. No puedes animarte con música así. ¡Toca algo más intenso!
+0099 [Peer Trekker From Before] | Qué decepción. Este es el espectáculo más aburrido al que he ido.
+0100 [Disgruntled Audience] | ¡Dejen de tocar cosas tan suaves! ¡Queremos la música que tocabas antes! ¡La emocionante!
+0101 [Narración] | ¿Aburrido... suave? ¿De qué hablan? Este siempre ha sido mi estilo, ¿no?
+0102 [Narración] | ¡Vamos! ¡Dale!
+0103 [Narración] | ¡Anímanos!
+0104 [Narración] | ¡Vaaaaamos!
+0105 [Caramel] | ¡N-no puedo! ¡Aunque eso sea lo que quieren, no puedo tocar ese tipo de sonido...!
+0106 [Caramel] | ¿Eh? ¿Qué está pasando...? ¡Mis dedos... se mueven solos!
+0107 [Travelling Trekker From Before] | ¡OHHHHHHHHH! ¡Eso sí es!
+0108 [Peer Trekker From Before] | ¡Nuestra Caramel volvió!
+0109 [Now Satisfied Audience] | ¡Jaja, así que antes solo estabas jugando con nosotros! ¡Esa es nuestra Caramel! ¡Eres la mejor! ¡Caramel—!
+0110 [Caramel] | ¡No! ¿Qué es esto...? ¡Esta no es mi música en absoluto!
+0111 [Caramel] | ¡Basta! No quiero tocar este tipo de música... ¡Pero mis dedos siguen moviéndose solos...!
+0112 [Caramel] | ¿¡—!?
+0113 [Caramel] | Ni siquiera puedo producir un sonido... ¿¡Qué me está pasando!?
+0114 [Caramel] | Por favor... si esto es un sueño, ¡despiértenme ya! ¡Terminen este concierto de una vez!

@@ -1,0 +1,87 @@
+# Capítulo 1 · 8A · Informe de investigación
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_132 | Minova
+N:avg3_100 | Sylar
+N:avg3_196 | Empleada corporativa
+N:avg3_874 | Empleada
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Informe de investigación
+0003 [Intro] | Más tarde, Iris y Minova se recuperan hablando de magia. Eso te da una idea: crear más recuerdos divertidos podría sanar a los niños.
+0004 [Lugar y hora] | 17:45, 27 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0005 [Minova] | El poder de un hechizo de agua es igual a la energía mágica que canalizas, más o menos lo que se consuma o se gane cuando cambia de estado.
+0006 [Iris] | Cierto. La Primera Ley de la Magia del Agua. Ya lo recuerdo.
+0007 [Iris] | Oh, poderoso Dios de la Gracia, sigo los axiomas que me has concedido y te ruego el resultado destinado escrito en tus leyes...
+0008 [Tú] | ¿Adónde habrán ido Iris y Minova...?
+0009 [Iris] | ¡Sendero Helado!
+0010 [Tú] | ¿Eh? Creo que oí algo... Voy a ver.
+0011 [Minova] | Esa es una flecha de hielo de manual, con un consumo mínimo de magia.
+0012 [Iris] | Uf... Gracias.==W== Nunca imaginé que la legendaria Minova me daría clases de magia.
+0013 [Minova] | No es nada. ¿De qué sirve estudiar si nunca usas lo que aprendes?
+0014 [Tú] | No sé qué pasó entre ellas, pero ahora parecen llevarse bien.
+0015 [Tú] | Iris. Minova. Perdón por interrumpir.
+0016 [Minova] | Oh, hola, ==PLAYER_NAME==.
+0017 [Tú] | Quisiera preguntarles algo a las dos.
+0018 [Tú] | ¿Qué suelen hacer después de escalar y pedir un deseo?
+0019 [Iris] | ...¿Te refieres a justo después de volver de un Monolito?
+0020 [Iris] | Estudio...==W== No tengo talento para la magia, así que debo memorizar todas las fórmulas solo para poder lanzar algo.
+0021 [Iris] | Tengo que esforzarme el doble para no retrasar a nadie.
+0022 [Minova] | Casi igual yo. Siempre me arrastro a clase al día siguiente.
+0023 [Tú] | ¿Clase? Pensé que serías de las que faltan. Ya sabes, de hacerse la delincuente.
+0024 [Minova] | No soy... ¿por qué me llamas delincuente? Eh...
+0025 [Tú] | ¿Qué le pasa? De repente se trabó.
+0026 [Minova] | ...En fin, hoy en día hay que ser inteligente para conseguir un buen trabajo en las compañías.
+0027 [Minova] | Por eso estudio mucho. Para poder enseñarles a los demás del Clan Viento de Ceniza lo que aprendo.
+0028 [Tú] | Pensar en el futuro de tu banda... Es admirable.
+0029 [Minova] | ¡¿Q-qué?! ¡No es para tanto! Y deja de llamarme admirable...
+0030 [Tú] | Es solo una suposición, pero tengo el presentimiento de que esta hipótesis es correcta.
+0031 [Empleada] | Por favor, apoye aquí la mano durante unos cinco minutos.
+0032 [Empleada] | Mientras espera, intente pensar en algo que lo haga feliz, o en un momento realmente importante de su vida.
+0033 [Tú] | No puedo creer que esa conversación sin sentido terminara siendo una pista.
+0034 [Tú] | Me preguntaba otra cosa. ¿Qué hacen Vollara, Neuvira y los niños después de sus escaladas?
+0035 [Minova] | ¿Cómo voy a saberlo? Es asunto suyo.
+0036 [Minova] | Pero... seguramente están agotados. Dudo que hagan algo.
+0037 [Tú] | ¡Ese es justo el problema! ¡Estos niños necesitan más tarea mental!
+0038 [Minova] | ¿En serio? ¿De qué hablas, ==PLAYER_NAME==? Estoy totalmente perdida.
+0039 [Tú] | Iris, antes mencionaste...
+0040 [Iris] | Los Trekkers escalan Monolitos, piden deseos en las cajas de deseos y reciben poderosos Artefactos. ==W==Pero a cambio, el Monolito les quita una parte de su memoria.
+0041 [Tú] | Lo entendí bien, ¿verdad?
+0042 [Iris] | Sí. Pedir varios deseos en un solo día es peligroso, porque la pérdida de memoria supone una enorme carga para la mente y el cuerpo.
+0043 [Iris] | Mm... aunque te esfuerces, dos veces es el límite absoluto. Lo normal entre Trekkers es descansar bien después, para darle tiempo a la mente y al cuerpo de recuperarse.
+0044 [Tú] | Descansar cuando estás cansado. Es obvio.==W== Pero... ¿qué significa realmente «descansar» para ustedes?
+0045 [Minova] | Comer sano y dormir bien.
+0046 [Tú] | Sí, eso ayuda al cuerpo a recuperarse, pero no hace nada por el agotamiento mental.
+0047 [Tú] | Cuando me rescataron, me dieron la mejor comida y la cama más cómoda. Pero tuve la cabeza en una niebla durante días.
+0048 [Tú] | En ese momento pensé que era por haber escalado un Monolito apenas despertar, o quizá por ese sueño extraño...
+0049 [Tú] | Pero no era eso. La verdadera razón, sospecho, es que mi mente nunca tuvo oportunidad de recuperarse de la pérdida de memoria.
+0050 [Iris] | Ahora que lo mencionas... estabas pálido cuando despertaste de ese sueño. Igual que los niños.
+0051 [Tú] | Exacto. Pero luego, cuando empecé a crear nuevos recuerdos con ustedes, poco a poco empecé a sentirme mejor.
+0052 [Tú] | Así que esta es mi hipótesis: para curar una mente herida...
+0053 [Tú] | ...hay que crear recuerdos nuevos que reemplacen lo perdido.
+0054 [Tú] | Los niños dejaron de escalar, pero los recuerdos importantes que perdieron siguen perdidos. Encerrados en sus cuartos todo el día, tampoco están creando recuerdos nuevos ni interesantes, por eso están en las nubes.
+0055 [Tú] | Si logramos ayudarlos a crear recuerdos nuevos y poderosos, quizá no recuperen los antiguos, pero al menos... podrían empezar a vivir su vida de nuevo.
+0056 [Iris] | Mmm, tu teoría tiene fundamento, ==PLAYER_NAME==. Los niños no tienen tantos recuerdos importantes de entrada, así que perder varios de golpe sin duda pasa factura. Es como intentar resolver un problema después de olvidar todas las fórmulas clave.
+0057 [Minova] | La lógica parece sostenerse... pero si es tan simple, ¿cómo es que a nadie se le ocurrió antes?
+0058 [Iris] | La mayoría de los Trekkers no se exigen tanto.==W== Y, aparte de Creta Trading, nadie más obligaría a niños a escalar y pedir deseos.
+0059 [Minova] | Cierto. Muy bien, ==PLAYER_NAME==, tu sugerencia vale la pena. Entonces solo tenemos que ayudarlos a crear nuevos recuerdos, ¿no?
+0060 [Iris] | ¿Qué estás pensando?
+0061 [Minova] | Te lo dije. La razón por la que voy a la escuela es poder enseñarles a todos los demás. Solo hay una cosa por hacer.
+0062 [Minova] | ¡Enseñemos a los niños!
+0063 [Iris] | Minova, ¿vas a dar clases?
+0064 [Minova] | Sí, ¿por qué? Iris, tú también puedes unirte a la clase.==W== No, espera, tus bases ya son sólidas.
+0065 [Minova] | ¿Y si enseñas conmigo?
+0066 [Iris] | ¿Yo...? N-no creo poder.
+0067 [Tú] | Noya y Amber confían plenamente en ti, y te esfuerzas muchísimo. Creo que lo harías genial.
+0068 [Tú] | Además, como será tu primera vez, quizá sea una experiencia aún más memorable para los niños.
+0069 [Iris] | Yo... una maestra...
+0070 [Iris] | Solo... no se rían si lo hago fatal.
+0071 [Minova] | Ni hablar. Jamás me reiría de alguien por esforzarse al máximo.
+0072 [Minova] | ¡Está decidido! ¡Mañana empiezan las clases!

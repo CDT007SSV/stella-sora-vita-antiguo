@@ -1,0 +1,94 @@
+# Historia de Chixia · 2 · The Haunted Village (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_141 | Chixia
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La aldea embrujada (Parte II)
+0003 [Intro] | ¿Qué pasó realmente durante la boda del diario? ¿Y de verdad hay un fantasma?
+0004 [Narración] | El talismán voló hacia una casa que claramente pasó por un incendio. Las paredes ennegrecidas por el humo y los muebles carbonizados lo dicen todo.
+0005 [Narración] | El aire de la casa conserva un olor a quemado persistente. No sé si viene del talismán o es solo nuestra imaginación.
+0006 [Tú] | Esta aldea de verdad está llena de muñecos por todas partes...
+0007 [Chixia] | He oído que, aunque los muñecos parecen humanos, no tienen alma, así que son blancos fáciles para que los espíritus errantes y los fantasmas los posean...
+0008 [Tú] | Pero aquí hay muchísimos muñecos...
+0009 [Chixia] | Ejem, mejor...==W== Oye, ¿qué estás buscando? Este lugar claramente está vacío, no hay nada que investigar. Salgamos de aquí.
+0010 [Tú] | ¿No fuiste tú quien dijo que confiara en ti? Ya que tu talismán voló hacia acá, al menos deberíamos revisar.
+0011 [Tú] | ¿Eh? ¿Qué será esto...?
+0012 [Chixia] | ¿Un cuaderno...? Hay algo escrito.
+0013 [Chixia] | «Mes de Floris, Día de la Madreselva. Lluvia... Hice planes para ir a la ciudad con él. Es la primera vez que me invita».
+0014 [Chixia] | Parece un diario.
+0015 [Narración] | ==A1==Chixia y yo hojeamos el diario chamuscado.==P== ==A2==Parte de la escritura se ha desvanecido por el tiempo y el daño del agua. Sin embargo, con las partes legibles logramos reconstruir un poco del pasado de quien lo escribió.==P== ==A2==El diario pertenece a una joven. Cuenta cómo conoció a un hombre Loong, cómo se fueron conociendo y finalmente se enamoraron. En cada palabra se sentía su felicidad y su esperanza en el futuro.==P== ==A-2==En la última página del diario dice que mañana era el gran día; su madre le había hecho un vestido ceremonial rojo para la boda tradicional Loong.
+0016 [Tú] | Es una historia tan feliz, pero termina justo antes del día de la boda.==W== ¿Será que... algo salió mal durante la ceremonia?
+0017 [Chixia] | Oye, ==PLAYER_NAME==... ==W==Cuando llegamos, toda la aldea estaba oscura, ¿verdad?
+0018 [Tú] | Sí, salvo por los muñecos.
+0019 [Chixia] | Entonces... ¿Qué está pasando allá?
+0020 [Narración] | Miro hacia donde apunta el dedo de Chixia y veo una suave luz anaranjada brillando en una ventana en la oscuridad.
+0021 [Narración] | Una figura sombría está de pie en la ventana. Parece mirarnos directamente.
+0022 [Tú] | ¡¿Quién está ahí?!
+0023 [Narración] | En un abrir y cerrar de ojos, la sombra de la ventana desaparece. Esa inquietante sensación de ser observados también se esfuma.
+0024 [Tú] | ¿Lo imaginamos nosotros...?
+0025 [Chixia] | Vá, vá, vámonos de regreso.
+0026 [Tú] | ¿¡No eres Xuan Shi!? ¿¡No quieres ir a ver qué pasa ahora mismo!?
+0027 [Chixia] | ¡Ni hablar! Así es exactamente como sucede en todas las películas del Monolito. ¡La curiosidad mató al gato; los que buscan problemas terminan muertos!
+0028 [Chixia] | ¿Qué tal si hacemos esto?
+0029 [Chixia] | Piedra, papel o tijera. Si ganas, nos vamos a casa ahora mismo.
+0030 [Tú] | ¿Y si pierdo?
+0031 [Chixia] | Entonces nos vamos de inmediato.
+0032 [Tú] | ¿No es lo mismo?
+0033 [Tú] | Antes de venir, le di mi palabra a la Oficina Baize. Les dije que traería a Chixia la Xuan Shi y que seguro cumplirías con el trabajo.
+0034 [Chixia] | Eh... Yo...
+0035 [Tú] | Probablemente no sea nada. Quizá esa sombra solo era la cortina ondeando con el viento.
+0036 [Chixia] | ¿Seguro? ¡Eso es exactamente lo que dice la gente justo antes de que la maten en esas películas!
+0037 [Chixia] | ¡¡AHHH!! Maldición...
+0038 [Chixia] | ¡Bien! Toma esto.
+0039 [Tú] | ¿Qué es esto...?
+0040 [Chixia] | Guárdalo en el bolsillo interior. Si las cosas se ponen peligrosas, podría serte útil.
+0041 [Tú] | Espera, ¿¡es el legendario talismán de protección súper útil que todo Trekker debe tener!?
+0042 [Chixia] | ¿Tan famoso es?
+0043 [Tú] | ¡Por supuesto! Dicen que, sin importar lo peligroso que se ponga, si llevas un talismán de protección de Chixia la Xuan Shi, es básicamente como tener una vida extra.
+0044 [Chixia] | Oh... Ya veo...
+0045 [Chixia] | Vaya, soy así de asombrosa, ¿eh?
+0046 [Tú] | Ya que tu talismán es tan poderoso, ¿de qué te preocupas? ¡Vamos, andando!
+0047 [Chixia] | Jeje. Chixia la Xuan Shi definitivamente cumplirá con el trabajo...
+0048 [Chixia] | ¡¿Eh?! ¡Oye! ¡¡Jefe!!==W== ¡Más despacio! ¡Espérame!
+0049 [Narración] | La habitación está vacía, salvo por una vieja mesa de madera tallada con unas cuantas velas rojas encima.
+0050 [Chixia] | Tengo un mal presentimiento...==W== ¡Oye, ==PLAYER_NAME==, ¿vas a entrar así nada más?!
+0051 [Chixia] | Ugh, en serio, ¿de dónde sacas tanto valor? ¿Me compartes un poco...?
+0052 [Tú] | ¿Qué estás murmurando?
+0053 [Chixia] | Nada, nada en absoluto...!
+0054 [Narración] | Listones de seda roja cuelgan de las vigas y pilares de la casa en ruinas, y un harapiento símbolo de «Doble Felicidad» sigue pegado en una de las ventanas rotas.
+0055 [Narración] | El tiempo ha desgastado el vibrante rojo hasta convertirlo en un gris opaco, añadiendo un aire siniestro al lugar.
+0056 [Tú] | ¿Para qué es todo esto? ¿Algún tipo de ceremonia?
+0057 [Chixia] | Parece...==W== ¿una boda tradicional Loong?
+0058 [Tú] | Ah, cierto, el diario mencionaba una boda... ¿Será aquí donde se iba a celebrar la ceremonia?
+0059 [Chixia] | Es posible.==W== Pero... ¿Por qué siguen encendidas estas velas? Y además...
+0060 [Chixia] | ¡¿Por qué estas frutas de la mesa siguen tan frescas?!
+0061 [Tú] | Parecen recién cortadas.
+0062 [Chixia] | Pero la boda debió de ocurrir hace mucho tiempo.
+0063 [Chixia] | ¡Oh, ya lo descubrí!
+0064 [Narración] | Debió de ocurrirle un terrible accidente a la novia el día de su boda; por eso el diario termina ahí. Nunca llegó a la ceremonia, de ahí su rencor persistente...
+0065 [Tú] | ¡Ooh, buena deducción!==W== ¿Así que su espíritu sigue aquí y por eso la aldea está embrujada?
+0066 [Tú] | Quizá esos muñecos también estén conectados: ¿y si su prometido los hizo para recordarla?
+0067 [Chixia] | E-eso, eso significa que «Ella» e-e-está aquí...
+0068 [Narración] | Una ráfaga de viento frío pasa. La luz titilante de las velas estira nuestras sombras sobre la pared, haciéndolas parecer cobrar vida.
+0069 [Chixia] | ¡Gulp!
+0070 [Tú] | Chixia, ¿estás bien? Estás pálida como...
+0071 [Chixia] | Y-y-yo estoy bien. ¡Soy Chixia la Xuan, Xuan... Xuan Shi! ¡Y-y-yo puedo hacerlo!
+0072 [Tú] | En serio, si tienes tanto miedo, mejor nos vamos.
+0073 [Chixia] | ¡No, estoy bien! N-no puedo avergonzar a Yunji ni a la profesión de Xuan Shi.
+0074 [Chixia] | Ejem... He oído que, si alguien muere con arrepentimientos, no puede pasar al más allá. Eso significa que todo lo que tenemos que hacer es...
+0075 [Tú] | ¿Cumplir su último deseo? ¿Recrear lo que pasó ese día?
+0076 [Chixia] | ¡Sí, sí!==W== Mmm, ¿cómo lo supiste?
+0077 [Tú] | Sí... ¿cómo lo supe? Suena a la trama de una película...
+0078 [Chixia] | En fin, ¡seguro que funciona! ¡Ánimo, yo puedo! Jeje.
+0079 [Tú] | Si vamos a recrear lo que pasó ese día, ¿cómo averiguamos exactamente a qué se aferra?
+0080 [Chixia] | Ya que nos guio hasta aquí, debe de ser...
+0081 [Narración] | ¡La boda!
+0082 [Chixia] | No hay viento, ¿entonces por qué titiló la vela...?
+0083 [Tú] | Eh... Entonces eso significa que, si terminamos la boda que nunca pudo celebrar, ==W==¿por fin descansará en paz y podrá partir...?
+0084 [Tú] | Supongo que esto significa... ¿Sí?
+0085 [Chixia] | ¡¡¡¡Ahhhhh!!!! ¡Lo sabía! ¡¡¡Aquí hay un fantasma!!!

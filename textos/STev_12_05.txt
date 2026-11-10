@@ -1,0 +1,145 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! · 5 · Desaparecida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Aggressive Gang Member | Pandillero agresivo
+N:Agitated Citizen | Ciudadano agitado
+N:Angry Trekker | Trekker enojado
+N:Eleanor's Father | Padre de Eleanor
+N:Eleanor's Mother | Madre de Eleanor
+N:General Store Owner | Dueña de la tienda general
+N:Menacing Gang Member | Pandillero amenazante
+N:Sundries Merchant | Comerciante de artículos varios
+N:Weapon Merchant | Comerciante de armas
+N:avg1_137 | Eleanor
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1238 | Chica de la pandilla
+N:avg3_1301 | Artesano de la ONG
+N:avg3_138 | Trekker
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_187 | Residente de Flavio
+N:avg3_199 | Chica de la pandilla
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Desaparecida
+0003 [Intro] | ¡Caterine ha desaparecido! Eleanor y Vivian comienzan a investigar y siguen el rastro de pistas hasta que las lleva a un escondite fuertemente custodiado.
+0004 [Eleanor] | ¡Ah, qué día tan hermoso!
+0005 [Eleanor] | Ya tengo listos su té y sus pastelillos favoritos. Ahora solo falta esperar a las invitadas de honor...
+0006 [???] | ¡Eleanor!
+0007 [Eleanor] | ¿Eh? ¿Caterine llegó temprano?
+0008 [Eleanor] | ¡Caterine, llegaste temprano! Baja la voz, o Vivian te va a regañar...==W== Espera, ¿Vivian?
+0009 [Vivian] | ¡Eleanor! Ca-Caterine...==W== Ella...
+0010 [Eleanor] | ...!
+0011 [Eleanor] | Vivian, respira. Con calma. ¿Qué le pasó a Caterine?
+0012 [Vivian] | ¡Está desaparecida!==W== ¡Nadie la ha visto desde anoche!
+0013 [Eleanor] | ¡¿Qué?!
+0014 [Vivian] | Su familia ya contrató a la Guardia Imperial y a un gremio con experiencia para buscarla...
+0015 [Vivian] | ¿No crees que se haya escapado como tú, verdad? ¿Te comentó algo?
+0016 [Eleanor] | ... No. Ni una palabra.
+0017 [Eleanor] | Además, si hubiera planeado algo, nos lo habría dicho primero.
+0018 [Vivian] | Eso pensé yo también... Pero no tenemos nada más de dónde agarrarnos.
+0019 [Eleanor] | No es momento de desanimarse, Vivian. Si no hay pistas, las buscaremos nosotras mismas.
+0020 [Eleanor] | ¡Padre! ¡Madre!
+0021 [Eleanor's Mother] | Eleanor... Por tu cara, ya te enteraste.
+0022 [Eleanor] | Sí... Caterine desapareció.
+0023 [Eleanor's Father] | No te preocupes. La Guardia Imperial y los Trekkers están colaborando para registrar toda la ciudad. La encontrarán pronto.
+0024 [Eleanor] | ¡Quiero ayudar! Es nuestra mejor amiga...
+0025 [Eleanor's Father] | Sabía que dirías eso.==W== Pero no.
+0026 [Eleanor] | P-Pero...
+0027 [Eleanor's Father] | Silencio. Ve a tu cuarto. Ya le has causado a esta familia suficientes problemas.
+0028 [Eleanor] | ...
+0029 [Vivian] | ¡Eleanor! ¿Cómo te fue?
+0030 [Eleanor] | Padre nos dijo que no nos metamos...
+0031 [Vivian] | ...==W== Suspiro. ¿Entonces no podemos hacer nada para ayudar?
+0032 [Vivian] | Qué frustrante.
+0033 [Eleanor] | No. Tiene que haber algo que podamos hacer.
+0034 [Eleanor] | De hecho... No es la primera vez que me meto en un lío así.==W== Una vez me secuestraron de niña. También pidieron un rescate enorme.
+0035 [Eleanor] | Nuestra jefa de sirvientas intervino y me salvó justo a tiempo.==W== Resulta que había sido Trekker.
+0036 [Tú] | Una Trekker retirada... ¿Ella es la razón por la que quisiste convertirte en una?
+0037 [Eleanor] | Sí. Desde ese día, juré que de grande sería como ella—==W==una adulta genial y capaz que protege a los demás.
+0038 [Eleanor] | Caterine es mi amiga. Si no puedo proteger a quienes más quiero, ¿qué clase de Trekker soy?
+0039 [Eleanor] | No me rendiré. Voy a encontrar a Caterine.
+0040 [Vivian] | Eleanor...
+0041 [Eleanor] | Nadie es más libre que un Trekker. Siempre siguen sus convicciones.
+0042 [Eleanor] | Pero mis padres no se equivocan. Correr como gallinas sin cabeza es ineficiente y estorba a todos.
+0043 [Eleanor] | Pero somos las mejores amigas de Caterine. Eso significa que sabemos cosas que los adultos no.
+0044 [Vivian] | ...!
+0045 [Vivian] | Tienes razón. Debe de haber algo que podamos hacer.
+0046 [Vivian] | Yo no soy como tú, Eleanor... Pero si hay algo que sí puedo hacer...
+0047 [Vivian] | ¡Oh, los registros de chat! Quizá haya pistas ahí.
+0048 [Vivian] | ... Solo son quejas suyas sobre la escuela y cosas así. No destaca nada más...==W== ¿Y tú, Eleanor?
+0049 [Eleanor] | Espera, déjame ver...
+0050 [Caterine] | Tus prácticas terminan mañana, ¿verdad?
+0051 [Eleanor] | Mhm. Los papeles ya están listos, pero todavía no me despido de la dueña.
+0052 [Caterine] | Has estado muy ocupada con los encargos.
+0053 [Caterine] | ¿Quieres que hable con ella por ti?
+0054 [Eleanor] | ¿Segura? ¿No es mucha molestia?
+0055 [Caterine] | No te preocupes. Yo te conseguí el trabajo, déjame encargarme.
+0056 [Caterine] | Tú quédate en casa y descansa.
+0057 [Caterine] | ... ¡Pero no olvides preparar la tarde de té de mañana!
+0058 [Eleanor] | 
+0059 [Eleanor] | Tranquila, eso es lo último que se me olvidaría.
+0060 [Narración] | _NOT_IN_LOG_
+0061 [Eleanor] | ¡Eso es! ¡Voy a la tienda a comprobarlo!
+0062 [Vivian] | ¡Espera, voy contigo!
+0063 [Eleanor] | Vivian...
+0064 [Vivian] | Les diremos que vamos de compras juntas. Eso funcionaría, ¿no?
+0065 [Eleanor] | Está bien... Preparémonos y salgamos.
+0066 [Eleanor] | ¿Hola? ¿Hay alguien?
+0067 [General Store Owner] | ¡Oh, Eleanor! ¡Bienvenida de vuelta! ¿Vienes a comprar Artefactos hoy?
+0068 [Eleanor] | En realidad, necesito preguntarle algo.==W== ¿Caterine pasó por aquí ayer?
+0069 [General Store Owner] | Lady Caterine sí pasó. Incluso me agradeció por cuidarte. Es una joven muy educada.
+0070 [Vivian] | ¿Se veía rara en algún momento?
+0071 [General Store Owner] | La verdad no... ¿Por qué?==W== ¿Le pasó algo?
+0072 [Eleanor] | En realidad...
+0073 [General Store Owner] | ¿Q-Qué? No... ¡¿Lady Caterine...?!
+0074 [Vivian] | Rastreamos sus mensajes hasta aquí. ¿Tiene idea de qué pudo haber pasado?
+0075 [General Store Owner] | Mmm, creo que no...==W== Espera, en realidad...
+0076 [Vivian] | ¿Qué pasa?
+0077 [General Store Owner] | Quizá no tenga relación, pero...
+0078 [Eleanor] | Por favor, díganos. Hasta el detalle más pequeño importa.
+0079 [General Store Owner] | Ayer por la tarde entró un cliente extraño. Cruzó la puerta justo después de que se fue Lady Caterine.
+0080 [General Store Owner] | Dijo que andaba corto de dinero y quería empeñar un Artefacto. Me preguntó si se lo compraba.
+0081 [General Store Owner] | Vi que era falso desde el otro lado de la tienda. Ni siquiera tuve que tocarlo.
+0082 [Eleanor] | ¿Un Artefacto ... falso?
+0083 [General Store Owner] | Sí. En cuanto se lo dije, salió corriendo.
+0084 [Vivian] | ¿Eso pasa seguido?
+0085 [General Store Owner] | Casi nunca. La mayoría no tiene el descaro.
+0086 [Eleanor] | ...==W== ¿Será ... una coincidencia?
+0087 [Vivian] | Eleanor, ¿encontraste algo?
+0088 [Eleanor] | ¿Puede describir exactamente cómo era ese hombre?
+0089 [Vivian] | Aquí fue donde desenmascaraste al vendedor de Artefactos falsos, ¿verdad?
+0090 [Eleanor] | Sí. No sé si está involucrado... Pero ahora mismo es el único hilo que tenemos.
+0091 [Weapon Merchant] | ¡Vaya, pero si es la señorita! ¡Qué casualidad encontrarla otra vez!
+0092 [Weapon Merchant] | ¿Quiere venir a echar un vistazo? No se preocupe, mi tienda es de productos de calidad y precios justos. ¡Inspeccione todo lo que quiera!
+0093 [Sundries Merchant] | ¡Ja! Claramente estás usando a la pobre muchacha para atraer clientes.
+0094 [Weapon Merchant] | B-Bueno... ¡Ejem!==W== En fin, ¡yo definitivamente no vendo falsificaciones!
+0095 [Eleanor] | Eh, en realidad quería preguntarles a ustedes dos por alguien...
+0096 [Sundries Merchant] | No hemos visto a ese estafador desde ese día.
+0097 [Eleanor] | ¿Entonces nadie sabe dónde está ahora?
+0098 [Sundries Merchant] | Pues, esas dos personas que lo enfrentaron antes lograron localizar a otras víctimas. Planeaban unirse e ir a exigir respuestas.
+0099 [Eleanor] | ¿Sabe a dónde fueron?
+0100 [Eleanor] | Deberíamos ir por buen camino, pero esta zona es enorme... ¿Por dónde empezamos?
+0101 [Vivian] | ¡Eleanor, mira allá!
+0102 [Aggressive Gang Member] | ¡Oigan! ¡Dejen de amontonarse en la puerta!
+0103 [Menacing Gang Member] | ¡Atrás, o se van a arrepentir!
+0104 [Angry Trekker] | ¡Quítense del camino! ¡Déjennos pasar!
+0105 [Agitated Citizen] | ¡Abran la puerta! ¡Exijo hablar con el dueño de la tienda!
+0106 [Menacing Gang Member] | Tienen que estar bromeando. Nuestro jefe solo recibe a VIP. Nada de plebeyos. Mucho menos...
+0107 [Menacing Gang Member] | ... alborotadores evidentes como ustedes.
+0108 [Angry Trekker] | Maldito estafador... Contrató a todos estos guardaespaldas...
+0109 [Menacing Gang Member] | ¿A quién le dices estafador, eh? ¿Quieres que te demos una paliza?
+0110 [Vivian] | Eleanor, ¿qué demonios está pasando aquí...?
+0111 [Eleanor] | Mmm... Parece que las cosas se acaban de complicar mucho más.

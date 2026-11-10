@@ -1,0 +1,104 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 6 · El doble
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | El doble
+0003 [Intro] | Shia sabe desde hace tiempo que su abuela escondía algo. Decide adelantarse a investigar antes que los demás. Sin embargo, una figura en la oscuridad la ha estado vigilando todo este tiempo.
+0004 [Tú] | ¿Cómo se supone que les diga esto a Shia y a Karin? Esas anotaciones del diario...
+0005 [Shia] | ... ¿Jefe? ¿Algo te preocupa?
+0006 [Tú] | ¡Guau, Shia! ==W==No te vi.
+0007 [Shia] | Jeje, estabas muy metido en la conversación. Llevo tanto rato parada aquí que se me durmieron las piernas.
+0008 [Tú] | Oh... ¿entonces oíste todo?
+0009 [Shia] | Jeje, no estaba espiando. Solo vine a traerte una chamarra. Está empezando a soplar el viento y no quería que te resfriaras.
+0010 [Shia] | Pero luego vi lo serio que te veías, Jefe,==W== y no me atreví a interrumpirte.
+0011 [Tú] | Qué considerada eres. Gracias.
+0012 [Tú] | Shia se lo está tomando sorprendentemente bien. No es nada como pensé que reaccionaría.
+0013 [Shia] | Sabes, ese cazatesoros que seguía a la abuela... me suena vagamente.
+0014 [Shia] | Encontraron su barco unas semanas después de que la abuela volvió. Ella fue a la casa de su familia a darles el pésame, pero la echaron. Supongo que tenían que culpar a alguien.
+0015 [Shia] | Nuestras familias no han vuelto a hablarse desde entonces. Y es la primera vez que me entero de que dejó un diario.
+0016 [Tú] | Pero él ya no está. No hay forma de verificar si algo de eso es cierto.
+0017 [Tú] | Lo del origen de la luz probablemente fue solo un delirio. Estaba completamente obsesionado con encontrar ese «tesoro de las profundidades».
+0018 [Shia] | «Obsesionado», ¿eh?==W== Jeje. ¿Hay algo que te obsesione a ti, Jefe?
+0019 [Tú] | La verdad... ahora no se me ocurre nada.==W== ¿Y a ti, Shia?
+0020 [Shia] | Mmm...
+0021 [Shia] | ... ¿Eh? El farol se apagó.
+0022 [Tú] | ¿Ese es el que encontré...?
+0023 [Tú] | Pero ayer funcionaba, ¿no?
+0024 [Shia] | El día que lo encontraste, su luz era cegadora. Desde entonces se ha ido atenuando.
+0025 [Tú] | ¿Crees que se descompuso?
+0026 [Shia] | Este farol navegó con la abuela durante años. Varias veces creí que ya estaba muerto, pero ella no me dejaba tirarlo. Solo decía: «Ya se arreglará solo».
+0027 [Shia] | ... Todavía chisporrotea, prendiéndose y apagándose, incluso ahora. Y ella nunca me dijo por qué.
+0028 [Shia] | Siempre me ocultó cosas, hasta cosas triviales como esta. Con su último viaje fue igual... Tuve que enterarme de los detalles por otros.
+0029 [Tú] | Solo es una idea, pero... ¿quizá intentaba mantenerte alejada de esta vida? ¿Para que no tuvieras que arriesgarlo todo en mar abierto como ella?
+0030 [Shia] | Tienes razón, Jefe. Eso es muy de ella. Siempre intentando cargar con todo sola.
+0031 [Shia] | Pero soy su nieta. Rendirme no está en mi sangre.
+0032 [Shia] | Ahora, descubrir la verdad del «Barco fantasma» y lo que realmente le pasó a la abuela... es mi obsesión.
+0033 [Tú] | De tal palo, tal astilla... De verdad se parecen.
+0034 [Shia] | Estoy dispuesta a darlo todo para ver esto hasta el final. Sea cual sea la verdad, puedo soportarla.
+0035 [Shia] | Pero hay algo que no me deja en paz...==W== Jefe, ¿puedo pedirte un favor?
+0036 [Tú] | ¿Qué es?
+0037 [Shia] | Es Karin... Ella adora a la abuela. Nos buscó porque la inspiró mucho su reputación.
+0038 [Shia] | Es una pena que llegara demasiado tarde: la abuela ya había fallecido. Lo que más lamenta Karin es no haberla conocido.
+0039 [Tú] | Así que es eso… Yo pensaba que ustedes dos eran familia.
+0040 [Shia] | En estos años hemos vivido juntas y nos hemos vuelto como una sola... Karin me ayudó a superar los días más oscuros después de que la abuela se fue.
+0041 [Shia] | Siempre admiró a la abuela y esperaba convertirse en una Trekker marina tan fuerte y capaz como ella.==W== Me preocupa… ¿Y si la verdad no era lo que la abuela nos dijo...?
+0042 [Tú] | La impresión podría destrozarla.
+0043 [Shia] | Por eso necesito explorar primero. Reconocer el terreno para prepararme para lo que venga.==W== Jefe, ¿puedes ayudarme a mantener a Karin al margen por ahora?
+0044 [Tú] | ¿Vas a ir sola, Shia?
+0045 [Shia] | Ya hice los cálculos. A toda velocidad, mi tabla de surf puede llevarme al origen de la luz en menos de dos horas.
+0046 [Shia] | En cuanto vea el Barco fantasma, te daré la señal. Si es una falsa alarma... nos reagruparemos. Al menos así la heroína de Karin puede seguir en su pedestal.
+0047 [Shia] | Volveré antes del amanecer pase lo que pase. Si Karin despierta, solo dile que estoy de patrulla. Eso debería evitar que se preocupe.
+0048 [Tú] | Es arriesgado, pero es la forma más rápida de ver la situación con nuestros propios ojos y planear el siguiente paso.
+0049 [Tú] | Adelantarte a explorar es buena idea, Shia. Pero no estoy de acuerdo en mentirle a Karin.
+0050 [Tú] | Si tardas demasiado, sabrá que algo anda mal. No puedes engañarla con una excusa simple.
+0051 [Tú] | Además, si te metes en problemas, necesito trazar una estrategia con Karin. Ella sabe diez veces más que yo sobre combate en el mar.
+0052 [Shia] | Mmm...==W== Tienes razón.
+0053 [Tú] | Mira, entiendo que no quieras que se preocupe. Pero te molesta que tu abuela te ocultara secretos. ¿De verdad quieres hacerle lo mismo a Karin?
+0054 [Shia] | Je... Tienes razón, Jefe. Me convenciste.
+0055 [Shia] | Entonces te dejo a ti darle la noticia. Solo espero que no se enoje demasiado conmigo.
+0056 [Tú] | Está bien, ten cuidado. Si pasa algo...
+0057 [Tú] | ¿P-Por qué me estás oliendo otra vez...?
+0058 [Shia] | ... Tu aroma es tan calmante, Jefe.
+0059 [Shia] | Digamos que es mi amuleto de la suerte~
+0060 [Narración] | Apenas termina de hablar, Shia salta por encima de la barandilla. Su tabla propulsada traza una estela plateada sobre el agua y luego se desvanece en la noche.
+0061 [Tú] | ...==W== Solo regresa antes del amanecer.
+0062 [Karin] | ¡Aaaaaaahhh...!
+0063 [Tú] | Esa voz es... ¡¿Karin?!==W== Tengo que ir a ver cómo está.
+0064 [Karin] | Ugh... ¿Desde cuándo se fue Shia...?
+0065 [Karin] | Me di la vuelta dormida y... mi mano no tocó nada... Pensé que la pesadilla se había hecho realidad...
+0066 [Tú] | Así que era una pesadilla...
+0067 [Tú] | No te preocupes, los sueños y la realidad siempre son al revés.
+0068 [Tú] | Estabas justo a su lado. ¿Cómo no la oíste levantarse? Creí que tenías muy buen oído.
+0069 [Karin] | ¡Lo tengo, pero solo despierta! ¡Una vez dormida, ni los truenos me despiertan!
+0070 [Tú] | ¿De verdad es algo de lo que presumir...?
+0071 [Narración] | Le expliqué brevemente por qué Shia se fue por su cuenta.
+0072 [Tú] | En fin, Shia está explorando adelante. Necesitamos un plan de respaldo listo para cuando dé su señal.
+0073 [Karin] | ¡No te preocupes! Puede que no tenga tanta experiencia de combate como Shia, pero no soy una novata.
+0074 [Karin] | ¡Olvídate de esos matones! ¡Ni un monstruo marino gigante tendría oportunidad contra mí!
+0075 [Tú] | Je, y pensar que Shia temía que te enojaras.
+0076 [Karin] | Hmph, siempre me trata como a una niña, pensando que ella debe ser quien me proteja al frente.
+0077 [Tú] | Después de todo, Shia siempre te ha visto como su hermanita.
+0078 [Tú] | De hecho, me contó lo que pasó cuando se conocieron. Dijo que ahora de verdad eres parte de la familia, así que, por supuesto, quiere cuidarte.
+0079 [Karin] | Espera, ¿hasta eso te contó?
+0080 [Karin] | Está bien, lo dejaré pasar esta vez. Sé que solo intenta hacer lo mejor para mí. Después de todo, somos familia.
+0081 [Karin] | En aquel entonces, todos pensaban que era una niña débil y cobarde, y no querían jugar conmigo… Shia fue la primera persona que de verdad creyó en mí.
+0082 [Karin] | Gracias a su apoyo, recuperé mi fuerza. Desde ese momento, Shia se convirtió en la persona más cercana en mi vida… ¡y siempre lo será!
+0083 [Tú] | Pues cuando tengamos oportunidad, me gustaría oír esa historia.
+0084 [Karin] | ¡La hora del cuento te va a costar! ¡Un pescado seco por frase!
+0085 [Tú] | Cómo te encanta el pescado, ¿eh? ¿Eres medio gata o qué?
+0086 [Karin] | ¡Guau, ¿qué fue eso?!
+0087 [Tú] | Esa sacudida... ¡¿Vino de abajo?!
+0088 [Karin] | ¡Jefe, quédate ahí! ¡Voy a revisar la cubierta!
+0089 [Tú] | ¿Eh? Mi teléfono está sonando... ¿Shia?
+0090 [Shia] | ¡Gracias al cielo! ¡Entró la llamada! Jefe, tienes que salir de ahí,==W== hay...
+0091 [Tú] | ¿Bueno? ¡¿Shia...?!
+0092 [Tú] | ¡Rayos, tengo que encontrar a Karin, ya!
+0093 [Karin] | ... J-Jefe, sal aquí, rápido...
+0094 [Karin] | ¡¿Q-Qué ES esa cosa...?!

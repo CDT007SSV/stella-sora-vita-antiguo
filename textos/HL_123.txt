@@ -1,0 +1,433 @@
+# Heartlink de Ann: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Tú] | ¿?
+A01.0002 [Ann] | No
+A01.0003 [Ann] | Yo soy
+A01.0004 [Ann] | Ann
+A01.0005 [Ann] | ¡
+A01.0006 [Tú] | Ah, eres tú
+A01.0007 [Tú] | ¿Le pediste prestado este celular al jefe de la aldea?
+A01.0008 [Ann] | Sí
+A01.0009 [Ann] | Yo soy
+A01.0010 [Ann] | Ann
+A01.0011 [Ann] | Escribiendo
+A01.0012 [Ann] | Ahora
+A01.0013 [Tú] | Escribes lento y quieres que te espere, ¿verdad?
+A01.0014 [Ann] | Je
+A01.0015 [Ann] | fe
+A01.0016 [Ann] | cito
+A01.0017 [Tú] | Increíble
+
+## Conversación A02
+A02.0001 [Ann] | Quiero
+A02.0002 [Ann] | Practicar
+A02.0003 [Ann] | Mi
+A02.0004 [Ann] | ¡Escritura!
+A02.0005 [Opción] | Guau, estás progresando mucho~
+A02.0006 [Opción] | ¿Podrás seguirme el ritmo~?
+A02.0007 [Ann] | Fiuuu...
+A02.0008 [Ann] | Quiero
+A02.0009 [Ann] | Ser más rápida
+A02.0010 [Tú] | ¡Jojojo~
+A02.0011 [Tú] | ¿Podrás seguirme el ritmo~?
+A02.0012 [Ann] | Quieres
+A02.0013 [Ann] | Competir
+A02.0014 [Ann] | Coco
+A02.0015 [Ann] | Con
+A02.0016 [Ann] | Coco
+A02.0017 [Tú] | Olvídalo, solo bromeaba~
+A02.0018 [Ann] | Hmph
+A02.0019 [Ann] | Fiuuu...
+A02.0020 [Ann] | Ya es hora
+A02.0021 [Ann] | Prometí
+A02.0022 [Ann] | Solo 10 de celular
+A02.0023 [Ann] | Tengo que ayudar
+A02.0024 [Ann] | Trabajo del campo
+A02.0025 [Tú] | Eres muy buena niña. Hablamos luego~
+A02.0026 [Ann] | ¡Sí!
+
+## Conversación A03
+A03.0001 [Ann] | Snif
+A03.0002 [Tú] | ¿Qué pasa, pequeña Ann?
+A03.0003 [Ann] | Quiero
+A03.0004 [Ann] | Crecer más
+A03.0005 [Opción] | Si comes bien y duermes mucho todos los días, seguro crecerás más
+A03.0006 [Opción] | Depende de tus genes
+A03.0007 [Tú] | Ann, solo crecerás más si comes bien y duermes mucho todos los días
+A03.0008 [Ann] | De veras
+A03.0009 [Tú] | De veras
+A03.0010 [Ann] | De veras de veras
+A03.0011 [Tú] | De veras de veras
+A03.0012 [Ann] | Entonces
+A03.0013 [Ann] | Te creo
+A03.0014 [Ann] | Jefecito
+A03.0015 [Ann] | Qué son
+A03.0016 [Ann] | Genes
+A03.0017 [Tú] | Es algo con lo que naces
+A03.0018 [Ann] | Mmm
+A03.0019 [Ann] | Entonces Jefecito
+A03.0020 [Ann] | Tiene genes
+A03.0021 [Ann] | Listos
+A03.0022 [Tú] | Jajaja... Gracias
+A03.0023 [Tú] | Espera, ¿por qué siento que ella es quien me consuela a mí?
+A03.0024 [Tú] | De hecho, Ann, has estado creciendo en secreto por las noches todo este tiempo
+A03.0025 [Tú] | Ya no te cabe la ropa de hace unos años, ¿verdad?
+A03.0026 [Ann] | ¡Sí! ¡Sí!
+A03.0027 [Ann] | ¡Ya entendí!
+A03.0028 [Ann] | Entonces voy a
+A03.0029 [Ann] | ¡Dormir ahora mismo!
+A03.0030 [Tú] | Acuérdate de devolverle el celular al jefe de la aldea antes de dormirte
+
+## Conversación A04
+A04.0001 [Ann] | mumu
+A04.0002 [Tú] | ¿mumu?
+A04.0003 [Ann] | mumumu
+A04.0004 [Opción] | ¡mumumu!
+A04.0005 [Opción] | ¡mufuuuuu!
+A04.0006 [Opción] | ¡hamuhamu!
+A04.0007 [Ann] | mumumu~
+A04.0008 [Tú] | ¡mufuuuu!
+A04.0009 [Ann] | ¡mumumu!
+A04.0010 [Ann] | No sé esto
+A04.0011 [Ann] | Jefecito pierde
+A04.0012 [Tú] | ¿Qué animal hace este sonido?
+A04.0013 [Ann] | Bestia camello
+A04.0014 [Tú] | Je~
+A04.0015 [Tú] | ¿Cómo lo supiste, Ann?
+A04.0016 [Ann] | Ayudo en la granja
+A04.0017 [Ann] | Leo libros en casa del Abuelo Chai
+A04.0018 [Tú] | Ah, ya veo
+A04.0019 [Ann] | Quiero ver
+A04.0020 [Ann] | Una bestia camello de verdad
+A04.0021 [Ann] | Pero...
+A04.0022 [Ann] | aquí no viven
+A04.0023 [Tú] | Jeje~ Tengo una aquí mismo
+A04.0024 [Ann] | ¿¡De veras!?
+A04.0025 [Ann] | ¿¡Dónde!?
+A04.0026 [Tú] | Pasaremos en un rato y te llevaremos a dar un paseo
+A04.0027 [Tú] | Es una recompensa por tu arduo trabajo ayudando en la aldea
+A04.0028 [Ann] | ¡VIVA!
+
+## Conversación A05
+A05.0001 [Ann] | ¡Jefecito!
+A05.0002 [Ann] | ¿Estás ahí?
+A05.0003 [Tú] | Aquí estoy
+A05.0004 [Tú] | ¿Qué pasa?
+A05.0005 [Ann] | Vi
+A05.0006 [Ann] | ¡Dos adultos vestidos de negro!
+A05.0007 [Ann] | Creo que están
+A05.0008 [Ann] | ¡Arruinando los campos!
+A05.0009 [Opción] | ¿Estás segura?
+A05.0010 [Opción] | Mantén la calma, espera a que llegue
+A05.0011 [Opción] | ¿Qué? ¡Que Coco se encargue de ellos!
+A05.0012 [Tú] | ¿Serán solo espantapájaros?
+A05.0013 [Ann] | ¡Para nada!
+A05.0014 [Ann] | ¡Los espantapájaros no se mueven!
+A05.0015 [Tú] | Pensé que creías en los cuentos de hadas.
+A05.0016 [Tú] | Mantén la calma, Ann, y espera a que llegue
+A05.0017 [Ann] | ¡No puedo!
+A05.0018 [Ann] | ¡Esto no puede esperar!
+A05.0019 [Tú] | No es que puedas hacer algo, quédate quieta
+A05.0020 [Ann] | ¡Noesperanoesperanoespera!
+A05.0021 [Ann] | ¡Tienes toda la razón, Jefecito!
+A05.0022 [Ann] | ¡No podemos dejar que escapen!
+A05.0023 [Tú] | Espera, solo estaba diciendo tonterías
+A05.0024 [Tú] | No irás tras ellos en serio, ¿verdad?
+A05.0025 [Ann] | ¡No puedo quedarme sentada!
+A05.0026 [Ann] | ¡Voy!
+A05.0027 [Tú] | ¡Oye, espera!
+A05.0028 [Tú] | ¿Ann?
+
+## Conversación A06
+A06.0001 [Ann] | Está lloviendo
+A06.0002 [Tú] | Aquí también está lloviendo
+A06.0003 [Ann] | Coco
+A06.0004 [Ann] | Está sacando la lengua
+A06.0005 [Tú] | Es que cuando llueve se pone muy bochornoso
+A06.0006 [Ann] | Mmm
+A06.0007 [Ann] | Fiuuu...
+A06.0008 [Tú] | ¿Qué haces?
+A06.0009 [Ann] | Estoy soplando aire
+A06.0010 [Ann] | Desde mi celular
+A06.0011 [Ann] | Hacia Jefecito
+A06.0012 [Opción] | No te esfuerces demasiado
+A06.0013 [Opción] | Qué fresquito
+A06.0014 [Tú] | No te esfuerces demasiado, Ann
+A06.0015 [Tú] | Que lo haga Coco
+A06.0016 [Ann] | No hace falta
+A06.0017 [Ann] | Bubble lo hace por nosotras
+A06.0018 [Tú] | Qué envidia...
+A06.0019 [Tú] | ¡Qué fresquito está~!
+A06.0020 [Ann] | De veras
+A06.0021 [Ann] | Entonces haré que Bubble lo haga
+A06.0022 [Tú] | ¿Eh? ¡Espera!
+A06.0023 [Ann] | ¡Ah!
+A06.0024 [Ann] | El celular
+A06.0025 [Ann] | ¡Salió volando!
+A06.0026 [Tú] | ¡Ya tuve suficiente aire! ¡Aquí hace fresco!
+A06.0027 [Tú] | ¡Ya puedes parar!
+A06.0028 [Tú] | Oh, creo que dejó de llover
+A06.0029 [Ann] | ¡Guau, tienes razón!
+A06.0030 [Ann] | ¡Voy a salir a jugar!
+A06.0031 [Tú] | ¡No olvides ponerte tus botas de lluvia!
+
+## Conversación A07
+A07.0001 [Ann] | ¡Jefecito!
+A07.0002 [Ann] | Tengo una sorpresa para ti
+A07.0003 [Ann] | Adivina
+A07.0004 [Opción] | Un tablero de dibujo
+A07.0005 [Opción] | Una medalla
+A07.0006 [Opción] | La Experiencia Coco por un día
+A07.0007 [Tú] | Déjame pensar
+A07.0008 [Tú] | Es un tablero de dibujo, ¿verdad?
+A07.0009 [Ann] | Ah
+A07.0010 [Ann] | ¿A Jefecito le gusta dibujar?
+A07.0011 [Ann] | Entonces te
+A07.0012 [Ann] | ¡Doy el nuevo!
+A07.0013 [Tú] | Guau, ¿en serio lo decías?
+A07.0014 [Tú] | Espera, querías darme otra cosa, ¿verdad?
+A07.0015 [Ann] | ¡Ah, cierto!
+A07.0016 [Tú] | ¿Será una medalla de reconocimiento?
+A07.0017 [Ann] | Esa todavía no la hice
+A07.0018 [Ann] | ¡Espera!
+A07.0019 [Ann] | ¡Todavía no es hora del premio!
+A07.0020 [Ann] | ¡Jefecito no me oyó decir eso!
+A07.0021 [Ann] | ¡Eso no cuenta!
+A07.0022 [Tú] | Vale~
+A07.0023 [Tú] | Gracias de todos modos.
+A07.0024 [Tú] | La Experiencia Coco por un día
+A07.0025 [Ann] | ¿Eh?
+A07.0026 [Ann] | Jefecito
+A07.0027 [Ann] | ¿Quieres ser Coco por un día? Correr libre por el bosque se siente muy bien
+A07.0028 [Tú] | Espera un momento...
+A07.0029 [Tú] | ¿Por qué pensarías eso...
+A07.0030 [Tú] | Me rindo, enséñame
+A07.0031 [Ann] | Jaja
+A07.0032 [Ann] | ¡Ven a ver!
+A07.0033 [Ann] | ¡¿Qué te parece!?
+A07.0034 [Tú] | ¿Son hierbas cualquiera?
+A07.0035 [Ann] | ¡No son hierbas!
+A07.0036 [Ann] | ¡Son fresas!
+A07.0037 [Ann] | Las estoy cultivando
+A07.0038 [Ann] | Cuando maduren se las daré a Jefecito
+A07.0039 [Ann] | El Abuelo Chai dice que puedo sembrar más
+A07.0040 [Ann] | ¡Puedo dárselas a Noya y a todos los demás!
+A07.0041 [Tú] | Debo decir que no me esperaba esto
+A07.0042 [Tú] | Gracias, pequeña Ann~
+A07.0043 [Ann] | ¿Tienes ganas de que maduren?
+A07.0044 [Tú] | ¡Tengo muchísimas ganas!
+A07.0045 [Sistema] | Esperas con ansias a que maduren las deliciosas fresas.
+
+## Conversación A08
+A08.0001 [Tú] | ¡Bip bip~
+A08.0002 [Tú] | El Jefe omnisciente y todopoderoso te
+A08.0003 [Tú] | desea un
+A08.0004 [Tú] | Feliz cumpleaños
+A08.0005 [Tú] | ¡Bip bip~
+A08.0006 [Ann] | ¡Guau!
+A08.0007 [Ann] | ¡Increíble!
+A08.0008 [Ann] | ¡¿Cómo lo supiste, Jefecito!?
+A08.0009 [Tú] | Jeje~
+A08.0010 [Tú] | Soy el Jefe, ¿hay algo que yo no sepa?
+A08.0011 [Tú] | Traje un pastelito para nuestra cumpleañera
+A08.0012 [Ann] | Oh...
+A08.0013 [Ann] | Pero ya comí
+A08.0014 [Ann] | Estoy algo llena...
+A08.0015 [Tú] | Ya veo
+A08.0016 [Tú] | Bueno, entonces...
+A08.0017 [Ann] | ¡Pregunta!
+A08.0018 [Ann] | ¿Cuándo es el cumpleaños de Jefecito?
+A08.0019 [Tú] | ¿Eh? Pues...
+A08.0020 [Ann] | ¡Diez! ¡Nueve! ¡Ocho! ¡Siete!
+A08.0021 [Ann] | ¡Tres! ¡Dos! ¡Uno!
+A08.0022 [Ann] | ¡Se acabó el tiempo!
+A08.0023 [Ann] | No pude recordar
+A08.0024 [Ann] | Así que solo puedo comer la mitad del pastel
+A08.0025 [Ann] | Cuando recuerde el cumpleaños de Jefecito
+A08.0026 [Ann] | ¡Podré comer la otra mitad!
+A08.0027 [Tú] | Vale, entonces es un trato~
+
+## Conversación A09
+A09.0001 [Tú] | ¿Llegaste a casa?
+A09.0002 [Tú] | Fue un entrenamiento duro, gracias por llevar a Coco y a Bubble contigo
+A09.0003 [Tú] | ¿Mm?
+A09.0004 [Opción] | Ann, pórtate bien
+A09.0005 [Opción] | Qué gusto verle por aquí, Jefe de la aldea
+A09.0006 [Tú] | ¿?
+A09.0007 [Tú] | No eres Ann, ¿verdad?
+A09.0008 [Tú] | ¿?
+A09.0009 [Tú] | No eres Ann, ¿verdad?
+A09.0010 [Tú] | Será que...
+A09.0011 [Tú] | Eh, ¿Coco?
+A09.0012 [Tú] | ¿En serio?
+A09.0013 [Tú] | Me sorprende que se me ocurriera eso al instante...
+
+## Conversación A10
+A10.0001 [Ann] | ¡Jefecito!
+A10.0002 [Ann] | ¡Esa cosa de hace rato!
+A10.0003 [Ann] | zi~~~~~
+A10.0004 [Ann] | ¡pia!
+A10.0005 [Ann] | Tan tan~
+A10.0006 [Ann] | ¿Qué fue?
+A10.0007 [Tú] | ¿Te refieres al Disco Rúnico?
+A10.0008 [Tú] | De los que reproducen música
+A10.0009 [Ann] | ¡La música es bonita!
+A10.0010 [Ann] | Pero
+A10.0011 [Ann] | También oí
+A10.0012 [Ann] | Voces de otros
+A10.0013 [Tú] | ¿Te sonaron familiares?
+A10.0014 [Ann] | Mmm
+A10.0015 [Ann] | No sé
+A10.0016 [Ann] | Una era muy suave
+A10.0017 [Ann] | La otra muy confiable
+A10.0018 [Ann] | Mmm
+A10.0019 [Ann] | Y había otra más
+A10.0020 [Ann] | Un poquito como Coco
+A10.0021 [Ann] | Pero distinta
+A10.0022 [Tú] | Quizá puedas volver a verlas en tus sueños
+A10.0023 [Ann] | ¡Ah, cierto!
+A10.0024 [Ann] | ¡Gracias, Jefecito!
+A10.0025 [Ann] | ¡Lo voy a intentar!
+
+## Conversación B01
+B01.0001 [Ann] | Coco
+B01.0002 [Ann] | Odia
+B01.0003 [Ann] | Los baños...
+B01.0004 [Ann] | Muy sucia
+B01.0005 [Tú] | Parece que Ignis de verdad es débil contra Aqua.
+B01.0006 [Ann] | ¿Mm?
+B01.0007 [Tú] | Ejem
+B01.0008 [Tú] | Digo, como Coco usa magia de fuego
+B01.0009 [Tú] | es lógico que odie el agua.
+B01.0010 [Tú] | Solo límpiale las manchas con una toalla húmeda. Sécala después.
+B01.0011 [Ann] | ¡Okis!
+B01.0012 [Ann] | Voy
+B01.0013 [Ann] | A
+B01.0014 [Ann] | ¡Atraparla!
+B01.0015 [Tú] | No te emociones demasiado, ¿vale?
+
+## Conversación B02
+B02.0001 [Ann] | ¡Oye, Jefecito!
+B02.0002 [Ann] | Cómo
+B02.0003 [Ann] | se
+B02.0004 [Ann] | sacan fotos
+B02.0005 [Tú] | ¿Mm? ¿Quieres aprender a tomar fotos?
+B02.0006 [Ann] | ¡Sí!
+B02.0007 [Tú] | Busca en tu celular el ícono que parece un Capturador de Fotos.
+B02.0008 [Tú] | Tócalo y ya estás lista para tomar fotos.
+B02.0009 [Ann] | ¿Y luego?
+B02.0010 [Tú] | Después de eso, tendrás que descubrirlo tú misma.
+B02.0011 [Tú] | Primero prueba a fotografiar a las personas y cosas a tu alrededor.
+B02.0012 [Ann] | Voy
+B02.0013 [Ann] | ¡a practicar!
+B02.0014 [Ann] | ¡Okis!
+B02.0015 [Tú] | ¡Qué ganas de ver tus fotos!
+
+## Conversación B03
+B03.0001 [Ann] | Bubble
+B03.0002 [Ann] | acaba
+B03.0003 [Ann] | de estornudar tan fuerte
+B03.0004 [Ann] | ¡Salió volando!
+B03.0005 [Tú] | Jaja, me lo imagino.
+B03.0006 [Tú] | Por cierto,
+B03.0007 [Tú] | ¿cómo se conocieron ustedes dos?
+B03.0008 [Ann] | Yo
+B03.0009 [Ann] | Coco
+B03.0010 [Ann] | Vimos unos malos con máscaras.
+B03.0011 [Tú] | Oh, ¿así que la rescataste de ellos?
+B03.0012 [Tú] | Ahh, tiene sentido.
+B03.0013 [Tú] | Claro, nuestra Capitana del Escuadrón de Exploración al rescate.
+
+## Conversación B04
+B04.0001 [Ann] | Yo...
+B04.0002 [Ann] | Me metí en problemas
+B04.0003 [Tú] | ¿Qué pasó?
+B04.0004 [Ann] | Buaaa
+B04.0005 [Ann] | Yo
+B04.0006 [Ann] | te
+B04.0007 [Ann] | extraño, Jefecito…
+B04.0008 [Ann] | Coco y yo
+B04.0009 [Ann] | Nos
+B04.0010 [Ann] | Escapamos
+B04.0011 [Ann] | Y nos perdimos...
+B04.0012 [Tú] | Ay, ay, ay.
+B04.0013 [Tú] | Sabes que puedes escribirme si me extrañas.
+B04.0014 [Ann] | Yo
+B04.0015 [Ann] | quiero verte
+B04.0016 [Tú] | Si le pides perdón al jefe de la aldea como se debe,
+B04.0017 [Tú] | pasaré a visitarte la próxima vez que ande por la zona.
+B04.0018 [Ann] | ¡Pediré perdón!
+B04.0019 [Tú] | Buena niña.
+B04.0020 [Tú] | Te llevaré tus botanas favoritas.
+B04.0021 [Ann] | Coco dice
+B04.0022 [Ann] | que ella también quiere
+B04.0023 [Tú] | Tranquila, hay de sobra para las dos.
+
+## Conversación B05
+B05.0001 [Ann] | Yo...
+B05.0002 [Ann] | Tuve una pesadilla
+B05.0003 [Ann] | con
+B05.0004 [Ann] | gente que se parecía a mí
+B05.0005 [Ann] | Muchísimas
+B05.0006 [Ann] | Querían llevarme lejos
+B05.0007 [Tú] | Pero no te irías con ellas, ¿verdad?
+B05.0008 [Ann] | Sí...
+B05.0009 [Ann] | Me gusta estar aquí
+B05.0010 [Ann] | No quiero irme
+B05.0011 [Tú] | Entonces está bien.
+B05.0012 [Tú] | Si no quieres irte, no pasará.
+B05.0013 [Ann] | ¿Por qué?
+B05.0014 [Tú] | Porque las pesadillas solo intentan asustarte.
+B05.0015 [Tú] | Son débiles si no tienes miedo.
+B05.0016 [Ann] | ¡Oh!
+B05.0017 [Ann] | ¡Gracias, Jefecito!
+B05.0018 [Ann] | Entonces tampoco tendré miedo de
+B05.0019 [Ann] | tus pesadillas
+B05.0020 [Ann] | Porque yo voy a
+B05.0021 [Ann] | ¡protegerte!
+B05.0022 [Tú] | Sabía que podía contar contigo.
+
+## Conversación B06
+B06.0001 [Ann] | Yo
+B06.0002 [Ann] | Acabo de perder
+B06.0003 [Ann] | ¡Un diente!
+B06.0004 [Tú] | ¡
+B06.0005 [Tú] | ¿Cómo pasó?
+B06.0006 [Ann] | El jefe de la aldea dice
+B06.0007 [Ann] | que se me están cayendo los dientes de leche
+B06.0008 [Tú] | Me diste un susto de muerte... Qué bueno que estás bien.
+B06.0009 [Ann] | Pero ahora que se salió
+B06.0010 [Ann] | ¿Qué hago con él?
+B06.0011 [Opción] | Ponlo bajo tu almohada
+B06.0012 [Opción] | Lánzalo al techo
+B06.0013 [Tú] | Un hada viene por la noche y lo cambia por una Dorra.
+B06.0014 [Ann] | Entonces
+B06.0015 [Ann] | ¡no me voy a dormir!
+B06.0016 [Ann] | ¡Quiero esperarla despierta y jugar con ella!
+B06.0017 [Tú] | ¿Desvelarte toda la noche otra vez? ¿Como la última vez?
+B06.0018 [Tú] | ¿Mm?
+B06.0019 [Ann] | Uf...
+B06.0020 [Ann] | Lo siento...
+B06.0021 [Ann] | ¿Mm?
+B06.0022 [Ann] | ¿Por qué?
+B06.0023 [Tú] | Sinceramente, no tengo idea.
+B06.0024 [Tú] | Pero mis amigos de Loong y de Goodwind me dicen que así se hace.
+B06.0025 [Ann] | ¡Jefecito conoce a mucha gente!
+B06.0026 [Ann] | ¿A todos se les cayeron
+B06.0027 [Ann] | también los dientes?
+B06.0028 [Tú] | Sip.
+B06.0029 [Tú] | Así crecen todos.
+B06.0030 [Sistema] | Ann se ha desconectado.
+B06.0031 [Sistema] | Ann se ha conectado.
+B06.0032 [Ann] | Hace un momento
+B06.0033 [Ann] | ¡Lo lancé hasta allá arriba!
+B06.0034 [Tú] | Buen trabajo.
+B06.0035 [Tú] | Perder un diente es prueba de que ya estás creciendo.
+B06.0036 [Ann] | ¡¿En serio?!
+B06.0037 [Ann] | Entonces quiero
+B06.0038 [Ann] | ¡perder un montón!
+B06.0039 [Tú] | Eso es más bien de uno en uno…

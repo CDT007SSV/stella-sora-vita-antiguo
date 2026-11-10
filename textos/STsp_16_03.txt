@@ -1,0 +1,102 @@
+# Nova Times #16 · La vida continúa · 3 · Life Goes On (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Assertive Trekker | Trekker convencido
+N:Skeptical Trekker | Trekker escéptico
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_1208 | Trekker
+N:avg1_150 | Laru
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_150 | Albedo
+N:avg3_973 | Trekker de paso
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La vida continúa (Parte III)
+0003 [Intro] | El acalorado conflicto se sofoca al fin, pero los planes del día quedan totalmente desbaratados. Quizá Willow siempre ha tenido la respuesta a si tanto ajetreo realmente tiene sentido.
+0004 [Willow] | ¿Por qué hay tanta gente reunida aquí...?==W== ¿Qué pasó?
+0005 [Assertive Trekker] | ¡Conozco gente que ya salió a buscar ese Monolito! ¡Cuando regresen, sabremos con certeza si el rumor es cierto!
+0006 [Skeptical Trekker] | ¿Sabes lo que dice de ti que te lo creas? ¡Que eres un cabeza hueca! ¡Jajajaja!
+0007 [Assertive Trekker] | ¿Qué dijiste? ¡Atrévete a repetirlo!
+0008 [Tilia] | ¡Oigan, oigan, ya basta! ¡Sepárense todos!
+0009 [Tilia] | ¡Oh! ¡Willow! ¡Por aquí!
+0010 [Willow] | ¿Qué pasó aquí?
+0011 [Tilia] | Parece que se pelearon por un rumor...
+0012 [Willow] | ¿Qué rumor?
+0013 [Tilia] | No sé quién lo empezó, pero se dice que hay un Monolito en el Continente de Nova donde puedes llevarte un Artefacto gratis. Sin deseo, sin precio.
+0014 [Tilia] | Últimamente todos hablan de eso. Algunos están totalmente convencidos, y otros piensan que es una tontería...
+0015 [Tilia] | Los dos bandos se acaloraron y casi llegan a los golpes. Estábamos de patrulla cuando se puso feo, así que tuvimos que intervenir y separarlos.
+0016 [Willow] | ¿Un Monolito que no pide deseo ni cuesta nada? ¿Qué más tenemos para respaldar este rumor?
+0017 [Skeptical Trekker] | Nada. Nada que yo sepa. Sinceramente, solo un tonto caería en una ganga gratis como esa.
+0018 [Laru] | De acuerdo. Es demasiado bueno para ser verdad.
+0019 [Willow] | ¿Por qué nos acompañaste?
+0020 [Laru] | ¡Como si me fuera a perder un asiento de primera fila para un buen drama!
+0021 [Laru] | Pero en serio, si un Monolito fuera tan conveniente, otros Trekkers ya lo habrían dejado limpio hace tiempo. No hay manera de que apenas se descubriera ahora.
+0022 [Assertive Trekker] | ¡Hay un montón de Monolitos allá afuera! ¡Es perfectamente normal que un par de ellos pasen desapercibidos!
+0023 [Assertive Trekker] | ¡Además, nadie tiene pruebas sólidas de que sea una noticia falsa! ¿Y si es real?
+0024 [Willow] | Tiene razón. No debemos sacar conclusiones antes de conocer la verdad.
+0025 [Willow] | Hagamos esto: que la Asociación de Trekkers lo investigue.
+0026 [Willow] | Nuestro trabajo es ayudar a los Trekkers a compartir información, lo que significa que es nuestro deber verificarla.
+0027 [Willow] | Si alguien tiene pistas, sin importar dónde las haya escuchado, por favor repórtenlas a nuestro personal. Necesitamos su cooperación para llegar al fondo del asunto.
+0028 [Assertive Trekker] | ¡Yo voy con ustedes! ¿Alguien más se apunta?
+0029 [Tilia] | Buena jugada, Willow. Hace unos segundos se estaban agarrando del cuello.
+0030 [Willow] | Si tienen pistas, por favor vayan a la Asociación y regístrense. Los demás, ya pueden retirarse.
+0031 [Tilia] | Ahora que la Guardia Imperial está involucrada, publicaremos cualquier novedad oficial directamente en el tablón de avisos.
+0032 [Tilia] | Si no están involucrados, ¡dejen de bloquear la calle! ¡Las multitudes solo buscan problemas! Vayan a casa y esperen las noticias, todos. ¡Cuídense!
+0033 [Laru] | Muy bien,==W== eso es todo...
+0034 [Laru] | ¿Y ahora qué? Cena y un respiro, ¿no?
+0035 [Willow] | ¿Estás bromeando? Hay gente en camino a la Asociación para dar sus declaraciones. Comeremos después.
+0036 [Laru] | ¿En serio? ¡Ya casi oscurece y sigues con esto! ¿No pueden volver mañana?
+0037 [Willow] | Mañana trae su propio trabajo. No puedo despedir a quienes vinieron desde tan lejos con pistas.
+0038 [Laru] | No lo entiendo.==W== Trabajas así todos los días. ¿No te desgasta?
+0039 [Willow] | Mmm...==W== ¿La verdad no? No siento que me esté exigiendo demasiado.
+0040 [Willow] | Además, me gusta mantenerme ocupada. No te preocupes por mí.
+0041 [Laru] | Espera...==W== Mantenerse ocupada es una cosa, pero tu agenda es puro trabajo.
+0042 [Laru] | ¡Yo no sobreviviría! ¡El trabajo se trata de equilibrio! ¡Saber cuándo holgazanear es crucial!
+0043 [Willow] | Buen punto. Pero me importan los Trekkers.
+0044 [Willow] | La Asociación de Trekkers es su hogar. Todo lo que hacemos protege sus derechos y los mantiene a salvo.
+0045 [Willow] | Así que para mí,==W== la satisfacción que me da el trabajo es su propia recompensa.
+0046 [Laru] | Mmm...==W== Supongo...
+0047 [Laru] | ¡Pero hasta el trabajo más significativo necesita un cuerpo sano! ¡Descansar importa!
+0048 [Laru] | ¿Cuándo fue la última vez que te tomaste un día libre?==W== Deberías aprovechar este calor para tomar unas vacaciones de verano pagadas...
+0049 [Willow] | Laru, mira hacia la calle...==W== ¿Esa no es Albedo?
+0050 [Laru] | ¿Quién?==W== ¡¿Por qué está aquí?!
+0051 [Laru] | ¡Ay, no, me largo! ¡Nos vemos!
+0052 [Willow] | ...
+0053 [Willow] | Siempre tan rápida para huir...==W== Je.
+0054 [Albedo] | Willow, ¿esa era Laru? ¿Estaban juntas?
+0055 [Willow] | Le pedí que me echara una mano. Ha sido una tarde de locos.
+0056 [Albedo] | ¿Laru ayudando? Eso es raro. ¿Qué sigue,==W== cerdos voladores?
+0057 [Willow] | Pero salió corriendo de pánico. Seguro ya está escondida en su oficina.
+0058 [Albedo] | No importa, de todos modos no la buscaba a ella. En realidad necesito hablar contigo de algo.==W== ¿Tienes un minuto?
+0059 [Willow] | Claro. ¿Quieres hablar en mi oficina? De todos modos voy de regreso a la Casa de los Trekkers.
+0060 [Albedo] | Gracias. Acepto tu oferta.
+0061 [Willow] | Supongo que el trabajo planeado de hoy ...==W== tendrá que esperar hasta mañana.
+0062 [Willow] | Otro hermoso día allá afuera...
+0063 [Willow] | Brisa suave, luz tenue del sol...==W== Perfecto para pasear.
+0064 [Willow] | ... Pero ni siquiera he tocado el papeleo de ayer. No tengo nada de tiempo.
+0065 [Willow] | Además, necesito hablar con la sede central de lo que la señorita Albedo mencionó ayer, y pronto.
+0066 [Willow] | Y==W== dudo que avance mucho con el trabajo de hoy tampoco.
+0067 [Willow] | Ahora que lo pienso, hace siglos que no me tomo un descanso. ¿Cuándo fue la última vez que pedí permiso?
+0068 [Willow] | Ah, con razón Laru me dice trabajólica...
+0069 [Willow] | Estoy empezando a divagar. Quizá sea hora de tomar unas vacaciones.
+0070 [Willow] | ¿Mm? Ese grupo me suena.
+0071 [Passing Trekker] | ¡Buenos días, Willow! ¡Nuestro gremio volvió sano y salvo!
+0072 [Passing Trekker] | ¡El equipo y la información de la Asociación de Trekkers nos salvaron la vida! ¡Gracias!
+0073 [Willow] | ¡Con gusto! Es mi trabajo.
+0074 [Passing Trekker] | ¡Jaja, siempre tan modesta!
+0075 [Passing Trekker] | ¡Cuando descansemos, pasaremos a agradecerte como se debe!
+0076 [Willow] | ¡Vayan, descansen! ¡Aquí estaré!
+0077 [Willow] | ...
+0078 [Willow] | Eso siempre se siente bien...
+0079 [Willow] | Sí, esta rutina diaria no está tan mal.
+0080 [Willow] | Apoyar a los Trekkers aquí afuera, lejos de los Monolitos, hace que todo valga la pena.
+0081 [Willow] | Este es el camino que elegí,==W== y la vida cotidiana que he llegado a amar.
+0082 [Willow] | Bien, ha comenzado un nuevo día.
+0083 [Willow] | ¡A encargarme del trabajo de hoy! ♪

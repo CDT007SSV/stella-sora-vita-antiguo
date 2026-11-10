@@ -1,0 +1,119 @@
+# Capítulo 1 · Final: Un futuro sin Trekkers
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Girl with a Lantern | Chica del farol
+N:Girl with a Mirror | Chica del espejo
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_129 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_168 | Chica
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | El final
+0002 [Intro] | Un futuro sin Trekkers
+0003 [Intro] | Atascado, decides dejar que el tiempo resuelva tus problemas,==RT==pero el tiempo no está de tu lado. Años después, perdido en la desesperación, te empujan a un río y te ahogas.
+0004 [Lugar y hora] | 21:00, 27 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0005 [Rainea] | Señorita Minova, nos vamos a dormir.
+0006 [Minova] | Buenas noches. Dulces sueños.
+0007 [Rainea] | Nochecita.
+0008 [Neuvira] | Jefa, nosotras también nos vamos a la cama. Todavía tenemos el cerebro frito.
+0009 [Vollara] | Zzz...
+0010 [Minova] | Vollara, quítate los lentes de sol antes de dormir.
+0011 [Minova] | Tú también debes de estar agotada, Neuvira. ¿Te ayudo?
+0012 [Neuvira] | No, yo puedo. ¿Usted no se va a dormir, jefa?
+0013 [Minova] | Todavía tengo que hablar con nuestros amigos del Gremio Nueva Estrella. Me acuesto justo después, no se preocupen por mí.
+0014 [Neuvira] | Claro. Pero no se desvele mucho, jefa.
+0015 [Vollara] | Hnnnghhh... Rrrrmble... Mmmm...
+0016 [Narración] | Neuvira saca de la sala a una Vollara que ronca.
+0017 [Noya] | Extraño esto. Éramos igualitas de niñas, ¿verdad?
+0018 [Amber] | Solo han pasado dos años y ya siento nostalgia.
+0019 [Noya] | Iris incluso hacía rondas para asegurarse de que tuviéramos las cobijas puestas.
+0020 [Iris] | ¡Mira quién habla, Noya!==W== Tú eras la que más se destapaba.
+0021 [Iris] | Y Amber... nunca dormía en su propia cama. Se escondía en el armario o se subía a las vigas del techo.
+0022 [Amber] | Los lugares estrechos y altos... se sienten más seguros para dormir.
+0023 [Minova] | Son muy unidas, ¿eh?
+0024 [Minova] | De verdad les agradezco que nos ayudaran con la escalada al Monolito hoy. No lo habríamos logrado sin ustedes.
+0025 [Noya] | ¡Para nada! Escalar Monolitos es parte de nuestra rutina diaria como Trekkers.
+0026 [Amber] | Primera vez que escalo un Monolito de la ciudad. Fue divertido.
+0027 [Iris] | Nosotras deberíamos darles las gracias.
+0028 [Iris] | Me destrozó enterarme de que el orfanato ya no estaba... pero este lugar se siente igual. Es un gran alivio.
+0029 [Iris] | Así que, de verdad, gracias... por proteger un lugar que significa tanto para nosotras.
+0030 [Minova] | No fue nada. Lo hice por mi propia tranquilidad.
+0031 [Minova] | En fin, ¿de qué querían hablar?
+0032 [Iris] | Cierto. Estábamos pensando...==W== que a partir de mañana nos gustaría encargarnos de las subidas al Monolito de los niños.
+0033 [Minova] | ¡Un momento! Ya nos ayudaron muchísimo hoy.
+0034 [Minova] | De verdad no tienen que llegar tan lejos.
+0035 [Iris] | Claro que sí. Nosotras también crecimos en este orfanato.
+0036 [Noya] | La tía Allie estuvo allí cuando la necesitábamos. Ahora nos toca devolver el favor.
+0037 [Amber] | Me aseguraré de desear con todas mis fuerzas.
+0038 [Narración] | Y así nos quedamos. Cada subida al Monolito para Creta Trading es un desgaste físico y mental...
+0039 [Narración] | ...Pero seguimos adelante, reuniendo un Artefacto tras otro. Aunque no puedo usar magia, aún puedo contribuir con deseos y papeleo.
+0040 [Narración] | Nunca dejamos de intentar descubrir la verdad sobre el préstamo. Pero antes de que encontremos una grieta en la historia de Feagin, Creta Trading desaparece una mañana, llevándose nuestro vehículo y dejando solo una mansión vacía.
+0041 [Narración] | Libres de deudas pero sin vehículo, tuvimos que buscar nuevos empleos.
+0042 [Narración] | Lo que siguió fue un capítulo de montaña rusa en nuestras vidas.
+0043 [Narración] | Noya consiguió un puesto bien pagado suministrando viento al horno y se convirtió en la primera de nosotros en irse de Emor. ==W==  Trabajó allí seis meses, pero justo antes del día de pago, el capataz la despidió por «entrar con el pie izquierdo primero, lo que viola la política de la empresa».
+0044 [Narración] | A pesar de seis meses de estudio dedicado, Iris no logró pasar la entrevista del Imperio de la Gracia y tuvo que trabajar en una instalación de almacenamiento en frío con un logotipo de pico verde.==W==  Tuvo suerte pronto y en cuestión de meses la ascendieron a un puesto superior.==W==  Pero justo al día siguiente de la celebración de su ascenso, sus compañeros desaparecieron con toda la mercancía almacenada y la abandonaron para enfrentar sola tanto el alquiler impago como a los furiosos dueños de la carga.
+0045 [Narración] | Como mesera en un café de gatos, Amber seguía incómoda con el trato humano, pero descubrió que todos los animales de allí la adoraban.==W==  Sin embargo, un día el café de gatos sufrió una explosión devastadora y, aunque todos salieron ilesos, el negocio quedó irrecuperable.
+0046 [Narración] | El Clan Viento de Ceniza se fue disolviendo poco a poco cuando los niños crecieron. Minova se convirtió en una figura venerada en el bajo mundo de Emor, pero dicen que nunca volvió a sonreír.
+0047 [Narración] | Yo terminé uniéndome a un gremio en una ciudad lejana y encontré trabajo como «Trekker de deseos».==W==  Años después, el gremio empezó a perder clientes y me despidieron por mi edad.
+0048 [Narración] | Camino por calles bordeadas de arroyos y me siento ajeno al bullicioso mundo que me rodea. Sostengo un teléfono viejo y roto que aún guarda sus contactos.==W==  Mis dedos se detienen sobre sus nombres, pero no logro llamar. No es que no pueda contactarlas, sino que ¿qué podría decirles después de tanto tiempo?
+0049 [Tú] | Ay... ¿Qué he estado haciendo con mi vida?
+0050 [???] | Así que por favor, mi señor Tirano, no vuelva a convertirse en estrella.
+0051 [???] | El mismo camino de siempre lleva a los mismos finales de siempre.
+0052 [Tú] | Así que eso quería decir la advertencia de mi sueño.
+0053 [Tú] | Cargar con el sufrimiento y los deberes de todos los demás no me traerá la felicidad al final.
+0054 [???] | ¿Tardaste tanto en darte cuenta? ¿Qué tan despistado puedes ser?
+0055 [Tú] | ¿Quién anda ahí?
+0056 [Narración] | Pero antes de que pueda voltear, la multitud en oleadas me empuja del puente.
+0057 [Lugar y hora] | ??:?? ?? ?? de ???? La Sala Blanca
+0058 [Tú] | ¡Aah...?!
+0059 [Chica del espejo] | Bienvenido.
+0060 [Chica del farol] | Bienvenido.
+0061 [Opción] | ¿Estoy... en un hospital? ¿Me ahogué?
+0062 [Chica del espejo] | ¿Ahogarte? Sí. ¿Hospital? Me temo que no.
+0063 [Tú] | ¿No es un hospital? ¿A qué te refieres?
+0064 [Chica del farol] | Deberías ponerte en mejor forma. Cuando caíste a ese río, te hundiste como una piedra antes de que algún ciudadano servicial pudiera rescatarte.
+0065 [Tú] | ¿Hundirme... como una piedra?
+0066 [Tú] | Así que yo... ya veo.==W== ¿Esto es el cielo o el infierno, entonces?
+0067 [Tú] | De cualquier modo, este debe de ser el final.==W== Lo bueno es que por fin podré descansar.
+0068 [Chica del farol] | ¿De qué hablas? No puedes holgazanear ahora. Te hemos esperado aquí durante años y años.
+0069 [Chica del farol] | No podemos dejar que te rindas y descanses.
+0070 [Chica del espejo] | Tu viaje está lejos de terminar.
+0071 [Tú] | ¿Qué, pueden devolverme a la vida o algo así?
+0072 [Chica del espejo] | No, no necesitas ser revivido, pues en realidad nunca moriste.
+0073 [Chica del espejo] | Simplemente te apartaste del «otro lado» y llegaste a «este lado».
+0074 [Tú] | ¿El otro lado? ¿Este lado?
+0075 [Chica del espejo] | Volverás al «otro lado» cuando salgas de este lugar.
+0076 [Chica del farol] | Esta es tu habitación, y nosotras somos tus fieles sirvientas.
+0077 [Chica del farol] | En este lugar cumpliremos cualquier petición que nos hagas.
+0078 [Chica del espejo] | Pero solo dentro de estos confines,==W== pues el mundo tal como existe ahora ya no está bajo tu mando.
+0079 [Tú] | No entiendo muy bien lo que dices.
+0080 [Chica del farol] | Mm, mientras conserves ese Artefacto, tarde o temprano lo comprenderás.
+0081 [Tú] | Artefacto...
+0082 [Tú] | ¿Este teléfono?
+0083 [Narración] | Instintivamente miro mi teléfono. En algún momento se restauró a su estado impecable. La puerta de la sala de blancura pura se abre lentamente con un chirrido.
+0084 [Chica del espejo] | Este es el símbolo mismo de tu propiedad sobre esta habitación.
+0085 [Chica del farol] | Y de tu condición de Tirano.
+0086 [Lugar y hora] | 17:45, 27 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0087 [Tú] | Así que esto es...
+0088 [Tú] | ¿El Clan Viento de Ceniza?
+0089 [Amber] | Cuando me siento triste, mi teléfono siempre me anima.
+0090 [Amber] | ¡Ojalá tuviera un teléfono con pantalla grande como el tuyo, ==PLAYER_NAME==!
+0091 [Tú] | ¿Yo... volví en el tiempo? ¿O todo fue un sueño?
+0092 [Tú] | No. Aunque haya sido un sueño, no puedo dejar que las cosas terminen así otra vez.

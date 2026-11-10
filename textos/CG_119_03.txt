@@ -1,0 +1,82 @@
+# Historia de Nanoha · 3 · The Maid's Secret Mission (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_119 | Nanoha
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La misión secreta de la sirvienta (Parte III)
+0003 [Intro] | Misión n.º 3: … ¿Misión? ¡Qué misión!
+0004 [Narración] | Sigo a Nanoha y nos dirigimos a la Pastelería Frees.
+0005 [Tú] | Hay algo raro...
+0006 [Tú] | Cuando Nanoha me pidió hacerme pasar por su empleador, supuse que era para su tapadera en la expo.
+0007 [Tú] | Pero si de verdad estaba en una misión, ¿cómo pudo dejar así la expo y venir conmigo a la pastelería?
+0008 [Nanoha] | Hemos llegado, Amo.
+0009 [Tú] | Perfecto. Entremos.
+0010 [Nanoha] | Por favor, eche un vistazo a su menú.
+0011 [Tú] | ¡Es difícil elegir entre tantas opciones!==W== ¿Qué tal si escoges por mí, Nanoha?
+0012 [Nanoha] | Entendido. Un momento, por favor. Haré el pedido en el mostrador.
+0013 [Tú] | ...==W== Vaya, la fila no deja de crecer. Les va muy bien el negocio.
+0014 [Nanoha] | Lamento muchísimo haberle hecho esperar.
+0015 [Nanoha] | Hoy hay bastantes más clientes de lo habitual.
+0016 [Tú] | Es día de descanso, después de todo.
+0017 [Tú] | Pero sí que la tienes difícil, trabajando en fin de semana.
+0018 [Nanoha] | ¿Trabajo...?
+0019 [Tú] | Me contrataste como parte de una misión de Goodwind Homecare, ¿no es así?
+0020 [Tú] | La verdad, estoy un poco preocupado. ¿Eché a perder tus planes originales?
+0021 [Tú] | Después de todo, fui yo quien sugirió venir a esta pastelería de buenas a primeras.
+0022 [Nanoha] | No, no es eso.
+0023 [Nanoha] | Lo siento. Le he engañado.
+0024 [Nanoha] | Este encargo era personal. No hay ninguna misión de Goodwind.
+0025 [Nanoha] | Hoy...==W== es el cumpleaños de Nanoha.
+0026 [Tú] | ¡¿Cumpleaños?!
+0027 [Tú] | Rayos. No tenía idea.
+0028 [Tú] | Lamento mucho no haberte traído nada. Pero definitivamente te lo compensaré.
+0029 [Nanoha] | De verdad no hace falta, Amo.
+0030 [Nanoha] | Poder pasar el día con usted ya me hace feliz.
+0031 [Nanoha] | Hace unos días vi en el calendario que la expo de postres era hoy...==W== Así que usé el encargo como pretexto para invitarle.
+0032 [Tú] | ¿Por qué no me dijiste simplemente que es tu cumpleaños?
+0033 [Tú] | Con o sin encargo, habría ido contigo.
+0034 [Nanoha] | No quería presionarle.
+0035 [Nanoha] | Dudé mucho tiempo sobre si debía simplemente invitarle.
+0036 [Nanoha] | Temía perder la compostura frente a usted.
+0037 [Nanoha] | Porque, verá, de verdad me encantan...==W== los postres...
+0038 [Tú] | Ah... Con razón los conoces todos como la palma de tu mano.
+0039 [Tú] | Espera, ¿entonces te estuviste conteniendo todo este tiempo? ¡Debió de ser difícil!
+0040 [Tú] | Visitamos todos esos puestos y no probaste ni un bocado.
+0041 [Nanoha] | Una sirvienta debe tener autocontrol en el servicio.
+0042 [Tú] | Ahora que todo salió a la luz, ya no tienes que hacer de sirvienta.
+0043 [Tú] | Deberías disfrutar el resto del día conmigo.
+0044 [Tú] | ¡Celebremos tu cumpleaños juntos!==W== ¡Tú siéntate aquí y espérame!
+0045 [Narración] | Voy al mostrador y escojo un pastel de cumpleaños para Nanoha.
+0046 [Tú] | Hay un pastel y una vela. Hasta le pedí prestado un encendedor a la dueña.
+0047 [Tú] | Ya estamos listos.
+0048 [Nanoha] | ¿Esto es...==W== lo que la gente usa para celebrar cumpleaños?
+0049 [Tú] | ¿Eh? ¿Nunca has celebrado tu cumpleaños, Nanoha?
+0050 [Nanoha] | Nunca. Es la primera vez.
+0051 [Nanoha] | Los ninjas de Goodwind normalmente no celebran cumpleaños. Apenas hace poco supe mi propia fecha de nacimiento.
+0052 [Tú] | No te preocupes. Yo te enseño. Es fácil.
+0053 [Tú] | Primero, comer pastel de cumpleaños es obligatorio.
+0054 [Tú] | Ahora que tenemos el pastel, el siguiente paso es encender la vela.
+0055 [Nanoha] | Todavía no es de noche. ¿Por qué encendemos la vela?
+0056 [Tú] | Es una tradición noviana de cumpleaños.
+0057 [Tú] | Pones la vela encendida sobre el pastel, cierras los ojos y rezas con las manos juntas. Luego soplas la vela para sellar tu deseo.
+0058 [Tú] | Imagina la escena, Nanoha. ¿No se parece mucho a pedirle un deseo a un Monolito?
+0059 [Nanoha] | La vela larga representa al Monolito que alcanza el cielo...==W== Ah, ya entendí: ¡qué tradición tan interesante!
+0060 [Nanoha] | He comido muchos pasteles antes, pero esta es mi primera vez con un pastel de cumpleaños.
+0061 [Nanoha] | Muchas gracias, Jefe. Ahora sé cómo se hacen los cumpleaños.
+0062 [Tú] | Muy bien, comencemos. Piensa en el deseo que vas a pedir.
+0063 [Nanoha] | Fuuu... ==W==Listo... ==W====W==¿Lo hice bien?
+0064 [Nanoha] | Nunca había soplado velas de cumpleaños. ==W==Es algo... ==W==extraño.
+0065 [Opción] | ¿Pediste... un deseo?
+0066 [Nanoha] | ¡Ay! ==W==Estaba tan nerviosa que se me olvidó... ==W==Supongo que ahora puedo hacerlo, ¿verdad?
+0067 [Nanoha] | Mi deseo es... ==W====W==que cada cumpleaños ==W==sea como el de hoy...
+0068 [Opción] | ¿En qué sentido?
+0069 [Nanoha] | Eso... es un secreto.
+0070 [Opción] | Si me lo cuentas, quizá pueda ayudar
+0071 [Nanoha] | Oh, ==W==ya ha hecho más que suficiente para hacerme feliz hoy. ==W====W==No podría pedir más.
+0072 [Nanoha] | Por favor, no se preocupe por mí. ==W==Me esforzaré mucho ==W==para hacer realidad mis propios deseos.
+0073 [Narración] | Nanoha comparte contigo su pastel de cumpleaños: es lo más dulce que has probado en todo el día.

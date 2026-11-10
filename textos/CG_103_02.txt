@@ -1,0 +1,125 @@
+# Historia de Amber · 2 · The Lost Kitten (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Gloomy Leader | Líder sombría
+N:Grumpy Leader | Líder gruñón
+N:Jacqueline | Jacqueline
+N:Thomas | Thomas
+N:avg1_103 | Amber
+N:avg2_982 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_893 | Gato negro
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El gatito perdido (Parte II)
+0003 [Intro] | Motivados por el pudín, Amber y tú emprenden de nuevo la aventura de buscar al gatito.
+0004 [Amber] | Vi un gatito junto a la plaza
+0005 [Amber] | Persiguiendo mariposas
+0006 [Amber] | Tiene unos movimientos totalmente geniales que voy a robarle
+0007 [Amber] | Pero no es el que buscamos
+0008 [Amber] | Vuelvo a buscar
+0009 [Amber] | Hay un montón de puestos interesantes en el mercado
+0010 [Amber] | Uno tiene juguetes para gatos hechos a mano
+0011 [Amber] | Compré algunos
+0012 [Amber] | Tal vez le gusten a nuestro objetivo
+0013 [Amber] | Vuelvo a buscar
+0014 [Amber] | Acabo de ver un gato negro dentro de un callejón
+0015 [Amber] | Estaba peleando con otro gato
+0016 [Amber] | Intenté intervenir y los dos salieron corriendo
+0017 [Amber] | Pero ese gato negro se parecía mucho a nuestro objetivo
+0018 [Amber] | Voy a buscar un poco más por aquí
+0019 [Amber] | Pronto va a oscurecer, ten cuidado
+0020 [Tú] | Este debe ser el lugar que mencionó Amber.
+0021 [Tú] | Parece una especie de bodega...
+0022 [Amber] | ¡Jefe! ¡Aquí arriba!
+0023 [Tú] | ¿Subirme a un techo ... otra vez?
+0024 [Tú] | ¿Me das una mano, por favor?
+0025 [Tú] | ¡Ya estoy en posición! Tú jalas y yo subo.
+0026 [Amber] | Está justo ahí.
+0027 [Tú] | Uf... El siguiente paso es crucial. Acerquémonos, con calma y despacio.
+0028 [Black Cat] | Eh...
+0029 [Amber] | Está ... actuando raro.
+0030 [Amber] | Tiene miedo, pero no intenta huir.
+0031 [Tú] | Es cierto... La última vez, cuando sintió peligro, huyó de inmediato.
+0032 [Tú] | Acerquémonos un poco más. Está muy lejos para distinguir algo desde aquí.
+0033 [Amber] | ¡Jefe! Espera.
+0034 [Tú] | ¿Qué pasa?
+0035 [Amber] | Debajo de nosotros.
+0036 [Tú] | ¿Alguien está hablando en la bodega de abajo?
+0037 [Grumpy Leader] | ¡Oigan, escoria! ¡La mercancía está aquí!
+0038 [Grumpy Leader] | ¡Suelten la lana!
+0039 [Gloomy Leader] | No seas tan impaciente, Thomas. Ni siquiera hemos inspeccionado la mercancía.
+0040 [Thomas] | ¡Claro que soy impaciente, Jacklyn, idiota!
+0041 [Thomas] | ¡Aquí hay cientos de Piedras del Alma. Si esto se sabe, estamos fritos!
+0042 [Jacqueline] | Je, tan tonto como siempre.
+0043 [Jacqueline] | ¿Se te ocurrió por qué elegimos este lugar? Porque es seguro.
+0044 [Jacqueline] | A menos que tu bocota se lo haya dicho a alguien, ni un ratón puede entrar.
+0045 [Thomas] | Jajaja... ¿Oyen a este tonto? Acaba de decir: «ni un ratón puede entrar».
+0046 [Thomas] | Cuando llegamos, había un gato durmiendo aquí como si fuera el dueño. Tuve que echarlo.
+0047 [Thomas] | ¿Ni eso pueden hacer tú y tu banda y se creen la gran cosa?
+0048 [Thomas] | No sé en qué pensaba nuestro líder cuando decidió hacer negocios con ustedes...
+0049 [Jacqueline] | Parece que es lo único en lo que coincidimos. A mí tampoco me entusiasma el trato.
+0050 [Jacqueline] | Mírate ladrando ahora. No eras tan valiente cuando los corrimos de las calles como los perros sarnosos que son, ¿eh?
+0051 [Jacqueline] | Solo de pensar en trabajar contigo se me revuelve el estómago.
+0052 [Thomas] | ¿Qué dijiste?
+0053 [Thomas] | ¡Una palabra más y te rompo la cabeza!
+0054 [Jacqueline] | ¿De verdad crees que te tengo miedo?
+0055 [Jacqueline] | Vigílenlos, muchachos. ¡Si estos idiotas se mueven, acaben con ellos de inmediato!
+0056 [Amber] | ...
+0057 [Tú] | Parece que nos metimos en algo grande...
+0058 [Tú] | Lo mejor es retirarnos a un lugar seguro primero y luego avisar a la Guardia Imperial.
+0059 [Amber] | Jefe...
+0060 [Amber] | El gato está herido.
+0061 [Tú] | ¿Eh?
+0062 [Amber] | Lo lastimaron las personas de abajo. Le duele demasiado para huir.
+0063 [Amber] | Quiero salvarlo.
+0064 [Tú] | Sí... Sea o no el objetivo, no podemos dejar aquí a un gato herido.
+0065 [Tú] | Está bien. Ten cuidado.
+0066 [Amber] | Mm.
+0067 [Amber] | Venimos a salvarte.
+0068 [Amber] | Te daremos un poco de pescado seco y te vienes a casa con nosotros, ¿sí?
+0069 [Black Cat] | Miau...
+0070 [Amber] | La madera está podrida aquí.
+0071 [Tú] | Ay, no. El techo es demasiado débil para sostener a alguien encima.
+0072 [Thomas] | ¡¿Quién es?! ¡¿Quién está allá arriba?!
+0073 [Tú] | ¡Amber, vuelve! Nos van a ver.
+0074 [Amber] | Demasiado tarde.
+0075 [Narración] | En el mismo instante, Amber salta hacia adelante y atrae al gato que se debate hacia sus brazos.
+0076 [Narración] | Con un fuerte crujido, el techo bajo los pies de Amber cede y las vigas podridas se desploman. Aferrada al gato negro, cae...
+0077 [Tú] | Amber...
+0078 [Tú] | Uf... Qué suerte... Te atrapé...
+0079 [Amber] | Gracias, Jefe.
+0080 [Tú] | Por suerte alcancé a agarrar la correa de Amber a tiempo y evité que cayeran. Pero ahora tenemos otra situación...
+0081 [Thomas] | ¿Oyeron eso? ¡No estamos solos!
+0082 [Jacqueline] | ¡¿Los siguieron?!
+0083 [Thomas] | ¡Ni lo sueñes! ¡Más bien ustedes nos tendieron una trampa!
+0084 [Tú] | Supongo que estamos totalmente expuestos.
+0085 [Tú] | No podemos seguir así. El techo de aquí también se va a derrumbar. Tenemos que idear rápido una forma de salir de esta situación...
+0086 [Thomas] | ¡UYYY!
+0087 [Jacqueline] | ¡Mis ojos! ¡Mis ojos...!
+0088 [Tú] | Bomba de humo... ¿Y una granada aturdidora?
+0089 [Amber] | Además de gas lacrimógeno, bombas tranquilizantes y las granadas congelantes hechas a la medida por Iris.
+0090 [Tú] | ¡Es nuestra oportunidad!
+0091 [Tú] | ¡Hombre caído! … ¡Nos tumbaron a uno!
+0092 [Thomas] | ¡¿Qué?!
+0093 [Thomas] | ¡Es una trampa! ¡Una trampa! ¡Quieren quedarse con la mercancía y el dinero!
+0094 [Jacqueline] | ¡¿De qué demonios hablas?! ¡Tú empezaste!
+0095 [Thomas] | ¡Al diablo! ¡Si yo caigo, tú caes conmigo!
+0096 [Narración] | Moviéndose como si fuera una gata de verdad, Amber desciende por las vigas del edificio y salta a la bodega, aterrizando con limpieza.
+0097 [Amber] | Aterricé a salvo
+0098 [Tú] | Entendido. Te guiaré desde arriba. ¡Toma al gato y busca la manera de rodear!
+0099 [Amber] | Recibido
+0100 [Amber] | Alguien estorba, ¿puedo derribarlo
+0101 [Amber] | Olvídalo, ya está
+0102 [Amber] | Otro más
+0103 [Tú] | Solo ten cuidado
+0104 [Tú] | Del resto, ocúpate como creas conveniente...
+0105 [Amber] | 
+0106 [Narración] | El caos en la bodega va disminuyendo poco a poco hasta volver la calma.
+0107 [Narración] | Miembros de las bandas Ground Viper y Eta yacen tendidos por todas partes; es difícil saber si cayeron por las bombas o por los puños de Amber.
+0108 [Narración] | Mientras tanto, Amber sostiene al gato negro y me saluda moviendo su patita.
+0109 [Amber] | ¡Jefe! ==W==Atrapé al gato.

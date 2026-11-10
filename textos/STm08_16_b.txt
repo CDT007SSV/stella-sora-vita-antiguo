@@ -1,0 +1,132 @@
+# Capítulo 8 · Calor residual · 13B · La ambición de los Escorpiones del Desierto
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Desert Scorpion Guard | Guardia de los Escorpiones del Desierto
+N:Now Happy Customer | Cliente ahora feliz
+N:Petite Waitress | Mesera menuda
+N:Unhappy Customer | Cliente insatisfecho
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_142 | Cosette
+N:avg1_145 | Otoha
+N:avg1_146 | Benito
+N:avg1_163 | Greyhorn
+N:avg2_939 | Stellaroid del tanque de agua
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_157 | Guardia Imperial
+N:avg3_207 | Myrsha
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_210 | Hazana
+N:avg3_218 | Residente de Mirage
+N:avg3_219 | Residente de Mirage
+
+## Texto
+0001 [Intro] | Acto trece
+0002 [Intro] | La ambición de los Escorpiones del Desierto
+0003 [Intro] | En el bar Eureka, Hazana y tú planean cómo enfrentar a Angie. Allie evacúa con los niños, mientras que el Gremio de la Nueva Estrella se queda en Mirage. Siguiendo el consejo de Hazana, pides docenas de Cetros de la Muerte...
+0004 [Lugar y hora] | 12:30, 17.º del mes de Nebula, Mirage, bar Eureka
+0005 [Myrsha] | ¡Perdón por la interrupción, amigos!==W== Les agradecemos su cooperación.
+0006 [Unhappy Customer] | ¡Ay, no manches, apenas voy a la mitad de mi comida!==W== Sé que los Escorpiones del Desierto hicieron mucho por nosotros, pero esto ya es demasiado.
+0007 [Myrsha] | Lo siento mucho, pero tenemos un asunto urgente y necesitamos el lugar.
+0008 [Myrsha] | Pero no se preocupen.==W== Para agradecerles su apoyo, hoy la cuenta corre por nuestra parte.==W== Y durante los próximos tres días, todas sus bebidas en el Eureka están pagadas.
+0009 [Now Happy Customer] | ¡¿Todas las bebidas?!==W== Qué generosos.==W== ¡Bueno, vámonos a otro lado!
+0010 [Petite Waitress] | ¡Oye, oye, señorita Myrsha! ¿Qué está haciendo? ¿Por qué corre a mis clientes?
+0011 [Myrsha] | ¡Ah, buenas tardes, Benito! ♪==W== Perdón por llegar así. No estamos corriendo a nadie. Mira, todos van sonriendo.
+0012 [Myrsha] | Los clientes reciben una compensación,==W== tus ventas se van a disparar los próximos tres días==W== y nosotros conseguimos un lugar tranquilo para hablar.
+0013 [Myrsha] | Triple victoria. ¡Todos ganan!
+0014 [Benito] | Pero...
+0015 [Myrsha] | Nada de peros.==W== ¡Tómate el día libre y vente a cazar monstruos conmigo!==W==
+0016 [Tú] | Vaya montaje. ¿Vaciaste todo el lugar solo para platicar?==W== ¿Por qué aquí?
+0017 [Hazana] | Je. No vienes seguido a Mirage. Sería una pena que te perdieras las bebidas del Eureka, así que aquí estamos.
+0018 [Tú] | Aun así, no tenías que correr a todos. ¿No podíamos platicar mientras comíamos?
+0019 [Hazana] | Normalmente no lo haríamos, pero hoy es distinto.==W== Esta alianza lo significa todo para los Escorpiones del Desierto.
+0020 [Hazana] | Esta bolsa de diamantes de cristal==W== cubre la reservación de los próximos tres días, y un extra para el bar Eureka.==W==
+0021 [Narración] | Hazana mete una bolsa repleta de diamantes de cristal detrás de la barra==W== y luego toma una cuchara de bar y una coctelera con soltura experta.
+0022 [Narración] | Después de agitarla un momento,==W== pone frente a mí una bebida negra como la noche en el fondo y azul pálido arriba, con una diminuta flor en forma de cruz en el borde.
+0023 [Hazana] | Para celebrar nuestro reencuentro en Mirage,==W== preparé esta bebida para ti. Se llama «el Jefe».
+0024 [Tú] | Gracias.
+0025 [Tú] | Mmm, dulce y burbujeante.==W== ¿Así es como me ves?
+0026 [Hazana] | El Pep Pep Juice negro representa tu despertar en el Monolito.==W== El jarabe azul representa tu tiempo como Trekker.
+0027 [Hazana] | El negro y el azul son los colores del Jefe.==W== Los colores del acero y el cielo.==W== Tú guiarás a los Escorpiones del Desierto a conquistar las tierras bajo el cielo azul con acero negro.
+0028 [Tú] | Qué poético.==W== Pero no tengo armas ni los medios para guiar a nadie a «conquistar las tierras bajo el cielo azul».
+0029 [Hazana] | No me refiero a armas comunes.==W== Los Cetros de la Muerte son el acero especial que queremos.
+0030 [Tú] | Los Cetros de la Muerte sí están hechos de un acero especial...==W== Espera.==W== Saber el nombre es una cosa, pero ¿cómo sabes que están hechos de acero especial?
+0031 [Tú] | Casi nadie ha visto esa cosa en persona...
+0032 [Hazana] | Angie me lo enseñó cuando pasó por Mirage.==W== ¡Ja!==W== Me enteré de que intentó matarte con él.
+0033 [Tú] | ¡¿Angie está aquí en Mirage?!
+0034 [Hazana] | Tranquilo.==W== Después de nuestra plática, se escabulló como una serpiente. No dejó nada más que su asquerosa piel.
+0035 [Hazana] | Pero... está convencida de que te escondes aquí.==W== Quería que los Escorpiones del Desierto ayudaran al Comité de Salvación a cazarte.
+0036 [Hazana] | Hizo una oferta tentadora.==W== Entregarte, vivo o muerto,==W== y ella nos daría la ciudad y su mina de diamantes de cristal.
+0037 [Hazana] | No es mal trato, ¿verdad? ¡Jaja!==W== La Guardia Imperial se va y nosotros nos volvemos los amos indiscutibles de Mirage.
+0038 [Tú] | Qué bueno saber que mi vida vale tanto.==W== ¿La rechazaste para proponerme una alianza?==W== Pero si te digo que no, te vas a ir con las manos vacías.
+0039 [Hazana] | Jamás caería en la trampa de una serpiente como ella.==W== Aquí tenemos un dicho: si te prestas los ojos de otro, solo ves un camino.
+0040 [Hazana] | Pasar de capitana mercenaria a señora de la ciudad, sentada sobre una mina nueva de diamantes de cristal. Lógicamente, debería estar satisfecha.
+0041 [Hazana] | Pero quiero más que una limosna.==W== Aquí, si quieres algo, los quiebras y lo tomas tú mismo.==W== ¡Esa es la ley del desierto!
+0042 [Hazana] | ¿Hacerle de perrito faldero a una serpiente y lamer sus sobras?==W== Ni loca.==W== Tú ves a través de su jueguito, ¿no, Jefe?
+0043 [Opción] | Claro. Ya lo tengo resuelto.
+0044 [Tú] | Si muero, ella puede falsificar suficientes pruebas para tacharme como el verdadero Tirano.
+0045 [Tú] | Una vez que lo haga, limpiar su nombre y recuperar el Instituto del Cielo será de lo más sencillo.
+0046 [Tú] | Mirage no tiene Monolito. Tienen que importar todos los Artefactos de uso diario y deben exportar sus diamantes de cristal para ganar Dorra.
+0047 [Tú] | Cualquier Artefacto sacado de las Tierras Salvajes tiene que ser tasado por la Tienda de Almas antes de venderse. El Instituto del Cielo maneja la Tienda de Almas. Pase lo que pase, le estarían rindiendo cuentas a ella.
+0048 [Tú] | La Guardia Imperial compra la mayoría de sus diamantes de cristal, y el Instituto del Cielo le paga a la Guardia Imperial. Eso significa que también controlan sus ventas.
+0049 [Tú] | Al final, ella controla todo lo que entra y sale de Mirage. Cuando alguien más te pone los precios, eso es pura esclavitud.
+0050 [Hazana] | Sabía que había escogido bien. Lo armaste todo con apenas unos cuantos pedazos.
+0051 [Hazana] | Los Escorpiones del Desierto somos descendientes de los fundadores de Mirage. Fuimos los primeros en extraer diamantes de cristal aquí.==W== Esta ciudad es nuestra.
+0052 [Hazana] | Pero en ese entonces, la Guardia Imperial monopolizaba el comercio.==W== Los diamantes de cristal que sacábamos con sangre se los vendíamos casi regalados.
+0053 [Hazana] | Luego pusimos nuestra confianza donde no debíamos: en el Imperio de la Gracia. Tomamos las armas para pelear contra los Gatos Blancos por ellos, pero terminamos como carne de cañón a la que ni siquiera tenían que pagarle pensión.
+0054 [Hazana] | Creí que los tiempos habían cambiado. Y luego llega Angie como si nada, con el mismo truco de siempre. ¿Cree que somos tontos?
+0055 [Hazana] | Esa es la historia, en pocas palabras.==W== Los Escorpiones del Desierto ya no nos inclinamos ante nadie.==W== Seguiré peleando hasta obtener lo que es nuestro.
+0056 [Tú] | Entonces, ¿por qué aceptaron ese trabajo de Cosecha Unida?==W== Ir a Philae a matarme no suena a pelear por ustedes mismos.
+0057 [Hazana] | Je, buen punto.==W== La Guardia Imperial se hace pasar por nuestra aliada, pero en realidad nos vigila como halcón.==W== Nos cuentan cada vez que salimos del desierto, para asegurarse de que no montemos una base afuera.
+0058 [Hazana] | Son como moscas que no te puedes quitar de encima. Molestísimas.==W== Así que usamos ese encargo para fingir algunas bajas. Dejamos que nuestra gente «muriera» en el papel para que pudieran montar una base sin hacer ruido.
+0059 [Hazana] | Claro que lo que de verdad quería eran esos Sellos de la Gracia que supuestamente cargabas.==W== Con un Sello podemos fundar nuestra propia empresa.==W== Quizá no estemos a la altura del Imperio de la Gracia o de Cosecha Unida, pero al menos no nos exprimirían hasta dejarnos secos.
+0060 [Hazana] | No esperaba que tu zorra fuera tan dura, que nos detuviera ella sola.==W== Que nos diera una paliza hizo que nuestras bajas falsas se vieran convincentes, así que no fue una pérdida total.
+0061 [Tú] | Ya veo.==W== Pues ahora mismo traigo tres Sellos.==W== Como somos socios, si todo sale bien, quizá te dé uno.
+0062 [Hazana] | ¡Ja! Nunca decepcionas.==W== Te lo voy a cobrar cuando llegue el momento.
+0063 [Hazana] | Pero...==W== yo preferiría Cetros de la Muerte a un Sello, cuando sea.==W== Un Artefacto exclusivo como ese nos conviene mucho más, ya sea para usarlo o para venderlo.
+0064 [Tú] | Te advierto que pedir un Artefacto así te va a costar un montón de recuerdos.==W== Si quieres conservarlos, tienes que hacer un pacto de almas y poner tu alma en mis manos.
+0065 [Hazana] | ¡Ja! Ni loca.==W== Prefiero perder mis recuerdos que entregarle mi destino a alguien más.
+0066 [Hazana] | En fin, gracias por el trato.==W== Por cierto, parece que tus perseguidores están por alcanzarte...
+0067 [Hazana] | En cuanto la directora Allie y los niños evacúen, nosotros también saldremos de Mirage esta noche.==W== Hay un túnel secreto en las minas.
+0068 [Tú] | Entendido.
+0069 [Desert Scorpion Guard] | Alto ahí. La capitana está en una reunión importante. No pueden pasar.
+0070 [Noya] | ¡¿Cuántas veces te lo tengo que decir?! ¡La persona que está ahí con tu capitana es nuestro socio!
+0071 [Tú] | ¿Esa es... Noya?
+0072 [Hazana] | Está bien.==W== Déjalas pasar.
+0073 [Tú] | ¿Noya, Iris, Amber? ¿Qué hacen aquí?==W== ¿Allie y los niños están bien?
+0074 [Noya] | No te preocupes.==W== Le dejamos el Lucky Oasis a la tía Allie y a los niños.==W== Están empacando y salen para Philae esta tarde.
+0075 [Iris] | Nosotras...==W== Bueno, lo hablamos. Nos vamos a quedar a pelear contigo.
+0076 [Amber] | Jefe, necesitas escoltas.
+0077 [Tú] | ¿Están seguras de esto?==W== Lo que estoy por hacer...==W== va a sumir al mundo en el caos.
+0078 [Noya] | Caos o no, ¿no es al final para protegernos?==W== No vamos a dejar que hagas de villano tú solo.
+0079 [Amber] | Eso no sería ser compañeras.
+0080 [Iris] | Confiamos en ti, Jefe. Decidas lo que decidas,==W== estamos contigo.
+0081 [Hazana] | Hmph. Respeta su decisión.==W== Además, ¿cómo puedes estar tan seguro de que nuestro plan va a sumir al mundo en el caos?
+0082 [Lugar y hora] | 17:00, 30 del mes de Nebula, Monolito sin nombre, piso 44
+0083 [Myrsha] | Uf. Acabamos con los Stellaroids y encontramos una Caja de Deseos.==W== Te toca, Jefe.
+0084 [Tú] | Muy bien. Yo me encargo.
+0085 [Noya] | Necesitas un descanso, ==PLAYER_NAME==. Te ves agotado.
+0086 [Tú] | Estoy bien. Puedo aguantar.==W== Todavía no tenemos suficientes Cetros de la Muerte.
+0087 [Narración] | Hace diez días, después de que el Orfanato Margarita y la Compañía del Gato Blanco evacuaran, salimos de Mirage durante la noche.
+0088 [Narración] | Quizá el desierto era demasiado grande, o quizá tuvimos suerte... No nos topamos con nadie en todo el camino. Ni siquiera con Angie o el Comité de Salvación.
+0089 [Narración] | Después, Allie llamó tras llegar a salvo a Philae. Mencionó que había encontrado en el desierto a un niño vestido de azul que se había desmayado de sed...
+0090 [Narración] | El niño le contó que un enorme ejército de ojos rojos recorría las dunas. Parecía que estaban cazando a alguien.
+0091 [Narración] | Desde entonces, hemos estado escalando Monolitos en las Tierras Salvajes uno tras otro, reuniendo Cetros de la Muerte.
+0092 [Narración] | Les enseñé a todos la plegaria de los deseos e hice pactos de almas con todos los Escorpiones del Desierto, excepto Hazana...
+0093 [Narración] | Pero por alguna razón, su tasa de éxito era pésima. Para no desperdiciar las Cajas de Deseos, tuve que dar un paso al frente y encargarme de la mayoría de los deseos.
+0094 [Narración] | El Trono ayudó a mantener intactos mis recuerdos, pero aun así, con cada deseo, sentía que algo más se me escapaba...
+0095 [Hazana] | Uy. Se ve idéntico al Cetro de la Muerte de Angie.
+0096 [Hazana] | Necesitas descansar, Jefe. Ya tenemos suficientes Cetros.
+0097 [Tú] | ¿Estás segura?==W== Solo tenemos sesenta o setenta. Ni siquiera alcanza para uno por persona.==W== Deberíamos conseguir más mientras podamos...
+0098 [Hazana] | Pff...==W== ¡Jajaja!==W== Oye, ¿quién dijo que nosotros íbamos a pelear contra el Comité de Salvación?==W== Yo nunca dije eso.
+0099 [Iris] | Entonces, ¿qué se supone que hagamos...?
+0100 [Hazana] | Este mundo está lleno de gente harta de las empresas.==W== Lo único que tenemos que hacer es...
+0101 [Hazana] | ¡Venderles los Cetros de la Muerte==W== y dejar que desaten toda esa rabia contenida!

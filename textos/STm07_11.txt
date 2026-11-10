@@ -1,0 +1,176 @@
+# Capítulo 7 · El precio de la estrella · 11 · Mentiras y esperanza
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Alert Stellaroid | Stellaroid alerta
+N:Fierce Trekker | Trekker feroz
+N:Frail Patient | Paciente débil
+N:Tired Trekker | Trekker cansado
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_118 | Coronis
+N:avg1_1210 | Cosette
+N:avg1_142 | Cosette
+N:avg1_144 | Chitose
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg2_981 | Lucky Rubbi
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1242 | Chitose
+N:avg3_139 | Trekker
+N:avg3_166 | Anciana del pueblo
+N:avg3_206 | Noctiluna
+N:avg3_220 | Mercurio
+
+## Texto
+0001 [Intro] | Acto once
+0002 [Intro] | Mentiras y esperanza
+0003 [Intro] | Chitose te cuenta sobre sus viajes pasados. En otro frente, Cosette cae en una emboscada y logra salvar a Noctiluna. Con los enemigos pisándote los talones, te diriges al piso oculto del Monolito.
+0004 [Lugar y hora] | 20:50, 14.º del mes de Venatio, Monolito de Philae, piso 15
+0005 [Chitose] | Esto fue hace poco más de un mes.
+0006 [Chitose] | La doctora Coronis y yo pasábamos por una ciudad en decadencia.==W== Estaba llena de enfermos.
+0007 [Lugar y hora] | 10:00, 4.º del mes de Messis, ciudad en decadencia, Calle sin nombre
+0008 [Frail Patient] | *Cof*. Gracias, doctora.==W== ¿De verdad le pedirá un deseo al Dios de la Gracia por nosotros?
+0009 [Coronis] | Así es. Cuando vuelva, les traeré una bendición del Dios de la Gracia.
+0010 [Frail Patient] | Qué alivio. Eh, si me permite preguntar... ¿Qué tipo de Artefacto será?
+0011 [Coronis] | Ay, vaya. Eso lo decide el Dios de la Gracia. No nos corresponde adivinarlo.
+0012 [Frail Patient] | Ah, tiene razón. *Cof*. Perdóneme.==W== Tome, aquí tiene estos Dorra. No es mucho, pero por favor acéptelos.
+0013 [Coronis] | Guárdese sus Dorra. Aceptarlos mancharía su deseo.==W== Por ahora, simplemente rece al Dios de la Gracia.
+0014 [Lugar y hora] | 10:10, 4.º del mes de Messis, ciudad en decadencia, Calle sin nombre
+0015 [Coronis] | Vamos, Chitose.==W== A la siguiente casa.
+0016 [Chitose] | ¿A la siguiente casa? Creí que íbamos al Monolito.
+0017 [Coronis] | ¿Al Monolito? ¿Para qué? Todavía nos quedan muchos pacientes.
+0018 [Chitose] | Pero, doctora, dijo que les traería una bendición del Dios de la Gracia. ¿No se refería a una medicina deseada en el Monolito?
+0019 [Coronis] | Jeje.==W== Necesitan medicina, sí, pero no del tipo que piensas. Lo que necesitan son...
+0020 [Chitose] | ¿Esto es... bollos de carne?
+0021 [Coronis] | Sí. La mayoría de las «enfermedades graves» de esta ciudad se reducen a desnutrición. Sobreviven con la comida más barata que hay, una dieta sin carne ni verduras. Es natural que se enfermen.
+0022 [Chitose] | Entonces, ¿por qué no comen bien? Su sala estaba llena de Artefactos. No parecían pobres en absoluto.
+0023 [Coronis] | Es difícil saberlo.==W== Piénsalo: ¿hemos visto una sola sucursal de alguna empresa desde que llegamos?
+0024 [Chitose] | No.==W== Ni una sola.
+0025 [Coronis] | El Monolito de esta ciudad otorga los mismos Artefactos que encontrarías en las Tierras Salvajes, así que ninguna empresa invierte aquí, y los habitantes tienen que sobrevivir a duras penas de la agricultura y el tejido.
+0026 [Coronis] | Claro que no se puede culpar a la gente. Pero están convencidos de que su pobreza es un castigo por no ser lo bastante devotos del Dios de la Gracia.
+0027 [Coronis] | Intentan superarse unos a otros comprándoles Artefactos a Trekkers y empresas. Creen que demostrar su devoción convencerá al Imperio de la Gracia de bendecir a esta ciudad con una empresa propia.
+0028 [Coronis] | Esa casa que visitamos no solo estaba llena de Artefactos. Estaba sepultada bajo avisos de cobro de Finanzas del Mar Profundo. Esta gente pide préstamos para comprar más.
+0029 [Coronis] | Eso explica la pobreza. Se saltan comidas para ir pagando sus deudas, y cualquier Dorra que logran juntar se lo gastan en otro Artefacto.
+0030 [Chitose] | Conozco demasiado bien la agonía del hambre. Si mi ==SEX11== no me hubiera ofrecido comida, hoy no estaría aquí.
+0031 [Coronis] | Je. Me alegra que pensemos igual. Porque yo no puedo curar esta enfermedad, pero tú sí.
+0032 [Chitose] | ¿Yo?
+0033 [Narración] | Dos días después.
+0034 [Lugar y hora] | 11:00, 6.º del mes de Messis, ciudad en decadencia, bosque de las afueras
+0035 [Chitose] | Oh, Guardián de Goodwind, escucha mi plegaria. Lava toda desgracia, pecado e impureza.==W== Así yo, Chitose, te ofrezco humildemente mi reverencia.
+0036 [Chitose] | Doctora, ¿bastará con esto?==W== Son las únicas plegarias de mi tierra natal que recuerdo...
+0037 [Coronis] | Oh, muy auténtico. Pero...==W== Perdón por pisotear tus creencias, pero sería perfecto si cambiaras «Guardián de Goodwind» por «Dios de la Gracia».
+0038 [Chitose] | ¿E-está segura de que esto es aceptable? Temo que una plegaria remendada a la carrera tenga poco peso... Incluso este atuendo es solo una vaina estilo miko que cosí a partir de recuerdos borrosos.
+0039 [Coronis] | Lo que importa es la convicción. ¿No hay en tu tierra dichos como «la fe mueve montañas» o «creer es crear»?
+0040 [Coronis] | Reparte estos bollos de carne que hicimos y anuncia que son una bendición del Dios de la Gracia. Diles que coman más de estos bollos «Piedra del Alma»,==W== y usa distintos rellenos para representar los distintos colores de las piedras.
+0041 [Chitose] | Entendido. Pero ¿por qué recurrir al engaño? Como médica, ¿no tendría más sentido decirles la verdad?
+0042 [Coronis] | Porque la raíz de su enfermedad no es física.==W== Es psicológica.
+0043 [Coronis] | Saben que necesitan comer. Pero su idealizado Dios de la Gracia es su única esperanza.==W== Esta absurda competencia de devoción los tiene a todos atrapados, y nadie quiere ser el primero en rendirse.
+0044 [Coronis] | Aun así, aferrarse ciegamente a esa fe los matará.==W== Necesitan un símbolo, alguien lo bastante convincente como para actuar de mensajero divino y decirles que está bien probar otro camino.
+0045 [Coronis] | Curioso, ¿no? Todo el mundo se miente a sí mismo y, aun así, la humanidad de algún modo encuentra consuelo en ese delirio compartido.==W== Ese juego de «hacer como si» es la forma en que la gente sobrevive a los días más oscuros.
+0046 [Coronis] | En cuanto a por qué te elegí a ti... Es pura cuestión de credibilidad.==W== Yo no tengo ni una pizca de devoción. Me descubrirían en un instante.
+0047 [Chitose] | Entiendo. Si interpretar este papel puede salvar a esta gente...==W== haré todo lo posible para que crean que estos bollos de carne son una verdadera bendición del Dios de la Gracia.
+0048 [Lugar y hora] | 21:20, 14.º del mes de Venatio, Monolito de Philae, piso 15
+0049 [Tú] | Ya veo. Hiciste ese atuendo para ayudar a la doctora Coronis a tratar a los enfermos y evitar que la gente desperdiciara dinero en Artefactos.
+0050 [Tú] | Pero algo no me cuadra. ¿No dijiste que...?
+0051 [Chitose] | Sobre mi viaje...==W== y sobre cómo me ayudaste a dominar el Estilo sin Espada.
+0052 [Tú] | Hace un mes... Yo todavía trabajaba en Cosecha Unida. ¿Cómo pude haberte ayudado?
+0053 [Chitose] | Bueno... Es que...==W== Cuando repartía las bendiciones del Dios de la Gracia...==W== necesitaba sonar convincente. Para sentirme una verdadera mensajera, la imagen del Dios que me imaginaba era...==W== tú.==W==
+0054 [Chitose] | Y al hacerlo,==W== de pronto comprendí tu corazón,==W== mi ==SEX11==.==W== Di un pequeño paso adelante en nuestro camino compartido hacia la Unidad.==W== Después de eso, el «Estilo sin Espada» me salió de forma natural.
+0055 [Tú] | ¿Todo eso por pensar en mí?
+0056 [Chitose] | Mientras repartía esas bendiciones, me di cuenta de que... les estaba llevando esperanza a los creyentes. Me convertí en alguien en quien podían apoyarse, igual que yo me apoyo en ti.
+0057 [Chitose] | La doctora Coronis dijo que todos se mentían a sí mismos. Quizá tenía razón... Pero yo lo veo de otra forma.
+0058 [Tú] | ¿Cómo?
+0059 [Chitose] | Puede que yo fuera una miko falsa, pero la bondad de la doctora era real. No fue mi atuendo ni unas mentiras endebles lo que los convenció.==W== Me creyeron porque...==W== sintieron esa bondad.
+0060 [Chitose] | Fue entonces cuando por fin te entendí, mi ==SEX11==. Por qué compartiste tu comida conmigo y te preocupaste por mi seguridad cuando tu propia vida corría peligro.==W== Por qué siempre te desvives por ayudar a los demás,==W== incluso a costa tuya.
+0061 [Chitose] | Eso es lo que admiro de ti.==W== Quiero ser la espada que te proteja...==W==
+0062 [Tú] | Ejem.==W== No soy tan noble.==W== Hago lo que creo que es correcto...==W== Y si hablamos de bondad, Chitose, tú eres la que...
+0063 [Chitose] | Zzz...==W==
+0064 [Tú] | ... Por fin se durmió, ¿eh?==W== Je.==W== Tuviste un día largo, Chitose.
+0065 [Tú] | Esta noche, deja que tu «==SEX11==» te proteja. Descansa.
+0066 [Lugar y hora] | 23:55, 14.º del mes de Venatio, Monolito de Philae, piso ???
+0067 [Cosette] | Mmm...==W== ¿Qué tomo esta noche?
+0068 [Cosette] | ¿Un dulce Jade Líquido,==W== un burbujeante Pep Pep Juice==W== o ese café negro y amargo==W== que te mantiene despierta toda la noche?
+0069 [Cosette] | Uf, qué difícil.==W== Pero todavía no encuentro al Jefe, y buscar en este Monolito es agotador. Parece que será café.==W== ¡Muy bien,==W== a pedir un deseo!
+0070 [Cosette] | Oh, tacaño Dios de la Gracia que solo da una opción a la vez...==W== Si mis recuerdos te sirven, tómalos y concédeme mi deseo.==W== Los cambio por...
+0071 [Cosette] | ¡¿Q-==W==qué fue eso?!
+0072 [Fierce Trekker] | Hmph. Listo. Ese debería ser el último Stellaroid de este piso.
+0073 [Fierce Trekker] | Las Piedras del Alma ya casi están secas.==W== Los Monolitos abandonados son una pesadilla: Stellaroids por todas partes, y duros además.==W== Qué fastidio.
+0074 [Fierce Trekker] | Sí. Pero nuestro trabajo termina aquí. ¿Cómo salió el deseo?
+0075 [Fierce Trekker] | Lo más cercano que conseguimos es este Artefacto:==W== un juguete lanzador que se carga con agua. Lo llenas de veneno disuelto, disparas==W== y debería cumplir su función.
+0076 [Fierce Trekker] | ¿No es un juguete para niños?==W== Como sea. Con una petición tan ridícula, seguramente al Escuadrón Dos no le fue mejor.==W== Mientras cumpla con lo pedido, estamos bien.
+0077 [Fierce Trekker] | Ya tenemos el Artefacto. Preparemos el plato fuerte.==W== Sáquenla...
+0078 [Tired Trekker] | Upa...==W==
+0079 [Narración] | El Trekker deja caer el costal que lleva a la espalda y deja ver una cara que Cosette conoce demasiado bien.
+0080 [Cosette] | ¿Eh? ¿Esa es...==W== ¡¿Noctiluna?!==W== ¿Cómo la atraparon?
+0081 [Fierce Trekker] | Oye, Nocturn Eterna. Sabes lo que te tragaste hace rato, ¿verdad?
+0082 [Noctiluna] | ¿Era... un veneno de efecto retardado?
+0083 [Fierce Trekker] | Exacto.==W== Así que haz lo que te decimos.==W== No querrás morir aquí, ¿verdad?==W== Ya estamos siendo generosos al no entregarte a los Centinelas del Alba.==W==
+0084 [Noctiluna] | Yo...==W== Entiendo.==W== ¿Qué quieren que haga?
+0085 [Fierce Trekker] | ¿No es tu gente experta en... provocar Colapsos del Monolito?
+0086 [Fierce Trekker] | Nosotros ya nos vamos.==W== En cuanto nos vayamos, provoca un Colapso aquí.==W== Luego nos ves afuera para el antídoto y estamos a mano.
+0087 [Noctiluna] | Provocar un Colapso...==W== De acuerdo. Lo haré. Voy a dibujar la matriz ahora.
+0088 [Fierce Trekker] | ¡Oye, espera!==W== ¡Ni siquiera estamos en el elevador todavía!
+0089 [Tired Trekker] | ¡Detrás de ti! ¡Un Stellaroid...==W== espera, no!==W== ¡¿Una Nocturn Eterna?!
+0090 [Tired Trekker] | ¡Mi arma!==W== ¡Se... se partió!
+0091 [Fierce Trekker] | Hmpf.==W== ¿Una mocosa Nocturn Eterna tamaño bolsillo?==W== Por favor. A ver quién pega más fuerte... ¡¡¡Aaaaaaaaargh!!!==W==
+0092 [Fierce Trekker] | N-no puede ser...==W== ¡¿Lo bloqueó de frente?!
+0093 [Cosette] | Usar mi poder con alguien que no sea el Jefe es un desperdicio.==W== Pero los malos necesitan una paliza...==W== ¡Manos a la obra!==W==
+0094 [Cosette] | Uf, eran todos.==W== ¿Estás bien, Noctiluna? Toma, bébete el antídoto.
+0095 [Noctiluna] | Gracias, Cosette. ¿Qué haces aquí?
+0096 [Cosette] | Tengo mi propia misión. Pero ¿y tú? Estos Trekkers no eran malos, pero es imposible que te atraparan tan fácil.
+0097 [Noctiluna] | Bueno... Voy atrasada con mi cuota.==W== Lady Aeloria espera tres Colapsos del Monolito al año.==W== Ya estamos en el mes de Venatio y todavía me faltan dos.
+0098 [Noctiluna] | Pero hay demasiados Trekkers alrededor de Philae. Provocar un Colapso ahí...==W== no estaría bien.
+0099 [Noctiluna] | Este Monolito de la Isla del Lago normalmente está vacío, pero no encontraba cómo cruzar.==W== Así que fingí tomarme su veneno y dejé que me capturaran. Viaje gratis hasta adentro.
+0100 [Cosette] | ...
+0101 [Noctiluna] | Así que eso es lo principal. Dame un segundo para terminar de dibujar la matriz del Colapso.
+0102 [Cosette] | Espera...
+0103 [Noctiluna] | ¿Eh?
+0104 [Cosette] | Mira, ¡y-yo te ayudo a provocar un Colapso en otro Monolito!==W== ¡Así que no dibujes esa matriz aquí!
+0105 [Noctiluna] | ¿Por qué no? Aquí dentro está vacío. Sacaré a estos Trekkers en cuanto empiece el Colapso para que nadie salga herido.
+0106 [Cosette] | No dudo de las habilidades de Noctiluna,==W== pero si provoca un Colapso aquí, ¡los Stellaroids podrían acabar con ese debilucho del Jefe!==W== ¡Adiós a mi misión!
+0107 [Cosette] | Eh... Bueno... ¡Claro! ¡Este Monolito concede deseos de un refresco de edición limitada súper raro!==W== ¡Si destrozas el lugar, se acabó!
+0108 [Noctiluna] | Oh, qué lástima. Está bien. Pero tenemos que encontrar un Monolito vacío.
+0109 [Cosette] | Claro...==W== Cuenta con ello...
+0110 [Cosette] | Esta vez tuviste suerte, Jefe. Te voy a dejar ir...==W== ¡Pero la próxima vez serás mío!
+0111 [Lugar y hora] | 12:00, 15.º del mes de Venatio, Isla del Lago de Philae, entrada del Monolito
+0112 [Fierce Trekker] | Gerente, aquí el Escuadrón Dos reportándose. Misión cumplida: treinta Artefactos conseguidos mediante deseos.
+0113 [Mercurio] | Buen trabajo. Ahora, ¿dónde está el Escuadrón Uno?
+0114 [Fierce Trekker] | Parece que los emboscaron...==W== Los encontramos noqueados y tirados afuera del Monolito.
+0115 [Mercurio] | Usar a una Nocturn Eterna...==W== Una idea astuta,==W== pero parece que les salió el tiro por la culata.
+0116 [Fierce Trekker] | El proceso de los deseos nos agotó la memoria y la resistencia... El Escuadrón Dos ya no puede más.==W== No podemos seguir.
+0117 [Mercurio] | Entendido. Omnisky Aegis les reservó un sanatorio de primera durante los próximos seis meses. Descansen. Recibirán el triple de paga, como se prometió. Omnisky Aegis cuida de los suyos.
+0118 [Fierce Trekker] | No esperaba menos...==W== Gracias...==W==
+0119 [Mercurio] | Je. En un concurso de deseos justo, mis Trekkers jamás podrían ganarte, Jefe.
+0120 [Mercurio] | Esta prueba nunca tuvo una sola respuesta correcta.==W== Te aplastaré con el puro volumen.==W== Si nos llevamos todo y no te dejamos nada que desear, sacas un cero.
+0121 [Lugar y hora] | 12:30, 15.º del mes de Venatio, Monolito de Philae, piso 45
+0122 [1] | Chitose, tres pasos a la izquierda y luego ve hacia el pilar. Cuando se volteen, corre hacia el elevador.
+0123 [Chitose] | Entendido.
+0124 [1] | Todavía no...==W== Espera...==W== Espera la oportunidad.
+0125 [Alert Stellaroid] | ¡GROAR...!
+0126 [1] | ¡Ahora!==W== ¡Ven al elevador!
+0127 [Chitose] | Tal como lo planeaste, mi ==SEX11==.
+0128 [Tú] | ¡Ciérrate!==W== ¡Vamos,==W== ciérrate!
+0129 [Narración] | Las puertas metálicas se cierran y dejan fuera a los Stellaroids que venían embistiendo.
+0130 [Chitose] | Una táctica brillante, mi ==SEX11==.==W== Coordinarnos por teléfono nos permitió explorar todo el piso sin una sola pelea.
+0131 [Tú] | Je. Agradécele al teléfono, no a mí.==W== Me alegra que le estés agarrando la onda.
+0132 [Narración] | Con Chitose como mi única combatiente, esta mañana ideé una nueva táctica.
+0133 [Narración] | El plan es sencillo: Chitose usa su agilidad para mantenerse lejos de los Stellaroids mientras yo localizo las Cajas de Deseos y el elevador.
+0134 [Narración] | Luego, solo la guío por los puntos ciegos por teléfono.
+0135 [Narración] | Ahorra tiempo y, sobre todo, evita que Chitose se agote.
+0136 [Chitose] | ¿Hubo suerte con las Cajas de Deseos, mi ==SEX11==?
+0137 [Tú] | Sí, pero alguien se nos adelantó y se llevó las buenas. Solo quedan microcajas, más pequeñas que mi palma.
+0138 [Tú] | Aun así funcionan. Deseé pomada y vendas. Dame tu mano; déjame cambiarte eso.
+0139 [Chitose] | Gracias, mi ==SEX11==.==W== Pero ese equipo que va delante de nosotros... ¿Será de Omnisky Aegis?
+0140 [Tú] | Probablemente. Se supone que el Monolito tiene un número fijo de cajas. Cuanto más tarde subas, peores son tus probabilidades.
+0141 [Tú] | Con el tiempo reaparecen, pero seguramente no antes de nuestra fecha límite.
+0142 [Tú] | Lo que nos deja una sola opción...
+0143 [Narración] | Reviso las notas que me dio Iris. Encerró en un círculo una línea en particular:
+0144 [Narración] | «Oficialmente, el Monolito de Philae tiene cincuenta pisos. Sin embargo, hay registros de Trekkers que mencionan un piso cincuenta y uno oculto.
+0145 [Narración] | Si ese piso oculto existe, espera amenazas al nivel del enorme Stellaroid de Emor. Jefe, no subas ahí bajo ninguna circunstancia».
+0146 [Tú] | Muy bien.==W== Vamos hasta la cima.
+0147 [Tú] | Me pregunto cómo le estará yendo a Firenze. Espero que todo esté bien.

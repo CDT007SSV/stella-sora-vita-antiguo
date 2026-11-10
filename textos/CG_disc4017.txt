@@ -1,0 +1,120 @@
+# Recuerdo de disco · Fireworks · 1 · Fireworks
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Festival Staff | Personal del festival
+N:Fireworks Craftsman | Artesano de fuegos artificiales
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_192 | Fuyuka
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Fuegos artificiales
+0003 [Intro] | Sin darse cuenta, subió a un escenario más grande. Cada vez más personas ven su brillo, pero su confianza en ti nunca ha cambiado.
+0004 [Narración] | Por invitación de Fuyuka, vine a Philae, donde la gente prepara un gran festival.
+0005 [Nazuna] | Oh, hola, Jefe. ¿Qué te trae por aquí?
+0006 [Tú] | Fuyuka me invitó, dijo que habría un festival.
+0007 [Nazuna] | Claro que lo sé.==W== Pero el festival es mañana, ¿no? No te equivocaste de fecha, ¿verdad?
+0008 [Tú] | No, solo quería ver si podía ayudar en algo.
+0009 [Nazuna] | ¿En serio? Qué amable. Todos andan ocupadísimos, se alegrarán mucho de verte.
+0010 [Tú] | Ya veo. ==W==Si me permite preguntar, señorita Nazuna... ¿Usted qué está haciendo?
+0011 [Nazuna] | Oye...==W== ¿Qué es esa cara...? Estás convencido de que estoy holgazaneando, ¿verdad?
+0012 [Nazuna] | Para el Festival de la Cosecha, Fuyuka dará un discurso en nombre de Philae, así que estoy preparando un atuendo especial para que lo use en el escenario.
+0013 [Tú] | ¿Tú? ¿Haciendo su atuendo?
+0014 [Nazuna] | Philae es una tierra construida sobre la agricultura, y el Festival de la Cosecha es la más importante de todas sus celebraciones. Se le conoce como el rey de los festivales.
+0015 [Nazuna] | El papel de Fuyuka es distinto esta vez. Antes era la representante de los Trekkers, pero ahora hablará en nombre de la ciudad. Es algo muy importante.
+0016 [Nazuna] | Es un festival importante para una amiga importante,==W== así que tengo que hacerle el atuendo perfecto para mostrarle mi apoyo. No te preocupes, Kaede también me ayudará.
+0017 [Tú] | Guau, ¿Fuyuka va a representar a toda la ciudad?==W== Es increíble...
+0018 [Tú] | ¿Dónde está?
+0019 [Nazuna] | Probablemente ayudando a montar los fuegos artificiales.
+0020 [Tú] | Bien, iré a buscarla.
+0021 [Fuyuka] | P-perdón por la molestia...==W== ¿Dónde pongo este lanzador de fuegos artificiales?
+0022 [Fireworks Craftsman] | ¡Aquí está bien! ¡Guau, señorita Fuyuka, solo usted podría cargar un lanzador de cuatro metros como si nada!
+0023 [Fuyuka] | Para nada. Ayudar a cargar cosas pesadas es lo único en lo que sirvo...==W== Ugh—
+0024 [Fireworks Craftsman] | ¡Señorita Fuyuka! ¿¡Está bien!?
+0025 [Fuyuka] | E-estoy bien.==W== Solo tropecé un poco...
+0026 [Fireworks Craftsman] | No se ve muy bien. Por favor, no se esfuerce. De todos modos, ese era el último lanzador, así que deje el resto en nuestras manos.
+0027 [Fuyuka] | Perdón por las molestias. Entonces...==W== Iré al siguiente lugar a ayudar...
+0028 [Fireworks Craftsman] | ¡Espere un momento, por favor!
+0029 [Fuyuka] | ¿H-hay algo más que necesiten?
+0030 [Fireworks Craftsman] | Esto es una muestra de nuestro agradecimiento. No es mucho, pero por favor acéptelo.
+0031 [Fuyuka] | Oh, vaya, bengalas.==W== Gracias~
+0032 [Tú] | Fuyuka está hablando con la gente, con total normalidad...
+0033 [Tú] | Parece que su timidez ha mejorado mucho, qué gran noticia.
+0034 [Tú] | Estás trabajando muy duro, Fuyuka.
+0035 [Fuyuka] | Usted también...==W==¿¡Maestro!? ¿Qué hace aquí?
+0036 [Tú] | ¿No me invitaste?
+0037 [Fuyuka] | S-sí...==W== Pero ¿el festival no es mañana?
+0038 [Tú] | Lo sé. Por eso vine con anticipación, para echarles una mano.
+0039 [Fuyuka] | Mm...==W== Pero yo solo quería que disfrutara el festival...==W== Es decir, que de verdad lo disfrutara...
+0040 [Fuyuka] | Ugh...==W== Maestro...
+0041 [Tú] | ... ¿Fuyuka?
+0042 [Fuyuka] | ¡Maestro—!
+0043 [Tú] | ¿Qué pasa?
+0044 [Fuyuka] | Así están las cosas...==W== Supongo que sigo un poco preocupada...
+0045 [Tú] | Venir un día antes fue definitivamente la decisión correcta.
+0046 [Fuyuka] | Aunque el discurso en el campamento salió muy bien,==W== esta vez el público será cien veces mayor—==W==no, mil veces mayor. Si algo sale mal...
+0047 [Tú] | Ya no eres la misma de antes. No te preocupes, te irá bien. Incluso antes de que yo llegara, lo has hecho muy bien frente a todos, ¿no?
+0048 [Fuyuka] | Es cierto. Pero en cuanto lo veo a usted,==W== no puedo evitar querer que me consienta un poquito, jeje.
+0049 [Festival Staff] | ¡Señorita Fuyuka~! ¿Tiene un momento? ¡Queremos hacer un ensayo de la ceremonia de apertura!
+0050 [Fuyuka] | ¡Claro! ¡Voy enseguida!
+0051 [Tú] | No te preocupes. Me quedaré justo a tu lado.
+0052 [Fuyuka] | ¡Qué bueno! Con usted aquí,==W== de pronto me siento mucho más tranquila.
+0053 [Fuyuka] | Ejem, ejem.
+0054 [Narración] | Fuyuka subió al podio, con una expresión inusualmente solemne.
+0055 [Narración] | La gente iba y venía, con la mirada puesta en el podio, expectante.
+0056 [Tú] | ¡Tú puedes, Fuyuka!
+0057 [Festival Staff] | Entonces, comencemos... Tres,==W== dos,==W== uno...==W== ¡Ya!
+0058 [Fuyuka] | ...
+0059 [Festival Staff] | ¿Mm? ¿Señorita Fuyuka? Ya empezamos.
+0060 [Fuyuka] | ...
+0061 [Tú] | ¿Qué pasa?
+0062 [Narración] | Antes de que pudiera reaccionar, de pronto se quedó rígida, como una marioneta a la que le cortaron los hilos, y se desplomó en el suelo.
+0063 [Fuyuka] | Uu...==W== Ugh...==W== ¿Por qué estoy en la cama...?
+0064 [Tú] | Te desmayaste en el escenario durante el ensayo.
+0065 [Fuyuka] | El ensayo...==W== ¡Ah! ¡Es verdad, estaba ensayando mi discurso!
+0066 [Fuyuka] | Tengo que ir enseguida...==W== ¡O todos van a empezar a preocuparse!
+0067 [Tú] | No hay prisa. Tómate un respiro primero.
+0068 [Fuyuka] | P-pero...
+0069 [Tú] | Me dijeron que has estado ayudando con los preparativos del festival estos días. El personal teme haberte pedido demasiado y que te hayas esforzado hasta el agotamiento.
+0070 [Fuyuka] | No puede ser...==W== Yo quería ayudar de verdad. ¡No es culpa de nadie más!
+0071 [Tú] | Lo entiendo. Por eso, para que tu discurso salga bien mañana, tu trabajo ahora es descansar y recuperarte.
+0072 [Fuyuka] | Wah...
+0073 [Tú] | Fuyuka, tienes demasiada presión. Mmm...==W== ¿Qué tal si encendemos unas bengalas para ayudarte a relajarte?
+0074 [Fuyuka] | ¿Bengalas?
+0075 [Tú] | ¿No te dio unas el artesano hace rato?
+0076 [Fuyuka] | Ah, es verdad, me las dio como muestra de agradecimiento...
+0077 [Tú] | Entonces está decidido. Celebremos un poco por adelantado, solo nosotros dos.
+0078 [Narración] | Las chispas crepitan y centellean en el aire, y sin darse cuenta, Fuyuka queda absorta mirando la luz.
+0079 [Narración] | Mientras las bengalas arden, la tensión y la inquietud de su corazón parecen disolverse poco a poco...
+0080 [Opción] | ¿Qué te parecen?
+0081 [Fuyuka] | S-son muy, muy hermosas.
+0082 [Opción] | Creo que, para la gente de Philae, eres como los fuegos artificiales.
+0083 [Fuyuka] | Quiere decir que...
+0084 [Opción] | Para ellos, eres su luz de esperanza más brillante.
+0085 [Opción] | Igual que los fuegos artificiales que iluminan el cielo nocturno.
+0086 [Fuyuka] | Y-yo no soy tan grandiosa...
+0087 [Opción] | Quizá todavía no, pero algún día lo serás.
+0088 [Fuyuka] | Wah...==W== Es usted demasiado amable.
+0089 [Fuyuka] | M-me da mucha vergüenza...
+0090 [Opción] | El fuego artificial más brillante de Philae...
+0091 [Opción] | ... brillará para todos a su alrededor.
+0092 [Fuyuka] | Entiendo a qué se refiere, Maestro.
+0093 [Tú] | Siempre te has esforzado por la gente de esta ciudad.==W== Estoy segura de que todos quieren ver el futuro iluminado por tu luz.
+0094 [Tú] | En fin, no le des tantas vueltas. Haz lo que sientas correcto y no te presiones demasiado.
+0095 [Tú] | Si alguna vez te sientes perdida, o si algo te supera, ven a mí por ayuda. Siempre estaré aquí para apoyarte. Después de todo ...==W== soy tu Maestro.
+0096 [Fuyuka] | ¡Maestro...!
+0097 [Narración] | De pronto, unas cuantas estrellas fugaces cruzan el cielo nocturno.
+0098 [Fuyuka] | ¡Oh, mira!==W== ¡Estrellas fugaces!
+0099 [Fuyuka] | ¡C-cierto! ¡Tengo que pedir un deseo!==W== Estrellas fugaces, por favor concédanme mi deseo...
+0100 [Tú] | ¿Qué deseaste?
+0101 [Fuyuka] | Eso...==W== Eh, olvídelo.==W== ¡Es un secreto!
+0102 [Tú] | ¿No me lo dirás?
+0103 [Fuyuka] | ¡Si lo digo en voz alta, no se cumplirá!==W== Así que no, no puedo decirlo, ni siquiera a usted. Jeje~
+0104 [Tú] | Ahora me dio todavía más curiosidad...
+0105 [Narración] | Quizá las estrellas fugaces de verdad le concedieron su deseo. Tras una noche de descanso, el discurso de apertura de Fuyuka salió sin ningún contratiempo, y el Festival de la Cosecha de Philae terminó a la perfección entre risas y aplausos.

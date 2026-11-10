@@ -1,0 +1,113 @@
+# Historia de Eleanor · 2 · Something's on Her Mind (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Algo le preocupa (Parte II)
+0003 [Intro] | Quienes se toman las cosas demasiado en serio suelen ser quienes más se exigen.
+0004 [Willow] | ¿Eleanor y ==PLAYER_NAME==?==W== Esa sí que es una pareja poco común.
+0005 [Tú] | Hoy solo acompaño a Eleanor como su mentor. Quiero ver con mis propios ojos cuánto ha crecido.
+0006 [Willow] | Jeje, prepárate para llevarte una grata sorpresa.
+0007 [Tú] | Ahora sí tengo ganas de verlo.
+0008 [Eleanor] | ¡Señorita Willow, cuento con usted para las comisiones de hoy!
+0009 [Willow] | Claro. Un momento.
+0010 [Tú] | Willow...==W== ¿Qué es esta cantidad de comisiones?==W== Nos tomará todo el día elegir una.
+0011 [Willow] | Para que quede claro, todas son solicitudes directas para Eleanor. Por eso las saqué todas.
+0012 [Tú] | ... ¿Todas y cada una?
+0013 [Tú] | Sabía que había estado activa e incluso ganado algunos premios, pero no esperaba que fuera tan popular...
+0014 [Tú] | Pensando en cuando empezó... Es increíble lo lejos que ha llegado.
+0015 [Tú] | Bueno, tienes opciones. ¿Cuál vas a tomar, Eleanor?
+0016 [Eleanor] | ¡Todas, por supuesto!
+0017 [Tú] | Claro, todas...==W== Espera,==W== ¿¡todas!?
+0018 [Eleanor] | ¡Sí! Si una comisión tiene mi nombre, la tomo.
+0019 [Eleanor] | La gente está depositando su confianza en mí. No pienso defraudarla.
+0020 [Tú] | Entiendo tu postura, pero ¿no es demasiado para una sola persona?
+0021 [Willow] | Eleanor siempre cumple. Es una ayuda enorme para la Asociación, la verdad...
+0022 [Willow] | Pero no te excedas, Eleanor. Ya lo he dicho antes: todo Trekker tiene derecho a decir que no.
+0023 [Eleanor] | Gracias por preocuparse por mí. Pero yo elegí ser Trekker y quiero hacer absolutamente todo lo que pueda.
+0024 [Eleanor] | Mentor, no hay tiempo que perder. ¡Salgamos!
+0025 [Tú] | Ah... Está bien.
+0026 [Tú] | ¿Estará bien...?
+0027 [Eleanor] | Mentor, esta es su habitación para esta noche.
+0028 [Tú] | Gracias, Eleanor, pensaste en todo.==W== ¿Seguro que no hay problema con que me quede? No quiero ser una molestia para tus padres.
+0029 [Eleanor] | Por favor, no se preocupe. Madre y Padre apoyan por completo mis labores como Trekker ahora, y les avisé que usted vendría.
+0030 [Tú] | Qué alivio. Entonces acepto tu oferta.
+0031 [Tú] | Por cierto, estuviste increíble hoy. Manejaste todas esas comisiones como una profesional. Ya puedes valerte por ti misma.
+0032 [Eleanor] | Je, je, gracias. Pero todo se lo debo a su guía, Mentor.
+0033 [Tú] | Después de verte hoy, creo que deberías reconocerte más mérito.
+0034 [Eleanor] | ... Aún me falta mucho camino. Si quiero alcanzarla, necesito más experiencia.
+0035 [Tú] | ... Esforzarse es genial, pero no te exijas demasiado.
+0036 [Eleanor] | Entiendo. Buenas noches, Mentor.
+0037 [Narración] | Cuando Eleanor se va, me hundo en la suave cama y cierro los ojos.
+0038 [Narración] | No sé cuánto he dormido, pero me levanto aturdido y salgo tambaleándome al pasillo...
+0039 [Tú] | ...==W== ¿Dónde estaba el baño? Este lugar es enorme y con las luces apagadas no veo nada.
+0040 [Tú] | No puedo despertar a alguien solo para preguntar cómo llegar...==W== Espera. ¿Esa luz sale de debajo de aquella puerta?
+0041 [Tú] | ¡Perfecto! Alguien sigue despierto. Le preguntaré cómo llegar.
+0042 [Tú] | Perdón por molestar tan tarde. Me preguntaba...
+0043 [Eleanor] | ... ¿Mentor? ¿Qué hace despierto a esta hora?
+0044 [Tú] | ¿Eleanor? ¿Sigues despierta?
+0045 [Tú] | Olvida eso, ¡tengo una emergencia mayor...!==W== Eleanor, ¿dónde está el baño?
+0046 [Tú] | Uf...==W== Menos mal que estabas despierta. Me salvaste.
+0047 [Eleanor] | Lo siento, Mentor, fue culpa mía. Debí darle un recorrido por la casa antes de dormir.
+0048 [Tú] | No pasa nada...==W== Pero ¿qué haces despierta tan tarde?
+0049 [Eleanor] | Estoy estudiando teoría de administración de empresas. Como pasé todo el día fuera con las comisiones de Trekker, aún no termino la tarea que me asignó Padre.
+0050 [Tú] | Espera, ¿no dijiste que tus padres te dieron permiso para ser Trekker?
+0051 [Eleanor] | Así fue. Pero cuando obtuve su bendición, les prometí que mis estudios como heredera de la familia no se verían afectados.
+0052 [Eleanor] | Respetan mi sueño, pero también esperan que me convierta en una heredera capaz de liderar a la familia. No pienso renunciar a ninguna de las dos cosas.
+0053 [Tú] | Eso es admirable, Eleanor, pero no abuses de las desveladas.==W== Mañana todavía tenemos comisiones.
+0054 [Eleanor] | Entendido. Solo un poco más,==W== y me voy a dormir.
+0055 [Tú] | ... Está bien, te dejo seguir. Buenas noches.
+0056 [Eleanor] | Buenas noches, Mentor.
+0057 [Tú] | ¿Se habrá estado exigiendo tanto todos los días desde que le dieron permiso?
+0058 [Eleanor] | Señorita Willow, traje los Artefactos de la comisión. ¿Podría revisarlos rápidamente?
+0059 [Willow] | Gracias por tu esfuerzo. Puedes dejarlos aquí mismo.
+0060 [Eleanor] | ¡Bien! Aquí está este,==W== y este...==W== ¡ah!
+0061 [Tú] | ¡Cuidado!
+0062 [Narración] | Atrapo el Artefacto en el momento en que se le resbala de las manos.
+0063 [Eleanor] | ¡L-lo siento! Gracias, Mentor...
+0064 [Tú] | Qué bueno que no se rompió. Willow, eso debería ser todo.
+0065 [Tú] | ¿Son ideas mías o Eleanor está completamente ausente?
+0066 [Willow] | ... Bien, todo está en orden. Comisión completada. Eres tan eficiente como siempre, Eleanor.
+0067 [Eleanor] | Je, je,==W== gracias. Bien, Mentor, vayamos a la siguiente...==W== ¿Eh?
+0068 [Narración] | Al darse la vuelta para irse, tropieza. Doy un paso adelante y la atrapo por instinto.
+0069 [Tú] | ¡Eleanor, ¿estás bien?!
+0070 [Eleanor] | Lo siento, Mentor.==W== ¿Por qué sigo equivocándome hoy...?
+0071 [Eleanor] | Qué raro...==W== La habitación da vueltas...
+0072 [1] | ¡¿Eleanor?! ¡Eleanor! ¡Aguanta!
+0073 [Eleanor] | Ugh...==W== ¿Dónde estoy?
+0074 [Tú] | Por fin despiertas. Estás en tu habitación.
+0075 [Eleanor] | ¿Mi habitación...?
+0076 [Eleanor] | ¡Espere, ¿qué hora es?! Tengo comisiones que terminar...
+0077 [Tú] | Oye, tranquila. Ya me encargué de tus comisiones.
+0078 [Tú] | Ahora solo tienes que descansar. El médico dijo que te desplomaste por exceso de trabajo.
+0079 [Eleanor] | Ya veo...==W== Lo siento...==W== Solo le he causado problemas, Mentor.
+0080 [Tú] | Eleanor, quizá te dije que creyeras en lo que puedes lograr como Trekker...
+0081 [Tú] | Pero también debes conocer tus límites. Si te desplomas otra vez, no podrás terminar tus comisiones y tus estudios.
+0082 [Eleanor] | Es verdad...==W== Pero...==W== Tengo razones para seguir adelante...
+0083 [Eleanor] | Equilibrar la vida de una Trekker con ser heredera... Esa fue mi decisión.
+0084 [Eleanor] | Descansar cuando una está cansada...==W== Suena a excusa para la debilidad.
+0085 [Tú] | ... ¿Ese es el verdadero problema?
+0086 [Eleanor] | ¿Eh?
+0087 [Tú] | En la fiesta del té, te quedaste en silencio cuando te pregunté qué te preocupaba.
+0088 [Tú] | Y cuando me ofrecí a acompañarte en tus comisiones...
+0089 [Eleanor] | Espere, no tiene que tomarse tantas molestias...==W== ¿Y sus clases de baile?
+0090 [Tú] | Cuando quisiste ser Trekker por primera vez, me pediste específicamente que te entrenara.
+0091 [Tú] | Si tu preocupación fuera parecerte más a mí, no habrías estado tan reacia.
+0092 [Tú] | Supuse que había algo más.==W== Parece que tenía razón.
+0093 [Eleanor] | ... Jajaja, nada se le escapa, Mentor.
+0094 [Eleanor] | Últimamente he estado perdiendo la confianza...==W== No dejo de pensar que quizá no pueda con ser Trekker y heredera a la vez.
+0095 [Eleanor] | Para ser capitana de un gremio necesito experiencia. Para ser heredera, tengo una montaña de cosas por aprender. Pero nunca hay tiempo suficiente...
+0096 [Eleanor] | Decidí esforzarme, pero al final perdí la confianza para llevarlo a cabo.==W== Qué patético. Me avergüenzo...
+0097 [Tú] | ¿O sea que has cargado con todo este peso tú sola?
+0098 [Eleanor] | Usted se tomó la molestia de ayudarme y yo soy completamente inútil. Lo siento...
+0099 [Tú] | Yo no lo veo así.
+0100 [Eleanor] | ¿Eh...?
+0101 [Tú] | En todo caso, ya entiendo la raíz del problema. No te preocupes, lo resolveremos.
+0102 [Tú] | Sin embargo, tu salud es lo primero. Descansa, y más adelante lo enfrentaremos juntos.
+0103 [Eleanor] | ¡Mentor...! ==W== B-bien, entendido. ¡Me recuperaré en un abrir y cerrar de ojos!

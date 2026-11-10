@@ -1,0 +1,116 @@
+# Historia de Iris · 1 · The Shopping War (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Excited Customer | Cliente emocionado
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg2_984 | Soldado Trekker
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_113 | Ya
+N:avg3_125 | Meikyo
+N:avg3_126 | Empleada de Finanzas del Mar Profundo
+N:avg3_129 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La guerra de las compras (Parte I)
+0003 [Intro] | ¡Es hora de que las delicias de la mantequilla y el azúcar barran con todo mal humor! Hay una guerra que librar, con cupones y descuentos. ¿La recompensa? ¡La cordura de Iris!
+0004 [Narración] | Un trozo de pan tostado dorado, esponjoso y suave.
+0005 [Narración] | Un huevo estrellado, crujiente en las orillas, unas rebanadas de jamón sabroso, mucho tocino ahumado y salchichas.
+0006 [Narración] | Acompañado de galletas y una taza de té negro caliente.==W== Ah … mi desayuno soñado: sencillo, pero abundante.
+0007 [Iris] | ¡¿Cómo puedes estar comiendo en la cama?!
+0008 [Narración] | Un lamento destroza este hermoso momento y me saca de mi agradable sueño.
+0009 [Tú] | ¿Q-qué pasó?
+0010 [Noya] | Vamos, no seas tan estricta con las reglas... Si solo comes en la mesa, te pierdes mucha diversión.
+0011 [Noya] | Mientras lo limpie después, ¿qué tiene de malo?
+0012 [Noya] | ¿Ves? Sacudí las sábanas muy bien. No quedó ni una migaja.
+0013 [Iris] | ¡Solo parece limpio!
+0014 [Iris] | Las migajas se atoran en todo tipo de rendijas, luego se echan a perder y empiezan a oler...
+0015 [Iris] | ¡Y también atraen bichos!
+0016 [Iris] | Con el tiempo, más migajas traen más bichos...
+0017 [Iris] | Mientras dormimos, los bichos se meterán a la cama y empezarán a mordisquearnos los dedos de los pies...
+0018 [Iris] | Antes de que te des cuenta, ¡Lucky Oasis será invadido y expulsado por los bichos...==W== ugh!
+0019 [Iris] | Y sin nada, terminaríamos en la calle: harapientas, hambrientas, sin adónde ir...
+0020 [Amber] | Está bien. En el peor de los casos, podemos comernos los bichos.
+0021 [Iris] | ¡Noooooooooo...!!
+0022 [Iris] | No quiero terminar sobreviviendo a base de bichos,==W== de ninguna manera. ¡Jamás!
+0023 [Tú] | Uy, uy. Cuando Iris empieza a desvariar, es muy difícil hacerla volver.
+0024 [Noya] | ¡Déjamelo a mí! Tengo un movimiento secreto justo para momentos como este.
+0025 [Noya] | Cof...
+0026 [Noya] | ¡Iris! ¡Despierta...==W== hoy hay una venta relámpago!
+0027 [Iris] | ¡¿Venta relámpago?!
+0028 [Noya] | Jeje. ¿Qué te dije? Funcionó, ¿no?
+0029 [Amber] | El encargo, vamos a llegar tarde.
+0030 [Iris] | ¿Qué? ¿Ya es tan tarde?
+0031 [Noya] | ¡Estaré lista en un santiamén!
+0032 [Iris] | Déjame revisar los detalles de este encargo por ti... Ah, Noya, el cuello de tu camisa no está bien abotonado.
+0033 [Narración] | Mientras ajusta el cuello de Noya, Iris se estira y toma su grueso cuaderno.
+0034 [Iris] | Es...
+0035 [Iris] | Es real...
+0036 [Tú] | ¿Qué pasa, Iris? ¿Qué es real?
+0037 [Iris] | ¡De verdad HAY una venta relámpago hoy!
+0038 [Iris] | Yo... Lo olvidé por completo...
+0039 [Iris] | Quizá tantas desveladas están empezando a afectar mi memoria... Ya no tiene caso decirlo.
+0040 [Iris] | ¡Se acabó todo! Perderse una venta relámpago es como perderse... ¡todo!
+0041 [Noya] | Puedo llevarte en Loxy.
+0042 [Iris] | ¡NO!
+0043 [Iris] | El encargo de hoy es muy importante, no pueden llegar tarde. Además, no nos queda de camino, así que no podemos desperdiciar Gracia en algo así...
+0044 [Tú] | Tranquila, Iris.
+0045 [Tú] | Si vamos ahora, llegaremos a tiempo.
+0046 [Tú] | Noya y Amber, ustedes sigan el plan de hoy. Yo iré con Iris a la venta relámpago.
+0047 [Iris] | Entendido...
+0048 [Iris] | Entonces ... ==PLAYER_NAME==,==W== ¡démonos prisa!
+0049 [Noya] | ¡Nosotras nos encargamos del encargo!
+0050 [Noya] | Vaya... Nunca había visto a Iris tan rápida.
+0051 [Amber] | La presión le hace mostrar sus verdaderas habilidades.
+0052 [Tú] | Más despacio, más despacio...
+0053 [Iris] | ¡No! ¡No podemos ir más lento!
+0054 [Iris] | Incluso con la mejor ruta calculada y a toda velocidad, apenas llegamos...
+0055 [Iris] | ¡Si no aceleramos, nos perderemos la apertura de la tienda!
+0056 [Tú] | La oferta dura todo el día, ¿no? Llegar un poco tarde no debería ser gran cosa...
+0057 [Iris] | ¡No! ¡De! ¡Ninguna! ¡Manera!
+0058 [Iris] | Un minuto tarde y habrá cien personas más delante de nosotros. Si no entramos corriendo en el instante en que abran las puertas, ¡nos quedaremos afuera con una multitud interminable!
+0059 [Iris] | Lo único que podremos hacer es ver cómo se llevan las mejores ofertas. Todo el dinero que pudimos ahorrar se nos escurrirá entre los dedos.
+0060 [Iris] | Si no podemos ahorrar dinero, tendremos menos. Y con menos dinero, tendremos que escalar el Monolito con hambre y con el equipo hecho trizas...
+0061 [Iris] | Si no podemos pagar comida, no tendremos energía para los encargos. Sin el equipo adecuado, no podremos llegar al último piso a buscar la caja de deseos. Si no podemos ganar dinero, no podemos comer, y si no podemos comer, no podemos ganar dinero...
+0062 [Iris] | Al final tendríamos que vender a Loxy para pagar deudas, ¡y entonces todas estaríamos sin hogar, durmiendo bajo un puente!
+0063 [Iris] | Sollozo...
+0064 [Tú] | ¿Cómo es que llora y de algún modo corre todavía más rápido al mismo tiempo?
+0065 [Tú] | Uf … resuello... Estoy a punto de … desmayarme...
+0066 [Tú] | Necesito un … resuello … momento...
+0067 [Iris] | Llegamos... Gracias al cielo, llegamos...
+0068 [Tú] | Yupi...==W== Entonces, ¿ya puedes soltarme...?
+0069 [Tú] | Que me arrastraran todo el camino... Siento que se me va a salir el brazo.
+0070 [Iris] | Ah … ¡p-perdón! Estaba tan concentrada en correr que actué por instinto...
+0071 [Tú] | Hay muchísima gente... ¿Todos esperan que abra la tienda?
+0072 [Iris] | Probablemente. Esta clase de mega venta ocurre solo unas cuantas veces al año, si acaso.
+0073 [Iris] | Mira el anuncio de la oferta de allá.
+0074 [Tú] | «Venta relámpago: ¡70 % de descuento con eventos de Recorte de Precios! ¡Consigue hoy tus productos gratis!»
+0075 [Tú] | Hasta 100 % de descuento... Con razón Iris está tan emocionada.
+0076 [Iris] | Las puertas están por abrirse ... ==PLAYER_NAME==, ¡prepárate!
+0077 [Tú] | ¿Cuál es mi trabajo?
+0078 [Iris] | ¡Cuando se abra la puerta, entramos corriendo! ¡Tú llevas el carrito de compras, yo consigo las cosas!
+0079 [Iris] | ¡Compra lo que necesitemos, lo que sea barato!
+0080 [Iris] | ¡Y lo que tenga descuento, cuanto más alto, mejor!
+0081 [Iris] | ¡Llévate todo lo que podamos! ¡Ahorra lo más posible!
+0082 [Iris] | ¡Cuando paguemos, recortaré el precio todo lo que pueda!
+0083 [Tú] | Impresionante...
+0084 [Excited Customer] | ¡Las puertas se están abriendo! ¡Las puertas se están abriendo!
+0085 [Iris] | Toma un carrito y ve a la sección de alimentos, luego a la de artículos del hogar.==W== Por último, haremos una revisión rápida para asegurarnos de que no se nos olvidó nada...
+0086 [Iris] | Cinco...
+0087 [Iris] | Cuatro...
+0088 [Iris] | Tres...
+0089 [Iris] | Dos...
+0090 [Iris] | ¡Uno!
+0091 [Iris] | ¡VAAAMOS!
+0092 [Narración] | Con Iris cargando al frente como una general y la multitud detrás de mí surgiendo como una inundación, me quedo en medio con la sensación de ser un soldado novato nervioso en su primer día de batalla.
+0093 [Narración] | ¡La guerra de las compras ha comenzado!

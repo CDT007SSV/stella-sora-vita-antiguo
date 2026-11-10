@@ -1,0 +1,112 @@
+# Evento · Réquiem invernal y el gatillo del alba · 4 · Secretos ancestrales
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Miss Longsword | Señorita Espada Larga
+N:avg1_143 | Wraith
+N:avg2_971 | Trekker de las Aves Errantes
+N:avg3_100 | Sylar
+N:avg3_195 | Edda
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Secretos ancestrales
+0003 [Intro] | Wraith y tú descubren antiguos murales de leyendas y ritos en una cueva subterránea. Tras un repentino ataque de una compañera de equipo, deciden volver de inmediato para organizar lo que encontraron.
+0004 [Edda] | Gracia... recargada. Listo. Con eso el hechizo de calor aguantará otro día.
+0005 [Tú] | Gracias, Edda. Aprecio el esfuerzo extra.
+0006 [Edda] | No lo menciones. Es lo mínimo que puedo hacer.
+0007 [Wraith] | Tirano, deberíamos ponernos en marcha.
+0008 [Edda] | Cuídense. Si ven a Nocturn Eterna, retírense de inmediato. Solo estamos aquí para explorar el Monolito. No se hagan los héroes.
+0009 [Wraith] | Nuestra patrulla cubre el este del Distrito de Plata. Después, vamos a...
+0010 [Wraith] | ¿Mm? Te ves pálido. ¿Mala noche?
+0011 [Tú] | ... Bueno, sobre eso...
+0012 [Tú] | El silencio es oro y todo eso, pero...
+0013 [Tú] | Tenemos días de trabajo por delante. Necesito descansar. Mejor se lo digo.
+0014 [Tú] | De hecho, sobre anoche...
+0015 [Tú] | Sí, básicamente eso. De ahí la falta de sueño.
+0016 [Wraith] | Ya veo... Mis disculpas. No quise causarte problemas.
+0017 [Tú] | Mientras no estés enferma, no pasa nada. Pero... ¿no tienes frío?
+0018 [Wraith] | Mi cuerpo es... diferente. Los norteños soportan bien el frío, pero mi tolerancia es alta incluso para ellos.
+0019 [Wraith] | A cambio, me sobrecalento con facilidad. Me quité el abrigo durante el combate porque en el carruaje hacía demasiado calor. Anoche probablemente fue lo mismo...
+0020 [Wraith] | No me di cuenta de que te estaba quitando el sueño. De verdad lo siento.
+0021 [Tú] | No te preocupes. Tenerte cerca en realidad me hace sentir más seguro. Saber que Nocturn Eterna no me va a emboscar me quita un peso de encima. Esta noche dormiré como roca.
+0022 [Tú] | Con eso terminamos de explorar por aquí.==W== Pasemos a lo siguiente... ¿Mm?
+0023 [Wraith] | ¿Qué pasa?
+0024 [Tú] | ¿Oyes ese... silbido extraño? No suena como la ventisca. Es más como...
+0025 [Narración] | Siguiendo el sonido, encontramos el camino hacia las profundidades bajo la ciudad.
+0026 [Wraith] | No tenía idea de que hubiera una caverna tan enorme bajo tierra.
+0027 [Tú] | Viviste aquí bastante tiempo, ¿no? ¿Nunca oíste hablar de ella?
+0028 [Wraith] | No. Sabía que las afueras estaban plagadas de minas, pero esto no parece una. Se siente más como una formación natural.
+0029 [Wraith] | Ese «silbido» que oíste parece venir de más adelante.
+0030 [Tú] | Sí. Sale directo de esta fisura.
+0031 [Wraith] | El paso es muy estrecho... No alcanzo a ver bien adentro.
+0032 [Tú] | Eh... Creo que puedo colarme. Iré a explorar.
+0033 [Wraith] | Ten cuidado. Grita si pasa algo. Estaré justo detrás de ti.
+0034 [Tú] | Eso da confianza. Pero... con su figura, ¿de verdad va a caber?
+0035 [Narración] | Me meto a empujones y vislumbro un espacio subterráneo aún más vasto.
+0036 [1] | Esta cueva...==W== muestra muchas señales de actividad humana.
+0037 [1] | ¿Eh? Parece que hay algo pintado en esa pared de allá.
+0038 [Tú] | ¡Guau...!
+0039 [Wraith] | ¡¿Una emboscada de Nocturn Eterna?!==W== ¡Aguanta! ¡Voy para allá!
+0040 [1] | Ay, ay...==W== Estoy bien. Solo tropecé.
+0041 [1] | ¿Qué es esto, una espada?==W== Manchada de óxido...==W== Parece muy antigua.
+0042 [Wraith] | ¡¿Estás bien?! ¿Qué pasó?
+0043 [1] | Nada. Pisé una espada y perdí el equilibrio.
+0044 [Wraith] | Qué bueno que estás a salvo. Espera, ya paso...==W== ngh... ¿Eh?
+0045 [1] | ¿Wraith? ¿Todo bien por allá atrás?
+0046 [Wraith] | N-nada...==W== Ya... estoy ahí...
+0047 [Tú] | ¿Qué pasa?
+0048 [Wraith] | No te preocupes, es solo un huequito: pasaré en un santiamén... ¡Ngh!
+0049 [Wraith] | Perdona, ==PLAYER_NAME==... ¿Me das una mano?
+0050 [1] | Está bien.==W== A la cuenta de tres,==W== jalamos.
+0051 [1] | Tres...==W== Dos...==W== ¡Uno!
+0052 [Wraith] | Uf. Gracias. Pensé que me quedaría atorada ahí para siempre. Qué final tan humillante...
+0053 [Wraith] | En fin, ¿encontraste algo?
+0054 [Tú] | Sí. Mira estos murales.
+0055 [Wraith] | Esta escritura es antigua. Debe de ser un sitio de reliquias de los primeros colonos del norte.
+0056 [Tú] | La escritura antigua del norte... ¿Puedes leerla?
+0057 [Wraith] | Entiendo la idea general. Pero nuestro pueblo transmite la historia mediante relatos y hechos, no registros.==W== No puedo estar 100 % segura de lo que realmente significa...
+0058 [Narración] | «En un pasado lejano, el fuego de la guerra ardió hasta las llanuras heladas de Norstheim...»
+0059 [Narración] | «Las plegarias del pueblo invocaron al Dios de la Guerra. Dondequiera que apuntaba su lanza, la victoria lo seguía.»
+0060 [Narración] | «Al terminar la guerra, confiaron la paz a la humanidad y regresaron al Monolito, dejando que la gente custodiara la paz con sus propias manos.»
+0061 [Tú] | ¿Este «Dios de la Guerra» es otro nombre del Dios de la Gracia?
+0062 [Wraith] | No, nunca he oído que el Dios de la Gracia tenga otro nombre.==W== Supongo que es una creencia propia del norte. Aquí se venera a entidades más primarias y naturales.
+0063 [Wraith] | Por ejemplo, los marineros se tatuaban olas del océano en el cuerpo, creyendo que así obtendrían el poder del mar y asegurarían viajes sin riesgo.
+0064 [Tú] | Entonces esta cueva era... ¿un sitio de culto a la naturaleza, o algo así?
+0065 [Wraith] | Supongo, pero...==W== El contenido de este mural es bastante extraño.
+0066 [Tú] | ¿Parece que están realizando algún tipo de... ritual?
+0067 [Wraith] | «El dios desciende del Monolito...==W== Participantes...==W== Duelo...==W== Respuesta...»
+0068 [Wraith] | No, estos grabados están demasiado erosionados para distinguir detalles más específicos.
+0069 [Wraith] | Parece registrar algún ritual para invocar a una deidad, uno que exige que los participantes se batan en duelo con armas.==W== Estas reliquias deben de ser lo que quedó de aquellos ritos antiguos...
+0070 [Wraith] | Espera, hay algo raro. Hay sangre en estas armas. Sangre fresca, de hace apenas unos días o semanas...
+0071 [Tú] | ... O sea que no son simples reliquias antiguas. Alguien estuvo aquí hace poco, usando estas armas viejas para realizar el ritual. Y...
+0072 [Wraith] | Parece que funcionó. O al menos tuvo un éxito parcial.
+0073 [Tú] | ¿Fue obra de Nocturn Eterna? Tenemos que avisar a los demás.
+0074 [Miss Longsword] | Nngh...
+0075 [Tú] | ¿Eh?==W== ¿Señorita Espada Larga? ¿Qué hace aquí?
+0076 [Miss Longsword] | ¡Haa...!
+0077 [Wraith] | ¡Atrás, ==PLAYER_NAME==!==W== ¡Algo le pasa!
+0078 [Miss Longsword] | Rrgh... Forastero...==W== Acepta tu destino...
+0079 [Wraith] | Sus movimientos están muy distorsionados...==W== Así no pelea una persona normal; alguien mueve los hilos.
+0080 [Wraith] | ¿Dónde está el hechicero? ¡Muéstrate!
+0081 [Tú] | ¡Wraith, cuidado!
+0082 [Miss Longsword] | ¡Por... la CONQUISTA!!!
+0083 [Wraith] | ¡Demasiado lenta!
+0084 [Miss Longsword] | ¡Ah...!
+0085 [Tú] | ¡¿Cómo está?!
+0086 [Wraith] | Tranquilo. Solo se desmayó.
+0087 [Tú] | El arma... Esa no es su espada de siempre. Parece una antigua.
+0088 [Wraith] | El aura asesina desapareció en cuanto la desarmé. Esa arma no me da buena espina. Mejor no tocarla.
+0089 [Wraith] | En fin, llevémosla a la base. Aquí no es seguro. Yo aseguro una ruta de salida. Tú quédate y vigílala.
+0090 [Tú] | Entendido. Cuídate la espalda.
+0091 [1] | Se desmayó en cuanto la desarmaron...==W== ¿Habrá alguna conexión?
+0092 [1] | No está herida. La maga con la que va también desapareció.
+0093 [1] | ¿Será que Nocturn Eterna las atacó... y con su magia la convirtieron en esto?
+0094 [1] | Los murales, el ritual, las armas y ahora Nocturn Eterna... Quizá haya una conexión entre todo esto...
+0095 [Wraith] | ¡==PLAYER_NAME==!
+0096 [1] | Wraith, ¿qué pasa? ¿Nocturn Eterna?
+0097 [Wraith] | Urgh... No...==W== Creo que volví a atorarme...
+0098 [Wraith] | ¿Me echas una mano? Es algo... Urgh...
+0099 [1] | ...==W== ...
+0100 [Wraith] | Oye, di algo, ¡==PLAYER_NAME==! ==PLAYER_NAME==, ¿sigues ahí?

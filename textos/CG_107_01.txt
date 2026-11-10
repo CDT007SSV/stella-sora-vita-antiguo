@@ -1,0 +1,116 @@
+# Historia de Tilia · 1 · Masked Knight Tilia (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Annoyed Driver | Conductor molesto
+N:Artifact Vehicle Driver | Conductor de vehículo Artefacto
+N:Cheerful Passerby | Transeúnte alegre
+N:Furious Driver | Conductor furioso
+N:Gossipy Passerby | Transeúnte chismoso
+N:Monster Cart Driver | Conductor de carreta de monstruos
+N:Out-of-Breath Girl | Chica sin aliento
+N:Relaxed Passerby | Transeúnte relajado
+N:Snarky Passerby | Transeúnte sarcástico
+N:avg1_107 | Tilia
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_166 | Anciana del pueblo
+N:avg3_168 | Chica
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Caballero Enmascarado Tilia (Parte I)
+0003 [Intro] | ¡La crisis acecha! La tempestad nunca se disipa
+0004 [Narración] | Es temprano en la mañana. Me abro paso por el Distrito de las Cenizas de Emor, buscando una legendaria tienda de renta de dramas.
+0005 [Tú] | Me dijeron que tienen Stella Dramas raros, e incluso algunas películas antiguas de Flavio. Mmm ... ¿qué ver?
+0006 [Tú] | ¿Eh?==W== ¿Qué pasa aquí? Toda la calle está bloqueada.
+0007 [Monster Cart Driver] | ¡Oigan!==W== ¡Tengo un horario muy apretado! ¿Por qué no avanzamos?
+0008 [Artifact Vehicle Driver] | ¿Quién sabe?==W== Este camino siempre está atascado. Nadie cede el paso. Seguramente hubo un choque.
+0009 [Tú] | ¿Un choque?
+0010 [Narración] | Al frente de la fila de vehículos que serpentea por el camino, hay un scooter azul justo en medio. Alguien incluso tendió una «línea de precaución» con un trozo de tela.
+0011 [Tú] | Ese scooter me suena. Espera, ¿será...?
+0012 [???] | ¡Disculpen la demora, conductores!==W== ¡Solo un momento más! ¡Si van a cruzar, por favor apúrense!
+0013 [Relaxed Passerby] | ¡Es imposible cruzar este camino por las mañanas! ¡Gracias a ti, quizá por fin llegue puntual al trabajo!
+0014 [Cheerful Passerby] | ¡En serio! Pensaba que los Guardias Imperiales eran inútiles, pero mira, aquí hay una que sí hace su trabajo.
+0015 [Annoyed Driver] | Hmph. ¿Qué le pasa? La Guardia nunca hacía estas cosas.
+0016 [Furious Driver] | Nos está haciendo perder el tiempo. ¿No tiene nada mejor que hacer?
+0017 [Tú] | Ah, entonces no es un choque. Es una Guardia Imperial dirigiendo el tráfico.
+0018 [???] | ¡Gracias por su paciencia! ¡El tráfico ya puede avanzar!==W== ¡Perdón por las molestias, todos!
+0019 [Narración] | La caballero se disculpa y aparta su scooter.
+0020 [Narración] | De inmediato rugen los motores. El camino de piedra desaparece bajo una oleada de vehículos, sin dejar espacio para los peatones.
+0021 [???] | ¡Oye! ¡Pero si es el Jefe!
+0022 [Tú] | ¡Tilia!
+0023 [???] | ¡Buenos dííías—==W==¡UAH!==W==?
+0024 [Tú] | ¡Whoa, ¿estás bien?!
+0025 [???] | Auch, ay... Tropecé con una piedra. Este casco de verdad me tapa la vista.
+0026 [Tilia] | Ah, no importa.==W== ¡Buenos días! ¿Saliste a pasear?
+0027 [Tú] | No, ando buscando una tienda. ¿Estás de servicio?
+0028 [Tilia] | Más o menos...==W== Como ves, el tráfico de la mañana aquí es una locura, y la gente tiene urgencia por cruzar.
+0029 [Tú] | Sí. Qué bueno que estés aquí.
+0030 [Snarky Passerby] | ¿Oíste lo que pasó? Una caballero de la Guardia Imperial se puso a bloquear toda la zona.
+0031 [Gossipy Passerby] | ¿Eh? Pero oí que gracias a ella esa gente pudo cruzar la calle.
+0032 [Snarky Passerby] | Imposible. ¿Una Guardia Imperial moviendo un dedo por la gente común? Ni de chiste.
+0033 [Snarky Passerby] | Seguro vio a un Senador entre la multitud.==W== A esos Guardias solo les importa adular a los poderosos.
+0034 [Tilia] | ...
+0035 [Tú] | No les hagas caso. Dicen puras tonterías.==W== Muchas de las personas a las que ayudaste a cruzar te lo agradecieron==W==.
+0036 [Tú] | En fin, Tilia, sigamos. ¿Cómo te fue el otro día en el examen de calificación de caballero?
+0037 [Tilia] | El examen... Reprobé.
+0038 [Tú] | Genial. Qué manera de tocar un tema doloroso.
+0039 [Tilia] | Pero probablemente imagino por qué.
+0040 [Tilia] | Solo significa que no fui lo bastante buena. No logré captar el verdadero espíritu de un caballero. ¡Solo debo esforzarme todavía más en el camino de la justicia!
+0041 [Tú] | Creo que ya eres bastante trabajadora.
+0042 [Tilia] | No, no es eso... Yo ...==W== siempre lo arruino todo y molesto a todos.
+0043 [Tilia] | ¿Viste cómo todos esos conductores pensaron que les hacía perder el tiempo hace un momento? Ojalá lo hubiera manejado mejor.
+0044 [Tú] | Parece que lo que dijo esa gente de verdad le afectó.
+0045 [Tú] | Tilia, ¿por qué quieres unirte a la Guardia Imperial? ¿Para defender la justicia?
+0046 [Tilia] | Porque ...==W== ¡porque eso hacían en Caballero Enmascarado!
+0047 [Tilia] | ¡Todos los Caballeros Enmascarados aparecían cuando alguien estaba en problemas, soltaban una frase genial, derrotaban a los malos y salvaban el día!
+0048 [Tilia] | ¡Y las frases de sus ataques finales eran las más geniales de todas!
+0049 [Tú] | ¿Frases geniales, eh? Como...
+0050 [Opción] | «¡Las leyes de la victoria son absolutas!»
+0051 [Opción] | «¡Ahora, desmenucemos tus pecados!»
+0052 [Opción] | «Vayamos a comer carne asada esta noche».
+0053 [Tilia] | ¿Eh? ¿Tú también ves Caballero Enmascarado, Jefe?==W== Pero... no reconozco ninguna de esas frases. ¿Qué caballero las dice?
+0054 [Tú] | Jaja, son solo unas frases que vi en los Monolitos. Se me vinieron a la cabeza.
+0055 [Tilia] | ¿Eh? ¿Tú también ves Caballero Enmascarado, Jefe?==W== Pero... no reconozco ninguna de esas frases. ¿Qué caballero las dice?
+0056 [Tú] | Jaja, son solo unas frases que vi en los Monolitos. Se me vinieron a la cabeza.
+0057 [Tilia] | ¿Eh? ¿Carne asada?==W== Me encantaría, pero ¿qué tiene que ver con Caballero Enmascarado?
+0058 [Tú] | Ah, eh, nada. Me dio un antojo repentino.
+0059 [Tú] | Parece que Tilia no ha visto esa Stella Drama en particular.
+0060 [Tilia] | Mi frase favorita de todas es de un episodio de Caballero Enmascarado que vi de niña.
+0061 [Tilia] | El Caballero Justus no podía usar magia elegante y su arma no tenía nada de especial, pero nunca se rendía. Cada vez que sus enemigos se reían de él, solo decía...
+0062 [Tilia] | «¡Exacto! ¡Me convertiré en un aliado de la justicia!»
+0063 [Tilia] | Simplemente creo que es la mejor frase de todas.
+0064 [Tilia] | P-perdón... Me dejé llevar un poco. Qué vergüenza.
+0065 [Tilia] | Uf...
+0066 [Tilia] | ¡En fin! ¡Pase lo que pase, siempre seré una aliada de la justicia!
+0067 [Tilia] | ¡Así que aunque repruebe el examen, no voy a desanimarme!
+0068 [Tú] | Ya se recuperó. Qué alivio.
+0069 [Tú] | Bueno, será mejor que me ponga en marcha. Todavía tengo que encontrar esa tienda.
+0070 [Tilia] | ¡Oh, espera!
+0071 [Tú] | ¿Qué pasa?
+0072 [Tilia] | Jefe, ¿qué tienda buscas? Conozco esta zona como la palma de mi mano. Déjame ayudarte.
+0073 [Tú] | Oh, no quisiera molestarte. ¿No estás de servicio?
+0074 [Tilia] | ¡No, no, no es molestia! De hecho hoy estoy libre... Solo estoy, eh, haciendo patrullajes voluntarios.
+0075 [Tú] | ¿Voluntarios? Eso es ... bastante intenso.
+0076 [Tilia] | Yo... Siempre he oído que al pájaro lento le toca empezar a volar temprano.==W== No tengo talento natural, así que si quiero pasar el examen de caballero, simplemente debo esforzarme más que nadie.
+0077 [Tilia] | ¡Hacer más cosas, más buenas obras que ayuden a otros! ¡Ganaré por pura cantidad!
+0078 [Tú] | Vaya. Es tan constante y positiva. Casi deslumbra.
+0079 [Tilia] | ¡Un Caballero Enmascarado dijo una vez: «Ninguna buena obra es demasiado pequeña»!
+0080 [Tilia] | Así que por favor, Jefe, déjame ayudarte. ¡Ayudar a quien lo necesita es de lo que trata la justicia!
+0081 [Tú] | ¿De verdad lo dijo un Caballero Enmascarado? Creo que fue algún héroe de dos espadas...==W== Pero bueno.
+0082 [Tú] | Está tan entusiasmada que no puedo negarme.
+0083 [Tú] | Está bien, claro. Te lo agradecería.
+0084 [Tú] | La tienda que busco es una que tiene muchos...
+0085 [???] | C-caballero ... usted es caballero, ¿verdad?
+0086 [Tilia] | Yo ... todavía no soy una caballero completa. Solo escudera.
+0087 [Out-of-Breath Girl] | N-no sé cuál es la diferencia, pero por favor, ¡tiene que ayudarnos!
+0088 [Tilia] | ¿Qué pasa? Con calma, ¿qué sucedió?
+0089 [Out-of-Breath Girl] | ¡La granja! ¡Nuestra granja está siendo atacada por gigantes!
+0090 [Tilia] | ¡¿G-gigantes?!

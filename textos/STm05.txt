@@ -1,0 +1,22 @@
+# Capítulo 5 · Una chispa en la oscuridad — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm05_00 | Trato secreto
+STm05_01 | Entrevista poco convencional
+STm05_02 | Ruiseñor Leonado
+STm05_03_a | El arte de la explosión
+STm05_03_b | Novatas y veteranas
+STm05_03_c | Hierba milagrosa
+STm05_04 | Atar cabos
+STm05_05 | Un sándwich de pistas
+STm05_06 | Filosofías distintas
+STm05_07 | El sentido de las reglas
+STm05_08 | El mito del invernadero
+STm05_09_a | Joseph
+STm05_09_b | La responsabilidad de decidir
+STm05_09_c | Plantas Inteligentes
+STm05_10 | Momento de primera plana
+STm05_11 | El Maestro
+@BT01 | Especias en el Monolito
+@BT02 | Un mercenario conocido
+@BT03 | Espada de Jade

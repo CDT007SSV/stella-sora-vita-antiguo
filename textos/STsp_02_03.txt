@@ -1,0 +1,104 @@
+# Nova Times #02 · Tu nombre, desconocido para mi corazón · 3 · Your Name, Unknown to My Heart (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Flavor Dread | Flavor Dread
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg2_956 | Flavor Dread
+N:avg2_983 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_133 | Portia
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Tu nombre, desconocido para mi corazón (Parte III)
+0003 [Intro] | Perdido en el Monolito, el Jefe da con una «tienda de conveniencia». Tras comer un delicioso tazón de arroz con chuleta de cerdo empanizada, el cuerpo del Jefe parece sufrir cambios extraños.
+0004 [Tú] | ¿Cómo acabé de vuelta aquí?
+0005 [Tú] | Ni rastro de Noya ni de las demás. Llevo rato gritando hasta quedarme sin voz, y nadie contesta.
+0006 [Iris] | Una vez dentro, tienes que mantenerte con nosotras. No te alejes.
+0007 [Iris] | El espacio de adentro es caótico. La única forma de avanzar o salir es mediante elevadores que aparecen al azar.==W== Si te separas, podrías perderte aquí para siempre.
+0008 [Tú] | Iris tenía razón... Perdí por completo el rumbo.
+0009 [Tú] | Bien, respira hondo. No entres en pánico...
+0010 [Tú] | La teletransportación de un Caminante Espacial no puede ser infinita. Seguro me mandó a algún lugar cercano... Pero definitivamente sigo dentro del Monolito.
+0011 [Tú] | Necesito encontrar a las demás, rápido.==W== Pero ¿cómo...?
+0012 [Narración] | Saco el cuchillo de mesa que encontré y tallo un mensaje donde no pueda pasar desapercibido.
+0013 [Tú] | Aquí todo se ve intacto. Si otros Trekkers hubieran pasado por aquí, habrían dejado alguna marca.
+0014 [Tú] | Así que o alguna «entidad» mantiene este lugar, o el Monolito se repara solo.
+0015 [Tú] | Si es así, dejar marcas no sirve de nada. Pero con tantos Stellaroids alrededor, quedarse quieto es buscar la muerte.==B== Tengo que encontrar un lugar seguro, ya.
+0016 [Tú] | Uf, tanto caminar me está dando hambre...
+0017 [???] | ==W==Tú.==W== ¿Hambre?
+0018 [Tú] | Sí, no tuve oportunidad de comer antes de entrar.
+0019 [Tú] | ...¿???
+0020 [Narración] | Giro en seco: un enorme Stellaroid se alza justo detrás de mí. No hizo ningún ruido.
+0021 [Flavor Dread] | Tú.==W== Hambre.
+0022 [Flavor Dread] | Yo.==W== Tengo.==W== Comida.
+0023 [Tú] | No puede ser... ¡Es imposible que eso sea comestible!
+0024 [Flavor Dread] | Come.
+0025 [Flavor Dread] | Ahora.==W== Come.==W== Mi.==W== Comida.
+0026 [Tú] | Eh...==B== pensándolo bien, ya no tengo tanta hambre.
+0027 [Flavor Dread] | ¿No. Comes?==W== ¡Entonces.==W== Serás.==W== Comido!
+0028 [Tú] | ¡Tengo que salir corriendo!
+0029 [Flavor Dread] | ¿Por. Qué. No.==W== Comes!
+0030 [Tú] | Uf... Uf...==W== ¡¿Por qué sigue persiguiéndome?!
+0031 [Tú] | ¡No tengo hambre! ¡De verdad que no!
+0032 [Tú] | Miento. ¡Tengo tanta hambre que me voy a desmayar! Maldición, ya no puedo correr... Se me está... nublando la vista...
+0033 [???] | Oye,==W== por aquí.
+0034 [Flavor Dread] | ¿Por. Qué.==W== No.==W== Comes.==W== Mi. ¡Comida!
+0035 [Tú] | ¡Guau—!
+0036 [Tú] | ¿Estamos...==B== a salvo?
+0037 [???] | Relájate. Él no puede entrar aquí.
+0038 [Tú] | Gracias, me salvaste la vida...==W== ¿Quién eres?
+0039 [Portia] | Portia. Trabajo en la tienda de conveniencia. ¿Y tú?
+0040 [Tú] | Yo... no lo sé. Perdí la memoria.
+0041 [Portia] | ¿Mm? Bueno, qué más da. El nombre no te hace falta de todos modos. Toma. Debes de tener un hambre atroz después de tanto correr.
+0042 [Tú] | ¿Qué es esto?
+0043 [Portia] | La especialidad de la tienda: bento de chuleta de cerdo empanizada. Crujiente, tierna... mucho mejor que cualquier cosa que prepare esa cosa de allá afuera.
+0044 [Portia] | ¿Quieres que te la caliente?
+0045 [Tú] | Está bien...
+0046 [Portia] | Muy bien, un momento.
+0047 [Tú] | Huele increíble...==W== Creo que solo me está dando más hambre...
+0048 [Portia] | Aquí tienes. ¿Necesitas cubiertos?
+0049 [Tú] | G-gracias.
+0050 [Tú] | Esta... ¡esta chuleta...! ¡Es... espectacular! ¡¿Cómo es posible que algo sepa tan bien?!
+0051 [Portia] | Je, mírate cómo le entras. Si tanto te gusta, deberías quedarte. Podrías comer chuleta deliciosa todos los días.
+0052 [Tú] | ¿Quedarme?
+0053 [Portia] | Sí, quedarte. Trabaja a cambio de tus comidas. Tenemos techo y comida cubiertos. ¿Qué dices?
+0054 [Portia] | Además, de todos modos no puedes irte. Aferrarte a una falsa esperanza solo te haría sentir miserable, ¿no crees?
+0055 [Tú] | ... ¿Eh?
+0056 [Iris] | ... No, que solo te lo quite sería salir bien librado.
+0057 [Iris] | Cuanto más comes aquí dentro, más olvidas quién eres...
+0058 [Iris] | Hasta que te desvaneces por completo.
+0059 [Tú] | Es verdad, eso dijo Iris.
+0060 [Tú] | No comer nada en el Monolito...
+0061 [Tú] | Si lo hago... ¿Qué pasa otra vez?
+0062 [Tú] | Uf, hoy el negocio está muerto...
+0063 [Tú] | Tengo que esforzarme y atraer clientes.
+0064 [1] | ¡Mmmph-hmm, mmm-hmm!
+0065 [Tú] | Vamos, clientes... Tengo que mantener mis cifras de ventas.
+0066 [Tú] | Si traigo una multitud, el jefe seguro me dará un bono.
+0067 [1] | ¡Mmmph-mm, hmm-hmm!
+0068 [Tú] | ¿Cuándo es mi descanso? Se me antoja una chuleta de cerdo...
+0069 [Tú] | Espera...==B== ¿chuleta de cerdo?
+0070 [1] | ¡Mmmph—!
+0071 [Tú] | ¡¿Q-qué demonios—?! ¡¿Cómo acabé así?!
+0072 [Tú] | Uhh...
+0073 [Tú] | No puedo hablar... y apenas puedo moverme.
+0074 [Portia] | Si tanto te gusta, deberías quedarte. Podrías comer chuleta deliciosa todos los días.
+0075 [Tú] | ¿Quedarme?
+0076 [Portia] | Sí, quedarte. Trabaja a cambio de tus comidas. Tenemos techo y comida cubiertos. ¿Qué dices?
+0077 [Tú] | Es cierto... Me comí esa chuleta de la tienda de conveniencia y luego todo se puso negro.
+0078 [Tú] | Lo siguiente que supe es que desperté así. ¿Cuánto tiempo habrá pasado...?
+0079 [Tú] | Me pregunto si las demás ya habrán pedido el Artefacto y salido del Monolito.
+0080 [Tú] | Aunque no lo hayan hecho... No hay forma de que me reconozcan así.
+0081 [1] | Uhh...
+0082 [Tú] | ¡¿Voy a acabar aquí, trabajando las veinticuatro horas para siempre?!
+0083 [Tú] | Ay, no...==W== La cabeza se me está... nublando otra vez...
+0084 [Tú] | Uf, hoy el negocio está muerto...
+0085 [Tú] | Seguro es porque la promoción todavía no empieza.
+0086 [Tú] | ¡No puedo holgazanear! ¡Tengo que atraer clientes!
+0087 [1] | ¡Mmmph-mm, hmm-hmm!

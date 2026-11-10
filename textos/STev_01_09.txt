@@ -1,0 +1,118 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 9 · El origen de la luz
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Treasure Hunter Deputy | Lugarteniente de los cazatesoros
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:Treasure Hunters | Cazatesoros
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_990 | Miembro del Viento de Ceniza
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | El origen de la luz
+0003 [Intro] | Bajo la lluvia torrencial, los esqueletos de las Ballenas Hexcuerno emiten un resplandor brillante. Este lugar es su hábitat y su tumba. Es también el lugar que incontables viajeros confunden con un paraíso lleno de tesoros.
+0004 [Treasure Hunter Deputy] | ¿Estamos completos? ¿Provisiones y herramientas listas?
+0005 [Treasure Hunters] | ¡Todo en orden!
+0006 [Treasure Hunter Deputy] | Jefa, estamos todos en posición. Esperamos su orden.
+0007 [Treasure Hunter Leader] | ¡Muy bien, muchachos! El plan es simple...==W== ¡Acaben con «Caballa», «Pez Globo» y «Tiburón», y ese tesoro será prácticamente nuestro!
+0008 [Treasure Hunters] | ¡SÍ, JEFA...!
+0009 [Treasure Hunter Deputy] | Todos...==W== ¡¡En marcha!!
+0010 [Karin] | ... E-Espera, ¿por qué se está poniendo más oscuro mientras más nos adentramos?
+0011 [Tú] | Aquí los árboles son más espesos y bloquean la luz.
+0012 [Shia] | Tranquila, Karin. Vamos por buen camino. Solo tenemos que atravesar este bosque para llegar a esa luz.
+0013 [Karin] | ¿D-De verdad? Esto no es uno de esos «bosques de los que nunca se sale», ¿o sí...?
+0014 [Tú] | Hemos ido dejando marcas en el camino. Sabríamos si estuviéramos dando vueltas en círculos.
+0015 [Karin] | Bueno... supongo que solo estoy muy nerviosa. Siento el pecho muy apretado...
+0016 [Tú] | Si un bosque de verdad no tuviera salida, tendría que ser la trampa de un fantasma o algo así.
+0017 [Karin] | ¡Jefe, deja de tratar de asustarme! ¡Esta vez no caigo!
+0018 [Shia] | Espera. No es solo tu imaginación, Karin.
+0019 [Shia] | El viento trae un aroma extraño...
+0020 [Karin] | Algo anda mal... L-lo oigo...
+0021 [Karin] | Pasos... muchísimos... acercándose...==W== Eso es...
+0022 [Karin] | ¡FANTASMAS! ¡Ya llegaron!==W== ¡Corran!
+0023 [Tú] | ¿Fantasmas, en serio? ==W==... Espera, ¡empieza a llover a cántaros!
+0024 [Shia] | ¡Karin, espera!
+0025 [Tú] | Uf... puf... No puedo... seguir corriendo... La lluvia es muy fuerte...
+0026 [Shia] | ¡Hay una luz! ¡La salida está justo adelante!
+0027 [Shia] | Jefe, cuidado donde pisas, ¡está resbaloso!
+0028 [Karin] | ¡Shia! ¡Jefe! ¡No se acerquen!
+0029 [Karin] | ¡Esto es horrible! ¡AAAAAH!
+0030 [Tú] | ¡¿Qué rayos...?!
+0031 [Narración] | Enormes esqueletos yacen esparcidos por la playa, brillando con una siniestra luz verde bajo la lluvia torrencial.
+0032 [Tú] | Estos huesos... me resultan familiares.
+0033 [Shia] | ¿Son... Ballenas Hexcuerno muertas?
+0034 [Shia] | ¿Así que la luz que hemos estado siguiendo venía de estos esqueletos desde el principio?
+0035 [Karin] | P-Pero... ¿por qué hay tantos...?
+0036 [Shia] | Este debe de ser su hogar. La Ballena Hexcuerno que me salvó también apareció por aquí.
+0037 [Shia] | Me pregunto si la abuela habrá visto esto alguna vez...
+0038 [Karin] | ¿Quizá la abuela pensó que eran fantasmas? ¿C-Como yo al principio? Por eso les contó a todos de un Barco fantasma...
+0039 [Karin] | Esqueletos verdes brillantes... Bastante aterradores, se vean como se vean.
+0040 [Narración] | Error. Un error rotundo y absoluto.
+0041 [???] | Esqueletos verdes brillantes... Bastante valiosos, se vean como se vean.
+0042 [Karin] | ¡¿Quién anda ahí?!
+0043 [Treasure Hunter Leader] | Je, je... Muy agradecida por abrirnos el camino. Perdonen nuestra entrada sin invitación.
+0044 [Treasure Hunter Leader] | Aunque esto se aparta de mi hipótesis. Que el origen de la luz no sea un Monolito... ¡Qué decepción!
+0045 [Treasure Hunter Leader] | Aun así, las Ballenas Hexcuerno son una verdadera rareza. Solo sus huesos deben valer una fortuna.
+0046 [Tú] | Es esa banda de cazatesoros de la isla.
+0047 [Karin] | ¡Maldición! ¡Entonces esos pasos no eran de fantasmas, sino de esos rastreros!
+0048 [Shia] | Con razón había un hedor en el viento. Resulta que arrastró algo de inmundicia hasta aquí.
+0049 [Treasure Hunter Deputy] | Déjense de payasadas. Estos huesos son nuestros. Métanse en nuestro camino y se arrepentirán.
+0050 [Karin] | Qué clichés de villano. Eso es justo lo que se dice antes de que acaben con todo tu grupo.
+0051 [Tú] | Exacto. Los que hablan mucho siempre son los primeros en caer.
+0052 [Karin] | Shia, tenemos que darles una lección a estos fanfarrones por la Ballena Hexcuerno, ¿verdad?
+0053 [Shia] | Por supuesto. La Ballena Hexcuerno nos salvó. Lo mínimo que podemos hacer es proteger su hogar.
+0054 [Shia] | ¡La abuela haría==W== lo mismo!
+0055 [Karin] | ¡Perfecto! Todavía tenemos una cuenta pendiente de la última vez. ¡Acabemos con esto de una vez por todas!
+0056 [Tú] | Entonces yo cuidaré los esqueletos. Me aseguraré de que no hagan trampa.
+0057 [Shia] | Contamos contigo, Jefe.
+0058 [Treasure Hunters] | Ugh... Estoy acabado...
+0059 [Treasure Hunter Deputy] | ¡Mantengan la línea! ¡El que huya puede olvidarse del bono!
+0060 [Shia] | Karin, su formación está cambiando para rodearnos. Separémonos. Tú toma el flanco izquierdo, yo me encargo del centro.
+0061 [Karin] | ¡Entendido! La lluvia paró. ¡Hora de derribarlos a todos!
+0062 [Tú] | Shia y Karin llevan clara ventaja. Esto debería acabar pronto.
+0063 [Tú] | Espera, ¿eso es...?
+0064 [Tú] | ¡Shia, Karin, cuídense la espalda! ¡Su jefa está escapando!
+0065 [Karin] | Cof, cof... Maldición... ¿Sigue jugando sucio, eh?
+0066 [Tú] | Le he tenido el ojo encima. Se escabulló detrás del arrecife de la derecha.
+0067 [Shia] | Buen trabajo, Jefe. Karin, vayan ustedes dos. Yo me encargo del resto de estos tipos y los alcanzo.
+0068 [Karin] | ¡Está bien, ten cuidado! ¡Vámonos, Jefe!
+0069 [Treasure Hunter Leader] | Je... Jaja... Pensar que estuvo escondido aquí todo este tiempo...
+0070 [Treasure Hunter Leader] | Marlene... he encontrado... tu tesoro...
+0071 [Narración] | La perseguimos, trepando por altos arrecifes hasta que un naufragio aparece a la vista.
+0072 [Karin] | ¡¿Q-Qué hace un barco hasta aquí?!
+0073 [Tú] | Desapareció. Debió de entrar al barco. Karin, haz guardia. Yo la buscaré allá adentro.
+0074 [Karin] | Este lugar me da escalofríos... ¡No tardes mucho!
+0075 [Shia] | ¡Jefe! Espera.
+0076 [Karin] | ¡Guau, Shia! ¿Ya estás aquí? ¿Qué pasó allá atrás?
+0077 [Shia] | Los até en la playa. La Ballena Hexcuerno acaba de llegar, así que le pedí que los vigile.
+0078 [Karin] | ¡Perfecto! Solo falta su cabecilla. ¡Hagamos volar el barco! A ver si todavía quiere seguir escondida.
+0079 [Shia] | Probemos de otra manera... No me nace hacer eso.
+0080 [Tú] | ¿Eh? ¿Este barco tiene algo especial?
+0081 [Shia] | Este era...==W== el barco de la abuela.
+0082 [Tú] | ¡¿Qué?!
+0083 [Karin] | Oh, S-Shia, lo siento... Pensé que era un viejo barco cualquiera.
+0084 [Shia] | No te preocupes, Karin. No te equivocas. El barco está hecho una ruina.
+0085 [Shia] | Es solo que... pasé muchísimas noches en este barco con mi abuela. Lo reconocí en cuanto lo vi.
+0086 [Karin] | Parece que esa rastrera nos trajo a un buen lugar por una vez.
+0087 [Tú] | Así que aquí se hospedaba la abuela Marlene cuando desapareció.
+0088 [Tú] | A juzgar por los daños, debió de atrapar una tormenta terrible. Pero Shia dijo que su abuela no estaba herida...
+0089 [Tú] | ¿Una Ballena Hexcuerno la salvó a ella también? ¿Igual que a nosotros?
+0090 [Karin] | ¡Ejem! ¡Escuchen allá adentro! ¡Los tenemos rodeados y todos sus matones ya están controlados!
+0091 [Karin] | ¡Su única opción es rendirse, así que salgan de ahí ahora mismo!
+0092 [Treasure Hunter Leader] | ... ¿Eso es lo que llamas una amenaza? Qué poco inspirador.
+0093 [Karin] | ¡Tú espera! ¡Voy a entrar a sacarte yo misma!
+0094 [Treasure Hunter Leader] | Hmph... Yo no sería tan apresurada. Solo los necios se lanzan a donde los ángeles temen pisar.
+0095 [Treasure Hunter Leader] | Además, tengo en mis manos lo que vinieron a buscar.
+0096 [Narración] | La voz viene de arriba. Una figura se alza sobre la cubierta en ruinas, blandiendo algo en la mano.
+0097 [Shia] | Espera... ¡¿encontraste eso en el barco?!
+0098 [Treasure Hunter Leader] | Denle un premio a la niña.
+0099 [Treasure Hunter Leader] | Este es el diario de Marlene. Contiene hasta el último de sus secretos.
+0100 [Treasure Hunter Leader] | Y apuesto a que se mueren por saber qué dice.

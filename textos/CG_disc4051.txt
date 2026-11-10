@@ -1,0 +1,107 @@
+# Recuerdo de disco · Stellar Destination · 1 · Stellar Destination
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Stellaroid | Stellaroid
+N:avg1_115 | Firefly
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1199 | Stellaroid
+N:avg1_120 | Canace
+N:avg3_100 | Sylar
+N:avg3_1279 | Martillo de la Olla de Vapor
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Destino estelar
+0003 [Intro] | Donde titilan las estrellas, los deseos de los niños encuentran su hogar.
+0004 [Firefly] | ¿Huir? Inútil.
+0005 [Stellaroid] | —¿¡!?
+0006 [Firefly] | ¡Hyaaaah!
+0007 [Stellaroid] | Grrrrr...
+0008 [Tú] | ¡Firefly, inmovilízalos! ¡No los dejes contraatacar!
+0009 [Firefly] | Entendido. Avalancha, modo de apuntado automático: activo.
+0010 [Stellaroid] | ¡Gwaaah...!!!
+0011 [Tú] | Buen trabajo, Firefly. ¿Te lastimaron?
+0012 [Firefly] | No. Fue divertido. Firefly está completamente satisfecha.
+0013 [Tú] | ¡Me alegra oírlo!
+0014 [Tú] | Sigue siendo aterradora en combate... Dominó hasta a un Jefe Stellaroid.
+0015 [Firefly] | Hice lo que dijiste y lo demás fue fácil... Pum, pum, pum, trabajo hecho. Las palabras del Tirano son como magia.
+0016 [Firefly] | Con el Tirano cerca, Firefly es invencible.
+0017 [Tú] | Qué alivio...==W== Ya que yo no puedo pelear en primera línea con el resto de ustedes.
+0018 [Narración] | Con el permiso de Canace, Firefly y yo vamos hoy al Monolito. Nuestro objetivo es...
+0019 [Tú] | ¡Ah, ahí está!
+0020 [Firefly] | La Caja de Deseos.
+0021 [Firefly] | «Rollo del Capturador de Fotos»... ¿Funcionará hoy el deseo?
+0022 [Tú] | Eso depende de qué tan bien lo imagines. Una imagen más clara y precisa significa más probabilidades de éxito...
+0023 [Firefly] | ¿Cómo se hace eso?
+0024 [Tú] | Mmm... Sobre todo práctica. Inténtalo unas cuantas veces y le agarrarás el truco.
+0025 [Tú] | En realidad, el Gremio de la Nueva Estrella a veces toca la Caja de Deseos todos juntos...==W== Pero tienen que imaginar exactamente lo mismo y unir sus conocimientos. Si no, la tasa de éxito se desploma...
+0026 [Firefly] | ¿Ese es el truco de Amber? ¿Funciona siempre?
+0027 [Tú] | Ehhhhh...==W== Funciona unas tres de cada diez veces.
+0028 [Firefly] | Oh... ¿Solo eso?
+0029 [Firefly] | ¿Hay otra forma?
+0030 [Tú] | La gente tiene muchos trucos. Como decir el deseo en voz alta.
+0031 [Tú] | O pedir el deseo justo a medianoche.
+0032 [Tú] | Hasta he oído rumores de dar dos vueltas a la caja en sentido horario, luego diecisiete en sentido antihorario, golpear la tapa siete veces al ritmo y terminar con una patada giratoria... Se supone que sale un hada.
+0033 [Firefly] | Son muchos trucos.
+0034 [Firefly] | Ah...
+0035 [Firefly] | ¿Cómo lo haces tú normalmente, Tirano?
+0036 [Tú] | ¿Yo?
+0037 [Tú] | Yo... Bueno, como aquí tenemos el objeto en sí, probemos esto...
+0038 [Tú] | ¿Trajiste el rollo del Capturador de Fotos?
+0039 [Firefly] | Aquí lo tengo.
+0040 [Tú] | Bien, mira de cerca el rollo conmigo... Ahora, pon las manos sobre la caja.
+0041 [Firefly] | Ya están puestas.
+0042 [Tú] | Ahora cierra los ojos y guarda silencio... Imagina el rollo en tu mente y repite después de mí—
+0043 [Narración] | Oh, poderoso Dios de la Gracia, escucha nuestra plegaria—
+0044 [Narración] | Oh, poderoso Dios de la Gracia, escucha nuestra plegaria—
+0045 [Narración] | Concédenos ... ¡un Artefacto para que este Capturador de Fotos vuelva a funcionar!
+0046 [Narración] | Concédenos ... ¡un Artefacto para que este Capturador de Fotos vuelva a funcionar!
+0047 [Firefly] | Ah. Está aquí.
+0048 [Tú] | ¡Es el rollo! ¡Buen trabajo, Firefly! ¡Funcionó!
+0049 [Firefly] | ¡El rollo...! ¡Firefly está feliz! ¡El Tirano es increíble! ¡Gracias!
+0050 [Tú] | Jaja, cuando quieras.
+0051 [Tú] | La próxima vez puedes intentarlo tú sola...==W== Pero aunque sepas cómo pedir deseos, no escales el Monolito sola, ¿de acuerdo?
+0052 [Firefly] | Entendido.
+0053 [Tú] | ¡Buena niña! Bueno... Conseguimos lo que veníamos a buscar. Hora de volver.
+0054 [Tú] | —Espera, ¿Firefly? ¿Qué pasa? ¿Por qué me agarras de la mano...?
+0055 [Firefly] | Por aquí.
+0056 [Tú] | Oye, ¡Firefly...! ¿¡Adónde me llevas!?
+0057 [Tú] | ¿Firefly? Sé que despejamos a la mayoría de los Stellaroids,==W== pero igual hay que tener cuidado. ¡No te alejes!
+0058 [Firefly] | No hay problema. Firefly estará bien.
+0059 [Tú] | Siempre dices eso...
+0060 [Tú] | Pero este lugar ... ¿me resulta familiar?
+0061 [Tú] | ¡Ya recuerdo! ¡Esto es...!
+0062 [Narración] | Este es el lugar exacto donde Firefly combatió a los Stellaroids y se tomó su «foto de la victoria».
+0063 [Firefly] | Aquí fue donde el Tirano me tomó la foto por primera vez... A Firefly le gusta este lugar.
+0064 [Stellaroid] | ¿Grrr?
+0065 [Tú] | ¡Un Stellaroid...! ¿¡No los despejamos a todos!?
+0066 [Firefly] | Está bien. Los juguetes de aquí se portan bien. Da la pata.
+0067 [Stellaroid] | ¡Guau!
+0068 [Tú] | ¿¡De verdad domesticó a estas cosas...!?
+0069 [Firefly] | Por aquí, Tirano.
+0070 [Firefly] | —¡Mira!
+0071 [Tú] | ¡Guau... Esto es increíble!
+0072 [Tú] | La luz del círculo mágico rebota en los adornos...==W== Parece que hay estrellas titilando dentro del Monolito.
+0073 [Firefly] | ¿Te gusta, Tirano?
+0074 [Tú] | Es hermoso.==W== Creo que jamás me cansaría de esta vista.
+0075 [Firefly] | Este es el escondite secreto de Firefly.
+0076 [Firefly] | Guárdalo en secreto ante todos. Nadie más lo sabe... Es mi lugar especial.
+0077 [Firefly] | Pero tú eres el mejor amigo de Firefly, Tirano. Hoy me enseñaste a pedir deseos. Como agradecimiento, lo comparto contigo. Solo contigo.
+0078 [Tú] | Gracias. Aceptaré con gusto tu regalo, Firefly.
+0079 [Firefly] | No se lo digas a nadie. En serio. Ni siquiera a la señorita Canace. Si lo cuentas, ya no somos amigos.
+0080 [Tú] | Definitivamente no quiero eso... Entendido. No se lo diré a nadie. Lo prometo.
+0081 [Firefly] | Y no puedes venir aquí tú solo... Si te escabulles a jugar sin Firefly, tampoco somos amigos.
+0082 [Tú] | (¿Cómo encontraría yo este lugar sin ella...?)
+0083 [Tú] | Fuerte y claro. Lo prometo.
+0084 [Firefly] | Mhm. ¡Bien! Ahora bien—
+0085 [Narración] | Una manita se enreda con suavidad en mis dedos. Firefly mira las estrellas con una leve sonrisa.
+0086 [Firefly] | Escalemos el Monolito juntos otra vez. Luego, cuando terminemos de jugar, podremos descansar aquí mismo.
+0087 [Firefly] | Desde hoy, esta es la base secreta de Firefly y el Tirano.
+0088 [Tú] | Je. Es un honor.
+0089 [Tú] | Gracias, Firefly. La próxima vez tendrás que traerme aquí otra vez.
+0090 [Firefly] | Mhm. Es una promesa.
+0091 [Narración] | Dentro de este Monolito, donde ninguna estrella debería brillar jamás, incontables motas de luz estelar descienden suavemente...
+0092 [Narración] | Las estrellas silenciosas parecen mecer con suavidad una cuna, velando en silencio por nosotros mientras descansamos...

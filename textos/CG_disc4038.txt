@@ -1,0 +1,115 @@
+# Recuerdo de disco · Ripples of Nostalgia · 1 · Ripples of Nostalgia
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dolphin | Delfín
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Ondas de nostalgia
+0003 [Intro] | En su corazón, cada regalo tuyo es único.
+0004 [Shia] | Oye, Karin. Ya pasó mucho de tu hora de dormir—
+0005 [Karin] | Se perdió ...==W== se perdió...==W== ¡No lo encuentro por ningún lado!
+0006 [Karin] | Las grietas, los arbustos... He buscado por todas partes...
+0007 [Shia] | ¿Karin? ¿Qué buscas?
+0008 [Karin] | El arete que me diste... se perdió. El rojo...==W== ¿Ves?
+0009 [Shia] | Ah, es verdad...==W== Pero ya es muy tarde. ¿Qué tal si lo buscamos juntas mañana?
+0010 [Karin] | ¡Está bien, Shia, vete a casa! Yo seguiré buscando...==W== ¡Ah! ¡Ya me acordé!
+0011 [Shia] | Karin—
+0012 [Shia] | Salió disparada... ¿Adónde irá?
+0013 [Karin] | Aquí no ... aquí no... ¡Todavía nada!
+0014 [Shia] | Je, tenía el presentimiento de que te encontraría aquí.
+0015 [Karin] | ¿Shia? ¿Qué haces aquí?
+0016 [Shia] | Saliste corriendo. Estaba muerta de preocupación.
+0017 [Karin] | L-lo siento... No te preocupes por mí. Es mi culpa que el arete se perdiera. Lo encontraré.
+0018 [Karin] | ¡Ya sé! Si no está en el camino ni aquí en la playa, ¡debí perderlo mientras nadaba!
+0019 [Shia] | ¡Espera!
+0020 [Karin] | Shia, ¿por qué me detienes...?
+0021 [Shia] | El mar es peligroso de noche. No puedes meterte así nada más. Tienes que hacerme caso, ¿de acuerdo?
+0022 [Karin] | ... ¡Waaah! ¡Shia, eso no se vale!==W== ¡Ir por mis orejas es trampa!
+0023 [Karin] | Uf... Bueno, bueno, ya me calmé...
+0024 [Shia] | No te preocupes. Si no lo encontramos, te haré otro. Está bien.
+0025 [Karin] | No. Tengo que encontrar este.
+0026 [Shia] | ¿Oh? ¿Por qué?
+0027 [Karin] | Porque ...==W== ¡es muy, muy especial para mí!
+0028 [Shia] | Ya veo. Me alegra que lo aprecies tanto. Pero ya es muy tarde para volver a meterse. Volvamos a primera hora de mañana, ¿vale?
+0029 [Karin] | ... Bueno, está bien.
+0030 [Shia] | Esa es mi niña. Vamos, volvamos a casa~
+0031 [Karin] | ¡Está bien, vamos!
+0032 [Shia] | ¿Karin—?==W== Eh... ¿Ya se fue? Iba a ir con ella.
+0033 [Shia] | Eh... ¿Una nota suya?
+0034 [Karin] | «Fui a Objetos Perdidos. ¡Ojalá alguien haya entregado el arete! ¡No te preocupes por mí!»
+0035 [Shia] | Mmm... Entonces revisaré el mar.
+0036 [Shia] | Karin dijo que cayó al mar... Suele nadar por aquí, pero con la marea... Uf, ya podría estar en cualquier parte.
+0037 [Shia] | ¡Por Karin... tengo que encontrarlo!
+0038 [Shia] | Jadeo... Busqué por todas partes. Ni rastro.
+0039 [Shia] | Tiene que haber otra forma...
+0040 [Shia] | (Si las olas se llevaron el arete, quizá debería dejar que me lleven a mí también. La corriente podría guiarme hasta él.)
+0041 [Shia] | Agarraré un flotador. Así puedo simplemente dejarme llevar.
+0042 [Shia] | Hace tiempo que no uso uno de estos...
+0043 [Shia] | Karin también necesitaba uno. Al principio apenas podía respirar al nadar, y mucho menos bucear.
+0044 [Karin] | ¡Quiero nadar igual que tú, Shia!
+0045 [Karin] | ¡Nunca más voy a usar un flotador!
+0046 [Shia] | Oye, no hay necesidad de apresurarse...
+0047 [Karin] | Quiero nadar contigo ... pero todavía tengo un poco de miedo...
+0048 [Shia] | Bueno, toma esto. Es un amuleto de la buena suerte.
+0049 [Karin] | ... ¿Tu arete?
+0050 [Shia] | Está encantado, así que podrás nadar libremente como un pez. A mí me ayudó muchísimo cuando empecé a aprender.
+0051 [Karin] | ¿En serio?
+0052 [Shia] | ¡Claro! Pero aun así tienes que practicar mucho para dominar la magia. No te preocupes, estaré aquí contigo.
+0053 [Karin] | ¡Yupi! ¡Voy a practicar con todas mis fuerzas!
+0054 [Shia] | ¡Muy bien, empecemos!
+0055 [Shia] | Solo me inventé esa historia del «arete mágico» para animarla. No tenía idea de que se la tomaría tan en serio.
+0056 [Shia] | Tengo que encontrarlo. Cueste lo que cueste.
+0057 [Dolphin] | Chiii~
+0058 [Shia] | Oh, hola, pequeño. Busco un arete rojo muy bonito. ¿Has visto algo así?
+0059 [Shia] | ... Nada, ¿eh?
+0060 [Dolphin] | ¡¡Chiii!!
+0061 [Shia] | ¿¡Eh!? ¿¡Por qué empujas mi flotador!? ¿Estás ... tratando de mostrarme algo?
+0062 [Dolphin] | Chiii~
+0063 [Shia] | Esto es...
+0064 [Shia] | ¿Un arrecife de coral ... azul?
+0065 [Shia] | Es hermoso... Espera, ¿me trajiste aquí porque entendiste cuando dije «bonito»?
+0066 [Dolphin] | ¿Chiii?
+0067 [Shia] | Sí, este lugar es muy bonito...
+0068 [Dolphin] | ¡Chiii~!
+0069 [Shia] | No tenía idea de que hubiera un lugar así en el Pueblo Carlo. Gracias por mostrármelo.
+0070 [Shia] | Este coral azul... ¿Será Coral Azur?
+0071 [Dolphin] | ¿Chiii?
+0072 [Shia] | Ah, cierto. No conoces el nombre que le dieron los humanos. Pero si de verdad es Coral Azur...
+0073 [Shia] | Pequeño, ¿te molestaría que tome algunos de estos pedazos que se han roto?
+0074 [Dolphin] | ¡Chiii, chiii!
+0075 [Shia] | ¿Eso es un «adelante»? ¡Gracias! Entonces tomaré estos.
+0076 [Shia] | Karin debería volver pronto. La esperaré aquí. Ojalá le guste este arete nuevo...
+0077 [Karin] | ¡Shia! ¡Ya volví! ¡Tienes que ver esto!
+0078 [Shia] | ¡Bienvenida a casa! Yo—
+0079 [Karin] | ¡Mira!
+0080 [Shia] | ¡Oh! Encontraste tu arete.
+0081 [Karin] | ¡Una persona muy amable de la Asociación de Trekkers lo encontró! Le di un montón de pescado seco a cambio.
+0082 [Shia] | Ya veo, qué bien.
+0083 [Karin] | Jeje, ¡es un tesoro que me diste! ¡Nunca más lo voy a perder!
+0084 [Karin] | Ah, cierto. Shia, ibas a decir algo, ¿no?
+0085 [Shia] | Sí. Hoy me topé con Coral Azur. Es perfecto para hacer joyería, así que fabriqué un arete nuevo.
+0086 [Karin] | ¡Qué azul tan hermoso! ¡Te quedaría perfecto!
+0087 [Shia] | En realidad, lo hice para ti. Pero... supongo que ya no lo necesitas ahora que encontraste el viejo.
+0088 [Karin] | ¿¡Qué!? ¡Yo lo sigo queriendo!
+0089 [Shia] | Este no tiene ninguna magia, ¿sabes?
+0090 [Karin] | ¡No me importa! ¡Lo hiciste solo para mí, y eso lo hace especial!
+0091 [Karin] | No importa si es azul o rojo... Los dos son regalos tuyos.
+0092 [Karin] | Son todos recuerdos preciosos que compartimos. Por eso lo busqué con tanto empeño...
+0093 [Shia] | Está bien. Es tuyo.
+0094 [Karin] | ¡Sí!
+0095 [Karin] | Entonces, ¿cómo me veo?
+0096 [Shia] | Te ves hermosa. Y, Karin, sabes... dicen que el Coral Azur lleva la bendición del océano.
+0097 [Shia] | Pensaba: «Con la bendición del océano, ¿quizá podríamos encontrar el arete perdido?». Por eso hice este.
+0098 [Karin] | ¡Oh! ¡Entonces tú encontrando el Coral Azur debe de ser la razón por la que encontré mi arete!
+0099 [Shia] | ¿De verdad ...==B== lo crees?
+0100 [Karin] | ¡Lo sé! ¿¡Eso significa que ahora tengo una magia de natación genial y la bendición del océano!?
+0101 [Shia] | Con eso eres la mejor Trekker marinera de la historia.
+0102 [Karin] | ¡Guau... siento el poder recorriéndome!
+0103 [Karin] | Pero, Shia, ¡tú eres el mayor tes—oro que tengo!==W== Mientras esté contigo, no le temo a nada.
+0104 [Shia] | Jeje... Tenerte aquí conmigo también me hace feliz, Karin.
+0105 [Narración] | Bajo una tenue farola, las dos están juntas, cada una el ancla de la otra en el mundo.

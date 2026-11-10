@@ -1,0 +1,127 @@
+# Recuerdo de disco · Chronicles of Spring · 1 · Chronicles of Spring
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Axe-Wielding Mercenary | Mercenario con hacha
+N:Busy Employee | Empleado ocupado
+N:Elderly Man | Anciano
+N:Focused Employee | Empleado concentrado
+N:Spellcasting Mercenary | Mercenario hechicero
+N:Sword-Wielding Mercenary | Mercenario con espada
+N:Trekker & Shopkeeper | Trekker y Tendero
+N:Weapon Shopkeeper | Tendero de armas
+N:Young Man | Joven
+N:Young Woman | Joven
+N:avg1_143 | Wraith
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_1080 | Niño
+N:avg3_109 | Abuelo Chai
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_152 | Bastelina
+N:avg3_167 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_171 | Empleada
+N:avg3_196 | Empleada corporativa
+N:avg3_926 | Trekker
+N:avg3_927 | Niña
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Crónicas de primavera
+0003 [Intro] | Cuando el paisaje primaveral ya forma parte de la vida diaria, ella empieza a desear encontrarse con alguien que entre en su primavera.
+0004 [Wraith] | La una en punto. Espadachín solitario.
+0005 [Sword-Wielding Mercenary] | ¡Argh!
+0006 [Wraith] | Las diez en punto. Dos magos.
+0007 [Spellcasting Mercenary] | ¿¡Cómo nos descubrió!? ¡Estábamos completamente ocultos!
+0008 [Wraith] | Las seis en punto. Hacha.
+0009 [Axe-Wielding Mercenary] | Imposible... Acabó con todos nosotros ella sola...
+0010 [Wraith] | Los que queden,==W== vengan todos juntos.
+0011 [Wraith] | Solo matones locales cerca del Monolito.==W== Dudo que tengan relación con Nocturn Eterna.
+0012 [Wraith] | Dejaré la limpieza a la Guardia.==W== Debo volver a reabastecerme.
+0013 [Trekker] | ¡Y atención a esto... ese «Vendaval Plateado» del Centinela del Alba acabó con todos esos matones ella sola!
+0014 [Weapon Shopkeeper] | ¿El Vendaval Plateado, eh? He oído muchos rumores, pero nunca la había visto en persona.
+0015 [Wraith] | Hola. Necesito munición.
+0016 [Weapon Shopkeeper] | ¿Munición? Claro...==W== Un momento. Ese atuendo... Ese largo cabello plateado... ¡Usted es el Vendaval Plateado, ¿verdad?!
+0017 [Wraith] | Ah, supongo que así me llaman.==W== Disculpe, ¿dónde está la munición?
+0018 [Weapon Shopkeeper] | ¿¡D-de verdad es usted!?==W== La munición está ahí en el mostrador. ¡Por favor, elija la que quiera!
+0019 [Trekker] | No puedo creer que sea ella...==W== Miren esa arma. Mi espada chatarra ni siquiera está en su liga.
+0020 [Weapon Shopkeeper] | ¡La famosa Vendaval Plateado, comprando en mi tienda! ¡Qué honor!
+0021 [Wraith] | Disculpe. Usted, el de la espada. ¿Un momento?
+0022 [Trekker & Shopkeeper] | ¡Voy!==W== Eh...
+0023 [Trekker] | Los dos tenemos espadas aquí. ¿A quién le habla?
+0024 [Wraith] | Al de la derecha, entonces.==W== ¿Adónde fue el tendero?==W== El que me atendía hace un momento.
+0025 [Weapon Shopkeeper] | Eh... Ese soy yo.
+0026 [Wraith] | ¿Lo es? Recuerdo que el tendero no portaba armas.
+0027 [Weapon Shopkeeper] | No la tenía hace un minuto, pero no me he ido. ¿Está bien? ¿Trabaja demasiado?
+0028 [Wraith] | No se preocupe. Carga operativa normal.==W== Dos cajas de estas balas, por favor.
+0029 [Weapon Shopkeeper] | Aquí tiene. ¡Gracias por su compra! ¡Vuelva cuando quiera!
+0030 [Wraith] | Lo haré.==W== Gracias,==W== Tendero de la espada.==W==
+0031 [Trekker] | ¡Yo no soy el tendero!
+0032 [Weapon Shopkeeper] | Así que los rumores eran ciertos... El Vendaval Plateado reconoce las armas, no a las personas.==W== Ahora sí que lo vi todo.
+0033 [Bastelina] | ¡Señorita Wraith! ¡Volviste!
+0034 [Wraith] | Tú debes de ser la «Señorita Libro».==W== Llegas a tiempo.==W== Aquí están los registros de misión.
+0035 [Bastelina] | ¡Entendido! Los llevaré al departamento correcto. ¡Gracias por tu esfuerzo!
+0036 [Bastelina] | Pero...==W== Señorita Wraith, hay un enorme error aquí.
+0037 [Bastelina] | ¡No soy la «Señorita Libro»!==W== ¡Soy la linda y encantadora Bastelina!==B====W== ¡Hmph!==W== No te vas hasta que digas bien mi nombre.
+0038 [Bastelina] | Vamos, dilo conmigo:==W== Bas-==W==te-==W==li-==W==na.
+0039 [Wraith] | Bas-te ...==W== lina.==W== ¿Es correcto?
+0040 [Bastelina] | ¡Exacto! ==W==Hagamos una prueba rápida. Cierra los ojos.
+0041 [Bastelina] | ¡Listo! ¡Abre!
+0042 [Bastelina] | Entonces,==W== ¿quién es este?
+0043 [Wraith] | Hm. Señorita Pluma.
+0044 [Bastelina] | ¿Y este?
+0045 [Wraith] | Señorita Taza.
+0046 [Bastelina] | Jeje.==W== ¿Y yo quién soy?
+0047 [Wraith] | Tú eres...==W== la Señorita Libro.==W==
+0048 [Bastelina] | ... ¡Es Bastelina!
+0049 [Bastelina] | Suspiro... La misma mala costumbre. Recuerdas lo que la gente lleva en las manos, pero nunca sus rostros...
+0050 [Bastelina] | Ah,==W== ustedes dos pueden volver al trabajo.==W== ¡Gracias por seguirme el juego!
+0051 [Busy Employee] | ¿Cuál era el punto de eso...? Estoy hasta el cuello...
+0052 [Focused Employee] | Déjalo pasar. Lo hicimos por el Vendaval Plateado, después de todo.==W==
+0053 [Bastelina] | Oye...==W== ¿No te complica la vida olvidar el rostro de todos?
+0054 [Wraith] | No. En el campo de batalla, solo necesito distinguir entre amigo y enemigo.
+0055 [Bastelina] | Es verdad...==W== Oye, has estado haciendo misiones sin parar.==W== Debes de estar agotada.==W== Conozco un lugar excelente para relajarse. ¿Quieres ir?
+0056 [Wraith] | Agradezco la intención,==W== pero no puedo descansar mientras Nocturn Eterna siga suelta.
+0057 [Bastelina] | ¿Ah, sí? Bueno...==W== Sí escuché rumores de actividad de Nocturn Eterna por allá.
+0058 [Wraith] | ¿Hm? Cuéntame.
+0059 [Bastelina] | Jeje, funciona siempre.==W== Menciona a Nocturn Eterna y toda su expresión cambia.
+0060 [Bastelina] | Toma, la ruta está en esta guía.==W== Queda bastante lejos, así que cuídate por allá.
+0061 [Wraith] | Mi agradecimiento, Señorita Libro.
+0062 [Bastelina] | ¡Es Bastelina!==W== Ugh, olvídalo.
+0063 [Bastelina] | Solo espero que algún día...
+0064 [Wraith] | Tranquilo. Sereno, incluso...==W== Aunque eso lo vuelve la fachada perfecta para Nocturn Eterna.
+0065 [Wraith] | Empezaré reuniendo información.
+0066 [Young Man] | ¿Nocturn qué? Nunca los había oído nombrar.
+0067 [Young Woman] | ¿No tienen algo mejor que hacer? ¿Por qué elegir un rincón olvidado como este para causar problemas?
+0068 [Elderly Man] | ¿Esos destructores de Monolitos? ¡Bah, los bichos que se comen mis cultivos dan mucho más miedo!
+0069 [Little Boy] | ¿Esos de Nocturn Eterna son malos?==W== ¡Entonces los voy a vencer!
+0070 [Wraith] | Cero pistas.==W== Sin embargo, el manual que me dio la Señorita Libro señala claramente este lugar...
+0071 [Little Girl] | ¿Estás bien,==W== señorita?
+0072 [Wraith] | Ah, estoy bien.==W== Dime,==W== ¿has oído hablar de «Nocturn Eterna»?
+0073 [Little Girl] | ¿Nocturn Eterna?==W== N-no...
+0074 [Little Girl] | ¡Pero conozco un lugar especial!==W== Cuando estoy triste, voy allí y el viento se lleva todos los malos sentimientos.==W== ¡Tú también deberías probarlo!
+0075 [Wraith] | Pero tengo una misión...
+0076 [Wraith] | ... Está bien.==W== Iré a verlo.
+0077 [Wraith] | El lugar que mencionó debería estar por aquí cerca.
+0078 [Wraith] | Uf.==W== Llevo un buen rato caminando. ==W==Empieza a darme calor.
+0079 [Wraith] | Una brisa...==W== ¿Es un claro allá adelante?==B====W== Justo a tiempo. Descansaré ahí.
+0080 [Wraith] | Qué fresco. Se siente bien...==W== Tenía razón, este sí que es un buen lugar.
+0081 [Wraith] | Nada que ver con el Norte. Allá solo hay viento y nieve interminables...
+0082 [Wraith] | Cielos azules, árboles verdes, pétalos a la deriva...==W== Todo aquí es hermoso.
+0083 [Wraith] | Solo vi este paisaje gracias a esa niña y a la Señorita Libro. Tengo que agradecérselo como se debe más tarde.
+0084 [Wraith] | La próxima vez, tengo que llamar a la Señorita Libro por su nombre, o se enojará de nuevo.==B== Mm... ¿Cuál era?
+0085 [Wraith] | Qué raro. Hablamos tanto tiempo... Y sin embargo ... ¿por qué no puedo recordarlo en absoluto?
+0086 [Wraith] | Y el rostro de la niña... También se está volviendo borroso...
+0087 [Wraith] | Siento el pecho oprimido... ¿Qué es esta sensación?
+0088 [Wraith] | Desde que salí de casa, ¿he cambiado tanto?
+0089 [Bastelina] | Espero que algún día,==W== te encuentres con quien pueda reescribir el mundo ante tus ojos.
+0090 [Wraith] | Sí. Creo que eso fue lo que dijo.
+0091 [Wraith] | Solo reconozco a las personas por sus armas. ¿Podría llegar a recordar una voz? ¿Un rostro? ¿Quizá incluso un nombre?
+0092 [Wraith] | Si esa persona de verdad aparece...
+0093 [Wraith] | Me pregunto cómo será.

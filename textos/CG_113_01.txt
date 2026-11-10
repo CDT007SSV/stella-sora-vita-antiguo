@@ -1,0 +1,99 @@
+# Historia de Shimiao · 1 ·  Spice Reveals All (Part I) 
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Agitated Thief | Ladrón agitado
+N:Ashamed Colleague | Colega avergonzada
+N:Embarrassed Colleague | Colega apenada
+N:Excited Passerby | Transeúnte emocionado
+N:Panicked Resident | Residente asustado
+N:Sugar Art Vendor | Vendedora de arte de azúcar
+N:avg1_113 | Shimiao
+N:avg1_141 | Chixia
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_144 | Residente
+N:avg3_169 | Chica
+N:avg3_171 | Empleada
+N:avg3_175 | Residente Loong
+N:avg3_176 | Residente Loong
+N:avg3_886 | Transeúnte curioso
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El picante lo revela todo (Parte I)
+0003 [Intro] | Shimiao te pide que investigues un caso. ...Espera, ¿por qué suena peligroso?
+0004 [Tú] | Qué lugar tan animado.
+0005 [Narración] | Cangwu, una ciudad Loong famosa en todo Nova por su deliciosa cocina.
+0006 [Narración] | Estoy en una calle concurrida, mirando las hileras de tiendas y empapándome del ambiente relajado y animado a mi alrededor.
+0007 [Narración] | Toda la energía y los deliciosos aromas en el aire me ponen de buen humor sin que me dé cuenta.
+0008 [Tú] | Quizá el encargo de hoy también salga bien~
+0009 [Panicked Resident] | ==W==¡¡¡Auxilio!!! ¡¡¡Ladrón!!!
+0010 [Agitated Thief] | ¡Fuera de mi camino!
+0011 [Tú] | ¡Uy!
+0012 [Agitated Thief] | ==W==¡Ahhhhh!
+0013 [Narración] | De pronto se instala una incómoda humedad. El vapor se me adhiere, convirtiéndose en un chorro de agua que envuelve al ladrón y a mí.
+0014 [???] | ¡Te tengo! ¡El robo es un delito grave!
+0015 [Shimiao] | ¿Eh? ¡¿Jefe?! ¡Perdón! ¡No quería atraparte a ti también!
+0016 [Narración] | Cuando el agua se retira, el mundo mareante a mi alrededor vuelve poco a poco a la normalidad.
+0017 [Narración] | Un aplauso atronador me devuelve a la realidad. Me giro y veo al ladrón atrapado dentro de una esfera que parece una prisión de agua.
+0018 [Gawking Passerby] | ¡Bravo! ¡Qué buen arte Xuan Acuático!
+0019 [Excited Passerby] | Oh, miren, ¡es el Agua Miaravillosa de Shimiao! Es una Xuan Shi de la Oficina Baize, ¿no lo saben?
+0020 [Shimiao] | No, no, no soy una Xuan Shi. Solo trabajo para la Oficina.
+0021 [Narración] | Tras entregar al ladrón capturado a la Guardia Loong, que por fin llegó a la escena, una Shimiao sonrojada empieza a explicarle a la multitud.
+0022 [Shimiao] | Solo quienes dominan el arte Xuan, son hábiles para ahuyentar el mal y han aprobado el examen de certificación adecuado pueden llamarse Xuan Shi.
+0023 [Shimiao] | Estoy muy lejos de su nivel.
+0024 [Gawking Passerby] | ¡Eres demasiado modesta! Si presentaras ese examen, seguro lo pasarías con honores~
+0025 [Excited Passerby] | ¡Oye, no le des ideas! Si de verdad se pone a hacer lo de Xuan Shi, perderemos a la persona más confiable de la comunidad.
+0026 [Gawking Passerby] | Sí, y la última vez recorrió revisando la seguridad contra incendios de cada tienda de la cuadra.==B== ¡Shimiao, gracias a ti no tenemos que preocuparnos por incendios todo el tiempo!
+0027 [Shimiao] | Gracias por todas sus amables palabras, todos. Pero hoy vengo por otra cosa...
+0028 [Shimiao] | Ayer ocurrió un incidente.
+0029 [Shimiao] | Durante el Torneo de Xuan Shi, varios miembros del equipo del Estudio Yunji del grupo de Chixia empezaron a sentirse mal.
+0030 [Shimiao] | Los síntomas principales fueron vómito y diarrea ... La Oficina sospecha que podría ser un problema de seguridad alimentaria.
+0031 [Shimiao] | Y dado el torneo ...==B== tampoco podemos descartar un envenenamiento deliberado.
+0032 [Tú] | Así que quieres que te ayude con la investigación...
+0033 [Shimiao] | Sí, Jefe, ¿puedes hacer equipo conmigo para que pueda consultarte...?
+0034 [Shimiao] | Y atrapar a quien esté detrás de esto.
+0035 [Tú] | Aunque se llame «investigación», en realidad solo tenemos que probar lo que comieron ayer y buscar algún problema. Así que debería ser un trabajo fácil...
+0036 [Tú] | Shimiao me pidió hacer equipo solo para tener una muestra más grande, ya que el cuerpo de cada persona reacciona distinto. Muy minuciosa de su parte.
+0037 [Tú] | Incluso si de verdad hay un lugar sospechoso ... ¡mientras lo detectemos antes de comer algo, todo estará bien!
+0038 [Shimiao] | Disculpen, ¿alguien vio ayer al equipo de Xuan Shi del Estudio Yunji? Su líder es una chica de cabello rojo.
+0039 [Gawking Passerby] | Xuan Shi ... Pelirroja...
+0040 [Gawking Passerby] | Oye, Chou, ¿esos suenan a los chicos que armaron un alboroto justo frente a tu puesto de pinturas de azúcar?
+0041 [Sugar Art Vendor] | Ah, sí, ahora que lo mencionan...
+0042 [Sugar Art Vendor] | Había una chiquilla pelirroja que insistió en hacer ella misma la pintura.
+0043 [Sugar Art Vendor] | Dijo que quería mostrarle a todos cómo se ve un dragón volando.
+0044 [Sugar Art Vendor] | Se fue con una pintura de azúcar que parecía más una locha que un dragón.
+0045 [Shimiao] | Sí, suena a ella.
+0046 [Shimiao] | ¿Se veían enfermos en ese momento?
+0047 [Sugar Art Vendor] | Nada fuera de lo normal. Ah, por cierto...
+0048 [Sugar Art Vendor] | La chiquilla pelirroja intentó que todos dijeran que había dibujado un dragón.
+0049 [Sugar Art Vendor] | Y luego...
+0050 [Tú] | Guau, dulce. Esta pintura de azúcar está bastante rica~
+0051 [Shimiao] | Sí, te comiste las pinturas de azúcar que sobraron de ayer. Este lugar está bien.
+0052 [Tú] | La vendedora dijo que una de las Xuan Shi del grupo estaba reclamando que quería comprar ingredientes para una cena nocturna.
+0053 [Tú] | Vayamos a preguntar al mercado ...==B== Pero con tantos puestos, podría ser algo complicado.
+0054 [Shimiao] | E-espera.
+0055 [Shimiao] | Por favor ... toma esto.
+0056 [Shimiao] | Eh ... Cuando atrapé al ladrón, mi hechizo también te alcanzó a ti por accidente.
+0057 [Shimiao] | Me he sentido mal desde entonces ... De verdad lo siento.==B== Por favor considera esto mi disculpa y acéptala...
+0058 [Narración] | Tomo el té de burbujas de su mano extendida.
+0059 [Shimiao] | Esta es la bebida más popular de Cangwu en este momento. ¿La probarás, Jefe?
+0060 [Tú] | Claro.==B== Ñam ñam...
+0061 [Tú] | ¡Uuu!
+0062 [Tú] | ¿Ninguno para ti?
+0063 [Shimiao] | Mejor no. No quiero que me vean comiendo golosinas en pleno trabajo.
+0064 [Tú] | Sus colegas dicen que incluso cuando se supone que está en descanso, Shimiao siempre se mantiene en modo trabajo.
+0065 [Tú] | Es la más diligente de toda la Oficina.
+0066 [Tú] | Eh, disculpa, ¿puedo preguntarte algo?
+0067 [Tú] | ¿Por qué Shimiao me eligió como pareja de trabajo? Parece algo que la Oficina debería manejar internamente...
+0068 [Embarrassed Colleague] | Jeje, bueno ... para ser sincera, a todos nos encantaría hacer equipo con Shimiao, pero...
+0069 [Ashamed Colleague] | Siempre terminamos retrasándola. A veces hasta tiene que cuidarnos mientras trabaja.
+0070 [Embarrassed Colleague] | Después de todo, ¡Shimiao siempre tiene todo bajo control! N-no queremos ser una carga para ella...
+0071 [Ashamed Colleague] | Sí. Después de todo, es la empleada modelo de la Oficina.
+0072 [Embarrassed Colleague] | A veces nos preguntamos ... si tal vez, para ella, eso también se ha vuelto una carga.
+0073 [Ashamed Colleague] | Pero no es que ella nos lo fuera a decir. Suspiro...
+0074 [Tú] | ...
+0075 [Tú] | Mmm, Shimiao es demasiado dura consigo misma. Ojalá pudiera permitirse relajarse un poco...

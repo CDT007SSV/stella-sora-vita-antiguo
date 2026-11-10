@@ -1,0 +1,295 @@
+# Heartlink de Amber: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Amber] | ¡Tachán!
+A01.0002 [Amber] | ¡Avísame si tienes alguna duda!
+A01.0003 [Opción] | Escribir, es difícil.
+A01.0004 [Opción] | NP. Es como volver a casa
+A01.0005 [Opción] | *&......%$#2
+A01.0006 [Amber] | ¡No hace falta que escribas todos los signos de puntuación!
+A01.0007 [Amber] | Es fácil. Te enseño la próxima vez
+A01.0008 [Amber] | Parece que la memoria muscular sigue viva y coleando
+A01.0009 [Amber] | Los celulares son muy útiles en Nova. Hacen la vida mucho más fácil
+A01.0010 [Amber] | ¡No presiones teclas al azar! ¡Lo vas a romper!
+A01.0011 [Tú] | Perdón. Fue un accidente
+A01.0012 [Amber] | ¿En serio?
+A01.0013 [Amber] | Los celulares no son nada baratos. Tienes que cuidarlo bien
+
+## Conversación A02
+A02.0001 [Amber] | Oye, ==PLAYER_NAME==, ¿conoces alguna forma rápida de ganar una o dos Dorra?
+A02.0002 [Tú] | ¿Quieres ganar dinero?
+A02.0003 [Amber] | Sí
+A02.0004 [Amber] | Es que vi a Iris revisando nuestro libro de cuentas. Parecía a punto de llorar
+A02.0005 [Amber] | A Noya también le recortaron el presupuesto de pudín del mes
+A02.0006 [Amber] | Las dos se veían tan tristes
+A02.0007 [Amber] | Quizá el gremio de verdad está en problemas.
+A02.0008 [Amber] | Estoy pensando que quizá debería vender mi celular
+A02.0009 [Tú] | Tranquila, yo revisé esas cuentas
+A02.0010 [Tú] | Noya compró dos porciones de pudín el mes pasado
+A02.0011 [Tú] | Y se comió la de Iris...
+A02.0012 [Amber] | ¿Eh?
+A02.0013 [Tú] | Estaban tristes por el pudín
+A02.0014 [Amber] | ...
+
+## Conversación A03
+A03.0001 [Amber] | Hoy fui al bosque a observar Shrubshrews
+A03.0002 [Tú] | ¿Tienes buenas fotos?
+A03.0003 [Amber] | Sí
+A03.0004 [Amber] | Sus competencias de sumo son muy interesantes
+A03.0005 [Amber] | Hasta hacen una cosa en la que tres se juntan para formar un Shrubshrew gigante
+A03.0006 [Amber] | Así ganan la competencia súper fácil
+A03.0007 [Amber] | ==PLAYER_NAME==, ¿qué tipo de Shrubshrew te gusta más?
+A03.0008 [Amber] | ¿Cuando están molestos? ¿Cuando están regordetes? ¿O cuando se camuflan como tocones de árbol?
+A03.0009 [Opción] | Los tocones de árbol se ven muy naturales
+A03.0010 [Opción] | Eh... Los regordetes, supongo.
+A03.0011 [Opción] | ¡Son lindos cuando están molestos!
+A03.0012 [Amber] | Como esperaba, tienes buen gusto
+A03.0013 [Amber] | Estas son las fotos que tomé hoy. Hay muchísimas lindas...
+A03.0014 [Amber] | ¿En serio? ¡A mí también me gustan más los regordetes!
+A03.0015 [Amber] | Estas son algunas de las fotos que elegí. Seguro te van a gustar
+A03.0016 [Amber] | Guau, Jefe.
+
+## Conversación A04
+A04.0001 [Amber] | ==PLAYER_NAME==, acabo de acordarme, mañana es el día de la Mariposa Estelante
+A04.0002 [Opción] | Bonito nombre
+A04.0003 [Opción] | ¿Y?
+A04.0004 [Opción] | Lo sé. Es una fiesta
+A04.0005 [Amber] | Sí, son de color dorado. Muy bonitas
+A04.0006 [Amber] | ¿Sabes por qué se llama así?
+A04.0007 [Amber] | Ni idea
+A04.0008 [Amber] | A principios del verano se ven Mariposas Estelantes por todas partes
+A04.0009 [Amber] | Ese día salen todas juntas de sus capullos en los campos de flores
+A04.0010 [Amber] | Cada año, puntuales como un reloj. Por eso el día lleva su nombre
+A04.0011 [Amber] | ¡Va a ser hermosísimo!
+A04.0012 [Amber] | Entonces, ==PLAYER_NAME==, estaba pensando...
+A04.0013 [Tú] | ¿Quieres ir a ver las mariposas?
+A04.0014 [Amber] | Sí
+A04.0015 [Tú] | ¡Claro! Podemos hacer un desvío de camino al Monolito
+A04.0016 [Amber] | ¿En serio?
+A04.0017 [Tú] | Ya que lo mencionas...
+A04.0018 [Tú] | Iris y Noya no se lo perderían por nada del mundo
+A04.0019 [Amber] | ¡Gracias, ==PLAYER_NAME==!
+
+## Conversación A05
+A05.0001 [Tú] | Por cierto, hay algo que siempre he querido preguntarte...
+A05.0002 [Amber] | ?
+A05.0003 [Tú] | ¿Cómo haces que tu «cola», esa correa negra tuya, sea tan flexible como una extremidad?
+A05.0004 [Amber] | ...
+A05.0005 [Amber] | no es difícil
+A05.0006 [Amber] | Con un poco de magia y entrenamiento constante, tú también podrías hacerlo sin sudar, ==PLAYER_NAME==
+A05.0007 [Tú] | (No, no lo creo...)
+
+## Conversación A06
+A06.0001 [Amber] | Jefe, ¿alguna vez has probado el Té de Limón Helado Osito de Peluche?
+A06.0002 [Opción] | Nunca lo había oído
+A06.0003 [Opción] | Sí. ¿Qué pasa con él?
+A06.0004 [Opción] | Te refieres a esa bebida nueva de moda...
+A06.0005 [Tú] | ¿Te refieres a esa bebida nueva de moda?
+A06.0006 [Amber] | Por el nombre, pensarías que tiene que ver con ositos de peluche
+A06.0007 [Amber] | Gasté 1,000 Dorra para conseguir uno...
+A06.0008 [Amber] | Luego me di cuenta de que solo tenían cubos de hielo en forma de oso en la bebida
+A06.0009 [Opción] | Es como quitarle un dulce a un bebé
+A06.0010 [Opción] | Hoy en día a muchos negocios les gusta usar trucos raros
+A06.0011 [Opción] | es una bebida. ¿Qué clase de osito de peluche esperabas?
+A06.0012 [Amber] | Los osos son peludos, ¿no?
+A06.0013 [Amber] | Pensé que quizá la bebida también sabría a pelusa
+A06.0014 [Amber] | Pero no. Nada de eso
+A06.0015 [Amber] | Y estaba llena de hielo
+A06.0016 [Amber] | ¿Puedo denunciarlos ante la Guardia Imperial por publicidad engañosa?
+A06.0017 [Tú] | Quizá no les importe
+A06.0018 [Amber] | Bueno...
+
+## Conversación A07
+A07.0001 [Amber] | ==PLAYER_NAME==, ya lo descubrí
+A07.0002 [Opción] | ?
+A07.0003 [Opción] | ¿A qué te refieres?
+A07.0004 [Opción] | ¿¡Qué!? ¿¡Cómo!?
+A07.0005 [Amber] | No es que sepa de qué hablas...
+A07.0006 [Amber] | Pero...
+A07.0007 [Amber] | Descubrí cómo dejar de ser tan tímida
+A07.0008 [Tú] | Todo lo que necesitas es ganar un poco de confianza en ti misma—
+A07.0009 [Amber] | Todo lo que tengo que hacer es maullar 100 veces al día
+A07.0010 [Tú] | ...
+A07.0011 [Amber] | Ayer me topé con una chica en la calle
+A07.0012 [Amber] | Dijo que si sigo su método, podré hablar con confianza
+A07.0013 [Amber] | Básicamente, solo tengo que tener buenas conversaciones 100 veces al día con alguien con quien me sienta cómoda
+A07.0014 [Opción] | Está bien, ya me preparé
+A07.0015 [Opción] | ¿Por qué los maullidos?
+A07.0016 [Opción] | No te fuerces. Solo sigue tu corazón
+A07.0017 [Amber] | ¡Miau!
+A07.0018 [Amber] | ¡Miau! ¡Miau miau!
+A07.0019 [Tú] | Ah, ¿lo estás escribiendo?
+A07.0020 [Amber] | Mmm...
+A07.0021 [Amber] | Porque se me da bien. Miau~
+A07.0022 [Amber] | Y parece que te gusta, ==PLAYER_NAME==
+A07.0023 [Amber] | Mmm, ¿es así?
+A07.0024 [Amber] | Está bien, ==PLAYER_NAME==. Ya que lo dices...
+A07.0025 [Amber] | ¡Lo dejaré como está ahora!
+
+## Conversación A08
+A08.0001 [Tú] | Cumpleaños feliz~
+A08.0002 [Tú] | Cumpleaños feliz~
+A08.0003 [Amber] | ==PLAYER_NAME==, ¿qué haces...?
+A08.0004 [Tú] | ¡Celebrando tu cumpleaños!
+A08.0005 [Amber] | Sí, ya lo sé.
+A08.0006 [Amber] | ==PLAYER_NAME==, antes de que aparecieras, todos los años en este día...
+A08.0007 [Amber] | Noya e Iris lo celebraban conmigo
+A08.0008 [Amber] | Cantábamos juntas y comprábamos algo rico para comer.
+A08.0009 [Amber] | Pero nunca le encontré mucho sentido.
+A08.0010 [Amber] | ¿Por qué es especial el día en que nace una persona?
+A08.0011 [Amber] | ¿En qué se diferencia de los demás días?
+A08.0012 [Tú] | Cada quien con lo suyo, pero...
+A08.0013 [Tú] | Para mí, este día es especial porque...
+A08.0014 [Tú] | Eres muy importante para mí.
+A08.0015 [Amber] | Ah... Ahora lo entiendo.
+A08.0016 [Amber] | Entonces la próxima vez, cuando sea tu cumpleaños, yo también quiero celebrarlo contigo, ==PLAYER_NAME==.
+A08.0017 [Amber] | Te cantaré la canción de cumpleaños.
+A08.0018 [Tú] | Lo espero con ganas.
+
+## Conversación A09
+A09.0001 [Amber] | Desde que te uniste a nosotras, siento que las peleas son cada vez más fáciles
+A09.0002 [Opción] | Es porque todas se han esforzado mucho
+A09.0003 [Opción] | ¡La estrategia sí ayuda!
+A09.0004 [Opción] | ¡Jaja! ¡Eso es mi ingenio trabajando!
+A09.0005 [Amber] | ¿En serio?
+A09.0006 [Amber] | Pero de verdad es solo desde que ==PLAYER_NAME== se unió a nosotras
+A09.0007 [Tú] | Quizá soy su estrella de la suerte, por así decirlo
+A09.0008 [Amber] | Es cierto. Eres una gran estratega, ==PLAYER_NAME==
+A09.0009 [Amber] | No sé si es solo mi imaginación, pero siento que soy más ligera y rápida que antes
+A09.0010 [Tú] | Eso pasa cuando te relajas
+A09.0011 [Tú] | No te preocupes por eso. Sean ustedes mismas
+A09.0012 [Amber] | ¡Qué increíble!
+A09.0013 [Amber] | Entonces, ¿adónde vamos ahora, mi Señor Tirano?
+A09.0014 [Tú] | Al siguiente Monolito, por supuesto
+A09.0015 [Amber] | Sip, entendido
+A09.0016 [Amber] | ¡De ahora en adelante me esforzaré todavía más!
+
+## Conversación A10
+A10.0001 [Tú] | ¿Recibiste el Disco Rúnico que te envié hace un momento?
+A10.0002 [Tú] | Algo me dice que es especial
+A10.0003 [Amber] | Esta música me da nostalgia...
+A10.0004 [Opción] | Entonces te lo regalo
+A10.0005 [Opción] | Si te gusta, quédatelo
+A10.0006 [Opción] | El Disco llamará a su dueña
+A10.0007 [Amber] | ...
+A10.0008 [Amber] | Puede que así sea, pero...
+A10.0009 [Amber] | ¿Seguro que quieres dármelo?
+A10.0010 [Tú] | Confío en ti
+A10.0011 [Amber] | Está bien
+A10.0012 [Amber] | ¡No te voy a defraudar, ==PLAYER_NAME==!
+
+## Conversación B01
+B01.0001 [Amber] | ==PLAYER_NAME==, ¿has visto a Inky últimamente?
+B01.0002 [Opción] | Nop.
+B01.0003 [Opción] | La vi cerca del estanque anoche.
+B01.0004 [Amber] | Ya van más de dos días sin verla
+B01.0005 [Amber] | Quizá encontró algo divertido que hacer por ahí
+B01.0006 [Tú] | Seguro anda de cacería
+B01.0007 [Amber] | ¿De verdad una cacería dura tanto?
+B01.0008 [Amber] | No me digas que se murió de hambre...
+B01.0009 [Tú] | ¡Tranquila! Siempre atrapa su propia comida, ¿no?
+B01.0010 [Tú] | No se va a morir de hambre solo por un par de días.
+B01.0011 [Amber] | Es verdad
+B01.0012 [Amber] | Quizá regrese mañana
+B01.0013 [Amber] | Esperaré un poco más
+B01.0014 [Tú] | ¡Sí!
+B01.0015 [Tú] | La vi cerca del estanque anoche
+B01.0016 [Tú] | Parecía que iba tras los peces
+B01.0017 [Amber] | Ah, así que Inky se fue de pesca
+B01.0018 [Amber] | Estoy pensando que quizá deberíamos comprarle comida para gatos
+B01.0019 [Amber] | Lo de la tienda de mascotas se ve muy rico.
+B01.0020 [Tú] | A ti quizá te parezca rico, pero ¿y a Inky?
+B01.0021 [Tú] | ¿Y si lo compramos y no le gusta?
+B01.0022 [Amber] | Entonces me lo como yo
+B01.0023 [Tú] | La gente no puede comer comida para gatos
+B01.0024 [Amber] | Pero de verdad se ve deliciosa
+B01.0025 [Tú] | ¿De verdad es para Inky o solo para ti...?
+B01.0026 [Amber] | Para mí
+
+## Conversación B02
+B02.0001 [Amber] | ==PLAYER_NAME==, ¿sabes algo de combate con armas de fuego?
+B02.0002 [Opción] | Un poco, sí
+B02.0003 [Opción] | No. ¿Qué es eso?
+B02.0004 [Tú] | Es una especie de combate cuerpo a cuerpo, pero con pistolas, ¿no?
+B02.0005 [Amber] | Sí
+B02.0006 [Amber] | Ese mismo
+B02.0007 [Amber] | Lo vi el otro día en un Stella Drama
+B02.0008 [Amber] | Un tipo de combate cuerpo a cuerpo con armas de fuego
+B02.0009 [Amber] | Lo vi el otro día en un Stella Drama
+B02.0010 [Amber] | Últimamente lo he estado practicando
+B02.0011 [Amber] | Pero hacer que las balas curveen es dificilísimo
+B02.0012 [Tú] | No sé qué drama viste, Amber
+B02.0013 [Tú] | Pero ni hablar, las balas no pueden curvear
+B02.0014 [Amber] | Decían que es útil en combate cercano
+B02.0015 [Amber] | Si lo domino, podré darle a enemigos escondidos detrás de paredes
+B02.0016 [Tú] | Yo no contaría con eso...
+
+## Conversación B03
+B03.0001 [Amber] | Ella vende conchas marinas en la orilla del mar
+B03.0002 [Amber] | ¿Cuánta madera lanzaría una marmota
+B03.0003 [Amber] | si una marmota pudiera lanzar madera?
+B03.0004 [Tú] | ¿Trabalenguas?
+B03.0005 [Amber] | Sip
+B03.0006 [Amber] | Se acerca una competencia de mecanografía rápida
+B03.0007 [Amber] | Quiero participar
+B03.0008 [Tú] | Entonces estás practicando, ya veo
+B03.0009 [Tú] | Escribes muy rápido
+B03.0010 [Tú] | ¡Seguro vas a ganar!
+B03.0011 [Amber] | Gracias
+B03.0012 [Amber] | ¿Te interesa participar, Jefe?
+B03.0013 [Amber] | Pero tu celular es muy grande...
+B03.0014 [Tú] | ¿Tienes que usar tu propio celular en la competencia?
+B03.0015 [Amber] | Sí
+B03.0016 [Tú] | ¿No significa eso que los que tienen celulares más pequeños tienen ventaja?
+B03.0017 [Amber] | No te preocupes
+B03.0018 [Amber] | Puedo prestarte el mío
+B03.0019 [Tú] | ¡Perfecto!
+B03.0020 [Tú] | ¡Entonces participemos juntas!
+
+## Conversación B04
+B04.0001 [Amber] | El cielo está clarísimo hoy
+B04.0002 [Tú] | ¡Sí!
+B04.0003 [Amber] | Jefe, ¿vienes a dormir en el techo de Loxy esta noche?
+B04.0004 [Tú] | ¿En el techo?
+B04.0005 [Amber] | ¡Sí!
+B04.0006 [Amber] | Las estrellas se verán increíbles esta noche
+B04.0007 [Amber] | ¿Quieres mirar las estrellas conmigo?
+B04.0008 [Tú] | ¿No nos dará frío?
+B04.0009 [Amber] | No, tengo cobijas de sobra
+B04.0010 [Tú] | ¡Entonces nos vemos en el techo esta noche!
+
+## Conversación B05
+B05.0001 [Opción] | ¿Qué pasa?
+B05.0002 [Opción] | Qué lindo
+B05.0003 [Amber] | ¿Verdad?
+B05.0004 [Amber] | De repente pensé que este emoji era súper lindo
+B05.0005 [Amber] | Así que quise enseñártelo
+B05.0006 [Amber] | La última vez que Inky volvió, también traía una flor encima
+B05.0007 [Amber] | Igualita a esta
+B05.0008 [Opción] | ¿En serio?
+B05.0009 [Opción] | Quizá cuando Inky andaba ocupado metiéndose entre los arbustos
+B05.0010 [Amber] | En serio
+B05.0011 [Amber] | La flor cayó justo sobre su cabeza
+B05.0012 [Tú] | ¿Tienes una foto? Quiero verla
+B05.0013 [Tú] | cayó justo sobre su cabeza por pura casualidad
+B05.0014 [Amber] | Sí, tiene sentido
+B05.0015 [Amber] | Estaba por tomar una foto
+B05.0016 [Amber] | Pero la flor se cayó
+B05.0017 [Tú] | ¡Qué lástima!
+
+## Conversación B06
+B06.0001 [Amber] | Jefe, ¿quieres tener una mascota?
+B06.0002 [Opción] | Sí
+B06.0003 [Opción] | Nop
+B06.0004 [Amber] | Yo puedo ser tu mascota
+B06.0005 [Amber] | Pero quiero ser tu mascota, Jefe
+B06.0006 [Tú] | ¿???
+B06.0007 [Amber] | Porque si lo soy
+B06.0008 [Amber] | Alguien jugará conmigo todos los días
+B06.0009 [Amber] | y me dará de comer
+B06.0010 [Amber] | y no tendría que trabajar
+B06.0011 [Tú] | Basta, basta
+B06.0012 [Tú] | Yo también quiero ser la mascota de Amber

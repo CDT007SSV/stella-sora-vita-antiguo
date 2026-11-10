@@ -1,0 +1,6 @@
+# Historia de Caramel — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_147_01 | Eco de corazones y estrellas (Parte I)
+CG_147_02 | Eco de corazones y estrellas (Parte II)
+CG_147_03 | Eco de corazones y estrellas (Parte III)

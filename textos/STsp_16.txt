@@ -1,0 +1,6 @@
+# Nova Times #16 · La vida continúa — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_16_01 | La vida continúa (Parte I)
+STsp_16_02 | La vida continúa (Parte II)
+STsp_16_03 | La vida continúa (Parte III)

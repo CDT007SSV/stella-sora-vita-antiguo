@@ -1,0 +1,126 @@
+# Historia de Suntide Willow · 1 · A Hustling Holiday (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Local Resident | Residente local angustiado
+N:Anxious Tourist | Turista angustiado
+N:Attentive Listener | Oyente atento
+N:Beginner Surfer | Surfista principiante
+N:Listener | Oyente
+N:Playful Listener | Oyente bromista
+N:Rescued Trekker | Trekker rescatado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_160 | Willow
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1305 | Willow de Marea Solar
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Unas vacaciones ajetreadas (Parte I)
+0003 [Intro] | ¡Por fin, un día libre! ¿Por qué mi agenda ya está explotando de dramas inesperados?
+0004 [Narración] | ==Off== ...
+0005 [Narración] | ==Off== Willow, ¿de verdad tenemos que hacer esto?
+0006 [Narración] | Sí. Por la seguridad de esta playa y de todos los presentes, necesito tu cooperación.==Off==
+0007 [Narración] | ==Off== Eh... ¿De verdad puedo hacerlo?
+0008 [Narración] | ==PLAYER_NAME==, eres la única persona con la que puedo contar.==Off==
+0009 [Narración] | ==Off== Habla muy en serio... ¡¿En qué me metí?!
+0010 [Narración] | ==Off==Unas horas antes...
+0011 [Willow] | El resort por fin volvió a la normalidad. Da gusto ver que todos regresaron.
+0012 [Tú] | Sí.==W== Tener toda la playa para nosotros fue agradable, pero este ambiente animado también está bien.
+0013 [Tú] | Willow, casi nunca descansas.==B====W== Volvamos al modo vacaciones.
+0014 [Willow] | Tienes razón. Ya que el problema está resuelto, tomar un respiro no hará daño—
+0015 [Anxious Tourist] | ¡Ayuda! ¡Alguien se está ahogando allá!
+0016 [Tú] | ¡¿Qué?!
+0017 [Willow] | ¡==PLAYER_NAME==, vamos!
+0018 [Rescued Trekker] | ¡Gracias!==W== ¡Sin ustedes dos estaría perdido!
+0019 [Willow] | Lanzarse al agua sin estirar es una forma segura de sufrir calambres. La próxima vez, asegúrate de calentar antes de nadar.
+0020 [Tú] | Willow de siempre. Eres prácticamente una salvavidas profesional.
+0021 [Willow] | Los Trekkers enfrentan peligros todos los días. He tomado muchos cursos de primeros auxilios para estar preparada.
+0022 [Tú] | Increíble. Eres la empleada modelo de la Asociación de Trekkers.
+0023 [Willow] | Me alegra haber podido ayudar. Al menos el entrenamiento dio frutos. En fin, ¿de qué hablábamos? Algo sobre divertirnos—
+0024 [Anxious Local Resident] | ¡A-Ayuda! ¡Esa lancha está fuera de control!
+0025 [Tú] | ¡¿Qué?!
+0026 [Willow] | ¡Vamos!
+0027 [Willow] | Fiu... Con eso queda resuelto.
+0028 [Tú] | Buen trabajo. Ahora podemos—
+0029 [Anxious Tourist] | ¡Ay no! ¡Esa lancha se volcó!
+0030 [Anxious Local Resident] | ¡¿Por qué no me hacen caso?! ¡Les dije que es peligroso fuera de la zona de baño!
+0031 [Beginner Surfer] | ¡Auch! ¡Me picó una medusa!
+0032 [Tú] | ¡Esto no se acaba! No podemos encargarnos de todo solos.
+0033 [Willow] | ¡==PLAYER_NAME==, llama a Noya y a las demás! ¡Necesitamos todas las manos!
+0034 [Tú] | ¡E-Enseguida!
+0035 [Tú] | Fiu... Creo que eso es todo.==W== Gracias por el apoyo. Perdón por sacarlas de sus lindas vacaciones.
+0036 [Noya] | ¡Si necesitabas ayuda, no íbamos a dejarte colgado!
+0037 [Amber] | Menos mal que nadie salió herido...
+0038 [Willow] | Un momento. Con todos estos accidentes, no hay rastro de un solo miembro del personal. ¿Por qué?
+0039 [Iris] | Yo también lo noté, así que pregunté por ahí.
+0040 [Iris] | El negocio andaba muy flojo últimamente. No pudieron pagar la nómina, así que todo el personal renunció...
+0041 [Tú] | ¡¿Qué?!==W== ¡Pero la playa está repleta! ¡¿Cómo operan sin personal?!
+0042 [Amber] | Eso explica el caos...
+0043 [Iris] | No pudieron capacitar a nuevos empleados con la rapidez suficiente para la ola de turistas.
+0044 [Noya] | ¡Qué peligroso!==W== Menos mal que estábamos por aquí...
+0045 [Willow] | No podemos ignorar esto.
+0046 [Tú] | ¿Willow?
+0047 [Willow] | Este resort por fin se recuperó. Si esto sigue así, un accidente fatal es inevitable.==W== Necesitamos medidas preventivas. Así que—
+0048 [Willow] | ¡Daré una conferencia de seguridad!
+0049 [Noya] | ¡Por aquí para la conferencia de seguridad! ¡A cargo de Willow, jefa de la Asociación de Trekkers de Emor!
+0050 [Iris] | ¡La conferencia está abierta a todos! ¡Pasen—!
+0051 [Amber] | Llegó más gente de la que pensé.
+0052 [Tú] | Parece que Willow lo pensó bien. Montó el lugar en un instante y consiguió que las tiendas locales corrieran la voz... No me extraña que sea la favorita de la Asociación.
+0053 [Willow] | Je, sabes cómo halagarme.
+0054 [Tú] | Solo digo la verdad.==W== ¿Cómo van las cosas de tu lado? ¿La conferencia está lista?
+0055 [Willow] | Sí.==W== Amber, ¿podrías repartir estos materiales al público?
+0056 [Amber] | En eso estoy.
+0057 [Tú] | ¿Necesitas ayuda con algo más?
+0058 [Willow] | Estaba por pedírtelo.==W== ¿Me ayudarías como compañía de demostración en la conferencia?
+0059 [Tú] | ¿Yo? Si necesitas una demostración, Noya es muy buena nadadora. Quizá sea más adecuada...
+0060 [Willow] | La mayoría del público no son buenos nadadores, o rara vez salen al mar.==W== Como eres principiante, tus reacciones naturalmente reflejarán las suyas.==W== Eso te hace la elección perfecta.
+0061 [Tú] | Tiene sentido. Déjamelo a mí.
+0062 [Willow] | Genial.==W== Aquí está el guion de la demostración. Revísalo antes de empezar.==W==
+0063 [Tú] | Mmm... Ya veo. Quieres que haga de víctima de ahogamiento...==W== Espera, ¡¿qué?!
+0064 [Tú] | Willow... ¿También vamos a hacer esta parte...?
+0065 [Willow] | Por supuesto. Es la parte más importante.==W== Cuando estés lista para empezar, ¡adelante!
+0066 [Willow] | ¡A continuación, explicaré cómo rescatar a una víctima de ahogamiento! Primero, cuando notes que alguien se está ahogando—
+0067 [Tú] | Esa es mi señal... Ya me están dando nervios.==W== Pero confío en Willow...
+0068 [Tú] | Willow, ¿tenemos que hacerlo?
+0069 [Willow] | Sí. Por la seguridad de esta playa y de todos los presentes, necesito tu cooperación.
+0070 [Tú] | Eh... ¿De verdad puedo hacerlo?
+0071 [Willow] | ==PLAYER_NAME==, eres la única persona con la que puedo contar.
+0072 [Tú] | Willow ya lo dejó todo preparado... ¡No puedo echarme para atrás!
+0073 [Willow] | Ahora, continuemos con una demostración en vivo.==W== Por favor, den la bienvenida a mi compañero:==W== ¡==PLAYER_NAME==!
+0074 [1] | ¡Es por la seguridad de la playa! ¡Me armaré de valor y lo haré...!
+0075 [1] | ¡Hola a todos...!
+0076 [Listener] | ¡Tú puedes, ==SEX21==!
+0077 [Willow] | Gracias por el apoyo.==W== Ahora, por favor, acuéstate boca arriba.
+0078 [1] | E-Está bien...
+0079 [Willow] | Ahora veremos los primeros auxilios básicos para víctimas de ahogamiento. Primero, griten fuerte y den palmadas en el hombro para comprobar si responde.
+0080 [Willow] | Si no respira, trasládenlo a un lugar seguro e inicien la reanimación cardiopulmonar de inmediato. Inhalar agua de mar corta el oxígeno, lo que puede causar un paro cardíaco.
+0081 [Willow] | Por eso la respiración de rescate es crucial. Observen con atención. Primero, inclinen la barbilla hacia atrás para abrir la vía aérea...
+0082 [Willow] | Luego pellizquen la nariz, abran la boca y sellen herméticamente la boca de la víctima con la suya.
+0083 [1] | Es una demostración, es una demostración, es una demostración... ¡No lo va a hacer de verdad, ¿o sí?!
+0084 [1] | Pero... ¿Por qué siento su aliento en mi cara? Quizá debería ... echar un vistazo...
+0085 [Willow] | ¿Oh?
+0086 [Tú] | ¡¿E-Eh?! ¡¿Willow?!==W== ¡E-Espera, ¿no estamos demasiado c-cerca?!
+0087 [Willow] | Pues sí. Estoy demostrando la respiración de rescate.
+0088 [Tú] | ¡P-Pero no tiene que ser tan realista...!
+0089 [Willow] | Quizá, pero no puedo demostrar bien el sellado de la boca si lo hago a distancia.
+0090 [Tú] | ¡Creo que ya captaron la idea!==W== ¡¿Alguna pregunta del público?!
+0091 [Attentive Listener] | Ajá... Creo que ya entendimos lo esencial ... ¿probablemente?
+0092 [Willow] | Para mantener la cabeza fría en una emergencia, memoricen estos pasos exactos.
+0093 [Listener] | ¡Así lo haremos!
+0094 [Playful Listener] | Sinceramente, si eso hace que la hermosa señorita Willow me rescate, ahogarse quizá valga la pena.==W== ¡Jaja, es broma!
+0095 [Attentive Listener] | ¡O-Oye, mira detrás de ti!
+0096 [Playful Listener] | ¿Eh? Guau—¡¿señorita Willow?!
+0097 [Willow] | «Alguien me salvará»... Esa arrogancia ingenua te puede costar la vida, ¿sabes?
+0098 [Willow] | ¡Quien trata su propia vida como un chiste no merece pisar esta playa!==W== ¡Los imprudentes solo ponen en peligro a quienes los rodean. Son peores que basura!
+0099 [Playful Listener] | ¡Iiih!==W== ¡Perdón! ¡Me retracto de todoooo!
+0100 [Tú] | Nunca había visto a Willow tan aterradora...==W== Definitivamente no debo hacerla enojar...

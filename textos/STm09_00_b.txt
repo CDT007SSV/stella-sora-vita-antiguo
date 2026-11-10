@@ -1,0 +1,189 @@
+# Capítulo 9 · Un Monolito demasiado lejano · Interludio 2 · Ignición
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Sentinel of Dawn | Centinela del Alba furioso
+N:Boss (Nazuna) | Jefa (Nazuna)
+N:Confused Sentinel of Dawn | Centinela del Alba confundido
+N:Imperial Guard on Duty | Guardia Imperial de turno
+N:Sand-Wielding Sentinel | Centinela de la arena
+N:Sentinel of Dawn on Watch | Centinela del Alba de guardia
+N:Vigilant Sentinel of Dawn | Centinela del Alba vigilante
+N:Wind-Wielding Sentinel | Centinela del viento
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_139 | Allie
+N:avg1_144 | Chitose
+N:avg1_146 | Benito
+N:avg1_150 | Laru
+N:avg1_156 | Nazuna
+N:avg1_163 | Greyhorn
+N:avg1_1996 | Noya
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_157 | Guardia Imperial
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Interludio (II)
+0002 [Intro] | Ignición
+0003 [Intro] | El ejército de Greyhorn llega a la mina donde te escondes. En este momento desesperado, el Gremio Petal Bloom aparece como un milagro. Bajo su protección, por fin tienes la oportunidad de tomar aire y elegir...
+0004 [Lugar y hora] | 13:30, 18.º del mes de Nebula, Mirage, entrada de la Mina de Diamante Cristalino
+0005 [???] | ¡Papas fritas! ¡Lleve sus papas calientitas y crujientes!
+0006 [???] | ¡Helado! ¡Con una sola mordida volverá directo al gélido Norte!
+0007 [Imperial Guard on Duty] | ... ¿Alguien está vendiendo botanas? ¿Desde cuándo hay comerciantes de campamento en pleno desierto?
+0008 [Sentinel of Dawn on Watch] | Imposible. Esta es una operación clasificada del Comité de Salvación. ¿Se filtró nuestra información? Llevémosla a interrogar.
+0009 [Imperial Guard on Duty] | ¡Andando!
+0010 [Sentinel of Dawn on Watch] | ¡Tú, alto ahí! ¡¿Quién te envió?!
+0011 [Laru] | ¡Iiih! ¡Uy, esperen! ¡No me malinterpreten!
+0012 [Laru] | ¡Soy Laru, de Logística! ¡Ya saben, la súper dedicada y ultratrabajadora Laru!
+0013 [Imperial Guard on Duty] | Ese nombre me suena. ¿No hay en Logística una floja de campeonato que se llama así? ¿Qué haces aquí?
+0014 [Laru] | El convoy principal y los refuerzos todavía están a un día de distancia. Preparamos unos bocadillos para la hora del té para mantener a ustedes, los héroes del frente, en óptimas condiciones de combate. Los ingredientes eran limitados. Disculpen lo modesto del banquete.
+0015 [Imperial Guard on Duty] | ¿La hora del té...? ¿No es eso lo que hacen las damas nobles allá en Emor? Sentarse a picar algo en jardines elegantes.
+0016 [Sentinel of Dawn on Watch] | Hmph. Saber que estamos aquí arriesgando la vida por gente así me quita las ganas de salvar el mundo.
+0017 [Imperial Guard on Duty] | Dejemos la plática deprimente. No hay que desperdiciar el esfuerzo de Logística.
+0018 [Laru] | ¡Exacto! Aquí mismo tengo papas fritas y helado. ¡Esta combinación les recargará el cuerpo y la mente, y los ayudará a atrapar a ese Tirano en tiempo récord!
+0019 [Sentinel of Dawn on Watch] | Agradezco el detalle. Sin duda necesitamos sodio después de sudar tanto, pero... ¿papas fritas en medio del desierto?
+0020 [Laru] | Je, no se comen solas. Se mojan las papas en el helado. Tome, pruébelo.
+0021 [Sentinel of Dawn on Watch] | ¿Eso existe siquiera...?==W== Ñam, ñam...
+0022 [Sentinel of Dawn on Watch] | ¡G-guau, esto está increíble!
+0023 [Imperial Guard on Duty] | Salado, crujiente, dulce y helado... ¡Una tormenta perfecta de sabor! ¡El calor desapareció por completo! ¡Me siento como nuevo!
+0024 [Laru] | ¡Me alegra que les guste! ¿Dónde están los demás miembros del Comité? Tengo que terminar mis entregas.
+0025 [Sentinel of Dawn on Watch] | Casi toda la Primera Compañía bajó a la mina con la capitana Greyhorn. Los demás estamos tratando de localizar al Tirano...
+0026 [Wind-Wielding Sentinel] | ¡Vientos abrasadores de las dunas doradas! ¡En nombre del Dios de la Gracia, les ordeno que lleven estas arenas hasta la mina!
+0027 [Sand-Wielding Sentinel] | ¡Oh, arenas imbuidas de magia y Gracia, graben en mis ojos lo lejano e invisible!
+0028 [Laru] | (¿Así que trabajan en equipo para explorar la mina...? Un centinela controla el viento para llevar la arena adentro, mientras el otro controla la arena y usa los granos encantados para detectar seres vivos.)
+0029 [Laru] | (Ese alcance del hechizo de viento, más ese nivel de percepción sensorial... Cada uno por separado ya es duro. Si se combinan, ==PLAYER_NAME== no tendrá dónde esconderse allá abajo.)
+0030 [Laru] | (Si algún día quiero volver a flojear en paz, tengo que encontrar a ==PLAYER_NAME== y darle la información rápido.)
+0031 [Imperial Guard on Duty] | Oye, alto ahí. La capitana Greyhorn prohibió estrictamente que entrara a la mina cualquiera que no sea de la Primera Compañía. Allá abajo está a punto de volverse una zona de guerra. Es demasiado peligroso para Logística.
+0032 [Sentinel of Dawn on Watch] | Gracias por el esfuerzo. Deja aquí las papas y el helado y ve a descansar.
+0033 [Laru] | ¿Descansar? No, no, no. De ninguna manera. ¡Si los dejo aquí, las papas se van a aguadar y el helado se va a derretir! ¡Asegurarme de que cada aliado reciba la proporción perfecta de papas y helado es mi deber!
+0034 [Laru] | Ustedes están luchando con uñas y dientes por el destino del mundo. ¿Cómo podría Logística quedarse sentada sin hacer nada?
+0035 [Laru] | Por favor, déjenme entrar a la mina. ¡Yo también quiero poner mi granito de arena para salvar el mundo!
+0036 [Sentinel of Dawn on Watch] | ¡Q-qué dedicación!
+0037 [Sand-Wielding Sentinel] | ¡Tengo visual! ¡Las arenas muestran al Tirano de cabello blanco y a ==SEX3== único guardaespaldas escondidos cerca de la sala secreta de los Gatos Blancos!
+0038 [Wind-Wielding Sentinel] | ¡Avisen a la capitana Greyhorn! Ustedes, conmigo. ¡Esta vez sí atrapamos al Tirano!
+0039 [Imperial Guard on Duty] | ¡Sí, capitán!
+0040 [Sentinel of Dawn on Watch] | Oye, floja de Logística... ¡No, ultratrabajadora Laru! También sabes pelear, ¿verdad?
+0041 [Laru] | ¡Claro! Mi lanza tiene suficientes voltios para dejar noqueado a cualquiera.
+0042 [Sentinel of Dawn on Watch] | Entonces fórmate, y trae las papas y el helado. Tienes toda la razón. Todos tenemos que poner de nuestra parte por el mundo. ¡Atrapemos juntos al Tirano!
+0043 [Laru] | ¡Entendido! ¡En marcha!
+0044 [Laru] | (Je. La Operación Infiltración con Papas y Helado está en marcha. Ahora tengo que llegar hasta ==PLAYER_NAME==.)
+0045 [Lugar y hora] | 13:35, 18.º del mes de Nebula, Mirage, en lo profundo de la mina
+0046 [Vigilant Sentinel of Dawn] | Capitana Greyhorn, nos llegó aviso del equipo de investigación. El Tirano y ==SEX3== único guardaespaldas están en el túnel justo adelante.
+0047 [Greyhorn] | Despliéguense en formación de combate. Contengan su magia. Solo venimos por el objetivo principal. Ignoren a los cómplices.
+0048 [Greyhorn] | Recuerden: incapaciten a cualquiera que defienda al Tirano. No es necesaria la fuerza letal.
+0049 [Confused Sentinel of Dawn] | ¿Por qué? ¿De verdad vamos a dejar ir a quienes ayudan al Tirano a destruir el mundo?
+0050 [Angry Sentinel of Dawn] | ¡Esos necios tercos hirieron a nuestros compañeros en Philae! ¡Merecen morir!
+0051 [Greyhorn] | Nuestra misión siempre ha sido salvar el mundo. Matar al Tirano no es más que un medio para ese fin.
+0052 [Greyhorn] | Los compañeros del Tirano son irrelevantes para ese objetivo.==W== No compliquen la misión ni causen bajas innecesarias.
+0053 [Greyhorn] | ¡Es una orden directa de Lady Angie! Y también es mi orden. ¡Quien desobedezca recibirá castigo militar!
+0054 [Vigilant Sentinel of Dawn] | Capitana Greyhorn, el Tirano está huyendo hacia su posición.
+0055 [Greyhorn] | Entendido. Déjenmelo a mí.
+0056 [Noya] | Cuidado, se oyen pasos adelante. Sigue sin mí, ==PLAYER_NAME==. Yo los detengo.
+0057 [Tú] | ¡Espera, Noya! ¡No son el enemigo!
+0058 [Noya] | ¡¿Chitose?! ¿Qué haces aquí?
+0059 [Chitose] | ¡Mi ==SEX11==! ¡Y Noya! ¡Por fin los encontré!
+0060 [Greyhorn] | ¡Dispérsense! Sus golpes son pesados y el túnel es estrecho. ¡No se amontonen!
+0061 [Fuyuka] | ¡L-lo siento! No quiero pelear con ustedes, pero... ¡no puedo dejar que capturen al Maestro!
+0062 [Boss (Nazuna)] | ¡Buen golpe, Fuyuka!
+0063 [Boss (Nazuna)] | ¡Dales un gancho derecho!
+0064 [Boss (Nazuna)] | ¡Estrella esas latas contra la pared!
+0065 [Greyhorn] | Moverse tan rápido con un arma tan pesada... Niña, ojalá usaras tu talento para proteger la paz de Nova.
+0066 [Fuyuka] | ¡U-ustedes son los que destruyen la paz! ¡El Maestro no ha hecho nada malo!
+0067 [Greyhorn] | Hablar te hace perder la concentración. Justo como pensé.
+0068 [Fuyuka] | ¡Ay, no! ¡Maestro!
+0069 [Greyhorn] | Enfrenta tu fin, Tirano. ¡Si quitar una vida detiene esta locura, cargaré con gusto con el pecado!
+0070 [Boss (Nazuna)] | ¡Aaaah! Me muero...
+0071 [Nazuna] | ¡Ni lo sueñes!
+0072 [Greyhorn] | ¿Apuñalé... un abrigo?
+0073 [Nazuna] | ¡Jajaja! ¡Esa maquillista es increíble! ¡Hasta le puso un hechizo de teletransporte a este disfraz!
+0074 [Greyhorn] | Tú no eres el Tirano... Por tu estatura... ¿Nazuna, de Petal Bloom?
+0075 [Nazuna] | ¿Oh? ¿Tan famosa soy?==W== Espera, ¡¿cómo que «por tu estatura»?! ¡Me voy a acordar de tu cara, lata hueca!
+0076 [Greyhorn] | ¡¿Dónde está el Tirano?!
+0077 [Nazuna] | ¡Como si te lo fuera a decir! ¡Vamos, Fuyuka, tiremos este túnel entero!
+0078 [Fuyuka] | ¡Claro que sí!
+0079 [Nazuka] | Oh, Viento del Oeste, ¿cuándo soplarás? ¿Cuándo caerá la suave lluvia?
+0080 [Narración] | ==Off==Una brisa verde pálido se arremolina alrededor de Nazuka. Suave pero inquebrantable, forma una barrera contra el abrasador viento amarillo del túnel y mantiene cada grano de arena encantada lejos de sus compañeros.
+0081 [Narración] | Guiados por su mano, hilos de energía verde se filtran en el viento caliente y desvían la arena hacia un túnel contiguo.
+0082 [Tú] | Nazuka... ¿Tú también estás aquí? La última vez que hablamos, seguías en Philae. ¿En realidad estabas...?
+0083 [Nazuka] | ¿Creíste que me quedaría sentada esperando en Philae? Ese no es para nada mi estilo.
+0084 [Nazuka] | Nos quedamos en Philae para cubrirte, pero parecía que el Comité de Salvación de algún modo te había rastreado hasta el desierto, así que decidimos venir a escondidas a ayudar.
+0085 [Nazuka] | Los detalles los vemos después. Ahora que te encontramos, Nazuna y Fuyuka pueden dejar de hacerse pasar por señuelo, ¡y yo puedo dejar de contenerme!
+0086 [Lugar y hora] | 13:40, 18.º del mes de Nebula, Mirage, entrada del pozo de la mina
+0087 [Sand-Wielding Sentinel] | ¡Los veo! La capitana Greyhorn tiene rodeado al Tirano, junto con ese guardaespaldas frágil de cabello blanco que está junto a ==SEX4==.
+0088 [Wind-Wielding Sentinel] | ¿Cabello blanco? Eso no cuadra. Nadie del Gremio de la Nueva Estrella tiene el cabello blanco... y los pesos pesados de la Compañía del Gato Blanco tampoco.
+0089 [Wind-Wielding Sentinel] | ¿A quién viste en realidad?==W== ¡Ugh...!
+0090 [Sand-Wielding Sentinel] | ¿Qué pasa?
+0091 [Wind-Wielding Sentinel] | ¡El viento! ¡Estoy perdiendo el control de las corrientes de aire de la mina! ¡Maldición! ¡¿Quién tiene una magia tan fuerte?!
+0092 [Imperial Guard on Duty] | ¡Oigo aullidos! ¡Todos, agárrense de algo! ¡De lo que sea!
+0093 [Sentinel of Dawn on Watch] | ¡N-no puedo sostenerme! ¡Aaaah...!
+0094 [Laru] | ¡Q-qué viento tan loco! Quien lanzó eso debe estar furiosa.==W== ¡Menos mal que cargo todas estas papas y helados tan pesados, o también me habría volado!
+0095 [Laru] | ==PLAYER_NAME==, ¿cuántos compañeros ridículamente fuertes tienes...?
+0096 [Lugar y hora] | 13:45, 18.º del mes de Nebula, Mirage, en lo profundo de la mina
+0097 [Nazuka] | Uf. Todo limpio. Hasta el último grano de esa arena molesta salió volando.
+0098 [Nazuna] | ¡Jefe, ya volvimos!==W== ¡Fuyuka derrumbó el túnel y dejó atrapada del otro lado a esa lata hueca, junto con un montón de Guardias Imperiales y Centinelas del Alba!
+0099 [Fuyuka] | ¡L-lo siento! Rompí muchas cosas. Oí que este lugar es de los Escorpiones del Desierto... Eh... ¿Debería pagar los daños?
+0100 [Chaton] | ¡Guau, todavía más Trekkers rebosantes de poder oscuro! Y no te preocupes por los daños. Si los Escorpiones vienen a cobrar, ¡les pago con balas! Jeje.
+0101 [Tú] | Todos...==W== Están todos aquí.
+0102 [Chitose] | Así es. Tus compañeros de Philae,==W== tu amiga Minova de Emor==W== y la bruja Mistique, de Scarlet Sights Media. Todos vinimos a ayudarte, mi ==SEX11==. Están esperando afuera de la ciudad.
+0103 [Iris] | Hasta el Viento de Ceniza está aquí... ¿De verdad vamos a tener el enfrentamiento final con el Comité de Salvación aquí mismo? Uf... Es imposible que ganemos esto.
+0104 [Amber] | Jefe, ¿qué hacemos ahora?
+0105 [Tú] | ¿Q-qué debería hacer...? ¿Qué más... puedo hacer?
+0106 [Iris] | Hasta el Viento de Ceniza está aquí... ¿De verdad vamos a tener el enfrentamiento final con el Comité de Salvación aquí mismo? Uf... Es imposible que ganemos esto.
+0107 [Amber] | Jefe, ¿qué hacemos ahora?
+0108 [Tú] | Huir no sirve de nada. El ataque de decapitación no sirve de nada.
+0109 [Tú] | Si quiero proteger a todos, tengo que aprovechar absolutamente toda la información que reuní en los dos intentos anteriores.
+0110 [Tú] | Tengo que dejar a Angie al mando del Comité, elegir un campo de batalla que mantenga a los niños y a los ciudadanos fuera del fuego cruzado y forzar un enfrentamiento.
+0111 [Tú] | Nada de guerras de desgaste. ¡Voy a acabar con todos ellos de un solo golpe!
+0112 [Iris] | Hasta el Viento de Ceniza está aquí... ¿De verdad vamos a tener el enfrentamiento final con el Comité de Salvación aquí mismo? Uf... Es imposible que ganemos esto.
+0113 [Amber] | Jefe, ¿qué hacemos ahora?
+0114 [Tú] | Noya... E-estás bien, ¿verdad?
+0115 [Noya] | ¿Eh? ¿Yo? Estoy perfectamente bien.
+0116 [Tú] | Eh...==W== ¿No tienes ninguna herida en el hombro?==W== ¿Las costillas tampoco te duelen?
+0117 [Noya] | ¿P-por qué me preguntas eso de la nada? ¡Claro que no estoy herida!==W== No estarás intentando verme la panza aquí mismo, ¿o sí...?
+0118 [Tú] | ¡Menos mal!
+0119 [Noya] | ¡¿P-por qué me abrazas de repente?! ¡Oye, oye, todos están mirando!
+0120 [Tú] | Está bien. Está bien. Nada de eso va a pasar.
+0121 [Tú] | Noya, no te preocupes por tu intuición. Está completamente equivocada. Te lo prometo: nunca, jamás te voy a dejar.
+0122 [Noya] | ¿Eh? ¡¿Eeeeeh?! E-en serio, ==PLAYER_NAME==, ¿de qué hablas? ¿Qué intuición? Yo nunca tuve ninguna intuición así.
+0123 [Noya] | Espera, ¡¿cómo lo supiste?!
+0124 [Iris] | Jefe, ¿qué le acabas de decir a Noya? Es la primera vez que la veo sonrojarse tanto.
+0125 [Tú] | No es nada.==W== Solo no quería que Noya siguiera preocupándose.
+0126 [Tú] | Nazuka, Chitose, Nazuna, Fuyuka... Y todos los demás que vienen a respaldarnos.
+0127 [Tú] | Gracias a todos por llegar a tiempo. Debió ser difícil venir desde Philae sin avisar. Si no se hubieran movido por su cuenta para respaldarnos, el Comité de Salvación nos habría tenido atrapados aquí.
+0128 [Nazuka] | Jefe, ¿cómo... cómo sabes todo eso? ¿Firenze se puso en contacto contigo?
+0129 [Tú] | No. Digamos que, como su Jefe, y posiblemente el legendario Tirano, puedo ver el futuro.
+0130 [Tú] | Como huir no sirve de nada, y así no puedo proteger a todos...
+0131 [Opción] | Retirada táctica
+0132 [Opción] | Ataque de decapitación
+0133 [Opción] | Enfrentamiento en el Monolito
+0134 [Opción] | Apostarlo todo
+0135 [Tú] | Como no conocemos la fuerza del enemigo, evacuemos la mina y replegémonos a Mirage para proteger el orfanato y a los ciudadanos.
+0136 [Allie] | Jefe...
+0137 [Tú] | De todos modos, esto es entre yo, Boss Accord y el Comité de Salvación. Mirage no debería quedar atrapada en el fuego cruzado.
+0138 [Kasimira] | Jefe, Mirage también es el hogar de los Gatos Blancos. Pelearemos a tu lado.
+0139 [Tú] | Gracias, Kasimira. Y a ustedes también, Chaton y Benito.
+0140 [Tú] | Chitose, Nazuka, pónganme al tanto de todo lo que ha pasado estos días mientras salimos.
+0141 [Chitose] | Sí, mi ==SEX11==. Te pondremos al tanto de todo...
+0142 [Nazuka] | ... con lujo de detalle.
+0143 [Tú] | Todos, puede que Angie y su Comité de Salvación vengan con todo, pero no hay nada que temer.
+0144 [Tú] | ¡Ya tengo un plan para vencerlos!
+0145 [Tú] | Escuchen. Vamos a aplastar por completo al Comité de Salvación.
+0146 [Nazuna] | ¿Eh? Jefe, ¿de qué hablas?==W== Solo tenemos...
+0147 [Tú] | Es más que suficiente.==W== Mientras logremos entrar a ese Monolito, podemos superar su número y darle la vuelta a toda esta guerra.
+0148 [Tú] | Vamos... al Monolito.
+0149 [Noya] | ¿Al Monolito?
+0150 [Tú] | Sí. Es la única forma en que puedo proteger a todos aquí en Mirage.
+0151 [Narración] | Guardo el Trono, que ya no podía emitir ningún sonido, en el bolsillo de mi pecho...
+0152 [Narración] | ... y me dirijo hacia el Monolito.

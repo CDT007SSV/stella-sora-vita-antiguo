@@ -1,0 +1,145 @@
+# Capítulo 7 · El precio de la estrella · Final: Promesa incumplida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Trekker | Trekker curioso
+N:Serious Guard Knight | Caballero de guardia serio
+N:avg1_110 | Firenze
+N:avg1_133 | Nazuka
+N:avg3_100 | Sylar
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_139 | Trekker
+N:avg3_152 | Bastelina
+N:avg3_157 | Guardia Imperial
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_215 | Matilda
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] |  Promesa incumplida
+0003 [Intro] | Llevas al ejército a la victoria y Cosecha Unida prospera. En una rara pausa, Nazuka vuelve a invitarte al Monolito. Pero el Monolito se derrumba, la tierra cede y tu sueño de una vida normal queda sepultado con él...
+0004 [Narración] | Un año y medio después
+0005 [Ruby] | ¡Bienvenidos a la gran inauguración de Cosecha Unida en Emor! ¡Pasen por pan recién hecho!
+0006 [Sapphire] | ¡Gran inauguración: 20 % de descuento en toda la tienda! ¡Y un regalo gratis por compras de 10 000 Dorra!
+0007 [Curious Trekker] | Un momento,==W== Cosecha Unida ya tiene una tienda aquí. ¿Por qué una gran inauguración?
+0008 [Serious Guard Knight] | Andas muy desinformado. La gran inspectora Matilda reconstruyó todo desde cero. La empresa renació, así que las tiendas también.
+0009 [Curious Trekker] | La gran inspectora Matilda... Me suena.
+0010 [Serious Guard Knight] | Es la ejecutiva que sale en todas las noticias últimamente. Una rubia joven y hermosa con un aire muy maternal.
+0011 [Curious Trekker] | ¿Joven y maternal? ¿Eso siquiera combina?
+0012 [Serious Guard Knight] | Ve a verlo tú mismo. Tienen su foto justo adentro.
+0013 [Nazuka] | El negocio va viento en popa, Jefe. Una fila hasta la puerta desde el primer día. Parece que la gente está acogiendo a la nueva Cosecha Unida.
+0014 [Tú] | Todo gracias a Matilda, Firenze, Nyx...==W== y a todos en Cosecha Unida Philae.
+0015 [Narración] | ==A-1==Hace un año y medio, la guerra interna diezmó las fuerzas de la gran inspectora Matilda. Consiguió el Sello de la Gracia, pero apenas le quedaban dos mil soldados.==P== ==A-1==Frente a ella están los remanentes de Nueva Orelia. Comandan dos legiones completas: diez veces su fuerza. Mientras tanto, las demás sucursales están completamente divididas.
+0016 [Narración] | ==A-1==La facción de Nueva Orelia planea marchar hacia el sur en primavera. Su objetivo es sabotear la temporada de siembra, agravar la crisis alimentaria de Nova y sacar provecho del grano que acapararon.==P== ==A-1==Para salvar a Nova de la hambruna, Matilda tiene la intención de marchar personalmente al norte y derrotar, o al menos frenar, a esas dos legiones.
+0017 [Narración] | Después de que Firenze y yo acordamos una estrategia para ir a lo seguro y esperar el momento oportuno, me siento con la gran inspectora Matilda para tener una larga charla.
+0018 [Tú] | Lady Matilda, no puedo apoyar este plan.
+0019 [Tú] | Quizá piense que una misión suicida es heroica. Que lavará su culpa por su abuelo...==W== Por Samuel.
+0020 [Tú] | Pero, desde mi punto de vista, tirar su vida en una apuesta imprudente no es la respuesta.
+0021 [Matilda] | Ahora mismo, no tengo opciones.
+0022 [Matilda] | Dos mil soldados no pueden contener a dos legiones enteras. Un ataque preventivo es la única forma de salvar la cosecha de primavera y evitar que nuestra gente muera de hambre.
+0023 [Matilda] | Si quiere ayudar, présteme sus tropas. Use mi ataque como distracción para convencer a las demás sucursales de que reanuden la siembra. Necesitamos ese grano.
+0024 [Tú] | No, sí tiene opción. Deje que Firenze y yo comandemos a esos soldados.
+0025 [Matilda] | Cambiar de comandantes no arreglará esto. Ninguna estrategia sobrevive a una diferencia numérica tan grande.
+0026 [Tú] | La mía sí. Si los soldados hacen un pacto de almas conmigo, mi autoridad les permitirá llevar las bendiciones del Monolito fuera del Monolito.
+0027 [Tú] | Usted sabe lo que pueden hacer esas bendiciones. Solo puedo hacer que duren fuera del Monolito un solo día. Pero si basamos nuestras defensas alrededor de los Monolitos de la ciudad...
+0028 [Tú] | Podemos rotar las tropas entre escalar el Monolito y mantener la línea. Así es como protegeremos la cosecha.
+0029 [Matilda] | ¿Posee una autoridad así? Jefe... Está lleno de sorpresas.
+0030 [Tú] | Además, no protegeremos a todos. Daremos prioridad a las sucursales que siguen siendo fieles a los ideales de Samuel. En cuanto a los indecisos... Démosles tiempo para elegir.
+0031 [Matilda] | Ahora mismo hay cinco sucursales que se inclinan de nuestro lado. Si mantenemos la línea por ellas, Philae, la Selva Frondosa y esas cinco pueden juntar suficiente grano para librar a Nova de una hambruna.
+0032 [Matilda] | Pero...
+0033 [Firenze] | Gran inspectora, por favor. Ninguno de los dos quiere que corra este riesgo.
+0034 [Firenze] | No quiero sonar pesimista, pero si algo le pasa allá afuera, la recién nacida Cosecha Unida pierde su símbolo. Toda la empresa se vendrá abajo.
+0035 [Matilda] | ...==W== Está bien. Ustedes ganan. Pero tengo una condición.
+0036 [Tú] | Adelante, por favor.
+0037 [Matilda] | Le dejo las tropas a usted, Jefe. Pero necesita encontrarme un nuevo papel. Me niego a quedarme sentada en la retaguardia.
+0038 [Tú] | Firenze y yo ya lo planeamos. Queremos convertirla en el verdadero rostro de la nueva Cosecha Unida.
+0039 [Matilda] | Entendido. ¿Necesitan que recorra las sucursales? ¿Que visite al personal? ¿O que asista a banquetes para conseguir apoyo externo?
+0040 [Firenze] | Eso es importante, pero no es la prioridad.
+0041 [Firenze] | La guerra civil dejó a nuestros empleados y clientes traumatizados con recuerdos terribles. Necesitamos una figura amable, alguien que sane esas heridas.
+0042 [Matilda] | Tiene sentido. Puedo empezar a buscar candidatos de inmediato...==W== Un momento. ¿Por qué me miran así?
+0043 [Tú] | Firenze y yo coincidimos en que usted es la persona perfecta para el trabajo.
+0044 [Matilda] | ¡¿E-es una broma?! ¡¿Saben a cuánta gente he sentenciado?! ¡¿Cuántas órdenes de destierro he firmado?!
+0045 [Firenze] | No se preocupe, gran inspectora Matilda. Esa mirada severa suya solo hace que la gente aprecie más su calidez.
+0046 [Nazuka] | Cierta persona tampoco tiene por qué cederle todo el mérito a los demás.
+0047 [Nazuka] | Esos productos tan populares con la cara de la gran inspectora Matilda fueron idea de esa persona, ¿no?
+0048 [Nazuka] | Pero bueno, la idea de esa persona funcionó. Nunca movimos un dedo contra Nueva Orelia, pero dicen que ya se están destrozando entre ellos.
+0049 [Tú] | La gente prefiere la paz al derramamiento de sangre.
+0050 [Tú] | Además, le devolví mis acciones a Matilda y renuncié a todos mis cargos. Les dejo el resto a ellas.
+0051 [Nazuka] | Retirarte mientras vas ganando está bien, pero...==W== Jefe, la victoria total está ahí mismo. ¿Vas a darle la espalda a los aplausos?
+0052 [Tú] | Los aplausos son agradables, claro. Pero prefiero responder...==W== a una vieja invitación de cierta persona.
+0053 [Tú] | Nazuka, ¿quieres escalar el Monolito conmigo?
+0054 [Nazuka] | Oye, por favor...==W== Esa invitación fue hace siglos. ¿No te parece un poco barato aceptarla ahora?
+0055 [Tú] | Ejem... Entonces, ¿sí vamos?
+0056 [Nazuka] | ¡Claro que vamos!
+0057 [Bastelina] | Aquí tienes, Jefe. Tu solicitud para la Tienda de Almas fue aprobada.
+0058 [Bastelina] | ¿Vas a construir un campamento junto a ese Monolito desolado y además ponerle una Tienda de Almas? Eso va a costar una fortuna.
+0059 [Tú] | Sí. Ese Monolito está en lo profundo de un bosque primigenio. Un campamento les da a los Trekkers una base y facilita escalar esos Monolitos.
+0060 [Bastelina] | Una Tienda de Almas para recargar...==W== Aun así, un campamento allá tardará años.
+0061 [Tú] | No importa. Se lo prometí a alguien. Cuando no haya nadie más alrededor, exploraremos juntos esos Monolitos.
+0062 [Tú] | No mucha gente los escala, así que casi no sabemos nada de ellos. Prepararemos guías detalladas para que otros puedan venir a pedir deseos.
+0063 [Bastelina] | Eres demasiado amable, Jefe. Casi me dan ganas de pedir mi traslado y encargarme yo misma de esa Tienda de Almas.
+0064 [Tú] | Jaja, eres bienvenida cuando quieras.==W== Mejor me voy... Oye, ¿qué es eso?
+0065 [Narración] | Sobre el escritorio de Bastelina hay una caja transparente que me resulta familiar.
+0066 [Bastelina] | ¿Ah, esto?==W== Es el Artefacto que deseaste cuando pujaste por el Monolito de Philae.
+0067 [Bastelina] | Nuestra directora está obsesionada. Siempre se queda mirándolo, murmurando «el mundo está a salvo» y «el Jefe no es el Tirano». Hasta hizo un muñequito de ti para ponerlo adentro.
+0068 [Bastelina] | Pero su salud ha ido empeorando desde el año pasado...==W== Mira la caja con cara de culpa, como si hubiera hecho algo malo. Le hemos preguntado, pero no dice ni una palabra.
+0069 [Bastelina] | Para que no empeore, le quitamos la caja. Por ahora la tengo yo.
+0070 [Tú] | El Jefe no es el Tirano...==W== Espera... Una caja transparente...
+0071 [Tú] | Bueno... Espero que la directora se mejore pronto.==W== Cuídate, Bastelina.
+0072 [Bastelina] | ¡Nos vemos, Jefe!
+0073 [Nazuka] | Ya llegamos, Jefe.
+0074 [Tú] | Qué vuelo tan largo. Gracias por traerme, Nazuka. ¿Qué tan lejos estamos de Philae?
+0075 [Nazuka] | Unos quinientos kilómetros en línea recta. El doble si tomas el sinuoso camino del bosque.
+0076 [Tú] | Estamos en medio de la nada. Va a ser una pesadilla para los demás Trekkers llegar hasta aquí.
+0077 [Nazuka] | Tú eres quien quiere este lugar, Jefe. Si te parece demasiado remoto, siempre podemos buscar un Monolito más cerca.
+0078 [Tú] | No, no, no me estoy quejando. El aislamiento es justo la idea: sin interrupciones. Además, puedo escalar el Monolito contigo todos los días.
+0079 [Nazuka] | ¡No digas tonterías! No podemos solo escalar el Monolito y ya. Construir un campamento desde cero... Aun con la ayuda de Petal Bloom, son años de trabajo.
+0080 [Tú] | Perdón. Solo te estaba tomando el pelo.
+0081 [Tú] | Pero, sinceramente... Me gusta la idea de que construyamos tranquilamente un campamento de Trekkers aquí, a kilómetros de la ciudad.
+0082 [Tú] | Allá en la ciudad, incluso mientras ayudaba a Firenze y a Matilda a reconstruir Cosecha Unida...==W== cuando la noche se queda en silencio, me siento asfixiado, como si estuviera atrapado.
+0083 [Nazuka] | ¿Estrés por el trabajo?
+0084 [Tú] | No del todo. No podía ponerlo en palabras hasta que vi ese Artefacto en el escritorio de Bastelina:==W== la caja transparente que deseamos durante la subasta. Ahí fue cuando todo encajó.
+0085 [Tú] | Pedir ese préstamo a Finanzas del Mar Profundo me encierra en una jaula de reglas invisibles.
+0086 [Tú] | Claro, conseguimos los Dorra, salvamos a Cosecha Unida y a Philae, y evitamos una hambruna. Pero mientras existan los Sellos de la Gracia, mientras estas empresas tengan poder absoluto...
+0087 [Tú] | Es solo cuestión de tiempo para que vuelva a pasar. No podemos garantizar que todos los directores ejecutivos resulten como Matilda o Firenze.
+0088 [Tú] | Y lo que crea esa caja es el propio Monolito.==W== Quien controla los deseos, controla la ciudad.
+0089 [Nazuka] | Eso explica el campamento en medio de la nada. Quieres darles a todos la oportunidad de llegar a los Monolitos.
+0090 [Tú] | Sí. Y necesitamos estudiarlos. Si descubrimos cómo funcionan los Monolitos y los Artefactos, quizá algún día por fin rompamos esa caja transparente para siempre.
+0091 [Nazuka] | Una tormenta llena el valle; un pez, el río.
+0092 [Tú] | ¿Mmm?
+0093 [Nazuka] | Olvídalo. De repente me siento feliz. Me recuerda a un poema de un Monolito.
+0094 [Nazuka] | El punto es que entiendo tu objetivo, Jefe. Tú hiciste realidad mis sueños, así que me toca hacer lo mismo por ti.
+0095 [Nazuka] | ¿Empezamos a escalar? A juzgar por este elevador, ningún Trekker ha puesto un pie aquí desde hace siglos.
+0096 [Tú] | Espera, ¿no estás agotada por el vuelo? ¿Y no deberías cambiarte? Esa ropa no parece precisamente equipo de escalada.
+0097 [Nazuka] | ¡Estoy bien! Pasar noches en vela como tu secretaria era la rutina de siempre. Un vuelo rápido como este no es nada.
+0098 [Nazuka] | En cuanto a la ropa... Siento que en cuanto me la quite, volveré a ser una Trekker común y corriente. Déjame disfrutarlo un último día: la sensación de tenerte solo para mí como tu secretaria.
+0099 [Tú] | ¿«Solo para mí»? Eso es un poco dramático...
+0100 [Tú] | ¿Q-qué está pasando?
+0101 [Nazuka] | ¡Jefe, toma mi mano!
+0102 [Tú] | ¿Esto es... un terremoto?
+0103 [Nazuka] | No, no es un terremoto.==W== ¡El Monolito se está hundiendo!
+0104 [Nazuka] | Jefe, nos está arrastrando con él...==W== Lo siento. Puede que no logremos volver.
+0105 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0106 [Tú] | Virigia, Bernina, Vita... ¿Qué está pasando?
+0107 [Tú] | ¿El Monolito se hundió? ¿Cómo es eso posible? Nazuka puede volar. ¿Cómo es que también la arrastró?
+0108 [Virigia] | Lo siento... Tirano. Los Monolitos no son eternos.
+0109 [Bernina] | No es solo que el Monolito se hunda. La tierra a su alrededor también se hunde con él.
+0110 [Vita] | Tirano, un Monolito que se hunde crea una violenta turbulencia de maná. Aunque Lady Nazuka resistiera la perturbación, escapar de esa corriente descendente sería casi imposible.
+0111 [Tú] | Entonces, ¿por qué se hunden, para empezar?
+0112 [Vita] | Tirano, mi nivel de acceso no es suficiente para realizar un análisis adecuado.
+0113 [Bernina] | Lo siento, pero como personal del Monolito, no se nos permite revelar nada.
+0114 [Tú] | ¿Al menos pueden decirme si otros Monolitos también se han hundido?
+0115 [Bernina] | No. Por lo menos el Monolito de Philae está bien.
+0116 [Bernina] | Tus amigas de Petal Bloom pasan su tiempo libre junto a la ventana, esperando a que regreses.
+0117 [Tú] | Regresaré... Esta vez debo volver a un pasado todavía más lejano.
+0118 [Tú] | Vita, abre la puerta. Voy a regresar.
+0119 [Vita] | Tu orden es mi voluntad.
+0120 [Bernina] | Tirano...==W== Puede que los Monolitos sean más complejos de lo que crees.
+0121 [Virigia] | Basta, Bernina. No podemos revelar más.
+0122 [Firenze] | ¿«No busca monopolizar»? ¿Qué pretende Mercurio con esto...?
+0123 [Firenze] | ¿Qué opinas, Jefe?
+0124 [Tú] | Quizá pedir un préstamo a Finanzas del Mar Profundo sea el primer paso para entrar en la caja transparente. Debería buscar otro camino.

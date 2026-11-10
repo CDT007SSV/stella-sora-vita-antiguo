@@ -1,0 +1,160 @@
+# Capítulo 6 · Milagro de un destello · 8 · Firenze
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_110 | Firenze
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg2_958 | Hierbajo Peleador
+N:avg2_962 | Empleado envenenado de Cosecha Unida
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_1272 | Empleado envenenado de Cosecha Unida
+N:avg3_134 | Mina
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Firenze
+0003 [Intro] | Sale a la luz la verdad: Darcia le tendió una trampa al padre de Firenze. Para derribarla, Firenze y Nyx formaron hace mucho una alianza secreta. Ahora, Firenze te entrega su alma a cambio de un deseo: «Cambiar Cosecha Unida».
+0004 [Lugar y hora] | 19:00, 5.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0005 [Firenze] | Entonces, Jefe, a partir de este momento somos aliados contra Darcia.
+0006 [Tú] | Pero tú eres la que queda en la línea de fuego. Enfrentarte tú sola a Darcia y a sus guardias, las Plantas Inteligentes.
+0007 [Firenze] | Lo admito, es arriesgado. Pero mi objetivo no es la victoria, sino ser el «peón de sacrificio».==W== Si los entretengo lo suficiente para que usted consiga la pieza de ajedrez, le daremos la vuelta a la situación.
+0008 [Firenze] | Y no se confíe.==W== La magia del Fluido Psíquico está muy por encima de los hechizos comunes. Puede que su constitución única no lo salve esta vez.
+0009 [Nyx] | ...
+0010 [Firenze] | Mírate, inconsciente en ese tanque sin una sola preocupación en el mundo. ¿Siquiera entiendes lo grave de tu situación?
+0011 [Firenze] | Con la vida en juego, y tienes exactamente la misma cara de dormida que tenías en la escuela... De verdad me saca de quicio.
+0012 [Tú] | Ja. Considerando que ahora mismo es un «nutriente», una cara tranquila es mejor que una de dolor. Espera...==W== ¿La escuela? ¿Ustedes dos eran compañeras de clase?
+0013 [Firenze] | En la Academia de Philae, sí.==W== ¿Puede creerlo, Jefe? Conozco a esta mujer desde hace diez años.
+0014 [Firenze] | Cuando nos conocimos, la sola idea de respirar el mismo aire que ella me daba asco.
+0015 [Firenze] | Nuestra prestigiosa escuela es famosa por lo difícil que es entrar,==W== y aun así ella era la única que iba a la deriva y se dormía en clase.
+0016 [Firenze] | Una noche salí a comprar pan y me la encontré en una tienda de Cosecha Unida. Fue entonces cuando lo descubrí...
+0017 [Firenze] | Era una aprendiz del Distrito de las Cenizas de otra ciudad. La empresa le pagaba la colegiatura, pero a cambio la obligaba a entrar al Departamento de Cumplimiento al graduarse:==W== sueldo bajo y todos te desprecian.
+0018 [Firenze] | El costo de vida en el Distrito de Oro era abusivo. Como la empresa solo cubría la colegiatura, tenía que trabajar de noche para sobrevivir. Con razón estaba agotada en clase.
+0019 [Firenze] | Después de eso, empezó a copiar mis apuntes, a fastidiarme con preguntas sobre las clases, e incluso a gorronearme comidas en mi casa. Era una verdadera molestia.
+0020 [Firenze] | Pero en aquel entonces...==W== Bueno, yo vivía absorta en mi propio mundo, obsesionada con convertirme en investigadora. Evitaba socializar.
+0021 [Firenze] | Nyx era la única que todavía se me acercaba con naturalidad. Así que, con el tiempo... Bueno, mi opinión de ella cambió.
+0022 [Tú] | ¿Le tomaste cariño?
+0023 [Firenze] | Porque...==W== en el fondo era una idealista. Siempre parloteaba sobre mejorar Cosecha Unida: dejar que el personal saliera temprano, hacer comida más sabrosa, ese tipo de cosas.
+0024 [Firenze] | Recuerdo haber pensado que encajaba más en Investigación y Desarrollo o en Operaciones que en Cumplimiento.
+0025 [Firenze] | Pero ella insistía en que entrar al Departamento de Cumplimiento era una política obligatoria de la empresa. Me parecía tan injusto. Ella debía ser de las que reescriben las reglas, no de las que las siguen a ciegas. Me frustró tanto que terminamos peleando...
+0026 [Firenze] | Al final, le di un ultimátum: si ella no podía cambiar Cosecha Unida, lo haría yo...==W== con la condición de que me apoyara con todo lo que tuviera.
+0027 [Firenze] | Al graduarnos de la Academia de Philae,==W== yo me fui a Luz de Gracia a hacer estudios avanzados==W== y ella se fue directo a la sede.
+0028 [Firenze] | Nuestros caminos se separaron, pero mi fe no. De verdad creía que a las dos nos esperaba un futuro brillante.==W== Hasta que...
+0029 [Nyx] | Su Señoría, el director Giotto de Feltro es culpable de malversación y de violación de secretos comerciales.
+0030 [Nyx] | En nombre del Departamento de Cumplimiento, presento formalmente estos cargos. Solicitamos un fallo inmediato.
+0031 [Firenze] | ¿Quién lo hubiera imaginado? La «fiesta de cumpleaños» a la que me invitó era en realidad un juicio. Y el hombre al que juzgaban... era mi propio padre.
+0032 [Firenze] | Mi padre se declaró culpable, pero yo sabía que era inocente.==W== Estaba completamente entregado a su Hierba Radiante Mandrágora. Casi ni me hablaba de ella, mucho menos le iba a revelar secretos a una bruja.
+0033 [Darcia] | Soy Darcia, ejecutora de la sucursal de Philae de Cosecha Unida. Quédate a mi lado y te concederé el poder para aplastar a Nyx.
+0034 [Firenze] | Acepté la oferta de Darcia, suspendí mis estudios en Luz de Gracia, regresé a Philae y entré a Cosecha Unida.
+0035 [Firenze] | Claro que le guardaba rencor a Nyx, pero más que nada estaba confundida.
+0036 [Firenze] | Tenía que averiguar qué estaba pasando en realidad dentro de la empresa.
+0037 [Firenze] | Las cosas avanzaron rápido. En la víspera del Festival Nevado, Darcia me llevó a un banquete de la empresa y llegué tarde a casa.
+0038 [Firenze] | Y ahí estaba ella. Tirada contra mi puerta, completamente inconsciente, aferrada a una enorme pila de expedientes.
+0039 [Firenze] | Cuando despertó, por fin supe la verdad. El juicio de mi padre fue su primerísimo caso, y sus superiores le encajaron los expedientes el día anterior... No tuvo más remedio que seguir el guion.
+0040 [Firenze] | Durante el juicio encontró huecos en las pruebas, pero mi padre se declaró culpable de inmediato,==W== supongo que para protegerme, y eso le quitó cualquier oportunidad de objetar.
+0041 [Firenze] | Ella también estaba desesperada por saber la verdad y empezó a investigar el caso por su cuenta. Esa pila de documentos a la que se aferraba era su prueba.==W== Y quien movía los hilos... era Darcia.
+0042 [Tú] | ¿Darcia le tendió una trampa a tu padre?
+0043 [Firenze] | Sí. Mi padre se negaba a convertir la Hierba Radiante Mandrágora en un arma.==W== Y sin duda no estaría de acuerdo con este método de «transferencia de inteligencia».
+0044 [Firenze] | Darcia lo veía como una amenaza. Usó sus contactos en la sede para incriminarlo. Poner a Nyx como fiscal también fue idea suya.
+0045 [Firenze] | Ahora que todo salió a la luz, ya no tengo ninguna duda.==W== Esa noche enterré mi odio hacia Nyx, cuando renovamos nuestro juramento.
+0046 [Narración] | Año 992 del Calendario Monolítico, 30.º del mes de Gelu
+0047 [???] | ¿Lista?
+0048 [???] | Todo listo. Solo tenemos que montar un pleito en la víspera del Festival Nevado, ¿verdad?
+0049 [???] | Sí. Tiene que verlo toda la empresa. Es la única forma de demostrar de qué lado está mi lealtad.
+0050 [???] | Con una sola pelea no va a ser creíble. Probablemente tendrás que hacerme bullying unas cuantas veces más adelante.
+0051 [???] | Intentaré no ser tan dura contigo.
+0052 [???] | No. Que valga la pena. Sé despiadada. Actúa como si de verdad me odiaras.
+0053 [???] | Está bien. Nada más no llores después.
+0054 [???] | Por cierto... ¿Heartlink va a ser nuestra única forma de comunicarnos?
+0055 [???] | Sí. No podemos arriesgarnos a hablar en persona. Ni siquiera voy a poder mirarte a los ojos.
+0056 [???] | Pero algún día volveremos a hablar como se debe. Salud, señorita Sherlock pueblerina, por la última soda de limón que me invitaste.
+0057 [???] | Salud, señorita Anónima.
+0058 [Tú] | ¿Para limpiar el nombre de tu padre? ¿Para que Darcia pague?
+0059 [Firenze] | No, para nada. La venganza solo provocaría más odio...==W== Para romper de verdad el ciclo, hay que cortarlo de raíz.
+0060 [Firenze] | Así que decidimos cumplir la promesa que nos hicimos hace tantos años...
+0061 [Firenze] | Si ella no podía cambiar Cosecha Unida, lo haría yo... con la condición de que me apoyara con todo lo que tuviera.
+0062 [Firenze] | Para lograrlo, decidí enterrar el pasado. Estamos empezando desde cero para reconstruir nuestro vínculo.
+0063 [Firenze] | Oye, ¿escuchaste, Nyx? Mírate, durmiendo tan tranquila... Más te vale estar lista para trabajar cuando despiertes.
+0064 [Nyx] | ...
+0065 [Tú] | Pero cambiar una empresa entera... No puede ser fácil.
+0066 [Firenze] | Tiene razón. Pero que sea difícil no significa que nos echemos para atrás... No me voy a rendir.
+0067 [Tú] | ¿Por qué llegar tan lejos? ¿Qué ganas tú en realidad con cambiar la empresa?
+0068 [Firenze] | ¿Qué gano yo...? Quizá algo.==W== Pero desde mis días en la Academia, la empresa no ha cambiado ni un poco. Siguen tratando a las personas como si fueran desechables.
+0069 [Firenze] | Como nada cambia, cada año explotan a más y más trabajadores.==W== Incluso a los clientes que confían en nosotros los exprimen hasta dejarlos secos.
+0070 [Firenze] | Hemos llegado al punto en que hasta esos Ruiseñores Dorados de los que usted habla están apareciendo en el mercado.
+0071 [Firenze] | Dígame, Jefe...==W== Subir a la cima pisoteando la miseria de otros, solo para que unos cuantos elegidos disfruten de la vida... ¿cree que eso está bien?
+0072 [Tú] | Yo...
+0073 [Mina] | Después de que se fueron, les recortaron muchísimo el sueldo. Yo todavía estaba en la escuela... Caímos en tiempos difíciles casi de la noche a la mañana.
+0074 [Mina] | Pero ese inspector de cumplimiento anónimo nos salvó: citó un reglamento sobre el bienestar de los empleados y consiguió que la empresa nos diera un subsidio.
+0075 [Mistique] | Buscar la verdad, difundir la verdad. Ese es el código por el que vivimos las brujas. Y, la verdad, ese es justo el papel que la sociedad espera que cumplamos.
+0076 [Mistique] | Así que...==W== si de verdad quieres proteger algo, la decisión es tuya. ¿Entierras la verdad a cambio de paz?==W== ¿O la enfrentas de frente, aunque eso signifique lastimar a otros?
+0077 [Firenze] | ¿Quién lo hubiera imaginado? La «fiesta de cumpleaños» a la que me invitó era en realidad un juicio. Y el hombre al que juzgaban... era mi propio padre.
+0078 [Firenze] | Sí. Mi padre se negaba a convertir la Hierba Radiante Mandrágora en un arma.==W== Y sin duda no estaría de acuerdo con este método de «transferencia de inteligencia».
+0079 [Firenze] | Darcia lo veía como una amenaza. Usó sus contactos en la sede para incriminarlo. Poner a Nyx como fiscal también fue idea suya.
+0080 [Opción] | Jugar así con la vida de las personas…
+0081 [Opción] | ¡¿Cómo podría estar bien eso?!
+0082 [Firenze] | Je... Es justo quien pensé que era. Y por eso esta empresa tiene que cambiar.
+0083 [Firenze] | Además (y esta es solo mi filosofía), quienes tienen poder tienen un deber. El poder debe usarse para servir a la gente y a la sociedad.
+0084 [Firenze] | Cuando la gente vive satisfecha, la presión disminuye y la paciencia crece. A partir de ahí, la bondad se va contagiando de una persona a otra.
+0085 [Tú] | Un ciclo de felicidad, ¿eh? No va a ser un camino nada fácil.
+0086 [Firenze] | ¿De qué habla? Jefe, ¿no es eso exactamente lo que ha estado haciendo todo este tiempo?
+0087 [Firenze] | De Emor a Philae,==W== del Stellaroid del canal a los Tres Grandes de las Tierras Salvajes... ¿No ha luchado siempre por la felicidad de los demás==W== sin pedir nada a cambio?
+0088 [Firenze] | Sin duda no es un camino fácil, pero es el que usted eligió recorrer.
+0089 [Tú] | No soy tan noble. Solo da la casualidad de que tengo estas piezas...
+0090 [Tú] | ...los Sellos de la Gracia. Ya que de algún modo un poder así cayó en mis manos, tengo que asumir la responsabilidad.
+0091 [Firenze] | Habla como un verdadero soberano... Casi me dan ganas de llamarlo «Su Majestad». Pero me quedaré con «Jefe». Suena menos anticuado.
+0092 [Tú] | Llámame como quieras. Soy quien soy. Un título es solo una etiqueta.
+0093 [Firenze] | En ese caso, Jefe... Haga un pacto de almas conmigo y ya.
+0094 [Tú] | Oye, espera. Creí que habíamos quedado en...
+0095 [Firenze] | No es por la misma razón que antes. Usted mismo lo dijo, Jefe: el camino que elegimos no es fácil.
+0096 [Firenze] | Entonces, ¿cómo garantizamos que ninguno de los dos se desvíe? Creo que la única forma es unir nuestras almas.
+0097 [Firenze] | Si usted pierde el rumbo, puedo usar mi deseo para traerlo de vuelta. Y si yo lo traiciono... Bueno, usted tiene mi alma.
+0098 [Tú] | Así que eso es lo que buscas.==W== Está bien, pero tengo que preguntarte una última cosa: ¿de verdad estás dispuesta a cambiar tu alma por la felicidad de los demás?
+0099 [Firenze] | Sí. ¿Por qué no?==W== Un alma a cambio de cumplir mi deseo... ¿No le parece una ganga?
+0100 [Firenze] | Sin sacrificio y sin riesgo no se gana nada. Y usted... Usted es una inversión por la que vale la pena apostar mi alma.
+0101 [Tú] | Antes de estar seguro de eso, quizá nunca llegue a cumplir esta primera misión que me pides.
+0102 [Tú] | Sin riesgo no se gana nada...
+0103 [Tú] | Tal vez lo estaba pensando demasiado. Pero ya no hay vuelta atrás. ¡No puedo quedarme aquí parado y dejar que Firenze y los demás se enfrenten solos a esas Plantas Inteligentes!
+0104 [Tú] | Muy bien, Firenze. Dime tu deseo.
+0105 [Firenze] | Jefe, este es mi deseo.
+0106 [Firenze] | Únase a mí. Cambiemos Cosecha Unida juntos.
+0107 [Opción] | Acepto tu deseo.
+0108 [Firenze] | Y cuando ese deseo se cumpla...
+0109 [Firenze] | Mi alma será suya.
+0110 [Firenze] | ¿Eso es todo?==W== Para un pacto de almas, esperaba algo un poco más...
+0111 [Tú] | Es el procedimiento estándar. Por ahora guardo tu alma en custodia. Una vez que se cumpla el deseo, será mía para siempre.
+0112 [Firenze] | Entendido. Un trato justo. Y en el momento perfecto. Darcia debe estar por llegar.
+0113 [Tú] | ¿Por qué estás tan segura?
+0114 [Firenze] | Las Plantas Inteligentes le habrán avisado a Darcia en cuanto pusimos un pie en el laboratorio.
+0115 [Firenze] | Francamente, ya debería haberse aparecido hace rato... Por suerte, otro «peón» voluntario nos ganó tiempo. Sin duda se esforzó mucho para entretenerla tanto.
+0116 [Tú] | ¿Otro...==W== peón voluntario?
+0117 [Mina] | Saludos, ==SEX12== Tirano. Nos volvemos a ver.
+0118 [Tú] | ¿M-Mina?
+0119 [Darcia] | Su Majestad, Mina se me acercó con el deseo de unirse a sus filas. No me atreví a decidir por mi cuenta, así que la traje ante usted.
+0120 [Mina] | Oí a Lady Darcia hablar del...==W== futuro que usted desea construir, ==SEX12== Tirano. Me di cuenta de que es justo mi sueño.
+0121 [Tú] | Mina, tú no podrías mentir ni aunque tu vida dependiera de ello. Aunque... yo estoy a punto de hacer lo mismo.
+0122 [Tú] | Muy bien. Entonces servirás a mi lado, junto con Darcia.
+0123 [Darcia] | ¿Conmigo?==W== Su Majestad, ¿eso significa... que acepta mi lealtad?
+0124 [Tú] | A decir verdad, nunca tuve la intención de rechazarte. Todo lo anterior fue solo una prueba de tus capacidades.
+0125 [Tú] | Y no me decepcionaste.
+0126 [Darcia] | ¡G-gracias, Su Majestad! E-estoy muy conmovida.
+0127 [Tú] | Basta de formalidades. ¿Cuál es la situación afuera de la ciudad? Vi humo elevándose al este cerca del mediodía.
+0128 [Darcia] | Su Majestad, la fuerza principal de Cosecha Unida llegó a las murallas. Pero no se preocupe. Mañana desplegaré a las Plantas Inteligentes de 3.ª generación para aplastarlos.
+0129 [Tú] | Me gustaría tomar el mando en persona. ¿Está bien?
+0130 [Darcia] | Por supuesto, Su Majestad.
+0131 [Tú] | Déjenme solo. Necesito tiempo para planear lo de mañana.
+0132 [Darcia] | Como ordene, Su Majestad, pero...==W== ¿Por qué está Firenze aquí?
+0133 [Tú] | ¿No le pediste que me cuidara? Solo le pedí que me escoltara hasta aquí. ¿Hay algún problema?
+0134 [Darcia] | No... No me refería a eso. Solo le pido que de ahora en adelante, Su Majestad siempre tenga cerca a las Plantas Inteligentes.==W== Firenze, no tienes objeciones, ¿verdad?
+0135 [Firenze] | Entendido. Ninguna objeción.
+0136 [Tú] | Las Plantas Inteligentes me vigilan otra vez. Va a ser más difícil actuar...==W== Menos mal que me alié con Firenze a tiempo. Un pequeño alivio en una mala situación.
+0137 [Vita] | ==SEX12== Tirano, disculpe la interrupción, pero tengo un informe urgente.
+0138 [Vita] | Su primera misión, reunir diez almas, está completa. Su nivel de autorización en el Sistema de Desarrollo de Tiranos del Pozo de los Mundos subió, lo que le otorga una nueva autoridad. Por favor, revísela.
+0139 [Tú] | ¿Una nueva autoridad?==W== A ver... Ni siquiera sabía que existía.
+0140 [Tú] | Si la uso bien, quizá...==W== podamos derrotar a Darcia sin sacrificar a nadie.

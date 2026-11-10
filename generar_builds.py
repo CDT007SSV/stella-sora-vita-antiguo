@@ -13,7 +13,7 @@ _img_count = [0]
 
 
 # ---- Reducir el peso de las imagenes (el despliegue de GitHub Pages se volvia muy lento con ~75 MB) ----
-MAX_LADO = 1280
+MAX_LADO = 1600
 def _pillow():
     try:
         from PIL import Image
@@ -29,23 +29,31 @@ def _pillow():
             return None
 
 def reducir(ruta, Image=None):
-    """Reduce una imagen EN SU LUGAR (mismo nombre y formato). Solo la reemplaza si queda mas liviana."""
+    """Reduce una imagen EN SU LUGAR (mismo nombre). Sin transparencia real -> JPEG; con transparencia -> PNG de 256 colores.
+    El navegador reconoce el formato por el contenido, asi que el nombre no cambia. Solo reemplaza si queda mas liviana."""
     Image = Image or _pillow()
     if not Image or not os.path.exists(ruta): return 0
     antes = os.path.getsize(ruta)
     ext = ruta.rsplit(".", 1)[-1].lower()
-    if ext not in ("jpg", "jpeg", "png") or antes < 350 * 1024: return 0
+    if ext not in ("jpg", "jpeg", "png", "webp") or antes < 150 * 1024: return 0
     try:
         im = Image.open(ruta); im.load()
         im.thumbnail((MAX_LADO, MAX_LADO))
         tmp = ruta + ".tmp"
-        if ext in ("jpg", "jpeg"):
-            im.convert("RGB").save(tmp, "JPEG", quality=78, optimize=True, progressive=True)
-        else:
+        alfa = False
+        if im.mode in ("RGBA", "LA", "P"):
+            rgba = im.convert("RGBA")
+            h = rgba.getchannel("A").histogram()
+            alfa = sum(h[:128]) > 0.01 * rgba.width * rgba.height   # transparencia real (mas del 1 % de la imagen)
+            if not alfa:
+                fondo = Image.new("RGB", rgba.size, (18, 16, 28)); fondo.paste(rgba, mask=rgba.getchannel("A")); rgba = fondo
+            im = rgba
+        if alfa:
             im.save(tmp, "PNG", optimize=True)
-            if os.path.getsize(tmp) > 500 * 1024:
-                q = (im.convert("RGBA") if im.mode != "RGBA" else im).quantize(256, method=Image.FASTOCTREE)
-                q.save(tmp, "PNG", optimize=True)
+            if os.path.getsize(tmp) > 700 * 1024:
+                im.quantize(256, method=Image.FASTOCTREE).save(tmp, "PNG", optimize=True)
+        else:
+            im.convert("RGB").save(tmp, "JPEG", quality=80, optimize=True, progressive=True)
         if os.path.getsize(tmp) < antes:
             os.replace(tmp, ruta)
             return antes - os.path.getsize(ruta)

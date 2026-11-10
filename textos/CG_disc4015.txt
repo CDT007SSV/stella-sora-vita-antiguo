@@ -1,0 +1,124 @@
+# Recuerdo de disco · Deer's Song · 1 · Deer's Song
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Forest Ranger | Guardabosques
+N:Monster | Monstruo
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_109 | Abuelo Chai
+N:avg3_132 | Kaede
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Canto del ciervo
+0003 [Intro] | Un encuentro fortuito, una grata sorpresa; esta cabaña en el bosque les pertenece a los dos, rodeada por el eco del llamado de los ciervos.
+0004 [Narración] | Estoy en los bosques de Philae, sin compañía, tras aceptar un encargo de recolección de hierbas.
+0005 [Tú] | Algo no cuadra.
+0006 [Tú] | Hay un silencio inquietante... ¿y qué son esas marcas en los árboles?
+0007 [Tú] | No pueden ser de un monstruo, ¿verdad? Vine sin compañía porque me dijeron que era seguro. Si de verdad aparece uno, mi única opción sería correr.
+0008 [Tú] | Pero el encargo no advertía nada parecido...
+0009 [Tú] | Quizá sea solo la corteza que se desprende. No tiene caso asustarse por nada.
+0010 [Tú] | Eso. Mejor terminar de una vez y volver.
+0011 [Forest Ranger] | ¡Oye! ¡Tú, el de allá!
+0012 [Tú] | ¿Quién anda ahí?
+0013 [Tú] | Suena agitado. ¿No habré hecho algo para que me regañen?==W== Un momento, ¿estoy siquiera en el lugar correcto?
+0014 [Forest Ranger] | Eres Trekker, ¿verdad?
+0015 [Tú] | Así es. Con un encargo de la Asociación de Trekkers.
+0016 [Forest Ranger] | ¡Gracias a las estrellas! ¡No pudiste llegar en mejor momento!
+0017 [Tú] | Bien, no está enojado. Aun así, solo vengo por unas hierbas. ¿No es una reacción exagerada?
+0018 [Tú] | Disculpe, señor. ¿Todo en orden?
+0019 [Forest Ranger] | ¡Ay, qué alivio! Esta montaña siempre ha sido tranquila,==W== pero hace poco apareció de la nada un monstruo feroz...
+0020 [Tú] | Eh...==W== ¿Un monstruo?
+0021 [Forest Ranger] | No puedo con él yo solo, así que ayer publiqué un encargo en la Asociación de Trekkers.
+0022 [Tú] | Mmm...
+0023 [Forest Ranger] | No esperaba que mandaran a alguien tan pronto. Me has salvado la vida.
+0024 [Tú] | A-ah, ya veo...
+0025 [Tú] | Esto es un malentendido. Pero se ve tan aliviado que no tengo corazón para corregirlo.
+0026 [Tú] | Ojalá estuvieran aquí Noya, Iris y Amber. Yo solo no puedo con esto...
+0027 [Forest Ranger] | ¡En fin, te lo dejo todo a ti!
+0028 [Tú] | ... Y se fue. Así nada más.
+0029 [Tú] | Bueno, no puedo ignorarlo. Mejor exploro la zona por ahora y luego pido ayuda.
+0030 [Tú] | ¿Qué fue ese ruido?
+0031 [Tú] | Vino de aquella cabaña...==W== ¿Será el monstruo?
+0032 [Narración] | Avanzo con cautela y me asomo a la cabaña—
+0033 [Tú] | ¿Nazuka? ¿Qué haces aquí?
+0034 [Nazuka] | Podría preguntarte lo mismo. ¿Qué te trae por acá?
+0035 [Tú] | Yo estaba...
+0036 [Tú] | Y esa es toda la historia.
+0037 [Nazuka] | Ya veo. Por eso te confundió con un Trekker cazamonstruos.
+0038 [Nazuka] | Buen momento. Durante mi patrulla sentí algo extraño en el bosque. Vine a revisar y encontré estas huellas; definitivamente no son de una bestia común.
+0039 [Nazuka] | Si un monstruo las dejó, deberíamos trabajar juntos. ¿Qué dices?==W== No puedes con él tú solo, ¿verdad?
+0040 [Tú] | Pensé que nunca lo propondrías.
+0041 [Nazuka] | Je. Trato hecho, entonces. Vamos—
+0042 [Monster] | ¡GRRAAAWRRR!
+0043 [Tú] | ¡Guau, salió de la nada!
+0044 [Nazuka] | Esta criatura...==W== Debió de captar nuestro olor.
+0045 [Tú] | Qué mala suerte.
+0046 [Nazuka] | Quédate detrás de mí. Yo me encargo.
+0047 [Nazuka] | ¿Con qué puedo retenerte?
+0048 [Nazuka] | Te ofrezco hojas frescas, virotes detenidos y esquirlas de piedra afilada...
+0049 [Nazuka] | Te ofrezco el sueño que conceden los espíritus salvajes.
+0050 [Monster] | ¡Gah—!
+0051 [Tú] | Derribado de un solo golpe... Nazuka de verdad es poderosa.
+0052 [Nazuka] | Se acabó. Por las huellas, era el único. El bosque debería estar en paz otra vez.
+0053 [Tú] | Fue increíble.
+0054 [Nazuka] | No fue nada.==W== Vamos, a darle la buena noticia al viejo.
+0055 [Forest Ranger] | ¿¡Qué!? ¿¡Ya se encargaron del monstruo!?
+0056 [Nazuka] | Sí. Su presencia desapareció de la montaña, así que puede estar tranquilo.
+0057 [Forest Ranger] | ¡Qué rápido!==W== Tengo que agradecerles como se debe.
+0058 [Tú] | No hace falta, señor. Ya tenía una recompensa por el encargo, ¿no?
+0059 [Forest Ranger] | ¡Eso no es ni de cerca suficiente!==W== Ah, ya sé: la cabaña en la montaña. ¡Quédensela!
+0060 [Forest Ranger] | Hace tiempo que nadie vive ahí, pero quedará perfecta una vez que la limpien.
+0061 [Nazuka] | Es muy generoso de su parte, pero solo hicimos lo que haría cualquier Trekker.
+0062 [Forest Ranger] | Ah, acéptenla. Como podrían aparecer más monstruos, dudo que la use. Sería una lástima desperdiciarla, ¿no?
+0063 [Forest Ranger] | Unos cuantos monstruos no son amenaza para ustedes, así que por favor, ¡la cabaña es suya!
+0064 [Tú] | Bueno, si insiste...==W== De acuerdo. Gracias.
+0065 [Nazuka] | Agradecemos su amabilidad.
+0066 [Tú] | Ahora que la veo de cerca, está bastante deteriorada. ¿Crees que podamos arreglarla?
+0067 [Nazuka] | Mmm...==W== Con un poco de orden, creo que serviría de base de patrulla.
+0068 [Tú] | En ese caso, déjame encargarme de la limpieza como agradecimiento por acabar con ese monstruo.
+0069 [Nazuka] | ¿Tú también me das las gracias?==W== Je. Este encargo trajo más recompensas de las que esperaba.
+0070 [Tú] | Espera, voy por agua.
+0071 [Nazuka] | Perfecto. Yo empiezo con los muebles, entonces.
+0072 [Nazuka] | Haa...==W== Me dio algo de sueño después de mover todos esos muebles...
+0073 [Tú] | ¿Hm? ¿Esto es...?==W== ¿Se quedó dormida?
+0074 [Tú] | Uf, no sabía que el río estaba tan lejos.
+0075 [Narración] | Aún dudo cuando una suave brisa agita el bosque, y sus ojos se abren con un parpadeo.
+0076 [Nazuka] | Mmm... ¿Jefe? Ah, ya volviste.
+0077 [Nazuka] | Uy, perdón. Estaba ventilando los muebles... El sol y la brisa estaban tan agradables que me quedé dormida.
+0078 [Opción] | Este sí que es un lugar perfecto para una siesta.
+0079 [Opción] | Pero, eh... ¿cuándo llegaron todos estos ciervos?
+0080 [Nazuka] | Vaya. Yo también acabo de notarlos.
+0081 [Opción] | Ahora que la paz volvió al bosque...
+0082 [Opción] | Quizá vinieron a dar las gracias.
+0083 [Nazuka] | Je, podría ser. Hablando de eso...
+0084 [Opción] | ¿Sí?
+0085 [Nazuka] | Estuviste...==W== mirándome un buen rato, ¿verdad?
+0086 [Opción] | C-creí que estabas dormida.
+0087 [Nazuka] | El viento me susurra cosas. Pudiste haberme despertado...
+0088 [Opción] | Pensé que estabas cansada después de la pelea.
+0089 [Opción] | Quería que descansaras un poco más.
+0090 [Nazuka] | Está bien, en serio. Una pelea tan pequeña no fue nada.
+0091 [Nazuka] | En fin, ya que volviste con el agua, sigamos limpiando.
+0092 [Nazuka] | Entonces, ¿qué cuarto vas a tomar?
+0093 [Tú] | ¿Yo?
+0094 [Nazuka] | ¿No quieres uno?
+0095 [Tú] | Elige tú. Después de todo, fuiste quien se encargó del monstruo.
+0096 [Nazuka] | El viejo nos dio la cabaña a los dos. Es natural que la compartamos, ¿no?
+0097 [Tú] | Yo no hice gran cosa.==W== Además, quién sabe cuándo volveré a este bosque.
+0098 [Nazuka] | Podría ser más pronto de lo que crees.
+0099 [Tú] | ¿A qué te refieres?
+0100 [Nazuka] | Digo que tienes una razón para volver.
+0101 [Tú] | ¿La tengo...?
+0102 [Tú] | ¿Habla de otro encargo de recolección de hierbas? Pero eso no me traería necesariamente aquí.
+0103 [Tú] | ¿Un trabajo de cazar monstruos, entonces? No, con ella de patrulla, dudo que aparezcan.
+0104 [Tú] | Perdón, no te sigo.
+0105 [Nazuka] | Es simple.
+0106 [Nazuka] | Quiero volver a verte. Y tú a mí...==W== Esa es toda la razón que necesitamos.
+0107 [Tú] | ... Tienes razón.==W== En ese caso, decidamos cuándo volveremos a vernos, ¿te parece?
+0108 [Narración] | Una leve sonrisa asoma en los labios de Nazuka mientras asiente con suavidad.

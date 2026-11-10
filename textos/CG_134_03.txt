@@ -1,0 +1,98 @@
+# Historia de Fuyuka · 3 · First Snow (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Former Client | Cliente anterior
+N:Helped Trekker | Trekker ayudado
+N:Shop Manager | Encargado de la tienda
+N:Worker | Trabajador
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Primera nevada (Parte III)
+0003 [Intro] | Habla en el escenario para despedirse de su pasado. Con tu ayuda y cuidado, redescubre su verdadero yo.
+0004 [Nazuna] | Vaya, no esperaba que viniera tanta gente al discurso.
+0005 [Nazuna] | ¡Uy! Kaede, mira: ¡Fuyuka está en el escenario~!
+0006 [Kaede] | Anoche aún se quedó despierta hasta tarde practicando y repasando su discurso. De verdad se esforzó. Espero que todo le salga bien.
+0007 [Fuyuka] | Respira hondo...==W== Tengo que mantener la calma.
+0008 [Fuyuka] | Me sé el discurso sin problema. Y he practicado tantas veces cómo hablar frente a la gente...
+0009 [Fuyuka] | H-hola, a-a todos...==W== S-soy la líder del Gremio Petal Bloom,==W== Fu-==W==Fuyuka...
+0010 [Fuyuka] | Ay, no, otra vez estoy tartamudeando... Pensarlo como un campo de batalla...==W== Un campo de batalla...
+0011 [Former Client] | ¡Lady Fuyuka! ¡Soy fan suyo!
+0012 [Helped Trekker] | ¡Vamos! ¡Todos estamos emocionados!
+0013 [Fuyuka] | ¿Eh...?==W== ¿Nadie lo notó?
+0014 [Fuyuka] | Vino más gente de la que esperaba...==W== Siento que me voy a desmayar de los nervios.
+0015 [Fuyuka] | Si el Maestro no me hubiera animado tanto, probablemente ni siquiera podría mantenerme en pie ahora.
+0016 [Fuyuka] | Pero... si esto es un campo de batalla, ¡aunque mi primer movimiento sea torpe, no puedo rendirme!
+0017 [Fuyuka] | G-gracias. Me invitaron a hablar hoy como representante de los Trekkers. Gracias a todos por venir hoy...
+0018 [Worker] | ¡Estamos aquí para animarla!
+0019 [Shop Manager] | ¡Nos encanta su voz, Lady Fuyuka! ¡La queremos!
+0020 [Fuyuka] | Hay algunas caras conocidas...
+0021 [Fuyuka] | Mientras siga adelante, puedo vencerlo: vencer mi miedo.
+0022 [Fuyuka] | Bien, permítanme empezar con una actualización sobre el estado actual del campamento...
+0023 [Fuyuka] | P-por fin terminé...
+0024 [Nazuna] | ¡Buen trabajo, Fuyuka! ¡Diste un discurso increíble!
+0025 [Fuyuka] | P-pero tropecé en gran parte de él...
+0026 [Nazuna] | ¿De qué hablas? En aquel entonces ni siquiera podías subir al escenario.==W== Has crecido muchísimo, Fuyuka.
+0027 [Kaede] | Exacto. Y más importante, la respuesta del público fue fantástica. ¡Se podría decir que fue un gran éxito!
+0028 [Kaede] | Esta noche prepararemos tus platillos favoritos. ¡Anímate!
+0029 [Fuyuka] | G-gracias... a todos.
+0030 [Fuyuka] | Eh, tengo otra cosa que hacer. Nos vemos esta noche.
+0031 [Tú] | Vino aquí. Justo como pensé.
+0032 [Fuyuka] | Gracias por ser mi primer público. Y más importante aún, gracias por guiarme hasta el «pajarito ermitaño».
+0033 [Fuyuka] | Así que, estos últimos días, hice este nido a mano como regalo de agradecimiento.
+0034 [Fuyuka] | Quizá se acerque una fuerte tormenta de nieve. Si te gusta este nido y quieres vivir en él...==W== Sería maravilloso.
+0035 [Tú] | Fuyuka es sincera y amable. Probablemente eso es lo que atrae hacia ella a todos en Philae.
+0036 [Fuyuka] | Fiu, encontré un buen lugar para ponerlo.
+0037 [Fuyuka] | Ahora a fijarlo con unas ramas para que el viento no lo tire...
+0038 [Fuyuka] | —¡Ay!
+0039 [Narración] | Al oír el crujido de una rama, salgo corriendo del lugar donde me escondía.
+0040 [Fuyuka] | ¡Waaah...!
+0041 [Tú] | ¡Solo un poco más!! ¡La tengo!
+0042 [Tú] | Ugh...
+0043 [Fuyuka] | ¡Auch!==W==... ¿Eh? Eso no dolió tanto como esperaba.
+0044 [Tú] | Lo más importante es que estás bien...
+0045 [Fuyuka] | ¿¡Eh...!? ¿¡M-Maestro!? ¡Lo siento muchísimo! ¡Me levanto de inmediato!
+0046 [Fuyuka] | Ah, tengo las piernas dormidas... ¡Me caigo!
+0047 [Fuyuka] | Ugh...==W== Soy tan torpe==W== y lenta,==W== lo siento…==W== Y-y…==W== Eh...==W== ¿Maestro?==W== ¿Se lastimó?
+0048 [Opción] | Tranquila, estoy bien.
+0049 [Fuyuka] | Fiu…==W== Qué alivio...==W== Si hubiera hecho que se lastimara,==W== sería mejor convertirme en bocadillo de monstruo...==W== como disculpa…
+0050 [Fuyuka] | —¿¡Ah!?==W== ¡Es cierto!==W== ¡El pajarito y el nido…!==W== Menos mal...==W== Están sanos y salvos...
+0051 [Opción] | ¿Y tú? ¿Te lastimaste?
+0052 [Fuyuka] | Por favor, no se preocupe por mí...==W== Esto solo pasó==W== porque fui descuidada y resbalé…
+0053 [Opción] | ¿De qué hablas? ¿Cómo no voy a preocuparme por ti?
+0054 [Opción] | Eres la discípula a la que más aprecio.
+0055 [Fuyuka] | Ah...==W== La discípula...==W== más apreciada del Maestro...==W== Jeje♪==W== Que lo diga otra vez==W== me da un poco de pena, pero...
+0056 [Fuyuka] | Estoy muy…==W== No,==W== ¡estoy muy, muy, súper feliz!
+0057 [Opción] | Tranquila, siempre estoy de tu lado.
+0058 [Fuyuka] | ¡Muchas gracias!==W== Pero… yo...==W== siempre dependo de usted así…
+0059 [Fuyuka] | Incluso esta vez...==W== Si no me hubiera dado un empujón,==W== quizá no habría podido cambiar…
+0060 [Opción] | Esto es resultado de tu propio esfuerzo.
+0061 [Fuyuka] | El resultado …==W== de mi propio esfuerzo...==W== Ya entiendo.==W== ¡Yo…==W== qué bueno que me esforcé!==W== ¡Espere!==W== Si seguimos hablando así,==W== ¡se va a resfriar...!
+0062 [Fuyuka] | Tome, tome mi mano...!
+0063 [Tú] | Lo que dije hace un momento no fue para consolarte. Y definitivamente no fue por lástima.
+0064 [Fuyuka] | ¿Eh...?==W== ¿De verdad? Pensé que intentaba animarme...
+0065 [Tú] | Para nada. Tu discurso de hoy fue un verdadero éxito, ¿no?
+0066 [Fuyuka] | Fue más que nada porque el público fue amable. Mi forma de hablar no fue tan buena...
+0067 [Tú] | Nadie lo logra a la primera. Pero tuviste el valor de subir ahí y dar tu primer discurso. Eso es motivo de orgullo.
+0068 [Tú] | Y esa gente no vino solo por cortesía. Todos vinieron por ti.
+0069 [Tú] | Es la amabilidad y la dedicación que mostraste en tus trabajos anteriores lo que los hizo querer dejar de lado cosas como la habilidad o la fama y simplemente animarte.
+0070 [Tú] | Esa es la recompensa por todo tu esfuerzo. Y eso, justo eso, es el verdadero campo de batalla al que llamamos «vida».
+0071 [Fuyuka] | Maestro...
+0072 [Fuyuka] | Ya lo entiendo. Lo que importa es el «cambio» que provocan mis acciones, ¿verdad?
+0073 [Fuyuka] | Aunque por ahora sea solo un poquito, algún día todo se sumará...==W== Y superaré mi miedo.
+0074 [Tú] | Exacto. A estas alturas, quizá hasta estés lista para graduarte...==W== Jeje.
+0075 [Fuyuka] | ¡D-de ninguna manera!
+0076 [Fuyuka] | O sea, esta vez salió bien, pero aún me falta mucho por recorrer...==W== Usted seguirá a mi lado y guiándome, ¿verdad?
+0077 [Tú] | Por supuesto. Mientras tú quieras, seguiré cumpliendo con mi deber.
+0078 [Fuyuka] | Jeje...==W== Eso me tranquiliza.
+0079 [Fuyuka] | Volvamos juntos, Maestro.

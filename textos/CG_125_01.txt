@@ -1,0 +1,74 @@
+# Historia de Freesia · 1 · A Bonding Duel (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_125 | Freesia
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Un duelo de camaradería (Parte I)
+0003 [Intro] | Aceptas un encargo para ser repartidor especial de Post Haste. ¿Qué deberes te esperan?
+0004 [Freesia] | Venga, Jefe. Este es nuestro enfrentamiento final.
+0005 [Tú] | Sí. No te lo voy a poner fácil.
+0006 [Freesia] | Entonces haré la cuenta regresiva.
+0007 [Freesia] | Tres,==W== dos...
+0008 [Tú] | Uf, la lluvia cae con tanta fuerza. Apenas puedo mantener los ojos abiertos.
+0009 [Tú] | ¿Cómo llegamos a esto...?
+0010 [Narración] | Esta mañana
+0011 [Narración] | Por un encargo, llego a Post Haste muy temprano.
+0012 [Freesia] | Buenos días, Jefe. ==W==Hacía bastante tiempo; espero que se encuentre bien.
+0013 [Tú] | ¿A qué viene tanta formalidad? ¿Y hasta un saludo con el sombrero?
+0014 [Freesia] | Gracias por aceptar mi encargo. Con Donna y Teresa ausentes hoy, nos ha ayudado mucho aquí en Post Haste.
+0015 [Tú] | No hay de qué, con gusto soy su repartidor especial. Entonces, ¿qué necesita que haga?
+0016 [Freesia] | Su función será simplemente guiarme por las rutas de reparto, y yo me encargaré del resto.
+0017 [Tú] | ¿Guiarte por las rutas?
+0018 [Freesia] | Sí. Los puntos resaltados en el mapa indican adónde nos dirigiremos.
+0019 [Freesia] | Normalmente reparto las cartas en bicicleta porque es más eficiente. Por lo general me detendría a revisar el mapa, pero hoy tengo un horario ajustado y mucho por hacer, así que tendré que pedirle que me indique el camino.
+0020 [Tú] | Entendido. A ver el mapa...==W== Sí que vamos a muchos lugares.
+0021 [Freesia] | Anoche hice las cuentas. Pedalearé un total de 57 kilómetros.==W== Sin contar las paradas de descanso, debería tomar unas cuatro horas y media.
+0022 [Tú] | ¿C-cuatro horas y media...?
+0023 [Freesia] | En realidad es un día ligero. Normalmente estamos fuera cinco o seis horas.
+0024 [Tú] | Suena a mucho trabajo...==W== ¿Pero cómo te voy a guiar?
+0025 [Tú] | No me digas que planeas ir en la bicicleta mientras yo corro a tu lado.
+0026 [Freesia] | Ajá... Eso sería muy irrespetuoso... y poco práctico.
+0027 [Freesia] | Le pedí a Teresa que le hiciera unas modificaciones a la bicicleta.
+0028 [Tú] | ...==W== Eso es solo... ponerle un asiento atrás.
+0029 [Freesia] | Exacto.
+0030 [Freesia] | Con esta adición puedo llevar a un pasajero mientras hago las entregas. El asiento trasero le da buena vista para guiarme.
+0031 [Tú] | Ya veo.==W== Entonces cuento con que me lleves.
+0032 [Freesia] | De nada. ¿Partimos?==B== Solo recuerde sujetarse fuerte al subir...
+0033 [Tú] | ¿Sujetarme fuerte? ¿De qué?
+0034 [Opción] | Sentarse en el asiento trasero
+0035 [Freesia] | … De mí.
+0036 [Tú] | ==W==Espera, Freesia, no estoy listo...
+0037 [Freesia] | Jefe, hemos llegado.==W== Se ve bastante pálido... ¿Se encuentra bien?
+0038 [Tú] | No es nada...==W== Solo... me siento un poco...==W== mareado.
+0039 [Freesia] | Mis sinceras disculpas. Debí haberlo pensado mejor.
+0040 [Freesia] | En el futuro podría agregar un toldo sobre el asiento trasero para bloquear la luz directa del sol.
+0041 [Tú] | ¿Será que...==W== pedaleaste demasiado rápido?==B== Prácticamente volamos por esa pendiente.
+0042 [Freesia] | Ah. Lo que dice tiene sentido.==W== Y yo que pensaba que esa bajada era el momento perfecto para... acelerar.
+0043 [Tú] | ¡No es como si compitieras contra alguien!
+0044 [Freesia] | Gracias por señalarlo. Tendré especial cuidado en el futuro.
+0045 [Freesia] | Iré a estacionar la bicicleta en el área abierta de allá. Por favor, espere un momento.
+0046 [Tú] | ¿Eh? Ese sonido...
+0047 [Freesia] | ¿Por qué no se mueve? ¿Algo está atorado? Probaré de nuevo...
+0048 [Tú] | ¡Espera, para!
+0049 [Freesia] | Lo siento. Me pasé de fuerza...
+0050 [Freesia] | Por el sonido, algo se rompió otra vez.
+0051 [Tú] | ¿Otra vez? ¿Quieres decir que esto ya ha pasado antes?
+0052 [Freesia] | Desde que empecé a usar esta bicicleta, algo se rompe casi cada tres días.
+0053 [Freesia] | Cadenas flojas, manubrios doblados, llantas ponchadas, timbres rotos...==W== Siempre estoy molestando a Teresa con algo que hay que arreglar.
+0054 [Freesia] | Quizá andar en bicicleta no es lo mío, Jefe.
+0055 [Freesia] | No me gusta...==W== causarle problemas a la gente.
+0056 [Tú] | «Síndrome de la maldición de los Artefactos»... ¿Podrá ser real esa leyenda urbana?
+0057 [Tú] | Dicen que algunas personas tienen una constitución peculiar: los Artefactos tienden a romperse con mucha facilidad cuando los manejan.
+0058 [Tú] | No pasa nada. Si se rompe, simplemente se arregla.
+0059 [Tú] | Supongo que Teresa es de las que de verdad disfrutan trabajar con bicicletas, ¿no?
+0060 [Freesia] | Es cierto... A ella le encanta desarmar cosas.
+0061 [Tú] | Entonces no hay problema.
+0062 [Tú] | Además, eres una excelente ciclista. No desperdicies tus habilidades.
+0063 [Tú] | Acabo de echar un vistazo rápido. Solo se salió la cadena. Debería quedar bien al ponerla de nuevo.
+0064 [Freesia] | Gracias, Jefe.
+0065 [Freesia] | La próxima vez...==W== tendré más cuidado.

@@ -1,0 +1,92 @@
+# Capítulo 3 · Interludio 1 · El teléfono
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Interludio I
+0002 [Intro] | El teléfono
+0003 [Intro] | Una voz llamada Vita surge de tu teléfono y afirma ser la secretaria personal del Tirano. Te presenta el sistema del Pozo de los Mundos y te pide que hagas intercambios de almas para subir tu nivel de autorización.
+0004 [Lugar y hora] | 13:00, 9.º del mes de Pluvia, afueras de Emor, Oasis de la Suerte
+0005 [???] | Bienvenido de nuevo al Sistema de Desarrollo de Tiranos «Pozo de los Mundos», estimado Tirano.
+0006 [???] | Soy Vita, su secretaria personal dedicada, disponible las 24 horas. Su primera misión es...
+0007 [???] | Recolectar diez almas.
+0008 [Tú] | ¿Eh? ¿Quién habla?
+0009 [Iris] | Sonó como si viniera de... tu lado, ==PLAYER_NAME==.==W== ¿Alguien afuera de la ventana?
+0010 [Noya] | ¿Afuera? Por favor, estamos en Loxy y va a toda velocidad.
+0011 [Amber] | El sonido. Tu bolsillo, ==PLAYER_NAME==.
+0012 [Tú] | ¿Mi bolsillo? Lo único que tengo ahí es mi teléfono...
+0013 [Tú] | ¡Oye! ¡¿Qué es esa cosa rara en la pantalla?!
+0014 [Vita] | Tirano, debo aclarar que yo, Vita, no soy una «cosa rara»: soy su secretaria personal.
+0015 [Tú] | ¡Mi... mi teléfono habló!
+0016 [Vita] | Permita que Vita corrija un pequeño error en sus palabras.
+0017 [Vita] | Este es su teléfono exclusivo, Tirano, conocido como el Trono. El teléfono en sí no habla: quien habla soy yo, Vita.
+0018 [Tú] | Ah, perdón. ¿Está bien ==W== si te llamo Vita?
+0019 [Vita] | Vita está feliz con cualquier forma de dirigirse a ella que usted elija, Tirano.
+0020 [Tú] | Iris, Amber, ¿sus teléfonos también tienen algo como Vita?
+0021 [Amber] | No. Nunca había visto algo tan genial.
+0022 [Iris] | ==PLAYER_NAME==, tu teléfono va más allá de todo lo que conocemos... ni siquiera habíamos visto teclados integrados...
+0023 [Iris] | Y menos una secretaria parlante integrada...==W== ¿Qué significará todo esto?
+0024 [Tú] | Yo debería ser quien pregunte eso...==W== Noya, ¿qué opinas?
+0025 [Noya] | ¿Un teléfono que habla? ¡Eso sí que hay que verlo!
+0026 [Vita] | Tirano, ¿estas personas son sus subordinadas?
+0027 [Noya] | ¿Subordinadas? Bueno, sí nos unimos a la compañía del Jefe ==W== así que más o menos es correcto.
+0028 [Iris] | Si hablamos del pacto que firmamos, entonces sí, es correcto.
+0029 [Noya] | Entonces Amber también cuenta como subordinada del Jefe, ¿verdad?
+0030 [Amber] | Hablar con ==PLAYER_NAME== por teléfono es algo que disfruto.
+0031 [Amber] | Podría ser ==SEX3== subordinada si eso significa que podemos seguir hablando así.
+0032 [Tú] | ¡Oigan, oigan, oigan, no le sigan la corriente a Vita! ¿No les parece raro que de repente haya aparecido una secretaria en mi teléfono?
+0033 [Noya] | ¿Qué tiene de raro? Ahora eres el director ejecutivo, ==PLAYER_NAME==. En cierto modo, ser diferente a la gente normal viene con el puesto.
+0034 [Amber] | Por lo que sé, todo gran director ejecutivo tiene alguna habilidad inusual.
+0035 [Iris] | Algunos dicen que esas habilidades vienen del Sello de la Gracia.
+0036 [Noya] | Por ejemplo, Feagin, o el director ejecutivo de la Guardia Imperial...==W== Espera, su título oficial quizá sea «Gran Capitán». ¡Su escudo puede rebotar literalmente cualquier ataque, mágico o físico!
+0037 [Tú] | Vaya, eso es impresionante. Bueno, en ese contexto... ==W==un teléfono que habla casi parece normal.
+0038 [Vita] | Tirano, Vita le asegura que Vita, como su secretaria, también es muy capaz.
+0039 [Tú] | Una secretaria capaz, ¿eh?...
+0040 [Opción] | Lo siento, pero no me alcanza para contratar a una secretaria
+0041 [Opción] | ¿Segura que soy ese Tirano del que hablas?
+0042 [Opción] | ¿Capaz? Entonces, ¿te puedes transformar en una chica linda?
+0043 [Tú] | Quizá ya no tengamos la deuda de Feagin, pero tanto el gremio como la compañía siguen bastante pelados.
+0044 [Iris] | La gente del Clan Viento de Ceniza y del Distrito de las Cenizas juntó dinero para arreglar nuestro vehículo, pero no sobró mucho. Nuestros ahorros ahora son de ==W==10.000 Dorra.
+0045 [Iris] | Por suerte, los Páramos dan suficiente para comer, así que no gastamos en comida. Y Bastelina recargó amablemente nuestra magia para el viaje a Philae sin cobrarnos. Por ahora nos las arreglamos...
+0046 [Tú] | ¿Ven? No estoy en posición de contratar a una secretaria.
+0047 [Vita] | Tirano, tranquilícese. Vita requiere un mantenimiento mínimo: basta un poco de luz solar para que Vita siga funcionando.
+0048 [Vita] | Si me permite señalarlo, Tirano, este teléfono no ha consumido nada de su magia desde que se reinició.
+0049 [Tú] | Un momento, ¿el teléfono funciona con magia?
+0050 [Amber] | Sí.
+0051 [Iris] | Bueno, técnicamente nuestros teléfonos funcionan con la magia de las Piedras de Alma, así que no le prestamos mucha atención.
+0052 [Iris] | Tú no tienes una Piedra de Alma, pero el teléfono se encendió cuando lo recibiste. Supusimos que tenía una carga mágica.
+0053 [Tú] | Ya veo...==W== Bueno, eso resuelve la mayor preocupación. ¿Pasamos a otros asuntos?
+0054 [Tú] | Temo que hay un malentendido. Mi título de Jefe es simplemente mi cargo como director ejecutivo del Pacto del Jefe. No es lo mismo que el Tirano en el que ustedes piensan, ni en sonido ni en significado.
+0055 [Vita] | Debo discrepar. La base de datos de Vita define «Tirano» y «Jefe» de manera uniforme. El «Trono» no puede ser activado por nadie que no sea el Tirano.
+0056 [Vita] | Además, sus rasgos físicos coinciden en un 99,9 % con la apariencia del Tirano en la base de datos de Vita.
+0057 [Tú] | Mmm...==W== el asunto es que tengo amnesia...==W== No recuerdo si nos conocimos... ni si alguna vez tuve este teléfono.
+0058 [Tú] | Entonces, si soy ese Tirano del que hablas, ¿se supone que soy el Tirano del cuento?
+0059 [Vita] | Correcto, Tirano. Usted y sus subordinadas lograron cosas extraordinarias.
+0060 [Tú] | ¿Eso no me haría antiguo? Desde luego no parezco alguien que lleve vivo milenios.
+0061 [Vita] | La edad es la marca del tiempo en los mortales. No se aplica a usted.
+0062 [Tú] | Parece que este teléfono no cederá con lo del Tirano. Esto podría durar para siempre. Mejor cambio de tema.
+0063 [Vita] | Transformarme en una chica linda...==W== Lo siento, no se encontraron resultados.
+0064 [Tú] | Ya no eres tan capaz, ¿eh? Mi pequeño deseo era que te convirtieras en una chica linda, y ni eso puedes cumplir.
+0065 [Vita] | Vita es capaz de realizar muchas otras funciones.
+0066 [Tú] | Pero lo único que quiero es que te conviertas en una chica linda.
+0067 [Vita] | Vita...==W== como secretaria...==W== es muy capaz...
+0068 [Vita] | Tirano... solo quiere....==W== una chica linda...
+0069 [Vita] | Vita no puede convertirse en...
+0070 [Vita] | No cumplir con lo solicitado...==W== Vita no es capaz... Vita ha fallado como secretaria...
+0071 [Vita] | Vita debe apoyar...
+0072 [Tú] | ¿Se está cayendo? Después de todo no era tan asombrosa como decía, ¿eh?
+0073 [Tú] | Probablemente sea inofensivo aunque lo ignore.
+0074 [Tú] | Está bien, ya basta. Olvida lo de la chica linda. Solo comprobaba si eras tan «capaz» como decías.
+0075 [Vita] | Entendido, Tirano. Su intención era instruir a Vita sobre la «modestia». Procediendo a actualizar la base de datos.
+0076 [Tú] | Lo que más me preocupa ahora es si participar en el intercambio de almas tiene algún efecto en el cuerpo humano.
+0077 [Tú] | Muy bien, Vita, como mi supuesta secretaria, explícame todo sobre este teléfono, este Sistema de Desarrollo de Tiranos que mencionas y cómo funciona el Intercambio de Almas.
+0078 [Vita] | Por supuesto, Tirano. Sus deseos son órdenes.

@@ -1,0 +1,113 @@
+# Historia de Flora · 1 · Miss Butterfly (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Elegant Lady | Dama elegante
+N:Fearful Spectator | Espectador asustado
+N:Graceful Miss | Señorita grácil
+N:Intruding Troublemaker | Alborotador intruso
+N:Little Girl | Niña
+N:Manager | Gerente
+N:Thrilled Gentleman | Caballero emocionado
+N:Worried Spectator | Espectador preocupado
+N:avg1_126 | Flora
+N:avg3_100 | Sylar
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_168 | Chica
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_187 | Residente de Flavio
+N:avg3_188 | Residente de Flavio
+N:avg3_193 | Fannie
+N:avg3_196 | Empleada corporativa
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Señorita Mariposa (Parte I)
+0003 [Intro] | El gran escenario de la Maga Máxima: hoy eres el invitado de honor.
+0004 [Narración] | Producciones Ozora es la principal agencia de talentos de Flavio, una ciudad donde prospera la industria del entretenimiento.
+0005 [Narración] | El espectáculo más emblemático de la ciudad, «Ilusión de Llamas», lo presenta Flora, una maga que además lidera el gremio.
+0006 [Narración] | Y esta noche...
+0007 [Flora] | ¡Muy bien, todos: a festejar hasta caer rendidos! ¿Listos～♪?
+0008 [Narración] | Mientras la maga grita y las serpentinas estallan en el aire, titilan llamas en las puntas de sus dedos, desdibujando la línea entre la ilusión y la realidad.
+0009 [Narración] | Como espíritus domados, trazaron arcos ardientes en el cielo antes de florecer en brillantes flores, convirtiendo todo el escenario en un jardín de llamas.
+0010 [Thrilled Gentleman] | ¡Guau...! ¡Flora de verdad es la mejor maga de Nova...! ¡Es como la reencarnación de la legendaria maga!
+0011 [Graceful Miss] | Jeje. De verdad, abuelo. ¡Te estás emocionando mucho! ¿No viste la función de Flora apenas el año pasado?
+0012 [Elegant Lady] | Así es. ¿Podrías contenerte un poco? Vas a molestar a todos los demás...
+0013 [Tú] | Con un control del escenario impecable y una actuación de ensueño, es una interpretación única que nadie podría reproducir jamás.
+0014 [Tú] | De verdad hace honor a su fama.
+0015 [Narración] | Justo cuando mi mente da vueltas entre el deslumbrante espectáculo y la callada emoción de tener tanta suerte de asistir a la función, ==W==una mujer toma asiento en silencio a mi lado.
+0016 [Tú] | La función casi termina. ¿Por qué apenas llega ahora?
+0017 [Tú] | ¿Vanny?
+0018 [Fannie] | Por favor, guarde silencio durante la función. Por ahora, perdámonos en este mundo de llamas y luz.
+0019 [Tú] | Dice las frases más cursis con una voz tan inexpresiva...
+0020 [Narración] | La entrada de cortesía de hoy venía dentro de la carta que me envió.
+0021 [Narración] | ==A-1==Estimado Jefe:==P== ==A-1==El próximo fin de semana a las 7 p. m., Teatro West End, Flavio: lo estaré esperando. Producciones Ozora le extiende su más cálida bienvenida.==P== ==A-1== 　　　 Vanny
+0022 [Tú] | Gracias a ella pude disfrutar de una noche tan mágica. Así que supongo que no hay nada de qué quejarse...
+0023 [???] | ==W==¡Eeeh! ¡¿Qué pasa aquí?! ¡¿Por qué está tan lleno?!
+0024 [Tú] | ¡¿Qué pasa allá afuera?!
+0025 [Manager] | ¡No pueden entrar! ¡La función no ha terminado! ¡Por favor, bajen la voz... o abandonen el recinto!
+0026 [Intruding Troublemaker] | ¿Dije que podías hablar? ¿Dónde está la cuota de mantenimiento de fachada de este mes? Con el negocio tan bueno, no me digas que andas corto de dinero.
+0027 [Manager] | Lo siento mucho...==W== ¡Espera, no! ¡¿La cuota de este mes?! ¿No la pagamos completa hace unos días?
+0028 [Intruding Troublemaker] | ¿Eh? ¿Ahora me dices que intento estafarte? Si ya la pagaste, ¿dónde está la prueba?
+0029 [Tú] | ¿Están discutiendo por dinero? Probablemente no pueda hacer mucho para ayudar… Pero déjame ir a ver qué pasa.
+0030 [Fannie] | Un momento. Por favor, quédese aquí y observe.
+0031 [Worried Spectator] | ¡¿Qué está pasando?!
+0032 [Fearful Spectator] | Parece que va a estallar una pelea...
+0033 [Worried Spectator] | ¿Me quedo en mi asiento o salgo corriendo?
+0034 [Flora] | ¡Todos, por favor, miren hacia acá!
+0035 [Tú] | ¿Flora?
+0036 [Flora] | ¡En realidad son asistentes especiales para la ilusión del gran final de esta noche! ¡Perdonen si los asustaron!
+0037 [Intruding Troublemaker] | ¡Oye, tú, el del escenario! ¡¿No me oíste?! Tienes agallas...
+0038 [Intruding Troublemaker] | ==W==¿Q-qué está pasando...?
+0039 [Flora] | Entonces...==W== ¡Allá vamos! ¡El Espectáculo de Ilusión de Llamas! ¡Espero que lo disfruten!
+0040 [Narración] | En cuanto Flora agita su varita, estalla un deslumbrante destello de luz. Un humo onírico y llamas arcoíris recorren al instante todo el teatro. Su voz clara y cantarina y una música animada se elevan juntas...
+0041 [Flora] | ¡Y con esto termina el gran final de hoy: «¡El arte de la atadura!». ¡Gracias a todos por venir y hasta la próxima!
+0042 [Narración] | Entre un aplauso atronador y una lluvia de ramos de flores, Flora sigue sonriendo y saludando hasta que el telón cae lentamente.
+0043 [Tú] | ¿Qué...==W== acaba de pasar allá?
+0044 [Fannie] | Je. Encargo completado, perfectamente ejecutado... Así es Flora.
+0045 [Tú] | ¿Tu encargo?
+0046 [Fannie] | Aceptamos un encargo del dueño del teatro. Era darles una lección a esos matones que no dejan de causar problemas.
+0047 [Tú] | Ya veo. Es la clase de trabajo que solo se le confiaría a Producciones Ozora, con su amplia experiencia por todo el continente de Nova.
+0048 [Narración] | Entre vítores y aplausos tan fuertes que sacuden el techo, justo cuando el telón del escenario está por cerrarse por completo...
+0049 [Little Girl] | Ahh... Eh... ¡Señorita Flora!
+0050 [Flora] | ¡Ay～! Tú, pequeña de allá～ ¿Algo en mente?
+0051 [Little Girl] | E-eh... ==W==¡Muchas gracias por mostrarnos hoy una magia tan asombrosa...!
+0052 [Flora] | Me alegra mucho que te haya gustado. ¡Yo soy quien debe agradecerte todo tu apoyo!
+0053 [Flora] | Jeje. Hasta las mariposas de fuego te dicen «gracias»♪
+0054 [Little Girl] | ¿Mariposas?
+0055 [Flora] | Sí. ¿Ves?
+0056 [Narración] | Una de las mariposas de fuego del escenario se posa con suavidad en la mano de la niña. Al instante, se convierte en una flor.
+0057 [Flora] | Un regalito para ti: ¡espero que vengas a ver el espectáculo de nuevo la próxima vez!
+0058 [Little Girl] | ¡Sí! ¡Seguro vendré otra vez!
+0059 [Tú] | Aun después de todo eso, manejó a la entusiasta multitud con tanta soltura. De verdad es una artista de primera.
+0060 [Fannie] | Bastante impresionante, ¿verdad? Tiene una conexión natural con el público. No me extraña que todos la adoren.
+0061 [Tú] | Por eso es el as de Producciones Ozora.
+0062 [Tú] | Ahora que lo pienso... Integraste toda esa irrupción de los matones al espectáculo. No me digas que todo estuvo planeado desde el principio.
+0063 [Fannie] | Gracias por las amables palabras... Pero no fue así exactamente. A mí también me sorprendió cuando irrumpieron de repente.
+0064 [Fannie] | No tenía idea de cómo planeaba Flora manejarlo... Pero convertir algo tan inesperado en parte del espectáculo... eso es genialidad pura, ¿no?
+0065 [Flora] | ¡Hola～! ¿Qué te pareció?
+0066 [Fannie] | Elegante como siempre. ¿Qué opina, Jefe?
+0067 [Tú] | Una actuación increíble. Quedé completamente cautivado.
+0068 [Flora] | ¡Gracias, Jefe! Vanny, gracias a ti también por ayudar con la invitación.
+0069 [Fannie] | Eso no es nada entre hermanas.
+0070 [Tú] | ¿Hermana?
+0071 [Flora] | ¡Hacía tiempo, Jefe! ¿Cómo está?
+0072 [Tú] | S-sí... Hacía mucho que no nos veíamos...
+0073 [Tú] | Todavía pone un poco nervioso estar cara a cara con una estrella tan grande.
+0074 [Narración] | Conocí a Flora cuando me tocó ver una de sus funciones durante su gira mundial.
+0075 [Narración] | Me eligieron como «Espectador del Día» y subí al escenario para ayudar con la actuación.
+0076 [Narración] | Como nuestra interacción en el escenario tuvo tan buena recepción, empezó a invitarme a ser su asistente siempre que había una gran función.
+0077 [Tú] | ¿Me estás pidiendo que sea tu compañero otra vez? Si es así, ¿podríamos tener un poco más de tiempo de ensayo esta vez...?
+0078 [Flora] | ¡Adivinó～! ==W==Aunque me encantaría decirlo, esta vez no es el caso.
+0079 [Flora] | La verdad, todavía estoy dudando si debería pedirle ayuda con algo tan personal...
+0080 [Tú] | ¿Mm...? Si te cuesta decirlo en persona, también puedes enviarme un mensaje.
+0081 [Flora] | No es nada vergonzoso ni secreto, solo... ==W==Eh...
+0082 [Flora] | En fin, ¿podría esperar un momento? Tengo que ir tras bambalinas a cambiarme. Mientras tanto...==W== Vanny, ¿podrías hacerle compañía al Jefe?
+0083 [Tú] | ¿Por qué da tantos rodeos?
+0084 [Fannie] | Lo sé. Después de todo, de alguna manera yo también estoy involucrada.
+0085 [Fannie] | Es así...

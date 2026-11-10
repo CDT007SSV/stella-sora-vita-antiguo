@@ -1,0 +1,126 @@
+# Capítulo 2 · 4 · Chica de pelo negro
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Anxious Mercenary | Mercenario ansioso
+N:Barking Mercenary | Mercenario ladrando
+N:Broke Gangster | Pandillera sin un centavo
+N:Excited Gangster | Pandillera emocionada
+N:Knight Captain | Capitán de los caballeros
+N:Observing Mercenary | Mercenario observador
+N:Relieved Mercenary | Mercenario aliviado
+N:Subdued Gangster | Pandillera sometida
+N:White-Haired Girl | Chica de pelo blanco
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_1237 | Pandillera genial
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_157 | Guardia Imperial
+N:avg3_197 | Feagin
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | La chica de negro
+0003 [Intro] | Derrotas a las pandillas y a los mercenarios, pero no eres rival para los caballeros. Mientras huyes, la maga de pelo blanco lanza un hechizo y te lanzas a proteger a Minova con tu propio cuerpo.
+0004 [Lugar y hora] | 07:15, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Calle
+0005 [Noya] | ¡Por aquí! Esa puerta no los detendrá mucho.
+0006 [Iris] | ¿A cuánta gente contrató Feagin? La zona está plagada de mercenarios y pandilleros que quieren cobrar por nosotras.
+0007 [Amber] | Revisé mi teléfono. Recompensa enorme. Un millón de Dorra por cabeza.
+0008 [Noya] | ¿Tanto?==W== ¿Por qué no usó ese dinero para pagarnos lo que nos debía?
+0009 [Tú] | Pagarnos más significaría rebajarse ante nosotras. Lo vería como perder.
+0010 [Tú] | ¿Contratar mercenarios para cazarnos? Eso es proteger su orgullo. Algo que, en su mente, tiene que hacer.
+0011 [Noya] | Qué forma tan retorcida de pensar.
+0012 [Minova] | No podemos seguir huyendo sin más.
+0013 [Minova] | Son demasiados enemigos. Si solo huimos, la recompensa atraerá aún más cazadores.
+0014 [Iris] | ¿Y cuál es el plan?
+0015 [Minova] | No son soldados de Creta, solo mercenarios tras el dinero. Si el objetivo se defiende con fuerza, pierden la motivación rápido.
+0016 [Tú] | ¿Piensas usar la estrategia de siempre del Clan Viento de Ceniza?
+0017 [Minova] | ¡Je, qué rápido lo captas!
+0018 [Minova] | No vamos a huir, no vamos a escondernos...
+0019 [Minova] | ¡Vamos a esperar aquí mismo y a enfrentarlos de frente!
+0020 [Lugar y hora] | 07:18, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Calle
+0021 [Mercenario ansioso] | ¡Vamos, abran la puerta! ¡Van a escapar!
+0022 [Pandillera sin un centavo] | ¡Yo llegué primero! Quítate de en medio cuando entremos.
+0023 [Mercenario ansioso] | ¿Ja? ¡A quién le importa! Quien llega primero, gana. Quien se duerme, pierde.
+0024 [Pandillera emocionada] | ¡Está abierta!
+0025 [Mercenario ansioso] | ¡Fuera de mi camino! ¡Yo fui primero!
+0026 [Pandillera sin un centavo] | ¡Oye, no empujes! ¡El suelo está cubierto de hielo!
+0027 [Pandillera sin un centavo] | ¡Dije que no empujes!
+0028 [Pandillera emocionada] | ¿Crees que un truquito como este me va a detener?!
+0029 [Mercenario ansioso] | ¡Ay! ¡Oye, mi arma!
+0030 [Noya] | ¡Vamos, Amber, a rodar! ♪
+0031 [Amber] | Entendido.
+0032 [Narración] | Las bandas negras de los brazos de Amber salen disparadas hacia la multitud, arrebatan las armas caídas y las lanzan al aire.
+0033 [Narración] | Una ráfaga de viento levanta a Noya, y ella recoge sin esfuerzo las armas que vuelan por el aire.
+0034 [Noya] | ¡Me quedo con esto! ¡Gracias!
+0035 [Pandillera sin un centavo] | ¡No se preocupen! ¡Todavía las superamos en número! ¡Podemos vencerlas con las manos desnudas!
+0036 [Pandillera sin un centavo] | ¡Todos a la carga! ¡Nos repartiremos el premio!
+0037 [Minova] | Je. ¿Creen, pececillos, que pueden alardear aquí?
+0038 [Minova] | Hablen primero con mi bate.
+0039 [Mercenario aliviado] | ¡Yo... yo me rindo!
+0040 [Pandillera sometida] | ¡Fue nuestro error! ¡Por favor, déjennos ir! ¡No volveremos a intentar nada!
+0041 [Minova] | ¿Qué, quieren conocer también a mi bate? Manada de cobardes sin agallas.
+0042 [Mercenario observador] | ¡No, no! ¡Solo estábamos... paseando al perro!
+0043 [Mercenario observador] | ¡¿Verdad, muchachos?!
+0044 [Mercenario ladrando] | ==W==¡Guau, guau!
+0045 [Minova] | ¡Oye, ni siquiera eres un perro de verdad!
+0046 [Vollara] | ¡Jefa! ¡Neuvira y yo lo logramos!
+0047 [Vollara] | ¿Eh? ¿Adónde se fueron todos?
+0048 [Tú] | Fue todo plan de Minova.==W== Golpearlos fuerte sí funcionó. Todos salieron corriendo con la cola entre las patas.
+0049 [Minova] | Y-yo no hice gran cosa... Así es como sobrevive el Clan Viento de Ceniza.
+0050 [Iris] | ¿Qué es ese ruido? ¿Un terremoto?
+0051 [Neuvira] | Caballeros Imperiales.
+0052 [Noya] | ¿Ahora qué? ¿También les damos una paliza?
+0053 [Minova] | No. Miren su formación: Feagin debe de haber pagado una fortuna por ellos.
+0054 [Minova] | Contra Guardias Imperiales bien pagados, solo hay una cosa que hacer.
+0055 [Minova] | ¡Agarren sus patinetas!
+0056 [Narración] | Atravesando a toda velocidad los estrechos callejones del Distrito de las Cenizas, Minova abre el camino, con una joven ==SEX9== de ==SEX14== a su lado. Detrás, Vollara lleva a Noya y Neuvira lleva a Iris.
+0057 [Narración] | Los pesados Guardias Imperiales persiguen a un ritmo implacable. Desde los tejados, los disparos de Amber golpean su armadura de plata y se disipan sin causar daño.
+0058 [Chica de pelo blanco] | ¿De qué pozo sacas a estos?
+0059 [Chica de pelo blanco] | Resistentes, desde luego. Pero con esa velocidad no atraparán a esas Trekkers.
+0060 [Feagin] | Oye, ¿qué le vamos a hacer? La Guardia Imperial siempre prioriza la defensa. Y eso es lo que pago.
+0061 [Feagin] | Maestra, ¿podría echarnos una mano otra vez? ¡Lo que hizo antes fue extraordinario!
+0062 [Feagin] | ¡Puf! Así de simple, su magia desapareció. Ah, qué satisfactorias fueron sus caras.
+0063 [Chica de pelo blanco] | Me niego. Participar en una «cacería» tan burda está por debajo de mí.
+0064 [Feagin] | ¡No, no, no hace falta tanto! Solo detenga su magia como antes. Es todo lo que necesita la Guardia Imperial para atraparlas.
+0065 [Feagin] | Si no lo hace, sus honorarios drenarán mis ahorros y no podré conseguir los materiales que necesita para su investigación.
+0066 [Chica de pelo blanco] | Muy bien. Esta es la última vez.
+0067 [Chica de pelo blanco] | Seamos claras. Te ayudaré a capturarlas. Pero después déjame en paz.
+0068 [Narración] | El cuervo posado en el hombro de la chica se lanza como una flecha directo hacia Minova.
+0069 [Lugar y hora] | 07:26, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Calle comercial
+0070 [Narración] | La patineta de Minova traza un arco perfecto sobre los adoquines, esquivando la lanza de un caballero antes de que ella se cuele por un callejón estrecho.
+0071 [Minova] | ¡==PLAYER_NAME==, agárrate fuerte! ¡Giro cerrado!
+0072 [Tú] | ¡Vaya, cómo va tan rápido esto! ¡Es solo una patineta!
+0073 [Tú] | Se siente como si... fuera al mismo ritmo que el Lucky Oasis.
+0074 [Minova] | Funciona con magia. Algún día te enseñaré, si quieres. Hasta podríamos competir en el Canal.
+0075 [Tú] | El Canal... vaya.
+0076 [Narración] | Alzo la vista hacia el Canal que se arquea en lo alto de la ciudad. Un cuervo extrañamente familiar se precipita hacia la espalda de Minova.
+0077 [Opción] | Protegerla
+0078 [Tú] | ¡Cuidado!
+0079 [Narración] | Actuando por puro instinto, me lanzo detrás de Minova. El cuervo negro se estrella silenciosamente contra mi pecho.
+0080 [Capitán de los caballeros] | ¡Esta es nuestra oportunidad!
+0081 [Capitán de los caballeros] | Dame la lanza.
+0082 [Narración] | Una repentina y poderosa ráfaga de viento atravesó el aire. En ese instante, mientras aceptaba mi destino y me preparaba para recibir el final, sentí como si suaves pétalos rozaran mi piel.
+0083 [Narración] | En el destello de un choque, frente a mí había puntas relucientes de varias lanzas muertas, afiladas y silenciosas...
+0084 [Tú] | Tú eres...
+0085 [???] | Mis disculpas por la demora, mi ==SEX11==.

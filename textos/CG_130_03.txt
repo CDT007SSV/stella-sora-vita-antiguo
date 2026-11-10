@@ -1,0 +1,110 @@
+# Historia de Donna · 3 · The Different Donna (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheerful Staff | Dependiente alegre
+N:Gentle Staff | Dependiente amable
+N:Leatherworker | Marroquinero
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_161 | Leafia
+N:avg3_165 | Nuz
+N:avg3_196 | Empleada corporativa
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La otra Donna (Parte III)
+0003 [Intro] | Entonces... ¿qué lado de Donna estás viendo ahora?
+0004 [Tú] | La hora de la reunión ya pasó... ¿Donna se estará retrasando...?==W== ¡Ah, ahí está!
+0005 [Tú] | ¡Perdón! Me costó un momento encontrarte...
+0006 [Donna] | ...
+0007 [Tú] | ¿Hola? ¿Donna? ... ¿No me oye por el ruido?==W== ¡Donna! ¡Oye! ¡Aquí estoy!
+0008 [Donna] | ¡Guau! Eres tú, Jefe.
+0009 [Donna] | Jeje... Mi error. Me distraje un poco con ese escaparate.
+0010 [Tú] | ¿El escaparate? ¿Estaría mirando el vestido de adentro?
+0011 [Tú] | En fin, venimos a comprar, ¿no? ¿Qué hay en la lista de hoy?
+0012 [Donna] | ¡Sí! Estoy planeando una renovación total de equipo, así que será una compra grande.==W== Entonces, me preguntaba si no te importaría echarme una mano. Bolsas de reparto nuevas, sombreros... ¡y quizá algunos accesorios! ¿Te parece bien?
+0013 [Tú] | Claro que sí. Quizá sea inútil en una pelea. ¿Pero cargar equipaje? ¡Eso sí puedo!
+0014 [Donna] | ¿E-es algo de lo que presumir?==W== En fin, ¡qué bueno tenerte aquí, Jefe! ¡Pongámonos en marcha: primera parada, todo derecho!
+0015 [1] | Ahora que lo pienso... ¿Estaba mirando ese vestido rojo del escaparate de allá atrás?
+0016 [Cheerful Staff] | ¡Bienvenidos! Esta sección es nuestra nueva colección de temporada. ¡Siéntanse libres de tomar lo que les guste!
+0017 [Donna] | ¡Esta bolsa es preciosa! ¡Sería perfecta para Freesia!
+0018 [Donna] | ¡Y mira, este sombrero tiene orejitas de gato! Son tan suaves... ¡A Teresa le encantaría!
+0019 [Tú] | Lo sabía. Se ilumina cuando escoge cosas para las demás. Solo estar a su lado me levanta el ánimo.
+0020 [Donna] | Bolsas, sombreros y... Oh, esta diadema es linda. ¿Sigues aguantando por ahí atrás, Jefe?
+0021 [Tú] | Fácil.==W== Solo son dos bolsas: ¡sigue dándome!
+0022 [Donna] | ¡Genial!==W== ¡Disculpe! ¡Me llevo TODO esto!
+0023 [Cheerful Staff] | ¡Muchas gracias!
+0024 [Donna] | Jiji, ¡mira este broche de gatito! ¡Está prácticamente hecho para Teresa!
+0025 [Donna] | Jefe, agarra también esta bolsa, ¿sí? ¡Mil gracias!
+0026 [Tú] | Hmph.==W== ¿Tres bolsitas? ¡Puedo con esto dormido!
+0027 [Donna] | Me encantan los diseños de zapatos de aquí. Combinarían perfecto con el vestido de Freesia.
+0028 [Donna] | Mmm... Si tengo que escoger uno de estos cinco, ¿cuál va mejor?==W== Ugh, olvídalo. Es imposible. ¡Me los llevo todos!
+0029 [Tú] | ¡¿Qué estrategia de compras es esa?!==W== ¡N-no, estoy bien!==W== ¡Amontónalos!
+0030 [Leatherworker] | ¡Gracias por su compra!==W== ¡Vuelvan pronto!
+0031 [Donna] | ¡Premio! ¡Encontré exactamente la misma bolsa mensajera que uso ahora! Le cabe una montaña de cartas. ¡Súper práctica!
+0032 [Donna] | ¿Jefe...? ¿Estás bien ahí atrás?
+0033 [Tú] | Uf... Estoy molido...==W== ¿Eh? ¡Y-yo estoy bien!==W== ¿Solo diez bolsas? ¡Es un paseo por el parque!
+0034 [Donna] | ¿En serio? Habría jurado que te oí decir que estabas molido...
+0035 [Tú] | Debes de haber oído mal. Ejem. ¡Esto es solo... un poco de cardio! ¡Vamos, todavía no terminamos!
+0036 [Donna] | Si tú lo dices... Pero déjame llevar algunas.==W== Solo di la palabra si necesitas un descanso, ¿sí?
+0037 [1] | Ugh... Se me están durmiendo los brazos.==W== Por suerte ya casi terminamos. ¡Hay que aguantar!
+0038 [1] | Aunque, viendo todo esto... Ni una sola cosa es para la propia Donna. ¿No parece alguien indiferente a la moda, verdad?
+0039 [Donna] | ¡Ahhh! ¡Nada supera un jugo frío después de ir de compras! Si todavía tienes sed, Jefe, adelante: pide otro.
+0040 [Tú] | Sí, déjame terminar este primero. De verdad compramos un montón de cosas hoy...
+0041 [Donna] | ¡Jeje! ¡Eso solo significa que sé escoger las mejores tiendas! ¡Ojalá con todo este equipo nuevo todos estén aún más animados con las entregas!
+0042 [Donna] | ¡Ah, cierto! Hablando de entregas, Freesia estaba...
+0043 [Donna] | ...==W==
+0044 [Tú] | ¿Mm? ¿Por qué se detuvo a media frase...?
+0045 [Donna] | Qué lindas...
+0046 [Tú] | ¿Donna está mirando a...==W== esas dos chicas?==W== ¿O son los vestidos rojos? Casi idénticos al que miraba hace rato.
+0047 [Tú] | ¿Mm?==W== ¿Será que...?
+0048 [Tú] | Donna,==W== ¿seguro que no se te olvidó nada de la lista de compras?
+0049 [Donna] | ¿Eh?
+0050 [Donna] | Pasé por todas las tiendas que quería y compré todo lo que necesitaba. No, ¡estoy casi segura de que eso es todo!
+0051 [Tú] | No sé si lo dice en serio o si solo finge indiferencia...
+0052 [Tú] | Bueno, entonces... En realidad hay algo que quería ir a ver. ¿Te importa acompañarme?
+0053 [Donna] | ¡Claro! Dame un segundo para terminar esta bebida.
+0054 [Donna] | ¿Quieres algo de aquí, Jefe? ¿No es aquí donde nos encontramos hace rato...?
+0055 [Tú] | Sí. En realidad estaba dudando si entrar cuando llegué.
+0056 [Donna] | Oh... ¿Algo de ahí dentro también te llamó la atención?
+0057 [Tú] | ¿«También»? Parece que pensamos igual.
+0058 [Donna] | Ah...
+0059 [Tú] | Jaja... Vamos. Me emociona ver a Freesia y a Teresa arregladas también, pero ya que estamos aquí... quiero ver también a una Donna linda y arreglada.
+0060 [Donna] | Jefe...==W==
+0061 [Donna] | ¡Ay, tú! Ya que lo pides tan bonito, ¡supongo que tendré que mostrarte mi lado lindo!
+0062 [Donna] | ¡Disculpe! ¿Puedo probarme el que está en el escaparate?
+0063 [Gentle Staff] | Por supuesto. Los probadores están por aquí.
+0064 [Tú] | Te esperaré allá.
+0065 [Donna] | ¡Ni hablar!==W== Tú también vienes. ¿No quieres ser el primero en ver a la nueva yo?
+0066 [Donna] | ¡Date prisa, vamos!
+0067 [Donna] | Oye…==W== ¿De verdad me queda bien esta ropa?
+0068 [Opción] | Te queda perfecta.
+0069 [Donna] | ¿D-de verdad?==W== Si tú lo dices, Tirano...==W== supongo que me tranquiliza.==W== Pero...==W== Puedes ver a través de mis sentimientos.==W== Eres increíble, Tirano.
+0070 [Opción] | Eso es porque eres fácil de leer, Donna.
+0071 [Donna] | Guh... Me da algo de coraje.==W== Pero la personalidad no es algo que se cambie fácilmente.
+0072 [Opción] | Estás bien tal como eres.
+0073 [Opción] | Esa es la Donna que todos quieren.
+0074 [Donna] | Ñajaja, ojalá.==W== Como líder de Post Haste,==W== me he esforzado por cumplir las expectativas de quienes me rodean...==W== Y al hacerlo,==W== me volví naturalmente la persona que soy ahora.
+0075 [Opción] | ¿Alguna vez te agobia la presión?
+0076 [Donna] | ¡Para nada!==W== O sea,==W== ¡porque de verdad adoro Post Haste!==W== Pero...==W== bueno, no soy perfecta.==W== A veces mis verdaderos sentimientos se me escapan.
+0077 [Opción] | Puedes darte gusto cuando estás conmigo.
+0078 [Donna] | ¡Ñajaja!==W== ¿En serio?==W== Si dices algo así,==W== ¡quizá diga un montón de cosas egoístas!
+0079 [Opción] | ¡Adelante!
+0080 [Donna] | Ejeje...==W== Gracias,==W== ¡Tirano!==W== Entonces, de ahora en adelante, solo frente a ti,==W== quizá sea un poquito exigente…==W== ¡cuando llegue esa hora,==W== tendrás que aceptarme por completo, sea como sea!
+0081 [Donna] | En ese caso, hoy me voy a consentir. ¡Voy a comprar todo lo que quiera!
+0082 [Tú] | ¿Qué tal esos de allá? Parecen de tu estilo.
+0083 [Donna] | ¡Buen ojo! Muy bien, me llevo esto, y aquello...==W== ¡Ooh, este también! ¡Cóbreme todo, por favor!
+0084 [Gentle Staff] | ¡Gracias! Se los envuelvo enseguida.
+0085 [Tú] | Ten,==W== déjame agarrar eso...
+0086 [Tú] | ¡¿Guau?!==W==
+0087 [Donna] | ¡¿Jefe?! ¿Estás bien?
+0088 [Tú] | Demasiadas... bolsas.
+0089 [Donna] | Mmm...==W== ¿Quizá me pasé un poquito?
+0090 [Donna] | Te propongo algo, Jefe... ¡Repartamos la carga mitad y mitad!==W== ¡La llevamos de vuelta y competimos a ver quién llega primero a Post Haste!
+0091 [Narración] | La montaña de bolsas casi se traga la diminuta figura de Donna, pero ella sale corriendo, vibrando de emoción.
+0092 [Narración] | Donna suele ser la líder confiable de Post Haste, siempre velando por su equipo. Pero este lado suyo, voluntarioso y despreocupado...
+0093 [Narración] | Supongo que soy el único que puede verlo. Al pensarlo, acelero el paso para alcanzarla.

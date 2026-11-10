@@ -1,0 +1,152 @@
+# Capítulo 8 · Calor residual · 4 · Trampa autocumplida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blade of the East | Espada del Este
+N:Shadow of the West | Sombra del Oeste
+N:Voice from the North | Voz del norte
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg1_144 | Chitose
+N:avg1_151 | Yunshu
+N:avg1_152 | Jiyue
+N:avg1_164 | Shuo
+N:avg3_100 | Sylar
+N:avg3_124 | Erinis
+N:avg3_128 | Ophir
+N:avg3_150 | Albedo
+N:avg3_199 | Chica de la pandilla
+N:avg3_215 | Matilda
+N:avg3_220 | Mercurio
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | El dilema de la autojustificación
+0003 [Intro] | Propones a Albedo para dirigir la investigación. Una semana después, una votación conjunta de las facciones en Emor decidirá si eres el Tirano. Tendrás que ganarte la confianza de todos y demostrar tu inocencia antes de que se acabe el tiempo.
+0004 [1] | Habla ==PLAYER_NAME==. Los escuché. Cooperaré con la investigación del Imperio de la Gracia y confío en que el resultado será justo.
+0005 [Voice from the North] | Agradecemos su comprensión. Entonces está decidido. Los Árbitros del Ocaso realizarán la investigación.==W==
+0006 [1] | Eso es lo único que no puedo aceptar.
+0007 [Voice from the North] | Bien...==W== ¿Qué?==W== Creí que eso era justo lo que acabábamos de acordar...
+0008 [Tú] | Acepté una investigación del Imperio de la Gracia,==W== no una dirigida unilateralmente por los Árbitros del Ocaso.
+0009 [Shadow of the West] | Jajaja... Ustedes, vejestorios, se pasan el día rezando y ahora ni siquiera pueden pensar con claridad. Están haciendo el ridículo.==W== Sinceramente, ¿quién cree hoy en día en ese anticuado Libro de las Profecías de la Gracia?
+0010 [Shadow of the West] | Déjennos a nosotros, el Ojo de la Gracia, llevar a cabo esta investigación.==W== Una de mis alumnas sería una buena candidata. Es excepcionalmente capaz y confiable. ¿Qué les parece?
+0011 [Blade of the East] | No intentes imponer tus propios intereses.==W== Tu definición de «confiable» es algo poco confiable. Permíteme recordarte la investigación sobre la magia de Nocturn Eterna.==W== ¡Ya pasaron diez años y todavía no entregas el informe que te pedimos!
+0012 [Shadow of the West] | No, la investigación mágica requiere cautela y paciencia. Un ciclo de diez años no es mucho en nuestro campo;==W== nuestro proyecto más antiguo lleva trescientos años en curso.
+0013 [Blade of the East] | ¿De verdad crees que alargar la investigación dará mejores resultados? Qué ilusa.==W== A este paso, ya estaré bajo tierra antes de que llegues a una conclusión.
+0014 [Shadow of the West] | ¿Entonces qué sugieres?==W== Tampoco es que tengas derecho a recomendar a nadie: apenas ayer te pusiste al día con las profecías del Tirano.
+0015 [1] | ¿En serio?==W== ¿Toda esta discusión mientras sigo en la línea?==W== Bueno...==W== Da igual. Esto hasta podría salirme a favor.
+0016 [Tú] | Si me permiten, me gustaría que Albedo dirigiera la investigación.==W== Si voy a aceptar esto, al menos debería tener voz en quién queda a cargo.
+0017 [Shadow of the West] | Mmm...==W== Albedo...==W== Es del tipo cauteloso. No se tomará las profecías al pie de la letra.
+0018 [Voice from the North] | No tengo objeciones.==W== Dada su profunda devoción por el Dios de la Gracia,==W== no espero que su juicio falle.
+0019 [Blade of the East] | Por mí está bien. Ella sí cumple,==W== a diferencia de ustedes dos.==W==
+0020 [Narración] | Y así, sin más, quedó hecha la asignación. Aunque todavía tenemos dudas sobre el Imperio de la Gracia, de algo estoy seguro:
+0021 [Narración] | La investigación está en manos de alguien en quien puedo confiar.
+0022 [Lugar y hora] | 14:30, 24.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0023 [Noya] | ==PLAYER_NAME==, ¡¿cómo puedes dejar que hagan su supuesta investigación y decidan tu destino?!==W== Todos son de la misma empresa. Claro que van a encubrir a los suyos.
+0024 [Iris] | Calma, Noya.==W== Los Aspectos de la Tétrada ya destituyeron a Angie y declararon oficialmente herético al Comité de Salvación.==W== No creo que estén coludidos con ella.
+0025 [Amber] | Aun así, podría ser solo una fachada,==W== y la investigación podría ser una trampa.
+0026 [Chitose] | Mi ==SEX11==, yo también creo que esto lo pondrá en grave peligro.==W== Es como tomar una espada por el filo y ofrecerle la empuñadura a otro.
+0027 [Tú] | Entiendo sus preocupaciones, y yo tampoco confío en el Imperio de la Gracia.==W== Pero la llamada me dejó algo en claro.
+0028 [Tú] | A los miembros de los Aspectos de la Tétrada solo les importan sus propios intereses. Están demasiado ocupados vigilándose unos a otros como para trabajar juntos.
+0029 [Noya] | Aun así,==W== no tienes por qué aceptar su investigación, ¿verdad?==W==
+0030 [Tú] | Miren,==W== chequen este periódico que acaba de traer Mistique.
+0031 [Iris] | ¿Qué dice?==W== Oye,==W== ¡trae un suplemento!
+0032 [Iris] | «¡La directora del Instituto del Cielo, Angie, advierte de una catástrofe inminente! ¡Jura enfrentarse al malvado Tirano detrás de Boss Accord!».==W== Mistique,==W== ¡¿qué clase de tontería es esta?!
+0033 [Mistique] | Oye,==W== ¡no me mires así! Yo no escribí esto.==W== ¡La sede lo mandó y exigió que lo repartiéramos con el periódico de esta mañana!
+0034 [Mistique] | Es lógico suponer que el Comité de Salvación también tiene gente dentro de Scarlet Sights.
+0035 [Tú] | Eso lo explicaría... Mistique, necesito tu opinión. ¿Cuándo crees que se imprimió este suplemento?
+0036 [Mistique] | Déjame pensar. Para que llegara hoy a Philae...==W== Debieron de imprimirlo en la sede hace por lo menos una semana.
+0037 [Tú] | Justo lo que sospechaba.==W== Por eso acepté la investigación.
+0038 [Noya] | ¡P-pero todo este artículo es una noticia falsa!==W== ¿No acaban de decir los Árbitros del Ocaso que...?==W==
+0039 [Voice from the North] | Sin embargo, Angie y el Comité de Salvación violaron claramente la doctrina del texto sagrado. Más tarde, el día de hoy, los Árbitros del Ocaso despojarán a Angie de todos sus cargos y declararán al Comité una organización herética.
+0040 [Tú] | Exacto.==W== La clave es «más tarde». No fijaron un plazo concreto. Es presión disfrazada.==W== Si rechazo la investigación, simplemente seguirán retrasándolo con una excusa tras otra.
+0041 [Tú] | Y eso solo haría que el rumor del «malvado Tirano» se extendiera por todas partes.==W==
+0042 [Tú] | Así que acepté la rama de olivo y usé la noticia de la destitución de Angie para contrarrestar el impacto de su suplemento.==W== Así de simple.
+0043 [Tú] | Dicho esto,==W== los Árbitros del Ocaso seguramente también lo previeron. Probablemente por eso hicieron esta propuesta en primer lugar...
+0044 [Noya] | ¡Los Árbitros del Ocaso son unos tramposos!==W==
+0045 [Tú] | Yo no diría tramposos. Cazar herejes es su trabajo, ¿y quién podría ser más hereje que el legendario Tirano?==W== Cuando se les presenta una oportunidad así, la aprovechan sin dudar.
+0046 [???] | Permíteme corregirte, Jefe.==W== El legendario Tirano no es un hereje. ==SEX1== es el archienemigo del Dios de la Gracia,==W== quien se opone a lo divino.
+0047 [???] | Los Árbitros del Ocaso no te han tratado con el mismo nivel de alerta máxima.==W== De verdad no querrás saber cómo tratan a los herejes de verdad.
+0048 [Tú] | Mmm...==W== Ya veo.==W== Ahora, sobre esta investigación...==W==
+0049 [Albedo] | La señorita Nyx me informó de la situación. Le agradezco la recomendación,==W== pero eso no influirá en mi juicio.==W== Basaré mi dictamen únicamente en el procedimiento formal y en los hechos pertinentes, para garantizar un resultado justo.
+0050 [Tú] | Claro. Eso es justo lo que quiero. Si te inclinas a mi favor, solo me complicarás las cosas.
+0051 [Albedo] | Quédese tranquilo, Jefe.==W== Seguiré las reglas del Imperio de la Gracia y me mantendré estrictamente dentro de mi autoridad, sin emprender ninguna acción ofensiva. Mi análisis se basará solo en información pública,==W== y no tomaré en cuenta el Libro de las Profecías de la Gracia.
+0052 [Tú] | Te lo agradezco...==W== pero, siendo miembro del Imperio de la Gracia, ¿de verdad está bien que descartes el libro así?
+0053 [Albedo] | Cuando los Aspectos de la Tétrada me pusieron a cargo, ya debían de esperarlo.==W== Estoy actuando en pleno cumplimiento de las reglas y los procedimientos de la empresa.
+0054 [Albedo] | A fin de cuentas,==W== el Imperio de la Gracia es una corporación con ética empresarial.
+0055 [Albedo] | Debemos sopesar los riesgos que representa el legendario Tirano, pero también tenemos que lidiar con la ansiedad pública==W== y el desorden social que causó el comportamiento imprudente de la exdirectora Angie.
+0056 [Albedo] | Si dejamos que afirmaciones falsas como «el mundo está a punto de acabarse» provoquen pánico,==W== nuestros propios intereses saldrán perjudicados.
+0057 [Tú] | Así que, por muy enorme que se vuelva el Imperio de la Gracia,==W== sigue sujeto a las reglas corporativas.
+0058 [Tú] | Supongo que a Albedo le importa menos revelar mi identidad que los rumores de que el Tirano podría destruir el mundo...==W==
+0059 [Albedo] | Ahora reuniremos pruebas sobre si usted es o no el legendario Tirano,==W== y puede presentar cualquier cosa que verifique su identidad.
+0060 [Albedo] | Dentro de un mes se celebrará en Emor la Conferencia anual de la Cámara de Comercio e Industria de Nova.==W== Ahí convocaré a los representantes de las empresas para revisar las pruebas, y ellos votarán para determinar su identidad.
+0061 [Noya] | ¡¿Una votación?! ¡¿Qué tiene eso de justo?!==W== ¡Ustedes podrían amañarla como quisieran!
+0062 [Albedo] | ¿Amañarla? Bueno...==W== Tenemos que enfrentar un problema clave: ninguna cantidad de pruebas bastará para demostrar o desmentir los rumores sobre ==PLAYER_NAME==.
+0063 [Albedo] | En una situación así, lo mejor que podemos hacer es dejar que la gente crea lo que quiera y presentarlo como una «verdad universal».
+0064 [Tú] | En otras palabras, al Imperio de la Gracia solo le importa mantener la estabilidad social en Nova. Si soy el Tirano o no, da igual. Albedo de verdad se ha mantenido firme...
+0065 [Tú] | ...Y su postura definitivamente me favorece. Elegirla fue la decisión correcta.
+0066 [Tú] | Estoy totalmente de acuerdo. Esto en realidad me da la oportunidad de mostrarles a todos los novianos quién soy de verdad.==W== Debería agradecerte por ser tan considerada, Albedo.
+0067 [Albedo] | No tiene que agradecerme. Tiene derecho a exponer su caso ante el público. Y cuando está en juego el futuro del mundo, las demás empresas, y la gente de toda Nova, también tienen derecho a conocer la verdad.
+0068 [Tú] | Muy bien, entonces esperaré con ganas la conferencia.
+0069 [Albedo] | Gracias por su cooperación.==W== Una cosa más. Antes de partir hacia Emor, deberá enviar un video corto cada día que documente sus actividades en Philae. Le escribiré unas instrucciones.==W== Después, Scarlet Sights transmitirá el video por toda Nova.
+0070 [Tú] | ¿Por qué? ¿Quieres que le dé al público pruebas diarias de que no soy una amenaza?
+0071 [Albedo] | Algo así, y sobre todo,==W== necesitamos demostrarles a quienes creen en las profecías que usted no tiene ninguna intención de destruir el mundo, y que nunca la tendrá.
+0072 [Lugar y hora] | 21:00, 24.º del mes de Venatio, Distrito Invernadero, Núcleo del laboratorio
+0073 [1] | Hmph.==W== ¿Quién diría que el lugar más seguro de Philae es justo este?
+0074 [Firenze] | Curioso, ¿no?==W== Esta fortaleza que construyó Darcia es, en la práctica, un bastión del «ejército del Tirano».
+0075 [Firenze] | Con tu espada vigilando el pasadizo secreto y yo resguardando la entrada,==W== es impenetrable.==W== Ni siquiera el Comité de Salvación podría entrar.
+0076 [Firenze] | Je...==W== Aparte del Monolito, este es sin duda el lugar más seguro de todo Philae.
+0077 [Noya] | Amber,==W== ¿todo despejado?
+0078 [Amber] | Sí,==W== nada sospechoso.
+0079 [Iris] | Uf. Firenze, Jefe, hicimos un barrido completo y no encontramos ningún Artefacto de vigilancia.==W== Aun así...==W== Reunirnos en una fortaleza subterránea como esta se siente muy conspirativo, como si estuviéramos tramando algo. Hace que se te acelere el corazón, ¿no?
+0080 [Firenze] | Eso es exactamente lo que estamos haciendo.==W== Esta tarde, el Jefe y yo fuimos a tantear qué postura tienen las demás empresas. Esto es lo que averiguamos...==W==
+0081 [Matilda] | Hola, Jefe. ¿A qué se debe esta llamada tan repentina? Voy de regreso a Nueva Orelia...==W== Ah, no me malinterpretes. No es que estés interrumpiendo nada.
+0082 [Matilda] | El legendario Tirano...==W== Perdón, todavía no he tenido oportunidad de leer el periódico de hoy.
+0083 [Matilda] | Aún no conozco todos los detalles, pero en cuanto llegue a Nueva Orelia, haré todo lo posible por convencer al Senado de que te apoye en la próxima conferencia.==W== Mientras tanto, cuídate mucho.
+0084 [Erinis] | ¿El legendario Tirano? Sí, ya me enteré. Jefe, sí que estás haciendo un buen trabajo para darte a conocer. Eres famoso en toda Nova.
+0085 [Erinis] | ¿Y ahora qué sigue? ¿Expandir tu negocio? Si quieres, Finanzas del Mar Profundo puede ofrecerte un préstamo especial para acelerar las cosas.
+0086 [Tilia] | Perdón por hacerte venir para nada, pero la comandante Greyhorn ya se fue de Philae. Creo que la convocaron para algún tipo de misión especial.
+0087 [Tilia] | Algo relacionado con la Conferencia de la Cámara de Comercio e Industria...==W== Eso está muy por encima de mi rango.==W== Solo soy una escudera... Perdón por no poder ayudar más.
+0088 [Tilia] | Pero oí que==W== algunos altos mandos se toman muy en serio el Libro de las Profecías de la Gracia...
+0089 [Yunshu] | Cangwu siempre ha sostenido que las leyendas no ofrecen ninguna orientación práctica.
+0090 [Yunshu] | Y nos oponemos firmemente a la idea de cargar el destino de toda Nova sobre una sola persona.
+0091 [Jiyue] | Vaya, Yunshu, imitaste su tono a la perfección.==W== Así es justo como hablan nuestros voceros oficiales. Por así decirlo, esa es nuestra postura.
+0092 [Jiyue] | Además...==W== Si de verdad fueras quien va a acabar con el mundo, a estas alturas todos estarían de rodillas. ¿Quién se atrevería a dudar de tu identidad?==W== Jeje,==W== es broma~
+0093 [Ophir] | Hola, Jefe, ¿vienes a dejar el video de hoy? ¡Gracias~!==W==
+0094 [Ophir] | ¿Eh? ¿La postura de Scarlet Sights? Eh... Yo solo soy una bruja de poca monta.==W== No tengo ni idea de lo que piensan los de arriba.
+0095 [Ophir] | Pero sí sé una cosa: a todas las brujas nos encanta una buena primicia. Así que probablemente elijan lo que haga más ruido.
+0096 [Shuo] | Jefe,==W== ¿en qué demonios está pensando el Imperio de la Gracia?==W== ¿Cómo pueden ser tan duros con alguien tan amable como usted?
+0097 [Shuo] | Pero no hay de qué preocuparse.==W== Goodwind Homecare trabaja de cerca tanto con Cosecha Unida Philae como con Boss Accord. Lo apoyaremos sin importar las circunstancias.
+0098 [Shuo] | (Solo un tonto se creería un rumor sin fundamento como ese.==W== Además,==W== hasta que dé con alguna pista de Otoha, necesito que Boss Accord siga funcionando.)
+0099 [Mercurio] | ¡¿F-Firenze está llamando desde Philae?!==W== Ya sacamos el negocio de ahí, ¡¿por qué no nos deja en paz?!
+0100 [Mercurio] | ¿Qué? ¿Contrató uno de nuestros seguros? ¿Ya es clienta oficial?==W== Eh... Ugh...==W== Supongo que tendremos que atenderla.
+0101 [Mercurio] | ¿Y de qué se trata?==W== ¿Qué?==W== ¿Quiere saber nuestra opinión sobre el legendario Tirano?
+0102 [Mercurio] | Bueno,==W== dile esto: si logra que ese Tirano contrate uno de nuestros seguros de primera categoría, ¡Omnisky Aegis la respaldará hasta el final!
+0103 [Tú] | Así están las cosas. Solo el Comedor Fenghuang y Goodwind Homecare están claramente de nuestro lado. Todos los demás dijeron cosas bonitas, pero no prometieron nada.
+0104 [Noya] | La gran inspectora Matilda dijo que nos apoyaría.==W== ¿Por qué no cuentas su voto?
+0105 [Firenze] | El Senado de Cosecha Unida ahora responde a la facción de Nueva Orelia, así que, aunque ella esté de nuestro lado, no puede hablar por toda la empresa.
+0106 [Firenze] | A la facción de Nueva Orelia le conviene que el Jefe caiga, así que no esperen que Cosecha Unida vote a nuestro favor.
+0107 [Firenze] | Solo hemos hablado con un puñado de empresas. Todavía quedan muchas más. En resumen...==W== creo que aún necesitamos pruebas sólidas de que el Jefe no es el Tirano.
+0108 [Noya] | ¿Y cómo se supone que se demuestra algo que no es?==W== Eso es imposible.
+0109 [Tú] | Tenemos poco tiempo y muy poco con qué presionar. No podemos sobornar ni cabildear como hicimos durante la guerra de pujas, así que nuestra única opción es reunir pruebas.
+0110 [Amber] | ¿Y si==W== intentamos lo contrario?
+0111 [Noya] | Lo contrario...==W== ¡Ah, claro! En lugar de demostrar que ==PLAYER_NAME== no es el Tirano, solo tenemos que demostrar que ==SEX== es un Trekker común y corriente que perdió ==SEX3== recuerdos.
+0112 [Noya] | En cuanto averigüemos el pasado de ==PLAYER_NAME== antes de que encontráramos a ==SEX4==, toda la teoría del Tirano se vendrá abajo sola.
+0113 [Firenze] | Me contaron que==W== encontraron a ==PLAYER_NAME== inconsciente dentro de un Monolito en el desierto. ¿Es cierto?
+0114 [Iris] | Sí. Arrastramos la Caja de Deseos con ==PLAYER_NAME== adentro hasta sacarla del Monolito. Ahora que lo pienso... Es bastante increíble que de verdad lo hayamos logrado...==W==
+0115 [Firenze] | ¿Y si no era una Caja de Deseos? ¿Y si no tenía nada que ver con el Monolito?==W== Podría ser solo una caja que trajo algún Trekker cualquiera.
+0116 [Iris] | Lo dudo. Esa caja estaba literalmente incrustada en el suelo del Monolito. Pero si me preguntas cómo la sacamos... Eso no lo sé...
+0117 [Firenze] | ¿Incrustada...==W== en el suelo?==W== Como sea, una investigación a fondo de la caja y del Monolito podría darnos algo sobre la verdadera identidad del Jefe.
+0118 [Amber] | Tiene sentido.==W== Me apunto.
+0119 [Tú] | Volver al desierto para explorar el Monolito... Suena a un buen plan. Pero tendrán que ir sin mí. Necesito quedarme aquí para grabar y enviar a diario los videos de prueba a Scarlet Sights.
+0120 [Firenze] | No, Jefe, tú vas con el Gremio de la Nueva Estrella. Se trata de encontrar pruebas de que TÚ eres un Trekker común y corriente, así que tienes que estar ahí en persona.
+0121 [Firenze] | Si no, podrían pasar por alto algo crucial.
+0122 [Tú] | Entiendo, pero ¿y nuestro acuerdo con Albedo?
+0123 [Firenze] | No te preocupes. Ya lo hablé con ella. Lo único que exige es que se envíe un video cada día.
+0124 [Firenze] | Eso nos da cierto margen. Te sacaré de Philae sin romper las condiciones.

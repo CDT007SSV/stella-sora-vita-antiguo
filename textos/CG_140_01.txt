@@ -1,0 +1,114 @@
+# Historia de Sparkla · 1 · Sparkla's Troubles (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_126 | Flora
+N:avg1_140 | Sparkla
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Los problemas de Sparkla (Parte I)
+0003 [Intro] | Una genio inventora ha chocado inesperadamente con un muro creativo. ¿A dónde debería ir para encontrar nueva inspiración?
+0004 [Narración] | ¡Riiing! ¡Riiing!
+0005 [Tú] | Mmm... ¿eh...?
+0006 [Narración] | ¡Riiing! ¡Riiing! ¡Riiing! ¡Riiing! ¡Riiing! ¡Riiing!
+0007 [Tú] | Mrrf...==W== Solo cinco minutos más...
+0008 [Tú] | ¡Waaaaaaaaah...?!
+0009 [Tú] | Auch... ¿Qué demonios fue eso?
+0010 [Tú] | ¡¿Un despertador?! ¡Así que tú eres el culpable...!
+0011 [Tú] | Hasta tiene resortes integrados en la base. Esta cosa está claramente diseñada para golpear físicamente a la gente si no se levanta... ¿¡Quién rayos diseñó esto!?
+0012 [Tú] | ...==W== Aun así, después de todo eso, ya me desperté de verdad.
+0013 [Tú] | Hoy es mi primer día de trabajo, después de todo... De ninguna manera puedo quedarme dormido.
+0014 [Tú] | ¡Porque a partir de hoy soy... ==W====SEX19== de Sparkla!
+0015 [Narración] | Dos días antes...
+0016 [Narración] | Sparkla te envió una dirección.
+0017 [Sparkla] | Ahora mismo estoy en esta dirección.
+0018 [Sparkla] | Rabbit Pie estará fuera de línea por mantenimiento de rutina durante un tiempo.
+0019 [Sparkla] | Así que quería pedirte que hicieras algo por mí.
+0020 [Tú] | ¿Cuál es el trabajo y cuánto pagan?
+0021 [Sparkla] | Quiero que ocupes el lugar de Rabbit Pie y seas mi ==SEX19==.
+0022 [Sparkla] | El pago es de 300,000 Dorra al día, con alojamiento y comida incluidos.
+0023 [Sparkla] | ¿Aceptarás, ==PLAYER_NAME==?
+0024 [Tú] | Déjamelo a mí. ¡Hasta mañana!
+0025 [Tú] | 
+0026 [Tú] | TRESCIENTOS MIL Dorra... Jeje, más me vale tomarme este trabajo en serio.==W== Primero, ¡dejaré que Sparkla pruebe mi platillo estrella: las tostadas! No hay desayuno sin tostadas.
+0027 [Tú] | El horno... Este debe de ser el horno, supongo.==W== ¡Muy bien, a empezar!
+0028 [Narración] | Cinco minutos después...
+0029 [Narración] | ¡Ding!
+0030 [Tú] | ¡¿Qué?! ¡¿P-por qué el horno lanza confeti?! ¡Son solo tostadas! ¿¡No es un poco exagerado!?
+0031 [Sparkla] | Jaaah...==W== Terminar un platillo es motivo de celebración. Y una función como esta es genial para subir la moral del cocinero...
+0032 [Sparkla] | Cocinar también es una especie de trabajo creativo. No subestimes el esfuerzo detrás de cada platillo...==W== Jaaah...
+0033 [Tú] | Eh... ¿Sparkla?==W== No te ves muy bien. ¿Quieres volver a dormir un rato?
+0034 [Sparkla] | Jaaah... Estoy bien.==W== Ya es hora de levantarse... Y huelo las tostadas...
+0035 [Tú] | ...==W== Ya veo. El trabajo ha estado duro, ¿eh?
+0036 [Sparkla] | Sí... Últimamente me he topado con un muro en el diseño del Pastel del Tirano. Me ha estresado tanto que casi no he dormido.
+0037 [Tú] | Pastel del Tirano... Cierto,==W== Sparkla ya había mencionado que estaba desarrollando un autómata de apoyo para escalar el Monolito basado en mí.
+0038 [Tú] | Pero hasta tú te atoras a veces, ¿eh? Pensé que eso jamás le pasaría a alguien como tú.
+0039 [Sparkla] | Bueno, quizá es porque el Pastel del Tirano es lo único en lo que he podido pensar últimamente. Supongo que por eso no he avanzado nada nuevo...
+0040 [Tú] | Vale... No puedo ayudar mucho con tus inventos. Entonces... ¿Por qué no desayunamos primero?
+0041 [Tú] | Ñam, ñam, ñam...==W== Mmm, ¡esto sabe increíble, como siempre!==W== Bueno, ¿Sparkla? ¿¡Qué tal las tostadas en las que puse el corazón y el alma!?
+0042 [Sparkla] | Ñam... Ñam...==W== Sí... Están muy buenas...
+0043 [Tú] | S-sigue con cara de muerta de cansancio incluso después de comerse mis tostadas...==W== Si esto sigue así, sentiré que no merezco los 300,000 Dorra al día...
+0044 [Sparkla] | Suspiro... Sigo sin tener ánimos. A estas alturas, solo queda una cosa por hacer...
+0045 [Sparkla] | Jefe. ¿Puedes venir un momento?==W== Sí, siéntate a mi lado.
+0046 [Tú] | ¿Mm? ¿Quieres que me siente aquí?
+0047 [Sparkla] | No, no. Un poquito más cer~~~~ca.
+0048 [Tú] | ¡¿Eh?! ¿¡E-es demasiado cerca...!?
+0049 [Sparkla] | Mmm... ¡Sí!==W== Esta es la distancia perfecta♪
+0050 [Tú] | ¡Espera, espera, esto es demasiado cerca! ¿¡Y qué tiene exactamente de «perfecta»!?
+0051 [Sparkla] | Jaaah... Tal como pensé, Jefe, eres tan lindo.
+0052 [Sparkla] | Esos ojos azules son como los de una sirena de cuento de hadas. Ah, y hasta la forma de tus pupilas es preciosa~
+0053 [Sparkla] | Y estas mejillas son tan suaves y tersas.
+0054 [Sparkla] | Podría hacer esto para siempre~
+0055 [Tú] | B-basta ya...
+0056 [Sparkla] | Y tus orejas también... ¿Puedo ... tocarlas un poquito? Jijiji~♪
+0057 [Tú] | ¡M-me da cosquillas!==W== ¡De verdad me da cosquillas, ya para!
+0058 [Sparkla] | Aww, ¿no me dejas tocarlas un poquito más?
+0059 [Sparkla] | Ahora que lo pienso, es asombroso que exista alguien que coincide exactamente con mi tipo, y que además sea alguien que conozco...==W== Qué suerte tengo♪
+0060 [Sparkla] | Ahora que recuperé las energías, de repente me muero de hambre.==W== Jefe, ¿podrías tostarme otra rebanada?
+0061 [Tú] | ¿Recuperaste el apetito solo con mirarme la cara?
+0062 [Tú] | ¿Todos los inventores son así de raros o qué...?
+0063 [Tú] | Vaya, apenas quité un poco de polvo y ya hay tanto. No sabía que el lugar estuviera tan sucio.
+0064 [Tú] | ...
+0065 [Sparkla] | (Miraaa—)
+0066 [Tú] | ¡Bien! Ahora quitaré el polvo de los muebles y las paredes también. De paso puedo abrir las ventanas y ventilar el lugar.
+0067 [Sparkla] | (Miraaa~~)
+0068 [Tú] | ¡Bien! Parece que también andamos cortos de ingredientes. ¡Debería salir a comprar víveres para el almuerzo!
+0069 [Sparkla] | (Miraaa—~~~)
+0070 [Tú] | ...==W== ¡Me mira demasiado fijo! ¡No hay forma de concentrarme en los quehaceres así!
+0071 [Tú] | Tengo que distraerla...
+0072 [Tú] | B-bueno, entonces, después de toparte con el obstáculo, ¿has intentado conversarlo con Bloc o con Leona?
+0073 [Tú] | A veces escuchar una opinión externa puede despertar una idea.
+0074 [Sparkla] | ¿Ah, esos dos? Los bloqueé anteayer.
+0075 [Tú] | ¡¿Qué?! ¿¡No acababas de desbloquearlos hace una semana!?
+0076 [Sparkla] | Porque Bloc no dejaba de bombardearme con mensajes.
+0077 [Sparkla] | Y Leona no paraba de ponerle peros al nombre «Pastel del Tirano». Dijo algo como que «Unidad Cápsula Tic-Tac Boing-Boing» sonaría mejor. Absolu~~tamente sin gusto.
+0078 [Sparkla] | Si dejas que los demás te arrastren todo el tiempo, nunca se te ocurrirán buenas ideas.==W== Así que decidí bloquearlos otra vez.
+0079 [Tú] | ...==W== Lo que significa que Bloc probablemente vendrá a llorarme más tarde porque no puede contactarte, otra vez.
+0080 [Sparkla] | Ugh, solo de pensarlo me fastidio. Dejémoslo.
+0081 [Tú] | Entonces, ¿qué tal si haces otra cosa para variar? Quizá te ayude a despejar la mente.
+0082 [Tú] | En el Gremio de la Nueva Estrella lo hacemos todo el tiempo. Cuando necesitamos un descanso, Iris se pone a resolver preguntas de práctica, Noya siempre va a afinar a Loxy. Y Amber sale corriendo a jugar con Inky.
+0083 [Tú] | Sparkla, ¿tienes algún pasatiempo que te ayude a relajarte? O simplemente algo que te guste hacer.
+0084 [Sparkla] | Cosas que me gusta hacer...==W== Supongo que pasar todo el día en el taller inventando cosas.
+0085 [Tú] | Pues suena bien. En ese caso, ¿por qué no inventar algo como forma de relajarte...
+0086 [Tú] | Espera. Intentar superar un bloqueo creativo en inventar inventando es solo un bucle lógico, ¿no...
+0087 [Tú] | Ejem... Bien, dejemos los inventos a un lado. Cualquier otra cosa está bien.
+0088 [Sparkla] | Mmph~ Cualquier otra cosa, eh...
+0089 [Tú] | ¿Y los cuentos de hadas? Parece que hay muchos en tu librero.
+0090 [Sparkla] | Antes los leía todo el tiempo. También leí muchas historias sobre Trekkers...==W== Solía coleccionar obras publicadas en Flavio.
+0091 [Sparkla] | Pero últimamente no he podido encontrar libros nuevos en absoluto...
+0092 [Tú] | Lo sabía. Sí le encantan los cuentos de hadas...==W== Recuerdo que Flora mencionó que una compañía teatral de la ciudad de Flavio está de gira con una obra de cuentos de hadas.
+0093 [Tú] | Eso podría ser justo lo que ayude a Sparkla a distraerse. Debería preguntar por ahí.
+0094 [Tú] | Perfecto. Esa compañía está en Philae ahora mismo.
+0095 [Tú] | Sparkla, ¿quieres ir a ver una obra de cuentos de hadas?
+0096 [Sparkla] | Una obra de cuentos de hadas...==W== ¿Hablas de El Mago del Castillo Esmeralda?
+0097 [Tú] | Así es. ¿La conoces?
+0098 [Sparkla] | Es una obra famosa. Y además...
+0099 [Sparkla] | Pensándolo bien, olvídalo. No debería salir. Sigo en la lista de buscados de la Guardia Imperial, así que será mejor no dejarme ver en público.
+0100 [Tú] | No pasa nada. He visto tu cartel de se busca. No se parecía en nada a ti.
+0101 [Tú] | Y Rabbit Pie está en mantenimiento hoy, así que si no lo llevamos con nosotros, no llamarás la atención. Será totalmente seguro.
+0102 [Sparkla] | Eso tiene sentido.==W== El retrato de ese cartel era tan feo que casi quise pedirles que lo redibujaran. Pero como dices, resulta que eso es algo bueno.
+0103 [Tú] | Entonces preparémonos para salir.
+0104 [Sparkla] | ¡Sí! ¡Vamos!

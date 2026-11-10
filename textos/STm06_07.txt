@@ -1,0 +1,124 @@
+# Capítulo 6 · Milagro de un destello · 7 · A Reluctant Deal
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_135 | Mistique
+N:avg2_957 | Hierbajo Tirador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1250 | Empleado de Cosecha Unida
+N:avg3_1262 | Guardabosques de Cosecha Unida
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Un trato a regañadientes
+0003 [Intro] | Tras ganarse su confianza, Firenze y tú intercambian información. Ella señala que la pieza del Alfil que está en el tanque es la clave para derrotar a Darcia. Decides sumergirte para recuperarla, aprovechando tu inmunidad a la magia.
+0004 [Lugar y hora] | 18:30, 5.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0005 [Firenze] | Entonces seré directa:==W== acepte la lealtad de Lady Darcia, átela con un «pacto de almas» y ordénele que se rinda ante la sede.
+0006 [Firenze] | Permítame ser perfectamente clara para evitar cualquier... malentendido.==W== Escuche bien. Esto no es una petición. Es una orden. Y mi estoque no es famoso por su paciencia.
+0007 [Firenze] | Solo Darcia y sus elegidos pueden entrar en este santuario. No espere que las Plantas Inteligentes de afuera lo salven.
+0008 [Tú] | Firenze definitivamente trama algo. Pero llegar a este extremo solo para obligarme...==W== ¿Por qué está tan desesperada?
+0009 [Opción] | Dar un paso al frente
+0010 [Narración] | Siento un leve ardor en el cuello. El estoque en mi garganta tiembla por una fracción de segundo y luego se retira de golpe.
+0011 [Firenze] | Jefe, está loco. ¿No le teme a la muerte?
+0012 [Tú] | Claro que sí. Pero no tenemos tiempo para jueguitos. Además...
+0013 [Tú] | Tú no estás del lado de Darcia, ¿verdad?
+0014 [Tú] | Ya me di una buena idea de por qué me acorralaste así...==W== Pero necesito oírtelo decir, Firenze.
+0015 [Firenze] | Tiene razón. No somos aliadas. Pero dígame...==W== ¿Cuándo se dio cuenta?
+0016 [Tú] | Dejaste demasiados cabos sueltos.
+0017 [Mistique] | O sea que==W== este «Usuario anónimo» intervino mi teléfono hoy sin que me diera cuenta.==W== Mandó la solicitud,==W== soltó la información y luego me eliminó al instante.
+0018 [Mistique] | Como bruja, he tenido mi buena dosis de informantes secretos.==W== Pero este es el trabajo más limpio que he visto. No sentí nada y tampoco puedo rastrear nada.==W== Sea quien sea, es profesional.
+0019 [Tú] | Primero, nuestras prácticas en Producción. La única persona que pudo haberse «topado» con Mistique==W== y que tenía la habilidad para intervenir su teléfono sin ser detectada tenía que ser una especialista en combate.
+0020 [Tú] | Si Ruby y Sapphire fueran tan buenas, no las habría humillado una Hierba Radiante Mandrágora cualquiera.
+0021 [Iris] | Esperen. Si alguien se cuela después del mantenimiento oficial, ajusta la configuración==W== y luego la restablece justo antes de la siguiente revisión...==W== ¡Podría hacer lo que quisiera sin que nadie lo notara!
+0022 [Tú] | Y por último, a pesar del caos que causaron Joseph y los demás, Producción no movió ni un dedo. Como directora a cargo, ese silencio apunta directo a ti.
+0023 [Firenze] | Lleven a todos al Distrito de las Cenizas. Guarden sus explicaciones para la sala de interrogatorios.
+0024 [Tú] | Por una fracción de segundo, de verdad pensé que tú eras quien movía los hilos detrás de todo esto...
+0025 [Tú] | Hasta que==W== vi ese mapa en la sala VIP.
+0026 [Firenze] | ¿Ah, sí? ¿Y qué encontró?
+0027 [1] | Esa era tu letra en el mapa, ¿verdad?==W== Marcaste la sala de interrogatorios al suroeste. Justo en el borde de la ciudad. Saltas el muro y ya estás en el bosque.
+0028 [1] | Así que te estabas haciendo de la vista gorda con nuestra fuga... No. Querías que huyéramos, ¿verdad?
+0029 [Firenze] | Bravo. Tratar con gente lista me ahorra mucho esfuerzo.==W== Había planeado un pequeño «accidente» afuera de la sala de interrogatorios, pero Darcia se me adelantó.
+0030 [Firenze] | Ahora es mi turno. Sobre Nyx, dentro de ese tanque...
+0031 [1] | ¿Nyx? Ya veo.==W== Así que de verdad está de tu lado.
+0032 [1] | ¿Quieres que la saque de ahí?
+0033 [Firenze] | No se equivoque. Hace mucho que aceptamos que podríamos ser sacrificadas por este plan.
+0034 [Firenze] | El éxito es nuestra única esperanza. Pero la victoria depende de la cooperación de la sede...==W== Y se han tardado tanto que toda la operación se salió de control.
+0035 [1] | Espera...==W== La legión de afuera. ¿Se suponía que iban a atacar al amanecer? ¿Por eso mirabas el cielo?
+0036 [1] | Aunque lleguen un día tarde, están cerca...==W== Todavía no estamos en un callejón sin salida, ¿o sí?
+0037 [Firenze] | Es difícil saberlo.==W== Si estuvieran cerca, sin duda habrían notado el disturbio aquí dentro.
+0038 [Firenze] | Y aun así siguen de brazos cruzados en el campamento de Trekkers. O el comandante es un incompetente, o las tropas no tienen la disciplina para atacar después de una marcha forzada.
+0039 [Firenze] | De cualquier forma, no tienen ninguna oportunidad contra Darcia.==W== Por eso, Jefe, le ofrezco un pacto de almas. Siempre y cuando pueda...
+0040 [Opción] | No. No puedo.
+0041 [Tú] | Mi pacto de almas no controla a las personas. No puedo obligarla a rendirse así nada más.
+0042 [Tú] | Parece leal, claro, pero esa lealtad funciona con su propia lógica retorcida. No obedece mis órdenes a ciegas.==W== ¿Y dónde oíste hablar de los «pactos de almas», de todos modos?
+0043 [Firenze] | Me lo dijo un informante...
+0044 [Tú] | ¿Ese informante llevaba una capa?
+0045 [Firenze] | Sí. El que opera desde el campamento de Trekkers.
+0046 [Tú] | Serena. Era de esperarse. Entonces me ahorraré la explicación. Yo concedo un deseo, y el precio es tu alma.
+0047 [Tú] | En otras palabras, tomo tu alma y luego cumplo tu deseo.
+0048 [Firenze] | Cumplir mi deseo...
+0049 [Tú] | Sí. Pero ni con un pacto puedo controlar a Darcia.
+0050 [Tú] | Lo del arresto domiciliario se lo puedo perdonar.==W== ¿Pero lastimar a mis amigas? Ahí sí pongo un límite. El exilio de Petal Bloom, que Mistique saliera herida... todo eso es culpa suya.
+0051 [Tú] | De todos modos pensaba sabotear su loco plan. Como nuestros objetivos coinciden,==W== no necesitas un pacto. Te ayudaré.
+0052 [Firenze] | ¿Habla en serio? ¿Me ayudará...==W== a cambio de nada?
+0053 [Tú] | Sí.==W== La verdad, yo mismo odio usar los pactos de almas. Así que no te pido ningún pago.
+0054 [Firenze] | ¿Ah, sí? Entonces esta negociación terminó. Haga de cuenta que nunca mencioné una alianza.
+0055 [Tú] | ¿Eh? ¡¿Qué?! ¡Espera, esto no es broma!
+0056 [Firenze] | ¿Parece que estoy bromeando?==W== Además, me niego a deberle favores a nadie.
+0057 [Firenze] | Escuche. Sin pago, no hay responsabilidad.==W== Un «precio» es la única garantía de que un socio es confiable.
+0058 [Firenze] | Y aun así usted dice que no quiere nada. ¿No es eso lo mismo que decir==W== que no se hará responsable del resultado?
+0059 [Tú] | Fui demasiado ingenuo...==W== Tal vez la fuerza de Firenze sea esa compostura: nunca vacila. Y además...
+0060 [???] | Así que, por favor, mi Tirano, no vuelvas a convertirte en estrella.
+0061 [???] | El mismo camino de siempre lleva al mismo final de siempre.
+0062 [Tú] | De verdad me dio jaque mate.
+0063 [Tú] | Sé racional, Firenze.==W== Darcia es una oponente formidable.==W== Ahora mismo necesitamos toda la fuerza de combate que podamos reunir. Deberías darle prioridad a trabajar conmigo...
+0064 [Firenze] | ¿Debo entender...==W== que me está rogando que le ayude?
+0065 [Tú] | ¿Eh?==W== ¿Acaban de invertirse los papeles...?
+0066 [Firenze] | Ay...==W== Sea racional usted. Yo solo espero que muestre la determinación que esto requiere.
+0067 [Firenze] | ¿No fui clara? Usemos entonces un término más formal...==W== «Alianza». Aquí nos jugamos la vida,==W== así que necesito saber que de verdad está preparado para las consecuencias.
+0068 [Tú] | ¿Vas a poner un pacto de almas como condición para nuestra alianza?
+0069 [Firenze] | Exactamente. Pero no me malinterprete. Esto no significa que confíe en usted.==W== Por cierto, oí un rumor de que...
+0070 [Firenze] | Completar un pacto de almas lo convierte a uno en empleado oficial de Boss Accord.==W== Y el Accord protege las almas de su personal,==W== otorgando inmunidad a la magia mental dañina.
+0071 [Tú] | Tsk...==W== ¿Serena también te filtró eso?
+0072 [Firenze] | No...==W== Fue Fuyuka... Darcia le preguntó al respecto el día de la ceremonia, y ella le soltó emocionada hasta el último detalle.
+0073 [Tú] | Eso es darse un balazo en el pie...
+0074 [Firenze] | Je, es usted demasiado descuidado. Pero eso me conviene. Demuestra que esa habilidad tan conveniente que se otorga no es solo un cuento de hadas.
+0075 [Tú] | ¿Quieres proteger tu alma?==W== ¿Pero por qué?==W== Aquí no hay monstruos como el Jardín Parásito. ¿Darcia se especializa en magia mental?
+0076 [Firenze] | Usted mismo lo vio. Esa Planta Inteligente de 3.ª generación no es cosa de juego. Di todo de mí para poner a prueba su fuerza y aun así...==W== me derrotó.
+0077 [Firenze] | Sin embargo, no es perfecta.
+0078 [Tú] | ¡¿Encontraste una debilidad?!
+0079 [Firenze] | ¿Recuerda lo que dijo Darcia?
+0080 [Darcia] | Seguramente ya dedujo su poder:==W== transferir mentes y recuerdos humanos.==W== En pocas palabras, colocarlo en un tanque de Fluido Psíquico conecta la conciencia del sujeto a la red.
+0081 [Firenze] | Mire.==W== En el fondo de ese enorme tanque está el Alfil.==W== En cuanto lo saquemos, la Planta Inteligente dejará de ser una amenaza.
+0082 [Tú] | Sacar una pieza de ajedrez de un tanque tan profundo no va a ser fácil.
+0083 [Firenze] | En efecto. Nos enfrentamos a dos obstáculos principales.==W== Primero, la llave de la tapa. Darcia siempre la lleva consigo.
+0084 [Firenze] | Segundo, el Fluido Psíquico del interior es un problema mucho más traicionero...==W== Con solo estar cerca, uno queda expuesto a vapores mágicos que pueden trastornar la mente.
+0085 [Tú] | Ya veo. ¿Quieres usar la protección de Boss Accord para resistir el fluido y así poder sumergirte y tomar la pieza?
+0086 [Firenze] | Exactamente. Así que se lo preguntaré por última vez.==W== Jefe...==W== haga un pacto de almas conmigo.
+0087 [Tú] | Estamos muy cerca de derrotar a Darcia, y su lógica es sólida, pero...
+0088 [Tú] | No.
+0089 [Firenze] | Se lo advierto. Cualquiera que se interponga en mi plan es un enemigo.==W== Deme una razón aceptable mientras todavía me quede paciencia.
+0090 [Tú] | Porque soy débil.==W== Si las Plantas Inteligentes atacan mientras estás allá abajo, ¿quién las va a detener?
+0091 [Tú] | Yo no puedo darte ese tiempo.
+0092 [Firenze] | ¿A qué quiere llegar?
+0093 [Tú] | Aprovechemos nuestras fortalezas. La alianza sigue en pie, pero sin pacto de almas.==W== La razón es sencilla...
+0094 [Tú] | Yo seré quien==W== se sumerja en el tanque.
+0095 [Tú] | Tú estás dispuesta a arriesgar tu vida para vencer a Darcia; yo también estoy dispuesto a jugarme la mía.==W== Tengo inmunidad a la magia.==W== Ese fluido no debería afectarme.
+0096 [Firenze] | ¿Inmunidad a la magia...?==W== Eso es poco común.
+0097 [Tú] | Ja, parece que tu información no es perfecta.==W== En fin, déjame la pieza a mí. A cambio, tú me cubres.==W== Si fallas, estoy acabado.
+0098 [Firenze] | Je...==W== Jajajaja. Muy bien. Ya que esa es su decisión.
+0099 [Firenze] | Entonces, Jefe, a partir de este momento somos aliados contra Darcia.

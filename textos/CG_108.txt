@@ -1,0 +1,6 @@
+# Historia de Kasimira — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_108_01 | Un día de suerte (Parte 1)
+CG_108_02 | Un día de suerte (Parte 2)
+CG_108_03 | Un día de suerte (Parte III)

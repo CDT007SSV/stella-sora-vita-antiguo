@@ -1,0 +1,13 @@
+# Especial 9.5 — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm10001_01 | Ayer una vez más
+STm10001_02 | La ciudad de la perfección
+STm10001_03 | La casa de baños y el esclavo
+STm10001_04 | Prueba de casa de baños
+STm10001_05 | ínsula
+STm10001_06 | El significado de la santa
+STm10001_07 | La rutina diaria de un vigilante nocturno
+STm10001_08 | Un deseo prohibido
+STm10001_09 | El gladiador
+@BT01 | abandonado por el bosque

@@ -1,0 +1,6 @@
+# Historia de Gerie — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_149_01 | Collares y cuerdas (Parte I)
+CG_149_02 | Collares y cuerdas (Parte II)
+CG_149_03 | Collares y cuerdas (Parte III)

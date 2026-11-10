@@ -1,0 +1,106 @@
+# Historia de Firefly · 1 · Searching, Searching for a Friend (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_115 | Firefly
+N:avg1_120 | Canace
+N:avg3_100 | Sylar
+N:avg3_177 | Estudiante de la Academia Luz de Gracia
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Buscando, buscando un amigo (Parte I)
+0003 [Intro] | Decides ayudar a Firefly a hacer un nuevo amigo.
+0004 [Tú] | ¡Tengo que correr...!==W==
+0005 [Firefly] | Tres...==W== Cuatro...==W== Cinco...==W== Seis...
+0006 [Tú] | Si no me lo tomo en serio, me atrapará enseguida...
+0007 [Firefly] | Nueve...==W== Diez.
+0008 [Firefly] | Listo o no, ahí voy...
+0009 [Tú] | ¡¿Ah?!
+0010 [Firefly] | Te atrapé.
+0011 [Tú] | ¡Espera, vamos demasiado rápido!
+0012 [Firefly] | Volví a ganar.==B====W== Tirano, ¿me dejaste ganar?
+0013 [Tú] | Es que eres demasiado fuerte...==W== Y hasta usaste Avalancha... ¿No cuenta eso como trampa?
+0014 [Firefly] | Eso es mucho, Tirano. ¿Qué es eso de la trampa que dices?
+0015 [Firefly] | Ahorita no te di con Avalancha, así que no cuenta como trampa.
+0016 [Tú] | ... Bueno. Como tú digas.
+0017 [Firefly] | Ahora te toca a ti buscar, Tirano.
+0018 [Narración] | Firefly es la portadora elegida de Avalancha, un arma creada por el Imperio de la Gracia.
+0019 [Narración] | A ella misma se la llevó el Ojo de la Gracia cuando era muy pequeña, y recibió un entrenamiento especial durante muchos años.
+0020 [Narración] | Actualmente está bajo la protección de Canace y asiste a la Academia Luz de Gracia como alumna de admisión especial.
+0021 [Narración] | Al mismo tiempo, está aprendiendo a ser una niña común.
+0022 [Firefly] | Me gusta jugar contigo, Tirano. Estar contigo me hace feliz.
+0023 [Tú] | Aunque nunca esperé que se encariñara tanto conmigo...
+0024 [Tú] | Siento que esto despertó en mí algún instinto de cuidado... Aun así, pasar el rato se siente bien.
+0025 [Firefly] | Pero... Tirano, jugar contigo se está volviendo un poco aburrido.
+0026 [Tú] | ¿Mm?
+0027 [Tú] | ¿Eh? ¿Qué decías, Firefly?
+0028 [Firefly] | ¿?
+0029 [Firefly] | Tirano, jugar contigo se está volviendo un poco aburrido.
+0030 [Tú] | E-espera... ¿Eso significa que... ahora te aburro?
+0031 [Firefly] | ¿?
+0032 [Firefly] | Porque juegas conmigo, Tirano. Así que eres mi mejor amigo. ==B====W==Estar contigo siempre es divertido.
+0033 [Tú] | Eh... ¿Sí?
+0034 [Firefly] | Entonces, cuando no estás, se pone aburrido. Porque no hay nadie más que juegue conmigo.
+0035 [Tú] | Nadie más... Ya, creo que ya entendí.
+0036 [Firefly] | Yo... todavía quiero jugar.
+0037 [Tú] | O sea, aunque jugar conmigo la hace feliz, también quiere otros compañeros de juego. Eso quiere decir, ¿no?
+0038 [Firefly] | Si pudiera divertirme aun cuando no estás aquí, Tirano, sería todavía más feliz.
+0039 [Tú] | ... En otras palabras, quieres hacer nuevos amigos, ¿cierto?==W==
+0040 [Firefly] | Sí.
+0041 [Tú] | Ya veo. Pero ¿no vas a la escuela? ¿No tienes amigos allá con quienes jugar?
+0042 [Firefly] | No.
+0043 [Firefly] | En la escuela siempre estoy sola.==B====W== No sé de qué hablan los demás, y nadie se me acerca a hablar tampoco.
+0044 [Firefly] | Siempre veo a los demás platicar desde lejos.==W== Y me da una sensación extraña, como un piquete.
+0045 [Firefly] | Hacer amigos... es difícil.
+0046 [Tú] | Firefly creció en un entorno muy fuera de lo común... Le faltan algunos conocimientos básicos.
+0047 [Tú] | Además, los universitarios de alrededor son todos mayores que ella... Hacer amigos sí que sería difícil.
+0048 [Firefly] | ¿Cómo haces amigos, Tirano?
+0049 [Tú] | ¿Eh? ¿A qué te refieres?
+0050 [Firefly] | Siempre estás rodeado de chicas lindas.==B====W== Tirano, eres un maestro para hacer amigos.
+0051 [Tú] | Ejem, ejem... Debería corregirla, pero por ahora lo dejaré pasar...
+0052 [Tú] | Quiero saber cómo definirías tú a un amigo.
+0053 [Firefly] | ¿De-fi-nir?
+0054 [Tú] | ¿Basta con conocerse para ser amigos...==B====W== O solo cuentan como amigos cuando hay algún tipo de intercambio...==B====W== O hay que salir juntos todo el tiempo para contar como amigos?
+0055 [Firefly] | ¿Inter-cam-bio? ¿Sa-lir?
+0056 [Tú] | Y si no se abren el corazón el uno al otro, ¿de verdad se le puede llamar amistad?
+0057 [Tú] | Muchas supuestas amistades se construyen sobre apariencias e interés propio. Si es solo eso, prefiero no molestarme...
+0058 [Firefly] | ¿A-pa-rien-cias? ¿In-te-rés pro-pio?
+0059 [Tú] | Aunque pensemos en alguien como amigo, quizá esa persona no sienta lo mismo. ¿Qué tan cercanos hay que ser para llamar a alguien amigo? Esa es una pregunta que vale la pena discutir...
+0060 [Tú] | Este tema probablemente es demasiado complicado para ella...
+0061 [Firefly] | Lo que dices es muy difícil de entender, Tirano. Me está dando sueño...
+0062 [Tú] | Perdón...
+0063 [Tú] | En resumen: si alguien no te conoce lo suficiente, no puede ser tu amigo. Así que si quieres encontrar nuevos amigos, Firefly, primero tienes que dejar que la gente te conozca mejor.
+0064 [Firefly] | ¿Que me conozcan mejor?
+0065 [Tú] | Así es. ¿Qué crees que deberías hacer para que la gente sepa más de ti?
+0066 [Firefly] | Primero... Saludarlos.
+0067 [Tú] | Sí, ese es un primer paso importante. ¿Y luego?
+0068 [Firefly] | Darles con Avalancha.
+0069 [Tú] | ¡¿Cómo pasamos de saludar a esto?!
+0070 [Firefly] | ¿?
+0071 [Firefly] | Así lo he hecho siempre cuando me topo con juguetes.
+0072 [Tú] | Si fueran Stellaroids, tal vez... Pero los humanos no se atacan en cuanto se conocen. Si lo haces... asustarías a la gente.
+0073 [Firefly] | Hacer amigos... es difícil.==W==
+0074 [Tú] | Quizá puedes...==W== ¿primero intentar hablarles?
+0075 [Tú] | En realidad eres una niña dulce y buena. Si la gente llega a entenderlo, seguro querrán ser tus amigos.
+0076 [Firefly] | ¿De verdad?
+0077 [Tú] | Sí. Ten más confianza en ti misma.
+0078 [Firefly] | Está bien. Entiendo.
+0079 [Firefly] | Entonces... ¿con quién debería hablar primero?
+0080 [Tú] | Con desconocidos... No, eso quizá sea demasiado alto el listón. Hasta yo me pondría nervioso...
+0081 [Tú] | ¿Qué tal si intentas hablar primero con tus compañeros de la Academia Luz de Gracia?
+0082 [Firefly] | Compañeros... Está bien.
+0083 [Narración] | Entonces Firefly envolvió con suavidad mi mano con su manita.
+0084 [Tú] | ¿Qué pasa, Firefly?
+0085 [Firefly] | Ven conmigo a la escuela, Tirano.
+0086 [Tú] | ¿Contigo?
+0087 [Firefly] | Sí, ven conmigo.
+0088 [Firefly] | Me preocupa no hacerlo bien.==W== Pero contigo, Tirano, me sentiría segura.
+0089 [Tú] | Pero no tengo ninguna afiliación con la universidad...==W== Primero debería avisarle a Canace.
+0090 [Firefly] | ¿No puedes?
+0091 [Tú] | Está bien. Intentemos juntos esto de hacer amigos.
+0092 [Firefly] | Mm. Con el Tirano ayudándome, será fácil.==W==
+0093 [Firefly] | Pero ¿y si termino haciendo cien amigos...? Entonces no me quedará tiempo para ti, Tirano.
+0094 [Tú] | ¡¡Tus expectativas son un poco demasiado altas!!

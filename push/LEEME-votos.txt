@@ -1,0 +1,12 @@
+VOTOS DE LA COMUNIDAD - pasos (una sola vez, en Cloudflare)
+
+1) dash.cloudflare.com -> Storage & Databases -> D1 -> Create database -> nombre: ssv-votos.
+2) Dentro de la base -> pestaña "Console" -> pega esto y pulsa Execute:
+
+CREATE TABLE IF NOT EXISTS votos(dev TEXT NOT NULL,tipo TEXT NOT NULL,id TEXT NOT NULL,PRIMARY KEY(dev,tipo,id));
+CREATE TABLE IF NOT EXISTS totales(tipo TEXT NOT NULL,id TEXT NOT NULL,n INTEGER NOT NULL DEFAULT 0,PRIMARY KEY(tipo,id));
+
+3) Workers & Pages -> Create -> Create Worker -> nombre: ssv-votos -> Deploy.
+   Luego "Edit code", borra todo, pega el contenido de push/votos-worker.js y Deploy.
+4) En ese Worker -> Settings -> Bindings -> Add -> D1 database -> nombre de variable: DB -> elige ssv-votos.
+5) Copia la direccion del Worker (https://ssv-votos.TUUSUARIO.workers.dev) y pasasela a Claude.

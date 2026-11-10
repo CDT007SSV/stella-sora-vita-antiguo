@@ -1,0 +1,145 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 3A · Alto el fuego
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_108 | Kasimira
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_139 | Allie
+N:avg1_144 | Chitose
+N:avg1_149 | Gerie
+N:avg1_156 | Nazuna
+N:avg1_163 | Greyhorn
+N:avg3_100 | Sylar
+N:avg3_129 | Guardia Imperial
+N:avg3_1304 | Chaton
+N:avg3_1311 | SaiLa
+N:avg3_150 | Albedo
+N:avg3_216 | Gunhild
+N:avg3_217 | N.º 160
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Alto el fuego
+0003 [Intro] | Angie y tú acuerdan negociar en dos horas, lo que les da tiempo a ambos bandos para reagruparse y prepararse para la batalla. Firenze avisa que los refuerzos llegarán en tres días, así que solo tienen que resistir dos.
+0004 [Lugar y hora] | 15:00, 18.º del mes de Nebula, Mirage, bar Eureka
+0005 [Nazuka] | Jefe, ya volvimos.
+0006 [Chitose] | Le ruego que me perdone, mi ==SEX11==. Un muro de caballeros me contuvo y no pude detener a la árbitra que lo atacó. Toda la culpa es mía.
+0007 [Tú] | No se culpen. El Comité nos superaba muchísimo en número. Las dos hicieron todo lo que pudieron.
+0008 [Chaton] | ¡Je! ¡La gran Chaton regresa triunfante! Esos matones del Comité no dejaban de correr de aquí para allá como ratas,==W== pero no tenían ninguna oportunidad contra mi creciente poder oscuro y mis ritmos impecables.==W== ¡Ni uno solo cruzó mi línea!
+0009 [Kasimira] | Bájale, Chaton. ¡La arrogancia lleva a la caída!
+0010 [Kasimira] | Jefe, la magia de protección del Comité es muy densa. Los repelimos, pero apenas les hicimos un rasguño. En cuanto rearmen sus filas, van a volver directo por nosotros.
+0011 [Kasimira] | Quedarnos aquí nos convierte en blancos fáciles. Tenemos que movernos. Chaton, vuelve allá afuera y explora los túneles de la mina.
+0012 [Chaton] | ¡Entendido! ¡La gran Chaton va en camino!
+0013 [Tú] | Esperen. No hay prisa. El Comité no va a atacar pronto.
+0014 [Tú] | Angie y yo acabamos de acordar negociar dentro de dos horas. Hasta entonces, tenemos un alto el fuego.
+0015 [Kasimira] | ¿Negociar? Jefe, no lo hagas.==W== No puedes confiar ni un segundo en Angie ni en su Comité.
+0016 [Chitose] | Debo estar de acuerdo. Ya una vez lo atrajo a sus aposentos, mi ==SEX11==, solo para tenderle una trampa mortal. Es exactamente la misma artimaña. No caiga en ella.
+0017 [Nazuka] | ¡Tenemos el desierto y las viejas minas justo afuera! Podemos encontrar la forma de escabullirnos. No hay ninguna razón para parlamentar con ella.
+0018 [Tú] | Las entiendo. Pero la única razón por la que ofreció una tregua es que todas ustedes la contuvieron hasta dejarla en tablas.
+0019 [Tú] | Antes de que llegaran, Minova se reportó. Ella, Otoha y Kaede se metieron disfrazadas a las dunas y atacaron el campamento de artillería del Comité.
+0020 [Tú] | Mistique también usó una entrevista falsa para pasarme información: el Comité dividió su asalto en tres tropas.
+0021 [Nazuna] | Tres tropas... Supongo que esa lata dirige una.
+0022 [Fuyuka] | Y... La árbitra que me hizo ver todas esas ilusiones horribles... Esa es la segunda.
+0023 [Tú] | Lo que hace del campamento de artillería en las dunas la tercera.
+0024 [Tú] | Cuando Angie pidió esta charla, sus tres fuerzas estaban comprometidas. Atrapadas en las minas, inmovilizadas por ustedes o tomadas por sorpresa por Minova.
+0025 [Kasimira] | Tiene sentido. Su tablero quedó completamente despejado. Solo necesitaba tiempo para rearmar sus formaciones. La negociación es para ganar tiempo.
+0026 [Chitose] | Entonces no lo entiendo, mi ==SEX11==. Si ya descubrió su plan, ¿por qué habría de...?
+0027 [Tú] | Porque nosotros necesitamos ese tiempo mucho más que ella.
+0028 [Tú] | Miren cómo estábamos en ese momento. Fuyuka, Nazuna y Allie apenas se habían librado de la magia de la n.º 160. No tenía idea de si las demás seguían en pie,==W== y el Orfanato Margarita estaba justo en medio del fuego cruzado.
+0029 [Tú] | Aceptar su trato también fue mi forma de ganar tiempo.
+0030 [Nazuka] | Pero... sigue siendo demasiado peligroso. ¡Dejemos que corra el reloj y escapemos! ¡Jefe, puedo cargarte y sacarnos volando de Mirage!
+0031 [Tú] | Dos horas no alcanzan. Kasimira, ¿cuánto tardarían en evacuar a los Gatos Blancos y vaciar la ciudad de civiles?
+0032 [Kasimira] | No nos da la capacidad. Cincuenta Gatos Blancos guiando a más de mil personas es una tarea demasiado grande.
+0033 [Kasimira] | Sin mencionar la cantidad de provisiones que necesitaríamos para una marcha por el desierto. Calculo que lo más pronto que estarían listos es esta noche.
+0034 [Tú] | Allie está en las mismas. Ella y Benito están en el orfanato preparándose para salir de la ciudad con los niños. Pero en dos horas no llegarán lo bastante lejos.
+0035 [Tú] | Así que intentaré entretenerlos en la mesa de negociación y ganarnos algo de tiempo.
+0036 [1] | Es Firenze. Debe tener noticias de los Árbitros del Ocaso.
+0037 [Firenze] | Buenas tardes, Jefe. Estuve evitando una línea directa. No quería que el Comité de Salvación interviniera nuestro Heartlink.
+0038 [Firenze] | Pero ya es 18. El equipo de Nazuka debió encontrarte. Si contestas, ya debes saber del asalto y tenerlo bajo control.
+0039 [1] | No exactamente bajo control, pero ya no importa. Ya chocamos con ellos aquí en Mirage. Si están escuchando, que escuchen.
+0040 [Firenze] | Je. Me parece justo. Por tu tono, el Comité no te pasó por encima.
+0041 [1] | Apenas aguantamos. Nos superan en número, equipo y magia. La cosa está fea.==W== ¿Cómo van ustedes?
+0042 [Firenze] | Desvié el convoy de granos de la Guardia Imperial y contraté algo de músculo extra en Emor. Unos doscientos combatientes en total.==W== Llegaremos a Mirage en tres días.
+0043 [Firenze] | Los Árbitros del Ocaso también aportaron algunos árbitros a último momento.==W== Su líder se ve formidable.
+0044 [Firenze] | Y Albedo está reuniendo a todos los Centinelas del Alba que no creen que vayas a destruir el mundo.==W== Van marchando hacia el desierto, como un día detrás de nosotros.
+0045 [Firenze] | Lo importante, Jefe, es que resistas tres días. Después de eso, el Comité no podrá tocarte.
+0046 [1] | Entendido. Cuento contigo. Cuídate mucho.
+0047 [Firenze] | Tú también, Jefe.
+0048 [1] | Ya la oyeron. Solo tenemos que aguantar tres días. De hecho, que sean dos. Puedan o no escuchar nuestras llamadas, sus exploradores van a ver los refuerzos de Firenze mucho antes de que lleguen.
+0049 [1] | A menos que tengan muchas ganas de declararles la guerra al mismo tiempo a Cosecha Unida Philae, la Guardia Imperial, los Árbitros del Ocaso y los Centinelas del Alba, van a recoger sus cosas e irse antes.
+0050 [1] | Muy bien, manos a la obra. Nazuna, Fuyuka, vayan al orfanato y ayuden a Allie a mover a los niños.
+0051 [Nazuna] | ¡Va! Vamos, Fuyuka.
+0052 [Fuyuka] | Nos vemos pronto, Maestro.
+0053 [1] | Kasimira, confío en ti para encontrar una ruta de escape despejada por los túneles de la mina y organizar la evacuación de los civiles.
+0054 [Kasimira] | Mirage es ahora el hogar de los Gatos Blancos.==W== Le daremos todo lo que tenemos.
+0055 [Tú] | Nazuka, eres la única aquí que puede volar. Vigila los movimientos del Comité.
+0056 [Nazuka] | Voy.
+0057 [Tú] | Chitose, cierra las calles alrededor del bar Eureka y del Orfanato Margarita. Que nadie se cuele.
+0058 [Chitose] | Como ordene, mi ==SEX11==.
+0059 [Tú] | Espera un momento... Chitose, ¿dónde están Noya y las demás? ¿No estaban contigo?
+0060 [Chitose] | Nos separamos durante la pelea. Se fueron a interceptar a más grupos de enemigos.
+0061 [Chitose] | Tranquilícese, mi ==SEX11==. Todas son muy capaces. Estarán bien.
+0062 [Noya] | ¡Jefe, ya volví!==W== ¡Hicimos que esos matones del Comité salieran corriendo despavoridos!
+0063 [Noya] | ¿Eh? ¿Adónde se fueron todos? ¿Tardamos demasiado en volver?
+0064 [Tú] | ¡Noya, Iris, Amber! ¿Dónde estaban? Ya me estaba entrando el pánico.
+0065 [Tú] | Uf, Chitose tenía razón. Están bien...==W== Espera,==W== ¿Noya está...?
+0066 [Noya] | Jeje, nos abrimos paso directo entre sus líneas, así que tuvimos que regresar por el camino largo. ¡Pero eso no importa! ¡Nos topamos con alguien en el camino y conseguimos información superimportante!
+0067 [Tú] | Noya, olvídate de la información.==W== ¡Estás sangrando por todos lados! ¡¿Qué pasó?!
+0068 [Lugar y hora] | 15:30, 18.º del mes de Nebula, Mirage, Orfanato Margarita
+0069 [Noya] | ¡Wah!==W== ¡Mamá, despacio! ¡Más despacio! ¡Ay, ay, ay!
+0070 [Allie] | Quieta. Una herida tan profunda hay que limpiarla y suturarla bien.==W== Iris,==W== pásame las suturas absorbibles.
+0071 [Allie] | Tuviste muchísima suerte. Esa bala mágica solo te cortó la piel. Los huesos y los órganos están bien.==W== Ya cosí la capa muscular, ahora sellemos por fuera.==W== Amber,==W== el adhesivo para piel.
+0072 [Noya] | ¿Qué es eso? Parece pegamento sacado del Monolito con un deseo.
+0073 [Allie] | Es de nuestra reserva del sótano. Este no lo puedes sacar del Monolito con un deseo, por más que lo intentes. Sella la piel bien cerrada sin dejar cicatriz.
+0074 [Allie] | Jefe, échame una mano. Junta los bordes de la herida para que pueda pegarla.
+0075 [Tú] | Va.
+0076 [Noya] | ¡Jaja, eso da cosquillas! Donde estás apretando da muchas cosquillas, ==PLAYER_NAME==...==W== ¡Sss!==W== ¡Ay, se me jaló la herida! Ay, ay.
+0077 [Allie] | Ah, entonces sí sientes dolor.==W== Tontita. Tres de ustedes lanzándose contra toda una formación... ¿Estaban pensando siquiera?
+0078 [Noya] | ¡C-claro que sí! En ese momento, estaba pensando...==W== Iris, ¿qué estaba pensando?
+0079 [Iris] | Bueno, mamá. No tenemos el poder de Nazuka o Chitose. No podemos acabar con los enemigos al instante.
+0080 [Amber] | Y a diferencia de los Gatos Blancos, no podemos escabullirnos y mantener la distancia.
+0081 [Iris] | Pero nuestro trabajo en equipo es perfecto.==W== Sin palabras. Sin señales. Solo nosotras tres moviéndonos como una sola.
+0082 [Noya] | ¡Sí, exacto! ¡Así que lanzarnos y pelear como locas era la mejor forma de entretenerlos! Sip, ese fue mi plan desde el principio.
+0083 [Noya] | ¡Además, es solo un rasguño!==W== Ya ni me duele. Mira, me puedo levantar ahora mismo...
+0084 [Allie] | Siéntate. Te vas a quedar en esta cama treinta minutos. Sin moverte. O la herida se te va a volver a abrir.
+0085 [Noya] | ¿Qué? ¡¿Media hora sin moverme?!
+0086 [Allie] | Y mantenla seca. Nada de ejercicio pesado por dos días. No te quites el pegamento. Y durante toda una semana, nada de estirar esa zona.
+0087 [Noya] | Espera, ¡¿entonces no puedo pelear en una semana?! ¡Mamá, sabes lo resistente que soy! De niña me caí del Canal y salí bien. Una persona normal necesitaría una semana para sanar, ¡pero yo mañana ya voy a estar bien!
+0088 [Allie] | ¡Eso fue porque caíste directo en el estanque!==W== ¡Y porque Iris usó magia para amortiguar tu caída!
+0089 [Allie] | ¿Sabes? ¡Un poquito más profundo y habrías tenido una hemorragia interna enorme!==W== Mirage no tiene médicos. Ni hospitales. ¡Pudimos haberte perdido!
+0090 [Noya] | ¡Iih! Mamá, por favor no te enojes. Me voy a quedar quieta, lo juro.==W== P-pero de verdad tengo información crucial que compartir.
+0091 [Iris] | Tú hazle caso a mamá y descansa, Noya. Amber y yo compartiremos la información de Laru. El Jefe ya había adivinado casi todo de todos modos. Solo tenemos que repasar los datos de combate de esos tres comandantes de compañía.
+0092 [Amber] | Lo guardé en mi teléfono. Lo mando por Heartlink ahora.
+0093 [Allie] | Uf. Tengo que ir a ver a los niños. No podemos dejarle todo a Nazuka. Jefe, vigílame a Noya.
+0094 [Tú] | Sí.
+0095 [Noya] | ¿==PLAYER_NAME== me va a vigilar? Pero... ==PLAYER_NAME== tiene trabajo de verdad que hacer.
+0096 [Tú] | Para nada. Tengo la agenda completamente libre.
+0097 [Allie] | Porque, aparte de mí, ==PLAYER_NAME== es el único que puede mantenerte a raya.
+0098 [Noya] | Bueno, ya se fueron. Pero en serio, ¿cuidarme media hora te arruina los planes?
+0099 [Tú] | Nop. Todas saben lo que les toca. De todos modos solo estaría aquí parado.
+0100 [Tú] | Mirage está rodeada. Se ve increíblemente mal. Pero cuando las cosas se ponen así de oscuras, tengo que mantener la calma y ver el lado positivo. Eso me lo enseñaste tú, Noya.
+0101 [Tú] | Además, mi amiga salió herida. Quedarme aquí con ella es muy importante para mí. Pero si de verdad te preocupa retrasar los preparativos para la batalla, oigamos esa información.
+0102 [Noya] | ¿Yo? La verdad, las notas de Amber seguro son mucho más precisas...
+0103 [Tú] | Tal vez. Pero tus instintos son increíblemente agudos. Quiero oír lo que te dice tu corazonada sobre todo esto.
+0104 [Noya] | Mi corazonada... ¡B-bueno! Mira esto.
+0105 [Tú] | ¿Qué es esto? ¿Cajas de papas fritas vacías?
+0106 [Noya] | Sí. Bueno, atravesamos de lleno la línea del Comité de Salvación, pero entonces un francotirador nos emboscó de la nada.
+0107 [Noya] | Por suerte, solo disparó dos veces y paró.
+0108 [Tú] | Esos disparos vinieron de las dunas, a kilómetros de Mirage. Claro que no pudieron verlo.
+0109 [Tú] | Solo disparó dos veces porque Minova y Kaede se metieron disfrazadas al campamento enemigo. Intentaron atrapar a Angie y fallaron, pero distrajeron por completo a la francotiradora.
+0110 [Noya] | ¡Guau, ¿desde tan lejos?!==W== ¡Ah, entonces ya sé exactamente quién es! Espera, déjame ver... Aquí, dentro de esta caja, dice...
+0111 [Tú] | Gunhild. Artillera de los Centinelas del Alba. Empuña el cañón mágico de precisión de ultralargo alcance, el Perforador. Dicen que si el Perforador te da una vez, te recuerda. La próxima vez, apunta y dispara solo.
+0112 [Tú] | También absorbe otras magias para aumentar temporalmente su propio daño. Cuanta más magia se traga, más letal es el proyectil... Pero más tarda en cargarse.
+0113 [Tú] | Ferozmente leal, respeta la autoridad, sin malos hábitos. Puntería de primer nivel. Debilidad: increíblemente orgullosa de su puntería y se irrita con facilidad.
+0114 [Noya] | ¡Ya entendí! ¡Solo hay que encontrar a alguien con muy buena puntería para provocarla, y ya no podrá apuntar derecho!
+0115 [Tú] | Esta caja de papas es una auténtica mina de oro. ¿Cómo la conseguiste?
+0116 [Noya] | Es una locura. No me lo vas a creer. Pasó justo después de que nos metimos por los callejones para esquivar al francotirador...
+0117 [Noya] | ¡Y nos topamos con una fanática total de las papas fritas!

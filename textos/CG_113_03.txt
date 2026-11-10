@@ -1,0 +1,105 @@
+# Historia de Shimiao · 3 ·  Spice Reveals All (Part III) 
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheerful Server | Mesero alegre
+N:avg1_113 | Shimiao
+N:avg3_100 | Sylar
+N:avg3_176 | Residente Loong
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El picante lo revela todo (Parte III)
+0003 [Intro] | Justo cuando la verdad del caso sale a la luz… ¡¿aparece de repente una nueva petición?!
+0004 [Tú] | ¡Q-qué picante...! ¡A-achú...!
+0005 [Shimiao] | ¡A-achú...!
+0006 [Narración] | Llegamos a nuestro destino final: el restaurante de hot pot. De inmediato nos envuelve un aroma penetrante y picante.
+0007 [Shimiao] | Según la ruta que siguieron, después de comprar los víveres vinieron aquí a cenar ...==W== ¡Achú!
+0008 [Cheerful Server] | ¡Bienvenidos! ¡Bienvenidos! ¡Pasen, por favor!
+0009 [Tú] | ¡Achú, achú! ¡Achú, achú! ¡No puedo dejar de estornudar...!
+0010 [Shimiao] | Perdón, lo olvidé. La mayoría de los visitantes...==W== ¡Achú! no están acostumbrados al olor del hot pot de Cangwu.
+0011 [Tú] | No pasa nada, es solo...==W== ¡Achú!==W== ¡Picante!
+0012 [Shimiao] | D-disculpe, ¿podríamos tener una mesa con buena ventilación? Algunos no estamos acostumbrados al olor ...==W== ¡Achú!
+0013 [Cheerful Server] | ¡Claro! Por aquí, por favor.
+0014 [Narración] | Nos sientan junto a la ventana, donde el olor picante no es tan fuerte.
+0015 [Tú] | Uf ... Gracias, Shimiao.
+0016 [Shimiao] | Uf ... Soy yo quien debería agradecerte...
+0017 [Tú] | ¿Qué hice yo? ¿Por qué me da las gracias...? Shimiao es de aquí. Este nivel de picante no debería afectarla, ¿verdad?
+0018 [Cheerful Server] | Parece que es su primera vez aquí. ¿Quieren unas recomendaciones?
+0019 [Shimiao] | Un grupo de Xuan Shi vino ayer por la tarde. Queremos exactamente los mismos platillos que ellas pidieron.
+0020 [Cheerful Server] | ¡Claro! No hay problema~
+0021 [Cheerful Server] | Solo que ... el grupo de Xuan Shi de ayer pidió nuestro caldo base extra picante, así que tengan cuidado.
+0022 [Tú] | Extra ... picante...
+0023 [Shimiao] | Caldo ... base...
+0024 [Shimiao] | ¡Je-Jefe, en serio, no te fuerces! Yo ... al menos estoy más o menos acostumbrada.==B== ¡Pero si queremos seguir sus pasos de ayer, no hay otra opción!
+0025 [Narración] | La voz de Shimiao tiembla un poco. ¿No se sentirá bien?
+0026 [Cheerful Server] | ¡Gracias por esperar! ¡Aquí está nuestro platillo estrella: el «Hot Pot Picante Supremo Cielo e Infierno»!
+0027 [Tú] | Bueno, no hay remedio...
+0028 [Shimiao] | ¡Prepárate y a comer!
+0029 [Shimiao] | ...==W== Puedo hacerlo. La empleada modelo de Baize no puede defraudar a los demás ...==B== ¡Por más que pique, me lo comeré...! ¡Aquí voy...!
+0030 [Tú] | ¡Soy el Jefe! ¡Y no me vencerán unas simples especias...! ¡Aquí voy...!
+0031 [Narración] | Ambos tomamos al mismo tiempo un poco de la comida picante de un rojo intenso.
+0032 [Tú] | ¡Cof, cof, cof, cof...==W==¡QUÉ PICANTEEE!!!!!
+0033 [Tú] | Uf ... Gracias, té de burbujas, por devolverme a la vida...
+0034 [Tú] | Shimiao se ve ... ¿un poco rara?
+0035 [Shimiao] | Ugh…==W== ¡Hip!==W== Uhh…==W== Puedo manejar…==W== tantito picante==W== como ehte...
+0036 [Shimiao] | ¡QUÉ picante! ¡Waah!==W== Ay...==W== Ugh...==W== Quién pidió==W== ehte hot pot...
+0037 [Opción] | ¿Estás bien?
+0038 [Shimiao] | ¿Eh tú, Jefe?==W== Eh tú, ¿verdá?==W== ¡No me engañah!==W== ¡Hip!
+0039 [Shimiao] | ¡Ehtá picanteee!==W== Pero==W== ¡¡¡me encantaaa!!!
+0040 [Opción] | ¿Shimiao? ¿Estás borracha?
+0041 [Shimiao] | ¿Borracha?==W== Uhh... ¡Hip!==W== ¿Yo?==W== ¡Claro que no!
+0042 [Shimiao] | Ehcucha.==W== ¿Conoces==W== la Ofishina Baize?==W== ¡Yo soy la mejor…==W== empleada…==W== modelo de toditos!
+0043 [Opción] | ¡Está bien, entendí! ¡Solo no te esfuerces demasiado!
+0044 [Shimiao] | ¿Esforzarme?==W== Uuh…==W== ¡No!==W== Yo …==W== no me esfuerzo…==W== No…
+0045 [Shimiao] | ¡Waaaaaah!==W== ¡No me estoy esforzando!==W== ¡NO!
+0046 [Opción] | ¡Contrólate! En serio, ¿estás bien?
+0047 [Shimiao] | Yo...==W== yo==W== quiero cumplir con las expectativas de todos…==W== Así que siempre me esfuerzo al máximo…
+0048 [Shimiao] | Y==W== cuando hago un buen trabajo,==W== todos dicen==W== «oh, guau,==W== buen trabajo, Shimiao»==W== y luego confían más en mí...
+0049 [Opción] | Estás bajo demasiada presión.
+0050 [Shimiao] | Por eso …==W== no puedo defraudar a nadie…==W== Tengo que esforzarme más, más, más,==W== y todavía más…
+0051 [Shimiao] | ¡Pero!==W== ¡¿A quién se supone que le pida ayuda==W== cuando la necesite?!
+0052 [Opción] | ¡Ay, no pasa nada! Shimiao, eres una buena chica.
+0053 [Shimiao] | Je...==W== Jeje...==W== Me felicitó el Jefe ♪
+0054 [Shimiao] | Es como si==W== yo siempre fuera quien cuida a la gente…==W== pero que me feliciten así…==W== me hace increíblemente,==W== muy feliz~
+0055 [Opción] | Acaricia, acaricia, acaricia
+0056 [Shimiao] | Whaaah…==W== Jefe...==W== Jefe...
+0057 [Narración] | Quizá sea puro agotamiento, o quizá el picante del hot pot pega como unas copas de más ... Pero Shimiao se queda profundamente dormida sobre la mesa.
+0058 [Narración] | Despierta apenas veinte minutos después.
+0059 [Shimiao] | Ay no ... Perdí totalmente la compostura frente a ti, Jefe, ugh...
+0060 [Tú] | No pasa nada. Me alegra haber visto este lado secreto tuyo, Shimiao.
+0061 [Shimiao] | ¡¿S-secreto...?!
+0062 [Tú] | No te preocupes, no es ningún gran secreto.
+0063 [Tú] | Siempre está tan tensa en público. Dejar que su verdadero yo se asome es justo el descanso que necesita.
+0064 [Tú] | Además, no es un mal secreto en absoluto ...==B== Te hace más cercana.
+0065 [Shimiao] | Cercana ... Como lo dices tú, me lo creo.
+0066 [Tú] | Suenas aún más linda después de comer picante. Si no te molesta...
+0067 [Tú] | Me gustaría ver más de este lado tuyo.
+0068 [Shimiao] | ¿D-de verdad...?==B== Aunque no tiene nada de especial verme así...
+0069 [Tú] | Eso no es cierto.
+0070 [Tú] | Eres trabajadora, sincera ... Un poco torpe, pero muy amable. Y conocer este lado adorable tuyo es un verdadero regalo.
+0071 [Tú] | Creo que quizá tus colegas también notan lo tensa que estás.==B== Entonces, ¿por qué no te relajas un poco en el trabajo y dejas que se vea más de tu verdadero yo?
+0072 [Shimiao] | Quizá ... Tiene sentido...
+0073 [Shimiao] | Siempre pensé que mis compañeros y todos los demás me trataban tan bien porque me veían como una empleada «perfecta»...
+0074 [Shimiao] | Pero saber que hay alguien —como tú, Jefe— que siente esto por mí ... aunque sea una sola persona ... la verdad se siente bastante bien...
+0075 [Cheerful Server] | Perdón por la intromisión, pero aquí tienen su segunda ración del «Hot Pot Picante Supremo Cielo e Infierno».
+0076 [Shimiao] | ¡¡¡¿Qué?!!! ¡¿Por qué hay otro de estos?! ¿Está seguro de que es la mesa correcta...?
+0077 [Cheerful Server] | Segurísimo. El grupo de Xuan Shi de ayer pensó que un hot pot no bastaba, así que pidieron otro más un montón de platillos extra.
+0078 [Narración] | Al ver la montaña de comida frente a nosotros, Shimiao y yo nos quedamos callados. Aun así, no podemos dejar que nada se desperdicie. Así que, después de comer todo lo que podemos, empacamos lo que sobra para llevar a casa.
+0079 [Shimiao] | Uf ... Tras revisar todo ayer, descubrimos que la comida de cada tienda estaba bien, sin ningún problema de higiene.
+0080 [Shimiao] | Pero ... Uf ...==B== Después de comer ese hot pot, creo que sé qué pasó.
+0081 [Shimiao] | Se enfermaron porque...
+0082 [Tú] | Por la cantidad descomunal de comida. Todas comieron al menos porciones dobles.
+0083 [Shimiao] | Luego se fueron a casa y prepararon una botana nocturna con todos esos víveres. ¿Cuánto terminaron comiendo en una sola noche?
+0084 [Shimiao] | Tanta comida, y tan picante... con razón se enfermaron ... Nosotros apenas comimos en comparación con ellas, y aun así lo seguimos sintiendo al día siguiente...
+0085 [Narración] | Y con eso, el encargo terminó a la perfección. Pero también...
+0086 [Shimiao] | Jefe, tengo un encargo a largo plazo que me gustaría que aceptaras.
+0087 [Tú] | ¿Sí? No hace falta andarse con rodeos, dime.
+0088 [Shimiao] | ¿Podrías ... ayudarme a entrenar para manejar mejor la comida picante?
+0089 [Shimiao] | Sé que dijiste que me veo algo linda cuando como picante ... Pero no puedo «emborracharme» con él cada vez. De verdad quiero mejorar en manejarlo...
+0090 [Shimiao] | Entiendo lo que dices, Jefe, cuando dices que no tengo que esforzarme demasiado...
+0091 [Shimiao] | Pero aun así, como la «empleada modelo», quiero dar lo mejor de mí.==B== Además, tú mismo lo dijiste, me oigo bastante linda después de comer picante.
+0092 [Tú] | Ya veo. Si esta es tu forma de relajarte, con gusto me uno.==B== Pero ¿seguro que soy la persona indicada? Mi tolerancia al picante es...
+0093 [Shimiao] | Sí. De hecho ... eres la única persona con quien querría hacer esto porque, Jefe...
+0094 [Shimiao] | ¡...tus mejillas todas rojas después de comer picante también se ven muy lindas!

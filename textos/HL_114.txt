@@ -1,0 +1,230 @@
+# Heartlink de Chaton: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Chaton] | ¡Toma! Mi información de contacto.
+A01.0002 [Chaton] | ¡No te atrevas a borrarla!
+A01.0003 [Opción] | Entendido, gran Chaton.
+A01.0004 [Opción] | ¿Quién eres?
+A01.0005 [Chaton] | Hmph. Justo lo que esperaba de un portador del poder oscuro.
+A01.0006 [Chaton] | ¡¡¿¿QUÉ??!!
+A01.0007 [Chaton] | ¡¡¡¡SOY YO, LA GRAN CHATON!!!!
+A01.0008 [Chaton] | ¡En fin!
+A01.0009 [Chaton] | Te buscaré si necesito algo.
+A01.0010 [Chaton] | ¡No me borres!
+
+## Conversación A02
+A02.0001 [Chaton] | ¡Oye! ¿Adivina qué está haciendo ahora la gran Chaton?
+A02.0002 [Chaton] | ¡Acabo de pulverizar mi propio récord en el Monolito!
+A02.0003 [Chaton] | ¡Impresionante, ¿verdad?!
+A02.0004 [Chaton] | ¡Tal como pensé: el único que puede vencerme soy yo misma!
+A02.0005 [Chaton] | ¿Y bien? ¿Ya te estás postrando de admiración?
+A02.0006 [Opción] | ... Prácticamente lo dijiste todo tú sola.
+A02.0007 [Chaton] | ¿Qué? ¿Tienes algún problema con eso?
+A02.0008 [Chaton] | ¡Es porque tardas una eternidad en contestar!
+A02.0009 [Chaton] | Un Tirano no puede ser tan malo para los mensajes, ¿sabes?
+A02.0010 [Chaton] | Si te enfrentas a alguien tan rápido como yo...
+A02.0011 [Chaton] | Ni siquiera podrás meter baza
+A02.0012 [Chaton] | ¿Ves?
+A02.0013 [Chaton] | ¡Literalmente sin palabras, jajajaja!
+A02.0014 [Tú] | ...
+A02.0015 [Tú] | Sí, sin duda.
+A02.0016 [Tú] | Pero bueno, felicidades por romper tu récord otra vez.
+A02.0017 [Chaton] | ¿¿¿¿¿¿¿¿¿¿??????????
+A02.0018 [Chaton] | ¡¿P-Por qué dices eso de repente?!
+A02.0019 [Chaton] | ¡Me voy a celebrar! ¡Terminé de hablar contigo!
+A02.0020 [Tú] | ...¿?
+
+## Conversación A03
+A03.0001 [Chaton] | Probé un juego nuevo.
+A03.0002 [Chaton] | Los juegos que salen del Monolito últimamente son una decepción total.
+A03.0003 [Chaton] | Lo terminé sin siquiera esforzarme.
+A03.0004 [Chaton] | ¡Ni siquiera lograron retener la atención de la gran Chaton!
+A03.0005 [Tú] | Es solo porque eres demasiado buena, gran Chaton.
+A03.0006 [Chaton] | ...
+A03.0007 [Tú] | ¿?
+A03.0008 [Chaton] | ¡Obvio, la gran Chaton es la mejor!
+A03.0009 [Chaton] | ¡No creas que con halagos conseguirás algo!
+A03.0010 [Tú] | Sí, sí.
+A03.0011 [Tú] | ¡Entonces ojalá el siguiente sí le plantee un verdadero reto a la gran Chaton!
+A03.0012 [Chaton] | ¡Ah, cierto!
+A03.0013 [Chaton] | En realidad, hay un juego más que aún no he tocado.
+A03.0014 [Chaton] | Estoy casi segura de que es cooperativo.
+A03.0015 [Chaton] | ¡Cuando lo inicie, vas a jugarlo conmigo!
+A03.0016 [Tú] | Espera, ¿qué?
+A03.0017 [Chaton] | ¡Está decidido!
+A03.0018 [Chaton] | Si te atreves a dejarme plantada...
+A03.0019 [Chaton] | ¡Haré que la Compañía del Gato Blanco te cace por todo el continente!
+
+## Conversación A04
+A04.0001 [Chaton] | ¡Esta noche la gran Chaton leyó las estrellas y contempló una profunda oscuridad que se cierne sobre el cosmos!
+A04.0002 [Chaton] | Por eso he decidido hacer algo enorme.
+A04.0003 [Opción] | ¿¿Qué te traes entre manos??
+A04.0004 [Opción] | ¿Acaso el cielo nocturno no siempre es oscuro?
+A04.0005 [Chaton] | Je je...
+A04.0006 [Chaton] | ¡Vamos a cazar monstruos!
+A04.0007 [Chaton] | No, no, no...
+A04.0008 [Chaton] | ¡Es distinto! La oscuridad del poder oscuro es como...
+A04.0009 [Chaton] | ¡Un negro brillantemente colorido!
+A04.0010 [Chaton] | ¡En fin! ¡Simplemente es distinta!
+A04.0011 [Chaton] | ¡Así que vamos a cazar monstruos!
+A04.0012 [Tú] | ¿Cazar monstruos?
+A04.0013 [Chaton] | ¿Qué? ¿Captó tu atención?
+A04.0014 [Chaton] | ¡Sabía que el Tirano comparte mi resonancia oscura!
+A04.0015 [Tú] | ...
+A04.0016 [Tú] | Sí, quizá...
+A04.0017 [Chaton] | ¿Entonces qué esperamos?
+A04.0018 [Chaton] | ¡Date prisa y sal de Loxy!
+A04.0019 [Chaton] | ¡O la voy a volar en pedazos!
+A04.0020 [Tú] | ¿?
+A04.0021 [Tú] | ¿Cuándo llegaste siquiera?
+A04.0022 [Chaton] | ¡Hace un momento!
+
+## Conversación A05
+A05.0001 [Chaton] | ¡Je je! ¡La gran Chaton hizo algo ÉPICO hoy!
+A05.0002 [Opción] | ¿Qué es?
+A05.0003 [Opción] | ¿Qué lío armaste esta vez?
+A05.0004 [Opción] | ¿Kasimira te volvió a dar el esquinazo?
+A05.0005 [Chaton] | Jeje~
+A05.0006 [Chaton] | ¡Les di a esos tramposos del tiro al blanco una lección que no olvidarán!
+A05.0007 [Chaton] | ¡La gran Chaton es toda una heroína hoy!
+A05.0008 [Chaton] | ¡Oye! ¡¿Qué se supone que significa ESO?!
+A05.0009 [Chaton] | ¡Vi algo sospechoso y tuve que intervenir!
+A05.0010 [Chaton] | ¡Ayudé a una niña a recuperar su premio de esos sucios estafadores!
+A05.0011 [Chaton] | ¡Esto NO tiene NADA que ver con Kasimira!
+A05.0012 [Chaton] | Esta tarde solo iba pasando por un puesto de tiro al blanco en la calle
+A05.0013 [Chaton] | ¡Y decidí darles una lección a esos tacaños tramposos!
+A05.0014 [Tú] | ¿Oh? ¿Qué hiciste exactamente?
+A05.0015 [Chaton] | Solo los puse en evidencia por su estafita.
+A05.0016 [Chaton] | ¿Y adivina qué más?
+A05.0017 [Chaton] | ¡Los dejé por los suelos!
+A05.0018 [Tú] | ¡Eso no es algo de lo que presumir!
+A05.0019 [Chaton] | Hay que darles duro para que ni piensen en volver a intentarlo.
+A05.0020 [Chaton] | Un Tirano como tú entiende esa lógica, ¿verdad?
+A05.0021 [Tú] | Está bien... Tienes razón...
+
+## Conversación A06
+A06.0001 [Chaton] | Oye, Tirano, ¿traes algo de efectivo?
+A06.0002 [Chaton] | Tráeme un poco.
+A06.0003 [Chaton] | Rápido.
+A06.0004 [Chaton] | Nos vemos en esa calle a la que siempre vamos.
+A06.0005 [Opción] | ¿¿¿Eh??? ¿Es alguna clase de... estafa?
+A06.0006 [Opción] | ¿Qué pasa? ¿Estás bien??
+A06.0007 [Chaton] | ¡NO es una estafa, ¿vale?!
+A06.0008 [Chaton] | ¡Solo ven ya!
+A06.0009 [Chaton] | Trae algo de Dorra.
+A06.0010 [Chaton] | Necesito unos 100000.
+A06.0011 [Chaton] | ¡Nada! ¡Solo que no traigo suficiente efectivo!
+A06.0012 [Chaton] | ¡Date prisa y ven!
+A06.0013 [Chaton] | ¡Te pateo el trasero si llegas tarde!
+A06.0014 [Tú] | Bueno, bueno...
+A06.0015 [Tú] | ¿Pero al menos podrías decirme qué pasó?
+A06.0016 [Chaton] | ...
+A06.0017 [Chaton] | Mi pistola se disparó sin querer y rompió el escaparate de una pastelería.
+A06.0018 [Chaton] | ¡NO se lo digas a nadie! ¡O te mato!
+A06.0019 [Tú] | ¿Sin querer...?
+A06.0020 [Chaton] | ¡Tienes que creerme! ¡De verdad fue un accidente!
+A06.0021 [Chaton] | ¡En fin, ven para acá YA!
+
+## Conversación A07
+A07.0001 [Chaton] | Tirano
+A07.0002 [Chaton] | ¿Sabes dónde está Kasimira?
+A07.0003 [Opción] | ¿???
+A07.0004 [Tú] | Ni idea. ¿Por qué?
+A07.0005 [Chaton] | Hoy teníamos un duelo en el campo de entrenamiento.
+A07.0006 [Chaton] | ¿¡En serio me va a dejar plantada otra vez!?
+A07.0007 [Tú] | ¿Por qué siempre intentas retar a Kasimira?
+A07.0008 [Chaton] | Hmph. ¡Vencerla es la única forma de convertirme en la más fuerte de la Compañía del Gato Blanco!
+A07.0009 [Chaton] | Y demostrar que soy digna de mi título sagrado: la única heredera del poder oscuro dentro de la Compañía del Gato Blanco
+A07.0010 [Tú] | ...
+A07.0011 [Tú] | Siempre hablas de ser una «heredera»
+A07.0012 [Tú] | ¿De quién exactamente heredaste este poder oscuro?
+A07.0013 [Tú] | Porque ahora mismo no hay nadie más como tú en la Compañía.
+A07.0014 [Chaton] | Antes había...
+A07.0015 [Chaton] | Pero por alguna razón, ya no están.
+A07.0016 [Chaton] | Y por eso mismo la gran Chaton tiene otra misión importante:
+A07.0017 [Chaton] | ¡Actuar como la chispa y devolverle el poder oscuro a la Compañía del Gato Blanco!
+A07.0018 [Tú] | ... Eso no tiene ni el menor sentido.
+A07.0019 [Chaton] | ...
+A07.0020 [Chaton] | Da igual. Estoy harta de esperar. Quiero ir a pasar el rato al Monolito.
+A07.0021 [Chaton] | ¿Vienes?
+A07.0022 [Opción] | ¿Yo también tengo que ir?
+A07.0023 [Opción] | Está bien, vamos.
+A07.0024 [Chaton] | Sí.
+A07.0025 [Chaton] | ¡Nos vemos en el lugar de siempre, entonces!
+A07.0026 [Chaton] | ¡No tardes una eternidad! ¡Ve ya!
+
+## Conversación A08
+A08.0001 [Chaton] | ¡¿En serio todavía no me has escrito?!
+A08.0002 [Chaton] | ¡¿No me digas que de verdad te olvidaste?!
+A08.0003 [Opción] | ¿Olvidé qué?
+A08.0004 [Opción] | Ah... Justo iba a escribirte.
+A08.0005 [Chaton] | ¡Uf, obvio!
+A08.0006 [Chaton] | ¡Es el cumpleaños de la gran Chaton!
+A08.0007 [Chaton] | ¡¿Entonces dónde está mi regalo?! ¡¿Y mis bendiciones de cumpleaños?!
+A08.0008 [Chaton] | ¿Ah, sí?
+A08.0009 [Chaton] | Porque si no me ibas a escribir por mi cumpleaños...
+A08.0010 [Chaton] | ¡Aparecería justo detrás de ti con mi rifle cargado...!
+A08.0011 [Tú] | Eres muy impaciente. ¿Cómo voy a sorprenderte ahora?
+A08.0012 [Chaton] | ¡¿Una sorpresa?!
+A08.0013 [Chaton] | ¡Espera, ¿de verdad me conseguiste una sorpresa?!
+A08.0014 [Chaton] | ¡¿Dónde está?! ¡¿Qué clase de regalo es??
+A08.0015 [Tú] | ¡Pues no es sorpresa si te lo digo!
+A08.0016 [Tú] | En fin, feliz cumpleaños.
+A08.0017 [Tú] | ¡En cuanto a tu regalo, tendrás que venir por él tú misma!
+A08.0018 [Chaton] | Bien, ya que sí te esforzaste, la gran Chaton perdonará tu insolencia.
+A08.0019 [Chaton] | Hoy espero pastel.
+A08.0020 [Chaton] | ¡Asegúrate de tener uno listo para mí!
+
+## Conversación A09
+A09.0001 [Chaton] | Uf, el entrenamiento es lo peor...
+A09.0002 [Chaton] | Ya soy prácticamente invencible.
+A09.0003 [Chaton] | ¿Entonces por qué todavía tengo que hacerlo?
+A09.0004 [Tú] | ¿De dónde viene esto?
+A09.0005 [Chaton] | La Compañía nos obliga a hacer estos ejercicios diarios.
+A09.0006 [Chaton] | Y una estúpida «evaluación táctica» cada mes...
+A09.0007 [Chaton] | ¡Como si la gran Chaton necesitara algo de eso!
+A09.0008 [Opción] | Ya sabes lo que dicen: mantén afilados a tus soldados para cuando importe.
+A09.0009 [Opción] | Hasta la gran Chaton tiene que seguir mejorando sus habilidades.
+A09.0010 [Chaton] | ¡La gran Chaton no es ningún soldado raso!
+A09.0011 [Tú] | ¡Cuidado, o tus poderes oscuros podrían empezar a escaparse!
+A09.0012 [Chaton] | Sí, claro. No caeré en eso.
+A09.0013 [Chaton] | Quiero combate de verdad, no estos aburridos ejercicios.
+A09.0014 [Chaton] | ¡Como enfrentarme a las Tierras Salvajes o al Monolito!
+A09.0015 [Tú] | Claro, pero hacer operaciones reales allá afuera todos los días...
+A09.0016 [Tú] | Eso acabaría con tu presupuesto al instante, ¿no?
+A09.0017 [Chaton] | ¿Presupuesto?
+A09.0018 [Chaton] | ¿Qué presupuesto?
+A09.0019 [Tú] | Viajes, raciones, municiones...
+A09.0020 [Tú] | Además, el combate real toma todo el día. Piénsalo...
+A09.0021 [Tú] | No te quedaría nada de tiempo para los videojuegos.
+A09.0022 [Chaton] | ...
+A09.0023 [Chaton] | ¡Espera, un momento! Definitivamente necesito mis horas de juego.
+A09.0024 [Chaton] | Quizá el combate diario es una mala idea.
+
+## Conversación A10
+A10.0001 [Chaton] | ¡Guau! ¿Es esto...
+A10.0002 [Chaton] | el legendario...
+A10.0003 [Chaton] | ¡¡¡¡¡¡¡Cristal del Poder Oscuro?!!!!!!!
+A10.0004 [Opción] | Eh... Sí, digamos que sí.
+A10.0005 [Opción] | Es broma. En realidad no lo es.
+A10.0006 [Chaton] | Mmm... ¡Esta música es increíble!
+A10.0007 [Chaton] | ¡No te creo!
+A10.0008 [Chaton] | ¡La música es demasiado buena!
+A10.0009 [Chaton] | ¡Excelente!
+A10.0010 [Chaton] | ¡La gran Chaton está complacida!
+A10.0011 [Chaton] | ¡Pide tu recompensa, Tirano!
+A10.0012 [Tú] | ¿Recompensa?
+A10.0013 [Chaton] | ¡Sip!
+A10.0014 [Chaton] | Bueno, como el Tirano no se decide...
+A10.0015 [Chaton] | ¡Yo elegiré por ti!
+A10.0016 [Chaton] | Tu recompensa será...
+A10.0017 [Chaton] | ¡Que redoble mis esfuerzos para ayudarte a recuperar tu verdadero poder oscuro!
+A10.0018 [Tú] | ¿Eh?
+A10.0019 [Chaton] | ¡Así que vamos a aceptar unos encargos!
+A10.0020 [Chaton] | ¡Más grandes! ¡Más difíciles!
+A10.0021 [Chaton] | ¡Encargos dignos de un verdadero Tirano!
+A10.0022 [Tú] | ¡E-Espera un momento!!!!
+A10.0023 [Chaton] | ¡Ya estoy en la Asociación de Trekkers! ¡Date prisa y ven, Tirano!

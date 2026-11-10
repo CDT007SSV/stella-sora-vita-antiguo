@@ -1,0 +1,187 @@
+# Capítulo 7 · El precio de la estrella · 14 · Ajuste técnico
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Deepsea Finance Teller | Cajera de Finanzas del Mar Profundo
+N:Enthusiastic Trekker | Trekker entusiasta
+N:Hardworking Employee | Empleado trabajador
+N:Innocent Girl | Chica inocente
+N:Passionate Employee | Empleado apasionado
+N:Ruby & Sapphire | Ruby y Sapphire
+N:Salesperson No. 20 | Vendedor n.º 20
+N:Salesperson No. 21 | Vendedor n.º 21
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg1_150 | Laru
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_124 | Erinis
+N:avg3_125 | Meikyo
+N:avg3_126 | Empleada de Finanzas del Mar Profundo
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_168 | Chica
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_220 | Mercurio
+N:avg3_974 | Serena
+N:avg3_978 | Trekker emocionado
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto catorce
+0002 [Intro] | Ajuste técnico
+0003 [Intro] | Mercurio hunde el mercado con malicia y deja tu recaudación de fondos al borde del fracaso. Cuando se corre la voz, la gente de Philae que apoya a Cosecha Unida da un paso al frente, y sus aportaciones cubren el último faltante.
+0004 [Lugar y hora] | 16:15, 15.º del mes de Venatio, Distrito de Oro de Philae, sucursal de Finanzas del Mar Profundo
+0005 [Firenze] | Quisiera cambiar estos diamantes de cristal por Dorra, por favor.
+0006 [Deepsea Finance Teller] | E-enseguida. Es un depósito enorme, así que contarlos tomará un momento. Le pido un poco de paciencia.
+0007 [Noya] | ¡Guau, aquí debe haber más de mil! ¿Por qué la Guardia Imperial paga con esto? ¿No sería más fácil un cheque de Finanzas del Mar Profundo?
+0008 [Iris] | Estas gemas tienen un tamaño uniforme y sirven para potenciar hechizos poderosos.==W== Por eso los diamantes de cristal han sido el estándar para las grandes transacciones desde la antigüedad.
+0009 [Iris] | Puede que ahora el estándar sea el Dorra, lo que convirtió estas gemas en un recurso estratégico, pero la Guardia Imperial sigue aferrada a las viejas costumbres, como usarlas para pagar contratos enormes.
+0010 [Amber] | Acumulan para el combate. Una reserva estratégica.
+0011 [Iris] | Exacto. Para una facción que pelea tan seguido como la Guardia Imperial, pagar con diamantes de cristal en vez de Dorra es matar dos pájaros de un tiro.
+0012 [???] | Vaya, vaya. Pero si es Firenze...==W== y la gente de Boss Accord. Qué sorpresa encontrármelos aquí.
+0013 [Firenze] | Contrataste matones para emboscar al Jefe, saboteaste el teleférico...==W== Hay que tener descaro para dar la cara aquí, Mercurio.
+0014 [Mercurio] | ¡Ay, qué miedo! ♪ Si de verdad hice algo que te molestara, supongo que podría disculparme...
+0015 [Mercurio] | Pero nos hemos movido estrictamente dentro de las reglas de la revisión técnica.==W== ¿Algún problema con eso?
+0016 [Mercurio] | Y seamos sinceras: si no pueden pagar el depósito, cualquier pequeña victoria que consigan durante la revisión no sirve de nada. ¿Verdad?
+0017 [Noya] | Perdón por arruinarte la ilusión, ¡pero ya tenemos el depósito! Con el dinero resuelto, ¡es imposible que Cosecha Unida Philae pierda esto!
+0018 [Mercurio] | Jajajaja, qué confianza. Entonces veamos de qué son capaces de verdad ♪
+0019 [Deepsea Finance Teller] | Gracias por esperar, Lady Firenze.==W== Terminamos el conteo. Trajo 1,200 diamantes de cristal. Al tipo de cambio de hoy, de 5.05 millones de Dorra cada uno, suman 6,060 millones de Dorra.
+0020 [Iris] | ¡6 mil millones...! Perfecto. Después del depósito, todavía nos sobrarán mil millones de Dorra...==W== Con eso también cubrimos los gastos diarios de operación de la empresa.
+0021 [Firenze] | Por favor, haga el cambio de inmediato y deposite los fondos en nuestra cuenta para la subasta del Monolito.
+0022 [Erinis] | ¡E-espere, un momento!
+0023 [Erinis] | ¡L-lo siento mucho, Lady Firenze... y todos los del Gremio de la Nueva Estrella! Acabamos de recibir una alerta urgente de la sede. El mercado de diamantes de cristal está sufriendo una volatilidad enorme. Necesitamos un momento para recalcular el tipo de cambio.
+0024 [Noya] | Espera, ¿eh? ¿Qué quiere decir? ¿No teníamos más de 6 mil millones de Dorra?
+0025 [Iris] | No entres en pánico. Es solo una corrección técnica. Mantén la calma.
+0026 [Iris] | Que baje el precio es perfectamente normal si alguien más está vendiendo sus existencias.
+0027 [Iris] | Pero... en Nova ya no queda ninguna mina activa de diamantes de cristal. Aunque alguien esté vendiendo, la oferta es limitada. No debería afectar tanto el precio de mercado...
+0028 [Meikyo] | El nuevo tipo de cambio de la sede es de...==W== 4.1 millones de Dorra cada uno.
+0029 [Iris] | ¡¿Cómo es posible...?!==W== ¡¿Una caída del 20 por ciento en un solo día?! ¡¿El mercado puede hacer eso?!
+0030 [Meikyo] | Lo siento, pero nosotros también acabamos de recibir la noticia.
+0031 [Meikyo] | Cerca del mediodía, alguien remató una enorme reserva de diamantes de cristal en Puerto Jilguero. También corre el rumor de que un mago descubrió un material sustituto para lanzar hechizos. El mercado se está desplomando.
+0032 [Meikyo] | Esos factores provocaron la caída. Ahora mismo...==W== estos diamantes solo valen 4,920 millones de Dorra.
+0033 [Erinis] | Dejando de lado la venta masiva, ese rumor es una tontería absoluta. Esperamos que los precios se recuperen para mañana.
+0034 [Firenze] | Eso es demasiado tarde. Con 4,920 millones, todavía nos faltan 80 millones para el depósito.
+0035 [Firenze] | Mercurio... ¿Qué tan desesperada está Omnisky Aegis por el Monolito de Philae? Hundir así el mercado de diamantes de cristal debió costarles decenas de miles de millones de Dorra.
+0036 [Mercurio] | Jeje, es un secreto comercial ♪
+0037 [???] | Ayer pidió un préstamo de 40 mil millones de Dorra a Finanzas del Mar Profundo, con un 30 por ciento de interés. Yo diría que es seguro asumir que se jugó el todo por el todo.
+0038 [Mercurio] | ¿Oh? ¿Y tú quién eres? No sé qué estés tramando, pero andar esparciendo rumores es de muy mala educación.
+0039 [???] | Ay, no, no. Una informante valora su reputación más que su propia vida. Yo no trato con rumores.
+0040 [Narración] | Una mujer con capa entra al vestíbulo con paso firme, sosteniendo en alto un casete, del mismo tipo que se obtiene con un deseo en un Monolito.
+0041 [???] | Omnisky Aegis tiene dos opciones. Opción uno: comprarme esta cinta.==W== Opción dos: la reproduzco aquí mismo y todo lo que contiene se hace público.
+0042 [???] | Y viendo a estos Trekkers, estoy segura de que alguien estará más que feliz de prestarme un Artefacto para reproducirla.
+0043 [Iris] | ¿S-señorita Serena?
+0044 [Serena] | Cuánto tiempo, mis amigos del Gremio de la Nueva Estrella.
+0045 [Noya] | ¿Un Artefacto reproductor? ¡Tenemos uno en la casa rodante! ¡Voy por él!
+0046 [Noya] | ¡Gracias por esperar! ¡Aquí está!
+0047 [Mercurio] | Adelante. Veamos qué tienes.
+0048 [Serena] | Debo admitir que tu franqueza de hecho mejora mi opinión de ti.
+0049 [Mercurio] | ¡Dígale a su gerente que Omnisky Aegis necesita un préstamo de 40 mil millones de Dorra!
+0050 [Mercurio] | Lo quiero esta noche. Listo para retirarse en Puerto Jilguero.
+0051 [Erinis] | E-está bromeando, ¿verdad? Una suma tan grande no estará lista hasta mañana en la mañana, como pronto...
+0052 [Mercurio] | 5 por ciento. Libere los fondos esta noche y le garantizo personalmente una comisión del 5 por ciento.
+0053 [Erinis] | ¿Está loca? Finanzas del Mar Profundo tiene protocolos estrictos.
+0054 [Erinis] | No podemos aprobar así nada más un préstamo enorme sin garantía...
+0055 [Mercurio] | Pongo a mi hermana como garantía. Y además una comisión del 10 por ciento. ¿Tenemos un trato?
+0056 [Erinis] | ¡O-oigan, no me miren así! ¡Yo nunca acepté la comisión!
+0057 [Erinis] | ¡Su garantía era perfectamente válida! Y con un 30 por ciento de interés, Finanzas del Mar Profundo no tenía razón para negar el préstamo.==W== No es nuestro trabajo vigilar en qué gastan su dinero los clientes...
+0058 [Mercurio] | No tengo que dar explicaciones. Sabía que Firenze andaba desesperada buscando tratos, así que golpeé primero y aplasté su pequeña operación.
+0059 [Mercurio] | Simplemente hice una jugada brillante dentro de las reglas. No puedes decir en serio que hice algo malo.
+0060 [Mercurio] | Si acaso, échale la culpa a tu patética gestión de riesgos.==W== Dadas las circunstancias, Cosecha Unida Philae solo tenía dos opciones reales.
+0061 [Narración] | Opción uno: ganarse a la Guardia Imperial y sus bolsillos profundos.
+0062 [Narración] | Opción dos: rogarle a Finanzas del Mar Profundo un préstamo para cubrir el faltante.
+0063 [Salesperson No. 20] | ¡Así que por eso la capi...==W==, digo, la gerente dejó seca a Finanzas del Mar Profundo! ¡Y hundió el mercado de diamantes de cristal!
+0064 [Salesperson No. 21] | ¡Es brillante!
+0065 [Mercurio] | Lo admito, no esperaba que reunieran tanto efectivo. Aun así, hundir el mercado fue sin duda el seguro correcto ♪
+0066 [Mercurio] | Lo que nos lleva a la pregunta: ¿cómo piensan tapar un hoyo de 80 millones de Dorra antes de que se acabe el tiempo?
+0067 [Noya] | ¡P-puras mentiras! ¡Claro que podemos conseguir 80 millones!==W== Una vez un coleccionista ofreció una fortuna por Loxy... ¡Nosotras... venderemos a Loxy si es necesario!
+0068 [Mercurio] | Adelante. Yo no los voy a detener...==W== Jajaja. Faltan dos horas para el atardecer. ¿Creen que lo logren?
+0069 [Mercurio] | Mejor tiren la toalla. ¿Para qué vender sus diamantes de cristal hoy con una pérdida enorme? Esperen a que se recuperen y quizá hasta les alcance para pagarle la liquidación a su personal.
+0070 [Deepsea Finance Teller] | Eh...==W== ¿Lady Firenze? ¿Seguimos con el cambio?
+0071 [Firenze] | Por supuesto. Todavía faltan dos horas para el atardecer, ¿no?
+0072 [Firenze] | ... Si me rindo ahora,==W== no podría mirar a los ojos al Jefe ni a Chitose. No mientras ellos arriesgan la vida en el Monolito.
+0073 [Firenze] | Ruby, Sapphire, vengan conmigo. Vamos a conseguir esos 80 millones ahora mismo.
+0074 [Ruby & Sapphire] | ¡¡Sí, señora!!
+0075 [Firenze] | Gremio de la Nueva Estrella, quédense aquí. Asegúrense de que el Dorra llegue de verdad a nuestra cuenta.
+0076 [Noya] | Cuenta con nosotras...
+0077 [Mercurio] | Qué patético. ¿A quién más podrías rogarle a estas alturas?
+0078 [Sapphire] | Ruby, ¿qué estará planeando Lady Firenze? Me cuesta admitirlo, pero esa mujer tiene razón: ya no nos quedan empresas con las cuales negociar...
+0079 [Sapphire] | Lady Firenze ya vendió todos sus bienes personales solo para mantener a flote la empresa.
+0080 [Ruby] | No tengo idea de cuál es su plan...==W== Pero ¿deberíamos empezar a vender nuestras cosas también?
+0081 [Sapphire] | ¿Vender qué?==W== ¿De verdad tienes algo de valor, Ruby?
+0082 [Ruby] | Nop. Ay... Supongo que solo nos queda confiar en Lady Firenze.
+0083 [Innocent Girl] | D-disculpe...
+0084 [Ruby] | ¿Mm? ¿Me hablas a mí? ¿Qué pasó?
+0085 [Innocent Girl] | Usted es la señorita que siempre canta en la panadería de Cosecha Unida...==W== ¿Verdad?
+0086 [Ruby] | ¿Cantar? Suena a mí. Pero...==W== perdón, linda. Ahorita estoy hasta el cuello de trabajo. No puedo darte un show.
+0087 [Innocent Girl] | No, no vengo por la canción. ¡Traigo todo mi Dorra para comprar pan para un mes entero!
+0088 [Sapphire] | ¿U-un mes entero? ¿Por qué...?
+0089 [Innocent Girl] | Mis papás dicen que si Cosecha Unida pierde esa cosa de la subasta, ustedes se tienen que ir de Philae.
+0090 [Innocent Girl] | Pero si eso pasa... nunca podré volver a comer su pan tan rico ni oírla cantar...
+0091 [Innocent Girl] | Así que pensé que si uso mi domingo para comprar mucho pan, a lo mejor ayudaba a que se quedaran.
+0092 [Firenze] | Jeje... Gracias, cariño. Pero no te preocupes. La panadería se queda justo aquí, y ella también.
+0093 [Amber] | Atención. Viene una multitud.
+0094 [Noya] | Uf... ¿Más matones contratados por Omnisky Aegis? Ya basta...
+0095 [Athrill Trekker] | ¿A quién le dices matones de Omnisky? ¡No trabajamos para esos sinvergüenzas!
+0096 [Iris] | Ah... ¿No están con ellos?
+0097 [Enthusiastic Trekker] | Sabemos todo sobre la guerra de ofertas por el Monolito. Venimos a echar una mano y a respaldar a Boss Accord.
+0098 [Athrill Trekker] | Así es. ¿Ponernos del lado de Omnisky Aegis? Ni de chiste. Tenía una póliza con ellos. Prometieron cubrir lesiones, pero en cuanto me lastimé y presenté un reclamo, ¡me dieron largas y se zafaron del pago!
+0099 [Athrill Trekker] | Además, Scarlet Sights Media informa que están subiendo el depósito a 40 mil millones. Ya saben que piensan exprimirle hasta el último Dorra a la gente de Philae.
+0100 [Enthusiastic Trekker] | Muchos Trekkers de aquí son víctimas de Omnisky, pero muchos de nosotros vinimos a apoyar al Jefe.
+0101 [Enthusiastic Trekker] | Se unieron a Petal Bloom para las Grandes Comisiones. Detuvieron a las Plantas Inteligentes. Salvaron Philae.
+0102 [Enthusiastic Trekker] | ¿Boss Accord u Omnisky Aegis? Ni hay que pensarlo. Tengan, tomen esto...
+0103 [Amber] | ¿Eso es mucho Dorra...?
+0104 [Athrill Trekker] | Nuestro gremio va a la Selva Frondosa. Necesitamos provisiones, así que se las compramos a los socios del Jefe para mostrar nuestro apoyo.
+0105 [Enthusiastic Trekker] | ¡Y yo! Apúntenme 20 cajas de Ruiseñor Leonado. Vamos a buscar un Monolito legendario en el desierto, y ese pan es perfecto.
+0106 [Iris] | ¡Todos...!==W== ¡Muchas gracias!
+0107 [Passionate Employee] | ¡Para comprar o apartar, por favor hagan fila aquí!
+0108 [Hardworking Employee] | Dejen su dirección y se lo entregamos lo antes posible.
+0109 [Firenze] | Todos ustedes...==W== ¿Qué hacen aquí?
+0110 [Passionate Employee] | Nosotros también somos parte de Cosecha Unida Philae. Ayudar a proteger nuestra empresa es lo más natural.
+0111 [Hardworking Employee] | No tenemos mucho, pero todos pusimos de nuestros ahorros. El dinero lo tiene la señorita Nyx. Por favor, acéptelo.
+0112 [Firenze] | Pero ustedes tienen sus propias vidas de qué preocuparse.
+0113 [Hardworking Employee] | No diga eso. Si la empresa se hunde, todo se hunde con ella.
+0114 [Passionate Employee] | Además, de no ser por usted, Lady Firenze, ya habríamos perdido nuestros trabajos frente a esas Plantas Inteligentes.
+0115 [Hardworking Employee] | Queremos devolverle su bondad, aunque sea un poco. Por eso estamos aquí.
+0116 [Narración] | Se forma una fila enorme afuera de Finanzas del Mar Profundo; la gente llega corriendo a medida que se corre la voz. ==W==Cientos, miles, decenas de miles de Dorra... Billetes viejos y billetes nuevecitos se apilan hasta formar una montaña de efectivo.
+0117 [Mercurio] | ¡¿Toda esta gente...?! ¡¿Por qué?!
+0118 [Mercurio] | Número 20, sal y detenlos. ¡Ya!==W== Si no puedes ahuyentarlos, provoca pánico y rompe la fila. Entretenlos hasta el atardecer y ganamos.
+0119 [???] | Detente, Mercurio.
+0120 [Mercurio] | ¡¿L-Lady Albedo?!==W== ¿Qué hace aquí? ¿Y cómo que «detente»? No hemos roto ninguna regla...
+0121 [Albedo] | Puede ser. Pero las reglas acaban de cambiar.
+0122 [Albedo] | La directora del Instituto del Cielo emitió una directiva absoluta. A partir de este momento, queda estrictamente prohibido cualquier sabotaje en la guerra de ofertas.
+0123 [Mercurio] | ¡Imposible...! ¡¿Por qué nos sueltan esto ahora, de todos los momentos?!
+0124 [Albedo] | Ahórrate el aliento. Si tienes algún problema, háblalo con la directora en persona.
+0125 [Mercurio] | Mmm...
+0126 [Albedo] | Laru. Vigílalos.
+0127 [Laru] | Entendido. Será como ir de pesca: con los ojos pegados al flotador hasta que piquen.
+0128 [Salesperson No. 20] | Gerente, ¿qué hacemos? Esa fila se extiende por kilómetros. A este paso, van a llegar a la meta de 80 millones de Dorra en nada.
+0129 [Mercurio] | No importa. Aunque hagan el depósito, el Jefe jamás pondrá las manos en el Artefacto requerido.
+0130 [Mercurio] | Lo tenía previsto. Nuestros equipos dentro del Monolito ya aseguraron todas las Cajas de Deseos grandes.
+0131 [Bastelina] | Hola, aquí está su recibo. ¡Gracias por su compra! ♪ Le llevaremos todo a su domicilio enseguida.
+0132 [Iris] | ¿Bastelina? ¿Por qué estás de vendedora para Cosecha Unida Philae?
+0133 [Bastelina] | ¡Son las nuevas órdenes de la directora! Dijo que esto ya no es una guerra de ofertas por un Monolito, sino una subasta por el corazón de la gente de Philae.
+0134 [Bastelina] | Nos dijo que hiciéramos lo que quisiéramos...==W== ¡Y yo odio quedarme sentada! Así que vine a echar una mano. Además, Cosecha Unida Philae de verdad vende la mejor fruta.
+0135 [Amber] | Una subasta... por el corazón...
+0136 [Mistique] | Jeje. ¡Con un empujoncito de una bruja brillante como yo, claro que la gente le entrega su corazón al Jefe!
+0137 [Iris] | Espera, ¿tú reuniste a toda esta gente por nosotros, Mistique?
+0138 [Mistique] | ¡Nop! Los ciudadanos y los Trekkers ven todo lo que hacen. Saben a quién de verdad le importan. Yo solo me aseguré de que se enteraran de que necesitaban una mano, nada más.
+0139 [Serena] | Reunir tanto apoyo...==W== De verdad te pareces al legendario Tirano que guía a las masas.
+0140 [Serena] | Me pregunto... si captarás mis pistas y entrarás en esa sala...
+0141 [Narración] | ¿Invocarás el Artefacto de la profecía...? ¿Ese que de ninguna manera debería existir en este mundo?

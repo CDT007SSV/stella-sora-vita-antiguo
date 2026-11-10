@@ -1,0 +1,116 @@
+# Historia de Firefly · 2 · Searching, Searching for a Friend (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Citizen Running Away | Ciudadano que huye
+N:Monster | Monstruo
+N:avg1_115 | Firefly
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_1246 | Alpha Boar
+N:avg3_1247 | Alpha Boar
+N:avg3_144 | Residente
+N:avg3_179 | Misha
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Buscando, buscando un amigo (Parte II)
+0003 [Intro] | ¡Encuentras a una nueva candidata a amiga! Pero... ¿algo no anda bien?
+0004 [Misha] | Suspiro...
+0005 [Firefly] | Tirano, esa persona de allá está sola, con la mirada perdida. ¿No tendrá amigos?
+0006 [Tú] | Quizá tiene algo en la cabeza. Pero podría ser una buena oportunidad para hacer una amiga.
+0007 [Firefly] | ¿Una buena oportunidad?
+0008 [Tú] | Escuchar los problemas de otras personas es una forma común de hacer amigos.
+0009 [Firefly] | ¿Una forma común?
+0010 [Firefly] | Ya veo. Voy a usar la forma común.==W==
+0011 [Misha] | Suspiro...
+0012 [Firefly] | Oye, ¿estás bien?
+0013 [Misha] | ¿Eh?
+0014 [Firefly] | Has estado suspirando. ¿Pasa algo?
+0015 [Misha] | Eh... ¿Quién eres...?
+0016 [Firefly] | Soy Firefly.
+0017 [Tú] | No soy estudiante de aquí. Canace me pidió que cuidara a esta niña.
+0018 [Misha] | Canace...==W== Espera, ¿eres...==W== ¡¿Eres la alumna de admisión especial de la que todos hablan?!
+0019 [Misha] | Mucho gusto. Me llamo Misha. Estudio Monolitología.
+0020 [Misha] | Mi meta es ser Trekker...==W== Ayer se lo conté a mi familia y no quisieron ni escucharlo. Todo estalló,==W== jaja...
+0021 [Firefly] | ¿Por qué quieres ser Trekker?
+0022 [Misha] | Quiero seguir investigando los Monolitos después de graduarme y quiero enfocarme más en la investigación de campo y la práctica...==B====W== Si pudiera hacer trabajo de campo como la profesora Canace, sería increíble.
+0023 [Misha] | Si me hago Trekker, podré explorar Monolitos cuando quiera, ¿no?==W== Pero dentro de los Monolitos hay Stellaroids, sin hablar de otros peligros...
+0024 [Firefly] | No entiendo. ¿Por qué los Stellaroids te impedirían ser Trekker?
+0025 [Misha] | Eh, ¿no son muy peligrosos?
+0026 [Firefly] | Hay muchos juguetes dentro del Monolito. Muy divertido. Quiero ir todos los días.
+0027 [Misha] | Todos los días... Espera, ¡¿tú también eres Trekker?!==W== ¿Será que... de verdad has peleado contra Stellaroids?
+0028 [Firefly] | Sí. Jugar con los Stellaroids es muy divertido.
+0029 [Misha] | No puede ser... ¿Hasta una niña pequeña puede escalar un Monolito...?
+0030 [Misha] | No me digas que ya has derrotado a muchos Stellaroids.
+0031 [Firefly] | Sí. Muchos.
+0032 [Tú] | ¿Esto está bien? Siento que esta conversación nos va a meter en problemas...
+0033 [Misha] | ¡Por favor, Maestra! ¡Llévame contigo a un Monolito!==W==
+0034 [Tú] | ¡Lo sabía!
+0035 [Misha] | ¡Quiero verlo con mis propios ojos, cueste lo que cueste!==W== Los adultos... me dicen que me rinda antes de intentarlo. ¡¿Cómo voy a aceptar eso?!
+0036 [Tú] | Bueno, tu entusiasmo es admirable, pero en principio no está permitido llevar a una persona común a un Monolito.==B====W== Si un no combatiente queda atrapado en la batalla, todo el equipo podría terminar en peligro por cuidarlo...
+0037 [Misha] | P-perdón. De verdad no lo pensé bien. Tienes razón...
+0038 [Firefly] | Creo que está bien.==W==
+0039 [Misha] | ¿En serio? ¿De verdad lo dices, Maestra?
+0040 [Firefly] | No soy «maes». Soy Firefly.==B====W== Voy a la Caja de Deseos a pedir película para mi cámara. Si quieres venir, sígueme.
+0041 [Tú] | Espera, Firefly. Un momento.
+0042 [Tú] | Desde que era sujeto de experimentos, trata a los Stellaroids como juguetes...==W== Para ella, el Monolito en sí probablemente es solo un patio de juegos...
+0043 [Tú] | Pero Misha es distinta. Es una estudiante común.==W== No basta con confiar en el instinto de Firefly para mantenerla a salvo dentro del Monolito.
+0044 [Tú] | Dicho eso, si me pongo firme ahora y se lo prohíbo... hay muchas probabilidades de que se escapen a mis espaldas...
+0045 [Tú] | Muy bien. Primero tendrás que pelear contra un monstruo. Juzgaré por tu desempeño si podemos llevarte.
+0046 [Misha] | ¿En serio? ¿Puedo?
+0047 [Tú] | Sí. Con eso como referencia, puedo hablar con Canace e intentar conseguir la aprobación de la academia.
+0048 [Tú] | Pero todo depende de una cosa... Tienes que derrotar al monstruo tú sola.
+0049 [Misha] | ...
+0050 [Misha] | Entiendo. Si me están dando esta oportunidad, ¡quiero intentarlo!
+0051 [Firefly] | ¡Monstruo! ¡Monstruo!==W== ¿Dónde podemos encontrar un monstruo?
+0052 [Misha] | Cuando te topes con un monstruo, primero apunta a los ojos... Luego ataca las patas para que no pueda moverse...
+0053 [Tú] | ¿Estará bien?
+0054 [Firefly] | Ahí viene.
+0055 [Citizen Running Away] | ¡Iiiiiiih!==W==
+0056 [Misha] | ¡¿Pasó algo?!
+0057 [Citizen Running Away] | ¡H-hay un monstruo por allá...!
+0058 [Misha] | ¡Un monstruo...!
+0059 [Monster] | Grrrrr...
+0060 [Misha] | ¡Bien, bien!
+0061 [Firefly] | Suerte, Misha.
+0062 [Misha] | ¡Sí! ¡Maestra, entro!
+0063 [Misha] | ¡Hyaaaaaaaah!
+0064 [Tú] | ¡E-espera! Si te lanzas así nada más, vas a alertar...
+0065 [Misha] | ¡Se acabó tu tiempo!
+0066 [Monster] | ¡GRROOOOAAAAR!==W==
+0067 [Misha] | ¡Aaaahhh!
+0068 [Misha] | ¡Ugh...! ¡M-mi brazo...!
+0069 [Monster] | ¡Rooooaaaarrrrrrrrr!
+0070 [Misha] | ¡¿Iiih?! N-no... ¡No te acerques más!
+0071 [Tú] | ¡No! ¡Parece completamente furioso!
+0072 [Monster] | ¡Gaaaaaahh!==W==
+0073 [Misha] | ¡Alguien! ¡Ayuda!==W== ¡Maestra!
+0074 [Monster] | ¡Rooaaarrr...!
+0075 [Misha] | ¡Ma-maestra...!
+0076 [Firefly] | Objetivo fijado.
+0077 [Firefly] | Avalancha, activar...
+0078 [Firefly] | —¡Crac!
+0079 [Monster] | ¡Aaaaaaugh!
+0080 [Tú] | Partió al monstruo en dos de un solo golpe... Así es Firefly.
+0081 [Firefly] | ¿Eso es todo?
+0082 [Monster] | Grrrgh...
+0083 [Tú] | ¡Vienen más monstruos! ¡Firefly, ¿puedes proteger a Misha y acabar con todos al mismo tiempo?!
+0084 [Firefly] | ¡Yupi! ¡Cuántos juguetes!
+0085 [Monster] | ¡Rooaaarrr!
+0086 [Firefly] | Kya.
+0087 [Firefly] | Je.==W==
+0088 [Misha] | Increíble... Así que esto es... lo que es una Trekker de verdad.
+0089 [Firefly] | Gané.==W==
+0090 [Tú] | Por fin los ahuyentó...
+0091 [Firefly] | ¿Estás bien, Misha?
+0092 [Misha] | Yo... ya me voy.
+0093 [Firefly] | ¿Eh?
+0094 [Misha] | Como estoy ahora... no estoy capacitada para escalar un Monolito.==W== Eso era lo que intentabas decirme, ¿verdad, Maestra?
+0095 [Firefly] | Misha... ¿De qué hablas? Yo solo quería protegerte.
+0096 [Misha] | Gracias de todos modos, Maestra.==W==
+0097 [Tú] | Es natural. Después de ver con sus propios ojos una brecha de habilidad tan enorme... para ella, los Trekkers seguramente se sienten aún más inalcanzables.
+0098 [Tú] | Firefly...
+0099 [Firefly] | ¿Tirano?
+0100 [Firefly] | Eso... no funcionó... ¿verdad?

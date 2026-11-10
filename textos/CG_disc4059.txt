@@ -1,0 +1,117 @@
+# Recuerdo de disco · Fly, O Caged Bird · 1 · Fly, O Caged Bird
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Real Estate Agency | Agencia inmobiliaria
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_123 | Eleanor
+N:avg3_196 | Empleada corporativa
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Vuela, oh, pájaro enjaulado
+0003 [Intro] | La yo del cuadro y la yo del espejo: ¿cuál es la verdadera yo?
+0004 [Eleanor] | No. Muéstrenos la siguiente.
+0005 [Real Estate Agency] | Señorita, por favor reconsidérelo. Aquí vivió un Trekker antes que usted. Sería perfecta como base de gremio.
+0006 [Real Estate Agency] | ¡Además, hay un bono si firma hoy! Incluso le regalamos el equipo de exploración de Monolitos que el inquilino anterior tuvo la amabilidad de dejar...
+0007 [Eleanor] | Quédeselo. No pienso cargar con el equipaje de otra persona por unos cuantos obsequios. Sigamos adelante.
+0008 [Caterine] | ¿No está siendo Eleanor un poco demasiado exigente?
+0009 [Vivian] | Gato escaldado del agua fría huye. La estafaron una vez, así que naturalmente esta vez es extra cuidadosa.
+0010 [Caterine] | ¡Guau, este lugar es impresionante!
+0011 [Real Estate Agency] | ¡Tiene excelente gusto! Fue renovado hace poco, es una de nuestras propiedades premium.
+0012 [Eleanor] | ¡Absolutamente no!
+0013 [Real Estate Agency] | ¿¡Por qué!?
+0014 [Vivian] | ¿Por qué no, Eleanor? Yo pensaba que este estaba bien...
+0015 [Eleanor] | Observen bien la distribución. No hay nada de circulación de aire. El aire se estancará y a largo plazo será asfixiante.
+0016 [Vivian] | ... Creo que ya pasamos de la simple cautela.
+0017 [Caterine] | Suena como una anciana quisquillosa.
+0018 [Real Estate Agency] | Esta es la última propiedad que tenemos disponible. Pero quizá no sea digna de una dama de su posición.
+0019 [Eleanor] | ¡La tomamos!
+0020 [Real Estate Agency] | ¿¡La toman!?
+0021 [Eleanor] | El edificio no es demasiado viejo y la distribución tiene sentido. Así debe verse una base de Trekkers.
+0022 [Vivian] | Tiene razón...==W== Queda a un paso tanto de la Casa de los Trekkers como del Monolito.
+0023 [Real Estate Agency] | Pero como pueden ver, ¿no resulta el entorno un poco espartano para ustedes? Solo tiene lo esencial...
+0024 [Eleanor] | Eso es una ventaja. Una habitación vacía significa que no hay puntos ciegos donde esconder trampas sospechosas.
+0025 [Caterine] | Podemos comprar nuestros propios muebles.==W== Je, ya tengo ganas de decorar.
+0026 [Vivian] | Sí. Miren esa esquina de allá. Es el lugar perfecto para mi mesa favorita.
+0027 [Caterine] | ¡Cuelguen unos cuadros en las paredes y nuestro cuartel se verá mucho más imponente!
+0028 [Vivian] | Buena idea. ¿No tenemos justo aquí a una maestra pintora?
+0029 [Eleanor] | Espera, ¿quieren usar mis pinturas?
+0030 [Vivian] | Eres la mejor artista de las tres, ¿no?
+0031 [Caterine] | Entonces no hay tiempo que perder. Vayamos a casa de Eleanor y escojamos algunas.
+0032 [Eleanor] | Oigan, esperen, ustedes dos. No me jalen tan fuerte...
+0033 [Real Estate Agency] | ¡Señoritas! ¿¡Van a firmar el contrato o no!?
+0034 [Eleanor] | Traje mis pinturas viejas, pero ...==W== todas son piezas de práctica.
+0035 [Caterine] | Guau, no esperaba que hubiera tantas. Mira, esta siempre me ha encantado.
+0036 [Eleanor] | Entonces nos quedamos con esa. En cuanto al resto...
+0037 [Vivian] | ¿Y si colgamos un retrato? En mi casa tenemos retratos familiares en las paredes.
+0038 [Caterine] | Exacto. Eleanor es nuestra Capitana del Gremio, así que tiene sentido colgar su retrato como pieza central.
+0039 [Eleanor] | Colgar mi propio retrato por una razón así ...==W== me da algo de vergüenza.
+0040 [Vivian] | Pues no debería. Eres nuestra orgullosa capitana y el rostro de nuestro gremio.
+0041 [Caterine] | Tiene razón. Escoge uno de tus retratos, Eleanor. Seguro alguien te ha pintado antes.
+0042 [Eleanor] | Mi familia contrató hace poco a un pintor famoso para hacer uno...==W== Dame un segundo, voy por él.
+0043 [Vivian] | Está bellamente hecho. Capturó bien tus rasgos. Es ideal para nuestra pieza central.
+0044 [Eleanor] | Sí, es una buena pintura. Pero...
+0045 [Vivian] | ¿Pasa algo?
+0046 [Eleanor] | No puedo explicarlo del todo.==W== Se supone que soy yo, pero me parece una extraña.
+0047 [Caterine] | Mmm. Ahora que lo mencionas...==W== La expresión de tu rostro sí se ve un poco rara...
+0048 [Eleanor] | ¿Mi expresión?
+0049 [Caterine] | Sí. La manera en que sonríes ahora es mucho más bonita que la de la pintura.
+0050 [Vivian] | Yo pensaba lo mismo...==W== Bueno, ¿y si encargamos uno nuevo?
+0051 [Eleanor] | Eh...==W== Mejor no. Ese dinero se aprovecharía mejor en el gremio.
+0052 [Eleanor] | Además, ser modelo es agotador.==W== Hay que quedarse quieta toda una tarde. No quiero volver a pasar por eso.
+0053 [Caterine] | Uf, te entiendo. A mí también me tocó hacerlo.
+0054 [Vivian] | Entonces, ¿por qué no lo pintas tú misma, Eleanor? Un autorretrato.
+0055 [Eleanor] | ¿Un autorretrato...?==W== Nunca había intentado pintar uno...==W== Está bien, ¡lo intentaré!
+0056 [Eleanor] | Suspiro...==W== Hablé con tanta bravuconería,==W== y no puedo pintar nada que me satisfaga...
+0057 [Eleanor] | Lo he pintado una y otra vez, pero todos me parecían torpes. Seguí las técnicas adecuadas, entonces ¿por qué la chica del cuadro parece otra persona?
+0058 [Eleanor] | «La manera en que sonríes ahora es mucho más bonita».==W== ¿Qué es exactamente lo que cambió?
+0059 [Eleanor] | ... No lo descifro. Debería salir a caminar para despejar la mente.
+0060 [Eleanor] | Este se ha vuelto mi lugar favorito. La «pista de baile» donde bailé con el Mentor...==W== El paisaje es hermoso. Siempre me calma.
+0061 [Eleanor] | Me pregunto si el Mentor sabría de dónde viene esta sensación extraña.
+0062 [Eleanor] | ... ¡No! No puedo seguir dependiendo del Mentor. Necesito resolver mis propios problemas.
+0063 [Eleanor] | ... No sabía que un lugar así se escondía en lo profundo del bosque. El agua es cristalina. Qué hermoso.
+0064 [Eleanor] | Ahora que lo pienso, leí en un libro que antiguamente la gente pintaba autorretratos usando su reflejo en el río.==W== Debería probarlo.
+0065 [Eleanor] | Eh...==W== Supongo que debería verse más o menos así...==W== ¿Eh?
+0066 [Eleanor] | ¿Por qué se ve distinto al espejo?==W== ¿Será el agua? ¿O mi ropa?
+0067 [Eleanor] | ... La yo de este reflejo se ve feliz. Parece que este bosque me ha ayudado a relajarme. La antigua yo jamás habría soñado con salir a la naturaleza para despejar la mente.
+0068 [Eleanor] | Antes, tomarme un descanso significaba leer, tomar té o pintar...==W== Esas cosas me hacían feliz, sí, pero en aquel entonces no sabía que había otras maneras de disfrutar la vida.
+0069 [Eleanor] | Si no me hubiera convertido en Trekker, habría pasado toda la vida sin saberlo...==W== Ah.
+0070 [Narración] | Una brisa roza las mejillas de Eleanor y la luz del sol se filtra entre las hojas. Levanta la cabeza y contempla el cielo infinito.
+0071 [Eleanor] | ... Cierto. Todo tiene sentido. Hace mucho que no soy esa versión de mí misma.
+0072 [1] | Los Trekkers son más libres y tienen más potencial que cualquier otra persona.
+0073 [Eleanor] | Los Trekkers son libres.==W== En ese caso...
+0074 [Narración] | Golpeada por una repentina revelación, Eleanor se pone de pie.
+0075 [Eleanor] | Creo que por fin lo entiendo...==W== Es hora de volver.
+0076 [Eleanor] | Soy Eleanor, la «Dama Trekker». ¿Cómo podrían esas técnicas de la alta sociedad captar a la Trekker que soy hoy? Tengo que olvidar las fórmulas, las teorías, las reglas... Pintaré con el corazón.==W== Es la única manera de hacerle justicia a quien soy ahora.
+0077 [Eleanor] | Capturaré la alegría que he sentido desde que me convertí en Trekker, junto con mis esperanzas para el futuro. ¡Pintaré a la verdadera «yo»...!
+0078 [Narración] | Varios días después.
+0079 [Eleanor] | Vivian, Caterine, bienvenidas. ¡A partir de hoy, este es el cuartel de nuestro gremio!
+0080 [Caterine] | Por fin.==W== Je, elegir este lugar fue la decisión correcta.
+0081 [Vivian] | Los tres lo elegimos a primera vista. Supongo que los grandes genios piensan igual.
+0082 [Eleanor] | Además, quiero mostrarles algo...
+0083 [Vivian] | ¿E-es esto ...==W== tu autorretrato? Nunca había visto una composición como esta.
+0084 [Vivian] | ¡Es muy original! ¡Es como si hubieras capturado tu pasado y tu futuro en el mismo lienzo...!
+0085 [Caterine] | Además, esta expresión te capta mejor que la otra pintura...==W== Me encanta. Quien lo mire encontrará contagiosa tu sonrisa.
+0086 [Vivian] | Parece que descubriste por qué ese viejo retrato se sentía raro.
+0087 [Eleanor] | Sí. Fue porque la yo de esa pintura solo tenía ojos para el mundo noble.
+0088 [Eleanor] | ... Sé que aún soy inexperta. Ya sea como señorita de sociedad o como Trekker, todavía tengo mucho que aprender, pero...
+0089 [Eleanor] | Al menos ya comencé oficialmente mi viaje como Trekker. Mi antigua yo casi me parece una extraña ahora...
+0090 [Caterine] | Eres nuestra capitana del gremio. Deberías mantener la frente en alto y tener más confianza.
+0091 [Vivian] | Exacto. Tampoco podemos dejar que nos superes.
+0092 [Eleanor] | Caterine, Vivian...==W== Gracias. Ustedes me dieron el empujón para pintar este retrato.
+0093 [Eleanor] | Si no fuera por esta pintura, habría sido difícil ver con claridad cuánto he cambiado.
+0094 [Eleanor] | Se los prometo: ¡me convertiré en una capitana digna de esta pintura y forjaremos un futuro completamente nuevo!
+0095 [Caterine] | Ay, qué confiable es nuestra capitana.
+0096 [Vivian] | Eres la única que podría liderarnos, Eleanor.
+0097 [Caterine] | Por cierto, Eleanor, ¿nos pintarías a nosotras después?
+0098 [Vivian] | Eres astuta, Caterine. No dejaré que te cueles en la fila.
+0099 [Eleanor] | Por supuesto. De hecho,==W== ya que tenemos la oportunidad, ¿por qué no pinto un retrato grupal de las tres?
+0100 [Eleanor] | Podemos colgar nuestros retratos individuales y luego poner una pintura de nosotras juntas.==W== Eso hará que este lugar se sienta como nuestro gremio, ¿no creen?
+0101 [Vivian] | ¡Buena idea!
+0102 [Caterine] | ¡Suena perfecto!
+0103 [Eleanor] | ¡Je, je, esperen y verán!

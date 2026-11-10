@@ -1,0 +1,155 @@
+# Capítulo 8 · Calor residual · Recuerdo · Feliz cumpleaños Ⅰ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Calm Voice | Voz tranquila
+N:Happy Little Baby | Bebé feliz
+N:Sad Little Baby | Bebé triste
+N:Taffett | Taffett
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_139 | Allie
+N:avg3_157 | Guardia Imperial
+N:avg3_181 | Narida
+N:avg3_182 | Elis
+N:avg3_967 | Noya, Amber e Iris
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Recuerdos
+0002 [Intro] | Feliz cumpleaños Ⅰ
+0003 [Intro] | El recuerdo revela que Taffett es Allie. Noya, Iris y Amber conocieron a Taffett y a Narida hace años. En aquel entonces, se gestaba una crisis mientras culpaban a la Compañía del Gato Blanco del asesinato de la emperatriz de Nova...
+0004 [Narración] | ==Off== Taffett... Acércate. Más cerca.
+0005 [Narración] | ==Off== Nadie fuera de esta habitación puede vernos ni oírnos.
+0006 [Narración] | ==Off== Descanse tranquila, Su Majestad. El pasillo está completamente despejado.
+0007 [Narración] | ==Off== Je... No lo entiendes.
+0008 [Narración] | ==Off== Llevan años esperando este momento, y no dejarán que nada se interponga en su camino.
+0009 [Narración] | ==Off== Taffett, necesito un favor. Una última misión.
+0010 [Narración] | ==Off== Las armas de los Gatos Blancos están a su servicio.
+0011 [Narración] | ==Off== Para esta no necesitarás tus armas.
+0012 [Narración] | ==Off== Ve a esta dirección. Alguien te estará esperando.
+0013 [Narración] | ==Off== Y necesito que protejas... No. No que la protejas.
+0014 [Narración] | ==Off== Quiero que dejes atrás a los Gatos Blancos. Empieza de nuevo, Taffett. Simplemente vive tu vida.
+0015 [Narración] | ==Off== ¿Dejar atrás a los Gatos Blancos? ¿Vivir mi vida?
+0016 [Narración] | ==Off== Con todo respeto, Su Majestad... no lo entiendo.
+0017 [Narración] | ==Off== No tienes que entenderlo ahora.
+0018 [Narración] | ==Off== Algún día lo entenderás.
+0019 [Narración] | ==Off== El destino siempre pone las cosas justo donde deben estar.
+0020 [Narración] | Año 981 del Calendario Monolítico
+0021 [Lugar y hora] | 09:50, 2.º del mes de Floris, Distrito de las Cenizas de Emor, casa de seguridad
+0022 [Calm Voice] | Eso fue todo, Narida. Nuestra última conversación. Me entregó esta cinta Artefacto justo antes de que me escabullera del palacio.
+0023 [Narida] | Gracias por compartirlo, Taffett.==W== Pero deberías saber que... la emperatriz murió poco después de que te fuiste.
+0024 [Narida] | Haz memoria. ¿Notaste algo raro mientras estabas ahí? ¿Alguien que actuara extraño? Dame lo que sea.
+0025 [Taffett] | Nada. Revisé cada rincón de ese palacio yo misma. Era completamente seguro.
+0026 [Narida] | Pero...==W== Algo no cuadra.==W== ¿Por qué la nueva emperatriz y el Imperio de la Gracia están difundiendo el rumor==W== de que la asesinaron?
+0027 [Taffett] | ¡¿Asesinada?!==W== Déjame esta investigación a mí, Narida.==W== Si de verdad alguien la mató,==W== lo voy a hacer pedazos.
+0028 [Narida] | Calma, Taffett.==W== Siempre te pones así de impulsiva.==W== Mira, según mi información, todo eso del asesinato es una farsa. Su Majestad llevaba años enferma.==W== Ya no le quedaba mucho tiempo.
+0029 [Narida] | Además, el nuevo régimen no confía en nosotras de todos modos. Le entregaron toda la investigación al Árbitro del Ocaso. Nos dejaron completamente fuera.
+0030 [Taffett] | ¿El Árbitro del Ocaso? Por favor. Lo único que hacen es perseguir sombras y gritar «hereje».==W== No podrían investigar la escena de un crimen ni aunque su vida dependiera de ello.==W== No, yo voy a investigar esto.
+0031 [Narida] | Retírate, Taffett.==W== Sé que estás enojada, pero tenemos órdenes.==W== Mientras los Gatos Blancos sirvan al Imperio, no actuamos por nuestra cuenta. ¿Quedó claro?
+0032 [Narida] | Además...==W== Todavía tienes una orden directa de Su Majestad que cumplir, ¿no?==W==
+0033 [Taffett] | Uf... ¿Por qué me tocó a mí hacer de niñera...?
+0034 [Sad Little Baby] | ¡Buaaa...!
+0035 [Narida] | ¡¿D-de dónde salió esa bebé?!==W== En serio, ¿por qué llora así?
+0036 [Taffett] | No tengo la menor idea.==W== Pero Su Majestad me ordenó mantenerla a salvo.
+0037 [Taffett] | Se despertó hace veinte minutos: no tiene sueño.==W== Tomó leche hace diez minutos: no tiene hambre.==W== Pañal limpio.==W== Según toda métrica lógica, no tiene ninguna razón para llorar.
+0038 [Sad Little Baby] | ¡Bua... buaaa! ¡Buaaa...!
+0039 [Taffett] | Me rindo. Esto no tiene ningún sentido.
+0040 [Narida] | ¡Jaja!==W== Llorar es su trabajo.==W== A ver, déjame intentarlo.
+0041 [Narida] | Shh, shh, ya, ya, preciosa. Aquí estoy.==W== ¿Quieres oír una canción?
+0042 [Narida] | La la la la... la la la...==W== Vaya,==W== de verdad no sé cantar.
+0043 [Happy Little Baby] | Mm... Ji, jijiji.
+0044 [Taffett] | ¿Qué...?==W== Estaba berreando y ahora está como si nada.==W== Es increíble. ¿Cómo lo hiciste?
+0045 [Narida] | Es sencillo. Solo haz lo que hacen las mamás del orfanato.
+0046 [Narida] | Después de todo...==W== cuando la gente tiene miedo, solo quiere que la abracen.==W== No importa si eres un bebé o un adulto.
+0047 [Taffett] | ¿Los abrazos... te hacen sentir segura?==W== A mí solo un arma me hace sentir así.
+0048 [Narida] | Ay...==W== Solo una adicta a las batallas como tú diría eso.
+0049 [Narida] | Espera...==W== La misión secreta que te dio la emperatriz...==W== ¿era cuidar a esta niña?
+0050 [Taffett] | Sí.==W== Fui a la dirección. Encontré una casa de seguridad que no aparece en ningún registro,==W== y ahí estaba ella, justo en medio de la habitación.
+0051 [Taffett] | Pero ¿por qué yo?==W== Tú eres la que siempre quiso trabajar en el orfanato. Esto debería ser tu trabajo.
+0052 [Taffett] | Ella sabe que lo único que he querido siempre es pelear por los Gatos Blancos. No me interesan los niños para nada.
+0053 [Happy Little Baby] | Gu ga...==W==mamá...
+0054 [Narida] | ¡Jaja!==W== Mira, te está estirando los brazos. Hasta te dice «mamá».==W== Quizá lo odies, pero es obvio que confía en ti.
+0055 [Taffett] | Hace un momento estaba llorando a todo pulmón.==W== Además...==W== no quiero ser madre. Es demasiado trabajo.
+0056 [Narida] | Llora porque te necesita.==W== Quizá sea chiquita, pero sabe exactamente lo que quiere.==W== ¿Verdad, preciosa?
+0057 [Narida] | Además, la emperatriz no hace las cosas porque sí.==W== Grabó ese mensaje para que te aferraras a esas palabras.
+0058 [Taffett] | «Quiero que dejes atrás a los Gatos Blancos. Empieza de nuevo, Taffett. Simplemente vive tu vida...»
+0059 [Narida] | ¿Cuándo se ha equivocado Su Majestad? Hay una razón para esta misión. Solo que todavía no la vemos.
+0060 [Narida] | No quiero faltarle al respeto, pero conociéndola... Hasta su muerte podría ser parte de algún gran plan.
+0061 [Narida] | Así que,==W== hasta que esta niña pueda valerse por sí misma,==W== se acabaron las órdenes de los Gatos Blancos para ti.==W== Solo confía en tu instinto y haz lo que creas correcto.
+0062 [Taffett] | Confiar en mi instinto...==W== Pero, Narida,==W== sin órdenes...==W== ni siquiera sé qué hacer.
+0063 [Narida] | De verdad que eres un caso, ¿lo sabías?==W== Bueno.==W== Empecemos por algo sencillo:==B====W== ponle un nombre.
+0064 [Narración] | Año 986 del Calendario Monolítico
+0065 [Lugar y hora] | 11:30, 21.º del mes de Pluvia, Distrito de las Cenizas de Emor, casa de seguridad
+0066 [???] | ¿Hay alguien en casa?
+0067 [Amber] | ¿Quién es?
+0068 [???] | ¡Hola, niñas! Soy amiga de su mamá.==W== Se le olvidó algo superimportante para el trabajo y no pudo salir,==W== así que me mandó a recogerlo.
+0069 [Iris] | Mamá dijo que no le abriéramos la puerta a desconocidos.
+0070 [???] | ¡Pero no soy una desconocida! Su mamá y yo somos muy cercanas.==W== Y esto es muy importante: si no se lo llevo, ¡hasta podría perder su trabajo!
+0071 [Noya] | ¡Nop! ¡No vamos a hacer eso! ¡La puerta se queda cerrada hasta que mamá llegue a casa, no importa quién seas!
+0072 [???] | ¡Uf, mocosas, qué latosas son!==W== ¡Aléjense de la puerta si no quieren salir lastimadas!
+0073 [Noya] | ¡Uy, se está enojando! ¡Se está enojando de verdad!==W== ¡Sabía que era una malvada!
+0074 [Iris] | Noya, Amber, prepárense.
+0075 [Amber] | Lista.
+0076 [???] | Je, je, je, ¿creyeron que esta porquería de puerta me iba a detener? Pequeñas plagas, no tienen adónde correr. ¡Me las voy a llevar a todas!
+0077 [Noya] | ¡Toma esto!==W==
+0078 [???] | Uy, ¿ya saben usar magia de ataque? Impresionante.==W== Pero esa navaja de viento es demasiado débil. Ni siquiera podría protegerte.
+0079 [Noya] | Jeje, ¡caíste! ¡Mira arriba!
+0080 [???] | ¡Cof, cof!==W== ¿Qué es esto...?==W== ¡¿Harina?!
+0081 [Iris] | ¡Congélate!
+0082 [???] | Vaya, vaya...==W==ahora mis pies están pegados al suelo.==W== Ustedes, niñas, se saben un montón de trucos, pero eso todavía no basta para detenerme.
+0083 [Amber] | Ganar tiempo es todo lo que necesitamos.==W== ¡Suelo, rómpete!
+0084 [???] | ¡¿Qué...?!
+0085 [???] | Ay, ay, ay, ay... ==W==Ay, ay, ay... ¿Qué es esto?==W== ¿Un círculo mágico?==W== Y... espera, de verdad no puedo salir.==W== ¿Es en serio?==W== Uf... Está bien. Me rindo. Me doy por vencida.
+0086 [Noya & Amber & Iris] | ¡Sí! ¡Por fin te ganamos, Narida! ¡Ahora vamos a comer pastel!
+0087 [Taffett] | Narida, si fuiste suave con ellas, este entrenamiento no sirvió para nada.
+0088 [Narida] | No, no, no fui nada suave con ellas.==W== Solo estaba actuando de «secuestradora que sabe algo de magia».
+0089 [Narida] | La verdad, con sus habilidades y ese círculo mágico tan potente en la puerta, cualquier maleante común sería el que terminara atrapado.
+0090 [Narida] | Aun así, nunca pensé que les enseñarías tanto aquí en el Distrito de las Cenizas, magia de verdad y todo.==W== ¡Ja! De verdad te estás volviendo una mamá preocupona, ¿no? ♪
+0091 [Taffett] | No es que me preocupe tanto su educación... Pero sin habilidades de combate, ¿cómo sobrevivirían en estas calles?
+0092 [Narida] | ¡Está bien! Es obvio que te importa su seguridad. Eso ya es muy maternal de tu parte ♪
+0093 [Taffett] | No puedo protegerlas...==W== para siempre.
+0094 [Iris] | ¡Mamá, Narida! ¡Coman pastel!==W== ¡El pastel de cumpleaños de Noya está riquísimo!
+0095 [Narida] | Ah, ¿a mí también me toca?==W== ¡Gracias!==W== Mmm, está muy bueno.==W== Taffett, tu repostería mejoró.
+0096 [Taffett] | Yo no lo hice.==W== Lo hizo Noya. Esa niña tiene mucho talento.==B====W== En cuanto a mis pasteles...==W== ¿De verdad alguien querría comérselos?
+0097 [Narida] | Ah, ya veo...==W== No pasa nada. Cocinar solo requiere práctica.
+0098 [Taffett] | Narida, no lo entiendo. ¿Por qué a todos les gustan estas cosas ligeras y esponjosas?==W== Son difíciles de cargar, se echan a perder fácilmente...==W== No tienen ninguna utilidad práctica.
+0099 [Taffett] | ¿Y por qué a los niños les encantan tanto los cumpleaños?==W== No tienen nada de especial. Literalmente es solo el día en que naciste.
+0100 [Taffett] | Ah...==W== ¿Será solo porque les dan pastel?==W== Pero si quieren pastel, pueden hacerlo cuando quieran.
+0101 [Narida] | Ay... ¿Sabes? Fuera del combate, no tienes ni pizca de sentido común.
+0102 [Taffett] | ¿Qué tiene de malo concentrarse en el combate?
+0103 [Taffett] | Los Gatos Blancos no tenemos nombres, ni cumpleaños, ni padres. Solo nombres en clave. ¿No es porque...?
+0104 [Taffett] | Entre más cosas tienes que proteger, más debilidades tienes.
+0105 [Narida] | Jaja, es cierto...==W== Pero, Taffett, ¿no te has dado cuenta? Has cambiado.
+0106 [Taffett] | ¿Cambiado en qué?==W== Claro, llevo un tiempo lejos del frente,==W== pero he seguido entrenando. Puedo volver al escuadrón cuando sea y ser las garras más afiladas de los Gatos Blancos.
+0107 [Narida] | Entonces déjame preguntarte esto. Antes decías que no te interesaban los niños para nada.==W== Entonces, ¿por qué de repente estás criando a tres al mismo tiempo?
+0108 [Taffett] | Noya y Amber...==W== Alguien las dejó en mi puerta envueltas en cobijas.==W== No podía dejarlas morir.==W== Además, le hacen compañía a Iris.
+0109 [Taffett] | Y si alguien intenta atacar a Iris, tener más niñas alrededor le complica al enemigo identificar a su objetivo.==W== Exacto, solo las acogí==W== por la misión.
+0110 [Narida] | Por la misión, ¿eh? Hablas muy rudo, pero...==W== Oye, oí que Noya y Amber ya traían sus nombres en las cobijas. A Iris le pusiste el nombre tú, ¿verdad?==W== ¿Alguien a quien no le interesan los niños para nada pensaría tanto un nombre solo porque otros se lo sugirieron?
+0111 [Taffett] | Sí. Solo escogí un nombre por los lirios que hay junto al muro. Es un nombre de lo más común.
+0112 [Narida] | ¿El muro, eh? Pero cuando entré, vi esos lirios arrancados de raíz. No me digas que...
+0113 [Taffett] | ¿Qué?==W== Narida, cuida a las niñas. ¡Voy a cazar a los culpables!
+0114 [Narida] | ¡Oye, tranquila! Es broma.==W== Las flores están bien, justo donde siempre han estado.
+0115 [Narida] | La verdad...==W== eres pésima para mentir.
+0116 [Narida] | Dices que los cumpleaños no tienen sentido, pero aun así les compraste regalos.
+0117 [Narida] | Taffett, ¿desde cuándo te volviste tan tierna?==W==
+0118 [Taffett] | ¿De verdad...==W== me he llenado de todos estos sentimientos inútiles sin darme cuenta?
+0119 [Narida] | No son «inútiles».==W== Se llama «amor».==W== Y la verdad, ahora estás mucho mejor.
+0120 [Narida] | Creo que ese era el verdadero propósito de la última misión de Su Majestad.
+0121 [Narida] | Claro, un cumpleaños es solo el día en que naciste. Un día normal del año.
+0122 [Narida] | Mucha gente se equivoca de fecha y aun así lo celebra, y de todos modos son felices.
+0123 [Narida] | No porque estén celebrando su nacimiento, ni solo por comer algo rico. Es porque...
+0124 [Narida] | ese día sienten el amor de la gente que los rodea.==W== De eso se trata en realidad.
+0125 [Narida] | Así que, Taffett, el próximo año también vamos a celebrar tu cumpleaños.
+0126 [Taffett] | N-no tiene sentido.==W== Además,==W== los Gatos Blancos ni siquiera sabemos cuándo nacimos.
+0127 [Narida] | ¡Jeje, no te preocupes!==W== Yo sí lo sé. En el orfanato, tenía tantas ganas de ser mamá que ayudaba con todo.==W== Todavía recuerdo los nombres reales y los cumpleaños de todos, incluido el tuyo.
+0128 [Taffett] | Ejem. Dejemos el tema.==W== Narida, ¿hay noticias del asesinato?==W== Hasta esos árbitros tan lentos ya deberían haber encontrado algo después de cinco años.
+0129 [Narida] | ... Ah, cierto.==W== Basta de plática.==W== De hecho, por eso vine hoy.
+0130 [Narida] | Taffett. A partir de este momento, no dejes que las niñas te digan «mamá».
+0131 [Taffett] | ¿A partir de este momento?==W== ¿Qué quieres decir?
+0132 [Narida] | La Guardia Imperial está a punto de hacer una redada en Emor. Marcarán a cualquier familia donde un niño le diga «mamá» a alguien que no es su madre de sangre.
+0133 [Narida] | Porque así es exactamente como lo hacemos en los orfanatos de los Gatos Blancos.
+0134 [Taffett] | Entonces... ¿Esto va contra nosotras? ¿Por qué?
+0135 [Narida] | Es sencillo. El Árbitro del Ocaso por fin concluyó su investigación.==W== Sospechan que la Compañía asesinó a Su Majestad. Nos tacharon de «herejes».

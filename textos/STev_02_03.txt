@@ -1,0 +1,108 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 3 · Trace of the Spirit
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Happy Little Girl | Niña feliz
+N:Lively Little Boy | Niño animado
+N:Shy Little Girl | Niña tímida
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_1080 | Niño
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Rastro del espíritu
+0003 [Intro] | Entre los niños corre el rumor de una foto que muestra a un espíritu resplandeciente. Laru, a quien normalmente le encanta flojear, está sorprendentemente motivada hoy y acepta con ganas la tarea de «encontrar la foto del espíritu».
+0004 [Laru] | ¿La conocen?
+0005 [Lively Little Boy] | No, jugamos aquí todos los días. ¡Nunca la habíamos visto!
+0006 [Happy Little Girl] | Siento que la he visto en algún lado...==W== Uf, no me acuerdo.
+0007 [Laru] | Ya veo...==W== Jefe, si está en la lista, tenemos que asegurarnos de que ella también reciba su regalo.
+0008 [Tú] | No te preocupes, ¿quizá nos la volvamos a topar más tarde?
+0009 [Tú] | Hablando de eso, parecía interesada en el Espíritu del Árbol Nevado...==W== ¿Es una historia famosa o algo así?
+0010 [Happy Little Girl] | ¡Sí! La leí en un libro. Una persona genial con el uniforme del Imperio de la Gracia nos lo regaló.
+0011 [Tú] | ¿Una persona genial?
+0012 [Shy Little Girl] | ¡Sí, nos trajo muchos libros!
+0013 [Laru] | Seguro es una obra de caridad. El Imperio de la Gracia hace este tipo de cosas con regularidad.
+0014 [Happy Little Girl] | ¡El libro decía que si le pides un deseo al Árbol Nevado, el buen Espíritu te lo cumple!
+0015 [Laru] | Ah, yo también escuché esa historia de chiquita~
+0016 [Laru] | Ya, es solo un cuento. Cosas como los espíritus son...==W== En fin, qué infantil.
+0017 [Lively Little Boy] | También trae una foto—==W== ¡Una figura brillante bajo el Árbol Nevado del parque!
+0018 [Lively Little Boy] | ¡La persona genial dijo que ella misma tomó esa foto hace tiempo, así que tiene que ser el Espíritu del Árbol Nevado!
+0019 [Shy Little Girl] | Este año nos dieron muchísimos regalos... ¡El Espíritu del Árbol debió de ayudar a cumplir los deseos de todos!
+0020 [Laru] | Eh...==W== Una figura brillante... Espera...==W== ¿será que...?
+0021 [Tú] | ¿Sí?
+0022 [Laru] | N-nada...==W== Es solo que a mí también me encantaría conocer a un Espíritu que cumple deseos. ¡Mis entregas serían mucho más fáciles!
+0023 [Lively Little Boy] | ¡Sí! ¡Pum! ¡Los disparas con el cañón y listo! ¡Estaría súper divertido!
+0024 [Happy Little Girl] | ¡No, yo no quiero un cañón, quiero que la señorita linda me lo dé en la mano!
+0025 [Laru] | Ja, ja...==W== Gracias. Me encantaría que fuera más fácil, pero si no veo las caras felices de todos, me sentiría sola.
+0026 [Lively Little Boy] | ¡Entonces usa el cañón justo frente a mí! ¡Yo lo atrapo! Dos pájaros de un tiro, ¿no?
+0027 [Laru] | ¡Ja, ja, ja! ¡Eres bien ocurrente!
+0028 [Laru] | Mmm...==W== Si ajustamos la potencia del cañón... ¿Tal vez se pueda?
+0029 [Lively Little Boy] | ¡Va a funcionar, va a funcionar! ¡El Espíritu del Árbol Nevado nos va a ayudar!
+0030 [Shy Little Girl] | Mmm...==W== Pero yo igual quiero recibir mi regalo de una forma bonita.
+0031 [Tú] | Vaya... El Espíritu del Árbol Nevado de verdad cumple todos los deseos...
+0032 [Lively Little Boy] | ¡Claro! ¡Es que brilla, ¿sabes?!
+0033 [Shy Little Girl] | ¡Resplandece!
+0034 [Tú] | ¿Solo porque resplandece ya lo creen? Ay, los niños...
+0035 [Tú] | Peces que brillan, espíritus que brillan, y hasta las calles brillan con luces...==W== ¿El Festival Nevado es una fiesta de la luz?
+0036 [Laru] | Eh, yo no lo diría así...
+0037 [Shy Little Girl] | Uy...==W== Tengo muchas ganas de conocer al Espíritu del Árbol Nevado.
+0038 [Tú] | ¿Alguien la ha visto con sus propios ojos?
+0039 [Little Boy] | Todos la han buscado, pero nadie la encuentra...
+0040 [Happy Little Girl] | Cuando vimos la foto, también le preguntamos a la persona genial por ella.
+0041 [Happy Little Girl] | Dijo==W== que solo vio al Espíritu esa vez que tomó la foto, y nunca más.
+0042 [Happy Little Girl] | Ah...==W== ¡Ya me acordé!
+0043 [Laru] | ¿Sí?
+0044 [Happy Little Girl] | La niña que acaba de salir corriendo estuvo espiándonos todo el rato mientras platicábamos del Espíritu del Árbol con la persona genial.
+0045 [Shy Little Girl] | A lo mejor sabe algo del Espíritu del Árbol.
+0046 [Lively Little Boy] | Espera, no, ¡yo creo que es una exploradora que mandó el Espíritu para escuchar nuestros deseos y luego ir a contárselos!
+0047 [Tú] | Parece que todos están muy interesados en este Espíritu.
+0048 [Shy Little Girl] | Pero no sirve de nada...==W== Ni siquiera encontramos un rastro suyo.
+0049 [Tú] | Déjenme pensar...==W== ¿No dijeron que tienen una foto del Espíritu? ¿Me la pueden enseñar? Puedo tomarle una foto con mi teléfono y mandársela a mis amigos. Si todos ayudan, quizá la encontremos.
+0050 [Laru] | ¡¿Mandar la foto a tus amigos?!
+0051 [Lively Little Boy] | ¡Buena idea! ¡Oigan!==W== ¿Alguien sabe quién tiene la foto ahorita?
+0052 [Shy Little Girl] | Ni idea. Estaba metida dentro del libro y todos se peleaban por leerlo.
+0053 [Laru] | Uf...==W== Entonces será difícil. Los libros donados se van pasando entre los niños.
+0054 [Tú] | Pero al menos un niño debe de tenerla, ¿no?
+0055 [Laru] | E-eso es difícil de saber. Son niños, después de todo. Seguro terminan el libro, lo avientan por ahí y se les olvida.
+0056 [Laru] | Es común que los libros que se pasan de mano en mano simplemente desaparezcan. Yo digo que mejor no nos molestemos en buscarla.
+0057 [Tú] | Qué lástima. De verdad quería echarle un vistazo al Espíritu del Árbol Nevado.
+0058 [Shy Little Girl] | ¡La señorita Espíritu es súper linda!
+0059 [Laru] | ¿En serio? E-entonces, yo también quiero conocerla...
+0060 [Shy Little Girl] | Pero la señorita Espíritu se veía un poquito sola. ¡Por eso queríamos encontrarla, para ser sus amigas!
+0061 [Laru] | Eh... Pues si no podemos encontrar la foto, no podemos hacer nada...==W== Sí, no hay nada que hacer~
+0062 [Lively Little Boy] | ¡Sí hay una forma! Hoy es el Festival Nevado. Todos vendrán por sus regalos. ¡Si les preguntamos uno por uno, alguien tiene que saber algo!
+0063 [Happy Little Girl] | ¡Sí! ¡Vamos a separarnos! ¡Así la encontraremos más rápido!
+0064 [Laru] | ¡E-esperen!
+0065 [Laru] | Ustedes disfruten el festival. ¡Déjennos la búsqueda del espíritu a nosotros!
+0066 [Lively Little Boy] | ¿Segura que puedes? ¿No eres solo la Reina de la Pesca?
+0067 [Laru] | ¡Claro! Solo hay que preguntar mientras entregamos los regalos... Es pan comido...==W== ¿Verdad, Jefe?
+0068 [Tú] | O sea... Se puede...
+0069 [Laru] | Somos los Mensajeros del Festival Nevado, después de todo. Es nuestro deber hacer realidad los deseos de estos niños.
+0070 [Tú] | Algo anda raro...==W== ¿Por qué de repente Laru se emocionó tanto? Esta búsqueda de la foto claramente le da trabajo extra.
+0071 [Laru] | Solo tenemos que encontrar a cualquiera que haya leído el libro y luego rastrear a cada persona en orden. Así, al final daremos con la última, ¿no?
+0072 [Tú] | Todos ustedes han leído el libro. ¿Recuerdan a quién se lo pasaron al final?
+0073 [Happy Little Girl] | Yo lo terminé primero y se lo di a una amiga del Clan Viento de Ceniza.
+0074 [Tú] | ¿Y tú?
+0075 [Lively Little Boy] | Vollara, del Viento de Ceniza, me lo dio a mí...==W== Yo se lo devolví después de leerlo.
+0076 [Shy Little Girl] | Yo... A ver, déjame pensar. Se lo di a una niña de cabello blanco. No parecía de aquí.
+0077 [Tú] | ¿Vino a recoger un regalo hace rato?
+0078 [Shy Little Girl] | No la vi, pero si sigue en Emor, seguro va a venir, ¿no? ¿Quién rechazaría un regalo del festival?
+0079 [Happy Little Girl] | Ah, cierto, cuando venía para acá vi a una Mensajera en la calle de al lado. Llevaba la misma ropa que ustedes y estaba repartiendo libros. Quizá ella sepa algo.
+0080 [Tú] | Son bastantes pistas.
+0081 [Laru] | Podemos preguntarles a esas personas mientras repartimos regalos...==W== si es que logramos toparnos con alguna.
+0082 [Tú] | Bien, ¿por dónde empezamos?
+0083 [Opción] | El Clan Viento de Ceniza
+0084 [Opción] | Seguir repartiendo regalos por aquí cerca
+0085 [Opción] | Ir a buscar a la otra Mensajera
+0086 [Tú] | Empecemos con el Clan Viento de Ceniza. Hay muchos niños ahí; quizá encontremos una nueva pista.
+0087 [Laru] | Sus patinetas son rapidísimas, ¿verdad? Podemos pedirles que nos ayuden a repartir regalos.
+0088 [Tú] | ¡Nosotros nos encargamos de nuestro trabajo!
+0089 [Tú] | Sigamos repartiendo regalos por aquí por ahora, quizá nos topemos con esa niña de cabello blanco.
+0090 [Tú] | Y podemos seguir preguntándoles a los niños que vengan por regalos sobre ella; mientras no haya salido de la ciudad, alguien seguro sabe algo.
+0091 [Tú] | Vayamos primero a la calle de al lado a buscar a la Mensajera. Quizá sepa más.
+0092 [Laru] | Una Mensajera con la misma ropa que yo...==W== Qué raro. ¿Todavía hay Mensajeros en Nova?

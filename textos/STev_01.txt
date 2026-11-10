@@ -1,0 +1,14 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_01_01 | Resplandor titilante
+STev_01_02 | Desde el Barco fantasma
+STev_01_03 | Misterios y aromas
+STev_01_04 | Una pista desde la voz
+STev_01_05 | Las apariencias engañan
+STev_01_06 | El doble
+STev_01_07 | Bajo la sombra
+STev_01_08 | La tierra de los ecos
+STev_01_09 | El origen de la luz
+STev_01_10 | El secreto del océano
+STev_01_11 | Verano sin fin

@@ -1,0 +1,105 @@
+# Recuerdo de disco · Claw the Claw · 1 · Claw the Claw
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Mr. Puffy Dango? | ¿Señor Dango Esponjoso?
+N:avg1_103 | Amber
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg3_132 | Kaede
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Garra contra garra
+0003 [Intro] | Una gran aventura en una sola habitación, una pequeña leyenda de los juguetes.
+0004 [Nazuna] | Sin duda, el mal se está infiltrando en nuestro mundo.
+0005 [Nazuna] | Esa aura terrible está manchando la tierra de luz, antes pura.==W== ¡Debemos unir fuerzas y expulsarla!
+0006 [Nazuna] | Con esto concluye mi discurso. ¿Alguien tiene objeciones?
+0007 [Nazuna] | Mmm, silencio.==W== Parece que todos están de acuerdo.
+0008 [Nazuna] | ¡Conde Ñam-Ñam, vamos! ==W==¡Carga hacia el Mundo Oscuro y gana esta batalla!
+0009 [Nazuna] | ...==W== Ahora solo hay un problema.==W== Para ser un ejército, los números se ven ... algo escasos.
+0010 [Nazuna] | Conde, ¿tú también lo crees?
+0011 [Nazuna] | Bueno, no hay remedio.==W== El Señor Dango Esponjoso tendrá que hacerte compañía.
+0012 [Mr. Puffy Dango?] | ¡Muy bien! ¡Marchemos!
+0013 [Mr. Puffy Dango?] | ¡¡¡WAAAH!!! E-este es el ...==W== ¡«Mundo Oscuro»!
+0014 [Mr. Puffy Dango?] | ¡Ay! ¿Quién anda ahí?
+0015 [Mr. Puffy Dango?] | ... ¿Solo el viento?
+0016 [Mr. Puffy Dango?] | Ni un alma. Lúgubre, oscuro...
+0017 [Mr. Puffy Dango?] | ¡Todos en alerta máxima!==W== Si—si algo acecha en las sombras...
+0018 [Mr. Puffy Dango?] | Ya saben...==W== Ocho patas, escondidas en los rincones...==W== O colas largas, chillando...
+0019 [Mr. Puffy Dango?] | ¡Iiih, qué mieeedo!
+0020 [Mr. Puffy Dango?] | N-no,==W== ¡no puedo seguir pensando en eso! ==W==En fin—¡si alguien encuentra algo, informe de inmediato a Lady Nazuna!
+0021 [Mr. Puffy Dango?] | ...==W== Pero la verdad es que aquí no hay nada.==W== Sellado, sin luz, mala circulación de aire...
+0022 [Mr. Puffy Dango?] | Uf. Qué calor hace aquí.
+0023 [Nazuna] | Descansa, Señor Dango Esponjoso.
+0024 [Nazuna] | No hay nada.
+0025 [Nazuna] | Ni Artefactos interesantes,==W== ni juguetes olvidados,==W== ni siquiera un rincón sucio o un bicho perdido.
+0026 [Nazuna] | Está limpio por todas partes.
+0027 [Nazuna] | Tiene sentido.==W== Normalmente es Kaede quien limpia, con Fuyuka ayudándola.
+0028 [Nazuna] | ... Lo que me hace preguntarme,==W== ¿no estaré aportando nada?
+0029 [Nazuna] | ¡No, no, eso no es verdad!==W== Hay cosas que puedo hacer, ¿no?==W== Como ganar peluches de premio, hacer amigos...
+0030 [Nazuna] | Mmmm...==W== Aunque eso no ayuda realmente a nadie...
+0031 [Nazuna] | Olvídalo. Me aburro. Mejor volvamos.
+0032 [Nazuna] | ... ¿Eh?
+0033 [Nazuna] | ¿No puede ser...?==W== ¿La puerta está cerrada con llave?
+0034 [Nazuna] | ¡Abran! ¡Abran la puerta!
+0035 [Nazuna] | ¿Hay==W== alguien==W== ahí—
+0036 [Nazuna] | ... Ah, cierto. Hoy no hay nadie en casa.==W== Si no, no habría tenido oportunidad de andar a escondidas.
+0037 [Nazuna] | ¿Ventanas?==W== Quizá haya alguna por la que pueda salir...==W== Nada, solo una rendija diminuta.
+0038 [Nazuna] | Uhh...
+0039 [Narración] | Nazuna extiende una esterilla en el suelo y rueda de un lado a otro hasta quedar boca arriba, mirando el techo sin moverse.
+0040 [Nazuna] | Eso es todo, me rindo. No hay nada que pueda hacer.
+0041 [Nazuna] | ... Pero si alguien se entera de que morí en una aventura en casa...==W== Qué vergüenza.
+0042 [Nazuna] | Debí haber ido a escalar el Monolito==W== con la pequeña Fuyuka,==W== ya que soy su senpai y todo eso.
+0043 [Nazuna] | Quería holgazanear, matar el tiempo—==W==y aquí estoy, atrapada.
+0044 [Nazuna] | ...==W== ¿Qué dices, Conde Ñam-Ñam?
+0045 [Nazuna] | Aunque ahora mismo no conozca ninguna magia útil, romper una puerta así sería pan comido.
+0046 [Nazuna] | Pero no quiero arruinar el arduo trabajo de Kaede...==W== No sería justo con ella.
+0047 [Nazuna] | Bueno...==W== Ya que el lugar está tan limpio, mejor tomo una siesta hasta que vuelvan.
+0048 [Nazuna] | Cierto,==W== mejor preparo todo para la siesta==W== con anticipación.
+0049 [Narración] | Nazuna apila cajas del almacén y arma con ellas una pequeña cama.
+0050 [Narración] | Al final, sujeta con cuidado una bandera blanca en el marco de la ventana.
+0051 [Nazuna] | Esto debería funcionar,==W== ya que Kaede siempre patrulla toda la Casa de los Trekkers.
+0052 [Nazuna] | Haah... qué sueño. Hora de la siesta.
+0053 [Nazuna] | Espera... ¿Qué...?
+0054 [Narración] | De algún modo, se aferra a la garra de una gigantesca máquina de garra mientras sube, con música triunfal retumbando en sus oídos.
+0055 [Kaede] | Nazuna ...==W== ¿está volando?
+0056 [Narración] | Arriba se extiende un mundo desconocido de oscuridad, y abajo están sus compañeros, con los ojos llenos de esperanza.
+0057 [Nazuna] | Bueno, no estoy muy segura de qué está pasando pero...==W== ¡me siento llena de energía!
+0058 [Fuyuka] | ¡Nazuna! ¡Tú puedes!
+0059 [Nazuka] | Nazuna,==W== ¡contamos contigo!
+0060 [Nazuna] | Hmph...==W== Jeje, ¡claro, déjenmelo a mí!
+0061 [Narración] | Nazuna aferra el peluche con fuerza y se lanza hacia su gran aventura—
+0062 [Kaede] | Nazuna, ya volvimos.
+0063 [Kaede] | ¿Nazuna? ¿Dónde estás?
+0064 [Fuyuka] | Busqué por todas partes, de arriba abajo...==W== Pero aún no la encuentro.
+0065 [Kaede] | ¿En serio? Entonces quizá por fin salió a hacer un encargo...
+0066 [Kaede] | No creo que sea el caso.==W== Últimamente está en una mala racha, demasiado perezosa incluso para hacer su parte de las tareas.
+0067 [Fuyuka] | ¿Adónde habrá ido?
+0068 [Kaede] | Probablemente durmiendo la siesta en algún lado. Sigamos buscando.
+0069 [Fuyuka] | ¡Ah, yo también iré a buscar!==W== Kaede, separémonos.
+0070 [Kaede] | Una bandera blanca...==W== Ya veo. Nazuna debe de estar adentro.
+0071 [Fuyuka] | ¡Guau, Kaede, la encontraste muy rápido!
+0072 [Kaede] | No tanto.==W== La verdad, solo a Nazuna se le ocurriría hacer algo así.
+0073 [Narración] | Al acercarse al almacén, todas notan la bandera blanca ondeando.
+0074 [Kaede] | No es la primera vez que se esconde aquí.==W== Incluso solía jugar a las escondidas conmigo.
+0075 [Kaede] | ¿Tanto le gusta este lugar?
+0076 [Fuyuka] | Parece que...==W== la cerradura está atascada.
+0077 [Kaede] | Ah, cierto, la cerradura de esa puerta es caprichosa.
+0078 [Fuyuka] | ¿Eh? ¿Entonces se quedó atrapada adentro?
+0079 [Kaede] | Debería ser fácil para ella derribar esta puerta...
+0080 [Kaede] | Pero esta vez simplemente esperó con paciencia a que volviéramos. Je...==W== Qué ternura.
+0081 [Kaede] | ¿Nazuna? Voy a entrar.
+0082 [Nazuna] | Jadeo... Jeje...==W== Esto sí se siente como una verdadera aventura...==W== Jadeo...
+0083 [Kaede] | Profundamente dormida, ¿eh? Y se armó una gran cama cómoda, además.
+0084 [Fuyuka] | Jeje... Esa es nuestra Nazuna.
+0085 [Kaede] | Sí,==W== e incluso ordenó el lugar para poder armar la cama.
+0086 [Kaede] | Se siente un poco cruel despertarla ahora. Mejor la llevamos a su cuarto, con cama y todo.
+0087 [Kaede] | La verdad,==W== lo que ella realmente necesita es alguien dispuesto a mantenerla encarrilada.
+0088 [Fuyuka] | ¿Quieres decir...?
+0089 [Kaede] | La pereza de Nazuna es un defecto, sí...
+0090 [Kaede] | Pero en cuanto se pone mimosa, siempre cedo.
+0091 [Kaede] | Así que espero que algún día,==W== encuentre a alguien en quien pueda apoyarse de verdad, alguien que la proteja y la guíe.
+0092 [Narración] | Kaede observa el rostro dormido e inocente de Nazuna y no puede evitar sonreír con cariño.

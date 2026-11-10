@@ -1,0 +1,103 @@
+# Evento · Un crepitante indicio de primavera · 5 · Ganancias difíciles
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:"Client" | «Cliente»
+N:"Client"'s Friend | Amigo del «cliente»
+N:Prosperity Gang Leader | Líder de la Pandilla Prosperidad
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg1_159 | Coronis
+N:avg2_952 | Lucky
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Ganancias difíciles
+0003 [Intro] | Por boca de los contrabandistas, descubres la verdad detrás de la desaparición de tus amigas. Decides lanzar un rescate en el Monolito, pero el líder te da una advertencia temblorosa: dentro habita la legendaria «Nian».
+0004 [Prosperity Gang Leader] | ¡Dejen de golpearme! ¡Me rindo, ¿sí?!
+0005 [Chixia] | Empieza a hablar y seremos blandos contigo. ¡Si te callas, te vas a arrepentir!
+0006 [Prosperity Gang Leader] | ¡Hablaré! ¡Lo que quieran saber!
+0007 [Tú] | Dinos la verdad. Decidiremos tu suerte==W== cuando hayamos escuchado toda la historia.
+0008 [Tú] | Ayer contrataron a tres Trekkers para un trabajo de carga. Entonces, ¿dónde están? ¿Por qué ustedes son los únicos que lograron volver?
+0009 [Prosperity Gang Leader] | ¿Eh? Ah... Cierto, ellas... Bueno, verán, pasó así...
+0010 [Narración] | Un día antes.
+0011 [Noya] | Miren cuánta carga... ¿Se están mudando o qué? ¿Quieren cobrar una montaña de deseos de un solo golpe?
+0012 [Amber] | No te sobreesfuerces.
+0013 [Iris] | Tiene razón...==W== Además, pedir tantos deseos cuesta demasiados recuerdos.
+0014 ["Client"] | ¡Ay, no pasa nada! ¡No se preocupen por eso!
+0015 [Iris] | ¿Está completamente segura...?
+0016 [Iris] | El pago es generoso...==W== Increíblemente generoso. Pero no podemos, en buena conciencia, quedarnos de brazos cruzados viendo cómo entra en una trampa mortal.
+0017 ["Client"] | Entiendo que les preocupe, pero confíen en mí, está bien. De verdad...==W== Estos suministros no son para la escalada.
+0018 [Noya] | ¿Entonces por qué estamos cargando todo esto adentro?
+0019 ["Client"] | Supongo que no van a dejarlo pasar, ¿verdad? Bien. Les hablaré con franqueza.
+0020 ["Client"] | Tuve una mejor amiga. Crecimos juntas. En los tiempos más difíciles, solo sobrevivimos porque teníamos a quién apoyarnos...
+0021 [Narración] | La clienta relata entre lágrimas cómo su mejor amiga se sacrificó para salvarla, usando su último aliento para sonreír y pedirle que siguiera viviendo.
+0022 ["Client"] | No soy la única. Todos en nuestro grupo han perdido a alguien en el Monolito: amigos, familia...
+0023 ["Client"] | Por eso volvemos al Monolito cada Festival Buscaprimavera con sus cosas favoritas.
+0024 ["Client"] | Dicen que el Monolito es un lugar de milagros. ¿Y si...==W== de verdad pudieran volver a casa con nosotros?
+0025 [Noya] | Ya veo... Con razón estos suministros significan tanto para usted.
+0026 [???] | ¡¡¡Buaaa! ¡Esa es la cosa más conmovedora que he oído en mi vida!!!
+0027 ["Client"] | ¿D-de dónde salió esta niña?
+0028 [Jinglin] | ¡Ups, perdón! Estaba buscando hierbas silvestres por aquí cerca y no pude evitar escuchar. ¡No quería ser entrometida!
+0029 [Jinglin] | Es que fue una historia tan conmovedora... No pude contener las lágrimas...
+0030 [Noya] | Espera, ¿tú no eres la gerente del Bistró de Jing? ¿Qué haces tan lejos? ¿No deberías estar en Philae?
+0031 [Jinglin] | ¡Volví para el festival! ¿Y ustedes? ¿Qué las trae hasta Cangwu?
+0032 [Iris] | Terminamos un encargo cerca y decidimos parar aquí a tomar un respiro.
+0033 [Amber] | El Jefe también anda con nosotras.
+0034 [Noya] | Ver a Jinglin me recuerda su comida... Genial, ahora me ruge el estómago.
+0035 [Jinglin] | Je, je. ¿Quieren pasar mañana por mi casa a un banquete familiar para inaugurar el año nuevo?
+0036 [Noya] | ¿¡En serio!? ¡Cuenta conmigo!
+0037 [Jinglin] | Qué lástima que la fiebre del Buscaprimavera vació los mercados. No encuentro la mitad de los ingredientes que necesito.
+0038 [Jinglin] | Medio día buscando y este puñado de verduras es todo lo que tengo para presumir.
+0039 [Noya] | Entonces acompáñanos al Monolito... ¡Consigue los ingredientes que quieras directo de una Caja de Deseos!
+0040 [Jinglin] | ¡Qué idea genial! ¡Voy con ustedes!
+0041 ["Client"] | Ejem... Llevar a una niña al Monolito parece... arriesgado.
+0042 [Noya] | No se preocupe, yo la vigilo. Además, Jinglin tiene un puñetazo de miedo: sabe defenderse sola.
+0043 ["Client"] | Eh... Danos un momento para consultarlo.
+0044 ["Client"'s Friend] | ¿Qué hacemos? Esa chica es Loong. Si descubre nuestra fachada...
+0045 ["Client"] | Solo quieren viajar juntos. Hacer un escándalo para excluirla nos hará parecer sospechosos.
+0046 ["Client"] | Bien. Pero cuiden lo que dicen. No es de aquí, así que probablemente no notará nada raro.
+0047 ["Client"] | De acuerdo, viajaremos como grupo. Pero mantener a salvo a la jovencita corre por su cuenta.
+0048 [Noya] | ¡Vámonos!
+0049 [Prosperity Gang Leader] | Esa es la idea general... Nos hicimos pasar por Loongs, inventamos una historia lacrimógena y engañamos a esos Trekkers para que cargaran nuestros petardos hasta el Monolito.
+0050 [Tú] | ¿Pero por qué esconderlos dentro del Monolito?
+0051 [Prosperity Gang Leader] | Mover tanta pólvora es una pesadilla. Te inspeccionan en cada puerta de la ciudad, y las pandillas rivales siempre buscan asaltarte.
+0052 [Prosperity Gang Leader] | Así que pensamos dejar primero el alijo en el Monolito. Eso nos permite entrar limpios a la ciudad a reabastecernos y luego sacar la mercancía de contrabando en lotes pequeños.
+0053 [Prosperity Gang Leader] | No importaba si alguien más la encontraba. Investigamos. Sabemos que los Trekkers solo pueden sacar los Artefactos que obtienen de la Caja de Deseos.
+0054 [Prosperity Gang Leader] | En cierto modo, el Monolito es la bóveda más segura del mundo.
+0055 [Tú] | Estos tipos de verdad cubrieron todos los flancos...
+0056 [Tú] | Entonces, ¿qué salió mal?
+0057 [Prosperity Gang Leader] | Pues...
+0058 [Noya] | ¡Uf! ¡Esa es la última carga!
+0059 [Iris] | Nosotras iremos por el otro camino para que puedan rendir sus respetos en paz. Pero primero tenemos que saldar el pago final.
+0060 ["Client"] | ¡Ah! ¡Cierto! ¡Su paga! Déjenme... ¿Eh? ¿Dónde está?==W== Ejem... Qué vergüenza. Seguro salí con prisa sin mi cartera...
+0061 [Iris] | ¿Perdón?
+0062 ["Client"] | ¡Les propongo algo: encuéntrenos en el Restaurante Olla Roja mañana a las diez de la mañana! ¡Juro que les pagaré todo!
+0063 [Iris] | Eso es...
+0064 ["Client"] | N-no me miren así... No es como si quisiera estafarlas.
+0065 [Amber] | Esperen. Oigo algo.
+0066 [Noya] | ¡Ojo, todos!
+0067 [???] | ¡ROOOAAAR...!
+0068 ["Client"'s Friend] | ¡Un monstruo! ¡Es un monstruo!
+0069 [Noya] | ¡Atrás! ¡Detrás de mí, ahora!
+0070 [Prosperity Gang Leader] | ¡Esa cosa cayó de la nada y se tragó todo nuestro cargamento!
+0071 [Tú] | No puedo creerlo... ¿Los demás lograron salir?
+0072 [Prosperity Gang Leader] | ¡No tengo idea! Entramos en pánico y huimos para salvar el pellejo... No nos dimos cuenta hasta salir de que esas tres Trekkers y la chica seguían adentro.
+0073 [Tú] | Y para compensar sus pérdidas, decidieron meterse a la ciudad a robar más petardos esta noche.
+0074 [Prosperity Gang Leader] | ¡No teníamos opción! ¡Sin ese dinero, acabaríamos viviendo en la calle!
+0075 [Shimiao] | Guárdense las excusas para la Oficina. Ahora mismo su prioridad es guiarnos de vuelta al Monolito para salvarlas.
+0076 [Prosperity Gang Leader] | ¿¡Q-quieren volver a entrar ahí!?
+0077 [Shimiao] | Por supuesto. Siguen atrapadas adentro.==W== Las sacaremos.
+0078 [Tú] | Exacto.
+0079 [Prosperity Gang Leader] | ¡No, ni hablar! ¡Esa cosa nos va a devorar vivos! L-la vi bien. Ese monstruo... Tiene que ser la legendaria...
+0080 [Prosperity Gang Leader] | ... Nian.

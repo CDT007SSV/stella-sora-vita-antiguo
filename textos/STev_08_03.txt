@@ -1,0 +1,140 @@
+# Evento · ¡Latido! Rapsodia neoinspirada · 3 · El mercado clandestino
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:All | Todos
+N:Butler-like Person | Persona con aire de mayordomo
+N:Composed Trekker | Trekker sereno
+N:Curious Trekker | Trekker curioso
+N:Defiant Artisan | Artesano desafiante
+N:Hollering Vendor | Vendedor vociferante
+N:Imperial Guard Soldier | Soldado de la Guardia Imperial
+N:Interested Artisan | Artesano interesado
+N:Interested Trekker | Trekker interesado
+N:Iris & Amber | Iris y Amber
+N:Vendor | Vendedor
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_131 | Bloc
+N:avg1_140 | Sparkla
+N:avg1_163 | Greyhorn
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_1222 | Guardia
+N:avg3_138 | Trekker
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_157 | Guardia Imperial
+N:avg3_212 | Leona
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El mercado clandestino
+0003 [Intro] | Al enterarse de que rescataste a Sparkla con éxito, los demás por fin se relajan lo suficiente para recorrer el mercado. Mientras tanto, la prótesis de Willow llama la atención. Todos comienzan a esperar con ansias la aparición de Sparkla.
+0004 [???] | ¿Por qué hay tanto ruido por aquí...? ¿Qué pasó?
+0005 [Imperial Guard Soldier] | ¡Reporte! ¡Tenemos una fuga de prisión en curso! ¡Nos estamos encargando!
+0006 [Imperial Guard Soldier] | Una prisionera detenida por usar Neo Solution de forma ilegal escapó con ayuda del exterior. ¡Seguimos a la fugitiva hasta el Distrito de las Cenizas, pero perdimos el rastro a medio camino! ¡Ofrecemos nuestras más sinceras disculpas!
+0007 [???] | ¿Una fuga? Por el uso ilegal de Neo Solution solo te detienen unos diez días. En cambio, escapar de prisión es una falta mucho más grave.
+0008 [???] | Algo en este caso no cuadra. Déjame ver el expediente.
+0009 [Imperial Guard Soldier] | ¡Entendido!
+0010 [???] | La prisionera fugada tenía consigo un conejo extraño...==W== Ya veo. Creo que ya entiendo lo que está pasando.
+0011 [???] | Pueden suspender la vigilancia. Yo me encargaré personalmente de este caso de fuga, junto con la búsqueda de todos los relacionados con el uso de Neo Solution.
+0012 [Imperial Guard Soldier] | ¡Entendido!
+0013 [Noya] | Ya deberíamos estar a salvo aquí.
+0014 [Bloc] | Uf~ Supongo que por fin podemos hacer las presentaciones como se debe.
+0015 [Bloc] | Jefe, ella es la artesana de la que tanto te hablé: la mismísima Sparkla~
+0016 [Bloc] | Sparkla, ==PLAYER_NAME== es uno de nuestros mejores clientes, así que no trates a ==SEX4== como a tu último cliente ni bloquees a ==SEX4== en cuanto te fastidie...
+0017 [Sparkla] | Hola, hola, adorable ==SEX13==. De ahora en adelante yo me encargaré de todo tu servicio posventa. Aunque, la verdad, aunque nada se descomponga, igual espero que nos veamos seguido. Jeje~
+0018 [Tú] | Ah... S-sí. Mucho gusto también.
+0019 [Sparkla] | Jeje, ¿entonces es una promesa? Ahhhh~ Poder mirar una cara tan linda de ahora en adelante... Este es el mejor día de mi vida~♪
+0020 [Bloc] | ... Vaya. Nunca te había visto tan emocionada.
+0021 [Bloc] | Espera... No me digas que...==W== ¿La adorable cara del Jefe te inspiró tanto que por fin decidiste unirte a la convención?
+0022 [Sparkla] | Por supuesto que sí.
+0023 [Sparkla] | Una cara así de linda es única. Con solo mirar a ==SEX4==, mi cabeza se llena sin parar de ideas para inventos.
+0024 [Sparkla] | Y si quiero convertir esas ideas en inventos reales, el premio de la convención, y todas las Neomonedas que apostaste, son absolutamente esenciales.
+0025 [Bloc] | Espera, espera. Te convenció solo la cara del Jefe... No. ¡Me niego a aceptar ese razonamiento!
+0026 [Sparkla] | Porque para mí...==W== ¡Lo lindo es justicia! Lo lindo importa más que cualquier otra cosa.
+0027 [Bloc] | ¡¿Entonces yo qué?! ¡¿Acaso yo no soy linda?!
+0028 [Sparkla] | Mm-jm.
+0029 [Bloc] | Guah... respuesta instantánea...==W== Y qué brutalmente directa...
+0030 [Sparkla] | Ah, cierto. Adorable ==SEX13==, ¿te molesta que de ahora en adelante te diga ==PLAYER_NAME==?
+0031 [Tú] | Claro. No me molesta.
+0032 [Sparkla] | ¡Yupi~! ¡Oh! Como decidí entrar a la convención, también tengo que empezar a trabajar en un invento nuevo.
+0033 [Sparkla] | Mi taller queda algo lejos de aquí. ==PLAYER_NAME==, ¿vienes conmigo?
+0034 [Tú] | Claro. Yo mismo quiero ver cómo son realmente los inventos Neo.
+0035 [Sparkla] | Bloc, ¿tú también vienes?
+0036 [Bloc] | ¡Obvio! Yo solo he visitado tu taller un par de veces. Supongo que me estoy beneficiando de la buena fortuna del Jefe. Oh jojo~
+0037 [Tú] | Contactaré a Amber para avisarles a todos.
+0038 [Tú] | Noya, regresa tú primero y reúnete con los demás.
+0039 [Noya] | ¡Mjm! ¡Ustedes también tengan cuidado, Jefe!
+0040 [Bloc] | No se preocupen. Los artesanos Neo mantienen sus talleres muy bien escondidos. La Guardia Imperial no nos va a rastrear hasta allá.
+0041 [Noya] | ¡Bien! Nos vemos en la Convención Tecnológica~
+0042 [Narración] | Mientras tanto...
+0043 [Iris] | ¡¿Una máquina de hielo Neo compacta por solo veinte mil Dorra?!==W== ¡La compro!!
+0044 [Vendor] | ¡Un placer hacer negocios con usted!
+0045 [Iris] | ¡El mercado clandestino es increíble! ¡De verdad puedo pagar cosas de gama alta como esta sin pasarme del presupuesto!
+0046 [Willow] | ... Es la primera vez que veo a Iris gastar dinero con tanta libertad.
+0047 [Amber] | Yo también.
+0048 [Iris] | Hace rato estaba preocupada por el Jefe y los demás,==W== pero ahora que sé que están a salvo, me relajé de golpe y me puse a comprar como loca...
+0049 [Hollering Vendor] | ¡Acérquense, acérquense! ¡Liquidación de temporada! ¡Calefactor Neo casi nuevo, al noventa por ciento! ¡El compañero perfecto para las frías noches de invierno!
+0050 [Hollering Vendor] | ¡Llévelo ahora y también recibe una caja completa de Neo Solution incluida, por solo setenta mil Dorra!!!
+0051 [Iris] | Loxy se pone helado en las noches de invierno.==W== Un calefactor lo haría mucho más acogedor.
+0052 [Amber] | Y así puedo engañar a Inky para que se suba al auto...
+0053 [Iris] | Con el pago del encargo todavía andamos bastante bien de dinero, así que quizá...
+0054 [Amber] | ¡Cómpralo!
+0055 [Hollering Vendor] | ¡Marchando! ¡Les relleno la Neo Solution a las dos!
+0056 [Hollering Vendor] | Este calefactor pesa bastante. ¿Seguras que pueden cargarlo, jovencitas?
+0057 [Iris y Amber] | ¡¿Ngh?!
+0058 [Willow] | Jeje. Déjenmelo a mí.
+0059 [Iris] | ¿Eh? Pero de verdad pesa mucho, ¿no?
+0060 [Willow] | No hay problema. Desde que tengo esta prótesis de brazo, seguro puedo levantar algo cinco veces más pesado que esto.
+0061 [Iris y Amber] | ¡¿Cinco veces?!
+0062 [Hollering Vendor] | ¡Señorita, espere un momento! ¿Puedo echarle un vistazo a su prótesis de brazo?
+0063 [Willow] | ¿Eh? Claro... No me importa.
+0064 [Hollering Vendor] | ¡Qué trabajo tan increíble! Oye, mira esto. Es muchísimo mejor que cualquier cosa que hayas hecho.
+0065 [Defiant Artisan] | ¡¿Eh?! ¡¿Desde cuándo te toca hablar mal de mis inventos?! A ver, déjame ver...==W== Espera un momento, esto es...
+0066 [Defiant Artisan] | Señorita, ¿podría doblar este papel en forma de corazón con su prótesis... y luego desdoblarlo?
+0067 [Willow] | V-vale.
+0068 [Defiant Artisan] | ... Hermoso. Esos movimientos son increíblemente fluidos y precisos. Sí... Muchísimo mejor que los míos.
+0069 [Defiant Artisan] | ¡Oigan todos, vengan a ver esto también!
+0070 [Interested Artisan] | Caray... Esto sin duda es algo especial. Apuesto a que lo hizo uno de esos legendarios maestros artesanos con enormes recompensas por su cabeza.
+0071 [Interested Trekker] | Dicen que a los artesanos Neo básicamente los juzgan por el monto de la recompensa que la Guardia Imperial ofrece por ellos. A mayor recompensa, mejor artesanía.
+0072 [???] | De verdad no tienen ojo para la calidad. Una prótesis así de sensible y avanzada obviamente es obra de Sparkla.
+0073 [???] | Si no me creen, revisen el interior de la unidad de control. Debería haber un pequeño logotipo de conejo grabado en alguna parte.
+0074 [Willow] | No hace falta. La hizo Sparkla.
+0075 [???] | Hmph. Lo sabía. No hay forma de que confunda uno de sus inventos. Pero...==W== Aunque sea obra de Sparkla, esta prótesis no es nada linda.
+0076 [???] | Y parece que solo dejó intactas las funciones más básicas. Déjame adivinar: ¿te bloqueó en cuanto la recibiste?
+0077 [Willow] | Sí.==W== Quería instalarme en la mano una bocina transformable con forma de conejo, y la rechacé...
+0078 [???] | Ahh, sí, con razón se molestó. Si sus inventos no están al máximo de ternura y llenos de funciones raras, no puede dormir en la noche.
+0079 [???] | Si no cumples con sus estándares estéticos, de inmediato te etiqueta como «alguien sin gusto» y te bloquea al instante. Aunque, para ser justos, aun así entrega el producto como debe ser. Así es Sparkla, clásica.
+0080 [Willow] | Parece que la conoces bastante bien~
+0081 [Leona] | ¡Claro! ¡Sparkla es mi rival predestinada, elegida por el mismísimo destino!==W== Esperaba por fin arreglar cuentas con ella en esta convención, pero resulta que ni siquiera pudo llegar...
+0082 [Leona] | ¡Pero saben qué! ¡Aunque aparezca, el resultado no cambiará! ¡Mi nuevo autómata, Ticka-Boom, alias Boomy, se llevará el primer lugar sin duda! ¡El único futuro de Sparkla es llorar en un rincón!!
+0083 [Curious Trekker] | Eh...==W== En realidad, el último rumor dice que se escapó de prisión.
+0084 [All] | ¡¿QUÉEEE?!
+0085 [Curious Trekker] | ¿Así que la noticia ya se esparció, Cecil? Parece que tu información era correcta después de todo.
+0086 [Butler-like Person] | Sí, milady. Sin lugar a dudas.
+0087 [Interested Trekker] | ¡No puede ser! ¡¿Ya aposté más de la mitad de mis ahorros a que gana Leona?!
+0088 [Composed Trekker] | Jaja. Tranquilo. Aunque Sparkla se haya escapado, no necesariamente significa que vaya a entrar a la convención.
+0089 [Curious Trekker] | Cierto. Todavía no decido por quién apostar, pero si todos creen tanto en Leona... Muy bien entonces...==W== Pondré tres millones de Dorra también ♪
+0090 [Iris] | ¡¿T-tres millones?! ¡¿Tanto?!
+0091 [Curious Trekker] | Jeje, las apuestas más grandes hacen todo más emocionante ♪
+0092 [Iris] | E-eh... Quizá no debería meterme,==W== pero tenemos información confirmada de que Sparkla planea entrar a la Convención Tecnológica.
+0093 [Curious Trekker] | ¿Eh? ¿En serio??
+0094 [Iris] | Sí. Así que si van a apostar, pensé que merecían saberlo primero... Es que son tres millones de Dorra...
+0095 [Leona] | ¡¿Qué dijiste?! ¡¿Sparkla va a competir?! ¡Jejeje... Ajajajaja! ¡¿No es perfecto?! ¡Ahora sí se pone interesante!
+0096 [Leona] | ¡Escuchen todos! Apuesten por quien quieran, ¡pero mi Boomy no va a perder contra nadie!
+0097 [Leona] | ¡Ah, y tú, gracias por la información también! Je, je, todavía queda tiempo. ¡Tengo que elevar aún más el rendimiento de Boomy!
+0098 [Curious Trekker] | ¡Sí, gracias por la advertencia! Son muy amables. Pero sigo apostando por Leona. Me encantó lo segura que sonaba hace un momento.
+0099 [Iris] | A-ya veo... S-señorita Leona, entonces mucha suerte.
+0100 [Leona] | ¡Hmph! ¡No te preocupes, pienso darlo todo!
+0101 [Curious Trekker] | Uf... Hay demasiados olores mezclados aquí. Casi pierdo el control de mi expresión.
+0102 [Curious Trekker] | Cecil. Avisa a los demás. Encontramos rastros de esos tres ratoncitos. Ahora seguramente irán hacia la habitación del queso.
+0103 [Butler-like Person] | Entendido.

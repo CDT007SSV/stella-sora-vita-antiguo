@@ -1,0 +1,89 @@
+# Historia de Nazuna · 3 · Small Room, Big Clean-up (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Mr. Puffy Dango? | ¿Sr. Dango Esponjoso?
+N:Nazuna? | ¿Nazuna?
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un cuarto pequeño, una limpieza enorme (Parte III)
+0003 [Intro] | La crisis ha pasado. Siguiendo los pasos de esa persona, su aventura apenas comienza.
+0004 [Tú] | Fiu... Por fin, todo listo...
+0005 [Nazuna] | ¡Así que así se ve el piso!
+0006 [Narración] | El cuarto que antes rebosaba de muñecos de peluche==W== ahora está increíblemente ordenado.
+0007 [Tú] | Me retiro ahora==W== si no hay nada más.
+0008 [Tú] | ¡Órale, qué oscuro está afuera!==W== ¿De verdad ya es tan tarde?==W== Los monstruos del bosque ya deben de andar por ahí.
+0009 [Nazuna] | Entonces, ¿por qué no te quedas a dormir? Por fin la cama está libre.
+0010 [Narración] | Nazuna señala la litera, ahora ordenada.
+0011 [Nazuna] | No habría podido terminar de limpiar todo el cuarto hoy sin tu ayuda, ==PLAYER_NAME==.==W== ¡Así que déjame hacer algo para agradecerte!
+0012 [Tú] | No esperaba que fueras tan considerada, Nazuna,==W== con lo terca que sueles ser.
+0013 [Nazuna] | ¡¿Qué clase de persona crees que soy, eh?!
+0014 [Nazuna] | Hmph, no te hagas ideas. Invitarte a quedarte fue idea de todos, no mía.
+0015 [Nazuna] | Solo estoy invitando a ==PLAYER_NAME== de parte de todos, nada más.
+0016 [Tú] | Está bien, está bien, gracias a todos. Acepto con gusto su invitación.
+0017 [Narración] | Me invade una oleada de sueño.
+0018 [Narración] | Antes de poder siquiera subirme la cobija de suave aroma, me acurruco en la cama de Nazuna y me duermo.
+0019 [Tú] | ...==W==...==W==!
+0020 [Narración] | Siento que he dormido mucho tiempo, pero cuando abro los ojos de nuevo, solo veo oscuridad.
+0021 [Tú] | Vaya, qué oscuro.==W== ¿Todavía no amanece?
+0022 [Tú] | ...
+0023 [Tú] | ¿N-no puedo moverme?==W== ¿Algo me está sujetando?
+0024 [Narración] | Intento levantarme para ver la hora, pero algo me presiona con tanta fuerza que no puedo moverme nada.
+0025 [Nazuna?] | Y—==W==yo—==W==guardo—==W==rencooor—
+0026 [Narración] | Aturdido,==W== veo un bulto blanco echado sobre mí, haciendo ruidos extraños.
+0027 [Tú] | ...==W==...==W== ¿Nazuna?
+0028 [Nazuna?] | ¡No soy Nazuna!
+0029 [Mr. Puffy Dango?] | Soy el temible muñeco fantasma==W==... ¡el Sr. Dango Esponjoso!
+0030 [Mr. Puffy Dango?] | Oooooh, soy la manifestación del rencor nacido de todos esos amigos==W== que desterraste sin corazón al almacén~
+0031 [Tú] | Qué historia tan detallada,==W== pero ¿los fantasmas de verdad andan presentándose?==W== ¡¿Y por qué este fantasma pesa?!
+0032 [Narración] | Para no desanimarla, decido seguirle el juego.
+0033 [Tú] | ¡Aaaah! ¡Qué miedo!==W== ¡Por favor, perdóneme, Sr. Dango Esponjoso!
+0034 [Mr. Puffy Dango?] | ¡Ooo-jo-jo! ¡Asustarte no te servirá de nada!==W== Si no quieres que te inmovilice==W== y te atrape en esta noche eterna para siempre,==W== tendrás que obedecer mis órdenes, ooooh~!!
+0035 [Tú] | ¡Tenga piedad! ¡Haré lo que usted quiera!
+0036 [Mr. Puffy Dango?] | Eh... Está bien...
+0037 [Mr. Puffy Dango?] | T-tienes que prometer que te quedarás con Nazuna y le harás compañía por nosotros, ooooh—
+0038 [Mr. Puffy Dango?] | Tienes que jugar a la máquina de garra con Nazuna,==W== y ayudarla a limpiar su cuarto, ooooh.
+0039 [Tú] | Ya veo.
+0040 [Tú] | Jugar a la máquina de garra está bien,==W== pero en cuanto a limpiar su cuarto,==W== ¿no debería hacerlo Nazuna sola?==W== ¿No quedamos así desde el principio?
+0041 [Mr. Puffy Dango?] | ¡Es una orden, no se admite un no, ooooh~!==W== ¡Tienes que ayudar a Nazuna a ordenar su cuarto por siempre jamás, ooooh~!
+0042 [Tú] | Está bien, está bien, lo prometo.==W== Ahora apague sus poderes, Sr. Dango Esponjoso.
+0043 [Mr. Puffy Dango?] | Las palabras no bastan. Quiero una prueba, ooooh~
+0044 [Tú] | Una prueba...
+0045 [Opción] | ¿Abrazar al Sr. Dango Esponjoso?
+0046 [Mr. Puffy Dango?] | Ooooh, no soy un muñeco—==W==n-==W==no me abraces así de repente, ooooh—
+0047 [Mr. Puffy Dango?] | E-eh, bueno...==W== Como eres tan obediente y estoy satisfecho con esta prueba,==W== te perdonaré por hoy, ooooh~
+0048 [Narración] | El Sr. Dango Esponjoso se escurre de mis brazos de mala gana==W== y se tambalea hacia el cielo.==W==
+0049 [Mr. Puffy Dango?] | Aléjate, noche eterna, oooh~
+0050 [Narración] | Con la gruesa cortina de la cama descorrida, me doy cuenta de que ya es pleno día afuera.
+0051 [Mr. Puffy Dango?] | ¡Jajaja! Te engañé, ==PLAYER_NAME==.
+0052 [Nazuna] | ¡Sorpresa!==W== ¡El Sr. Dango Esponjoso en realidad soy—==W==yo!♪==W== No esperaba que cayeras tan fácil.==W== Sí que tienes tus momentos adorables~
+0053 [Opción] | Sí, y nunca esperé que alguien tan adorable me llamara adorable.
+0054 [Nazuna] | ¡¿A-Adorable...?!==W== … ¡Ejem!==W== En fin,==W== todavía te acuerdas de lo que acabamos de acordar, ¿verdad?
+0055 [Nazuna] | Jefe,==W== desde hoy tendrás que jugar conmigo todo el tiempo,==W== y ayudarme a limpiar mi cuarto.
+0056 [Nazuna] | Diga lo que diga,==W== no puedes dejarme atrás~
+0057 [Opción] | Mhm. Te lo prometo, Nazuna.
+0058 [Opción] | Y además, tengo que agradecerte.
+0059 [Nazuna] | ¿Eh? ¿Agradecerme?==W== ¿Por qué?
+0060 [Opción] | Anoche me pusiste la cobija encima, ¿verdad?
+0061 [Opción] | Gracias por ser tan atenta, Nazuna.
+0062 [Nazuna] | Y-yo...==W== Eso no es algo que yo quisiera hacer...
+0063 [Nazuna] | Fueron todos quienes quisieron agradecerte;==W== yo solo lo hice de su parte y te cuidé un ratito, nada más.
+0064 [Nazuna] | Pero...==W== Acepto tu agradecimiento.
+0065 [Opción] | Tus amigos son todos muy buenos para cuidar a los demás.
+0066 [Nazuna] | Jeje, ¡claro que sí~!♪==W== Pero,==W== no tienes que tener celos~
+0067 [Nazuna] | Porque desde ahora,==W== tú también eres uno de ellos.
+0068 [Nazuna] | ¡Debes sentirte muy afortunado==W== de convertirte en mi amigo!
+0069 [Nazuna] | ¿Ya te vas? No pasa nada si quieres quedarte más tiempo.
+0070 [Tú] | Anoche,==W== olvidé avisarle a todos==W== en el Gremio de la Nueva Estrella==W== que me quedaría aquí...
+0071 [Tú] | Si no regreso pronto, todos se van a preocupar.
+0072 [Tú] | Pero... ¿De verdad estás de acuerdo con esto? ¿Dejar que me lleve a tu preciado amigo?
+0073 [Narración] | Miro hacia abajo al Conde Mordimordi el Tiburón en mis brazos.
+0074 [Nazuna] | Pues, sí me da un poquito de tristeza...
+0075 [Nazuna] | Pero ¿qué puedo hacer?==W== El Conde Mordimordi dijo que quería ver el mundo exterior.
+0076 [Nazuna] | A cambio, ==PLAYER_NAME==, ¡tienes que tratar al Conde Mordimordi como si fuera yo!==W== ¡Mantenlo siempre a tu lado,==W== y abrázalo cada vez que te vayas a dormir!
+0077 [Nazuna] | ¡Además, todavía recuerdo lo que dijiste!
+0078 [Nazuna] | Los verdaderos amigos siguen conectados, por muy lejos que estén~♪

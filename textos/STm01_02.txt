@@ -1,0 +1,125 @@
+# Capítulo 1 · 2 · Huellas del pasado
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_152 | Bastelina
+N:avg3_196 | Empleada corporativa
+N:avg3_874 | Empleada
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Rastros del pasado
+0003 [Intro] | Los novianos necesitan una Piedra del Alma para usar magia, pero el Imperio de la Gracia no tiene ningún registro tuyo. Sin embargo, la llave que llevas encima abre una antigua caja fuerte.
+0004 [Narración] | Después de vender los Artefactos, llegamos a un enorme complejo.
+0005 [Narración] | Esta es una Tienda de Almas del Imperio de la Gracia, un lugar donde se fabrican Piedras del Alma.
+0006 [Empleada] | Por favor, apoye aquí la mano durante unos cinco minutos.
+0007 [Empleada] | Mientras espera, intente pensar en algo que lo haga feliz, o en un momento realmente importante de su vida.
+0008 [Tú] | Cosas que me hacen feliz...
+0009 [Tú] | Pero para empezar, no tengo recuerdos.
+0010 [Tú] | Lo único «importante» que se me ocurre es... ese momento en que me encontraron.
+0011 [Empleada] | Parece preocupado...
+0012 [Empleada] | Ah, no se preocupe. No es obligatorio para fabricar una Piedra del Alma. Es solo que, bueno, dicen que concentrarse en esos recuerdos hace que la Piedra del Alma salga de mejor calidad.
+0013 [Tú] | Gracias... Todo este proceso es increíble.
+0014 [Iris] | La caja que estás tocando contiene Agua de la Gracia, directamente del Dios de la Gracia.
+0015 [Iris] | El Agua de la Gracia resuena con tu alma y luego se cristaliza en Piedras del Alma de todos los tamaños y colores.
+0016 [Tú] | Vaya. Iris suena más a empleada que la propia empleada.
+0017 [Narración] | Cinco minutos después.
+0018 [Empleada] | Muy bien, ya puede retirar la mano. Y esto, de la caja, es su...
+0019 [Empleada] | ¿Qué...? ¡¿Quéééé?! ¡El Agua de la Gracia... no se cristalizó!
+0020 [Empleada] | Lo sentimos mucho. Hicimos un diagnóstico completo y su constitución es... bueno, muy inusual. Su cuerpo es inmune a la magia.
+0021 [Tú] | ¿Inmune?
+0022 [Empleada] | Así es. Quizá no lo sabía, pero su cuerpo no puede usar magia. Sin magia, su alma no puede resonar con el Agua de la Gracia, así que no se puede hacer ninguna Piedra del Alma.
+0023 [Iris] | ¿Eso pasa?
+0024 [Empleada] | Lo lamento. Es extremadamente raro, pero esta condición existe.
+0025 [Empleada] | Tampoco encontramos registros anteriores de que haya fabricado una Piedra del Alma, así que no sabemos si nació así.
+0026 [Tú] | ¿Nací así... o me lo provocó la pérdida de memoria en el Monolito? ¿Quién era yo antes de todo esto?
+0027 [Tú] | Entiendo. No es culpa de ustedes. Si no se puede... entonces olvidémoslo.
+0028 [Tú] | Se tomaron tantas molestias... para nada. Lo siento.
+0029 [Noya] | ¡Oye, no te disculpes! Tal vez el Agua de la Gracia de aquí simplemente caducó. ¡Probemos en otra Tienda de Almas!
+0030 [Iris] | Nunca he oído que el Agua de la Gracia caduque...
+0031 [Empleada] | Lamentamos mucho no haber sido de más ayuda. ==W==Bastelina, ¿puedes acompañar a nuestros invitados a la salida?
+0032 [Bastelina] | Acompáñenme.
+0033 [Noya] | Mmm, ¿a ustedes no les parece raro?
+0034 [Noya] | Alguien sin magia, recorriendo el desierto solo, escalando un Monolito y escondido en una caja de deseos custodiada por Stellaroids... Simplemente no cuadra.
+0035 [Tú] | Tampoco recuerdo cómo llegué al Monolito. Quizá alguien más me llevó allí. Tendría sentido.
+0036 [Tú] | Ojalá pudiera encontrar a alguien que me conociera antes de todo esto.
+0037 [Bastelina] | Eh, perdón por interrumpir.
+0038 [Tú] | ¿Eh? ¿Y tú eres...?
+0039 [Bastelina] | Soy Bastelina, una pasante súper mega linda de la Tienda de Almas del Imperio de la Gracia.
+0040 [Bastelina] | Si no te molesta que te pregunte, ¿sufres de pérdida de memoria? ¿De una bastante fuerte?
+0041 [Tú] | Sí. Pasó en el Monolito. Ni siquiera recuerdo mi propio nombre.
+0042 [Bastelina] | Ya veo. En ese caso...
+0043 [Bastelina] | Apuesto a que también has olvidado de dónde salió esta llave.
+0044 [Narración] | Ahora que lo pienso, sí llevo una llave encima.
+0045 [Opción] | Ni idea
+0046 [Iris] | Esa llave ya la tenías cuando te encontramos. Nosotras tampoco sabemos para qué sirve.
+0047 [Bastelina] | En realidad mi pasantía es en la Bóveda del Imperio de la Gracia. Hoy solo ayudo en la recepción por casualidad.
+0048 [Bastelina] | Si no me equivoco, esa llave que tienes es...
+0049 [Bastelina] | ...la llave de la caja fuerte de máxima seguridad de nuestra tienda.
+0050 [Iris] | ¿Esta es la verdadera Bóveda del Imperio de la Gracia? Cuántas cajas fuertes...
+0051 [Iris] | ¡No puedo creer que nos dejen entrar aquí! ¡Aquí es donde los senadores y los altos ejecutivos guardan sus secretos!
+0052 [Amber] | Fallas de seguridad... por todas partes.
+0053 [Iris] | ¿Quién se atrevería a meterse con el Imperio de la Gracia? Es la empresa más grande de Nova.
+0054 [Iris] | ¡U-una alarma! ¿Tocamos algo que no debíamos?
+0055 [Noya] | ¡Uy, perdón! ¡Se me olvidó darle de comer a mi tamagotchi de Artefacto!
+0056 [Iris] | ¡Casi me muero del susto! ==W==¡¿Puedes apagar ese juego, por favor?!
+0057 [Tú] | De algún modo, incluso sin mis recuerdos, me siento en calma con ellas.
+0058 [Noya] | Ya está apagado. Oye, ¿adónde se fue Bastelina? Desapareció.
+0059 [Tú] | Está buscando la caja fuerte por nosotros.
+0060 [Tú] | ¿Tengo una caja fuerte en un lugar como este? ¿Qué clase de persona era yo antes?
+0061 [Noya] | ¿Ves? Sabía que no eras un Trekker cualquiera. Quien tiene una caja fuerte aquí debe ser alguien increíble.
+0062 [Tú] | Ojalá tengas razón. Ojalá encuentre ahí algo que me diga quién soy.
+0063 [Bastelina] | La encontré. Por aquí, por favor.
+0064 [Narración] | Seguimos a Bastelina más adentro de la bóveda.
+0065 [Narración] | El aire huele levemente a encierro, como si el tiempo mismo se hubiera detenido.
+0066 [Bastelina] | Tu llave abre la Caja Fuerte n.º 1, la más antigua de la tienda.
+0067 [Bastelina] | Empecé mi pasantía hace apenas un mes, así que no sé por qué tu llave está ligada a esta caja en particular.
+0068 [Opción] | Meter la llave y girar
+0069 [Tú] | ¡Se abre! ==W==¿Eh?
+0070 [Noya] | ¿Qué es esto? ¿Algún tipo de Artefacto?
+0071 [Iris] | ¿Una placa de vidrio y metal?
+0072 [Amber] | Oooh, qué brillante y bonito.
+0073 [Opción] | Es un teléfono
+0074 [Noya] | ¿Un teléfono? ¿Desde cuándo los teléfonos son así?
+0075 [Noya] | ¡Ni siquiera se puede doblar! ¿Dónde está el teclado numérico?
+0076 [Tú] | Hasta donde recuerdo... Se usa así.
+0077 [Amber] | ¡El vidrio se encendió!
+0078 [Tú] | ¿Y este ícono qué es?
+0079 [Iris] | Es la aplicación de mensajería que usa todo el mundo: Heartlink. Si alguna vez la usaste, tu nombre tiene que estar ahí.
+0080 [Opción] | Tocar el ícono
+0081 [Narración] | ==PLAYER_NAME==
+0082 [Tú] | Esta es... ¿mi cara? ==W==Y abajo debería estar mi nombre... Me suena familiar.
+0083 [Amber] | ==PLAYER_NAME==
+0084 [Noya] | ¡Suena genial, qué buen nombre!
+0085 [Bastelina] | ¡Qué bueno haber ayudado! Ahora que tienes tu nombre, tus recuerdos empezarán a volver.
+0086 [Iris] | Si presionas con el dedo, puedes ver a las personas con las que has hablado y sus mensajes. Quizá recuperes más recuerdos.
+0087 [Narración] | ==PLAYER_NAME==
+0088 [Opción] |   Tocar la pantalla y entrar a Heartlink
+0089 [???] | ÎÒèñ ëîðòý, Î ñàí ìîñô äî ïåñò. Î ëîâå õîó, ==PLAYER_NAME==.
+0090 [Tú] | Eh... Hay un mensaje. ==W==No entiendo nada, salvo mi nombre.
+0091 [Tú] | Eso es todo, no hay nadie más que me haya contactado.
+0092 [Iris] | Ah, eh... ¿Habrá algún problema con la magia de comunicación de este teléfono?
+0093 [Bastelina] | Ay, es mi teléfono. Me llama mi supervisor, un momentito.
+0094 [Bastelina] | ¡Habla la adorable Bassy!
+0095 [Bastelina] | Sí, el cliente acaba de abrir la Caja Fuerte n.º 1. ==W==¿Instrucciones especiales? Entendido. Ahora mismo me encargo.
+0096 [Iris] | Eh... ¿a-acabo de oír «especial»? Por favor, díganme que no nos va a cobrar tarifa de almacenamiento.
+0097 [Iris] | Aquí el almacenamiento debe costar una fortuna. No hay forma de que podamos pagarlo...
+0098 [Bastelina] | Ejem, gracias por esperar. Perdón, ¿podría pedirles un momento más de su tiempo?
+0099 [Bastelina] | Mi supervisor me dice que hay un archivo importante en los archivos para quien abriera la Caja Fuerte n.º 1. Mi colega lo está trayendo ahora.
+0100 [Bastelina] | Y no se preocupen, no se trata de una tarifa. La caja fuerte se pagó hace mucho tiempo.
+0101 [Iris] | Ah, m-menos mal... De verdad pensé que íbamos a quedar en la ruina...
+0102 [Tú] | ¿El archivo ya llegó? Qué rápido.
+0103 [Empleada] | ¡Bassy! Los clientes... Dile que...
+0104 [Empleada] | Ah, ya estás aquí.
+0105 [Iris] | Eh... ¿pasa algo?
+0106 [Empleada] | Esa casa rodante verde que está afuera, es de ustedes, ¿verdad?
+0107 [Noya] | Sí. ¿Qué le pasa a Loxy?
+0108 [Empleada] | Tienen que salir. Ahora mismo.
+0109 [Empleada] | ¡Alguien está tratando de remolcar su vehículo!

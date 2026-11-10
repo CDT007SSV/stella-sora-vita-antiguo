@@ -1,0 +1,71 @@
+# Prólogo · Prólogo, parte 1
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Noya & Amber | Noya y Amber
+N:Noya & Amber & Iris | Noya, Amber e Iris
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+
+## Texto
+0001 [Intro] | Prólogo
+0002 [Intro] | El comienzo
+0003 [Intro] | Dentro de un Monolito del desierto, tres chicas encuentran una Caja de Deseos. Pero no contiene el Artefacto que buscan. Te contiene a ti, sumido en un sueño profundo.
+0004 [Noya] | Uf... Qué dura estuvo esa. ¿Están todas bien?
+0005 [Amber] | Yo estoy bien. Pero viene otro ataque en camino.
+0006 [Iris] | O-oigan... ustedes dos. ¿Qué hacemos con la Caja de Deseos que salió del suelo roto?
+0007 [Noya] | ¿La Caja de Deseos? Ah, ¿la que estaba enterrada? Pero... con esta situación, ¿no deberíamos salir corriendo?
+0008 [Iris] | Sí, pero...
+0009 [Noya] | Bueno, entonces Amber y yo la contenemos aquí mientras Iris escap... ¡Gah!? ¿En serio? ¡Odio esta estúpida cosa del puño!
+0010 [Iris] | Es tan grande y tan hermosa... Seguro que los Artefactos que haya en esa caja valen un montón de dinero...
+0011 [Iris] | ¡Lo siento, chicas! ¡Pero tengo que sacar esa caja!
+0012 [Noya] | ¡Espera! ¿En serio, Iris?!
+0013 [Amber] | Déjenme el apoyo a mí. Yo sola bastaré para detenerlos.
+0014 [Noya] | Eh, pero... ¿no hay algo distinto en ese Stellaroid? Como si estuviera... enojado o algo así.
+0015 [Noya] | ¿Y qué piensas hacer con la caja? ¿De verdad crees que podrás escapar con ella?
+0016 [Iris] | ¡Claro que sí! Esta cosa podría tener...
+0017 [Iris] | ¡Un futuro brillante y feliz para nosotras dentro de ella!
+0018 [Iris] | Uf... uf... ¡Lo logramos, seguimos vivas!
+0019 [Noya] | Ese bicho era bastante duro.==W== Qué lástima que no lo derribáramos cuando tuvimos la oportunidad.
+0020 [Iris] | ¿De dónde sale tanta confianza...?==W== En serio. En fin, ¿abrimos la caja?
+0021 [Iris] | Una caja así de grande tiene que conceder un deseo increíble♪
+0022 [Noya] | Entonces, como siempre... ¡adelante, Iris! Amber y yo no tenemos talento para pedir deseos.
+0023 [Iris] | No... Esta vez fue Amber quien encontró la torre.==W== Creo que vale la pena apostar por su suerte.
+0024 [Amber] | Entonces... hagámoslo todas juntas.
+0025 [Iris] | Mm. En realidad no es mala idea. Y usar los recuerdos de las tres también debería mejorar la calidad del Artefacto.
+0026 [Iris] | Solo para dejarlo claro, la meta es un Artefacto que podamos vender por una fortuna, ¿verdad?
+0027 [Noya y Amber] | ¡Sí!
+0028 [Noya, Amber e Iris] | Oh, todopoderoso Dios de la Gracia, escucha nuestra plegaria...
+0029 [Noya, Amber e Iris] | Concédenos...
+0030 [Amber] | ...un Artefacto capaz de derrotar a cualquier enemigo.
+0031 [Iris] | ...¡un Artefacto que nos haga ricas más allá de nuestros sueños más locos!
+0032 [Noya] | ...¡un Artefacto que conceda deseos infinitos!
+0033 [Noya, Amber e Iris] | ¿Eh?
+0034 [Iris] | ¡Esperen, un momento! ¿¡Qué están pidiendo ustedes dos!?
+0035 [Noya] | Bueno, si el Artefacto concede deseos infinitos, podríamos ganar todo el dinero que queramos, ¿no?
+0036 [Amber] | Podríamos atrapar a un montón de criminales buscados y cobrar las recompensas.
+0037 [Iris] | Ugh... Sí, pedir las tres a la vez fue mala idea.
+0038 [Iris] | Está bien, de acuerdo. Yo solo...
+0039 [Noya] | ¡Oigan, miren! ¡La caja está brillando! ¿¡Significa que nuestros deseos sí llegaron!?
+0040 [Iris] | Imposible. Debe ser un efecto de la luz. No hay manera de que esos deseos...
+0041 [Iris] | ¿¡Se abrió!?
+0042 [Iris] | ¡Oh, Dios de la Gracia! ¡Por favor, danos un Artefacto que podamos vender por una cantidad absurda de dinero! ¡Te lo ruego!
+0043 [Noya] | Esperen... ¿eso es...?
+0044 [Amber] | ¿Una muñeca?
+0045 [Amber] | Se siente suave. Casi real, como piel humana.
+0046 [Noya] | ¿Eh? Pero esta cara... Juraría que la he visto en alguna parte.
+0047 [Noya] | Espera, ¿Iris? ¿Qué haces? ¿Buscas algo?
+0048 [Iris] | No hay... No está por ningún lado...
+0049 [Noya] | ¿De qué hablas?
+0050 [Iris] | ¡El Artefacto! ¡No hay ningún Artefacto en la caja!
+0051 [Iris] | Bueno, no. Que saliera una persona de ella debió ser la primera señal de alarma...
+0052 [Iris] | Ugh... Todo ese esfuerzo... tirado a la basura...
+0053 [Iris] | Jaja... ¡ajajajaja! ¡Estamos acabadas! ¡Todo terminó!
+0054 [Iris] | Sin Artefacto no hay nada que vender. Y sin nada que vender no hay manera de ganar dinero...
+0055 [Iris] | Y sin dinero para los gastos, tendremos que disolver el gremio y buscar trabajos de verdad...
+0056 [Iris] | ¡Pero lo único que hemos hecho en la vida==W== es vagar como Trekkers!==W== No hay manera de que encontremos trabajo tan fácil...==W== ¡Este es el fin!==W== ¡Aaaahhh!==W==
+0057 [Narración] | Fondos restantes del Gremio de la Nueva Estrella: 3 Dorra

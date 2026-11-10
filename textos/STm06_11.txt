@@ -1,0 +1,141 @@
+# Capítulo 6 · Milagro de un destello · 11 · A Cornered Beast Fights On
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Gen-3 Plant Shooter | Planta tiradora de 3.ª generación
+N:Gen-3 Plant Warrior | Planta guerrera de 3.ª generación
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_156 | Nazuna
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_1268 | Hierba de largo alcance
+N:avg3_1269 | Hierba de largo alcance
+N:avg3_132 | Kaede
+
+## Texto
+0001 [Intro] | Acto once
+0002 [Intro] | Una bestia acorralada sigue luchando
+0003 [Intro] | El ejército de Plantas, potenciado por Mina, frena tu asalto al laboratorio. Firenze intenta un ataque sorpresa, solo para descubrir que Darcia alteró su propio cuerpo. Mientras te sumerges en el tanque, Darcia se transforma en la «Belleza Esbelta»...
+0004 [Lugar y hora] | 02:45, 8.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0005 [Firenze] | Su estrategia fue impecable. Nuestros ejércitos aplastaron tres legiones de la sede.==W== El enemigo se desmoronó y huye en desbandada hacia las ciudades cercanas.
+0006 [Firenze] | Como se ordenó, las Plantas Inteligentes usaron fuerza no letal.==W== Solo neutralizamos a los oficiales y les quitamos sus armas y suministros.
+0007 [Firenze] | Con eso concluye mi informe.
+0008 [Tú] | Por fin terminó. Pelear todo el día de verdad te deja molido... Buen trabajo, todos.==W== ¿Cómo está la ciudad?
+0009 [Darcia] | Los ciudadanos se resguardan a salvo en sus casas. Como lo pidió, las Plantas Inteligentes montan guardia y reparten artículos de primera necesidad.
+0010 [Darcia] | Sin embargo...==W== Nos faltan unidades de 3.ª generación. Tuve que reasignar a los guardias de esta instalación a la ciudad. Le ruego perdone la falta de seguridad aquí.
+0011 [Tú] | No pasa nada. Las tengo a ustedes dos para protegerme, ¿no?
+0012 [Tú] | Por cierto, ¿dónde está Mina?
+0013 [Darcia] | Su Majestad, estaba agotada de trabajar toda la tarde, así que la mandé a dormir.==W== Está descansando en un lugar seguro, no se preocupe.
+0014 [Darcia] | ¿Explosiones? Firenze, ¿qué está pasando allá afuera?
+0015 [Firenze] | No está claro. Las Plantas dicen que...==W== unos intrusos irrumpieron en los invernaderos. Están atacando la puerta del laboratorio subterráneo.
+0016 [Darcia] | ¿Qué?
+0017 [Narración] | ¿Con qué puedo retenerte? Te ofrezco hojas frescas, saetas de ballesta detenidas y esquirlas de piedra afiladas como navajas.
+0018 [Narración] | Te ofrezco el sueño que conceden los espíritus salvajes.
+0019 [Iris] | ¡Nazuka!==W== Viniste.
+0020 [Nazuka] | Si el Jefe está cautivo y no puede venir a mí...==W== entonces seré yo quien vaya por ==SEX4==.
+0021 [Fuyuka] | Maestro...==W== ¡El Maestro es increíble! ¡De verdad sacamos la Gracia del Monolito!
+0022 [Noya] | La magia Ventus envuelve mi espada y sale disparada en todas direcciones.==W== Con este poder, esas Plantas Inteligentes no tienen ninguna oportunidad.
+0023 [Tú] | Noya y Nazuka lo lograron...==W== Con ellas, Firenze y mi nueva autoridad, tenemos una oportunidad real de derribar a Darcia.
+0024 [Darcia] | Su Majestad. Me impresiona que sus antiguos subordinados se hayan infiltrado tan adentro. Son mucho más competentes que esos inútiles soldados rasos de Cosecha Unida.
+0025 [Darcia] | Aunque, al final...==W== no son más que polillas volando hacia la llama.
+0026 [Darcia] | Observe,==W== Su Majestad.
+0027 [Tú] | ¡¡¡¿Mina?!!!
+0028 [Darcia] | Los ciclos de sueño humanos son lamentablemente ineficientes.==W== Así que Mina y yo firmamos un contrato.==W== Ahora disfruta de un descanso eterno en el tanque y nos proporciona un flujo constante de datos de espíritu y memoria.
+0029 [Darcia] | Las Plantas Inteligentes de 3.ª generación, alimentadas solo por Nyx, tenían fuerza bruta, pero les faltaba coordinación.
+0030 [Darcia] | Ahora que añadí un rastro de Mina a la mezcla, su trabajo en equipo es impecable.
+0031 [Gen-3 Plant Shooter] | Crrr...
+0032 [Iris] | ¿Están entrelazando sus lianas... para formar lanzas?
+0033 [Nazuna] | ¡Y esa formación tan cerrada!==W== Tsk...==W== Esto va a ser un dolor de cabeza.
+0034 [Gen-3 Plant Warrior] | Fiuuu==W==...
+0035 [Noya] | ¡Uy, oye!==W== ¿Desde cuándo estas hierbas aprendieron a trabajar en equipo?
+0036 [Darcia] | Su Majestad, ¿lo ve? Una vez que corregimos los defectos, nuestras Plantas Inteligentes se volvieron invencibles.
+0037 [Darcia] | Sé que es usted sentimental.==W== Permítame conservar también a sus antiguos subordinados en tanques.
+0038 [Darcia] | Podrá visitarlos a diario.==W== Después de todo,==W== nada supera la lealtad de un espécimen en un tanque.
+0039 [Firenze] | Ya basta,==W== Darcia.
+0040 [Darcia] | ... ¿Firenze? Ja. ¿Qué significa esto? Creo que tu estoque se equivocó de objetivo.
+0041 [Firenze] | No. He estado esperando este momento exacto, y este estoque lo afilé especialmente para usted.
+0042 [Darcia] | ... Así que estás decidida a interponerte en mi camino. Qué decepción.
+0043 [Darcia] | Creí que una mujer traicionada por su aliada más cercana haría lo que fuera por rehacer este mundo inmundo.
+0044 [Darcia] | Supongo que esperaba demasiado.
+0045 [Darcia] | No lo entiendo, Firenze. Te apuñaló por la espalda. ¿Por qué todavía te importa?
+0046 [Darcia] | Je... Je, je. Está bien. Ya que es tan importante para ti, ¿qué tal si te pongo a cargo de su tanque?
+0047 [Darcia] | ¡Jajajaja! Es broma. No sería tan cruel. Te propongo algo: te meteré en el tanque con ella. Así podrán estar juntas para siempre... sirviéndome hasta que se pudran.
+0048 [Firenze] | Hmph. Esperaba un argumento de verdad. Y no son más que tonterías sin sentido.
+0049 [Darcia] | ¿Tonterías? Auch. Te estaba ofreciendo un regalo. Lo admito: esa Nazuka y Petal Bloom son bastante capaces. Mis Plantas Inteligentes de 3.ª generación de verdad están batallando.
+0050 [Darcia] | ¿Pero si echo a la mezcla un nutriente de primera como tú? Veríamos evolucionar una 4.ª generación. Eso me devolvería las riendas.
+0051 [Firenze] | ¿Y cree que le voy a seguir el juego así nada más?
+0052 [Darcia] | La obediencia sería agradable, pero te conozco. Qué lástima. Parece que Nyx tendrá que hacer horas extra.
+0053 [Firenze] | ¿Horas extra?
+0054 [Darcia] | Como no te ofreces como nutriente, tendré que subir la... tasa de extracción de lo que ya tengo.
+0055 [Darcia] | Ah, pero claro, eso conlleva un riesgo. Si la exprimo demasiado rápido... el alma de Nyx se consumirá en un instante.
+0056 [Darcia] | Y sufrirá cada segundo de ello porque tú dijiste que no.
+0057 [Firenze] | ¡Darcia!
+0058 [Darcia] | Cuidado. Si pierdes la calma, pierdes la vida.
+0059 [Firenze] | ... ¡Tsk!
+0060 [Opción] | Interponerse entre ellas
+0061 [Darcia] | ¡Ah! ¡==SEX12== Tirano! ¡¿Por qué se pone en peligro?! No puedo permitir que le pase nada... ¡Por favor, se lo ruego, hágase a un lado!
+0062 [Darcia] | ==SEX12== Tirano... ¿Está protegiendo a esta traidora?
+0063 [Firenze] | Esto no estaba en el plan... ¿Mmm? Dije que podía ser su peón, pero nunca dije que usted pudiera subir al tablero.
+0064 [Opción] | No soy de los jugadores que miran desde la banca.
+0065 [Opción] | ¡Y no trato a mis compañeros como peones desechables!
+0066 [Darcia] | Ah... Ya veo... Así que es eso... Ahora lo entiendo, ==SEX12== Tirano. Esa miserable le envenenó la mente...
+0067 [Darcia] | No tema, mi Tirano. ¡Purgaré esta inmundicia por usted ahora mismo! En cuanto la convierta en nutrientes, todo será...
+0068 [Darcia] | ¡Agh...!
+0069 [Firenze] | Je. No lo tome personal. Es que no tengo tiempo para escuchar sus sermones.
+0070 [Firenze] | Y otra cosa. Deje de compararme con usted.
+0071 [Firenze] | Nunca he pensado que este mundo sea «inmundo». Usted quiere rehacer la realidad, pero su odio no viene de una gran traición...
+0072 [Firenze] | Viene de que nadie la ha amado nunca. Dígame, ¿alguien la ha amado de verdad alguna vez?
+0073 [Darcia] | Ja... ¡Por supuesto! ¡El Tirano me ama! ¡Mi Tirano me ama más que a nadie en el mundo!
+0074 [Darcia] | ¡Soy ==SEX3== sirvienta más devota! Nadie entiende a ==SEX4== como yo... Yo adoro a ==SEX4==, así que, naturalmente, ¡==SEX== me ama también!
+0075 [Darcia] | Ah... ¡==SEX12== Tirano! Permítame demostrárselo ahora mismo...
+0076 [Firenze] | ¿Ese cuerpo...?
+0077 [Darcia] | ¡Jajaja! Te lo dije, ¿no? Tu estoque se equivocó de objetivo. No puedes matarme, Firenze.
+0078 [Darcia] | ¡Este cuerpo ahora es uno con la planta! ¡No le teme a tu espada!
+0079 [Firenze] | Tsk... Un error de cálculo...
+0080 [Darcia] | ¡Tú jamás podrías comprender mi devoción por ==SEX12== Tirano! Tu traición, tu engaño al Tirano... ¡Todo eso no es más que una prueba que el Tirano me ha impuesto!
+0081 [Darcia] | ¡Y en cuanto supere esta prueba, mi amor y mi lealtad quedarán demostrados como absolutos!
+0082 [Firenze] | Jefe...
+0083 [Darcia] | ¿Qué fue lo que me quitaste?
+0084 [Firenze] | Nunca pensé que llegaría al extremo de modificar su propio cuerpo para volverlo planta. Por eso también se le embotaron los sentidos.
+0085 [Firenze] | Lo demás depende de usted... ¡Jefe!
+0086 [Narración] | Firenze lanza muy alto una llave verde que le sustrajo de la capa a Darcia. Cae en la palma de mi mano.
+0087 [1] | Recibí==W== tu determinación.
+0088 [Darcia] | Su Majestad, ¿qué está haciendo?
+0089 [Firenze] | Hmph. ¿Me quita los ojos de encima? Debe tener confianza de sobra.
+0090 [Darcia] | ¡Mocosa insolente! ¡Plantas, ataquen!==W== ¡Maten a Firenze!==W== ¡Ni siquiera sirve como su nutriente!
+0091 [Narración] | Afuera, las Plantas Inteligentes dejan de pelear de repente. Sin importarles el daño, intentan replegarse al lado de Darcia.
+0092 [1] | Plantas, retírense.==W== Por orden del Tirano.
+0093 [Darcia] | ¿Cómo...?
+0094 [Firenze] | Darcia...==W== ¿Olvidó que Mina estaba obsesionada con las reglas?
+0095 [Firenze] | En su sistema, la palabra del Tirano es ley. Je...==W== Para unas plantas que asimilaron la mente de Mina, sus palabras no valen nada frente a una orden del Tirano.
+0096 [Tú] | Uf... Uf... Por fin llegué hasta arriba.
+0097 [Narración] | Subo por la escalera de hierro hasta lo alto del tanque y giro la llave esmeralda para abrir la pesada tapa.
+0098 [Tú] | Fluido Psíquico...==W== El Alfil debe estar justo en el fondo de este tanque.
+0099 [Narración] | Ayúdenme... Quema... Que pare... Alguien... Odio... Amor... Se fue... No veo nada...
+0100 [Tú] | Agh...==W== Se supone que soy inmune a la magia. ¿Cómo es que estas voces se meten a la fuerza en mi cabeza?==W== ¿Qué es esta cosa?
+0101 [Darcia] | ¡Su Majestad! ¡¿Qué está haciendo?! ¡Bájese de ahí!
+0102 [Darcia] | ¡No tiene ninguna protección!==W== ¡Ese Fluido Psíquico disolverá sus recuerdos al instante!
+0103 [1] | Puede que mi inmunidad==W== no baste==W== para salvarme esta vez.
+0104 [Tú] | Perder mis recuerdos...==W== Terminaría justo donde empecé,==W== despertando perdido en aquel desierto...
+0105 [1] | Je.==W== Eso no suena tan aterrador.
+0106 [1] | Aunque lo pierda todo,==W== aunque me quede completamente solo,==W== mis amigas me encontrarán. Me traerán de vuelta.
+0107 [1] | Ya sea el Jefe de la empresa,==W== el Tirano legendario==W== o solo un Trekker de paso...
+0108 [Tú] | Este==W== es el camino==W== que elijo.
+0109 [Opción] | Lanzarse
+0110 [Darcia] | S-Su Majestad...==W== ¿Qué ha hecho?
+0111 [Darcia] | Cómo te atreves...==W== ¡Firenze! ¡Si a ==SEX== le pasa algo, lo pagarás con tu vida!
+0112 [Narración] | La magia de Darcia pasa rozando a Firenze y se estrella contra el tanque que contiene a la Madre Hierba Esbelta.
+0113 [Narración] | El grueso cristal se hace añicos. La enorme criatura brota, se enrosca alrededor de Darcia y se fusiona con su cuerpo.
+0114 [Darcia] | ¡Firenze!==W== ¡Con esta forma perfecta, unida a la Hierba Esbelta,==W== te mandaré a la tumba!

@@ -1,0 +1,6 @@
+# Historia de Firstlight Noya — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_162_01 | El nombre de ella (Parte I)
+CG_162_02 | El nombre de ella (Parte II)
+CG_162_03 | El nombre de ella (Parte III)

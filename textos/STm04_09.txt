@@ -1,0 +1,213 @@
+# Capítulo 4 · Más allá del sueño · 9 · Al otro lado del sueño
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Distant Voice | Voz lejana
+N:Enthusiastic Audience | Público entusiasta
+N:Illusory Fuyuka | Fuyuka ilusoria
+N:Illusory Kaede | Kaede ilusoria
+N:Illusory Mistique | Mistique ilusoria
+N:Illusory Nazuna | Nazuna ilusoria
+N:Joyful Trekker | Trekker alegre
+N:One-Armed Saint? | ¿Santa Manca?
+N:Strange Monster | Monstruo extraño
+N:Whisper | Susurro
+N:avg1_103 | Amber
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_137 | Eleanor
+N:avg1_156 | Nazuna
+N:avg1_1994 | Nazuka
+N:avg2_977 | Alpha Boar
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_165 | Nuz
+N:avg3_978 | Trekker emocionado
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Al otro lado del sueño
+0003 [Intro] | Nazuka tiene un largo sueño, un retrato de su vida ideal. Sin embargo, una sensación de disonancia la sigue como una sombra, y se da cuenta de que el mundo que la rodea es falso. Porque... tú no estabas ahí.
+0004 [Distant Voice] | ¡Nazuka, despierta! ¡Vamos, Nazuka, levántate!
+0005 [???] | Mmm... cinco minutos más.
+0006 [Whisper] | ¡No hay tiempo! ¡Vas a llegar tarde a la celebración, Nazuka! ¡Y luego no me eches la culpa a mí!
+0007 [Nazuka] | Sí, sí, ya sé... ¿Una celebración?
+0008 [Nazuka] | ¡Ah, es cierto! ¡Hoy hay celebración en el campamento!
+0009 [Nazuna] | ¡Vaya, qué increíble! ¡Te cambiaste en un abrir y cerrar de ojos!
+0010 [Nazuka] | ¡Jiji! Hacer que el viento me ayude a cambiarme con magia es mi truco especial.
+0011 [Nazuka] | Capitana Nazuna, ¿qué hora es?
+0012 [Nazuna] | Las o... ocho.
+0013 [Nazuka] | ¿Eh? ¿Pero no que la celebración empezaba hasta las once? Todavía tenemos tres horas.
+0014 [Nazuna] | Eh... Es que me preocupaba que te quedaras dormida, así que quise darnos un poco de margen... A Kaede siempre le toma más de una hora sacarme de la cama...
+0015 [Kaede] | Ay, Nazuka no es como tú.
+0016 [Kaede] | Nazuka, anoche volviste muy tarde de la patrulla. ¿Quieres dormir un poco más?
+0017 [Nazuka] | Estoy bien. Ya que estoy despierta, mejor aprovecho para hacer mi entrenamiento matutino.
+0018 [Nazuna] | ¡Nazuka es tan dedicada! Es una Trekker modelo para todo el campamento. ¡Me enorgullece ser su capitana!
+0019 [Nazuka] | ¿No vienes conmigo, capitana Nazuna?
+0020 [Nazuna] | ¿Yo? Ah, no, gracias. Hacer ejercicio cansa mucho...
+0021 [Nazuna] | ¡Espera, no quise decir eso! Tengo una reunión de estrategia con mis asesores,==W== ¡como el Conde Ñamñam el Tiburón!
+0022 [Strange Monster] | ¡ROAR...!
+0023 [Nazuka] | ¡Nada de excusas, capitana!
+0024 [Nazuka] | Oigo un monstruo. Deberías hacer un poco de ejercicio conmigo. Te vas a entumir si te pasas todo el día encerrada en tu cuarto.
+0025 [Lugar y hora] | 09:00, ??.º del mes de ??, afueras de Philae, nueva Casa de los Trekkers
+0026 [Fuyuka] | ¡Upa... y listo!
+0027 [Nuz] | Vaya, ¿moviste ese gabinete tan pesado tú sola?
+0028 [Fuyuka] | Jeje. Bueno... Al menos en mi fuerza sí confío un poco.
+0029 [Nazuka] | Fuyuka, ¿qué andas haciendo?
+0030 [Fuyuka] | La Casa de los Trekkers va a reabrir, así que pensé en venir a echar una mano.
+0031 [Nuz] | Nazuka, cuánto tiempo.
+0032 [Nazuka] | ¡Sí, cuánto tiempo! ¿Cómo has estado últimamente?
+0033 [Nuz] | En la sede estaban cortísimos de personal. Me tuvieron haciendo horas extra durante meses. Se siente tan bien estar por fin de vuelta en Philae.
+0034 [Kaede] | Qué bueno que volvió la Asociación de Trekkers. Justo nos estábamos preguntando de dónde íbamos a sacar encargos de ahora en adelante.
+0035 [Nuz] | El nuevo tablón de encargos ya está puesto. Esperamos que le saquen mucho provecho.
+0036 [Nazuna] | Uf... uf... Estoy muerta... Así que «hacer un poco de ejercicio» era patrullar el bosque y limpiarlo de monstruos...==W== Na... Nazuka... ¡Nunca vuelvo a hacer ejercicio en la mañana!
+0037 [Nuz] | ¿Eh? ¡Ah, capitana Nazuna! Se ve agotada.
+0038 [Nazuna] | ¡Ah, Nuz! Qué bueno que volviste. Oye, búscanos un encargo más fácil al rato, ¿sí? Siento que se me cae el cuerpo a pedazos.
+0039 [Nuz] | Claro. Pero antes, tengo algo para todas ustedes.
+0040 [Nuz] | ¡Tarán!
+0041 [Nazuka] | ¿Esto es... la escritura de una casa?
+0042 [Nuz] | Mjm. Es nuestra forma de agradecerles por cuidar la Casa de los Trekkers en esos tiempos difíciles.
+0043 [Nuz] | La Asociación decidió regalarles esta casa en el Distrito de Plata.
+0044 [Kaede] | ¿Una casa... en el Distrito de Plata? Es demasiado generoso. No podemos aceptarla.
+0045 [Nuz] | Por favor, no la rechacen. Se lo ganaron. Petal Bloom acabó con los Tres Grandes casi sin ayuda, sacó a la luz el plan de Cosecha Unida y luego donó toda la recompensa al campamento.
+0046 [Nuz] | El regreso de la Asociación a Philae es gracias a ustedes. Esta casa es un pequeño detalle comparado con todo lo que han hecho por los Trekkers de aquí. Por favor, tienen que aceptarla.
+0047 [Nuz] | Además, la casa ya está llena de regalos de otros Trekkers. ¡Vi por lo menos tres o cuatro máquinas de garra distintas ahí dentro!
+0048 [Nazuna] | ¡Genial! ¡Me conocen tan bien!
+0049 [Kaede] | ¿De verdad podemos aceptar esto?==W== Petal Bloom... por fin tiene un hogar propio. Estoy tan feliz.
+0050 [Nazuka] | Un momento...
+0051 [Nuz] | ¿Qué pasa, Nazuka?
+0052 [Narración] | ¿Cuándo fue exactamente que... acabamos con los Tres Grandes?
+0053 [Fuyuka] | Qué olvidadiza eres, Nazuka senpai. Hace dos meses derrotaste a la Espada de Jade. Hace dos semanas yo acabé con el Espíritu de la Brutalidad. Y apenas la semana pasada le diste el golpe final al Jardín Parásito.
+0054 [Nazuna] | Jeje, el nuevo grupo de expedición ayudó, claro, pero Petal Bloom ganó todas las peleas decisivas. ¡Estuviste increíble, Nazuka!
+0055 [Nazuka] | No... recuerdo nada de eso.
+0056 [Kaede] | Debe ser el agotamiento. Estuviste sosteniendo tú sola al nuevo escuadrón de caza durante tres meses. Ahora que por fin puedes relajarte, tu mente está bloqueando los recuerdos difíciles.
+0057 [Nazuka] | ¿Será eso...? Pero mi memoria...
+0058 [Nazuka] | Fuyuka, ¿de verdad acabaste tú sola con el Espíritu de la Brutalidad?
+0059 [Fuyuka] | ¡Claro que no! En ese entonces todavía era demasiado tímida y no sabía coordinarme con nadie. De ninguna manera podría haberlo derrotado sola.
+0060 [Nazuka] | Claro... Estabas peleando con...
+0061 [Fuyuka] | ¡Con el resto de Petal Bloom, por supuesto! Tú fuiste la que me dio ánimos, Nazuka senpai. Por eso pude dar el golpe final.
+0062 [Nazuka] | ¿Yo te di ánimos? Hay algo en eso que se siente... raro.
+0063 [Nazuka] | Recuerdo... que había Trekkers de otra ciudad...
+0064 [Nazuna] | ¿De qué hablas? ¡Fue una victoria de equipo! Sé que muchos otros Trekkers visitaron el campamento, pero la pelea contra el Espíritu de la Brutalidad fue justo como dijo Fuyuka.
+0065 [Eleanor] | ¡Lady Nazuka! ¡Hola! Perdón por interrumpir, pero ¿tiene un minuto?
+0066 [Nazuka] | Ah, claro...
+0067 [Eleanor] | Soy Eleanor, una Trekker nueva. ¡Siempre he querido ser una Trekker valiente y genial como usted!==W== Así que, eh... ¿me daría su autógrafo?
+0068 [Nazuka] | G-gracias... Te lo agradezco.
+0069 [Eleanor] | ¡Guau! ¡Un autógrafo de Lady Nazuka! ¡Voy a seguir dando lo mejor de mí!
+0070 [Nazuna] | Jeje, es que eres muy popular. Con tantas fans pidiéndote autógrafos, con razón andas toda confundida.
+0071 [Nazuka] | No... No recuerdo sus nombres ni sus caras, pero estoy segura de que unos Trekkers de fuera nos ayudaron.
+0072 [Nazuna] | ¿De fuera?==W== ¡Ay, no te preocupes por eso! Seguro te acuerdas después. Hoy es para celebrar nuestra victoria sobre los Tres Grandes. ¡Anímate, Nazuka!
+0073 [Kaede] | Además de acabar con los Tres Grandes pasaron otras cosas. Nazuka, mira allá.
+0074 [Mistique] | Mmm, ¡este pastel de miel es divino!
+0075 [Mistique] | Como bruja...
+0076 [Mistique] | Necesito muchísima azúcar...
+0077 [Mistique] | ¡Es lo que pone a trabajar al cerebro!
+0078 [Kaede] | La señorita Bruja nos ayudó a sacar a la luz la conspiración entre Claire y Cosecha Unida. Capturar a Claire también nos ayudó muchísimo.
+0079 [Nazuka] | ¿Cuál era esa conspiración de Claire y Cosecha Unida...? Mmm...==W== En todo caso, tenemos que agradecerle como se debe.
+0080 [Nazuna] | Va a venir a la celebración al mediodía. Ahí le puedes agradecer como quieras.
+0081 [Kaede] | Por ahora, concentrémonos en la celebración. Nazuka, todavía tienes que dar un discurso en nombre de todos.
+0082 [Nazuka] | No te preocupes. Anoche me aprendí el guion.
+0083 [Fuyuka] | Tú puedes, Nazuka senpai.
+0084 [Strange Monster] | ¡GRAH...!
+0085 [Nazuka] | Unos monstruos rezagados están atacando el campamento. Voy a ahuyentarlos para que no arruinen la celebración.
+0086 [Lugar y hora] | 11:00, ??.º del mes de ??, afueras de Philae, campamento de Trekkers
+0087 [Mistique] | Y ahora, demos la bienvenida a nuestro modelo a seguir,==W== la heroína de Philae...==W== ¡Nazuka! La que se enfrentó a los Tres Grandes y derrotó ella sola a dos de ellos, para que nos dé un discurso.
+0088 [Joyful Trekker] | ¡Lady Nazuka! ¡Aquí!
+0089 [Athrill Trekker] | ¡Nazuka! ¡Nazuka!
+0090 [Enthusiastic Audience] | ¡Gracias por salvar nuestro campamento!
+0091 [Nazuka] | (Cuánta gente... Todos se ven tan relajados y felices. ¿Cuánto... cuánto tiempo hacía que no veía tanta alegría?)
+0092 [Nazuka] | (Espera, ¿por qué me distraigo? Tengo que empezar el discurso. No puedo hacer esperar a todos).
+0093 [Nazuka] | Hola, compañeros Trekkers. A todos los que se reunieron hoy aquí: soy Nazuka, de Petal Bloom.
+0094 [Nazuka] | Los oigo llamarme modelo a seguir, heroína... Pero, sinceramente, no siento que haya hecho nada digno de esos títulos.
+0095 [Nazuka] | Solo soy una Trekker común y corriente, como todos ustedes. Derrotar a los Tres Grandes no fue un logro solo mío: también contribuyeron mis compañeras de Petal Bloom, el escuadrón de caza y todos los que nos ayudaron en el camino.
+0096 [Nazuka] | Esta victoria es una historia que escribimos todos juntos. Con nuestras propias manos abrimos un camino hacia el Monolito. Así es. Cada uno de nosotros es el héroe de esta historia.
+0097 [Narración] | Unos minutos después.
+0098 [Nazuka] | Gracias a todos. Muchísimas gracias por su apoyo.
+0099 [Nazuka] | Uf... Terminé. ¿Estuvo... estuvo bien?
+0100 [Nazuna] | ¿Es broma? ¡Mira nada más sus caras! Fue todo un éxito.
+0101 [Kaede] | ¡Qué bien lo dijiste! (snif) De verdad estoy muy conmovida...
+0102 [Fuyuka] | Ojalá algún día pueda hablar frente a una multitud con tanta soltura como tú, Nazuka senpai... Tengo que esforzarme más.
+0103 [Mistique] | ¡Saludos, heroínas de Philae y miembros de Petal Bloom!★
+0104 [Nazuka] | ¡Hola! Nunca tuvimos oportunidad de agradecerte como se debe por lo de la otra vez, y ahora te molestamos pidiéndote que fueras la presentadora con tan poco aviso. Lo siento mucho.
+0105 [Mistique] | Ay, por favor, nada de formalidades. Como bruja, sé cómo conducir un evento o dos.
+0106 [Mistique] | Pero si de verdad quieres agradecerme, siempre podrías darme una entrevista exclusiva★
+0107 [Nazuka] | Claro. Tú dime cuándo.
+0108 [Mistique] | Bueno, ¡no hay mejor momento que ahora! ¿Por qué no empezamos ya mismo★
+0109 [Mistique] | Durante tu pelea contra los Tres Grandes, ¿cuál fue el momento más difícil para ti? ¿Cómo lo superaste o cómo lo aguantaste?
+0110 [Nazuka] | (El momento más difícil...)
+0111 [Mistique] | No tienes que contestar de inmediato. Tómate tu tiempo... Déjame terminar mi última tarea como presentadora.
+0112 [Mistique] | ¡Muy bien, Petal Bloom, júntense para una foto!
+0113 [Nazuna] | ¡Voy! ¡Yo me pongo en medio!
+0114 [Narración] | (Esa lluvia... aquella vez... ¿Por qué estaba llorando?)
+0115 [Fuyuka] | ¿Está bien si me pongo aquí...?==W== No quiero estorbarles a las senpais.
+0116 [Narración] | (Ese paraguas... ¿Quién me lo pasó...?)
+0117 [Mistique] | Señorita Kaede y Fuyuka, ¿podrían acercarse un poquito más, por favor?
+0118 [Kaede] | Ven acá, Fuyuka~
+0119 [Nazuka] | (Ahora todo se siente tan perfecto... Pero... no me puedo quitar esta sensación... ...de que olvidé algo importante...)
+0120 [Mistique] | ¡Muy bien, a la cuenta de tres! Uno, dos, tres... ¡Digan «whisky»!
+0121 [Mistique] | ¡Ay, qué buena foto! Se las mando a sus teléfonos ahora mismo.
+0122 [Nazuka] | Esto...
+0123 [Nazuna] | ¡Todas salimos geniales! Es una foto muy buena.
+0124 [Kaede] | La voy a imprimir con mi Artefacto y la voy a colgar en mi cuarto. Fuyuka, ¿quieres que te imprima una a ti también?
+0125 [Fuyuka] | Sí, por favor. Gracias, Kaede.
+0126 [Nazuka] | ¿De...==W== De verdad creen que es una buena foto?
+0127 [Mistique] | ¿No te gusta? Siempre podemos tomar otra, ¿sabes?
+0128 [Nazuka] | No, no es eso. ¿No sienten que falta alguien? Este espacio vacío... Aquí debería haber alguien...
+0129 [Nazuna] | ¿Que falta alguien? ¿De qué hablas? Siempre hemos sido solo nosotras cuatro.
+0130 [Nazuka] | Capitana Nazuna... ¿De verdad eres Nazuna?
+0131 [Nazuna] | ¿Qué te pasa, Nazuka? ¡Claro que soy Nazuna, la reina de las máquinas de garra!
+0132 [Nazuka] | La Nazuna que yo recuerdo es increíblemente observadora.==W== Puede parecer un poco despistada, pero nunca se le escapa ni una sola pista,==W== y mucho menos algo tan obvio en una foto.
+0133 [Kaede] | Nazuka, no empieces una pelea. Seguro Nazuna no se dio cuenta. Todas hemos estado agotadas últimamente, así que tengámonos un poco de paciencia.
+0134 [Nazuka] | Y tú, Kaede. Eres buena, pero tienes principios. Jamás le pedirías a alguien que dejara pasar las cosas así nada más.
+0135 [Fuyuka] | Senpai, ¿por qué haces esto? ¿No podemos llevarnos bien y vivir felices?
+0136 [Nazuka] | Fuyuka... Puede que todavía no te conozca tan bien, pero estoy segura de que nunca olvidarías al «Maestro» que te ayudó a salir de aquel aprieto.
+0137 [Mistique] | Qué interesante. Como bruja, tengo que preguntarlo: ¿por qué tirar a la basura la felicidad que tanto te costó ganar?
+0138 [Mistique] | Tu gremio, sin discutir nunca. Tus amigas, a tu lado mientras derrotas a cada enemigo. Villanos como Cosecha Unida recibiendo lo que merecen, y los Tres Grandes vencidos...
+0139 [Mistique] | ¿No es justo lo que siempre deseaste?
+0140 [Nazuka] | Sí. Es lo que siempre quise.
+0141 [Nazuka] | Pero... alguien me dijo una vez algo.
+0142 [1] | Exacto. ¿Una verdadera santa sacrificaría su propio brazo por una vaga esperanza o una promesa vacía?
+0143 [1] | Si de verdad existiera un dios malvado que exigiera un sacrificio para detener las lluvias y las inundaciones, una verdadera santa usaría sus propias manos para derribarlo.
+0144 [Nazuka] | Construiré lo que quiero con mis propias manos.==W== No voy a ahogarme en una realidad falsa==W== hecha de remiendos de viejos recuerdos.
+0145 [Nazuka] | ¿De verdad eres Mistique, la bruja que «se alimenta de la verdad»?
+0146 [Illusory Nazuna] | Aunque seamos falsas, ¿qué tiene de malo?
+0147 [Illusory Kaede] | Respiraste demasiada niebla.
+0148 [Illusory Fuyuka] | Tienes que quedarte aquí para siempre... en este mundo de ilusiones.
+0149 [Illusory Mistique] | Si vuelves, lo único que te espera es una realidad dolorosa. ¿Así que por qué no aceptas este hermoso sueño y te quedas aquí para siempre...? Serás mucho más feliz de lo que jamás fuiste allá afuera~
+0150 [Nazuka] | No. Prefiero enfrentar el dolor que ahogarme en una hermosa mentira.
+0151 [Nazuka] | Además, tengo fe en que ==SEX== vendrá por mí.
+0152 [Narración] | ==SEX1== siempre me encuentra.
+0153 [Narración] | En algún momento, la estatua de la Santa Manca había aparecido en una esquina del campamento. Nazuka se acercó y se recargó en ella.
+0154 [Narración] | Esa estatua es...
+0155 [Nazuka] | No es un monstruo. Es una estatua. ¿Conoces la Santa Manca del Museo de Arte de Philae? Algo así, pero con tu cara.
+0156 [Nazuka] | ¿Eres tú?
+0157 [One-Armed Saint?] | ■■■, ■■■■■■■■?
+0158 [Nazuka] | Lo siento, no entiendo lo que dices.
+0159 [One-Armed Saint?] | ■■■■, ■■■, ■■■■■■■■■■■■■■.
+0160 [One-Armed Saint?] | ■■, ■■■■! ■■■■■■■, ■■■■■!
+0161 [Nazuka] | Parece que quieres una respuesta; entonces no me contendré. Después de todo, ahora mismo no alcanzo a ver bien tu expresión.
+0162 [One-Armed Saint?] | ■■■■■■■■, ■■■■■■■■!
+0163 [Narración] | Por favor, quédate a mi lado...
+0164 [Narración] | Como cuando apoyaste la cabeza en mi regazo...
+0165 [Narración] | Como cuando me acurruqué bajo tu paraguas...
+0166 [Narración] | Quédate siempre a mi lado.
+0167 [Nazuka] | Así que de verdad eras tú, Jefe.
+0168 [Opción] | ¿Estás bien?
+0169 [Nazuka] | Hace un momento, estaba de todo menos bien. Pero ahora... al ver tu cara, estoy bien. Mejor que bien.
+0170 [Nazuka] | Gracias, Jefe. Gracias por encontrarme una vez más.
+0171 [Tú] | Entonces... ¿con esto quedamos a mano por lo de tu regazo como almohada?
+0172 [Nazuka] | Todavía no. Después de todo, lo que me debes es más que una almohada de regazo.
+0173 [Nazuka] | Aunque me encantaría decir eso... Todos siguen peleando, ¿verdad?
+0174 [Tú] | Vamos. Todos te están esperando.
+0175 [Nazuka] | Todos... Es cierto, no me puedo quedar atrás...
+0176 [Nazuka] | Jefe, ¿puedo apartar tu hombro un rato?
+0177 [Nazuka] | Después de acabar con el Jardín Parásito, vendré a cobrarte esa almohada de hombro con la que me vas a pagar.
+0178 [Tú] | Ve a enfrentar tu batalla final.==W== Te lo guardaré el tiempo que haga falta.

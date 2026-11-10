@@ -1,0 +1,6 @@
+# Historia de Nazuna — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_156_01 | Un cuarto pequeño, una limpieza enorme (Parte I)
+CG_156_02 | Un cuarto pequeño, una limpieza enorme (Parte II)
+CG_156_03 | Un cuarto pequeño, una limpieza enorme (Parte III)

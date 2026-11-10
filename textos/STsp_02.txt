@@ -1,0 +1,7 @@
+# Nova Times #02 · Tu nombre, desconocido para mi corazón — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_02_01 | Tu nombre, desconocido para mi corazón (Parte I)
+STsp_02_02 | Tu nombre, desconocido para mi corazón (Parte II)
+STsp_02_03 | Tu nombre, desconocido para mi corazón (Parte III)
+STsp_02_04 | Tu nombre, desconocido para mi corazón (Parte IV)

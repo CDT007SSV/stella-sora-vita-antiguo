@@ -1,0 +1,86 @@
+# Historia de Laru · 3 · The Great Fry-tastrophe (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_150 | Laru
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El gran desastre de las papas (Parte III)
+0003 [Intro] | Convencida de que la van a despedir, Laru cuenta contigo para salvar su empleo...
+0004 [Laru] | Ay no, ay no, ay no.
+0005 [Laru] | La compradora me dijo que se había llevado la hoja del pedido, pero sigue aquí...
+0006 [Tú] | ¿Cómo pudo confundir lo que garabateaste al azar con un documento oficial de trabajo?
+0007 [Laru] | Porque lo garabateé en un formato de orden de compra en blanco...
+0008 [Laru] | Así, aunque me escape del trabajo, nadie lo notará. Es un disfraz perfecto.
+0009 [Tú] | Demasiado perfecto.==W== Hasta la compradora cayó.
+0010 [Laru] | ¿Qué hago ahora?==W== A estas alturas probablemente ya hicieron la compra.
+0011 [Laru] | ¡Ya sé, Jefe!==W== ¡Ve a robarles todo por mí!
+0012 [Laru] | Aunque tengamos que cometer un robo, no podemos dejar que entreguen este lote de papas.
+0013 [Tú] | Cálmate. Solo pediste lo que no era para el té de la tarde. Quizá no sea tan grave.
+0014 [Laru] | Si de verdad fuera para nosotros, supongo que no.
+0015 [Laru] | ¡Pero es para el Senado! Seguro irán tras de mí por esto.
+0016 [Laru] | En un lugar como el Imperio de la Gracia...==W== En el momento en que muestras cualquier debilidad, te saltan encima y te despedazan.
+0017 [Tú] | Además, no pareces disfrutar mucho el trabajo. Si te despiden, puedes aprovechar para pescar en paz.
+0018 [Tú] | Tómalo como un descanso.
+0019 [Laru] | ¡Ni hablar! ¡¿Cómo voy a pescar así?!
+0020 [Laru] | Escaparte a pescar mientras tu jefe cree que trabajas duro ...==W== ¡es totalmente distinto a estar desempleada y no tener más que hacer que matar el tiempo pescando!
+0021 [Laru] | Esa emoción nerviosa de casi ser descubierta, el orgullo de rebelarte en secreto y el placer culposo de que te paguen por no hacer nada—==W==¡ese es el verdadero arte de holgazanear!
+0022 [Laru] | Si ni siquiera tienes trabajo, no se llama holgazanear, sino … ser una vaga sin oficio. ¿Entiendes?
+0023 [Tú] | Sí, sí, lo entiendo perfectamente.
+0024 [Laru] | Buaa... ¡Qué horror!==W== ¡¿Cómo van a entender ustedes, Trekkers sin preocupaciones, lo que sentimos los oficinistas?!
+0025 [Laru] | ¿No dicen hoy en día que «trabajar es para tontos»?
+0026 [Laru] | ¡Pero si logro holgazanear durante el trabajo, entonces no soy tonta, soy ganadora!
+0027 [Laru] | ¡Y si puedo comer papas fritas mientras pesco durante el trabajo, soy ganadora por partida doble!
+0028 [Tú] | Mejor deja que te despidan. Ya me da lástima el Imperio de la Gracia por contratar a alguien como tú.
+0029 [Laru] | ¿Crees que sea posible que...
+0030 [Laru] | ¿Crees que sea posible que para mañana a esta hora la Diosa de las Papas haga que todo el Senado se enamore de las papas fritas?
+0031 [Tú] | Por mucho que ames las papas fritas, no hay manera de que puedas comerlas todos los días durante un mes seguido.
+0032 [Laru] | Rayos... ¿Cómo llegamos a esto...?
+0033 [Tú] | ¿Y el «Método de la disculpa infalible»?
+0034 [Laru] | Eso es solo una leyenda de oficina. No quiero ser la primera en probarlo.
+0035 [Laru] | Si eso falla, no podré conseguir empleo en ningún lado de Emor, y tendré que salir a las Tierras Salvajes y volverme Trekker.
+0036 [Laru] | Oye, espera, Trekker.
+0037 [Tú] | ¿Por qué me miras así? El Gremio de la Nueva Estrella no admite nuevos miembros.
+0038 [Laru] | No, no, Jefe. No me refiero al Gremio de la Nueva Estrella. ¿No tienes tu propia empresa?
+0039 [Laru] | ¡Si me despiden, puedes contratarme! ¡Problema resuelto!
+0040 [Tú] | ¿¿¿Eh????
+0041 [Laru] | Oye, ==W==¡Jefe! ==W==Me enteré de que a tu empresa le falta personal. ==W==Entooonces... ♪ ==W==¿no te vendría bien una secretaria hermosa, ==W==inteligente, ==W==talentosa ==W==y totalmente confiable?
+0042 [Opción] | Eh, creo que paso
+0043 [Laru] | ¿Seguro?==W== ¡Una oportunidad así no se presenta dos veces! ==W====W==Es cierto que a veces holgazaneo, ==W==pero te prometo que no te arrepentirás.==W==
+0044 [Opción] | Imagino que alguien con tu talento no sale barato
+0045 [Laru] | ¡Ay, qué importa el dinero! ==W==¡Te daré el descuento de amigos y familia!==W== Y SÉ ==W==que no dejarías a una joven indefensa como yo sin trabajo y sin adónde ir, ¿verdad?==W==
+0046 [Laru] | Con un gato anciano ==W==y un cachorro de dos años en casa ... ==W==y 30 años de hipoteca por pagar ... ==W==(sniff)==W==
+0047 [Opción] | Recuerdo que una vez me dijiste lo buena que eres para tocar fibras sensibles...
+0048 [Laru] | Oh... ==W==¡esa vieja charla boba! ==W==Olvídalo—==W==de verdad nunca había estado en un apuro así.==W==¡Eres mi única esperanza en todo el mundo!
+0049 [Opción] | ¿Por qué no pediste ayuda desde el principio?
+0050 [Laru] | ¿Crees que ==W==puedo ponerme a suplicar así nada más?==W==
+0051 [Laru] | O sea, como... ==W==Eres la única persona con la que he ... ==W==hablado con tanta sinceridad, ==W==¿sabes?
+0052 [Opción] | ¿Ah, sí? ¿La única, eh?
+0053 [Laru] | ¡¿Por qué te ríes?! ==W====W==¡De verdad estoy en problemas! ¡Grrr!
+0054 [Laru] | ¡Piénsalo, Jefe! ==W==¡¿Qué pasaría si ya no pudieras verme cuando quisieras?! ==W==Sé que ==W==te pondrías triste. ==W==¡Por favor, Jefe! ==W==¡De verdad te necesito ahora! ¡Contrátame!
+0055 [Tú] | Está bien, está bien, ¡solo levántate!
+0056 [Laru] | ¡Primero prométemelo!
+0057 [Laru] | ¡Si llego a ser despedida, seguro me conseguirás un trabajo nuevo!
+0058 [Laru] | Me dejarás unirme a tu empresa para que pueda holgazanear—==W==eh, no, quiero decir, trabajar duro ahí.
+0059 [Tú] | Está bien, está bien, lo prometo.
+0060 [Tú] | Si llega a pasar, avísame.
+0061 [Tú] | Encontraré la manera de darte una carga de trabajo imposible para que no tengas tiempo de holgazanear.
+0062 [Laru] | Ya veo.
+0063 [Narración] | Un día después.
+0064 [Laru] | ¿Quieres papas fritas, Jefe?
+0065 [Tú] | Por esa cara, supongo que no te metiste en problemas por el fiasco del té de la tarde, ¿o sí?
+0066 [Laru] | Justo iba a platicarte de eso. Ven, te lo cuento en secreto.
+0067 [Laru] | Creo que la Diosa de las Papas de verdad estaba trabajando.
+0068 [Tú] | ...==W== ¿Eh?
+0069 [Laru] | Después de que te fuiste ayer, empaqué mis cosas y solo esperaba a que Angel me despidiera.
+0070 [Laru] | ¿Y adivina qué? Por alguna razón, el Senado quiere estudiar una industria de comida rápida que imite la comida del Monolito.
+0071 [Laru] | ¡Mis papas fueron un gran éxito! Incluso me pidieron conseguir más comida del Monolito.
+0072 [Laru] | Hasta Angel se sorprendió y me preguntó cómo lo había previsto.
+0073 [Tú] | Qué suerte tan increíble.
+0074 [Laru] | En fin, la crisis terminó, ¡así que hoy vamos a pescar para celebrar!
+0075 [Tú] | ¿Otra vez...?
+0076 [Laru] | No es como si tuvieras que trabajar. ¡Vamos!
+0077 [Narración] | Parece que Laru gastó toda su suerte librándose del lío del té de la tarde—==W==porque ese día lo único que pescamos fueron un montón de malezas acuáticas.

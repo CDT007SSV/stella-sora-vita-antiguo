@@ -1,0 +1,144 @@
+# Capítulo 8 · Calor residual · Recuerdo · La solución en blanco Ⅰ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_139 | Allie
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_200 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Recuerdos
+0002 [Intro] | La solución de la Nueva Estrella Ⅰ
+0003 [Intro] | Mientras dormías, viste los recuerdos de Iris. Iris creció en el orfanato con Noya y Amber, y era la más estudiosa de las tres. Al dejar el orfanato, partieron juntas hacia un futuro desconocido...
+0004 [Iris] | Yo...
+0005 [Iris] | ...era una niña sin ningún talento.
+0006 [Iris] | Nunca conocí a mis padres. Desde que tengo memoria, viví con la tía Allie en el orfanato bajo el Canal.
+0007 [Iris] | No tenía un nombre oficial, pero como era el único del Distrito de las Cenizas, todos lo llamaban el Orfanato de las Cenizas.
+0008 [Iris] | Yo tampoco tenía nombre. La tía Allie me llamó Iris por las flores que crecían junto al muro del orfanato.
+0009 [Iris] | Estaban la tía Allie, Noya, Amber...
+0010 [Iris] | ...y algunos niños más pequeños.
+0011 [Iris] | La tía Allie llevaba todo el lugar ella sola.
+0012 [Iris] | Como hermanas mayores, las tres ayudábamos con todas las tareas que podíamos.
+0013 [Noya] | Amber, ¿ya está listo el pescado?
+0014 [Amber] | Sí...==W== Listo.
+0015 [Noya] | Jeje, ¡siempre pescas los peces más grandes, Amber! ¡Hoy todos vamos a tener un festín!
+0016 [Iris] | Huele delicioso.
+0017 [Noya] | ¡Iris, el fuego está muy fuerte! ¡Saca un poco de leña!
+0018 [Iris] | ¡Ay, perdón, no estaba poniendo atención! ¡Ya voy!
+0019 [Iris] | Amber tenía un don para conseguir comida.
+0020 [Iris] | Noya podía cocinar con lo que fuera.
+0021 [Iris] | Ayudaban mucho.
+0022 [Iris] | Pero yo solo podía con las tareas básicas.
+0023 [Iris] | La tía Allie nos cuidaba durante el día. Cuando nos dormíamos, salía a escondidas a trabajar en el turno de noche.
+0024 [Iris] | Ella creía que lo ocultaba bien, pero nosotras lo descubrimos hacía mucho. Y lo peor era que sabíamos que era un trabajo peligroso.
+0025 [Iris] | Más de una vez la vimos vendándose las heridas en silencio.
+0026 [Iris] | Y a la mañana siguiente actuaba como si nada hubiera pasado y volvía a cuidarnos.
+0027 [Iris] | Alimentar a tantos niños debía de costar una fortuna. Queríamos facilitarle las cosas. Pensamos que si nosotras también pudiéramos salir a ganar algo de dinero...
+0028 [Noya] | ¡Hagámonos Trekkers! ¡Oí que si sacas un Artefacto de una Caja de Deseos, ganas un montón de Dorra!
+0029 [Iris] | Pregunté en la Asociación de Trekkers, pero la señora de ahí dijo que éramos demasiado pequeñas para ser aprendices. Tendríamos que ser por lo menos siete u ocho años mayores.
+0030 [Amber] | Deshollinadores... Creo que contratan niños.
+0031 [Iris] | Sí, yo también oí de eso...
+0032 [Iris] | Los patrones quieren meter más trabajos, así que obligan a los niños a bajar por las chimeneas en cuanto se apaga el fuego.
+0033 [Amber] | Suena caliente... Da miedo.
+0034 [Iris] | Además, el adulto que dirige la cuadrilla se queda con casi toda la paga. Siendo niñas, apenas ganaríamos un Dorra.
+0035 [Noya] | ¡Tú siempre lo sabes todo, Iris!==W== Pero si no podemos hacer esto ni aquello, ¿qué se supone que hagamos?
+0036 [Iris] | Nuestras pláticas siempre terminaban igual. Éramos niñas sin respuestas de verdad. Así que decidí ir a preguntarle a la tía Allie...
+0037 [Iris] | Tía Allie... ¿Qué crees que debería hacer cuando sea grande?
+0038 [Iris] | La tía Allie se quedó callada de una forma poco común. Se rascó la cabeza, pensó durante un largo rato y luego me dio una llave sin decir nada.
+0039 [Iris] | No tenía idea de qué significaba. La usé para abrir el sótano del orfanato, y adentro había más libros que estrellas en el cielo.
+0040 [Iris] | Al verlos todos, me cayó el veinte. Debía de ser completamente ordinaria.
+0041 [Iris] | La tía Allie no lograba ver ni un solo talento en mí, mucho menos darme un consejo. Me estaba dejando a mí encontrar mis propias respuestas en esos libros.
+0042 [Iris] | Me solté a llorar. Pero en cuanto me di cuenta de que mis lágrimas podían arruinar esas páginas tan valiosas, me obligué a parar.
+0043 [Iris] | Sorbiéndome los mocos, tomé el libro más cercano como si fuera un salvavidas y lo abrí.
+0044 [Iris] | Quería que me diera una respuesta.
+0045 [Iris] | Era una niña que le tenía pánico a arriesgarse.
+0046 [Iris] | Uf, uf... Por fin llegué. Este Canal es alto y peligroso. ¿Por qué Noya y Amber siempre se juntan aquí arriba?
+0047 [Noya] | Mm...
+0048 [Amber] | Uf...
+0049 [Iris] | No puede ser... ¡Noya y Amber de verdad están leyendo libros!
+0050 [Iris] | Con el ceño fruncido y pensando mucho... Deben de estar resolviendo los problemas de magia que les presté ayer.
+0051 [Iris] | ¡Así me gusta! ¿Saben de esa chica de cabello azul de la que habla la tía Allie? Consiguió una beca para la Academia Platino y se mudó a un mejor distrito para estudiar.==W== ¡Pues yo no me voy a quedar atrás!
+0052 [Iris] | Para una niña ordinaria como yo, estudiar es la única forma de salir adelante. Imagínense si todas entráramos a la Academia Platino. ¡No, a la Academia Luz de Gracia!
+0053 [Iris] | Además, últimamente la tía Allie ya no ha aceptado trabajos peligrosos. ¡Los Artefactos que saca de la Caja de Deseos se venden por mucho Dorra!==W== Las cosas en el orfanato van mejorando. ¡Hasta comemos postre una vez a la semana!
+0054 [Iris] | Noya... Amber...
+0055 [Iris] | Están estudiando muchísimo. ¡Vengan, es hora del postre!
+0056 [Noya] | ¡Iris, justo a tiempo! Amber y yo nos atoramos en una parte de este libro.
+0057 [Amber] | Cerebro... derritiéndose...
+0058 [Iris] | ¿Cuál? A ver.
+0059 [Iris] | Un momento. ¡Este es un libro de cuentos de hadas! ¿No prometieron terminar los problemas de magia que les di?
+0060 [Noya] | Jajaja. Sobre esos problemas... Estoy segurísima de que están malditos.
+0061 [Amber] | Me noquearon en cinco segundos.
+0062 [Noya] | Tienes que revisar ese libro otra vez, Iris. ¡Seguro tiene alguna magia de sueño terrorífica!
+0063 [Amber] | Leemos cuentos para no dormirnos.
+0064 [Noya] | ¡Exacto! Solo necesitábamos un descansito para el cerebro, nada más.
+0065 [Iris] | Ay, está bien. Pero igual tienen que practicar la lectura, o las van a engañar cuando sean grandes. A ver...==W== ¿El cuento del Tirano? Ese es un clásico.
+0066 [Noya] | Oye, Iris, ¿crees que el Tirano es... no sé, supermalvado?
+0067 [Iris] | ¡Claro! ==SEX1== hace salir demonios del abismo más oscuro para llevarse a los niños que no hacen la tarea y se desvelan.
+0068 [Noya] | ¡Pero en este libro el Tirano no es así para nada!
+0069 [Noya] | ==SEX1== cultiva la tierra con todos, fabrica herramientas, construye casas. Esas son cosas buenas, ¿no?
+0070 [Iris] | ¡Es una carnada! El Tirano nunca enseña ==SEX3== colmillos de inmediato. ==SEX1== se hace el bueno y pone trampas con palabras dulces. Y en cuanto bajas la guardia... ¡Ñam! Te comió.
+0071 [Iris] | La tía Allie dice que en Nova nada es gratis; el Tirano no puede ser bueno para siempre. Si ==SEX== hace buenas obras, hay gato encerrado.
+0072 [Noya] | ¿Entonces todo es falso? Pero, ándale, si ==SEX== se porta bien para siempre, ¿qué diferencia hay? ¡Eso hace bueno a ==SEX4==!
+0073 [Iris] | Solo van en el primer tomo. Hay un segundo libro. ¡Y en ese, el Tirano quiere conquistar todos y cada uno de los Monolitos de Nova!
+0074 [Noya] | ¡Juajuajua! ¿Conquistar todos los Monolitos? ¡Qué increíble! Tendrías que ser el Trekker más fuerte de la historia para lograrlo. ¿Verdad, Amber?
+0075 [Amber] | ==SEX1== debería mover el Monolito. Solo un poquito.
+0076 [Amber] | Y al orfanato le daría el sol. Estaríamos calientitas.
+0077 [Noya] | ¡Oye, si puede conquistar Monolitos, seguro que puede quitar uno del camino!
+0078 [Amber] | Bueno. Estoy en el equipo del Tirano. Que ==SEX4== mueva el Monolito.
+0079 [Noya] | ¡Ja! ¡Dos contra uno, Iris! ¡Amber y yo decimos que el Tirano es buena persona!
+0080 [Iris] | Esperen, ¿cómo llegamos a esto...? ¡Escuchen! ¡El Tirano no solo va a conquistar los Monolitos, ==SEX== los va a destruir! ¡Y entonces no tendremos ningún Artefacto!
+0081 [Amber] | Sin Artefactos. ¿Eso es malo?
+0082 [Iris] | ¡Claro que es malo! ¿Ven esa caja grande del pasillo que echa aire helado? ¡Es un Artefacto!
+0083 [Amber] | Sin caja, hace calor.
+0084 [Iris] | ¿Y ese teléfono que siempre has querido? También es un Artefacto.
+0085 [Amber] | Amber quiere un teléfono. Me salgo. Ya no más Tirano.
+0086 [Iris] | ¡Ja! Ahora el bando de «el Tirano es malo» tiene dos personas. ¡Cómo se voltearon las cosas! ♪
+0087 [Iris] | ¿Eh? ¿Noya? ¿Adónde se fue corriendo?
+0088 [Noya] | ¡Jaja! ¡Yo sé que el Tirano es bueno, con eso me basta! ¡No necesito leer el resto!
+0089 [Iris] | Y yo te digo que el Tirano no es buena persona...==W== Como quieras, haz lo que quieras.
+0090 [Noya] | ¡Amber, ya casi es hora del postre! ¿Te echo una carrera al orfanato? ¡La primera en llegar a la mesa escoge primero!
+0091 [Amber] | Va.
+0092 [Iris] | ¡Oigan, ¿qué hacen?!==W== ¡No salten desde ahí! ¡Aaaaaaah!
+0093 [Iris] | Noya y Amber saltaron desde lo alto del Canal sin siquiera parpadear. Aterrada, me tapé los ojos. Cuando volví a mirar, ya habían entrado corriendo al orfanato.
+0094 [Iris] | Todavía no sé cómo llegaron abajo. Yo tenía demasiado miedo, así que bajé por las escaleras.
+0095 [Iris] | Para cuando regresé, el postre casi se había acabado.
+0096 [Iris] | Pero, aunque dijeron que la primera en llegar escogía primero, las dos me dejaron mis galletas favoritas. Nunca lo he olvidado.
+0097 [Iris] | Era una niña a la que se le daba bien leer.
+0098 [Amber] | Iris, hay un gatito en el muro del patio. ¿Vienes a verlo?
+0099 [Iris] | No, gracias, estoy practicando mis círculos mágicos.
+0100 [Noya] | ¡Iris, creo que estos dos Artefactos que trajo la tía Allie encajan! ¿Me ayudas a probar?
+0101 [Iris] | Mmm, quizá luego. Tengo que terminar de memorizar este conjuro.
+0102 [Iris] | Cuando conseguí la llave del sótano, por fin descubrí en qué era buena. En leer.
+0103 [Iris] | No era como Noya, que aprendió a manejar la espada por su cuenta y se hizo amiga de la mitad de los Trekkers de la Asociación de Trekkers.
+0104 [Iris] | Y no era tan rápida como Amber, que podía perseguir gatos por todos los tejados y callejones de Emor.
+0105 [Iris] | Pero gracias a mis libros, podía entender las técnicas de espada de Noya sin haber blandido nunca una espada.
+0106 [Iris] | Y conocía cada tienda de Emor sin haber salido nunca del Distrito de las Cenizas.
+0107 [Iris] | Mi futuro estaba en esos libros. En ese entonces lo creía de verdad.
+0108 [Noya] | Iris, encontramos estas piezas raras de Artefacto en el sótano. ¿Tienes idea de qué son?
+0109 [Iris] | Ah, eso es un volante. Es parte de un Artefacto poco común. Sé que leí sobre eso en algún lado... Déjame buscarlo. Te lo llevo en cuanto lo encuentre.
+0110 [Amber] | Iris. ¿Cómo uso esta pistola?
+0111 [Iris] | Estas pistolas mágicas funcionan con Neo Solution y se activan con un círculo mágico. Puedo enseñarte el círculo, pero no te excedas con la Neo Solution.
+0112 [Iris] | Es difícil de conseguir. Además... El Imperio de la Gracia la tiene muy controlada.
+0113 [Iris] | El invierno dio paso a la primavera, y los días se nos fueron escapando. Sin darnos cuenta, ya teníamos edad para dejar el orfanato.
+0114 [Iris] | Como éramos las primeras en irnos, estábamos con todas las ganas de comernos el mundo y ser un ejemplo para los más pequeños.
+0115 [Narración] | Pero entonces...
+0116 [Noya] | Iris. Amber. ¿Cuánto Dorra traen encima?
+0117 [Amber] | Cero...
+0118 [Iris] | Espera, ¿no fue idea tuya, Noya? Acordamos no ser una carga para la tía Allie, así que le devolvimos a escondidas el Dorra que nos dio. ¡Yo metí todo el mío debajo de su almohada!
+0119 [Noya] | Jajajaja... Ah, sí... Es cierto...
+0120 [Noya] | ¡¿Y ahora qué hacemos?! ¡Estamos completamente quebradas!
+0121 [Iris] | Increíble. Otra vez actuaste por impulso, ¿verdad? Esto es lo que pasa cuando te niegas a planear las cosas.
+0122 [Noya] | ¡P-pero ándale! Teníamos que demostrarle a la tía Allie que podíamos salir adelante solas para que no se preocupara, ¿no?
+0123 [Iris] | Supongo que... en eso tienes razón. Es la única razón por la que acepté.
+0124 [Amber] | Sin Dorra, conseguimos nuestra propia comida. Yo sé pescar. En esta época hay hongos.
+0125 [Noya] | ¡Guau, esa es nuestra Amber! ¡Exacto! ¡Vivir de lo que da la tierra es de lo que se trata una verdadera aventura!
+0126 [Iris] | ...Tú sí que sabes cómo zafarte.
+0127 [Iris] | En fin, me niego a jugar a la supervivencia en la naturaleza desde el primer día.
+0128 [Iris] | Tenía el presentimiento de que esto pasaría, así que guardé un poco de Dorra...
+0129 [Noya] | ¡¿Lo dices en serio?!==W== ¡Iris, eres una salvavidas!
+0130 [Amber] | ¡Iris es la mejor!

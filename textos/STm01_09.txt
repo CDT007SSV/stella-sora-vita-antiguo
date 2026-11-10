@@ -1,0 +1,158 @@
+# Capítulo 1 · 9 · Cómo se reparan los recuerdos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:More Puzzled Child | Niño desconcertado
+N:Puzzled Child | Niño desconcertado
+N:Refreshed Child | Niño renovado
+N:Sleepy Child | Niño con sueño
+N:Tired Child | Niño cansado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_169 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Cómo se reparan los recuerdos
+0003 [Intro] | Creas recuerdos divertidos dando clases y los niños se recuperan pronto. Pero Creta Trading rompe su promesa. Feagin retiene tu pago con excusas endebles.
+0004 [Lugar y hora] | 08:30, 28 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0005 [Narración] | A la mañana siguiente, en el salón del Clan Viento de Ceniza se ha montado un escenario improvisado con su pizarrón.
+0006 [Narración] | Los niños están todos sentados con buena postura en sus sillas, como si estuvieran en un salón de clases de verdad.
+0007 [Tú] | Así que esto es lo que se siente un salón de clases. Es bastante genial.
+0008 [Tú] | La idea es que, si logramos llenarles la cabeza de recuerdos nuevos, sobre todo divertidos e importantes, estos niños deberían recuperar el ánimo.
+0009 [Tú] | Ojalá funcione este plan que se me ocurrió ayer...
+0010 [Minova] | Oye, ==PLAYER_NAME==, relájate.
+0011 [Tú] | ¿Eh? ¿Cómo supiste lo que estaba pensando? ¿Tan obvio era?
+0012 [Minova] | No lo sabía. La verdad, yo también estoy un poco nerviosa...==W== preguntándome si esto siquiera funcionará.
+0013 [Minova] | Así que sí, en cierto modo también me hablaba a mí misma.
+0014 [Tú] | Entonces, ¿cómo puedes sonar tan segura?
+0015 [Minova] | Je. Bueno, puede que tenga mis dudas...
+0016 [Minova] | ...Pero confío más en mis amigos que en mí misma.
+0017 [Niño con sueño] | Aaaah... Qué sueño...
+0018 [Niño cansado] | ¿Por qué hacemos la hora del cuento tan temprano? ¿Pasó algo?
+0019 [Rainea] | No. La jefa nos va a enseñar.
+0020 [Niño desconcertado] | ¿Enseñarnos? ¿Como en la Academia Platino le enseñan a la jefa?
+0021 [Niño con sueño] | Suena difícil...
+0022 [Minova] | Muy bien,==W== todos, empecemos.
+0023 [Minova] | A partir de hoy, les daré clases. Les enseñaré cosas y les enseñaré cómo aprenderlas.
+0024 [Vollara] | Jefa, ¿para qué necesitamos aprender?
+0025 [Neuvira] | ¡Shhh, Vollara! ¡No interrumpas!
+0026 [Minova] | No pasa nada. Vollara tiene razón.
+0027 [Minova] | Aprender empieza con hacer preguntas. ¿Ven? Quizá tengas talento para esto.
+0028 [Vollara] | Je, je, jefa... ¡dicho así, hasta me dan ganas!
+0029 [Vollara] | Es un fastidio, claro... pero, para ser sincera, siempre me ha dado curiosidad la escuela.
+0030 [Vollara] | En el Distrito de las Cenizas ni siquiera tenemos escuelas, así que alguien como usted, jefa,==W== que ganó una beca para un lugar tan elegante como la Academia Platino... es una leyenda para todos nosotros.
+0031 [Minova] | Mjm. Y como razón para empezar a aprender, eso es más que suficiente.
+0032 [Minova] | Si perseveran, verán los beneficios. Por ejemplo... saber leer puede protegerlos.
+0033 [Niño desconcertado] | ¿Cómo?
+0034 [Minova] | Cuando Feagin vino a cobrar, pusieron sus huellas en el contrato de traspaso de deuda de Creta Trading sin siquiera leerlo, ¿verdad?
+0035 [Niño con sueño] | Porque oímos... que los niños tienen que pagar lo que debían sus padres...
+0036 [Rainea] | Dijeron que me darían comida si lo hacía...
+0037 [Minova] | Creta Trading está definitivamente en falta.==W== Pero si supieran leer —==W==si hubieran entendido ese contrato— habrían visto que decía que asumían voluntariamente una deuda sin fundamento. Feagin no habría podido obligarlos a firmar.
+0038 [Rainea] | No puede ser... ¿No teníamos que estar endeudados en absoluto?
+0039 [Niño desconcertado] | Jefa, si estudio mucho, ¿puedo aprender a leer también?
+0040 [Minova] | Bueno... que aprendas o no depende de ti.
+0041 [Minova] | Pero si quieres aprender, yo te enseño. A todos y cada uno de ustedes. Hasta que se les quede.
+0042 [Niño desconcertado] | ¡Entonces voy a estudiar muchísimo!
+0043 [Rainea] | ¡Yo también! ¡Enséñeme, hermana Minova!
+0044 [Niño con sueño] | ¡Y a mí! ¡A mí también!
+0045 [Vollara] | Sigo sin entender, jefa.
+0046 [Vollara] | Aunque sepamos leer, no hay manera de que superemos en palabras a una compañía enorme como Creta Trading.
+0047 [Vollara] | Sinceramente, creo que sería mucho más genial que nos enseñara a pelear y, no sé, a hacer patinetas.
+0048 [Vollara] | ¡Si puede derrotar a los malos, o al menos escapar de ellos patinando, problema resuelto!
+0049 [Minova] | Piensa esto: ¿entiendes realmente==W== cómo se fabrican esas patinetas que tan bien manejas?
+0050 [Vollara] | Yo... eh... ¿Cómo se fabrican? ¿Las ruedas? ¿La tabla?
+0051 [Minova] | Y hablando de esas patinetas... ¿alguien me dice cuál es la parte más importante de una patineta?
+0052 [Vollara] | Yo... eh... Usted es quien siempre me las hace, jefa.
+0053 [Vollara] | ¡Aaargh! ¡No entiendo nada!
+0054 [Minova] | Solo puedes mejorar de verdad si entiendes los fundamentos. Si solo juntas cosas al tuntún, esa tabla tuya se va a deshacer algún día.
+0055 [Vollara] | Ugh... No puedo discutirlo.
+0056 [Neuvira] | ¡Jefa! ¡Ya sé! ¡La parte más importante es el eje, sobre todo el rodamiento, ¿verdad?
+0057 [Minova] | Esa es mi Neuvira. De verdad lo pensaste bien.
+0058 [Neuvira] | ¡Yupi! ¡La jefa me felicitó! ♪
+0059 [Vollara] | ¡Jefa! ¡Hágannos otra pregunta!
+0060 [Niño desconcertado] | ¡Jefa! ¡Yo también quiero responder una pregunta!
+0061 [Rainea] | Es un poco difícil de seguir, pero es como divertido.
+0062 [Niño renovado] | ¡Jefa! ¡Háganos una que podamos entender!
+0063 [Tú] | Tienen mucha más energía que ayer... incluso más que justo antes de empezar la clase.
+0064 [Narración] | Media hora después.
+0065 [Minova] | Muy bien, ya terminé. ==PLAYER_NAME==, te toca.
+0066 [Tú] | ¿A mí? Pensé que seguía Iris.
+0067 [Iris] | Ese era el plan... pero de verdad quiero asistir también a tu lección, ==PLAYER_NAME==.
+0068 [Minova] | ¿Cuál es el problema? No es que haya una regla sobre quién tiene que enseñar.
+0069 [Tú] | ¿Yo, enseñar? ¡¿Qué voy a enseñar con pérdida de memoria?!
+0070 [Tú] | Quizá solo les cuente lo que vi en los Monolitos.
+0071 [Opción] | Una historia sobre tesoros
+0072 [Opción] | Una historia sobre animales
+0073 [Opción] | Una historia sobre un ataúd
+0074 [Tú] | Como Trekker, debería contar una historia de tesoros. A los niños les encantan.
+0075 [Narración] | Poco después...
+0076 [Tú] | El Trekker y los animales trabajaron juntos, derrotaron al monstruo y devolvieron todo el tesoro robado a sus legítimos dueños.
+0077 [Tú] | Eso es todo. Se acabó la hora del cuento.
+0078 [Noya] | ¡Tengo una pregunta!
+0079 [Tú] | Adelante.
+0080 [Noya] | ¡¿Qué tan ricas estaban esas bolitas de arroz que todos seguían después de comerlas?!
+0081 [Tú] | Jaja, ¡seguro que estaban súper, increíblemente deliciosas!
+0082 [Tú] | Las historias de animales siempre son una apuesta segura con los niños.
+0083 [Narración] | Poco después...
+0084 [Tú] | Y así fue como el mono, tras causar estragos en el reino celestial, quedó atrapado bajo una montaña gigantesca.
+0085 [Minova] | ¿O sea que ni siquiera él pudo derribar a la gran compañía del oeste?
+0086 [Tú] | Bueno, técnicamente no era una compañía, pero... sí, podría decirse que sí.
+0087 [Minova] | ¿Armar un alboroto tan grande como para avergonzar a esos peces gordos celestiales? Para mí, eso es una victoria.
+0088 [Tú] | Vale, tiene un ataúd, pero es un cuento de hadas. Debería estar bien, ¿no?
+0089 [Narración] | Poco después...
+0090 [Tú] | Cuando sacudieron el ataúd de cristal, la princesa tosió ese trozo de manzana envenenada y despertó de inmediato.
+0091 [Tú] | Y todos vivieron felices para siempre. Fin.
+0092 [Amber] | ...
+0093 [Tú] | ¿Amber? ¿Qué pasa?
+0094 [Amber] | ==PLAYER_NAME==, tú no tosiste nada cuando despertaste.
+0095 [Amber] | ¡Espera! ¿Eso significa que la manzana envenenada sigue dentro de ti?
+0096 [Tú] | ¡Eh, eh, más despacio! ¡No mezcles los cuentos con la vida real! ¡Y yo no soy una princesa!
+0097 [Narración] | Y así, el Gremio Nueva Estrella da una clase especial para los niños del Viento de Ceniza.
+0098 [Narración] | Noya les hace una demostración de esgrima.
+0099 [Narración] | Iris les enseña a intercambiar y manejar Dorra.
+0100 [Narración] | Amber les enseña a reconocer el terreno; bueno, sobre todo se lo muestra. Yo, a su lado, leo las instrucciones que me manda por mensaje.
+0101 [Narración] | Al final de la clase, los niños están claramente más animados. Parece que sus corazones cansados y sus recuerdos desvanecidos han empezado a repararse.
+0102 [Minova] | Gracias a todos.
+0103 [Minova] | ¡Gracias!
+0104 [Vollara] | ¡Mil gracias!
+0105 [Neuvira] | ¡Muchísimas gracias! ♪
+0106 [Tú] | En serio, paren ya.
+0107 [Minova] | ¿Qué voy a hacer...?
+0108 [Minova] | Ayer firmaron su alma a Creta Trading, todo por estos niños.
+0109 [Minova] | Y hoy ==PLAYER_NAME== ideó una forma de ayudarlos a sanar.
+0110 [Tú] | Tuve suerte de que mi idea al azar funcionara.
+0111 [Minova] | Llámalo suerte si quieres, pero la verdad es que estaríamos totalmente perdidos sin ti.
+0112 [Minova] | Ah, cierto. Con todo lo que pasa, casi lo olvido. Toma, quédate esto.
+0113 [Tú] | Esto es...
+0114 [Minova] | La llave de este lugar. Solo estamos aquí de okupas. Ahora que los legítimos dueños han vuelto, lo correcto es devolverla.
+0115 [Noya] | Devolver la llave... Espera, ¿esto significa que se van?
+0116 [Amber] | ¿Cómo?
+0117 [Minova] | Je. El viento sopla donde quiere, ya sabes.
+0118 [Tú] | Pero ¿dónde se quedarán?==W== Con tantos niños necesitan un espacio lo bastante grande.
+0119 [Vollara] | ¡Buscaremos otro edificio vacío!
+0120 [Neuvira] | ¡Exacto! Tenemos contactos en el Distrito de las Cenizas. Encontraremos un lugar nuevo en un santiamén. Probablemente. Sí.
+0121 [Noya] | ==PLAYER_NAME==, ven un momento.
+0122 [Tú] | ¿Eh?
+0123 [Noya] | ¿Te quedarás en la ciudad?
+0124 [Tú] | No, ahora soy Trekker. Volveré a salir a las Tierras Salvajes.
+0125 [Noya] | En ese caso... Iris, Amber, ¿ustedes están de acuerdo con esto?
+0126 [Iris] | Mjm. Este lugar es demasiado grande solo para nosotras de todos modos.
+0127 [Amber] | El Gremio Nueva Estrella y el Clan Viento de Ceniza ya son aliados.
+0128 [Noya] | Así que el Clan Viento de Ceniza debería quedarse aquí.
+0129 [Minova] | Eso sería literalmente un salvavidas... pero ¿están seguras? Esta es propiedad del orfanato...
+0130 [Noya] | Somos amigas, ¿no? No hay que obsesionarse con esto. Ya cansan estas formalidades.
+0131 [Iris] | Todas nos beneficiamos de este orfanato y queremos ver vivir su espíritu. Lo que hace ahora el Clan Viento de Ceniza... es igual a lo que...
+0132 [Amber] | hizo la tía Allie por nosotras.
+0133 [Minova] | Chicas...==W== Les debo una. De verdad.
+0134 [Noya] | Jeje, las cosas con los niños y el clan van mejorando. ¡Mantengamos el impulso y encontremos a Loxy!

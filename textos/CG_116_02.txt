@@ -1,0 +1,95 @@
+# Historia de Ridge · 2 · An Atypical Greenhouse (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Shrubshrews | Shrubshrews
+N:Sneaky Shrubshrew | Shrubshrew sigiloso
+N:Upset Shrubshrew | Shrubshrew molesto
+N:Worried Shrubshrew | Shrubshrew preocupado
+N:avg1_116 | Ridge
+N:avg2_001 | Shrubshrew matón
+N:avg2_002 | Shrubshrew estaca
+N:avg2_003 | Shrubshrew granadero
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Un invernadero atípico (Parte II)
+0003 [Intro] | Junto con Ridge, atrapé al ladrón de comida... espera, ¿qué? Resulta que el ladrón tenía sus propios problemas.
+0004 [Tú] | Uf...==W== Aquí tampoco hay rastro... Ridge, ¿cómo te va por tu lado?
+0005 [Ridge] | Ay...==W== ¡Aquí no hay nada...!==W== Nada...
+0006 [Tú] | Llevo una eternidad hurgando entre estos arbustos. No he visto ni un Shrubshrew, ni un bigote siquiera...
+0007 [Narración] | Todo empezó hace unas horas...
+0008 [Ridge] | ¡Jefe! ¡Pasó algo terrible!
+0009 [Tú] | ¿Eh? ¿Ridge?
+0010 [Tú] | ¿Qué pasa?
+0011 [Ridge] | ¡Alguien robó mis verduras!
+0012 [Ridge] | ¡Y hasta se llevaron las semillas de guisante para mi experimento!
+0013 [Ridge] | ¡¿Qué hago, qué hago...?! ¡Ayúdeme, Jefe!
+0014 [Ridge] | 
+0015 [Tú] | ¡¿También se llevaron los guisantes...?!==W== ¡Esto no puede ser! ¡Voy ahora mismo a ayudarte...!
+0016 [Tú] | Qué mala suerte...
+0017 [Tú] | ¿Seguro que fueron los Shrubshrews los que se llevaron tus semillas? ¿Tienes alguna prueba?
+0018 [Ridge] | ¡Tienen que ser ellos!
+0019 [Ridge] | Los Shrubshrews siempre se cuelan a robarme las verduras. Son los únicos que dejan esas huellitas de garras y mordiscos. Las reconozco al instante.
+0020 [Ridge] | Seguí el rastro hasta aquí, pero...==W== de repente desapareció.
+0021 [Ridge] | ¡¿Qué hago, Jefe?! Si se llevaron las verduras y las escondieron en su madriguera...==W== Quizá nunca las encontremos...
+0022 [Tú] | Tienes razón, podríamos perder la mejor oportunidad...==W== En ese caso, lo mejor es atraerlos y atraparlos a todos de una vez.
+0023 [Tú] | Bueno, entonces...
+0024 [Tú] | Algo se me ocurre, Ridge...==W== ¿Quieres oírlo?
+0025 [Ridge] | Eh... este...==W== Espere, ¿de verdad vamos a hacer eso...?
+0026 [Ridge] | Es que...==W== sí se siente un poco exagerado...
+0027 [Ridge] | Pero bueno, si es lo que hace falta para atrapar al culpable, ¡vale la pena! Confío en usted, Jefe. ¡Probemos!
+0028 [Ridge] | Traje un montón de las verduras favoritas de los Shrubshrews...==W== ¿Las pongo aquí nada más?
+0029 [Tú] | Sí, pongamos algunas en todos los lugares donde puedan esconderse. Te ayudo.
+0030 [Narración] | Ridge y yo colocamos las verduras como cebo y nos escondemos cerca a esperar.
+0031 [Narración] | Poco después...
+0032 [Sneaky Shrubshrew] | ¿Chillido?
+0033 [Sneaky Shrubshrew] | Chillido, chillido... ¡Chillido, chillido, chillido!
+0034 [Tú] | ¡Eso es! ¡Lo tengo!
+0035 [Ridge] | ¡Sí...! ¡Esta vez no te escapas, horrible ladrón de verduras!
+0036 [Sneaky Shrubshrew] | ¡Chiiillido!
+0037 [Ridge] | ¡Ríndete! ¡Entrega las semillas y todas las verduras, ahora mismo!
+0038 [Narración] | Justo cuando Ridge está por atar al Shrubshrew con una cuerda, varios Shrubshrews más salen disparados del bosque.
+0039 [Tú] | Vaya...==W== ¿Acabamos de alborotar a todo un nido de Shrubshrews? Ridge... ¿Tú también lo notaste...?
+0040 [Upset Shrubshrew] | ¡Chillido,==W== chillido, chillido, chillido...!
+0041 [Worried Shrubshrew] | Chillido, chillido... ¡Chillido, chillido, chillido!
+0042 [Ridge] | ==W==Ya veo...
+0043 [Tú] | ¿Eh? Por fin atrapamos a un Shrubshrew, ¿por qué Ridge bajó la cuerda?
+0044 [Upset Shrubshrew] | Chillido, chillido, chillido...
+0045 [Ridge] | ¿Quieres decir que...==W== robó para su familia?
+0046 [Sneaky Shrubshrew] | ¡Chiiillido!
+0047 [Ridge] | Ya veo, ya veo. Ajá, ahora entiendo.
+0048 [Ridge] | Jefe, unos monstruos malos los echaron de su hogar. Robaron porque no tenían suficiente comida.
+0049 [Ridge] | Dicen que se llevaron las semillas para cultivar las suyas y no volver a pasar hambre...
+0050 [Tú] | De verdad me asombra que entiendas lo que dicen...
+0051 [Ridge] | Dicen que devolverían las verduras y las semillas si dejo ir a su líder.
+0052 [Tú] | Qué bien, así recuperamos las semillas y las verduras.
+0053 [Ridge] | Pues...==W== Es verdad, pero...
+0054 [Tú] | ¿Sí?
+0055 [Ridge] | Estoy pensando en dejarlos ir sin castigo.==W== Y que se queden también con estas verduras.
+0056 [Ridge] | Aunque... aunque hicieron cosas terribles, como robar mis cultivos y destrozar mis parcelas de prueba. Y sentí que era imperdonable...
+0057 [Ridge] | Pero solo intentaban sobrevivir porque no tenían qué comer...==W== Yo sé lo que es pasar hambre mejor que nadie...
+0058 [Ridge] | C-claro, me esforcé muchísimo en cultivar estos productos. Son muy importantes para mí...
+0059 [Ridge] | Regalarlos==W== es, la verdad,==W== ¡¡muy, muy difícil!!
+0060 [Tú] | ¡Qué dilema!
+0061 [Ridge] | ...==W== ¡La mitad! Si solo les doy la mitad, creo que puedo vivir con eso.
+0062 [Tú] | No es mala idea...==W== Pero si solo les das la mitad, quizá no alcance para toda la manada.
+0063 [Ridge] | Ugh...==W== Entonces supongo que se lo daré todo...==W== ¡Ugh...!
+0064 [Ridge] | Muy bien,==W== ¡pueden quedarse con todo!
+0065 [Ridge] | Pero estos son mis productos más preciados,==W== así que deben comérselos hasta el último bocado. ¡Nada de desperdiciar!
+0066 [Shrubshrews] | ¡Chiiillido!
+0067 [Narración] | Los Shrubshrews asienten con entusiasmo ante las palabras de Ridge, luego se dan la vuelta y regresan al bosque. Ridge los ve irse, todavía algo reacia.
+0068 [Tú] | ¿De verdad estás de acuerdo con esto?
+0069 [Ridge] | ¡¿Qué?!
+0070 [Tú] | Odias de verdad que te roben la comida y se te veía muy reacia hace un momento. Entonces, ¿por qué al final se lo diste todo a esos «ladrones»?
+0071 [Ridge] | Porque...==W== No tienen suficiente para comer. Me dieron mucha lástima...
+0072 [Ridge] | Sé lo que es tener hambre. Todos los días sin energía, te sientes miserable y no puedes esperar nada del día siguiente...==W== No quiero volver a sentirme así jamás.
+0073 [Ridge] | Porque yo lo viví. Así que cuando pienso que ellos también sufren, yo...
+0074 [Ridge] | Cultivo todas estas verduras y almaceno tanta comida precisamente porque no quiero que nadie pase hambre. Si les falta comida, quizá esto les ayude a salir de un mal momento.
+0075 [Ridge] | ¡Ah, ya sé! ¿Y si les enseñamos a los Shrubshrews a cultivar?
+0076 [Ridge] | ¡Así siempre tendrán algo de comer y nunca más pasarán hambre!
+0077 [Tú] | Me parece una gran idea...==W== Pero enseñarles a cultivar no será fácil. Parece que estarás ocupada un buen rato.
+0078 [Ridge] | ¿De verdad? ¡Seguro que sale bien!
+0079 [Narración] | Viendo lo segura que se ve Ridge, de pronto siento que de verdad podría convertir a esos Shrubshrews en expertos agricultores.

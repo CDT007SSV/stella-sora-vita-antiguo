@@ -1,0 +1,14 @@
+NOTIFICACIONES PUSH - pasos (una sola vez)
+
+1) Cloudflare (gratis): dash.cloudflare.com -> crea cuenta.
+2) Workers & Pages -> Create -> Create Worker -> nombre: ssv-push -> Deploy.
+   Luego "Edit code", borra todo, pega el contenido de push/worker.js y Deploy.
+3) Workers & Pages -> KV -> Create namespace "ssv-subs".
+   En tu Worker -> Settings -> Bindings -> Add -> KV namespace -> nombre de variable: SUBS -> elige ssv-subs.
+4) En el Worker -> Settings -> Variables and Secrets -> Add -> tipo Secret -> nombre ADMIN_TOKEN -> una clave larga inventada por ti (guardala).
+5) Copia la direccion del Worker (algo como https://ssv-push.TUUSUARIO.workers.dev).
+6) GitHub -> repo de prueba -> Settings -> Secrets and variables -> Actions -> New secret (3):
+   PUSH_WORKER  = la direccion del Worker (sin "/" al final)
+   PUSH_ADMIN   = la misma clave del paso 4
+   VAPID_PRIVADA = el contenido del archivo vapid_PRIVADA.txt (luego borra ese archivo del chat)
+7) Avisale a Claude la direccion del Worker para ponerla en push-config.js.

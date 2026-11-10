@@ -1,0 +1,123 @@
+# Evento · Una tormenta de arena y disparos · 3 · Emor: Display of Power
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Acting Troupe Member | Miembro actor de la compañía
+N:Alert Kid | Niño alerta
+N:Enthusiastic Troupe Member | Miembro entusiasta de la compañía
+N:Excited Kid | Niño emocionado
+N:Noisy Kid | Niño ruidoso
+N:Serious Kid | Niño serio
+N:Thrilled Kid | Niño fascinado
+N:Worried Troupe Member | Miembro preocupado de la compañía
+N:avg1_108 | Kasimira
+N:avg1_114 | Chaton
+N:avg1_132 | Minova
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_102 | Willow
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_169 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_200 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Emor: demostración de poder
+0003 [Intro] | De vuelta en Emor, la Ciudad de los Mil Monolitos, Kasimira una vez dejó que Chaton hiciera una misión sola, pero fue nada parecido a la épica aventura que ella buscaba.
+0004 [Chaton] | ¡Yo...==W== en nombre del antiguo Dios Miau... dicto sentencia!
+0005 [Chaton] | ¡La luna carmesí se alza en lo alto!==W== ¡Las puertas de sangre se abren de par en par!==W== ¡Todo aquel que desafíe al Dios de los Maullidos se hundirá en el abismo maldito!==W==
+0006 [Chaton] | ¡Ojo del Rey Demonio...==W== desata tu poder!==W== ¡Redúcelo todo a cenizas!==W==
+0007 [Acting Troupe Member] | ¡Guaaah==W==...!==W==
+0008 [Noisy Kid] | ¡Acaba con él!
+0009 [Thrilled Kid] | ¡Derríbalo!
+0010 [Acting Troupe Member] | ¡Maldita seas!==W== ¡Toma esto!==W==
+0011 [Chaton] | ¿Crees que un ataque tan débil puede alcanzar a la gran Chaton?==W== ¡Sigue soñando!
+0012 [Chaton] | ¡Este golpe será tu fin!
+0013 [Chaton] | ¡Sé testigo del verdadero poder oscuro!==W== ¡Hyaaaah...!==W==
+0014 [Acting Troupe Member] | ¡Aaargh!==W==
+0015 [Chaton] | ¡Je, je! ¡Ahora ves el poder de la gran Chaton!
+0016 [Noisy Kid] | ¡Yupi! ¡La gran Chaton es increíble...!==W==
+0017 [Narración] | Poco tiempo atrás...
+0018 [Chaton] | Ugh, Kasimira...
+0019 [Chaton] | ¡Después del Colapso, el Monolito debe estar repleto de poder oscuro! ¡Necesito verlo con mis propios ojos!
+0020 [Chaton] | ¡Y en lugar de eso, me pone esta aburrida patrulla del Distrito de las Cenizas! ¡Me menosprecia por completo!
+0021 [Enthusiastic Troupe Member] | No creo que la capitana lo haya dicho con esa intención. Es una situación especial, ¿sabes?
+0022 [Enthusiastic Troupe Member] | Estabas presente cuando Willow dio la explicación, ¿no?
+0023 [Willow] | Eso es todo sobre la situación. Necesitamos su ayuda para barrer la zona en busca de Stellaroids rezagados.
+0024 [Willow] | La Guardia Imperial rara vez tiene personal suficiente para el Distrito de las Cenizas, así que tengan mucho cuidado en la patrulla.
+0025 [Willow] | También necesitamos que otro equipo investigue el interior del Monolito afectado.
+0026 [Willow] | Sin embargo, no tenemos ninguna información sobre lo que hay adentro, lo que vuelve el encargo sumamente peligroso. Por favor, piensen con cuidado la asignación de su personal.
+0027 [Chaton] | ¡Justo por eso debí haber sido yo la que fuera!
+0028 [Chaton] | ¡Un Colapso del Monolito es un evento que ocurre una vez por siglo! ¡Quién sabe cuándo será el siguiente!
+0029 [Chaton] | ¡Podríamos haber barrido el Distrito de las Cenizas cualquier otro día de la semana!
+0030 [Chaton] | Además, llevamos siglos dando vueltas. ¡Aquí no hay ni un solo Stellaroid!
+0031 [Worried Troupe Member] | Pero Willow nos advirtió que el encargo es extremadamente peligroso.
+0032 [Worried Troupe Member] | La capitana debió de tener sus razones para dejarte fuera del equipo.
+0033 [Enthusiastic Troupe Member] | Además, revisar el Distrito de las Cenizas es igual de importante. Cualquier Stellaroid suelto podría causar problemas serios.
+0034 [Enthusiastic Troupe Member] | ¡Pero con la gran Chaton aquí, podemos acabar con ellos rápido y mantener seguro el distrito!
+0035 [Chaton] | ¡Hmph, obvio! ¡Con la gran Chaton al acecho, no hay nada que temer!
+0036 [Enthusiastic Troupe Member] | ¡Esa es la actitud! ¡Sigamos avanzando!
+0037 [Alert Kid] | ¡Oye, tú! ¡¿Qué haces husmeando por aquí?!
+0038 [Serious Kid] | ¡Extraños! ¡Rápido, avisen a la hermana Vollara!
+0039 [Chaton] | ¿Niños...?
+0040 [Enthusiastic Troupe Member] | Tranquilos, no somos nadie sospechoso. Somos la Compañía del Gato Blanco, solo estamos barriendo la zona en busca de Stellaroids rezagados.
+0041 [Serious Kid] | ¿Una compañía? ¿Qué es eso?
+0042 [Alert Kid] | Creo que la hermana Minova los mencionó... Hacen obras de teatro.
+0043 [Serious Kid] | Entonces, ¿van a hacer una obra para nosotros?
+0044 [Chaton] | ¿Qué?
+0045 [Serious Kid] | ¿Esas armas son utilería para una obra? Vaya... Parecen idénticas a las de verdad.
+0046 [Chaton] | ¡¿Utilería?! ¡Esta arma es el máximo símbolo del poder oscuro!
+0047 [Serious Kid] | ¿Poder oscuro...? ¿Qué es eso? ¡Suena genial!
+0048 [Chaton] | ¡Je, je, claro que sí!
+0049 [Serious Kid] | ¿Nos puedes mostrar más? ¿Conoces algún hechizo?
+0050 [Chaton] | Si insisten, la gran Chaton los complacerá... Ejem.
+0051 [Chaton] | ¡Escuchen, patéticos Stellaroids! ¡Soy la gran Chaton, la Asesina de Dioses! ¡Mi ojo izquierdo posee el poder de la oscuridad! ¡Ojo Demoníaco, desata tu poder...!
+0052 [Enthusiastic Troupe Member] | Ejem. Chaton,==W== todavía tenemos una misión que terminar...
+0053 [Serious Kid] | ¡¿Qué?! ¡Pero yo quiero ver más!
+0054 [Alert Kid] | Oye. La hermana Minova dijo que no debemos molestar a la gente.
+0055 [Worried Troupe Member] | Estos niños son pequeños, pero maduros… ¿Quién es esta hermana Minova?
+0056 [Alert Kid] | ¡Minova es la heroína que salvó el Orfanato del Distrito de las Cenizas!
+0057 [Chaton] | El orfanato...
+0058 [Chaton] | Hmph... Ya veo. Así que incluso en los rincones olvidados de esta ciudad siguen surgiendo héroes... Entonces, ¿cómo podría la gran Chaton perder su entrada?
+0059 [Chaton] | ... Muy bien.
+0060 [Chaton] | Ya que ustedes, mortales, ansían una función, ¡les ofreceré el verdadero Teatro de la Oscuridad!
+0061 [Enthusiastic Troupe Member] | ¿Qué? ¿Cómo? Todavía estamos en una misión...
+0062 [Chaton] | ¡Basta de palabras! ¡Comencemos!
+0063 [Enthusiastic Troupe Member] | Eh... ¿En serio? Bueno... Está bien...
+0064 [Kasimira] | Gran trabajo en equipo. Cuesta creer que llevas menos de un año como Trekker.
+0065 [Kasimira] | Con una Trekker como tú en el Distrito de las Cenizas, nuestro futuro está en buenas manos.
+0066 [Minova] | Jaja, me halagas. Aún me falta mucho camino y tengo mucho que aprender de veteranos como tú.
+0067 [Thrilled Kid] | ¡Derríbalo!
+0068 [Acting Troupe Member] | ¡Maldita seas! ¡Toma esto!
+0069 [Chaton] | ¿Crees que un ataque tan débil puede alcanzar a la gran Chaton? ¡Sigue soñando!
+0070 [Kasimira] | Esa voz...
+0071 [Chaton] | ¡Este golpe será tu fin!
+0072 [Chaton] | ¡Sé testigo del verdadero poder oscuro!==W== ¡Hyaaaah...!==W==
+0073 [Acting Troupe Member] | ¡Aaargh!==W==
+0074 [Chaton] | ¡Je, je! ¡Ahora ves el poder de la gran Chaton!
+0075 [Noisy Kid] | ¡Eso estuvo genial! ¡La gran Chaton es increíble...!
+0076 [Excited Kid] | ¡Guau! ¡No sabía que las obras eran tan divertidas!
+0077 [Alert Kid] | ¡Estuvo buenísimo! ¡Qué espectáculo!
+0078 [Chaton] | ¡Je, je, naturalmente!
+0079 [Kasimira] | Un excelente espectáculo.==W== Cumpliste el encargo y además diste una función de éxito.
+0080 [Chaton] | ¿Eh?
+0081 [Chaton] | ¡¿Kasimira?!
+0082 [Minova] | ¿Ella viene contigo? Fue todo un show. Hasta yo me dejé llevar.
+0083 [Thrilled Kid] | ¡Minova!
+0084 [Chaton] | ¿Y tú quién eres...?
+0085 [Minova] | Soy Minova, líder del Clan Viento de Ceniza. Y por ahora...==W== Trekker de medio tiempo.
+0086 [Kasimira] | Minova también estaba haciendo un encargo de exploración de Monolitos. Así nos conocimos.
+0087 [Chaton] | Hmph...==W== ¡no, espera! ¡Olvida eso! ¡Kasimira! ¿Por qué me endosaste una misión tan aburrida? ¡No he visto ni uno solo de esos Stellaroids rezagados!
+0088 [Minova] | Ah, sobre eso. El equipo del Jefe y yo limpiamos los Stellaroids de por aquí hace mucho. Seguramente tu encargo fue la Asociación de Trekkers ordenando un último barrido, por si acaso.
+0089 [Chaton] | ¿En serio?
+0090 [Minova] | De todos modos, gracias por dar esa función a los niños del Distrito de las Cenizas. No vemos espectáculos así muy seguido por aquí.
+0091 [Chaton] | ¡Oh! N-No tienen que agradecerme... ¡Mientras se hayan divertido, el viaje valió la pena!
+0092 [Kasimira] | Es hora de reunirnos con los demás. Vámonos, Chaton.
+0093 [Minova] | ¿Ya se van? Si algún día regresan por aquí, déjenme agradecerles como se debe.
+0094 [Serious Kid] | ¡Prométeme que volverás, Chaton!
+0095 [Excited Kid] | ¡Muéstranos ese movimiento increíble una última vez!
+0096 [Chaton] | ¡Je, je! ¡Por supuesto!==W== Cuando sus corazones rebosen de poder oscuro...==W== ¡regresaremos!
+0097 [Chaton] | ¡Hasta que nos volvamos a ver!

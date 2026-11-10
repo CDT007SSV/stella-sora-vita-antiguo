@@ -1,0 +1,84 @@
+# Recuerdo de disco · Sword Against Stream · 1 · Sword Against Stream
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Passerby | Transeúnte curioso
+N:Interested Resident | Residente interesado
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_170 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Espada contra la corriente
+0003 [Intro] | Chitose y tú llegan a unas aguas termales Tanikaze de temporada limitada, que le recuerdan a Chitose su tierra natal…
+0004 [Tú] | Suspiro... Últimamente he subido al Monolito demasiado seguido. Solo quiero relajarme por una vez...
+0005 [Tú] | ¿Por qué hay tanta gente alrededor de ese tablón de avisos? ¿Algún evento?
+0006 [Curious Passerby] | Experiencia de aguas termales de temporada limitada de Goodwind Homecare: los esperamos con gusto...==W== ¿Goodwind Homecare? ¿Has oído hablar de ellos?
+0007 [Interested Resident] | Ni idea. Por el nombre suena a una empresa de limpieza del hogar. ¿Por qué administran unas aguas termales?
+0008 [Tú] | Recuerdo que Goodwind Homecare la dirige un grupo de ninjas. Esto debe de ser alguna misión especial...
+0009 [Chitose] | Mi ==SEX11==, ¿qué está mirando?
+0010 [Tú] | ¡Uwah! ¿¡Chitose!? ¿Cuándo te pusiste detrás de mí?
+0011 [Chitose] | Desde el momento en que entró al Mercado, he estado a su espalda. Como su espada, es natural que lo acompañe y proteja.
+0012 [Tú] | O sea que Chitose me ha estado siguiendo todo este tiempo... ¿Mi percepción es tan mala, o ella es demasiado buena para el sigilo...?
+0013 [Chitose] | Experiencia de aguas termales de Goodwind... Mi ==SEX11==, ¿le interesa ir a unas aguas termales?
+0014 [Tú] | Sí, más o menos. Últimamente estoy agotado.
+0015 [Tú] | Ahora que lo pienso, tú eres de Goodwind, ¿verdad? Debes de saberlo todo sobre aguas termales.
+0016 [Chitose] | En el pasado, en mi tierra natal, entrenaba a menudo en aguas termales para fortalecerme.
+0017 [Tú] | ¿Entrenar ... en las aguas termales? ¿Entrenabas mientras te remojabas?
+0018 [Chitose] | Sí. Mis «Padres» y mi «Maestro» fueron templados en hornos ardientes antes de convertirse en espadas. Yo también debo ir elevando poco a poco la temperatura de mi entrenamiento si algún día quiero ser verdaderamente su espada.
+0019 [Tú] | O sea que para ella, bañarse en aguas termales es una forma de forja...
+0020 [Tú] | Espera. ¿Elevar la temperatura?
+0021 [Chitose] | Sí. Ya estoy acostumbrada a entrenar en una poza caliente. Así afino mi resistencia.
+0022 [Tú] | Una poza caliente, eh... Suena doloroso...
+0023 [Chitose] | ¡Mi ==SEX11==! ¡Tengo una propuesta! ¡Si entrenamos juntos en las aguas termales, seguramente alcanzaremos aún más rápido el estado de Unidad!
+0024 [Tú] | Bueno, ya que iba a darme un remojo de todos modos, probemos.
+0025 [Chitose] | ¡Entonces partamos de inmediato!
+0026 [Tú] | Esta debe de ser la entrada de las aguas termales de Goodwind Homecare. Parece que somos los primeros clientes.
+0027 [Tú] | Pero no hay nadie en la puerta para recibirnos... No me digas que es una trampa.
+0028 [Chitose] | No tiene de qué preocuparse. Si hay algún peligro aquí, lo percibiré.
+0029 [Chitose] | Además, el letrero dice «aguas termales sin personal, de autoservicio». En cuanto echemos la cuota en la caja, podremos entrar.
+0030 [Tú] | Ah, ya veo. Entonces entremos.
+0031 [Chitose] | Sí, mi ==SEX11==.
+0032 [Tú] | Qué bien tener a alguien que conoce las aguas termales conmigo...
+0033 [Tú] | Guau, el interior es precioso. Tranquilo y apacible, no lo que esperaba.
+0034 [Chitose] | Por aquí, por favor, mi ==SEX11==.
+0035 [Tú] | Pareces conocer muy bien este lugar. ¿Has estado aquí antes?
+0036 [Chitose] | No. Pero se parece mucho al sitio donde viví. Aunque nunca haya puesto un pie aquí, sé adónde ir.
+0037 [Tú] | ¿Así que vivías en un patio elegante como este?
+0038 [Chitose] | Sí, aunque era mucho más grande.
+0039 [Tú] | ¡Así que vienes de una gran casa!
+0040 [Chitose] | Mi ==SEX11==, hay algo que quiero saber de usted.
+0041 [Tú] | Adelante. Si puedo responder, lo haré.
+0042 [Chitose] | ¿Extraña alguna vez su tierra natal?
+0043 [Tú] | Supongo que ver este lugar le da nostalgia.
+0044 [Tú] | Perdón... Realmente no tengo recuerdos de una tierra natal. Así que es difícil responder.
+0045 [Tú] | Pero... Estar lejos tanto tiempo, sin compañía... Creo que puedo entender esa soledad.
+0046 [Chitose] | ... Perdóneme. Partí decidida a encontrar a mi portador, y aquí sigo, distraída por la nostalgia.
+0047 [Chitose] | Como usted es mi portador, dondequiera que esté, ahí está mi lugar.
+0048 [Tú] | No, no. Eso no es una simple distracción. Extrañar el hogar es de lo más humano.
+0049 [Tú] | Pensándolo bien, nunca he sabido mucho de tu tierra natal.
+0050 [Tú] | Chitose, ¿quizá algún día podamos visitar juntos tu tierra natal?
+0051 [Chitose] | ¡Por supuesto! ¡Sería un honor y haré todo lo posible por cumplir su deseo!
+0052 [Tú] | Espero con ganas ese día. Pero ahora, ¿qué tal ese remojo?
+0053 [Chitose] | ¡Por supuesto! Por aquí, por favor, mi ==SEX11==.
+0054 [Tú] | ¿H-hey, Chitose? ¿¡Qué haces...!?
+0055 [Chitose] | Me estoy cambiando... ¿Sucede algo?
+0056 [Chitose] | No puedo entrar a las aguas termales vestida así...
+0057 [Tú] | ¿Eh?==W== ¿De verdad te vas a cambiar aquí? Entonces usaré la otra habitación...
+0058 [Chitose] | ¡NO!
+0059 [Tú] | ¿Eh? ¿Por qué no?
+0060 [Chitose] | Quitarse la ropa es quedar completamente indefenso. ¿Y si un asesino aprovecha la ocasión para atacarlo?
+0061 [Chitose] | Como su espada, ¡debo permanecer siempre a su lado, protegiéndolo!
+0062 [Tú] | ¿Quién me atacaría aquí? Además, ¿no acabas de decir que era seguro?
+0063 [Chitose] | ¡Aun así no!
+0064 [Tú] | ... ¿Y ahora por qué no?
+0065 [Chitose] | ¡Nunca debe bajar la guardia, ni siquiera en un entorno seguro! ¡Y como su espada, debo vigilar en su lugar!
+0066 [Tú] | Uf... No cede ni un poquito.
+0067 [Narración] | Tras no sé cuántas rondas de ir y venir,==W== por fin accedió a colocar un biombo para que nos cambiáramos de espaldas.
+0068 [Narración] | Pero al final, igual no pude entrar a la poza caliente con ella...==W== Porque el agua en la que Chitose quería entrenar estaba muchísimo, muchísimo demasiado hirviendo para mí.

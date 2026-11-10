@@ -1,0 +1,196 @@
+# Heartlink de Suntide Willow: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Suntide Willow] | Ya nos agregamos, ¿verdad?
+A01.0002 [Suntide Willow] | Avísame si alguna vez necesitas una mano con lo que sea
+A01.0003 [Opción] | ¿Con lo que sea?
+A01.0004 [Suntide Willow] | Vale, quizá no sea una forma muy precisa de decirlo
+A01.0005 [Suntide Willow] | Dentro de las competencias de la Asociación de Trekkers, haré todo lo posible por ayudarte
+A01.0006 [Suntide Willow] | En cuanto a lo que no pueda...
+A01.0007 [Suntide Willow] | Si hay alguien a quien pueda contactar para apoyarte, no te dejaré lidiar con ello a solas
+A01.0008 [Tú] | ¡Qué confiable eres, Willow!
+
+## Conversación A02
+A02.0001 [Suntide Willow] | A juzgar por las nubes de esta tarde, quizá llueva mañana
+A02.0002 [Suntide Willow] | Si mal no recuerdo, dijiste que querías salir en bote al mar mañana, ¿verdad?
+A02.0003 [Suntide Willow] | ¿Quizá convenga elegir otro día?
+A02.0004 [Opción] | ¿De verdad va a estar tan mal el clima?
+A02.0005 [Opción] | ¿Pero es solo lluvia...?
+A02.0006 [Suntide Willow] | Si mi experiencia sirve de algo, va a caer un diluvio
+A02.0007 [Suntide Willow] | Puedes volver a revisar mañana por la mañana
+A02.0008 [Suntide Willow] | Pero si las nubes no se han despejado, no te empeñes
+A02.0009 [Suntide Willow] | El mar puede ser muy peligroso en un día de lluvia
+A02.0010 [Suntide Willow] | La lluvia trae inevitablemente viento y oleaje
+A02.0011 [Suntide Willow] | Y nadas fatal
+A02.0012 [Suntide Willow] | Si pasa algo, no podrás valerte por ti mismo.
+A02.0013 [Tú] | Willow... Qué dura eres...
+A02.0014 [Suntide Willow] | ¡Claro que sí! ¡Esto no es cosa de broma!
+A02.0015 [Tú] | Sí, entiendo lo que dices.
+A02.0016 [Tú] | ¡Gracias por el aviso!
+
+## Conversación A03
+A03.0001 [Suntide Willow] | Hace rato, en la playa, la gente atrapó un enorme gusano de arena
+A03.0002 [Suntide Willow] | Uno de los niños se asustó tanto que se puso a llorar
+A03.0003 [Tú] | Vaya... Eso suena aterrador
+A03.0004 [Suntide Willow] | Los gusanos de arena en realidad son deliciosos, ¿sabes?
+A03.0005 [Suntide Willow] | En Sailstead, cada vez que bajaba la marea, nos encantaba ir a la orilla con cubetas y palas a recolectar
+A03.0006 [Suntide Willow] | Una vez, Leafia desenterró una cubeta entera llena solo de gusanos de arena
+A03.0007 [Tú] | Por favor, para ... ya me lo estoy imaginando...
+A03.0008 [Tú] | De verdad hace pensar: ¿qué pasaría por la mente de la primera persona que se comió un gusano de arena?
+A03.0009 [Suntide Willow] | Quizá pensó: «¿Y si sabe rico?»
+A03.0010 [Suntide Willow] | Nunca has probado uno, ¿verdad?
+A03.0011 [Suntide Willow] | La próxima vez te llevo a probar
+A03.0012 [Tú] | ¡¿Tengo que hacerlo?!
+A03.0013 [Tú] | Vale, si tú lo dices...
+A03.0014 [Suntide Willow] | ¡No pongas cara de que vas camino a la muerte!
+A03.0015 [Suntide Willow] | Son de verdad deliciosos. ¡Confía en mí!
+
+## Conversación A04
+A04.0001 [Suntide Willow] | Hoy terminé el trabajo temprano
+A04.0002 [Suntide Willow] | Entonces, ¿qué sigue?
+A04.0003 [Opción] | ¡Date el gusto de una buena comida!
+A04.0004 [Opción] | ¡Ve a darte un baño caliente y relájate!
+A04.0005 [Suntide Willow] | Mmm... No se me antoja nada en especial últimamente
+A04.0006 [Suntide Willow] | ¿Alguna idea?
+A04.0007 [Tú] | ¿Parrilla? ¿Hot pot? ¿Sashimi de mariscos?
+A04.0008 [Suntide Willow] | El hot pot no es algo que uno coma solo
+A04.0009 [Suntide Willow] | ¿Estás libre esta tarde?
+A04.0010 [Suntide Willow] | ¿Quizá podríamos ir juntos por hot pot esta noche?
+A04.0011 [Tú] | ¡Claro! Conozco un lugar buenísimo.
+A04.0012 [Sistema] | Compartiste una ubicación.
+A04.0013 [Suntide Willow] | ¡Nos vemos pronto, entonces!
+A04.0014 [Suntide Willow] | Una buena idea, sin duda
+A04.0015 [Suntide Willow] | Pero aún es bastante temprano. ¿Qué debería hacer esta noche después de eso?
+A04.0016 [Suntide Willow] | Ah, por cierto
+A04.0017 [Suntide Willow] | Creo que esta noche hay un baile de fogata en la playa. ¿Quieres ir a verlo conmigo?
+A04.0018 [Tú] | ¡Claro! ¿Dónde nos vemos?
+A04.0019 [Sistema] | Willow compartió una ubicación.
+A04.0020 [Suntide Willow] | Te espero aquí
+A04.0021 [Tú] | ¡Entendido!
+
+## Conversación A05
+A05.0001 [Suntide Willow] | ¿Estás libre ahora? ¿Podría pedirte un favor?
+A05.0002 [Tú] | ¿Qué pasa?
+A05.0003 [Suntide Willow] | Creo que a mi brazo se le está acabando la energía
+A05.0004 [Suntide Willow] | Pero no puedo despegarme del trabajo ahora. ¿Podrías ayudarme a buscar a Bloc?
+A05.0005 [Tú] | Claro que sí
+A05.0006 [Suntide Willow] | Por cierto, si te topas con esa gente del Imperio de la Gracia...
+A05.0007 [Suntide Willow] | Cambia de ruta y evítalos
+A05.0008 [Tú] | ¿Por qué?
+A05.0009 [Suntide Willow] | Bueno... Comprar y vender Neo Solution es algo que más vale mantener discreto
+A05.0010 [Tú] | Eh... Cierto...
+A05.0011 [Suntide Willow] | Además, Bloc debería estar en la pastelería esta tarde
+A05.0012 [Suntide Willow] | Su pastel es de primera
+A05.0013 [Suntide Willow] | Quizá quieras probarlo
+A05.0014 [Tú] | ¡Entonces te traigo uno a ti también!
+A05.0015 [Suntide Willow] | ¿Eh?
+A05.0016 [Tú] | ¡Déjamelo a mí!
+A05.0017 [Suntide Willow] | Gracias de antemano, entonces
+
+## Conversación A06
+A06.0001 [Suntide Willow] | Ah, cierto, hay algo que quiero decirte...
+A06.0002 [Sistema] | Willow retiró un mensaje.
+A06.0003 [Sistema] | Willow retiró un mensaje.
+A06.0004 [Sistema] | Willow retiró un mensaje.
+A06.0005 [Opción] | ¿¿¿¿Qué pasó????
+A06.0006 [Suntide Willow] | Pensándolo bien... Olvídalo
+A06.0007 [Suntide Willow] | No le hagas caso
+A06.0008 [Tú] | ¡¡¡No puedes dejarme así con la duda!!!
+A06.0009 [Tú] | ¡¿Qué ibas a decirme?!
+A06.0010 [Tú] | Si no me lo dices voy a estar pensando en ello toda la noche y luego no voy a pegar un ojo y me quedaré mirando el techo hasta la mañana y luego me presentaré en tu oficina con ojeras y me quedaré mirándote
+A06.0011 [Suntide Willow] | ...
+A06.0012 [Suntide Willow] | Eso sí suena bastante aterrador
+A06.0013 [Suntide Willow] | Solo quería preguntar si nuestro plan de ir a surfear sigue en pie
+A06.0014 [Tú] | ¿Pues claro?
+A06.0015 [Tú] | Es solo que has tenido muchísimo trabajo estos últimos días
+A06.0016 [Tú] | Pensaba preguntártelo este fin de semana
+A06.0017 [Suntide Willow] | Cierto. Siempre cumples tus promesas
+A06.0018 [Suntide Willow] | Bueno, entonces olvídalo. Vamos el próximo fin de semana. ¡Nos vemos entonces!
+A06.0019 [Tú] | ¡Yupi! ¡Ya tengo ganas!
+
+## Conversación A07
+A07.0001 [Suntide Willow] | ==PLAYER_NAME==, ¿sigues con los ojos abiertos?
+A07.0002 [Opción] | ¡Acabo de acostarme!
+A07.0003 [Opción] | ¡Trasnochando!
+A07.0004 [Tú] | ¿Qué pasa?
+A07.0005 [Tú] | Eh, no vienes a hacer una revisión sorpresa para ver si me desvelo, ¿verdad?
+A07.0006 [Suntide Willow] | ¿Eso piensas de mí?
+A07.0007 [Tú] | No, no. Es broma.
+A07.0008 [Tú] | ¿Qué pasó, entonces?
+A07.0009 [Suntide Willow] | Nada, en realidad. Es que de pronto me puse a pensar en algunas cosas en plena noche
+A07.0010 [Suntide Willow] | Horizon me dijo hoy que un Trekker presentó una queja contra mí, diciendo que no hice lo suficiente por ayudarlo
+A07.0011 [Suntide Willow] | No tenía ni pies ni cabeza, y Horizon ya desestimó la queja, pero...
+A07.0012 [Tú] | Ay, por favor... ¡Pero no es tu culpa en absoluto, Willow!
+A07.0013 [Tú] | ¡Quien hace exigencias irrazonables es quien debería avergonzarse!
+A07.0014 [Suntide Willow] | Lo sé, pero cuando lo recordé de repente hace un rato...
+A07.0015 [Suntide Willow] | Me siento un poco decaída por eso...
+A07.0016 [Suntide Willow] | Aun así, decirlo en voz alta me ha hecho sentir mucho mejor
+A07.0017 [Suntide Willow] | O sea, no soy una superheroína. Es normal sentir algo cuando pasa algo así, ¿no?
+A07.0018 [Tú] | Claro. Eso es simplemente una emoción humana normal.
+A07.0019 [Suntide Willow] | Creo que ya lo he aceptado. Hay tanta gente en el mundo, y algunas simplemente nunca van a quererme
+A07.0020 [Suntide Willow] | Mientras sepa que no hice nada malo, eso basta
+A07.0021 [Suntide Willow] | Gracias, ==PLAYER_NAME==
+
+## Conversación A08
+A08.0001 [Suntide Willow] | Acabo de recordar... ¿no teníamos planes hoy?
+A08.0002 [Suntide Willow] | Perdón, han pasado tantas cosas que creo que me confundí
+A08.0003 [Suntide Willow] | Pero sí recuerdo haber prometido tener hoy libre para ti... Era hoy, ¿verdad?
+A08.0004 [Tú] | ¡Sip, es hoy!
+A08.0005 [Tú] | ¿Pero no recuerdas qué día es hoy?
+A08.0006 [Suntide Willow] | ¿Qué día es?
+A08.0007 [Suntide Willow] | ¿Es un feriado oficial?
+A08.0008 [Tú] | Nop
+A08.0009 [Tú] | ¡Te daré una pista!
+A08.0010 [Tú] | Es un día con flores y regalos
+A08.0011 [Suntide Willow] | ¿¿¿???
+A08.0012 [Suntide Willow] | Ah, ya entiendo. Y además de eso, también hace falta pastel, ¿verdad?
+A08.0013 [Tú] | ¡Bingo!
+A08.0014 [Tú] | ¡Feliz cumpleaños!
+A08.0015 [Suntide Willow] | Lo olvidé por completo...
+A08.0016 [Suntide Willow] | Pero gracias por recordarlo por mí
+A08.0017 [Tú] | Entonces dejemos el trabajo de lado hoy y vamos a relajarnos como se debe~
+A08.0018 [Suntide Willow] | Entendido. Entonces espérame un ratito, por favor
+A08.0019 [Suntide Willow] | Nos vemos pronto~
+
+## Conversación A09
+A09.0001 [Suntide Willow] | ==PLAYER_NAME==
+A09.0002 [Suntide Willow] | ==PLAYER_NAME==. ¿Ya abriste los ojos?
+A09.0003 [Suntide Willow] | No me digas que olvidaste nuestra clase de natación de hoy
+A09.0004 [Tú] | ¡¡No!!
+A09.0005 [Tú] | Ya desperté. ¡Solo me estaba lavando los dientes!
+A09.0006 [Suntide Willow] | Pensé que quizá me estabas ignorando a propósito para librarte del entrenamiento
+A09.0007 [Tú] | ...
+A09.0008 [Tú] | ¿Cómo lo supiste? La idea sí me cruzó por la cabeza al despertar
+A09.0009 [Suntide Willow] | ¿De verdad crees que todavía no te conozco?
+A09.0010 [Suntide Willow] | Bien, ve a prepararte
+A09.0011 [Suntide Willow] | Asegúrate de no olvidar nada y acuérdate de desayunar
+A09.0012 [Tú] | ¡Sí, sí, ya entendí!
+A09.0013 [Tú] | Eres como una mamá preocupona, Willow...
+A09.0014 [Suntide Willow] | ¡Me preocupo tanto solo porque eres tú!
+A09.0015 [Suntide Willow] | En serio, alguien tuvo que presentarse a la clase de natación la última vez sin siquiera traer traje de baño
+A09.0016 [Tú] | ...
+A09.0017 [Tú] | Perdón. Fue culpa mía.
+A09.0018 [Suntide Willow] | Ahora apúrate y prepárate. ¡Te espero en la playa!
+A09.0019 [Suntide Willow] | ¡No te escapes a último minuto!
+
+## Conversación A10
+A10.0001 [Suntide Willow] | Siento que he oído esta melodía en algún lado
+A10.0002 [Suntide Willow] | ¿Fue dentro del Monolito? O...
+A10.0003 [Suntide Willow] | Qué extraño. Siento que hay un recuerdo borroso en algún rincón de mi mente...
+A10.0004 [Tú] | ¡¿Estás bien?!
+A10.0005 [Suntide Willow] | Estoy bien. Es solo que, al escuchar esta melodía, siento que estoy recordando algo
+A10.0006 [Suntide Willow] | Pero lo único que vagamente recuerdo es cómo me sentía en aquel entonces
+A10.0007 [Suntide Willow] | Dolor. Frustración...
+A10.0008 [Suntide Willow] | ¿Habré olvidado algo importante?
+A10.0009 [Tú] | ¡Si te duele, no te fuerces!
+A10.0010 [Tú] | Quizá no debí dártelo...
+A10.0011 [Suntide Willow] | No. De hecho, debería darte las gracias
+A10.0012 [Suntide Willow] | Me recuerda que aparentemente he olvidado un recuerdo muy importante
+A10.0013 [Suntide Willow] | Olvidar es una forma de traición contra uno mismo. Aunque ese recuerdo sea doloroso, creo que debería intentar encontrarlo de nuevo
+A10.0014 [Tú] | ¡Entonces déjame acompañarte!
+A10.0015 [Tú] | Cuando lo recuerdes, sea doloroso o feliz...
+A10.0016 [Tú] | Enfrentémoslo juntos.
+A10.0017 [Suntide Willow] | Lo haré. Lo prometo

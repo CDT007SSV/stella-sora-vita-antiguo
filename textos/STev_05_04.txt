@@ -1,0 +1,119 @@
+# Evento · Para ti, mi persona más querida · 4 · Encuentro con el ladrón de cartas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Howard | Howard
+N:Treasure Hunter | Cazatesoros
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_990 | Miembro del Viento de Ceniza
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_211 | Líder de los cazatesoros
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Encuentro con el ladrón de cartas
+0003 [Intro] | Siguiendo la información de Teresa, rastrean el correo desaparecido. En la calle, se topan con los cazatesoros de antes, que ahora recogen cartas viejas. Freesia desenfunda su arma al instante…
+0004 [Howard] | ... Después de tanto tiempo, quizá algunas cosas es mejor dejarlas enterradas.
+0005 [Narración] | Mira el sobre fijamente, sopesándolo en la mano.
+0006 [Narración] | Los jóvenes Trekkers le habían entregado una reliquia: una carta desgastada por décadas de silencio.
+0007 [Narración] | Seguro es de la persona que he intentado sacar de mi mente... No necesito ni abrirla para saber quién es.
+0008 [Narración] | Leerla solo reabrirá viejas heridas. Pero no logro simplemente tirarla. Qué carga...
+0009 [Howard] | Ojalá alguien me quitara esto de encima...
+0010 [Narración] | Es como si el universo escuchara su deseo...
+0011 [Freesia] | La carta... ¡¿Desapareció...?!
+0012 [Donna] | Teresa, cuéntanos qué pasó.
+0013 [Teresa] | Mm... Como pediste, Donna, vigilé el lugar y estuve pendiente del señor Howard un rato...
+0014 [Teresa] | El señor Howard entró...==W== ¡Llevaba el sobre, así que la entrega de Donna fue un éxito!
+0015 [Teresa] | Pero no lo abrió. Solo lo dejó en el alféizar de la ventana... Ojalá no lo haya tirado...
+0016 [Teresa] | Bostezo...==W== no, no, no. ¡El trabajo no ha terminado! No puedo dormirme ahora...
+0017 [Teresa] | Mmm... Pero me he desvelado demasiado... con tantos encargos últimamente...==W== No... Tengo... que... mantenerme... despierta...
+0018 [Teresa] | Zzz... Zzz...
+0019 [Teresa] | ¡Gah...! ¡¿Qué?! ¡¿Qué pasa?! ¡¿Qué fue ese ruido...?!
+0020 [Teresa] | ¡¿De verdad me quedé dormida?!==W== Ah, es cierto, la carta...
+0021 [Teresa] | ¡¿Eh...?!
+0022 [Narración] | La ventana, bien cerrada, tenía un gran agujero, y la carta del alféizar se había esfumado en el aire.
+0023 [Teresa] | ¡¿Qué acaba de pasar?! ¿Estará bien el señor Howard...?==W== ¿Hm?
+0024 [Treasure Hunter] | ¡Espera, jefa! ¡Vas demasiado rápido!
+0025 [Treasure Hunter Leader] | ¡Deja de perder el tiempo! Tenemos que movernos antes de que alguien más se lleve las cartas...
+0026 [Teresa] | ¿Las cartas...?
+0027 [Teresa] | Vi a ese grupo correr hacia el puerto. Algo en ellos me pareció raro...
+0028 [Teresa] | Pero me preocupaba el señor Howard... Cuando fui a ver cómo estaba y volví a mirar, ya los había perdido...==W== Al menos él parecía ileso.
+0029 [Donna] | Cierto... Bueno, qué alivio.
+0030 [Donna] | Teresa... ¿Te fijaste si había una chica con ellos? ¿Con un pañuelo en la cabeza y una mochila enorme?
+0031 [Teresa] | ¡Sí! ¡La vi!==W== ¡Llevaba una bolsa gigante, casi de su tamaño!
+0032 [Donna] | ¡Lo sabía...!==W== Tienen que ser ellos... Ese mismo grupo de la otra vez que buscaba la carta.
+0033 [???] | Oye. Tú.
+0034 [Donna] | ¿Yo? ¿Qué pasa?
+0035 [???] | ¿Has visto una carta vieja por aquí? Tiene algo duro adentro.
+0036 [Donna] | Dijeron que eran mensajeros voluntarios, igual que nosotras...
+0037 [Freesia] | ¡Pero era claramente mentira... Eran unos bribones que planeaban robar la carta desde el principio!
+0038 [Teresa] | ¡Perdón! Si hubiera puesto más atención, nada de esto habría pasado...
+0039 [Donna] | Oye, tranquila. Entrar en pánico no arregla nada. Necesitamos un plan.
+0040 [Donna] | Primero que nada: dar con esos «ladrones de cartas».
+0041 [Iris] | Un momento. No pensarás pelear con ellos de verdad, ¿o sí?
+0042 [Tú] | Hasta rompieron ventanas para entrar a la fuerza... ¿No son un poco peligrosos?
+0043 [Donna] | ¡Post Haste tiene un solo trabajo: que cada carta llegue sana y salva a manos del destinatario!
+0044 [Donna] | Incluso cuando las personas están a kilómetros de distancia, una carta mantiene viva su conexión... Cuando alguien escribe una carta, vuelca su corazón en el papel.
+0045 [Donna] | Juro por mi nombre de mensajera que recuperaré esa carta tan importante. ¡La recuperaré y la entregaré como se debe!
+0046 [Tú] | Donna...
+0047 [Donna] | ¡Además! ¡Si se corre la voz de que «Post Haste perdió una carta en el Puerto Bellin», nuestra marca está acabada!
+0048 [Donna] | Ahora nos encargamos de casi todas las entregas locales. ¡No puedo permitir que duden de nuestra competencia!==W== ¡En nombre de Post Haste, tengo que arreglar esto!
+0049 [Teresa] | ¡Contigo!
+0050 [Freesia] | Yo también.==W== Robar cartas privadas es sencillamente imperdonable.
+0051 [Donna] | Dicho esto, esto no estaba en el trato...==W== Hagamos esto: Post Haste dará caza a los ladrones.==W== La Nueva Estrella se queda aquí y clasifica el atraso. ¿Les parece justo?
+0052 [Noya] | ¡No te hagas la ajena! Si van a cazar a alguien, necesitarán toda la ayuda posible.
+0053 [Iris] | Nuestro contrato es asistir en el trabajo de Post Haste. Si recuperar una carta perdida cuenta como deber, entonces, técnicamente, estamos obligados a ayudar.
+0054 [Donna] | Pero podría ponerse feo... No debería arrastrar a todo su gremio a esto...
+0055 [Amber] | Se me da mejor castigar a los malos.
+0056 [Tú] | Todos estamos dentro. Hagámoslo juntos.
+0057 [Donna] | Ustedes...
+0058 [Donna] | Ya que lo ponen así... ¡Acepto su oferta!
+0059 [Noya] | ¡Muy bien, está decidido! ¡Vamos a atrapar ladrones!
+0060 [Tú] | Donna y Teresa dijeron que uno de los ladrones era... «Una chica con una mochila de su tamaño», ¿verdad?
+0061 [Tú] | Espera... Eso me suena. He visto a una chica así... ¿Dónde fue?
+0062 [???] | ¡Gah!
+0063 [Tú] | P-Perdón, ¿estás bien?
+0064 [Treasure Hunter Leader] | ¡Oye! ¡Fíjate por dónde andas! ¡Casi me tiras todo el equipo!
+0065 [Tú] | Ah.
+0066 [Treasure Hunter Leader] | Je, je... Muy agradecida por abrirnos el camino. Tendrán que perdonar nuestra entrada sin invitación.
+0067 [Treasure Hunter Leader] | ¡C-Cállense!==W== ¡Chicos, escúchenme! ¡Todavía tengo un viejo mapa del tesoro! Vamos ahora. ¡Esta vez seguro volvemos ricos!
+0068 [Tú] | ¡Eres tú...! ¡De la isla de la Ballena Hexcuerno...!
+0069 [Treasure Hunter Leader] | ¡¡¡AAAAH!!! ¡¡ESA CARA!! ¡Reconocería ese rostro...!
+0070 [Donna] | Jefe, ¿qué pasa...?==W== ¡Ah, es ella!
+0071 [Tú] | Así que de verdad eres la culpable...
+0072 [Treasure Hunter Leader] | ¡¿«Culpable»?! ¿Qué significa eso?
+0073 [Donna] | ¿Eh? Jefe, ¿conoces a esta persona?
+0074 [Tú] | Para resumir, tenemos historia...
+0075 [Tú] | ¿Por qué robaste la carta?
+0076 [Treasure Hunter Leader] | Eh... ¿Carta?
+0077 [Treasure Hunter Leader] | ¡Oigan, ustedes! Ya nos conocemos, ¿no? Estamos...==W== ¡repartiendo cartas gratis! ¡Eso es, solo ayudando!
+0078 [Treasure Hunter Leader] | Además, ¡soy una Trekker que recorre el continente en busca de tesoros legendarios, una mujer de grandes ambiciones! ¡No como esos ladronzuelos, ojo!
+0079 [Treasure Hunter] | ¡¡¡Guaaau!!! ¡Jefa, qué genial eres!
+0080 [Freesia] | Tu bolsa está casi llena; debes de haber tomado muchos trabajos, y aun así nunca habíamos oído hablar de ustedes, aunque somos del mismo ramo.
+0081 [Treasure Hunter] | ¡Jefa! ¡Acabo de recoger esta carta...! ¿Queda espacio en tu bolsa?
+0082 [Treasure Hunter Leader] | ¡Idiota! ¡Cállate...!
+0083 [Donna] | ¿«Recoger»...?
+0084 [Freesia] | Así que en realidad no las contrataron para entregarlas.
+0085 [Treasure Hunter Leader] | Tsk. Bueno, se acabó el teatro...
+0086 [Treasure Hunter Leader] | ¡Sí, tienen razón! ¡Las cartas de mi bolsa son nuestros boletos al tesoro!
+0087 [Treasure Hunter Leader] | ¡La leyenda dice que hay un mapa del tesoro escondido dentro de un sobre viejo como ese! ¡Nos hemos partido el lomo buscando una pista así por todas partes!
+0088 [Treasure Hunter Leader] | ¿Le llaman robar? No me hagan reír. En el negocio de los cazatesoros, la única regla es «lo que encuentras, es tuyo».
+0089 [Treasure Hunter Leader] | ¡Lo encontramos, así que es nuestro! ¡Y no pienso entregárselo a nadie!
+0090 [Freesia] | Incorrecto. Una carta pertenece a la persona a quien va dirigida. Ningún extraño tiene derecho a tomarla. Sin excepciones.
+0091 [Freesia] | Robaste más que papel. Robaste el corazón y el alma de alguien.
+0092 [Treasure Hunter Leader] | ¿«Corazón y alma»? ¡Miren esta cosa hecha trizas! ¡Claramente la tiraron porque nadie la quería! ¡Si es basura, está al alcance de cualquiera!
+0093 [Treasure Hunter Leader] | Oigan, un momento... ¡¿Por qué imitan mi forma de hablar?! ¡Me están robando toda mi imagen de marca!
+0094 [Freesia] | Basta de palabras. Dejaré que mi Filo de la Razón comunique el resto.
+0095 [Freesia] | Este duelo resolverá nuestra disputa, y limpiará tus pecados, aquí y ahora.

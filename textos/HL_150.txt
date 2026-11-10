@@ -1,0 +1,309 @@
+# Heartlink de Laru: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Laru] | ¡Booyah! Ya somos contactos
+A01.0002 [Laru] | La próxima vez que planees escaparte del trabajo, cuenta conmigo
+A01.0003 [Tú] | Literalmente soy el Jefe
+A01.0004 [Laru] | Pff, no sabes lo satisfactorio que es procrastinar en el trabajo
+A01.0005 [Laru] | En fin, ¡me largo! ¡Hora de pescar!
+A01.0006 [Laru] | ¡La Gran Laru va a pescar uno enorme hoy!
+
+## Conversación A02
+A02.0001 [Laru] | ¡¡¿DÓNDE ESTÁ MI ASISTENTE?! ¡¿DÓNDE ESTÁ MI EQUIPO?!
+A02.0002 [Laru] | ¡¿DÓNDE ANDAS AHORITA?? ¡¡RESPÓNDEME YA!!
+A02.0003 [Opción] | En tu oficina
+A02.0004 [Opción] | ¿Cuál es la emergencia esta vez?
+A02.0005 [Laru] | ¡¡NO IMPORTA DÓNDE!! ¡¡¡TIENES QUE VER ESTO!!!
+A02.0006 [Laru] | ¡¡APÚRATE APÚRATE APÚRATE!!
+A02.0007 [Laru] | ¡MIRA ESTE EJEMPLAR MONSTRUOSO QUE ACABO DE PESCAR!
+A02.0008 [Laru] | ¡¡Debe de pesar como DIEZ LIBRAS!!
+A02.0009 [Tú] | ¡Es enorme!
+A02.0010 [Laru] | ¡Hasta una gaviota que pasaba dijo «¡¡Guaaau, qué pez!!»
+A02.0011 [Tú] | Mira, no quiero arruinarte la ilusión
+A02.0012 [Tú] | Pero más te vale volver aquí cuanto antes si quieres sobrevivir a esto
+A02.0013 [Laru] | ¿¿?
+A02.0014 [Tú] | Estoy. En. Tu. Oficina.
+A02.0015 [Laru] | ¿¿¿¿?
+A02.0016 [Tú] | Estoy charlando con Albedo.
+A02.0017 [Laru] | ...
+A02.0018 [Laru] | ¡¡¡AAAAH gánale tiempo!! ¡¡¡¡Ya voy de regreso!!!!
+
+## Conversación A03
+A03.0001 [Laru] | Oyeee, ¿hace rato que no te veo por aquí?
+A03.0002 [Laru] | ¿¿Divirtiéndote sin mí??
+A03.0003 [Laru] | ¿Quieres venir por unas papas fritas?
+A03.0004 [Laru] | ¡Están recién salidas de la freidora! ¡Apúrate antes de que las gaviotas se las lleven!
+A03.0005 [Tú] | ¿Seguro que de verdad trabajas aquí?
+A03.0006 [Tú] | ¿Cómo es que otra vez andas por ahí comprando papas?
+A03.0007 [Laru] | Bah, detalles aburridos. ¡Deja de hacer preguntas! Anda, nos vemos en el muelle.
+A03.0008 [Laru] | ...
+A03.0009 [Laru] | Eeeh, olvídalo, no vengas.
+A03.0010 [Tú] | ¿Y ahora qué?
+A03.0011 [Laru] | Uh oh. Una gaviota acaba de robarse tus papas...
+A03.0012 [Tú] | ¿¿¿???
+A03.0013 [Laru] | Sí, y no solo se robó tus papas, sino que dejó una pequeña... sorpresa... en mi mano.
+A03.0014 [Tú] | No me digas que es...
+A03.0015 [Laru] | ¡¡¡AAAAAAAH QUÉ ASCO!!!!
+
+## Conversación A04
+A04.0001 [Laru] | Ugh...
+A04.0002 [Laru] | Ughhhhh...
+A04.0003 [Tú] | ¿Qué pasa?
+A04.0004 [Laru] | Esta reunión lleva dos horas seguidas.
+A04.0005 [Laru] | ¡Literalmente ya me quedé dormida tres veces! ¡Y todavía no termina!
+A04.0006 [Opción] | ¿Tú aguantando una reunión entera? Qué raro.
+A04.0007 [Opción] | Suena a buen momento para otra siesta, entonces
+A04.0008 [Laru] | ¡¡PREFERIRÍA NOOO!!
+A04.0009 [Laru] | ¡Estaba a punto de escaparme, pero Albedo me atrapó justo en la puerta!
+A04.0010 [Laru] | Me arrastró de vuelta y me puso en primera fila
+A04.0011 [Laru] | ¡No puedo! ¡Me está matando la espalda de estar sentada aquí una eternidad!
+A04.0012 [Laru] | Necesito salir de aquí a tomar aire fresco ya mismo.
+A04.0013 [Tú] | ¿No puedes usar la excusa de «tengo que ir al baño»?
+A04.0014 [Laru] | ¡¡Oh!!
+A04.0015 [Laru] | ¡El clásico número uno de las escapadas! ¡¿Cómo se me pudo olvidar?!
+A04.0016 [Laru] | ¡Gracias por el recordatorio! ¡Comienza la Operación Fuga!
+
+## Conversación A05
+A05.0001 [Laru] | ¡¡A VER, DÉJAME CONTARTE!!
+A05.0002 [Laru] | ¡¡¡ESTOY SUPER ENOJADA AHORITA!!!
+A05.0003 [Tú] | ¿¿¿???
+A05.0004 [Tú] | ¿Qué pasa?
+A05.0005 [Laru] | O sea, hoy traje una carnada nueva, ¿no? Y sin querer derramé como MEDIA BOLSA.
+A05.0006 [Laru] | Al principio pensé: bah, carnada extra, ¡supongo que celebro mi pesca enorme por adelantado!
+A05.0007 [Laru] | ¡PERO ENTONCES! ¿Adivina qué pasa?
+A05.0008 [Laru] | ¡Primero unas personas empezaron a discutir cerca, luego otros empezaron a pelear!
+A05.0009 [Laru] | ¡Y luego alguien se puso a tirar basura al río!
+A05.0010 [Laru] | ¡¡¡TODOS LOS PECES SE ASUSTARON!!!
+A05.0011 [Laru] | ¡Media bolsa de carnada por el desagüe y me quedé totalmente en CERO!
+A05.0012 [Opción] | (Reírte de ella)
+A05.0013 [Opción] | (Consolarla)
+A05.0014 [Tú] | ¡Jajaja, vaya, qué mala suerte!
+A05.0015 [Laru] | ¡¡No te rías!!
+A05.0016 [Laru] | ¡De verdad estoy a punto de explotar!
+A05.0017 [Tú] | Uf, qué mala suerte tan fea...
+A05.0018 [Tú] | ¿Qué tal unas papas fritas? Yo invito.
+A05.0019 [Laru] | No hace falta, ya me estoy atascando de papas fritas de consuelo.
+A05.0020 [Laru] | Ah, olvídalo.
+A05.0021 [Laru] | Estas papas están buenísimas hoy, así que supongo que perdonaré a esos idiotas. Por ahora.
+A05.0022 [Laru] | Pero si los vuelvo a ver, juro que les doy un pinchazo en el trasero con mi lanza.
+
+## Conversación A06
+A06.0001 [Laru] | Oye, ¿no crees
+A06.0002 [Laru] | que hoy está perfecto? Brisa preciosa, ni una nube en el cielo
+A06.0003 [Opción] | ¿Alguien te robó el teléfono? ¿¿Quién es esta??
+A06.0004 [Opción] | ¿De qué hablas?
+A06.0005 [Laru] | Olvidé mi caña de pescar al salir esta mañana
+A06.0006 [Laru] | Así que ahora ando faltando al trabajo sin nada que hacer
+A06.0007 [Laru] | ¿¿Dónde estás?? Anda, vamos por unas papas fritas
+A06.0008 [Tú] | ¡No todos pueden holgazanear cuando se les antoja!
+A06.0009 [Laru] | Sí sí, ¿entonces vienes o no?
+A06.0010 [Opción] | ¿Dónde?
+A06.0011 [Opción] | Nop
+A06.0012 [Laru] | ¡El muelle! ¡Te espero!
+A06.0013 [Laru] | ¡¡Vaaamos!! ¡¡Porfaaa!!
+A06.0014 [Laru] | ¡Estaré en el muelle esperando!
+
+## Conversación A07
+A07.0001 [Laru] | Vale, situación hipotética: digamos que hoy no quiero estar en la oficina
+A07.0002 [Laru] | ¿Podrías, tal vez, quizá, mandar una solicitud de encargo a nuestro Imperio de la Gracia
+A07.0003 [Laru] | diciendo que vas a un Monolito y necesitas asistencia urgente de alguien como YO?
+A07.0004 [Opción] | Ni de broma
+A07.0005 [Opción] | ¿Qué estás tramando ahora?
+A07.0006 [Laru] | ¡Aww, no digas que no tan rápido!
+A07.0007 [Laru] | ¿Y un soborno? ¡Papas fritas calientitas, cortesía de tu Gran Laru!
+A07.0008 [Laru] | ¿Entonceees? ¿Qué dices?
+A07.0009 [Laru] | Solo ayúdame esta vez
+A07.0010 [Laru] | ¿Porfaaa?
+A07.0011 [Tú] | Pero si quieres ir al Monolito, ¿por qué tengo que mandar yo el encargo?
+A07.0012 [Laru] | ¡Obvio! ¡Porque acompañarlos a ustedes los Trekkers al Monolito es muchísimo más fácil!
+A07.0013 [Laru] | Puedo maquillar las horas en el formulario
+A07.0014 [Laru] | Y cero informes aburridos cuando regrese
+A07.0015 [Tú] | Ah, así que ese es el truco...
+A07.0016 [Laru] | ¿Porfaaa?
+A07.0017 [Laru] | ¡El próximo pez grande que pesque es todo tuyo, lo prometo!
+A07.0018 [Tú] | Solo esta vez. No lo vuelvas costumbre.
+A07.0019 [Laru] | ¡SÍ! Sabía que eras el mejor Jefe del mundo
+
+## Conversación A08
+A08.0001 [Laru] | ¡Adivina dónde estoy ahora mismo!
+A08.0002 [Tú] | ¿Dónde?
+A08.0003 [Laru] | Anda, primero adivina
+A08.0004 [Opción] | ¿No deberías estar en la oficina a esta hora?
+A08.0005 [Opción] | ¿¿Pescando otra vez??
+A08.0006 [Opción] | ¿Cazando papas fritas otra vez?
+A08.0007 [Tú] | ¿No deberías estar en la oficina ahorita?
+A08.0008 [Laru] | Pff, ¿la oficina? ¿A esta hora? ¡Ni loca!
+A08.0009 [Tú] | ...
+A08.0010 [Laru] | ...
+A08.0011 [Laru] | ¡Oye! ¿De verdad pescar es lo único que crees que hago?
+A08.0012 [Tú] | Y comprar papas fritas en el muelle.
+A08.0013 [Laru] | ...
+A08.0014 [Laru] | Oye, hay muchísimos lugares geniales de papas fritas, ¿sabes?
+A08.0015 [Tú] | Cierto, pero si estás en el muelle, además de papas fritas
+A08.0016 [Tú] | ¿quizá te lleves otras sorpresas inesperadas?
+A08.0017 [Laru] | ...
+A08.0018 [Laru] | ¿No puedes decir algo lindo por una vez?
+A08.0019 [Tú] | Bueno, ya, suelta la sopa. ¿Dónde estás de verdad?
+A08.0020 [Tú] | ¿No es hoy tu cumpleaños? Te conseguí un pastel
+A08.0021 [Laru] | ¿Eh? Espera, ¿¿es hoy??
+A08.0022 [Laru] | ¡Oh, vaya, tienes razón! ¡Jajaja, se me pasó por completo!
+A08.0023 [Laru] | De hecho estoy justo abajo
+A08.0024 [Tú] | ¿¿¿¿????
+A08.0025 [Tú] | ¡Pues sube entonces! ¡El pastel te espera!
+
+## Conversación A09
+A09.0001 [Laru] | Oye, últimamente he estado pensando en algo
+A09.0002 [Laru] | Sabes que mi lanza conduce electricidad, ¿verdad?
+A09.0003 [Laru] | ¿Y si, como, durante una tormenta eléctrica, la lanzo y se la clavo a un enemigo?
+A09.0004 [Laru] | ¿No se convertiría en un pararrayos?
+A09.0005 [Laru] | ¡Un rayo enorme del cielo y ZAP! ¡Villano tostado al instante!
+A09.0006 [Laru] | Tiene una vibra de castigo divino, ¿no crees?
+A09.0007 [Tú] | ...
+A09.0008 [Tú] | Vale, pero antes de lanzar tu lanza
+A09.0009 [Tú] | ¿no la estás sosteniendo?
+A09.0010 [Laru] | Pues sí, ¿obvio?
+A09.0011 [Tú] | ¿Entonces cómo piensas asegurarte de que el rayo fría al enemigo y no a ti?
+A09.0012 [Laru] | Eh... Cierto.
+A09.0013 [Laru] | Ugh...
+A09.0014 [Tú] | ¿Qué te llevó a meterte en este agujero de conejo en particular?
+A09.0015 [Laru] | Solo una tarea tonta. Tenemos que demostrar nuestras técnicas de combate.
+A09.0016 [Laru] | Supongo que toca volver a empezar.
+
+## Conversación A10
+A10.0001 [Laru] | ¿Y esto?
+A10.0002 [Laru] | ¿¿Música??
+A10.0003 [Tú] | Es un disco que encontré en el Monolito.
+A10.0004 [Tú] | Por alguna razón, siento que deberías tenerlo tú.
+A10.0005 [Laru] | Vale. ¿Pero para qué sirve la música?
+A10.0006 [Laru] | Aunque, cualquier cosa del Monolito probablemente tiene alguna función especial, ¿no?
+A10.0007 [Laru] | Como que quizá si la pongo, hipnotizará a todos los peces del agua
+A10.0008 [Laru] | y se pondrán en fila uno por uno para saltar a mi anzuelo
+A10.0009 [Tú] | ...
+A10.0010 [Tú] | ¿Pescar es literalmente lo único que tienes en la cabeza?
+A10.0011 [Laru] | Bueno, ahora que lo mencionas...
+A10.0012 [Laru] | Esta música me suena familiar
+A10.0013 [Laru] | Como si la hubiera escuchado en algún lado antes...
+A10.0014 [Tú] | A mí también me suena. Siempre tarareas una cancioncita cuando sacas un pez grande
+A10.0015 [Laru] | ¿Eh? ¿¿Yo??
+A10.0016 [Tú] | Totalmente.
+A10.0017 [Tú] | Esa cancioncita que tarareas se parece mucho a esta
+A10.0018 [Laru] | ¿¿En serio?? ¡Ni siquiera me doy cuenta de que lo hago!
+A10.0019 [Laru] | Como sea, me quedo con este disco.
+A10.0020 [Laru] | Definitivamente lo probaré en mi próximo viaje de pesca
+
+## Conversación B01
+B01.0001 [Laru] | No tienes NI IDEA
+B01.0002 [Laru] | ¡La Reina Laru acaba de hacer lo más genial del mundo!
+B01.0003 [Opción] | ¿Qué hiciste?
+B01.0004 [Laru] | Pesqué un pez
+B01.0005 [Laru] | ¡Uno enorme de 20 libras! ¡Un monstruo total!
+B01.0006 [Tú] | ¿No haces eso todo el tiempo?
+B01.0007 [Laru] | No no no
+B01.0008 [Laru] | Eso es solo el principio
+B01.0009 [Laru] | Paseaba mi pesca por el pueblo para presumirla cuando me topé con una pobre madre con su hija del Distrito de las Cenizas
+B01.0010 [Laru] | Se veían tan hambrientas que simplemente les regalé el pez
+B01.0011 [Laru] | ¡¿Y bien?! ¡¿No es la Reina Laru la santa más dulce del mundo?!
+B01.0012 [Laru] | Vale, adelante. ¡Alábame!
+B01.0013 [Tú] | En realidad fue un gesto muy dulce de tu parte.
+B01.0014 [Tú] | Alabanza.
+B01.0015 [Laru] | ...
+B01.0016 [Laru] | ¿Por qué suena tan sarcástico? ¿Te estás burlando de mí?
+B01.0017 [Tú] | ¿?
+B01.0018 [Tú] | ¡¡Para nada!! ¡Lo digo en serio! ¡De verdad! ¡Desde el fondo de mi corazón!
+B01.0019 [Laru] | Je. Está bien, esta vez te creeré
+
+## Conversación B02
+B02.0001 [Laru] | ¡Jefe!
+B02.0002 [Laru] | ¿Qué se te antoja para la cena?
+B02.0003 [Opción] | ¿Por qué?
+B02.0004 [Opción] | ¿Tú invitas?
+B02.0005 [Laru] | Hoy desenterré un cubo ENORME de almejas
+B02.0006 [Laru] | ¿Quieres venir a ayudarme a comérmelas?
+B02.0007 [Laru] | ¿Se podría decir que sí?
+B02.0008 [Tú] | Aceptaste demasiado rápido. Definitivamente es una trampa...
+B02.0009 [Laru] | ¡Soy inocente! ¡¡Me hieres!!
+B02.0010 [Laru] | Hoy pesqué un montón de cangrejos enormes
+B02.0011 [Laru] | ¿Quieres venir a ayudarme a comérmelos?
+B02.0012 [Tú] | Ooh, qué bien.
+B02.0013 [Tú] | Cuenta conmigo, entonces.
+B02.0014 [Laru] | ¡Yupi!
+B02.0015 [Laru] | ¡Genial! Entonces, cuando vengas
+B02.0016 [Laru] | asegúrate de traer pollo asado, pan, postre, bebidas... Ah, y una canasta de frutas sería perfecta.
+B02.0017 [Tú] | ...
+B02.0018 [Tú] | ¡Así que ESE era tu plan desde el principio!
+
+## Conversación B03
+B03.0001 [Laru] | Acabo de tener una gran epifanía mientras pescaba
+B03.0002 [Tú] | ¿Qué?
+B03.0003 [Laru] | ¿Sabes que una jornada laboral estándar es de ocho horas?
+B03.0004 [Laru] | Si hago todo ese trabajo a toda velocidad y termino en solo UNA hora
+B03.0005 [Laru] | puedo holgazanear las otras siete
+B03.0006 [Laru] | ¡Lo que básicamente significa que mi tarifa por hora por esa hora de trabajo real es 8 veces el salario normal!
+B03.0007 [Laru] | La lógica cuadra, ¿no?
+B03.0008 [Tú] | ...
+B03.0009 [Tú] | ¿Albedo sabe que así funciona tu cerebro cuando te saltas tu turno?
+B03.0010 [Laru] | ¡Vamos, tienes que admitir que este es un descubrimiento revolucionario!
+B03.0011 [Laru] | De verdad soy una genia
+
+## Conversación B04
+B04.0001 [Laru] | Tengo una propuesta de negocios importante para ti
+B04.0002 [Laru] | Tenemos que hablar
+B04.0003 [Tú] | ... ¿Qué estás tramando ahora?
+B04.0004 [Laru] | Creo que deberíamos retomar esa idea de la otra vez
+B04.0005 [Tú] | ¿De la otra vez?
+B04.0006 [Tú] | ¿Qué idea?
+B04.0007 [Laru] | Ya sabes, esa en la que
+B04.0008 [Laru] | me robas del Imperio de la Gracia, me pones en tu nómina y trabajo para ti en vez de para ellos
+B04.0009 [Laru] | Y listo, de inmediato tienes a una chica linda en tu personal
+B04.0010 [Laru] | Trato increíble, ¿no?
+B04.0011 [Tú] | ¿Y qué valor aportarías realmente a la empresa?
+B04.0012 [Laru] | ¿Una mascota hermosa pero inútil?
+B04.0013 [Tú] | ............
+B04.0014 [Tú] | Ve a echarte agua fría en la cara. Estás soñando.
+
+## Conversación B05
+B05.0001 [Laru] | ¡Jefe!
+B05.0002 [Tú] | Nada de fotos de peces. Nada de cenas. Nada de contratar a tus amigas. Y no, no quiero hablar de «la verdad del universo».
+B05.0003 [Laru] | ¡Oye oye oye!
+B05.0004 [Laru] | ¡Qué falta de corazón!
+B05.0005 [Laru] | ¡Me robaste todas las líneas! ¿Ahora qué se supone que diga?
+B05.0006 [Tú] | Bastelina acaba de escribirme. Dice que Albedo te anda buscando.
+B05.0007 [Tú] | ¿Le mando una captura de pantalla de este chat?
+B05.0008 [Laru] | ¡No no no!
+B05.0009 [Laru] | ¡Acabo de cebar el agua aquí! ¡No puedo dejar que la carnada se desperdicie!
+B05.0010 [Tú] | Bueno, eso depende del soborno.
+B05.0011 [Laru] | Tres bolsas de papas fritas
+B05.0012 [Laru] | Más un pez de la pesca de hoy
+B05.0013 [Laru] | ¿Trato? Es bastante generoso, ¿no?
+B05.0014 [Tú] | Lo dices siempre, pero siempre vuelves con las manos vacías...
+B05.0015 [Laru] | ...
+B05.0016 [Laru] | ¡No tenías que dejarme en evidencia así!
+B05.0017 [Tú] | Está bien, solo bromeo.
+B05.0018 [Tú] | Pero en serio, vuelve a la oficina. Albedo de verdad te está buscando.
+B05.0019 [Laru] | ... Ugh, vale
+B05.0020 [Laru] | Gracias por el aviso. Recojo y regreso
+
+## Conversación B06
+B06.0001 [Laru] | Adivina qué tengo en la cabeza ahora mismo
+B06.0002 [Laru] | Si aciertas, hay premio
+B06.0003 [Tú] | ...
+B06.0004 [Tú] | Estás obsesionada con el tamaño de ese pez que se escapó hace rato.
+B06.0005 [Laru] | ¡Vale, pero ese pez SÍ era enorme!
+B06.0006 [Laru] | ¡Espera, no! ¡Eso no es! Intenta de nuevo
+B06.0007 [Tú] | ¿No es sobre pescar? ¿En serio?
+B06.0008 [Tú] | ¿Entonces es algún truco nuevo para holgazanear sin que te atrapen?
+B06.0009 [Laru] | Nop, ni cerca
+B06.0010 [Tú] | Entonces, ¿qué es?
+B06.0011 [Laru] | Obviamente...
+B06.0012 [Laru] | ¡Estoy pensando en TI!
+B06.0013 [Laru] | ¡Jajajaja! ¿Y bien? ¿Estuvo lo bastante cursi?
+B06.0014 [Laru] | ...
+B06.0015 [Laru] | Vale vale, mi mal. Solo bromeaba
+B06.0016 [Tú] | Tu jefa está parada junto a mí. Lo leyó todo.
+B06.0017 [Laru] | ...
+B06.0018 [Laru] | ¿E-en serio?
+B06.0019 [Tú] | Te cacé.
+B06.0020 [Laru] | ¡Casi me da un infarto!

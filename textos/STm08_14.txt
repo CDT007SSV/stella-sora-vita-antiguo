@@ -1,0 +1,175 @@
+# Capítulo 8 · Calor residual · 11 · Mirage's Daily Routine
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Huckleberry | Huckleberry
+N:Kid Leader | Niño líder
+N:Polite Knight | Caballero cortés
+N:Standard Bearer | Abanderado
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_139 | Allie
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1274 | Residente de Loong
+N:avg3_1304 | Chaton
+N:avg3_143 | Residente
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_157 | Guardia Imperial
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_210 | Hazana
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto once
+0002 [Intro] | La rutina diaria de Mirage
+0003 [Intro] | Presencias un choque entre los Gatos Blancos y la Guardia Imperial, mientras los niños del lugar recogen el equipo abandonado y se lo vuelven a vender: un día más en Mirage. Allie menciona que hace años aquí se alzaba un Monolito...
+0004 [Lugar y hora] | 10:30, 11.º del mes de Nebula, Mirage, Calle principal
+0005 [Standard Bearer] | Gatos Blancos, es su última oportunidad. Bajen las armas y ríndanse. La Guardia Imperial les garantiza su seguridad.
+0006 [Standard Bearer] | Junten sus cosas y váyanse de Mirage. Vayan a ser Trekkers a una ciudad de verdad, consigan un trabajo honrado. Es mejor que comer arena aquí.
+0007 [Kasimira] | ¿La misma cantaleta de siempre de la Guardia Imperial?
+0008 [Chaton] | ¿Verdad? Hace unos días le prometieron un millón de Dorra a cada quien si nos rendíamos.==W== Hoy ni lo mencionaron. Seguro este se lo embolsó.
+0009 [Kasimira] | Déjalos hablar. Los Gatos Blancos no se van a rendir, y la Guardia de todos modos no lo aceptaría.
+0010 [Chaton] | Por mí, perfecto. Cada batalla alimenta mi poder oscuro. Algún día, la gran Chaton gobernará todo este desierto.
+0011 [Kasimira] | Oigan, latas. Ahórrense el aliento.==W== Si quieren pelea, adelante.
+0012 [Chaton] | Ay, cielos,==W== cómo me encanta la guerra.
+0013 [Standard Bearer] | ¡Ustedes, los Gatos Blancos, no tienen honor! ¡¿Un ataque sorpresa?!
+0014 [Chaton] | ¿Qué tanto balbuceas?==W== Vinieron a pelear. No existe eso de pelear sucio.
+0015 [Kid Leader] | Miren y aprendan, novatos. Guardia Imperial contra Gatos Blancos.==W== Primero esas latas pierden la armadura y luego se reagrupan. Siempre.
+0016 [Iris] | ¿Estás seguro?==W== Los Gatos Blancos tendrán como una docena de combatientes, pero la Guardia tiene más de cien. ¿No debería acabarse en un santiamén?
+0017 [Noya] | Sí.==W== La Guardia tiene buen equipo. Las balas mágicas seguramente apenas rayan esa armadura encantada.
+0018 [Kid Leader] | No entienden. Si no se llevan una paliza, ¿cómo vamos a recoger cosas? Miren.==W==
+0019 [Standard Bearer] | ¡Retirada!==W== ¡Retirada!==W== ¡Suelten el equipo pesado y corran!
+0020 [Kid Leader] | Esa es nuestra señal.==W== ¡Vámonos!
+0021 [Noya] | ¡Jaja, esto es genial!==W==
+0022 [Narración] | Hace tres días, Allie prácticamente nos obligó a quedarnos en el orfanato a descansar.
+0023 [Narración] | En medio día aprendió a manejar a Loxy, dejando boquiabierta incluso a Noya, y se fue al desierto a buscar el Monolito.
+0024 [Narración] | También movió sus contactos y les preguntó a los Escorpiones del Desierto y a los Gatos Blancos por el Monolito desaparecido.
+0025 [Narración] | Nosotros planeábamos cuidar a los niños por ella, pero resultó que...
+0026 [Kid Leader] | ¡Sepárense! Los niños, agarren las lanzas y los brazales.==W== Novatos, agarren los petos. Pártanlos a la mitad y apílenlos.
+0027 [Amber] | Voy.==W==
+0028 [Narración] | En cambio, los niños nos dieron una lección sobre cómo sobrevivir en las calles de Mirage.
+0029 [Kid Leader] | Suficiente. La Guardia está contraatacando. Vámonos.==W== Déjenles algunas sobras a los Gatos Blancos.
+0030 [Standard Bearer] | ¡Caballeros, contraataquen!==W== No olviden tomar fotos.==W== Necesitamos pruebas del trabajo.
+0031 [1] | Rayos, agarré demasiado...==W== Apenas puedo cargarlo.
+0032 [Kid Leader] | Te ayudo.
+0033 [Tú] | G-==W==gracias.
+0034 [Kid Leader] | No te preocupes. Tú también eres de los niños de mamá, así que somos familia. Y la familia se ayuda.
+0035 [Tú] | Eso de que la familia se ayuda suena al Gremio de la Nueva Estrella.==W== ¿Allie te lo enseñó?==W== Hasta me cubriste con los Gatos Blancos el otro día.
+0036 [Kid Leader] | ¡Sip!==W== Mamá siempre dice que la familia se ayuda.
+0037 [Tú] | Tiene sentido. Con razón todos son tan bien portados.==W== Nunca supe tu nombre. Yo soy ==PLAYER_NAME==. ¿Y tú?
+0038 [Huckleberry] | Huckleberry.==W== Mamá dice que es una baya, pero no crecen en el desierto.
+0039 [Huckleberry] | Si queremos salir del desierto, nuestra única opción son los Escorpiones del Desierto.==W== La Guardia Imperial no acepta huérfanos, y los Gatos Blancos no están reclutando.
+0040 [Huckleberry] | ...==W== Pero mamá dice que eso ni pensarlo.
+0041 [Noya] | ¡Entonces hazte Trekker! Escalamos Monolitos por todo Nova y conseguimos Artefactos.==W== Si te vuelves Trekker, puedes ir a donde quieras.
+0042 [Huckleberry] | ¿Un Trekker... como ustedes?
+0043 [Noya] | ¡Sip! Primero tienes que aprender espada y magia. Después de todo, tienes que saber protegerte en las Tierras Salvajes.
+0044 [Huckleberry] | Entonces...==W== ¿Nos pueden enseñar? Mamá siempre está ocupada y no quiero molestarla.
+0045 [Noya] | ¡Claro que sí!
+0046 [Narración] | Tres días después
+0047 [Lugar y hora] | 10:30, 17.º del mes de Nebula, Mirage, Orfanato Margarita
+0048 [Noya] | Listos...==W==
+0049 [Noya] | ¡Arriba a la izquierda!==W==
+0050 [Noya] | ¡Abajo a la derecha!==W==
+0051 [Noya] | Cuiden sus puntos ciegos. ¡No dejen de mover las espadas!
+0052 [1] | E-==W==esto es difícil.
+0053 [Noya] | Ya le agarrarás la onda.==W== Pero oye, ==PLAYER_NAME==,==W== ¿qué haces colándote en la clase de los niños?
+0054 [Tú] | Pensé que... si aprendo a pelear, no las voy a retrasar en el camino.
+0055 [Noya] | En teoría tiene sentido, pero nuestras técnicas dependen de canalizar magia. Como no puedes usar Piedras del Alma, ni con una técnica perfecta sobrevivirías contra un Trekker veterano.
+0056 [Tú] | Lo sé, pero algo es mejor que nada.==W== Hay gente que está tratando de asesinarme. Si aprendo lo básico, por lo menos entenderé cómo piensa un atacante.==W== Así es mucho más fácil escapar.
+0057 [Noya] | Buen punto. Conocerte a ti mismo y a tu enemigo es la regla de oro del combate. Ven, déjame enseñarte un movimiento que de verdad te quede.
+0058 [Tú] | ¿Que me quede? ¿No puedo practicar con los niños?
+0059 [Noya] | Mejor no. Esos niños ya tienen una base sólida, y tú empiezas desde cero absoluto.==W== Es normal que no puedas seguirles el paso.
+0060 [Noya] | Así que vamos a tu propio ritmo.==W== Muy bien, lanza un corte diagonal desde el hombro derecho hasta la cadera izquierda.==W== Inténtalo.
+0061 [1] | ¿Así?
+0062 [Noya] | Tienes el hombro demasiado tieso. No fuerces el golpe. Deja que el peso de la espada lleve el impulso.==W== Así...==W== ¡Hiyah!==W== ¡Fiu, zas!==W== ¿Lo sientes?
+0063 [1] | Dejar que la espada lleve el impulso...==W== ¡Hiyah!==W== Fiu,==W== ¡zas!
+0064 [Noya] | ¡Bien! Piensa que es como chasquear un látigo. Mantente suelto y, justo al final, suelta toda la fuerza de golpe. Ese es el secreto de un golpe pesado.==W== ¿Entendiste?
+0065 [Noya] | Genial. Ahora graba bien esa sensación==W== y dame doscientos cortes de práctica.
+0066 [1] | ¿D-doscientos?
+0067 [Noya] | ¡Doscientos es solo el calentamiento!==W== Poco a poco lo vas a subir a quinientos al día. Luego a mil. Tú y la espada tienen que volverse uno.
+0068 [1] | Urgh... Está bien. Te agradezco la clase particular.==W== ¿Allie las entrenaba así cuando eran niñas?
+0069 [Noya] | Nop.==W== Los libros de Iris fueron nuestros maestros de esgrima.
+0070 [Amber] | Mi maestro de tiro también fueron los libros.==W== La tía estaba ocupada todos los días==W== ganando Dorra.
+0071 [Iris] | Bueno, tenía muchas bocas que alimentar. Además, en ese entonces la tía Allie daba miedo.==W== Ella sola mantenía a raya a las pandillas del Distrito de las Cenizas;==W== nadie se atrevía a poner un pie en nuestra calle.
+0072 [Iris] | Y de todos modos odiaba la idea de que jugáramos con armas. Quería que estudiáramos...==W==
+0073 [Noya] | ¡Me regañaba por eso todo el tiempo!==W== «¡Si tienes tiempo para entrenar, tienes tiempo para leer!»==W== Cosas así.
+0074 [Iris] | Qué raro. ¿Cómo es que cambió tanto? Ahora hasta deja que los niños recojan armaduras. En nuestros tiempos...==W==
+0075 [Amber] | Nos escapábamos a escondidas... solo para ir al canal.
+0076 [Tú] | Supongo que se trata de adaptarse.==W== En Mirage,==W== lo primero tiene que ser averiguar cómo sobrevivir y mantenerse a salvo.
+0077 [Tú] | No es precisamente un lugar donde se pueda estudiar en paz.
+0078 [Noya] | Ah, tiene sentido...==W== La tía Allie de verdad piensa en todo.
+0079 [Huckleberry] | Je, je, ¡hoy en día nosotros traemos más de la mitad del dinero del orfanato!==W== Ah, oigan,==W== un cliente.
+0080 [Polite Knight] | ¿Hola?==W== ¿Ya está lista la armadura que pedimos?
+0081 [Huckleberry] | ¡Voy!==W== Mire. Aquí está cada pieza que recogimos.==W== ¡Pulida y como nueva!
+0082 [Polite Knight] | Excelente trabajo. Le quitaron hasta el último rayón. Ni un auditor estricto le encontraría un defecto.
+0083 [Huckleberry] | Je, mamá nos enseñó el oficio. Siempre puede contar con nosotros.
+0084 [Polite Knight] | Ah, claro que sí. Por favor, mándenle mis saludos a la directora Allie.==W== Me acomodó el hueso y me cosió cuando me caí de un techo. Si no fuera por ella, me habría quedado cojo para siempre.
+0085 [Polite Knight] | Como muestra de mi gratitud...==W== Oí que la directora andaba preguntando por un Monolito que desapareció, ¿cierto?
+0086 [Huckleberry] | ¡Sí! Intentamos preguntarles a algunos de la Guardia Imperial y de la Compañía del Gato Blanco por la historia de Mirage, pero se cerraron en cuanto lo mencionamos.
+0087 [Polite Knight] | Tiene sentido. Yo apenas conozco la historia completa, pero sí encontré un registro extraño mientras revisaba los archivos de la Guardia Imperial...==W==
+0088 [Polite Knight] | Al parecer, un árbitro de los Árbitros del Ocaso llevó a un escuadrón de caballeros a un Monolito sin descubrir en el desierto para cazar herejes.==W== Desaparecieron por completo adentro.==W== Nadie los volvió a ver, ni vivos ni muertos.
+0089 [Tú] | Un árbitro, caballeros, herejes...==W== ¿Habré sido uno de ellos antes de perder la memoria?
+0090 [Polite Knight] | Aunque eso fue hace bastante más de un siglo.==W== Seguramente no les sirve de mucho para su búsqueda.==W==
+0091 [Huckleberry] | ¡Para nada, es una pista fascinante!==W== Muchísimas gracias por el dato.
+0092 [Polite Knight] | Con gusto.==W== Aquí está el pago por la armadura.
+0093 [Huckleberry] | ¡Gracias por su compra!==W==
+0094 [1] | Allie es increíble.==W== No tenía idea de que supiera curar heridas.
+0095 [Iris] | No es como la medicina que practica la doctora Coronis.==W== Pero la tía Allie es muy buena curando heridas, acomodando huesos y cosiendo a la gente.==W== A lo mejor antes era enfermera.
+0096 [Huckleberry] | Nada que ver, mamá seguro era sastre.==W== Las cositas y la ropa que cose son un éxito aquí en Mirage.
+0097 [Huckleberry] | De ahí sale el resto del dinero del orfanato. Pero algunas de sus otras creaciones...==W==
+0098 [Huckleberry] | ¡Ah, mamá!==W== ¡Ya volviste!
+0099 [Allie] | Huckle, ==PLAYER_NAME== y todos mis niños queridos.==W== ¿Se portaron bien mientras no estaba?
+0100 [Huckleberry] | ¡Claro que sí!==W== Nos ayudaron a recoger armaduras y armas del campo de batalla. ¡Ganamos un montón de Dorra!
+0101 [Amber] | Yo también me porté bien. No me puse la ropa de Gato Blanco.==W== Me quedé en pijama.
+0102 [Noya] | Les enseñé a los niños un poco de esgrima.==W== Creo que más adelante les va a servir.
+0103 [Iris] | Yo organicé las cuentas del orfanato.==W== Pero, eh...==W== ¿Por qué tenemos números rojos en un lugar llamado bar Eureka?
+0104 [Allie] | Ah... Bueno...==W== Intenté vender ahí algo de comida que preparé con una receta antigua.==W== P-parece que no tuvo éxito.
+0105 [Allie] | Ejem, en fin. Encontré algunas pistas sobre ese Monolito que buscan.==W== Les pregunté a mis viejos contactos de los Gatos Blancos y de los Escorpiones del Desierto, y conseguí información que no van a oír en la calle.
+0106 [Allie] | Hace unos diez años había un Monolito cerca de Mirage.==W== Nadie podía entrar, pero definitivamente estaba ahí. Hasta vi fotos de él.
+0107 [Allie] | En ese entonces, las guerras territoriales entre los Gatos Blancos, los Escorpiones del Desierto y la Guardia Imperial eran mucho peores.==W== La líder de los Gatos Blancos quería acabar con esa pelea sin sentido,==W== así que organizó una reunión con el líder de los Escorpiones y un representante de la Guardia justo al pie del Monolito.
+0108 [Allie] | De algún modo, la líder de los Gatos Blancos logró abrir a la fuerza las paredes del Monolito.==W== Eso ni siquiera debería ser posible desde afuera.==W== Llevó adentro al líder de los Escorpiones y al representante de la Guardia,==W== y luego todos desaparecieron junto con el Monolito.
+0109 [Allie] | Solo dos personas saben lo que de verdad pasó durante esa negociación.==W== Kasimira, de los Gatos Blancos, y Hazana, de los Escorpiones del Desierto.==W== Fueron las únicas presentes en el lugar==W== que no desaparecieron.
+0110 [Iris] | Abrir a la fuerza...==W== las paredes del Monolito...==W==
+0111 [Noya] | Espera, ¿eso no significa que...?==W==
+0112 [Amber] | El Monolito donde encontramos a ==PLAYER_NAME==.==W== Sus paredes estaban destrozadas.
+0113 [Allie] | Después de oír eso,==W== fui adonde antes estaba el Monolito de Mirage y escarbé entre las dunas.
+0114 [Tú] | ¿Escarbaste? ¡¿Entre las dunas de arena?!
+0115 [Allie] | Sí. Si de verdad hubo una batalla ahí y estalló una explosión lo bastante poderosa como para abrir un Monolito, todavía quedarían rastros.==W== Incluso después de diez años.
+0116 [Allie] | Y entonces encontré estos fragmentos.==W== Definitivamente no son piedra común. Coinciden exactamente con las paredes de Monolito que he visto antes.
+0117 [Allie] | ¿Cuántos Monolitos abiertos a la fuerza podría haber?==W== Apuesto a que el Monolito que desapareció de Mirage==W== es exactamente el que están buscando.
+0118 [Noya] | P-pero el lugar donde encontramos ese Monolito...==W== ¡está por lo menos a diez horas en auto de Mirage!
+0119 [Iris] | ¿El Monolito... se movió?==W== No, es imposible. Tiene que ser una coincidencia. Seguro abrieron dos Monolitos distintos...==W==
+0120 [Amber] | Las pistas están bien,==W== pero sin Monolito==W== no hay prueba.
+0121 [Allie] | Podemos encontrarlo.==W== Cuando verifiqué esa vieja historia,==W== mi fuente me dio otra pista.
+0122 [Allie] | Los Gatos Blancos tienen un cuarto secreto aquí en Mirage. Ahí guardan una forma de rastrear Monolitos.
+0123 [Noya] | Encontramos el cuarto, encontramos el Monolito. Probamos quién es ==PLAYER_NAME==.==W== Entendido.==W== ¡Vamos a negociar!
+0124 [Iris] | Pero... ¿no son ellos los que asesinaron a la Emperatriz?==W== Ya se metieron aquí por la ropa de Amber.==W== ¿Siquiera nos van a escuchar?
+0125 [???] | ¡¿Asesinaron a la Emperatriz?!==W==
+0126 [???] | ¡¿Quién inventó ese chisme tan ridículo?! ¡La Compañía del Gato Blanco jamás haría algo así!==W== ¡Cuando la Emperatriz vivía, éramos sus guardias más leales!
+0127 [Tú] | ¿Chaton? Espera, nunca dijimos que ustedes fueran los malos.
+0128 [Chaton] | ¡Ja! Forasteros despreciables. La gran Chaton ha estado ocupada.==W== Investigué un poco, y todo lo que nos dijeron en el orfanato==W== ¡era mentira!==W==
+0129 [Chaton] | Claro, trabajas para Cosecha Unida Philae,==W== ¡pero también eres director ejecutivo de Boss Accord!
+0130 [Chaton] | ¡Y no estabas solo cuando entraste a ese orfanato! Estas tres estaban contigo. Sé lo que vi.
+0131 [Tú] | Eso es cierto.==W== Pero si lo ves con más cuidado, verás que no mentimos.
+0132 [Tú] | Recuerda mis palabras exactas. Dije:==W== «Los niños me estaban enseñando el camino».
+0133 [Tú] | Las tres crecieron en este orfanato.==W== Así que decir que estas niñas me estaban enseñando el camino no era mentira.
+0134 [Chaton] | Hmph, está bien.==W== Supongo que no se estaban haciendo pasar por nosotros para causar problemas.
+0135 [Chaton] | ¡Pero ese no es el punto!==W== ¡Ese día definitivamente sentí una oleada de poder oscuro!
+0136 [Tú] | ...==W== ¿Eh?==W== ¿Qué quieres decir?==W==
+0137 [Chaton] | ¡Nya-ja-ja! Deja de fingir ♪ Lo que sea que estés tramando en Mirage es mucho más siniestro...==W== ¿Verdad?
+0138 [Chaton] | Como...==W== ¡usar ese inmenso poder oscuro para destruir el mundo!
+0139 [Tú] | ¡¿D-==W==destruir el mundo?!==W== Espera, Chaton, ¿de qué hablas...?==W==
+0140 [Chaton] | ¡Je!==W== Podrás engañar a todos los demás,==W== ¡pero no a la gran Chaton! ¡No cuando mi ojo izquierdo late con ese mismo poder oscuro!
+0141 [Chaton] | Porque tú...==W== Tú eres el legendario Tirano, ¡¿verdad?!

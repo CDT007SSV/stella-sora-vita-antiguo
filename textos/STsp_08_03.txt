@@ -1,0 +1,102 @@
+# Nova Times #08 · Cautiva de la verdad · 3 · Captive of Truth (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Coachman | Cochero
+N:avg1_118 | Coronis
+N:avg1_132 | Minova
+N:avg3_100 | Sylar
+N:avg3_144 | Residente
+N:avg3_205 | Igna
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Cautiva de la verdad (Parte III)
+0003 [Intro] | Para hacer una última contribución a la investigación científica, Coronis se traga el veneno.
+0004 [Lugar y hora] | ??:??, día ?? del mes de ???, Imperio de la Gracia, Prisión n.º 7 de los Árbitros del Ocaso
+0005 [Igna] | Así que eso fue todo. Explica por qué desapareciste y volviste con un ojo modificado... Nunca supe el contexto.
+0006 [Igna] | Tiene sentido que los Árbitros del Ocaso se lo arrancaran, entonces. Era una creación de Nocturn Eterna, después de todo.
+0007 [Coronis] | Esos Árbitros incompetentes. Solo sirven para obsesionarse con detalles triviales.
+0008 [Coronis] | Tomé el ojo y me separé de Nocturn Eterna. El resto ya lo sabes.
+0009 [Coronis] | Ella no reveló su fuente. Pero al sentir el flujo de magia mientras lanzaba el hechizo, pude confirmarlo: extraía poder almacenado en su propio cuerpo.
+0010 [Igna] | Un descubrimiento valioso. Pero ¿por qué no me lo trajiste a mí?==W== ¿Por qué escribir una tesis atacando el sistema de la Gracia y presentarla descaradamente a la vista de todos?
+0011 [Coronis] | Eso es enteramente culpa tuya, Igna.
+0012 [Coronis] | Para mí, tú eras la definición de una «erudita pura». Cometí el error de suponer que todos en el Ojo de la Gracia compartían tu integridad.
+0013 [Igna] | Lo mismo digo, Coronis. Actúas demasiado como una «estudiante». Y los estudiantes siempre son tan ingenuos... tan infantiles.
+0014 [Igna] | Logré recuperar tu ojo protésico. Toma, quédatelo.
+0015 [Coronis] | Gracias. La cuenca se siente extrañamente vacía sin él.
+0016 [Igna] | Sigue siendo parte de ti. Si vas a morir, al menos hazlo con algo de dignidad.
+0017 [Igna] | Tu trato con Nocturn Eterna solo demuestra que el veredicto de los Árbitros del Ocaso fue acertado.
+0018 [Igna] | ¿Tienes alguna última petición? Haré lo posible por concedértela.
+0019 [Coronis] | Mmm, déjame pensar. Me gustaría que mi muerte tuviera algún valor práctico. ¿Quizá podrías usar mi cadáver para investigación?
+0020 [Coronis] | ¿O qué tal si pruebas la magia curativa conmigo? Como de todos modos estoy en el corredor de la muerte, puedo ver el experimento hasta el amargo final.
+0021 [Coronis] | Ya experimenté de primera mano la curación de Nocturn Eterna. Si usas la tuya conmigo, puedo describirte las diferencias sensoriales en tiempo real. Esos datos podrían ser invaluables para tu trabajo.
+0022 [Igna] | ¿No querías que tu muerte tuviera sentido? Ese experimento tiene una tasa de éxito pésima. Sería un desperdicio de un sujeto de prueba perfectamente bueno.
+0023 [Coronis] | ¿Pero y si sobrevivo? Pasarías a la historia como la primera sanadora legendaria en dominar el arte.
+0024 [Igna] | Recuerda que eres una prisionera condenada. Si la magia no te mata, ¿de verdad esperas que yo misma termine el trabajo con veneno?
+0025 [Coronis] | Bueno, bueno... Qué aburrida eres. En ese caso, vayamos con la prueba de fármacos.
+0026 [Coronis] | No creas que no sé que el Ojo de la Gracia ha estado investigando toxinas. Y no encontrarás un conejillo de indias más calificado que yo.
+0027 [Igna] | De verdad sabes demasiado.==W== Toma.
+0028 [Coronis] | Oh, ¿de verdad lo traes contigo?
+0029 [Igna] | Supuse que lo preferirías a la horca.
+0030 [Coronis] | Qué bueno tener una sénior que me entiende.==W== Pero si caigo muerta en mi celda, ¿no te harán responsable?
+0031 [Igna] | La «ejecución pública» es solo una carta de negociación que los Árbitros del Ocaso usan contra el Ojo de la Gracia.
+0032 [Igna] | Su único objetivo real es silenciarte para siempre. En cuanto al método... eso les es irrelevante.
+0033 [Igna] | Sigues siendo de las nuestras. Una ejecución pública se vería desastrosa para el Ojo de la Gracia. Así que le ofrecieron a los Árbitros algunas concesiones ... lo cual me trae aquí, Coronis.
+0034 [Coronis] | Siempre destacaste en la política de bastidores. Muy bien. Acepto el trato.
+0035 [Coronis] | Átame, por favor. Y ten tu libreta lista.
+0036 [Igna] | ¿Mm?
+0037 [Coronis] | La mayoría de las toxinas letales causan muertes violentas y feas.
+0038 [Coronis] | Odiaría atacarte durante un espasmo. Te dictaré los efectos conforme se presenten. Solo asegúrate de tomar notas precisas.
+0039 [Igna] | Como quieras.
+0040 [Narración] | ==A4==Ligeramente dulce. Fácil de tragar.==P== ==A4==Pero una lengua afilada aún lo notaría. La próxima vez, hazlo incoloro e insípido.==P== ==A4==Veinte segundos. Comienza el vértigo.==P== ==A4==Cincuenta segundos. Las extremidades se entumecen. La visión se nubla...==P== ==A4==De acción rápida. Sin vómito de sangre... Deja un cadáver limpio. Bien.
+0041 [Coronis] | No está mal, Igna. Un final sin dolor. Gracias ... por esta última bondad...
+0042 [Coronis] | (Ah... ¿Estoy muerta? Espera. Ese sonido... ¿Ruedas...?)
+0043 [???] | ¡Oiga, señorita! ¡Despierte! ¿Va a dormir durante todo el viaje?
+0044 [Coronis] | (¿A dónde vamos... al más allá? ¿El Cielo usa carruajes de monstruos? No. El Cielo es científicamente imposible. Y esta luz del sol...)
+0045 [Coronis] | ¿De verdad ... existe el Cielo?
+0046 [Coachman] | ¡Jah! ¿Sigue soñando? Lamento romperle la burbuja, señorita, pero esto no es un carruaje fantasma. Mire, ahí adelante está Philae.
+0047 [Coronis] | ¿Philae?
+0048 [Coachman] | Eh, ¿sí? ¿No es ahí a donde dijo que iba?
+0049 [Coronis] | No lo recuerdo...
+0050 [Coronis] | (Espera... ¿No debería estar muerta?)
+0051 [Coachman] | ¡Oiga, no se apure! Acaba de despertar. Tarda un rato en volver a funcionar el cerebro.
+0052 [Coachman] | Usted y su amiga del Imperio de la Gracia se subieron ayer por la tarde. Ella fue quien reservó el viaje a Philae.
+0053 [Coachman] | Usted se desplomó en cuanto se sentó. A medio camino, su amiga recordó un asunto urgente y tuvo que regresar. Pagó el pasaje y me pidió que no la molestara porque había pasado varias noches en vela.
+0054 [Coronis] | (Igna... Esa no era una toxina letal. ¿Usaste un supresor metabólico para simular la muerte?)
+0055 [Coronis] | Ah. Sí, ya lo recuerdo todo. Mis disculpas.
+0056 [Coachman] | No olvide su bolso y sus maletas. Están ahí junto al maletero.
+0057 [Coronis] | Oh. Cierto. Gracias.
+0058 [Coronis] | (Philae... Ahora estoy muy lejos de la Prisión n.º 7 de los Árbitros del Ocaso.)
+0059 [Coronis] | (Espera, hay una dirección escondida en la cartera ... con la letra de Igna. Bueno, más vale ir a verla.)
+0060 [Coronis] | (Esto coincide perfectamente con la dirección.==W== Sin duda está bien escondido en lo profundo del distrito.)
+0061 [Coronis] | (Camas de hospital, instrumentos quirúrgicos... ¿Esto es ... una clínica?)
+0062 [Coronis] | Espera. ¿Mi modelo de esqueleto? ¿Cómo llegó aquí?
+0063 [Coronis] | (Mis especímenes... Hasta el equipo y los datos de investigación que me confiscaron. Todo está aquí.)
+0064 [Coronis] | (Hay una carta sobre el escritorio. Y un emblema.)
+0065 [Narración] | Coronis, felicidades. A partir de hoy eres miembro de la Sociedad para el Estudio de la Vida.
+0066 [Narración] | Somos un colectivo secreto de élite dentro del Ojo de la Gracia, dedicado a estudiar temas que el Imperio ve con malos ojos, por ejemplo, las Piedras del Alma y la magia.==P== Confío en que seguirás tu búsqueda de la verdad aquí en Philae. Esperamos compartir los fascinantes descubrimientos que desentierres.
+0067 [Narración] | Mandé tus cosas a la clínica. Oficialmente, el registro dice que fueron «reducidas a cenizas». Si necesitas algo más, escríbeme, pero usa un alias.==P== Para el Ojo de la Gracia, Coronis no existe.
+0068 [Narración] | En fin, Philae no es barato. Limpia la clínica y ábrela al público. Rápido.==P== Desde que te fuiste, he pensado en renunciar y abrir mi propio consultorio. Sin ti, el trabajo en el Ojo de la Gracia es dolorosamente aburrido.
+0069 [Narración] | Cuídate en Philae. —Igna.
+0070 [Coronis] | Nunca imaginé que fuera capaz de tanto... Sacar de contrabando a una criminal condenada ante los Árbitros del Ocaso, recuperar mi ojo confiscado...==W== Eres increíble, sénior Igna.
+0071 [Coronis] | Todo este esfuerzo por mí. ¿Planeabas cosechar mi cerebro para tu propio uso desde la universidad...?==W== Según esta carta, parece que no tengo mucha opción.
+0072 [Coronis] | Bien. Mientras pueda seguir investigando, no me importa. Una clínica... Atender pacientes al menos debería alcanzar para comer.
+0073 [Coronis] | Supongo que más vale limpiar y abrir el negocio. De verdad es carísimo aquí. Si me muero de hambre, será culpa tuya, sénior.
+0074 [Narración] | Y así, la antigua Coronis ha muerto. En las sombras del Distrito de las Cenizas de Philae nace el «Diablo de Blanco», que recorre el solitario camino de descifrar los secretos de la vida.
+0075 [Narración] | Poco después, Igna abre una clínica similar en Emor, aunque conserva su trabajo diurno en el Ojo de la Gracia.
+0076 [Lugar y hora] | 08:28, día Hood del mes de Pluvia, Distrito de las Cenizas, Emor, clínica clandestina
+0077 [Igna] | Mira, este seminario se alarga dos días más. Sé un cielo y cubre la clínica un día más, ¿sí?
+0078 [Coronis] | Oye, llevo una semana atrapada en Emor. Mis pacientes en Philae me están esperando.
+0079 [Igna] | ¡Te invito a cenar cuando regrese!
+0080 [Coronis] | Solo oyes lo que quieres oír.==W== Está bien. Pero voy a pedir lo más caro del menú.
+0081 [Igna] | ¡Gracias! ¡Hablamos luego, adiós!
+0082 [Coronis] | Increíble... ¿Acaso parezco tener tiempo libre? Mi investigación sigue...
+0083 [Coronis] | ¡Ya voy! ¿Quién será tan temprano? Ni siquiera hemos abierto...
+0084 [Minova] | ¡Doctora! ¡Por favor, tiene que ayudar a ==SEX4==!
+0085 [Tú] | Minova, oye, cálmate. Me siento bien, de verdad.==W== No te alteres.
+0086 [Narración] | Bajo las torres blancas, la clínica clandestina recibe a un «paciente» muy especial.
+0087 [Narración] | Los engranajes del destino comienzan su lenta e irreversible marcha.
+0088 [Narración] | La búsqueda de la verdad ha comenzado y nada puede detenerla ahora.

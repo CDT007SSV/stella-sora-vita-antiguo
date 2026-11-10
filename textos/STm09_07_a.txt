@@ -1,0 +1,245 @@
+# Capítulo 9 · Un Monolito demasiado lejano · Final: Arena entre los dedos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_135 | Mistique
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_144 | Chitose
+N:avg1_163 | Greyhorn
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1313 | Allie
+N:avg3_152 | Bastelina
+N:avg3_157 | Guardia Imperial
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_210 | Hazana
+N:avg3_216 | Gunhild
+N:avg3_217 | N.º 160
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | Arena entre los dedos
+0003 [Intro] | Gracias a la feroz resistencia de Allie, rompes el bloqueo de Greyhorn. Logras detener el hechizo de la n.º 160, pero no el bombardeo de Gunhild. Aunque está gravemente herida, Noya intenta protegerte, pero ambos caen.
+0004 [Lugar y hora] | 17:20, 18.º del mes de Nebula, Mirage, mina en derrumbe
+0005 [1] | ¿Allie... va a estar bien?
+0006 [Noya] | No te preocupes. Mamá es dura. Tú mismo nos contaste que ella y Narida acabaron con cientos de Centinelas del Alba y Guardias Imperiales sin sudar ni una gota.
+0007 [Noya] | Eso fue una pelea de guerrillas, sí. Pero este túnel es demasiado estrecho. El Comité de Salvación no puede rodearla en masa.
+0008 [Tú] | Nazuka, Chitose, ¿están bien?
+0009 [Nazuka] | Estoy bien. Pero mi Piedra del Alma se quedó sin magia.
+0010 [Chitose] | Todavía puedo pelear con la mano izquierda.
+0011 [Tú] | No desperdiciemos el tiempo que nos consiguió Allie. Sigamos avanzando. Nos reagrupamos en el Monolito.
+0012 [Lugar y hora] | 17:25, 18.º del mes de Nebula, Mirage, desierto a las afueras de la ciudad
+0013 [Angie] | Gunhild. ¿Cómo va el bombardeo?
+0014 [Gunhild] | La mitad de la primera unidad ya disparó. Todo va según lo previsto.
+0015 [Gunhild] | Los impactos atravesaron la superficie y empujaron al Tirano directo hacia los túneles abandonados de la mina.
+0016 [Gunhild] | Nuestra Primera Compañía los estaba esperando. Ya se reunieron con la capitana Greyhorn.
+0017 [Gunhild] | La Segunda, junto con los Escorpiones del Desierto y la Guardia Imperial, avanzan para flanquearlos.
+0018 [Gunhild] | Esa mina tiene contadas salidas. Esta vez atrapamos al Tirano. Garantizado.
+0019 [Angie] | Nada en este mundo está garantizado. La directora Allie ya detuvo en seco a Greyhorn.
+0020 [Gunhild] | ¿Qué?
+0021 [Angie] | Acabo de hablar con ella. Resulta que Allie es Taffett, la as desaparecida de los Gatos Blancos.
+0022 [Angie] | El Tirano de verdad tiene talentos ocultos alrededor de ==SEX8==.==W== Gunhild, sin contenerte. Descarga el resto de tu munición.
+0023 [Angie] | Incluso a través del suelo, todavía puedes rastrear a 160 y a Noya, ¿verdad?
+0024 [Lugar y hora] | 17:30, 18.º del mes de Nebula, Mirage, mina en derrumbe
+0025 [Chitose] | Mi ==SEX11==, el túnel de adelante está bloqueado. El derrumbe es reciente.
+0026 [Nazuka] | Aquí igual.==W== El Comité de Salvación nos encerró a propósito.
+0027 [Tú] | Tch... Así que Angie eligió este lugar solo para tender esta trampa. Me engañó...
+0028 [Tú] | No, la diferencia de efectivos es demasiado grande. Es como jugar ajedrez con diez piezas contra cien. Era imposible bloquear cada jugada.
+0029 [Noya] | ¡Jefe, por aquí! Siento una corriente de aire que viene de esta pared. ¡Debe haber un paso! Háganse para atrás,==W== ¡la voy a reventar!
+0030 [Tú] | ¡Gracias al cielo por la intuición de Noya!
+0031 [???] | Jijí... ¿Y adónde crees que vas, Tirano?
+0032 [Nazuka] | ¡Noya, cuidado! ¡Hay alguien detrás de la pared!
+0033 [Noya] | ¿Tú otra vez? Eres una lata. ¡¿Qué eres, una acosadora o qué?!
+0034 [No. 160] | ¿Una acosadora? ¡Tal vez!==W== Pero ahora mismo... soy la señal del fuego celestial.
+0035 [Noya] | Uf, ya basta de acertijos. Nazuka, Chitose, adelántense. Yo me encargo de detener a esta rarita.
+0036 [Noya] | Ugh... Eso duele.
+0037 [No. 160] | Jijí, ¿te da miedo devolver el golpe? ¡Pues yo no me voy a contener! Tu herida está justo ahí, Trekker. ¡Es facilísimo picarla!
+0038 [No. 160] | Aunque ir a la segura da igual. Me tragué un montón de dolor antes de venir a buscarte.==W== Que te atraviese un cañón mágico se siente... ¡increíble! ¡Increíble!
+0039 [No. 160] | ¡Y ahora te voy a dar todo ese dolor increíble a ti!
+0040 [No. 160] | ¡Dios de la Gracia, por favor, detén el reloj! ¡Haz que se detenga!
+0041 [Opción] | Taparle los ojos a la n.º 160
+0042 [No. 160] | Se acabó...
+0043 [No. 160] | ...¡Tirano! ¡Oye, ¿qué haces tapándome los ojos?!
+0044 [Narración] | Pero esta magia en realidad no detiene el tiempo. Solo usa poder mágico a la fuerza para restringir el movimiento de todo lo que ella pueda ver dentro de cierto rango a su alrededor.
+0045 [Tú] | Solo puedes congelar lo que ves. Así que, si te tapo la vista, tu magia no sirve para nada.
+0046 [No. 160] | ¡¿C-cómo es posible?! ¡Puedo ver tu mano! Deberías estar congelado...
+0047 [Tú] | Lo siento. Soy inmune a la magia.
+0048 [Chitose] | Mi ==SEX11==, está inconsciente.
+0049 [Tú] | Uf, con eso nos encargamos de ella.==W== Nazuka, Chitose, amarren a esta árbitra y llévensela. Yo me encargo de Noya. Vamos justo detrás de ustedes.
+0050 [Gunhild] | Lady Angie, gracias a que la n.º 160 nos consiguió algo de tiempo, ya encontré la ubicación de Noya.
+0051 [Angie] | Abre fuego. 160 hizo las paces con la muerte antes de desplegarse.
+0052 [Gunhild] | ¡A la orden!
+0053 [Noya] | Lo siento, Jefe. Esta vez sí que te arrastré conmigo.
+0054 [1] | ¿De qué hablas? Ganamos. El Comité de Salvación no pudo detenernos y todos salieron a salvo.
+0055 [Tú] | ¿Una explosión? ¡¿Justo encima de nosotros?!
+0056 [Nazuka] | ¡Jefe!
+0057 [1] | ¡Nazuka, Chitose, no se acerquen!
+0058 [Narración] | Lo último que veo es el túnel derrumbándose y a Noya dándose la vuelta para protegerme con su propio cuerpo.
+0059 [Noya] | ¡Ya lo tengo!
+0060 [Tú] | ¡Uy!==W== Me asustaste...==W== ¿Qué pasa?
+0061 [Noya] | ¡Se me acaba de ocurrir! ¡Ya sé cómo hacer que llueva en el desierto!
+0062 [Noya] | Primero, Iris congela el lago del oasis en un bloque de hielo gigante.==W== Luego, si logramos que Mistique lo levante por los aires,==W== ¡el hielo derretido caerá como lluvia!
+0063 [Tú] | Eh...==W== Técnicamente eso sería «lluvia», sí.==W== Pero si vas a subir hielo hasta allá arriba, ¿no sería mejor dejárselo caer a los enemigos de la duna?
+0064 [Noya] | ¿Enemigos de la duna?==W== ¿Qué es eso?
+0065 [Tú] | Es que... Eh, creí que estabas tratando de idear una forma de salir de este lío...
+0066 [Noya] | ¡Jajaja! ¡No, no!==W== Solo estaba pensando en cómo hacer que florezcan flores en el desierto.
+0067 [Noya] | ¡Imagínate! Si de verdad pudiéramos lograrlo, tal vez veríamos una escena sacada de un cuento de hadas, ¿no crees?
+0068 [Tú] | Una escena de cuento de hadas... ¿Solo por eso?
+0069 [Noya] | No es «solo por eso».==W== ¡Mi sueño es ver todo el mundo contigo, Jefe!
+0070 [Noya] | ¡Pero me interesa más cosechar estrellas que pelear con monstruos!
+0071 [Tú] | ¿Cosechar estrellas?
+0072 [Noya] | ¡Sí! También se lo oí a alguien. Dicen que si derrotas al Stellaroid de clase jefe del Monolito y encuentras la Estrella de los Deseos que custodia, cualquier deseo que pidas se hará realidad ♪
+0073 [Tú] | ...¿Mmm?==W== Pero yo creía que tu sueño era...==W== derrotar al poderoso Stellaroid del Monolito... y cosechar una estrella, ¿no?
+0074 [Noya] | Sí♪ Pero==W== ¡ninguna regla dice que no puedas tener más de un deseo!
+0075 [Noya] | Bueno, bueno, no hablemos de eso ahora. ¡Jefe, mira!
+0076 [Noya] | ¡Está empezando a llover!
+0077 [Tú] | ...¿Llover?==W== Noya, ¿de qué hablas...?==W==
+0078 [Tú] | ¿N-Noya? Tú estás...
+0079 [Noya] | Esta es... La flor más hermosa del desierto.
+0080 [Noya] | Es tan bonita, ¿verdad...?
+0081 [Narración] | Unas gotas tibias me caen en la cara.
+0082 [Narración] | Tal como ella dijo, el desierto presencia la lluvia.
+0083 [Noya] | ¡Jefe, abre los ojos...! ¡¡Mírame!!
+0084 [Noya] | ¡Todavía hay muchísimos lugares que no hemos visto juntos...!
+0085 [Noya] | Así que... ¡por favor...! ¡¡Abre los ojos!!
+0086 [Opción] | ¿N-No... ya...?
+0087 [Noya] | ¿Jefe? Qué alivio... Creí que no ibas a despertar.
+0088 [Noya] | Está tan oscuro que casi no veo. ¿Estás bien...? ¿Te lastimaste... en algún lado?
+0089 [Tú] | S-sí. Los escombros me tienen atrapado, así que casi no me puedo mover... Pero no parece que esté herido.
+0090 [Tú] | Aparte de eso... ¿Qué pasó? ¿Se derrumbó la mina?
+0091 [Noya] | Sí. Esa explosión de hace rato... Parece que se vino abajo por completo.
+0092 [Noya] | Ah... Pero no te preocupes, sé que Nazuka y Chitose están bien.
+0093 [Tú] | Qué bueno saberlo. Pero ¿y tú, Noya?==W== Te noto muy sin aliento...
+0094 [Noya] | ¿Y-yo? Estoy... Jaja... Estoy bien, de verdad. Solo me raspé un poco al caer, nada más...
+0095 [Tú] | En una situación así, si solo nos raspamos un poco, hay que sentirnos afortunados. Por cierto, ¿has visto mi teléfono? Pronto tengo que comunicarme con todos...
+0096 [Tú] | ¿Eh? ¿Es tu teléfono lo que estoy tocando? Creo que está atorado en algo. No lo puedo sacar. Pero tal vez pueda encender la pantalla...
+0097 [Tú] | ¡Genial! ¡Encendió! Noya...
+0098 [Tú] | ...¿Eh? ¡¿N-Noya?! Tú...
+0099 [Narración] | Lo que me mojó la mejilla no era la tibieza de la lluvia... sino gotas carmesí que caían del pecho de Noya.
+0100 [Narración] | Ha estado sosteniendo los escombros derrumbados solo para abrirme un pequeño hueco.
+0101 [Noya] | Ah... ¿Se puso un poco más claro?
+0102 [Noya] | Entonces eso significa... Que encontraste el teléfono, ¿verdad?
+0103 [Noya] | Pero... ¿Eh? Q-qué raro... Debería estar más claro, pero... no alcanzo a ver bien tu cara...
+0104 [Tú] | Ya basta, Noya. No te esfuerces más...
+0105 [Noya] | No... No puedo. Si no aguanto... Te van a aplastar los escombros...
+0106 [Noya] | Y además... No tienes de qué preocuparte. Ser dura es... algo así como mi punto fuerte. Tú también lo sabes... ¿Verdad?
+0107 [Noya] | Así que... En cuanto salgamos de aquí y me saquen la estaca que tengo clavada... Una herida así... sanará en unos cuantos días...
+0108 [Noya] | Y luego... ¿Jefe? Vamos a dar una vuelta... juntos... con Loxy...
+0109 [Tú] | Sí, iremos. Iremos. ¡Voy contigo a donde tú quieras! ¡Así que deja de gastar fuerzas hablando!
+0110 [Noya] | No... Puede que esta sea mi última oportunidad, así que déjame terminar como se debe...
+0111 [Tú] | ¡¿Qué?! ¡No digas tonterías, Noya! ¡¡No digas algo así!!
+0112 [Noya] | P-perdón... pero... ya casi no veo... Y no creo que pueda hablar mucho más...
+0113 [Noya] | Jaja... Aunque te prometí... que nunca te mentiría...
+0114 [Noya] | Si esto sigue así... Seré una mentirosa para siempre en tu memoria... Y no podría... soportarlo... Ni siquiera muerta... Así que... Por favor... ¿Me escuchas?
+0115 [Tú] | ...Te escucho.
+0116 [Noya] | Mm... Gracias. Este, ¿sabes?, lo que te dije en el orfanato...
+0117 [Noya] | Ese momento en que tú y Nazuka hicieron su juramento bajo el Monolito... De verdad... de verdad me pareció hermoso. Eso es lo que sentí de verdad.
+0118 [Noya] | Y... que hayan hecho un juramento así... Me hizo pensar... que ustedes dos de verdad tienen una relación maravillosa. Eso también lo sentí de verdad.
+0119 [Noya] | Pero... Pero cuando dije que yo estaba bien mientras ustedes dos fueran felices... Lo siento... Puede que eso sí haya sido una mentira...
+0120 [Noya] | Cuando todas los estábamos espiando a escondidas... La verdad es que... deseaba ser yo la que estuviera ahí contigo...
+0121 [Noya] | Para ser sincera... Sentí un cosquilleo en el corazón. Jaja... No suena nada a mí, ¿verdad?
+0122 [Noya] | Bueno... por todo eso, no sabía cómo decirte lo que sentía...
+0123 [Noya] | Pero pensé que todavía nos quedaba un camino muy, muy largo... Así que nunca creí que tuviera que apresurarme... Lo siento. Parece que... Se acabó el tiempo...
+0124 [Tú] | ...No, no tienes por qué disculparte. Pero si eso era lo que de verdad sentías, ojalá me lo hubieras dicho antes...
+0125 [Noya] | Mm... No sé bien cómo decirlo, pero...
+0126 [Noya] | Cuando te encontré en la Caja de Deseos, sentí que... mi deseo ya se había hecho realidad.
+0127 [Noya] | Por eso, pensé que no debía pedir nada más...
+0128 [Noya] | Solo viajar contigo todos los días, ver paisajes nuevos... Pensé que debía estar agradecida por días así, pero...
+0129 [Noya] | Jeje... Yo...
+0130 [Noya] | Creo que no era tan alegre como pensaba...
+0131 [Tú] | Lo sé... Noya, lo sé...
+0132 [Tú] | Bueno... Entonces asegurémonos de salir de aquí los dos con vida, para ir a ver juntos toda clase de paisajes nuevos.
+0133 [Noya] | Sí... Te lo prometo.
+0134 [Noya] | Es solo que... Perdón. Ahora que lo saqué todo... Me siento tan aliviada que me está dando sueño...
+0135 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0136 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0137 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0138 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0139 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0140 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0141 [Narración] | ==Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida.
+0142 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0143 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0144 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0145 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0146 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0147 [Narración] | _NOT_IN_LOG_==A0.1====Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0148 [Narración] | ==Off==Perdón por pedírtelo, pero... ¿podrías seguir hablándome? Para no quedarme dormida. Está bien, te voy a hablar. Solo no te duermas, Noya.
+0149 [Narración] | _NOT_IN_LOG_==A0.15====Off==Claro...
+0150 [Narración] | _NOT_IN_LOG_==A0.15====Off==Claro...
+0151 [Narración] | _NOT_IN_LOG_==A0.15====Off==Claro...
+0152 [Narración] | _NOT_IN_LOG_==A0.15====Off==Claro...
+0153 [Narración] | _NOT_IN_LOG_==A0.15====Off==Claro...
+0154 [Narración] | _NOT_IN_LOG_==A0.15====Off==Claro...
+0155 [Narración] | ==Off==Claro...
+0156 [Narración] | ==Off==Y a partir de ahí, empiezo a hablar de lo primero que se me viene a la mente.
+0157 [Narración] | El día en que nos conocimos,==W== la primera vez que escalamos un Monolito,==W== nuestra guerra de almohadas en pijama,==W== la guerra corporativa en Emor,==W== esos días turbulentos en Philae,==W== y nuestra aventura en el desierto...
+0158 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0159 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0160 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0161 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0162 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0163 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0164 [Narración] | ==Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes?
+0165 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0166 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0167 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0168 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0169 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0170 [Narración] | _NOT_IN_LOG_==A0.1====Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0171 [Narración] | ==Off==Noya, ¿te acuerdas de esa técnica de espada que me enseñaste? Todavía la practico en secreto, ¿sabes? ...Mjm.
+0172 [Narración] | Las respuestas de Noya se van apagando poco a poco, y las gotas tibias que me caen en la mejilla son cada vez más espaciadas.
+0173 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0174 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0175 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0176 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0177 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0178 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0179 [Narración] | ==Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto!
+0180 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0181 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0182 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0183 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0184 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0185 [Narración] | _NOT_IN_LOG_==A0.1====Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0186 [Narración] | ==Off==Y luego... ¡Ah, cierto! ¡Escucha esto! ¡Se me acaba de ocurrir cómo hacer que también llueva en el desierto! ...
+0187 [Narración] | ¡¿Noya?!
+0188 [Noya] | ...
+0189 [Narración] | ==Off==...¿N-No... ya...? ¡Oye, Noya! ¡Noya! ¡¡¡¡¡Noya!!!!!
+0190 [Narración] | ¡¡¡¡Aaaaaaaahhhhhhhhhh!!!!
+0191 [Narración] | La lluvia en el desierto... se detiene.
+0192 [Narración] | Los brazos de Noya ceden lentamente. Bajo el peso aplastante de los escombros, nuestros cuerpos quedan apretados uno contra el otro.
+0193 [Narración] | Desde el día en que desperté en el desierto hasta este preciso momento... Nunca había deseado la muerte con tanta desesperación.
+0194 [Tú] | ¡¡¡¡Noya!!!!
+0195 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0196 [Virigia] | Tirano... Mis condolencias.
+0197 [Bernina] | Esta es la Sala Blanca. Tus compañeras no pueden alcanzarte aquí.
+0198 [Tú] | ¡Claro, claro! ¡La Sala Blanca! Eso significa que todavía tengo una oportunidad. Todavía puedo volver y salvar a Noya, ¿verdad?
+0199 [Virigia] | E-es cierto...
+0200 [Bernina] | Por favor, cálmate, Tirano. Esto no es propio de ti.
+0201 [Tú] | ¡Noya se desangró por mí! ¡Se fue enfriando justo frente a mí, poco a poco!
+0202 [Tú] | ¡Y hasta el último momento estuvo sosteniendo esos escombros para protegerme!
+0203 [Tú] | ¡¿Que me calme?! ¡¿Cómo demonios se supone que me calme?!
+0204 [Virigia] | Entendemos perfectamente su dolor. Pero necesita mantener la calma, ahora más que nunca.
+0205 [Bernina] | Si vuelves con la cabeza completamente caliente, ¿de verdad crees que tomarás la decisión correcta?
+0206 [Bernina] | Solo vas a arrastrar a tus compañeras a otro final trágico. Eso solo aumentará su sufrimiento y el tuyo.
+0207 [Tú] | Yo...
+0208 [Tú] | Lo siento. Tienen razón. Estaba siendo impulsivo.
+0209 [Tú] | Juzgué muy mal la situación. Creí que podríamos escapar limpiamente, pero el Comité de Salvación nos lanzó mucho más de lo que esperaba.
+0210 [Tú] | Aunque Allie, Chitose y Nazuka puedan acabar cada una con docenas de miembros del Comité por su cuenta...
+0211 [Tú] | Contra su enorme número y su organización, nuestra fuerza individual no significó nada.
+0212 [Virigia] | Es bueno que pueda volver a pensar racionalmente. Entonces, por favor, recuerde esta última imagen.
+0213 [Bernina] | Mientras contemplas el paisaje a lo lejos, no olvides que alguien también te está contemplando en silencio.
+0214 [Virigia] | Si tan solo hubiera notado sus sentimientos antes, quizá ella habría sido mucho más feliz.
+0215 [Tú] | Noya...
+0216 [Tú] | ¡Vita, abre la puerta! ¡Voy a cambiar todo esto!
+0217 [Vita] | Su orden es mi voluntad.

@@ -1,0 +1,135 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 4 · De vuelta a los viejos rincones
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_119 | Nanoha
+N:avg1_145 | Otoha
+N:avg1_164 | Shuo
+N:avg3_100 | Sylar
+N:avg3_1285 | Otoha
+N:avg3_1287 | Escorpión del Desierto
+N:avg3_202 | Isaki
+N:avg3_203 | Okra
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | De vuelta a los viejos rincones
+0003 [Intro] | Firenze trae malas noticias: un grupo de mercenarios conocido como los Escorpiones del Desierto planea sabotear el banquete. Te sientes aliviado de haber contratado a Otoha como guardaespaldas, sin saber que así es exactamente como empieza la trampa.
+0004 [Lugar y hora] | 13:30, 4.º del mes de Venatio, Distrito de Plata de Philae, celda subterránea de Goodwind Homecare
+0005 [Shuo] | Si sabes quién soy, también deberías saber que estás cometiendo un error colosal.
+0006 [Shuo] | Secuestrar a la gerente de la sucursal de Philae, la futura líder de Goodwind Homecare...==W== Qué agallas tienes.
+0007 [Otoha] | Unas cuantas promesas vacías de gloria, y con gusto se convierten en herramientas, tirando su vida como un kunai que nunca pensaron recuperar... Y hasta se enorgullecen de ello.
+0008 [Otoha] | Je. Típico de Goodwind.
+0009 [Shuo] | No actúes como si nos conocieras. Ve al grano. ¿Cuánto quieres?
+0010 [Otoha] | Directo a los Dorra...==W== No hay duda de que eres la sucesora elegida por esa persona.
+0011 [Shuo] | ¿Conoces a la líder de Goodwind Homecare?==W== ¿Estás con ellos?
+0012 [Shuo] | Espera, no reconozco tu voz. O estás fanfarroneando, o la estás disfrazando para que no te identifique.
+0013 [Shuo] | Sea como sea, tu plan no va a funcionar. Mi gente me encontrará.
+0014 [Shuo] | Quien sea que seas, tú y tus cómplices son carne muerta.
+0015 [Otoha] | ¿Cómplices? Jeje... Yo trabajo sola.
+0016 [Shuo] | ¿Qué? ¿Te metiste sola al territorio de Goodwind y me sacaste a rastras? ¡Imposible!
+0017 [Otoha] | No fue ni de lejos tan complicado. Ahora mismo estamos en la celda subterránea de la propia Goodwind. Solo estoy tomando prestado el espacio.
+0018 [Otoha] | ¿No te resulta familiar el aire?
+0019 [Shuo] | No... Eso es imposible.==W== ¡¿Y los demás?! ¿Acaso tú...?
+0020 [Otoha] | Ni idea. Ahora mismo, somos las dos únicas almas que quedan en toda la propiedad.
+0021 [Otoha] | ...Jeje. ¿Notas qué deliciosamente silencioso está? Puedo oír tu corazón golpeándote el pecho.
+0022 [Otoha] | No hay por qué angustiarse. Es un placer poco común. Disfrutemos nuestra pequeña charla privada.
+0023 [Shuo] | ¿Quién...? ¡¿Quién demonios ERES?!
+0024 [Otoha] | No importa.
+0025 [Otoha] | Recuerda una cosa. Para mañana, Goodwind Homecare estará en ruinas...
+0026 [Otoha] | Estoy usando a tu gente para eliminar a alguien.
+0027 [Otoha] | Las pruebas apuntarán directo a los altos mandos de Goodwind. Su reputación se hará añicos y se volverán enemigos públicos.
+0028 [Otoha] | Una vez que pierdan su lugar en este continente, se señalarán entre ellos, se traicionarán unos a otros y se arrastrarán directo al infierno.
+0029 [Otoha] | Es su ajuste de cuentas. Una deuda que lleva mucho tiempo vencida.
+0030 [Shuo] | ...Admito que eres hábil. Pero tu plan va a fracasar.
+0031 [Shuo] | Hemos resistido incontables tormentas. También saldremos adelante de esta, juntas.
+0032 [Otoha] | Entonces supongo que ya lo veremos.
+0033 [Otoha] | La próxima vez que pase por aquí, te traeré buenas noticias.
+0034 [Shuo] | ...
+0035 [Shuo] | Un odio tan amargo hacia Goodwind, y además esas habilidades...
+0036 [Shuo] | ¿Será que es...?==W== ¡Pero es imposible! No se atrevería a volver.
+0037 [Lugar y hora] | 14:30, 4.º del mes de Venatio, Distrito de Plata de Philae, Goodwind Homecare
+0038 [Otoha] | Una visita poco común a mis viejos rincones...==W== Y aun así no siento nada de nostalgia.
+0039 [Otoha] | Nada más que puro asco.
+0040 [Otoha] | Ver su feliz ignorancia... Es como mirar a mi yo del pasado.
+0041 [Narración] | Nueve horas antes.
+0042 [Shuo] | Entrenar en la mañana fue la decisión correcta. Esto va a ser un caos cuando los demás despierten.
+0043 [Shuo] | Espera,==W== este aroma...
+0044 [Shuo] | ¡Intrusos...!==W== Tengo que dar la alerta...
+0045 [Otoha] | ¿Mmm? Eres más dura de lo que pensaba, todavía hablas después de una dosis de magia sedante. Arreglemos eso con otra más.
+0046 [Shuo] | ¡Ngh...!
+0047 [Otoha] | Disculpe, señorita Shuo. Tomaré prestada su identidad un rato.
+0048 [Isaki] | ¿Qué? ¡¿Un despliegue de emergencia?!==W== Y yo que tenía tantas ganas de un baño caliente esta noche...
+0049 [Okra] | Deja de quejarte y muévete. Empaca tu equipo, ya.
+0050 [Nanoha] | No pasa nada, ya tengo todo empacado. Una revisión rápida del inventario y podemos irnos.
+0051 [Isaki] | ¡M-Maestra!==W== ¡Me salvaste la vida!
+0052 [Nanoha] | ¿Vendrá con nosotras, señorita Shuo?
+0053 [Shuo] | No. Me quedo aquí.
+0054 [Nanoha] | Dejamos el lugar en sus manos.==W== Cuídese.
+0055 [Shuo] | Sí.
+0056 [Isaki] | Increíble. Nos hace el feo cuando la Maestra solo está siendo amable con ella.
+0057 [Nanoha] | Isaki, Okra. Vámonos.
+0058 [Otoha] | Después de tantos años, por fin volvimos a hablar cara a cara.
+0059 [Otoha] | Si la conversación hubiera durado un poco más, ¿habría descubierto mi disfraz?
+0060 [Otoha] | Irme sin decir nada en ese entonces fue mi única opción. Le fallé... Debió sentirse completamente perdida estos últimos años.
+0061 [Otoha] | Ojalá alguien pudiera ocupar mi lugar a su lado y compartir sus cargas.
+0062 [Otoha] | Cuando caiga Goodwind Homecare, por fin podremos reencontrarnos a plena luz del día.
+0063 [Otoha] | Espero que ese día llegue pronto...
+0064 [Lugar y hora] | 16:00, 4.º del mes de Venatio, Distrito de Plata de Philae, habitación del hotel
+0065 [Narración] | De vuelta en el hotel, les cuento a Noya e Iris lo que pasó en Goodwind Homecare.
+0066 [Narración] | Les pido que no digan nada. Nadie puede saber que Otoha es mi guardaespaldas.
+0067 [Tú] | ¿Mmm? ¿Firenze?
+0068 [Firenze] | Jefe, ¿es buen momento?
+0069 [Tú] | Sí. ¿Qué pasa?
+0070 [Firenze] | Mandé a hacer una investigación. Alguien les pagó una fortuna en Dorra a los Escorpiones del Desierto para atacar el banquete.
+0071 [Tú] | ¿Los Escorpiones del Desierto?
+0072 [Firenze] | Son unos mercenarios de élite famosos de Mirage, la ciudad del desierto. Por el precio adecuado, su brutalidad no tiene límites.
+0073 [Tú] | ¿Quién los contrató? ¿La misma persona que las sacó de Philae?
+0074 [Firenze] | Es muy posible. Lo voy a investigar.==W== Mantente alerta, Jefe. Los Escorpiones del Desierto no se andan con juegos.
+0075 [Tú] | Entendido. Por mi lado todo está tranquilo, pero les diré a las demás que estén alertas.
+0076 [Tú] | Parece que contratar a Otoha fue lo correcto.
+0077 [Tú] | Por cierto, ¿conoces a alguien de Goodwind Homecare?
+0078 [Firenze] | ¿Goodwind Homecare?==W== Una vez conocí a la gerente de su sucursal de Philae. Shuo, creo. Nos tocó la misma mesa en la boda de una noble.
+0079 [Tú] | ¿Shuo...? ¿No Otoha?
+0080 [Tú] | ¿Cómo es ella?
+0081 [Firenze] | Solo intercambiamos cortesías; no pude conocerla a fondo. Pero recuerdo que tenía una elegancia muy noble.
+0082 [Tú] | Qué raro. Eso no suena para nada como Otoha.==W== Aunque, bueno, quizá cambió de identidad hace poco.
+0083 [Firenze] | ¿Por qué preguntas por Goodwind Homecare de repente?
+0084 [Tú] | Hace tiempo conocí a una de sus sirvientas. Más que nada, curiosidad.
+0085 [Firenze] | Hazme caso: mantente lo más lejos posible de ellos.
+0086 [Firenze] | No conozco todos los detalles, pero apenas llevan una década. Y aun así, de algún modo ya tienen vínculos profundos con incontables familias y empresas de élite.
+0087 [Firenze] | Deben tener el respaldo de alguien increíblemente poderoso, cuya verdadera identidad sigue siendo un misterio después de tantos años... Y eso es justo lo que los hace tan peligrosos.
+0088 [Firenze] | Que sus verdaderos orígenes sean un misterio total hace que todo sea muy inquietante.
+0089 [Tú] | Entendido. Me cuidaré las espaldas.
+0090 [Firenze] | Contacté a la Guardia Imperial para que ayude a proteger el salón. Deberían poder echarles una mano.
+0091 [Tú] | Te lo agradezco. Déjanos el banquete a nosotros. Tú y Nyx cuídense allá afuera.
+0092 [Firenze] | Ay... Sigo nerviosa. Si las cosas salen mal por allá, no me enteraré hasta que sea demasiado tarde.
+0093 [Firenze] | Yo fui quien te metió en esto, y ni siquiera puedo garantizar tu seguridad...
+0094 [Tú] | Entonces pongamos una señal.
+0095 [Firenze] | ¿Una señal?
+0096 [Tú] | Llámame cuando quieras. Si no contesto en un minuto, o si contesto y cuelgo de inmediato, sabrás que estoy en problemas.
+0097 [Firenze] | Entendido. Por favor, incluye también a Ruby y a Sapphire. Si no respondes a su llamada, movilizarán de inmediato todos los recursos disponibles de la sucursal de Philae para rescatarte.
+0098 [Firenze] | Si no logro comunicarme contigo, aceptaré las condiciones de la sede a cambio de ayuda.
+0099 [Tú] | Lo haces sonar aterrador. ¿Aceptar las condiciones de la sede? Entonces todo nuestro esfuerzo habría sido en vano. Tu carrera en Philae, tu sueño de cambiar la ciudad...
+0100 [Firenze] | Una carrera y un sueño sin ti no tendrían ningún sentido.
+0101 [Tú] | Cof... está bien, tranquila. No dejaremos que llegue a eso.
+0102 [Tú] | En fin, mantente en contacto.
+0103 [Tú] | El enemigo... ¿Dónde podría estar escondido?
+0104 [Tú] | El banquete es mañana... Crucemos los dedos para que todo salga bien.
+0105 [Firenze] | Ay...==W== Jefe, lo digo completamente en serio.
+0106 [Lugar y hora] | 23:00, 4.º del mes de Venatio, Distrito de Plata de Philae, ????
+0107 [???] | Última revisión. Apéguense al plan: crucen por el callejón sur y ataquen al objetivo por la espalda.
+0108 [???] | Esta noche solo es reconocimiento. Cuenten a los guardias, ubiquen las patrullas y registren los accesos. ¡No nos delaten!
+0109 [???] | ¡Entendido!
+0110 [???] | ¡¿...?! ¡¿Quién...?!
+0111 [???] | ¡Agh...!
+0112 [Otoha] | No tengo intención de compartir a mi presa.
+0113 [Otoha] | Nos vemos mañana, Jefe.
+0114 [Otoha] | Pero antes...==W== Tomarme un momento para admirar tu cara dormida suena encantador. Jejeje.

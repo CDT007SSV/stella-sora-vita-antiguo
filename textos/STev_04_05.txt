@@ -1,0 +1,124 @@
+# Evento · Réquiem invernal y el gatillo del alba · 5 · La noche antes del alba
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Axe Guy? | ¿Hacha?
+N:avg1_1211 | Wraith
+N:avg1_143 | Wraith
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_195 | Edda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | La oscuridad antes del alba
+0003 [Intro] | De vuelta en el campamento, rescatas a Edda, quien también está siendo atacada. Ella asegura haber visto a Nocturn Eterna entrar al Monolito. Deciden tomar un breve descanso antes de entrar para descubrir la verdad.
+0004 [Tú] | ¿Todo bien?
+0005 [Wraith] | Parece... estable... Respira con normalidad...==W== Uf... Parece que... solo está profundamente dormida...
+0006 [Tú] | No me refería a ella. Me refería a ti. Estás jadeando.==W== Si estás cansada, yo la cargo.
+0007 [Wraith] | Uf... Estoy bien. No estoy cansada... es solo que...
+0008 [Tú] | ¿Solo que qué?
+0009 [Wraith] | Qué calor... Creo que me está dando una insolación...
+0010 [Wraith] | Perdón, quizá necesite refrescarme...
+0011 [Tú] | ¿Refrescarte?
+0012 [Tú] | Sabía que no aguantabas el calor, pero esto es ridículo. Llevas tan poca ropa con este frío helado y aun así tienes calor...
+0013 [Wraith] | Uf... Uf... No puedo... El calor me marea... Se me nubla la vista... Tengo que hacer algo... y rápido.
+0014 [Wraith] | Esta ropa me asfixia... Aunque es difícil quitármela con ella en la espalda...
+0015 [Tú] | ¡Espera, espera, un momento! ¡¿Qué crees que haces?!
+0016 [Wraith] | ¿Mm? Liberar calor. ¿No es el método más eficiente?
+0017 [Tú] | ¿El calor te achicharró el cerebro? ¡No necesitas desvestirte para refrescarte!
+0018 [Tú] | Bien, pero recuerda: ¡tú fuiste la que dijo que hacía calor! ¡No me culpes si luego te congelas!
+0019 [Tú] | Menos mal que aquí hay de sobra con qué refrescarse... Un puñado de nieve debería servir...
+0020 [Wraith] | Mm, usar nieve es una estrategia sensata. ==PLAYER_NAME==, ¿podrías aplicarme un poco en la cara? Eso ayudará.
+0021 [Tú] | Creo que ya vas vestida con bastante frescura... ¿Cómo se siente?
+0022 [Wraith] | Uf... Mucho mejor. Se me está despejando la cabeza.
+0023 [Tú] | Genial. Tomemos aire y seguimos avanzando...
+0024 [Wraith] | Necesito que te encargues también del resto de mi cuerpo. Al parecer, enfriar las axilas y la parte interna de los muslos es lo más efectivo cuando se sufre una insolación...
+0025 [Tú] | ¡Ni hablar! ¡Esas partes puedes hacerlas tú sola!
+0026 [Tú] | Edda, ya volvimos...
+0027 [Tú] | Vaya. Parece que somos los primeros en volver.
+0028 [Wraith] | Llevaré a la señorita Espada Larga a su habitación.
+0029 [Tú] | Buen trabajo. Ahora solo queda esperar a que regresen los demás.
+0030 [Tú] | Aun así... Mira la hora. ¿Por qué no ha vuelto nadie más?
+0031 [Tú] | Y la compañera de la señorita Espada Larga, la Maga, también desapareció. Esto empieza a preocuparme un poco.
+0032 [Wraith] | Ya volví. Las demás habitaciones también están vacías.==W== ¿Significa que... a los demás también les pasó algo? Igual que a Espada Larga...
+0033 [Tú] | Probablemente. Lo que sea que la dejó así... Si yo fuera Nocturn Eterna, no me detendría con una sola víctima.
+0034 [???] | ¡¡¡Aaaahhh!!! ¡Por favor... Basta...!!!
+0035 [Tú] | ¡Esa es Edda! ¡Vamos!
+0036 [Narración] | Entramos corriendo. Edda monta guardia sobre una chica maga inconsciente y la protege de un tipo enloquecido con un hacha.
+0037 [Edda] | ¡Reacciona! ¡Soy yo! ¡Edda! ¡Ugh!
+0038 [Axe Guy?] | La Legión... Urgh... ¡Ustedes son... EL ENEMIGO!!!
+0039 [Edda] | ¡No, detente...!
+0040 [Wraith] | ¡——!
+0041 [Wraith] | ¡Atrás! ¡Yo me encargo de él!
+0042 [Tú] | ¡Parece que también está controlado! ¡Cuidado!
+0043 [Axe Guy?] | Los Cascos de Hierro... ¡los aplastarán a todos...!!!
+0044 [Wraith] | Qué movimientos tan extraños... Pero si es la misma situación de antes, solo tengo que desarmarlo como hice con Espada Larga...
+0045 [Axe Guy?] | ¡Ungh...!
+0046 [Wraith] | Lo suponía... No sé cómo funciona, pero en cuanto le quité el arma de un golpe, perdió el conocimiento.
+0047 [Tú] | Edda, ya pasó. ¿Estás heri...?
+0048 [Edda] | ¡Tirano...!
+0049 [Tú] | No te preocupes, ya estás a salvo.
+0050 [Edda] | Lo siento... Nunca pensé que algo tan terrible fuera a pasar...
+0051 [Edda] | Tu seguridad es lo primero, pero... Me asusté tanto que me quedé completamente paralizada...
+0052 [Tú] | Está bien. El peligro pasó...==W== Vamos, respira hondo.
+0053 [Edda] | Uf... Puf... Tus latidos, Tirano... Me hacen sentir muy segura.
+0054 [Wraith] | Perdona la interrupción. Abrácense todo lo que quieran, pero ¿podrían explicarme qué acaba de pasar?
+0055 [Edda] | Eh... mis disculpas... Les contaré todo.
+0056 [Wraith] | Uf. Llevé a Hacha y a Maga a su habitación. Espero que despierten pronto.
+0057 [Edda] | Gracias... Al menos nadie está gravemente herido. Es un milagro.
+0058 [Tú] | Vi que protegías a la Maga. ¿Hacha le hizo daño?
+0059 [Edda] | No... La encontramos tirada en el suelo con un arma extraña cerca. En cuanto él la recogió, simplemente...
+0060 [Tú] | Te atacó como si lo controlaran, ¿verdad?
+0061 [Edda] | Sí... ¿Qué diablos está pasando?
+0062 [Tú] | Nosotros nos topamos con la misma situación.
+0063 [Narración] | Le cuento lo de las armas y los murales de la cueva, y cómo la señorita Espada Larga nos atacó.
+0064 [Edda] | No puedo creer que algo tan horrible haya pasado dos veces...
+0065 [Tú] | Por lo que parece, probablemente los atacó Nocturn Eterna.
+0066 [Tú] | Aunque es solo una suposición. Wraith y yo no vimos a ningún Nocturn Eterna.
+0067 [Edda] | No sé si cuente como pista, pero...==W== Yo los vi.
+0068 [Wraith] | ¡¿Los viste?!
+0069 [Edda] | Bueno, solo de espaldas.
+0070 [Edda] | Tienen cuernos blancos en la cabeza. No hay duda.
+0071 [Wraith] | Cuernos blancos...
+0072 [Tú] | Suena a la persona que me sigue, la que Wraith mencionó.
+0073 [Edda] | ¡¿En serio?! Entonces... Quizá el verdadero objetivo de Nocturn Eterna sea el Tirano...==W== Es verdad, esa Nocturn Eterna se dirigía al Monolito.
+0074 [Tú] | En Emor, el objetivo de Nocturn Eterna, de Aeloria, era destruir Monolitos.
+0075 [Tú] | Pero ¿por qué entrarían a un Monolito que ya destruyeron? ¿Será porque el Monolito se reinició?
+0076 [Tú] | ¿Intentan destruir el Monolito antes de que vuelva a la normalidad? ¿O solo vienen a retrasar nuestra investigación?
+0077 [Tú] | Pero sea cual sea el objetivo, no hay razón para que realicen ese tipo de ritual.
+0078 [Tú] | Algo no cuadra... ¿Me falta una pieza del rompecabezas?
+0079 [Tú] | Participantes... Duelo... Respuesta...
+0080 [Edda] | ¿Tirano?
+0081 [Tú] | Wraith. El mural decía: «El dios desciende del Monolito... Participantes... Duelo... Respuesta...», ¿verdad?
+0082 [Wraith] | Palabra por palabra. Lo recuerdo claramente.
+0083 [Tú] | Es solo una especulación mía, pero... Explicaría por qué no nos han tocado. Quieren que hagamos su trabajo y terminemos el ritual.
+0084 [Wraith] | Ya veo... Así que eso significa el texto. Reunir participantes para un ritual y hacer que se batan en duelo hasta que quede un único vencedor; solo entonces Dios concederá una respuesta.
+0085 [Tú] | No intentan eliminarnos; están entresacando al rebaño. Necesitan un «único vencedor» que reciba esa respuesta.
+0086 [Wraith] | Y una vez elegido el vencedor, ¿qué pasa?
+0087 [Tú] | Esa es la pieza que falta. Tendremos que dar con Nocturn Eterna y sacarles la verdad a golpes.
+0088 [Edda] | ¡Brillante deducción! No esperaba menos de ti, Tirano.
+0089 [Edda] | Entonces el plan está listo. Vamos al Monolito y sacamos a Nocturn Eterna de su madriguera.
+0090 [Edda] | ¿Alguna objeción? Si no, pasemos directo a planear...
+0091 [Edda] | P-perdón... No he probado bocado desde esta mañana...
+0092 [Tú] | Jaja... De hecho, yo también me muero de hambre. Primero comamos algo.
+0093 [Tú] | Un momento, la cocinera del grupo es la Maga, ¿no? Y sigue inconsciente...
+0094 [Wraith] | Tengo raciones enlatadas guardadas. Dame un segundo.
+0095 [Narración] | Wraith se alejó. Un buen rato después regresó con los brazos llenos de latas variadas.
+0096 [Tú] | ¿Por qué tardaste tanto? Debiste avisarme si necesitabas una mano.
+0097 [Wraith] | Me tomé un tiempo para clasificarlas. Son las raciones estándar de los Centinelas del Alba. Saben mediocres, pero llenan por horas. Muy útiles en misiones.
+0098 [Tú] | Es verdad. En momentos como este, el sabor no es lo más importante.
+0099 [Edda] | ...
+0100 [Tú] | ¿Qué pasa, Edda, tienes algo en mente? Llevas un rato ahí parada, congelada.
+0101 [Edda] | ¡¿Eh?! Ah, perdón... Estuve tensa tanto tiempo, y ahora que me relajé, de repente me dio un poco de sueño...
+0102 [Edda] | Supongo que hoy sí estoy algo cansada... Me voy a descansar, pero me encargaré de que el plan de acción de seguimiento quede bien.
+0103 [Tú] | Ah, está bien... ¿Estás bien? ¿No te sientes enferma ni nada?
+0104 [Edda] | ¡Para nada! Estaré bien después de descansar un poco~
+0105 [Wraith] | Deberías llevarte algunas latas para comer. De todos modos las traje hasta aquí. ¿Por qué no eliges un sabor que te guste?
+0106 [Edda] | Gracias, gracias. Bueno... Entonces me voy adentro. Que disfruten la comida, todos, y buenas noches.
+0107 [Wraith] | ...
+0108 [Narración] | Wraith mantiene la mirada fija en la espalda de Edda mientras esta regresa a su habitación. No es exactamente una mirada de preocupación... sino más bien como si intentara confirmar algo.

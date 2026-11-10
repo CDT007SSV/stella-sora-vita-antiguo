@@ -1,0 +1,145 @@
+# Nova Times #01 · El frío de la hoja, el calor de tu mano · 3 · The Chill of the Blade, the Warmth of Your Grip (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blade-Sharpening Mercenary | Mercenario afilador
+N:Brawny Mercenary | Mercenario fornido
+N:Knight Captain | Capitana de los caballeros
+N:Mercenary Leader | Líder de los mercenarios
+N:Peer Trekker | Trekker compañero
+N:Tender Voice | Voz tierna
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_1242 | Chitose
+N:avg3_129 | Guardia Imperial
+N:avg3_139 | Trekker
+N:avg3_157 | Guardia Imperial
+N:avg3_973 | Trekker de paso
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El frío de la hoja, el calor de tu mano (Parte III)
+0003 [Intro] | Parece que quien salvó a Chitose está en peligro. Ella decide intervenir y ayudar. Este será el comienzo de una relación extraña e inolvidable...
+0004 [Chitose] | (—¿Dónde estoy?)
+0005 [Chitose] | (Es muy tarde... ¿Qué asuntos pueden tener aquí?)
+0006 [Chitose] | (Estaban discutiendo con alguien... y luego esa persona huyó.)
+0007 [Chitose] | (... El bando que parecía más fuerte huyó. ¿Significa eso que... el grupo de quien me salvó es todavía más poderoso?)
+0008 [Iris] | Esa sombra está bloqueando nuestra magia.
+0009 [Amber] | Escuché a Feagin. Se comunicó con la Guardia Imperial.
+0010 [Minova] | Nos van a rodear en cualquier momento. No hay tiempo de perseguirlos.
+0011 [Noya] | ¡Saquemos primero a Loxy de aquí!
+0012 [Chitose] | (Se van... pero parece que están por tener compañía.)
+0013 [Chitose] | (Entonces, para saldar mi deuda...)
+0014 [Lugar y hora] | 04:15, 2.º del mes de Pluvia, Distrito de Oro de Emor, Pasillo del canal
+0015 [Blade-Sharpening Mercenary] | ¿Ya te enteraste? El viejo tacaño de Creta puso una recompensa por cinco Trekkers: un millón de Dorra por cabeza.
+0016 [Brawny Mercenary] | ¿Feagin soltando tanto? Esos cinco de verdad se metieron con Creta Trading. Casi te quita las ganas de ir tras ellos.
+0017 [Mercenary Leader] | ¡Mira nada más, qué compasivo te pones!==W== Cobra esta recompensa y podemos descansar por meses.
+0018 [Brawny Mercenary] | Sí, tienes razón.==W== El techo tiene goteras y hay que pagar el préstamo de las armas...==W== Si nos topamos con esos Trekkers, pues mala suerte la suya.
+0019 [Mercenary Leader] | Seguro usan el canal para moverse. Tendremos una emboscada justo aquí.
+0020 [Chitose] | Disculpen.==W== Me temo que no puedo permitirlo.
+0021 [Blade-Sharpening Mercenary] | ¡¿Quién diablos eres—?!
+0022 [Blade-Sharpening Mercenary] | ¡Oye, me partiste la espada en dos!
+0023 [Brawny Mercenary] | ¡Maldición, ya ves! Por eso no quería meterme con ellos...
+0024 [Mercenary Leader] | ¡Oye, levántate! ¡Este no es momento de descans—!
+0025 [Chitose] | Por favor... Descansen.
+0026 [Chitose] | (Quien me salvó está aquí... Déjame esconderme en algún lugar.)
+0027 [Chitose] | (Mmm... ¿Será esto suficiente para saldar la deuda?)
+0028 [Tilia] | ¡Ah! ¡Seguro hablas de esos Trekkers! Acaban de regresar a Emor. Ahora mismo están ayudando al Clan Viento de Ceniza a plantarle cara a Creta Trading.
+0029 [Tilia] | Tienen una pelea difícil entre manos...==W== Escuché que unos caballeros aceptaron encargos de Creta Trading. Parece que la compañía está dispuesta a jugar sucio.
+0030 [Chitose] | (Suena a que... les esperan más enemigos.)
+0031 [Chitose] | (... ¿Debería seguir tras ellos?)
+0032 [???] | El área de adelante está bloqueada. No avance más.
+0033 [???] | Es muy peligroso. Es por su propia seguridad.
+0034 [Chitose] | (Esta aura... Obra de una guerrera experimentada.)
+0035 [Chitose] | (... Si me identifico como «Trekker» en la ciudad, debería evitar sospechas.)
+0036 [Chitose] | Gracias por la advertencia, pero no hay de qué preocuparse. Solo soy una Trekker de paso.
+0037 [???] | Ya veo. ¿Viene por la recompensa?
+0038 [Knight Captain] | Soy la Caballera Imperial asignada a este incidente. Los objetivos están huyendo. Si piensa unirse a la cacería...
+0039 [Knight Captain] | Hablando del rey de Roma. Ahí están. Esos Trekkers son muy tenaces.
+0040 [Chitose] | (Esas personas en patinetas... Espera, ¡¿no es quien me salvó y el grupo de ==SEX3==?!)
+0041 [Chitose] | (Entonces esta persona frente a mí... debe ser su perseguidora.)
+0042 [Chitose] | No los molestará.
+0043 [Knight Captain] | ¿«Molestar», dices...? Ya veo... No vienes a cazar la recompensa. Tú eres la recompensa.
+0044 [Chitose] | No los conozco.
+0045 [Knight Captain] | ¿Qué? Eso no tiene sentido.
+0046 [Knight Captain] | Si no los conoces, ¿a qué viene toda esa hostilidad?
+0047 [Chitose] | Esa persona de allá es quien me salvó.
+0048 [Chitose] | Perdóneme. No le guardo ninguna mala voluntad...
+0049 [Chitose] | ...
+0050 [Knight Captain] | Hmph. Tienes tus trucos.==W== ¡Pero no te atrevas a subestimar a una Caballera Imperial!
+0051 [Chitose] | (Me leyó por completo... Es de verdad.)
+0052 [Chitose] | ¡Y precisamente por eso no puedo dejarla pasar!
+0053 [Knight Captain] | ¿No retrocedes? Bien.==W== ¡Se acabaron las contemplaciones!
+0054 [Chitose] | (... ¡¿Rayos?! Esto va a ser difícil de contrarrestar.)
+0055 [Chitose] | (... Pero no puedo dejar que eso me detenga...)
+0056 [Knight Captain] | Ja, qué magia tan peculiar tienes. Es muy afilada.
+0057 [Chitose] | (¿Mi aura descontrolada la habrá disuadido?...==W== Bueno, al menos la detengo, y entonces—)
+0058 [Knight Captain] | Tu magia es muy poderosa, pero—
+0059 [Knight Captain] | Joven Trekker, en una pelea, confiar solo en la fuerza bruta no sirve de nada.
+0060 [Knight Captain] | ¡Basta de juegos: llegó la presa grande!
+0061 [Chitose] | ¡¿Qué—?!
+0062 [Chitose] | ¡No! ¡Está apuntando a... ==W==quien me salvó—!
+0063 [Chitose] | ¡Me temo que no puedo permitírselo!
+0064 [Chitose] | (Si mi hoja no puede seguirle el ritmo a su lanza, usaré mi cuerpo para detener—)
+0065 [Chitose] | (¿Eh? Puedo... controlar mi aura otra vez.)
+0066 [Narración] | Los libros que había leído decían que, una vez que encontrara a un portador digno, todo encajaría.
+0067 [Chitose] | (¿Será que... ==SEX== no es solo quien me salvó, sino también...)
+0068 [Opción] | Eres...
+0069 [Chitose] | Disculpe la demora, mi ==SEX11==.
+0070 [Knight Captain] | Mmm... Tu magia de pronto se volvió muy fluida... ¿Te estabas conteniendo hace un momento?
+0071 [Knight Captain] | Pero las espadas y las armas no tienen piedad. ¡Si no quieres perder la vida, deja de parlotear sobre salvar vidas y todo eso!
+0072 [Chitose] | Mis disculpas, pero para mí, ==SEX== no es solo quien me salvó;==W== ==SEX== también es mi portador...
+0073 [Chitose] | Dicho en palabras comunes, ==SEX== es mi ==SEX11==.
+0074 [Knight Captain] | Así que tienes tus razones. Pero yo tengo mis órdenes...
+0075 [Knight Captain] | ¡Todas las unidades! ¡Mientras está distraída, capturen al objetivo!
+0076 [Chitose] | ¡No—!
+0077 [Chitose] | (Todavía resisto, pero apenas... Son demasiados. Si esto sigue así...)
+0078 [???] | ¡Je, toma eso!
+0079 [???] | ¡Sigan el ataque—!
+0080 [Chitose] | (¡¿Humo?! ¿Otro de sus movimientos?)
+0081 [Minova] | ==PLAYER_NAME==, y ese Trekker justiciero que nos ayudó. ¡Todos, corran! ¡Yo los detengo aquí!
+0082 [Chitose] | (Así que... son compañeros...)
+0083 [Opción] | ¿Estás bien? ¿No te lastimaron?
+0084 [Chitose] | Yo... no estoy dañada.
+0085 [Opción] | Déjenle esto a Viento de Ceniza. Nos retiramos juntos.
+0086 [Chitose] | En-entendido. Oh, mi ==SEX11==, por favor no se pare tan cerca de mí...
+0087 [Passing Trekker] | ¡Argh—! ¡Mi hombrera está rota! ¡¿Qué hiciste?!
+0088 [Peer Trekker] | ¡Agh—! ¡Ay! Mi mano... ¡¿cómo se cortó?!
+0089 [Opción] | Tomar la mano de Chitose
+0090 [Chitose] | ¡No, mi ==SEX11==! Si me toca... se lastimará—
+0091 [Opción] | Vámonos.
+0092 [Chitose] | (==SEX1== me está sosteniendo la mano... pero la mano de ==SEX3== está ilesa...)
+0093 [Chitose] | (También es... tan cálida...)
+0094 [Tú] | Zzzz...
+0095 [Chitose] | Zzz...
+0096 [Narración] | En la clínica clandestina del Distrito de las Cenizas, Chitose tiende su colchoneta y se acuesta junto a la cama del hospital.
+0097 [Narración] | En realidad no está dormida, solo cumple con el deber de una hoja—
+0098 [Chitose] | Como su hoja, mi ==SEX11==, naturalmente debo permanecer cerca.
+0099 [Narración] | Para Chitose, la persona a su lado ya se había convertido en su ==SEX11==.
+0100 [Chitose] | (La manzana que estaba a mi lado de algún modo quedó partida por la mitad... sin que me diera cuenta.)
+0101 [Chitose] | (Pero usted... usted puede tomar mi mano sin lastimarse... Es increíble.)
+0102 [Chitose] | Nunca supe... que tomar una mano podía sentirse tan cálido y reconfortante.
+0103 [Tender Voice] | Chitose, labra tu propio camino con tus propias manos... Esa es tu siguiente prueba.
+0104 [Chitose] | ¿Me tomará en su mano?
+0105 [Tú] | Zzz... Zzzz...
+0106 [Chitose] | (Lo sé... Por ahora no hay respuesta.)
+0107 [Chitose] | (Pero usted es el único, el portador, que puede tocarme sin lastimarse.)
+0108 [Chitose] | Mi ==SEX11==—
+0109 [Chitose] | Permítame la libertad de dirigirme a usted de esta manera.
+0110 [Chitose] | ¿Será mi portador...?
+0111 [Chitose] | Solo espero que, cuando despierte... me dé su respuesta.

@@ -1,0 +1,128 @@
+# Evento · Enmarcando los sentimientos invisibles · 3 · La tutora
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Enthusiastic Student | Estudiante entusiasta
+N:Passionate Student | Estudiante apasionado
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_115 | Firefly
+N:avg1_1198 | Stellaroid
+N:avg1_120 | Canace
+N:avg1_132 | Minova
+N:avg3_100 | Sylar
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_179 | Misha
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La tutora
+0003 [Intro] | Conoces a Canace, la tutora de Firefly, quien te lleva a la Academia Luz de Gracia. Ahí te revela la verdad sobre la identidad de Firefly...
+0004 [Tú] | Por fin de regreso... Ojalá no nos topemos con más problemas.
+0005 [Firefly] | Clic.==B====W== Clic.
+0006 [Firefly] | Tomar fotos... Pasatiempo de Firefly. Feliz.
+0007 [Tú] | Me alegra que te diviertas, pero ten cuidado con el rollo, ¿sí?
+0008 [Tú] | Nos costó mucho conseguir ese rollo. Sería una lástima gastarlo todo de una vez.
+0009 [Firefly] | ¿Gastarlo?
+0010 [Firefly] | ¿Eh?==W== ¿Clic, clic...?
+0011 [Firefly] | ... Ya no hay fotos.
+0012 [Tú] | Ah, perdón. Debí decírtelo antes.
+0013 [Firefly] | ... ¿Volvemos a entrar al Monolito?
+0014 [Tú] | No podemos. Entramos a escondidas al Monolito desde un principio, así que hoy tenemos que volver.
+0015 [Tú] | Además, no querrás que la profesora se preocupe, ¿verdad?
+0016 [Firefly] | ... Mm.
+0017 [Firefly] | ¡¿...?!
+0018 [Tú] | ¿Firefly? ¿Qué pasa?
+0019 [Firefly] | Lo percibo. La profesora está cerca.
+0020 [Tú] | Espera, ¿Firefly...?
+0021 [Firefly] | ¡Profesora!==W==
+0022 [???] | ¡Firefly...!==W== En serio, ¿adónde te fuiste? Te he buscado por todas partes.
+0023 [Firefly] | Estaba tomando fotos.
+0024 [???] | Sabes que mentir está mal. Te busqué por todos lados antes de encontrarte aquí.
+0025 [Firefly] | No miento. De verdad tomé fotos...
+0026 [???] | ¿Ah, sí?==W== Oh...==W== Ya veo. También estuviste haciendo otra cosa, ¿verdad?
+0027 [Firefly] | Yo... No sé...
+0028 [???] | Dime la verdad.
+0029 [Firefly] | ... Entramos al Monolito.
+0030 [???] | Suspiro... Me lo imaginaba.
+0031 [???] | ¿No habíamos quedado en algo? Nada de entrar al Monolito sin permiso.
+0032 [Firefly] | ... Perdón.
+0033 [Tú] | ==W==Disculpe.==W== Sé que es repentino, pero ¿puedo decir unas palabras?
+0034 [Tú] | Firefly tuvo una buena razón... para entrar.
+0035 [???] | ¿Y tú eres...?
+0036 [Tú] | Soy ==PLAYER_NAME==, director ejecutivo de Boss Accord. Igna me pidió que cuidara a Firefly.
+0037 [???] | Ya veo. Eres de quien me habló Igna...
+0038 [Canace] | Yo también debería presentarme.==W== Soy Canace.==W== La tutora de Firefly y profesora de la Academia Luz de Gracia.
+0039 [Tú] | ¿La Academia Luz de Gracia...?
+0040 [Canace] | Igna me puso al tanto sobre ti.==B====W== Aunque fue muy breve. Más bien fue un aviso unilateral.
+0041 [Tú] | Igna fue igual de concisa al explicarme el trabajo... ¿Ese es su estilo de siempre?
+0042 [Canace] | Sé que fue decisión suya, pero entregarle a Firefly a un completo desconocido me preocupaba...
+0043 [Firefly] | Profesora. No seas mala con el Tirano.
+0044 [Canace] | ... ¿Firefly?
+0045 [Firefly] | El Tirano es bueno conmigo. Hasta jugamos juntos.
+0046 [Canace] | ...
+0047 [Canace] | ... Perdona mi franqueza.==W== Su situación es complicada, pero si ella te defiende, debes de ser de fiar.
+0048 [Canace] | Ya que lo mencionas, explícame algo: ¿por qué entraron ustedes dos al Monolito?
+0049 [Tú] | A Firefly se le acabó el rollo de su capturador de fotos. Fuimos a pedir más como deseo.
+0050 [Tú] | Eso no justifica que nos coláramos, por supuesto.==W== ¡Ambos le debemos una disculpa!
+0051 [Tú] | Para ser justos, lo hizo solo para no causarle molestias.
+0052 [Canace] | ... Ya veo.
+0053 [Canace] | Lo siento, Firefly. He estado desbordada últimamente y me olvidé por completo de tu rollo.
+0054 [Firefly] | No es... culpa de la profesora.
+0055 [Firefly] | Es culpa del rollo. Se acabó muy rápido.
+0056 [Canace] | Ja, está bien. Nadie tiene la culpa.==W== Dejémoslo así.
+0057 [Canace] | Seguro te dio mucho trabajo.
+0058 [Tú] | No se preocupe. Es parte del encargo.
+0059 [Canace] | Te lo agradezco.
+0060 [Canace] | De hecho, que te llame Tirano me suena.==W== Ya me había hablado de ti.
+0061 [Canace] | Le hiciste compañía durante el Festival Nevado, ¿verdad?==W== Gracias. Se la pasó de maravilla.
+0062 [Firefly] | Jugar con el Tirano es divertido.==W== Eso quiere decir que el Tirano es buena persona.
+0063 [Canace] | Ja. Sin duda tienes talento para ganarte a la gente. Eres la persona ideal.
+0064 [Tú] | ¿Eso fue un cumplido?
+0065 [Canace] | Igna tuvo sus razones para enviarte aquí...
+0066 [Canace] | Pero esa es una conversación para después.==W== Volvamos al campus antes de que oscurezca.
+0067 [Tú] | Así que esta es la Academia Luz de Gracia… La escuela más grande y prestigiosa de Nova.
+0068 [Tú] | Es el sueño de todo estudioso estudiar aquí.
+0069 [Tú] | Creo que Minova y yo asistimos a una clase aquí una vez...
+0070 [Tú] | Iris siempre soñó con ver este santuario del saber...
+0071 [Tú] | Creo que Firenze también estudió aquí...
+0072 [Tú] | Nunca he pasado un solo día como estudiante, y aquí estoy otra vez en un campus...
+0073 [Enthusiastic Student] | ¡Profesora Canace! ¿Tiene un segundo? Tengo unas preguntas...
+0074 [Passionate Student] | Profesora, sigo atorado con ese trabajo que revisó. ¿Podemos repasarlo otra vez?
+0075 [Canace] | Perdón. Estoy ocupada en este momento.
+0076 [Canace] | Hoy tengo una visita. Podemos ver sus dudas después de la clase de mañana.
+0077 [Enthusiastic Student] | ¡Entendido!
+0078 [Passionate Student] | Hasta mañana, profesora.
+0079 [Tú] | Sus estudiantes la adoran, profesora.
+0080 [Canace] | Agradezco el cumplido.
+0081 [Canace] | Hago mi mejor esfuerzo por ser buena profesora.==W== Pero me está costando el sueño.
+0082 [Firefly] | La profesora nunca duerme. Últimamente pasó de ocupada a muy ocupada.
+0083 [Canace] | Jaja. Últimamente ando bastante estirada. Ya está afectando mi trabajo de verdad...
+0084 [Canace] | Me salvaste la vida al aceptar el encargo de Igna.
+0085 [Canace] | Por favor, toma asiento.==W== Tenemos que hablar.
+0086 [Canace] | Firefly, ve a jugar allá un rato, ¿sí? ==PLAYER_NAME== y yo tenemos algo importante que discutir.
+0087 [Firefly] | ¡Bueno!==W==
+0088 [Tú] | ¿Adónde va?
+0089 [Canace] | A su cuarto. Le acondicioné un área donde puede correr libremente.
+0090 [Canace] | Ahora mismo es un desastre. Fotos, bocadillos y juguetes por todas partes.==W== Suspiro... Me temo que tendré que pedirte ayuda también para limpiar eso.
+0091 [Tú] | No hay problema.
+0092 [Canace] | Qué confiable eres. Debí haberte traído antes.
+0093 [Canace] | Bien, volvamos al asunto. Tienes preguntas escritas en toda la cara.==W== Pregunta lo que quieras. Responderé lo que pueda.
+0094 [Tú] | La verdad... Aparte de los detalles del encargo, Igna no me dijo nada más.
+0095 [Tú] | No mencionó su relación con usted ni con Firefly. Estoy completamente a oscuras.
+0096 [Tú] | Y además...
+0097 [Firefly] | Ustedes corren, yo persigo, qué divertido...
+0098 [Tú] | Trata a los Stellaroids como juguetes para morder...==W== No tiene ningún sentido. Ni los Trekkers veteranos pueden hacer eso...
+0099 [Tú] | Dígame qué pasa con Firefly, lo que pueda compartir.==B====W== Lo único que sé es que su habilidad en combate y su personalidad son... poco convencionales.
+0100 [Canace] | Antes de responder... ¿Qué tanto sabes del trabajo de Igna?
+0101 [Tú] | La amiga que me presentó este encargo mencionó que es investigadora del Ojo de la Gracia. Que supuestamente dirige algún proyecto de investigación.
+0102 [Canace] | Hm. Más o menos.
+0103 [Canace] | Técnicamente somos colegas bajo el Imperio de la Gracia, pero ella se encarga de los proyectos centrales. Yo, en cambio, soy solo una maestra común y corriente.
+0104 [Canace] | Colegas o no, vivimos en mundos distintos.==W== Nuestros caminos nunca debieron cruzarse.
+0105 [Canace] | Pero ahora mismo estamos trabajando juntas para proteger a Firefly, para liberarla del control del Ojo de la Gracia.
+0106 [Tú] | ¿Protegerla? ¿Liberarla? ¿A qué se refiere?
+0107 [Canace] | Ya que vas a pasar más tiempo con Firefly, no tiene caso mantenerte en la oscuridad.
+0108 [Canace] | Te lo diré sin rodeos.==W== La verdad es que... Firefly...
+0109 [Canace] | ...fue un arma experimental del Ojo de la Gracia.

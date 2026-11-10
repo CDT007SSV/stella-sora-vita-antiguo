@@ -1,0 +1,6 @@
+# Nova Times #15 · Síndrome de dependencia de la ternura — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_15_01 | Síndrome de dependencia de la ternura (Parte I)
+STsp_15_02 | Síndrome de dependencia de la ternura (Parte II)
+STsp_15_03 | Síndrome de dependencia de la ternura (Parte III)

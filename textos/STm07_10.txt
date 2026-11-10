@@ -1,0 +1,166 @@
+# Capítulo 7 · El precio de la estrella · 10 · Ascenso por una plegaria
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Knight Captain | Capitán de los caballeros
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+N:avg3_129 | Guardia Imperial
+N:avg3_152 | Bastelina
+N:avg3_167 | Chica
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | Ascenso por una plegaria
+0003 [Intro] | En la Isla del Lago te topas con Tilia. De pronto, Serena te alcanza con una advertencia: Omnisky Aegis sigue tras tu pista. Pese a la persecución, escalas el Monolito y pides un deseo: un teléfono celular de regalo para Chitose.
+0004 [Lugar y hora] | 12:00, 14.º del mes de Venatio, Isla del Lago de Philae, linde del bosque
+0005 [Chitose] | Cuidado dónde pisas, mi ==SEX11==.
+0006 [Tú] | Gracias.
+0007 [Tú] | Espera, ¿eso es un campamento? ¿Otro equipo llegó antes que nosotros?
+0008 [Tilia] | ¿Eh...? ¡¿==PLAYER_NAME==?! ¿Eres tú?
+0009 [Tú] | ¿Mmm? ¿Quién es?
+0010 [Tilia] | ¡Qué coincidencia!==W== ¿Te acuerdas de mí? Platicamos un rato allá en Emor...
+0011 [Tú] | Ah, claro. Tú eres...
+0012 [Tú] | Aquel día en que el Stellaroid gigante destrozó el Distrito de las Cenizas, vi a una joven caballera protegiendo a unos niños.
+0013 [Tilia] | ¿Viste eso?
+0014 [Tú] | Fuiste mi escolta cuando visité a Feagin.
+0015 [Tú] | Eres Tilia, ¿verdad?
+0016 [Tilia] | ¡Sí, soy Tilia!==W== Aunque técnicamente todavía no soy caballera de pleno derecho... Solo escudera.
+0017 [Tú] | ¿Cuándo llegaste a Philae?
+0018 [Tilia] | Vine a hacer guardia en el banquete, ¡y me seleccionaron para el equipo del Monolito!
+0019 [Tilia] | ¡Así que hoy somos rivales, Jefe!==W== Me encantaría decir «la amistad primero», pero, por el honor de la Guardia Imperial, ¡demos todo lo que tenemos!
+0020 [Chitose] | Conmigo aquí, mi ==SEX11== no puede perder.
+0021 [Tilia] | ¡Ah, la campeona de la justicia!==W== Así que... aquel día estabas buscando a ==PLAYER_NAME==.
+0022 [Tú] | Chitose, ¿ustedes dos se conocen?
+0023 [Chitose] | Sí. Me invitó una bebida cuando te buscaba en Emor.==W== Jamás olvidaré su sabor.
+0024 [Chitose] | Bien, valiente escudera. Mi ==SEX11== y yo debemos seguir adelante.
+0025 [Tilia] | ¡Adiós! ¡Y cuídense mucho!
+0026 [Tú] | Gracias. Buena suerte a ti también.
+0027 [Tilia] | Capitán, ya puede salir.
+0028 [Knight Captain] | Estuvo cerca... No esperaba toparme aquí con ==SEX4==.==W== Una vez le lancé una lanza a ==SEX4==. Claro, no sabía quién era ==SEX==, pero aun así fui yo el que se pasó de la raya.
+0029 [Knight Captain] | Los peces gordos así son rencorosos. Puede que solo estuviéramos en la nómina de Creta Trading, pero eso no impedirá que nos lo echen en cara.
+0030 [Tilia] | ==PLAYER_NAME== es muy amable. No tiene nada de qué preocuparse.
+0031 [Tilia] | Capitán, llegaron después que nosotros, pero ya están buscando la entrada del Monolito. ¿Deberíamos estar perdiendo el tiempo así? Si Lady Greyhorn pregunta...
+0032 [Knight Captain] | Lady Greyhorn no se va a enojar porque estemos sentados junto a una fogata. Créeme. Primero comamos.
+0033 [Knight Captain] | Si alguien llama para apurarnos, diles que mi unidad está comiendo.
+0034 [Lugar y hora] | 12:30, 14.º del mes de Venatio, Isla del Lago de Philae, entrada del Monolito
+0035 [Chitose] | Mi ==SEX11==, localicé la entrada.
+0036 [Narración] | Media hora después, en lo profundo del bosque, Chitose y yo encontramos un elevador construido directamente en la pared del acantilado.
+0037 [Tú] | No hemos visto ni un alma. ¿El equipo de Omnisky Aegis ya habrá entrado?
+0038 [1] | Es Noya.
+0039 [Noya] | Jefe, tenemos un problema. ¡No podemos llegar a la isla!
+0040 [1] | Respira.==W== ¿Qué pasó?
+0041 [Noya] | Iris y Amber acaban de reunirse conmigo. Íbamos a tomar el teleférico para ir a apoyarte.
+0042 [Amber] | Subimos. Cable roto.
+0043 [1] | ¡¿Qué?! ¡¿Se rompió?!
+0044 [1] | ¿Están todas bien? ¿Alguien está herido?
+0045 [Iris] | Amber nos agarró y saltamos justo antes de que la cabina cayera al agua. Estamos a salvo, pero... el corazón no me deja de latir a mil.
+0046 [Bastelina] | Estuvo demasiado cerca. Viendo los extremos cortados, el cable saboteado apenas aguantó cuando cruzaron tú y Chitose. Cedió en cuanto recibió una segunda carga.
+0047 [Bastelina] | Ya le avisé a Albedo. Lo repararán lo más rápido posible, pero no será hoy.
+0048 [1] | Entendido. Entonces Chitose y yo tendremos que encargarnos solos del Monolito.==W== Cuento con ustedes para apoyar a Firenze.
+0049 [Iris] | Entendido. Volveremos para echarle una mano a Firenze. Necesita gente.
+0050 [Iris] | Pero...
+0051 [Iris] | Por favor, ten cuidado, Jefe. No olvides leer los protocolos de seguridad del Monolito que puse en tu expediente.
+0052 [1] | Lo haré. Ustedes también cuídense.
+0053 [Tú] | Uf. Ojalá esté arreglado para mañana.==W== Tenemos muchas más probabilidades si ambos equipos piden deseos juntos.
+0054 [???] | Me temo que el teleférico no será fácil de arreglar.
+0055 [Tú] | ¡¿Eh?!
+0056 [???] | El acero industrial de ese tipo es increíblemente difícil de desear. Aunque alguien logre sacarlo en el Monolito de las Tierras Salvajes, cargar algo tan pesado hasta acá es una pesadilla.
+0057 [???] | Calcula dos o tres días como mínimo. Probablemente más.
+0058 [1] | Entonces puede que ni siquiera tengamos forma de volver...
+0059 [Tú] | Un momento. ¡¿S-Serena?! ¡¿Desde cuándo estás ahí parada?!
+0060 [Serena] | Respondí a la llamada de un cliente fiel. Entregar la información justo cuando la necesitas: eso es lo que me hace una profesional.
+0061 [Serena] | Dicho esto... No vengo con malas intenciones.==W== ¿Te importaría pedirle a tu amiga que aparte su espada de mi cuello?
+0062 [Chitose] | Mi ==SEX11==. Una capa se materializó en la hierba detrás de ti, y esta extraña mujer salió de ella.
+0063 [Chitose] | Dice la verdad. No percibí malicia, y por eso no la partí en dos de inmediato. Aun así, se atrevió a colocarse detrás de ti.
+0064 [Chitose] | ¿Qué hacemos con ella? Espero tus órdenes.
+0065 [Tú] | Baja el arma, Chitose.==W== La conozco. Es Serena.
+0066 [Tú] | Ella nos avisó de la ruta de escape del hotel. Nos ha ayudado mucho desde que llegamos a Philae.==W== Supongo que podrías llamarla... una amiga.
+0067 [Serena] | ¡Ay, qué honor! El Jefe de verdad me considera una amiga.
+0068 [Serena] | Pero las amistades son un lujo en mi línea de trabajo. Por favor, sigue viéndome mejor como una socia de negocios confiable.
+0069 [Serena] | En fin, vamos a lo importante. Omnisky Aegis tiene dos equipos en juego.
+0070 [Serena] | Uno de ellos metió un costal enorme al Monolito. No tengo idea de qué arma secreta habrá ahí dentro, pero huele a problemas.
+0071 [Tú] | Ni siquiera te hemos pagado el último dato, ¿y ya nos estás vendiendo otro?
+0072 [Serena] | Considéralo cortesía de la casa. Digamos que Omnisky Aegis no me agrada. Además, ese teleférico que destrozaron era un valioso sitio histórico.==W== Después de todo, está ligado a la Santa Manca.
+0073 [Serena] | Considéralo mi pequeña forma de apoyar al Jefe. ¿Te parece justo?
+0074 [Tú] | La Santa Manca... La gente de Philae dice que todo es un mito. Que hasta la estatua es falsa.
+0075 [Serena] | ¿Es un mito? ¿Es falsa? ¿Quién sabe? Pero sí sé una cosa: la Santa Manca fue muy real.
+0076 [Serena] | Según registros de hace siglos, la Santa y su acompañante partieron justo desde donde está esa estación del teleférico.
+0077 [Serena] | Cruzaron en tirolesa el peligroso lago...
+0078 [Serena] | Escalaron el Monolito y se enfrentaron a la deidad maligna...
+0079 [Serena] | ... Para detener la lluvia interminable de Philae.
+0080 [Serena] | Claro que en ese entonces no había teleféricos.
+0081 [Serena] | Alguien construyó la estación años después para conmemorar el viaje de la Santa. Si miras debajo de esas cabinas, todavía encontrarás las placas antiguas.
+0082 [Serena] | Así que cualquiera que intente afirmar que la Santa nunca existió... Bueno, debe tener sus propios motivos.
+0083 [Tú] | A Nazuka le va a encantar oír esto.==W== Cuando vuelva, deberíamos ir juntos a buscar pruebas.==W== Podría ser divertido.
+0084 [Serena] | Ahora que lo pienso, estoy viendo al héroe más nuevo de Philae y a una acompañante con la mano herida. Recorrieron exactamente el mismo camino hacia el Monolito para acabar con esta absurda guerra de ofertas.
+0085 [Serena] | Es casi como aquella escena legendaria. Todo un espectáculo... Lástima que alguien esté tratando de arruinar el momento.
+0086 [Tú] | Bueno, ahora sí estás exagerando.
+0087 [Serena] | ¿Tú crees? Ya sabes lo que dicen de que la historia se repite.
+0088 [Serena] | En cuanto a mi pago por ese dato... Pasa por mi habitación cuando todo esto termine, Jefe. Hay algo que necesito decirte en persona.
+0089 [Narración] | Chitose y yo nos despedimos de Serena y entramos al Monolito.
+0090 [Narración] | Gracias a mis expediciones con el Gremio de la Nueva Estrella y a todo lo que me enseñó Iris, sé moverme en estos Monolitos.
+0091 [Narración] | Además, como la distribución cambia constantemente, toparse con alguien más aquí dentro es poco probable.
+0092 [Narración] | Si no llamamos la atención, Omnisky Aegis no debería ser un problema. Aun así...
+0093 [Lugar y hora] | 16:50, 14.º del mes de Venatio, Monolito de Philae, piso 15
+0094 [Chitose] | Mi ==SEX11==, ya me encargué de los Stellaroids de este piso. Busquemos la Caja de Deseos.
+0095 [Tú] | Normalmente vamos en escuadrones de tres. Así se aprovechan al máximo las mejoras del Monolito, y nos cubrimos unos a otros para ahorrar energía.
+0096 [Tú] | Pero ahora mismo Chitose está peleando sola. No lo admitirá, pero le tiembla un poco la mano con la que sujeta el arma. El agotamiento la está alcanzando.
+0097 [Tú] | Tengo que encontrar una forma de ayudarla.==W== ¡Espera, eso es!
+0098 [Narración] | Tras una revisión rápida del piso, encuentro en un rincón una Caja de Deseos apenas más grande que mi mano.
+0099 [Chitose] | Mi ==SEX11==, ¿esta caja dará el Artefacto que exige el Imperio de la Gracia?
+0100 [Tú] | Probablemente no. Es demasiado pequeña.
+0101 [Tú] | Tiene sentido. Estamos demasiado abajo en el Monolito para encontrar una enorme. Pero esta servirá perfectamente.
+0102 [Chitose] | Entendido. Por favor, ponte detrás de mí. Debemos continuar el ascenso.
+0103 [Tú] | Espera, Chitose. Descansemos aquí por hoy.
+0104 [Chitose] | Mi ==SEX11==, por favor, no te preocupes por mí. Gracias a tus cuidados, todavía soy totalmente capaz de pelear.
+0105 [Tú] | Las prisas no son buenas.==W== La verdad, estoy molido. Recarguemos energías para enfrentar bien la torre mañana.
+0106 [Chitose] | Si insistes...==W== Prepararé un lugar para descansar de inmediato.
+0107 [Tú] | No, no hace falta.==W== Podemos recuperar el aliento en esa zona de descanso de allá. Solo no comas nada adentro.
+0108 [Chitose] | Entiendo.==W== Traje unos bollos de carne que hice yo misma. Por favor, toma uno.
+0109 [Tú] | ¡Oh! ¡Tienen una forma muy peculiar!==W== ¡Gracias!
+0110 [Tú] | Por cierto, todavía no tienes teléfono, ¿verdad? ¿Qué tipo te gustaría?
+0111 [Chitose] | ¡¿U-un teléfono?! Pero soy tu espada. Mi lugar es a tu lado en todo momento. No necesito un Artefacto tan valioso.
+0112 [Tú] | Exacto. Eres mi espada, lo que significa que tienes que contestar mi llamada en cualquier momento. Sería un inconveniente que no tuvieras uno, ¿no?
+0113 [Chitose] | Eso... es un buen argumento. Pero, ya que te pertenezco, por favor, decide tú cómo será.
+0114 [Tú] | Muy bien. Ahí va.
+0115 [Opción] | Oh, todopoderoso Dios de la Gracia, escucha nuestra plegaria...
+0116 [1] | Por favor, concédeme...
+0117 [1] | Un terminal de comunicación portátil.
+0118 [1] | Que permita llamadas de larga distancia y mensajes de texto y fotos con dispositivos similares, además de funciones básicas de grabación y calculadora.
+0119 [1] | Que sea del tamaño de la palma de la mano, que funcione con magia y que esté encantado con Heartlink.
+0120 [1] | Por último, que parezca un samurái sosteniendo una espada.
+0121 [Chitose] | Mi ==SEX11==, la Caja de Deseos está brillando...
+0122 [Tú] | Eso significa que funcionó. Mira, se está abriendo...
+0123 [Narración] | Saco de la caja un teléfono blanco. Trae un lápiz táctil con forma de espada en la parte trasera y se ve exactamente como un samurái con su arma.
+0124 [Tú] | Toma. Es tuyo, Chitose.
+0125 [Chitose] | ¡Un teléfono... para mí! Estaré en deuda contigo para siempre.==W== Lo guardaré bien en mi ropa de cama para que ni una mota de polvo lo raye.
+0126 [Tú] | Oye, no lo entierres en tu petate.==W== Se supone que debes traerlo contigo.
+0127 [1] | Mira. Si los juntas así, quedaremos conectados.
+0128 [Chitose] | ¡¿Qué magia es esta...?!
+0129 [Narración] | Compartimos los bollos de carne que trajo Chitose mientras le enseño a escribir.
+0130 [Narración] | Al principio se traba al escribir,==W== pero muy pronto==W== ya me está mandando mensajes sin ningún problema.
+0131 [Chitose] | Mi ==SEX11==, esto del teléfono... es increíblemente práctico.
+0132 [Chitose] | Sigo prefiriendo hablar cara a cara para poder mirarte a los ojos.
+0133 [Chitose] | Pero una herramienta que puede comunicarte mis pensamientos desde lejos es nada menos que revolucionaria.
+0134 [Tú] |
+0135 [Tú] | Normalmente, estos solo funcionan dentro del alcance del mismo Monolito, pero el mío ignora esa regla.
+0136 [Tú] | No importa qué tan lejos estemos, siempre podremos hablar.
+0137 [Chitose] | Oír tu voz a kilómetros de distancia...
+0138 [Chitose] | ¡Debo redoblar mi entrenamiento!
+0139 [Chitose] | ¡Mi ==SEX11==, mi corazón se acelera...!
+0140 [Tú] | Me alegra que estés emocionada, pero ya es tarde.==W== Yo haré la primera guardia, así que descansa.
+0141 [Chitose] | Oh...==W== Entiendo. Hace frío en este Monolito. Calentaré tu cama de inmediato.
+0142 [Tú] | ¿Calentar mi...? Eso no es... Uf, bueno. Mientras se acueste.==W== Si logro darle sueño, se quedará dormida.
+0143 [Tú] | Muy bien, adelante.
+0144 [Chitose] | Sí, mi ==SEX11==. ¿Podemos platicar mientras caliento la cama?
+0145 [Tú] | ¿Eh?
+0146 [Chitose] | Sobre mi viaje...==W== y sobre cómo me ayudaste a dominar el Estilo sin Espada.

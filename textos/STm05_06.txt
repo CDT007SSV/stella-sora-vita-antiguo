@@ -1,0 +1,123 @@
+# Capítulo 5 · Una chispa en la oscuridad · 6 · Filosofías distintas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Hurried Team Member | Miembro del equipo apurado
+N:Mandrake Radiant Grass | Hierba Radiante Mandrágora
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg2_958 | Hierbajo Peleador
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_134 | Mina
+N:avg3_136 | Ruby
+N:avg3_180 | Investigador de Cosecha Unida
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Filosofías distintas
+0003 [Intro] | Con los ingredientes que trajeron Noya y Fuyuka y la ayuda de la Hierba Radiante, por fin descifran la receta y descubren la clave del misterio del pan: harina madurada con magia.
+0004 [Lugar y hora] | 22:00, 3.º del mes de Calor, Distrito Invernadero de Philae, Departamento de I+D de Cosecha Unida
+0005 [Noya] | ¡Uf! Por fin se acabó el turno.
+0006 [Hurried Team Member] | ¿Ya te vas, Noya? ¿Nos vamos juntas?
+0007 [Noya] | No, me voy a quedar a hacer horas extra.==W== Fuyuka se queda conmigo.
+0008 [Hurried Team Member] | Qué dedicación.==W== No te vayas a quemar, ¿eh? Nos vemos.
+0009 [Noya] | ¡No te preocupes, la resistencia es lo mío! ¡Nos vemos mañana!
+0010 [Noya] | Uf... No hay moros en la costa. ¡Manos a la obra!==W== Fuyuka, ¿tienes lo que pedimos como deseo en el Monolito?
+0011 [Fuyuka] | Mjm. Lo escondí todo en el rincón de al lado. Estoy casi segura de que nadie se dio cuenta.
+0012 [Noya] | ¡Típico de Fuyuka, siempre un paso adelante!==W== ¡Muy bien, a lo que vinimos! ¡Vamos a hornear Ruiseñores Leonados hasta dar con esa receta!
+0013 [Fuyuka] | ¿Pero qué hacemos con los que ya estén listos? Seguro la gente se va a dar cuenta si se amontonan.
+0014 [Noya] | Nos los llevamos a casa y los botaneamos después. ¡De todos modos los Ruiseñores Leonados duran prácticamente para siempre!
+0015 [Noya] | Hagámoslo. Por la textura, yo digo que empecemos con una mezcla de harina y aserrín, mitad y mitad.
+0016 [Fuyuka] | Entendido. Voy por los ingredientes.
+0017 [Narración] | Unos días después.
+0018 [Lugar y hora] | 8:00, 13.º del mes de Calor, Distrito Invernadero de Philae, fábrica de Cosecha Unida
+0019 [Mistique] | Noya, ¿algún avance con la receta?==W== ¡Llevamos diez días seguidos viviendo de Ruiseñores Leonados!
+0020 [Noya] | ¡Lo presiento! El amanecer de la victoria ya asoma por el horizonte.
+0021 [Mistique] | ¿Te refieres a ese tipo de horizonte al que nunca se llega?
+0022 [Fuyuka] | B-bueno... Es que hay demasiados condimentos que probar. Tenemos que hornear muchísimas tandas, y amasar toma una eternidad...
+0023 [Mistique] | Amasar, ¿eh?==W== Tengo una idea. Esta noche traeré unas manos extra.
+0024 [Lugar y hora] | 22:00, 13.º del mes de Calor, Distrito Invernadero de Philae, Departamento de I+D de Cosecha Unida
+0025 [Mistique] | Hola, chicas.
+0026 [Tú] | Buenas noches, Noya. Fuyuka.
+0027 [Fuyuka] | Buenas noches, Maestro.==W== Eh... ¿Mistique y usted son las «manos extra» que nos prometieron?
+0028 [Mistique] | ¡Ja! Ni de chiste.==W== Aquí están sus manos extra...
+0029 [Noya] | ¡Guau! ¡¿Qué clase de monstruo es ese?!
+0030 [Mistique] | No es un monstruo. Es Hierba Radiante Mandrágora, directo de la fábrica. Enséñenles cómo se hace y en nada estarán amasando.
+0031 [Noya] | Así que así se ve la Hierba Radiante Mandrágora.
+0032 [Mina] | ¡Mistique! ¡¿Estás loca?!
+0033 [Mina] | ¡No puedes llevarte Hierba Radiante de la planta de la fábrica así nada más! ¡Es una violación grave del protocolo!
+0034 [Mistique] | Ay, miren. Llegó Mina.
+0035 [Mina] | ¡Vine a ayudar a Noya y Fuyuka, no a encontrarte violando las políticas de la empresa!
+0036 [Mistique] | Ay, mira nada más. ¡Las grandes mentes piensan igual!
+0037 [Mina] | No nos parecemos en nada. Yo no rompo las reglas.==W== ¡Estamos aquí para exponer las malas prácticas, no para cometerlas! ¡Estás echando a perder todo el propósito!
+0038 [Mistique] | Tranquila. Los de arriba me dieron permiso para traerlas.==W== Ah, hablando del rey de Roma.
+0039 [Ruby] | ¡Jeje! No sé muy bien qué está pasando, ¡pero traje a la Hierba Radiante para ayudar!
+0040 [Mina] | Eh, Ruby... ¿Tenemos permitido sacarlas de la planta de la fábrica?
+0041 [Ruby] | ¡Es solo amasar un poquito, no pasa nada!==W== ¡Además, la Hierba Radiante tiene un potencial infinito sin explotar esperando a ser liberado!
+0042 [Ruby] | ¡Es la oportunidad perfecta! Si pueden ayudar a I+D, ¡a lo mejor los de arriba por fin reconsideran reactivar el proyecto de la Hierba Radiante!
+0043 [Ruby] | ¡Muy bien, pequeñas!==W== ¡Miren cómo amasan Noya y Fuyuka y aprendan!
+0044 [Mandrake Radiant Grass] | ¡Jiiiii... ya...! ♪
+0045 [Narración] | Una ola de Hierba Radiante entra en tropel. Imitando a Noya, mezclan la harina con aserrín y empiezan a amasar.
+0046 [Lugar y hora] | 1:00, 14.º del mes de Calor, Distrito Invernadero de Philae, Departamento de I+D de Cosecha Unida
+0047 [Noya] | ¡Lo logramos! Prueben esto. ¿A poco no es idéntico a un Ruiseñor Leonado de verdad?
+0048 [Mina] | Mmm, a ver.==W== Esa textura áspera... El acabado de aserrín...==W== Aun con margen de error, es noventa y nueve por ciento Ruiseñor Leonado.
+0049 [Tú] | Muchas manos aligeran el trabajo...==W== O mejor dicho, muchas Hierbas. Con cientos de Hierbas Radiantes Mandrágora trabajando,==W== sacamos variaciones sin fin y dimos con la receta en nada.
+0050 [Tú] | Ahora podemos compararla con la receta de Producción y encontrar la discrepancia.
+0051 [Mistique] | Jeje. En realidad, quizá no tengamos que ir a ningún lado.
+0052 [Tú] | ¿Mm?
+0053 [Mistique] | Esta tanda no es solo noventa y nueve por ciento Ruiseñor Leonado.==W== Aquí también tenemos un Ruiseñor Dorado.
+0054 [Mina] | ¿Un Ruiseñor Dorado?
+0055 [Mistique] | Esta rebanada de aquí, horneada por la Hierba Radiante n.º 82.==W== Toma, Fuyuka, pruébala.
+0056 [Fuyuka] | Guau... ¡Qué suave!==W== Ñam...==W== Mm, también es dulce.
+0057 [Fuyuka] | Maestro, de verdad es un Ruiseñor Dorado.
+0058 [Noya] | ¿Y-yo hice un Ruiseñor Dorado? Imposible. ¡Usé los ingredientes de siempre! Recuerdo que esta pieza solo tenía... ¿un poco menos de salvado?
+0059 [Tú] | ¿Hay otra pieza con ingredientes idénticos, pero con una cantidad distinta de salvado?
+0060 [Noya] | Sí.==W== Prueba esta rebanada de la n.º 81.
+0061 [Mina] | Este sabor...==W== Es un Ruiseñor Leonado un poquito menos desagradable,==W== pero definitivamente no es uno Dorado.
+0062 [Tú] | Qué raro. ¿Ingredientes casi idénticos y una textura completamente distinta? El secreto del Ruiseñor Dorado no puede ser solo esa pizca de salvado.
+0063 [Fuyuka] | No es el salvado, ni el condimento...
+0064 [Noya] | ¡Entonces tiene que ser la harina!==W== Oye, n.º 82, ¿me enseñas qué costal usaste?
+0065 [Mandrake Radiant Grass] | ¡Iiiyaa!
+0066 [Noya] | Esta harina se siente distinta.==W== Definitivamente no es la de siempre.
+0067 [Lugar y hora] | 2:00, 14.º del mes de Calor, Distrito Invernadero de Philae, almacén de Cosecha Unida
+0068 [Mina] | Perdón por despertarlos a las 2 de la mañana, todos.
+0069 [Iris] | No pasa nada, Mina. ¿Noya y Fuyuka lograron un avance con la receta?
+0070 [Mina] | Sí.==W== Desciframos la fórmula del Ruiseñor Leonado y también descubrimos qué hace que la línea saque esos Ruiseñores Dorados.==W== Miren esto.
+0071 [Mina] | Este es el manifiesto de la harina que le compramos ayer directamente a Producción.
+0072 [Mina] | Encontramos un costal en el que el trigo había sido madurado artificialmente con magia.
+0073 [Amber] | ¿Magia? ¿Madurado?
+0074 [Mina] | Exacto. Se supone que I+D tenía un viejo proyecto para acelerar el crecimiento de los cultivos con magia. Lograron reducir el ciclo de crecimiento a una décima parte.
+0075 [Tú] | Una décima parte del tiempo... significa diez veces la producción.
+0076 [Mina] | Pero los cultivos hechos con magia son cascarones vacíos. El trigo parece real, la harina parece real, pero no tiene ningún valor nutritivo.
+0077 [Mina] | Después de todo, el estómago humano no puede digerir magia.
+0078 [Mina] | ¿Les suena de algo?
+0079 [Fuyuka] | ¡El Ruiseñor Dorado!
+0080 [Tú] | La Hierba Radiante Mandrágora de la línea no distingue los tipos de harina, así que nunca notaría la diferencia.==W== Justo como pensábamos: el problema es un punto ciego del protocolo.
+0081 [Mistique] | ¿Entonces al amanecer empezamos a recorrer los invernaderos uno por uno?
+0082 [Mina] | No hace falta. Tengo una forma más rápida.
+0083 [Mina] | Iris y yo llevamos días analizando los datos de los invernaderos. Ahora sabemos qué buscar: el trigo madurado con magia. Podemos ubicar el origen solo revisando los registros.
+0084 [Mistique] | Suena a un montón de datos. ¿Quieres que te consiga Hierba Radiante Mandrágora? Son buenísimas cargando archivos pesados.
+0085 [Mina] | Gracias, pero no. No voy a romper el protocolo.
+0086 [Mina] | Deberían ir todos a descansar. Para la mañana tendré procesados los datos.
+0087 [Iris] | Yo me quedo a ayudar.
+0088 [Lugar y hora] | 5:00, 14.º del mes de Calor, Distrito Invernadero de Philae, almacén de Cosecha Unida
+0089 [Iris] | Invernadero 25, listo.==W== Uf, mira la hora. Mina, ¿crees que de verdad terminemos antes del amanecer?
+0090 [Mina] | Yo ya terminé del 50 al 99. Pásame algunos de los primeros; te los quito de encima.
+0091 [Iris] | ¡Q-qué rápida!==W== ¿Cómo? Nos dividimos el trabajo por igual...
+0092 [Mina] | Es tu método, Iris. Lo estás haciendo de la forma equivocada.
+0093 [Mina] | Déjame adivinar. Estás auditando todo: semillas, fertilizante, agua, rendimiento y empaque, ¿no?
+0094 [Iris] | Sí. Es la forma más rigurosa... Una sola discrepancia demostrará que hay un problema.
+0095 [Mina] | No te equivocas, pero tus prioridades están al revés.
+0096 [Mina] | Estás procesando un invernadero a la vez. Pero recuerda el objetivo:==W== tenemos que atrapar a los que usan la maduración mágica ilegal.
+0097 [Mina] | Para eso, basta con revisar las horas de trabajo.
+0098 [Mina] | Pueden falsificar las demás cifras, pero los cultivos igual se tienen que cosechar. Si usan magia, la frecuencia de cosecha se dispara muy por encima de lo normal. Eso no lo pueden ocultar.
+0099 [Iris] | Ah... Ya entiendo. Tienes razón. Esas anomalías son muchísimo más evidentes.
+0100 [Iris] | ¿Esta... esta es la diferencia entre yo y una verdadera profesional de empresa?==W== Si hubiera pensado así en aquel entonces...==W== quizá no me habrían rechazado.
+0101 [Mina] | Oye, yo tampoco aprendí esto el primer día.==W== Y no olvides que pasaste la entrevista de Lady Firenze por tus propios méritos.
+0102 [Mina] | Ten un poco de fe. Todos estamos aprendiendo.
+0103 [Iris] | Gracias, Mina.==W== Muy bien, sigamos y encontremos ese último dato.

@@ -1,0 +1,154 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 9 · El discurso
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Host | Presentador
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_117 | Jinglin
+N:avg1_138 | Nyx
+N:avg1_145 | Otoha
+N:avg1_150 | Laru
+N:avg1_151 | Yunshu
+N:avg1_152 | Jiyue
+N:avg1_164 | Shuo
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg3_100 | Sylar
+N:avg3_108 | Cosson
+N:avg3_115 | Jayhawk
+N:avg3_124 | Erinis
+N:avg3_125 | Meikyo
+N:avg3_128 | Ophir
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_152 | Bastelina
+N:avg3_215 | Matilda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | El discurso
+0003 [Intro] | Tu discurso impecable asegura la fe de la gente en el renacer de Philae. Firenze y Nyx desenmascaran al cerebro del plan, y el banquete termina sin contratiempos, hasta que Otoha se desploma de repente.
+0004 [Lugar y hora] | 20:28, 5.º del mes de Venatio, Distrito de Plata de Philae, vestíbulo del hotel
+0005 [Iris] | Faltan dos minutos para el discurso...
+0006 [Amber] | El Jefe acaba de mandar un mensaje. Ya está en las puertas del vestíbulo.
+0007 [Noya] | ¡Todos a sus lugares! ¡Llegó la hora del discurso!
+0008 [Ophir] | ¡Están bajando las luces!==W== Ya va a empezar, ¿verdad?
+0009 [Ophir] | Perfecto.==W== ¡Esta vez sí voy a conseguir la toma!
+0010 [Tú] | Uf. Después de todo el caos de hoy...==W== la verdad, ya ni me siento nervioso.
+0011 [Tú] | Por todos. Y por el futuro de Philae.
+0012 [Host] | Damas y caballeros, disculpen la interrupción.==W== Por favor, den la bienvenida a nuestro invitado de honor de esta noche, el director ejecutivo de Boss Accord...
+0013 [Host] | ¡==SEX7== ==PLAYER_NAME==, al escenario!
+0014 [1] | Buenas noches a todos. Soy ==PLAYER_NAME==. Gracias por recibirme.
+0015 [1] | Sé lo que todos están pensando. Después de sobrevivir a la crisis de las Plantas Inteligentes...
+0016 [1] | ...El simple hecho de que podamos estar aquí esta noche, compartiendo el pan de la cosecha de este año, ya es un milagro.
+0017 [Iris] | Qué aplomo...==W== Ese es nuestro Jefe...
+0018 [Amber] | Toda ==SEX2== aura es distinta.
+0019 [Laru] | ¿«Boss Accord»? ¿Esa empresa es famosa?==W== Nunca había oído de ellos.
+0020 [Bastelina] | Por favor, lea las noticias por una vez.==W== Cuando Philae tuvo esa enorme crisis hace poco, fueron ellos quienes la resolvieron junto con Firenze.
+0021 [Bastelina] | Por no mencionar que se aliaron con Petal Bloom para capturar a los Tres Grandes, y derribaron a un Stellaroid gigantesco en el Canal de Emor.
+0022 [Laru] | ¿Eh?==W== Suena como==W== un héroe de la antigüedad que supera pruebas épicas para demostrar su valía.
+0023 [Bastelina] | A fin de cuentas, ¿sabe por qué Lady Albedo nos mandó aquí?
+0024 [Bastelina] | Porque el Jefe es una estrella en ascenso ahora mismo. Todas las empresas tienen la mira puesta en ==SEX4==♪
+0025 [Laru] | Interesante...==W== Mmm, aunque a mí me importan más las papas fritas de aquí. Están fritas a la perfección.
+0026 [Bastelina] | ¡Laru!
+0027 [1] | Confío en que todos hayan visto el informe de la sucursal de Philae sobre el incidente de Darcia.
+0028 [1] | Nuestra directora de finanzas supervisó su redacción.==W== Como testigos directos, Boss Accord garantiza su exactitud.
+0029 [Jiyue] | Si el informe es cierto...==W== Entonces Firenze y el Jefe salvaron Philae juntos.==W== Y Firenze fue quien derrotó a Darcia.
+0030 [Yunshu] | Según la información de la gerente del Comedor Fenghuang, el informe cuadra.
+0031 [Yunshu] | Pero omitieron a propósito cómo Darcia controlaba a las Plantas Inteligentes, y solo lo describieron como una «magia increíble».
+0032 [Yunshu] | Sospecho que este Jefe de apariencia frágil tuvo un papel tan crucial como el de Firenze.
+0033 [1] | Philae vuelve a estar en paz. Pero no debemos olvidar lo que pasó cuando el barco se tambaleaba, cuando todos corrían hacia los botes salvavidas...
+0034 [1] | ¿Quién fue el que rechazó la seguridad de la cubierta y se lanzó a la bodega para tapar la fuga?
+0035 [1] | ¿Y quién detectó este peligro hace años y se infiltró con sus compañeras justo bajo las narices de Darcia?
+0036 [Cosson] | ...Difícil discutir eso.==W== Firenze y el Jefe actuaron con una elegancia innegable.
+0037 [1] | Como figuras clave de las principales empresas, estoy seguro de que todos ustedes han seguido de cerca lo que pasa en Philae.
+0038 [1] | Si es así, ya saben que el grano de Philae sigue llegando sin problemas a sus ciudades.
+0039 [Erinis] | El pan de aquí sin duda está hecho con trigo nuevo.==W== Después de todo lo que pasó, la sucursal de Philae no ha perdido el ritmo...
+0040 [Erinis] | Meikyo, ¿cómo está la situación en el mercado?
+0041 [Meikyo] | Lo revisé hoy: todas las panaderías de Philae están usando trigo nuevo.
+0042 [Erinis] | O sea que...==W== volver a encarrilar todo tan rápido demuestra que Firenze es la auténtica.==W== Qué divertido.
+0043 [1] | Philae no pertenece a ninguna facción; pertenece a su gente. Juntos, comenzamos aquí un nuevo capítulo:
+0044 [1] | Una historia de banquetes, no de hambruna. De esperanza, no de miedo. De luz, no de oscuridad.
+0045 [1] | Y por último: la mejor inversión siempre es ese loco que mantiene la cabeza fría cuando todo se derrumba.
+0046 [1] | ¡Gracias a todos por su tiempo y su apoyo!
+0047 [Tú] | Silencio total...==W== ¿De verdad mis palabras==W== les llegaron?
+0048 [Tú] | Bueno, Firenze, hice lo mejor que pude.==W== Otoha... Espero haber hecho que tu esfuerzo valiera la pena.
+0049 [Noya] | ¡Jefe, te luciste por completo!
+0050 [Cosson] | Adiós al jueguito del Senado.==W== Ahora todos los representantes de este salón saben que Firenze es la mejor opción para dirigir la sucursal de Philae.
+0051 [Jayhawk] | ¿Pero nombrar al director de una sucursal no es un asunto interno de Cosecha Unida?==W== ¿Por qué las demás empresas...?
+0052 [Cosson] | Firenze tiene aliados poderosos en la sede; la gran inspectora Matilda, por ejemplo.==W== Además, quien dirija un centro tan vital como Philae necesita la bendición del mercado.
+0053 [Cosson] | El Senado de hecho abusó del Sello de la Gracia para sacar a Firenze.==W== Una maniobra notablemente poco elegante.
+0054 [Cosson] | Y aun así, ni siquiera pudieron arruinar este banquete...==W== Verdaderamente patético.
+0055 [Jayhawk] | Cosson, ¿no eres de Nueva Orelia? ¿Eso no te pone automáticamente del lado del Senado?
+0056 [Cosson] | Cielos, no. Mi lealtad es solo para la elegancia.==W== Además, ¿no fue cierta persona quien aconsejó a Boss Accord mucho antes que yo?
+0057 [Erinis] | Meikyo, envía el informe. Dile a la sede que vale la pena respaldar a Firenze.
+0058 [Laru] | ...¿Eh?==W== Espera, ¿ahora todos apoyan a Firenze?==W== ¡Si soy la única que dice que no, todo se va a poner superincómodo!
+0059 [Bastelina] | ¡¿De qué está hablando?!==W== ¡Laru, usted representa al Imperio de la Gracia!==W== No puede simplemente seguir a la multitud, tiene que pensar antes de...
+0060 [Laru] | ¡Sí lo pensé! Las papas fritas de aquí son increíbles.==W== ¿Qué más razón necesito?
+0061 [Ophir] | ¡Un discurso espectacular!==W== Parece que Philae está en buenas manos. El pan de sus mesas no se va a ir a ninguna parte, y desde luego no perderá su sabor.
+0062 [Ophir] | Es todo por la transmisión de esta noche. Desde donde sea que nos vean, que tengan una noche maravillosa.
+0063 [Lugar y hora] | 21:00, 5.º del mes de Venatio, Goodwind Homecare, celda subterránea
+0064 [Otoha] | Jaa... Jaa...==W== Esto no está bien...==W== Las agujas envenenadas de Hazana me alcanzaron durante la pelea...
+0065 [Otoha] | Por suerte logré ocultárselo al Jefe...==W== Pero la hemorragia no se detiene.
+0066 [Otoha] | Tengo que dejarla ir antes de que las cosas se salgan de control...
+0067 [Shuo] | ¡¿Quién anda ahí?!
+0068 [Otoha] | ...
+0069 [Shuo] | Esa respiración agitada... y el olor a sangre.==W== ¿Estás herida?
+0070 [Otoha] | Silencio. Duérmete. Cuando despiertes, tu mundo habrá vuelto a la normalidad.
+0071 [Shuo] | ¿Otra vez magia de sueño...?==W== ¡Espera! ¿Me encierras solo para dejarme ir? ¡¿Te estás burlando de mí?!==W== ¡¿A qué estás jugando?!
+0072 [Otoha] | Je... Paciencia. Muy pronto lo sabrás.
+0073 [Lugar y hora] | 22:30, 5.º del mes de Venatio, Distrito de Plata de Philae, habitación del hotel
+0074 [Narración] | El banquete termina sin contratiempos. El enfrentamiento de Otoha con los Escorpiones del Desierto pasa completamente desapercibido... o los representantes de las empresas simplemente prefieren hacerse de la vista gorda.
+0075 [1] | Por fin terminó...==W== Qué día tan largo.
+0076 [1] | Me pregunto cómo estará Firenze. Espero que esté a salvo...
+0077 [Firenze] | Vaya, vaya, Jefe. Jejeje.==W== Qué linda coincidencia. Justo estaba por llamarte.
+0078 [1] | ¿Cómo salieron las cosas?
+0079 [Firenze] | Todo resuelto. Nyx y yo atrapamos a sus asesinos y se los entregamos directamente a la gran inspectora Matilda.
+0080 [Narración] | Dos horas antes
+0081 [Matilda] | ¿Firenze, Nyx? ¿Qué hacen en Puerto Jilguero?
+0082 [Matilda] | ¿No deberían estar en Philae? Se supone que el banquete de esta noche es para restaurar la confianza en la sucursal de Cosecha Unida.
+0083 [Matilda] | ¿Y quién les dijo que estoy inspeccionando el puerto?
+0084 [Firenze] | Usted nos convocó, gran inspectora.
+0085 [Nyx] | Tenga. Lea esto.
+0086 [Matilda] | La letra es mía. Ese es mi sello personal al final...==W== Pero yo nunca escribí esto.
+0087 [Firenze] | ...Lo sabía.==W== Alejarnos justo antes del banquete no tiene ningún sentido.
+0088 [Matilda] | Alguien falsificó mi firma y mi sello.
+0089 [Matilda] | Pero si ustedes dos están aquí... ¿Quién está a cargo del banquete?
+0090 [Firenze] | El director ejecutivo de Boss Accord se está encargando.==W== Una facción rival intenta montar un asesinato, pero todos están a salvo.
+0091 [Matilda] | Falsificar órdenes e intentar un asesinato por el puesto de director de una sucursal...==W== ¿Tan bajo ha caído Cosecha Unida?
+0092 [Matilda] | En cualquier caso, sé quién está detrás de esto.
+0093 [Matilda] | Gibel Corregio,==W== la estrella en ascenso de su familia. El Senado lo respalda para que tome el control de la sucursal de Philae.
+0094 [Matilda] | Los Corregio controlan una facción enorme aquí, y una de las ramas de su familia dirige una empresa==W== que posee el Sello de la Gracia del «Soldado».
+0095 [Matilda] | Usaron la habilidad de replicación del Soldado para falsificar esta carta.==W== Eso suma colusión corporativa a su lista de crímenes.
+0096 [Matilda] | Vamos, ustedes dos. Nos vamos a Philae.
+0097 [Nyx] | ¿A Philae? ¿Y su inspección aquí?==W== Con darnos el nombre de Gibel es más que suficiente...
+0098 [Matilda] | No, tengo que encargarme de esto en persona.==W== Un hombre como Gibel Corregio dirige a sus asesinos él mismo.
+0099 [Matilda] | Además, tengo que agradecerle al Jefe que está salvando a Cosecha Unida junto con ustedes.
+0100 [Firenze] | Entendido. Salimos hacia Philae esta noche.
+0101 [1] | Se ganaron a la gran inspectora. Bien hecho.
+0102 [Nyx] | Je, debiste ver a Firenze antes de que tocáramos la puerta, Jefe. Parecía que había visto un fantasma; estaba más pálida que una Planta Inteligente marchita.
+0103 [1] | ¿Mmm?
+0104 [Firenze] | No sabíamos si la gran inspectora era amiga o enemiga hasta verla cara a cara.==W== Solo estaba siendo precavida.
+0105 [Firenze] | Si ella hubiera sido la mente maestra, la pistola de Nyx y mi espada habrían sido la única justicia posible.
+0106 [Nyx] | ¡Oye, habla por ti!==W== Yo nunca me apunté para una traición.
+0107 [Firenze] | ¿Oh? Bueno,==W== si me obligaran a elegir entre la gran inspectora y nuestro Jefe... Mi decisión ya está tomada.
+0108 [1] | A Firenze y a Nyx todavía les faltan unos días para volver. Y parece que este tal Gibel es quien contrató a Otoha y a los Escorpiones del Desierto...
+0109 [1] | Recurrir al asesinato por la política interna de una empresa... ¿En qué estaba pensando?
+0110 [1] | Me pregunto cómo estará Otoha... Espero que esté bien.
+0111 [1] | ¿Mmm? ¿Un mensaje?
+0112 [???] | La pasé de maravilla esta noche. Hasta que nuestros caminos se vuelvan a cruzar.
+0113 [Tú] | Espera, ese tono...==W== ¡¿Otoha?!
+0114 [Tú] | ¿Cuándo consiguió mi contacto? Ni siquiera me di cuenta.
+0115 [???] | Ah, por cierto. No patees las cobijas mientras duermes.
+0116 [???] | Nos vemos.
+0117 [Tú] | Espera, ¡¿cómo sabe cómo me veo cuando duermo?!
+0118 [Tú] | Como sea...==W== Si me está mandando mensajes, debe estar a salvo.
+0119 [Otoha] | Muy bien. El perímetro del hotel está despejado. Los rezagados de los Escorpiones del Desierto se fueron.
+0120 [Otoha] | Vaya, vaya...==W== Vine aquí de cacería, y terminé siendo la presa.
+0121 [Otoha] | Uf...==W== Creo que ya es hora de... descansar un poco...

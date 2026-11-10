@@ -1,0 +1,130 @@
+# Nova Times #15 · Síndrome de dependencia de la ternura · 3 · Cuteness Dependency Syndrome (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Crow Rider | Jinete Cuervo
+N:Director Knight | Caballero director
+N:Ebony Star | Estrella de Ébano
+N:Imperial Guard Knight | Caballero de la Guardia Imperial
+N:Vollara & Neuvira | Vollara y Neuvira
+N:avg1_107 | Tilia
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg1_149 | Gerie
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_1239 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_157 | Guardia Imperial
+N:avg3_189 | Kaydoke
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Síndrome de dependencia de la ternura (Parte III)
+0003 [Intro] | El equipo te mira, la cámara te mira y, por supuesto, tú también me miras a mí... prométeme que no mirarás a nadie más que a mí, ¿sí?
+0004 [Narración] | Unos días después, el día de la filmación...
+0005 [Director Knight] | Después del almuerzo, pasaremos directo a la escena de Tilia y Minova juntas.==W== Todos, prepárense. Intentemos lograrlo en una sola toma.
+0006 [Vollara] | ¿Eh? Oye, Neuvira, ¿has visto a Minova?
+0007 [Neuvira] | Nop~ Ya vamos a empezar. ¿A dónde se fue?
+0008 [???] | ¡Perdón por la espera!==W== Estaba muy ocupada soñando despierta con la persona que amo y, sin querer, llegué tarde~
+0009 [Vollara] | Eh... ¿Quién eres...==W== espera, ¡¿CAPI?!
+0010 [Minova] | Soy yo, Minova, ¡tu heroína tipo mina terrestre en funciones!★==W== A quien se interponga entre mi amor y yo==W== lo mando volando♪
+0011 [Minova] | ... ¿Las asusté?==B====W== Entonces, ¿qué tal? Me quedó bastante fiel al personaje, ¿no?
+0012 [Neuvira] | M-me asustaste de muerte...
+0013 [Vollara] | ¡De verdad casi no te reconozco!
+0014 [Director Knight] | Faltan cinco minutos para filmar. Todos, por favor, a sus posiciones.
+0015 [Minova] | ¡Yo me adelanto!==W== Ustedes dos cámbiense y vengan también, ¿sí?★
+0016 [Vollara] | Vaya, eso fue increíble...
+0017 [Tilia] | Uf… Uf… Los refuerzos no dejan de llegar…
+0018 [Tilia] | Estrella de Ébano, ¿no estás herida?
+0019 [Ebony Star] | Estoy bien. ¿Y tú? Te mantendré a salvo, ¡aunque tenga que morir por ello...!
+0020 [Tilia] | ¿Será el atuendo? Minova se siente completamente distinta ahora...==W== ¡Tengo que seguirle el ritmo!
+0021 [Director Knight] | ¡Corte!==B====W== Minova, estuviste mucho mejor que la vez anterior. El atuendo funciona, el peinado y el maquillaje funcionan. Pero todavía te falta una cosa.
+0022 [Director Knight] | Esta escena trata de la determinación de la heroína de contraatacar aun cuando todo parece perdido.==W== Necesito ver esa desesperación, esa fe de que pase lo que pase, no soporta perder a quien lucha a su lado. Haz que el público sienta tu lucha y tu urgencia.==W== ¿Entendido?
+0023 [Minova] | No soportar perder a quien lucha a mi lado...==W== Está bien, lo intentaré.
+0024 [Gerie] | Je. Tenía el presentimiento de que algo te pasaba. Así que de verdad también te gusta esa historieta.
+0025 [Minova] | Sí... Por favor, no les digas a Vollara y Neuvira.==W== Si se enteraran de que leo historietas shojo... Acabaría por completo con mi imagen de líder.
+0026 [Gerie] | Así que por eso te esforzabas tanto en ocultarlo.==W== No te preocupes. Juro por el Dios de la Gracia que no se lo diré a nadie.
+0027 [Minova] | Gracias. Te debo una.==W== Entonces, ¿qué se supone exactamente que debo hacer en este entrenamiento especial...?
+0028 [Gerie] | En «Adiós, mi amiga de la infancia mina terrestre», cada línea de la heroína se te mete bajo la piel como veneno, ¿verdad?==W== Eso es lo que te falta ahora. Esa sensación venenosa.
+0029 [Gerie] | Esa es la magia del tipo mina terrestre.==W== Primero, deja atrás esa versión tuya recta y honorable y conecta con el veneno que llevas dentro. La posesividad que sientes hacia la persona más importante para ti.
+0030 [Minova] | ... Más o menos entiendo lo que dices. Pero ¿cómo convierto eso en actuación?
+0031 [Gerie] | Empiezas con la imaginación.==W== Primero, visualiza a la persona más importante para ti.
+0032 [Minova] | La persona más importante...==W==
+0033 [Gerie] | Ya tienes a alguien en mente, ¿verdad?==W== Ahora imagina a esa persona con alguien más, sonriendo como nunca la has visto, más feliz de lo que jamás la has visto. ¿Qué sientes?
+0034 [Minova] | Si ==SEX== es feliz, entonces yo también lo sería...
+0035 [Gerie] | ¡No, ==W==no, no, no, no!!!==W== ¡Eso está totalmente mal!
+0036 [Gerie] | ¡Te dije que dejaras atrás tu yo de siempre! ¡Ahora eres una heroína tipo mina terrestre!
+0037 [Gerie] | Quieres a esa persona solo para ti.==W== No quieres perder a ==SEX4==. ¡Absolutamente no quieres que nadie más te quite a ==SEX4==!
+0038 [Gerie] | Aunque signifique hacer del mundo tu enemigo, lo llevarás hasta el final.==W== Eso es lo que de verdad significa ser protagonista tipo mina terrestre.
+0039 [Minova] | ¿De verdad...!?
+0040 [Gerie] | No pasa nada. Se te permite ser más egoísta.==W== Jamás dejarías que la persona que amas esté al lado de nadie más que tú...
+0041 [Narración] | La posesividad es lo que hace a una heroína tipo mina terrestre.
+0042 [Minova] | En esta escena, Tilia es la compañera a la que me niego a perder pase lo que pase. Y ahora mismo soy la Heroína Tipo Mina Terrestre.
+0043 [Minova] | Ahora, a Tilia están por arrebatármela...==W== ¡En ese caso, tengo que...!
+0044 [Director Knight] | ¡Muy bien, toma dos! ¡Todos en posición!==W== Y... ¡ACCIÓN!
+0045 [Tilia] | Estrella de Ébano, déjame esto a mí. ¡Corre mientras puedas! ¡Proteger al pueblo es deber de la Guardia Imperial!
+0046 [Ebony Star] | No...
+0047 [Ebony Star] | ¡No, no, no, no, no, no, no, no! ¡De ninguna manera! ¡Ni hablar! ¡DE NINGUNA MANERA!
+0048 [Tilia] | ¿Eh? Espera... ¿Esa es la línea aquí?
+0049 [Ebony Star] | Tilia... ¿Por qué dirías eso? Quiero quedarme a tu lado… ¡Hasta el final...!
+0050 [Tilia] | ¡¿Eh?! ¡¿H-hasta el final?!
+0051 [Kaydoke] | ¿Eh~? ¿Agregaron esa línea sobre la marcha?
+0052 [Director Knight] | ¡N-no!==W== ¡Pero esa improvisación está muy buena! ¡No detengan las cámaras, sigan grabando!
+0053 [Ebony Star] | Tranquila. No tengas miedo, ¿sí? Voy a vencer a golpes a todos y cada uno de los enemigos de Tilia. Así que quedémonos juntas. ¿Está bien?
+0054 [Ebony Star] | Me enfrentaría al mundo entero por Tilia, y ni siquiera parpadearía★
+0055 [Tilia] | ¡¡¡Eh...?!!!
+0056 [Crow Rider] | ¡Ahí están! ¡La caballero Tilia y Estrella de Ébano!
+0057 [Tilia] | ¡Ah! ¡No, no, no! ¡Este no es momento de ponerse nerviosa!==W== ¡Tengo que volver a encarrilar la escena...!
+0058 [Tilia] | ¡¿Refuerzos enemigos?! ¡Miren para acá! ¡Vengan a pelear conmigo!
+0059 [Ebony Star] | ¿Qué quieres decir con «miren para acá»? Tus ojos… ¡¡¡Deben estar en mí y solo en mí!!!
+0060 [Tilia] | ¡¿Q-quééé?! P-pero si hago eso, no podré protegerte...
+0061 [Ebony Star] | ¡Yo soy la que te va a proteger a TI, Tilia!
+0062 [Ebony Star] | ¡Tilia! ¡Tilia! ¿Me mirarás solo a mí? No mires a nadie más. Quiero tus ojos en mí, y solo en mí...
+0063 [Tilia] | Pero... soy una caballero del pueblo...
+0064 [Ebony Star] | Tilia... Que seas la caballero del «pueblo» es increí~~~blemente atractivo.
+0065 [Ebony Star] | Pero... me he dado cuenta de que ya no quiero ser una persona más entre la multitud.
+0066 [Ebony Star] | Tilia... A partir de ahora, ¿serás mi caballero solo mía?
+0067 [Tilia] | ¡E-eh! ¡Eh!==W== T-tal vez... ¡¡¡Tal vez deberíamos empezar siendo amigas primero...!!!==W==
+0068 [Crow Rider] | ¡¿Tilia se desplomó?!==W== Eh... ¡¿alguien debería gritar corte...?!
+0069 [Ebony Star] | … Imperdonable.
+0070 [Crow Rider] | … ¿Eh?
+0071 [Narración] | Imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable imperdonable...
+0072 [Ebony Star] | ¡¡¡No vas a quitarme a mi caballero...!!!
+0073 [Crow Rider] | ¡¿Ay?!==W== ¡O-oye, eso duele!==W== ¡Ay, ayyyy!
+0074 [Vollara] | ¡Capi, eres increíble! ¡Acabas de derribar a todos los malos!
+0075 [Neuvira] | Parece que se saltaron por completo nuestras escenas.==W== Eh, ¿eso significa que no tenemos que cambiarnos?
+0076 [Kaydoke] | ¡Jajajajajajajaja! Esto está muy divertido, pero director, ¿de verdad no vamos a detener esto?
+0077 [Director Knight] | Eh... Bueno...==W== El resumen de la trama dice: «Estrella de Ébano despierta el poder de la amistad y rompe el cerco junto con Tilia», así que técnicamente la trama no ha cambiado...==W== ¡Está bien, que siga!
+0078 [Crow Rider] | ¡Oigan————! ¡Que alguien grite corte ya... aaaaaaah!==W== ¡¿Hasta cuándo me van a seguir golpeando?! ¡Aaaaaaah!
+0079 [Narración] | Unas semanas después, el avance de la segunda temporada de la Guardia Imperial se estrenó puntualmente...
+0080 [Narración] | El público terminó en acalorados debates sobre la relación entre las dos protagonistas.
+0081 [Narración] | Al parecer, mucha gente incluso pide una secuela sobre lo que ocurre entre ellas después.
+0082 [Imperial Guard Knight] | Alto. Esta es la oficina de la Guardia Imperial. ¿Tiene cita?
+0083 [Minova] | ¿Eh? No. Vengo a dejarle algo a Tilia...
+0084 [Imperial Guard Knight] | Lo siento, pero no podemos dejar pasar a cualquiera sin cita...
+0085 [Tilia] | ¿M-Minova? ¿Qué haces aquí?
+0086 [Minova] | Oh, Tilia. Justo a tiempo.==W== Me maté trabajando para el avance de la GI, y esta gente sí que sabe dar una bienvenida fría.
+0087 [Imperial Guard Knight] | ¿El avance...?==W== Espera, ¿eres Estrella de Ébano en persona?==W== ¡Mis disculpas! ¡Por favor, pase! Ustedes dos tómense su tiempo~==W==
+0088 [Tilia] | Este avance también quedó muy bien. ¡Qué alivio!
+0089 [Minova] | Eh... Perdón por lo que pasó aquella vez. Me metí demasiado en el papel y me pasé un poco...==W== Toma. Esto es para ti. Fruta, como disculpa. La cultivamos nosotros mismos y está muy rica.
+0090 [Tilia] | ¡Oh, no era necesario! Muchas gracias. La directora también quedó encantada, así que de verdad, no te preocupes.
+0091 [Tilia] | ¡Y tu heroína era súper linda! ¡Fue un honor actuar contigo!
+0092 [Minova] | ¿O-oh, sí...?==W== Yo soy quien debe agradecerte.==W== Bueno, ya dejé el regalo, así que me voy.
+0093 [Tilia] | ¡Está bien! Y si deciden hacer una secuela, ¡espero que vuelvas a trabajar con nosotros!
+0094 [Minova] | Eh... ¿Una secuela...?
+0095 [Vollara] | ¡Oye, Capi, ya volviste!==W== Entonces, ¿qué pasó con ese atuendo?
+0096 [Minova] | ¿El atuendo? Lo devolví.==W== Era un disfraz. No me queda muy bien, y en mis manos sería un desperdicio.
+0097 [Neuvira] | Eso no es cierto para nada~==W== Además, parecía que la estabas pasando de lo mejor~
+0098 [Minova] | ¡A eso se le llama actuar!
+0099 [Minova] | Basta de eso. Voy al sótano a encargarme de algo importante. No dejen entrar a nadie.==W== ¿Entendido?
+0100 [Vollara & Neuvira] | ¡Sí, Capi!
+0101 [Minova] | ... Este atuendo ... es tan adorable.
+0102 [Tilia] | ¡Y tu heroína era súper linda! ¡Fue un honor actuar contigo!
+0103 [Minova] | Soy «súper linda»...==B====W== Entonces hasta alguien como yo podría ser la heroína de una historieta shojo...
+0104 [Minova] | Ugh, ¿en qué estoy pensando?==W== La filmación terminó y todavía no lo supero.==B====W== Pero, pensándolo bien...
+0105 [Minova] | ¿Qué tiene de malo esperar una secuela?==W== Por si acaso, esconderé este atuendo aquí por ahora.==W==

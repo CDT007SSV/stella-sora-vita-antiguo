@@ -1,0 +1,15 @@
+# Especial 6.5 · Obertura de un enigma sombrío — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm06x5_01 | Carta de medianoche
+STm06x5_02 | Visita misteriosa
+STm06x5_03 | Todos ganan
+STm06x5_04 | De vuelta a los viejos rincones
+STm06x5_05 | Cerrando el cerco
+STm06x5_06 | La promesa
+STm06x5_07 | La variable
+STm06x5_08 | Una promesa pronto cumplida
+STm06x5_09 | El discurso
+STm06x5_10 | Ensueño
+@BT01 | Huéspedes del desierto
+@BT02 | Noche de tormenta de arena

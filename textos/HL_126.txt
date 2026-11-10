@@ -1,0 +1,381 @@
+# Heartlink de Flora: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Flora] | Uso este celular para cosas que no son de trabajo
+A01.0002 [Flora] | Agreguémonos para mantenernos en contacto
+A01.0003 [Opción] | ¿Por qué tienes dos celulares?
+A01.0004 [Opción] | ¿Qué tal si me das el otro?
+A01.0005 [Flora] | Hay que mantener separados el trabajo y la vida privada
+A01.0006 [Flora] | Es sentido común para alguien del mundo del espectáculo
+A01.0007 [Tú] | ¿Qué tal si me das el otro, ya que tienes dos?
+A01.0008 [Flora] | Lo pensaré~
+A01.0009 [Tú] | ¿En serio?
+A01.0010 [Flora] | Jeje~ Si te unes a la Agencia OpenSky, te dejaré administrar mi cuenta de trabajo~
+A01.0011 [Tú] | Quizá cuando esté al borde de morir de hambre
+A01.0012 [Flora] | Ojalá no tenga que llegar a eso.
+A01.0013 [Flora] | En fin, si necesitas ayuda con algo, escríbeme aquí
+A01.0014 [Flora] | Lo leeré, si no estoy demasiado ocupada~
+
+## Conversación A02
+A02.0001 [Flora] | Hace un calor abrasador...
+A02.0002 [Flora] | ==PLAYER_NAME==, ¿tienes algo para bajar la temperatura?
+A02.0003 [Tú] | ¿Estás enferma?
+A02.0004 [Flora] | No, es solo que mi cuerpo se sobrecalienta con facilidad
+A02.0005 [Opción] | Raspado de hielo
+A02.0006 [Opción] | Artefacto refrescante
+A02.0007 [Opción] | Iris
+A02.0008 [Tú] | ¿Y si comes algo frío, como un raspado de hielo?
+A02.0009 [Flora] | Suena bien, y he oído que en Cangwu hay algo parecido
+A02.0010 [Flora] | Se llama... ¿tong sui, creo?
+A02.0011 [Tú] | ¿Nunca has estado en Cangwu?
+A02.0012 [Flora] | Ojalá, pero mi agenda de trabajo está llena hasta el año que viene
+A02.0013 [Tú] | ¿Qué tal un artefacto con propiedades refrescantes?
+A02.0014 [Flora] | Me encantaría, pero otros artistas lo necesitan más
+A02.0015 [Flora] | Y tendría que ponerlo al máximo si lo usara
+A02.0016 [Tú] | Bueno, Iris, de mi gremio, es tu remedio
+A02.0017 [Flora] | ¿La chica que juega con hielo? ¡Mándamela, ya!
+A02.0018 [Tú] | No te emociones tanto, solo estaba lanzando ideas
+A02.0019 [Flora] | Tch...
+A02.0020 [Flora] | Ah, el agua se está calentando; tengo que ir a cambiarla
+A02.0021 [Tú] | ¿Estás en la bañera?
+A02.0022 [Flora] | Así es, me estoy refugiando de emergencia en la tina del cuarto de hotel
+A02.0023 [Flora] | Empezó como un baño de agua fría, pero ahora es prácticamente un manantial termal
+A02.0024 [Tú] | ¿Cuánto calor desprende tu cuerpo...?
+A02.0025 [Flora] | ¡No es que yo haya elegido ser así!
+
+## Conversación A03
+A03.0001 [Tú] | ¿Estás ocupada?
+A03.0002 [Flora] | Hace un momento estaba practicando, pero ahora puedo descansar
+A03.0003 [Tú] | Trabajas muy duro
+A03.0004 [Flora] | Jaja... Sí, separar peleas definitivamente es agotador...
+A03.0005 [Tú] | ¿Qué pez gordo se está peleando esta vez?
+A03.0006 [Flora] | El dramaturgo y el productor se enfrentaron
+A03.0007 [Flora] | El primero insistía en que un monólogo interior clave no puede omitirse
+A03.0008 [Flora] | Mientras que el segundo se dio cuenta de que, sin pasarse del presupuesto para construir un nuevo escenario, esta parte de la función quedaría muy acartonada
+A03.0009 [Opción] | Creo que el dramaturgo tiene razón
+A03.0010 [Opción] | Creo que el productor tiene razón
+A03.0011 [Opción] | ¿Qué opinas tú?
+A03.0012 [Tú] | En las obras de teatro, los actores de verdad tienen que expresar en voz alta los pensamientos de su personaje, ¿no?
+A03.0013 [Flora] | Ah~ Sabes del tema, me sorprendes~
+A03.0014 [Flora] | Pero a esa chica le falta algo de talento actoral, así que me preocupa que el cambio la estrese aún más
+A03.0015 [Tú] | Si cambian el escenario, tendrán que ensayar de nuevo. ¿Hay tiempo suficiente?
+A03.0016 [Flora] | ¡Rápido! ¡Usa tu cerebro de gran jefe y piensa en algo!
+A03.0017 [Tú] | Ojalá pudiera
+A03.0018 [Tú] | Me interesa más saber qué opinas tú de todo el asunto
+A03.0019 [Flora] | ¿Yo?
+A03.0020 [Flora] | Yo solo me siento a disfrutar el espectáculo
+A03.0021 [Tú] | Cuanto más drama, mejor, ¿eh?
+A03.0022 [Flora] | Sus discusiones son una forma de intercambio artístico, así que no intervenimos a menos que sea absolutamente necesario
+A03.0023 [Flora] | Pero no te preocupes, al final dejarán de discutir
+A03.0024 [Flora] | Luego harán las paces y el trabajo continúa
+A03.0025 [Tú] | Suenas muy segura
+A03.0026 [Flora] | Es mi equipo, así que ya estoy acostumbrada
+
+## Conversación A04
+A04.0001 [Flora] | ==PLAYER_NAME==
+A04.0002 [Flora] | ¿Te interesa protagonizar una obra conmigo?
+A04.0003 [Opción] | No soy de actuar
+A04.0004 [Opción] | Sería buenísimo actuando
+A04.0005 [Tú] | Lo siento, actuar no es mi fuerte
+A04.0006 [Flora] | No hay problema: todo es espontaneidad, no tiene nada que ver con la habilidad actoral
+A04.0007 [Tú] | Claro, tengo madera para esto
+A04.0008 [Flora] | ¡Maravilloso! Justo necesito una pareja.
+A04.0009 [Tú] | Un momento, ¿puedes decirme primero qué clase de obra es?
+A04.0010 [Flora] | Perdón, casi lo olvido...
+A04.0011 [Flora] | En pocas palabras, consiste en dejar de hacer lo que estés haciendo ahora mismo
+A04.0012 [Flora] | Fingir ser otra persona y vivir su vida
+A04.0013 [Flora] | Es perfecto para quienes a menudo necesitan ideas creativas
+A04.0014 [Flora] | Vivir una vida distinta de vez en cuando puede ayudarte a salir de la rutina
+A04.0015 [Opción] | Suena muy complicado
+A04.0016 [Opción] | Difícil de poner en práctica
+A04.0017 [Tú] | Difícil de poner en práctica para mí...
+A04.0018 [Flora] | No te preocupes, si te interesa, puedes investigarlo primero
+A04.0019 [Flora] | Esta ex estrella de Flavio ha decidido tomarte bajo su ala~
+A04.0020 [Tú] | ¿Qué tipo de papeles sueles interpretar?
+A04.0021 [Flora] | La última vez, hice de una cantante fracasada que volvió a su pueblo natal y luchaba por ganarse la vida
+A04.0022 [Tú] | Suena bastante normal. ¿Y esta vez?
+A04.0023 [Flora] | Como esta vez somos los dos, deberíamos hacer algo con dos protagonistas
+A04.0024 [Flora] | ¡Hagamos de cazadores que rastrean brujas en la ciudad!
+A04.0025 [Tú] | ¡Un ambiente totalmente distinto!
+
+## Conversación A05
+A05.0001 [Flora] | ==PLAYER_NAME==
+A05.0002 [Flora] | ¿Estás ahora en la casa rodante?
+A05.0003 [Tú] | Sí, ¿qué pasa?
+A05.0004 [Flora] | ¿Puedo esconderme en tu casa? Solo un rato.
+A05.0005 [Opción] | ¿Tienes deudas?
+A05.0006 [Opción] | ¿Te están siguiendo?
+A05.0007 [Opción] | ¿Vienes a holgazanear?
+A05.0008 [Tú] | ¿Estás huyendo para no pagar tu deuda?
+A05.0009 [Flora] | ¡Ni lo pienses!
+A05.0010 [Flora] | Si estuviera huyendo de acreedores, no te llamaría a ti...
+A05.0011 [Tú] | ¿Crees que podría delatarte?
+A05.0012 [Flora] | No serías tan cruel, ¿verdad, ==PLAYER_NAME==~?
+A05.0013 [Flora] | Eh... No lo harías, ¿cierto...?
+A05.0014 [Flora] | Hmph~
+A05.0015 [Flora] | Soy Flora, la Maga Máxima
+A05.0016 [Flora] | Sé exactamente cómo manejar una situación así~
+A05.0017 [Tú] | ¿Cómo?
+A05.0018 [Flora] | Con violencia o con dinero
+A05.0019 [Tú] | Eso me da una idea...
+A05.0020 [Flora] | Ni en broma. Si necesitas dinero, puedo darte algo...
+A05.0021 [Flora] | ¡Trabajo en horario flexible!
+A05.0022 [Tú] | ¡Pero igual tienes que ceñirte a los horarios de trabajo acordados!
+A05.0023 [Flora] | Ya terminé mi trabajo
+A05.0024 [Flora] | ¡Espera un momento!
+A05.0025 [Flora] | ¡Soy yo quien solicita un encargo!
+A05.0026 [Tú] | Vale, pero en serio, si necesitas ayuda, solo ven
+A05.0027 [Flora] | ¡¡¡Por fin!!!
+A05.0028 [Tú] | ¿?
+A05.0029 [Flora] | Oh...
+A05.0030 [Flora] | Por fin... ¡hay esperanza!
+A05.0031 [Tú] | ¿Quieres que compre más botanas?
+A05.0032 [Flora] | ¡Sí, por favor!
+A05.0033 [Tú] | ...
+A05.0034 [Flora] | Jaja...
+
+## Conversación A06
+A06.0001 [Flora] | Estoy pensando que los líderes de gremio y los productores son básicamente el mismo tipo de trabajo, ¿no crees?
+A06.0002 [Tú] | ¿A qué te refieres?
+A06.0003 [Flora] | Mira, un líder de gremio es responsable de dirigir y orientar a los Trekkers bajo su cargo
+A06.0004 [Flora] | Y tiene que lidiar con mucho papeleo
+A06.0005 [Flora] | Un productor también debe orientar y formar a sus artistas
+A06.0006 [Flora] | También tiene que negociar esos contratos interminables
+A06.0007 [Flora] | Si los Trekkers y el Papeleo son a los Artistas y los Contratos lo mismo, entonces los Líderes de Gremio son iguales a los Productores. Por lo tanto, QED
+A06.0008 [Opción] | ¡Eres un genio!
+A06.0009 [Opción] | No hay nada que objetar
+A06.0010 [Flora] | Entonces, si un líder de gremio también es productor
+A06.0011 [Flora] | ¿Cómo debería llamarse ella?
+A06.0012 [Tú] | Eh... ¿Productora de Gremio?
+A06.0013 [Flora] | Gran nombre, pero hasta donde sé, solo una Maga Máxima ha reclamado alguna vez ese título
+A06.0014 [Flora] | Y ahora necesita un socio de negocios
+A06.0015 [Flora] | ¡==PLAYER_NAME==! ¡Deberías unirte al mundo de la producción también!
+A06.0016 [Flora] | ¡Ayúdame!
+A06.0017 [Opción] | Así que de eso se trataba
+A06.0018 [Opción] | ¡Se revela la verdadera intención!
+A06.0019 [Flora] | ¡Ser productor es muy interesante!
+A06.0020 [Flora] | ¡Definitivamente deberías serlo!
+A06.0021 [Tú] | ¡Hoy estás rara!
+A06.0022 [Tú] | ¿Te está afectando la presión?
+A06.0023 [Flora] | Si tienes que lidiar todos los días con tantos documentos y contratos complicados
+A06.0024 [Flora] | Y cuando ensayas con el equipo, tienes que ocupar tú misma el centro del escenario
+A06.0025 [Flora] | Tú también enloquecerías
+
+## Conversación A07
+A07.0001 [Flora] | Se acabó...
+A07.0002 [Flora] | Todo se me viene abajo...
+A07.0003 [Flora] | Todo es en vano...
+A07.0004 [Tú] | Flora, ¿eres tú? ¿Por qué estás tan melancólica de repente?
+A07.0005 [Flora] | ¡Sí, soy Flora! ¡La Maga Máxima!
+A07.0006 [Flora] | ¡Pero no soy un ser omnisciente y todopoderoso!
+A07.0007 [Flora] | ¡De vez en cuando me da por entrar en uno de estos estados de ánimo!
+A07.0008 [Tú] | ¡Cálmate! ¡No es propio de ti!
+A07.0009 [Tú] | Bueno, bueno, como Tirano de los Antiguos, escucharé las confesiones de todos y cada uno
+A07.0010 [Tú] | Oh, Maga perdida, dime qué te tiene tan abatida
+A07.0011 [Flora] | He pecado... Señor Tirano...
+A07.0012 [Flora] | Perdí la paciencia durante la práctica con una niña que cometió el mismo error veinte veces
+A07.0013 [Flora] | ¿Qué debo hacer...? De verdad no era mi intención...
+A07.0014 [Flora] | Me preocupa mucho haberle arruinado el día...
+A07.0015 [Flora] | ¿Habré destruido sus sueños...?
+A07.0016 [Opción] | En cierto modo, esa niña suena bastante impresionante...
+A07.0017 [Opción] | Hace falta un rasgo especial para repetir el mismo error veinte veces
+A07.0018 [Tú] | En cierto modo, esa niña sonaba bastante impresionante...
+A07.0019 [Tú] | Ejem...
+A07.0020 [Tú] | Te perdono por cometer el pecado de la ira
+A07.0021 [Tú] | Cálmate y vuelve a hablar con ella
+A07.0022 [Flora] | ¡Gracias! ¡Supremo Señor Tirano!
+A07.0023 [Flora] | Oh...
+A07.0024 [Flora] | Ups, mis dedos fueron más rápidos que mi cerebro...
+A07.0025 [Tú] | ¿Ya terminaste?
+A07.0026 [Flora] | Sí, ahora me siento un poquito mejor...
+A07.0027 [Tú] | Sabes, no hacía falta que montaras esa farsa solo para tener esa charla conmigo
+A07.0028 [Flora] | Después de todo, soy Flora, la Maga Máxima
+A07.0029 [Flora] | ¿Cómo podría necesitar ayuda de un simple—
+A07.0030 [Tú] | «De vez en cuando me da por...»
+A07.0031 [Flora] | ¡¡¡AAAAAAAAAAAHHHHH!!!
+A07.0032 [Flora] | ¡Ya basta! ¡Basta, por favor!
+A07.0033 [Flora] | ¡Vale, perdón por mi charla frívola!
+A07.0034 [Flora] | ¡No le cuentes a nadie sobre esto, o mi imagen quedará completamente arruinada!
+
+## Conversación A08
+A08.0001 [Tú] | Flora
+A08.0002 [Flora] | ¿Mm? ¿Qué pasa?
+A08.0003 [Tú] | ¿Qué estás haciendo?
+A08.0004 [Flora] | Acabo de terminar mi función, ahora estoy tras bambalinas, quitándome el maquillaje.
+A08.0005 [Tú] | ¿Qué harás después?
+A08.0006 [Flora] | Después... Volver y echarme a descansar
+A08.0007 [Tú] | Ya veo. Ahora te mostraré un truco de magia
+A08.0008 [Tú] | Con una sola frase haré que recuerdes algo importante
+A08.0009 [Flora] | ¿Eh?
+A08.0010 [Tú] | Feliz cumpleaños, Flora
+A08.0011 [Flora] | Oh, ¿es hoy? Supongo que he estado tan ocupada últimamente que se me pasó por completo
+A08.0012 [Flora] | Puedo quitarme el maquillaje después: primero tengo que salir
+A08.0013 [Tú] | ¿A comprar comida para tu celebración de cumpleaños?
+A08.0014 [Flora] | Aciertas a medias
+A08.0015 [Flora] | Todos han trabajado duro últimamente, así que es la ocasión perfecta para invitarles algo rico
+A08.0016 [Tú] | ¿Y la otra mitad?
+A08.0017 [Flora] | Ja, ya lo descubrirás pronto~
+
+## Conversación A09
+A09.0001 [Tú] | Después de un solo entrenamiento, siento que me van a asar vivo
+A09.0002 [Flora] | ¡Perdón! ¡Debí ser más suave contigo!
+A09.0003 [Flora] | Hace mucho que no hago sesiones de entrenamiento como se debe
+A09.0004 [Tú] | ¿La magia que haces normalmente también es así de potente?
+A09.0005 [Flora] | ¡Claro que no!
+A09.0006 [Flora] | ¡Pero es cierto que el fuego es el elemento más peligroso de todos!
+A09.0007 [Flora] | La magia es un instrumento que se vuelve lo que tú hagas de él, como un cuchillo de cocina
+A09.0008 [Flora] | Puedes usarlo para preparar una gran comida
+A09.0009 [Flora] | O usarlo para herir a la gente...
+A09.0010 [Flora] | Todo depende de la habilidad de quien lo usa. Quienes no pueden controlarlo terminarán lastimándose a sí mismos.
+A09.0011 [Tú] | Aprendí algo nuevo sobre la magia...
+A09.0012 [Flora] | Perdón por eso, ==PLAYER_NAME==
+A09.0013 [Flora] | Para compensarte, te llevaré a la mejor postrería de la ciudad
+A09.0014 [Flora] | Escuché que ahora tienen parfaits
+A09.0015 [Tú] | Vale, necesito bajarme la temperatura...
+
+## Conversación A10
+A10.0001 [Flora] | Pensé que los Discos Rúnicos eran solo leyendas urbanas.
+A10.0002 [Flora] | No tenía idea de que realmente existían
+A10.0003 [Flora] | Poder hacer que la gente recuerde memorias pasadas... una magia tan potente se siente como hacer trampa...
+A10.0004 [Opción] | Pero todos estos recuerdos te pertenecen
+A10.0005 [Opción] | Tú eres quien hizo que este Disco Rúnico fuera lo que es
+A10.0006 [Flora] | Sí, pero quisiera decirlo de otra manera
+A10.0007 [Flora] | Fue la mariposa del pasado lejano batiendo sus alas, desatando una reacción en cadena del destino
+A10.0008 [Flora] | Después de vivir todo esto, de conocerlos a todos
+A10.0009 [Flora] | Todos tuvieron parte en que esta magia sucediera
+A10.0010 [Tú] | ¿Entonces soy como el ayudante de la magia?
+A10.0011 [Flora] | Por supuesto, si no fuera por ti, la mariposa nunca habría regresado a mí
+A10.0012 [Flora] | Así que gracias, de verdad...
+A10.0013 [Flora] | Pero no le cuentes a nadie este lado mío, ¿vale?
+A10.0014 [Tú] | Tabúes de la magia, lo sé
+
+## Conversación B01
+B01.0001 [Flora] | ¿Practicas tu firma, ==PLAYER_NAME==?
+B01.0002 [Tú] | No soy precisamente una celebridad, ya sabes
+B01.0003 [Flora] | Pero tienes tu propia empresa, ¿no?
+B01.0004 [Flora] | A veces tienes que firmar cosas una y otra vez.
+B01.0005 [Tú] | Entonces, ¿tienes algún consejo para practicar?
+B01.0006 [Flora] | Jeje~ Esperaba que lo preguntaras.
+B01.0007 [Flora] | Espera un momento, voy por unas herramientas y te enseño en persona~
+B01.0008 [Tú] | Solo quieres escabullirte, ¿verdad?
+B01.0009 [Flora] | ...
+B01.0010 [Tú] | ...
+B01.0011 [Flora] | No, para nada.
+
+## Conversación B02
+B02.0001 [Flora] | Cometí un pequeño error en la función de hoy.
+B02.0002 [Tú] | ¿Tú? Qué raro
+B02.0003 [Tú] | ¿Qué pasó?
+B02.0004 [Flora] | Por un momento perdí el control de mi varita. Por suerte, nadie lo notó.
+B02.0005 [Flora] | La revisé al bajar del escenario, pero no encontré nada raro.
+B02.0006 [Tú] | La verdad no entiendo cómo funcionan las varitas...
+B02.0007 [Tú] | ¿Pero quizá el problema esté en quien la usa?
+B02.0008 [Tú] | ¿Has estado actuando sin parar últimamente?
+B02.0009 [Flora] | Bueno, he estado ocupada...
+B02.0010 [Tú] | Ve a descansar, Flora. Por tu salud
+B02.0011 [Flora] | Sí, es verdad...
+B02.0012 [Flora] | No puedo creer que empecé a culpar a mi varita al instante.
+B02.0013 [Flora] | Gracias por el recordatorio. Reorganizaré mi calendario de próximas funciones.
+
+## Conversación B03
+B03.0001 [Flora] | Quizá suene a que viene de la nada, pero quiero preguntarte...
+B03.0002 [Flora] | ¿Parezco alguien que se aferra al pasado?
+B03.0003 [Opción] | Sí, lo pareces
+B03.0004 [Opción] | No creo que importe
+B03.0005 [Tú] | A veces sí sacas el pasado a colación
+B03.0006 [Tú] | Pero no creo que importe
+B03.0007 [Tú] | Todos estamos hechos de incontables momentos pasados
+B03.0008 [Tú] | Incluso esta conversación será pasado en unos segundos
+B03.0009 [Tú] | El presente ya es pasado; y el pasado fue, en algún momento, el futuro.
+B03.0010 [Flora] | Todo está conectado, como un truco de magia.
+B03.0011 [Tú] | Ves, sí lo entiendes
+B03.0012 [Flora] | Es solo que a veces me pregunto si hablo demasiado del pasado con la gente.
+B03.0013 [Flora] | ¿Parezco egocéntrica?
+B03.0014 [Tú] | Tener muchas experiencias pasadas es bueno. Un lujo que yo no tengo
+B03.0015 [Flora] | Entonces... ¿la yo de hoy puede convertirse en parte de tu pasado en el futuro?
+B03.0016 [Tú] | Vaya, ¿desde cuándo tienes tanta labia?
+B03.0017 [Flora] | ¡Ja! Te volteé las cartas~
+
+## Conversación B04
+B04.0001 [Flora] | ==PLAYER_NAME==, ¿estás libre más tarde?
+B04.0002 [Tú] | Sí, ¿por qué?
+B04.0003 [Flora] | Mmm...
+B04.0004 [Flora] | Tengo ganas de salir.
+B04.0005 [Tú] | Eso no suena a trabajo
+B04.0006 [Tú] | ¿Dónde estás? Voy a encontrarme contigo
+B04.0007 [Flora] | ¿Por qué no me preguntaste qué quería hacer?
+B04.0008 [Tú] | No quise husmear, por si era un asunto personal
+B04.0009 [Flora] | ¿Por qué te pones tan distante?
+B04.0010 [Flora] | ¿No hace mucho que pasamos de eso? O sea, ¿no nos lo hemos contado todo?
+B04.0011 [Tú] | BASTA BASTA BASTA
+B04.0012 [Tú] | Dejándome a mí de lado un momento...
+B04.0013 [Tú] | Si alguien más viera esta conversación, ¿qué harías?
+B04.0014 [Flora] | Descuida. Nadie puede tocar mi celular salvo Fannie
+B04.0015 [Tú] | ¿Y a ella no le molesta?
+B04.0016 [Flora] | Pues... siempre me dice que no te cause problemas.
+B04.0017 [Tú] | Pero lo que haces no se parece ni de lejos...
+B04.0018 [Flora] | Ejeje~
+
+## Conversación B05
+B05.0001 [Flora] | Lo decidí. Quiero comprar ropa nueva para salir.
+B05.0002 [Tú] | ¿Para trabajo? No sé mucho de eso
+B05.0003 [Flora] | No, no para trabajo. La que usaría cuando salga contigo.
+B05.0004 [Tú] | Siempre usas las mismas sudaderas holgadas
+B05.0005 [Flora] | Simplemente no lo entiendes, ==PLAYER_NAME==.
+B05.0006 [Flora] | A veces cambiarse de ropa también cambia el ánimo.
+B05.0007 [Tú] | Vale, ¿qué tipo de ropa quieres probarte?
+B05.0008 [Flora] | ¿Qué estilo crees que me va?
+B05.0009 [Opción] | Intelectual y elegante
+B05.0010 [Opción] | Andrógino y cool
+B05.0011 [Opción] | Lindo estilo «landmine»
+B05.0012 [Tú] | Intelectual, maduro y a la vez elegante
+B05.0013 [Flora] | Eso suena bien~
+B05.0014 [Flora] | Tenía ganas de probarme unos vestidos.
+B05.0015 [Flora] | Aunque no sabía que te gustaba este tipo de estilo, ==PLAYER_NAME==.
+B05.0016 [Tú] | Solo creo que es el que mejor va con tu presencia en el escenario
+B05.0017 [Flora] | Entendido, entendido~ Te escucho~
+B05.0018 [Tú] | ¿Qué tal un estilo andrógino y cool?
+B05.0019 [Flora] | No me importa, pero ¿por qué?
+B05.0020 [Tú] | Primero, te ayuda a ocultar tu identidad
+B05.0021 [Tú] | Segundo, creo que podrías lucir un nuevo look
+B05.0022 [Flora] | ¿Ah, sí...? Jeje...
+B05.0023 [Tú] | Escuché que hay un estilo «tierno pero súper tóxico»
+B05.0024 [Flora] | Ah sí, oí hablar de eso hace poco.
+B05.0025 [Flora] | Pero... ¿de verdad quisieras que me pusiera algo así...?
+B05.0026 [Tú] | Creo que valdría la pena intentarlo, ¿no?
+B05.0027 [Flora] | Siento que necesitaría prepararme mentalmente.
+B05.0028 [Flora] | Pero si de verdad quieres verlo, ==PLAYER_NAME==, haré mi mejor esfuerzo.
+B05.0029 [Flora] | En fin, solo hablarlo no nos llevará a ningún lado.
+B05.0030 [Flora] | No hay mejor día que hoy. Vamos a elegir algo ya mismo.
+B05.0031 [Tú] | Vale, voy por ti
+B05.0032 [Flora] | No, esta vez yo iré a ti.
+B05.0033 [Flora] | Solo espérame~
+
+## Conversación B06
+B06.0001 [Flora] | Te vi desde la zona VIP en la función de hoy.
+B06.0002 [Flora] | Gracias por venir~
+B06.0003 [Tú] | Mi gremio acaba de llegar a la ciudad y seguimos muy ocupados con los encargos
+B06.0004 [Tú] | Perdón por no poder ayudar con los ensayos
+B06.0005 [Flora] | ¡Ni lo menciones! Solo con que estuvieras aquí me hiciste muy feliz.
+B06.0006 [Flora] | Me dio energía extra en el escenario.
+B06.0007 [Tú] | Sí, se notó. Algunos trucos fueron especialmente vistosos. Lo disfruté mucho
+B06.0008 [Flora] | Ah, Fannie me llama para empacar.
+B06.0009 [Tú] | ¿Ya te vas? Pensé que te quedarías unos días más
+B06.0010 [Flora] | La agenda manda. Viajamos por separado. Ya fue una suerte enorme encontrarnos.
+B06.0011 [Flora] | Entonces, ¿quieres dar un paseo ahora mismo?
+B06.0012 [Tú] | ¿Ahora?
+B06.0013 [Flora] | Sí, pronto termino de empacar. Puedo pasar un rato contigo antes de irme.
+B06.0014 [Tú] | Pero sigues con tu atuendo de escenario. ¿No te preocupa...?
+B06.0015 [Flora] | Esta oportunidad de vernos es rara. No quiero perdérmela.
+B06.0016 [Flora] | Si alguien nos ve y empieza a esparcir rumores, que así sea~
+B06.0017 [Tú] | Bueno, dicho así, ¿cómo podría negarme?
+B06.0018 [Tú] | Pero mientras empacas, yo también me voy a cambiar de ropa
+B06.0019 [Flora] | ¿Desde cuándo te preocupas tanto por tu imagen?
+B06.0020 [Tú] | Oye, si voy a estar con Flora, la Maga Máxima, tengo que ponerme algo a la altura de la ocasión~
+B06.0021 [Tú] | Armé un atuendo muy bueno. Ve esperándolo con ganas
+B06.0022 [Flora] | Oh. Qué labia tienes.
+B06.0023 [Tú] | Intenta mantener la compostura cuando me veas, ¿vale?
+B06.0024 [Flora] | Recibido~

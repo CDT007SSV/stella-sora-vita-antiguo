@@ -1,0 +1,88 @@
+# Historia de Noya · 2 · Fast and Focused (Part 2)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Driver | Conductor arrogante
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Rápidos y concentrados (Parte 2)
+0003 [Intro] | El estilo de manejo de Noya te preocupa. Efectivamente, ocurre un accidente, solo que no como lo esperabas.
+0004 [Noya] | ==W====PLAYER_NAME==... ==W====PLAYER_NAME==...
+0005 [Tú] | Eh...
+0006 [Noya] | Por fin despertaste. Estaba tan preocupada...
+0007 [Tú] | ¿Qué ... me pasó?
+0008 [Noya] | Supongo que la velocidad máxima de Loxy fue demasiado para ti y te desmayaste...
+0009 [Noya] | Así que bajé a nuestra velocidad normal...
+0010 [Tú] | Uf... Música para mis oídos.
+0011 [Tú] | Ah, cierto, antes de desmayarme, ¿no mencionaste un lugar con una vista genial?
+0012 [Tú] | ¿Ese es nuestro destino?
+0013 [Noya] | ¿Destino?
+0014 [Noya] | No hay «destino» cuando sales a dar una vuelta.==W== Se trata de ir a donde te lleve el camino. Cada vista a lo largo del camino es hermosa.
+0015 [Noya] | Sobre todo así, cuando estoy contigo.==W== Hasta este camino que he recorrido mil veces se siente … distinto.
+0016 [Noya] | ¡Ah, cierto! Y está ese sonido desconocido.
+0017 [Noya] | No es el motor de Loxy, y tampoco son los pájaros cantando a lo largo del camino.
+0018 [Noya] | Pum pum...==W== Viene de mi corazón, como si fuera a saltar de mi pecho...
+0019 [Narración] | Noya deja de hablar,==W== y los sonidos a nuestro alrededor parecen desvanecerse poco a poco en el fondo.
+0020 [Narración] | Miro por la ventana, donde los campos verdes se extienden hasta fundirse con el cielo azul.
+0021 [Tú] | Sí, la vista es hermosa aquí.
+0022 [Tú] | Se siente bien dar un paseo en carro contigo.
+0023 [Noya] | Jeje. En ese caso, ¿podrías...?
+0024 [Tú] | ¿Qué pasó? Ese golpe desde atrás...
+0025 [Noya] | ¿Algo nos chocó...?
+0026 [Tú] | Iré a ver qué pasó.
+0027 [Noya] | ¡Detrás de ti!
+0028 [Narración] | Por detrás, un auto pasa zumbando, rozando apenas la puerta que acabo de abrir.
+0029 [Arrogant Driver] | ¡Mi tortuga mascota va más rápido! ¿A esto le llamas manejar?==W==
+0030 [Tú] | Noya, vi bien al conductor y al auto.
+0031 [Tú] | Ese auto tiene una pequeña abolladura al frente. Es el que acaba de golpearnos.
+0032 [Noya] | ¡Eso no importa! ¡¿Estás bien?!
+0033 [Tú] | Estoy bien, no te preocupes.
+0034 [Tú] | Contactaré a la Guardia Imperial de inmediato para que rastreen ese auto.
+0035 [Tú] | … ¿Noya?
+0036 [Noya] | Ese idiota... Lastimar a Loxy y ponerte en peligro así...
+0037 [Noya] | La Guardia Imperial no llegará a tiempo. Loxy y yo iremos tras él.
+0038 [Tú] | ...==W== Es cierto, a la Guardia le tomará un tiempo llegar...
+0039 [Tú] | Si sigue manejando así, también es peligroso para los demás autos del camino.
+0040 [Tú] | Noya, todo listo.==W== ¡A toda velocidad, atrapemos ese auto! Confío en tus habilidades de manejo.
+0041 [Noya] | ¡Muy bien!==W== Lo atraparé sin falta.
+0042 [Noya] | ¡Ya lo veo!
+0043 [Noya] | En esa gran curva de adelante podemos tomar un atajo, pero ...==W== tendremos que atravesar los árboles a golpes.
+0044 [Noya] | Aguanta, Loxy.==W== Después de esto, ¡te prometo consentirte con una mejora de piezas más resistentes y un servicio de lubricante premium!
+0045 [Noya] | ¡==PLAYER_NAME==! ¿Vas a estar bien?
+0046 [Tú] | ¡No te preocupes por mí!==W== ¡Voy a protegerme la cabeza! Estoy bien, de verdad.
+0047 [Noya] | ...
+0048 [Noya] | No, cambié de opinión.
+0049 [Noya] | ==PLAYER_NAME==, por favor vigila el vaso de agua y recuérdame que maneje con seguridad.
+0050 [Noya] | No tengo la habilidad suficiente para estrellarme contra árboles sin derramar el agua, así que...
+0051 [Noya] | Tendré que alcanzarlo sin ser temeraria.
+0052 [Noya] | Muy bien,==W== ¡allá voy!!
+0053 [Narración] | Tal como prometió, Noya alcanza al objetivo sin derramar una gota de agua.
+0054 [Arrogant Driver] | ¡¿Imposible?! ¡¿Me alcanzaste?!
+0055 [Noya] | ¿Creías que podías librarte después de golpear a Loxy?
+0056 [Tú] | ¿Es lo mejor que puedes hacer, chico tortuga?==W== ¿Por qué no te orillas y admites la derrota?
+0057 [Arrogant Driver] | ¡Ja! ¡Trágate mis gases en la próxima curva!==W==
+0058 [Narración] | El rugido del motor llena mis oídos==W== mientras el auto a nuestro lado vuelve a acelerar de repente.
+0059 [Noya] | ¡Oye! ¡Cuidado!
+0060 [Noya] | Oh, se estrelló.
+0061 [Tú] | Guau... Suena como si doliera de verdad...
+0062 [Tú] | Contactaré a la Guardia Imperial. Noya, revisa si el conductor está bien.
+0063 [Noya] | ¡¿Whoa?!==W== ¡¿S-salió arrastrándose del auto?!
+0064 [Arrogant Driver] | Tú...==W== Tú...
+0065 [Narración] | El conductor corre hacia nosotros, con el rostro enrojecido de ira.==W== Al verlo, Noya se coloca rápidamente frente a mí.
+0066 [Arrogant Driver] | Oye tú, rubia, ¿eres la conductora de esta chatarra?
+0067 [Noya] | ¡No es una chatarra! Y así es, soy la conductora.
+0068 [Arrogant Driver] | Pues entonces...
+0069 [Tú] | Este tipo... ¿No estará furioso y buscando pelea, verdad?
+0070 [Tú] | En fin... Más vale prepararse para resolver esto por la fuerza si hace falta.
+0071 [Tú] | Noya, si llega a haber pelea, no seas muy dura con él.
+0072 [Noya] | ¡Entendido! ==W==¡Solo escóndete en el auto! No quiero que te lastimen.
+0073 [Arrogant Driver] | ...
+0074 [Noya] | ...
+0075 [Tú] | ...
+0076 [Narración] | Solo queda el suave rumor del viento.
+0077 [Narración] | Hasta que el sonido de un objeto pesado golpeando el suelo rompe el silencio.

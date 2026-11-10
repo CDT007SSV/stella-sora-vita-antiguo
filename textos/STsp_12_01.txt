@@ -1,0 +1,127 @@
+# Nova Times #12 · Tú, en mis ojos · 1 · You, In My Eyes (Part Ⅰ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_149 | Gerie
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Tú, en mis ojos (Parte Ⅰ)
+0003 [Intro] | Sin otra opción, el Gremio de la Nueva Estrella acepta un encargo supervisado por Gerie. Curiosamente, parece haberse interesado de manera especial en ti...
+0004 [Narración] | Esta es la historia de cómo toqué por primera vez su alma...
+0005 [Willow] | Lo siento, pero solo podemos entregar una tercera parte de la recompensa por este encargo.
+0006 [Noya] | ¡No hablas en serio! Luchamos contra enjambres de Stellaroids por esa cosa. ¡Mira, hasta me astillé la hoja!
+0007 [Iris] | ¿Podrías reconsiderarlo? Reponer el material cuesta la mitad del pago. Si solo recibimos un tercio, perdemos dinero.
+0008 [Amber] | Mi Piedra del Alma. Sin Gracia.
+0009 [Willow] | Sé que todos se esforzaron, pero...
+0010 [Willow] | ... el Artefacto está gravemente dañado. Me temo que no cumplirá con los estándares del cliente.
+0011 [Amber] | Ayer. Demasiados Stellaroids.
+0012 [Noya] | ¡Esa cosa era enorme! Entre las dos cargándola, no pudimos contener al enjambre.
+0013 [Willow] | Lo sé. Pocos Trekkers visitaron últimamente el Monolito n.º 25 de Emor, así que los Stellaroids se acumularon.
+0014 [Iris] | O sea que...
+0015 [Willow] | Un encargo es un encargo. Tenemos que responderle al cliente.
+0016 [Iris] | Y-yo... entiendo. No logramos protegerlo. Ya veremos qué hacer.
+0017 [Tú] | Uf, ser Trekker es brutal. Los riesgos son demasiado altos.
+0018 [Amber] | Cartera. Vacía.
+0019 [Noya] | Entonces, ¿cenamos Ruiseñor Leonado? ¿O nos toca quedarnos con brochetas de corteza?
+0020 [Willow] | Por favor, esperen un momento.
+0021 [Tú] | ¿Mm?
+0022 [Willow] | De hecho tenemos una solicitud especial para eliminar Stellaroids. Como saben, si se acumulan demasiados, se corre el riesgo de desatar un Colapso del Monolito.
+0023 [Willow] | Ayer logré conseguir un patrocinador. ¿Les interesa el trabajo? Tomen, échenle un vistazo a los detalles.
+0024 [Iris] | ¿Cinco mil Dorras por un común, diez mil por uno de élite, y los raros son negociables? Este pago es absurdo.
+0025 [Noya] | Diez comunes son cincuenta mil... ¡Cien son quinientos mil! ¡Guau, podría cazar estas cosas hasta jubilarme!
+0026 [Willow] | —Y este encargo viene con una condición.
+0027 [Tú] | ¿Cuál?
+0028 [Willow] | Los acompañará una supervisora del patrocinador. Necesita verificar personalmente la cantidad de eliminaciones.
+0029 [Iris] | Tiene sentido. Con una recompensa tan alta, obviamente querrían a alguien de confianza para verificar los resultados.
+0030 [Willow] | Hablando del rey de Roma. Ya llegó.
+0031 [Tú] | Ese uniforme... ¿No es de los Árbitros del Ocaso? Espera, ¿por qué todos los demás parecen aterrados?
+0032 [Willow] | Árbitra Gerie, estos son los Trekkers que aceptaron el trabajo.
+0033 [Gerie] | Un placer. Soy Gerie, de los Árbitros del Ocaso.
+0034 [Noya] | ¡Atrás! ¡No des ni un paso más hacia ==PLAYER_NAME==!
+0035 [Gerie] | Jeje. Vaya, qué belicosas somos.
+0036 [Gerie] | Solo quería ver más de cerca a nuestro legendario Tirano.
+0037 [Tú] | Soy quien dirige Boss Accord. Eso me hace Jefe, no Tirano.
+0038 [Gerie] | Bueno, todos en los Árbitros del Ocaso están convencidos de que eres la leyenda en persona. Se mueren por llevarte a juicio.
+0039 [Amber] | ¡Corran! ¡Yo me encargo de ella!
+0040 [Amber] | D-desapareció.
+0041 [Gerie] | Cu-cú, gatita. Justo detrás de ti.
+0042 [Gerie] | Y tú, niña, deja de intentar lanzar ese hechizo a escondidas. Tu tiempo de lanzamiento es dolorosamente lento.
+0043 [Iris] | ¡Oye! ¡Quita las manos de mi MagBook! ¡Devuélvemelo!
+0044 [Tú] | Vienes por mí, ¿verdad? Deja a mis amigas fuera de esto.
+0045 [Gerie] | Ay, no te pongas de malas. Están a salvo. Pero sí... vengo por ti.
+0046 [Tú] | Entonces, ¿de qué se trató esa pequeña actuación?
+0047 [Gerie] | Calma. Solo ponía a prueba al equipo. Vamos a escalar juntos el Monolito. Tengo que saber si mis compañeros son inútiles o no, ¿cierto?
+0048 [Noya] | ¡Mentirosa! ¡La forma en que mirabas a ==PLAYER_NAME== parecía que querías comerte vivo a ==SEX4==!
+0049 [Gerie] | Jeje. Solo tenía curiosidad por saber si su Jefe está a la altura de la leyenda.
+0050 [Gerie] | Relájate. Los Árbitros del Ocaso somos justos. No te juzgaré hasta que tu Puntaje de Herejía llegue a cien.
+0051 [Tú] | ¿Cuál es mi puntaje actual?
+0052 [Gerie] | Antes de esto, cero.==W== ¿Ahora? Diez.
+0053 [Tú] | ¿Eh? ¿De dónde saqué diez puntos?
+0054 [Gerie] | Según tengo entendido, pelear en la Casa de los Trekkers te hace ser vetado por la Asociación de Trekkers. De por vida.
+0055 [Gerie] | Sin suministros, sin apoyo... Básicamente, una sentencia de muerte en las Tierras Salvajes.
+0056 [Gerie] | Mi querido Tirano, tienes buenos amigos. Dispuestos a incendiar su futuro solo para mantenerte a salvo.
+0057 [Gerie] | Esa clase de carisma encaja perfecto con la leyenda del Tirano. Así que diez puntos para ti.
+0058 [Tú] | ¡Es el sistema de puntuación más arbitrario que he visto!
+0059 [Tú] | Hasta Iris estaba lista para meterse a la pelea allá atrás, y ella suele ser la más sensata. Debe de ser una situación muy desesperada para ellas...
+0060 [Iris] | Qué importan los suministros... ¡Nada importa más que los amigos!
+0061 [Amber] | Compañeros. Más importantes que las recompensas.
+0062 [Noya] | Abandonar a un amigo traiciona mi corazón. ¡No lo permitiré!
+0063 [Gerie] | Jejeje... Relájense, Trekkers. La prueba terminó. Tratemos de llevarnos bien de ahora en adelante, ¿mm?
+0064 [Gerie] | Willow, esa pequeña riña no violó la cláusula de Conducta Prohibida de la Casa, ¿verdad?
+0065 [Willow] | Ejem... ¡En fin! Todos son colegas Trekkers, ¡así que pórtense bien!
+0066 [Gerie] | ¿Ves? Todo en orden. Vámonos. Me muero por ir a saludar a esos Stellaroids. Jeje.
+0067 [Iris] | Jefe, ¿y si mejor nos alejamos de este encargo?
+0068 [Noya] | Definitivamente te tiene echado el ojo. Y es de quien todos los Trekkers han estado murmurando—
+0069 [Gerie] | ¡Rápido, Trekkers! Durante nuestra pequeña prueba de hace rato ya les ayudé a estampar sus huellas en el contrato.
+0070 [Gerie] | Si se echan para atrás ahora ... pagarán una penalización enorme por incumplimiento de contrato... Jejejeje.
+0071 [Noya] | ¿C-cuándo...?
+0072 [Amber] | Mi dedo. Manchado de tinta roja.
+0073 [Tú] | Bueno, eso lo decide todo. Vamos. Esta Árbitra es una rarísima...==W== Pero, la verdad, no creo que quiera hacernos daño...
+0074 [Iris] | Jefe, igual debemos cuidarnos las espaldas. He oído historias—
+0075 [Gerie] | ¿Susurrando secretos por allá, Trekkers? Vamos, déjenme participar en la diversión.
+0076 [Iris] | ¡Iik—!
+0077 [Noya] | No la hagas sospechar. Mejor alcancémosla.
+0078 [Amber] | Jefe, cambiemos a Heartlink. Ahí podemos hablar libremente.
+0079 [Tú] | ¿De qué hablaban Noya e Iris allá atrás?
+0080 [Amber] | Es un rumor que ha corrido entre los Trekkers últimamente...
+0081 [Amber] | Conoces a los Árbitros del Ocaso, ¿verdad, Jefe?
+0082 [Tú] | Un poco. La «espada» de la Gracia, ¿no? Cazan a herejes y a quienes desafían la doctrina.
+0083 [Amber] | Sí, pero seamos sinceros... ¿Alguien ha visto a un hereje de verdad?
+0084 [Amber] | La mayoría pensaba que los Árbitros eran unos reclusos. Ya sabes, que se quedaban en el Santuario a rezar y a entrenar.
+0085 [Amber] | ¿Pero últimamente? Están por todas partes, husmeando. Y de repente, gente cerca de Emor empezó a desaparecer. Cuatro o cinco escuadrones desaparecidos en solo dos semanas.
+0086 [Tú] | ¿Quizá se mudaron a otra ciudad?
+0087 [Amber] | Eso esperábamos. Hasta que su equipo apareció en los mercados de chatarra ... todavía manchado de sangre.
+0088 [Amber] | El comerciante describió al vendedor: túnica negra, capucha bien baja para ocultar el rostro.
+0089 [Tú] | ¿O sea que ... los asaltaron?
+0090 [Amber] | No sé... Pero escucha esto. El comerciante intentó asomarse bajo la capucha y lo vio.
+0091 [Amber] | No había rostro. Solo un vacío. Un agujero negro profundo y sin fondo.
+0092 [Tú] | 
+0093 [Tú] | ¿Esto es ... alguna clase de cuento de terror?
+0094 [Amber] | Dicen que a esos Trekkers no los asaltaron. Los Árbitros del Ocaso se los llevaron. Los arrastraron para torturarlos como herejes.
+0095 [Amber] | ¿Y esa figura sin rostro? Dicen que era alguien hermoso, tan hermoso que los Árbitros le arrancaron la cara... Y ahora la magia obliga al cadáver a revender su botín.
+0096 [Amber] | Ahora nadie se atreve a pisar las Tierras Salvajes.
+0097 [Tú] | Eso explica por qué el Monolito está plagado de Stellaroids.
+0098 [Amber] | Dicen que la Árbitra más aterradora de las calles es la que lleva un nudo de ahorcado alrededor del cuello.
+0099 [Amber] | ¡A quien atrapa lo mete en una caja de púas y le arranca el alma! ¡Sin excepciones!
+0100 [Amber] | 
+0101 [Tú] | Una Árbitra con un nudo de ahorcado alrededor del cuello...
+0102 [Tú] | ¡Esa es definitivamente Gerie! Con razón Noya y las demás estaban asustadas. Deben de haber oído las historias...
+0103 [Tú] | ¿Pero de verdad será tan retorcida?
+0104 [Gerie] | Ah, Trekkers. ¿Puedo preguntarles algo?
+0105 [Iris] | ¿Q-qué pasa?
+0106 [Gerie] | Supongo que pasan mucho tiempo acampando en las Tierras Salvajes, ¿cierto?
+0107 [Noya] | S-sí, así es. ¿Por qué?
+0108 [Gerie] | Y aun así su piel sigue tan suave. ¿Y su cabello? Simplemente divino.
+0109 [Amber] | No. No es suave.
+0110 [Noya] | ¡Cierto! Miren mis puntas abiertas.
+0111 [Iris] | ¡Jaja, en realidad somos súper simples! ¡Totalmente promedio! Eh, en fin: ¿Noya, Amber, Jefe? ¡Vayamos a explorar el camino!
+0112 [Gerie] | Yo las acompaño...
+0113 [Tú] | ¡No podríamos hacer que nuestra supervisora haga el trabajo pesado! ¡Nosotros nos encargamos!
+0114 [Gerie] | Mmm... ¿Por qué el pánico? Solo quería preguntarles sobre su rutina de cuidado de la piel.

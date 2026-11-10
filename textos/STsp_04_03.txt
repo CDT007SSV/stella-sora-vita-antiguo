@@ -1,0 +1,127 @@
+# Nova Times #04 · Sueños de matcha · 3 · Matcha Dreaming (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cocky Mercenary | Mercenaria engreída
+N:Gold District Visitor | Visitante del Distrito de Oro
+N:Hungry Mercenary | Mercenario hambriento
+N:Stern Captain | Capitana severa
+N:avg1_119 | Nanoha
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_202 | Isaki
+N:avg3_203 | Okra
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Sueños de matcha (Parte III)
+0003 [Intro] | Las tres trabajan juntas para resolver la crisis. De vuelta en casa, sin embargo, Isaki y Okra se cuelan en la cocina sin Nanoha...
+0004 [Gold District Visitor] | Tengo una forma en que ambos podemos ganar.
+0005 [Nanoha] | ¡No caeré en eso!
+0006 [Gold District Visitor] | ¿Así que esa es tu respuesta? Sirvienta traviesa. Muy bien, muchachos... Córtenles los meñiques. A la chica le hace falta una lección.
+0007 [Okra] | Repite eso...
+0008 [Isaki] | ¡¿A quién le van a cortar los meñiques?!
+0009 [Gold District Visitor] | ¿Eh? ¿Qué hacen...?==W== ¡Se supone que las habían capturado!
+0010 [Okra] | Oh, ¿buscas a los mercenarios que vigilaban el banquete?
+0011 [Isaki] | ¡Sí, ya los derroté!
+0012 [Hungry Mercenary] | Capitana, este pastel de matcha sabe raro. ¿Está segura de que es pastel de matcha?
+0013 [Cocky Mercenary] | ¿Así que esta es la porquería que comen los ricos en los banquetes? De repente no les envidio nada.
+0014 [Hungry Mercenary] | Me duele un poco el estómago… Me adelanto.
+0015 [Stern Captain] | Espera. Me da vueltas la cabeza.
+0016 [Stern Captain] | Espera, no. ¡El pastel! ¡Está envenenado!
+0017 [Isaki] | ¡Qué grosera! No lo envenené. Le puse todo mi corazón a ese pastel de matcha. Solo lo sazoné un poquito distinto.
+0018 [Okra] | No tienes ningún talento para sazonar. Eso sabía peor que el agua sucia de los platos de ayer.
+0019 [Okra] | Menos mal que arreglé el lote de los invitados. Si no, tendríamos un caso de intoxicación masiva entre manos.
+0020 [Isaki] | ¿Eh? Espera, ¿esto significa que soy un genio preparando comida para asesinos?
+0021 [Okra] | ¡¿Cómo puedes estar tan animada con esto?!
+0022 [Okra] | ... Olvidemos eso por ahora. Oye. ¿Dónde está tu empleador?
+0023 [Cocky Mercenary] | ¡N-no te lo diremos! Tenemos orgullo.
+0024 [Okra] | Isaki. Dale más pastel.
+0025 [Isaki] | ¡Entendido! ¡Vamos, abre grande!
+0026 [Cocky Mercenary] | ¡No, espera, el pastel no! ¡Hablaré! ¡Puedo llevarte hasta allá!
+0027 [Gold District Visitor] | Esos mercenarios fueron una decepción...==W== Derribados con un solo pedazo de pastel.
+0028 [Okra] | Se acabó. Estás rodeado.
+0029 [Isaki] | ¡Sí, así es! ¡Ríndete y devuelve el grano que robaste!
+0030 [Gold District Visitor] | El grano ya no existe. ¿Por qué debería devolverlo? No tengo nada que expiar. Les estafé ese grano limpiamente.
+0031 [Gold District Visitor] | Vengan por mí. Me sobran pergaminos de defensa mágica.
+0032 [Nanoha] | Isaki, ¿te queda más de tu pastel?
+0033 [Isaki] | ¡Tenga, Maestra! ¡Sírvase! ¡Hay de sobra!
+0034 [Gold District Visitor] | ¿Q-qué piensas hacer con eso?
+0035 [Nanoha] | Impresionantes, esos pergaminos de defensa mágica. Pero solo bloquean amenazas del exterior...
+0036 [Nanoha] | Son inútiles contra algo que se cuece desde adentro.
+0037 [Gold District Visitor] | Tú... ¡¿qué acabas de meterme en la boca?! ¡Cof! ¡¿Qué sabor es este?! ¡¿Cómo puede ser dulce y picante al mismo tiempo?!
+0038 [Gold District Visitor] | Ah...==W== Esto es... el mar de las afueras de la ciudad de Matsukawa—
+0039 [Isaki] | ¡Misión cumplida! Las cosas se pusieron algo caóticas, ¡pero me alegra que hayamos regresado todas sanas y salvas!
+0040 [Okra] | Ay, por favor. Tú fuiste el noventa por ciento del caos.
+0041 [Okra] | Aun así, vender todos esos pergaminos que nos quedamos debería mantener a flote la aldea por un tiempo. Considerándolo todo, lo llamaría una gran victoria.
+0042 [Isaki] | No alcanza ni de lejos para salvar la aldea, pero salió más fácil de lo que pensé. Antes de unirme a Goodwind Homecare, había perdido toda esperanza.
+0043 [Isaki] | Ahora podemos comer un delicioso arroz cuando lleguemos a casa.
+0044 [Okra] | Comeremos...==W== siempre que no andes cerca de la cocina.
+0045 [Isaki] | ¡Puedo encargarme de hacer arroz! Y prometo no empezar ninguno de mis experimentos culinarios con él.
+0046 [Isaki] | Solo me pregunto...==W== cuándo podremos volver realmente a casa.
+0047 [Okra] | Quién sabe. Ser ninjas... y sirvientas... no deja mucho tiempo para regresos al hogar.
+0048 [Okra] | Pero oye, ahora Goodwind Homecare es nuestro hogar.
+0049 [Nanoha] | El baño está listo. Pueden pasar.
+0050 [Isaki] | Maestra, hoy debe estar cansada. Vaya usted primero. ¡De verdad necesita descansar!
+0051 [Nanoha] | ... Gracias. Lo agradezco.
+0052 [Isaki] | ¡Tómese su tiempo!
+0053 [Okra] | Mandándola así... Estás planeando hacerle en secreto ese pastel de matcha, ¿verdad?
+0054 [Isaki] | Jeje, ¿tan obvia soy?
+0055 [Okra] | Nos conocemos desde siempre. En cuanto dijo que tenía ganas de probar tu pastel, parecía que ibas a empezar a rebotar por las paredes.
+0056 [Okra] | Deberíamos hacerlo juntas. Si no te vigilo, seguro volverás a improvisar.
+0057 [Isaki] | Jijiji.==W== ¡Gracias, te debo una!
+0058 [Nanoha] | Uf...==W== Me remojé un poquito de más. Mejor voy por esas dos.
+0059 [Nanoha] | ¿Eh? ¿Está nevando? Parece que el invierno ya llegó de verdad.
+0060 [Nanoha] | El tiempo vuela. El año nuevo llegará antes de que nos demos cuenta.
+0061 [Isaki] | Uf... El pastel de matcha es tan difícil de dominar. Debí haber guardado el del banquete...
+0062 [Okra] | Ni hablar. Una sirvienta que roba comida a los invitados no es una sirvienta en absoluto.
+0063 [Nanoha] | ¿Isaki y Okra...?==W== ¿Qué estarán haciendo ahí?
+0064 [Isaki] | ¡Pero por más que lo intento, sigue pareciendo una roca con musgo! ¡La Maestra seguro se va a romper un diente con esto!
+0065 [Okra] | No entres en pánico. Normalmente tarda treinta minutos en bañarse, así que todavía tenemos tiempo.
+0066 [Isaki] | Uf... Está bien...==W== Lo intentaré una vez más.
+0067 [Nanoha] | Así que me están haciendo un pastel de matcha...==W== Igual que lo que yo solía hacer para mi Maestra.
+0068 [Nanoha] | Creo que fingiré que no he terminado y me quedaré aquí afuera un rato.
+0069 [Nanoha] | La última vez que le hice un pastel de matcha...==W== Fue hace tanto tiempo, Maestra.
+0070 [Nanoha] | En aquel entonces, usted se sentaba justo afuera de la puerta, esperando a que yo terminara antes de entrar.
+0071 [Nanoha] | Yo solía ser igual que Isaki —
+0072 [Nanoha] | Me encantaba espolvorear montones de matcha en mis postres.
+0073 [Nanoha] | Yo también hacía eso... Pensaba que amontonar todos los ingredientes «importantes» era la forma de demostrar que algo era especial.
+0074 [Nanoha] | Usted prácticamente no tenía nada más que una cucharada de matcha en polvo, y aun así mantenía el semblante serio y me decía que estaba delicioso...
+0075 [Nanoha] | La nieve cae con más fuerza.
+0076 [Nanoha] | Los copos están ahí mismo, pero en el momento en que intento atraparlos con la mano, se derriten al instante.
+0077 [Nanoha] | Maestra, ¿por qué se fue tan de repente antes de que llegara la primavera?
+0078 [Nanoha] | Esos días hermosos y fugaces se van en un abrir y cerrar de ojos, sin dejar rastro.
+0079 [Nanoha] | Bueno, ya es hora. Debería entrar ya... igual que usted lo hacía.
+0080 [Okra] | ¡Vamos! ¡Ya debe de estar cansada de esperar!
+0081 [Isaki] | ¡Guau! ¡Maestra!
+0082 [Nanoha] | ¿A qué viene tanto alboroto?
+0083 [Isaki] | ¡E-este!==W== ¡Yo... quería que probara esto!
+0084 [Isaki] | ¡Es un pastel de matcha que hice para usted, Maestra! Me esforcé muchísimo en él...==W== Por favor... M-Maestra... Pruébelo...
+0085 [Nanoha] | Isaki. ¿Cuáles son las reglas de una sirvienta al presentar comida?
+0086 [Okra] | Mantener la calma y la elegancia, ¿recuerdas? ¡Tú puedes, Isaki!
+0087 [Isaki] | ¡Ah, cierto...!
+0088 [Isaki] | Ejem...==W== Okra y yo hicimos este pastel de matcha. Por favor, pruébelo, Maestra.
+0089 [Nanoha] | Uhh...
+0090 [Isaki] | Ah, se desmoronó...
+0091 [Okra] | ¡Tienes que ser delicada con la espátula!
+0092 [Nanoha] | No pasa nada. Creo que tiene personalidad. Se ve maravilloso.
+0093 [Nanoha] | Déjame probar un bocado.
+0094 [Isaki] | ¿Y qué tal está, Maestra?
+0095 [Okra] | Todavía tiene demasiado matcha en polvo, ¿verdad, senpai?
+0096 [Nanoha] | Para nada, ¡está delicioso! De hecho, prefiero mi pastel de matcha del lado amargo.
+0097 [Okra] | ¡¿Qué?!
+0098 [Isaki] | ¡¿En serio?! ¡Sí! ¡Todo ese esfuerzo valió la pena!
+0099 [Isaki] | ¡Puedo hacer pastel de matcha! ¡Por fin puedo hacer pastel de matcha!
+0100 [Okra] | ¡No celebres todavía! Aún te falta mucho para perfeccionarlo.
+0101 [Nanoha] | Tiene razón. El camino hacia la maestría es largo.
+0102 [Nanoha] | Por ahora, su prioridad es el baño. El agua se está enfriando.
+0103 [Okra] | ¡Oh!==W== Me quedé tan absorta con el pastel que lo olvidé por completo.
+0104 [Isaki] | ¡Ah! ¡No me voy a bañar con agua fría! ¡Okra, apúrate!
+0105 [Nanoha] | Uf...==W== El pastel de matcha de verdad sabe mejor con té.
+0106 [Nanoha] | Maestra, usted una vez dijo que el pastel de matcha es amargo antes de ser dulce.
+0107 [Nanoha] | No importa cuánta amargura se soporte, la alegría seguramente llegará... Entonces, ¿cuándo llegará mi propia dulzura?
+0108 [Nanoha] | Creo que estoy empezando a entender cómo se sentía usted.
+0109 [Narración] | Nanoha hunde su cuchara, levanta un pedazo cargado de matcha en polvo y le da un mordisco.

@@ -1,0 +1,79 @@
+# Historia de Cosette · 1 · "Date" Turmoil (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_1210 | Cosette
+N:avg1_142 | Cosette
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Alboroto por una «cita» (Parte I)
+0003 [Intro] | Supuestamente es una invitación a una cita... Pero no hay forma de que sea una cita normal, ¿¡verdad!?
+0004 [Tú] | Qué bonito está el día hoy... El sol está en su punto justo y la brisa se siente agradable en la piel.
+0005 [Tú] | Es el día perfecto para pasear... ==W==Si tan solo no hubiera esa sombra meciéndose detrás de mí.
+0006 [???] | ¡Esta es mi oportunidad: te tengo! ==W==¡¡¡Aaaah!!!
+0007 [???] | ==W==¡¡¡WAHHH!!!
+0008 [Tú] | ¿Q-qué fue ese ruido?
+0009 [???] | Ay, ay, ay, ay...
+0010 [Cosette] | Ugh... Si no hubiera tropezado, hoy sin duda te habría derribado...
+0011 [Tú] | Ah... ¿Tú otra vez? ¿Sigues con lo de tu «limpieza»?
+0012 [Cosette] | Ejem... Y-yo solo pasaba por aquí, nada más. Es pura coincidencia que me haya topado contigo. Como ver una estrella fugaz a plena luz del día.
+0013 [Cosette] | Bien, entonces. Adiós.
+0014 [Tú] | Qué chica tan rara... ¿Será que me ha estado siguiendo todo este tiempo?
+0015 [Cosette] | E-espera.
+0016 [Cosette] | De repente... recordé algo.
+0017 [Tú] | Parece más bien que se lo está inventando sobre la marcha...
+0018 [Tú] | ¿Sí? ¿Qué pasa?
+0019 [Cosette] | ¿Estás libre mañana, Jefe?
+0020 [Cosette] | Si estás libre, ¿qué tal si salimos en una cita?
+0021 [Tú] | ¿U-una... una cita???!
+0022 [Cosette] | ¿Mm? ¿Qué es esa cara? ¿Dije algo raro?
+0023 [Cosette] | Si tienes otros planes, siempre podemos dejarlo para otro día.
+0024 [Cosette] | No me digas... ==W==¿Ya descubriste mi plan...?
+0025 [Tú] | Conociendo a Cosette, no hay forma de que la «cita» que mencionó se parezca siquiera a una normal...
+0026 [Tú] | No tengo nada planeado para mañana.
+0027 [Cosette] | A las diez de la mañana, nos vemos aquí, entonces.
+0028 [Cosette] | ¡Más te vale aparecer! Si me dejas plantada a último momento ...==W== ¡me deberás un refresco!
+0029 [Tú] | Vale, vale... Ahí estaré sin falta.
+0030 [Narración] | Al día siguiente, mientras me dirijo al mismo lugar, me encuentro pensando en Cosette.
+0031 [Tú] | Me pasé toda la noche preguntándome, pero sigo sin saber qué planea Cosette...
+0032 [Tú] | Vaya, sí que llegó temprano.
+0033 [Tú] | Y está hablando sola ... en voz alta...
+0034 [Cosette] | Los libros dicen que una cita es una gran oportunidad para conocer mejor a alguien que te gusta. Toma la iniciativa y expresa tus sentimientos con valentía; así, esa persona también se abrirá contigo.
+0035 [Cosette] | ¡Mjm! Entonces puedo obtener información sobre las habilidades especiales del Jefe. Misión cumplida ♪
+0036 [Tú] | ¿Llevas mucho esperando, Cosette?
+0037 [Cosette] | ==W==¡Ah!
+0038 [Cosette] | ¿Q-quién anda ahí...?! ==W==¡¿Jefe?! ¡¿Cuándo llegaste?!
+0039 [Tú] | Hace un momento. Estabas hablando de alguna misión...
+0040 [Cosette] | N-no, no estaba...
+0041 [Tú] | Ya veo. Qué bueno. Como es una cita, ¿hay algún lugar en particular al que quieras ir?
+0042 [Cosette] | Sí, podemos ir primero al Monolito.
+0043 [Cosette] | Ha aumentado la actividad de Stellaroids en el Monolito de las Tierras Salvajes cerca de Emor. Quiero ir a investigar.
+0044 [Cosette] | Si el Jefe tiene que pelear contra un Stellaroid, ==SEX== tendrá que darlo todo.==W== Entonces por fin podré conocer ==SEX3== habilidad especial...
+0045 [Tú] | El Monolito, ¿eh? ¿De verdad es un lugar para una cita? ¿Seguro que quieres ir ahí?
+0046 [Cosette] | ¿Eh? ¿Me equivoqué?
+0047 [Cosette] | E-el libro dice ...==W== que cuando de verdad te importa alguien, cualquier lugar es perfecto para una cita, porque la vista que más quieres ver está justo a tu lado.
+0048 [Tú] | ¡La forma en que te «importo» y la clase de «importar» de la que habla el libro definitivamente no son lo mismo!
+0049 [Tú] | Bueno, si eso es lo que quieres, por mí está bien.
+0050 [Cosette] | Pero según mi libro, una cita debe tener lugar en un Monolito... ¿No es así?
+0051 [Tú] | ... ==W==¿Qué clase de libro estabas leyendo?
+0052 [Cosette] | ¡Tachán! ¡Este!
+0053 [Tú] | ¿¡Cita relámpago: Mi diario de amor con una Stellaroid!?
+0054 [Tú] | ¿Qué es esto...? «El romance lacrimógeno más vendido del año: una inolvidable historia de amor interespecie entre almas destinadas a no estar juntas»...?
+0055 [Cosette] | Lo revisé. Este libro es el más vendido de la tienda, así que el consejo debe de ser bueno, ¿no?
+0056 [Tú] | Quizá deberíamos probar otro lugar.
+0057 [Cosette] | Pero...
+0058 [Tú] | Oí que una tienda del Distrito de Plata tiene hoy una promoción por un nuevo sabor de bebida.
+0059 [Cosette] | ¿Mm?
+0060 [Cosette] | ¡Ooh! ¿Qué tipo de bebida?
+0061 [Tú] | Un nuevo sabor de yogur o algo así...
+0062 [Cosette] | ¿¡En serio!?
+0063 [Cosette] | Jefe, vamos a verlo~ ¡Por favor, por favorcito, llévame contigo!
+0064 [Tú] | ¿Entonces ya no quieres ir al Monolito?
+0065 [Cosette] | ¡No!
+0066 [Cosette] | Vamos, apurémonos. Los lanzamientos nuevos como este son muy populares. ¡Si llegamos tarde, ya se habrán acabado!
+0067 [Tú] | ¡Oye! ¡No me arrastres!
+0068 [Tú] | Suspiro... Parece que esta va a ser una «cita» sumamente ajetreada...

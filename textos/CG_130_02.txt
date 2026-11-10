@@ -1,0 +1,99 @@
+# Historia de Donna · 2 · The Different Donna (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La otra Donna (Parte II)
+0003 [Intro] | A Donna, de Post Haste, le encanta vestir a todos. ¡Mira, esta es la ropa nueva que hizo!
+0004 [1] | Uf... Otro día tranquilo.==W== Clima perfecto para pasear por ahí...==W== ¿mm?
+0005 [Donna] | Hnnngh... Uf...
+0006 [Tú] | ¿Esa es... Donna? Va cargada de bolsas. Parece que le cuesta...
+0007 [Tú] | Oye, Donna. ¿Por qué tanta compra?
+0008 [Donna] | ¡Oh! ¡Hola, Jefe! Son suministros.==W== Seguía viendo cosas buenas y las echaba a la canasta, y... bueno, aquí estamos.
+0009 [Tú] | ¿Necesitas una mano? Es demasiado para una sola persona.
+0010 [Donna] | ¡Nah, estoy bien! Cargar mercancía es parte del trabajo, ¿recuerdas? ¡Este montoncito es pan comido!
+0011 [Tú] | En fin, tengo que correr...
+0012 [Donna] | ¡Guau!==W==
+0013 [Tú] | ¡Cuidado! ¿Ves? Te dije que era demasiado.
+0014 [Donna] | Jeje... Gracias. Casi se me cae toda la carga ahí mismo.
+0015 [Tú] | Recuerdo que alguien dijo que era «pan comido». ¿Estaré oyendo cosas?
+0016 [Donna] | Ugh...==W== Normalmente puedo con esto sin problema...==W== Qué raro.
+0017 [Tú] | No te esfuerces de más, ¿sí? Solo pide ayuda. Toma, dame la mitad.
+0018 [Donna] | B-bueno... ¡Si insistes...!
+0019 [Donna] | Uf, mil gracias. Puedes dejarlas en esa mesa de allá.
+0020 [Tú] | Claro. Por cierto... ¿dónde están Teresa y Freesia?
+0021 [Donna] | Teresa anda por el bosque, y Freesia fue en bici al siguiente pueblo a hacer una entrega... Ninguna volverá hasta la tarde.
+0022 [Donna] | Jejeje. ¡Pero es el momento perfecto! Con ellas fuera del camino, ¡por fin puedo ejecutar mi plan maestro a plena luz del día!
+0023 [Tú] | Encaje, cuadros, lisos... Cuántas telas distintas. Y listones y botones también.
+0024 [Tú] | ¿O sea que todo lo que compramos hoy era material para hacer ropa?
+0025 [Donna] | ¡Exacto! Antes solo remendaba agujeros o cosía costuras sueltas para salir del paso. Pero últimamente descubrí que hacer atuendos nuevos desde cero es en realidad más rápido.
+0026 [Tú] | Cierto, Donna mencionó que le gusta coser para el equipo. También se encarga de todos los remiendos diarios de Post Haste...
+0027 [Tú] | Ya que estamos aquí, ¿te importa si miro?
+0028 [Donna] | ¡Adelante! ¡Siéntate y presencia mis habilidades de primera mano!
+0029 [Donna] | Muy bien. Primero lo primero: ¡el diseño!
+0030 [Tú] | In-increíble... ¡Llenó ese cuaderno de bocetos con diseños adorables en un santiamén...!
+0031 [Donna] | Luego, combino los patrones y corto la tela...
+0032 [Tú] | ¡Qué movimientos tan limpios y precisos! ¡Cero dudas...!
+0033 [Donna] | ¡Por último, uso este Artefacto de costura para coserlo todo!
+0034 [Tú] | Rápido e impecable... ¡Impresionante...!
+0035 [Donna] | ¡Tachán! ¡Todo listo! Otra obra maestra de la que estoy totalmente segura～
+0036 [Tú] | Eso fue increíble... Tienes habilidades de profesional, o incluso para abrir tu propia boutique.
+0037 [Donna] | Jejeje. ¡Soy la multitalentosa Donna, después de todo! Esto es trabajo fácil. Aunque todavía no pienso ganar dinero con esto: es puro pasatiempo.
+0038 [Tú] | Ya veo... Espera.==W== No habrás hecho también toda esa ropa que cuelga allá, ¿o sí?
+0039 [Donna] | ¡Claro que sí! El perchero de atrás son los vestidos de Freesia, y esos de allá son camisas y chaquetas para Teresa...==W== Cada pieza es adorable, ¿verdad?
+0040 [Tú] | Son lindas, sí... ¡¿Pero no es un poco excesivo?! El clóset está prácticamente a reventar.
+0041 [Donna] | Bueno, casi siempre andan con su uniforme de Post Haste.==W== Su ropa casual nunca se desgasta, así que naturalmente el montón no deja de crecer.
+0042 [Tú] | ¿Has considerado... no sé, hacer menos?
+0043 [Donna] | ¡Ni hablar! ¡Todos en Post Haste tienen que verse lindos las 24 horas, por eso saqué estos atuendos!
+0044 [Tú] | Más o menos lo entiendo... En realidad, no...==W== En fin, ¿nunca has hecho nada para ti misma, Donna?
+0045 [Donna] | Claro que sí. Justo allá.
+0046 [Tú] | Allá... ¿Te refieres a ese montoncito? Comparado con lo de Freesia y Teresa, ¿no es un poco escaso?
+0047 [Donna] | ¡Pues qué le voy a hacer! ¡Esas dos son demasiado lindas!==W== Prefiero mil veces vestirlas y ver cómo les queda que ponerme yo las cosas.
+0048 [Donna] | ¡No puedo esperar a que se prueben las que acabo de hacer!
+0049 [Tú] | A Donna de verdad le encanta todo esto de la moda.
+0050 [Tú] | ¿Me pregunto si estaría dispuesta a hacerme algo a mí?
+0051 [Tú] | Oye, ¿Donna? Tengo un favor que pedirte...==W==
+0052 [Donna] | Mmm... ¿Un atuendo para el Jefe?==W== Bueno...==W== Como dije, es solo un pasatiempo. En realidad no he hecho nada para nadie aparte de Freesia y Teresa...
+0053 [Donna] | ¡Pero! Siendo tú, Jefe, supongo que podría hacer una excepción especial.
+0054 [Tú] | ¿En serio? ¡Genial! ¡Yo pago por adelantado el costo de los materiales!
+0055 [Donna] | Guarda tu dinero. Pero a cambio... ¡espero que me mandes unos pedidos grandes!
+0056 [Tú] | No pierdes ningún ángulo, ¿eh? Trato hecho.
+0057 [Donna] | ¡Jaja! ¡Déjamelo a mí!
+0058 [Donna] | Muy bien, pues manos a la obra...
+0059 [Tú] | ¡Guau!==W== ¡¿Qué haces?!
+0060 [Donna] | ¡Oye, deja de moverte!
+0061 [Tú] | ¡No, no, yo debería preguntar eso! ¡¿Por qué me abrazas de repente?!
+0062 [Donna] | ¡No lo hago!==W== Solo te tomo las medidas. ¡Me-di-das! No puedo hacer la ropa si no sé tu talla, ¿verdad?
+0063 [Tú] | Ah, ¿era eso?... Debiste decirlo antes. Casi me da un infarto.
+0064 [Donna] | Mi error. Se me olvidó totalmente mencionarlo. Bueno, ahora sí empiezo en serio. Quédate exactamente así y no te muevas, ¿entendido?
+0065 [Donna] | Primero lo primero, la cinta alrededor de la cintura... Listo.
+0066 [Tú] | Casi nunca compro ropa nueva y desde luego nunca he ido a un sastre a la medida. Esto en realidad intimida bastante...
+0067 [Donna] | ¡Vamos, un poco más arriba los brazos! ¡Es hora de medir el pecho!
+0068 [Tú] | B-bueno...==W== ¡¿Iiih?! ¡Espera, un momento! ¡Eso es un poco...!
+0069 [Donna] | ¡Jefe, te dije que dejaras de moverte!
+0070 [Tú] | ¡Jaja! ¡Ajajajaja!==W== N-no puedo... ¡Me da cosquillas...!
+0071 [Donna] | Ya sé que tienes cosquillas. Aguanta un segundito.
+0072 [Tú] | Estoy intentando quedarme quieto...==W== ¡Puf! En serio, Donna, ¡¿me haces cosquillas a propósito?!
+0073 [Donna] | ¡Para nada! Te mueves tanto que básicamente te las haces solo.==W== Bueno, imagina que eres un Monolito. ¡Mantente erguido y quieto!
+0074 [Tú] | ¡Es más fácil decirlo que hacerlo!
+0075 [Tú] | Soy un Monolito,==W== soy un Monolito...==W== Eh...==W== ¿Eh?
+0076 [Tú] | ¡Puf, jajajaja!==W== ¡No puedo! ¡Piedad...!
+0077 [Tú] | Jaa... Estoy agotado...
+0078 [Donna] | Yo también estoy... exhausta... Nunca había tenido que esforzarme tanto solo para tomar unas medidas...
+0079 [Donna] | ¿Cómo sobrevives en los probadores si tienes tantas cosquillas?
+0080 [Tú] | ¡Oye, tener cosquillas es totalmente normal!
+0081 [Donna] | Prueba reaccionar así con un dependiente normal... Lo espantarías. En fin, al menos ya tengo las cifras. Hora de ponerse a trabajar...
+0082 [Donna] | Ah. Espera.
+0083 [Tú] | ¿Qué pasa?
+0084 [Donna] | Acabo de darme cuenta... Después de hacer esos atuendos para Teresa y Freesia...
+0085 [Donna] | Prácticamente me gasté toda la tela.
+0086 [Tú] | Lo que significa que mi atuendo es...
+0087 [Donna] | ¡Lo siento muchísimo! No queda ni un retazo...==W== ¡La próxima vez! ¡Lo prometo, definitivamente la próxima vez!
+0088 [Donna] | Míralo por el lado bueno: ¡ya tengo tus medidas archivadas, Jefe!==W== ¡Cuando reabastezca, te haré uno y te lo entregaré en la puerta de tu casa! ¡Atento!

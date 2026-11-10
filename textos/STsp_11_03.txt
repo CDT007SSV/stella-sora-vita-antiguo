@@ -1,0 +1,109 @@
+# Nova Times #11 · Deslizándose en la luz del sol · 3 · Slipping into Sunlight (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Stall Vendor | Vendedor del puesto
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Deslizándose en la luz del sol (Parte III)
+0003 [Intro] | Post Haste es un todo: ya sea alegría o esfuerzo, solo cobra sentido cuando se comparte.
+0004 [Donna] | ¡Muy bien! Quedan tres meses. Ningún problema. ¡Totalmente factible!
+0005 [Donna] | ¡Hoy Donna sigue siendo la mensajera más linda, lista y trabajadora de Post Haste! ¡Eso, yo!
+0006 [Donna] | Un momento. ¿No tenían Freesia y Teresa algo que decirme esta mañana...?
+0007 [Donna] | ¡Ay, concéntrate! No hay tiempo para distracciones. ¡Tengo que entregar estas cartas!
+0008 [Teresa] | Freesia, vamos.
+0009 [Freesia] | Entendido. Operación: Capturar a Donna comienza ahora.
+0010 [Stall Vendor] | Vaya, mira nada más, Donna. Hoy madrugaste...
+0011 [Donna] | ¡Buenos días! ¿Necesita una mano hoy? ¡Estoy buscando turnos extra!
+0012 [Teresa] | ¡Donna! ¡Se acabó el trabajo!
+0013 [Donna] | ¿¡Teresa!? ¿¡Y Freesia también!? ¿¡Qué hacen ustedes tan lejos de casa!?
+0014 [Freesia] | Donna. Ni se te ocurra salir corriendo.
+0015 [Teresa] | ¡Te atrapé!
+0016 [Donna] | ¡Buaaah!
+0017 [Teresa] | ¡Se escapó otra vez! ¡Tras ella!
+0018 [Donna] | ¿¡Qué les pasa a ustedes!?
+0019 [Donna] | ¡D-dejen de perseguirme!
+0020 [Teresa] | ¡No te perseguiríamos ...==W== si no corrieras!
+0021 [Donna] | Pero siento que perderé si me detengo...==W== Espera, ¿¡Freesia va en bicicleta!? ¡Eso es trampa!
+0022 [Freesia] | ¡Donna, ríndete!
+0023 [Donna] | ¡Tiempo fuera! Espera...==W== Se me durmió la pierna... ¿¡Eh!?
+0024 [Teresa] | ¡Donna, cuidado!
+0025 [Freesia] | ¡Donna!
+0026 [Donna] | ¡Aaaah! ¡Me caigo al mar!
+0027 [Teresa] | Uf... Estuvo cerca...
+0028 [Donna] | G-gracias... Buena atrapada, Teresa...
+0029 [Freesia] | ¿Están bien todas?
+0030 [Teresa] | Yo estoy bien...==W== Pero...
+0031 [Teresa] | ¡Ajá! ¡Estás arrestada, Donna! ¡Se acabó el correr!
+0032 [Donna] | ¿«Arrestada»? Un poco dramático, ¿no creen?==W== Pudimos haber hablado en la oficina sin la persecución a toda velocidad.
+0033 [Freesia] | Donna...==W== ¿Cuánto tiempo hace que no conversamos de verdad?
+0034 [Donna] | Eh, pues... Últimamente ha estado todo muy agitado...
+0035 [Teresa] | Entonces, ¿por qué saliste huyendo en cuanto nos viste? ¡Definitivamente nos ocultas algo!
+0036 [Donna] | N-no es cierto...==W== ¡Corrí porque... porque salieron de la nada a toda velocidad y me asustaron!
+0037 [Freesia] | Sabemos de los trabajos secretos, Donna. No tiene caso poner excusas.
+0038 [Donna] | ¿En serio...?
+0039 [Freesia] | Post Haste no está en problemas. Has estado trabajando turnos extra para comprar esa bicicleta para tres.
+0040 [Freesia] | Pero esa se vendió, así que ahora estás ahorrando para un modelo aún más caro, ¿verdad?
+0041 [Teresa] | ¡Eso es exactamente lo que descubrió la Operación: Seguir a Donna! ¡Nuestra información es sólida!
+0042 [Donna] | ¿¡Me estaban siguiendo!?==W== Jaja... No tenía idea...
+0043 [Donna] | Iba a comprarla en secreto ... y darles una sorpresa a las dos...
+0044 [Donna] | Jaja... Creo que estoy perdiendo el toque...
+0045 [Freesia] | ¡Ese no es el punto!
+0046 [Freesia] | Donna. Post Haste solo funciona cuando las tres estamos juntas.
+0047 [Freesia] | Entregas, ratos libres, escalar el Monolito... Pasamos por todo juntas.
+0048 [Freesia] | Entonces, ¿por qué insistes en encargarte de todo tú sola? Aquí estamos contigo.
+0049 [Teresa] | ¡Sí, totalmente! ¡Ahorraríamos mucho más rápido si todas aportamos!==W== A menos que... ¿nos consideres poco confiables?
+0050 [Donna] | ¡Claro que no! ¡Ustedes siempre me están ayudando!==W== Es solo que... quería darles una sorpresa a las dos, nada más.
+0051 [Teresa] | Pero por esa razón nunca estás. Nunca te veo ...==W== y eso me molesta mucho.
+0052 [Teresa] | Yo... ¡creo que soy muchísimo más feliz cuando las tres simplemente pasamos tiempo juntas...!
+0053 [Teresa] | ¡No hemos cenado ni platicado tranquilamente en tan—tanto tiempo!==W== ¡Parece una eternidad!
+0054 [Donna] | ... Oh... Jaja... Lo siento. Ni siquiera me di cuenta...
+0055 [Donna] | Tienen razón. Perdí por completo de vista lo que de verdad importa.
+0056 [Freesia] | ... De ahora en adelante... Trabajemos juntas para reunir los fondos.
+0057 [Teresa] | ¡Sí! ¡Con las tres, juntaremos esos 3 millones de Dorras en un santiamén!
+0058 [Donna] | Freesia, Teresa... Gracias.==W== De verdad metí la pata esta vez... Lo siento.
+0059 [Freesia] | Donna, no hay necesidad de disculpas.
+0060 [Freesia] | Sin embargo, considerando que nos ocultaste un asunto tan importante, no pienso perdonarte fácilmente.
+0061 [Donna] | ¿Eh? ¿Qué dijiste?
+0062 [Teresa] | Jeje, ¡sí, exacto!==W== Eh, espera... ¿Freesia...?
+0063 [Donna] | ¡Freesia! ¡S-sé que hice mal! ¡De ahora en adelante te consultaré todo de inmediato! ¡Lo prometo!
+0064 [Freesia] | Una simple disculpa es insuficiente. Debe haber un castigo.
+0065 [Teresa] | ¡Freesia, cálmate! Respira...
+0066 [Donna] | Está bien, Teresa... Freesia tiene todo el derecho de enojarse.==W== Me equivoqué, así que acepto el castigo. ¡Dilo! ¡Haré lo que me pidas!
+0067 [Freesia] | Hmph... Muy bien. Tu sentencia es la siguiente.
+0068 [Freesia] | ... Dejarás de trabajar de inmediato.==W== Después nos acompañarás a la pastelería por un pastel.
+0069 [Donna] | ... ¿Eh?
+0070 [Teresa] | ¿Pastel...?
+0071 [Freesia] | Sí. Pastel.
+0072 [Donna] | ¿¡Solo quieres un poco para ti, verdad!?
+0073 [Freesia] | Precisamente.
+0074 [Donna] | Ugh... Contigo nunca puedo ganar, Freesia.==W== ¡Está bien, pastel será! Hoy va por mi cuenta. Considérenlo mi disculpa oficial.
+0075 [Teresa] | ¿Donna...?
+0076 [Donna] | ¡Ah, cierto! ¡El de Teresa también va por mi cuenta! No es Post Haste sin todo el equipo. ¡Disfrutémoslo juntas!
+0077 [Donna] | —Pero oigan, para que quede claro... Sé que acepté el descanso, pero todavía tengo trabajos agendados para hoy.
+0078 [Donna] | No puedo dejar plantados a mis clientes por mi propio drama...==W== Pero en serio, pronto me tomaré un día libre como se debe.
+0079 [Teresa] | ¡Ni hablar! Hoy descansas y punto. ¡Nosotras cubriremos tus encargos y tus trabajitos extra!
+0080 [Donna] | Eh... Eso es un poco...
+0081 [Freesia] | Imaginamos que dirías eso, así que Teresa y yo ideamos un plan anoche.
+0082 [Donna] | Pero...
+0083 [Freesia] | No lo pienses más. Quédate tranquila.
+0084 [Teresa] | ¡Claro que sí! ¡Freesia y yo podemos con todo hoy!
+0085 [Donna] | B-bueno...==W== No es solo el trabajo de hoy...
+0086 [Donna] | Me dio miedo no juntar lo suficiente para la bicicleta, así que más o menos me agendé a tope...==W== Jeje... Miren...
+0087 [Freesia] | Ugh...
+0088 [Teresa] | ¿Eh? ¿Y nuestros turnos de verdad en Post Haste?
+0089 [Donna] | ¡También los estoy haciendo, obviamente! Lo tengo todo planeado...
+0090 [Teresa] | ¿¡Qué eres, una superhumana!?
+0091 [Teresa] | ¿¡Es siquiera físicamente posible terminar esta lista en un día!?
+0092 [Donna] | Es ... ¿factible? O sea, así he estado organizando mis horarios últimamente...
+0093 [Freesia] | Donna, sé sincera: ¿has estado comiendo bien? De verdad me estoy enojando.
+0094 [Donna] | ¡Ahh! ¡Está bien, está bien! ¡Perdón!
+0095 [Narración] | En solitario se va más rápido, pero acompañadas se llega más lejos.
+0096 [Narración] | Reunidas de nuevo, el trío de Post Haste es imparable.
+0097 [Narración] | ¡La Operación: 3 Millones de Dorras es oficialmente un hecho!

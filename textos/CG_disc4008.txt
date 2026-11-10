@@ -1,0 +1,134 @@
+# Recuerdo de disco · Soaring Blue · 1 · Soaring Blue
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheerful Screaming Voice | Voz gritona y alegre
+N:Fierce-looking Trekker | Trekker de aspecto feroz
+N:Gentle Passerby | Transeúnte amable
+N:Half-hearted Passerby | Transeúnte desganado
+N:Hurried Trekker | Trekker apurado
+N:Serious Passerby | Transeúnte serio
+N:Shy Shop Assistant | Dependiente tímido
+N:Staff | Personal
+N:Trekker Association Staff | Personal de la Asociación de Trekkers
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_158 | Artista pingüino
+N:avg3_168 | Chica
+N:avg3_196 | Empleada corporativa
+N:avg3_927 | Niña pequeña
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Azul en vuelo
+0003 [Intro] | En primavera siempre se sueña. Bajo tus párpados caídos, un sueño de un cielo vasto y azul...
+0004 [Tú] | Iris dijo que dejar estas botanas en Post Haste era todo el trabajo, pero...==W== Hay un silencio total. ¿Hoy está cerrado?
+0005 [Tú] | ¿Hola? ¿Hay alguien?
+0006 [Donna] | ¡Ya voy! ¡Perdón!==W== Estaba en la parte de atrás...
+0007 [Donna] | ¿Eh? ¿Jefe? ¿Vienes por negocios? O...==W== ¿Viniste hasta acá solo para verme?
+0008 [Tú] | Bueno...==W== Tienes la mitad de razón. Iris mandó unas botanas. Es un agradecimiento por atender aquel pedido urgente el otro día.
+0009 [Donna] | ¡Ay, qué amable! Solo hacíamos nuestro trabajo.==W== Asegúrate de darle las gracias de nuestra parte, ¿sí, Jefe?
+0010 [Donna] | ¿Te quedas a tomar un té?==W== De todos modos ya iba a hacer una pausa.
+0011 [Tú] | ... Ya veo.==W== O sea que Freesia y Teresa tomaron esos boletos de regalo y se fueron de viaje.==W== Pero si solo había dos boletos, ¿cómo decidieron quién iba?
+0012 [Donna] | Ellas tenían tiempo y yo estoy hasta el cuello, así que las dejé ir a divertirse.==W== Además, ¡velar por el bienestar de mi personal es parte del trabajo!
+0013 [Donna] | Pero...==W== Bostezo...==W== Anoche trabajé hasta tarde...==W== Me estoy quedando dormida. El té me da una calidez y un sueño...
+0014 [Tú] | Uf... Yo también me desvelé demasiado,==W== leyendo manga...==W== Ahora a mí también me vence el sueño...
+0015 [Donna] | Zzz...==W== Zzzz...
+0016 [Little Girl] | H-hola... Quisiera enviar una carta...
+0017 [Donna] | ... ¡Aah!
+0018 [Donna] | ¡Ya voy!
+0019 [Donna] | ¿Enviar una carta, verdad? ¿Quién es el destinatario?
+0020 [Little Girl] | ¡Un Trekker! Me salvó de un monstruo, así que le escribí una nota de agradecimiento.==W== Pero no sé su nombre ni su dirección...==W== ¿Aun así pueden entregarla?
+0021 [Tú] | Eso es mucho pedir...==W== Ni siquiera sabes quién es...
+0022 [Donna] | ¡Claro que sí! ¡Déjalo en manos de Post Haste!
+0023 [Tú] | ¿¡Seguro que deberías prometer eso!?
+0024 [Donna] | ¡Pan comido! Ahora, cariño, ¿cómo era él? ¿Qué edad tenía? ¿Llevaba algo en las manos?
+0025 [Little Girl] | Eh...==W== Tenía más o menos la edad del chico de la panadería. Llevaba una espada...==W== y una piedra verde en la muñeca.
+0026 [Donna] | Una gema verde en la muñeca...==W== Suena a una pulsera.==W== ¡Muy bien! Con eso seguro podemos encontrarlo.
+0027 [Little Girl] | ¿¡En serio!? ¡Gracias!
+0028 [Donna] | ¡Cuenta con eso!==W== Guardaré tu carta con cuidado. ¡Es hora de ir a buscar a este tipo!
+0029 [Tú] | Eso es casi nada de información, Donna. ¿Cómo lo vas a encontrar?
+0030 [Donna] | Je. ¿Dudas de mí? ¡Solo acompáñame y mira trabajar a una profesional!
+0031 [Trekker Association Staff] | Un tipo con una pulsera de gema verde...==W== Sí, me suena. Mencionó que rara vez salía de esta calle cuando no estaba explorando el Monolito. Quédense por aquí y quizá se lo topen.
+0032 [Donna] | ¿Ves? ¡Una buena pista de entrada! ¡Gracias por el dato!
+0033 [Tú] | Conseguir una pista importante desde el principio. Vamos con todo.
+0034 [Donna] | ¡Verdad que sí! ¡A este paso, la entregaremos en un santiamén!
+0035 [Half-hearted Passerby] | ¿Pulsera con una gema verde? Ni idea. Nunca lo he visto.
+0036 [Serious Passerby] | Siento que lo he visto por aquí...==W== pero no últimamente.
+0037 [Donna] | Ya veo...==W== ¡Bueno, gracias de todos modos!
+0038 [Fierce-looking Trekker] | ¿Eh? ¿¡Qué Trekker!? ¡No sé!
+0039 [Fierce-looking Trekker] | ¿Saben de quién es este territorio? ¡Lárguense antes de que los haga arrepentirse!
+0040 [Hurried Trekker] | Aquí hay pulseras por montones. ¿Cómo voy a saber de qué Trekker hablan?
+0041 [Hurried Trekker] | Olvídenlo... ¿pueden ayudarme?==W== Aceptamos un trabajo de caza de monstruos, pero nos falta gente.==W== Se ve que saben defenderse, ¿no? Sin contar esa carga que traen atrás.
+0042 [Donna] | ¿Eh? Oye...==W== ¡Espera un momento!
+0043 [Tú] | ¡Donna—!!?
+0044 [Tú] | Suspiro...==W== Hemos recorrido cada calle y callejón sin nada que mostrar.
+0045 [Donna] | De verdad creí que lo encontraríamos enseguida después de esa primera pista...
+0046 [Tú] | Supongo que entregar una carta a un desconocido sin nombre ni dirección era una apuesta arriesgada después de todo.
+0047 [Donna] | Mmm...==W== Quizá tengas razón.
+0048 [Donna] | ¡Pero no me rendiré!==W== Esta carta lleva el agradecimiento de esa niña. ¡Por mucho que tarde, voy a entregarla!
+0049 [Tú] | Donna...
+0050 [Tú] | ¡Me quedaré contigo hasta el final!
+0051 [Gentle Passerby] | Disculpen, ¿buscan a alguien?
+0052 [Gentle Passerby] | No es Trekker,==W== pero hay un mesero en el restaurante de más adelante que lleva una pulsera con gema verde. ¿Quizá valga la pena revisarlo?
+0053 [Donna] | ¡Por fin! ¿¡Una pista!?
+0054 [Tú] | Pero no encaja con la parte de «Trekker» de la descripción...==W== ¿Qué opinas?
+0055 [Donna] | ¡Tenemos que revisar, aunque sea la más mínima posibilidad!==W== Ah, ¡y gracias por el dato!
+0056 [Shy Shop Assistant] | Bienvenidos. ¿Mesa para dos?
+0057 [Donna] | Jefe, mira su muñeca. Esa cadena que asoma del puño…==W== ¿Es la pulsera con gema verde que mencionó la niña?==W== Puede que este sea nuestro hombre...
+0058 [Shy Shop Assistant] | Eh... ¿Hola?
+0059 [Donna] | Perdón la molestia...==W== ¿Tiene un momento para hablar?
+0060 [Shy Shop Assistant] | Antes era Trekker, sí. Pero ahora...==W== Como ven, solo soy mesero aquí.
+0061 [Donna] | En realidad, una niña a la que usted ayudó una vez nos pidió que le trajéramos esta carta.
+0062 [Shy Shop Assistant] | ¿Una niña? Eso me suena...==W== ¿Pero por qué me escribiría a mí?
+0063 [Shy Shop Assistant] | A ver...==W== «Gracias, señor. Gracias a usted llegué sana y salva a casa».
+0064 [Shy Shop Assistant] | Ugh...==W== Snif...
+0065 [Tú] | ¡Oye, ¿qué pasa?!
+0066 [Shy Shop Assistant] | F-fui un fracaso total como Trekker...==W== Cada encargo terminaba en desastre. No era más que una carga, así que perdí el ánimo y renuncié...
+0067 [Shy Shop Assistant] | Pero esta carta... Se siente como un salvavidas. Saber que de verdad ayudé a alguien...==W== Gracias por traérmela. Gracias.
+0068 [Donna] | ¡No tiene nada que agradecer! ¡Eso es parte del servicio de Post Haste!
+0069 [Tú] | Qué buena noticia. Dijo que gracias a esa carta quizá hasta considere volver a ser Trekker.
+0070 [Donna] | ¡Sí!==W== Sabes, en realidad esto también me trae recuerdos a mí.
+0071 [Tú] | ¿Pasaste por algo parecido, Donna?
+0072 [Donna] | Mjm. Una carta me salvó una vez.==W== Ese sobre, y la repartidora que lo entregó, me enseñaron algo. Quizá en las manos se sienta ligero, pero tiene el peso suficiente para salvar un alma.
+0073 [Donna] | Por eso me hice repartidora. Quería entregar mensajes igual que ellas. Pensé que quizá así podría salvar a alguien más.
+0074 [Donna] | Viajé por todas partes entregando correo. Con el tiempo conocí a Freesia y a Teresa, y fundamos Post Haste. Podría decirse que las cartas me dieron una segunda oportunidad en la vida.
+0075 [Tú] | Ahora lo entiendo...==W== Con razón estabas tan empeñada en encontrar a ese tipo.
+0076 [Donna] | ¡Mjm! Por cierto, ¿y esos boletos que acaba de darnos el mesero?==W== Parece que son boletos para el parque temático dentro del Monolito cercano.
+0077 [Tú] | ¿Un parque temático dentro de un Monolito?==W== Qué raro. ¿Siquiera se pueden sacar boletos así?
+0078 [Donna] | Buen punto...==W== ¡Pero qué importa! ¡Tenemos dos boletos y ningún plan! ¡Vamos a ver!
+0079 [Donna] | ¡Guau—==W==miren esa rueda gigante! ¡Y esos autos Artefacto zumbando por las vías!==W== ¿¡Cuándo tuvo este Monolito tantas cosas geniales!?
+0080 [Staff] | ¡Bienvenidos al parque!==W== Aquí tienen un globo.==W== ¡Manténganse cerca de su adulto, no se pierdan!
+0081 [Donna] | ¡Guau, cuántos globos!
+0082 [Donna] | Y oye, no soy una niña—==W==bueno, da igual. Aun así, ¡siento que me voy a elevar con todos estos! Toma, Jefe, llévate la mitad—
+0083 [Cheerful Screaming Voice] | ¡Wiiii—!!
+0084 [Donna] | ¿Eh? Ese grito feliz me suena...
+0085 [Donna] | ¡Jefe, mira allá arriba! ¡Son Freesia y Teresa! ¡Así que aquí vinieron de viaje!
+0086 [Donna] | ¡Pfft-jajaja! ¡Miren la cara de Teresa! Espera, ¿cómo es que Freesia mantiene la cara seria...? No se parecen en nada a mí. Es graciosísimo.
+0087 [Opción] | Son tan distintas, pero forman un equipo increíble.
+0088 [Donna] | ¡Jeje, gracias!
+0089 [Donna] | Cuando Post Haste abrió, teníamos la pasión, pero cero idea de cómo manejar las cosas de verdad.
+0090 [Donna] | No teníamos fondos para hacer entregas en regiones remotas.
+0091 [Donna] | Así que aceptamos todos los encargos que pudimos, planeamos al milímetro nuestras rutas y juntamos para el pasaje antes de salir.
+0092 [Donna] | Pero en todo ese tiempo, por difícil que fuera, solo tenía que levantar la vista para encontrar a Freesia y Teresa a mi lado.
+0093 [Donna] | Por eso sé que encontraremos la forma de salir de cualquier cosa, mientras estemos juntas.
+0094 [Donna] | Es lo que ellas me enseñaron.==W== No... Es un regalo precioso que me dieron.
+0095 [Donna] | Hace mucho que no estoy sola.
+0096 [Opción] | De verdad las aprecias mucho, ¿no, Donna?
+0097 [Donna] | ¡Claro! ¡Son las compañeras más importantes que tengo!
+0098 [Donna] | En cuanto bajen, divirtámonos juntos...
+0099 [Donna] | ¿¡Eh!? ¿¡E-espera!? ¡Los globos...!==W== ¿¡En serio!? ¿¡Me están llevando de verdad!?
+0100 [Donna] | Uhh...==W== Jefe, b-bájame...==W== Me estoy yendo a la deriva...
+0101 [Teresa] | ¡Guau! Donna, ya estamo—==W==¡Mmph!!
+0102 [Freesia] | Shh. Donna está descansando...==W== Y...==W== ¿Por qué está también aquí el Jefe?
+0103 [Tú] | ¿Nggh...?==W== Debí de quedarme dormido...==W== ¡Ah, ya volvieron!
+0104 [Freesia] | Así es. Parece que Donna se ha sobrecargado de trabajo otra vez en nuestra ausencia...
+0105 [Freesia] | Hablemos en voz baja y dejémosla descansar. Podemos despertarla cuando la cena esté lista.

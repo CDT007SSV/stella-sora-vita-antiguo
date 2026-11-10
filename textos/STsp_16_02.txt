@@ -1,0 +1,111 @@
+# Nova Times #16 · La vida continúa · 2 · Life Goes On (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Trekker | Trekker curioso
+N:Trekker Association Staff | Personal de la Asociación de Trekkers
+N:avg1_131 | Bloc
+N:avg1_150 | Laru
+N:avg3_102 | Willow
+N:avg3_139 | Trekker
+N:avg3_164 | Iori
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La vida continúa (Parte II)
+0003 [Intro] | ¡Un problema tras otro! Mercancía acumulada en la recepción, la Casa de los Trekkers hecha un desastre... ¿Eh? ¿Dices que afuera se está armando una pelea?
+0004 [Willow] | ... ¡¿Bloc?!==W== ¡¿Qué haces aquí?!
+0005 [Bloc] | Las sorpresas deben tomarte desprevenida. Jeje...
+0006 [Willow] | ¿Le llamas ...==W== una sorpresa a esto?
+0007 [Narración] | Cajas y cajones de todos los tamaños están apilados en una pequeña colina que bloquea el mostrador de recepción y la entrada.
+0008 [Bloc] | Eh, esto tiene una explicación...
+0009 [Bloc] | ¡P-prometo que te lo explicaré! Pero ¿puedes sacarme primero? ¡Me están aplastando aquí!
+0010 [Bloc] | ¡Uf!==W== ¡Salvada!
+0011 [Willow] | Bien. ¿Qué pasó aquí? Espero una explicación como se debe.
+0012 [Bloc] | Tranquila, escúchame...
+0013 [Curious Trekker] | Oh, ¿qué es todo esto?
+0014 [Bloc] | ¡Acérquense, acérquense!==W== Están viendo la tecnología de empaque más avanzada que existe. Cualquier carga, sin importar su tamaño y peso, se reduce a un paquete diminuto. ¿Quién será el primero en probarla?
+0015 [Curious Trekker] | ¡No puede ser! Demuéstralo. Usa mi mochila.
+0016 [Bloc] | ¡Como diga! Su equipaje está en buenas manos.
+0017 [Bloc] | Miren bien.==W== Metan su carga en este dispositivo mágico, sigan unos cuantos pasos...
+0018 [Bloc] | Facilísimo. Unos segundos y listo~==W== ¡Ya casi! Cuenten conmigo.==W== Tres,==W== dos,==W== uno...
+0019 [Bloc] | ¿Eh? ¿Por qué sigue saliendo la correa?==W== ¡Uy no...!
+0020 [Curious Trekker] | ¿Estás bien?
+0021 [Bloc] | ¡Corran!==W== ¡Todos corran! ¡Va a explotar!
+0022 [Bloc] | ... Y básicamente eso fue todo.
+0023 [Willow] | Espera...==W== Dejando de lado el enorme desorden que causaste, no recuerdo ninguna regla que te permita hacer una demostración de ventas dentro de la Asociación de Trekkers.
+0024 [Bloc] | Ay, me aburrí esperando~==W== Ya sabes lo que dicen: el tiempo es Dorra. No podía quedarme parada sin hacer nada, ¿verdad?
+0025 [Willow] | ¿Y tu filosofía de negocios nos dejó esto?
+0026 [Bloc] | Je, no pensé que un solo error pequeño fuera a estallar así.
+0027 [Curious Trekker] | ¡Oye, ¿mi mochila está bien?!
+0028 [Curious Trekker] | Acabo de comprarla. Por favor dime que no se arruinó.
+0029 [Bloc] | No te preocupes, en teoría está bien. Aunque está enterrada bajo todas estas cosas...
+0030 [Willow] | Todos, esperen. Por favor, no empujen. No queremos que nadie salga lastimado.
+0031 [Curious Trekker] | ¡Entendido! Todos quédense donde están y hagan fila, con calma.
+0032 [Willow] | Bien...==W== Lo hecho, hecho está. Clasifiquemos esta carga y devolvámosla a sus dueños.
+0033 [Willow] | Bloc, tú causaste este desastre. No esperarás que yo lo limpie por ti, ¿verdad?
+0034 [Bloc] | ¡Claro que no!==W== ¡Pero mira todo esto! ¡Me voy a tardar una eternidad!
+0035 [Bloc] | Ni siquiera se ve el piso. No hay manera de que yo pueda con esto. ¡Llama a alguien que ayude, por favor!
+0036 [Willow] | Tu carga está bloqueando la puerta. Aunque pidiera refuerzos, no podrían entrar.
+0037 [Willow] | ¿Eh? ¿Qué fue eso?
+0038 [???] | Miau~
+0039 [Willow] | Oh, solo es un gato.
+0040 [Willow] | ... Sí, claro. ¿Crees que eso funcionará conmigo, Laru?
+0041 [Laru] | ¡¿Miaaau?! ¡¿Cómo me descubriste, miau?!
+0042 [Bloc] | ¡Oh, justo a tiempo!==W== No pudiste llegar en mejor momento. ¡Anda, échanos una mano!
+0043 [Laru] | ¿De qué hablas? Solo estoy de paso.
+0044 [Laru] | ¿Parezco tener tiempo para esto? Tengo trabajo de verdad. Estoy hasta el cuello. ¡Adiós!
+0045 [Bloc] | ¡Espera, espera! ¡Mira este desastre! ¡Está rogando que una experta de élite como tú salve el día!
+0046 [Laru] | ¿Hablas en serio?
+0047 [Laru] | Si nos vamos por el reglamento, yo soy del Imperio de la Gracia. Si atrapo a una traficante turbia como tú, se supone que debo llamar a la Guardia Imperial.
+0048 [Bloc] | ¡Vamos, eso es demasiado! ¿Qué traficante turbia? ¡Soy una humilde vendedora ambulante que respeta la ley, nada más!
+0049 [Bloc] | Espera, ¿entonces sabes quién soy?
+0050 [Laru] | Te dije que soy del Imperio de la Gracia. ¿Creías que no tendría información básica sobre ti?
+0051 [Bloc] | Uy, qué miedo.
+0052 [Bloc] | Pero si me arrestas, ¿mis clientes no se meterían en problemas también? Sería mucho daño colateral.==W== ¿Verdad, Willow?
+0053 [Willow] | No uses a tus clientes como moneda de cambio.
+0054 [Laru] | ¡Exacto! Una cosa no tiene nada que ver con la otra. ¡No las mezcles!
+0055 [Willow] | Y tú, silencio. De todos modos viniste aquí a holgazanear. Más vale que te hagas útil y ayudes con la carga.
+0056 [Laru] | ¡Sabes que vine a holgazanear! ¡Eso es básicamente trabajo gratis!
+0057 [Bloc] | ¡Está bien, un trato! Tú me ayudas y la próxima vez todo va a mitad de precio. ¿Qué dices?
+0058 [Laru] | ¡Ya==W== te==W== lo==W== dije!==W== ¡Soy del Imperio de la Gracia! ¿Quieres que haga un trato turbio contigo? ¡¿Intentas que me despidan?!
+0059 [Willow] | Bueno, bueno. Mira, te lo pido como favor. Por favor...
+0060 [Laru] | ¡El trabajo gratis es la raíz de todos los males! No es no. Rogar no me hará cambiar de opinión...
+0061 [Willow] | No he terminado. ¿Qué te parece esto?:==W== cinco órdenes de papas fritas especiales de ese restaurante gourmet, más la nueva caña de pescar que has estado mirando.
+0062 [Laru] | ¡Trato hecho!
+0063 [Bloc] | Órale. El cambio de opinión más rápido que he visto. Eres una maga, Willow.
+0064 [Willow] | No pongas esa cara de felicidad. Tú causaste este desastre, así que tú pagas la cuenta.
+0065 [Bloc] | ¡¿Queeeeé?!
+0066 [Willow] | Arreglado. Ahora, manos a la obra.
+0067 [Willow] | Por fin. Eso es lo último...
+0068 [Willow] | Pensé que solo teníamos que clasificar las cosas. Encontrar a los dueños de verdad nos tomó todo el día.
+0069 [Laru] | Me escabullí de la oficina para holgazanear. ¿Cómo terminé haciendo trabajo manual?
+0070 [Willow] | Ya has holgazaneado bastante. Un poco de esfuerzo no te va a matar.
+0071 [Laru] | Oye, yo creo en una proporción equitativa de trabajo y holgazanería, eso es todo. ¡No puedes rendir al máximo sin el descanso adecuado!
+0072 [Laru] | Pero en serio, mírate. Necesitas unas vacaciones, Willow. Si sigues trabajando a este ritmo te vas a quemar.
+0073 [Willow] | Siempre te acompaño en tus viajes de pesca. Eso cuenta como descanso para mí.
+0074 [Laru] | ¿A eso le llamas descanso? ¡Ni de lejos!
+0075 [Laru] | ¡Esa rutina tuya de trabajólica las 24 horas, los 7 días, se está saliendo de control!
+0076 [Willow] | Estoy bien. Solo hago mi trabajo.
+0077 [Willow] | En fin, gracias por echar una mano hoy. Tengo que volver a lo mío. Bloc puede entregar esa caña de pescar después. ¿Verdad, Bloc?==W== Espera, ¿a dónde se fue?
+0078 [Bloc] | Están distraídas. Momento perfecto para escabullirme...==W== ¡Ah, me descubrieron!
+0079 [Laru] | ¡Esa pequeña estafadora!==W== ¡De verdad está huyendo!
+0080 [Bloc] | ¡De todos modos, una pez gorda del Imperio de la Gracia no debería juntarse con gente como yo! ¡Piensa en tu reputación! ¡Es mejor para las dos si fingimos que nunca nos conocimos!
+0081 [Bloc] | ¡Dicho eso, las dejo a ustedes, señoritas! ¡Hasta luego!
+0082 [Laru] | ¡Oye, regresa!!==W== Ugh, es demasiado rápida. La próxima vez que la vea, la denunciaré a los guardias en el acto.
+0083 [Willow] | No te preocupes. Puede correr hasta el fin del mundo, pero me aseguraré de que pague lo que debe. Por hoy lo dejaremos pasar.
+0084 [Laru] | Willow...==W== Esa sonrisa da miedo...
+0085 [Willow] | No puedo creer que ya sea de noche. Todavía no he tocado ni un solo papel.==W== Suspiro...
+0086 [Willow] | Al menos el resto de mi agenda está despejada. Solo es papeleo normal. Seguro que lo termino esta noche.
+0087 [Willow] | Bien, concéntrate. Terminemos con esto.
+0088 [Willow] | ...
+0089 [Willow] | ... ¿Por qué tengo un mal presentimiento sobre esto?
+0090 [Laru] | ¡Willow! ¡Alguien te busca afuera!
+0091 [Willow] | ... ¿Ahora qué pasa?
+0092 [Trekker Association Staff] | ¡Willow, tenemos un problema! ¡Se armó una pelea en la calle!
+0093 [Willow] | ... ¡Lo sabía!
+0094 [Willow] | Ugh. Y mi agenda de hoy estaba perfectamente planeada...
+0095 [Laru] | Oye, oye, no llores~==W== Compré una tanda fresca de papas fritas y te guardé la más grande y crujiente. ¡Toma, es para ti!
+0096 [Willow] | Sniff...==W== Gracias. Órale, qué bien cae.

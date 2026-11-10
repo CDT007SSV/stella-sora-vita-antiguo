@@ -1,0 +1,102 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · Epílogo · A Gift for You
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Furnace's Delirium | Delirio del Horno
+N:avg1_115 | Firefly
+N:avg1_158 | Laru
+N:avg2_953 | Delirio del Horno
+N:avg3_100 | Sylar
+N:avg4_100 | Laru, versión radiante
+
+## Texto
+0001 [Intro] | Acto once
+0002 [Intro] | Un regalo para ti
+0003 [Intro] | El trabajo está hecho. Laru te lleva al lugar donde presenció por primera vez la «magia de la amistad». Preparó especialmente un regalo para ti, uno muy a su estilo...
+0004 [Furnace's Delirium] | ¡¡GRRAAWRR!!
+0005 [Laru] | Uf... Uf...==W== Por fin... ¡Sobrevivimos!
+0006 [Tú] | Fiu...==W== Eso fue demasiado... Se suponía que íbamos a divertirnos...
+0007 [Firefly] | ¡Yo sí me divertí!
+0008 [Laru] | ... Bueno, se ve realmente feliz...
+0009 [Firefly] | ¡Gracias, señorita Espíritu!
+0010 [Laru] | Eh, de nada... ¡Es hora de que regresemos!
+0011 [Laru] | Firefly...==W== ¿Segura de que no necesitas que te llevemos a casa?
+0012 [Firefly] | Aja. Gracias... por el buen rato.
+0013 [Laru] | ¡Prometí que tu deseo se haría realidad! Ah, por cierto, ¡nunca vayas sola al Monolito!==W== Sabemos que eres muy buena... Pero aun así, ¡es peligroso!
+0014 [Firefly] | Eh... Está bien.
+0015 [Laru] | ¡Buena niña! ¡Toma unas papas fritas calientitas y crujientes! ¡Te las ganaste!
+0016 [Firefly] | ¡Huelen riquísimo! Gracias.==W== ¡Adiós!
+0017 [Laru] | ¡Adiós!
+0018 [Narración] | Laru se despide con emoción hasta que Firefly se pierde de vista.
+0019 [Laru] | Y ahora ella también se fue.
+0020 [Tú] | ¿Quién es en realidad esa niña? ...
+0021 [Laru] | La ciudad de Emor está llena de maravillas... Seguro viven todo tipo de niños asombrosos aquí...
+0022 [Tú] | Es cierto, ¡incluida una que nació con magia de luz!
+0023 [Laru] | ¡Oye! ¡Deja de burlarte de mí!==W== ¡Toma esto!
+0024 [Tú] | ¡¡Auuu!!==W== ¡Está bien, está bien, me rindo!
+0025 [Laru] | Uf... En realidad, la señorita Bruja y yo nos despedimos igual en aquel entonces.
+0026 [Laru] | Y no volví a verla después de eso.
+0027 [Tú] | Bueno, si dices que era una bruja...==W== Seguramente se fue a otros lugares a cazar noticias.
+0028 [Tú] | Algún día volverás a verla.==W== Tengo esa corazonada.
+0029 [Laru] | Si algún día vuelvo a verla, ¡le diré que ahora yo también puedo cumplir los deseos de muchos niños haciendo de Espíritu, igual que ella!
+0030 [Tú] | ¡Guau! ¿Por eso trabajaste tan duro hoy?
+0031 [Laru] | Más o menos... Si la vuelvo a ver el día del Festival Nevado, quiero poder hablarle sin sentirme culpable...==W== Eh, ¿para mostrarle que me convertí en una mejor persona...?
+0032 [Laru] | ¡Pero claro, la alegría y felicidad de los niños son mi principal motivación!
+0033 [Tú] | Qué bueno por ti. De verdad te has convertido en una mejor persona.
+0034 [Tú] | Ah, por cierto, ¿lograste hacer amigos después de conocer a la señorita Bruja?
+0035 [Laru] | ¡Guau! ¡Qué perspicaz!==W== En realidad... no mucho...
+0036 [Laru] | Seguía brillando de vez en cuando cuando no podía contenerlo...==W== Y los niños seguían manteniendo su distancia de mí...==W== Pero gracias a ella, poco a poco dejé de dejar que me afectara.
+0037 [Laru] | Y me di cuenta de que no necesito a nadie más para pescar, así que empecé a ir a pescar yo sola... Y se volvió mi obsesión...
+0038 [Laru] | Con mucha práctica,==W== empecé a mejorar un montón, ¡y otros pescadores empezaron a acercarse a mí para pedirme consejos de pesca!
+0039 [Laru] | Y... ¡así fue como hice muchos compañeros de pesca! ¡Ja, ja, ja!
+0040 [Laru] | Desde entonces también he brillado mucho menos...==W== ¿Quizá la pesca de verdad le dio paz a mi mente y mi cuerpo?
+0041 [Tú] | ... O sea que sí necesitas la pesca para tu salud mental y física...
+0042 [Laru] | En una palabra, lo que la señorita Bruja me dijo me permitió por fin aceptar mi verdadero yo...==W== especial.
+0043 [Laru] | Como ella dijo,==W== nunca te limites a lo que ves...==W== Hay un mundo mucho más grande allá afuera esperando a que lo explore.
+0044 [Laru] | Je, je... Sí quiero convertirme en alguien como ella... Así que, ¡para el Festival Nevado, con gusto me esfuerzo!
+0045 [Tú] | ¡También puedes esforzarte otros días!
+0046 [Laru] | ¡Escucha! La campana está sonando... Las celebraciones del Festival Nevado han llegado a su fin.
+0047 [Tú] | Gracias por tu arduo trabajo.==W== O sea... ¡lo hicimos bien!
+0048 [Laru] | ... Eh... ¡Tirano! ¿Puedes quedarte conmigo un ratito más?
+0049 [Tú] | Claro, sin problema. ¿Tienes algo más que hacer?
+0050 [Laru] | ¡No, no! Es que...
+0051 [Laru] | ¡Déjame... corresponder lo que hiciste por mí hoy!
+0052 [Narración] | Laru me toma de la mano y corre conmigo hasta el puerto.
+0053 [Laru] | Eh...
+0054 [Tú] | ¿Qué pasa? Me arrastras hasta aquí sin decir palabra—==W==¿no me digas que a mí también me vas a secuestrar?
+0055 [Laru] | Ja, ja, ja... ¡Ya basta!
+0056 [Laru] | Quiero mostrarte...==W== ¡esto!
+0057 [Narración] | Su cuerpo brilla suavemente. A diferencia del brillo intenso con el que resplandeció ante los niños, esta vez la luz es... delicada.
+0058 [Laru] | Sígueme~
+0059 [Narración] | Señaló hacia el agua bajo el muelle.
+0060 [Tú] | Ah...
+0061 [Narración] | El resplandor de Laru atrae a muchos peces, que no dejan de nadar en círculos dentro del puerto.
+0062 [Laru] | Hermoso, ¿verdad?
+0063 [Tú] | Esto es increíble... Nunca esperé ver algo así aquí.
+0064 [Laru] | ¡No se ve todos los días! ¡Esta es mi magia en acción!
+0065 [Tú] | Pero ¿cómo?
+0066 [Laru] | En pocas palabras, los atrae mi luz.
+0067 [Tú] | Sí, es...==W== increíble.
+0068 [Laru] | Mm-hmm... Pero una magia como esta es demasiado llamativa, ¡por eso solo te la muestro ahora, cuando todo está tranquilo!
+0069 [Laru] | Siempre vengo aquí después de las celebraciones del Festival Nevado a atraer peces con mi magia...==W== Y ellos también me responden con su brillo... Así puedo dar por terminado el día con la conciencia tranquila.
+0070 [Tú] | ¿Esto es... lo que Laru vio cuando era una niña...?
+0071 [Laru] | Quería mostrárselo primero a la señorita Bruja,==W== pero...==W== ¡decidí que está bien que seas tú el primero!
+0072 [Tú] | Gracias. Es un honor tener este privilegio.
+0073 [Laru] | ¡Y también, toma esto!
+0074 [Tú] | —Ah, ¿esto es...?
+0075 [Laru] | ¡Tu regalo del Festival Nevado! ¡Ja, ja! ¿A poco no es adorable? ¡Esta caña también es tuya!
+0076 [Tú] | ¿No es esta la caña que acabas de comprar? ¿Y de dónde demonios sacaste ese pez luminoso?
+0077 [Tú] | Con esta caña...==W== ¿Ese pez es la carnada? ¡¿Pero no es un poco grande para ser carnada?!
+0078 [Laru] | ¿Ves? ¡Con solo enganchar uno, puedes atraer más peces!
+0079 [Tú] | Ja, ja, ya veo. ¡¿Desarrollaste esta magia para ayudarte a pescar?!
+0080 [Laru] | ¡¿Eh?! ¡Claro que no!
+0081 [Tú] | Uhhh...
+0082 [Laru] | Je, je...
+0083 [Laru] | Pfft... ¡Ja, ja, ja!
+0084 [Tú] | En fin...==W== Ja, ja, gracias por este regalo.
+0085 [Tú] | Tengo muchas ganas de pescar un montón con ella...
+0086 [Laru] | ¡Vaya, mira quién se volvió loco por la pesca! ¡Pesquemos toda la noche!
+0087 [Tú] | Eso sería demasiado.
+0088 [Laru] | No te preocupes.==W== ¡No vas a poder parar!
+0089 [Narración] | El Festival Nevado ha llegado a su fin, y un nuevo día está amaneciendo...==W== Y aquí estamos, todavía saboreando nuestro propio momentito.

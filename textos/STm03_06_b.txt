@@ -1,0 +1,111 @@
+# Capítulo 3 · 6B · Entrenamiento especial
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Cunning Monster | Monstruo astuto
+N:Fierce Monster | Monstruo feroz
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_156 | Nazuna
+N:avg2_002 | Shrubshrew Stake
+N:avg2_003 | Shrubshrew Grenadier
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Entrenamiento especial
+0003 [Intro] | Intentas limitar el gran poder de Fuyuka con un entrenamiento con pesas, pero esto hace que su fuerza se duplique y sea aún más difícil de controlar. Mientras estás preocupado, te topas con una bruja, Mistique.
+0004 [Lugar y hora] | 07:20, 18.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0005 [Tú] | ¿Estás lista?
+0006 [Fuyuka] | L-l-==W==¡lista como nunca!
+0007 [Iris] | ¿Estará bien? Fuyuka parece hecha un desastre.
+0008 [Nazuna] | Que todos la miremos probablemente lo empeora. Tiene los nervios destrozados.
+0009 [Serena] | Seguro que el Jefe tiene un plan.
+0010 [Tú] | El primer paso para Fuyuka es simplemente acostumbrarse a que haya otras personas durante una pelea.
+0011 [Tú] | El trabajo en equipo es demasiado por ahora. Empecemos con que se adapte a tener público.
+0012 [Kaede] | ¡Tú puedes, Fuyuka!
+0013 [Fuyuka] | Todos me miran...==W== Tengo que dar lo mejor de mí...
+0014 [Monstruo feroz] | ¡RRAAAR!
+0015 [Fuyuka] | ¡Oye!
+0016 [Monstruo feroz] | ¡GRRRAAAAGH...!
+0017 [Fuyuka] | C-==W==Atrapé uno...
+0018 [Nazuna] | ¡Fuyuka, detrás de ti!
+0019 [Fuyuka] | ¿D-detrás de mí?
+0020 [Monstruo astuto] | ¡RAWR!
+0021 [Fuyuka] | ¡Aah!
+0022 [Amber] | Se está volviendo descuidada.
+0023 [Nazuna] | Está demasiado pendiente de que la miremos. No puede concentrarse.
+0024 [Fuyuka] | No puedo hacer esto...
+0025 [Fuyuka] | Ugh...==W== ¿Por qué nunca puedo hacerlo bien...?
+0026 [Fuyuka] | Todos me miran...==W== Estoy tan nerviosa...==W== Mi cuerpo simplemente no me obedece...
+0027 [Fuyuka] | Si sigo así, ¿cuándo podré pelear junto a ellos...?
+0028 [Serena] | Sí, se le nota en la cara.
+0029 [Serena] | La ponemos nerviosa y, cuando está nerviosa, comete errores. Entonces se siente inútil y todo se vuelve una espiral.
+0030 [Tú] | Se pone así de nerviosa solo por tener público.
+0031 [Tú] | Bien, nuevo plan. Ataquemos esto en la raíz.
+0032 [Nazuna] | ¿La raíz?
+0033 [Tú] | Fuyuka teme lastimarnos en combate, ¿verdad? Entonces busquemos una forma de mantener su poder bajo control.
+0034 [Lugar y hora] | 15:00, 18.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0035 [Tú] | Fuyuka.
+0036 [Fuyuka] | (solloza) Lo siento mucho. Me bloqueé por completo,==W== solo porque me miraban... Soy más inútil que los excrementos de una musaraña arbustiva...
+0037 [Tú] | No seas tan dura contigo misma. No pasa nada. Tengo una nueva idea de entrenamiento.
+0038 [Tú] | Toma. Prueba atarte esto a los brazos y las piernas.
+0039 [Fuyuka] | ...¿Sacos de arena?==W== Pesan bastante...
+0040 [Tú] | Sí. Es una idea simple. Así tu fuerza se mantendrá contenida.
+0041 [Tú] | De modo que, aunque haya gente cerca durante una pelea, no tendrás que preocuparte por lastimarla.
+0042 [Fuyuka] | Entiendo. Intentaré lanzar un golpe de verdad sin contenerme.
+0043 [Lugar y hora] | 16:00, 24.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0044 [Kaede] | Eh... ¿==PLAYER_NAME==? ¿Tiene un momento? Quisiera hablar sobre el entrenamiento de Fuyuka.
+0045 [Tú] | ¿Hay algún problema con el entrenamiento? ¿O crees que no está funcionando, Kaede?
+0046 [Kaede] | No, está funcionando de maravilla. Es solo que... digamos que funciona un poco demasiado bien...
+0047 [Fuyuka] | Uf...
+0048 [Tú] | Vaya... Qué golpe. ¿Fue uno de sus movimientos especiales?
+0049 [Kaede] | No. Solo un puñetazo normal y corriente.
+0050 [Nazuna] | ¡Cuidado, cae! ¡Todos, apártense!
+0051 [Tú] | Cof, cof... Derribó un árbol entero de un solo golpe.
+0052 [Kaede] | Fuyuka, el encargo de tala terminó. Volvamos.
+0053 [Fuyuka] | Mm...==W== Vale.
+0054 [Narración] | En lugar de acercarse, Fuyuka retrocede unos pasos.
+0055 [Fuyuka] | ¡N-no se acerquen más!==W== Ah, eh...==W== Perdón, no quise decirlo así... Es solo que... es más seguro para ustedes si mantengo la distancia...
+0056 [Nazuna] | Lleva así ya un tiempo. Ya ni siquiera regresa a la Casa de los Trekkers.
+0057 [Tú] | Entonces, ¿Fuyuka ha aprendido a controlar su fuerza?
+0058 [Nazuna] | ¿Controlarla? Es todo lo contrario. Está más fuerte que nunca.
+0059 [Tú] | Ya veo...==W== Espera, ¿se hizo más fuerte?
+0060 [Fuyuka] | (solloza) Es todo mi culpa. Los primeros días, los sacos de arena hacían que mis puñetazos se sintieran pesados, como si mi poder estuviera contenido...
+0061 [Fuyuka] | Pero...==W== desde ayer... ya ni siquiera siento el peso. Mis puñetazos solo son más rápidos y más fuertes.
+0062 [Kaede] | Parece que el entrenamiento de resistencia sí desarrolló su fuerza y su técnica.
+0063 [Tú] | ¡Eso... eso normalmente tarda dos o tres meses en asimilarse!
+0064 [Tú] | Espera, ¡¿Fuyuka tiene un verdadero don?!
+0065 [Kaede] | Jiji~ A nuestra Fuyuka solo le falta confianza. La verdad es que hay poco que no pueda hacer cuando se lo propone.
+0066 [Nazuna] | Sí, bueno, sea cual sea el resultado, al menos se hizo más fuerte. El entrenamiento no fue un fracaso total.
+0067 [Tú] | Bueno, esa es una forma positiva de verlo...==W==  Pero si los sacos de arena no funcionan, necesito un nuevo plan.
+0068 [Narración] | Después de que Nazuna y Kaede se llevan a Fuyuka, me quedo solo frente al árbol talado, devanándome los sesos mientras espero a que lo retiren.
+0069 [Tú] | Este problema de Fuyuka es difícil. Si el acondicionamiento mental y el entrenamiento con peso no funcionan...
+0070 [???] | Alguien... ¿Alguien puede echarme una mano?
+0071 [Tú] | ¿Eh? Parece que viene de debajo del árbol...
+0072 [Tú] | ¡No, es imposible! Despejamos la zona antes de que cayera el árbol. No hay forma de que alguien esté atrapado ahí abajo...
+0073 [???] | ¿H-hola...?==W== ¿P-pueden ayudarme...?
+0074 [Tú] | ¡Oh, no! ¡Hay alguien!
+0075 [???] | Uf... uf... Muchísimas gracias. Si no fuera por ti, probablemente estaría muerta.
+0076 [Tú] | Más me asombra==W== que hayas sobrevivido...
+0077 [Mistique] | ¡Me llamo Mistique! ¡Soy una bruja de Scarlet Sights Media! ¡Puedes llamarme como quieras!
+0078 [Tú] | Muy bien, señorita Mistique. ¿Cómo terminaste atrapada bajo el árbol?
+0079 [Mistique] | Ni yo misma estoy segura.==W== Estaba echándome una siestecita entre las ramas y lo siguiente que supe es que el árbol cayó.
+0080 [Tú] | Mejor no contarle lo que pasó...
+0081 [Tú] | Entonces, eh...==W== ¿Qué te trae por aquí, Mistique? Como te dices «bruja»... ¿Estás reuniendo ingredientes para pociones?
+0082 [Mistique] | ¿Ingredientes para pociones? Por favor. Las brujas hace mucho que superamos eso. Estoy aquí para...
+0083 [Mistique] | Mmm...
+0084 [Tú] | ¿Qué pasa? ¿Tengo algo en la cara?
+0085 [Mistique] | Espera un momento... No serás por casualidad el Jefe de Boss Accord Staffing Company, ¿verdad?
+0086 [Tú] | Soy yo.
+0087 [Mistique] | ¡Ay, por Dios! ¡No puedo creer que me topara contigo aquí!★ ¡Valió totalmente la pena el viaje desde Flavio!
+0088 [Mistique] | Oí tus historias en Emor, así que volé hasta allá en mi escoba, ¡pero no te alcancé! Luego supe que habías ido a Philae, así que te seguí hasta aquí, ¡y aun así no te encontraba! Estaba empezando a desesperarme★
+0089 [Tú] | ¿Me estabas buscando?
+0090 [Mistique] | ¡Sí! Las brujas vivimos para descubrir secretos y alimentarnos de las verdades que encierran. Y tú...==W== Hueles absolutamente delicioso.

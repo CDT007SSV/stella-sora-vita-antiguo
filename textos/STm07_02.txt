@@ -1,0 +1,160 @@
+# Capítulo 7 · El precio de la estrella · 2 · Un trato
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cautious Senator | Senador cauteloso
+N:Excited Senator | Senador emocionado
+N:Obart | Obart
+N:Panicked Knight | Caballero aterrado
+N:Senate Speaker | Presidente del Senado
+N:Standard Bearer | Abanderado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_132 | Kaede
+N:avg3_134 | Mina
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_157 | Guardia Imperial
+N:avg3_215 | Matilda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Un trato
+0003 [Intro] | El Senado de Cosecha Unida vota para disolver su sucursal de Philae. Contactas al equipo de Nazuka y frenas la resolución en el momento justo. Matilda necesita que ganes la licitación del Monolito para salvar la sucursal de una vez por todas.
+0004 [Lugar y hora] | 13:00, 8.º del mes de Venatio, Nueva Orelia, Senado de Cosecha Unida
+0005 [Excited Senator] | Philae es un pedazo de tierra que no vale nada.
+0006 [Excited Senator] | Hace seis años, la sucursal de Philae echó a perder un deseo. Desde entonces, el Imperio de la Gracia les prohibió el acceso al Monolito de la ciudad.
+0007 [Excited Senator] | Hace cuatro años, el desfalco de Giotto de Feltro dejó seca a la sede.
+0008 [Excited Senator] | ¡Y el mes pasado, Darcia organizó un golpe! Fracasó, sí...
+0009 [Excited Senator] | ...¡pero nos costó tres legiones y destrozó la confianza del público en Cosecha Unida!
+0010 [Excited Senator] | ¡Todo eso en apenas seis años! ¡Es indignante! ¡Y la sucursal de Philae también lleva seis años seguidos con números rojos! Son un lastre.
+0011 [Excited Senator] | ¿Por qué? ¿Por qué todo lo que sale de Philae es un desastre total?
+0012 [Excited Senator] | La respuesta es obvia. ¡La tierra misma está envenenada! Y esa podredumbre infectó la mente de todos los que viven ahí.
+0013 [Excited Senator] | No hay absolutamente ninguna razón para conservar la sucursal. Despidan al personal. Vendan los terrenos y los Artefactos. Si nos deshacemos de ellos, este año tendremos ganancias.
+0014 [Excited Senator] | Caballeros, es hora de actuar. Propongo formalmente cerrar la sucursal de Philae. ¡Con efecto inmediato!
+0015 [Excited Senator] | ¡Todos los que estén a favor, pasen a la derecha!
+0016 [Lugar y hora] | 13:10, 8.º del mes de Venatio, Nueva Orelia, cerca del Senado
+0017 [Nazuka] | ¡Fuera de mi camino!
+0018 [Tú] | Nazuka, ¿cómo vamos?
+0019 [Nazuka] | Cosecha Unida nos vio venir. El Senado está repleto de soldados. Hasta sobornaron a Guardias Imperiales para que los respalden.
+0020 [Nazuna] | ¿A quién le importan los números? Ayer recibimos esa bendición del Monolito. ¡Estos tipos ya valieron!
+0021 [Nazuna] | ¡Piu! Les volé los escudos de un tiro.
+0022 [Nazuka] | Nazuna, ahorra flechas. Tenemos que entrar al Senado y detener esa votación.
+0023 [Nazuna] | Sí, sí.
+0024 [Nazuna] | Mientras tú estabas ocupada haciéndole ojitos al Jefe, yo ya le avisé por radio a Fuyuka.
+0025 [Nazuka] | ¡N-no estaba haciendo eso! Le estaba informando al Jefe sobre asuntos críticos...
+0026 [Nazuna] | ¡Nazuka, cuidado!
+0027 [Panicked Knight] | ¡Capitán! ¡Tenemos una brecha en la retaguardia!
+0028 [Standard Bearer] | ¡Mantengan la línea! No le quiten los ojos de encima a esas dos Trekkers. Nuestras órdenes son mantener a las ratas fuera del Senado.
+0029 [Standard Bearer] | ¿Cómo es que dos Trekkers tienen acorralado a todo mi escuadrón...? ¿Qué está pasando?
+0030 [Panicked Knight] | ¡Capitán!
+0031 [Standard Bearer] | ¡¿Y ahora qué?!
+0032 [Standard Bearer] | ¿Eh? ¿Y tú quién eres?
+0033 [Fuyuka] | ¡L-lo siento! ¡Fue un accidente!
+0034 [Lugar y hora] | 13:20, 8.º del mes de Venatio, Nueva Orelia, afueras del Senado
+0035 [Fuyuka] | ¡Senpai Nazuka! ¡Por aquí!
+0036 [Nazuka] | ¿Están todas bien? ¿Alguna herida?
+0037 [Kaede] | Estamos bien. Como Nazuna y tú los mantuvieron ocupados, nos escabullimos entre esos caballeros sin ningún problema.
+0038 [Nazuna] | Esos idiotas estaban tan concentrados en nosotras que dejaron la espalda totalmente descubierta. Unos aficionados así no durarían ni un día en las Tierras Salvajes.
+0039 [Mina] | N-no... ¡Esto no puede estar pasando!
+0040 [Nazuka] | ¿Mina? ¿Qué pasa?
+0041 [Mina] | Las puertas del Senado están cerradas con llave...==W== ¡Oigan! ¿Hay alguien ahí? ¡Somos los representantes de la sucursal de Philae! ¡Abran!
+0042 [Tú] | Parece que el Senado está empeñado en ganar tiempo.==W== Fuyuka, dale a esa puerta un saludo como se debe. No te contengas.
+0043 [Fuyuka] | ¿Quiere decir... con toda mi fuerza? ¿Está seguro?
+0044 [Tú] | Mina tiene todo el derecho de estar en esa sala.==W== Además, tengo una invitada especial que necesita hacer su entrada.
+0045 [Lugar y hora] | 13:30, 8.º del mes de Venatio, Nueva Orelia, Senado de Cosecha Unida
+0046 [Excited Senator] | Je, tenemos la mayoría de dos tercios. Antes de que termine el día, la sucursal de Philae será historia.
+0047 [Excited Senator] | ¿Y nuestros prestanombres para la compra? ¿Están listos?
+0048 [Cautious Senator] | Sí. Conseguimos a unos cuantos comerciantes de confianza para que sirvan de fachada. Se quedarán con los terrenos y los Artefactos de Philae por una miseria.
+0049 [Cautious Senator] | Aun así... Dicen que unos Trekkers de fuera escoltaron hasta aquí a la representante de Philae.
+0050 [Excited Senator] | No te preocupes. La directora ejecutiva está de nuestro lado. Le encantaría ver arrancada de raíz a la facción de Philae. Apuesto a que no moverá un dedo para detenernos.
+0051 [Excited Senator] | Técnicamente, la única con el rango y el valor para oponerse a esto es la gran inspectora Matilda.
+0052 [Excited Senator] | Qué mala suerte para ella. La mandamos a una misión inútil a Puerto Jilguero. No hay forma de que regrese a tiempo.
+0053 [Excited Senator] | Hasta mandé cortar todas las comunicaciones entre ciudades. Conectarse a distancia a la reunión es imposible.
+0054 [Excited Senator] | Además, unos cuantos Trekkers de pacotilla no van a pasar a la Guardia Imperial.
+0055 [Excited Senator] | La mayoría es clara. Es hora de hacer oficial la moción, ¿no creen?
+0056 [Senate Speaker] | Con más de dos tercios del Senado a favor,==W== por la presente declaro que la sucursal de Philae...
+0057 [Excited Senator] | Cof, cof... ¡¿Qué fue eso?! ¡¿Una explosión?!
+0058 [Cautious Senator] | La... La puerta está hecha pedazos.
+0059 [Excited Senator] | Pero eso es imposible. Ni un monstruo gigante podría derribar esas puertas.
+0060 [Excited Senator] | ¡Olvídense de las puertas! ¡Señor presidente, declare aprobada la moción!
+0061 [Senate Speaker] | ¡¿Qué está pasando?!
+0062 [???] | ¡Alto ahí! ¡Ejerzo mi derecho de veto sobre esta resolución!
+0063 [Cautious Senator] | ¿G-gran inspectora Matilda? ¿Cómo? ¡¿No se supone que a estas alturas ya debería estar fuera de Nueva Orelia?!
+0064 [Narración] | Nazuka camina hasta el centro de la sala del Senado sosteniendo un teléfono en alto.
+0065 [Matilda] | Lo repetiré.==W== Veto esta resolución.
+0066 [Excited Senator] | Que no cunda el pánico. La voz sale del teléfono de la Trekker. Podría ser una grabación.
+0067 [Matilda] | ¿Quién está susurrando? ¿Creen que esto está pregrabado? ¿Eres tú, Obart?
+0068 [Obart] | ¡Ejem! Gran inspectora, ¿seguramente no irrumpió así en el Senado solo para usar su veto?
+0069 [Matilda] | Mi derecho de veto está escrito explícitamente en los estatutos de la empresa. ¿Tienes algún problema con eso?
+0070 [Obart] | C-claro que no.
+0071 [Cautious Senator] | Revisé mi dispositivo. Las comunicaciones entre ciudades en Nueva Orelia siguen bloqueadas. Lo que significa que...
+0072 [Obart] | ¿Ya está de vuelta dentro de la cobertura del Monolito de Nueva Orelia? ¿Cómo volvió de Puerto Jilguero...?
+0073 [Obart] | Un momento. ¿Y si nunca salió de Nueva Orelia? ¿Y si todo esto era una trampa para sacarnos de nuestros lugares?
+0074 [Cautious Senator] | Entonces su verdadero objetivo es...==W== ¡Sí, eso es! ¡Planea registrar nuestras oficinas mientras estamos atrapados en esta reunión!
+0075 [Obart] | Maldición... ¡Olvídense de la moción! ¡Tenemos que volver ya!
+0076 [Lugar y hora] | 13:40, 8.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0077 [Tú] | El Senado es un completo desastre ahora mismo.
+0078 [Matilda] | Cortaron las líneas entre ciudades hacia Nueva Orelia para dejarme fuera de la reunión. Los teléfonos bajo Monolitos distintos no se pueden conectar sin que una operadora haga de puente para la señal.
+0079 [Matilda] | Ninguno se dio cuenta de que en realidad estaba llamando desde Philae.
+0080 [Matilda] | Al final, la paranoia se los comió vivos...
+0081 [Matilda] | «Matilda va a registrar nuestras oficinas mientras estamos atrapados aquí». Me sirvieron en bandeja de plata la coartada perfecta para mi ausencia.
+0082 [Tú] | Los hizo salir a propósito.
+0083 [Matilda] | Que abandonaran esa sala jugó a mi favor.
+0084 [Matilda] | Lo cual demuestra...==W== que venir a pedirle ayuda fue la decisión correcta.
+0085 [Matilda] | Admiro su capacidad. Y hablando de eso... ¿Podría pedirle un favor más?
+0086 [Narración] | Matilda toma un expediente de manos de Nyx y me lo entrega con solemnidad.
+0087 [Matilda] | Esto representa una participación del cuarenta y uno por ciento en la sucursal de Philae.
+0088 [Tú] | ¿Cuarenta y uno por ciento? No me diga que espera que se lo compre.
+0089 [Matilda] | Así es. Ese fue el plan desde el principio.
+0090 [Matilda] | Samuel tenía estas acciones hace cuarenta y cinco años. Vendió su participación en Cosecha Unida, pero se quedó con una parte de la sucursal de Philae.
+0091 [Matilda] | Los que quedamos de la vieja guardia heredamos este cuarenta y uno por ciento directamente de él.
+0092 [Matilda] | La sede tiene el cuarenta y nueve por ciento, y el diez por ciento restante le corresponde al representante de la sucursal de Philae en el Senado.
+0093 [Matilda] | Si ese representante se alinea con nuestra facción, aseguramos una mayoría del cincuenta y uno por ciento y tomamos el control de la sucursal.
+0094 [Matilda] | Pero si se pone del lado de la sede, la sede controla el cincuenta y nueve por ciento, y la sucursal se convierte en su títere.
+0095 [Tú] | Las acciones que conservó Samuel frente a las asignadas a los senadores... Es demasiado deliberado.
+0096 [Tú] | Casi como si lo hubiera visto venir. Como si quisiera convertir esta ciudad en un crisol que obligara a ambos bandos a chocar y desafiarse.
+0097 [Matilda] | Tan perspicaz como siempre, Jefe. Dio justo en el blanco.
+0098 [Matilda] | Aun así, la facción de Nueva Orelia ha tenido la mayoría en el Senado durante cuarenta y cinco años. El cargo de presidente siempre se lo dan a alguien designado por la sede.
+0099 [Matilda] | Eso ha mantenido a nuestra facción acorralada... Pero no podemos darnos el lujo de una ruptura total. Si la producción de alimentos se desploma, la gente pasará hambre.
+0100 [Matilda] | Tuvimos que tragarnos el orgullo y aceptar las cosas como están.==W== Pero su llegada cambia las reglas del juego.
+0101 [Tú] | Yo no diría eso... La que está cambiando el rumbo aquí es Mina, la representante de su sucursal.
+0102 [Tú] | No sé cuál sea su postura política, pero sí sé que quiere que la empresa produzca mejor comida, y eso lo apoyo.
+0103 [Tú] | Su convicción pura es igual a la de Samuel cuando fundó Cosecha Unida.
+0104 [Tú] | Dejando eso de lado, aunque quisiéramos comprar esas acciones, el capital es un obstáculo enorme...
+0105 [Tú] | Odio admitirlo, pero casi nunca traigo más efectivo que la mesada que me da Iris. Por cierto... Iris, ¿cuánto tenemos ahorita en el banco?
+0106 [Iris] | Eh... Cincuenta y un mil uno Dorra.
+0107 [Tú] | Como ve, a Boss Accord no le sobra precisamente el dinero.==W== Matilda, ¿cuál es el valor real de mercado de esas acciones?
+0108 [Matilda] | ¿A los precios actuales? Unos cincuenta mil millones de Dorra.
+0109 [Iris] | ¡¿C-cincuenta mil millones de Dorra?! ¡Cincuenta mil millones! ¡¿Saben cuántos ceros son?!
+0110 [Amber] | Iris, en cortocircuito.
+0111 [Tú] | Sí, cincuenta mil millones es astronómico. No nos alcanza. La verdad, ni siquiera puedo procesar una cifra tan alta.
+0112 [Matilda] | No tiene que preocuparse por el pago inicial.==W== Jefe, ¿se enteró de que el Imperio de la Gracia abrió la licitación del Monolito?
+0113 [Tú] | Sí. ¿La subasta para decidir quién obtiene los derechos de operación del Monolito de Philae durante la próxima década?
+0114 [Matilda] | Correcto. Pero nosotros solo somos una sucursal. Sin la autorización de una empresa matriz con Sello de la Gracia, ni siquiera podemos entrar a la licitación.
+0115 [Matilda] | Y con las jugadas recientes de la facción de Nueva Orelia, jamás aprobarían nuestra solicitud.
+0116 [Matilda] | Si perdemos el acceso al Monolito de Philae, quien gane la licitación usará los Artefactos que produzca para aplastarnos.
+0117 [Tú] | ¿Qué necesita de mí?
+0118 [Matilda] | Le rebajaré estas acciones a treinta mil millones de Dorra. Un plan de pagos a noventa y nueve años, con un enganche de un Dorra.
+0119 [Matilda] | Hay una condición.==W== Para que podamos entrar a esa subasta, necesito que use su Sello de la Gracia y nos patrocine. Necesitamos su respaldo.
+0120 [Tú] | Aun así, son unos trescientos millones de Dorra al año.
+0121 [Tú] | ¿No cree que es un poco excesivo para una empresa que tiene exactamente cincuenta y un mil uno Dorra en el banco?
+0122 [Tú] | Entiendo que su sucursal necesita un respaldo oficial, pero necesito una mejor razón para asumir un riesgo financiero de ese tamaño...
+0123 [Tú] | Boss Accord no es un negocio de una sola persona. Tengo que pensar en mi equipo.
+0124 [Matilda] | Entiendo... Esperaba no tener que recurrir a la carta de la compasión.
+0125 [Matilda] | Samuel era mi abuelo.
+0126 [Matilda] | Su sueño absurdo, imposible...==W== también es el mío.

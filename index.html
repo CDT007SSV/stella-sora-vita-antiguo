@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<script>try{var c=JSON.parse(localStorage.getItem("ssv_cfg")||"{}");if(c.splash===0)document.documentElement.classList.add("ssv-nosplash")}catch(e){}</script>
+<link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
+<link rel="preconnect" href="https://stellasora.miraheze.org">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="referrer" content="no-referrer"/>
 <link rel="manifest" href="manifest.webmanifest"/>
 <meta name="theme-color" content="#0A0A12"/>
+<script>try{if(localStorage.getItem("ssv_claro")==="1")document.documentElement.classList.add("claro")}catch(e){}</script>
 <meta name="mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-title" content="Stella Sora Vita"/>
@@ -78,6 +84,8 @@ main{padding:12px;max-width:720px;margin:0 auto}
 .card p{color:var(--t2);font-size:.9rem;line-height:1.45}
 .fmore-row{margin:0 0 10px}#cmore-btn{padding:6px 14px}
 
+[hidden]{display:none!important}
+#start .hm-head .nsearch,#start .hm-head .nbell{width:38px;height:38px}#start .hm-head #nsearch{right:44px}
 .nsearch{position:absolute;right:50px;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:12px;border:1px solid #3a3560;background:rgba(123,108,255,.12);color:#cfc8ff;display:flex;align-items:center;justify-content:center;cursor:pointer}
 #us{position:fixed;inset:0;z-index:90;background:#0a0818;display:none;flex-direction:column;padding:calc(12px + env(safe-area-inset-top)) 14px 14px}
 #us.on{display:flex}
@@ -89,16 +97,54 @@ main{padding:12px;max-width:720px;margin:0 auto}
 #us-res button{display:flex;width:100%;text-align:left;align-items:center;gap:10px;padding:10px 12px;margin-bottom:6px;border-radius:10px;border:1px solid #2c2850;background:rgba(255,255,255,.04);color:inherit;font:inherit;cursor:pointer}
 #us-res button small{opacity:.6;margin-left:auto;font-size:.72rem}
 #us-res p{opacity:.6;text-align:center;margin-top:30px}
+
+/* ficha ampliada (fichas.js) */
+.ficha{margin:10px 0}.fk-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;position:sticky;top:0;z-index:5;background:var(--bg);padding:6px 0}
+.fk-card,.fk-pot{background:var(--sf);border-radius:10px;padding:14px;margin-bottom:10px;border:1px solid #2a2740}
+.fk-top{display:flex;justify-content:space-between;align-items:center;gap:6px;margin-bottom:4px}.fk-t{font-size:.66rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:var(--a)}.fk-cd{font-size:.72rem;color:var(--t2)}
+.fk-card h4,.fk-pot h5{font-size:1rem;margin:0}.fk-en{font-size:.72rem;color:var(--t2);margin-bottom:4px}
+.fk-b,.fk-pb{font-size:.84rem;color:var(--t2);line-height:1.45;margin:6px 0}
+.fk-lv{display:flex;align-items:center;justify-content:center;gap:14px;margin:10px 0;font-size:.86rem}.fk-lv.sm{margin:6px 0}
+.fk-st{width:34px;height:34px;border-radius:50%;border:1px solid #3D3A55;background:#221E3A;color:var(--t);font-size:1.15rem;line-height:1}
+.fk-d,.fk-pd{font-size:.86rem;line-height:1.55}.fk-pd{margin:6px 0 2px}
+.fn{color:#fb8037;font-weight:700;white-space:nowrap}.fn.tier{border-bottom:1px dotted #fb8037}.fk-pot .fn{color:#0abec5}.fk-pot[data-t="3"] .fn{color:#fb8037}
+.fk i.fk,.fk-d i.fk,.fk-pb i.fk,.fk-pd i.fk{font-style:normal;color:var(--a);font-weight:600}
+.fk-m{margin-top:10px;padding-top:8px;border-top:1px dashed #3D3A55}.fk-mh{font-size:.7rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--t2);margin-bottom:5px}
+.fk-mi{display:flex;flex-wrap:wrap;gap:6px}.fk-mi span{font-size:.76rem;background:#221E3A;border-radius:6px;padding:4px 8px}.fk-mi b{color:var(--gold,#e8c46a)}
+.fk-sw{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}.fk-bd{font-size:.84rem;color:var(--t2);margin:4px 0 8px;font-style:italic}
+.fk-h{font-size:.82rem;letter-spacing:.05em;text-transform:uppercase;color:var(--t2);margin:14px 0 8px}
+.fk-pot{display:flex;gap:12px;align-items:flex-start}.fk-ic{position:relative;width:48px;height:48px;border-radius:10px;background:#221E3A center/cover;margin-right:8px;flex:0 0 48px}.fk-ic>img:first-child{width:100%;height:100%;object-fit:contain}.fk-ti{position:absolute;right:-4px;bottom:-4px;width:20px;height:20px}.fk-gf{display:flex;align-items:center;gap:8px}.fk-gi{width:36px;height:36px;object-fit:contain;flex:0 0 36px}.fk-mimg{width:20px;height:20px;object-fit:contain;vertical-align:middle;margin-right:4px}.fk-pi{flex:0 0 84px}.fk-pi img{width:84px;height:auto;aspect-ratio:180/230;object-fit:contain;border-radius:10px;display:block}.fk-tg{display:flex;gap:6px;margin-bottom:10px}.fk-tg button{flex:1;padding:8px;border-radius:10px;border:1px solid #3D3A55;background:transparent;color:var(--t2);font-weight:700;font-size:.8rem}.fk-tg button.on{background:var(--a);color:#fff;border-color:var(--a)}.res .fk-card .fk-lv,.res .fk-card .fk-d,.res .fk-card .fk-m{display:none}.det .fk-card .fk-b{display:none}.fk-rz{font-size:.8rem;font-weight:800;line-height:1;display:block;margin-top:3px}.fk-pot[data-t="1"]{border-left:3px solid #ff6ec7}.fk-pot[data-t="1"] .fk-rz{color:#ff6ec7}.fk-pot[data-t="2"]{border-left:3px solid #8b5cf6}.fk-pot[data-t="2"] .fk-rz{color:#a78bfa}.fk-pot[data-t="3"]{border-left:3px solid #f5b301}.fk-pot[data-t="3"] .fk-rz{color:#f5b301}
+.fk-pot>div{flex:1;min-width:0}.fk-pot summary{font-size:.78rem;color:var(--a);cursor:pointer;margin-top:4px}
+.fk-gifts{display:flex;flex-wrap:wrap;gap:8px}.fk-gf{background:#221E3A;border-radius:8px;padding:7px 10px;font-size:.82rem}.fk-gf span{display:block;font-size:.68rem;color:var(--t2)}
+.fk-rg{width:100%;margin:4px 0 10px}
+.bkbtn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;padding:18px 14px;margin:0 0 14px;border:2px solid rgba(255,255,255,.85);border-radius:16px;background:linear-gradient(135deg,#6a5cd6,#8e7ce8);color:#fff;font:800 1.15rem/1.2 inherit;font-family:inherit;box-shadow:0 4px 14px rgba(0,0,0,.35);cursor:pointer}.bkbtn span{font-size:1.4rem}.bkbtn:active{transform:scale(.98)}
+.bl{background:rgba(20,16,50,.6);border:1px solid #2c2850;border-radius:14px;padding:12px;margin:0 0 14px}.bl h3{margin:0 0 6px;font-size:.95rem}.bl-ax{display:flex;justify-content:space-between;font-size:.68rem;color:var(--t2)}.bl-b{position:relative;padding-top:18px}.bl-hoy{position:absolute;top:0;bottom:0;width:2px;background:#ff7a8a;z-index:2}.bl-hoy em{position:absolute;top:0;left:-14px;font-size:.62rem;font-style:normal;color:#ff9aa7}.bl-r{margin:6px 0}.bl-t{position:relative}.bl-bar{display:block;height:24px;line-height:24px;padding:0 8px;border-radius:7px;font-size:.7rem;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;opacity:.55;color:#fff}.bl-bar.p{background:#6a55ff}.bl-bar.d{background:#1fa89d}.bl-bar.a{opacity:1;box-shadow:0 0 10px rgba(255,255,255,.35)}.bl-r small{display:block;font-size:.64rem;color:var(--t2);margin-top:1px}.bl-k{font-size:.66rem;color:var(--t2);margin:8px 0 0}.bl-k b{display:inline-block;width:10px;height:10px;border-radius:3px;vertical-align:middle;margin:0 2px 0 6px}.bl-k b.p{background:#6a55ff}.bl-k b.d{background:#1fa89d}
+html.claro{filter:invert(1) hue-rotate(180deg)}html.claro img,html.claro video,html.claro canvas,html.claro iframe,html.claro #rd,html.claro #splash,html.claro .hm .bg,html.claro [style*="background-image"]{filter:invert(1) hue-rotate(180deg)}html.claro body{background:#0A0A12}
+.own-btn{margin-top:8px;padding:8px 12px;border-radius:12px;border:1px solid rgba(255,255,255,.35);background:rgba(8,6,22,.55);color:#fff;font:700 .8rem inherit;cursor:pointer}.own-btn.on{background:#e8c46a;border-color:#e8c46a;color:#2a1c00}.gc-own{position:absolute;top:4px;right:4px;z-index:3;width:26px;height:26px;border-radius:50%;border:1px solid rgba(255,255,255,.5);background:rgba(8,6,22,.72);color:#fff;font-weight:900;font-size:.9rem;line-height:1;cursor:pointer;padding:0}.gc-own.on{background:#2fbf7a;border-color:#2fbf7a;color:#04210f}
+
+/* ===== pulido visual: etiquetas y botones de filtro ===== */
+[data-el="Aqua"],[data-v="Aqua"]{--ec:#1e90d6}[data-el="Ignis"],[data-v="Ignis"]{--ec:#e5533d}[data-el="Lux"],[data-v="Lux"]{--ec:#e0a82a}[data-el="Terra"],[data-v="Terra"]{--ec:#a9783a}[data-el="Umbra"],[data-v="Umbra"]{--ec:#8b5cf6}[data-el="Ventus"],[data-v="Ventus"]{--ec:#2fb585}
+.filters .chip,.fk-tabs .chip,.fcount .chip{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:8px 15px;font-size:.84rem;font-weight:600;line-height:1.1;color:#cfc8ff;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.13);transition:background .15s,border-color .15s,transform .1s}
+.filters .chip:active,.fk-tabs .chip:active{transform:scale(.96)}
+.filters .chip.on,.fk-tabs .chip.on{color:#fff;background:linear-gradient(135deg,#7B6CFF,#5b4de0);border-color:transparent;box-shadow:0 3px 10px rgba(91,77,224,.45)}
+.filters .chip[data-v="Aqua"]:before,.filters .chip[data-v="Ignis"]:before,.filters .chip[data-v="Lux"]:before,.filters .chip[data-v="Terra"]:before,.filters .chip[data-v="Umbra"]:before,.filters .chip[data-v="Ventus"]:before{content:"";width:9px;height:9px;border-radius:50%;background:var(--ec);box-shadow:0 0 6px var(--ec)}
+.filters .chip[data-v="Aqua"].on,.filters .chip[data-v="Ignis"].on,.filters .chip[data-v="Lux"].on,.filters .chip[data-v="Terra"].on,.filters .chip[data-v="Umbra"].on,.filters .chip[data-v="Ventus"].on{background:linear-gradient(135deg,var(--ec),color-mix(in srgb,var(--ec) 55%,#14102c));box-shadow:0 3px 10px color-mix(in srgb,var(--ec) 50%,transparent)}
+.filters .chip[data-v="Aqua"].on:before,.filters .chip[data-v="Ignis"].on:before,.filters .chip[data-v="Lux"].on:before,.filters .chip[data-v="Terra"].on:before,.filters .chip[data-v="Umbra"].on:before,.filters .chip[data-v="Ventus"].on:before{background:#fff;box-shadow:none}
+#cr,#ce,#dr,#de{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px;margin-right:-4px}#cr::-webkit-scrollbar,#ce::-webkit-scrollbar,#dr::-webkit-scrollbar,#de::-webkit-scrollbar{display:none}#cr .chip,#ce .chip,#dr .chip,#de .chip{flex:none;white-space:nowrap}
+.fk-tabs{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;gap:8px}.fk-tabs::-webkit-scrollbar{display:none}.fk-tabs .chip{flex:none;white-space:nowrap}
+.chips{gap:8px;margin:12px 0}.chips .chip,.chips .chip.on{display:inline-flex;align-items:center;gap:4px;padding:6px 13px;border-radius:999px;font-size:.8rem;font-weight:600;color:#ece8ff;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.16);box-shadow:none}
+.chips .chip[data-el]{background:color-mix(in srgb,var(--ec) 24%,transparent);border-color:color-mix(in srgb,var(--ec) 60%,transparent)}
+.fcount .chip{padding:5px 12px;font-size:.76rem}
 </style>
 <script>
-// Three.js: usa la copia local (vendor/three, para la APK) y si no existe cae al CDN.
-(function(){
-  var L='./vendor/three/', C='https://cdn.jsdelivr.net/npm/three@0.170.0/', local=false;
-  try{var x=new XMLHttpRequest();x.open('HEAD',L+'build/three.module.js',false);x.send();local=x.status===200}catch(e){}
-  window.THREE_SRC=local?'local':'cdn';var B=local?L:C;
-  var m=document.createElement('script');m.type='importmap';
-  m.textContent=JSON.stringify({imports:{three:B+'build/three.module.js','three/addons/':B+'examples/jsm/'}});
-  document.head.appendChild(m);
+// Three.js: usa la copia local (vendor/three, para la APK) y si no existe cae al CDN. Se decide sin frenar el arranque.
+window.__mapa3d=(function(){
+  var L='./vendor/three/', C='https://cdn.jsdelivr.net/npm/three@0.170.0/';
+  function pon(local){window.THREE_SRC=local?'local':'cdn';var B=local?L:C;
+    var m=document.createElement('script');m.type='importmap';
+    m.textContent=JSON.stringify({imports:{three:B+'build/three.module.js','three/addons/':B+'examples/jsm/'}});
+    document.head.appendChild(m)}
+  return fetch(L+'build/three.module.js',{method:'HEAD'}).then(function(r){pon(r.ok)}).catch(function(){pon(false)});
 })();
 </script>
 <style>
@@ -122,7 +168,7 @@ body.home{background:var(--bg)}
 #start{max-width:480px;margin:0 auto;padding:14px 12px 24px;min-height:100dvh;display:flex;flex-direction:column}
 #start .hm-head{margin-bottom:12px}
 #start .hm-head img{height:48px;width:auto;display:block;filter:brightness(1.2) contrast(1.08)}
-#start .hm-logo{font-size:1.4rem;color:#cfc9ff}
+#start .hm-logo{font-size:1.2rem;color:#cfc9ff}
 body.home #start .sub{color:var(--t2);margin:4px 0 0}
 #start .foot{color:var(--t2)}
 .hm-wrap{flex:1;min-height:520px;display:grid;grid-template-columns:1fr 1.2fr;gap:10px;align-items:stretch}
@@ -154,6 +200,11 @@ body.home #start .sub{color:var(--t2);margin:4px 0 0}
 .c-teal{background:linear-gradient(135deg,#7CC7B5,#58A595)}
 .c-pink{background:linear-gradient(135deg,#E24A84,#C42C68)}
 .c-gold{background:linear-gradient(135deg,#E6B24A,#CC9430)}
+/* historia de personaje: foto mas pequena (para que no se pixele) con marco en el mismo estilo que capitulos, eventos y Nova Times */
+.cs-fr{position:relative;width:72%;max-width:300px;margin:6px auto 18px;padding:5px 5px 0;background:#e9eef0;border:2px solid rgba(255,255,255,.9);border-radius:8px 8px 0 0;box-shadow:0 6px 16px rgba(0,0,0,.45)}
+.cs-img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;object-position:center 25%;background:#0e0c18;border-radius:3px}
+.cs-fr::after{content:"";display:block;height:14px}
+.cs-tag{position:absolute;left:8px;bottom:-9px;z-index:2;background:#e8962e;color:#fff;font-weight:800;font-size:.72rem;padding:2px 9px;border-radius:5px;box-shadow:0 2px 5px rgba(0,0,0,.35)}
 .chap-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;display:block;background:#0e0c18}
 .spoil{display:inline-block;background:#3a2a10;color:#ffd27a;font-size:.72rem;font-weight:700;border-radius:999px;padding:3px 10px;margin-bottom:10px}
 #chaps,#events-list,#novatimes-list{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px}
@@ -205,14 +256,90 @@ body{background:
 .item-tile[data-el=Ventus]{--elc:var(--el-Ventus)}.item-tile[data-el=Lux]{--elc:var(--el-Lux)}.item-tile[data-el=Umbra]{--elc:var(--el-Umbra)}.item-tile[data-el=Neutral]{--elc:var(--el-Neutral)}
 .item-tile .lab{z-index:5;position:relative}
 .item-tile .shade{z-index:2}
-.item-tile .star{color:var(--gold)}
+.item-tile .star{color:var(--gold)}.item-tile img.stars{position:static;inset:auto;width:auto;height:13px;object-fit:contain;z-index:1;vertical-align:middle;display:inline-block}.stars{display:inline-block;vertical-align:middle;width:auto}.badge.rbig:has(.stars){background:none!important;box-shadow:none!important;padding:0}
 /* ficha del personaje: arte grande difuminado detras */
 .hero{position:relative;margin:-12px -12px 12px;padding:16px 14px 6px;overflow:hidden;isolation:isolate}
 .hero::before{content:"";position:absolute;inset:-20px;z-index:-2;background:var(--heroimg) center 20%/cover no-repeat;filter:blur(18px) saturate(1.3);opacity:.55;transform:scale(1.1)}
 .hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(to bottom,rgba(10,10,18,.15),var(--bg) 96%)}
 .hero .detail-av{border:2px solid var(--gold);box-shadow:0 0 22px rgba(232,196,106,.35);border-radius:14px}
 .hero.r4 .detail-av{border-color:var(--vio);box-shadow:0 0 22px rgba(155,123,255,.35)}
+/* ===== Interfaz unificada (v3): mismas formas y acentos en todas las pantallas; el menu principal no se toca ===== */
+.screen .item,.screen .row,.screen .card,.screen .mode-card,.screen .stat,.screen .ncard{border-radius:16px}
+.screen .item{padding:12px;gap:13px;position:relative;transition:transform .1s,border-color .15s}
+.screen .item::after{content:"›";margin-left:auto;color:var(--t2);font-size:1.5rem;line-height:1;padding-left:6px}
+.screen .item .av{border-radius:12px}
+.screen .item:active,.screen .row:active,.screen .mode-card:active,.screen .ncard:active{transform:scale(.985);border-color:rgba(123,108,255,.6)}
+.screen .row{padding:14px;position:relative}
+.screen .btn{border-radius:14px;padding:14px}
+.screen .btn.out{border:1px solid rgba(123,108,255,.55);color:#cfc8ff}
+.screen .search{border-radius:14px;padding:12px 14px}
+.screen .chip{border-radius:999px;padding:7px 14px}
+.topbar button[data-back]{width:38px;height:38px;border-radius:12px;background:rgba(123,108,255,.14);border:1px solid #3a3560;display:flex;align-items:center;justify-content:center;padding:0;font-size:1.3rem;color:#cfc8ff}
+.screen main h3.fk-h,.screen .fk-h{font-size:.78rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--a);margin:18px 0 8px}
+.screen .mode-card{overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.28)}
+.screen .nota,.screen .foot{color:var(--t2)}
+/* ===== Tarjetas estilo juego (personajes, discos, capitulos, Nova Times, eventos) ===== */
+.gc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}
+.gc{position:relative;aspect-ratio:3/4;border-radius:12px;overflow:hidden;cursor:pointer;background:linear-gradient(160deg,#2a2550,#171233);border:2px solid rgba(255,255,255,.16);transition:transform .12s}
+.gc:active{transform:scale(.96)}
+.gc.r5{border-color:var(--gold);box-shadow:0 0 14px rgba(232,196,106,.28)}.gc.r4{border-color:var(--vio);box-shadow:0 0 12px rgba(155,123,255,.25)}.gc.r3{border-color:#5CE1E6}
+.gc img.gc-i{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top}
+.gc::before{content:"";position:absolute;left:0;right:0;bottom:0;height:46%;background:linear-gradient(to top,rgba(8,6,22,.95),rgba(8,6,22,0));z-index:1}
+.gc::after{content:"";position:absolute;left:0;right:0;bottom:0;height:4px;z-index:3;background:var(--elc,#7B6CFF);box-shadow:0 0 10px var(--elc,#7B6CFF)}
+.gc[data-el=Aqua]{--elc:var(--el-Aqua)}.gc[data-el=Ignis]{--elc:var(--el-Ignis)}.gc[data-el=Terra]{--elc:var(--el-Terra)}.gc[data-el=Ventus]{--elc:var(--el-Ventus)}.gc[data-el=Lux]{--elc:var(--el-Lux)}.gc[data-el=Umbra]{--elc:var(--el-Umbra)}.gc[data-el=Neutral]{--elc:var(--el-Neutral)}
+.gc-el{position:absolute;top:4px;left:4px;z-index:2;width:26px;height:26px;border-radius:9px;background:rgba(8,6,22,.72);border:1px solid var(--elc,#7B6CFF);display:flex;align-items:center;justify-content:center}
+.gc-el img{width:17px!important;height:17px!important;margin:0!important}
+.gc-role{position:absolute;top:5px;right:0;z-index:2;font-size:.6rem;font-weight:800;letter-spacing:.03em;color:#fff;padding:3px 7px 3px 9px;border-radius:8px 0 0 8px;background:#5b6cf0;box-shadow:0 2px 6px rgba(0,0,0,.4)}
+.gc-role.Vanguard{background:#e24a84}.gc-role.Support{background:#1f9e7a}.gc-role.Versatile{background:#5b6cf0}
+.gc-nm{position:absolute;left:6px;right:6px;bottom:8px;z-index:2;text-align:left;font-weight:800;font-size:.8rem;line-height:1.1;text-shadow:0 1px 4px #000}
+.gc-nm small{display:block;margin-bottom:2px;font-size:.62rem;color:var(--gold);letter-spacing:.02em}
+.gd-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px 9px}
+.gd{cursor:pointer;text-align:center}.gd:active .gd-a{transform:scale(.96)}
+.gd-a{position:relative;aspect-ratio:1/1;border-radius:12px;overflow:hidden;background:linear-gradient(160deg,#2a2550,#171233);border:2px solid rgba(255,255,255,.16);transition:transform .12s}
+.gd.r5 .gd-a{border-color:var(--gold);box-shadow:0 0 12px rgba(232,196,106,.25)}.gd.r4 .gd-a{border-color:var(--vio)}.gd.r3 .gd-a{border-color:#5CE1E6}
+.gd-a img.gd-i{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.gd-a::before{content:"";position:absolute;left:0;right:0;bottom:0;height:40%;background:linear-gradient(to top,rgba(8,6,22,.9),rgba(8,6,22,0));z-index:1}
+.gd-a::after{content:"";position:absolute;left:0;right:0;bottom:0;height:4px;z-index:3;background:var(--elc,#7B6CFF);box-shadow:0 0 10px var(--elc,#7B6CFF)}
+.gd[data-el=Aqua]{--elc:var(--el-Aqua)}.gd[data-el=Ignis]{--elc:var(--el-Ignis)}.gd[data-el=Terra]{--elc:var(--el-Terra)}.gd[data-el=Ventus]{--elc:var(--el-Ventus)}.gd[data-el=Lux]{--elc:var(--el-Lux)}.gd[data-el=Umbra]{--elc:var(--el-Umbra)}.gd[data-el=Neutral]{--elc:var(--el-Neutral)}
+.gd .gc-el{top:4px;left:4px}.gd-s{position:absolute;left:5px;bottom:7px;z-index:2;color:var(--gold);font-size:.7rem;text-shadow:0 1px 3px #000}
+.gd-n{margin-top:5px;font-size:.72rem;font-weight:700;line-height:1.2;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}
+/* capitulos: tarjetas altas con numero grande y cinta */
+.gx-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
+.gx{position:relative;aspect-ratio:3/4.1;border-radius:12px;overflow:hidden;cursor:pointer;border:2px solid rgba(232,238,255,.8);box-shadow:inset 0 0 0 2px rgba(20,22,50,.35),0 5px 14px rgba(0,0,0,.4);background:#171233;transition:transform .12s}
+.gx:active{transform:scale(.97)}.gx img.bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.gx::before{content:"";position:absolute;left:0;right:0;bottom:0;height:55%;background:linear-gradient(to top,rgba(8,6,22,.92),rgba(8,6,22,0));z-index:1}
+.gx-n{position:absolute;top:6px;right:9px;z-index:2;font-size:1.7rem;font-weight:800;color:#fff;text-shadow:0 2px 6px rgba(0,0,0,.7);letter-spacing:.02em}
+.gx-t{position:absolute;left:0;right:0;bottom:0;z-index:2}.gx-t small{display:inline-block;margin:0 0 -1px 8px;padding:2px 9px;background:rgba(255,255,255,.93);color:#1f2a4d;font-size:.62rem;font-weight:800;border-radius:6px 6px 0 0}
+.gx-t b{display:block;padding:7px 9px;background:linear-gradient(90deg,#2d4cb4,#1b2c78);font-size:.8rem;line-height:1.18;border-top:1px solid rgba(255,255,255,.25)}
+.gx-t b::before{content:"✦ ";color:#5CE1E6}
+.hm-new{z-index:4}
+/* Nova Times: foto con marco y etiqueta de numero */
+.gn{position:relative;cursor:pointer;transition:transform .12s}.gn:active{transform:scale(.97)}
+.gn-f{position:relative;background:#e9eef0;padding:5px 5px 0;border-radius:6px 6px 0 0;box-shadow:0 5px 14px rgba(0,0,0,.4)}
+.gn-f img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;background:#cfd8dc}
+.gn-tag{position:absolute;left:8px;bottom:-9px;z-index:2;background:#e8962e;color:#fff;font-weight:800;font-size:.72rem;padding:2px 9px;border-radius:5px 5px 0 0;box-shadow:0 2px 5px rgba(0,0,0,.35)}
+.gn-t{background:linear-gradient(90deg,#1f6f78,#17525c);padding:13px 9px 8px;font-size:.78rem;font-weight:700;line-height:1.2;border-radius:0 0 6px 6px;min-height:52px;overflow-wrap:anywhere}
+.gn-t::before{content:"✦ ";color:#7ee7e0}
+/* eventos: postal horizontal */
+.ge-list{display:grid;grid-template-columns:1fr!important;gap:14px;margin-bottom:12px}
+.ge{position:relative;cursor:pointer;border-radius:8px;background:#efe6d2;padding:6px 6px 0;box-shadow:0 6px 16px rgba(0,0,0,.45);transition:transform .12s}.ge:active{transform:scale(.985)}
+.ge-i{position:relative;aspect-ratio:16/9;overflow:hidden;border-radius:4px;background:#1b1838}.ge-i img{width:100%;height:100%;object-fit:cover;display:block}
+.ge-r{display:flex;align-items:center;gap:8px;padding:9px 6px 9px 4px;color:#4b3a22;font-weight:800;font-size:.85rem;line-height:1.2}
+.ge-r::before{content:"✦";flex:0 0 28px;height:28px;border-radius:50%;background:#d4333f;color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 5px rgba(0,0,0,.35)}
+.ge .hm-new{top:12px;right:12px}
+/* Hub Historia estilo juego: cinta de color + franja blanca */
+#s-story .hm-subgrid{gap:12px;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}#s-story .hm{min-width:0}#s-story .hm-cn strong{font-size:1rem}#s-story .hm-cn i{margin-right:10px}
+#s-story .hm{border:2px solid rgba(255,255,255,.85);border-radius:6px}
+#s-story .hm,#s-story .hm.w{min-height:0}#s-story .hm.w{aspect-ratio:16/9}#s-story .hm:not(.w){aspect-ratio:3/4}
+#s-story .hm-sh{background:linear-gradient(to top,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 45%)}
+#s-story .hm-cn{left:0;right:0;bottom:12px;display:flex;flex-direction:column-reverse;padding:0}
+#s-story .hm-cn strong{position:relative;font-size:1.12rem;font-weight:800;padding:6px 10px 6px 44px;background:linear-gradient(90deg,var(--rb) 82%,transparent);margin-right:6px;text-shadow:0 2px 3px rgba(0,0,0,.45);letter-spacing:.01em}
+#s-story .hm-cn strong::before{content:var(--ic,"📖");position:absolute;left:5px;bottom:-12px;width:32px;height:32px;border-radius:9px;background:#fff;border:2px solid var(--rb);display:flex;align-items:center;justify-content:center;font-size:1.05rem;box-shadow:0 2px 6px rgba(0,0,0,.4)}
+#s-story .hm-cn i{margin:0 14px 0 40px;padding:3px 8px 3px 14px;background:rgba(255,255,255,.94);color:var(--rb2,#2d4cb4);font-weight:700;font-size:.72rem;opacity:1;text-shadow:none;transform:skewX(-10deg);border-radius:0 0 4px 4px}
+#s-story .c-pur .hm-cn{--rb:#3b6df0;--rb2:#2d4cb4}#s-story .c-pink .hm-cn{--rb:#e83e8c;--rb2:#c0286e}#s-story .c-teal .hm-cn{--rb:#22b8a8;--rb2:#12806f}#s-story .c-gold .hm-cn{--rb:#e8962e;--rb2:#b46a10}
+#s-story .c-pur .hm-cn strong{--ic:"📖"}#s-story .c-pink .hm-cn strong{--ic:"📼"}#s-story .c-teal .hm-cn strong{--ic:"📷"}#s-story .c-gold .hm-cn strong{--ic:"💞"}
 /* filtros y contador */
+.btabs{display:flex;gap:8px;margin:0 0 14px}.btabs button{flex:1;padding:10px 8px;border-radius:10px;border:1px solid #3D3A55;background:0;color:var(--t2);font-size:.85rem;font-weight:600;cursor:pointer}.btabs button.on{background:var(--p);border-color:transparent;color:#fff}
 .fcount{display:flex;align-items:center;justify-content:space-between;margin:2px 0 10px;font-size:.78rem;color:var(--t2)}
 .fcount .chip{padding:4px 10px}
 /* habilidades y potenciales */
@@ -243,6 +370,11 @@ details.pot>summary{cursor:pointer;list-style:none}details.pot>div{margin-top:6p
 .ncard p{margin:0;font-size:.76rem;color:var(--t2)}
 .ntype{display:inline-block;font-size:.62rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:rgba(123,108,255,.25);color:#cfc8ff}
 .ntype.t-personaje{background:rgba(232,196,106,.25);color:#f3d98a}.ntype.t-build{background:rgba(92,225,230,.2);color:#8ff0f3}.ntype.t-banner{background:rgba(255,107,157,.22);color:#ff9fc0}
+.ntype.t-cumple{background:rgba(255,209,102,.25);color:#ffd98a}
+.ncard>div{min-width:0}.ncard h3,.ncard .dtx{overflow-wrap:anywhere}
+.ntype.t-discord{background:rgba(114,137,255,.25);color:#b9c4ff}
+.ncard .dtx{white-space:pre-line;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;word-break:break-word}.ncard .dtx.open{-webkit-line-clamp:unset;display:block}
+.ncard .dlk{display:inline-block;margin-top:6px;color:var(--gold);font-weight:700;font-size:.8rem}
 .ntype.t-app{background:rgba(160,255,190,.18);color:#a8f5c0}
 .ncard .nbul{margin:8px 0 0;padding-left:18px;font-size:.78rem;color:#e6e1ff;line-height:1.45;text-transform:none}.ncard .nbul li{margin-bottom:3px}
 .ncard .nmore{margin-top:2px;color:var(--gold)}
@@ -272,7 +404,7 @@ details.pot>summary{cursor:pointer;list-style:none}details.pot>div{margin-top:6p
 .hero .badge.b5,.badge.b5.rbig{background:linear-gradient(135deg,#f6d878,#e0a93a);color:#3a2800;box-shadow:0 0 14px rgba(232,196,106,.45),inset 0 1px 0 rgba(255,255,255,.5)}
 .hero .badge.b4{background:linear-gradient(135deg,#b49bff,#7d5be8);color:#fff;box-shadow:0 0 14px rgba(155,123,255,.4)}
 .btn.wikibtn{display:flex;align-items:center;justify-content:center;gap:9px;margin:0 0 10px;padding:12px;background:linear-gradient(135deg,rgba(123,108,255,.22),rgba(91,77,224,.12));border:1px solid rgba(123,108,255,.55);color:#cfc8ff;box-shadow:none;font-weight:600}
-.btn.wikibtn:active{background:rgba(123,108,255,.3)}
+.wikiico{position:absolute;top:10px;right:10px;z-index:5;width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(14,12,30,.72);border:1px solid rgba(123,108,255,.65);color:#cfc8ff;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px)}.wikiico:active{background:rgba(123,108,255,.5)}.btn.wikibtn:active{background:rgba(123,108,255,.3)}
 .aboutbtn{display:block;margin:18px auto 4px;padding:8px 16px;background:0;border:0;color:var(--t2);font-size:.8rem;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .bsub{margin:3px 0 0;font-size:.78rem;color:var(--m,#9a96b5);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-transform:none}
 .bcard .bimg{width:100%;aspect-ratio:3.6/1;object-fit:cover;display:block;background:var(--s2);font-size:2rem;text-align:center}
@@ -296,15 +428,20 @@ details.pot>summary{cursor:pointer;list-style:none}details.pot>div{margin-top:6p
 .nota{font-size:.72rem;color:var(--t2);margin-top:6px}
 /* pantalla de carga solo CSS (se quita sola) */
 .betab{font-style:normal;font-weight:800;font-size:.62rem;letter-spacing:.2em;color:#0A0A12;background:linear-gradient(90deg,#5CE1E6,#9d8cff);padding:3px 8px 3px 10px;border-radius:99px;box-shadow:0 0 12px rgba(123,108,255,.55)}
-#start .hm-lg{display:flex;align-items:flex-end;gap:8px}#start .hm-lg .betab{margin-bottom:6px}
+#start .hm-lg{display:flex;align-items:flex-end;gap:6px}#start .hm-lg .betab{margin-bottom:6px}
 #splash .betab{margin-top:6px}
 .betafb{display:flex;align-items:center;justify-content:space-between;width:100%;margin:0 0 10px;padding:10px 14px;border-radius:12px;border:1px solid rgba(92,225,230,.35);background:rgba(92,225,230,.08);color:#cfeff2;font:inherit;font-weight:700;font-size:.85rem;text-align:left}
 .betafb[hidden]{display:none}
-#splash{position:fixed;inset:0;z-index:999;background:radial-gradient(100% 60% at 50% 40%,#2a2255,#0A0A12);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;pointer-events:none;animation:spl .5s ease 1s forwards}
+#splash{position:fixed;inset:0;z-index:999;background:radial-gradient(100% 60% at 50% 40%,#2a2255,#0A0A12);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;cursor:pointer;animation:spl .5s ease 2.6s forwards}
 #splash b{font-size:1.5rem;letter-spacing:.18em;color:#d8d2ff;text-shadow:0 0 18px #7B6CFF;text-transform:uppercase}
-#splash i{font-style:normal;font-size:.75rem;letter-spacing:.3em;color:var(--t2)}
+#splash i{font-style:normal;font-size:3.4rem;font-weight:800;letter-spacing:.32em;padding-left:.32em;line-height:1;color:#fff;text-shadow:0 0 22px #7B6CFF,0 0 44px rgba(92,225,230,.35)}
 #splash span{width:46px;height:2px;background:linear-gradient(90deg,transparent,#5CE1E6,transparent);animation:shim 1s linear infinite;background-size:200% 100%}
 @keyframes spl{to{opacity:0;visibility:hidden}}
+#splash.out{animation:spl .3s ease forwards}
+#splash .vw{display:flex;align-items:center;gap:5px;height:44px;margin-top:6px}
+#splash .vw u{width:5px;border-radius:3px;background:linear-gradient(#5CE1E6,#7B6CFF);height:10px;animation:vw .9s ease-in-out infinite}
+#splash .vw u:nth-child(2n){animation-delay:.15s}#splash .vw u:nth-child(3n){animation-delay:.3s}#splash .vw u:nth-child(5n){animation-delay:.45s}
+@keyframes vw{0%,100%{height:8px;opacity:.5}50%{height:40px;opacity:1}}
 </style>
 <style id="bgm-css">
 .bgm-card{display:flex;align-items:center;gap:10px;width:100%;padding:11px 14px;border-radius:14px;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.07);color:inherit;font:inherit;font-weight:600;cursor:pointer}
@@ -316,18 +453,54 @@ details.pot>summary{cursor:pointer;list-style:none}details.pot>div{margin-top:6p
 #bgmbar .bgm-pp{background:rgba(255,255,255,.14);color:#fff;min-width:44px}#bgmbar .bgm-st{background:#e0556f;color:#fff}
 body.bgm-on .screen{padding-bottom:84px}
 </style>
+<style id="glass">
+/* Botones de navegacion con estilo vidrio esmerilado (todos iguales) */
+.nsearch,.nbell,.topbar>button:first-child,.tm-bk,.back-story,#bk{
+ background:linear-gradient(145deg,rgba(255,255,255,.18),rgba(255,255,255,.05))!important;
+ border:1px solid rgba(255,255,255,.2)!important;color:#e9e5ff!important;
+ -webkit-backdrop-filter:blur(12px) saturate(150%);backdrop-filter:blur(12px) saturate(150%);
+ box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 4px 14px rgba(0,0,0,.28)}
+.topbar>button:first-child,.back-story,#bk{width:38px;height:38px;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:0;font-size:1.3rem;line-height:1}
+.tm-bk{display:inline-flex;align-items:center;border-radius:12px;padding:8px 14px;margin-bottom:10px;font-size:.9rem}
+.nsearch:active,.nbell:active,.topbar>button:first-child:active,.tm-bk:active{background:linear-gradient(145deg,rgba(255,255,255,.28),rgba(255,255,255,.1))!important}
+.xp-es{margin:8px 0;padding:10px 12px;border-radius:12px;background:rgba(123,108,255,.12);border:1px solid #3a3560}.xp-es small{display:block;color:#9d93ff;font-size:.7rem;margin-bottom:4px}.xp-es p{margin:0;white-space:pre-line;font-size:.9rem;line-height:1.4}
+.xp-pl{display:block;position:relative;margin:8px 0;border-radius:12px;overflow:hidden;background:#0b0b18;text-decoration:none;color:#fff;text-align:center}.xp-pl img{display:block;width:100%;opacity:.7}.xp-pl b{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);font-size:1rem;text-shadow:0 1px 6px #000}.xp-pl:not(:has(img)){padding:28px 0}.xp-pl:not(:has(img)) b{position:static;transform:none}
+.strow{display:flex;align-items:center;gap:8px;margin:0 0 12px}.strow .tick{margin:0;flex:1;min-width:0}
+.stpill{margin-left:auto;flex:none;display:flex;align-items:center;gap:6px;height:38px;padding:0 12px;border-radius:12px;border:1px solid rgba(255,255,255,.2);background:linear-gradient(145deg,rgba(255,255,255,.18),rgba(255,255,255,.05));-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 4px 14px rgba(0,0,0,.28);color:#e9e5ff;font:inherit;font-size:.9rem;cursor:pointer}.stpill b{font-weight:700}.stpill.full{border-color:#5CE1E6;box-shadow:0 0 14px rgba(92,225,230,.45)}
+
+/* ---------- Botones unificados (pill/degradado) ---------- */
+.btn,.screen .btn{border-radius:999px;padding:13px 18px;font-weight:700;letter-spacing:.02em;background:linear-gradient(135deg,#8a7bff,#5b4de0);border:1px solid rgba(255,255,255,.14);box-shadow:0 4px 14px rgba(91,77,224,.35),inset 0 1px 0 rgba(255,255,255,.25)}
+.btn.out,.screen .btn.out{background:rgba(123,108,255,.10);border:1px solid rgba(123,108,255,.55);color:#d9d3ff;box-shadow:none}
+.btn.out:active{background:rgba(123,108,255,.22)}
+.btn.wikibtn{border-radius:999px;box-shadow:none}
+.acc3 .btn{border-radius:999px;padding:13px 18px}
+.ov .btn{border-radius:999px}
+.bd-v .row .btn{border-radius:999px;padding:10px 12px;font-size:.85rem}
+.nsearch,.nbell,.cu-ic{border-radius:999px}
+.back-story,.stpill{border-radius:999px}
+#bgmbar button{border-radius:999px}
+.l2d-btn{margin-bottom:12px}
+button,input,select,textarea{font-family:inherit}
+/* v1.0: pulido */
+html.claro #aj-root .aj-r.on .aj-sw:after{background:#111}
+</style>
 </head>
 <body class="home">
-<div id="splash"><b>Stella Sora</b><span></span><i>VITA</i><em class="betab">BETA</em></div>
+<div id="splash" onclick="this.classList.add('out')"><b>Stella Sora</b><span></span><div class="vw"><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u></div><i>VITA</i></div>
 <div id="start">
   <header class="hm-head">
-    <div class="hm-lg"><img src="https://stellasora.miraheze.org/wiki/Special:FilePath/Stella_Sora_English_Logo.png" alt="Stella Sora" referrerpolicy="no-referrer" onerror="this.outerHTML='<b class=hm-logo>Stella Sora</b>'"/><em class="betab">BETA</em></div>
+    <div class="hm-lg"><img src="https://stellasora.miraheze.org/wiki/Special:FilePath/Stella_Sora_English_Logo.png" alt="Stella Sora" referrerpolicy="no-referrer" onerror="this.outerHTML='<b class=hm-logo>Stella Sora</b>'"/></div>
     <p class="sub">Vita · Comunidad hispana</p>
     <button type="button" id="nsearch" class="nsearch" aria-label="Buscar en toda la app"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
+    <button type="button" id="ngear" class="nsearch" style="right:86px" aria-label="Ajustes"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button>
+    <button type="button" id="hlbar" class="nsearch" style="right:128px" aria-label="Heartlink"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v12H9l-5 4z"/><path d="M12 12.6s-3-1.8-3-3.9a1.7 1.7 0 0 1 3-1 1.7 1.7 0 0 1 3 1c0 2.1-3 3.9-3 3.9z" fill="currentColor" stroke="none"/></svg></button>
     <button type="button" id="nbell" class="nbell" data-nav="news" aria-label="Novedades" hidden><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg><span class="ndot" hidden></span></button>
   </header>
-  <button type="button" id="betafb" class="betafb" hidden>✦ Versión beta · Cuéntanos qué te parece <span>›</span></button>
+  <button type="button" id="betafb" class="betafb" hidden>✦ Cuéntanos qué te parece <span>›</span></button>
+  <div class="strow">
   <div id="ticker" class="tick" data-nav="news" role="button" tabindex="0" hidden><span class="tk-l">NUEVO</span><span class="tk-t" id="tk-t"></span><span class="tk-a">›</span></div>
+    <button type="button" id="stbar" class="stpill" aria-label="Stamina"><svg viewBox="0 0 24 24" width="16" height="16" fill="#ffd76a" stroke="#fff" stroke-width="1.2" stroke-linejoin="round" aria-hidden="true"><path d="M13 2 4 14h6l-1 8 9-12h-6z"/></svg><b>—</b></button>
+  </div>
   <div class="hm-wrap">
     <div class="hm-col">
       <div class="hm hm-big" data-go="chars">
@@ -349,7 +522,7 @@ body.bgm-on .screen{padding-bottom:84px}
         <div class="hm c-pur" data-go="discs"><img id="pt-discs" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Disc_Sword_Against_Stream.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><b>Discos<small id="n-discs"></small></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/><path d="M12 3a9 9 0 019 9"/></svg></div>
         <div class="hm c-teal" data-go="story"><img id="pt-story" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Disc_Eternal_Brilliance.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><b>Historia</b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5C6 4.5 9 4.5 12 6c3-1.5 6-1.5 8-.5V19c-2-1-5-1-8 .5-3-1.5-6-1.5-8-.5z"/><path d="M12 6v13.5"/></svg></div>
         <div class="hm c-pink" data-go="art"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Event_Celebration_Main_Story_Chapter_7.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><b>Arte<small>y CGs</small></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M4 18l5-5 4 4 3-3 4 4"/></svg></div>
-        <div class="hm c-gold" id="hm-builds" data-open="https://gray-smell-445.notion.site/795d71674a0c82fe849b01d5ce9e848d?v=40dd71674a0c809b8889000c4c6e757d&amp;source=copy_link"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/1st_Anniversary_Celebration_Illustration_7_EN.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><b>Equipos<small>y builds</small></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg></div>
+        <div class="hm c-gold" id="hm-builds" data-go="teams"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/1st_Anniversary_Celebration_Illustration_7_EN.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><b>Equipos<small>y builds</small></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg></div>
       </div></div>
     </div>
   </div>
@@ -358,8 +531,8 @@ body.bgm-on .screen{padding-bottom:84px}
 <div id="s-chars" class="screen">
   <div class="topbar"><button type="button" data-back>‹</button><h2>Personajes</h2></div>
   <main>
-    <input class="search" id="cs" type="search" placeholder="Buscar personaje..."/>
-    <div class="filters" id="cr"><button class="chip on" data-v="">Todos</button><button class="chip" data-v="5">5★</button><button class="chip" data-v="4">4★</button></div>
+    <div class="cs-row"><input class="search" id="cs" type="search" placeholder="Buscar personaje..."/><button type="button" class="cu-ic" id="cu-open" aria-label="Cumpleaños">🎂</button><button type="button" class="cu-ic vt-ic" data-vt="pj" aria-label="Ranking de la comunidad">👑</button></div>
+    <div class="filters" id="cr"><button class="chip on" data-v="">Todos</button><button class="chip" data-v="5">5★</button><button class="chip" data-v="4">4★</button><button class="chip" id="cmine">⭐ Mis personajes</button></div>
     <div class="filters" id="ce"><button class="chip" data-v="Aqua">Aqua</button><button class="chip" data-v="Ignis">Ignis</button><button class="chip" data-v="Lux">Lux</button><button class="chip" data-v="Terra">Terra</button><button class="chip" data-v="Umbra">Umbra</button><button class="chip" data-v="Ventus">Ventus</button></div>
     <div class="fmore-row"><button type="button" class="chip" id="cmore-btn" aria-expanded="false">Más filtros ▾</button></div>
     <div id="cmore" hidden>
@@ -375,7 +548,7 @@ body.bgm-on .screen{padding-bottom:84px}
 <div id="s-discs" class="screen">
   <div class="topbar"><button type="button" data-back>‹</button><h2>Discos</h2></div>
   <main>
-    <input class="search" id="ds" type="search" placeholder="Buscar disco..."/>
+    <div class="cs-row"><input class="search" id="ds" type="search" placeholder="Buscar disco..."/><button type="button" class="cu-ic vt-ic" data-vt="ds" aria-label="Ranking de la comunidad">👑</button></div>
     <div class="filters" id="dr"><button class="chip on" data-v="">Todos</button><button class="chip" data-v="5">5★</button><button class="chip" data-v="4">4★</button><button class="chip" data-v="3">3★</button></div>
     <div class="filters" id="de"><button class="chip" data-v="Aqua">Aqua</button><button class="chip" data-v="Ignis">Ignis</button><button class="chip" data-v="Lux">Lux</button><button class="chip" data-v="Terra">Terra</button><button class="chip" data-v="Umbra">Umbra</button><button class="chip" data-v="Ventus">Ventus</button><button class="chip" data-v="Neutral">Neutral</button></div>
     <div id="dlist"></div>
@@ -400,6 +573,11 @@ body.bgm-on .screen{padding-bottom:84px}
   </main>
 </div>
 
+<div id="s-cumples" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Cumpleaños</h2></div>
+  <main><div id="cu-root"></div></main>
+</div>
+
 <div id="s-news" class="screen">
   <div class="topbar"><button type="button" data-back>‹</button><h2>Novedades</h2></div>
   <main><div id="nlist"></div><p class="foot" id="nfoot"></p></main>
@@ -421,11 +599,12 @@ body.bgm-on .screen{padding-bottom:84px}
 <div id="s-story" class="screen">
   <div class="topbar"><button type="button" data-back>‹</button><h2>Historia</h2></div>
   <main>
+    <button type="button" class="bkbtn" data-go="marcadores"><span>🔖</span> Marcadores del lector</button>
     <div class="hm-subgrid">
-      <div class="hm hm-sub w c-pur" data-go="mainstory"><img id="pt-ms" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Ss-ms-cover.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Main Story</i><strong>Historia principal</strong></div></div>
-      <div class="hm hm-sub  c-pink" data-go="events"><img id="pt-ev" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Daring_Adventure!_The_Ghost_Ship_Haunts_the_Deep!_Banner.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Eventos importantes</i><strong>Eventos</strong></div></div>
+      <div class="hm hm-sub w c-pur" data-go="mainstory"><img id="pt-ms" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Ss-ms-cover.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Continúa tu viaje</i><strong>Historia principal</strong></div></div>
+      <div class="hm hm-sub  c-pink" data-go="events"><img id="pt-ev" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Daring_Adventure!_The_Ghost_Ship_Haunts_the_Deep!_Banner.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Ecos del pasado</i><strong>Eventos</strong></div></div>
       <div class="hm hm-sub  c-teal" data-go="novatimes"><img id="pt-nt" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Ss-nt-cover.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i id="n-nova">Historias</i><strong>Nova Times</strong></div></div>
-      <div class="hm hm-sub w c-gold" data-go="charstories"><img id="pt-cs" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Firstlight_Noya_Memory_Snapshot.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Affinity / Memory</i><strong>Historias de personajes</strong></div></div>
+      <div class="hm hm-sub w c-gold" data-go="charstories"><img id="pt-cs" class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Firstlight_Noya_Memory_Snapshot.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Recuerdos y afinidad</i><strong>Historias de personajes</strong></div></div>
     </div>
   </main>
 </div>
@@ -473,14 +652,53 @@ body.bgm-on .screen{padding-bottom:84px}
   <main><div id="charstory-detail"></div></main>
 </div>
 
+<div id="s-teams" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Armador de equipos</h2></div>
+  <main><div id="teams-root"></div></main>
+</div>
+
+<div id="s-heartlink" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Heartlink</h2></div>
+  <main><div id="hl-root"></div></main>
+</div>
+
+<div id="s-marcadores" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Marcadores del lector</h2></div>
+  <main><div id="bk-root"></div></main>
+</div>
+
+<div id="s-galeria" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Galería de arte</h2></div>
+  <main><div id="gal-root"></div></main>
+</div>
+
+<div id="s-ranking" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Ranking de equipos</h2></div>
+  <main><div id="rk-root"></div></main>
+</div>
+
+<div id="s-ajustes" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Ajustes</h2></div>
+  <main><div id="aj-root"></div></main>
+</div>
+
+<div id="s-stamina" class="screen">
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Stamina</h2></div>
+  <main><div id="stamina-root"></div></main>
+</div>
+
 <div id="s-builds" class="screen">
-  <div class="topbar"><button type="button" data-back>‹</button><h2>Equipos y builds</h2></div>
+  <div class="topbar"><button type="button" data-back>‹</button><h2>Builds de la comunidad</h2></div>
   <main>
+    <div class="fk-tabs" id="btabs"><button type="button" class="chip on" data-bt="cm">Comunidad</button><button type="button" class="chip" data-bt="nt">Guía completa</button></div>
+    <div id="cm-root"></div>
+    <div id="nt-old" style="display:none">
     <input class="search" id="bs" type="search" placeholder="Buscar build..."/>
     <div id="bfilters"></div>
     <div class="fcount"><span id="bcount"></span><button class="chip" id="bclear" hidden>Limpiar filtros</button></div>
     <div id="blist"></div>
     <a class="btn out" id="b-notion" href="#" target="_blank" rel="noopener">Ver en Notion</a>
+    </div>
   </main>
 </div>
 <div id="s-build" class="screen">
@@ -492,7 +710,7 @@ body.bgm-on .screen{padding-bottom:84px}
   <div class="topbar"><button type="button" data-back>‹</button><h2>Arte · CGs</h2></div>
   <main style="padding:12px 14px">
     <div class="hm-subgrid">
-      <div class="hm hm-sub w c-pink" data-open="https://stellasora.miraheze.org/wiki/CGs"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Story_main_01_005.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Main Story y eventos</i><strong>CGs de la historia</strong></div></div>
+      <div class="hm hm-sub w c-pink" data-go="galeria"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Story_main_01_005.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Main Story y eventos</i><strong>CGs de la historia</strong></div></div>
       <div class="hm hm-sub  c-teal" data-open="https://stellasora.miraheze.org/wiki/Stella_Sora/gallery"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/April_Fools_2026_CN.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Promos y material oficial</i><strong>Galería</strong></div></div>
       <div class="hm hm-sub  c-lav" data-open="https://stellasora.miraheze.org/wiki/Social_Media_Posts"><img class="bg" src="https://stellasora.miraheze.org/wiki/Special:FilePath/Amber%27s_Direction.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/><div class="hm-sh"></div><div class="hm-cn"><i>Publicaciones y arte</i><strong>Social Media</strong></div></div>
     </div>
@@ -505,15 +723,34 @@ body.bgm-on .screen{padding-bottom:84px}
 <script src="historias.js"></script>
 <script src="lector.js"></script>
 <script src="cambios.js"></script>
+<script src="fichas.js"></script>
+<script src="discos.js"></script>
+<script src="comunidad-config.js"></script>
+<script src="teams.js"></script>
+<script src="cumples.js"></script>
+<script src="votos-config.js"></script>
+<script src="votos.js"></script>
+<script src="cine.js"></script>
+<script src="stamina.js"></script>
+<script src="heartlink.js"></script>
+<script src="sonidos.js"></script>
+<script src="push-config.js"></script>
+<script src="ajustes.js"></script>
+<script src="recordatorios.js"></script>
+<script src="ranking.js"></script>
+<script src="galeria.js"></script>
+<script src="l2d.js"></script>
 <script>if(typeof CHARS==="undefined"){document.addEventListener("DOMContentLoaded",function(){document.body.innerHTML='<p style="padding:24px;color:#fff;font-family:sans-serif">Falta el archivo <b>data.js</b>: debe estar en la misma carpeta que index.html.</p>'})}</script>
 <script>
 
-let cR=null,cE=null,cQ="",dR=null,dE=null,dQ="",backTo="chars",cRole=null,cSt=null,cAt=null,cur="",depth=0,navFlag=false;
+let cR=null,cE=null,cQ="",dR=null,dE=null,dQ="",backTo="chars",cRole=null,cSt=null,cAt=null,cur="",depth=0,navFlag=false,cMine=false;
 const ROLE_ES={Vanguard:"Vanguardia",Support:"Apoyo",Versatile:"Versátil"};
+const ESTR_URL="https://raw.githubusercontent.com/AutumnVN/stelladb/main/public/";
+const estr=(n,h)=>(n>=3&&n<=5)?`<img class="stars" src="${ESTR_URL}${n}star.png" alt="${n}★" style="height:${h||14}px" loading="lazy" onerror="this.replaceWith(document.createTextNode('${n}★'))">`:n+"★";
 const norm=t=>String(t||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
 const esc=t=>String(t==null?"":t).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 try{localStorage.removeItem("ss_favs")}catch(e){}
-const PARENT={about:"",news:"",builds:"",build:"builds",chars:"",discs:"",banners:"",modes:"",story:"",art:"",mainstory:"story",chapter:"mainstory",event:"events",nova:"novatimes",events:"story",novatimes:"story",charstories:"story",charstory:"charstories"};
+const PARENT={marcadores:"story",galeria:"art",ranking:"teams",ajustes:"",stamina:"",heartlink:"",teams:"",about:"",news:"",builds:"teams",build:"builds",chars:"",cumples:"chars",discs:"",banners:"",modes:"",story:"",art:"",mainstory:"story",chapter:"mainstory",event:"events",nova:"novatimes",events:"story",novatimes:"story",charstories:"story",charstory:"charstories"};
 function nav(h){if(location.hash==="#"+h)return;navFlag=true;depth++;location.hash=h}
 function goBack(){if(depth>0){depth--;history.back();return}
   const p=cur==="detail"?backTo:(PARENT[cur]||"");location.replace("#"+p);}
@@ -547,10 +784,19 @@ function go(id){cur=id;document.body.classList.remove("home");
   el.classList.add("on");
   window.scrollTo(0,0);
   if(id==="news"&&window.nvSeen)window.nvSeen();
+  if(id==="teams"&&window.teamsShow)window.teamsShow();
+  if(id==="stamina"&&window.staminaShow)window.staminaShow();
+  if(id==="heartlink"&&window.hlShow)window.hlShow();
+  if(id==="ajustes"&&window.ajShow)window.ajShow();
+  if(id==="ranking"&&window.rankShow)window.rankShow();
+  if(id==="galeria"&&window.galShow)window.galShow();
+  if(id==="marcadores"&&window.bkShow)window.bkShow();
+  if(id==="cumples"&&window.cumplesShow)window.cumplesShow();
+  if(id==="builds"&&window.communityShow)window.communityShow();
 }
 
 document.body.addEventListener("click", function(e){
-  const tile = e.target.closest(".tile[data-go],.hm[data-go],.hm[data-open]");
+  const tile = e.target.closest(".tile[data-go],.hm[data-go],.hm[data-open],.gx[data-go],.gn[data-go],.ge[data-go],.bkbtn[data-go]");
   if(tile){
     tile.classList.add("flip");
     setTimeout(()=> tile.dataset.open ? window.open(tile.dataset.open,"_blank") : nav(tile.dataset.go), 280);
@@ -581,9 +827,10 @@ function rsHtml(t){
   }).join("");
 }
 /* Panel de 3 botones: Ver resumen / Leer en el lector / Ir a la wiki */
-const LECTOR={"ch:0":"STm00_01","ch:1":"STm01_01","ch:2":"STm02_01","ch:3":"STm03_00_a"};
+const LECTOR={"nt:1":"STsp_01_01","nt:2":"STsp_02_01","nt:3":"STsp_03_01","nt:4":"STsp_04_01","nt:5":"STsp_05_01","nt:6":"STsp_06_01","nt:7":"STsp_07_01","nt:8":"STsp_08_01","nt:9":"STsp_09_01","nt:10":"STsp_10_01","nt:11":"STsp_11_01","nt:12":"STsp_12_01","nt:13":"STsp_13_01","nt:14":"STsp_14_01","nt:15":"STsp_15_01","nt:16":"STsp_16_01","nt:17":"STsp_17_01","nt:18":"STsp_18_01","ch:0":"STm00_01","ch:1":"STm01_01","ch:2":"STm02_01","ch:3":"STm03_00_a","ch:4":"STm04_01","ch:5":"STm05_00","ch:6":"STm06_00","ch:6.5":"STm06x5_01","ch:7":"STm07_00","ch:8":"STm08_01","ch:9":"STm09_00_a","ev:radiant-messenger-holy-night-spirit":"STev_02_01","ev:crackling-hint-of-spring":"STev_03_01","ev:winter-requiem-and-the-trigger-of-dawn":"STev_04_01","ev:to-my-dearest-you":"STev_05_01","ev:framing-the-feelings-unseen":"STev_07_01","ev:heartbeat-neo-inspired-rhapsody":"STev_08_01","ev:daring-adventure-the-ghost-ship-haunts-t":"STev_01_01","ev:a-sandstorm-of-gunfire":"STev_09_01","ev:sunlit-breeze-azure-seas-checking-in-for":"STev_10_01","ev:surfing-splash-a-sparkling-holiday-adven":"STev_11_01","ev:go-my-lady-training-handbook-plus":"STev_12_01","ev:guild-sweet-guild":"STm03_00_a","ev:beyond-the-dream":"STm04_01","ev:miracle-of-a-flicker":"STm06_00","cs:Firstlight Noya":"CG_162_01","cs:Allie":"CG_139_01","cs:Eleanor":"CG_137_01","cs:Karin":"CG_157_01","cs:Suntide Willow":"CG_160_01","cs:Chaton":"CG_114_01","cs:Sparkla":"CG_140_01","cs:Firefly":"CG_115_01","cs:Otoha":"CG_145_01","cs:Donna":"CG_130_01","cs:Wraith":"CG_143_01","cs:Springseek Coronis":"CG_159_01","cs:Firenze":"CG_110_01","cs:Snowish Laru":"CG_158_01","cs:Nazuka":"CG_133_01","cs:Fuyuka":"CG_134_01","cs:Shia":"CG_155_01","cs:Chitose":"CG_144_01","cs:Freesia":"CG_125_01","cs:Chixia":"CG_141_01","cs:Minova":"CG_132_01","cs:Gerie":"CG_149_01","cs:Nazuna":"CG_156_01","cs:Mistique":"CG_135_01","cs:Nanoha":"CG_119_01","cs:Teresa":"CG_127_01","cs:Shimiao":"CG_113_01","cs:Iris":"CG_111_01","cs:Kasimira":"CG_108_01","cs:Flora":"CG_126_01","cs:Amber":"CG_103_01","cs:Jinglin":"CG_117_01","cs:Tilia":"CG_107_01","cs:Laru":"CG_150_01","cs:Ridge":"CG_116_01","cs:Cosette":"CG_142_01","cs:Coronis":"CG_118_01","cs:Caramel":"CG_147_01","cs:Noya":"CG_112_01","cs:Canace":"CG_120_01","cs:Ann":"CG_123_01"};
+(window.__meta||Promise.resolve()).then(m=>{if(m&&m.LECT)Object.assign(LECTOR,m.LECT)});
 function accionesHist(key,resHtml,wikiUrl,wikiTxt){
-  const L=LECTOR[key];
+  const L=LECTOR[key]||LECTOR[key.replace(/^nt:0/,"nt:")];
   return `<div class="acc3">
     <button type="button" class="btn" onclick="var p=document.getElementById('acc-res');p.hidden=!p.hidden;this.textContent=p.hidden?'📖 Ver resumen':'📖 Ocultar resumen'">📖 Ver resumen</button>
     ${L?`<button type="button" class="btn" onclick="abrirLector('${L}')">▶ Leer en el lector</button>`
@@ -622,12 +869,26 @@ function bannerStatus(b){
 function restante(ms){const m=Math.max(0,Math.floor(ms/6e4)),d=Math.floor(m/1440),h=Math.floor(m%1440/60),mi=m%60;
   return d>=1?d+" d "+h+" h":h>=1?h+" h "+mi+" min":mi+" min"}
 const fdCorta=x=>new Date(x).toLocaleDateString("es",{day:"numeric",month:"short"});
+function bannerRango(b){
+  if(b&&b.start&&b.end)return[new Date(b.start),new Date(b.end)];
+  const m=((typeof b==="string"?b:(b&&b.period))||"").match(/(\d{4}-\d\d-\d\d)\s*→\s*(\d{4}-\d\d-\d\d)/);
+  return m?[new Date(m[1]+"T00:00:00"),new Date(m[2]+"T23:59:59")]:null}
+function lineaBanners(){
+  const D=864e5,hoy=Date.now(),L=BANNERS.map(b=>({b,r:bannerRango(b)})).filter(x=>x.r&&x.r[1]>hoy-3*D).sort((x,y)=>x.r[0]-y.r[0]);
+  if(!L.length)return"";
+  const a=Math.min(hoy-D,...L.map(x=>+x.r[0])),z=Math.max(hoy+D,...L.map(x=>+x.r[1])),T=z-a,p=t=>((t-a)/T*100).toFixed(2);
+  const dd=x=>new Date(x).toLocaleDateString("es",{day:"numeric",month:"short"});
+  return `<div class="bl"><h3>Línea de tiempo</h3><div class="bl-ax"><span>${dd(a)}</span><span>${dd(z)}</span></div><div class="bl-b"><i class="bl-hoy" style="left:${p(hoy)}%"><em>Hoy</em></i>
+  ${L.map(({b,r})=>{const disc=/disco/i.test(b.kind||b.period||""),act=r[0]<=hoy&&r[1]>=hoy,d=Math.ceil((r[1]-hoy)/D);
+    return `<div class="bl-r"><div class="bl-t" style="left:${p(r[0])}%;width:${Math.max(4,p(r[1])-p(r[0]))}%" ><span class="bl-bar ${disc?"d":"p"}${act?" a":""}">${esc(b.name)}</span></div>
+    <small style="margin-left:${Math.min(60,+p(r[0]))}%">${act?"termina en "+d+" d":r[0]>hoy?"empieza "+dd(r[0]):"terminó"}</small></div>`}).join("")}</div>
+  <p class="bl-k"><b class="p"></b> Personajes <b class="d"></b> Discos · brillo = activo</p></div>`}
 function renderBanners(){
-  document.getElementById("banners").innerHTML = [...BANNERS].map(b=>({b,st:bannerStatus(b)})).sort((x,y)=>x.st.on-y.st.on).map(({b,st})=>{
+  document.getElementById("banners").innerHTML = lineaBanners()+[...BANNERS].map(b=>({b,st:bannerStatus(b)})).sort((x,y)=>x.st.on-y.st.on).map(({b,st})=>{
     const ch=[b.img||"",...(b.imgAlts||[])], per=b.start?fdCorta(b.start)+" → "+fdCorta(b.end)+" · "+b.kind:(b.period||"");
     return `
   <div class="mode-card" onclick="window.open('${b.url}','_blank')">
-    <img src="${ch[0]}" alt="${esc(b.name)}" data-alts='${JSON.stringify(ch.slice(1))}' loading="lazy" referrerpolicy="no-referrer" onerror="evErr(this)"/>
+    <img src="${th(ch[0])}" alt="${esc(b.name)}" data-alts='${JSON.stringify(ch)}' loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="evErr(this)"/>
     <div class="body"><h3>${esc(b.name)}</h3><p>${esc(per)}</p>${b.featured?`<p>Destacado: ${esc(b.featured)}</p>`:''}${st.t?`<div class="st${st.on===2?' off':''}">${st.on===2?'⛔':st.on?'🕒':'🟢'} ${st.t}</div>`:''}</div>
   </div>`}).join("");
 }
@@ -642,22 +903,23 @@ document.getElementById("modes-list").innerHTML = '<div class="hm-subgrid">'+MOD
     <div class="hm-cn"><strong>${esc(m.name)}</strong><i class="hm-d">${esc(m.desc)}</i></div>
   </div>`}).join("")+'</div>';
 
-function rChaps(){document.getElementById("chaps").innerHTML = CHAPS.map((c,i)=>{
-  const sp=/\.5$/.test(String(c.number)), col=sp?"c-gold":["c-pur","c-teal","c-pink","c-lav"][i%4];
-  return `<div class="hm hm-ch ${col}" data-go="ch/${c.number}">
-    <img class="bg" src="${c.img}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/>
-    <div class="hm-sh"></div>
-    <div class="hm-cn"><i>${String(c.number)==="0"?"Antes del capítulo 1":(sp?"Especial":"Capítulo")+" "+c.number}</i><strong>${c.titleEs}</strong></div>${c.nuevo?'<span class="hm-new">NUEVO</span>':""}
+function rChaps(){document.getElementById("chaps").className="gx-grid";document.getElementById("chaps").innerHTML = CHAPS.map((c,i)=>{
+  const sp=/\.5$/.test(String(c.number)),num=String(c.number),big=num==="0"?"✦":(sp?"★":(num.length<2?"0"+num:num));
+  return `<div class="gx" data-go="ch/${c.number}">
+    <img class="bg" src="${th(c.img,420)}" data-full="${c.img}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="thErr(this)"/>
+    <span class="gx-n">${big}</span>
+    <div class="gx-t"><small>${num==="0"?"Antes del capítulo 1":(sp?"Especial":"Capítulo")+" "+c.number}</small><b>${c.titleEs}</b></div>${c.nuevo?'<span class="hm-new">NUEVO</span>':""}
   </div>`}).join("");}rChaps();
 
+function th(u,w){return (/Special:FilePath\//.test(u)&&u.indexOf('?')<0)?u+'?width='+(w||480):u}   // miniatura de la wiki (mucho mas ligera) para listas
+function thErr(i,mode){const f=i.dataset.full;if(f&&i.src!==f){i.dataset.full='';i.src=f}else if(mode==='hide')i.style.visibility='hidden';else i.remove()}
 function evErr(i){const a=JSON.parse(i.dataset.alts||"[]");if(a.length){i.src=a.shift();i.dataset.alts=JSON.stringify(a)}else i.remove()}
 const evChain=e=>[...(e.alts||[]),e.img];
-function rEvents(){document.getElementById("events-list").innerHTML = EVENTS.map((e,i)=>{
-  const col=["c-pur","c-teal","c-pink","c-lav","c-gold"][i%5], ch=evChain(e);
-  return `<div class="hm hm-ch hm-ev ${col}" data-go="ev/${e.id}">
-    <img class="bg" src="${ch[0]}" alt="" data-alts='${JSON.stringify(ch.slice(1))}' loading="lazy" referrerpolicy="no-referrer" onerror="evErr(this)"/>
-    <div class="hm-sh"></div>
-    <div class="hm-cn"><strong>${esc(e.name)}</strong></div>${e.nuevo?'<span class="hm-new">NUEVO</span>':""}
+function rEvents(){document.getElementById("events-list").className="ge-list";document.getElementById("events-list").innerHTML = EVENTS.map((e,i)=>{
+  const ch=evChain(e);
+  return `<div class="ge" data-go="ev/${e.id}">
+    <div class="ge-i"><img src="${th(ch[0],640)}" alt="" data-alts='${JSON.stringify(ch)}' loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="evErr(this)"/></div>
+    <div class="ge-r"><span>${esc(e.nombre||e.name)}</span></div>${e.nuevo?'<span class="hm-new">NUEVO</span>':""}
   </div>`}).join("");}rEvents();
 function showEvent(id){
   const e=EVENTS.find(x=>x.id===id); if(!e){showStart();return}
@@ -665,7 +927,7 @@ function showEvent(id){
   const ch=evChain(e);
   document.getElementById("event-detail").innerHTML=`
     <img class="chap-img" src="${ch[0]}" alt="" data-alts='${JSON.stringify(ch.slice(1))}' referrerpolicy="no-referrer" onerror="evErr(this)"/>
-    <h2 style="font-size:1.25rem;margin:12px 0 8px">${esc(e.name)}</h2>
+    <h2 style="font-size:1.25rem;margin:12px 0 ${e.nombre?"2px":"8px"}">${esc(e.nombre||e.name)}</h2>${e.nombre?`<div style="font-size:.78rem;color:var(--t2);margin-bottom:8px">Título original: ${esc(e.name)}</div>`:""}
     ${e.trekker?`<div class="chips"><span class="chip on">Trekker destacada: ${esc(e.trekker)}</span></div>`:""}`+
     accionesHist("ev:"+e.id,`<div class="card"><div class="spoil">⚠ Contiene spoilers</div>
       ${e.resumen?e.resumen.split("\n\n").map(t=>`<p style="margin-bottom:10px;line-height:1.55">${esc(t)}</p>`).join(""):`<p style="line-height:1.55">Todavía no hay resumen en español de este evento. Muy pronto lo agregamos.</p>`}
@@ -674,19 +936,17 @@ function showEvent(id){
   go("event");
 }
 
-function rNova(){document.getElementById("novatimes-list").innerHTML = NOVA_TIMES.map((n,i)=>{
-  const col=["c-teal","c-pur","c-pink","c-lav","c-gold"][i%5];
-  return `<div class="hm hm-ch hm-ev ${col}" data-go="nt/${n.id}">
-    <img class="bg" src="${n.img}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"/>
-    <div class="hm-sh"></div>
-    <div class="hm-cn"><i>Nova Times #${n.number}</i><strong>${esc(n.name)}</strong></div>${n.nuevo?'<span class="hm-new">NUEVO</span>':""}
+function rNova(){document.getElementById("novatimes-list").className="gx-grid";document.getElementById("novatimes-list").innerHTML = NOVA_TIMES.map((n,i)=>{
+  return `<div class="gn" data-go="nt/${n.id}">
+    <div class="gn-f"><img src="${th(n.img,420)}" data-full="${n.img}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="thErr(this,'hide')"/><span class="gn-tag">#${n.number}</span></div>
+    <div class="gn-t">${esc(n.nombre||n.name)}</div>${n.nuevo?'<span class="hm-new">NUEVO</span>':""}
   </div>`}).join("");}rNova();
 function showNova(id){
   const n=NOVA_TIMES.find(x=>x.id===id); if(!n){showStart();return}
   document.getElementById("nt-title").textContent="Nova Times #"+n.number;
   document.getElementById("nova-detail").innerHTML=`
     <img class="chap-img" src="${n.img}" alt="" referrerpolicy="no-referrer" onerror="this.remove()"/>
-    <h2 style="font-size:1.25rem;margin:12px 0 8px">${esc(n.name)}</h2>`+
+    <h2 style="font-size:1.25rem;margin:12px 0 ${n.nombre?"2px":"8px"}">${esc(n.nombre||n.name)}</h2>${n.nombre?`<div style="font-size:.78rem;color:var(--t2);margin-bottom:8px">Título original: ${esc(n.name)}</div>`:""}`+
     accionesHist("nt:"+n.id,`<div class="card">
       ${n.resumen?`<div class="spoil">⚠ Contiene spoilers</div>`+n.resumen.split("\n\n").map(t=>`<p style="margin-bottom:10px;line-height:1.55">${esc(t)}</p>`).join("")
         :`<p style="margin-bottom:10px;line-height:1.55">Todavía no hay un resumen de esta historia en la app.</p>`}
@@ -699,7 +959,7 @@ function showNova(id){
 function rCS(){document.getElementById("charstories-list").innerHTML = CHAR_STORIES.map(c=>`
   <div class="item" data-cs="${esc(c.name)}" style="cursor:pointer">
     ${av(c.img)}
-    <div class="info"><h3>${c.name}</h3><div class="m">Historia / Affinity${c.nuevo?" · <b style='color:var(--gold)'>NUEVO</b>":""}</div></div>
+    <div class="info"><h3>${c.name}</h3><div class="m">Historia de afinidad${c.nuevo?" · <b style='color:var(--gold)'>NUEVO</b>":""}</div></div>
   </div>`).join("");}rCS();
 
 
@@ -707,7 +967,7 @@ function showCS(name){
   const c=CHAR_STORIES.find(x=>x.name===name); if(!c){showStart();return}
   document.getElementById("cs-title").textContent="Historia de personaje";
   document.getElementById("charstory-detail").innerHTML=`
-    <img class="chap-img" src="${c.img}" alt="" referrerpolicy="no-referrer" onerror="this.remove()"/>
+    <div class="cs-fr"><img class="cs-img" src="${c.img}" alt="" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"/><span class="cs-tag">✦ Historia</span></div>
     <h2 style="font-size:1.25rem;margin:12px 0 8px">${esc(c.name)}</h2>`+
     accionesHist("cs:"+c.name,`<div class="card"><div class="spoil">⚠ Contiene spoilers</div><p style="line-height:1.55">Todavía no hay resumen en español de esta historia. Muy pronto lo agregamos.</p></div>`,c.url,"🌐 Ver en la wiki");
   go("charstory");
@@ -719,33 +979,40 @@ function elIcon(el){
   return `<img src="${url}" alt="${el}" style="width:18px;height:18px;vertical-align:middle;margin-right:4px" referrerpolicy="no-referrer" onerror="this.style.display='none'">`;
 }
 
+let PORT=null;
+const portC=c=>(PORT&&PORT[c.name])||c.imageUrl;
+fetch("presets.json").then(r=>r.ok?r.json():null).then(P=>{if(!P)return;PORT={};for(const i in P)PORT[P[i].n]="https://raw.githubusercontent.com/AutumnVN/ssassets/main/export/assets/assetbundles/icon/head/head_"+i+"01_XL.webp";if(typeof renderC==="function")renderC()}).catch(()=>{});
+const MIO=new Set();
+function ownOn(n){try{return JSON.parse(localStorage.getItem("ssv_mine")||"[]").includes(n)}catch(e){return false}}
+document.addEventListener("click",ev=>{const b=ev.target.closest&&ev.target.closest(".own-btn");if(!b)return;
+  let S=[];try{S=JSON.parse(localStorage.getItem("ssv_mine")||"[]")}catch(e){}
+  const n=b.dataset.own,i=S.indexOf(n);i>=0?S.splice(i,1):S.push(n);try{localStorage.setItem("ssv_mine",JSON.stringify(S))}catch(e){}
+  const on=i<0;b.classList.toggle("on",on);b.textContent=on?"⭐ En mis personajes":"☆ Agregar a mis personajes"});
+function cargaMio(){MIO.clear();try{JSON.parse(localStorage.getItem("ssv_mine")||"[]").forEach(n=>MIO.add(n))}catch(e){}}
 function renderC(){
+  cargaMio();
   const list=CHARS.filter(c=>{
     const q=norm(cQ);
     return(!q||norm(c.name+' '+(c.faction||'')+' '+(c.role||'')+' '+(ROLE_ES[c.role]||'')+' '+c.element).includes(q))
-      &&(cR===null||c.rarity===cR)&&(!cE||c.element===cE)&&(!cRole||c.role===cRole)&&(!cSt||c.style===cSt)&&(!cAt||(c.auto&&c.auto.attack===cAt));
+      &&(cR===null||c.rarity===cR)&&(!cE||c.element===cE)&&(!cRole||c.role===cRole)&&(!cSt||c.style===cSt)&&(!cAt||(c.auto&&c.auto.attack===cAt))&&(!cMine||MIO.has(c.name));
   }).sort((a,b)=>b.rarity-a.rarity||a.name.localeCompare(b.name));
   buildStyleChips();
   {const n=(cRole?1:0)+(cAt?1:0)+(cSt?1:0),mb=document.getElementById("cmore-btn"),op=!document.getElementById("cmore").hidden;
    mb.textContent="Más filtros"+(n?" ("+n+")":"")+(op?" ▴":" ▾");mb.classList.toggle("on",n>0)}
-  const hay=cQ||cR!==null||cE||cRole||cSt||cAt;
+  const hay=cQ||cR!==null||cE||cRole||cSt||cAt||cMine;
   document.getElementById('ccount').textContent=list.length+(list.length===1?' personaje':' personajes')+(hay?' encontrados':'');
   document.getElementById('cclear').hidden=!hay;
-  document.getElementById("clist").innerHTML = '<div class="item-grid">' + list.map(c=>`
-    <div class="item-tile r${c.rarity}" data-el="${c.element}" data-id="${c.id}">
-      <img loading="lazy" alt="" src="${c.imageUrl}" referrerpolicy="no-referrer" onerror="this.style.display='none'">
-      <div class="shade"></div>
-      <div class="lab">${c.name}<small><span class="star">${c.rarity}★</span> · ${elIcon(c.element)}${c.element} · ${ROLE_ES[c.role]||c.role||""}</small></div>
+  document.getElementById("clist").innerHTML = '<div class="gc-grid">' + list.map(c=>`
+    <div class="gc r${c.rarity}" data-el="${c.element}" data-id="${c.id}">
+      <img class="gc-i" loading="lazy" decoding="async" alt="" src="${portC(c)}" referrerpolicy="no-referrer" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${c.imageUrl}'}else this.style.display='none'">
+      <span class="gc-el">${elIcon(c.element)}</span>${c.role?`<span class="gc-role ${c.role}">${ROLE_ES[c.role]||c.role}</span>`:""}
+      <div class="gc-nm"><small>${estr(c.rarity,11)}</small>${c.name}</div>
     </div>`).join("") + '</div>';
-  document.querySelectorAll("#clist .item-tile").forEach(el=>{
-    el.onclick=()=>{
-      el.classList.add("flip");
-      setTimeout(()=>nav('c/'+el.dataset.id), 260);
-      setTimeout(()=>el.classList.remove("flip"), 650);
-    };
+  document.querySelectorAll("#clist .gc").forEach(el=>{
+    el.onclick=ev=>{
+      nav('c/'+el.dataset.id) };
   });
 }
-
 function bdayEs(b){
   if(!b)return "—";
   const M={January:"enero",February:"febrero",March:"marzo",April:"abril",May:"mayo",June:"junio",July:"julio",August:"agosto",September:"septiembre",October:"octubre",November:"noviembre",December:"diciembre"};
@@ -761,23 +1028,25 @@ function showD(wikiUrl){
   const nmf=d.name.replace(/ /g,"_");
   const arts=[...new Set(["https://stellasora.miraheze.org/wiki/Special:FilePath/"+encodeURIComponent("Disc_"+nmf)+".png",...(d.imageAlts||[]),d.imageUrl].filter(Boolean))];
   document.getElementById("det").innerHTML = `
-    <div style="text-align:center">
-      <img class="disc-art" src="${arts[0]}" data-q="${arts.slice(1).join(",")}" data-full="${arts.join(",")}" alt="${esc(d.name)}" referrerpolicy="no-referrer" onerror="skFb(this)" onclick="openLB(this.dataset.full.split(','))">
+    <div style="text-align:center;position:relative">
+      <a class="wikiico" href="${d.wikiUrl}" target="_blank" rel="noopener" aria-label="Ver en la wiki" title="Ver en la wiki"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg></a>
+      <img class="disc-art" src="${d.imageUrl||arts[0]}" data-q="${arts.filter(u=>u!==(d.imageUrl||arts[0])).join(",")}" data-full="${arts.join(",")}" alt="${esc(d.name)}" referrerpolicy="no-referrer" onerror="skFb(this)" onclick="openLB(this.dataset.full.split(','))">
       <p class="nota-en" style="text-align:center;margin:6px 0 0">Toca la imagen para verla completa</p>
-      <div class="badge b${d.rarity} rbig" style="margin:12px 0 6px">${d.rarity}★</div>
+      <div class="badge b${d.rarity} rbig" style="margin:12px 0 6px">${estr(d.rarity,22)}</div>
       <h2 style="font-size:1.35rem">${esc(d.name)}</h2>
     </div>
-    <div class="chips"><span class="chip on">${elIcon(d.element)}${d.element}</span><span class="chip on">Disco</span></div>
-    <button type="button" class="btn" id="dmore-btn">Ver más</button>
-    <div class="dmore" id="dmore" hidden></div>
-    <div class="card" style="margin-top:12px"><p>Los efectos (Melody y Harmony Skill) y sus valores por nivel están en la wiki.</p></div>
-    <a class="btn out" href="${d.wikiUrl}" target="_blank" rel="noopener">Ver en la wiki</a>`;
-  const btn=document.getElementById("dmore-btn"),box=document.getElementById("dmore");
-  btn.onclick=async()=>{
-    if(!box.hidden){box.hidden=true;btn.textContent="Ver más";return}
-    btn.textContent="Cargando…";
-    const E=await cargarExtras(); box.innerHTML=discExtraHtml(d,E); box.hidden=false; btn.textContent="Ver menos";
-  };
+    <div class="chips"><span class="chip on" data-el="${d.element}">${elIcon(d.element)}${d.element}</span><span class="chip on">Disco</span></div>
+    <div id="l2d-box"></div>
+    <div id="disco-box" class="ficha"></div>
+    <div class="dmore" id="dmore" hidden></div>`;
+  const box=document.getElementById("dmore");
+  box.innerHTML='<p class="nota-en">Cargando…</p>'; box.hidden=false;
+  box.id="dficha-tab";
+  /* muestra al instante la imagen de la lista (ya en cache) y cambia al arte completo cuando termine de cargar */
+  if(d.imageUrl&&arts[0]!==d.imageUrl){const im=document.querySelector("#det .disc-art"),big=new Image();big.referrerPolicy="no-referrer";big.onload=()=>{if(im&&im.isConnected)im.src=big.src};big.src=arts[0]}
+  cargarExtras().then(E=>{box.innerHTML=discExtraHtml(d,E)}).catch(()=>{box.innerHTML='<p class="nota-en">No se pudo cargar el detalle.</p>'});
+  window.discoCargar&&discoCargar(d);
+  window.l2dInit&&l2dInit(d,"d");
   go("detail");
 }
 
@@ -810,19 +1079,22 @@ function showC(id){
   const sks=Object.keys(SK).filter(k=>sk[k]).map(k=>`<div class="kv"><b>${SK[k]}</b><span>${esc(sk[k])}</span></div>`).join("");
   document.getElementById("det").innerHTML=`
     <div class="hero r${c.rarity}" style="--heroimg:url('${c.imageUrl}')">
+    <a class="wikiico" href="${c.wikiUrl}" target="_blank" rel="noopener" aria-label="Ver en la wiki" title="Ver en la wiki"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg></a>
     <div class="char-header">
       <img class="detail-av" src="${c.imageUrl}" alt="${esc(c.name)}" referrerpolicy="no-referrer" onerror="this.style.display='none'">
       <div class="info">
-        <div class="badge b${c.rarity} rbig">${c.rarity}★</div>
+        <div class="badge b${c.rarity} rbig">${estr(c.rarity,22)}</div>
         <h2>${esc(c.name)}</h2>
+        <button type="button" class="own-btn${ownOn(c.name)?" on":""}" data-own="${esc(c.name)}">${ownOn(c.name)?"⭐ En mis personajes":"☆ Agregar a mis personajes"}</button>
       </div>
     </div></div>
     <div class="chips">
-      <span class="chip on">${elIcon(c.element)}${c.element}</span>
+      <span class="chip on" data-el="${c.element}">${elIcon(c.element)}${c.element}</span>
       ${c.role?`<span class="chip on">${esc(ROLE_ES[c.role]||c.role)}</span>`:''}
       ${c.style?`<span class="chip on">${esc(tr(c.style))}</span>`:''}${c.faction?`<span class="chip on">${esc(tr(c.faction))}</span>`:''}${atkChip}
     </div>
-    <a class="btn wikibtn" href="${c.wikiUrl}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/><path d="M9 8h6M9 12h4"/></svg>Ver en la wiki<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
+    <div id="ficha-box" class="ficha"></div>
+    <div id="perfil-box">
     <div class="stats">
       <div class="stat"><b>${esc(c.hp||'—')}</b><span>HP</span></div>
       <div class="stat"><b>${esc(c.atk||'—')}</b><span>ATK</span></div>
@@ -834,13 +1106,17 @@ function showC(id){
     ${(kv||kv2)?`<div class="card"><h3 style="margin:0 0 6px;font-size:1rem">Ficha</h3>${kv}${kv2}</div>`:''}
     ${skCard}
     <div id="skins-box"></div>
+    <div id="l2d-box"></div>
     <div class="skin3d" id="skin3d"></div>
     <div class="model-wrap">
       <div id="mv3d"></div>
       <p class="hint" id="mv-status">Cargando modelo 3D…</p>
+      <div class="skin3d" id="q3d-bar" aria-label="Calidad del modelo 3D"><span class="hint" style="margin:0 4px 0 0;align-self:center">Calidad:</span></div>
       <div class="anim-bar" id="anim-bar"></div>
-    </div>`;
+    </div></div>`;
   go("detail");
+  window.fichaCargar&&fichaCargar(c);
+  window.l2dInit&&l2dInit(c);
   Promise.all([cargarExtras(),cargarModelIdx()]).then(([E,idx])=>{
     const b=document.getElementById("skins-box"); if(!b||cur!=="detail")return;
     b.innerHTML=skinsHtml(c,E,idx); skin3dBar(c,idx);
@@ -849,13 +1125,24 @@ function showC(id){
       loadModelEntry(e,folder); const t=document.getElementById("mv3d"); t&&t.scrollIntoView({behavior:"smooth",block:"center"});
     });
   });
-  setTimeout(()=>window.loadTrekkerModel&&window.loadTrekkerModel(glb,animsJson,folder),50);
+  {
+    const auto=(()=>{try{return localStorage.getItem("ssv_auto3d")==="1"}catch(e){return false}})();
+    const qb=document.getElementById("q3d-bar"),qv=(()=>{try{return localStorage.getItem("ssv_q3d")||"auto"}catch(e){return"auto"}})();
+    if(qb){qb.insertAdjacentHTML("beforeend",[["auto","Auto"],["bajo","Baja"],["medio","Media"],["alto","Alta"]].map(([k,t])=>`<button type="button" class="chip${qv===k?" on":""}" data-q="${k}">${t}</button>`).join(""));
+      qb.querySelectorAll("[data-q]").forEach(b=>b.onclick=()=>{try{localStorage.setItem("ssv_q3d",b.dataset.q)}catch(e){}qb.querySelectorAll("[data-q]").forEach(x=>x.classList.toggle("on",x===b));if(window.__3dListo)window.recargar3d&&window.recargar3d()})}
+    if(auto){window.__3dListo=1;setTimeout(()=>window.loadTrekkerModel&&window.loadTrekkerModel(glb,animsJson,folder),50)}
+    else{window.__3dListo=0;const h=document.getElementById("mv3d"),sx=document.getElementById("mv-status");
+      if(h)h.innerHTML='<div style="height:100%;display:flex;align-items:center;justify-content:center"><button type="button" class="btn" id="mv-go" style="width:auto;margin:0;padding:12px 22px">▶ Cargar modelo 3D</button></div>';
+      if(sx)sx.textContent="Toca el botón para cargar el modelo (ahorra datos y batería).";
+      const go=document.getElementById("mv-go");if(go)go.onclick=()=>{window.__3dListo=1;window.loadTrekkerModel&&window.loadTrekkerModel(glb,animsJson,folder)}}
+  }
 }
 
 document.getElementById("cs").oninput=e=>{cQ=e.target.value;renderC()};
-document.querySelectorAll("#cr .chip").forEach(ch=>{
+document.getElementById("cmine").onclick=function(){cMine=!cMine;this.classList.toggle("on",cMine);renderC()};
+document.querySelectorAll("#cr .chip:not(#cmine)").forEach(ch=>{
   ch.onclick=()=>{
-    document.querySelectorAll("#cr .chip").forEach(x=>x.classList.remove("on"));
+    document.querySelectorAll("#cr .chip:not(#cmine)").forEach(x=>x.classList.remove("on"));
     ch.classList.add("on");
     cR=ch.dataset.v?parseInt(ch.dataset.v):null;
     renderC();
@@ -885,18 +1172,14 @@ function renderD(){
     return(!q||norm(d.name+' '+d.element).includes(q))
       &&(dR===null||d.rarity===dR)&&(!dE||d.element===dE);
   }).sort((a,b)=>b.rarity-a.rarity||a.name.localeCompare(b.name));
-  document.getElementById("dlist").innerHTML = '<div class="item-grid">' + list.map(d=>`
-    <div class="item-tile r${d.rarity}" data-el="${d.element}" data-url="${d.wikiUrl}">
-      <img loading="lazy" alt="" src="${d.imageUrl}" data-alts='${JSON.stringify(d.imageAlts||[])}' referrerpolicy="no-referrer" onerror="evErr(this)">
-      <div class="shade"></div>
-      <div class="lab">${d.name}<small><span class="star">${d.rarity}★</span> · ${elIcon(d.element)}${d.element}</small></div>
+  document.getElementById("dlist").innerHTML = '<div class="gd-grid">' + list.map(d=>`
+    <div class="gd r${d.rarity}" data-el="${d.element}" data-url="${d.wikiUrl}">
+      <div class="gd-a"><img class="gd-i" loading="lazy" decoding="async" alt="" src="${d.imageUrl}" data-alts='${JSON.stringify(d.imageAlts||[])}' referrerpolicy="no-referrer" onerror="evErr(this)">
+      <span class="gc-el">${elIcon(d.element)}</span><span class="gd-s">${estr(d.rarity,11)}</span></div>
+      <div class="gd-n">${d.name}</div>
     </div>`).join("") + '</div>';
-  document.querySelectorAll("#dlist .item-tile").forEach(el=>{
-    el.onclick=()=>{
-      el.classList.add("flip");
-      setTimeout(()=>{ const d=DISCS.find(x=>x.wikiUrl===el.dataset.url); d?nav('d/'+d.name):window.open(el.dataset.url,'_blank'); }, 260);
-      setTimeout(()=>el.classList.remove("flip"), 650);
-    };
+  document.querySelectorAll("#dlist .gd").forEach(el=>{
+    el.onclick=()=>{ const d=DISCS.find(x=>x.wikiUrl===el.dataset.url); d?nav('d/'+d.name):window.open(el.dataset.url,'_blank'); };
   });
 }
 document.getElementById("ds").oninput=e=>{dQ=e.target.value;renderD()};
@@ -935,7 +1218,7 @@ document.querySelectorAll("#cat .chip").forEach(ch=>{ch.onclick=()=>{
 document.getElementById("cmore-btn").onclick=()=>{const b=document.getElementById("cmore");b.hidden=!b.hidden;
   document.getElementById("cmore-btn").setAttribute("aria-expanded",String(!b.hidden));renderC()};
 document.getElementById("cclear").onclick=()=>{
-  cQ="";cR=null;cE=null;cRole=null;cSt=null;cAt=null;document.getElementById("cs").value="";
+  cQ="";cR=null;cE=null;cRole=null;cSt=null;cAt=null;cMine=false;document.getElementById("cmine").classList.remove("on");document.getElementById("cs").value="";
   document.querySelectorAll("#cr .chip,#ce .chip,#cro .chip,#cat .chip,#cst .chip").forEach(x=>x.classList.remove("on"));
   const t=document.querySelector('#cr .chip[data-v=""]');if(t)t.classList.add("on");renderC();};
 // vibracion ligera al tocar (Android)
@@ -1103,8 +1386,7 @@ async function cargarBuilds(){
     const r=await fetch("builds.json",{cache:"no-cache"}); if(!r.ok)return;
     const B=await r.json(); if(!B.items||!B.items.length)return;
     BUILDS=B;
-    const t=document.getElementById("hm-builds"); if(t){t.removeAttribute("data-open");t.dataset.go="builds"}
-    document.getElementById("b-notion").href=B.url||"#";
+        document.getElementById("b-notion").href=B.url||"#";
     renderBuilds();
     if(/^#b\//.test(location.hash))route();
   }catch(e){}
@@ -1140,6 +1422,9 @@ function renderBuilds(){
       <div class="bt">${icH}<div class="info"><h3>${esc(it.title.trim())}</h3>${tg.length?`<div class="tags">${tg.map(x=>`<span class="tagc">${esc(x)}</span>`).join("")}</div>`:""}</div></div></div>`}).join("")||'<div class="card"><p>No hay builds con esos filtros.</p></div>';
   document.querySelectorAll("#blist .bcard").forEach(el=>{el.onclick=()=>nav("b/"+el.dataset.b)});
 }
+document.getElementById("btabs").onclick=e=>{const b=e.target.closest("[data-bt]");if(!b)return;const nt=b.dataset.bt==="nt";
+  document.querySelectorAll("#btabs button").forEach(x=>x.classList.toggle("on",x===b));
+  document.getElementById("cm-root").style.display=nt?"none":"";document.getElementById("nt-old").style.display=nt?"":"none"};
 document.getElementById("bs").oninput=e=>{bQ=e.target.value;renderBuilds()};
 document.getElementById("bclear").onclick=()=>{bQ="";bF={};document.getElementById("bs").value="";document.getElementById("bfilters").dataset.k="";renderBuilds()};
 function showBuild(id){
@@ -1246,10 +1531,47 @@ function nvTicker(){
   let k=0; t.textContent=un[0].titulo;
   if(un.length>1) nvTimer=setInterval(()=>{k=(k+1)%un.length;t.classList.add("out");setTimeout(()=>{t.textContent=un[k].titulo;t.classList.remove("out")},350)},4000);
 }
-const nvIcon={personaje:"★",disco:"◎",banner:"✦",build:"⚔",app:"✦"};
+function dcFix(x){
+  if(x.tipo!=="discord")return x;
+  if(x.titulo_es&&!x._tr){x._tr=1;x.titulo=x.titulo_es;x.texto=x.texto_es||""}
+  const un=t=>String(t||"").replace(/\\([\\`*_{}\[\]()#+\-.!~|>])/g,"$1");
+  let t=un(x.titulo).trim(),tx=un(x.texto);
+  const isU=s=>/^https?:\/\/\S+$/.test(s.trim());
+  const L=tx.split("\n").map(s=>s.trim()).filter(s=>s&&!isU(s));
+  if(isU(t)){x.url=x.url||t;t=L.shift()||(/(x|twitter|fixupx|fxtwitter|vxtwitter)\.com/.test(t)?"Publicación en X":"Anuncio de Stella Sora")}
+  if(t.length>110)t=t.slice(0,107)+"…";
+  x.titulo=t;x.texto=L.join("\n");return x}
+function dcOverlay(x){
+  if(!window.ssvOverlay)return;
+  const m=String(x.url||"").match(/(?:x|twitter|fixupx|fxtwitter|vxtwitter)\.com\/([^/]+)\/status\/(\d+)/),ok=/^https:\/\//.test(x.url||"");
+  const fb=`${x.img?`<img class="ovi" src="${esc(x.img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:""}${x.texto?`<p class="ovp">${esc(x.texto)}</p>`:""}`;
+  const o=window.ssvOverlay(`<div class="ovh"><span class="ntype t-discord">${m?"Publicación":"Anuncio"}</span><button class="ovx" data-ovx aria-label="Cerrar">✕</button></div>
+   ${m?`<div class="ovd">${nvFecha(x.fecha)}</div>${x._tr?`<div class="xp-es"><small>Traducción automática</small><p>${esc(x.titulo)}${x.texto?"\n"+esc(x.texto):""}</p></div>`:""}<div class="ovemb"><p class="nota">Cargando publicación…</p></div>`:`<h2 class="ovt">${esc(x.titulo)}</h2><div class="ovd">${nvFecha(x.fecha)}</div>${fb}`}
+   ${ok?`<a class="btn out ovx-btn" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${m?"Ver la publicación en X":"Abrir enlace"}</a>`:""}`);
+  if(!m)return;
+  const box=o.querySelector(".ovemb");
+  const iframe=()=>{box.innerHTML=`<iframe src="https://platform.twitter.com/embed/Tweet.html?id=${m[2]}&theme=dark&lang=es&dnt=true" loading="lazy" referrerpolicy="no-referrer" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" style="height:640px"></iframe>`;
+    const f=box.querySelector("iframe");let ld=false;f.onload=()=>{ld=true};setTimeout(()=>{if(!ld)box.innerHTML=`<h2 class="ovt">${esc(x.titulo)}</h2>${fb}`},9000)};
+  const ac=new AbortController(),t=setTimeout(()=>ac.abort(),6000);
+  fetch("https://api.fxtwitter.com/"+m[1]+"/status/"+m[2],{signal:ac.signal}).then(r=>r.ok?r.json():Promise.reject()).then(d=>{
+    clearTimeout(t);const w=d&&d.tweet;if(!w)throw 0;
+    const au=w.author||{},ph=(w.media&&w.media.photos)||[],vd=(w.media&&w.media.videos)||[];
+    box.innerHTML=`<div class="xp"><div class="xp-h">${au.avatar_url?`<img src="${esc(au.avatar_url)}" alt="" referrerpolicy="no-referrer">`:""}<div><b>${esc(au.name||m[1])}</b><span>@${esc(au.screen_name||m[1])}</span></div></div>
+     <p class="xp-t">${esc(w.text||x.texto||"")}</p>
+     ${ph.map(p=>`<img class="xp-m" src="${esc(p.url)}" alt="" loading="lazy" referrerpolicy="no-referrer">`).join("")}
+     ${vd.map(v=>{const q=(v.variants||[]).filter(z=>/mp4/.test((z.content_type||"")+(z.url||""))).sort((a,b)=>(a.bitrate||0)-(b.bitrate||0)),u=q.length?q[Math.floor((q.length-1)/2)].url:v.url;
+       return `<video class="xp-m" controls playsinline webkit-playsinline preload="none" referrerpolicy="no-referrer" ${v.thumbnail_url?`poster="${esc(v.thumbnail_url)}"`:""} src="${esc(u)}"></video>`}).join("")}
+     ${w.created_at?`<div class="xp-d">${esc(new Date(w.created_at).toLocaleString("es",{dateStyle:"medium",timeStyle:"short"}))}</div>`:""}</div>`;
+    box.querySelectorAll("video").forEach(v=>{let u=0;const fb=()=>{if(u++)return;iframe()};v.addEventListener("error",fb);
+      v.addEventListener("play",()=>{clearTimeout(v._w);v._w=setTimeout(()=>{if(v.readyState<3)fb()},9000)});v.addEventListener("playing",()=>clearTimeout(v._w))})
+  }).catch(()=>{clearTimeout(t);iframe()});
+}
+const nvIcon={personaje:"★",disco:"◎",banner:"✦",build:"⚔",app:"✦",discord:"💬",cumple:"🎂"};
 const nvFecha=f=>{try{return new Date(f).toLocaleDateString("es",{day:"numeric",month:"short"})}catch(e){return ""}};
 function nvGo(x,el){
   if(x.tipo==="app"){const b=el&&el.querySelector(".nbul");if(b)b.hidden=!b.hidden;return}
+  if(x.tipo==="discord"){dcOverlay(x);return}
+  if(x.tipo==="cumple"){const c=CHARS.find(c=>c.id===x.ref);if(c&&window.cumplesOv){const a=(x.bd||"1-1").split("-").map(Number);window.cumplesOv(c,a[0],a[1])}return}
   if(x.tipo==="personaje"){const c=CHARS.find(c=>c.name===x.ref);nav(c?"c/"+c.id:"chars")}
   else if(x.tipo==="disco")nav(DISCS.find(d=>d.name===x.ref)?"d/"+x.ref:"discs");
   else if(x.tipo==="build")nav(BUILDS&&BUILDS.items.some(b=>b.id===x.ref)?"b/"+x.ref:"builds");
@@ -1260,7 +1582,7 @@ function nvRender(){
   const un=new Set(nvUnread().map(x=>x.id));
   box.innerHTML=NV.map((x,i)=>`<div class="ncard${un.has(x.id)?" nu":""}" data-i="${i}">
     ${x.img?`<img class="nimg" src="${esc(x.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=nimg>${nvIcon[x.tipo]||"✦"}</div>'">`:`<div class="nimg">${nvIcon[x.tipo]||"✦"}</div>`}
-    <div><span class="ntype t-${x.tipo}">${({personaje:"Personaje",disco:"Disco",banner:"Banner",build:"Build",app:"App"})[x.tipo]||x.tipo}</span><h3>${esc(x.titulo)}</h3>${x.texto?`<p>${esc(x.texto)}</p>`:""}${x.puntos?`<p class="nmore">Toca para ver los cambios</p><ul class="nbul" hidden>${x.puntos.map(t=>`<li>${esc(t)}</li>`).join("")}</ul>`:""}</div>
+    <div><span class="ntype t-${x.tipo}">${({personaje:"Personaje",disco:"Disco",banner:"Banner",build:"Build",app:"App",discord:"Anuncio",cumple:"Cumpleaños"})[x.tipo]||x.tipo}</span><h3>${esc(x.titulo)}</h3>${x.texto?(x.tipo==="discord"?`<p class="dtx">${esc(x.texto)}</p>`:`<p>${esc(x.texto)}</p>`):""}${x.tipo==="discord"?`<span class="dlk">Toca para ver ›</span>`:""}${x.puntos?`<p class="nmore">Toca para ver los cambios</p><ul class="nbul" hidden>${x.puntos.map(t=>`<li>${esc(t)}</li>`).join("")}</ul>`:""}</div>
     <span class="ndt">${nvFecha(x.fecha)}</span></div>`).join("")||'<div class="card"><p>Aún no hay novedades.</p></div>';
   box.querySelectorAll(".ncard").forEach(el=>{el.onclick=()=>nvGo(NV[+el.dataset.i],el)});
   document.getElementById("nfoot").textContent=NV.length?"Se actualiza solo cada día.":"";
@@ -1270,6 +1592,9 @@ async function cargarNovedades(){
   try{
     let items=[];
     try{const r=await fetch("novedades.json",{cache:"no-cache"}); if(r.ok){const d=await r.json(); items=d.items||[]}}catch(e){}
+    try{const r=await fetch("discord.json",{cache:"no-cache"}); if(r.ok){const d=await r.json(); items=items.concat((d.items||[]).map(dcFix))}}catch(e){}
+    try{const hoy=window.cumplesHoy?await window.cumplesHoy():[],y=new Date().getFullYear();
+      hoy.forEach(x=>items.push({id:"bd:"+y+":"+x.c.id,tipo:"cumple",titulo:"🎂 Hoy cumple "+x.c.name,texto:"Toca para felicitar",fecha:new Date().toISOString(),ref:x.c.id,bd:x.m+"-"+x.d,img:x.c.imageUrl}))}catch(e){}
     const app=(typeof CAMBIOS!=="undefined"?CAMBIOS:[]).map(c=>({id:c.id,tipo:"app",titulo:c.titulo,texto:"",puntos:c.puntos,fecha:c.fecha}));
     NV=[...app,...items].sort((a,b)=>(Date.parse(b.fecha)||0)-(Date.parse(a.fecha)||0));
     nvRender(); nvTicker();
@@ -1280,6 +1605,9 @@ async function cargarNovedades(){
 (function(){const b=document.getElementById("betafb");if(!b)return;
   const u=(typeof BETA_FORM!=="undefined"&&BETA_FORM)||"";
   if(!u)return;b.hidden=false;b.onclick=()=>{window.open(u,"_blank","noopener")}})();
+/* imagen que no carga: se oculta en vez de mostrar el icono roto (si luego carga, vuelve a verse) */
+document.addEventListener("error",e=>{const t=e.target;if(t&&t.tagName==="IMG"&&!t.getAttribute("onerror")&&!t.onerror)t.style.visibility="hidden"},true);
+document.addEventListener("load",e=>{const t=e.target;if(t&&t.tagName==="IMG"&&t.style.visibility==="hidden")t.style.visibility=""},true);
 cargarNovedades();
 cargarBuilds();
 cargarAuto();
@@ -1287,406 +1615,14 @@ route();
 </script>
 
 
-<script type="module">
-import * as THREE from 'three';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
-
-const CDN = 'https://cdn.jsdelivr.net/gh/StellaSoraWiki/StellaSoraModels@main/';
-let renderer, scene, camera, controls, mixer, clock, raf, currentRoot, pmrem;
-
-function disposeViewer(){
-  if(raf) cancelAnimationFrame(raf);
-  raf=null; mixer=null;
-  if(currentRoot && scene) scene.remove(currentRoot);
-  currentRoot=null;
-  const el=document.getElementById('mv3d');
-  if(el) el.innerHTML='';
-  if(renderer){ renderer.dispose(); renderer=null; }
-  pmrem=null;
-}
-
-function boostColor(c, sat=1.25, contrast=1.15){
-  // HSL saturation + lightness contrast around mid-gray
-  const hsl = {h:0,s:0,l:0};
-  c.getHSL(hsl);
-  hsl.s = Math.min(1, hsl.s * sat);
-  hsl.l = 0.5 + (hsl.l - 0.5) * contrast;
-  hsl.l = Math.max(0, Math.min(1, hsl.l));
-  c.setHSL(hsl.h, hsl.s, hsl.l);
-}
-
-function fixMaterials(root){
-  root.traverse(obj=>{
-    if(!obj.isMesh) return;
-    // Copias de baja calidad (LOD) del mismo traje/arma: se dibujaban encima y salian manchas grises
-    if(/(^|[_\s])lod([_\s]|$)|lod_tl|_lod/i.test(obj.name||'') || /_l$/i.test(obj.name||'') && root.getObjectByName(String(obj.name).replace(/_l$/i,''))){ obj.visible=false; return; }
-    obj.castShadow = true;
-    obj.frustumCulled = false; // evita que partes desaparezcan al animarse
-    obj.receiveShadow = true;
-    const mats = Array.isArray(obj.material) ? obj.material : [obj.material];
-    mats.forEach(m=>{
-      if(!m) return;
-      const name = ((m.name||'') + ' ' + (obj.name||'')).toLowerCase();
-
-      const wasBlend = !!m.transparent, wasAT = m.alphaTest || 0;   // estado ORIGINAL (antes de modificar)
-      if(/outline|contour|silhouette/.test(name)){ obj.visible = false; return; }
-      if(!m.map && /^lit\b/.test((m.name||'').toLowerCase())){ obj.visible = false; return; } // mallas de contorno: ocultas
-      if(m.map) m.map.colorSpace = THREE.SRGBColorSpace;
-      if(m.emissiveMap) m.emissiveMap.colorSpace = THREE.SRGBColorSpace;
-
-      // Eyes / face: keep vivid, avoid glass treatment
-      const isEye = /eye|瞳|hitomi|iris|sclera|eyeball|mat_eye|face_eye/.test(name);
-      const isFace = /face|skin|head|body/.test(name) && !/glass|lens/.test(name);
-      const isGlass = /glass|lens|crystal|transp|glasses/.test(name) && !isEye;
-
-      if(isGlass){
-        m.transparent = true;
-        m.depthWrite = false;
-        m.opacity = Math.min(m.opacity || 1, 0.4);
-        m.side = THREE.DoubleSide;
-      } else if(/hair|pelo|bang|strand/.test(name)){
-        // Hair: ensure opaque and vivid
-        m.transparent = false;
-        m.depthWrite = true;
-        m.side = THREE.DoubleSide;
-        if(m.color) boostColor(m.color, 1.3, 1.25);
-      } else if(/face|skin|head|body|cheek|lip|brow/.test(name) && !isEye){
-        // Face/skin: force opaque and boost color
-        m.transparent = false;
-        m.depthWrite = true;
-        m.side = THREE.FrontSide;
-        if(m.color) boostColor(m.color, 1.2, 1.15);
-        if(m.isMeshStandardMaterial){
-          m.roughness = Math.min(m.roughness ?? 0.6, 0.65);
-          m.metalness = 0;
-        }
-      } else {
-        // Non-glass: force opaque unless author marked alpha
-        if(m.opacity >= 0.98) {
-          m.transparent = false;
-          m.depthWrite = true;
-        }
-        if(m.isMeshStandardMaterial || m.isMeshPhysicalMaterial){
-          // Less washed metalness/roughness
-          if(m.metalness > 0.6 && !/metal|weapon|armor|iron|gold/.test(name))
-            m.metalness *= 0.5;
-          // Slightly glossier eyes
-          if(isEye){
-            // Force eyes to ignore lighting/environment and use the game emission color
-            m.roughness = 1.0;
-            m.metalness = 0.0;
-            m.envMapIntensity = 0.0;
-            m.envMap = null;
-            m.lightMapIntensity = 0;
-            m.aoMapIntensity = 0;
-
-            let emColor = null;
-            try {
-              const ud = m.userData || {};
-              // Three.js GLTFLoader puts extras directly in userData
-              const colors = ud.colors || (ud.extras && ud.extras.colors) || {};
-              let ec = colors._EmissionColor || colors.emissionColor;
-              if(!ec && ud.extras && ud.extras.colors) ec = ud.extras.colors._EmissionColor;
-              if(ec && Array.isArray(ec) && ec.length >= 3 && (ec[0]+ec[1]+ec[2]) > 0.05){
-                emColor = new THREE.Color(ec[0], ec[1], ec[2]);
-              }
-            } catch(e){}
-
-            if(emColor){
-              m.color = emColor.clone();
-              m.emissive = emColor.clone();
-              m.emissiveIntensity = 1.6;
-              // Remove texture influence that might be desaturating
-              if(m.map && !m.emissiveMap) m.emissiveMap = m.map;
-            } else {
-              // Strong fallback: make eyes bright and saturated from whatever color they have
-              if(m.color){
-                const c = m.color.clone();
-                const hsl = {h:0,s:0,l:0};
-                c.getHSL(hsl);
-                hsl.s = Math.min(1, hsl.s * 1.8 + 0.3);
-                hsl.l = Math.max(0.45, hsl.l);
-                c.setHSL(hsl.h, hsl.s, hsl.l);
-                m.color = c;
-                m.emissive = c.clone();
-                m.emissiveIntensity = 1.4;
-              }
-            }
-            // Force opaque if it was blending in a way that washes color
-            if(m.opacity > 0.9){
-              m.transparent = false;
-              m.depthWrite = true;
-            }
-          } else if(isFace){
-            if(m.color) boostColor(m.color, 1.15, 1.12);
-            m.roughness = Math.min(Math.max(m.roughness ?? 0.55, 0.45), 0.7);
-          } else {
-            if(m.color) boostColor(m.color, 1.22, 1.18);
-          }
-          if(m.envMapIntensity === undefined) m.envMapIntensity = 0.35;
-          else m.envMapIntensity = Math.min(0.5, m.envMapIntensity * 0.6);
-        } else if(m.color){
-          boostColor(m.color, 1.2, 1.15);
-        }
-      }
-
-      if(m.alphaTest > 0) m.alphaTest = Math.max(m.alphaTest, 0.35);
-      m.side = THREE.DoubleSide;   // antes se forzaba FrontSide: telas/pelo/capas finas desaparecían
-      m.needsUpdate = true;
-
-      // Convert to unlit (MeshBasicMaterial) to match wiki shading=unlit
-      if(m.isMeshStandardMaterial || m.isMeshPhysicalMaterial){
-        const basic = new THREE.MeshBasicMaterial({
-          map: m.map || null,
-          color: m.color ? m.color.clone() : new THREE.Color(0xffffff),
-          // Partes con alfa (pelo, telas, pestañas): recorte limpio en vez de forzarlas opacas
-          transparent: isGlass,
-          opacity: isGlass ? Math.min(m.opacity || 0.4, 0.45) : 1,
-          alphaTest: (!isGlass && (wasAT > 0 || (wasBlend && m.map))) ? Math.max(wasAT, 0.5) : 0,
-          side: THREE.DoubleSide,
-          depthWrite: !isGlass
-        });
-        if(m.emissive && (m.emissive.r + m.emissive.g + m.emissive.b) > 0.05){
-          basic.color.lerp(m.emissive, 0.55);
-        }
-        if(Array.isArray(obj.material)){
-          const idx = obj.material.indexOf(m);
-          if(idx >= 0) obj.material[idx] = basic;
-        } else if(obj.material === m){
-          obj.material = basic;
-        }
-      }
-    });
-  });
-}
-
-function stripRootMotion(clip){
-  clip.tracks.forEach(t=>{
-    if(!t.name.endsWith('.position')) return;
-    const node = t.name.slice(0, -'.position'.length);
-    if(!/^(root|bip00?1|armature|hips?|pelvis|center)$/i.test(node)) return;
-    const v = t.values, x0 = v[0], z0 = v[2];
-    for(let i=0;i<v.length;i+=3){ v[i] = x0; v[i+2] = z0; }
-  });
-  return clip;
-}
-
-async function loadAnimClip(loader, animMeta){
-  const gltf = await loader.loadAsync(CDN + animMeta.file);
-  return gltf.animations[0] || null;
-}
-
-window.loadTrekkerModel = async function(glbUrl, animsJsonUrl, folder){
-  disposeViewer();
-  const host = document.getElementById('mv3d');
-  const status = document.getElementById('mv-status');
-  const bar = document.getElementById('anim-bar');
-  if(!host) return;
-  status.textContent = 'Cargando modelo…';
-
-  const w = host.clientWidth || 320;
-  const h = host.clientHeight || 340;
-
-  scene = new THREE.Scene();
-  scene.background = new THREE.Color(0x14121f);
-
-  camera = new THREE.PerspectiveCamera(32, w/h, 0.05, 100);
-  camera.position.set(0, 1.15, 2.6);
-
-  renderer = new THREE.WebGLRenderer({antialias:true, alpha:false, powerPreference:'high-performance'});
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
-  renderer.setSize(w, h, false);
-  renderer.outputColorSpace = THREE.SRGBColorSpace;
-  // Neutral tone mapping keeps albedo closer to original textures
-  renderer.toneMapping = THREE.NeutralToneMapping;
-  renderer.toneMappingExposure = 1.0;
-  renderer.shadowMap.enabled = true;
-  renderer.shadowMap.type = THREE.PCFSoftShadowMap;
-  host.appendChild(renderer.domElement);
-
-  // Soft neutral environment for some shine without strong cyan tint
-  pmrem = new THREE.PMREMGenerator(renderer);
-  const envTex = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
-  scene.environment = null;
-  scene.environmentIntensity = 0;
-
-  controls = new OrbitControls(camera, renderer.domElement);
-  controls.target.set(0, 0.95, 0);
-  controls.enableDamping = true;
-  controls.minDistance = 1.1;
-  controls.maxDistance = 6;
-
-  // Balanced lights (not overblown)
-  scene.add(new THREE.HemisphereLight(0xfff8f0, 0x403848, 0.55));
-
-  const key = new THREE.DirectionalLight(0xffffff, 1.15);
-  key.position.set(2.2, 4.5, 2.8);
-  key.castShadow = true;
-  key.shadow.mapSize.set(1024, 1024);
-  key.shadow.camera.near = 0.5;
-  key.shadow.camera.far = 20;
-  key.shadow.camera.left = -3;
-  key.shadow.camera.right = 3;
-  key.shadow.camera.top = 3;
-  key.shadow.camera.bottom = -3;
-  key.shadow.bias = -0.0003;
-  scene.add(key);
-
-  const fill = new THREE.DirectionalLight(0xd0dcff, 0.35);
-  fill.position.set(-2.8, 1.8, -1.2);
-  scene.add(fill);
-
-  const rim = new THREE.DirectionalLight(0xffe8d0, 0.3);
-  rim.position.set(0.5, 2.2, -3);
-  scene.add(rim);
-
-  const ground = new THREE.Mesh(
-    new THREE.CircleGeometry(2.2, 48),
-    new THREE.ShadowMaterial({ opacity: 0.32 })
-  );
-  ground.rotation.x = -Math.PI / 2;
-  ground.receiveShadow = true;
-  scene.add(ground);
-
-  const loader = new GLTFLoader();
-  clock = new THREE.Clock();
-
-  try {
-    const modelGltf = await loader.loadAsync(glbUrl);
-    currentRoot = modelGltf.scene;
-    fixMaterials(currentRoot);
-
-    currentRoot.updateMatrixWorld(true);
-    // Caja REAL del personaje (con el esqueleto aplicado), sin armas: la caja de la geometria en reposo
-    // salia mal en algunos modelos (Firenze) y por eso quedaban escalados de mas, flotando y recortados.
-    const cajaPrecisa = (filtro)=>{
-      const bb = new THREE.Box3();
-      currentRoot.traverse(o=>{ if(o.isMesh && o.visible && filtro(o)){ try{ bb.expandByObject(o,true); }catch(e){ bb.expandByObject(o); } } });
-      return bb;
-    };
-    let box = cajaPrecisa(o=>!/sword|weapon|staff|spear|lance|gun|bow|teapot|wand/i.test(o.name||''));
-    if(box.isEmpty() || !isFinite(box.getSize(new THREE.Vector3()).y)) box = new THREE.Box3().setFromObject(currentRoot);
-    const size = box.getSize(new THREE.Vector3());
-    const ref = size.y > Math.max(size.x, size.z) * 0.5 ? size.y : Math.max(size.x, size.y, size.z);
-    currentRoot.scale.setScalar(1.8 / (ref || 1));
-    currentRoot.updateMatrixWorld(true);
-    let box2 = cajaPrecisa(o=>!/sword|weapon|staff|spear|lance|gun|bow|teapot|wand/i.test(o.name||''));
-    if(box2.isEmpty()) box2 = new THREE.Box3().setFromObject(currentRoot);
-    currentRoot.position.x -= (box2.min.x + box2.max.x) / 2;
-    currentRoot.position.z -= (box2.min.z + box2.max.z) / 2;
-    currentRoot.position.y -= box2.min.y;
-    scene.add(currentRoot);
-    currentRoot.updateMatrixWorld(true);
-
-    // Encuadre: que quepa TODO el personaje (antes la cámara lo cortaba)
-    const box3 = cajaPrecisa(()=>true);
-    const sz = box3.getSize(new THREE.Vector3()), ctr = box3.getCenter(new THREE.Vector3());
-    const vf = THREE.MathUtils.degToRad(camera.fov);
-    const dist = Math.max((sz.y/2)/Math.tan(vf/2), (Math.max(sz.x, sz.z)/2)/(Math.tan(vf/2)*(w/h))) * 1.2;
-    controls.target.set(0, ctr.y, 0);
-    camera.position.set(0, ctr.y + sz.y*0.05, dist);
-    camera.near = dist/50; camera.far = dist*20; camera.updateProjectionMatrix();
-    controls.minDistance = dist*0.35; controls.maxDistance = dist*2.2;
-    controls.update();
-    const names=[]; currentRoot.traverse(o=>{ if(o.isMesh) names.push(o.name+' ['+[].concat(o.material).map(x=>x&&x.name).join(',')+']'); });
-    console.log('Partes del modelo ('+names.length+'):', names);
-
-    mixer = new THREE.AnimationMixer(currentRoot);
-
-    // Reencuadre con la pose animada real (la caja inicial se calcula sin esqueleto y recortaba a Firenze)
-    function refit(){
-      try{
-        if(!currentRoot||!camera||!controls) return;
-        currentRoot.updateMatrixWorld(true);
-        const bb=new THREE.Box3();
-        currentRoot.traverse(o=>{ if(o.isMesh && o.visible){ try{ bb.expandByObject(o,true); }catch(e){ bb.expandByObject(o); } } });
-        if(bb.isEmpty()) return;
-        const s2=bb.getSize(new THREE.Vector3()), c2=bb.getCenter(new THREE.Vector3());
-        if(!isFinite(s2.y)||s2.y<=0) return;
-        const vf2=THREE.MathUtils.degToRad(camera.fov);
-        const d2=Math.max((s2.y/2)/Math.tan(vf2/2),(Math.max(s2.x,s2.z)/2)/(Math.tan(vf2/2)*(w/h)))*1.1;
-        controls.target.set(0,c2.y,0);
-        camera.position.set(0,c2.y+s2.y*0.05,d2);
-        camera.near=d2/50; camera.far=d2*20; camera.updateProjectionMatrix();
-        controls.minDistance=d2*0.35; controls.maxDistance=d2*2.2;
-        controls.update();
-      }catch(e){ console.warn('refit',e); }
-    }
-    window.__refit3d=refit;
-    [500,1500,3000].forEach(t=>setTimeout(()=>{ if(currentRoot) refit(); },t));
-
-    let clipsMeta = [];
-    try {
-      const res = await fetch(animsJsonUrl);
-      if(res.ok){
-        const data = await res.json();
-        clipsMeta = data.clips || [];
-      }
-    } catch(e){}
-
-    const want = ['Idle','ReadyLoop','Ready','Attack_P02','Victory','Show'];
-    const pick = [];
-    for(const wname of want){
-      const c = clipsMeta.find(x => x.name === wname);
-      if(c) pick.push(c);
-    }
-    for(const c of clipsMeta){
-      if(pick.length >= 6) break;
-      if(c.loop && !pick.includes(c) && !/Aim|Start|Tower|Episode|Prologue|Status/i.test(c.name))
-        pick.push(c);
-    }
-    if(!pick.length && clipsMeta[0]) pick.push(clipsMeta[0]);
-
-    async function playClip(meta, btn){
-      status.textContent = 'Cargando animación: ' + meta.name + '…';
-      try {
-        const clip = await loadAnimClip(loader, meta);
-        if(!clip){ status.textContent = 'Sin datos de animación'; return; }
-        stripRootMotion(clip);
-        mixer.stopAllAction();
-        const action = mixer.clipAction(clip);
-        action.reset();
-        action.setLoop(meta.loop ? THREE.LoopRepeat : THREE.LoopOnce, Infinity);
-        if(!meta.loop) action.clampWhenFinished = true;
-        action.play();
-        status.textContent = 'Animación: ' + meta.name + (meta.loop ? ' (loop)' : '');
-        if(bar){
-          bar.querySelectorAll('button').forEach(b=>b.classList.remove('on'));
-          if(btn) btn.classList.add('on');
-        }
-      } catch(err){
-        status.textContent = 'Error animación ' + meta.name;
-        console.warn(err);
-      }
-    }
-
-    if(bar){
-      bar.innerHTML = '';
-      pick.forEach((meta, i) => {
-        const b = document.createElement('button');
-        b.type = 'button';
-        b.textContent = meta.name.replace(/_/g,' ');
-        b.onclick = () => playClip(meta, b);
-        bar.appendChild(b);
-        if(i===0) playClip(meta, b);
-      });
-    }
-
-    function tick(){
-      raf = requestAnimationFrame(tick);
-      const dt = clock.getDelta();
-      if(mixer) mixer.update(dt);
-      controls.update();
-      renderer.render(scene, camera);
-    }
-    tick();
-  } catch(err){
-    console.error(err);
-    status.textContent = (navigator.onLine===false ? 'Sin conexión: el modelo 3D se descarga al abrirlo.' : 'No se pudo cargar el modelo 3D. Usa el enlace de la wiki.');
-  }
-};
+<script>
+/* El visor 3D (y Three.js) se descargan solo al pedir un modelo: la app abre mas rapido. */
+(function(){let P=null;
+  const stub=async function(){const a=arguments,st=document.getElementById("mv-status");
+    if(st)st.textContent="Descargando el visor 3D…";
+    try{await window.__mapa3d;await (P||(P=import("./visor3d.js")))}catch(e){P=null;if(st)st.textContent="No se pudo cargar el visor 3D. Revisa tu conexión e inténtalo de nuevo.";return}
+    if(window.loadTrekkerModel!==stub)return window.loadTrekkerModel.apply(null,a)};
+  window.loadTrekkerModel=stub})();
 </script>
 
 <div id="bgmbar" role="region" aria-label="Reproductor de música"><div class="bgm-n"><small>Reproduciendo</small><b id="bgm-name"></b></div><button type="button" class="bgm-pp" id="bgm-pp" aria-label="Pausar o reanudar">❚❚</button><button type="button" class="bgm-st" id="bgm-st">Parar</button></div>
@@ -1730,8 +1666,8 @@ window.loadTrekkerModel = async function(glbUrl, animsJsonUrl, folder){
     try{CHARS.forEach(c=>o.push({g:"Personajes",t:c.name,x:[c.faction,c.element,c.role,ROLE_ES&&ROLE_ES[c.role]].join(" "),h:"c/"+c.id,s:c.rarity+"★ · "+c.element}))}catch(e){}
     try{DISCS.forEach(d=>o.push({g:"Discos",t:d.name,x:d.element,h:"d/"+d.name,s:d.rarity+"★ · "+d.element}))}catch(e){}
     try{CHAPS.forEach(c=>o.push({g:"Historia principal",t:c.titleEs+" ("+c.titleEn+")",x:"capitulo "+c.number,h:"ch/"+c.number,s:"Cap. "+c.number}))}catch(e){}
-    try{EVENTS.forEach(e=>o.push({g:"Eventos",t:e.name,x:e.summary,h:"ev/"+e.id,s:""}))}catch(e){}
-    try{NOVA_TIMES.forEach(n=>o.push({g:"Nova Times",t:n.name,x:"nova times "+n.number,h:"nt/"+n.id,s:"#"+n.number}))}catch(e){}
+    try{EVENTS.forEach(e=>o.push({g:"Eventos",t:e.nombre||e.name,x:e.name+" "+e.summary,h:"ev/"+e.id,s:""}))}catch(e){}
+    try{NOVA_TIMES.forEach(n=>o.push({g:"Nova Times",t:n.nombre||n.name,x:n.name+" nova times "+n.number,h:"nt/"+n.id,s:"#"+n.number}))}catch(e){}
     try{if(BUILDS&&BUILDS.items)BUILDS.items.forEach(b=>o.push({g:"Equipos y builds",t:b.title.trim(),x:(typeof bTags==="function"?bTags(b).join(" "):""),h:"b/"+b.id,s:""}))}catch(e){}
     return o;
   }

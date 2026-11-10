@@ -1,0 +1,6 @@
+# Historia de Fuyuka — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_134_01 | Primera nevada (Parte I)
+CG_134_02 | Primera nevada (Parte II)
+CG_134_03 | Primera nevada (Parte III)

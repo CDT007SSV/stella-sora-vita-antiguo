@@ -1,0 +1,129 @@
+# Evento · Enmarcando los sentimientos invisibles · 2 · El rollo de fotos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Eye of Grace Researcher | Investigador del Ojo de la Gracia
+N:Surging Stellaroids | Stellaroids desbordados
+N:avg1_115 | Firefly
+N:avg1_1196 | Stellaroid
+N:avg1_1198 | Stellaroid
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg2_975 | Glopo
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1275 | Lucky Rubbi
+N:avg3_139 | Trekker
+N:avg3_205 | Igna
+N:avg3_214 | Investigador del Ojo de la Gracia
+N:avg4_103 | Firefly Bright
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El rollo de fotos
+0003 [Intro] | Descubres que a Firefly le apasiona la fotografía, pero pronto se le acaba el rollo y te arrastra al Monolito para pedir un deseo.
+0004 [1] | Firefly, ¿te acuerdas de mí?==W==
+0005 [Firefly] | ¿Hm...?
+0006 [Firefly] | ... Sí. Jugamos juntos en el Festival Nevado.
+0007 [Firefly] | Eres...==W== ¿el Tirano?
+0008 [Tú] | Me honra que me recuerdes.
+0009 [Tú] | Te voy a acompañar un rato.==W== Espero que la pasemos muy bien juntos.
+0010 [Firefly] | ... ¿De verdad?==W== Tirano, ¿te vas a quedar conmigo todo el tiempo?
+0011 [Tú] | ¿Cuánto es «todo el tiempo», exactamente...?==W== Bueno, al menos hasta que te lleve a tu casa, me quedaré contigo.
+0012 [Firefly] | Está bien.
+0013 [Tú] | Uf... Parece que no le molesta que ande cerca.
+0014 [Tú] | Por cierto, Firefly, ¿tomar fotos es un pasatiempo tuyo?
+0015 [Firefly] | ¿Pa-sa-tiem-po?==W== ... ¿Qué es eso?
+0016 [Tú] | ¡¿Tengo que empezar desde ahí?!
+0017 [Tú] | A ver...==W== Un pasatiempo es algo que te hace tan feliz que pierdes la noción del tiempo.
+0018 [Firefly] | ¿Feliz...?
+0019 [Firefly] | Ya sé.==W== Aprieto este botón.
+0020 [Firefly] | Hace clic-clic. Y luego estoy feliz.
+0021 [Firefly] | Tomar fotos me hace feliz también.==W== Cuando puedo volver a ver lo mismo.==W== Ver las fotos me hace feliz.
+0022 [Tú] | Ya veo. Entonces esto definitivamente cuenta como tu pasatiempo.
+0023 [Firefly] | ... Bueno.==W== Mi pasatiempo.
+0024 [Firefly] | ¡Je, je, te atrapé!
+0025 [Firefly] | ¡Vamos, chicos! ¡Háganmelo más difícil!
+0026 [Firefly] | Ustedes corren, yo persigo, qué divertido...
+0027 [1] | Comparado con cazar Stellaroids, este es un pasatiempo mucho más sano...
+0028 [Tú] | Firefly, ¿puedo ver las fotos que tomaste?
+0029 [Firefly] | ¿Las fotos...?==W== Ya no están. Ya no salen.
+0030 [Tú] | ¿Que ya no salen?==W== Hm...==W== ¿Puedo ver tu capturador de fotos?
+0031 [Firefly] | Toma.==W==
+0032 [Firefly] | ¿Está roto?
+0033 [Tú] | ...==W== No,==W== no está roto.==W== Solo se le acabó el rollo. ¿Tienes otro rollo?
+0034 [Firefly] | No… No tengo.
+0035 [Firefly] | Yo solo le doy el capturador a la profesora. La profesora hace clic-clac con él... Y salen las fotos.
+0036 [Tú] | Parece que su «profesora» le ha estado poniendo el rollo cada vez.
+0037 [Firefly] | Pero está muy ocupada.==W== Si le pido otra vez...==W== le voy a dar problemas.
+0038 [Tú] | Estos rollos==W== no son fáciles de comprar sin más.==W== Pedirlo como deseo en el Monolito tal vez sea más realista.
+0039 [Firefly] | ¿Pedir un deseo...?
+0040 [Tú] | Sí.==W== Dentro del Monolito aparece una Caja de Deseos.==W== Recitas una plegaria,==W== entregas parte de tus recuerdos como precio...==W== Y a cambio, puedes obtener un Artefacto.==B====W== Eso es lo que hacen los Trekkers.
+0041 [Tú] | Quizá el rollo de este capturador también salió de una Caja de Deseos.
+0042 [Firefly] | Si tengo rollo... Entonces puedo tomar fotos.
+0043 [Firefly] | Yo... quiero rollo.
+0044 [Tú] | ¡Oye, ESPERA! ¡¿Qué haces?!
+0045 [Firefly] | Entrar al Monolito. Buscar la Caja de Deseos.
+0046 [Firefly] | Tirano, juntos.
+0047 [Tú] | ¡Espera, espera! ¡Oye, al Monolito no se entra así nada más!==W== ¡Oye, espera, Firefly...==W== ¡Uhhhhh!!
+0048 [Eye of Grace Researcher] | Directora Igna, cuánto tiempo.
+0049 [Igna] | Ah, eres tú.==W== Qué raro verte fuera del laboratorio. ¿Qué haces en un lugar como este?
+0050 [Eye of Grace Researcher] | Tenía algo que hablar con usted...==W== Aunque no esperaba encontrarme con Firefly aquí.==W== Perdone mi franqueza,==W== pero ¿piensa dejar suelta a esa sujeto de pruebas?
+0051 [Eye of Grace Researcher] | ¿Una muestra tan valiosa y no asigna personal para vigilarla? Simplemente la deja andar sola por ahí...==W== Si uno de mis subordinados fuera así de negligente, lo despediría.
+0052 [Igna] | No, un entorno relajado y un contacto moderado con otras personas==W== son buenos para su desarrollo. Los datos experimentales ya lo han demostrado.
+0053 [Eye of Grace Researcher] | Tratándose de un arma, las palabras por sí solas no demuestran nada.==W== Solo los resultados de pruebas en vivo pueden dar confianza y estabilidad.
+0054 [Eye of Grace Researcher] | Siendo franco, usted nunca debió meterse en esto.==W== Después de todo, desde el principio este nunca ha sido su proyecto.
+0055 [Eye of Grace Researcher] | Y encima, dejó entrar a un forastero... ¿Qué cree usted que es nuestra investigación?
+0056 [Igna] | Si yo no hubiera intervenido, este proyecto habría sido cancelado hace mucho.==W== Antes de hablar con tanta franqueza, te sugiero que recuerdes cuál es tu posición.
+0057 [Igna] | Si las cosas hubieran seguido el plan original, todos tus pequeños secretos ya habrían quedado expuestos...==W== No sería precisamente un resultado ideal para ti, ¿verdad?
+0058 [Eye of Grace Researcher] | ... Parece que no hay margen para un acuerdo.==W== Entonces iré al grano.
+0059 [Eye of Grace Researcher] | Tras una revisión interna, hemos decidido acelerar el proyecto.==W== Si no vemos un progreso claro o una mejora en las métricas en el futuro cercano, no tendremos más remedio que tomar medidas más severas.==W== Queda usted informada de antemano.
+0060 [Igna] | ... ¿Es una amenaza?
+0061 [Eye of Grace Researcher] | No, no.==W== Es solo un recordatorio amistoso.
+0062 [Tú] | ¡Firefly! ¡Espera! ¿No deberíamos avisarle primero a Igna?
+0063 [Firefly] | Está bien. Ya casi termina.
+0064 [Tú] | ¡No es eso!==W== ¡Antes de hacer algo, primero se avisa! ¡Es cuestión de protocolo básico!
+0065 [Firefly] | Soy solo una niña.==W== No entiendo esto y aquello.
+0066 [Igna] | Je. Entonces permíteme hacerte un recordatorio a ti también...==W== Lo que viene a continuación va a superar con creces tu limitada imaginación.==W== Hace un momento conseguí mi carta del triunfo.
+0067 [Eye of Grace Researcher] | ¿Su carta del triunfo?==W== ... No me diga que se refiere a ese Trekker de hace rato.==W== ¿Quién era, exactamente?
+0068 [Igna] | Je. Mi buena voluntad tiene un límite. No tengo ninguna obligación de decirte nada más.==W== Ten cuidado... Y esto no es un recordatorio. Es un consejo.
+0069 [Igna] | Si no quieren seguir haciendo el ridículo, les sugiero que se sienten a mirar.
+0070 [Tú] | Así que terminamos entrando, después de todo...
+0071 [Tú] | Puedo flotar y planear en el aire cuando le tomo la mano a Firefly... ¿Cómo funciona esto?==W== ¿Será por esto?
+0072 [Firefly] | Rollo.==W== ¿Dónde?
+0073 [Tú] | Bueno, ya que estamos aquí...==W== si queremos conseguir rollo, lo primero es encontrar la Caja de Deseos.
+0074 [Firefly] | Caja de Deseos. ¿Dónde?
+0075 [Tú] | Probablemente no haya una en la planta baja.==W== Tendremos que acabar con los Stellaroids y probar suerte en los pisos de arriba...
+0076 [Surging Stellaroids] | ¡¡ROAAAAR!!
+0077 [Tú] | ¡¡Stellaroids!!
+0078 [Firefly] | Hoy no hay tiempo de jugar.==W== Adiós.
+0079 [Surging Stellaroids] | ¡¿ROOAR?!
+0080 [Firefly] | Listo.
+0081 [Tú] | ¡Los Stellaroids fueron aniquilados en un instante...!
+0082 [Firefly] | Vamos, Tirano.
+0083 [Tú] | ¡Espera, eso fue demasiado rápido!==W== ¿No necesitas ni recuperar el aliento...?
+0084 [1] | ¡¿Eh?! ¡¿Más de ellos?!
+0085 [1] | Firefly... Sé que tienes prisa, pero ¿podrías tener un poquito más de cuidado?
+0086 [Firefly] | Toma.
+0087 [Surging Stellaroids] | ¡¡ROOOAAARRR!!
+0088 [Firefly] | Avalanche,==W== activa el modo «Paliza».
+0089 [Surging Stellaroids] | ¡¿ROOAR?!
+0090 [Firefly] | Gané.
+0091 [Firefly] | Vamos. Siguiente piso.
+0092 [Tú] | ...
+0093 [Tú] | ... Pareces tener prisa. ¿Pasó algo?
+0094 [Firefly] | ... Hay que volver antes de que la profesora se dé cuenta.
+0095 [Firefly] | Entré al Monolito, pero no pedí permiso.
+0096 [Tú] | ¿Hm? O sea que si se enteran de que te escapaste sola, ¿te regañan?
+0097 [Firefly] | ... No quiero que ella... deje de quererme.
+0098 [Tú] | ¿Deje de quererte?
+0099 [Firefly] | Llegamos. Cuarto grande.
+0100 [Firefly] | Pero... No hay juguetes aquí.
+0101 [Tú] | Lo logramos, Firefly.==W== Mira, la Caja de Deseos. A eso veníamos.
+0102 [Firefly] | Yupi. La encontré.
+0103 [Firefly] | Tirano, Tirano, ¿cómo consigo el rollo?
+0104 [Tú] | No te preocupes, Firefly.==W== Pediré un deseo por ti.
+0105 [Firefly] | Waaah...==W== Tirano, eres muy, muy bueno.
+0106 [Firefly] | ... Y también muy amable conmigo.

@@ -1,0 +1,133 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 4 · Una pista desde la voz
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Treasure Hunter | Cazatesoros arrogante
+N:Cautious Treasure Hunter | Cazatesoros cauteloso
+N:Treasure Hunters | Cazatesoros
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Una pista desde la voz
+0003 [Intro] | A mitad del viaje, se detienen en una pequeña isla para descansar. Allí, Karin oye una voz extraña. Un grupo de Trekkers con malas intenciones se deja ver.
+0004 [Karin] | ¡S-==W==Quítale las manos de encima...!
+0005 [Shia] | Jeje, Karin. No es lo que piensas.
+0006 [Shia] | El Jefe tropezó y, cuando fui a ayudar a ==SEX4== a levantarse, yo también perdí el equilibrio.
+0007 [Tú] | Eh, sí, claro... Más o menos fue eso.
+0008 [Shia] | Para ser justos, el barco se mecía como loco porque estabas peleando con ese monstruo de pez, pequeña Karin.
+0009 [Karin] | Espera, ¿entonces fue mi culpa?
+0010 [Shia] | Ay, no pongas esa cara tan seria.
+0011 [Shia] | Pescaste una presa enorme y el Jefe está bien; todos ganamos, ¿ves?
+0012 [Karin] | Ja... «Todos ganamos»...
+0013 [Tú] | Está forzando una sonrisa, pero esa mirada sigue siendo asesina.
+0014 [Shia] | Bien, no nos quedemos aquí parados. Hora de recoger y desayunar algo.
+0015 [Shia] | Oye, ¿podrías revisar las provisiones con el Jefe? Deberíamos llegar a la siguiente isla en una hora más o menos.
+0016 [Karin] | Está bien. Me aseguraré de... portarme bien... con ==SEX4==.
+0017 [Tú] | Tengo un muy mal presentimiento sobre esto...
+0018 [Karin] | Las bolsas están listas, la lista revisada. Deberíamos estar bien.
+0019 [Tú] | Moví algunas cosas para equilibrar mejor el peso. Mis notas están en la lista, por si quieres verlas.
+0020 [Karin] | Vaya, Jefe. Eres mucho más organizado de lo que pensaba.
+0021 [Tú] | Jeje, me estás dando demasiado crédito.
+0022 [Karin] | ¡Pero...!
+0023 [Karin] | ¡Eso no significa que te haya perdonado lo de esta mañana!
+0024 [Karin] | Hacerle eso a Shia...==W== ¡Imperdonable! ¡Totalmente imperdonable!
+0025 [Tú] | ¡Yo no hice nada! Solo tropecé, y ella fue quien se acercó a olfatearme...
+0026 [Karin] | ¡¿Qué?!==W== ¡¿Se tomó la molestia de olfatearte?!
+0027 [Tú] | Rayos. No debí decir eso. Ahora sí está furiosa...
+0028 [Karin] | ¡Ja! Muy bien, ya entiendo lo que pasa. Tu verdadera identidad...
+0029 [Tú] | ¿A dónde quiere llegar? No me digas que cree que...
+0030 [Karin] | ¡Eres una sirena, ¿verdad?! ¡Obviamente hechizaste a Shia!
+0031 [Tú] | ¡¿Eh?!
+0032 [Karin] | ¡Sabía que algo andaba mal! ¿Por qué más Shia te dejaría subir al barco y sería tan amable contigo? Normalmente es muy desconfiada con la gente.
+0033 [Karin] | Ella... Ella antes solo era así conmigo...
+0034 [Tú] | Tú...
+0035 [Tú] | Así que de eso se trata. Cree que le estoy robando a Shia.
+0036 [Karin] | ¡Por favor, te lo ruego, deja en paz a Shia! ¡Si vas a lanzar un hechizo o algo, hazlo conmigo!
+0037 [Tú] | ¡¿De qué estás hablando?!
+0038 [Karin] | ¡Haré lo que sea si la devuelves a la normalidad! ¡Puedes quedarte con todos los peces que pesque en las próximas décadas!
+0039 [Tú] | Espera... No necesito tantos peces.
+0040 [Karin] | —¡Y mis cinco cupones de centolla! ¡Y los tres kilos de corvina que me debe el hijo de mi vecino por una apuesta! ¡Hasta las dos carpas gigantes de mi patio trasero!
+0041 [Karin] | Y si aun así no es suficiente...==W== ¡puedes usarme de carnada!
+0042 [Tú] | Nunca la había visto tan seria... Shia de verdad debe significar el mundo para ella.
+0043 [Tú] | Mira, fue un malentendido total. Shia probablemente se me acercó porque detectó mi «aroma».
+0044 [Tú] | Dijo «Tienes un aroma de confianza, Jefe»... Para ser sincero, yo tampoco lo entiendo.
+0045 [Karin] | ... Así que fue el aroma.
+0046 [Karin] | Hmph. El olfato de Shia es increíble. Confía más en él que en sus propios ojos.
+0047 [Karin] | Grrr... ¿A qué hueles tú, de todos modos?
+0048 [Karin] | ¡Tendré que colarme mientras duermes y cortarte el cabello! Poco a poco juntaré suficiente para hacer un saquito aromático... y si me lo pongo, Shia...
+0049 [Tú] | ¡Oye, oye...!
+0050 [Karin] | ¡Bien! Pasas mi inspección... por ahora. ¡Pero te sigo vigilando!
+0051 [Tú] | Bueno, supongo que es un alivio.
+0052 [Tú] | Mmm, algo huele delicioso... ¿Será...?
+0053 [Karin] | ¡Debe de ser Shia con el desayuno! ¡Me largo!
+0054 [Tú] | Y se fue...==W== ¡qué rápido!
+0055 [Narración] | Para mi sorpresa, Shia es una cocinera increíble.
+0056 [Narración] | Con el estómago lleno, recogemos nuestro equipo y nos preparamos para desembarcar.
+0057 [Shia] | ¡Llegamos! El clima está perfecto hoy, una gran señal.
+0058 [Tú] | Esta playa se siente completamente distinta a las del pueblo.
+0059 [Karin] | ¡Obvio! Es una isla desierta. ¡Este es el océano en su estado más primitivo!
+0060 [Shia] | Por aquí se pueden pescar peces raros y vieiras gigantes. Se venden a muy buen precio, así que algunos Trekkers vienen a probar suerte.
+0061 [Shia] | Pero la mayoría da media vuelta aquí. Todavía nos queda un largo camino.
+0062 [Shia] | Muy bien, equipo, tenemos que reunir tantas provisiones como podamos antes del atardecer. Mantengámonos juntos por seguridad: ¡nadie se queda atrás!
+0063 [Karin] | ¡E-Entendido!==W== ¿Oíste, Jefe? ¡Más te vale no alejarte!
+0064 [Tú] | No te preocupes, me quedaré cerca.
+0065 [Tú] | Lo dice la que en realidad tiene miedo...
+0066 [Karin] | Uf... puf...==W== ¿Ya es suficiente? Mi bolsa está a punto de reventar...
+0067 [Tú] | Las hierbas están clasificadas y los odres, llenos.
+0068 [Shia] | Estas enredaderas y cortezas sueltas serán perfectas para reparar el barco. Hasta encontramos resina de pino. ¡Qué gran botín!
+0069 [Shia] | ¿Creen que el Jefe sea nuestro amuleto de la suerte?
+0070 [Tú] | ¿Yo? ¿Un amuleto de la suerte?
+0071 [Karin] | Hmph. Nos habría ido bien sin él, ¿sabes?
+0072 [Shia] | Karin, eso no es muy amable. ¿Acaso el Jefe no se ofreció a cargar tu mochila cuando arrastrabas los pies hace un rato?
+0073 [Karin] | B-Bueno, ¡no se lo permití a ==SEX4==! ==SEX1== ya iba cargando un montón de cosas...
+0074 [Karin] | ¡Guau...!
+0075 [Shia] | ¡Karin! ¿Estás bien?
+0076 [Karin] | Ugh... ¡ay! ¿Con qué me resbalé? Estaba súper resbaloso.
+0077 [Tú] | ¿Esto es... una envoltura de Ruiseñor Leonado?
+0078 [Karin] | ¡Puaj, qué asco! ¿Quién deja su basura tirada por ahí?
+0079 [Shia] | Esto se ve reciente. ¿Podría haber alguien más en la isla?
+0080 [Karin] | Pero no había otros barcos en la orilla cuando llegamos.
+0081 [Shia] | Pudieron desembarcar por el otro lado de la isla. La temporada de pesca terminó, así que venir a la isla en esta época… Seguramente tienen otras intenciones.
+0082 [Karin] | ¿Será esa pandilla que presumía de buscar el tesoro?
+0083 [Shia] | No lo sabremos con certeza hasta encontrarlos. Quizá ya se fueron.
+0084 [Shia] | Los aromas aquí están revueltos. Todavía no detecto a nadie nuevo.
+0085 [Karin] | ¡Ah, creo que esa es mi señal!
+0086 [Karin] | Mientras estén en esta isla...==W== ¡puedo encontrarlos!
+0087 [Tú] | ¿Oh? ¿Tienes alguna forma de hacerlo, Karin?
+0088 [Karin] | Jeje, solo mira.
+0089 [Karin] | Cada árbol, cada pez, cada ave... todo lo que tiene latido hace un sonido.
+0090 [Karin] | Todos esos sonidos convergen y se disuelven en la tierra... Y la tierra, a su vez, me susurra los secretos.
+0091 [Narración] | Shia y yo contenemos el aliento. Karin se agacha, pega la oreja al suelo y cierra los ojos. Escucha un momento y luego avanza unos pasos para probar en otro punto.
+0092 [Tú] | Su oído es tan agudo como el olfato de Shia... trasciende los límites naturales.
+0093 [Tú] | Debe de ser uno de los dones de Flufla.
+0094 [Karin] | ... Ah. Los tengo.
+0095 [Narración] | Siguiendo las indicaciones de Karin, cruzamos el bosque hasta el otro extremo de la isla.
+0096 [Narración] | A lo lejos, una hebra de humo se eleva desde una playa donde un grupo se apiña alrededor de una fogata, asando pescado.
+0097 [Shia] | Buen trabajo, Karin. Tus oídos son tan agudos como siempre.
+0098 [Karin] | Jeje... ¡No fue nada!
+0099 [Shia] | Bien, rodeemos esas rocas por detrás para verlos mejor.
+0100 [Shia] | Si solo son Trekkers de paso, podemos irnos. De todos modos deberíamos volver al barco para cumplir con el itinerario.
+0101 [Cautious Treasure Hunter] | ¿No deberíamos apurarnos? ¿Y si nos ganan la delantera?
+0102 [Arrogant Treasure Hunter] | Relájate. El jefe tiene el diario de ese viejo. Solo sigan la ruta y nadie nos alcanzará.
+0103 [Arrogant Treasure Hunter] | Si a él no se le hubiera acabado la suerte, habría estado allí con Marlene hasta el final...
+0104 [Shia] | ¡¿La abuela...?! ¡¿Alguien seguía su barco?!
+0105 [Cautious Treasure Hunter] | Marlene solo usaba su reputación para inventar cuentos de miedo y espantar a la competencia. Todo para quedarse con el tesoro.
+0106 [Arrogant Treasure Hunter] | Je, ¿y quién la culpa? ¡Es un Monolito entero! ¡Yo también lo querría todo para mí!
+0107 [Arrogant Treasure Hunter] | Quién sabe cuánto botín tenía escondido... En fin, ya está criando malvas. ¡Ahora nos toca a nosotros cobrar!
+0108 [Treasure Hunters] | Je, je, je, je...
+0109 [Tú] | ¿Un Monolito? Así que de allí viene la luz...
+0110 [Karin] | Sin duda. ¡Tienen que ser ellos!
+0111 [Shia] | Karin, vámonos. Los vamos a atrapar. Quiero hablar con ellos sobre ese diario.
+0112 [Shia] | Jefe, tú quédate atrás. No tardaremos.
+0113 [Tú] | Está bien...==W== ¡Buena suerte!
+0114 [Tú] | Jah, esos tipos están fritos.
+0115 [Karin] | Ejem. ¿Hora del almuerzo, muchachos?
+0116 [Treasure Hunters] | ¡¿Q-Quiénes demonios son ustedes?! ¡¿De dónde salieron?!
+0117 [Shia] | Karin, su almuerzo se ve un poco... simple.==W== Démosle un poco de sabor, ¿te parece?
+0118 [Treasure Hunters] | ¡¡¡Aaaaaaugh...!!!

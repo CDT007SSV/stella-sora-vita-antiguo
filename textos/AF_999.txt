@@ -1,0 +1,19 @@
+# Afinidad de 999: archivo del personaje y recuerdos de citas
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (a123.t, d456.m...).
+# Los saltos de línea van escritos como \n: déjalos donde van. Respeta ==PLAYER_NAME== y las marcas <...>.
+
+## Archivo (t = título, c = texto, u = texto extra)
+a99902.t | 
+a99903.t | 
+a99904.t | 
+a99905.t | 
+a99906.t | 
+a99907.t | 
+a99908.t | 
+a99909.t | 
+a99910.t | 
+a99911.t | 
+a99912.t | 
+a99913.t | 
+
+## Citas (n = nombre, 1-3 = escena, p = pista, m = recuerdo)

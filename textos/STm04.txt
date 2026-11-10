@@ -1,0 +1,20 @@
+# Capítulo 4 · Más allá del sueño — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm04_01 | Los viejos tiempos
+STm04_02 | Su decisión
+STm04_03_a | Hasta el final
+STm04_03_b | Charla nocturna
+STm04_03_c | Acampada
+STm04_04_a | Un Trekker hecho ejército
+STm04_04_b | Tu yo del pasado
+STm04_04_c | Supresión total
+STm04_05 | Lo que queremos proteger
+STm04_06 | El forastero
+STm04_07 | Una lluvia que lee el ambiente
+STm04_08 | Un esfuerzo que rinde frutos
+STm04_09 | Al otro lado del sueño
+STm04_10 | Bajo el Monolito
+STm04_11 | Aún sin resolver
+@BT01 | Abriéndonos paso
+@BT02 | El último monstruo

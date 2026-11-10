@@ -1,0 +1,116 @@
+# Historia de Caramel · 1 · Echo of Hearts and Stars (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Young Spectator | Joven espectador molesto
+N:Audience | Público
+N:Concerned Trekker | Trekker preocupado
+N:Focused Spectator | Espectador concentrado
+N:Impatient Man | Hombre impaciente
+N:Impatient Trekker | Trekker impaciente
+N:avg1_147 | Caramel
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_168 | Chica
+N:avg3_187 | Residente de Flavio
+N:avg3_188 | Residente de Flavio
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Eco de corazones y estrellas (Parte I)
+0003 [Intro] | Con la tarea de sanar las heridas mentales de Trekkers atribulados, el Jefe, desconcertado y frustrado, escucha una melodía conocida en Flavio.
+0004 [Narración] | Una fragancia relajante llena el aire. A través de la bruma, luces de colores centellean.
+0005 [Narración] | Una escena típica de la vida diaria en Flavio.
+0006 [Tú] | Cof, cof...
+0007 [Narración] | No sé si es el aire denso o el polen, pero no puedo evitar toser.
+0008 [Tú] | Aunque huele maravilloso cada vez que vengo...
+0009 [Tú] | Pero ¿de verdad está bien seguir respirando este aroma...?
+0010 [Narración] | Hace unos días recibí una comisión en el Campamento de Trekkers de Flavio.
+0011 [Tú] | ¿Quieren que encuentre un tratamiento ...==B== para sus heridas mentales?
+0012 [Impatient Trekker] | Sí, como puede ver, debido al accidente de la última vez, más de la mitad de los Trekkers de este campamento...
+0013 [Concerned Trekker] | Desde ese día, cada vez que entro al Monolito, mi cuerpo tiembla sin control...==B== No puedo pelear en absoluto.
+0014 [Impatient Trekker] | La verdad es que todos queremos volver a la primera línea lo antes posible...==B== ¡Pero es imposible por las heridas mentales que aún cargamos!
+0015 [Concerned Trekker] | Si la gente tiene que quedarse al margen, este campamento tendrá que disolverse tarde o temprano...
+0016 [Impatient Trekker] | Si lo disuelven...==W== No sé cantar ni bailar, ¿cómo se supone que sobreviva en Flavio?
+0017 [Tú] | ...
+0018 [Tú] | Entonces, solo tengo que ayudar a los Trekkers a recuperarse y devolverlos a la acción, ¿verdad?
+0019 [Narración] | Este tipo de comisión no es precisamente el fuerte de Boss Accord.
+0020 [Tú] | … Dicho eso, no es cosa de risa que corra la voz de que el Jefe es un desalmado que no puede simpatizar con Trekkers traumatizados.
+0021 [Tú] | ¿Mm...?==W== ¿Qué es eso?
+0022 [Narración] | La melodía conocida y nostálgica ayuda a calmar mis pensamientos dispersos y me devuelve la claridad.
+0023 [Narración] | Me giro hacia el sonido y veo un «espacio musical»: un tipo de recinto de presentaciones que se encuentra por todo Flavio.
+0024 [Narración] | Junto con la música, su nombre y el nombre de su instrumento aparecen en mi mente...
+0025 [Tú] | Es Caramel y su bajo.
+0026 [Tú] | Tanto pensar no me lleva a ninguna parte.
+0027 [Tú] | Mejor voy a escuchar su música para cambiar de aires.
+0028 [Caramel] | ♫
+0029 [Caramel] | ♫
+0030 [Caramel] | ♫—♫♫
+0031 [Narración] | Entre la multitud, alcanzo a ver a la fascinante música improvisando con naturalidad.
+0032 [Tú] | ¿Me está mirando?
+0033 [Tú] | Supongo que tendré que saludarla como se debe...
+0034 [Impatient Man] | ¡Señorita Caramel! ¡Señorita Caramel!
+0035 [Narración] | Mientras el público disfruta de la música, unos cuantos gritos inoportunos rompen el ambiente.
+0036 [Male Flavio Resident] | Esta es mi tarjeta de presentación. Por favor, considere a nuestra firma...
+0037 [Angry Young Spectator] | ¡Oye, tú! ¡Guarda tu oferta para después!
+0038 [Focused Spectator] | ¡No interrumpas la presentación de la señorita Caramel! ¡Este es un raro bis improvisado!!!
+0039 [Impatient Man] | Ugh... Está bien, perdón, ya entendí. ¡No me arrastren...!
+0040 [Tú] | … Los fans sí que están unidos.
+0041 [Caramel] | ♫
+0042 [Narración] | La música termina.
+0043 [Caramel] | Eso es todo por la presentación improvisada de hoy. Gracias a todos.
+0044 [Tú] | Bueno, aunque aún no se me ocurre ninguna buena idea, escuchar la presentación de Caramel ha calmado mi mente.
+0045 [Tú] | No debería molestarla. Mejor me voy.
+0046 [Narración] | Justo cuando estoy por irme, oigo sus pasos apresurados acercarse.
+0047 [Tú] | ¿Caramel?
+0048 [Caramel] | Productor, el show de hoy terminó. Vámonos juntos.
+0049 [Tú] | ¿¡Eh...!?
+0050 [Tú] | S-sí, señorita Caramel.
+0051 [Narración] | Durante este breve intercambio, la multitud ya nos alcanzó.
+0052 [Audience] | ¡Señorita Caramel! ¡Espere! ¡Por favor, fírmeme esto!
+0053 [Impatient Man] | ¡Señorita Caramel! ¡Señorita Caramel! No tomó mi tarjeta...
+0054 [Narración] | Me aprieta el brazo con fuerza.
+0055 [Caramel] | Eh... ¿Productor?
+0056 [Tú] | … Mejor salir de aquí rápido antes de que se complique.
+0057 [Narración] | Intento abrirle camino.
+0058 [Tú] | ¡Perdón, la presentación de hoy fue improvisada, así que no habrá sesión de autógrafos!
+0059 [Tú] | ¡Por favor, abran paso...!==W== ¡Gracias a todos por su colaboración!
+0060 [Narración] | Caramel y yo por fin logramos escapar del abarrotado espacio musical.
+0061 [Caramel] | Muchísimas gracias... ==W==¿Jefe?
+0062 [Caramel] | ¿O debería llamarte Productor?
+0063 [Tú] | Deja de tomarme el pelo, Caramel.
+0064 [Caramel] | No lo hago, Jefe. De verdad quiero que seas mi productor.
+0065 [Tú] | Pero yo solo pasaba por casualidad...
+0066 [Caramel] | Mejor aún... El Monolito debió de decidir cumplir mi deseo y arregló que me topara contigo hoy.
+0067 [Tú] | No creo que las dos cosas estén relacionadas...
+0068 [Caramel] | Ya que te anunciaron como mi productor frente a tanta gente, ¿por qué no hacerlo oficial?
+0069 [Tú] | Olvida eso. ¿A qué te refieres exactamente con «productor»?
+0070 [Caramel] | He oído a otros músicos decir que, cuando les falta inspiración, un poco de orientación de un productor puede hacer maravillas y cambiar las cosas...
+0071 [Tú] | Es cierto que tengo muchos talentos...==W== Pero la música no es uno de ellos.
+0072 [Tú] | Si fallo en ese papel, no solo mi reputación está en juego...==B==también arrastraré a Boss Accord.
+0073 [Tú] | ¡Como Jefe, no puedo permitirme mostrar ninguna debilidad!
+0074 [Caramel] | No lo entiendo del todo, ¡pero la forma en que lo dijiste hace un momento tenía un buen ritmo!
+0075 [Caramel] | ¡Lo sabía! ¡Pedirte que fueras mi productor fue la decisión correcta!
+0076 [Tú] | ...
+0077 [Caramel] | Viniste hasta aquí a escuchar mi presentación por esa razón. ¿Verdad, Jefe?
+0078 [Tú] | Simplemente me atrajo tu música, pero tu presentación de verdad fue impresionante.
+0079 [Tú] | Quizá hiera un poco tu ego, pero debo admitir que fue pura casualidad.
+0080 [Tú] | Entonces, buscas un productor porque te falta inspiración, ¿verdad?
+0081 [Caramel] | Sí...==B== ¡Sí! ==W==¡Inspiración!
+0082 [Caramel] | … Estos últimos días intenté tocar mi bajo ...==B== para el océano, las montañas y los Monolitos, pero nada me llegó.
+0083 [Caramel] | Antes, con solo unas respiraciones profundas bastaba para escuchar su llamado...==B== Los sonidos que hacen.
+0084 [Caramel] | ¿Qué hago si ...==B== los Monolitos dejan de responderme...?
+0085 [Narración] | Caramel es una excelente música y una Trekker única que usa la música como arma.
+0086 [Tú] | Antes noté que parece estar muy en sintonía con los sutiles y distantes sonidos extraños que provienen del interior de los Monolitos.
+0087 [Narración] | Esos sonidos podrían ser parte de la verdad sobre los Monolitos; es solo que la gente, incluido yo, no los entiende del todo.
+0088 [Tú] | En fin, el talento y la curiosidad de Caramel son cualidades verdaderamente raras y valiosas.
+0089 [Tú] | … Además, ¡apoyar la obra de una joven artista talentosa podría contar también como uno de los logros del Jefe!
+0090 [Tú] | Ya veo, de hecho es un problema serio.
+0091 [Tú] | Aunque no sé mucho de música, cuando se trata de encontrar inspiración, definitivamente puedo ayudarte a pensar en ideas.
+0092 [Caramel] | Genial...==W== Entonces vamos a...
+0093 [Narración] | Una nota incómoda interrumpe su voz, que se ha ido debilitando por el hambre.
+0094 [Tú] | … ¿Quizá deberíamos sentarnos a comer primero?

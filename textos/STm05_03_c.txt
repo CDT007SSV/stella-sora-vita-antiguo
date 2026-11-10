@@ -1,0 +1,156 @@
+# Capítulo 5 · Una chispa en la oscuridad · 3C · Hierba milagrosa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:All | Todos
+N:Anxious Employee | Empleado ansioso
+N:Mandrake Radiant Grasses | Hierbas Radiantes Mandrágora
+N:Rampaging Grasses | Hierbas desenfrenadas
+N:Ruby & Sapphire | Ruby y Sapphire
+N:The Two | Los dos
+N:avg1_110 | Firenze
+N:avg1_135 | Mistique
+N:avg2_958 | Hierbajo Peleador
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Hierba milagrosa
+0003 [Intro] | Mistique y tú presencian las plantas mágicas del Departamento de Producción. Las encargadas de aquí, Ruby y Sapphire, son subordinadas de Firenze, y ninguna de las dos conoce la receta.
+0004 [Narración] | Departamento de Producción, Cosecha Unida
+0005 [Ruby] | ¡Atención todos! ¡Es hora de los Estiramientos de Ruby! ¡A llenarnos de energía para el día!
+0006 [Ruby] | ¡Gatito que rueda,==W== que salta y que juega! ♪==W== ¡Estira tu cuerpo y arriba, a volar! ♪
+0007 [Mandrake Radiant Grasses] | ¡Jiiiii... ya...! ♪
+0008 [Ruby] | ¡Sueña en grande, sin temor! ♪ ¡Los gatitos chiquitos se quedan, qué horror! ♪ ¡Pero el arbolito verde un día al cielo llegará! ♪
+0009 [All] | ¡Jiiiii... ya...! ♪
+0010 [???] | ¡Alto! ¡Ruby! ¡Deja de poner a cantar a la Hierba Radiante! Hace apenas una hora los de al lado amenazaron con incinerarlas a todas si no le bajamos.
+0011 [???] | Agh... Hablando del rey de Roma...
+0012 [Ruby] | ¡Sapphire! ¡¿Queeeé?! Hay mucho ruido aquí. ¡NO TE OIGO!
+0013 [Sapphire] | Te==W== estaba==W== diciendo...
+0014 [Sapphire] | ¡YA DEJA DE CANTAR! ¡Ven acá, ahora!
+0015 [Sapphire] | Producción ha recibido diez quejas en tres días. Todas y cada una son sobre la línea de Hierba Radiante.
+0016 [Ruby] | ¡Perdón! ¡Pero lo hacía por el bien del departamento!
+0017 [Sapphire] | ¡Las reglas son las reglas! Cada queja te descuenta tres días de sueldo. A este paso, vas a terminar pagándole a la empresa por trabajar aquí.
+0018 [Ruby] | Eh... ¡Voy a llevar esto directo con Lady Firenze!
+0019 [Ruby] | Además, El poder oculto del sonido en el crecimiento de las plantas dice que la música aumenta la productividad. La Hierba Radiante es una planta, así que también debería funcionar, ¿no?
+0020 [Sapphire] | ¡Espera, Ruby! No molestes a Lady Firenze con estas tonterías. ¡Está saturada!
+0021 [Ruby] | Por el bien del rendimiento de nuestro departamento... ¡Allá voy!
+0022 [???] | ¿Y en qué archivo exactamente dice eso?
+0023 [Ruby] | Hazte rico rápido: consejos para cultivar Hierba Radiante Mandrágora... Eh... El título es larguísimo, se me olvidó. Lo encontré mientras tiraba basura vieja.
+0024 [Ruby] | ¡¿Eh?! ¿Quiénes son ustedes? No parecen del personal de Producción...
+0025 [Mistique] | Jiji. Soy Mistique, del Departamento de Estrategia. Y este es ==PLAYER_NAME==. Hoy empezamos aquí nuestras prácticas.
+0026 [Tú] | Esperamos aprender mucho de ustedes dos.
+0027 [Ruby] | ¡Uuuh! ¡Novatos! ¡Soy Ruby, su superior! ¡Jajaja!
+0028 [Ruby] | Y la amargada de allá es Sapphire.
+0029 [Sapphire] | ¡Si estoy «amargada» es porque me estresa tu informe de apelación!
+0030 [Sapphire] | Ejem. Hola. Soy Sapphire.
+0031 [Ruby] | ¿Ven? No dejen que su mirada los asuste. En realidad es un amor.
+0032 [Tú] | Sapphire... Cuando fui a la Bolsa de Granos con Nazuka...
+0033 [Anxious Employee] | ¡Lamento muchísimo la espera! Soy Sapphire, la encargada de aquí.
+0034 [Tú] | Disculpe por llegar sin avisar.
+0035 [Sapphire] | Para nada. Supe lo de la caza de monstruos, pero eso no lo maneja nuestra bolsa. Le corresponde al Departamento de Marketing. Si viene por la recompensa, puedo ponerlo en contacto con ellos.
+0036 [Sapphire] | En cuanto a Lady Gray, nunca he oído hablar de ella. Definitivamente no está en nuestro Departamento de Producción. ¿Quizá debería preguntar en otro lado?
+0037 [Tú] | Así que la Bolsa de Granos depende de Producción. Eso la convierte en subordinada de Lady Firenze.
+0038 [Tú] | Parece que no me reconoce. Bien. Estamos de incógnito; mejor no saludarla.
+0039 [Ruby] | ¡¿Ven esos noventa y nueve invernaderos?!
+0040 [Ruby] | ¡Son el orgullo de nuestro departamento!
+0041 [Sapphire] | Agh... Ya va a empezar otra vez... Me duele el estómago.
+0042 [Mistique] | ¡Guau, miren esos monstruos!
+0043 [Mistique] | ¿De verdad... están usando Artefactos?
+0044 [Ruby] | Jeje. Apuesto a que se asustaron. Pero no son monstruos. Saluden al invento más reciente de Cosecha Unida: la Hierba Radiante Mandrágora.
+0045 [Mistique] | ¿Hierba Radiante Mandrágora? Nunca había oído de ella... ¿Es una especie rara de monstruo?
+0046 [Ruby] | Puede que se vean un poco aterradoras, pero en realidad son un amor. Miren esto.
+0047 [Ruby] | ¡Gira!
+0048 [Ruby] | ¡Hazte el muerto!
+0049 [Ruby] | ¡La pata!
+0050 [Mistique] | Ay, ¿quién es una hierbita buena? Sí que eres algo linda...==W== Aunque ni de lejos tan encantadora como una bruja.
+0051 [Tú] | ¿Por qué se compara con un monstruo?
+0052 [Sapphire] | Aquí está nuestra línea de producción de pan. La Hierba Radiante puede seguir órdenes básicas, así que le asignamos tareas mecánicas repetitivas.
+0053 [Sapphire] | Ahora, por aquí, por favor.
+0054 [Tú] | Qué hermoso campo de trigo.
+0055 [Ruby] | Jeje. Cosecha Unida cultiva todos los campos de las afueras de Philae.
+0056 [Mistique] | Espera, ¡¿la Hierba Radiante de verdad está cosechando trigo?!
+0057 [Sapphire] | Correcto. Con un entrenamiento paciente, pueden sembrar, regar y cosechar según parámetros predefinidos y la separación entre surcos.
+0058 [Tú] | Si pueden hacer todo eso... ¿No dejarán sin trabajo a los humanos?
+0059 [Ruby] | Por ahora no. Estas cositas son muy poco eficientes. Solo pueden con tareas simples; los humanos todavía les llevamos mucha ventaja.
+0060 [Sapphire] | Es cierto, pero sobreviven solo con fluido nutritivo y luz del sol. En cuanto a costos... salen más baratas que contratar gente.
+0061 [Ruby] | Bueno... No te equivocas.
+0062 [Sapphire] | Esa es la situación con la Hierba Radiante Mandrágora. Puede con algo de trabajo, pero no esperen milagros.
+0063 [Sapphire] | Quizá veríamos mejoras si la empresa siguiera con la investigación.==W== Pero... parece que eso ya no está en la agenda.
+0064 [Ruby] | ¿Verdad? Se suponía que hace dos años iba a haber un proyecto, pero luego lo cancelaron. Ni idea de por qué.
+0065 [Ruby] | Lo dejaron a medias... Qué desperdicio. Si hubieran seguido, a estas alturas esa hierba podría estar haciendo todo por nosotros. ¡Podríamos estar echados descansando!
+0066 [Sapphire] | Ruby, cuida lo que dices. Los de arriba toman las decisiones; nosotras solo seguimos órdenes. No le causes problemas a Lady Firenze.
+0067 [Ruby] | ¡Pero justo por eso tenemos que liberar todo su potencial! También beneficia el crecimiento de la empresa, ¿no?
+0068 [Ruby] | ¿Quién sabe? Quizá un día los invernaderos de Hierba Radiante se expandan... ¡a cien lugares!
+0069 [Sapphire] | Lo único seguro es que nos lleguen quejas de otros departamentos... y luego nos cierren para siempre.
+0070 [Sapphire] | Disculpen. Eh, por favor, no piensen que todos en Producción son tan... poco confiables como ella.
+0071 [Mistique] | ¡La idea de Ruby suena genial! ¡Cuenta conmigo!
+0072 [Ruby] | ¡Ojojojo! ¡Novata! ¡Sabía que tenías visión! ¿Qué tal si dejas Estrategia y te transfieres a Producción ahora mismo?
+0073 [Sapphire] | De verdad, otra vez diciendo tonterías... Agh, ahora me duele todavía más el estómago...
+0074 [Tú] | Oye, ¿estás bien? Déjame ayudarte a sentarte.
+0075 [Sapphire] | Eh, este,==W== g-gracias.
+0076 [Mistique] | (Mmm. El Jefe se llevó a Sapphire a descansar. La oportunidad perfecta para investigar esta Hierba Radiante Mandrágora).
+0077 [Mistique] | (No puedo creer que Cosecha Unida esconda algo tan extraño... ¡Esto va a ser una primicia enorme!).
+0078 [Mistique] | (Si de paso pudiera sacar un poco más de trapitos sucios...).
+0079 [Mistique] | Entonces, Ruby, ¿cuál es el plan? ¿Qué hacemos ahora?
+0080 [Ruby] | ¡Mistique! ¿Sabes cantar?
+0081 [Mistique] | ¡Claro! Rock, pop, baladas... ¡Puedo con todo!
+0082 [Ruby] | ¡Genial! ¡Entonces cantémosle a la Hierba Radiante!
+0083 [Ruby] | Últimamente he estado probando esto. La música de verdad las pone en movimiento. Mira...
+0084 [Ruby] | ¡Gatito que rueda, que salta y que juega! ♪==W== ¡Estira tu cuerpo==W== y arriba, a volar! ♪
+0085 [Ruby] | ¡Sueña en grande, sin temor! ♪ ¡Los gatitos chiquitos se quedan, qué horror! ♪ ¡Pero el arbolito verde un día al cielo llegará! ♪
+0086 [Mandrake Radiant Grasses] | ¡Jiiiii... ya...! ♪
+0087 [Mistique] | Qué locura. ¿De verdad entienden la música?
+0088 [Ruby] | ¡Hasta tienen sus favoritas! Si canto la canción equivocada, empiezan a flojear.
+0089 [Mistique] | Suena a que se portan menos como plantas y más como cachorritos o gatitos.
+0090 [Ruby] | Mmm, ahora que lo dices, a veces se me quedan viendo. Como si esperaran un concierto.
+0091 [Mistique] | ¿Como ahorita?
+0092 [Ruby] | ¡Oigan! ¡Dejen de mirar! ¡Van a detener la línea de producción!
+0093 [Ruby] | Vamos, Mistique. ¡Canta conmigo!
+0094 [The Two] | ¡Gatito que rueda, que salta y que juega! ♪ ¡Estira tu cuerpo y arriba, a volar! ♪
+0095 [The Two] | ¡Sueña en grande, sin temor! ♪ ¡Los gatitos chiquitos se quedan, qué horror! ♪==W== ¡Pero el arbolito verde un día al cielo llegará! ♪
+0096 [Mandrake Radiant Grasses] | ¡¡Jiaaaaaa... jaaah!!♪♪
+0097 [Mistique] | Eh, ¿señorita Ruby? ¡¿Estoy casi segura de que esto no es el procedimiento estándar?!
+0098 [Ruby] | ¡Definitivamente no, pero todo bien!==W== Un poco de música relajante debería calmarlas.
+0099 [Ruby] | Uno, dos, tres. Tres, dos, uno.==W== El gatito amasa la masa, suavecita como ninguna.
+0100 [Mistique] | Y unos pelitos de gato de regalo, sin costo alguno.
+0101 [Mandrake Radiant Grasses] | ¡¡Jiaaaaaa... jaaah!!♪♪
+0102 [Mistique] | ¡Pues de mucho sirvió!==W== ¡Cuidado, ahí viene!
+0103 [Ruby] | ¡¿Cajas?! ¡Están aventando todo lo que agarran!
+0104 [Ruby] | ¡¡A este paso, todo el lote se va a echar a perder!!
+0105 [Sapphire] | ¡¿Qué está pasando?! ¡La línea es un desastre total!
+0106 [Ruby] | ¡No hay tiempo para explicar! ¡Ayúdame!
+0107 [Rampaging Grasses] | Grrrr...
+0108 [Tú] | ¡Rayos, no puedo esquivarlo!
+0109 [Sapphire] | ¡¿Cómo llegó esto a ponerse tan mal?!
+0110 [???] | No se queden ahí mirando.
+0111 [Ruby] | Lady...
+0112 [Sapphire] | ¡¡Lady Firenze!!
+0113 [Firenze] | Sapphire, Ruby. ¿Esto es lo que hoy en día se considera «gestión» en Producción?
+0114 [Ruby & Sapphire] | ¡Lo sentimos!
+0115 [Firenze] | Y en cuanto a ustedes dos, novatos... Considérenlo una lección aprendida.
+0116 [Firenze] | La Hierba Radiante Mandrágora es una fuerza laboral productiva, pero muy volátil. Todavía no tenemos ningún medio eficaz para comunicarnos con ella.
+0117 [Firenze] | Por lo tanto, un solo momento de descuido lleva a esto.
+0118 [Tú] | E-entendido. Tendremos cuidado.
+0119 [Firenze] | Limpien esto de inmediato. Que no afecte las cuotas de hoy.
+0120 [Ruby & Sapphire] | ¡S-sí, Lady Firenze!
+0121 [Mistique] | Podemos ayudar.
+0122 [Tú] | Qué aura tan intimidante. Ahora parece una persona totalmente distinta.
+0123 [Tú] | ¿Esta es la «cara de la empresa»? Una máscara para el público y otra muy distinta para el personal...
+0124 [Mistique] | Jefe, sabía que Cosecha Unida escondía una gran primicia. Solo estas plantas ya son material de primera plana.
+0125 [Mistique] | Entonces, ¿cuál es el plan?
+0126 [Opción] | Ver cómo van Noya y Fuyuka
+0127 [Opción] | Ver cómo van Iris y Amber
+0128 [Opción] | Dar por terminado el día
+0129 [Tú] | Vamos a I+D.==W== Las ideas locas de Noya combinadas con la fuerza bruta de Fuyuka... Eso me preocupa.
+0130 [Mistique] | Entendido. Solo te aviso:==W== allá es un mar de batas de laboratorio.
+0131 [Tú] | Pasemos por Marketing.==W== Iris puede con el papeleo y las relaciones públicas sin problema,==W== pero Amber... no estoy tan seguro.
+0132 [Mistique] | Tranquilo. Ya se las arreglarán de algún modo.
+0133 [Tú] | Regresemos. Tenemos que reagruparnos y repasar las pistas.
+0134 [Mistique] | Jeje. Me muero por saber qué trapitos sucios logró sacar cada quien hoy.

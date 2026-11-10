@@ -1,0 +1,185 @@
+# Capítulo 6 · Milagro de un destello · 13 · An Unknown Tomorrow
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Nyx & Firenze | Nyx y Firenze
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg1_156 | Nazuna
+N:avg1_1996 | Noya
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_108 | Cosson
+N:avg3_115 | Jayhawk
+N:avg3_1265 | Firenze
+N:avg3_132 | Kaede
+N:avg3_134 | Mina
+N:avg3_136 | Ruby
+N:avg3_974 | Serena
+N:avg3_999 | ???
+N:avg4_102 | Figura misteriosa
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Un mañana desconocido
+0003 [Intro] | Con la derrota de Darcia, la guerra se detiene y se evita más derramamiento de sangre. Para reparar la ruptura, Petal Bloom escoltará a Mina a la sede para negociar. Pero el incidente está lejos de terminar; oscuras corrientes se agitan bajo la superficie…
+0004 [Lugar y hora] | 11:00, 23.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0005 [Ruby] | Lady Firenze, atrapamos la última Hierba Radiante Mandrágora de la ciudad. La operación fue un éxito.
+0006 [Noya] | ¿Sinceramente? Estas cositas son medio lindas. Seguro tendrían éxito como mascotas, ¿no creen?
+0007 [Iris] | ¿De verdad crees que la gente quiere tener esa cosa en su casa...?
+0008 [Noya] | ¡Claro! ¡Nada más mira esos ojitos inocentes!
+0009 [Tú] | Iris, viven de sol, tierra y agua.==W== Hasta ayudan con los quehaceres. Casi no necesitan cuidados.
+0010 [Iris] | ¿Nos llevamos una, entonces? Si va en el techo, le dará mucho sol.
+0011 [Amber] | ¡¿El techo?!==W== ¡Ni hablar! ¡Ese es mi lugar!
+0012 [Narración] | Dos semanas después de la caída de Darcia, la paz regresa a Philae.
+0013 [Narración] | En cuanto a las legiones de la sede de Cosecha Unida, se resignaron a sus pérdidas y volvieron a casa con la cola entre las patas.
+0014 [Narración] | Terminada la batalla, sacamos a Nyx y a Mina de los tanques y le dimos sepultura a Darcia.
+0015 [Narración] | Las Plantas Inteligentes, privadas de sus «nutrientes», volvieron a ser Hierbas Radiantes Mandrágora comunes...
+0016 [Narración] | En los últimos dos días, Ruby, Sapphire y Noya lograron capturar con sus cantos a la mayoría de las Hierbas Mandrágora dispersas.
+0017 [Narración] | Impulsada por su celo periodístico, Mistique se recupera en dos semanas y ya está escribiendo a toda prisa un reportaje a fondo sobre todo el asunto.
+0018 [Narración] | Pero para los que estamos reunidos en la oficina, se avecina un desafío mayor.
+0019 [Mina] | ¿E-están seguros de esto?==W== Negociar con el Senado... Seguramente Lady Firenze, o incluso Ruby y Sapphire, serían más adecuadas...
+0020 [Firenze] | Yo estoy atorada aquí limpiando el desastre de Darcia.==W== Y necesito a Ruby y a Sapphire; tendría un dolor de cabeza enorme si me dejaran ahora.
+0021 [Firenze] | Además, ¿no fue Darcia quien te recomendó?
+0022 [Mina] | Bueno... Me prometió un escaño en el Senado... con la condición de que entrara al tanque y me convirtiera en nutriente.
+0023 [Mina] | ¡No me malinterpreten! ¡No acepté porque quisiera el escaño!
+0024 [Mina] | Como a las plantas se les pegó lo dormilona de Nyx, pensé que si me convertía en nutriente, quizá también heredarían mi obediencia. Así le harían caso a ==PLAYER_NAME== y no a ella.
+0025 [Tú] | Entiendo. Y tenías razón:==W== el plan de Darcia se descarriló.==W== Buen trabajo, Mina.
+0026 [Mistique] | Vaya, vaya. Parece que ser tan apegada a las reglas tiene sus ventajas.
+0027 [Mina] | Apenas te estás recuperando. ¿Por qué no ahorras saliva y descansas?
+0028 [Firenze] | No te subestimes, Mina. Nuestra sucursal solo tiene un escaño en el Senado, pero ese voto pesa como diez.
+0029 [Firenze] | Además,==W== el representante recibe automáticamente el diez por ciento de las acciones de la sucursal.
+0030 [Fuyuka] | Maestro, ¿qué son... las acciones?
+0031 [Tú] | Básicamente... significa que Mina es dueña de la décima parte de la sucursal de Philae.==W== O mejor dicho, el cargo que ocupa lo es.
+0032 [Mina] | ¡¿Q-qué?!
+0033 [Noya] | Guau, ¿Mina se acaba de volver millonaria así nada más?
+0034 [Firenze] | Je, no puede venderlas. Esas acciones son un bien honorario ligado al título. Normalmente las tiene el director ejecutivo.
+0035 [Firenze] | Pero ahora mismo, controlar ese diez por ciento es crucial para nosotros.
+0036 [Firenze] | Darcia te cedió el título antes de meterte al tanque. Casi como si... supiera que esto pasaría.
+0037 [Darcia] | Pero al ver a las personas que usted elige tener a su lado...==W== me di cuenta de que nunca podría ser una de ellas. Me desvié demasiado del camino.
+0038 [Darcia] | Así que esto es todo...==W== El fin de Darcia.
+0039 [Darcia] | Pero hice las paces con eso hace mucho. No busco redención.==W== Desprecio a la humanidad y seguiré siendo su enemiga hasta mi último aliento.
+0040 [Tú] | Ofrecerme todo antes de su derrota... ¿Lealtad ciega? ¿O su obsesión con su Tirano imaginario?
+0041 [Tú] | Mina, tú respetas las reglas y, de todos nosotros, eres la que más quiere a esta sucursal. Eres la representante perfecta.
+0042 [Tú] | Después del desastre que dejó Darcia, la sede nos vigila con lupa.
+0043 [Mina] | Cuando llamaron, nos trataron como cómplices. Amenazaron con despedir a todo el personal de esta sucursal.
+0044 [Mina] | Y-yo... no voy a permitirlo. Yo misma me encargaré de la apelación ante el Senado.
+0045 [Tú] | Bien. Fuyuka, Nazuka, Nazuna y Kaede. ¿Me pueden hacer un favor?
+0046 [Nazuna] | ¡Je, je! ¿Qué pasa? ¿Una gran misión importante para nosotras?
+0047 [Tú] | Necesito que escolten a Mina a la sede de Cosecha Unida.
+0048 [Fuyuka] | La sede... parece que está muy lejos.
+0049 [Tú] | Exacto. Con la sede tan hostil, sería un viaje peligroso. Por eso las necesito.
+0050 [Kaede] | Je, claro. El gran regreso de Petal Bloom. Empezar con un trabajo pesado es buena señal.
+0051 [Nazuka] | Está bien. Ya que el Jefe lo pide, mantendré a salvo a la señorita Mina.
+0052 [Tú] | ¿Mmm? Nazuka sonó desanimada. ¿Estará enferma?==W== Vita, ¿puedes averiguar por qué?
+0053 [Vita] | Por supuesto. Déjeme el análisis a mí.
+0054 [Vita] | Tirano, ¿le importaría mostrar su Sello de la Gracia del Alfil?
+0055 [Tú] | Claro, pero ¿qué tiene que ver eso con lo de Nazuka?
+0056 [Nazuka] | ¡Jefe, mire! La pieza... está flotando.
+0057 [Vita] | El Sistema de Desarrollo de Tiranos del Pozo de los Mundos identificó el poder que contiene este Sello de la Gracia. Se llama «Oráculo».
+0058 [Tú] | Oráculo... Los dioses lo usan para proyectar su voluntad directamente en la mente de las personas.
+0059 [Tú] | ¿Así fue como Darcia les metió a la fuerza habilidades humanas a esas plantas?
+0060 [Vita] | Correcto. Sin embargo, el nivel de su sistema es demasiado bajo para desbloquear todo su potencial. Por ahora, solo puede acceder a un fragmento del poder: el Heartlink ilimitado.
+0061 [Nazuka] | ¿Qué significa eso? No entiendo...
+0062 [Vita] | La aplicación Heartlink usa magia de Artefacto integrada. Toma energía de los Monolitos para permitir llamadas y mensajes a distancia.
+0063 [Vita] | Normalmente, los dispositivos solo se conectan si están dentro del alcance del mismo Monolito. Si no, el enlace falla.
+0064 [Vita] | Pero la autoridad del Oráculo se salta esa limitación. Una vez vinculado con el dispositivo del Trono, puede comunicarse desde cualquier lugar de Nova, sin importar la distancia.
+0065 [Vita] | Así que quédese tranquila, Lady Nazuka.
+0066 [Vita] | Con el Heartlink ilimitado, sentirán que están uno al lado del otro, sin importar la distancia.
+0067 [Nazuka] | ¡¡¿D-d-d-de qué estás hablando?!!
+0068 [Nazuka] | ¡No es como si me fuera a sentir sola sin el Jefe! Y definitivamente no me preocupa que ==SEX== se olvide de mí... ¡D-definitivamente no!
+0069 [Nazuka] | ¡Ejem!==W== Fuyuka, pon a todos en marcha. Tenemos que prepararnos.
+0070 [Fuyuka] | ¡S-sí!==W== Yo tampoco quiero dejar al Maestro... Tengo miedo, ¡pero seré valiente!
+0071 [Mistique] | Je, je, ¡yo quiero ir con ustedes! ¡Suena divertido! Pero primero tengo que terminar de escribir esta exclusiva.
+0072 [Firenze] | Vaya... Hacía siglos que el ambiente aquí no se sentía tan ligero.==W== Se lo debemos a usted, Jefe.
+0073 [Tú] | Todavía no podemos relajarnos. Las legiones se fueron, pero Cosson y Jayhawk no.
+0074 [Tú] | Además, solo eres la directora ejecutiva interina. Si la sede manda a alguien para reemplazarte…
+0075 [Firenze] | Naturalmente. Por eso seguiré necesitando de su experiencia.
+0076 [Firenze] | No lo olvide. Somos aliados de por vida.
+0077 [Tú] | No lo olvidaré. Somos compañeros que pelearon codo a codo.
+0078 [Firenze] | En efecto. Pero soy un «peón» caro, Jefe. Cumpla mi deseo y podrá mover las piezas del tablero como le plazca.
+0079 [Tú] | N-no esperes que yo piense todo.
+0080 [Firenze] | Ah, cierto. Tome esto.
+0081 [Tú] | ¿Qué es esto...?
+0082 [Firenze] | Hace dos años, Darcia me mandó a su orfanato por una «reliquia antigua». Me negué a ser su mandadera o a alimentar su locura.
+0083 [Firenze] | Así que eché a perder el sigilo a propósito. Quería que la gente del orfanato nos viera, llamara a la Guardia Imperial y nos ahuyentara. Una excusa válida para volver con las manos vacías.
+0084 [Firenze] | Pero en vez de eso, todos desaparecieron de la noche a la mañana.==W== Quizá pensaron que huir era más seguro que llamar a los guardias.
+0085 [Firenze] | O mejor dicho... quizá estaban seguros de que podían escapar de nosotros.
+0086 [Noya] | Así que la tía Allie y los niños se fueron... por tu culpa. Pero en realidad intentabas ayudar.
+0087 [Amber] | Estás perdonada.
+0088 [Iris] | ¿Sabes adónde fueron?
+0089 [Firenze] | Me temo que no.==W== Pero después de que se fueron, investigué el sótano y encontré dos objetos.
+0090 [Firenze] | Uno era una vieja receta de Ruiseñor Leonado. El otro era esta brújula.
+0091 [Firenze] | Bueno, no exactamente una brújula. Esa aguja con forma de Piedra del Alma está fija para apuntar en una sola dirección, sin importar hacia dónde la gires.
+0092 [Firenze] | Si la siguen... quizá encuentren las respuestas que buscan.
+0093 [Noya] | Mmm. Creo que ya he visto esto... cuando me metía a escondidas al sótano de niña...
+0094 [Iris] | ¿Lo reconoces, Noya?
+0095 [Noya] | Mmm... ¡nop, no me acuerdo de nada!==W== En fin, una pista es una pista. Caminaremos hacia donde apunte, ¡tarde o temprano encontraremos algo!
+0096 [Firenze] | Entonces se los dejo. Adiós a todos.
+0097 [Tú] | No has tomado ni un descanso en todo este tiempo. ¿No deberías bajarle un poco?
+0098 [Firenze] | Le agradezco la preocupación, pero no soy adicta al trabajo. El trabajo no se va a ir a ningún lado, así que antes de empezar...
+0099 [Firenze] | Voy a visitar a una amiga.==W== Hace siglos que no tenemos una buena charla.
+0100 [Firenze] | Mmm... ¿Qué se me antoja hoy?
+0101 [Nyx] | Te quedas mirando esos botones una eternidad, y al final siempre agarras la bebida de limón.
+0102 [Firenze] | Je. Me conoces demasiado bien.
+0103 [Nyx] | Me desconcierta desde la escuela. Eres decidida en todo lo demás, pero te pones frente a un Artefacto expendedor ¿y te congelas?
+0104 [Firenze] | ¿Mmm? ¿Nunca te lo dije? Si me tardo lo suficiente, siempre aparece cierta alma bondadosa a invitarme una bebida.
+0105 [Nyx] | ¿Ah, sí? Bueno, ¿alguna vez te dije esto?==W== Voy a pedir un reembolso. ¿El total de todas esas bebidas a lo largo de los años? 26 800 Dorra.
+0106 [Firenze] | Uf... Qué tacaña.
+0107 [Nyx] | Oye, tú te las tomaste.==W== Hablando de eso, ¿cuánto tiempo ha pasado desde la última vez que te invité?
+0108 [Firenze] | 3 años y 268 días.
+0109 [Firenze] | ¿Eh? ¿Desde cuándo tomas de limón? Nunca te había visto elegir ese sabor.
+0110 [Nyx] | No tomo. Pero necesitaba vengarme de la «villana» que me degradó. Pensé que si compraba todas las bebidas de limón del edificio, cierta persona se quedaría con las ganas.
+0111 [Firenze] | ¿Esa degradación? ¿En serio? Planeamos ese teatro juntas solo para engañar a Darcia.
+0112 [Nyx] | Tal vez, pero aun así me traían de un lado a otro en Marketing. Me tocaba todo el trabajo pesado que nadie más quería.
+0113 [Firenze] | Entonces... ¿Quieres volver como inspectora?==W== Sigo pensando que eres perfecta para el puesto.
+0114 [Nyx] | Inspectora...==W== Pff, paso. No necesito que la gente ande diciendo que me dan «trato especial» por estar con alguien de arriba. Además, Marketing de hecho es bastante interesante.
+0115 [Nyx] | En fin, no debería entretener a nuestra directora de operaciones. Mejor regreso a mi escritorio.
+0116 [Firenze] | Mjm. Hasta una charla breve ayuda. Me siento mucho más ligera.
+0117 [Nyx & Firenze] | Oye, por cierto...
+0118 [Nyx] | Je. Le cedo el turno a la directora. Tú primero.
+0119 [Firenze] | Ay, de verdad... Aquí el rango no importa. Está bien, empiezo yo.
+0120 [Firenze] | La próxima vez que necesites una foto mía, ahórrame la de la credencial, ¿quieres? Francamente, me veo un poco...
+0121 [Nyx] | Es la única que tengo... ¡Además, todos saben al instante que eres tú!
+0122 [Firenze] | (Suspiro) Está bien. Luego te mando un retrato como se debe. Usa ese.==W== Ahora, ¿qué querías decirme?
+0123 [Nyx] | Bueno... Como líder, tu carga de trabajo solo va a crecer. El peso sobre tus hombros también será cada vez mayor...
+0124 [Nyx] | Por eso espero que te acuerdes de sonreír, aunque las cosas se pongan difíciles. Una líder con cara de piedra estresa a todo el mundo.
+0125 [Firenze] | ...
+0126 [Nyx] | ...
+0127 [Firenze] | Imagínate esto. Una jefa conocida por su cara inexpresiva de repente empieza a sonreírle radiante a todo el mundo. ¿Qué pensaría la gente?
+0128 [Nyx] | Tú... sonriéndole radiante a todo el mundo...==W== ¡Uy! ¡No, eso da miedo!
+0129 [Firenze] | Je. ¿Ves? Es más seguro si no sonrío, ¿no?
+0130 [Nyx] | Claro que no. Estricta o amable, me caes bien de cualquier forma.
+0131 [Nyx] | Así que... por mí, ¿podrías sonreír como antes?
+0132 [Firenze] | Como antes... Je. No tienes remedio. No le aceptaría una petición tan tonta a nadie más.
+0133 [Nyx] | ¿En serio? Entonces, a partir de mañana, ¿puedo contar con una Firenze radiante iluminando la oficina? ¡Ah! Y sobre esa foto... Ya que estamos aquí, ¿por qué no te tomo una nueva ahora mismo?
+0134 [Firenze] | ¿Eh? ¿Quieres tomarla tú?
+0135 [Nyx] | ¡Claro! Como tu mejor amiga, soy la única que sabe exactamente cómo capturar tu lado más lindo.
+0136 [Firenze] | Tienes un talento para hacer que cualquier tontería suene lógica con tal de salirte con la tuya... Y de algún modo, siempre te hago caso.
+0137 [Firenze] | Aunque, pensándolo bien, quizá esa forma de ser tuya es justo la razón por la que nos llevamos tan bien.
+0138 [Firenze] | Nyx... Gracias por todo. Por favor, sigue a mi lado. Recorramos juntas este camino.
+0139 [Narración] | ♫ Orbital Interpretada por: THE BINARY Letra: naoki tani, mido (THE BINARY) / Composición y arreglos: naoki tani
+0140 [Lugar y hora] | 14:00, 23.º del mes de Messis, Distrito de Oro de Philae, una sala de conferencias
+0141 [Serena] | El Imperio de la Gracia, la Guardia Imperial, Cosecha Unida, Finanzas del Mar Profundo, e incluso los de Goodwind y Loong aceptaron la invitación.
+0142 [Serena] | Philae está a punto de llenarse de gente.
+0143 [Serena] | Mmm... Vi de primera mano tus dotes de mando en aquella pelea. Pero la guerra que viene no se ganará con fuerza bruta: se libra con Dorra.
+0144 [Serena] | No te contengas, Jefe. Muéstrame todo. ¿Podrás voltear la mesa y arrebatarle la victoria a la derrota esta vez? Veamos.
+0145 [Lugar y hora] | 15:00, 23.º del mes de Messis, Distrito Invernadero, Philae, Plaza de la Abundancia
+0146 [Tú] | ¡Achú! Brr, definitivamente ya llegó el otoño.
+0147 [Tú] | Espero que Mina y Petal Bloom hayan empacado ropa abrigadora. Le pediré a Mistique que les mande ropa de invierno.
+0148 [Tú] | Ah, perdón. No me fijé por dónde...==W== ¿Eh?
+0149 [Tú] | ¿No hay nadie? Pero juraría que choqué con alguien. ¿Me estará engañando la mente?
+0150 [Narración] | Mientras los pasos del Jefe se alejan, una ráfaga repentina barre la esquina vacía.
+0151 [Narración] | Una sombrilla se materializa en el aire y, debajo de ella, aparece poco a poco una figura elegante.
+0152 [???] | Árboles y sombras familiares... Hasta el polvo trae el aroma de días pasados. Qué nostalgia, Philae.
+0153 [???] | Mi adorable presa... La cacería está por comenzar. Procura entretenerme un buen rato, ¿quieres?
+0154 [Narración] | Continuará

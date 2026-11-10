@@ -1,0 +1,85 @@
+# Historia de Kasimira · 2 · A Lucky Day (Part 2)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dessert Shop Clerk | Empleado de la pastelería
+N:Gluttonous Rabbit | Conejo glotón
+N:avg1_108 | Kasimira
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Un día de suerte (Parte 2)
+0003 [Intro] | ¿Dónde encontrar un amuleto de la suerte? ¿En el bosque o en una galleta?
+0004 [Tú] | ¿Me pagas diez veces la tarifa habitual solo por encontrar un trébol de cuatro hojas?
+0005 [Kasimira] | Así es. Hoy tengo algo muy importante que hacer. Y sin un buen amuleto de la suerte... ==W==simplemente no me siento segura.
+0006 [Tú] | ¡Whoa, whoa, ¿diez veces el pago por un amuleto de la suerte?! ¡Eres una mercenaria del Gato Blanco curtida en batalla! ¿De verdad crees en esas cosas?
+0007 [Kasimira] | El amuleto de hoy es el hueso de la suerte que conseguí hace un mes cuando jugué al juego del hueso de la suerte con Chaton.
+0008 [Kasimira] | Lo limpié con cuidado y lo guardé a salvo en un bolsillo oculto, pero ahora desapareció.
+0009 [Tú] | Probablemente lo perdiste durante la batalla de simulación.
+0010 [Kasimira] | No, no. Simplemente se gastó.
+0011 [Tú] | ¿Se gastó? ¿A qué te refieres?
+0012 [Kasimira] | Sabes cómo la gente «acumula buen karma», ¿no? Creo que la suerte funciona algo así. La suerte que ahorras con el tiempo se gasta cuando ocurre algo afortunado.
+0013 [Kasimira] | Hoy gané por un cartucho defectuoso. Creo ... que ese hueso cumplió su propósito al equilibrar eso. Por eso desapareció.
+0014 [Tú] | Mmm... ==W==Más o menos lo entiendo... Pero también más o menos no...
+0015 [Tú] | En fin, olvida el encargo por diez veces la tarifa. Haré todo lo posible por ayudarte a encontrar uno. En cuanto a si de verdad podemos... ==W==bueno, eso depende del destino.
+0016 [Kasimira] | Estoy segura de que sí. Tú tienes el número de la suerte 8, ¿no?
+0017 [Tú] | ¿Qué número de la suerte...? ==W==Si ayer el tendero me hubiera dado un cambio distinto, no habrían sido 8 monedas en absoluto.
+0018 [Tú] | Espera un momento... Entonces el cambio más las monedas que ya tenía sumaron exactamente ocho... ¿Podría ser de verdad una especie de señal de suerte?
+0019 [Tú] | Nah, imposible...
+0020 [Tú] | ¡Kasimira! ¡Ven! Encontré uno.
+0021 [???] | Glup...
+0022 [Tú] | Guau, ¿qué es esto?
+0023 [???] | ¡Guuchuu...!
+0024 [Tú] | ¡No voy a dejar que me arrebates ese trébol de cuatro hojas después de tanto esfuerzo! ¡Te atrapé, pequeño ladrón!
+0025 [Kasimira] | ¿Qué pasa, Jefe? ¿Te topaste con un monstruo?
+0026 [Kasimira] | Oh, es un conejo salvaje. Qué lindo.
+0027 [Tú] | De pronto saltó y se comió el trébol de cuatro hojas que acababa de encontrar.
+0028 [Kasimira] | ¡¿Qué?!
+0029 [Tú] | Eh... ¿Por qué sacaste de repente un cuchillo de combate?
+0030 [Kasimira] | He oído que la pata izquierda de un conejo también puede usarse como amuleto de buena suerte.
+0031 [Gluttonous Rabbit] | ¡Wah...!
+0032 [Kasimira] | Aunque en realidad no me lo creo.
+0033 [Narración] | Mientras habla, Kasimira saca unas hierbas de su capa, las pica con cuidado y empieza a aplicarlas en la pata izquierda del conejo como ungüento de emergencia.
+0034 [Kasimira] | Mira, a este conejo le lastimaron la pata izquierda.
+0035 [Kasimira] | Si de verdad trajera buena suerte, no habría manera de que se lastimara tan fácilmente.
+0036 [Tú] | Una mercenaria feroz, pero sorprendentemente gentil para cosas como esta.
+0037 [Kasimira] | Muy bien, listo. Escóndete en tu madriguera unos días. La herida sanará en poco tiempo.
+0038 [Gluttonous Rabbit] | ¡Guuchuu...!
+0039 [Kasimira] | Hasta la próxima.
+0040 [Tú] | Eres bastante hábil para vendar.
+0041 [Tú] | No esperaba ver un lado tan gentil de ti, Kasimira.
+0042 [Kasimira] | ¡¿Q-qué quieres decir con gentil...?! ==W==E-esas hierbas se habrían marchitado de todos modos si no las usaba... Hay que reemplazarlas con regularidad, es todo...
+0043 [Tú] | Muy bien, ya entiendo. Entonces, Kasimira, no se trata realmente de QUÉ es el amuleto, ¿verdad? Solo quieres un amuleto, cualquiera sirve.
+0044 [Kasimira] | Mmm...
+0045 [Tú] | Conozco un lugar donde puedes conseguir un amuleto con mucha facilidad.
+0046 [Kasimira] | Huele tan rico... ==W==¿Es una pastelería?
+0047 [Tú] | En esa mesa de allá están los dulces de edición limitada de la tienda: ==W==galletas de la fortuna. Cada una tiene adentro un papelito con una predicción distinta.
+0048 [Kasimira] | Mmm, déjame probar.
+0049 [Kasimira] | ¿Mm?
+0050 [Tú] | ¿Qué te salió?
+0051 [Kasimira] | Ma... ==W==¡¿Mala suerte pésima?!
+0052 [Tú] | ¡¿Eh?! ¡No puede ser! Se supone que no ponen fortunas así en una galleta de la fortuna...
+0053 [Dessert Shop Clerk] | Disculpe, señorita, tomó la equivocada. Las galletas de la fortuna están en otra mesa. Lo que tiene es una de nuestras «Galletas del Presagio Divino».
+0054 [Kasimira] | ¿E-equivocada...? ==W==No, esto debe ser una señal del Dios de la Gracia... ==W==Una advertencia de que hoy no es el día adecuado para esa tarea importante.
+0055 [Tú] | ¡No te desanimes tanto! Hay un montón de maneras de aumentar tu suerte...
+0056 [Tú] | ...como el koi de la suerte frente al Comedor Fenghuang, o el gato de la suerte de Goodwind Homecare...
+0057 [Tú] | Vaya, nunca había visto a Kasimira tan decaída. ¡Tengo que pensar en cómo animarla!
+0058 [Tú] | Disculpe, ¿tienen algún postre de suerte extrema?
+0059 [Dessert Shop Clerk] | ¿De suerte extrema, eh? Entonces, ¿qué tal si prueban nuestro producto más nuevo, ==W==la Galleta de la Fortuna de Herradura?
+0060 [Kasimira] | ¿Qué es eso?
+0061 [Dessert Shop Clerk] | Es una galleta basada en una leyenda de buena suerte que los Trekkers sacaron del interior del Monolito.
+0062 [Dessert Shop Clerk] | Cuenta la leyenda que un demonio obligó a un herrero a hacerle zapatos, pero el herrero le clavó herraduras al rojo vivo en los pies y lo ahuyentó. Por eso las herraduras llegaron a simbolizar protección y suerte.
+0063 [Tú] | Qué leyenda tan extraña...
+0064 [Kasimira] | Ya veo... ==W==El demonio, la herradura y los zapatos... ==W==Ahora lo entiendo. Quiero una, por favor.
+0065 [Kasimira] | Nada mal... ==W==Entonces, ¿cuál es la fortuna dentro de la galleta?
+0066 [Tú] | ¿Qué dice esta vez?
+0067 [Kasimira] | «Ichi-go ichi-e», que significa «una vez en la vida»... ==W==Justo lo que pensaba.
+0068 [Kasimira] | Jefe, ¿te quedarías conmigo un poco más? Creo ... que por fin estoy lista para hacer esa cosa importante.
+0069 [Tú] | Claro que sí. Pero... ==W==todavía no has encontrado tu amuleto de la suerte, ¿verdad? «Ichi-go ichi-e»... ==W==No suena precisamente a una fortuna de buena suerte.
+0070 [Kasimira] | No, no, el Dios de la Gracia ya me dio una señal. Ya tengo mi respuesta.
+0071 [Kasimira] | Jefe, lo que estoy a punto de hacer... quiero que estés presente como testigo.
+0072 [Tú] | Está bien. Ya que llegamos hasta aquí, me quedaré contigo hasta el final.

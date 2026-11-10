@@ -1,0 +1,120 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 8 · El sol brilla de nuevo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Guild Leader | Líder del Gremio
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_142 | Cosette
+N:avg1_160 | Willow
+N:avg2_945 | Cangrejo ermitaño
+N:avg2_983 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | El sol brilla de nuevo
+0003 [Intro] | Tú y Willow por fin están fuera de peligro, y tus amigos llegan en bote a buscarlos. Justo cuando van a irse, se topan con el cangrejo ermitaño, que ha hecho de la isla su hogar...
+0004 [???] | ¡Yo los detengo! ¡Tú ve primero, Willow!
+0005 [Willow] | ¡No! La capitana confió en mí para mantenerte a salvo. ¡No pienso dejarte atrás!
+0006 [???] | Está bien, yo me encargo. Busca un lugar seguro y espera. ¡Te alcanzo enseguida!
+0007 [Willow] | No...==W== ¡No te vayas!
+0008 [Guild Leader] | Lo siento, Willow...==W== Los doctores hicieron todo lo que pudieron, pero no lograron salvarte el brazo izquierdo.
+0009 [Willow] | Ya veo...==W== Con razón me siento mucho más ligera. ¿Y ella? ¿Cómo está?
+0010 [Guild Leader] | Sigue en cirugía. Pero los doctores dicen que...==W== tal vez nunca despierte.
+0011 [Willow] | ... Hizo esto para salvarme.
+0012 [Guild Leader] | ¿Willow?
+0013 [???] | ... llow...==W== Willow...==W== ¿Willow?
+0014 [Willow] | ¿==PLAYER_NAME==...?
+0015 [Tú] | ¿Una pesadilla? Parecía que te dolía algo...
+0016 [Willow] | ... No, estoy bien. ¿Cuánto tiempo dormí?
+0017 [Tú] | Ya es de mañana. Revisé afuera y la lluvia paró, pero...
+0018 [Tú] | No dejo de oír un sonido raro... No logro distinguir qué es.
+0019 [Willow] | ¿Un sonido raro? ¿Será que...?
+0020 [Narración] | Willow pega la oreja al suelo y escucha con atención. Un momento después, se levanta a inspeccionar la entrada de la cueva.
+0021 [Willow] | ... Tenemos que movernos. Va a haber otro deslave.
+0022 [Tú] | ¿¡Un deslave!? ¿Otra vez?
+0023 [Willow] | Y esta vez será peor. El suelo de aquí es suelto por naturaleza. Ahora que está empapado...==W== Está a punto de ceder.
+0024 [Willow] | Retrocedamos a la playa. Si nos entierran aquí, Noya y los demás no podrían sacarnos ni aunque lo intentaran durante semanas.
+0025 [Tú] | ... Sí, eso sería una pesadilla.
+0026 [Narración] | Un profundo estruendo resuena desde el interior de la isla. El suelo junto a la entrada, que hace un momento parecía firme, de pronto se desploma y la tierra mojada se desliza cuesta abajo.
+0027 [Tú] | ¿¡Ya empezó!? ¡Vámonos!
+0028 [Willow] | ¡Sí...!
+0029 [Tú] | Uf...==W== Uf...==W== Aquí ya estamos a salvo, ¿no?
+0030 [Willow] | No bajes la guardia. El deslave es peor de lo que pensaba...==W== Tenemos que alejarnos más de la montaña...
+0031 [Tú] | Pero ya no hay más playa. ¿A dónde más podemos ir?
+0032 [Willow] | Allá.
+0033 [Narración] | Sigo su mirada. No muy lejos de la costa, una franja plana de arrecife asoma sobre la superficie.
+0034 [Willow] | Si llegamos hasta allá, el deslave no nos alcanzará.
+0035 [Tú] | Es mucha agua abierta... Supongo que tendremos que nadar.
+0036 [Willow] | ¿Tienes miedo?
+0037 [Tú] | No.==W== No lo sugerirías si no supieras que puedo lograrlo.
+0038 [Willow] | Sí. Sé que puedes.
+0039 [Tú] | Muy bien, vamos.
+0040 [Willow] | Espera, ¿por qué me tomas de la mano?
+0041 [Tú] | Pues te estoy ayudando a cruzar nadando, ¿no?
+0042 [Willow] | Yo... no iba a pedirte ayuda.
+0043 [Tú] | Tu brazo mecánico está muerto. Nadar con una sola mano va a ser difícil.
+0044 [Willow] | Estaré bien. Con un solo brazo cuesta más energía, pero puedo arreglármelas...
+0045 [Tú] | Ahora mismo soy tu mano izquierda. Déjame ayudarte.
+0046 [Willow] | Pero...
+0047 [Tú] | Además, mi entrenadora de natación era una profesional. De mí puedes dudar, pero de ella no.
+0048 [Willow] | ...==W== Está bien. Cuento contigo, mi mano izquierda.
+0049 [Tú] | Relájate...==W== No luches contra el agua. Abrázala.
+0050 [Narración] | Willow me sujeta del hombro mientras yo braceo hacia adelante. Por mucha plática que eche, todavía necesito que patalee conmigo para avanzar.
+0051 [Willow] | Dosifica tu ritmo. Aquí la corriente nos favorece. Cuando lleguemos a ese arrecife, podremos recuperar el aliento.
+0052 [Tú] | Entendido.
+0053 [Narración] | El agua del amanecer está helada y el viento no deja de aullar.
+0054 [Narración] | Pero de algún modo, tener a Willow aquí a mi lado se siente increíblemente seguro... Es difícil de explicar.
+0055 [Willow] | ...
+0056 [Willow] | Ahora entiendo por qué Noya y los demás confían en ti...
+0057 [Willow] | ... Quizá yo también pueda...
+0058 [Tú] | ¿Eh? ¿Dijiste algo?
+0059 [Willow] | No, nada...
+0060 [Tú] | Uf...==W== Jaa... Por fin...==W== ¡¡lo logramos!!
+0061 [Narración] | En cuanto mis pies tocan suelo firme, me desplomo sobre la arena. Willow se sienta junto a mí, abrazándose las rodillas con una suave sonrisa.
+0062 [Tú] | Eres increíble...==W== Willow...==W== Yo estoy medio muerto...==W== Y tú ni sudaste...
+0063 [Willow] | Todo es gracias a ti.
+0064 [Willow] | Ahora que lo pienso, quedar varados aquí contigo no es lo peor.
+0065 [Tú] | Naufragio, varados y casi enterrados vivos dos veces...==W== ¿¡Bromeas!? ¡Esto es un desastre total!
+0066 [Tú] | Pero si tú lo ves así, supongo que valió la pena el esfuerzo.
+0067 [Willow] | Yo... tengo algo de mi pasado que quiero compartir.==W== ¿Me escucharás?
+0068 [Tú] | Claro.
+0069 [Willow] | Hace mucho tuve... un accidente.==W== Me costó el brazo izquierdo.
+0070 [Willow] | Es el tipo de recuerdo que nunca debería olvidar. Pero de algún modo lo hice. No tengo idea de qué pasó realmente ese día...==W== Por más que lo intento, solo me llegan fragmentos borrosos.
+0071 [Willow] | En aquel entonces, se suponía que debía proteger a una junior del Gremio...
+0072 [Willow] | Pero en lugar de eso, la persona a la que protegía recibió un golpe fatal para salvarme...
+0073 [Willow] | Desde entonces me prometí que jamás repetiría ese error.
+0074 [Willow] | Me niego a ser una carga. No puedo arrastrar a mi equipo. Mi deber es cuidar a los demás, y nunca al revés.
+0075 [Tú] | Willow...
+0076 [Willow] | Bueno, como ves...==W== igual terminé mostrándote este lado indefenso mío.
+0077 [Willow] | Allá en el bosque, por un segundo, sentí que volvía al pasado...==W== A ser un peso muerto. La que necesitaba que la salvaran.
+0078 [Willow] | Pero cuando te ofreciste a ser mi mano izquierda...==W== me di cuenta de algo.
+0079 [Willow] | Así como yo siempre he querido apoyarte, tú solo querías echarme una mano.
+0080 [Willow] | Para ti, no soy una carga. Y tú tampoco lo eres para mí.
+0081 [Willow] | Somos solo dos personas apoyándose el uno en el otro ahora mismo...
+0082 [Willow] | Me alegra que...==W== seas tú quien está a mi lado en un momento como este.
+0083 [Tú] | Sí...==W== Yo siento lo mismo.
+0084 [Willow] | Espera...==W== ¡==PLAYER_NAME==, mira allá!
+0085 [Tú] | ¡Viene un bote!
+0086 [Willow] | Parece que nuestra pequeña aventura de náufragos por fin terminó.
+0087 [Tú] | Sí. Está llegando a su fin.
+0088 [Noya] | ¡==PLAYER_NAME==! ¡Willow! ¡Gracias al cielo que por fin los encontramos!
+0089 [Iris] | ¿Están bien? ¿Les duele algo? ¿Se sienten bien?
+0090 [Tú] | Estamos bien los dos. Willow me cuidó muy bien.
+0091 [Amber] | Willow, toma. Un poco de Neo Solution.
+0092 [Willow] | Gracias, Amber.
+0093 [Tú] | Parece que tu brazo por fin vuelve a funcionar, Willow.
+0094 [Willow] | Sí. Parece que el Jefe por fin puede dejar ==SEX3== puesto de mano izquierda.
+0095 [Tú] | Pues otra vez sin trabajo. No sé si debería estar contento o triste.
+0096 [Noya] | ¿Sin trabajo...? ¿Qué significa eso?==W== ¡Da igual! ¡Ya nos pondremos al día cuando regresemos!
+0097 [Iris] | Ah, por cierto, ==PLAYER_NAME==. Trajimos a alguien que conoces en el bote de rescate...
+0098 [Iris] | ¿Eh? ¿Q-Qué es eso?
+0099 [Cosette] | Ugh...==W== Devuélvelo...==W== Devuél...==W== ¡Devuélveme mis bebidas!
+0100 [Noya] | ¡Wow! ¡Increíble! ¡Tú también estás a salvo!
+0101 [Iris] | ¡Q-Qué obsesión...!
+0102 [Willow] | ¡Todos, primero tenemos que calmar a este cangrejo ermitaño!

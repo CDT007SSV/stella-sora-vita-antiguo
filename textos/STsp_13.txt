@@ -1,0 +1,6 @@
+# Nova Times #13 · La señorita y la criada descarada — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_13_01 | La señorita y la criada descarada (Parte I)
+STsp_13_02 | La señorita y la criada descarada (Parte II)
+STsp_13_03 | La señorita y la criada descarada (Parte III)

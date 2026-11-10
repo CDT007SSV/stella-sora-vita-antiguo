@@ -1,0 +1,111 @@
+# Nova Times #07 · Deseo en la nieve · 1 · Wish in the Snow (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Artifact Merchant | Comerciante de Artefactos
+N:Butler | Mayordomo
+N:Donna & Teresa | Donna y Teresa
+N:Freesia & Teresa | Freesia y Teresa
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_138 | Trekker
+N:avg3_143 | Residente
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_874 | Empleada
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Deseo en la nieve (Parte I)
+0003 [Intro] | Es el primer Festival Nevado de Post Haste. Freesia tiene un deseo sencillo pero incompleto: celebrarlo con sus amigas e intercambiar regalos...
+0004 [Donna] | Freesia, Teresa, el desayuno está listo—
+0005 [Teresa] | ¡Guau! ¿Pan de jengibre hoy? ¡Qué elegante!
+0006 [Donna] | Jeje, ayer pasé a la pastelería y compré unos, ya que el Festival Nevado está por llegar.
+0007 [Teresa] | No puedo esperar a intercambiar regalos con todas...
+0008 [Freesia] | Ya terminé, gracias.
+0009 [Donna] | ¿¡Ya!? ¡Apenas lo puse en la mesa...!
+0010 [Teresa] | ¡Es que estaba muy rico! ¡Freesia se lo devoró de un bocado!
+0011 [Freesia] | Sí, como ella dice...==W== B-bueno, ya me voy.
+0012 [Donna] | Está nevando muchísimo allá afuera. Ten cuidado.
+0013 [Freesia] | ¡Está bien!
+0014 [Teresa] | Salió corriendo...==W== ¿Crees que hoy hay un montón de correo que repartir?
+0015 [Donna] | Probablemente no. Quizá es que los caminos están resbalosos y quiere salir temprano.
+0016 [Empleada] | Ya llegó su kit de crochet. ¿Desea que se lo envolvamos para regalo?
+0017 [Freesia] | Sí, por favor. Y agréguele una tarjeta, por favor.
+0018 [Empleada] | Claro. ¿Qué papel de regalo prefiere?
+0019 [Freesia] | A Donna le gusta el rojo...==W== Pongamos el de lunares rojos con el listón dorado, gracias.
+0020 [Empleada] | Entendido. Se lo envuelvo.
+0021 [Freesia] | Hace un tiempo, Donna dijo que quería intentar tejer una bufanda. Este set le va a quedar perfecto.
+0022 [Freesia] | Ojalá le guste.
+0023 [???] | ¡Disculpe! ¿HAY—ALGUIEN—AQUÍ?
+0024 [Freesia] | ¿¡Teresa!? ¿Qué hace ella aquí?
+0025 [Freesia] | Ay, no. Tengo que encontrar dónde esconderme.
+0026 [Empleada] | Gracias por esperar. Su regalo ya está ...==W== ¿eh? ¿A dónde se fue?
+0027 [Teresa] | Bien, siguiente parada~
+0028 [Freesia] | Uf... Qué suerte que Teresa solo vino a dejar correspondencia. No me vio.
+0029 [Freesia] | Si me hubiera visto, la sorpresa se arruinaría. Seguro le contaría a Donna, porque no puede evitarlo.
+0030 [Freesia] | En fin, el regalo de Donna ya está resuelto. Ahora el de Teresa...
+0031 [Artifact Merchant] | Aquí tiene, traje lo que me pidió.
+0032 [Freesia] | Un rompecabezas antiguo con bordes dorados de un mapa del Continente Nova...==W== Sí, es este.
+0033 [Artifact Merchant] | Tiene muy buen gusto. Este es difícil de conseguir, sin duda vale la pena.
+0034 [Artifact Merchant] | El otro día una chica se quedó mirándolo un buen rato, pero no se animó a comprarlo. Quizá vuelva por él.
+0035 [Freesia] | Lo sé. Era mi amiga. Está obsesionada con este rompecabezas.
+0036 [Artifact Merchant] | Ah, con razón quería este en particular. ¿Es un regalo del Festival Nevado para ella?
+0037 [Freesia] | Sí, quiero darle una sorpresa. Me lo llevo.
+0038 [Artifact Merchant] | ¡Gracias por su compra! ¡Les deseo a las dos felices fiestas por adelantado!
+0039 [Freesia] | Gracias, igualmente.
+0040 [Freesia] | Bien, con esto ya están todos los regalos.==W== Estoy muy emocionada por el Festival Nevado de este año.
+0041 [Freesia] | ==W==Porque el anterior fue...
+0042 [Freesia] | ¡Ya llegué!
+0043 [Butler] | Bienvenida. La cena está lista.
+0044 [Freesia] | Gracias. Voy a cambiarme primero.
+0045 [Butler] | Por cierto, la señora le dejó una carta.
+0046 [Freesia] | Está bien.
+0047 [Narración] | «Mi querida hija: tu padre y yo tenemos que viajar unos días, así que me temo que no estaremos en casa para el Festival Nevado. Como siempre, puedes darle al mayordomo una lista de los regalos que te gustaría. Nos enteramos de que tu bufete ha estado muy ocupado. Por favor, cuídate».
+0048 [Freesia] | Así que otra vez pasaré el festival sola, ¿eh...?
+0049 [Butler] | Antes de partir, la señora me pidió asegurarme de que recibiera el regalo que quisiera. Por favor, cualquier cosa que se le ocurra...
+0050 [Freesia] | Está bien. En realidad no necesito nada.
+0051 [Freesia] | Seguramente ese día estaré haciendo horas extra en la oficina. Todos ustedes deberían tomarse unos días libres y visitar a su familia.
+0052 [Butler] | Pero...
+0053 [Freesia] | No se preocupen, estaré bien sola. Mientras todos tengan felices fiestas, ese es el regalo que más quiero.
+0054 [Butler] | Está bien, entonces...==W== Gracias por ser tan considerada.
+0055 [Freesia] | Ahora que lo pienso... El Festival Nevado antes de mudarme también lo pasé sola.
+0056 [Freesia] | Pero este año será diferente...
+0057 [Donna & Teresa] | Ya regresamos—
+0058 [Freesia] | ¿Eh? ¿Cómo es que regresaron juntas?
+0059 [Donna] | Tomé un desvío al terminar mi trabajo y me encontré con Teresa pegada a un puesto de juegos en la calle.
+0060 [Teresa] | Ugh... Me dejé llevar por ese juego de argollas.==W== ¡Pero el primer premio es una carta de monstruo limitada del Festival Nevado! ¡Es súper rara!
+0061 [Donna] | Si no la hubiera detenido, se habría gastado todo su dinero.
+0062 [Freesia] | ¿El puesto de la esquina de la librería? Sí, parece que los premios están a la misma distancia, pero el espaciado es muy engañoso.
+0063 [Teresa] | ¡Exacto! Tienes que lanzar la argolla y lograr que todas las que lanzaste queden alineadas en fila. ¡Es imposible!
+0064 [Freesia] | La próxima vez iré contigo y te enseñaré algunos trucos...
+0065 [Donna] | Bueno, bueno, dejemos eso para después.
+0066 [Donna] | ¡Tengo grandes noticias!
+0067 [Freesia] | Te ves emocionada, así que supongo que son buenas noticias.
+0068 [Donna] | ¡Sí! Para el próximo Festival Nevado, ¡nos vamos de viaje de trabajo!
+0069 [Freesia] | ¿Un viaje de trabajo? ¿Te refieres a otra ciudad?
+0070 [Donna] | ¡Sí! El Imperio de la Gracia nos contrató para ayudar a entregar regalos en la Ciudad de los Mil Monolitos. ¡Es algo enorme!
+0071 [Teresa] | ¿¡La Ciudad de los Mil Monolitos!? ¿¡La que tiene todos esos Monolitos!?
+0072 [Freesia] | Siete, si queremos ser exactas.
+0073 [Freesia] | Está justo en el centro de Nova. Su nombre oficial es Emor y es la ciudad más concurrida de todo el continente.
+0074 [Donna] | Es una ciudad enorme. Esta noche tenemos que prepararnos y trazar nuestra ruta.
+0075 [Donna] | Y las buenas noticias no terminan ahí, jeje.
+0076 [Donna] | Como agradecimiento para ustedes, reservé lugares en un restaurante famoso de allá. ¡Cuando terminemos las entregas, nos damos un banquete!
+0077 [Teresa] | ¡Siiií—intercambiemos regalos en el restaurante!
+0078 [Freesia] | Mmm, suena como una gran idea.
+0079 [Donna] | Jeje... Y tengo un favor que pedirte, Freesia.
+0080 [Freesia] | ¿Qué es?
+0081 [Donna] | El Imperio de la Gracia nos envió trajes festivos para entregar regalos.==W== Pero ... solo mandaron uno.
+0082 [Donna] | Y por la talla, solo tú puedes usarlo, Freesia. Así que...==W== ¿Podrías ponerte este lindísimo traje del Festival Nevado en representación de Post Haste?
+0083 [Freesia] | ¿Eh?... ¿Yo?
+0084 [Teresa] | ¡Quiero verlo! ¡Freesia, pruébatelo, pruébatelo!
+0085 [Freesia] | ¿Qué tal...? ¿Me queda?
+0086 [Donna] | ¡Te queda! ¡Perfecto! Como si lo hubieran hecho a tu medida.
+0087 [Teresa] | ¡Freesia, te ves increíble!==W== Ah, el abrigo es tan suave, súper esponjoso.
+0088 [Freesia] | G-gracias. Entonces me lo pondré para las entregas.
+0089 [Teresa] | ¡Mensajera del Festival Nevado Freesia—transformación!
+0090 [Donna] | Ahh, ahora estoy aún más emocionada~
+0091 [Donna] | Este es el primer Festival Nevado de Post Haste.==W== ¡Pongamos todo nuestro empeño!
+0092 [Freesia & Teresa] | ¡Sí—!!

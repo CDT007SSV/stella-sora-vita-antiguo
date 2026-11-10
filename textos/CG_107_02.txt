@@ -1,0 +1,105 @@
+# Historia de Tilia · 2 · Masked Knight Tilia (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Villager | Aldeano ansioso
+N:Flustered Villager | Aldeano alterado
+N:Forgetful Village Chief | Jefe del pueblo olvidadizo
+N:Out-of-Breath Girl | Out-of-Breath Girl
+N:Snarky Passerby | Snarky Passerby
+N:avg1_107 | Tilia
+N:avg3_100 | Sylar
+N:avg3_109 | Abuelo Chai
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_166 | Anciana del pueblo
+N:avg3_168 | Chica
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Caballero Enmascarado Tilia (Parte II)
+0003 [Intro] | ¡La justicia se agita! El caballero que derriba gigantes
+0004 [Tilia] | ¡Sujétate fuerte, Jefe! ¡Ya casi llegamos!
+0005 [Tilia] | ¡Vamos, Águila Lapislázuli, más rápido! ¡Más rápido!
+0006 [Narración] | El Águila Lapislázuli de Tilia atraviesa el campo a las afueras de Emor, mientras yo intento mantenerme sobre su lomo.
+0007 [Tú] | ¡Whoa, qué rápida! ¿Así que esto es lo que de verdad puede hacer el Águila Lapislázuli?
+0008 [Tú] | Oye, Tilia, ¿por qué los scooters que usa la Guardia Imperial en la ciudad son tan lentos?
+0009 [Tilia] | ¡El Águila Lapislázuli es única en su especie! Los de serie son ...==W== meras imitaciones baratas de deseos fallidos, aunque aun así cuestan una fortuna.
+0010 [Tilia] | ¡Así que le pedí a una amiga que la modificara y liberara su verdadero poder!
+0011 [Tilia] | En realidad podríamos ir aún más rápido si le abro un poquito más...
+0012 [Tú] | ¡Menos plática! ¡Ojos en el camino!
+0013 [Tilia] | ¡Whoa!
+0014 [Tilia] | ... Uf. Eso estuvo cerca.
+0015 [Tú] | Buena esquivada. Giraste justo a tiempo.
+0016 [Tilia] | ¡Ah, perdón, Jefe! ¿Te asusté? ¿No te lastimaste, verdad?
+0017 [Tú] | Estoy bien. Un poco más de emoción de la que esperaba.==W== Intenta fijarte por dónde vas la próxima vez, ¿sí?
+0018 [Tilia] | ¡Entendido!
+0019 [Tilia] | Por cierto, ¿seguro que no hay problema en que me acompañes, Jefe? Pensé que tenías una tienda que encontrar.
+0020 [Tú] | No hay problema, mi encargo puede esperar.==W== Además, vas a enfrentarte a «gigantes», ¿no? Suena a que no te vendría mal un refuerzo.
+0021 [Tilia] | ¡Jefe...! ¡Gracias!
+0022 [Out-of-Breath Girl] | ¡La granja! ¡Nuestra granja está siendo atacada por gigantes!
+0023 [Tilia] | ¡¿G-gigantes?!
+0024 [Tilia] | ¡No te preocupes, yo me encargo! ¡Tilia, defensora de la justicia, derrotará a esos malvados gigantes!
+0025 [Tú] | Nunca había oído de un monstruo llamado «gigante». Ni siquiera sabes qué es el enemigo, ¿cómo puedes creerle así nada más?
+0026 [Tú] | ¿Y si solo es una niña que confundió las cosas?
+0027 [Tilia] | ¡Es ... la intuición de la justicia!
+0028 [Tú] | «Intuición de la justicia», claro. Pero ¿y tú? ¿La jurisdicción de la Guardia Imperial siquiera cubre el área fuera de la ciudad?
+0029 [Tilia] | Eh, bueno, la Guardia Imperial es solo una empresa de seguridad. Solo patrullamos los distritos que han pagado sus cuotas, pero...
+0030 [Tilia] | ¡Estoy fuera de turno! Así que aquí estoy como defensora de la justicia. Como siempre dice el Caballero Justus: «¡La justicia golpea en cualquier lugar, a cualquier hora!»
+0031 [Tú] | Supongo que tiene razón, pero tengo un mal presentimiento con esto.
+0032 [Tilia] | ¡En fin, hay que llegar rápido!==W== ¡Vamos, Águila Lapislázuli, en marcha!
+0033 [Tú] | ¡Oye, más despacio!
+0034 [Tilia] | ¡Llegamos! ¡Qué hermoso campo de trigo!
+0035 [Tú] | Aquí hay paz. No veo ningún «gigante».
+0036 [Forgetful Village Chief] | Vaya, señorita Caballero. ¿Qué viento la trae por estos rumbos?
+0037 [Tilia] | ¡No soy caballero, soy escudera! Oh, espera, tampoco es eso. Hoy no vengo como escudera.
+0038 [Tilia] | ¡Permítame presentarme de nuevo!==W== Soy Tilia, Caballero Enmascarado en entrenamiento, ¡y vengo a derrotar a los malvados gigantes!
+0039 [Forgetful Village Chief] | ¿Gigantes? ¿Qué diantres son esos? Aquí no tenemos bichos raros así por estos lados.
+0040 [Tú] | Lo sabía. Es imposible que una criatura de cuentos exista de verdad.
+0041 [Tú] | Entonces ... ¿ha pasado algo inusual en su granja?
+0042 [Forgetful Village Chief] | La granja, déjeme pensar...==W== ¡Oh! ¡Es verdad! ¡Esos condenados gigantes van a destrozar todo el lugar! ¡Y no es uno solo, son tres!
+0043 [Tú] | ¿De verdad hay gigantes? ¡¿Y son tres?!
+0044 [Tilia] | ¡Entonces llévenos con ellos, rápido!
+0045 [Tú] | ¿Eso son ... molinos de viento?
+0046 [Tilia] | Ugh, qué estruendo. ¿Los engranes están oxidados?
+0047 [Forgetful Village Chief] | Esos son el Gigante n.º 1, el Gigante n.º 2 y el Gigante n.º 3. Son propiedad de Cosecha Unida. Llevan aquí siglos y nadie ha venido a darles mantenimiento.
+0048 [Tú] | Así que esos son los «gigantes» de la niña. Je. Desde luego que son gigantes.
+0049 [Forgetful Village Chief] | Véanlo ustedes mismos. Con esas cosas sobre nuestras cabezas, uno nunca sabe cuándo se va a caer una. Ni siquiera podemos cosechar nuestro trigo...
+0050 [Tilia] | ¿Contactaron a Cosecha Unida?
+0051 [Forgetful Village Chief] | ¡Por meses! Siempre la misma excusa: «Lo estamos investigando», «Levantando un reporte», «Está en proceso». ¡Pero nunca mandan a nadie a repararlo!
+0052 [Forgetful Village Chief] | ¡Oigan! ¿Qué hacen con esas hoces?
+0053 [Anxious Villager] | ¿Qué parece? Estamos cosechando trigo.
+0054 [Forgetful Village Chief] | ¡Por el Dios de la Gracia, no pueden! ¡Es demasiado peligroso!
+0055 [Anxious Villager] | Jefe, mire esas nubes.==W== Va a llover en uno o dos días. No podemos dejar que toda la cosecha se pudra.
+0056 [Anxious Villager] | Tendremos cuidado. Solo necesitamos sacar el trigo de debajo de ellos antes de que se derrumben.
+0057 [Forgetful Village Chief] | Ugh, todos se están metiendo... Por favor, aguanten un poco más...
+0058 [Tilia] | ¡Esto es peligroso! Tengo que ayudarlos.
+0059 [Narración] | Tilia salta con agilidad sobre el Águila Lapislázuli, pero se detiene al alcanzar su casco.
+0060 [Tilia] | Suspiro...
+0061 [Tú] | ¿Qué pasa? ¿No te vas a poner el casco?
+0062 [Tilia] | ... Si destrozo esas aspas ... ¿solo voy a causarles más problemas a los aldeanos?
+0063 [Snarky Passerby] | Imposible. ¿Una Guardia Imperial moviendo un dedo por la gente común? Ni de chiste.
+0064 [Snarky Passerby] | Seguro vio a un Senador entre la multitud.==W== A esos Guardias solo les importa adular a los poderosos.
+0065 [Tilia] | Y sigue siendo propiedad de Cosecha Unida. Si quieren a alguien a quien culpar y no me encuentran, se desquitarán con los aldeanos.
+0066 [Tilia] | Esa empresa tiene pésima reputación... O ... ¿deberíamos quedarnos aquí rezando para que las aspas no caigan? ¿Es esa la mejor opción?
+0067 [Tú] | Supongo que la justicia nunca es simple. En una situación así, cada opción se siente como una traición a lo que de verdad es correcto.
+0068 [Opción] | Darle una palmada en el hombro a Tilia
+0069 [Tilia] | ¿Jefe?
+0070 [Tú] | Piensa, pero no le des tantas vueltas, Tilia. Ese impulso tuyo de ayudar a la gente, nunca es un error.
+0071 [Tilia] | ¿E-en serio?
+0072 [Tú] | No te preocupes, aquí estoy. Si pasa algo después, lo arreglaré. A mi manera.
+0073 [Tilia] | Pero si de verdad les causamos problemas a los aldeanos, ¿no nos convierte eso en los villanos?
+0074 [Tú] | ¡Perfecto! Como Jefe, nací para hacer de villano en una historia de Caballero Enmascarado. El tipo astuto y sigiloso.
+0075 [Tilia] | Bueno ... es cierto. Pero también hay villanos geniales.
+0076 [Tú] | Justo porque algunos villanos son sigilosos pueden hacer jugadas que un héroe ni imaginaría o no se atrevería a intentar. Confía en mí.
+0077 [Tú] | Oye, hasta un Jefe a veces quiere respaldar a una «aliada de la justicia».
+0078 [Forgetful Village Chief] | ¡Oh no! ¡El aspa del molino... se va a caer!
+0079 [Flustered Villager] | ¡Waaah!
+0080 [Anxious Villager] | ¡Todos, corran! ¡Salgan del campo de trigo!
+0081 [Tilia] | ¡Jefe, despeja a todos!
+0082 [Tilia] | Águila Lapislázuli,==W== ¡en marcha!!
+0083 [Tú] | Después de tanta plática... Cuando llega el peligro, sigue siendo la primera en lanzarse.
+0084 [Tú] | Sí. Una verdadera «aliada de la justicia».
+0085 [Narración] | Entre el trigo dorado, Tilia alza su lanza, imagen reflejada de los caballeros de los cuentos que cargan contra un gigante.

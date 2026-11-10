@@ -1,0 +1,142 @@
+# Nova Times #17 · El tesoro más preciado · 1 · The Most Precious Treasure (Part Ⅰ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Treasure Hunter | Cazatesoros arrogante
+N:Serious Treasure Hunter | Cazatesoros serio
+N:Shop Owner | Dueño de la tienda
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg2_984 | Soldado Trekker
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_211 | Líder de los cazatesoros
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El tesoro más preciado (Parte Ⅰ)
+0003 [Intro] | La normalmente tranquila Teresa está discutiendo con sus amigas... ¡¿Está Post Haste al borde de disolverse otra vez?!
+0004 [???] | ==W==¡¿Miaaaau?!
+0005 [Teresa] | ¡Desaparecieron! ¡Todos desaparecieron! ¡Ahhhh!
+0006 [Donna] | ¿Qué pasa, Teresa? ¿Por qué tanto grito?
+0007 [Teresa] | ¡Donna! ¡Desastre! ¡Nos robaron!
+0008 [Donna] | ¿Un robo?
+0009 [Donna] | ¡¿Qué se llevaron?! Por favor no me digas que agarraron las entregas...
+0010 [Teresa] | ¡No, mis Artefactos!==W== Todos y cada uno... ¡Desaparecidos!
+0011 [Donna] | ... ¿Tus Artefactos?
+0012 [Teresa] | Los tenía apilados en el almacén... Algunos todavía tenían arreglo, miau...
+0013 [Donna] | ¿Los del ...==W== almacén?
+0014 [Donna] | ¡Perdón! ¡Creo que los vendí!
+0015 [Teresa] | ¡¿Miau?!
+0016 [Donna] | Bueno,==W== ¿no le ponemos siempre calcomanías a los que usamos? Los tuyos no tenían ninguna, así que supuse que eran chatarra...
+0017 [Donna] | El mercado justo estaba haciendo una colecta de Artefactos de desecho, así que los llevé para allá...
+0018 [Teresa] | ¡¿Los vendiste?!
+0019 [Donna] | ¡Oye, sí saqué algo de dinero por ellos! O sea, solo fueron doscientas Dorras, pero...
+0020 [Teresa] | ¿D-doscientas Dorras? ¡¿Eso fue todo lo que te dieron?!
+0021 [Donna] | Estaban totalmente destrozados, así que eso valían...==W== ¡Pero oye, no gasté ni un centavo! Mira, puedes quedarte con todo ahora mismo...
+0022 [Teresa] | ¡¿Por qué no me preguntaste primero?! ¡Si me hubieras dejado arreglarlos, habríamos sacado más!
+0023 [Donna] | ¡Pero no tenían calcomanías! Además, ahí es justo donde tiramos la basura. ¡¿Cómo iba a saberlo?!
+0024 [Teresa] | ¡¿Miau?!==W== E-es porque...
+0025 [Teresa] | No había tenido tiempo de clasificarlos... Así que los dejé ahí por mientras...
+0026 [Donna] | ¡Llevaban siglos juntando polvo en esa esquina! Estaba segura de que ya habías terminado con ellos.
+0027 [Teresa] | No había terminado... Últimamente he estado muy ocupada...
+0028 [Teresa] | Ah, cierto... Donna me advirtió que el almacén se estaba llenando y me dijo que lo limpiara...
+0029 [Donna] | Entonces supongo que quedamos a mano, ¿no?
+0030 [Teresa] | ... ¡Aun así! ¡Vender mis cosas a mis espaldas es simplemente cruel, miau!
+0031 [Donna] | ¡Teresa!
+0032 [Donna] | ... Ya se fue. No puede ser una entrega: terminamos los pedidos de hoy.
+0033 [Donna] | ... Suspiro. La hice enojar.
+0034 [Teresa] | ... Perdón, Donna. Pero...
+0035 [Shop Owner] | Es más grande que la bicicleta, así que es más caro. Te saldría en 3 millones de Dorras incluso con descuento...
+0036 [Donna] | 3 millones... Supongo que tendré que ahorrar en serio.
+0037 [Donna] | ¿Podría guardármelo? ¡Le juro que vendré a comprarlo en cuanto junte lo suficiente!
+0038 [Shop Owner] | Hagamos esto. Te guardo el triciclo tres meses. Pasa a recogerlo cuando quieras.==W== Pero si tardas más que eso, no te prometo nada. Tengo un negocio que atender, después de todo.
+0039 [Donna] | ¡Entendido! ¡Sin problema! ¡Trato hecho!
+0040 [Teresa] | El plazo de esa promesa casi se acaba, miau. Tengo que juntar el resto del dinero como sea...
+0041 [Teresa] | Este es el sueño de Donna... No, es el sueño de Post Haste. ¡Y voy a hacerlo realidad!
+0042 [Teresa] | ¡Muy bien! ¡Es hora de cazar más Artefactos, miau! ¡Si desentierro suficientes, alguno seguro vale una fortuna!
+0043 [Teresa] | ¡Y si encuentro algún tesoro escondido, tal vez alcancemos la meta de un solo golpe!
+0044 [???] | ¡¿Alguien dijo tesoro?!
+0045 [Treasure Hunter Leader] | ¡Qué lástima! ¡El mejor botín de por aquí será nuestro...!
+0046 [Teresa] | ¡¿Miau?! ¡Eres tú!
+0047 [Treasure Hunter Leader] | ¡Gah! ¡Eres esa mocosa de las entregas de la otra vez!
+0048 [Freesia] | Donna, ya regresé.
+0049 [Donna] | ¡¡Freesiaaa!!
+0050 [Freesia] | ¿Donna? ¿Por qué lloras?
+0051 [Freesia] | ¿Estás aquí sola? ¿Dónde está Teresa?
+0052 [Donna] | ¡Buaaa... Teresa...! ¡Todo esto es mi culpa...!
+0053 [Freesia] | ... Ya veo. Así que eso pasó.
+0054 [Donna] | ¿Y si nunca regresa...? Yo...
+0055 [Freesia] | No dejes que tu mente se desboque. Teresa no desaparecería sin decir nada.
+0056 [Donna] | ...==B== Mm.
+0057 [Freesia] | Debe tener algo en la cabeza. Esperémosla.
+0058 [Donna] | ¡Pero todavía no regresa! ¡Tengo que encontrarla!
+0059 [Freesia] | ¿Dónde piensas encontrarla a estas horas?
+0060 [Freesia] | Donna, respira. Teresa conoce las Tierras Salvajes mejor que nosotras. Solo nos perderemos vagando en la oscuridad.
+0061 [Donna] | Buen punto...
+0062 [Freesia] | Esperaré hasta el amanecer... Y esta noche yo preparo la cena.
+0063 [Donna] | Mm...==W== Gracias.
+0064 [Donna] | Freesia, ¿algo? ¿Huellas? ¿Algo que haya dejado caer?
+0065 [Freesia] | Nada. ¿Seguro que vino por aquí?
+0066 [Donna] | Un vendedor del mercado vio a Teresa entrar al bosque ayer. ¡Tiene que haber una pista!
+0067 [Freesia] | Replanteémoslo.==W== ¿Qué camino tomaría Teresa con más probabilidad?
+0068 [Donna] | El camino que Teresa podría tomar...
+0069 [Donna] | ¡Un atajo!
+0070 [Freesia] | Tiene sentido. Un camino que la mayoría evita.
+0071 [Donna] | ... ¡Ah! Esos arbustos... ¡tal vez podamos pasar a través!
+0072 [Donna] | ¡Auch!
+0073 [Freesia] | ¡Donna!
+0074 [???] | ¡Ay, ay! Oigan, ¡¿son ustedes?!
+0075 [Freesia] | ¿Noya? ¡¿Qué haces aquí?!
+0076 [Noya] | Jeje... Bueno, el asunto es que...
+0077 [Donna] | ¿Perdiste una pieza de un Artefacto?
+0078 [Noya] | ¡Sí! Vinimos a buscar el tesoro legendario de este bosque, pero a la mitad del camino, ¡Loxy empezó a portarse raro!
+0079 [Iris] | Revisamos y encontramos que faltaba una pieza clave. Con este terreno tan accidentado y todas las trampas, es probable que se haya desprendido...
+0080 [Amber] | Llevamos días buscando...
+0081 [Donna] | Eso lo explica. Con razón terminaste en los arbustos...
+0082 [Noya] | ¿Y ustedes dos? ¿Algún monstruo les robó las cartas otra vez?
+0083 [Narración] | ... No es eso.
+0084 [Narración] | En realidad...
+0085 [Noya] | ¿Así que te peleaste con Teresa?
+0086 [Donna] | Sí... Ha estado fuera toda la noche. Estamos muertas de preocupación.
+0087 [Noya] | ¡Entonces las ayudamos! Muchas manos hacen ligero el trabajo.
+0088 [Donna] | ¿Eh?
+0089 [Iris] | Estos bosques están plagados de trampas. Llevar días atrapadas aquí significa que conocemos el terreno.
+0090 [Amber] | Ayudamos a quienes están en problemas.
+0091 [Donna] | ¡Chicas...!
+0092 [Freesia] | Donna. Aceptemos su ayuda.
+0093 [Donna] | ¡Claro que sí!
+0094 [Donna] | ¡Aguanta, Teresa! ¡Vamos por ti! Por favor... ¡Cuídate!
+0095 [Teresa] | ¡¡¡Buaaa!!! ¡Miren cuántos Artefactos, miau...♪
+0096 [Treasure Hunter Leader] | ¡Je je je! Eso es solo una gota en el mar. ¡Esta es solo nuestra base temporal, después de todo!
+0097 [Treasure Hunter Leader] | Aunque debo decir que... Nunca te habría tomado por una cazatesoros.
+0098 [Treasure Hunter Leader] | ¡Espera un momento! ¡¿Esa barra de chocolate gigante que tienes también es un tesoro legendario?!
+0099 [Teresa] | ¡No es chocolate, miau! Es un teclado. ¡Las teclas se sienten increíbles al presionarlas, miau! ♪ ¡Anda, pruébalo!
+0100 [Treasure Hunter Leader] | Ooh... ♪ Nada mal.
+0101 [Teresa] | ¿Verdad?
+0102 [Treasure Hunter Leader] | ¡P-pero aun así! ¡Comparado con lo que buscamos, esto es cosa de niños!
+0103 [Teresa] | ¿Así que hay algo todavía más genial escondido aquí?
+0104 [Treasure Hunter Leader] | Una fuente confiable nos avisó: ¡hay un tesoro enorme escondido en una de las cuevas de por aquí...!
+0105 [Teresa] | ¡Ooh...!
+0106 [Serious Treasure Hunter] | Solo que ese rumor lleva circulando desde siempre. El problema es que nadie sabe dónde está la cueva.
+0107 [Treasure Hunter Leader] | ¡Cállate! ¡Justo por eso gastamos una fortuna en información! Lanzamos una red amplia y por fin dio frutos: ¡contemplen, un antiguo mapa del tesoro!
+0108 [Teresa] | ¡¡Oooh...!!
+0109 [Arrogant Treasure Hunter] | Nos estafaron en el mercado negro. ¿Y cuando seguimos el mapa? Solo un cofre vacío. Ugh.
+0110 [Treasure Hunter Leader] | ¡¿Y ese suspiro?! ¡Yo no me he rendido! Todavía hay tesoro por aquí. ¡Sé que está en este bosque!
+0111 [Teresa] | Eh, disculpen... Ese mapa...
+0112 [Teresa] | ¿Puedo echarle un vistazo?
+0113 [Treasure Hunter Leader] | Eh, claro, supongo... Pero trátalo con cuidado, ¿sí?
+0114 [Teresa] | ¡Gracias, miau! A ver aquí...
+0115 [Arrogant Treasure Hunter] | Adelante. Es una pérdida de tiempo. Lo hemos mirado cien veces.
+0116 [Teresa] | Mmm... Lo sospechaba.
+0117 [Teresa] | Mmjm... Sí. ¡Justo lo que pensaba, miau!
+0118 [Teresa] | ¡Descubrí el secreto del mapa!

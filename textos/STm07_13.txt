@@ -1,0 +1,156 @@
+# Capítulo 7 · El precio de la estrella · 13 · Beneficio mutuo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Ruby & Sapphire | Ruby y Sapphire
+N:Salesperson No. 20 | Vendedor n.º 20
+N:Salesperson No. 21 | Vendedor n.º 21
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg1_144 | Chitose
+N:avg1_163 | Greyhorn
+N:avg1_164 | Shuo
+N:avg3_1265 | Firenze
+N:avg3_128 | Ophir
+N:avg3_1293 | Shuo
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_220 | Mercurio
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto trece
+0002 [Intro] | Beneficio mutuo
+0003 [Intro] | Los anticipos te acercan a tu meta. Las negociaciones con Goodwind Homecare y la Guardia Imperial salen bien. Sin embargo, al oír la noticia, Mercurio solo sonríe. Está claro que todavía le queda una carta por jugar...
+0004 [Lugar y hora] | 07:00, 15.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0005 [Mistique] | Entonces el contrato queda cerrado.==W== Estoy... agotada.
+0006 [Sapphire] | ¿Se encuentra bien, Lady Mistique? Agradecemos que Scarlet Sights Media compre nuestros granos...==W== Pero no esperaba que viniera a las 4 de la mañana a firmar el contrato.
+0007 [Mistique] | ¡E-es un desastre!==W== Soy una bruja que se alimenta de la verdad y aun así se me escapa una primicia tras otra.==W== Buaaah... El Dios de la Gracia me odia...
+0008 [Iris] | Mistique,==W== ¿no estabas en Nueva Orelia con Petal Bloom?
+0009 [Mistique] | Ay... Es una larga historia.==W== Seguí al grupo de Mina==W== y logré entrevistar a la espada del Jefe. Conseguí material buenísimo,==W== pero ahí se acabó mi suerte.
+0010 [Mistique] | Otra bruja de Flavio me interceptó. No paraba de decir lo cercana que soy al Jefe y me arrastró de vuelta a Philae como representante interina de Scarlet Sights para no sé qué banquete.
+0011 [Mistique] | Por eso me perdí la gran primicia: ¡Petal Bloom reventando las puertas del Senado de Cosecha Unida!
+0012 [Mistique] | Luego mi escoba falló en el camino de regreso. Me perdí el banquete, me perdí la subasta del Monolito y ni siquiera pude ver al Jefe escalar la torre. Tengo la peor suerte del mundo.
+0013 [Sapphire] | Suena horrible. Pero para Cosecha Unida Philae, que usted firme este contrato como representante de Scarlet Sights es de gran ayuda.
+0014 [Firenze] | Siempre nos echas la mano.==W== En nombre de la empresa, gracias.
+0015 [Mistique] | Me alegra poder ayudar,==W== pero...==W== soy una bruja. El propósito de mi vida son las noticias.
+0016 [Mistique] | Así que, Ophir...==W== Manda este reportaje especial...==W== a imprenta...==W== Zzz...
+0017 [Ophir] | ¿Señorita Mistique? ¿Ya se durmió?==W== Debe estar agotada. Tengo que llevarla a la cama.==W== Con su permiso.
+0018 [Sapphire] | Lady Firenze, todo sale tal como lo predijo.==W== Las empresas nos buscan para firmar contratos de granos y pagan cantidades considerables de Dorra por adelantado.
+0019 [Sapphire] | Contando el pedido de Scarlet Sights y el trato con el Comedor Fenghuang, tenemos 10 mil millones de Dorra en anticipos. Sumando nuestras reservas y los fondos de Darcia,==W== nuestro capital líquido es de 33 mil millones de Dorra. Nos faltan siete mil millones para la meta de 40 mil millones.
+0020 [Ruby] | Todo va según su plan, Lady Firenze.
+0021 [Firenze] | No puedo llevarme todo el crédito. Esto funciona gracias a la información de Nyx, al análisis de datos de ustedes y al esfuerzo de todos aquí en Cosecha Unida Philae. Sin mencionar el apoyo del Jefe y del Gremio de la Nueva Estrella.
+0022 [Sapphire] | Lo que realmente preocupa es Finanzas del Mar Profundo. Íbamos a firmar hoy el contrato de granos, pero llamaron a medianoche para decir que necesitaban más tiempo para pensarlo.
+0023 [Firenze] | Parece que Omnisky Aegis está haciendo su jugada.==W== Aun así, mientras no se nos opongan abiertamente, podemos darnos el lujo de ignorarlos.
+0024 [Iris] | E-eh... ¿De verdad es momento de estar tan tranquilos? ¡Todavía nos faltan 7 mil millones y el Dorra se tiene que entregar antes del atardecer! ¡¿Vamos a lograrlo?!
+0025 [Firenze] | Buen punto. Pero todavía nos quedan dos empresas por convencer. Aún no se nos acaban las opciones.
+0026 [Firenze] | Por ejemplo, Goodwind Homecare. Tienen una enorme demanda de flores. Nuestro proyecto conjunto de invernaderos sigue sobre la mesa, aunque el incidente de Darcia lo dejó en pausa. Es el momento perfecto para retomar esas pláticas.
+0027 [Iris] | Un proyecto estancado como ese... ¿Podemos cerrar un trato en medio día?
+0028 [Firenze] | Fácilmente. Pero necesito la ayuda del Gremio de la Nueva Estrella. Es sencillo: ustedes tres tienen que exagerar lo que pasó en el banquete.
+0029 [Noya] | ¿Exagerar?
+0030 [Firenze] | Sí. Inventen la historia más descabellada que se les ocurra. Pero digan lo que digan, asegúrense de que tenga que ver con «flores».
+0031 [Firenze] | Sapphire, Ruby, prepárenme un carrito lleno de flores. Necesito un regalo adecuado para Goodwind Homecare.
+0032 [Ruby & Sapphire] | ¡Enseguida!
+0033 [Lugar y hora] | 09:00, 15.º del mes de Venatio, Distrito de Plata de Philae, Goodwind Homecare
+0034 [Shuo] | Desde que usted dirige Cosecha Unida Philae, la calidad del grano es excepcional, Lady Firenze. Nuestras doncellas juran por su arroz.
+0035 [Shuo] | Sin embargo... debo disculparme. Nuestras doncellas no comen mucho, así que no tenemos planes de hacer pedidos de grano al mayoreo. Esta vez no podremos apoyar su oferta por el Monolito.
+0036 [Shuo] | En cuanto a reactivar el proyecto conjunto de invernaderos, nos comunicaremos en cuanto tomemos una decisión. ¿Le parece bien?
+0037 [Shuo] | (El invernadero de Cosecha Unida Philae puede cultivar toda clase de flores raras, lo que sería de enorme ayuda para Goodwind Homecare... Pero atrapar a Otoha es lo primero).
+0038 [Shuo] | (Aunque es una lástima... Lo mejor es una negativa cortés).
+0039 [Firenze] | No hay problema.==W== Cambiando de tema, por favor acepte estas flores como un pequeño agradecimiento por recibirnos la otra noche.
+0040 [Firenze] | Durante ese banquete,==W== una doncella de Goodwind protegió al Jefe==W== y salvó la velada entera.
+0041 [Shuo] | Eh, ah... Sí...==W== Pero ¿por qué flores?
+0042 [Firenze] | Porque a esa doncella en particular parecían gustarle estas variedades. Je. Recogió un montón de nuestro invernadero.
+0043 [Shuo] | (¡Esa mujer me amarró y me echó a una celda!==W== Y aquí estoy, sonriendo y aceptando su gratitud en su nombre. ¡Esto es indignante!)
+0044 [Shuo] | (Un momento. Nuestras doncellas usan flores para fabricar herramientas, claro, pero ¿por qué iba Otoha a saquear su invernadero?)
+0045 [Shuo] | Yo... le pido disculpas.==W== Pensar que recogió flores del invernadero de su cliente.
+0046 [Iris] | ¡Ah, en realidad nosotros se lo pedimos! Es brillante para los arreglos florales. La contratamos para decorar el lugar y su trabajo fue todo un éxito.
+0047 [Shuo] | (¿Arreglos florales?==W== Otoha es hábil en eso, pero no le gusta. ¿Por qué se tomaría la molestia de ayudar?==W== Tengo que hacer que sigan hablando.==W== Podría revelar lo que trama).
+0048 [Shuo] | Nos honran sus elogios.==W== En ese caso, permítanme una rápida evaluación de calidad.==W== Lady Firenze, distinguidos invitados de Boss Accord, ¿quedaron satisfechos con sus servicios de guardaespaldas?
+0049 [Noya] | ¡Más que satisfechos!==W== La unidad entera de Escorpiones del Desierto cayó en cuanto pasó una ráfaga de pétalos.
+0050 [Amber] | Exacto. Convirtió los cañones de las armas enemigas en flores.
+0051 [Iris] | Cuando por fin aterrizó en el patio con el Jefe, parecía una elegante garza nocturna.==W== Descendió del cielo envuelta en un aroma fragante.==W== Si no fuera porque le faltaban alas, habría jurado que de verdad podía volar.
+0052 [Shuo] | (¿Una garza nocturna? ¿Esas aves no son tontísimas? ¿Qué tiene eso de elegante?==W== Están exagerando muchísimo. Otoha es fuerte, pero no podría derribar a tantos Escorpiones del Desierto ella sola).
+0053 [Shuo] | (Un momento. Todos mencionaron flores...==W== ¿Habrá encontrado Otoha alguna planta nueva en su invernadero y la habrá convertido en una herramienta ninja nueva?)
+0054 [Shuo] | (Eso lo explica. Eso lo explica todo).
+0055 [Shuo] | (¡Así fue como me noqueó tan rápido! No fue porque yo sea más débil que ella: ¡tenía un arma secreta!==W== Seguro su pistola tiene esa magia de sueño).
+0056 [Shuo] | (Por eso aceptó el trabajo de proteger al Jefe. ¡Así tenía vía libre para recolectar las flores que necesitaba de Cosecha Unida Philae!==W== Con el banquete como tapadera, pudo haber acumulado materiales para años.==W== Jamás lo habría logrado colándose a escondidas...)
+0057 [Firenze] | Bueno, tenemos otros asuntos urgentes que atender. Nos retiramos por hoy.
+0058 [Shuo] | ¡Espere!
+0059 [Firenze] | Je. ¿Hay algo más, señorita Shuo?
+0060 [Shuo] | Lo pensé un poco más. Un proyecto tan grande como el de los invernaderos conjuntos sí requiere la aprobación de la sede. Pero como jefa de la sucursal de Philae, sin duda puedo empezar algunos trabajos preliminares con ustedes...==W== estrictamente dentro de mis facultades, claro. ¿Le interesaría, Lady Firenze?
+0061 [Lugar y hora] | 11:00, 15.º del mes de Venatio, Distrito de Plata de Philae, Calle sin nombre
+0062 [Iris] | ¡E-eso fue increíble!==W== ¡Apenas mencionamos a Otoha y unas flores, y la misma señorita Shuo que nos había rechazado de repente nos propone una alianza! ¡Hasta adelantó 2 mil millones de Dorra!
+0063 [Noya] | No lo entiendo. ¿Tanto le obsesionaba nuestro invernadero?==W== Firmó los papeles, mencionó una inspección y salió disparada.
+0064 [Amber] | No va a inspeccionar el invernadero.==W== Va a cazar a Otoha.
+0065 [Firenze] | Hasta los negocios más racionales y complejos los mueven las personas.==W== La señorita Shuo es una gerente formidable y una doncella excepcional. Dicen que es la principal candidata para tomar el mando de Goodwind Homecare.
+0066 [Firenze] | Normalmente, vería a través de nuestras pequeñas exageraciones. Pero...==W== su rivalidad con cierta persona la ciega demasiado.
+0067 [Iris] | Bueno, aun así nos faltan 5 mil millones.==W== Firenze, ¿quién sigue en la lista?
+0068 [Firenze] | Nuestra apuesta para los últimos 5 mil millones será la Guardia Imperial. Sin embargo, tengo que encargarme de esta negociación yo sola.
+0069 [Iris] | ¿L-la Guardia Imperial? Espera, pero...
+0070 [Noya] | ¿No son nuestra competencia?==W== ==PLAYER_NAME== dijo que su representante, Greyhorn, fue con todo en la subasta; ni parpadeaba al subir las ofertas.
+0071 [Firenze] | Correcto. Pero cuando alguien avienta miles de millones de Dorra sin pensarlo dos veces, solo puede significar una de dos cosas. O la Guardia Imperial está decidida a ganar a toda costa,==W== o...==W==
+0072 [Lugar y hora] | 12:00, 15.º del mes de Venatio, Distrito de Plata de Philae, puesto de guardia
+0073 [Greyhorn] | ¿Qué está insinuando exactamente, Lady Firenze? Por supuesto que la Guardia Imperial pretende ganar esta subasta del Monolito.
+0074 [Firenze] | Ah, no me haga caso. No estoy cuestionando a la Guardia Imperial; fue solo una idea pasajera. Después de todo, ganarme su enemistad ahora mismo no me haría ningún favor.
+0075 [Greyhorn] | ... Ya veo. Si usted lo dice, no hay problema. Por cierto, justo iba a salir a comer. ¿Me acompaña?
+0076 [Firenze] | Será un placer.
+0077 [Lugar y hora] | 12:30, 15.º del mes de Venatio, afueras de Philae, linde del bosque
+0078 [Firenze] | Crecí en Philae y no tenía idea de que hubiera un restaurante escondido aquí.
+0079 [Greyhorn] | No.==W== Aquí no hay ningún restaurante.
+0080 [Firenze] | ¿No?==W== Entonces,==W== ¿vino a un pícnic?
+0081 [Greyhorn] | No exactamente. Quería hacer un poco de ejercicio antes de comer.==W== Esperaba encontrar un compañero de práctica y, ¿qué cree? Justo «coincidimos».
+0082 [Greyhorn] | ... Ya veo. Su defensa es sólida, Lady Firenze.==W== Un juego de pies impecable.==W== Está a la altura de su reputación.
+0083 [Firenze] | Y usted también, Lady Greyhorn.==W== Ese golpe de refilón es difícil de desviar.
+0084 [Greyhorn] | Entonces...==W== ¿Qué considera usted la esencia del estoque?
+0085 [Firenze] | Mmm... Supongo que las matemáticas.
+0086 [Firenze] | Prefiero el estoque porque...==W== la habilidad más importante en esta disciplina es el cálculo.
+0087 [Greyhorn] | El cálculo... Es cierto. Puedo sentir esa precisión en su técnica.
+0088 [Greyhorn] | Pero yo tengo otra respuesta.==W== La clave del estoque es la eficiencia:==W== ¡ni un solo movimiento desperdiciado!
+0089 [Narración] | La punta de la hoja de Greyhorn se posa suavemente sobre el hombro de Firenze.
+0090 [Greyhorn] | Un estilo calculado no está mal,==W== pero pensar la hace más lenta.
+0091 [Firenze] | Y aun así,==W== está tan absorta en su propia lección==W== que descuidó su entorno.
+0092 [Narración] | Brota humo negro y el bastón espada desaparece de la mano de Firenze. Cuando Greyhorn baja la mirada, descubre la verdadera hoja contra su abdomen, sostenida por la sombra de Firenze.
+0093 [Greyhorn] | Je.==W== Nunca había tenido un duelo de estoques tan emocionante.
+0094 [Firenze] | El placer es mío. Aunque es una lástima no haber visto la verdadera habilidad del Sabueso.
+0095 [Greyhorn] | No me contuve. Le mostré el verdadero poder de Greyhorn.==W== Ahora, ¿le apetece un bocado?==W==
+0096 [Firenze] | ¿Oh?==W== Je. Así que sí era un pícnic.
+0097 [Greyhorn] | Detesto el esfuerzo desperdiciado. No vendría hasta acá solo para ponerla a prueba.
+0098 [Firenze] | Así que nunca tuvieron intención de ganar la subasta del Monolito, ¿verdad?
+0099 [Firenze] | Mis fuentes me dicen que==W== el equipo de la Guardia Imperial en la isla del lago==W== ni siquiera ha puesto un pie dentro del Monolito.
+0100 [Firenze] | Los registros de la subasta muestran que la Guardia Imperial participa siempre,==W== pero solo para igualar las ofertas más altas. Nunca ganan los derechos del Monolito.
+0101 [Firenze] | ¿Será que... su organización es un patiño colocado para inflar el precio?
+0102 [Greyhorn] | Se supone que no debo responder a eso...==W== Pero con su red de contactos, de todos modos pronto descubrirá la verdad.
+0103 [Greyhorn] | ... Lo entendió en lo esencial. Pero funciona en ambos sentidos. Si las demás empresas no logran quedarse con la subasta, la Guardia Imperial entra a tomar el control.
+0104 [Greyhorn] | Pero el público no lo sabe. Para todos los demás, somos una facción débil condenada a perder todas las subastas.
+0105 [Greyhorn] | Esa reputación me da dolores de cabeza interminables.
+0106 [Greyhorn] | Cosecha Unida Philae y Omnisky Aegis están decididas a ganar esta subasta.==W== Nuestra participación no significa nada.
+0107 [Firenze] | Y aun así, siguen enviando un equipo a la isla.
+0108 [Greyhorn] | Al final del día, soy una empleada. Las órdenes de la Guardia Imperial están por encima de mis preferencias personales.
+0109 [Greyhorn] | Usted lo sabe, Lady Firenze. Por eso vino sola y me acompañó con tanta paciencia hasta acá.
+0110 [Firenze] | Jejeje. Me declaro culpable.==W== Entonces, siguiendo con nuestra conversación,==W== Cosecha Unida Philae quiere contratar a la Guardia Imperial para toda la seguridad corporativa y de la ciudad.
+0111 [Greyhorn] | ¿Oh? Ahora mismo su seguridad la manejan las fuerzas de Cosecha Unida. ¿Le parece seguro meter a gente de fuera? Estaría entregando toda su defensa a la Guardia Imperial...
+0112 [Firenze] | Esa es la idea. Tenemos que cortar lazos con el antiguo régimen.
+0113 [Firenze] | Además, nos falta personal. De ahora en adelante, nuestros guardias internos se dedicarán solo a la logística, como escoltar cargamentos de larga distancia.
+0114 [Firenze] | Para los patrullajes diarios y la vigilancia de las calles, preferimos dejarle el trabajo a profesionales como la Guardia Imperial.
+0115 [Greyhorn] | No se anda con rodeos.
+0116 [Firenze] | Como usted dice: ni un movimiento desperdiciado.
+0117 [Firenze] | Si la Guardia Imperial acepta nuestro enorme contrato,==W== sus interminables derrotas en las subastas de repente parecerán una estrategia de marketing.==W== La gente supondría que usaban las subastas para anunciar sus servicios.
+0118 [Firenze] | También mencionaremos en público lo solventes que son y elogiaremos su confiabilidad a toda prueba.==W== Ese problema de reputación suyo mejorará de la noche a la mañana.
+0119 [Greyhorn] | Juega de maravilla, Lady Firenze. Ya que me está resolviendo mi mayor dolor de cabeza, lo justo es que le devuelva el favor.
+0120 [Greyhorn] | Le dejaré el contrato de entregas a Mirage de este año. Su antigua empresa matriz es un desastre total. No está en condiciones de encargarse.
+0121 [Greyhorn] | Según la tradición de la Guardia Imperial, pagamos el anticipo de seis mil millones de Dorra en diamantes de cristal.
+0122 [Greyhorn] | Si los términos le convienen, volvamos al puesto y firmemos el contrato ahora mismo.
+0123 [Firenze] | Es un placer hacer negocios con usted.
+0124 [Lugar y hora] | 15:30, 15.º del mes de Venatio, Distrito de Oro de Philae, sucursal de Finanzas del Mar Profundo
+0125 [Salesperson No. 21] | Gerente, vieron a Firenze salir de la Guardia Imperial. Viene para acá.
+0126 [Salesperson No. 20] | Parece que cerró un trato enorme con ellos. Seguro ya tienen los 40 mil millones completos.
+0127 [Mercurio] | Es la mujer que derrocó a Darcia y al Senado para quedarse con Cosecha Unida Philae. No esperaba menos.
+0128 [Mercurio] | Pero, Firenze... No sabes nada del verdadero poder del Dorra.
+0129 [Mercurio] | Jajaja... ¡No tienes ninguna oportunidad en esta subasta!

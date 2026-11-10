@@ -1,0 +1,117 @@
+# Historia de Karin · 3 · Three-Legged Race (Part Ⅲ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Coffee Shop Staff | Personal de la cafetería
+N:Shopkeeper | Tendero
+N:Trekker Association Staff | Personal de la Asociación de Trekkers
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_100 | Sylar
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_234 | Personal de la Asociación de Trekkers (F)
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Carrera de tres piernas (Parte Ⅲ)
+0003 [Intro] | Por supuesto, hay una recompensa esperando en la meta. Pero, siendo honestos, ¡su cara al verla es el verdadero premio!
+0004 [Narración] | Unos días después de la aventura al Monolito con Karin...
+0005 [1] | ...
+0006 [1] | ¡Lo sabía! ¡Alguien me observa desde las sombras!
+0007 [1] | ¿Será Cosette otra vez...?
+0008 [1] | Espera, ¡¿orejas de conejo rosas?! ¡¿Karin?!
+0009 [1] | ¿Por qué me sigue? ¿Hice algo malo?
+0010 [1] | Da igual... Si quiere hablarme, vendrá ella sola.
+0011 [Tú] | Vengo a entregar los Artefactos de la comisión.
+0012 [Trekker Association Staff] | ¡Excelente trabajo! Ahora procederemos con la inspección~
+0013 [Tú] | ...
+0014 [Tú] | Un Ruiseñor Leonado ... y un salmón salado, por favor.
+0015 [Shopkeeper] | ¡Excelente elección! ¡Gracias!
+0016 [Tú] | ...
+0017 [1] | Sigue sin acercarse... ¿Qué querrá exactamente...?
+0018 [1] | ¿Debería acercarme yo primero...==W== ¿Mm?
+0019 [Shia] | ¡==PLAYER_NAME==, adivina qué!
+0020 [Shia] | ¡Recibí un regalo de cumpleaños de Karin!
+0021 [Shia] | ¡Estoy tan emocionada! Solo quería compartir mi alegría contigo ♪
+0022 [Karin] | ¡¿De qué hablaron tú y Shia?! ¡AaaaaHHH!
+0023 [Tú] | ¡¡¡AHHH!!!??
+0024 [Karin] | ¡Ese Heartlink era de Shia, ¿verdad?!
+0025 [Karin] | ¡¿De qué se trataba?! ¡¿Qué opina del regalo?! ¡Vamos, ¿qué dijo?!
+0026 [Tú] | ¿Pudiste ver con quién hablaba desde tan lejos?
+0027 [Karin] | ¡Ah, sí, gracias a los lentes de contacto!
+0028 [Tú] | Me alegra que te sirvan...==W== Pero ¿por qué me estás siguiendo?
+0029 [Karin] | ¡¿C-Cómo lo supiste?!
+0030 [Tú] | ¿De verdad creías que nadie podía verte?
+0031 [Karin] | ¡Sí, creo que me escondí bien!
+0032 [Tú] | Se le veían las orejas perfectamente... Mejor no se lo digo ahora.
+0033 [Karin] | Y, para que quede claro, no te estaba siguiendo...==W== Quería venir a saludar, pero se te veía con mucho trabajo...
+0034 [Tú] | Ya veo. Qué considerada.==W== Entonces, ¿en qué puedo ayudarte?
+0035 [Karin] | Este... Pues...
+0036 [Karin] | ¿Estás libre más tarde, Jefe?
+0037 [Tú] | Pues creo que sí. Ya terminé todo mi trabajo de hoy...==W== No me digas que vas otra vez al Monolito.
+0038 [Karin] | Bien. Solo sígueme y lo verás.
+0039 [Tú] | ¿Karin?==W== ¡Al menos dime adónde vamos!
+0040 [Tú] | ¿Qué es este lugar...==W== ¿Café de la Playa?
+0041 [Karin] | Hola, un Raspado Especial y un Raspado Conejo Blanco, por favor.
+0042 [Coffee Shop Staff] | ¡Entendido! Siéntense donde gusten, en breve les llevamos su pedido.
+0043 [Coffee Shop Staff] | ¡Disculpen! ¡Aquí está su Raspado Conejo Blanco!
+0044 [Tú] | ¡Guau! ¡Se ven elegantísimos! ¡Con tanta fruta y jarabe! ¡Mmmm, qué rico!
+0045 [Tú] | Eh, Karin... ¿Me puedes decir qué está pasando?
+0046 [Karin] | ¡N-No pasa nada!==W== Solo se me antojaron los dos sabores y necesito a alguien con quien compartir el segundo tazón...
+0047 [Tú] | ¿Y por qué no se lo pediste a Shia?
+0048 [Karin] | ¡Sí lo hice!==W== Pero...==W== ¡Ya los comimos hace tres días!
+0049 [Tú] | ¿O sea que es el segundo antojo en cuatro días?
+0050 [Karin] | Eh... Ah...==W== ¡S-Sí! ¡¿Y qué?!
+0051 [Karin] | ¡El raspado de hace tres días estuvo buenísimo, así que quise traerte a probarlo también!
+0052 [Tú] | ¿De verdad es solo eso?
+0053 [Karin] | ¡¿Q-Qué más sería?! Solo estoy siendo súper amable. ¡Más te vale agradecerlo!
+0054 [Karin] | Toma. ¡El hielo es tan suave y esponjoso! ¡Está a otro nivel comparado con un raspado normal!
+0055 [Karin] | ¡Así que deja de parlotear y come! ¡Si todo se derrite, lo vas a pagar!
+0056 [Tú] | Buen punto. Daré un bocado.
+0057 [Karin] | Tú...==W== ¡¿Qué te pasa?!==W== Normalmente,==W== se supone que==W== comes del tuyo.==W== ¡¿Por qué tienes que comer del mío?!
+0058 [Opción] | ¿No fuiste tú quien me dijo que comiera?
+0059 [Karin] | ¡¿Estás ciego o qué?!==W== ¡Mi regalo de agradecimiento está frente a ti!==W== Ah...
+0060 [Opción] | ¿«Regalo de agradecimiento»?
+0061 [Karin] | Eso es...==W== Este...==W== Sí, así es.==W== Gracias a ti,==W== pude entregarle un regalo de cumpleaños==W== a mi herma...==W== Y también pude reponer==W== mis lentes de contacto…
+0062 [Karin] | Así que...==W== este raspado==W== es mi forma de pagarte,==W== o mejor dicho...==W== es mi forma==W== de agradecerte.
+0063 [Opción] | Mmm. Justo lo que pensaba.
+0064 [Karin] | ¡¿Qu...?!==W== ¡¿Tú…==W== lo sabías y lo hiciste a propósito?!
+0065 [Opción] | Nunca pensé que lo admitirías con tanta sinceridad...
+0066 [Opción] | Y no esperaba que me lo dieras en la boca.
+0067 [Karin] | ¿Dártelo en la boca...?==W== ¡¿Qué?!==W== ¡N-==W==no!==W== ¡No quise decir eso hace un momento!
+0068 [Karin] | Solo==W== quería mostrarte lo delicioso que es el raspado…
+0069 [Karin] | ¡No tenía ninguna intención==W== de darte de comer!==W== ¡No te hagas ideas!
+0070 [Opción] | ¿No me vas a dar de comer?
+0071 [Opción] | Pero estaba delicioso...
+0072 [Karin] | Yo...==W== ¡No lo haré==W== aunque lo digas!
+0073 [Karin] | ¡Ni siquiera a mi hermana se lo he hecho,==W== así que creer que te daría de comer a ti==W== es una arrogancia total!
+0074 [Karin] | O sea,==W== ¿cómo podría hacerlo otra vez...==W== algo tan vergonzoso...?
+0075 [Opción] | Pero querías agradecerme, ¿no?
+0076 [Karin] | ¡T...==W== Tú, tú, tú!!==W== ¡Eso no se vale!==W== ¡Totalmente injusto!
+0077 [Karin] | Arrghhh...==W== ¡Urgh!==W== ¡Solo esta vez!==W== Es la última,==W== y con esto se acaba el agradecimiento, ¿entendido?
+0078 [Karin] | Toma...==W== Abre la boca.==W== Te daré de comer,==W== así que más te vale saborearlo, ¡o no te lo perdono!
+0079 [Karin] | Entonces... ¿Qué te parece?
+0080 [Tú] | Está buenísimo. Gracias, Karin.
+0081 [Karin] | ¡C-Claro que sí! ¡Yo misma te lo di!
+0082 [Karin] | ¡Si te atreves a decir que está malo, te convierto en alimento para peces!
+0083 [Tú] | Jaja, ¿por qué lo haría? Dame otro, por favor.
+0084 [Karin] | ¡Idiota—!==W== ¡Ya basta!
+0085 [Tú] | Jaja, no pude evitar molestar a Karin por sus reacciones tan lindas. Parece que me pasé un poco...
+0086 [Tú] | Perdón, era broma. Entonces, como disculpa, ¿quieres un poco de mi raspado?
+0087 [Karin] | Oh.
+0088 [Tú] | ¿Karin? ¿Por qué abres la boca?
+0089 [Karin] | Ugh, de verdad no entiendes nada. Ya abrí la boca, ¿y no sabes qué hacer?
+0090 [Karin] | ¡Ahora te toca a ti darme de comer!
+0091 [Tú] | Eh... ¿No te da pena pedir que te den de comer?
+0092 [Karin] | ¡Eso no te incumbe! ¡Y yo acabo de darte de comer, ¿o no?! Hmph... ¡Hay que ser justos!
+0093 [Karin] | Vamos. Se está derritiendo.
+0094 [Tú] | Está bien, está bien. Toma.
+0095 [Karin] | Ñam... En realidad sabe todavía mejor cuando te lo dan.
+0096 [Karin] | Bien, ya estamos a mano. Ni sueñes con que te vuelva a dar de comer...
+0097 [Karin] | Pero puedo llevarte a pasear cuando tenga mi propio bote.
+0098 [Tú] | ¿En serio? ¿Lo dices en serio?
+0099 [Karin] | Aja,==W== acabo de decirlo.==W== Que quede claro: serás la única persona, aparte de Shia, a la que se le permitirá subir a mi bote. ¡Agradece este privilegio!
+0100 [Tú] | Por supuesto que sí... Espero con ansias el día en que eso suceda.

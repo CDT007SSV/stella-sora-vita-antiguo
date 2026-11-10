@@ -1,0 +1,116 @@
+# Evento · Un crepitante indicio de primavera · 9 · Un mundo renovado
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg1_159 | Coronis
+N:avg2_952 | Lucky
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Un mundo renovado
+0003 [Intro] | De regreso del Monolito, el grupo se reúne en un restaurante de hotpot para un bullicioso banquete de la Víspera del Buscaprimavera. Cuando suena la campana de medianoche, un nuevo año llega entre el rugido de los fuegos artificiales...
+0004 [Shimiao] | ¡Perdón por la tardanza!
+0005 [Shimiao] | Atar los cabos sueltos tomó un rato... Espero no haberlos hecho esperar.
+0006 [Noya] | ¡No te preocupes! Llegaste justo a tiempo. ¡Ve a lavarte las manos y a comer!
+0007 [Coronis] | Reservar todo el restaurante... Imagino que cuesta una fortuna.
+0008 [Jinglin] | ¡No te preocupes, una prima lejana mía es la dueña!==W== Insistió en invitar la noche, su manera de agradecernos por resolver el caso.
+0009 [Jinglin] | Mi mamá hasta vino a preparar sus especialidades. ¡Vamos, a comer!
+0010 [Tú] | Por cierto, ¿hay alguna tradición sobre el menú de la Víspera del Buscaprimavera?
+0011 [Jinglin] | Mmm...==W== Las familias cocinan sobre todo lo que les gusta, pero sí hay platillos básicos. Se trata de reuniones familiares y de recibir el año nuevo, ¡así que es justo tener algo de ritual!
+0012 [Coronis] | De hecho investigué esto por curiosidad.==W== Entiendo que muchos platillos comunes simbolizan buena fortuna.
+0013 [Shimiao] | Creí que pasaría la víspera enterrada en expedientes...==W== Gracias a todos, logramos terminarlo a tiempo para la cena.
+0014 [Iris] | Nosotras somos quienes debemos agradecerles a ti y a ==PLAYER_NAME==. Sin su ayuda, seguramente seguiríamos atrapadas en el Monolito mordisqueando pan duro.
+0015 [Amber] | Festival con todos. Qué bonito.
+0016 [Shimiao] | Sin duda. El Festival Buscaprimavera trata de reunirse para compartir un banquete alegre.
+0017 [Jinglin] | Si siguen platicando, la comida se va a enfriar. ¡Vamos, siéntense!
+0018 [Shimiao] | Buen punto. Pero todavía no he visto a Chixia. ¿A dónde fue?
+0019 [Coronis] | Está en la cocina, empeñada en demostrar su destreza culinaria.
+0020 [Chixia] | ¡Tara! ¡Y ahora, el gran final!
+0021 [Shimiao] | ¿Q-qué demonios es eso...?
+0022 [Chixia] | Je, je. Contemplen mi obra maestra: ¡Salteado de Wok a lo Grande!
+0023 [Coronis] | ¿Es otra de las delicias tradicionales de Cangwu? Fascinante...
+0024 [Tú] | No, no, no... No hay manera de que eso sea comida tradicional... ¡Miren ese color tan raro!
+0025 [Noya] | ¡Está bien! ¡Deberíamos estar contentos de tener comida en la mesa!
+0026 [Tú] | Bueno, sí, ¿pero y si nos intoxicamos...?
+0027 [Tú] | ¿De verdad los Trekkers necesitan un estómago de hierro para sobrevivir en este oficio?
+0028 [Shimiao] | Eh... Es muy rojo. No será demasiado picante, ¿verdad?
+0029 [Jinglin] | ¡Oh, definitivamente es picante, pero eso es lo que lo hace rico! ¡Vamos, Shimiao, sé valiente!
+0030 [Narración] | Todos se reúnen alrededor y comparten un banquete lleno de risas en esta Víspera del Buscaprimavera.==W== El tiempo se escurre en silencio y los acerca al cambio de año.
+0031 [Tú] | Ah, ya empiezan los fuegos artificiales.
+0032 [Coronis] | Los fuegos artificiales de la Víspera del Buscaprimavera...
+0033 [Coronis] | Presenciarlo en persona... Es mucho más vívido e intrigante de lo que imaginaba.
+0034 [Coronis] | Al final del año, todos comparten la misma esperanza==W== mientras reciben la primavera con la familia y los amigos que aprecian.
+0035 [Coronis] | ¿Es este el momento más querido para los Loong?
+0036 [Shimiao] | Sí. Esta es la noche más importante del año para nosotros.
+0037 [Coronis] | Eso explica los recuerdos de Lucky...
+0038 [Tú] | ¿Los recuerdos de Lucky?
+0039 [Coronis] | En el Monolito, cuando examiné a Lucky... quizá por la magia, o por la sola intensidad de los deseos involucrados, capté destellos caóticos de memoria.
+0040 [Coronis] | Probablemente pertenecen a distintas personas y cargan con el peso de una esperanza colectiva, que a la postre catalizó el nacimiento de Lucky.
+0041 [Coronis] | Pero me pareció curioso que... pese a las diferencias de edad, posición y lugar, los dueños de esos recuerdos compartían exactamente el mismo deseo. O mejor dicho...
+0042 [Coronis] | La misma determinación:
+0043 [Coronis] | volver a casa. Pasar el festival con las personas que importan.
+0044 [Shimiao] | Para los Loong, el Festival Buscaprimavera no es solo para recibir el año nuevo.
+0045 [Shimiao] | Es un recordatorio para honrar el pasado, mirar al futuro y nunca olvidar dónde está nuestro hogar.
+0046 [Shimiao] | Sin importar cuán ocupados estemos ni cuán lejos nos hayamos ido, siempre luchamos por regresar en esta única noche. Solo para volver a estar juntos.
+0047 [Shimiao] | Porque creemos que, mientras haya un «hogar» esperándonos, hay esperanza.
+0048 [Coronis] | Ahora que lo he visto de primera mano, creo que entiendo qué movía a esas personas.
+0049 [Coronis] | Su intenso anhelo deformó el entorno del Monolito y manifestó a Lucky.
+0050 [Coronis] | En cierto modo, esa criatura es la respuesta viva a su plegaria de reencuentro.
+0051 [Tú] | Sí... Supongo que sí.
+0052 [Chixia] | ¿Por qué esas caras solemnes? ¡Es el Festival Buscaprimavera!==W== ¡Vamos, a lanzar unos fuegos artificiales!
+0053 [Chixia] | ¡Acérquense al claro! ¡Prepárense, mortales! ¡La Gran Maestra Chixia está a punto de mostrarles el verdadero y==W== devastador poder del espíritu del Buscaprimavera!
+0054 [Narración] | Chixia, con aire de suficiencia, saca rodando un enorme tubo de lanzamiento que la supera en altura, con la superficie cubierta de runas salvajes y arremolinadas.
+0055 [Noya] | ¡Esa cosa es una bestia!
+0056 [Chixia] | ¡Deleiten sus ojos con mi más reciente obra maestra: el Cañón Cromático Celestial!
+0057 [Tú] | ¿Algo así de grande es... realmente seguro?
+0058 [Coronis] | A juzgar por la masa y la densidad de runas, en teoría debería producir un espectacular fenómeno visual.
+0059 [Coronis] | Por supuesto, la probabilidad de una espectacular catástrofe también es estadísticamente significativa.
+0060 [Chixia] | ¡Ejem! No sean aguafiestas.==W== Revisé la matemática dos veces. Esta vez es totalmente...
+0061 [Chixia] | ¿Eh? ¿Por qué todos retroceden?
+0062 [Iris] | Chixia, tu cola... Creo que acabas de encender la mecha...
+0063 [Chixia] | ¿¡Q-qué!? ¡Debieron decirlo antes!
+0064 [Narración] | El proyectil de fuegos artificiales silba hacia el cielo con una velocidad antinatural, da un brusco y extraño giro en U y se lanza en picada directo hacia la entrada del restaurante de hotpot.
+0065 [Amber] | ¿Corremos?
+0066 [Iris] | Espera... ¡Va hacia el restaurante! ¡Si esa cosa entra, la cuenta de las reparaciones será astronómica!
+0067 [Chixia] | ¡E-eso no se suponía que pasara! ¡Gira! ¡Vuela a otra parte! ¡Por favor!
+0068 [Narración] | El proyectil zigzaguea como loco, roza los aleros, casi golpea un farol y luego da otro giro brusco, lanzándose en picada directo hacia Chixia.
+0069 [Chixia] | ¡Buaaa!==W== ¡Por aquí no! ¡Sube! ¡Arriba!
+0070 [Tú] | ¿Cómo terminamos así...?
+0071 [Narración] | Presa del pánico, Chixia lanza un talismán a ciegas.
+0072 [Narración] | Como si obedeciera una orden, el proyectil descontrolado corrige su rumbo, sube disparado hacia el cielo y estalla en un deslumbrante despliegue de luz.
+0073 [Jinglin] | Uf... Estuvo cerca.
+0074 [Iris] | Yo ya estaba calculando mentalmente la cuenta de los daños...
+0075 [Chixia] | Olvidé instalar el talismán de guiado... De verdad creí que esta vez era perfecto... Perdón...
+0076 [Noya] | ¡Pero el Cañón de Chixia estuvo precioso! ¡Y como no se rompió nada, bien está lo que bien acaba!
+0077 [Shimiao] | Como es la Víspera del Buscaprimavera... lo dejaré pasar. Pero por seguridad, de ahora en adelante solo fuegos artificiales reglamentarios. Nada de modificaciones no autorizadas.
+0078 [Chixia] | Entendido...
+0079 [Jinglin] | ¡Miren la hora! ¡Ya casi es medianoche!
+0080 [Narración] | Antes de que nadie se dé cuenta, una marea de petardos recorre las calles y manda oleada tras oleada de fuegos artificiales al cielo nocturno. A lo lejos, comienzan a repicar tenues campanadas.
+0081 [Jinglin] | ¡Feliz Buscaprimavera!
+0082 [Noya] | ¡Feliz Buscaprimavera!
+0083 [Chixia] | ¡Por un año sin sobresaltos y sin más desastres gigantes de mi parte!
+0084 [Jinglin] | ¡Deseo que mi mamá se mantenga sana y que el negocio del Bistró de Jing se dispare por las nubes!
+0085 [Tú] | ¿Mm? ¿Qué pasa por aquí?
+0086 [Shimiao] | Es una tradición Loong pedir buena fortuna al comenzar el año. ¿Por qué no te unes? Un deseo, un propósito... Cualquier cosa sirve.
+0087 [Noya] | ¡Entonces deseo felicidad y nada más, todos los días!
+0088 [Iris] | Quiero ser alguien en quien el Gremio de la Nueva Estrella pueda confiar todavía más.
+0089 [Amber] | Seguir viajando juntos.
+0090 [Noya] | ¿Y tú, Shimiao? ¿Cuál es tu deseo?
+0091 [Shimiao] | ¿Yo? Deseo que...
+0092 [Shimiao] | podamos dejar atrás los problemas pasados y que el año que viene dé frutos para todos.
+0093 [Chixia] | Siempre tan seria. ¡Pero oye, eso es muy «tú», Shimiao!
+0094 [Coronis] | Je. Supongo que debería seguir el ejemplo y pedir un deseo.
+0095 [Coronis] | Deseo encontrar la cura de aún más patologías sin resolver de este mundo.
+0096 [Iris] | ¿Tienes algún deseo, ==PLAYER_NAME==?
+0097 [1] | Lo único que quiero...
+0098 [1] | ... es que==W== cada año estemos bajo este mismo cielo nocturno, llenos de esperanza por el año que viene.
+0099 [1] | En fin, démosle a este año todo lo que tengamos.
+0100 [1] | ¡Feliz Buscaprimavera, a todos!

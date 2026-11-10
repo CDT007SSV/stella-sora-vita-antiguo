@@ -1,0 +1,167 @@
+# Capítulo 7 · El precio de la estrella · 15 · Piso 51
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg2_946 | Fantasma de la Ópera
+N:avg2_972 | Guantelete de la Ira
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg2_975 | Glopo
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1242 | Chitose
+N:avg3_133 | Portia
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto quince
+0002 [Intro] | Piso 51
+0003 [Intro] | Siguiendo la pista de Portia, Chitose y tú recrean la prueba de la Santa Manca y por fin desbloquean el piso 51. En las sombras los espera una aterradora deidad maligna, la misma que condenó a Philae a una lluvia interminable...
+0004 [Lugar y hora] | 17:00, 15.º del mes de Venatio, Monolito de Philae, piso 50
+0005 [Chitose] | Este piso está libre de Stellaroids, mi ==SEX11==. Por favor, cuide dónde pisa.
+0006 [Tú] | Gracias, eso ayuda mucho.==W== Pero en este piso tampoco hay una Caja de Deseos lo bastante grande... ¿Cuántos Trekkers mandó Omnisky Aegis a barrer este Monolito?
+0007 [Tú] | Eso significa que nuestra única opción es el piso 51 oculto de los archivos.
+0008 [Chitose] | Mi ==SEX11==, revisé las paredes en busca de pasadizos ocultos y no encontré nada. También pisé todas las placas de presión. Solo eran trampas; ninguna abrió un camino al piso 51.
+0009 [Tú] | ¿Cómo subimos hasta allá...?
+0010 [Chitose] | ¿Quiere que abra un hueco en el techo?
+0011 [Tú] | No, no... La fuerza bruta no siempre es la respuesta.
+0012 [Tú] | Espera, puede que haya otra forma... Noya mencionó algo una vez. De cuando el Gremio de la Nueva Estrella encontró la Caja de Deseos en la que yo dormía...
+0013 [Narración] | Oh, Dios de la Gracia, por favor... ¡Por favor, déjanos encontrar una Caja de Deseos absurdamente enorme!
+0014 [Tú] | Al parecer, Iris pidió exactamente ese deseo justo antes de entrar al elevador.==W== No sé si su plegaria de verdad fue escuchada...
+0015 [Tú] | Pero de cualquier forma, terminaron en el piso donde estaba esa Caja de Deseos. En la que yo estaba.
+0016 [Chitose] | Ya veo. Si pedimos un deseo antes de entrar al elevador...
+0017 [Tú] | Intentémoslo.
+0018 [Lugar y hora] | 17:05, 15.º del mes de Venatio, Monolito de Philae, puerta del elevador
+0019 [Tú] | Oh, Dios de la Gracia, por favor... ¡Por favor, déjanos encontrar una Caja de Deseos absurdamente enorme!
+0020 [Chitose] | El elevador no ha cambiado, mi ==SEX11==.
+0021 [Tú] | ¡Entonces déjame decirlo de otra forma...!
+0022 [Tú] | Oh, Dios de la Gracia, por favor, déjanos encontrar una Caja de Deseos más grande que mi mano.
+0023 [Chitose] | Sigue igual, mi ==SEX11==.
+0024 [Tú] | ¡¿C-cómo...?! Mmm... Mejor intentaré esto...
+0025 [Tú] | Oh, Dios de la Gracia, por favor... ¡Por favor, déjanos encontrar un Stellaroid absurdamente enorme!
+0026 [Tú] | ...
+0027 [Tú] | ... Ay... Nada, ¿eh? Supongo que con solo pedir un deseo no vamos a llegar al piso 51 oculto.
+0028 [Tú] | Tiene sentido, la verdad. Si bastara con decir tu deseo en voz alta, ya habría muchísimos más Trekkers allá arriba.
+0029 [Tú] | Nuestra única otra opción... Uf, odio admitirlo... es la tienda de conveniencia. Puede que ahí encontremos una pista.
+0030 [Chitose] | ¿La tienda de conveniencia?
+0031 [Lugar y hora] | 17:20, 15.º del mes de Venatio, Monolito de Philae, tienda del Monolito
+0032 [Portia] | Bienvenidos. ¿Qué les puedo ofrecer hoy?
+0033 [Tú] | Oye, Portia, buenas tardes. Tengo una pregunta para ti.
+0034 [Portia] | Bienvenidos. ¿Qué les puedo ofrecer hoy?
+0035 [Tú] | ... ¿Eh? Portia, no hay tiempo para juegos.==W== Por favor, escúchame.
+0036 [Chitose] | Eh... ¿Mi ==SEX11==? ¿Qué está haciendo? Hasta donde puedo ver, ella se comporta igual que siempre...
+0037 [Tú] | ¿Igual? ¡Para nada! ¡Todo el Gremio de la Nueva Estrella la ha oído hablar normalmente!
+0038 [Chitose] | Cada vez que la veo, solo repite unas cuantas frases.==W== Siempre supuse que era una muñeca mágica.
+0039 [Tú] | N-no, no es eso para nada...==W== Vamos, Portia.
+0040 [1] | Hazle un favor a un excompañero de trabajo. Dime cómo llegar a la sala oculta de este Monolito, o al piso 51.
+0041 [Portia] | Sin comentarios. Me gustan los clientes, pero no cuando bloquean el mostrador sin comprar nada.
+0042 [Chitose] | Eso es nuevo. Tenía razón, mi ==SEX11==, sí habla fuera de su guion.
+0043 [Tú] | Aun así, se ve molesta.==W== Uf... Supongo que tendré que usar ese truco.
+0044 [Tú] | Te propongo algo. Tú me dices cómo llegar a la sala oculta y yo pienso en volver a tomar turnos aquí.
+0045 [Portia] | ¿En serio? Tenemos bento de milanesa de cerdo; es tu favorito, ¿no? Toma, va por cuenta de la casa.
+0046 [Tú] | No, gracias, no tengo hambre... Paso.
+0047 [Tú] | Si me como ese bento y pierdo la cabeza como la última vez, vamos a estar en problemas.
+0048 [Portia] | Hmph, como quieras. Entonces compra una Bebida de Potencial. Está buena.
+0049 [Narración] | Portia saca una Bebida de Potencial de detrás del mostrador y la desliza hacia nosotros.
+0050 [Tú] | ... Sí. Esta debería ser segura de tomar.
+0051 [Portia] | Gracias. Espero verlos pronto.
+0052 [Chitose] | Mi ==SEX11==, es evidente que conoce el camino a la sala oculta. ¿De verdad nos vamos a ir sin averiguarlo?
+0053 [1] | El personal del Monolito está limitado por sus propias reglas. No puede hablar con libertad. Pero ya nos dio la respuesta.
+0054 [Narración] | Le doy la vuelta a la botella vacía de Chitose. En el fondo hay algo garabateado:
+0055 [Narración] | Repite la historia.
+0056 [Narración] | Al lado hay una notita diminuta: Peligro. Ten cuidado. Y si no aceptas el trabajo aquí, me quedo sin pretexto para flojear.
+0057 [Tú] | Repetir la historia... ¿Dónde he oído eso antes?
+0058 [Serena] | Según registros de hace siglos, la Santa y su acompañante partieron justo desde donde está esa estación del teleférico.
+0059 [Serena] | Cruzaron el peligroso lago en tirolesa...
+0060 [Serena] | Escalaron el Monolito y se enfrentaron a la deidad maligna...
+0061 [Serena] | ... para detener la lluvia interminable de Philae.
+0062 [Serena] | Ahora que lo pienso, estoy viendo al héroe más reciente de Philae y a una acompañante con una mano herida. Recorrieron exactamente el mismo camino hasta el Monolito para acabar con esta absurda guerra de ofertas.
+0063 [Serena] | Es casi como esa escena legendaria. Todo un espectáculo... Lástima que alguien esté intentando arruinar el momento.
+0064 [Tú] | Bueno, ahora sí estás exagerando.
+0065 [Serena] | ¿Tú crees? Ya sabes lo que dicen: la historia se repite.
+0066 [Tú] | Un momento... ¿Serena me estaba dando una pista aquella vez?==W== No, es imposible. No pudo haber previsto que yo terminaría justo en esta situación. Lo estoy pensando demasiado.
+0067 [Tú] | Aun así... Vale la pena intentarlo.
+0068 [Tú] | Chitose, tengo un plan.==W== Vamos a interpretar el papel de la Santa Manca.
+0069 [Lugar y hora] | 17:40, 15.º del mes de Venatio, Monolito de Philae, puerta del elevador
+0070 [Chitose] | Mi ==SEX11==, por favor, cuide de mi familia.
+0071 [Tú] | ¿Eh? ¿Qué estás haciendo?
+0072 [Chitose] | Quiere interpretar a la Santa Manca. Por lo tanto, hay que cortar un brazo.
+0073 [Chitose] | Pero me niego a verlo mutilarse. Si un brazo tiene que irse, tome el mío...
+0074 [Tú] | ¡Oye, espera! Dije interpretar a la Santa Manca. Nunca dije nada de cortar un brazo de verdad.
+0075 [Tú] | Si repetir la historia es la clave de esa sala oculta, el Gremio de la Nueva Estrella debió de hacer algo parecido por accidente cuando me encontró.
+0076 [Tú] | No lo planearon, así que es imposible que lo recrearan a la perfección. Algunos elementos clave debieron coincidir por casualidad.
+0077 [Tú] | Siguiendo esa lógica, no tiene que ser exacto. Si recreamos las condiciones correctas, el camino debería abrirse.
+0078 [Chitose] | Ya veo. ¿Entonces no hace falta una amputación?
+0079 [Tú] | Exacto. Nada de amputaciones. Pero para fingir un brazo inservible...
+0080 [1] | Chitose, necesito que me disloques el hombro.
+0081 [Chitose] | ¡P-pero...!==W== Por favor, permítame...
+0082 [Tú] | No. Aunque logremos entrar, todavía tenemos que enfrentarnos a un Stellaroid enorme.
+0083 [Tú] | Además, de todos modos yo no sirvo de mucho en combate. Déjame aportar algo aquí.
+0084 [Chitose] | Pero...
+0085 [Tú] | Chitose, es una orden de tu ==SEX11==.==W== Disloca mi hombro izquierdo.
+0086 [Chitose] | ... Entendido. Mi ==SEX11==,==W== por favor, muerda este trapo.
+0087 [Narración] | Pasa en un instante. Un crujido escalofriante, y mi brazo izquierdo queda completamente flácido.
+0088 [Tú] | Agh... Me preparé, pero rayos, cómo duele... Aun así, con eso cubro el requisito de «manco».
+0089 [Tú] | Dios de la Gracia en las alturas, concédenos el paso para vencer a la deidad maligna... La que ahoga a Philae en una lluvia interminable.
+0090 [Chitose] | Mi ==SEX11==, las luces del elevador cambiaron.
+0091 [Tú] | Uf... De verdad funcionó.
+0092 [Tú] | ¿Cómo sabía Serena de este truco...?
+0093 [Tú] | No hay tiempo para darle vueltas. Sigamos.
+0094 [Lugar y hora] | 17:50, 15.º del mes de Venatio, Monolito de Philae, dentro del elevador
+0095 [Chitose] | Contaré hasta tres y le acomodaré el hombro en el «tres».
+0096 [Chitose] | Uno... Dos...
+0097 [1] | ¡¿Ngh...?! Duele... Bueno, al menos el brazo ya se mueve.==W== ¡Y me lo acomodaste en el «dos»!
+0098 [Chitose] | Mis disculpas.==W== Si se prepara, los músculos se tensan y es mucho más difícil acomodar la articulación.==W== Además, su hombro sigue lastimado. Por favor, evite usar este brazo por ahora.
+0099 [Tú] | Gracias por el aviso.==W== Pero considerando el Stellaroid al que nos enfrentaremos... La verdadera carga la llevas tú, Chitose.
+0100 [Tú] | Me siento mal por dejarte la parte difícil.
+0101 [Chitose] | No hace falta disculparse. Soy su espada, mi ==SEX11==. Abrirle camino es mi único deber, sin importar el peligro.
+0102 [Tú] | Según la experiencia de Noya, los Stellaroids de estas salas ocultas son enormes e imposibles de vencer. Ellas solo lograron agarrar la Caja de Deseos y huir.
+0103 [Tú] | No tenemos por qué forzar una pelea. Lo único que importa es pedir nuestro deseo.
+0104 [Chitose] | Entendido. Sin embargo...==W== después de que pida su deseo, quisiera pedirle un favor, mi ==SEX11==.
+0105 [Tú] | No tienes que ser tan formal. ¿Qué tienes en mente?
+0106 [Chitose] | ¿Estaría dispuesto a hacer un «pacto de almas» conmigo? Soy una espada. Se supone que una espada no tiene alma.
+0107 [Chitose] | Pero... para mi vergüenza, este cuerpo es un arma incompleta. Como conservo partes humanas, quizá también quede un alma dentro de mí. Al menos eso es lo que pienso.
+0108 [Chitose] | Además... todos los demás a su lado ya comparten un pacto de almas con usted. Soy la única que queda fuera. Se siente... injusto.
+0109 [Tú] | Un pacto de almas... Parece bastante seguro. Y pensando a futuro, los beneficios sin duda superan las desventajas.
+0110 [Tú] | Está bien. Si quieres un pacto, Chitose,==W== empieza a pensar en un deseo.
+0111 [Chitose] | ¡Lo haré...! Gracias.
+0112 [Lugar y hora] | 18:00, 15.º del mes de Venatio, Monolito de Philae, Dominio del Jefe
+0113 [Chitose] | Mi ==SEX11==, allá hay una Caja de Deseos.
+0114 [Tú] | ¡Por fin! ¡Una Caja de Deseos más grande que mi mano!
+0115 [Tú] | Espera... Este lugar se parece a los otros pisos. ¿Seguro que es una sala oculta?
+0116 [Chitose] | Parece idéntico, sí. Pero a diferencia de los pisos de abajo... el aire trae un leve olor a marea.
+0117 [Tú] | ... ¿A marea? Bueno, mientras no haya un Stellaroid gigante custodiando la caja, me conformo.
+0118 [Tú] | Pidamos nuestro deseo y salgamos de aquí.
+0119 [Narración] | Chitose se encarga de los Stellaroids más pequeños. Corro hacia la caja y pido mi deseo.
+0120 [1] | Oh, Dios de la Gracia,==W== por favor, concédeme una pistola compacta de cañón corto que pueda disparar con una sola mano...
+0121 [Chitose] | ¡Cuidado, mi ==SEX11==!
+0122 [Narración] | Un destello de acero cruza mi campo de visión.==W== Luego, algo frente a mí queda partido en dos, en silencio.
+0123 [Tú] | ¿Eso es... un libro?
+0124 [Chitose] | Qué extraño... Estos libros se mueven como si tuvieran voluntad propia.
+0125 [Narración] | Libros ilustrados idénticos brotan del suelo. Antes de darme cuenta, Chitose y yo estamos rodeados por un enjambre flotante.
+0126 [Tú] | ...==W== ¿Estos libros==W== son los Stellaroids que custodian la caja?
+0127 [Tú] | Y se ven igualitos a los de los recuerdos de Darcia...
+0128 [Chitose] | Por favor, dese prisa, mi ==SEX11==. Siento un aura vil.
+0129 [Tú] | Claro. Ya voy.
+0130 [Narración] | Me vuelvo hacia la Caja de Deseos para recitar la plegaria. Pero la página cortada cae revoloteando y aterriza sobre ella.
+0131 [Narración] | La tinta palpita con un poder extraño. Abro la boca y las palabras se leen solas.
+0132 [Narración] | El Emperador Demonio despierta dentro de la pupila y reparte el poder de la muerte entre todos los seres vivos. El Emperador retira su gracia. El dulce rocío se vuelve amargo ajenjo. La tierra se quiebra. Los malvados ungidos se alzan desde el abismo sin fondo.
+0133 [Narración] | Este lugar será despojado de su nombre. Quedará yermo y sin vida...
+0134 [Narración] | Por toda la eternidad.
+0135 [Chitose] | ¡Debajo de nosotros!
+0136 [Chitose] | Mi ==SEX11==, pida su deseo con tranquilidad;==W== sin importar qué demonios aparezcan, yo los contendré por usted.
+0137 [???] | Alaben...
+0138 [???] | Su nombre divino...
+0139 [Chitose] | Alguna vez fui simple hierro, cubierto de tierra.
+0140 [Narración] | Su rugido me raspa la mente como limaduras de hierro.
+0141 [Narración] | El óxido florece en mis venas.
+0142 [Narración] | El hedor del mar profundo inunda la sala.
+0143 [Chitose] | Pero entonces lo conocí a usted, mi ==SEX11==.
+0144 [Chitose] | Soy la espada que usted empuña.
+0145 [Chitose] | Esta corrupción no puede mellar mi filo.
+0146 [Chitose] | No me quebraré.

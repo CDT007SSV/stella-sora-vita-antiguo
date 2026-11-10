@@ -1,0 +1,74 @@
+# Historia de Cosette · 3 · "Date" Turmoil (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_142 | Cosette
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Alboroto por una «cita» (Parte III)
+0003 [Intro] | Esta «cita» en realidad es bastante divertida... ¡Ay, no! ¡Me olvidé por completo de la misión!
+0004 [Narración] | Las bebidas nuevecitas dentro del Artefacto atrajeron la mirada de Cosette como un imán.
+0005 [Narración] | Pero Cosette aún no parece haber bajado la guardia ante el Artefacto expendedor. Examina la máquina de arriba abajo con aire receloso.
+0006 [Tú] | No hace falta ser tan cautelosa. La caja no se va a mover.
+0007 [Cosette] | ¿En serio?
+0008 [Tú] | Intenta tocarla.
+0009 [Cosette] | Se siente fría y sólida. Y huele ligeramente a metal.
+0010 [Cosette] | Mjm... Aunque de verdad parece un Stellaroid, probablemente no lo sea. Solo un Artefacto común.
+0011 [Tú] | ¿Ves? Te lo dije. Echa un vistazo. ¿Ves alguna bebida del Monolito allí dentro que nunca hayas visto?
+0012 [Cosette] | Eh ... bueno...
+0013 [Cosette] | Ah,==W== ¡Jefe! ¡Mira!==W== ¡Este refresco sabor yogur!==W== ¡Es buenísimo!
+0014 [Cosette] | No es tan espeso como el yogur==W== sino ácido y refrescante,==W== ¡y es buenísimo bien frío!==W== En fin,==W== ¡es perfecto para un día caluroso!
+0015 [Opción] | ... Nunca había visto este empaque.
+0016 [Cosette] | Ah, y==W== este de sabor miel solo se vende en ciertas regiones.==W== ¡No lo encontrarás en ningún otro lado!
+0017 [Cosette] | ¡El dulzor es justo el adecuado!==W== Tiene una textura suave==W== que se traga fácil.==W== Y mejor aún,==W== ¡un solo sorbo==W== se llevará todas tus preocupaciones!
+0018 [Opción] | ¡Suena bien!
+0019 [Cosette] | ¡¿Eh?!==W== ¡Si miras más de cerca,==W== hay hasta la edición especial de maracuyá?!==W== ¡Este==W== es súper—mega—==W==ácido!!!==W== La primera vez que lo probé...==W== no sabía a qué sabía,==W== así que le di un buen trago…
+0020 [Cosette] | Adivina qué...==W== ¡Ugh...!==W== Aun si solo lo pienso==W==, siento...==W== desde la boca hasta el vientre,==W== esa acidez estallando de golpe...==W== Era tan fuerte,==W== ¡que tuve que hacerme bolita…!
+0021 [Opción] | Eso suena aterrador...
+0022 [Cosette] | … Ups.==W== ¡P-==W==perdón!==W== Cuando veo bebidas,==W== pierdo el control...
+0023 [Cosette] | Aunque==W== estos sabores son un poco raros,==W== todos y cada uno son tan,==W== tan buenos~
+0024 [Cosette] | ¿Eh?==W== Ese empaque de arriba...==W== ¡nunca lo había visto!==W== ¡Es...==W== es uno nuevo!
+0025 [Cosette] | Jefe,==W== ¿quieres probar==W== todos los sabores que recomendé?
+0026 [Tú] | Espera, espera, es demasiado para nosotros.
+0027 [Tú] | ¡Yo solo probaré el de yogur!
+0028 [Cosette] | Todas las bebidas están dentro de la caja grande. ¿Cómo las sacamos?
+0029 [Tú] | Solo metes una moneda aquí, eliges la que quieras, presionas el botón y la bebida cae sola.
+0030 [Cosette] | ¿En serio? Entonces ... déjame probar.
+0031 [Cosette] | ¿Mm...? ¿Por qué no hace nada?==W== ¿Está ... descompuesta?!
+0032 [Tú] | No puede ser... Definitivamente puse el dinero, debería funcionar.
+0033 [Cosette] | Oye,==W== oye.==W== No, sigue sin salir nada.
+0034 [Cosette] | Cómo pudo pasar esto...==W== De verdad tenía muchas ganas de compartirla contigo, ==PLAYER_NAME==...
+0035 [Tú] | No me digas que de verdad está descompuesta.
+0036 [Cosette] | Ay, no...==W== Ejem, Jefe.
+0037 [Tú] | ¿Por qué te pones tan seria de repente?
+0038 [Cosette] | Por favor, cierra los ojos un segundo. Lo que estoy por hacer podría ser ...==W== ligeramente inapropiado.
+0039 [Tú] | Ah, ¿qué haces? ¿No estarás pensando en...?
+0040 [Cosette] | No, tú no eres mi objetivo, Jefe.
+0041 [Tú] | No estará pensando en destruir la máquina, ¿o sí...?
+0042 [Tú] | Espera, esto es propiedad de la empresa...
+0043 [Cosette] | ==W==¡¡Hi-yah!!
+0044 [Narración] | Cosette golpea la parte superior del Artefacto expendedor en un perfecto ángulo de cuarenta y cinco grados.
+0045 [Tú] | ¡Arreglada!
+0046 [Cosette] | Uf... ¡Tal como decía el libro...!
+0047 [Tú] | No tenía idea de que se podía hacer eso... ¿De qué libro lo sacaste esta vez?
+0048 [Cosette] | Encontré un libro llamado Consejos para vivir en la ciudad. Decía que, si un Artefacto se descompone, basta con darle un buen golpe desde un ángulo de 45 grados, ¡y volverá a funcionar!
+0049 [Tú] | A-ah, ya veo. Es raro ... pero en realidad es bastante útil.
+0050 [Cosette] | Pero aun así no creo que sea bueno romper cosas. Por eso quería que cerraras los ojos, ==PLAYER_NAME==.
+0051 [Tú] | Lo dijiste en voz alta, así que claro que ya lo sé... Bueno, supongo que esa honestidad también es parte de su encanto.
+0052 [Cosette] | Toma, ==PLAYER_NAME==. Este yogur va por mi cuenta.
+0053 [Cosette] | Considéralo un agradecimiento por enseñarme a usar el Artefacto expendedor.
+0054 [Tú] | Muy bien, entonces. Brindemos por nuestra divertida cita de hoy~
+0055 [Cosette] | Salud.
+0056 [Narración] | Registro de «limpieza», día 100. ==P== Hoy, el Jefe y yo encontramos un misterioso «Artefacto de venta automática». Tenía toda clase de bebidas del Monolito que nunca había visto. ==P== La realidad de una cita es algo distinta de lo que describía el libro.
+0057 [Cosette] | Espera, la cita...==W== ¿Qué se suponía que debía estar haciendo otra vez...?
+0058 [Cosette] | ¡Ay, no, ay, no! La misión de hoy era averiguar la habilidad especial del Jefe... ¡Y no hice nada de eso!
+0059 [Cosette] | Pero ahora que lo pienso, aunque no averigüé nada sobre ==SEX3== habilidad, ==SEX== probablemente tampoco se enteró de lo que yo intentaba hacer.
+0060 [Cosette] | Así que, al final, logré mantener ocupado al Jefe y hacerle desperdiciar un día entero de ==SEX3== vida, retrasando así ==SEX3== plan para destruir el mundo.
+0061 [Cosette] | Si sigo así el tiempo suficiente, tarde o temprano lograré que el Jefe desperdicie por completo ==SEX3== vida.
+0062 [Cosette] | Perfecto. Eso es lo que escribiré en mi informe para Lady Aeloria. Seguro quedará complacida.
+0063 [Narración] | Después de anotar el informe, Cosette saca la última bebida que compró hoy mientras se despide del Jefe.
+0064 [Cosette] | ¿Cuándo debería invitar al Jefe a salir otra vez?...==W== ¿Qué tal...
+0065 [Narración] | ... mañana?

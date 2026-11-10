@@ -1,0 +1,162 @@
+# Capítulo 8 · Calor residual · Recuerdo · The Blank Solution Ⅲ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Interviewer | Entrevistador arrogante
+N:Employment Agent | Agente de empleo
+N:Exhausted Interviewer | Entrevistador agotado
+N:Human Resources Specialist | Especialista de Recursos Humanos
+N:Troubled Interviewer | Entrevistador preocupado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_205 | Igna
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Recuerdos
+0002 [Intro] | La solución de la Nueva Estrella III
+0003 [Intro] | Tras reprobar su examen, Iris fue de un trabajo sin futuro a otro. Aunque por fin le ofrecieron un lugar en un instituto prestigioso, lo rechazó y, al reencontrarse con sus amigas, eligió convertirse en Trekker junto a ellas...
+0004 [Lugar y hora] | 10:00, 20.º del mes de Floris, Distrito de Oro de Emor, Academia Luz de Gracia
+0005 [Iris] | Un punto por debajo del mínimo...==W== ¿R-reprobé? ¿Cómo?==B====W== Disculpe, necesito que revisen mi calificación.
+0006 [???] | Por supuesto.==W== Aunque es una pena. Casi alcanzaste el mínimo con solo cinco materias.==W== Si hubieras presentado la última, quizá habrías aprobado.
+0007 [Iris] | Espere,==W== ¿la...?==W== ¿La última materia?==W== ¿Cómo que la última?==W== ¡Presenté las cinco!
+0008 [???] | Debes de estar equivocada.==W== El examen de admisión siempre ha tenido seis materias.==W== Eso no ha cambiado ni una sola vez en la historia de la academia.
+0009 [Igna] | Te faltó la última: Hechizos de la Gracia.==W== Qué lástima.==W== Ese examen es pura memorización.==W== A juzgar por tus otras calificaciones, la habrías sacado perfecta.
+0010 [Iris] | (No... No es posible que haya olvidado una materia.==W== Un momento. Aquella vez...)
+0011 [Iris] | Nos tomó días llegar hasta aquí, y nos tomará días volver. No podemos darnos el lujo de equivocarnos. Tenemos que hacerlo bien a la primera.
+0012 [Iris] | Además, me divertí escalando con ustedes. Dicen que los deseos funcionan mejor cuando estás feliz. Les agradezco que se preocupen por mí,==W== pero este deseo lo pido yo.
+0013 [Iris] | Gracias a ustedes dos, creo que me fue bien en las cinco materias. Parece que el deseo no borró nada de lo que aprendí en los libros. Supongo que esta vez tuve suerte.
+0014 [Iris] | (Ah... Qué tonta soy. No tengo remedio.)
+0015 [Iris] | (El recuerdo que perdí no era el temario del examen. Era la lista de materias...)
+0016 [Narración] | No recordaba haber salido de la Academia Luz de Gracia. Tampoco recordaba aquel viaje de trabajo para mi empleo de medio tiempo.
+0017 [Narración] | Cuando me di cuenta, ya estaba trabajando en Puerto Bellin.
+0018 [Iris] | (Si tan solo no hubiera pedido ese deseo.)
+0019 [Narración] | Todavía lo pienso a veces. Pero darle vueltas ahora no va a cambiar nada.
+0020 [Iris] | (En ese entonces estaba feliz de la vida. Demasiado creída. De verdad pensé que era buena para algo...)
+0021 [Iris] | (Esto debe ser el destino... Un castigo del Dios de la Gracia.)
+0022 [Iris] | (... No. Noya y Amber solo vinieron a ayudarme. No sería justo que ellas también perdieran sus recuerdos.)
+0023 [Iris] | (Así que esto ni siquiera es... Sí. Esto ni siquiera cuenta como castigo.)
+0024 [Narración] | Ese trabajo de medio tiempo terminó rápido. Empecé a buscar empleo en otras ciudades y nunca volví a Emor.
+0025 [Narración] | Me daba demasiada vergüenza ver a todos en el orfanato. No tenía dinero que mandarles. Pero...
+0026 [Exhausted Interviewer] | Viendo tu currículum... No tienes estudios formales.
+0027 [Arrogant Interviewer] | Nacida en el Distrito de las Cenizas... Lo siento, no creo que seas lo que buscamos...
+0028 [Troubled Interviewer] | ¿Sin cartas de recomendación? Bien. Dejémoslo aquí por hoy. Si decidimos seguir adelante, te mandaremos un aviso a tu domicilio con un Trekker.
+0029 [Narración] | La mayoría de mis solicitudes terminaban en la basura antes de que mi currículum llegara siquiera a un escritorio. Las pocas veces que conseguí una entrevista, apenas me miraron.
+0030 [Narración] | Todos esos certificados que pagué con Dorra, todas esas noches en vela estudiando... No sirvieron de nada.
+0031 [Iris] | Al final, el Imperio de la Gracia me aceptó.
+0032 [Iris] | Una Tienda de Almas de Emor necesitaba a alguien para atender un puesto móvil en una ciudad cercana, recargando Piedras del Alma con Gracia.
+0033 [Iris] | Así que me convertí en una gloriosa empleada de la Tienda de Almas...
+0034 [Narración] | ...subcontratada.==Off==
+0035 [Lugar y hora] | 21:00, 24.º del mes de Gelu, Distrito de Plata de Canosa, Calle comercial
+0036 [Iris] | Brr, qué frío. Está nevando fuerte. Es la víspera del Festival Nevado, ¿verdad?...==W== Me pregunto cómo estarán Noya y Amber.==W== Ojalá estén bien abrigadas esta noche, o se van a resfriar.
+0037 [Iris] | Otra noche sin clientes.==W== Todo el mundo se está cambiando a Neo Solution, que es más barato que la Gracia. Hoy en día está difícil ganarse la vida en una Tienda de Almas.
+0038 [Iris] | (Lo curioso es que oficialmente soy empleada de la Tienda de Almas n.º 305 de la región de Emor, pero nunca he puesto un pie adentro. Ni siquiera he vuelto a Emor.)
+0039 [Iris] | (Nunca me dieron ni uniforme. Pongo una mesita plegable en las ciudades cercanas y acepto lo que llegue. Sobreviviendo apenas, día tras día.)
+0040 [Iris] | (Pero ya fui Empleada del Mes tres veces.==W== Una más y quizá por fin me den una plaza fija.)
+0041 [Iris] | ¡Ah, buenas noches! ¿Necesita una recarga de Gracia?
+0042 [Human Resources Specialist] | Buenas noches. Usted debe ser Iris.==W== Vengo de Recursos Humanos del Imperio de la Gracia.==W== Hay algo importante que debo informarle.
+0043 [Iris] | (¿Recursos Humanos? Un momento...==W== ¿Me van a ascender?)
+0044 [Iris] | Sí, soy Iris, empleada de la Tienda de Almas n.º 305. ¿En qué puedo ayudarle?
+0045 [Human Resources Specialist] | Seré directo.==W== Para afrontar los retos actuales del mercado y mantener nuestra ventaja competitiva, el Instituto del Cielo se está reestructurando. Vamos a dar un giro hacia una estrategia enfocada en lo esencial y en la reducción de costos. Por desgracia, esto implica despidos masivos y recortes de personal.
+0046 [Human Resources Specialist] | Por consiguiente, su sucursal, la Tienda de Almas n.º 305 de Emor, ha cerrado de forma permanente.
+0047 [Iris] | E-espere, ¿qué?==W== ¿Cerró?==W== ¿Y entonces adónde voy yo?
+0048 [Human Resources Specialist] | Todos reconocemos y valoramos su arduo trabajo aquí afuera.==W== Pero, por desgracia, como no es empleada de planta del Instituto del Cielo, no podemos ofrecerle un traslado interno.
+0049 [Human Resources Specialist] | Conforme a la política de la empresa, le daremos la misma liquidación que a nuestro personal regular.==W== Esperamos su comprensión.
+0050 [Iris] | ¡P-pero...!==W== ... Está bien. Lo entiendo. Gracias.
+0051 [Iris] | Cada vez que me sentía abrumada, sacaba un viejo examen de admisión de la Academia Luz de Gracia.
+0052 [Iris] | Los exámenes siempre tienen una respuesta correcta. Si estudias mucho y aprendes los patrones, tarde o temprano puedes resolver hasta los problemas más difíciles.
+0053 [Iris] | Pero mi vida no parece tener una.
+0054 [Iris] | Postular, fracasar. Postular, fracasar. Postular, fracasar. Postular, tener éxito... Volverte trabajadora subcontratada.
+0055 [Iris] | Un gafete de otro color te vuelve invisible. Y los bocadillos de la sala de descanso no son para la gente invisible.
+0056 [Iris] | Aun así, seguía buscando empresas que tuvieran «Emor» en el nombre,==W== o agencias sin Sello de la Gracia que intentaban parecer corporaciones de verdad.
+0057 [Narración] | Ese nombre me hacía sentir que tal vez me aceptarían de vuelta.
+0058 [Narración] | Año 995 del Calendario Monolítico==Off==
+0059 [Lugar y hora] | 17:30, 25.º del mes de Sonus, Puerto Bellin, agencia de empleo
+0060 [Employment Agent] | ¿Qué tal este trabajo en Philae? Es en Cosecha Unida. Una corporación enorme.
+0061 [Iris] | Un trabajo tan atractivo... ¿De verdad aceptarían a alguien como yo?==W== He oído que...==W== muchos de estos trabajos en Philae son una fachada para mandarte a la Selva Frondosa.
+0062 [Employment Agent] | Vaya, sabes de lo que hablas, niña.==W== Pero la Selva Frondosa es una buena opción. Te cubren el cuarto, la comida y el viaje. El trabajo es fácil y no piden título. Si sabes usar un teléfono, estás contratada.
+0063 [Employment Agent] | Te capacitan al llegar. Vas a estar ganando Dorra antes de que te des cuenta.
+0064 [Iris] | Ah. Ya veo...==W== Paso. ¿Tiene alguna otra cosa?
+0065 [Employment Agent] | Hmph. Muy exigente, ¿no?==W== Por cómo te ves, te despidieron y desde entonces no has conseguido nada.
+0066 [Iris] | No, no me despidieron. La agencia cerró.==W== Y no estoy siendo exigente, solo...
+0067 [Employment Agent] | Hay montones de agencias a las que les va bien. ¿Por qué la tuya es la única que quiebra?==W== ¿Eres de mala suerte o qué?==W== Todo lo que tocas se viene abajo.
+0068 [Employment Agent] | Trabajo hay por todas partes.==W== Mírate bien.==W== ¿Has mejorado? ¿Le has echado ganas?
+0069 [Iris] | Es...==W== Es mi culpa.
+0070 [Employment Agent] | Bien. Ahora ya sabes que nadie te quiere.==W== Entonces, ¿qué dices del trabajo en Philae? Firma aquí y listo.
+0071 [Iris] | Yo...==W== Yo...
+0072 [???] | Iris. No lo hagas.
+0073 [Narración] | Una mano conocida se posó sobre la mía y detuvo la pluma.
+0074 [Iris] | ¿Eh?==W== ¿N-Noya?==W== ¿Y Amber?
+0075 [Amber] | Cuánto tiempo, Iris.
+0076 [Noya] | ¡En serio! Llevamos dos meses buscándote. No puedo creer que casi caes en la trampa de este estafador.
+0077 [Employment Agent] | ¿De qué hablas? Ustedes, Trekkers fuereños, no tienen ni pizca de respeto.
+0078 [Employment Agent] | Estaba ayudando a esta floja a encontrar un trabajo que le quede.
+0079 [Noya] | ¡¿Qué?!==W== ¡¿Floja?!==W== ¡¿Ella?!
+0080 [Noya] | No hables como si la conocieras. ¡Iris es la persona más trabajadora que he conocido!
+0081 [Noya] | En el orfanato estudiaba hasta tarde todas las noches. Siempre era la última en dormirse y la primera en levantarse.
+0082 [Noya] | Se aprendió datos de viaje rarísimos que ni la mayoría de los Trekkers conocen. ¡Cuando decidí lanzarme a la aventura, me explicó todo paso a paso!
+0083 [Noya] | Tú te la pasas aquí engañando a la gente para meterla en trabajos peligrosos.==W== ¡¿Con qué derecho le dices floja?!
+0084 [Employment Agent] | Baja la voz... Que esté desempleada lo dice todo, ¿no?
+0085 [Amber] | Toma.
+0086 [Employment Agent] | ¿Qué es esto...?==W== Un momento, ¿una invitación a una entrevista? ¡¿Con el sello oficial del Ojo de la Gracia?!
+0087 [Noya] | ¿Ves? ¡La buscan por todos lados!==W== ¡Hmph! Vuelve a hablar mal de ella y te muerdo.==B====W== Vamos, Iris, dejemos a este estafador.
+0088 [Iris] | ¿Eh? Ah... Está bien...
+0089 [Employment Agent] | ¡Oigan, esperen! Si tiene una invitación del Ojo de la Gracia, ¿por qué anda buscando trabajo aquí?==W== Un momento...==W== Si esos profesores locos se enteran de que intenté mandar a su candidata a la Selva Frondosa...==W== ¡Más me vale hacer las maletas y huir!
+0090 [Lugar y hora] | 18:00, 25.º del mes de Sonus, Puerto Bellin, calle del Atardecer
+0091 [Iris] | Noya, Amber, ¿qué hacen aquí?==W== ¿Cómo que pasaron dos meses buscándome?==W== ¿Y qué onda con esa invitación?
+0092 [Noya] | ¡Una pregunta a la vez! Te prometo que te explico todo,==W== pero primero...==W== ¡Mira esto!
+0093 [Iris] | ¡¿Eso es... un auto de Artefacto?!==W== Noya, ¡¿de verdad lo construiste tú?!
+0094 [Amber] | No. Solo la carrocería. Por dentro está vacío.
+0095 [Noya] | ¡Oye, no arruines la magia! Deja que se sorprenda un segundo.
+0096 [Noya] | Bueno, bueno.==W== Estos últimos meses pedí deseos de piezas de Artefacto en el Monolito, y Amber desenterró un tesoro antiguo. A duras penas logramos armarlo.==W== Ahora solo falta llenarlo por dentro y estará listo.
+0097 [Amber] | Ah, por cierto. Mientras lo armábamos, nos topamos con alguien del Ojo de la Gracia.
+0098 [Noya] | ¡Sí! Le dijimos que éramos tus amigas,==W== y nos entregó esta invitación.
+0099 [Iris] | Esta fecha de vencimiento me pone un poco nerviosa... A ver qué dice...
+0100 [Narración] | Disculpe lo repentino de esta carta. Su desempeño en el examen de admisión de la Academia Luz de Gracia nos dejó una profunda impresión. Lamentamos saber que no fue admitida, y por eso nos ponemos en contacto con usted ahora.==P== Si actualmente busca empleo, quizá podamos ofrecerle un puesto adecuado. La invitamos cordialmente a una entrevista para conversar sobre posibilidades futuras.==P== Atentamente, la Sociedad para el Estudio de la Vida
+0101 [Noya] | Parece que trabajan bajo el Ojo de la Gracia. Solo platicamos un ratito,==W== así que no sé los detalles exactos, pero la señora era educadísima. Creo que son de fiar.
+0102 [Amber] | Tus apuntes... ¿Todavía los tienes? Dijo que querían hablar de las preguntas del examen.
+0103 [Iris] | Sí, sí los tengo.==W== Los llevo conmigo a todas partes...
+0104 [Noya] | Entonces... ¿vas a ir?
+0105 [Iris] | Yo...
+0106 [Narración] | Era todo lo que siempre había querido. Justo frente a mí. Con esta invitación, no les importaría mi título ni de dónde vengo.
+0107 [Narración] | Había resuelto tantos exámenes pasados de la Academia Luz de Gracia que prácticamente podría recitarlos dormida. Sin duda podría responder todas sus preguntas.
+0108 [Narración] | Entonces, ¿por qué dudo?
+0109 [Narración] | ¿Por qué hice todo esto? Todas esas preguntas de práctica... ¿De qué sirvieron?
+0110 [Narración] | Si todo era para acertar una respuesta en un examen que alguien más escribió por mí... ¿Eso es lo que quiero?
+0111 [Iris] | ... No lo sé. ¿Cómo encuentro la respuesta que busco? ¿La respuesta a mi propia vida?
+0112 [Noya] | Por cierto, Iris.==W== Déjame aclararte algo para que no te hagas una idea equivocada.
+0113 [Noya] | No pasamos dos meses buscándote solo para entregarte una carta en persona.
+0114 [Iris] | ¿Eh? ¿No?==W== Entonces... ¿para qué?
+0115 [Noya] | ¿Cómo que «para qué»? ¿Lo dices en serio?==W== ¿No me oíste allá adentro?==W== «¡La buscan por todos lados!»==W==
+0116 [Noya] | ...==W== ¡Espera!==W== ¡¿De verdad no lo captas?!
+0117 [Iris] | ¿Eh? Mmm... Perdón. No te sigo.
+0118 [Noya] | ¡No, no, no!==W== ¡Aquí mismo!==W== ¡Frente a ti!==W== ¡Dos personas que te necesitan!
+0119 [Iris] | ¡¡Ah!! ¡¿Eso era lo que querías decir?!
+0120 [Noya] | Te tardaste bastante... Pero llegaste.
+0121 [Amber] | Mientras armábamos el auto, Noya no paraba de hablar de ti. ==W==Te ha estado buscando para que te unas al gremio.
+0122 [Iris] | ¿Para que me una al gremio?
+0123 [Noya] | Si no me hubieras dicho que esa cosa era un volante, nada de esto habría pasado.==W== Yo sola nunca habría encontrado esos planos en el sótano.
+0124 [Noya] | Así que, cuando decidí fundar mi propio gremio...==W== ¡supe en ese instante que te quería conmigo!
+0125 [Noya] | Pero oye, yo tengo mis sueños, y si tú tienes los tuyos, ¡sin presión!
+0126 [Noya] | En fin, así están las cosas. Ve a tu entrevista, no te voy a detener.==W== Pero si terminas odiando estar en esa Sociedad o lo que sea,==W== me encantaría que nos tuvieras en mente como plan B♪
+0127 [Amber] | Si no eres feliz ahí, te robamos.
+0128 [Noya] | ¡Uuh, me encanta!==W== ¡Qué genial! ¡Trato hecho!
+0129 [Iris] | Noya... Amber...
+0130 [Iris] | ... ¡Gracias a las dos!==W== Yo...==W== ¡Ya me decidí!
+0131 [Amber] | Eh...==W== ¿Tiraste tus materiales de estudio? ==W==¿Ya no vas a presentar exámenes?
+0132 [Iris] | Me encantan los exámenes. Son mi cosa favorita. Me hacen sentir segura.
+0133 [Iris] | Quería entrar a una gran corporación. Quería quedarme en Emor. Quería ver el orfanato todos los días.
+0134 [Iris] | Pero lo que más quiero...==W== es solo...==W== estar con mis dos personas favoritas, Noya y Amber, para siempre.
+0135 [Iris] | Aunque pasemos un día entero sin hablar, saber que están cerca... Esa sensación me basta.
+0136 [Iris] | Noya, Amber, ya lo decidí. Quiero ser Trekker.
+0137 [Iris] | Ya no quiero resolver problemas con respuestas de manual.==W== La respuesta a mi vida es algo que tengo que encontrar por mí misma.
+0138 [Noya] | No, la respuesta a NUESTRAS vidas.==W== Si te vuelves Trekker, el resto de nuestras vidas será un gran examen para las tres...
+0139 [Amber] | Y...==W== nosotras decidimos las respuestas.
+0140 [Iris] | ¡Sí!==W== Entonces, Noya, Amber...==W== ¡cuento con ustedes de aquí en adelante!

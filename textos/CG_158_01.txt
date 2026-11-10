@@ -1,0 +1,102 @@
+# Historia de Snowish Laru · 1 · Gifts on Delivery (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_150 | Laru
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Regalos a domicilio (Parte I)
+0003 [Intro] | El Festival Nevado ya pasó, pero el trabajo no termina, y la nueva misión es... ¿Eh? ¡¿Un cañón?!
+0004 [Tú] | Ruiseñor leonado, asado ahumado y...==W== Cierto, todavía tengo que comprar lubricante para el Lucky Oasis.
+0005 [Tú] | La Tienda de Artefactos está ... justo a la vuelta de esa esquina.
+0006 [???] | ¡Quítense! ¡Quítense! ¡Fuera de mi camino!
+0007 [Tú] | ¿Eh?
+0008 [Tú] | ¡Auch!
+0009 [Laru] | ¡Perdón! No pude frenar a tiempo...==W== ¿Tirano?
+0010 [Tú] | ¿Por qué tanta prisa?
+0011 [Laru] | ¡Unos malosos me persiguen! ¡Ayuda!
+0012 [Tú] | ¿Malosos?
+0013 [Laru] | ¡Ay no, ya me alcanzaron!==W== Me esconderé detrás de ese Artefacto de venta automática. No les digas nada, ¿sí?
+0014 [Tú] | Eh... Está bien.
+0015 [Tú] | Para que Laru esté tan asustada... ¿Quiénes serán?
+0016 [Albedo] | Cuánto tiempo, Tirano. ¿Has visto a Laru?
+0017 [Tú] | No. ¿Para qué la quieres?
+0018 [Tú] | ¿Será que los «malosos» son...
+0019 [Bastelina] | ¡Lady Albedo apartó los ojos de Laru solo un segundo! ¡Y Laru dejó el trabajo de inmediato y salió corriendo!
+0020 [Tú] | Ah, como esperaba.==W== Me dijo que no dijera nada, pero...
+0021 [Albedo] | Suspiro. Ya estamos cortos de personal, y ahora Laru vuelve a armar un desastre.
+0022 [Bastelina] | Yo ofrecería ayuda, pero mi propio horario está lleno.
+0023 [Albedo] | Mmm... Vamos a tener que pasar la noche en vela.
+0024 [Tú] | Vaya, tienen tanto trabajo, ¿eh...
+0025 [Bastelina] | En fin, ¿sabes adónde pudo haber ido Laru?==W== Por favor, ayúdanos. Solo queremos dormir algo esta noche.
+0026 [Albedo] | Le conviene a ella misma corregir su actitud ante el trabajo, así que si puedes darnos alguna pista,==W== ¡te lo agradezco en nombre del Instituto del Cielo del Imperio de la Gracia!
+0027 [Tú] | N-No hace falta tanta formalidad, en serio. Por favor, no se inclinen así.
+0028 [Tú] | Se ve que de verdad están en apuros... Y es cierto, causarles problemas a los demás no está bien.==W== ¡Perdón, Laru!
+0029 [Tú] | ¡Laru!==W== ¡Albedo y Bastelina te están buscando!
+0030 [Laru] | ¡¿Qué?! ¡Traidor! Te juzgué muy mal...==W== ¡Ah!
+0031 [Albedo] | ...
+0032 [Bastelina] | ...
+0033 [Laru] | Eh... Yo...==W== ¡Debo retirarme ahora! ¡Adiós!
+0034 [Albedo] | ¡Laru! ¡Ah, no~! ¡Esta vez no!
+0035 [Laru] | ¡No! ¡Suéltame! ¡Mi cuello... mi cuello se va a romper!
+0036 [Albedo] | Puedes perder la cabeza o el empleo. Elige uno.
+0037 [Laru] | ¡Ninguno!
+0038 [Tú] | Suspiro... Bueno, te lo mereces...
+0039 [Laru] | ¡No me voy a sacrificar por el trabajo!==W== ¡Tirano, traidor! ¡Monstruo!
+0040 [Tú] | Me llaman Tirano, ¿sabes? Tengo permiso de hacer de villano.
+0041 [Bastelina] | Laru, volvamos al trabajo~
+0042 [Laru] | ¡Ayúdame, Tirano!==W== ¡No quiero volver con estas dos—!!
+0043 [Narración] | Laru forcejea en vano, pero bajo el firme agarre de Albedo, se la llevan a rastras, pataleando y gritando.
+0044 [Tú] | Fiu... Todo lo que compré ya fue entregado al Lucky Oasis. Con los encargos hechos,==W== supongo que puedo pasear un rato...==W== ¿Eh?
+0045 [Laru] | Hah... Haa...
+0046 [Tú] | ¿Laru? El Festival Nevado terminó hace mucho. ¿A qué viene ese atuendo y el trineo cañón?
+0047 [Laru] | ¿Por qué más? ¡Porque alguien decidió traicionarme!
+0048 [Tú] | Ay, qué horror, ¿quién es el canalla? Te vengaré—==W==ah, espera, ¡ese soy yo! ¡Perdón!
+0049 [Laru] | Ugh, hasta ahora sigues siendo malo conmigo...
+0050 [Laru] | Yo... simplemente odio este tipo de trabajo físico.
+0051 [Tú] | Ese trineo es el que se usa para repartir regalos en el Festival Nevado, ¿verdad?==W== ¿Así que tu «trabajo físico» es jalar eso?
+0052 [Laru] | La idea que se te ocurrió, la de usar un cañón para entregar regalos, la convertí en propuesta y la presenté. Y los de arriba construyeron un prototipo de inmediato.
+0053 [Laru] | Luego empezaron con tonterías como «si funciona, podemos usarlo para otros fines» y «quien lo propuso debería probarlo ella misma».
+0054 [Tú] | O sea que fuiste la afortunada elegida... Pero ¿por qué ese atuendo para la prueba del cañón?
+0055 [Laru] | Porque...
+0056 [Tú] | ¿Sí?
+0057 [Laru] | Después de que Albedo me atrapó, intenté escapar otra vez pero me tropecé tan fuerte que se me rompió el uniforme. Luego me inmovilizó, y este era el único atuendo de repuesto que quedaba en la sede.
+0058 [Tú] | ¿Qué tan fuerte tuviste que caerte para rasgar así el uniforme?
+0059 [Tú] | Una repetición de lo que tú misma provocaste, ¿eh?
+0060 [Laru] | ¡Tú—esto también es en parte culpa tuya!==W== Si no me hubieras delatado...
+0061 [Tú] | ¿No te fuiste del trabajo antes de tiempo sin motivo?
+0062 [Tú] | Para ser justo, yo también tengo parte de responsabilidad. Acepté encubrirla sin preguntar qué pasaba, y luego rompí esa promesa.
+0063 [Tú] | Bueno, entonces... como penitencia por «traicionarte», te ayudaré con la prueba.
+0064 [Laru] | ¿En serio?
+0065 [Tú] | Ese cañón es demasiado pesado para jalarlo sola, ¿no?
+0066 [Laru] | Tirano... ¡gracias! ¡Eres un verdadero amigo!==W== ¡Qué bueno es tener amigos!
+0067 [Tú] | Primero soy un traidor, ahora un amigo. Eres única.
+0068 [Laru] | Este lugar se ve bien. El ruido del cañón no debería molestar a nadie aquí.
+0069 [Tú] | Sí... Pero estamos muy adentro de las Tierras Salvajes. ¿Cómo se supone que entreguemos los artículos desde aquí?
+0070 [Laru] | Una vez que canalizas magia al cañón, puede disparar cosas muy lejos. ¡De hecho, diría que esta cosa fue hecha para entregas de larga distancia!
+0071 [Tú] | ¿Seguro?==W== Supongo que lo averiguaremos.
+0072 [Laru] | Je, je... Le enviaré esta enorme fruta de árbol a Bastelina.
+0073 [Laru] | A ver...==W== A esta distancia, debería caer justo frente a la Tienda de Almas~
+0074 [Laru] | Primero, pones la fruta en la cápsula amortiguadora,==W== cargas la cápsula en el cañón,==W== y por último infundes magia al cañón.
+0075 [Tú] | Suena demasiado casual. ¿Seguro que es seguro?
+0076 [Laru] | Relájate~ Déjame terminar con la tarea.==W== Listo... ==W== ¡Fuego!
+0077 [Laru] | ¡Cof... cof! ¡Cuánto humo!
+0078 [Tú] | Ugh...
+0079 [Tú] | ¡Qué potencia! ¿Crees que la fruta de verdad llegó a su destino?
+0080 [Bastelina] | Gracias por venir~==W== Uf... La hora pico casi termina.
+0081 [Bastelina] | Eh, algo acaba de cruzar el cielo, ¿qué es eso?
+0082 [Bastelina] | ¡A-ayuda!
+0083 [Laru] | Oh, es un mensaje de Albedo.==W== Bastelina debe de estar ocupada con la fruta gigantesca. Por eso le pidió a Albedo que me contactara.
+0084 [Albedo] | Acabo de recibir un reporte de que bombardearon la Tienda de Almas...==W== Dime que no fuiste tú. La puerta principal quedó destrozada, los clientes pensaron que era un ataque de una empresa rival y varios se desmayaron en el acto.
+0085 [Laru] | ...
+0086 [Albedo] | Tienes cinco segundos para responder «fui yo» o «lo siento».
+0087 [Laru] | Eh, este... ¡por favor, dame una segunda oportunidad!
+0088 [Tú] | Sea lo que sea que dijo Albedo, claramente no pinta bien para Laru.

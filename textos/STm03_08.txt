@@ -1,0 +1,136 @@
+# Capítulo 3 · 8 · La escuadra de caza
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Hunting Squad Member | Miembro de la escuadra de caza
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_136 | Angie
+N:avg1_142 | Cosette
+N:avg1_156 | Nazuna
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | La escuadra de caza
+0003 [Intro] | Nazuna reunió información sobre los Tres Grandes y te pide ayuda. Solicitas unirte a la nueva escuadra de caza, pero te rechazan. Para completar el encargo, solo puedes contar contigo mismo.
+0004 [Lugar y hora] | 23:00, 24.º del mes de Pluvia, afueras de Philae, cuarto de Nazuna
+0005 [Nazuna] | Esto es todo.
+0006 [Narración] | Nazuna saca de debajo de su cama un grueso fajo de papeles y lo deja caer sobre la mesa. El polvo que sale volando es la prueba más clara del paso del tiempo.
+0007 [Tú] | ¿Qué es todo esto?
+0008 [Nazuna] | Mi información sobre los Tres Grandes. Sus hábitos, patrones de ataque, debilidades, territorio, tácticas... Está todo ahí.
+0009 [Nazuna] | La primera cacería solo fracasó porque entramos a ciegas.
+0010 [Nazuna] | Después de volver, iba todos los días al bosque a observarlos. Incluso escalaba un Monolito de camino y deseaba un peluche como pequeña recompensa.
+0011 [Tú] | ¡Así que no eres solo una experta en máquinas de garra! ¡Eres bastante asombrosa!
+0012 [Nazuna] | Jeje... ¡N-no fue nada!
+0013 [Nazuna] | ¡Oye, espera! ¡¿Eso fue un cumplido o te burlas de mí?!
+0014 [Kaede] | Vamos, vamos~ He visto lo duro que has trabajado, Nazuna.
+0015 [Nazuna] | ¡Kaede!==W== ¡Ay, Kaede...! ¡Eres la mejor!
+0016 [Kaede] | Ay, qué cosa, jeje. Ya, ya, cariño~
+0017 [Tú] | ¡¿Qué es esta atmósfera...?! Siento que me sanaron el corazón...
+0018 [Nazuna] | En fin...==W== Ahora que la nueva expedición se hace cargo, toda esta investigación es...==W== inútil.
+0019 [Nazuna] | ¡Pero la información es sólida! ¡Sé que puede ayudar a derribar a esos monstruos!
+0020 [Nazuna] | Así que, ==PLAYER_NAME==... O supongo que Jefe... Sé que es mucho pedir, sobre todo después de que los rechazamos a usted y a Serena antes, pero...==W== ¿nos ayudaría con los otros dos encargos?
+0021 [Nazuna] | ¡Y-yo pagaré la tarifa!
+0022 [Opción] | ¿Qué tal si me pagas con todos tus peluches?
+0023 [Nazuna] | ¿Todos...?==W== Tiene que estar bromeando...
+0024 [Nazuna] | ¡Está bien! ¡Llévelos! ¡Incluso puede quedarse con el que tengo en la mano! ¡Solo... por favor, ayúdenos!
+0025 [Tú] | ... Bien. Veo lo decidida que estás.
+0026 [Tú] | Solo dije que me llevaría tus muñecos para poner a prueba tu determinación. Mi error. No debí hacerlo así.
+0027 [Nazuna] | ¿Eh? ¿Eso era todo? Vaya... me dio un infarto...==W== Jefe, es un abusón, ¿lo sabe?
+0028 [Opción] | ¿No puedo hacer de Tirano de cuento de hadas de vez en cuando?
+0029 [Tú] | Además, le prometí a Serena que ayudaría a Fuyuka, y ayudar a Petal Bloom a completar sus dos encargos restantes también ayudará.
+0030 [Tú] | Me pondré de inmediato a analizar esta información.
+0031 [Narración] | De vuelta en el salón, la capa del perchero se hincha y vuelve a tomar forma humana.
+0032 [Tú] | Todo esto era parte de tu plan, ¿verdad, Serena?
+0033 [Serena] | ¿Hm? ¿De qué habla, Jefe? Yo no hice nada. Je.
+0034 [Tú] | Deja de ser críptica. No sé por qué, pero no solo querías que ayudara a Fuyuka. La usaste como palanca para poner en marcha a todo el Gremio Petal Bloom, para ayudarlas a superar su pasado.
+0035 [Serena] | Me da demasiado crédito. Solo soy una corredora de información.
+0036 [Tú] | Solo tengo curiosidad... ¿Qué intentas poner en marcha usándolas?
+0037 [Serena] | Lo descubrirá a su debido tiempo. Por ahora, es mi pequeño secreto. Buenas noches, mi querido Jefe.
+0038 [Narración] | Con una sonrisa y una reverencia, Serena se disuelve de nuevo en una simple capa sobre el perchero, como si nunca hubiera estado allí.
+0039 [Narración] | Tres días después
+0040 [Lugar y hora] | 10:00, 27.º del mes de Pluvia, afueras de Philae, linde del bosque
+0041 [Claire] | Ayer, la Capitana Nazuka localizó la ubicación exacta del Jardín Parásito. A cincuenta kilómetros al este del campamento.
+0042 [Claire] | ¿Entienden? Esta es nuestra oportunidad de dividir sus fuerzas. Neutralizaremos primero al Espíritu de la Brutalidad, que es el más débil.
+0043 [Claire] | Bien...==W== La operación comienza ahora. Pero pase lo que pase, nuestro oponente es el Espíritu de la Brutalidad: no bajen la guardia.
+0044 [Claire] | Si lo encuentran, no se enfrenten a él. Su supervivencia es la máxima prioridad. Contáctenme a mí o a Nazuka de inmediato. ¿Entendido?
+0045 [Miembro de la escuadra de caza] | ¡Sí, señora!
+0046 [Tú] | Impresionante empeño y una estrategia sólida. Su victoria contra la Espada de Jade no fue casualidad.
+0047 [Nazuna] | Jefe... ¿Está seguro de que deberíamos hablar con ellos?
+0048 [Tú] | Todos aquí queremos a estos monstruos fuera de combate. Compartimos la misma meta, así que aliarnos es la jugada más segura.
+0049 [Nazuna] | Pero... son ellos.==W== Y... Nazuka...
+0050 [Noya] | ¡Nazuna, tu investigación es sólida! Con solo echarle un vistazo, quedarán boquiabiertos. Les hará ver a Petal Bloom con otros ojos.
+0051 [Nazuna] | V-vale... Está bien. Hablaré con Claire.
+0052 [Claire] | Oh, son de Petal Bloom. ¿En qué puedo ayudarlas?
+0053 [Nazuna] | Claire, queremos unirnos a la escuadra de caza. Esta es mi investigación sobre los dos monstruos. Debería ser útil.
+0054 [Narración] | Claire toma las notas de Nazuna y empieza a hojearlas.
+0055 [Claire] | Mmm. Anotaron algunos detalles que se me pasaron. El equipo parte ahora, pero que ayuden no es...
+0056 [Claire] | Un momento. Algunas de estas caras son nuevas. ¿Petal Bloom reclutó nuevos miembros?
+0057 [Iris] | Ah, no exactamente. Somos del Boss Accord. Solo colaboramos con Petal Bloom por ahora.
+0058 [Claire] | Boss Accord... Nunca lo había oído en Philae.
+0059 [Nazuna] | Eh... por favor, no se fije en detalles. Son de Emor.
+0060 [Claire] | ¿Por qué una compañía de Emor...?
+0061 [Tú] | Parece recelosa de las compañías. ¿Pero no fue Cosecha Unida quien publicó los «Tres Grandes Encargos»?
+0062 [Nazuka] | Claire, vámonos. La expedición está saliendo.
+0063 [Claire] | Nazuka, justo a tiempo. Tus viejas amigas están aquí. Quieren sumarse a la cacería...
+0064 [Nazuka] | No.
+0065 [Claire] | Bueno. Ya oyeron a la Capitana. Es hora de irnos.
+0066 [Nazuna] | ¡¿Por qué?! ¡Pero mi investigación...!
+0067 [Nazuka] | Igual que ustedes, también dedicamos mucho tiempo a investigar a estos dos monstruos.
+0068 [Nazuka] | Además, como ya dije, la nueva escuadra de caza no necesita débiles. Nos vamos ahora. No hay tiempo para integrar gente nueva.
+0069 [Nazuka] | Has estudiado a estos monstruos. Sabes mejor que nadie que, sin un equipo especializado y coordinado, más gente solo es una carga.
+0070 [Nazuna] | Eso es... o sea, no te equivocas...
+0071 [Nazuka] | Así que lo siento. Esta vez no.
+0072 [Nazuna] | ... Es imposible. Tiene excusa para todo.
+0073 [Nazuka] | A formar filas. Nos movemos.
+0074 [Narración] | Sin mirar atrás, Nazuka guía a su equipo hacia lo profundo del bosque. Claire solo nos dedica un encogimiento de hombros impotente antes de seguirlos.
+0075 [Nazuna] | Ugh... Lo sabía. Esa tonta es tan terca...
+0076 [Kaede] | Así es ella. Solo habla así porque de verdad valora a sus amigas.
+0077 [Tú] | El razonamiento de Nazuka es sólido, pero esa mirada en sus ojos... Algo me dice que hay más.
+0078 [Tú] | ¿Hay algo de esta cacería que no sabemos?
+0079 [Noya] | Así que no nos dejan unirnos...==W== Bien.
+0080 [Noya] | Nazuna, nos encargaremos nosotros solos.
+0081 [Nazuna] | ¡Eso es! ¡Derribaremos primero al Espíritu de la Brutalidad y les mostraremos de qué es capaz la nueva Petal Bloom!
+0082 [Fuyuka] | Y-==W==haré lo mejor que pueda.
+0083 [Amber] | Yo exploraré.
+0084 [Iris] | ¡Amber, espera! Este bosque es enorme. No podemos dispersarnos a explorar. Si una de nosotras encuentra al monstruo, el resto nunca podrá reagruparse.
+0085 [Kaede] | Mmm... De todas formas, casi toda la escuadra son exploradores. Cuando divisen al monstruo, el equipo de combate de Nazuka entra en acción.
+0086 [Kaede] | Además, ella usa magia de viento para vigilar toda la zona desde lo alto.==W== Llegar al objetivo antes que ellos será difícil.
+0087 [Tú] | Explorar es nuestra desventaja. Espera... El aire... ¡Ya lo tengo!
+0088 [Tú] | Tengo un plan. Nos permitirá encontrar al objetivo antes que ellos.
+0089 [Mistique] | ¡Hola, Jefe~★ ¡Perdón por la espera!
+0090 [Nazuna] | Vaya, ¿alguien acaba de caer del cielo...?==W== ¿Quién es esa?
+0091 [Kaede] | Esa escoba... ¡¿Eres... una bruja de Scarlet Sights Media?!
+0092 [Mistique] | ¡Hola! ¡Me llamo Mistique! ¿Un concurso de caza de monstruos entre una nueva expedición y la nueva Petal Bloom? ¡Eso sí que es noticia! ¡Tienes que darme una entrevista!
+0093 [Fuyuka] | ¡¿Una entrevista?!!
+0094 [Tú] | Está bien, Fuyuka. No hace falta esconderse. Viene por mí.
+0095 [Mistique] | ¡Jeje, de verdad me hiciste esperar, Jefe! Entonces eso significa que me darás la exclusiva, ¿verdad? ¿Verdad?
+0096 [Tú] | Sí. Pero primero me ayudarás con algo.
+0097 [Tú] | ¡Necesito que encuentres al Espíritu de la Brutalidad en este bosque!
+0098 [Mistique] | ¡Considéralo hecho! Las búsquedas aéreas son mi especialidad. ¡Solo no te eches para atrás con nuestro trato, Jefe!
+0099 [Amber] | Puede volar...==W== Genial.
+0100 [Nazuna] | Jefe, de verdad tiene contactos, ¿eh? Puede llamar a una bruja de Scarlet Sights así sin más.
+0101 [Iris] | ==PLAYER_NAME==, ¿cuándo conociste a una bruja?
+0102 [Tú] | Es una larga historia... Se la explicaré cuando haya tiempo.==W== Con ella explorando por nosotras, encontrar al Espíritu de la Brutalidad debería ser bastante fácil. Entremos al bosque.
+0103 [Fuyuka] | Jefe... Nazuna... Señorita bruja... Todos son tan capaces... Y yo, en cambio...
+0104 [Lugar y hora] | 10:10, 27.º del mes de Pluvia, afueras de Philae, bosque oeste
+0105 [Narración] | En lo profundo del bosque, una pequeña figura va picando la dura tierra.
+0106 [Cosette] | ¡Hmph! Ya casi...
+0107 [Cosette] | El Jefe y esos Trekkers llevan días planeando su cacería.
+0108 [Cosette] | Así que solo tengo que cavar una trampa cerca del monstruo. Cuando el Jefe y ==SEX3== amiguitos lleguen a pelear contra él,==W== ¡podré atraparlos a todos de una vez! ¡Ya verás, Jefe!
+0109 [Cosette] | Si se supone que debo vigilar al Tirano, es más seguro simplemente capturarlo. La señora Aeloria sí dijo que secuestrarlo era una opción.
+0110 [Cosette] | Mmm... Este hoyo es demasiado pequeño. Para atrapar a alguien importante como el Jefe, necesito una trampa a la altura: ¡una muy, muy grande!
+0111 [Cosette] | Todavía hay tiempo. ¡Hay que seguir cavando!
+0112 [Narración] | El ritmo nítido y solitario de la excavación resuena por el bosque.

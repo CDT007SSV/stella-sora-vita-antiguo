@@ -1,0 +1,116 @@
+# Nova Times #09 · Pareja por un día · 2 · One-Day Partner (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Guilty Mercenary | Mercenario con remordimientos
+N:Mercenary Captain | Capitán mercenario
+N:The Boss | La Jefa
+N:avg1_135 | Mistique
+N:avg2_982 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_146 | Residente del Distrito de Oro
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Pareja por un día (Parte II)
+0003 [Intro] | Ustedes dos, fingiendo ser pareja, regresan al alojamiento asignado. Justo cuando están por discutir su siguiente paso, descubren que hay oídos detrás de la pared...
+0004 [Mistique] | Esta es nuestra habitación. Hasta que juntemos suficiente dinero, dormiremos aquí.
+0005 [Tú] | Es enorme. Es demasiado lujosa...
+0006 [Mistique] | Para mantener las apariencias, se disfrazaron de hotel. Debo admitir que las instalaciones son de primera.
+0007 [Tú] | Uf—==W==¿ahora sí me explicas por qué me arrastraste hasta aquí?
+0008 [Mistique] | Jiji~ Sí que eres impaciente, ¿verdad?
+0009 [Mistique] | Seguro ya lo notaste. Este lugar es el escondite de una red de estafadores,==W== ¡y estamos aquí para investigarlos de manera encubierta!
+0010 [Tú] | Pero no haces esto solo por un sentido de justicia, ¿o sí?
+0011 [Mistique] | Jiji, las Brujas somos criaturas codiciosas que nos alimentamos de la verdad★ Además...
+0012 [Mistique] | Tirano, ¿has oído hablar de la nueva clase de estafas que andan circulando?
+0013 [Tú] | Una estafa es una estafa. Los delincuentes engañan a la gente. ¿Qué tiene de nuevo?
+0014 [Mistique] | No, no, esta vez es diferente~
+0015 [Mistique] | Atrapan a estafadores uno tras otro, pero el número de criminales parece subir en lugar de bajar. ¿No te parece raro?
+0016 [Tú] | ¿Mm? ¿Subir?
+0017 [Mistique] | Entre más lo piensas, más huele a gato encerrado, ¿no? Mira, esto de verdad merece un artículo★~
+0018 [Mistique] | La cabecilla no solo vende Artefactos falsos. También hace que sus subordinados recluten gente, prometiendo comisiones y bonos únicos si traen a más personas.
+0019 [Tú] | Que te paguen solo por reclutar gente. Es demasiado bueno para ser verdad...
+0020 [Mistique] | Y siempre habrá alguien que caiga en la trampa. Por eso nunca se les acaban los estafadores.
+0021 [Mistique] | Tiene sentido de la gestión de riesgos. Solo deja que se reúnan cara a cara con ella los empleados con buen historial.
+0022 [Mistique] | Aunque atrapen a los miembros de más bajo nivel, nada la lleva a ella.==W== Para ganarme su confianza, pasé por muchísimas porquerías.
+0023 [Tú] | No me digas que de verdad estafaste a gente.
+0024 [Mistique] | Claro que no. ¡Pagué de mi bolsillo para comprar todos los Artefactos falsos! Lo único que faltaba era reclutar gente...
+0025 [Tú] | Y ahí fue cuando me jalaste a mí, ¿verdad?
+0026 [Mistique] | ¡Exacto! Ahora confía plenamente en mí. ¡Gracias por venir~!
+0027 [Tú] | Bien, creo que entiendo la situación. Pero una vez que termine la investigación, ¿cómo vamos a salir?
+0028 [Mistique] | No te preocupes. Cuando llegue el momento, diremos que vamos a ver a un comprador de Artefactos. Y nos esfumamos.
+0029 [Mistique] | La organización mandará gente a seguirnos, pero puedo despistarlos fácilmente con mi escoba.
+0030 [Tú] | Cierto. Escapar no será problema si usamos tu escoba.
+0031 [Tú] | Pero... ¿Por qué hay una sola cama en esta habitación?
+0032 [Mistique] | Somos una pareja que se fugó. ¿No sería raro que no durmiéramos en la misma cama?
+0033 [Mistique] | ¡Shhh, silencio!
+0034 [Tú] | Pasos... ¡Alguien viene!
+0035 [Tú] | ¿Mm? Se detuvieron.
+0036 [Mistique] | Sabía que no confiaría en mí tan fácilmente. En realidad mandó gente a espiarnos.
+0037 [Guilty Mercenary] | Capitán, ¿de verdad hace falta pegar la oreja a la puerta? Me siento como un pervertido... ¿No son una pareja?
+0038 [Mercenary Captain] | ¡Cállate! ¡La jefa no se cree el cuento de la pareja, por eso estamos aquí! Piénsalo. ¿Por qué está tan callada la habitación? ¡Si fueran una pareja de verdad, ya deberían estar haciendo algo!
+0039 [Tú] | Estos tipos... ¿Esto siquiera cuenta como espiar si hablan tan fuerte afuera de la puerta?
+0040 [Mistique] | Jiji~ Entonces sigámosles el juego.
+0041 [Tú] | ¿Seguirles el juego cómo? No te referirás a que en verdad...
+0042 [Mistique] | Bingo~
+0043 [Mistique] | Ejem... C~cariño~ ¿qué opinas~ de mi atuendo de hoy?
+0044 [Tú] | ¿Tu atuendo?
+0045 [Tú] | De todos modos, tenemos que convencer a los de afuera de que Mistique y yo en verdad somos pareja...
+0046 [Tú] | ¡Sí! Mi amor, tu atuendo de hoy está espectacular~ Te queda de maravilla~
+0047 [Mistique] | Tsk, ¿eso es todo? Pasé una eternidad escogiéndolo~, solo para ponérmelo~ para ti~, ¿sabes~?
+0048 [Tú] | Eh... Aparte de verse bien y quedar bien, ¿de qué otra manera se supone que juzgue la ropa?
+0049 [Mistique] | Oh, supongo que tus acciones hablan más que tus palabras~
+0050 [Tú] | ¿Cómo se supone que responda a eso...?
+0051 [Mistique] | ¡No te propases★, cariño! ¡Al menos déjame bañarme primero!
+0052 [Tú] | ¿Eh?
+0053 [Mistique] | ¡Ahí no! ¡No olfatees como cachorrito~!
+0054 [Tú] | Pero si yo no—
+0055 [Tú] | Qué improvisación tan impresionante, digna de una Bruja...
+0056 [Mistique] | Por aquí, cariño~
+0057 [Tú] | ¡Ah!
+0058 [Tú] | ¡Se va a caer!
+0059 [Guilty Mercenary] | ¿Y si mejor lo dejamos por hoy?
+0060 [Mercenary Captain] | ¿Puedes callarte un minuto? ¿Crees que quiero escuchar a una pareja empalagosa? ¡Lo hago por la misión!
+0061 [Tú] | Lutty... ¿Estás bien...?
+0062 [Mistique] | Uy... Estar acostada así frente al Tirano da muchísima vergüenza.==W== Pero para que no nos descubran...==W== me lanzo con todo. S-si me tapo los ojos, puedo seguir actuando.
+0063 [Mistique] | ¡Es-estoy bien, cariño~! Tú... ¡Puedes tratarme con aún más rudeza!
+0064 [Mistique] | O... ¿quieres que tome la iniciativa otra vez, como la última vez ... y te haga suplicar piedad?
+0065 [Mercenary Captain] | M-maldición... Qué pareja tan empalagosa...==W== ¡No! Es decir, ¡qué par tan obscenamente indecente!
+0066 [Mercenary Captain] | Ya no aguanto más. ¡Vámonos a reportar!
+0067 [Tú] | Uf—gracias a Mistique, los espías de afuera por fin se fueron. Estamos a salvo...
+0068 [Mistique] | Cariño... ¿A qué esperas★?
+0069 [Mistique] | Estoy lista. Aunque duela, no importa. Vamos~
+0070 [Tú] | Eh... Mistique...
+0071 [Mistique] | Puedes hacer lo que quieras... Sí, ahí mismo. Desabrocha ese botón. No me canso de ti.
+0072 [Tú] | Mistique... Abre los ojos, ¿sí? La gente de afuera ya se fue.
+0073 [Mistique] | ¿Eh? ¿Cuándo se fueron?
+0074 [Tú] | Más o menos cuando dijiste «puedes tratarme con aún más rudeza».
+0075 [Mistique] | T-tú... ¿¡Por qué no me avisaste antes!?
+0076 [Tú] | Quise hacerlo, pero no parabas de hablar y no podía meter ni una palabra.
+0077 [Mistique] | ¡¡Aaaaahhh!! ¡Cállate! ¡Cállate!
+0078 [Mistique] | ¡Y-ya me había preparado mentalmente!
+0079 [Tú] | ¿Para qué?
+0080 [Mistique] | Ah, eh. Eeeeh... ¡Para nada!
+0081 [Mistique] | ¡Rayos! ¡Toda esa determinación para nada!
+0082 [Tú] | Bien, la crisis terminó. Hora de dormir.
+0083 [Tú] | Yo me quedo con el sofá. Tú duerme en la cama.
+0084 [Mistique] | Los subestimas. Esa pandilla es capaz de todo. ¿Y si vienen a revisarnos en plena noche? Si te ven en el sofá, nos descubrirán de inmediato.
+0085 [Tú] | Entonces, ¿quieres decir...?
+0086 [Mistique] | ¡Generosamente compartiré contigo la mitad de la cobija encubierta! ¡Pero que quede claro que es una oferta única!
+0087 [Narración] | A la mañana siguiente...
+0088 [The Boss] | Tengo una gran sugerencia. ¿Por qué no se casan ustedes dos y se quedan aquí para siempre?
+0089 [Mistique] | ¿Eh? ¿A qué se refiere, señora?
+0090 [The Boss] | Exactamente lo que suena. ¿Para qué huir tan lejos solo para fugarse? Mientras me hagan ganar dinero, les garantizo su seguridad y los dejo vivir aquí con comodidad.
+0091 [The Boss] | También los voy a sacar del trabajo de campo. Si los descubren por accidente, será un problema para ambos, ¿no? Hay mucho trabajo que se puede hacer dentro del edificio. Es el empleo perfecto para ustedes.
+0092 [Mistique] | P-pero...
+0093 [The Boss] | Podrás estar junto a ==SEX4== todo el tiempo. ¿Para qué querrías salir?
+0094 [Mistique] | Maldición. No vi esto venir.
+0095 [Mistique] | Tsk. «Garantizar nuestra seguridad», ni madres... ¡Solo quiere mantenernos vigilados!
+0096 [Tú] | ¿Qué hacemos? Si nos tardamos demasiado, seguro nos descubrirán.
+0097 [Mistique] | Por más que me desagrade, llamar a las autoridades es una opción. De todos modos ya reuní suficiente material...
+0098 [Mistique] | Pero ¿cómo vamos a salir de aquí...==W== Ah, ya sé.
+0099 [Tú] | Eh, ¿Mistique? ¿Por qué me miras así?
+0100 [Mistique] | Mm-hmm~ ¡Se me acaba de ocurrir una idea brillante★!

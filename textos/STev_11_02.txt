@@ -1,0 +1,129 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 2 · Sueños a bordo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_161 | Leafia
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Sueños a bordo
+0003 [Intro] | El mar agitado le provoca a Leafia un mareo terrible en su primer viaje. Tras recuperarse un poco y charlar, Leafia y Karin descubren cuánto tienen en común. Justo entonces, un Artefacto de venta automática apareció sobre el agua...
+0004 [Narración] | A la mañana siguiente, Leafia, Karin y Shia zarpan.
+0005 [Narración] | El barco se desliza fuera del puerto con la brisa matutina, y el agua se va tornando de un azul más intenso mientras más se alejan.==W== Leafia está de pie junto a la barandilla, perdida en el horizonte.
+0006 [Shia] | Mmm...==W== Hoy hueles distinto.
+0007 [Shia] | El papel, la tinta y el algodón secado al sol siguen ahí, pero ahora hay sal marina y bruma...==W== y un toque de emoción nerviosa.
+0008 [Shia] | Jeje, parece que Leafia ya se encariñó con el mar.
+0009 [Leafia] | ¡¿P-Por qué me hueles otra vez?!
+0010 [Karin] | Así es Shia. Se acerca y huele a la gente que le parece interesante...
+0011 [Leafia] | Ya veo...==W== Pero Karin, ¿por qué estás rechinando los dientes? ¿Te duele una muela?
+0012 [Karin] | ¡M-Mis dientes están bien!
+0013 [Karin] | Ejem... Olvídalo. Vuelve a mirar el mar.
+0014 [Karin] | Parece que no te cansas de verlo. No me digas que es tu primera vez aquí afuera.
+0015 [Leafia] | Mi primera vez tan lejos. La vista no se parece en nada al océano al que estoy acostumbrada.
+0016 [Leafia] | Cuando miro el agua desde tierra, mi cerebro piensa en cosas prácticas. ¿Hay arrecifes cerca? ¿Cómo trazo esta costa en un mapa?
+0017 [Leafia] | Pero aquí en el barco, lo entiendo. Es una perspectiva totalmente distinta a la de dibujar mapas.
+0018 [Leafia] | ... El viento, las olas, la cubierta meciéndose bajo mis pies. Todo se siente increíblemente real.
+0019 [Karin] | Es que el mar no se puede plasmar en papel.
+0020 [Leafia] | Casi siempre viajo por tierra. Montañas, ríos, ciudades, caminos. Mapear eso no es difícil.
+0021 [Leafia] | Pero aquí afuera no hay nada más que agua. Ni puntos de referencia, ni fronteras. Hasta las direcciones se sienten borrosas.
+0022 [Leafia] | Parece vacío, pero no puedo quitarme la sensación de que hay algo escondido debajo.
+0023 [Karin] | El mar es un mentiroso.==W== Se ve tranquilo por encima, pero debajo esperan remolinos y arrecifes. En un momento el cielo está despejado y al siguiente hay tormenta.
+0024 [Karin] | Mientras más te alejas, más salvaje se pone el agua. Y el clima deja de tener sentido.
+0025 [Leafia] | Ya veo... Supongo que su experiencia es lo que nos mantiene a salvo aquí.
+0026 [Shia] | Para entender el mar, mirar no basta. Hay que escuchar el viento, oler el aire, sentir el tirón de las olas...
+0027 [Shia] | Tomemos hoy. La brisa es fresca y limpia. Clima perfecto.==W== Pero si el aire se vuelve húmedo y pesado, con un salitre turbio, entonces el clima está por cambiar.
+0028 [Shia] | Y el color del agua. ¿Ves cómo cambia? Eso dice mucho.==W== La profundidad, las corrientes... Si hay algo escondido abajo.
+0029 [Leafia] | Qué complejo... Eso nunca lo captarías mirando una carta náutica.
+0030 [Karin] | Obvio. La experiencia de una Trekker marina no se puede plasmar en papel.
+0031 [Leafia] | Buen punto...==W== Eso solo me da más ganas de averiguarlo.
+0032 [Leafia] | Cómo las cartas captan todos esos cambios... Cómo navegan las Trekkers marinas y evitan el peligro aquí afuera...
+0033 [Leafia] | ¿Me enseñarían más sobre navegación?
+0034 [Shia] | Claro. Si quieres aprender, te enseño todo lo que sé.
+0035 [Leafia] | Gracias. Cuento contigo, Shia.
+0036 [Karin] | Hmph... Yo también podría enseñarle eso. ¿Por qué se pega a Shia...?
+0037 [Shia] | Jeje. Karin también es confiable. Si te confundes, pregúntale a ella. Te lo explicará todo con paciencia.
+0038 [Leafia] | Entendido. ¡Espero con ansias tus lecciones, profesora Karin!
+0039 [Karin] | ¡¿P-Profesora?!==W== ¡Hmph! Bueno, ¡ya que lo pides tan bonito, supongo que puedo hacer una excepción!
+0040 [Narración] | Conforme el barco se adentra en el océano, la costa se encoge hasta desaparecer. Las olas se agitan más y mecen el casco sin descanso.
+0041 [Narración] | Sin embargo, incluso entre los violentos vaivenes, Leafia se mantiene perfectamente erguida sobre la cubierta.
+0042 [Karin] | Vaya... Lo llevas bien. Los novatos suelen devolver el almuerzo a estas alturas.
+0043 [Karin] | ¡Espera! ¡¿Por qué tienes la cara tan pálida?!
+0044 [Leafia] | Necesito... registrar... los ciclos de las olas...
+0045 [Karin] | ¡Olvida los registros! ¡Mira cómo estás!
+0046 [Leafia] | E-Estoy bien...
+0047 [Leafia] | En realidad... Quizá sí hay un pequeño problema...==W== ¡Blurgh!
+0048 [Karin] | ¡Aaaaaaah!
+0049 [Shia] | Parece que estás mareada, Leafia.==W== Toma, siéntate. No te fuerces.
+0050 [Leafia] | S-Sí... Ya lo entendí... Las olas reales del océano y las curvas de nivel de un mapa son dos cosas totalmente distintas...
+0051 [Leafia] | Hace un minuto se veían tan parecidas... Al menos antes de que llegara el mareo... Las dos tan elegantes...==W== Blurgh...
+0052 [Karin] | ¡Basta! ¡No digas ni una palabra más!
+0053 [Leafia] | Urgh... Haah...
+0054 [Karin] | ¿Ves? ¿Qué te dije?
+0055 [Leafia] | S-Solo estaba respirando hondo...
+0056 [Karin] | ¡¿Desde cuándo respirar hondo hace que el alma se te salga del cuerpo?!
+0057 [Shia] | Toma, bebe esto.
+0058 [Leafia] | ¿Q-Qué es esto? ¿Por qué está tan oscuro y turbio...?
+0059 [Karin] | ¡Es el remedio secreto contra el mareo Latido Salpicante! La fórmula propia de Shia. Te va a dejar como nueva.
+0060 [Leafia] | ...
+0061 [Karin] | ¡¿Qué es esa cara?!==W== ¡Shia y yo probamos esta versión mejorada un montón! Quizá se vea==W== un poco asquerosa... ¡Pero funciona como magia!
+0062 [Narración] | Leafia toma el tazón de líquido, de color dudoso y olor indescriptible, y se queda callada. Luego, como rindiéndose, cierra los ojos con fuerza y se lo bebe de un trago.
+0063 [Leafia] | Ugh...
+0064 [Karin] | ¡¿Y bien?! ¡¿Cómo está?!
+0065 [Leafia] | Sabe como si alga, jengibre y menta se hubieran peleado a muerte dentro de mi boca... Y dejaran este amargor ácido indescriptible...==W== Ugh, creo que voy a vomitar...
+0066 [Karin] | ¿Tan malo está...? Es la versión de sabor más normal que tenemos...
+0067 [Karin] | ¡No, espera, olvida el sabor! ¡¿Cómo te sientes?!
+0068 [Leafia] | Creo que me siento un poco mejor...==W== Pero también tengo todavía más ganas de vomitar...
+0069 [Shia] | Si ni siquiera el remedio especial te ayudó... Debes de estar muy mareada.
+0070 [Shia] | Leafia, si es demasiado, todavía podemos dar la vuelta.
+0071 [Shia] | Hay que conocer tus límites en el mar. Marearse en la primera vez tan lejos es totalmente normal. Y sería una pena que esto te arruinara el océano.
+0072 [Leafia] | No. No den la vuelta.
+0073 [Leafia] | Si regresamos ahora, tampoco voy a poder descansar.==W== Llegamos hasta aquí, no puedo rendirme a medias.
+0074 [Leafia] | Si me rindo ahora, voy a dejar otro enorme espacio en blanco en mi mapa. Seguro me arrepentiría... Sigamos.
+0075 [Karin] | ... Eres demasiado terca.
+0076 [Shia] | Muy bien, tú decides. Karin, lleva a Leafia al camarote. Yo tomo el timón y nos mantengo estables.
+0077 [Karin] | Entendido.
+0078 [Karin] | Vámonos, cabeza de mapa. Si sigues parada aquí te vas a hacer mejor amiga de la cubierta.
+0079 [Narración] | Una hora después
+0080 [Karin] | ¿Y bien? ¿Te sientes mejor después de descansar?
+0081 [Leafia] | Mucho mejor... Gracias por cuidarme.
+0082 [Karin] | ¿Qué otra opción tenía? Si te desmayabas sola aquí abajo, Shia se iba a preocupar hasta enfermarse.
+0083 [Leafia] | La verdad es que me cuidas muy bien, Karin.
+0084 [Karin] | ¡¿D-De dónde sacas eso?! No digas esas cosas.
+0085 [Karin] | Suspiro... Nunca voy a entender qué pasa en esa cabeza tuya.
+0086 [Karin] | Te arrastraste hasta aquí por un rumor que quizá ni sea cierto. Incluso en este estado te niegas a dar la vuelta.
+0087 [Karin] | Y al final, puede que no encontremos nada.
+0088 [Leafia] | No pasa nada.
+0089 [Leafia] | Si hay un Monolito sin registrar aquí afuera, hay que redibujar todo el mapa y tendríamos que hacer la topografía del Monolito.
+0090 [Leafia] | Y si no hay ningún Monolito, puedo marcar el mapa como vacío con total honestidad y estar segura.
+0091 [Karin] | ¿Vale la pena todo este lío solo para llenar un mapa?
+0092 [Leafia] | Sí.
+0093 [Karin] | Ni lo dudas, ¿eh?
+0094 [Leafia] | Porque esto es lo que hago.
+0095 [Leafia] | Costas, montañas...
+0096 [Leafia] | Bosques, las Tierras Salvajes...
+0097 [Leafia] | Si un lugar no ha sido explorado ni mapeado, quiero verlo con mis propios ojos.
+0098 [Karin] | Pero los mapas que tenemos ahora son bastante detallados, ¿no?
+0099 [Leafia] | Verse completos no significa ser exactos. Los ríos cambian de curso, las montañas se desmoronan, los bosques se expanden.
+0100 [Leafia] | Y los Monolitos remodelan el terreno a su alrededor.==W== Un mapa de hace unos años podría ser completamente inútil hoy.
+0101 [Leafia] | Por eso necesito recorrer cada palmo de Nova yo misma. Quiero los mejores datos para dibujar los mapas más precisos.
+0102 [Leafia] | Borrar del mapa cada mancha de niebla y cada punto ciego. Esa ha sido la meta de la Asociación de Trekkers desde el primer día.
+0103 [Karin] | Pero según tu lógica, un mapa perfecto hoy quedará obsoleto en unos años. ¿Qué sentido tiene?
+0104 [Leafia] | Entonces volveré a revisarlo. Seguiré actualizando el mapa hasta que refleje cada cambio.
+0105 [Leafia] | La verdadera precisión viene de la corrección constante.
+0106 [Karin] | En serio, los mapas te secuestraron el cerebro.
+0107 [Karin] | Aunque te entiendo.
+0108 [Karin] | La gente solía preguntarme por qué estaba obsesionada con ser Trekker marina.
+0109 [Karin] | Me preguntaban si valía la pena tanto sacrificio. Algunos incluso decían que yo no estaba hecha para el mar.
+0110 [Karin] | Mientras más lo decían, menos quería rendirme.
+0111 [Karin] | Tú persigues espacios en blanco en un mapa, yo persigo las olas. Al final del día, las dos perseguimos aquello en lo que creemos.
+0112 [Karin] | Supongo que para todos los demás, somos un par de raras tercas.
+0113 [Leafia] | Lo tomaré como un cumplido.
+0114 [Karin] | Hmph, no te creas tanto. Primero sobrevive a este viaje, y luego nos...
+0115 [Shia] | ¡Karin! ¡Leafia! ¡Salgan a ver esto!
+0116 [Shia] | Hay algo raro en el agua.
+0117 [Karin] | Vaya... ¿Qué es esa cosa? Es azul y cuadrada.
+0118 [Leafia] | ¿Estoy tan mareada que alucino? ¿Por qué hay un...
+0119 [Leafia] | ¿Artefacto de venta automática?

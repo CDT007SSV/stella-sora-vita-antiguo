@@ -1,0 +1,6 @@
+# Historia de Laru — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_150_01 | El gran desastre de las papas (Parte I)
+CG_150_02 | El gran desastre de las papas (Parte II)
+CG_150_03 | El gran desastre de las papas (Parte III)

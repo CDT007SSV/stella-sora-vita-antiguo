@@ -1,0 +1,118 @@
+# Capítulo 7 · El precio de la estrella · 9 · Cruzando el cielo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Mercenary | Mercenario ansioso
+N:Gentle Voice | Voz amable
+N:Resigned Mercenary | Mercenario resignado
+N:avg1_103 | Amber
+N:avg1_112 | Noya
+N:avg1_142 | Cosette
+N:avg1_144 | Chitose
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1242 | Chitose
+N:avg3_152 | Bastelina
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Cruzando el cielo
+0003 [Intro] | Con la energía de Bastelina y la protección de Noya, el teleférico avanza. Ves la sangre en la mano de Chitose y le vendas la herida en silencio. En lo alto del cielo, una confianza más profunda echa raíces entre ustedes dos.
+0004 [Lugar y hora] | 11:35, 14.º del mes de Venatio, afueras de Philae, estación del teleférico
+0005 [Noya] | ¡Bajaste la guardia!
+0006 [Anxious Mercenary] | Ugh... Qué ángulo tan brutal.
+0007 [Resigned Mercenary] | ¡Todos están noqueados! ¡No es humana, es un monstruo!
+0008 [Noya] | ¿Y bien? ¿Quieren que siga?
+0009 [Resigned Mercenary] | ¡Perdón! ¡Lo sentimos!==W== ¡Solo nos contrataron para romper el teleférico, no para atacarlos!==W== ¡Por favor, déjennos ir!
+0010 [Noya] | ¿Ah, sí? Entonces se las paso.
+0011 [Noya] | Pero sería un fastidio enorme que rompieran nuestro transporte justo ahora...==W== Perdón, van a tener que dormir hasta que termine la evaluación técnica.
+0012 [Noya] | ¡Con eso nos quitamos a los perseguidores! Bastelina, ¿cómo va todo por allá?
+0013 [Bastelina] | Jeje. Tu adorable Bastelina saca diez en todas las clases de construcción mágica. ¡Arrancar un teleférico es un juego de niños! ♪
+0014 [Bastelina] | Por cierto, ¿quieres que te preste mi Artefacto telescopio?==W== Parece que el Jefe y la señorita Chitose se están llevando muy bien allá adentro.
+0015 [Lugar y hora] | 11:35, 14.º del mes de Venatio, afueras de Philae, cabina del teleférico
+0016 [Chitose] | Mi ==SEX11==, Lady Noya aseguró la estación. La batalla terminó.
+0017 [Chitose] | Pese a enfrentarse sola a tantos enemigos, logró derrotarlos a todos sin quitar una sola vida. Su manejo de la espada fue verdaderamente magistral.
+0018 [Tú] | ...¿Eh? ¿En serio?
+0019 [Tú] | A esta distancia ni siquiera distingo quién está allá.==W== No solo tienes reflejos rápidos; tu vista está a otro nivel.
+0020 [Chitose] | Me halagas. Percibir a tiempo la amenaza de un adversario que se acerca y desviarla es simplemente mi deber como espada.
+0021 [Chitose] | Desde pequeña me enseñaron a pensar así.
+0022 [Tú] | Ya veo. Mientras todos estén ilesos...
+0023 [Tú] | Espera, Chitose, ¡¿te está sangrando la mano?!
+0024 [Chitose] | Ah. Bloqueé con la mano el cable de acero roto que iba hacia ti.
+0025 [Chitose] | No te preocupes, mi ==SEX11==. Una pequeña mella en el filo apenas afecta mi funcionamiento. Por favor, sigue empuñándome en batalla sin dudar.
+0026 [Tú] | ¡No me importan las batallas! ¡Me importas tú!
+0027 [Tú] | En serio... Agradezco que quieras protegerme, pero también tienes que empezar a valorar tu propia vida...
+0028 [Chitose] | Eh... Sí, mi ==SEX11==.
+0029 [Tú] | Chitose, con ese petate sin fondo que traes, ¿no empacaste vendas ni medicinas?
+0030 [Chitose] | Gracias por tu preocupación, mi ==SEX11==. Para mi vergüenza, agoté mis vendas para envolver la empuñadura durante el entrenamiento...
+0031 [Chitose] | Por favor, no le des importancia. Soy una espada, y una espada no sangra. Esta sangre solo demuestra que mi entrenamiento es insuficiente.
+0032 [Tú] | Chitose. ¿Qué te acabo de decir que valoraras?
+0033 [Chitose] | Ah... Mi... Mi propia vida...
+0034 [Chitose] | Mis más profundas disculpas. Estaba tan concentrada en servir a mi ==SEX11== que lo olvidé por completo...
+0035 [Opción] | Rasgar el borde de mi camisa
+0036 [Chitose] | E-eh... Mi ==SEX11==, ¿qué haces?
+0037 [Opción] | Dame tu mano.
+0038 [Chitose] | E-está bien. ¿Así...?
+0039 [1] | Intentemos detener el sangrado por ahora. Cuando estemos dentro del Monolito, desearé desinfectante y vendas de verdad. Aguanta hasta entonces.
+0040 [Chitose] | Pero... Mi propio descuido dañó tu ropa. Que ahora me trates con tanta amabilidad... No lo merezco en absoluto.
+0041 [Opción] | ¿Chitose?
+0042 [Chitose] | Ah... ¡Sí!
+0043 [1] | No rechazo que hagas el papel de la espada que me protege. Sinceramente, te lo agradezco.
+0044 [1] | Pero para mí eres más que un arma. Eres mi compañera, igual que todos los demás del Gremio de la Nueva Estrella.
+0045 [Chitose] | Más que una espada... Soy una compañera de mi ==SEX11==...
+0046 [1] | Pero no me malinterpretes, ¿eh? No estoy menospreciando tu papel de espada. Uf, listo. ¿Qué tal? Un trabajo bastante profesional, si me permites decirlo.
+0047 [Chitose] | ... Sí. No me limita los movimientos, y el vendaje quedó muy pulcro.
+0048 [1] | Lastimarse es parte del trabajo de un Trekker. Lo fui aprendiendo por el camino.
+0049 [1] | Además, no tiene nada de malo que quien empuña una espada la cuide, ¿no?
+0050 [Chitose] | Tienes... toda la razón. Qué extraño. La herida que curaste... se siente cálida. Reconfortante.
+0051 [Chitose] | ¿Podría ser... tu magia, mi ==SEX11==?
+0052 [Tú] | No. Sabes que no puedo usar magia, Chitose. Seguramente son ideas tuyas.
+0053 [Tú] | Revisé la cortada hace rato. No es profunda y no llegó al hueso. Descansa un poco y estarás bien.
+0054 [Tú] | Por cierto, ¿por qué te empeñas tanto en convertirte en una espada? Creo que estás perfectamente bien tal como eres.
+0055 [Chitose] | Porque convertirme en una espada perfecta es mi único propósito. Es mi destino.
+0056 [Narración] | Es la primera vez que te hablo de esto, mi ==SEX11==. Desde que tengo memoria, viví en una mansión enorme y vacía con mis padres y mi Maestra.
+0057 [Gentle Voice] | Siempre estaremos aquí para protegerte, Chitose.
+0058 [Gentle Voice] | Solo dedícate al entrenamiento de tu Maestra y te convertirás en una «espada útil».
+0059 [Chitose] | Bajo la guía de mis padres y de mi Maestra, pulí mis habilidades día tras día.
+0060 [1] | Ya veo. Tus padres y tu Maestra... ¿Cómo eran?
+0061 [Chitose] | Mmm... No lo sé. Nunca vi sus rostros humanos.
+0062 [Chitose] | Para cuando tuve edad de comprender su existencia, ya se habían convertido en espadas legendarias.
+0063 [Chitose] | Ese es el destino de mi linaje. Dispersar nuestra conciencia, forjarnos en acero y cortar los males de este mundo.
+0064 [Chitose] | Pero... me avergüenza admitir que, aunque me sé esas palabras de memoria, no tengo idea de lo que significan en realidad.
+0065 [Chitose] | A diferencia de mis padres y mi Maestra, el hecho de que siga siendo humana es la prueba de mi fracaso.
+0066 [Chitose] | Fallar como filo y causar daño sin sentido... Una espada tan defectuosa no tiene ningún valor.
+0067 [Chitose] | Por fortuna, te encontré a ti, mi ==SEX11==. Me diste la oportunidad de demostrar mi valía... Pero eso no es excusa para descuidar mi entrenamiento.
+0068 [Tú] | ... ¿Por eso te exiges tanto?
+0069 [1] | Si es así, quiero ayudarte a encontrar el verdadero significado de ese destino.
+0070 [1] | Pero... después de oír todo eso...
+0071 [1] | Chitose, ¿podrías prometerme una cosa?
+0072 [Chitose] | Estoy a tus órdenes, mi ==SEX11==.
+0073 [Tú] | Tu dedicación es increíble, de verdad.==W== Pero no estaría mal detenerte de vez en cuando y simplemente mirar el mundo a tu alrededor, ¿no?
+0074 [Chitose] | ¿Detenerme? Pero ¿por qué...?
+0075 [Chitose] | Es como forjar acero. El metal debe templarse una y otra vez. Si este proceso se interrumpe a propósito, la hoja se vuelve quebradiza.
+0076 [Tú] | Entiendo lo que dices.==W== Pero a veces tomarte un respiro te deja ver las cosas desde un ángulo completamente distinto.
+0077 [1] | Por ejemplo... Mira por la ventana. Solo puedes apreciar esto porque estamos aquí sentados, quietos. ¿Alguna vez habías visto una vista así?
+0078 [Chitose] | No... Nunca había visto nada igual. Y mientras la contemplo...
+0079 [Chitose] | Siento como si fuera una con el cielo. Siento el corazón purificado.
+0080 [Tú] | ¿Ves? Pulir tu estado de ánimo así también es una forma de entrenamiento.
+0081 [Chitose] | Entiendo. Así que esta es la fortaleza mental que me faltaba. Nunca lo había considerado de esa forma... Tu sabiduría no tiene límites, mi ==SEX11==. Entonces, si esto cuenta como entrenamiento... ¿Puedo hacerte una pequeña petición?
+0082 [Tú] | Claro. Lo que esté en mis manos.
+0083 [Chitose] | Para acercar mi corazón al tuyo... Para dominar la Unidad... ¿Me permitirías... acercarme a ti, para ver la vista que tú ves...? ¿Si no te molesta?
+0084 [Lugar y hora] | 11:45, 14.º del mes de Venatio, afueras de Philae, estación del teleférico
+0085 [Noya] | Parece que el teleférico ya casi cruzó.
+0086 [Bastelina] | ¿Segura que no quieres echar un vistazo por mi telescopio? Es todo un espectáculo.
+0087 [Noya] | Nah, déjalos tener su momento. El Jefe es de fiar. ==SEX1== cuidará bien de Chitose.
+0088 [Bastelina] | ¿Ah, sí? ¿Tú crees? Con lo bien que maneja la espada, ¿no debería ser la señorita Chitose quien cuide al Jefe?
+0089 [Noya] | No exactamente. Mi instinto me dice que Chitose está lidiando con mucha confusión. Conozco esa sensación. Seguramente el Jefe es el único que puede ayudarla.
+0090 [Bastelina] | Jeje ♪ Te haces la imprudente y la hiperactiva, señorita Noya, pero en realidad observas a todos con mucha atención.
+0091 [Noya] | ¡Claro que sí! ¡El Jefe y Chitose son mis amigos! ♪
+0092 [Noya] | ¡Bueno, basta de preocuparse! Amarremos a estos matones. Cuando lleguen Iris y Amber, iremos para allá a apoyar al Jefe.
+0093 [Bastelina] | ¡Déjamelo a mí! Tu adorable Bastelina también sacó diez en la clase de nudos.
+0094 [Noya] | ¡Qué confiable! Voy por las cuerdas.
+0095 [Bastelina] | La honestidad de la señorita Noya es su mejor cualidad...==W== Pero, al rechazar mi telescopio, se está perdiendo un show espectacular.
+0096 [Bastelina] | Por ejemplo, dudo que el Jefe o la señorita Chitose tengan la menor idea de que hay una «linda acosadora» colgando justo debajo de su teleférico.
+0097 [Bastelina] | Vaya, vaya. Con un comodín tan inesperado colándose a la fiesta... ¿Qué pasará con esta evaluación técnica? ♪
+0098 [Cosette] | ¡Buaaah, está altísimo! ¡Qué miedo...! ¡¿Ya llegamos a la estación?! ¡¡¡Se me resbalan los dedos!!!

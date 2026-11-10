@@ -1,0 +1,122 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 7 · Mar enmarcado
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Chatty Girl | Chica parlanchina
+N:Glopo Duke Ⅲ | Duque Glopo Ⅲ
+N:Mischievous Boy | Niño travieso
+N:Restless Boy | Niño inquieto
+N:The Kids | Los niños
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg1_160 | Willow
+N:avg2_938 | Duque Glopo
+N:avg2_945 | Cangrejo ermitaño
+N:avg3_100 | Sylar
+N:avg3_161 | Leafia
+N:avg3_167 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_200 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Mar enmarcado
+0003 [Intro] | Obligada a desempolvar sus viejos lentes, Karin se presenta a la ronda final. Le arrebatan la tabla de surf, así que se alía con el cangrejo ermitaño y logra una remontada, pero es evidente que el Duque Glopo no piensa rendirse tan fácil.
+0004 [Narración] | Espérenme...
+0005 [Mischievous Boy] | ¡Oigan, miren! ¡Es Karin cuatro ojos!
+0006 [Restless Boy] | Jaja, ¡miren esos fondos de botella!==W== ¿Siquiera nos puedes ver con eso?
+0007 [Mischievous Boy] | Seguro ni sus propios pies puede ver. ¡Miren cómo se va a caer!
+0008 [Karin] | Vamos... ¡Devuélvanla! ¡Yo encontré esa concha primero!
+0009 [Mischievous Boy] | ¿La quieres de vuelta? ¡Ven a atraparnos!
+0010 [Restless Boy] | ¡Pst, Karin! ¡Por aquí!
+0011 [Mischievous Boy] | ¡Nel, aquí estoy!
+0012 [Restless Boy] | ¡No ve nada! ¡Jajaja!
+0013 [Karin] | ¡Veo perfectamente! ¡Dejen de burlarse de mí!
+0014 [Narración] | ¡Waaah!
+0015 [Restless Boy] | ¡Ja! ¡Lo dije! ¡Se cayó!
+0016 [Mischievous Boy] | Típico de cuatro ojos.
+0017 [Narración] | De niña odiaba que alguien la viera con lentes.
+0018 [Narración] | Luego consiguió un Artefacto del Monolito llamado lentes de contacto.
+0019 [Narración] | Ese día hizo una fiesta enorme en su mente. La era de Karin cuatro ojos había terminado oficialmente...
+0020 [Narración] | O eso creía.
+0021 [Karin] | ... Ugh. Esto es una pesadilla.
+0022 [Karin] | Juré que nunca más me los pondría en público, pero...
+0023 [Leafia] | ¿Eh? ¿Son lentes?
+0024 [Karin] | ¡Deja de mirarme!
+0025 [Karin] | ¡El agua salada arruinó mis lentes de contacto! ¡Si no, jamás me verían muerta con estos!
+0026 [Karin] | Los niños se burlaban de mí todo el tiempo por usarlos. Por fin había dejado de verme como una nerd...
+0027 [Willow] | Karin, oye...
+0028 [Karin] | ¡Ugh, como sea! ¡De todos modos todo es culpa de ese tramposo!
+0029 [Karin] | Lastimó a Shia a propósito. Voy a hacer que lo pague.
+0030 [Hermit Crab] | Kha...
+0031 [Karin] | No me pongas esa cara, no estoy enojada contigo...==W== Solo quédate atrás y mira. ¡Voy a recuperar tu casa!
+0032 [Karin] | ¡La tercera ronda es mía! Lo voy a golpear hasta que llore y me devuelva él mismo esa caracola.
+0033 [Shia] | Es toda tuya, Karin...
+0034 [Karin] | ¡Por supuesto! ¡Yo puedo!
+0035 [Leafia] | Karin... Se fue echando humo, con cara de querer devorar a alguien...
+0036 [Tú] | Nunca había visto a Karin tan enojada...
+0037 [Noya] | ¡Pero se ve tan elegante y confiable así!
+0038 [Iris] | ¿Seguro que es buena idea? El Duque Glopo no juega limpio. ¿Y si hace otra jugada sucia...?
+0039 [Shia] | Jeje. Yo creo en Karin. Es más fuerte de lo que parece.
+0040 [Tú] | La ronda final está por comenzar. En sus marcas...==W== ¡Ya!
+0041 [Amber] | El Duque Glopo está levantando otra ola gigante.
+0042 [Iris] | ¡Eso no es justo! ¡Está dirigiendo las olas directo hacia Karin a propósito!
+0043 [Karin] | Hmph, es rápido...==W== ¡Pero al final es un cobarde que tiene que hacer trampa para ganar!
+0044 [Karin] | Uf... Mantén la calma... Shia misma me enseñó a surfear y practiqué un montón. ¡Estas olitas no son nada!
+0045 [Narración] | Karin se lanza contra la ola gigante en la tabla de surf de Shia. Sus movimientos no son tan elegantes como los de Shia, pero son precisos y contundentes, y arrasan con cada obstáculo que el Duque Glopo le pone enfrente.
+0046 [Glopo Duke Ⅲ] | ¡¿Hmph?!
+0047 [Narración] | Al ver que Karin le acorta la distancia, el Duque Glopo repite su viejo truco y lanza una andanada de proyectiles.
+0048 [Karin] | ¿Otra vez? ¿Es el único truco que tienes?
+0049 [Narración] | Karin esquiva los disparos por poco, pero el Duque Glopo no cede. Sigue remando su botecito hacia adelante, bombardeándola sin descanso.
+0050 [Glopo Duke Ⅲ] | ¡Hmph-mmmmmmph!
+0051 [Karin] | ¡Ya basta!
+0052 [Leafia] | ¡Karin esquivó todo! ¡Es asombrosa!
+0053 [Noya] | ¡Eso es! ¡Dale con todo, Karin!
+0054 [Willow] | ¡Tú puedes, Karin! ¡Dale una lección a ese tramposo!
+0055 [Karin] | ¡Voy a la cabeza! Ahora solo tengo que mantener este ritmo... ¡¿Whoa?!
+0056 [Narración] | La espuma revuelta se cierra en el aire y atrapa la tabla de surf como una mano gigante. El impulso lanza a Karin hacia adelante y la estrella con fuerza contra el agua.
+0057 [Shia] | ¡Karin!
+0058 [Karin] | ¡Puaj! ¡Ah!==W== Cof, cof ... cof.
+0059 [Karin] | No veo nada. ¿Se me cayeron los lentes? Mi tabla también desapareció...
+0060 [Karin] | Tch... Esto está mal.
+0061 [Restless Boy] | ¡Oigan! ¿Escucharon? ¡Karin cuatro ojos dice que de grande va a ser Trekker marina!
+0062 [Chatty Girl] | ¿Con unos lentes tan gruesos? ¿Cómo va a ser Trekker marina?
+0063 [Mischievous Boy] | Jaja, ¡será la Capitana Fondo de Botella!
+0064 [Mischievous Boy] | «¿H-Hay una ola adelante? ¡No veo!»
+0065 [Restless Boy] | «¿Eso de la izquierda es un puerto o una roca? ¡Tampoco lo distingo!»
+0066 [The Kids] | ¡Jajajaja!
+0067 [Chatty Girl] | Ya, ya basta. Si siguen, se va a poner a llorar otra vez. ¡Vamos, mejor a nadar!
+0068 [Karin] | No voy a...==W== llorar...
+0069 [Karin] | Ya verán...==W== ¡Voy a navegar los mares! ¡Voy a ser increíble, mucho mejor que cualquiera de ustedes!
+0070 [Karin] | Aunque no vea con claridad, igual voy a convertirme en...
+0071 [Karin] | ¿Bromeas? ¡No me voy a rendir aquí!
+0072 [Karin] | ¿Y qué si no veo? ¿Y qué si mi tabla se fue? He pasado años en este océano, esforzándome todos los días...
+0073 [Karin] | ¿No veo? Entonces escucho. ¿Sin tabla? Entonces remo. ¡Aunque tenga que nadar todo el camino, voy a cruzar esa meta!
+0074 [Hermit Crab] | ¡Kha, kha!
+0075 [Karin] | ¿Eh? Tú...
+0076 [Karin] | Ah, ya veo... Tú tampoco quieres perder contra ese tramposo, ¿verdad?
+0077 [Glopo Duke Ⅲ] | ¡Hmph-mm♪! ¡Hmph hmph!♪
+0078 [Karin] | ¿Tarareando, eh? ¿Crees que ya la tienes ganada?
+0079 [Glopo Duke Ⅲ] | ¿Mmh?
+0080 [Karin] | ¡Te atrapé!
+0081 [Noya] | Whoa. Eso sí es impresionante.
+0082 [Leafia] | Está montando al cangrejo ermitaño como si fuera una tabla de surf...
+0083 [Shia] | Jeje. Así es nuestra Karin.
+0084 [Glopo Duke Ⅲ] | ¡Hmph! ¡Hmph hmph! ¡Hmmmph!
+0085 [Karin] | ¿Esos viejos trucos? ¡Puedo esquivarlos solo por el sonido!
+0086 [Hermit Crab] | ¡Kha, kha!
+0087 [Karin] | ¡Vamos! ¡Hay que ganarle!
+0088 [Hermit Crab] | ¡Kha—!
+0089 [Glopo Duke Ⅲ] | ¡Hmphhh...!
+0090 [Tú] | ¡Los ganadores del enfrentamiento final: Karin y el cangrejo ermitaño!
+0091 [Karin] | Uf... Uf...==W== ¿Se te acabaron las excusas? ¡Entrega la caracola!
+0092 [Hermit Crab] | ¡Kha, kha!
+0093 [Glopo Duke Ⅲ] | Hmph...
+0094 [Glopo Duke Ⅲ] | ¡Hmph, hmmmph, hmph hmph! ¡Hmph!
+0095 [Willow] | ¿Armar un pleito por perder una carrera? Qué mal perdedor.
+0096 [Karin] | Hmph. De todos modos ya me tenía harta ese tramposo.
+0097 [Karin] | Justo a tiempo. Te va a ir mal.

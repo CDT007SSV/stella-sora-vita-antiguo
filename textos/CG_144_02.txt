@@ -1,0 +1,94 @@
+# Historia de Chitose · 2 · The Way of Oneness (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Kind Mother | Madre amable
+N:Naive Child | Niño ingenuo
+N:Passing Child | Niño que pasa
+N:Shrubshrew | Shrubshrew
+N:avg1_144 | Chitose
+N:avg2_001 | Shrubshrew Matón
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_167 | Chica
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El camino de la Unidad (Parte II)
+0003 [Intro] | Dicen que, al contener la respiración y cruzar miradas, los corazones pueden volverse uno… Pero ¿de verdad pueden lograrlo dos personas que siempre están desfasadas?
+0004 [Narración] | Al salir de la herrería, Chitose y yo caminamos de nuevo lado a lado por la calle.
+0005 [Narración] | Tras algo de convencimiento, por fin deja de aferrarse a mi cintura.==W== Pero ahora me observa con una mirada seria e inquebrantable.
+0006 [Tú] | Llevas un rato mirándome fijamente... ¿Esto también es parte de tu entrenamiento de «Jinken Hitotsu»?
+0007 [Chitose] | Es como dice, mi ==SEX11==.
+0008 [Tú] | A-ah, ya veo... ¿Entonces hay un significado especial detrás de esta mirada tan intensa...?
+0009 [Chitose] | Al recibir un regalo tan precioso de usted, mi ==SEX11==, me llené de alegría... Quizá me dejé llevar un poco...
+0010 [Tú] | Se veía tan serena por fuera, pero en realidad estaba muy feliz...
+0011 [Chitose] | Pero una vez más no logré captar su verdadera intención, mi ==SEX11==. Está claro que mi entrenamiento aún está lejos de completarse...
+0012 [Tú] | No te preocupes por eso, Chitose. Fue solo porque te confundí a propósito...==B== La culpa es mía.
+0013 [Chitose] | No, mi ==SEX11==. Si de verdad hubiera dominado la Unidad, habría podido percibir su verdadera intención...
+0014 [Chitose] | Una vez leí que, al contener la respiración, concentrarse intensamente y mirarse mutuamente, dos personas pueden profundizar su comprensión hasta compartir los mismos pensamientos.
+0015 [Chitose] | Por eso lo miraba. Esperaba poder comprender su gran mente, aunque fuera un poco.
+0016 [Tú] | Ya veo. Supongo que por eso dicen que «los ojos son las ventanas del alma»...
+0017 [Tú] | Si quieres entender a alguien sin palabras... ¡el contacto visual de verdad es la mejor manera de lograrlo!
+0018 [Tú] | Tienes razón. Entonces, ¿probamos a practicar? ¿Mirarnos fijamente a los ojos?
+0019 [Narración] | Reúno valor y sostengo la mirada de Chitose. Sus ojos son de un claro y misterioso tono violeta.
+0020 [Chitose] | ¡¿...?!
+0021 [Chitose] | ¡~~~~...!!
+0022 [Chitose] | Ah... Mis más ... sinceras disculpas.
+0023 [Chitose] | Cuando me mira así, mi ==SEX11==... no sé por qué, pero ... se me está calentando todo el rostro...
+0024 [Naive Child] | ¡Mamá! ¡Mira! ¡Creo que se van a dar un beso!
+0025 [Kind Mother] | ¡Shh! ¡No molestes a los demás! Vamos, sigamos caminando.
+0026 [Passing Child] | ¿Eh? ¡Pero yo quiero ver cómo se besan!
+0027 [Chitose] | ¡¿Hah?!
+0028 [Tú] | No entiendo eso de la «Unidad», pero sí me doy cuenta de que el pequeño «¿Hah?» de Chitose es pura sorpresa ante el malentendido de la niña.
+0029 [Chitose] | ¡Mi ==SEX11==...! Esa niña dijo que estábamos por «darnos un queso»... En este momento, ¿qué queso es el que desea que le entregue...?
+0030 [Chitose] | Hasta los niños que pasan perciben sus verdaderas intenciones, mi ==SEX11== ... ¿qué es lo que aún me falta...?
+0031 [Tú] | Otra vez, un malentendido peligroso tras otro...
+0032 [Tú] | Cálmate, Chitose. No quiero que nos demos ningún queso. Lo que ella quiso decir era...
+0033 [Chitose] | ¿Era...?
+0034 [Tú] | Ah... no ... olvídalo. Haz de cuenta que no lo oíste...
+0035 [Chitose] | Mi ==SEX11==, ¿será que oculta deliberadamente su intención para poner a prueba mi percepción...?
+0036 [Tú] | No, para nada... Solo pensé que quizá sería demasiado y no quise asustarte. No te presiones.
+0037 [Chitose] | Como ordene... Aunque mientras más intenta ocultarme algo, más se queda rondando en mi mente...
+0038 [Chitose] | Mmm... Entendido. Este diccionario me dirá qué significa «queso»...
+0039 [Tú] | ¿¡Cómo es que tienes un diccionario escondido bajo la manta!?
+0040 [Chitose] | ¿¡Eh...!? ¡E-esto es...!
+0041 [Chitose] | Bien, ya veo... ¡Eso quiso decir...! ¡Es «beso»!
+0042 [Tú] | ¡Otro malentendido más!
+0043 [Chitose] | Pero, mi ==SEX11==...
+0044 [Chitose] | Dado que el beso es «una forma de compartir sentimientos sin palabras»... ¡Entonces, para alcanzar nuestra Unidad, debemos...!
+0045 [Tú] | ¡Espera...! ¡Alto!
+0046 [Tú] | ¡Chitose...!!!
+0047 [Narración] | Mientras las miradas curiosas a nuestro alrededor amenazan con tragarnos, tomo la mano de Chitose y me alejo apresurado del lugar.
+0048 [Chitose] | Mi ==SEX11==...? ¿Por qué no está dispuesto a besarme?
+0049 [Tú] | Esa clase de cosas ...==B== son para personas muy cercanas, cuya relación ha pasado al siguiente nivel.
+0050 [Chitose] | ¿Y está insinuando ... que nuestra relación no es lo bastante cercana?
+0051 [Tú] | ... Ah, n-no. ¡No es ese tipo de relación en absoluto!
+0052 [Tú] | En fin, no podemos apresurar esto...! Es por tu propio bien, y por tu entrenamiento, así que olvídalo por ahora.
+0053 [Chitose] | ¿De verdad...?
+0054 [Tú] | Sí. Solo espero que lo entiendas...
+0055 [Chitose] | O sea que... mientras continúe entrenando a su lado, mi ==SEX11==, algún día yo también podré besarle... ¿Eso es lo que dice?
+0056 [Tú] | ¡¿Por qué está tan obsesionada con esto del beso?!
+0057 [Tú] | S-sí... ¡Entrenamiento! Chitose, volvamos a nuestro entrenamiento de «Jinken Hitotsu», por favor. Por ejemplo... ¿qué tal si vamos a cazar monstruos juntos?
+0058 [Chitose] | Como ordene. ¡Para algún día poder besar a mi ==SEX11==, jamás descuidaré mi entrenamiento!
+0059 [Narración] | Tras salir del pueblo y pasar varias horas concentrados en cazar monstruos...
+0060 [Tú] | Conseguimos muchos.
+0061 [Chitose] | Sí. Los monstruos de esta zona deberían...
+0062 [Shrubshrew] | ¡Iik! ¡Yiik!
+0063 [Tú] | Probablemente todos se dispersaron como ese Shrubshrew.
+0064 [Tú] | Eso demuestra lo fuerte que eres, Chitose. Como tu «portador», estoy verdaderamente ... honrado más allá de las palabras.
+0065 [Chitose] | Gracias por el elogio. Pero ...==B== como «hoja», esto apenas cuenta como mostrar mi verdadero filo. No puedo evitar sentir algo de decepción...
+0066 [Chitose] | ¡Ah, ya sé! Mi ==SEX11==, ¿ve esa roca de allá?
+0067 [Tú] | ¿Eh? Ah... sí... Es una roca bastante grande. ¿Por qué?
+0068 [Chitose] | Entonces permítame mostrarle de lo que soy capaz.
+0069 [Chitose] | Donde la hoja golpea, todo enmudece...
+0070 [Narración] | El agua se reúne a lo largo del filo de la hoja de Chitose.==W== En solo un instante, la enorme roca se parte limpia y silenciosamente en dos.
+0071 [Tú] | Guau... ¿En serio? ¡Esa roca es casi el doble de mi estatura!
+0072 [Tú] | Esa técnica increíble y su control del elemento Agua... No importa cuántas veces la vea, siempre me deja sin aliento.
+0073 [Tú] | Espera un segundo, ¿no es demasiada agua?
+0074 [Narración] | Mientras la oleada de agua del tajo de Chitose se eleva, forma nubes que, sin darnos cuenta, comienzan a velar el cielo...
+0075 [Narración] | Antes de que pueda reaccionar, las nubes oscuras se convierten en un aguacero torrencial.
+0076 [Chitose] | Mis más sinceras disculpas, mi ==SEX11==.
+0077 [Chitose] | Quizá ... me dejé llevar un poco demasiado...

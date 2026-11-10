@@ -1,0 +1,121 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 3 · Escondidas en la playa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_106 | Aeloria
+N:avg1_1210 | Cosette
+N:avg1_142 | Cosette
+N:avg1_160 | Willow
+N:avg2_945 | Cangrejo ermitaño
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Escondidas en la playa
+0003 [Intro] | Cosette está en el resort poniendo trampas en la playa, y tú caes en una por curiosidad. Por suerte, Willow te ayuda justo a tiempo. Conversas con Willow en la playa y ella se ofrece a enseñarte a nadar.
+0004 [???] | Jeje...==W== ¡Jajajaja!
+0005 [???] | Perfecto. Ni un alma a la vista. Esta es mi oportunidad.
+0006 [Cosette] | Mi información dice que el objetivo anda por aquí...
+0007 [Cosette] | ¡Lo encontré! ¡El Artefacto de venta automática!
+0008 [Cosette] | Leche de fresa, soda de limón con sal marina, café helado...==W== Se ven geniales, pero...
+0009 [Cosette] | ¡Yo vengo por esta! ¡Edición limitada de verano: Fruity Aurora Fizz!
+0010 [Cosette] | ¡No se consigue en ningún otro lado! ¡Solo este Artefacto de venta automática en todo el resort la tiene! ¡Vine hasta acá solo por esta bebida!
+0011 [Cosette] | ¡Y el nombre es casi «Aeloria»!==W== Un sorbo y tal vez sea tan fuerte como Lady Aeloria...
+0012 [Cosette] | ¡Como no hay nadie, todas estas bebidas son mías!
+0013 [Cosette] | ¡Limitada! ♪ ¡Limitada! ♪ ¡Limited Auroria Fizz! ♪
+0014 [Cosette] | ¿Eh? ¿Fue un ruido...?
+0015 [Cosette] | ¡Wow—! ¿Q-Qué es eso?
+0016 [Cosette] | Espera... ¿Será que...?
+0017 [Tú] | No puedo dormir...
+0018 [Tú] | Pero un paseo nocturno por la playa escuchando las olas... La verdad es bastante agradable.
+0019 [Tú] | ¿Eh? ¿Acaba de pasar una sombra?
+0020 [Tú] | ¿Esto es...==W== una bebida?
+0021 [Tú] | ¿Por qué hay una bebida sin abrir en la arena? ¿Alguien la habrá tirado...?
+0022 [Tú] | Mira, hay otra más adelante.
+0023 [Tú] | Están perfectamente espaciadas... Como un camino para llevarme a algún lado...
+0024 [Tú] | Dos más...==W== Con un patrón así, ¿será que...?
+0025 [Tú] | ¿Eh? El suelo se siente raro aquí...
+0026 [Tú] | ¡Wow—!
+0027 [???] | Je, je... ¡Muajajaja!
+0028 [Cosette] | ¡Por fin te atrapé, ladrón miserable!
+0029 [Cosette] | ¡Lo sabía! Deja un poco de carnada y un sinvergüenza como tú no puede resistirse.
+0030 [Cosette] | Ahora,==W== devuélveme mi...
+0031 [Cosette] | ¿Eh?
+0032 [Tú] | Hola. Buenas noches...
+0033 [Cosette] | ¿Q-Qué haces aquí?
+0034 [Tú] | Yo debería preguntarte eso.
+0035 [Cosette] | No, no, no... Puse esta trampa para el villano. ¿Cómo lo atrapó a ==SEX4==?
+0036 [Cosette] | Ugh, esto arruina todo el plan...==B== ¿Eh? Espera.
+0037 [Cosette] | Un momento...==W== Ahora que lo pienso, ¿¡atrapé a ==PLAYER_NAME==!?
+0038 [Cosette] | ¡Si ahora lo llevo ante ==SEX4==, Lady Aeloria se va a poner feliz!
+0039 [Cosette] | Ugh... Pero entonces no atraparé al ladrón...==W== ¿¡Qué hago...!?
+0040 [Tú] | Cosette está murmurando algo... No le entiendo ni una palabra.
+0041 [Tú] | ¿Cosette? ¿Me puedes bajar?
+0042 [Cosette] | ¡Shhh! ¡Estoy pensando en algo importante!
+0043 [Tú] | ¿¡Por qué me regañan a mí!?
+0044 [Willow] | ¿==PLAYER_NAME==?
+0045 [Willow] | ¿Qué es ese ruido? ¿Estás ahí?
+0046 [Cosette] | Ay no, viene alguien...==B== ¡Me van a atrapar si me quedo!
+0047 [Cosette] | ¡E-Esta vez te dejo ir!
+0048 [Willow] | Ah, ahí estás.
+0049 [Tú] | Jaja... Qué sorpresa, Willow. ¿Tampoco podías dormir?
+0050 [Willow] | En realidad vine a buscarte. Tardaste mucho y me preocupé.
+0051 [Willow] | En fin... ¿Por qué estás colgado de cabeza de una palmera de coco? Te ves muy tranquilo. ¿Te escapaste a jugar algún juego raro?
+0052 [Tú] | Ah... bueno... verás...
+0053 [Tú] | ¡Estoy probando una nueva rutina de ejercicio! Hice un pequeño error de cálculo y... una cosa llevó a la otra.
+0054 [Willow] | Ya veo.
+0055 [Willow] | Y yo que pensé que esa chica te había secuestrado.
+0056 [Tú] | Espera, ¿viste a Cosette?
+0057 [Willow] | Sí, aunque solo la alcancé a ver huyendo.
+0058 [Tú] | P-Perdón...
+0059 [Willow] | No pasa nada. Seguro tenías tus razones, ==PLAYER_NAME==.
+0060 [Willow] | Como es tu «ejercicio», no voy a indagar.
+0061 [Tú] | Gracias, Willow.==W== Por cierto... ¿Te puedo pedir un favor?
+0062 [Willow] | ¿Cuál?
+0063 [Tú] | ¿Podrías bajarme? Me estoy mareando...
+0064 [Willow] | ¿Oh? ¿Ya terminó tu sesión de ejercicio?
+0065 [Tú] | Jaja...
+0066 [Willow] | Jeje, te estoy molestando. Te veías tan gracioso allá arriba que quise disfrutar la vista un momento.==W== Vamos a bajarte.
+0067 [Tú] | Willow tiene un lado travieso sorprendente...
+0068 [Tú] | Uf...==W== Qué bueno estar otra vez con la cabeza arriba.
+0069 [Willow] | Entonces...==W== ¿Tienes otros planes para esta noche?
+0070 [Willow] | Como ninguno de los dos puede dormir, ¿por qué no me haces compañía? Podríamos platicar bajo la luz de la luna.
+0071 [Tú] | Sí, me encantaría.
+0072 [Willow] | El mar es tranquilo de noche.
+0073 [Tú] | Sí. Parece que fuéramos las únicas dos personas que quedan en el mundo.
+0074 [Willow] | Solo nosotros dos, ¿eh...?
+0075 [Willow] | Todavía no te he dado las gracias como se debe.
+0076 [Tú] | ¿Las gracias a mí?
+0077 [Willow] | Por la molestia que se tomaron para engañarme y traerme a estas vacaciones.
+0078 [Willow] | Laru consiguió los boletos, lo del premio fue idea tuya...
+0079 [Willow] | E Iori les siguió el juego. Es obvio que todo fue cuidadosamente planeado.
+0080 [Willow] | Llegar a tales extremos, todo para que descanse...
+0081 [Tú] | Eh... Este...
+0082 [Willow] | Pero lo pasé muy bien. Gracias.
+0083 [Tú] | ¿¡En serio!? Me alegra. Eso es lo único que importa.
+0084 [Willow] | Jeje... Entonces, como agradecimiento, ¿qué tal si te enseño a nadar?
+0085 [Tú] | ¿Eh?
+0086 [Willow] | Te quedaste en la playa mientras todos estaban en el agua, ¿no?
+0087 [Willow] | Al principio pensé que no querías entrar. Pero luego caí en cuenta.==W== ==PLAYER_NAME==, no eres muy buen nadador, ¿verdad?
+0088 [Tú] | ... Me descubriste.
+0089 [Tú] | Bueno, no es que no sepa nadar nada, pero apenas logro no hundirme.
+0090 [Tú] | Al ver a todos nadar con tanta facilidad, me dio algo de pena meterme. Además, chapotear en la orilla ya era bastante divertido.
+0091 [Willow] | Mmm.==W== Mientes.
+0092 [Willow] | La manera en que mirabas el mar... Tu mirada estaba llena de anhelo.
+0093 [Tú] | Eh...
+0094 [Willow] | Ven, ==PLAYER_NAME==.
+0095 [Narración] | Willow me toma de la mano y me lleva al agua. Su agarre es firme, hasta insistente, pero de alguna forma no me molesta.
+0096 [Willow] | Aquí el agua es poco profunda y tenemos la playa para nosotros solos. Es el lugar perfecto para practicar.
+0097 [Tú] | De acuerdo. Sería una lástima venir hasta aquí y nunca meterme.
+0098 [Willow] | Jejeje, entonces está decidido.
+0099 [Willow] | Ah, te aviso: soy una maestra estricta. Prepárate, Jefe.
+0100 [Tú] | ¡P-Por favor, sea considerada conmigo, entrenadora...!
+0101 [Willow] | Eso es. Relájate. Patalea suavemente. No te esfuerces.
+0102 [Willow] | No luches contra el agua. Imagina que abrazas el mar.
+0103 [Willow] | Tómate tu tiempo. No hay prisa. Yo te sostengo.
+0104 [Narración] | La luz de la luna se derrama sobre el agua, brillando en silencio con las ondas.
+0105 [Narración] | El agua de la noche es fría, pero las manos de Willow son cálidas.
+0106 [Narración] | Guiado por su calidez, me dejo ir, hasta que por fin abrazo el mar...

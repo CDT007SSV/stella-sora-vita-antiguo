@@ -1,0 +1,189 @@
+# Capítulo 5 · Una chispa en la oscuridad · 5 · Un sándwich de pistas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Busy Team Leader | Líder de equipo ocupada
+N:Confused Customer | Cliente confundido
+N:Curious Customer | Cliente curioso
+N:Curious Girl | Chica curiosa
+N:Energetic Employee | Empleado enérgico
+N:Energetic Girl | Chica enérgica
+N:Excited Employee | Empleado emocionado
+N:Exhausted Employee | Empleado agotado
+N:Interested Passerby | Transeúnte interesado
+N:Sherlock Mascot? | ¿Mascota Sherlock?
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg3_100 | Sylar
+N:avg3_1215 | Investigador
+N:avg3_1216 | Investigador
+N:avg3_134 | Mina
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_158 | Pingüino artista
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_184 | Lady Gray
+N:avg3_200 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Un sándwich de pistas
+0003 [Intro] | Las pistas son una trampa calculada, y hay que investigar con cautela. Amber, con un disfraz de mascota, arrasa con la tarea de promoción, mientras Noya y Fuyuka deciden pedir ingredientes como deseo para descifrar la receta.
+0004 [Lugar y hora] | 2:00, 1.º del mes de Calor, Distrito Invernadero de Philae, almacén de Cosecha Unida
+0005 [Tú] | Todos, escuchen. El encargo de Mina, el paradero de Lady Gray, el destino del orfanato... No son tres misterios separados. Son un solo caso, todo conectado.
+0006 [Noya] | Conectado...==W== Eh, ¿me lo simplificas? Estoy perdida.
+0007 [Tú] | Ordenen los hechos cronológicamente y lo verán.
+0008 [Tú] | Regresemos dos años...
+0009 [Narración] | Año 994 del Calendario Monolítico.
+0010 [Tú] | Firenze obtiene la fórmula del Ruiseñor Leonado en el Orfanato de las Cenizas. Justo después, el lugar entero desaparece.
+0011 [Noya] | ¿La tía Allie se llevó a los niños y huyó...==W== por la fórmula?
+0012 [Tú] | Luego, hace dos meses...
+0013 [Narración] | Mes de Floris del año 996 del Calendario Monolítico.
+0014 [Tú] | La investigación de Iris confirma que fue justo cuando apareció el Ruiseñor Dorado.
+0015 [Tú] | Al mismo tiempo, Lady Gray obligó a Nazuka a cazar a los Tres Grandes. Fue cuando cayó la Espada de Jade.
+0016 [Fuyuka] | El momento en que aparecieron... coincide demasiado bien.==W== Seguro no es tan sencillo, ¿verdad?
+0017 [Tú] | Exacto. Recuerden que Mina dijo que alguien importante nos metió en Cosecha Unida para investigar el Ruiseñor Dorado.
+0018 [Tú] | Y justo el primer día, nos cae del cielo un soplo anónimo sobre el orfanato.
+0019 [Mistique] | Demasiado conveniente. Como si alguien quisiera que atáramos cabos.
+0020 [Mistique] | He visto muchísimas pistas falsas en mi vida, pero ¿mi intuición de bruja? Me dice que esto es real. O al menos, parte de la verdad.
+0021 [Amber] | Ruiseñor Leonado. Lo une todo.
+0022 [Tú] | Así es. Ya que son tan generosos como para prepararnos el escenario, sigámosles el juego.
+0023 [Noya] | ¡Ah! ¡Ya entendí! ¡Es como un sándwich! ¡El Ruiseñor Leonado es el pan que mantiene todo lo demás junto!
+0024 [Noya] | O sea...==W== Si le damos una mordida al Ruiseñor Dorado, ¿también nos llevamos el orfanato y a Lady Gray?
+0025 [Tú] | La metáfora de Noya es un poco burda, pero en la práctica tiene razón.
+0026 [Mistique] | ¿Saben? Juntando todas sus historias, ya olfateé una pista sobre el Ruiseñor Dorado.
+0027 [Tú] | Espera, ¿en serio? ¿Ya?
+0028 [Mistique] | He hecho muchísimo trabajo encubierto en grandes empresas. Sé cómo funciona el juego.
+0029 [Mistique] | Si quieres salirte con la tuya en una empresa enorme como esta, tienes que encontrar los puntos ciegos de su protocolo: las zonas grises.
+0030 [Mistique] | Tómate a ti y a Nyx hoy, por ejemplo. Flojeando en el invernadero, ¿no? Y nadie fue a buscarlas.
+0031 [Amber] | Sí. La excusa de Nyx fue «ir a la enfermería». No fuimos. Nadie preguntó.
+0032 [Mistique] | Es lo normal. El supervisor solo necesita un motivo por escrito de tu ausencia. Con la enfermería cumple el requisito. Lo demás no es su problema.
+0033 [Mistique] | Mientras no les salpique nada a ellos, les da igual adónde vaya un empleado o qué esté haciendo en realidad.
+0034 [Amber] | ¿Pero y si alguien le pregunta al personal de la enfermería? ¡Descubrirían que nunca estuvimos ahí!
+0035 [Mistique] | Fácil.==W== Inventas otra excusa. «Me sentí mejor en el camino» o «me dolía tanto que no pude llegar». Ya te darás una idea.
+0036 [Mistique] | Además, los empleados de oficina no andan buscando problemas. No llamar la atención siempre es la jugada más inteligente, sin importar la situación.
+0037 [Mistique] | Hasta los de arriba, como los directores, están saturados.==W== Si ven la oportunidad de flojear o ahorrarse un dolor de cabeza, puedes apostar a que la aprovechan.
+0038 [Mistique] | Como nadie quiere hacer olas, la administración termina llena de huecos que solo esperan ser aprovechados.
+0039 [Noya] | Siempre pensé que estas grandes empresas estaban llenas de élites capaces. Supongo que la gente no cambia mucho, vayas a donde vayas...
+0040 [Mistique] | Muy bien, hora del repaso. ¿Cómo surgió exactamente este Ruiseñor Dorado?
+0041 [Fuyuka] | ¿Cómo...?==W== La receta del Ruiseñor Leonado es ultrasecreta. Solo la conocen unos cuantos de los altos mandos.
+0042 [Iris] | Además, Producción entrega el inventario directamente a Marketing.==W== ¿Estás diciendo que ellos están detrás de esto...?
+0043 [Tú] | Producción le entregó todo el proceso a las Mandrágoras, desde la siembra hasta el empaque...==W== Esperen. Ya lo veo. El punto ciego es...
+0044 [Opción] | La Hierba Radiante Mandrágora
+0045 [Mistique] | Bingo. La Hierba Radiante funciona en piloto automático. No pueden hablar y, definitivamente, no pueden tomar decisiones.
+0046 [Mistique] | Falla o sabotaje, da igual. La Hierba Radiante es el eslabón más débil de la cadena.
+0047 [Fuyuka] | ¿Pero cómo lo probamos? No es que la Hierba pueda contarnos qué pasó.
+0048 [Mistique] | Toda acción deja un rastro. Si trazamos el proceso correcto, podemos ver exactamente dónde se descarriló todo.
+0049 [Mistique] | El sabor es totalmente distinto, así que la receta también tiene que serlo. Los registros de producción lo demostrarán.
+0050 [Tú] | Iris, mañana le pediré a Mina que saque esos registros. ¿Puedes encargarte del análisis?
+0051 [Iris] | Dalo por hecho.
+0052 [Tú] | Mistique, Amber y yo seguiremos buscando pistas por nuestra parte.
+0053 [Amber] | Entendido.
+0054 [Tú] | El problema es que, para encontrar la desviación, necesitamos la receta original.==W== Y no tengo ni idea de cómo conseguirla.
+0055 [Fuyuka] | M-Maestro... Sobre eso... Puede que tenga una forma.==W== Pero necesitaría la ayuda de Noya para lograrlo.
+0056 [Lugar y hora] | 16:00, 1.º del mes de Calor, Distrito Invernadero de Philae, almacén de Cosecha Unida
+0057 [Mina] | Uf... Aquí está. Hasta el último dato de producción y ventas del Ruiseñor Leonado desde su lanzamiento. Dos años completos.
+0058 [Iris] | ¡Guau, aquí debe haber por lo menos cien carpetas!
+0059 [Mina] | Esa es solo la primera caja. Hay otras diez esperando atrás.
+0060 [Iris] | ¿P-por qué hay tantas...?
+0061 [Mina] | Bueno, como la Hierba Radiante Mandrágora hace todo el trabajo pesado, el personal tenía que demostrar que seguía siendo útil. Así que documentaron cada minúsculo detalle del proceso para que no los despidieran.
+0062 [Mina] | Lo irónico es que los corrieron de todos modos por desperdiciar demasiado papel y tinta.
+0063 [Iris] | Qué miedo... El mundo corporativo da más miedo que las Tierras Salvajes.==W== ¿Crees que Amber pueda con Marketing ella sola?
+0064 [Mina] | Va a estar bien. Nyx la está cuidando. A mí también me tomó bajo su protección cuando era novata.
+0065 [Lugar y hora] | 17:00, 1.º del mes de Calor, Distrito Invernadero de Philae, Departamento de Marketing de Cosecha Unida
+0066 [Amber] | ...
+0067 [Confused Customer] | ¿Bueno?
+0068 [Amber] | Miau...
+0069 [Confused Customer] | ¿Qué demonios?
+0070 [Amber] | ¡Donas Miau-Miau! ¡Una presentación especial de Cosecha Unida! Compre un combo ahora y llévese...
+0071 [Nyx] | Yyy colgaron.==W== Parece que las llamadas en frío tampoco funcionan. Igual que la venta en persona.
+0072 [Amber] | ...
+0073 [Nyx] | ¡O-oye, no te desanimes! Todavía podemos probar con mensajes masivos. ¡Eso tiene que ser lo tuyo!
+0074 [Amber] | ¿Mensajes? Eso sí puedo. ¿Cómo funciona?
+0075 [Nyx] | Ay, rayos. Perdón, ese turno termina a las cinco. ¿Quizá mañana?==W== Espera, mañana nos toca promoción en la calle. En la zona más concurrida del Distrito de Plata.
+0076 [Amber] | La zona más concurrida...==W== O sea, multitudes.
+0077 [Amber] | No soy buena hablando con la gente en persona...==W== Pero no puedo echarme para atrás.
+0078 [Amber] | Iris, Noya. ¿Me hacen un favor?
+0079 [Amber] | De verdad quiero lucirme en este trabajo de marketing.
+0080 [Noya] | Claro. Mañana paso a ayudarte.
+0081 [Noya] | 
+0082 [Iris] | ¿Necesitas material sobre técnicas de venta? Tengo libros de consulta sobre el tema.
+0083 [Iris] | 
+0084 [Amber] | No. Necesito que me ayuden a hacer algo.
+0085 [Amber] | 
+0086 [Lugar y hora] | 17:00, 2.º del mes de Calor, Distrito de Plata de Emor, Calle comercial
+0087 [Sherlock Mascot?] | ¡Gu-gu-ga!
+0088 [Curious Girl] | ¡Sherlock! ¡Mira, es Sherlock!
+0089 [Energetic Girl] | La pancita de Sherlock se siente bien apachurrable...
+0090 [Sherlock Mascot?] | ¡Ga-ga-gu!
+0091 [Interested Passerby] | ¡Déjenme pasar! ¡Me toca!
+0092 [Interested Passerby] | Guau... Qué esponjosito...
+0093 [Sherlock Mascot?] | ¡Ga-gu!
+0094 [Curious Customer] | ¿Qué dice? «El producto más nuevo de Cosecha Unida»...
+0095 [Curious Customer] | Ay, eres demasiado tierno para decirte que no. Me llevo uno.
+0096 [Nyx] | Gracias.
+0097 [Interested Passerby] | ¡A mí también deme uno!
+0098 [Energetic Girl] | ¡Mami! ¡Mami! ¡Cómprame uno!
+0099 [Nyx] | ¡Hagan fila, por favor! No se preocupen, hay suficiente para todos.
+0100 [Narración] | Unas horas después...
+0101 [Nyx] | ¡¿Ya se agotó?! ¡Acabamos de cumplir la cuota de tres días en una sola tarde!
+0102 [Sherlock Mascot?] | Uf...
+0103 [Amber] | Qué bueno que tenía este disfraz.
+0104 [Nyx] | Eres una máquina. Yo con cinco minutos en esa cosa ya me estaría derritiendo, ya ni hablemos de hacer todas esas acrobacias locas durante horas...
+0105 [Amber] | Las Tierras Salvajes son peores. Estoy acostumbrada.
+0106 [Nyx] | Ustedes los Trekkers la tienen difícil...==W== En fin, gracias a tu esfuerzo, nos ganamos los próximos dos días libres.
+0107 [Amber] | Podríamos vender más. ¿Por qué parar ahora?
+0108 [Nyx] | Nel. Si ahora das de más, la próxima vez nada más te suben la meta. Y luego estás frita cuando no puedas cumplirla.
+0109 [Nyx] | Por cierto, ¿de dónde sacaste ese disfraz? Las costuras están muy bien hechas. ¿Lo hiciste tú?
+0110 [Amber] | Anoche. Mis amigas me ayudaron. No lo habría logrado sin ellas.
+0111 [Nyx] | Lo hiciste con tus amigas, ¿eh? Qué bonito ha de ser.
+0112 [Nyx] | Y ¿qué andan haciendo ellas ahorita?
+0113 [Lugar y hora] | 17:00, 2.º del mes de Calor, Distrito Invernadero de Philae, Departamento de I+D de Cosecha Unida
+0114 [Excited Employee] | ¡Noya! ¡Fuyuka! ¡Lo logramos! ¡De verdad funcionó!
+0115 [Excited Employee] | Esas raíces de Flor Llameante que nos recomendaron... ¡Pican muchísimo más que la Fruta Ignis!
+0116 [Exhausted Employee] | Dame una probadita.
+0117 [Energetic Employee] | Cof, cof... ¡Pica! ¡Quema!
+0118 [Excited Employee] | ¡Si convertimos esto en un condimento, tenemos un éxito de ventas asegurado!
+0119 [Excited Employee] | Algo como...==W== ¡Chocolate Extrapicante!
+0120 [Fuyuka] | ¿D-de verdad sabrá bien?
+0121 [Noya] | ¡Jeje, la primera mordida es mía! ¡Seguro sabe interesante!
+0122 [Busy Team Leader] | Noya, Fuyuka. Les debo una disculpa.
+0123 [Fuyuka] | ¿Eh? Jefa, ¿p-p-por qué de r-repente se disculpa?
+0124 [Busy Team Leader] | Tenía prejuicios cuando llegaron...==W== No creí que unas Trekkers de las Tierras Salvajes pudieran ayudar en nuestra investigación.
+0125 [Excited Employee] | Me recuerda lo que decía el antiguo director...
+0126 [Excited Employee] | «La gente de ciudad no sabe nada de las Tierras Salvajes».
+0127 [Excited Employee] | Los Trekkers conocen el terreno muchísimo mejor que nosotros. No siempre tenemos a dos ex-Trekkers en el equipo. ¡Hay que aprovechar la oportunidad!
+0128 [Busy Team Leader] | Es cierto. Ustedes conocen mejor esos ingredientes silvestres. De ahora en adelante cuento con ustedes.
+0129 [Fuyuka] | Eh, ¿jefa? Tengo una sugerencia.
+0130 [Busy Team Leader] | ¿Sí?
+0131 [Fuyuka] | Para ayudar mejor al departamento, Noya y yo queremos ir a recolectar ingredientes nuevos a las Tierras Salvajes. Y quizá ir al Monolito a pedir como deseo especias que le faltan a I+D. ¿Está bien?
+0132 [Busy Team Leader] | Por supuesto. Más que bien.
+0133 [Busy Team Leader] | ¡Entre más ingredientes novedosos, mejor!
+0134 [Fuyuka] | ¡G-gracias por el apoyo, jefa! Ya nos vamos.
+0135 [Busy Team Leader] | ¿Ahora? ¿No es un poco tarde? Ya casi se pone el sol.
+0136 [Fuyuka] | Eh, bueno, ¡nos ofrecemos a hacer horas extra! Si salimos ahora, estaremos de vuelta en la mañana. No retrasará para nada nuestro otro trabajo.
+0137 [Busy Team Leader] | Q-qué dedicación... ¡Qué empleadas tan ejemplares!
+0138 [Fuyuka] | Entonces nos vamos, jefa.
+0139 [Busy Team Leader] | Cuídense allá afuera.
+0140 [Noya] | ¡Nada mal, Fuyuka! ¡Conseguiste el permiso sin levantar ni una sospecha! Estuviste tan tranquila que casi sonabas como el Jefe.
+0141 [Noya] | ¡Parece que todo ese entrenamiento por fin está dando frutos!
+0142 [Fuyuka] | ¿Y-yo? ¿Como el Maestro?==W== Para nada... T-todavía estoy lejísimos de ese nivel.
+0143 [Noya] | ¡Como sea, te luciste! Se te ocurrió usar el equipo de I+D para sacar la receta del Ruiseñor Leonado con ingeniería inversa... ¡Genialidad total!
+0144 [Noya] | Muy bien, suficiente plática. ¡En marcha!==W== Objetivo: ¡el Monolito!
+0145 [Noya] | Pediremos como deseo todas las especias imaginables y luego probaremos cada combinación.
+0146 [Noya] | Con suficiente prueba y error, seguro descubrimos el secreto de la receta del Ruiseñor Leonado... ¡y pum!
+0147 [Noya] | ¡Misión cumplida!
+0148 [Fuyuka] | P-pero en realidad no sé hornear.==W== Esa parte te la voy a tener que dejar a ti, Noya senpai.
+0149 [Noya] | ¡Déjamelo a mí! ¡Pedir especias como deseo y hornear pan resultan ser mis especialidades!
+0150 [Noya] | Primero subamos a Loxy y cambiémonos.
+0151 [Noya] | Uf, listo... ¡Ah, qué cómodo se siente!==W== Este equipo de verdad es lo mejor para moverse. Jeje... jejeje.
+0152 [Fuyuka] | ¡Cuando quieras, Noya senpai!

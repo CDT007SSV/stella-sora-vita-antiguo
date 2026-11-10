@@ -1,0 +1,6 @@
+# Historia de Canace — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_120_01 | El artículo secreto extraescolar (Parte I)
+CG_120_02 | El artículo secreto extraescolar (Parte II)
+CG_120_03 | El artículo secreto extraescolar (Parte III)

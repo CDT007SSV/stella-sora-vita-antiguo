@@ -1,0 +1,116 @@
+# Historia de Sparkla · 2 · Sparkla's Troubles (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Bored Parent | Padre aburrido
+N:Dorothea | Dorothea
+N:Enthusiastic Ticket Seller | Boletero entusiasta
+N:Fascinated Girl | Niña fascinada
+N:Shy Boy | Niño tímido
+N:Totty | Totty
+N:Young Spectators | Jóvenes espectadores
+N:avg1_140 | Sparkla
+N:avg3_100 | Sylar
+N:avg3_113 | Ya
+N:avg3_138 | Trekker
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_169 | Chica
+N:avg3_196 | Empleada corporativa
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_222 | Perro mecánico
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Los problemas de Sparkla (Parte II)
+0003 [Intro] | Solo reconozco a quienes de verdad entienden mis inventos~
+0004 [Enthusiastic Ticket Seller] | ¡La exitosa adaptación de un cuento de hadas del Monolito, una obra imperdible:==W== El Mago del Castillo Esmeralda, está por comenzar su última temporada! ¡Amantes del teatro, no se la pierdan!
+0005 [Tú] | Disculpe. ¿Me da dos de los más baratos...
+0006 [Tú] | Cierto, cierto...==W== Dos boletos de primera fila, gracias.
+0007 [Enthusiastic Ticket Seller] | Lo siento, los asientos de primera fila ya se agotaron. Solo nos quedan asientos traseros y asientos con vista obstruida.
+0008 [Tú] | Vaya, ¿de verdad es tan popular? Bueno, hasta Flora los ha estado siguiendo.
+0009 [Tú] | Entonces supongo que eso facilita la elección. Los asientos con vista obstruida suenan terribles...==W== ¿Está bien la última fila?
+0010 [Sparkla] | Está bien. La primera fila es obviamente la mejor, pero las filas traseras también tienen sus ventajas. Ya verás.
+0011 [Dorothea] | ¡No te preocupes, Totty! Mientras estemos juntos, no hay nada que temer.
+0012 [Dorothea] | La tormenta pasará pronto.
+0013 [Tú] | Vaya... Estamos así de lejos, pero veo todo con claridad, hasta los detalles de la maquinaria del escenario.==W== ¡Esto que inventó Sparkla, el Pastel Vigía de Orejas Largas, es increíble!
+0014 [Tú] | Y no son solo binoculares. También puede proyectar luces de todos los colores. Sin duda sería muy útil en conciertos.
+0015 [Dorothea] | Sé valiente, Totty.
+0016 [Totty] | (sniff) Eh...
+0017 [Fascinated Girl] | ¡Guau, ¿ese perrito en el escenario es de verdad?! ¡Parece que de verdad entiende a Dorothea!
+0018 [Bored Parent] | Shh. Obviamente son solo accesorios de utilería.
+0019 [Sparkla] | ¡Hmph!
+0020 [Dorothea] | ¡Totty, agárrate fuerte de mí!
+0021 [Dorothea] | ¡La casa... está a punto de salir volando...!
+0022 [Tú] | ¿¡La casa de utilería de verdad se elevó!? Y dio toda la vuelta al teatro… Como si realmente la hubiera arrastrado un tornado.
+0023 [Young Spectators] | ¡Waaah~~
+0024 [Narración] | Fin del primer acto
+0025 [Tú] | Eso fue increíble... Una función así de verdad hace que valga la pena el boleto.
+0026 [Tú] | Pero esos mecanismos... ¿Son Artefactos? Usaron tantos en una sola función...
+0027 [Sparkla] | No son Artefactos. Todo lo que ves en el escenario son inventos.
+0028 [Tú] | Sparkla parece saber mucho de maquinaria de escenario. ¿Será que...
+0029 [Sparkla] | Oye, esa escena del tornado de hace rato fue increíble, ¿verdad?==W== Se sintió como si una ilustración sacada directamente de un libro de cuentos de hadas hubiera cobrado vida frente a mí. El corazón me latía a mil todo el tiempo♪
+0030 [Tú] | Mmm, mejor guardar esa pregunta para después.
+0031 [Tú] | El niño de enfrente no ha dejado de moverse desde que empezó el segundo acto...
+0032 [Sparkla] | ¿Qué pasa? ¿No puedes ver?
+0033 [Shy Boy] | Sí... Aja...
+0034 [Sparkla] | Ya veo. Toma, puedes usar esto.
+0035 [Shy Boy] | ¡Guau! ¡Es un conejito!
+0036 [Sparkla] | Se llama Pastel Vigía de Orejas Largas♪ Solo mueve la palanquita de zanahoria del costado y el tubo de visión saldrá. Mira por él y podrás ver el escenario con claridad.
+0037 [Shy Boy] | ¿¡De verdad!?
+0038 [Sparkla] | Claro. De hecho, he estado pensando en añadirle lentes intercambiables. Así podrías cambiar el aumento según el tipo de espectáculo que estés viendo...
+0039 [Shy Boy] | ¿Inter...cambiables?
+0040 [Sparkla] | Ejem. Es un secreto comercial♪
+0041 [Sparkla] | Bien, bien, anda, úsalo. La siguiente escena es donde aparece el primer compañero.
+0042 [Shy Boy] | Gracias, señorita.==W== Y... Eh... Perdón por molestarla antes...
+0043 [Sparkla] | Jeje~ No pasa nada. ¡Lo más importante cuando ves una obra es divertirte!
+0044 [Tú] | Con eso ya podrá concentrarse en el escenario. Y ahora yo también puedo relajarme y disfrutar el resto.
+0045 [Tú] | ¡Eso fue increíble! Por fin lo entiendo: ¡hasta los adultos pueden disfrutar una obra de cuentos de hadas!
+0046 [Sparkla] | ¡Jejeje~ Parece que por fin descubriste la alegría del teatro de cuentos de hadas!
+0047 [Shy Boy] | Eh, ¿señorita?
+0048 [Shy Boy] | U-usted me prestó su Pastel Vigía de Orejas Largas y todavía no se lo he devuelto.
+0049 [Sparkla] | Aww, qué niño tan lindo. ¿Hasta recordaste el nombre?
+0050 [Shy Boy] | Sí. Porque suena muy tierno...
+0051 [Sparkla] | ¿Verdad? ¡¿Verdad?! Tienes buen gusto, chiquito.
+0052 [Shy Boy] | Me gustó sobre todo la palanca de zanahoria de arriba. ¡Fue súper divertida!
+0053 [Sparkla] | Mmm. Si tanto te gusta...==W== ¡Muy bien! Este Pastel Vigía de Orejas Largas ahora es tuyo.
+0054 [Shy Boy] | ¡¿D-de verdad?! ¡¿De verdad puedo quedármelo?!
+0055 [Sparkla] | Por supuesto. Quien aprecia lo tierno que es el Pastel Vigía de Orejas Largas claramente tiene buen gusto. Me alegrará que lo tengas~
+0056 [Shy Boy] | ¡Yupi! ¡Muchísimas gracias, señorita!
+0057 [Sparkla] | Ah, cierto, cierto. Y si algún día quieres probar ponerle lentes distintos,==W== puedes contactar a la persona que está a mi lado~
+0058 [Tú] | ¿Y-yo?
+0059 [Shy Boy] | ¡Está bien! ¡Lo haré, ==SEX17==!
+0060 [Tú] | En serio, ¿por qué de repente me ofrece para trabajo extra?==W== Aun así... Como es por un niño, no puedo decir que no.
+0061 [Sparkla] | Jeje♪ Sabía que no me fallarías, Jefe♪
+0062 [Sparkla] | Y gracias por traerme a ver la obra. Ahora tengo la mente mucho más despejada y también mejor ánimo.
+0063 [Tú] | Qué bien. Ver a tanta gente disfrutar tus inventos debe de darte ganas de esforzarte aún más.
+0064 [Sparkla] | Vaya. Lo notaste, ¿eh?
+0065 [Sparkla] | ¡Jeje~ Jefe, mereces una estrellita dorada!==W== En realidad, todas las maquinarias del escenario que vimos hoy las inventé yo♪
+0066 [Sparkla] | Esa fue la única comisión que tomé últimamente. Comparado con los clientes que hablan sin parar y apilan petición tras petición, esta fue mucho más divertida.
+0067 [Sparkla] | Mi sueño, desde pequeña, ha sido ser la heroína de un cuento de hadas con poderes mágicos, como en El Mago del Castillo Esmeralda o La aventura subterránea de Alicia.
+0068 [Sparkla] | Rabbit Pie en realidad lo diseñé a imagen de ese conejo siempre tarde de La aventura subterránea~
+0069 [Tú] | ¿Por eso también hiciste todas esas maquinarias de escenario?
+0070 [Sparkla] | Exacto. Cuando la directora de la compañía vino a mí, dijo que quería recrear a la perfección la aventura de Dorothea en el escenario, y supe de inmediato que sería divertido trabajar en ello.
+0071 [Sparkla] | Y hasta elogiaron la habilidad de Rabbit Pie para preparar té~ En cuanto me di cuenta de que la directora de verdad tenía buen gusto, pensé que debía esforzarme de verdad en la comisión.
+0072 [Sparkla] | Mientras más hablábamos, más conectábamos. Al final, hice todo gratis. E incluso añadí ese perrito mecánico como regalo extra.
+0073 [Sparkla] | Totty es como de la familia para Dorothea, después de todo. No podía ser simple utilería. Tenía que crear algo digno de ese papel.
+0074 [Tú] | Lo hiciste gratis... ¿Y encima añadiste un regalo extra? Si Bloc se entera, te sermoneará durante horas otra vez...
+0075 [Sparkla] | Ah, eso, ya lo sabe. Por eso me bombardeó con mensajes. Y luego la bloqueé.
+0076 [Tú] | A-ah, ya veo... Ahora todo tiene sentido...
+0077 [Sparkla] | Entonces, ¿qué te parece? Mis inventos de escenario funcionaron bastante bien, ¿verdad?
+0078 [Tú] | Fueron increíbles. De verdad sentí que me iba de aventura con Dorothea.
+0079 [Tú] | Claro, los actores también estuvieron fantásticos, pero sin tus inventos no hay manera de que la obra se hubiera sentido tan mágica.
+0080 [Sparkla] | Jejeje~♪ Me haces sonrojar.
+0081 [Sparkla] | Para eso sirve inventar: para hacer felices a las personas. Claro, de vez en cuando alguien se queja y me pide que no añada todos esos adornos extra... Pero entonces, ¿para qué vinieron a mí en primer lugar?
+0082 [Sparkla] | Por otro lado, si alguien de verdad aprecia lo que hace especiales a mis inventos, con gusto le regalo uno♪
+0083 [Tú] | Con razón le regalaste hoy el Pastel Vigía de Orejas Largas a ese niño.
+0084 [Sparkla] | Porque pude notar que de verdad le gustó~
+0085 [Sparkla] | Y... Jefe, muchísimas gracias...
+0086 [Sparkla] | Sigo siendo una fugitiva buscada, así que dudaba si asistir en persona a la función. A lo sumo podía ver las fotos que me envió la directora.
+0087 [Sparkla] | Pero hoy...==W== Gracias a ti, pude ver esta obra con mis propios ojos. Así que gracias.
+0088 [Tú] | De nada. Solo tuve la suerte de dar con la idea correcta. Me alegra verte mejor.
+0089 [Sparkla] | ¡Jejeje, exacto! Tomarme un descanso sí ayudó. ¡Me siento mucho más ligera y ya empiezan a venirme toda clase de ideas divertidas!
+0090 [Sparkla] | ¡Bien, bien, volvamos rápido a casa! ¡No quiero desperdiciar ni un segundo!
+0091 [Sparkla] | ¡Agárrate fuerte~ ==PLAYER_NAME==!!
+0092 [Tú] | ¡E-espera!==W== ¡Ni siquiera me he acomodado... waaahhh—

@@ -1,0 +1,107 @@
+# Capítulo 2 · 2A · Secretos en la oscuridad
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Sleepy Temp | Temporal con sueño
+N:Tired Temp | Temporal cansado
+N:Vollara & Neuvira | Vollara y Neuvira
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_171 | Empleada
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Infiltración a medianoche
+0003 [Intro] | El explotado personal de Creta Trading por fin se va a altas horas de la noche, demasiado aturdido para notar a Minova y al grupo colándose. En el salón principal, encuentras a Feagin intentando duplicar tu vehículo.
+0004 [Lugar y hora] | 23:30, 1.º del mes de Pluvia, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0005 [Tú] | Bien, ¿están todos listos?
+0006 [Noya] | ¡Descansada y lista!
+0007 [Amber] | Lista.
+0008 [Iris] | Las Piedras del Alma, a plena capacidad.
+0009 [Minova] | Vollara, Neuvira, cuiden el fuerte.
+0010 [Vollara y Neuvira] | Sí, jefa.
+0011 [Lugar y hora] | 02:00, 2 del mes de Pluvia, Distrito de Oro, Emor. Pasillo del canal
+0012 [Minova] | Bien, este es el lugar. La entrada trasera de Creta Trading está justo allá abajo.
+0013 [Iris] | Repasemos el plan otra vez.
+0014 [Iris] | Nos separamos una vez adentro.
+0015 [Iris] | El objetivo es el Lucky Oasis. Los guardias de Creta Trading son solo temporales, así que el turno de noche debería estar tranquilo, pero aun así hay que tener cuidado.
+0016 [Tú] | ¿Cómo sacaremos el Lucky Oasis de ahí?
+0017 [Noya] | ¡Lo sacaré conduciendo directo por las puertas!
+0018 [Iris] | ¡Ugh, eso es una locura! Ni siquiera conocemos estas calles... Pero supongo que no nos quedan opciones.
+0019 [Minova] | Esperen. Cerca de aquí hay un gran montacargas; debería caber tu vehículo.
+0020 [Minova] | Así podremos llevarlo de vuelta por el Canal.
+0021 [Noya] | ¿Conducir por el Canal? ¡Genial!
+0022 [Tú] | Cierto, nunca esperarán esa ruta. Hagámoslo así.
+0023 [Tú] | Bien, vamos.
+0024 [Lugar y hora] | 02:30, 2 del mes de Pluvia, Distrito de Oro, Emor. Vestíbulo de Creta Trading
+0025 [Temporal cansado] | Jefa Feagin, ¿sigue aquí? Casi no puedo mantener los ojos abiertos...
+0026 [Feagin] | Patético. Si quieres irte a casa, vete. No te lo impido.
+0027 [Temporal con sueño] | Yo... de verdad no puedo más... Perdón, me voy.
+0028 [Feagin] | Ah, y una cosa más.
+0029 [Temporal con sueño] | Eh... ¿Q-qué pasa?
+0030 [Feagin] | Recuerda: mañana a las 9 en punto. No llegues tarde.
+0031 [Temporal cansado] | Ugh... sí. Entendido.
+0032 [Feagin] | En serio, los empleados de hoy no tienen ninguna ambición. ¿Cómo esperan llegar a algo si nunca han pasado una noche en vela?
+0033 [Feagin] | Ese raro vehículo Artefacto... Si logro descubrir cómo producirlo en masa con tarjetas de deseo, Creta Trading por fin volverá a la cima.
+0034 [Feagin] | Y entonces, todos los que me menospreciaron, todas las compañías que nos despreciaron... ¡todos pagarán!
+0035 [Feagin] | Bien, no hay tiempo para descansar. Tengo que perfeccionar estas tarjetas de deseo cuanto antes.
+0036 [Lugar y hora] | 02:45, 2 del mes de Pluvia, Distrito de Oro, Emor. Pasillo de Creta Trading
+0037 [Temporal con sueño] | «¡Mañana a las 9 en punto. No llegues tarde!» Increíble. ==W==¿Quién se cree que es?
+0038 [Temporal con sueño] | Fácil decirlo. ¿Sabe siquiera qué hora es?
+0039 [Temporal cansado] | Faltan seis horas para las nueve... Para cuando llegue a casa y resuelva todo, tendré suerte de dormir dos horas...
+0040 [Temporal cansado] | Debe de ser lindo ser «Su Majestad». Se pasa la noche en vela con ese scooter y luego se desploma en la sala de descanso todo el día.
+0041 [Iris] | Uf... Eso estuvo demasiado cerca.
+0042 [Noya] | ¡Ja! Ni siquiera nos estábamos escondiendo de verdad y pasaron justo a nuestro lado.
+0043 [Minova] | Intenta funcionar con dos horas de sueño. Seguro están demasiado agotados para notar algo.
+0044 [Amber] | Trabajar... da miedo.
+0045 [Tú] | Si Feagin es tan dura con los niños, imagínense cómo trata a sus empleados de verdad.
+0046 [Tú] | ¿Eh?
+0047 [Noya] | ¿==PLAYER_NAME==? ¿Qué pasa?
+0048 [Tú] | ¿Soy yo o siento como si... alguien nos estuviera observando?
+0049 [Iris] | Ay, no, ¿nos vio Feagin?
+0050 [Noya] | ¿En serio? A mí me parece despejado.
+0051 [Tú] | Mmm. Si ustedes no lo sintieron, quizá yo estoy asustadizo.
+0052 [Tú] | ¿Feagin? Nah, ya habría mandado a la Guardia Imperial tras nosotros.
+0053 [Minova] | Escuchen, esos temporales dijeron que Feagin está revisando tu vehículo. Lo mejor es ir por donde ellos acaban de venir.
+0054 [Iris] | Cierto. Adelante hay escaleras. Amber y yo revisamos arriba.
+0055 [Noya] | Genial, yo reviso las habitaciones de por aquí.
+0056 [Noya] | ¡Aguanta, Loxy! ¡Voy por ti!
+0057 [Minova] | Yo no he visto este Lucky Oasis, así que me quedo con ==PLAYER_NAME==.
+0058 [Minova] | Probemos la puerta del fondo del pasillo.
+0059 [Lugar y hora] | 03:00, 2 del mes de Pluvia, Distrito de Oro, Emor. Vestíbulo de Creta Trading
+0060 [Feagin] | Maldición, la última tarjeta de deseo solo produjo el armazón... y ni siquiera era de metal.
+0061 [Feagin] | ¿Dónde me equivoqué?
+0062 [Tú] | ...Vaya, la encontré. Qué rápido.
+0063 [Minova] | Sí, pero ¿qué trama, murmurando sola así?
+0064 [Tú] | Cuesta ver... parece que está sacando algo.
+0065 [Feagin] | Bien, intentémoslo otra vez... con este Sello de la Gracia.
+0066 [Tú] | Espera... ¿Ese Sello de la Gracia tiene forma de pieza de ajedrez de soldado? Se parece al mío...
+0067 [Tú] | Tiene sentido que una compañía como Creta Trading tenga un Sello... ¿pero todos tienen forma de pieza de ajedrez?
+0068 [Feagin] | Infundiendo magia...
+0069 [Feagin] | Primero, duplicar los datos del vehículo con el Sello... luego imprimirlos en la tarjeta de deseo.
+0070 [Feagin] | ¡Listo! Mañana a primera hora buscaré a alguien para probarla. Ya sé... esa Trekker rubia distraída servirá.
+0071 [Minova] | Así que así es como hacen las tarjetas de deseo...
+0072 [Tú] | ¿Los Sellos de la Gracia pueden hacer eso?
+0073 [Tú] | Amber me envía un mensaje.
+0074 [Amber] | ¡==PLAYER_NAME==! ¡Nos estafaron por completo!
+0075 [Amber] | Esto es palabra por palabra de Iris:
+0076 [Amber] | Amber y yo encontramos un montón de documentos arriba. ¡Todas esas reglas que supuestamente rompimos eran puro invento!
+0077 [Amber] | ¡Feagin sigue inventando reglas nuevas rarísimas! Esta dice: «Salirse de la formación en el canal: ¡multa de 2,000 Dorra!».
+0078 [Amber] | ¡Parece que planeaba usarla para descontarnos el sueldo el mes que viene!
+0079 [Amber] | ¡Nunca pensó devolvernos el vehículo! ¡Solo nos estaba usando como mano de obra gratis!
+0080 [Amber] | Fin de la cita.
+0081 [Tú] | Justo como pensaba. Feagin nunca pensó pagarnos ni un centavo.
+0082 [Minova] | Así que... esto es Creta Trading.
+0083 [Minova] | Escondida tras el nombre de la compañía, inventando reglas que solo la benefician a ella.
+0084 [Minova] | ==PLAYER_NAME==, parece que hablar con buenos modos no va a funcionar.
+0085 [Minova] | Entonces, ¿ya no tenemos por qué ser amables, verdad?

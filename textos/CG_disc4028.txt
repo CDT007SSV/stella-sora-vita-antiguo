@@ -1,0 +1,124 @@
+# Recuerdo de disco · Daylight Garden · 1 · Daylight Garden
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_119 | Nanoha
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_202 | Isaki
+N:avg3_203 | Okra
+N:avg3_874 | Empleada
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Jardín a plena luz
+0003 [Intro] | Si todos lo han olvidado, ¿fue alguna vez real?
+0004 [Tú] | ¡Uf! ¡Estoy lleno! ¡Estuvo increíble! ¡Con razón elegiste esta pastelería, Nanoha!
+0005 [Nanoha] | Parece que estás muy contento con la novedad de hoy, Jefe. Las novedades de Frees Patisserie siempre son deliciosas. Quizá podríamos venir más seguido.
+0006 [Tú] | Hablando de novedades, el pastel de girasol que probé hoy…
+0007 [Nanoha] | Tenía un sabor poco común.
+0008 [Tú] | ¿Eh? Sí, esperaba que supiera a pipas de girasol, pero en cambio tenía un verdadero aroma a girasol.
+0009 [Nanoha] | Eso es lo que hace increíble a Frees: recrear algo que ni siquiera se puede comer, capturando la esencia de la luz del sol.
+0010 [Nanoha] | Aunque usar la fragancia de flores comestibles para imitar las que no lo son es un truco ingenioso muy usado en la pastelería.
+0011 [Tú] | Nanoha, sí que sabes mucho de postres...==W== Debes de amarlos. Hablando de girasoles...
+0012 [Empleada] | Disculpen. Aquí está la recarga de su té. ¿Desean algo más?
+0013 [Tú] | No, estamos bien...==W== Está tan delicioso y ya comí demasiado.
+0014 [Empleada] | ¡Gracias por venir!
+0015 [Nanoha] | ¿De verdad no quieres más?
+0016 [Tú] | No es por cortesía...==W== Estoy totalmente lleno... Hasta me siento un poco hinchado.
+0017 [Nanoha] | Entonces caminemos un poco de regreso. Debería ayudar a la digestión.
+0018 [Tú] | Por cierto, Nanoha, ¿te importa dar un rodeo? Hay un lugar al que quiero llevarte.
+0019 [Nanoha] | Por supuesto. Soy tu sirvienta. Adonde quieras ir, estaré a tu lado.
+0020 [Tú] | Es aquí adelante. Mientras comía el pastel, de pronto pensé en este lugar.
+0021 [Nanoha] | Los campos de trigo interminables,==W== el sonido de las espigas con el viento, el olor a hierba fresca. Cuesta creer que algo tan hermoso esté tan cerca.
+0022 [Tú] | Pero lo más importante, ¡allá! ¡Mira más allá de esa colina!
+0023 [Nanoha] | ¿Eso es...==W== un campo de girasoles?
+0024 [Tú] | ¿Verdad que es hermoso? Combina perfecto con el pastel de girasol que acabamos de comer, ambos con ese aroma soleado.
+0025 [Nanoha] | Sí, es muy bonito… tan bonito que dan ganas de desaparecer en él.
+0026 [Nanoha] | Dime, Jefe, ¿te gustan los girasoles?
+0027 [Tú] | Pues… no tengo recuerdos, así que no sé si me gustaban antes…==W== pero definitivamente ahora sí. ¿Por qué preguntas?
+0028 [Nanoha] | Es que de pronto recordé cosas de hace mucho tiempo...
+0029 [Nanoha] | Cuando era pequeña, planté un campo de girasoles con una senpai de Goodwind Homecare.
+0030 [Tú] | Un campo de girasoles que plantaste de niña... Me dan ganas de verlo. ¿Sigue ahí?
+0031 [Nanoha] | Ya no está ...==W== o mejor dicho, se volvió un lugar que nunca existió.
+0032 [Tú] | Un lugar que nunca existió...==W== ¿A qué te refieres?
+0033 [Nanoha] | Por una misión me separé de esa senpai y dejé el campo de girasoles. Cuando volví y pregunté a la gente, estaban seguros de que nunca había existido uno...
+0034 [Nanoha] | Pero lo recuerdo con tanta claridad...==W== ¿Me equivoqué? El campo de girasoles y mi senpai parecen haber desaparecido de este mundo.
+0035 [Tú] | Así que eso pasó...==W== ¿Será que esas personas a las que preguntaste... sacrificaron esos recuerdos al pedir un deseo en el Monolito?
+0036 [Nanoha] | Posiblemente... Jefe, estoy pensando...
+0037 [Nanoha] | Si un campo de girasoles desaparece del mundo, olvidado, y un día hasta yo, la última persona que guarda recuerdos de él, ya no lo recuerdo, entonces ¿existió de verdad?
+0038 [Nanoha] | Quizá haya incontables campos de girasoles así en este mundo. Son olvidados y borrados. Al final, no dejan huella alguna.
+0039 [Tú] | … Supongo que es algo contra lo que no podemos hacer nada.
+0040 [???] | ¡Ah, Maestra! Qué coincidencia.
+0041 [???] | ¡Guau! ¡Jefe! ¿Usted también está aquí?
+0042 [Tú] | Eh...==W== ¿Me conocen?
+0043 [???] | ¡Claro! ¡La Maestra habla de usted todo el tiempo! ¡Moríamos de ganas de conocerlo!
+0044 [Nanoha] | Ejem. Isaki, ahora que por fin conoces al Jefe, cuida tus modales.
+0045 [???] | Jejeje, perdón...==W== ¡Soy Isaki, ninja aprendiz de Goodwind Homecare!
+0046 [Isaki] | ¡Ah, ups! Se supone que debo decir aprendiz de sirvienta cuando estoy en público...
+0047 [Tú] | Así que eres la junior de Nanoha. Mucho gusto. Por cierto...==W== ¿eso que tienes es un Artefacto Cámara?
+0048 [Isaki] | ¡Jaja, es increíble, Jefe! ¡Qué buena vista!
+0049 [Nanoha] | Un Artefacto Cámara...==W== De esos que pueden imprimir paisajes en papel especial, ¿verdad? ¿Cómo lo conseguiste?
+0050 [Isaki] | ¡Lo compré en el Mercado hace un rato, con todo el dinero que había ahorrado!
+0051 [???] | ¡Ahí estás! ¡Rayos, mira adónde te escapaste!
+0052 [Isaki] | ¡Viene Okra! ¡Maestra, Jefe, me voy!
+0053 [Okra] | ¡Te atrapé! ¡No más huidas, Isaki!
+0054 [Nanoha] | Okra, cálmate. Como sirvientas, siempre debemos mantener la compostura.
+0055 [Okra] | ¡Entendido! ¿Eh…?==W== ¡Senpai Nanoha! ¿Qué hace aquí? Y esa persona a su lado es...
+0056 [Okra] | Mis disculpas por el alboroto...==W== Es un honor conocerlo, Jefe.
+0057 [Okra] | Me llamo Okra, aprendiz de sirvienta bajo las órdenes de Nanoha. He oído hablar mucho de usted y de sus numerosas hazañas famosas.
+0058 [Tú] | H-hola…==W== ¿De verdad soy tan famoso?
+0059 [Okra] | ... Es porque... Nanoha habla tanto de usted...
+0060 [Nanoha] | ... Ejem,==W== Okra, vamos—¿por qué perseguías a Isaki otra vez?
+0061 [Okra] | Porque==W== se gastó todo el dinero de su mesada en ese Artefacto inútil.
+0062 [Isaki] | ¡No es inútil para nada! ¡El Artefacto Cámara es poderosísimo! Seguro también sirve en las misiones…==W== Eh… Bueno, ¡definitivamente se puede usar en misiones! ¡Posiblemente!
+0063 [Okra] | Posiblemente...==W== Otra vez. Lo compraste porque se ve genial, ¿verdad?
+0064 [Isaki] | ¡No, claro que no! Mira, puede registrar a los enemigos que derrotamos, ¡y tiene muchas otras funciones!
+0065 [Nanoha] | ¿Puedo verlo, Isaki?
+0066 [Nanoha] | Mmm...==W== Además del asesinato, a veces también hacemos reconocimiento. Esto podría resultar útil.
+0067 [Tú] | ¿No se llama Polaroid? Y ...==W== ¿dónde está la película? Sin película no funciona, ¿verdad?
+0068 [Okra] | ¿Película? ¿Qué es eso?
+0069 [Tú] | Es un papel con un líquido especial, del tamaño de esta ranura del costado de este Artefacto.
+0070 [Tú] | Un Artefacto Cámara imprime el paisaje de inmediato en una película. ¿No les dieron ninguna al comprarlo?
+0071 [Isaki] | Ah, ¿te refieres a estas? ¡Tengo unas cuantas!
+0072 [Tú] | ¡Sí!
+0073 [Tú] | Todavía sirven, pero ...==W== todas están dañadas, ya sea con las esquinas faltantes o ya amarillentas.
+0074 [Okra] | Probablemente nadie quería estas cosas y estuvieron demasiado tiempo en el almacén.
+0075 [Tú] | Aun así, servirán por ahora. Cuando se acaben, tendrán que pedir un deseo en el Monolito para conseguir más.
+0076 [Isaki] | O sea que con esta película el Artefacto Cámara podría servir en las misiones, ¿verdad? ¡Ven, hice bien en comprarlo! Caro, pero práctico.
+0077 [Okra] | No dije que comprarlo fuera un error...==W== Es solo que ahorrar nuestro dinero no fue fácil, y deberíamos seguir siendo cuidadosas.
+0078 [Nanoha] | Isaki y Okra se están divirtiendo con el Jefe...
+0079 [Nanoha] | ...==W== Extraño el tiempo en que cuidábamos juntas el campo de girasoles, senpai...
+0080 [Isaki] | ¡Jefe! ¡Mire! ¡Esta película aún está fresca!
+0081 [Tú] | ¡Oooh, esa está muy bien! Está bien conservada.
+0082 [Okra] | Genial. ¿La probamos, entonces?
+0083 [Isaki] | ¡Muy bien! ¡Probemos para asegurarnos de que funciona! ¡Si se descompone, tendremos que arreglarla o devolverla!
+0084 [Isaki] | ¿Eh? ¿Por qué de pronto te interesa? ¡Hace un minuto estabas molesta por el dinero!
+0085 [Okra] | No lo estoy…==W== Solo no quiero que se desperdicie. Por eso quiero revisarla, ¿sí?
+0086 [Okra] | ¡En fin! Jefe, usted es quien mejor sabe manejar esto.==W== ¡Por favor, contamos con usted!
+0087 [Tú] | Claro, sin problema. Pero ...==W== ¿qué deberíamos fotografiar?
+0088 [Nanoha] | Mis recuerdos de ese campo de girasoles también empiezan a desvanecerse...==W== Quizá algún día, al escalar el Monolito, olvide todo, incluso esta escena tan pacífica ante mis ojos...
+0089 [Tú] | ¡Shh! Nanoha se quedó en las nubes. ¡Tomémosle una foto!
+0090 [Okra] | No me diga, Jefe,==W== que quiere...
+0091 [Isaki] | ¡Tomarle una foto a la Maestra!
+0092 [Nanoha] | No, no debí mostrar tal preocupación. Como sirvienta, es imperdonable. Mi senpai me enseñó una vez …==W== a mantener siempre la compostura, a conservar la sonrisa y a realizar las tareas con soltura.
+0093 [Nanoha] | Atesoraré esos días cálidos y suaves en mi corazón. Aunque se vayan difuminando, la sensación, la fragancia—==W==nunca las olvidaré…
+0094 [Tú] | ¡Perfecto! ¡Esa es la expresión que quería!
+0095 [Nanoha] | ¿Eh?
+0096 [Tú] | Jaja, tenías una expresión distraída tan poco común. Tenía que capturarla.
+0097 [Isaki] | ¡Déjame ver! ¡Quiero ver!
+0098 [Okra] | Salió...==W== ¡Oh, guau!
+0099 [Isaki] | ¡Guau! ¡Maestra! ¡Está preciosa!
+0100 [Okra] | Deslumbrante...==W== ¡Como una pintura de museo!
+0101 [Nanoha] | Sí es una bonita foto...==W== Pero ustedes dos sí que exageran...
+0102 [Okra] | ¡Es usted demasiado modesta! ¡Esta es prácticamente la postura y la expresión ideales de una sirvienta! ¡Jefe! ¡Por favor, tiene que venderme esta foto!
+0103 [Isaki] | ¡Oye! ¡Hace un momento me decías que estaba desperdiciando mi mesada! ¡Es una foto de la Maestra, así que por supuesto es para ella! ¡No puedes comprarla!
+0104 [Tú] | Tu expresión era tan perfecta que no pude resistirme a tomar la foto. Ten confianza, Nanoha.
+0105 [Nanoha] | Jefe, si tú lo dices...
+0106 [Tú] | Toma, es tuya.
+0107 [Nanoha] | ¿En serio?
+0108 [Tú] | Claro. Mientras tengas esta foto, Nanoha, nunca olvidarás este campo de girasoles.
+0109 [Nanoha] | Gracias, Jefe. Atesoraré esta foto y nunca olvidaré el día de hoy.
+0110 [Nanoha] | La fragancia de los girasoles, la calidez de la luz del sol y los momentos que compartí con el Jefe: siempre …==W== los recordaré siempre.

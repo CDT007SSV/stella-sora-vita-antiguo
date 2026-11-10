@@ -1,0 +1,118 @@
+# Nova Times #07 · Deseo en la nieve · 3 · Wish in the Snow (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Annie | Annie
+N:Donna & Teresa | Donna y Teresa
+N:Kind Witch | Bruja amable
+N:Little Boy's Mother | Mamá del niño
+N:Mysterious Witch | Bruja misteriosa
+N:Weather Witch | Bruja del clima
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_1080 | Niño
+N:avg3_143 | Residente
+N:avg3_168 | Chica
+N:avg3_200 | Niño del Distrito de las Cenizas
+N:avg3_204 | Señorita Bruja
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Deseo en la nieve (Parte III)
+0003 [Intro] | Cae la noche. Freesia vaga sola por las calles, sin saber que dos siluetas conocidas han aparecido en silencio detrás de ella...
+0004 [Annie] | ¡Guau, lleva un atuendo del Festival Nevado! ¡Hola! ¿Tú también eres Mensajera del Festival Nevado?==W== La señorita Bruja también es Mensajera~
+0005 [Mysterious Witch] | B-bueno ... en realidad...
+0006 [Freesia] | No estoy muy segura de qué está pasando, pero quizá lo mejor sea seguirle la corriente.
+0007 [Freesia] | Sí, soy Mensajera del Festival Nevado. Hoy estoy entregando regalos.
+0008 [Annie] | Jeje, qué genial. Te cuento un secreto: ¡esta noche voy a cenar en grande con la señorita Bruja!
+0009 [Freesia] | ¿Eh? ¿En este restaurante?
+0010 [Mysterious Witch] | S-sí ... ¡una cena en grande!==W== Annie, pórtate bien. Todavía falta un rato para la cena. Ve a jugar un poco al parque de aquí cerca y luego paso por ti, ¿sí?
+0011 [Annie] | ¡Está bien! ¡Nos vemos en un ratito~!
+0012 [Mysterious Witch] | Uf, gracias por no decirle nada...==W== Lo siento mucho. Apareció de repente y me dio un buen susto.
+0013 [Freesia] | No pasa nada. Seguro había una razón.
+0014 [Mysterious Witch] | Annie y yo somos como vecinas. Vivimos en la misma calle. Esta mañana, cuando me topé con ella, estaba llorando sola...
+0015 [Annie] | Sniff...
+0016 [Kind Witch] | ¿Annie? ¿Estás bien? ¿Por qué estás sola aquí afuera?
+0017 [Annie] | Mamá dijo que esta noche me llevaría a Corte Robledal, pero esta mañana de repente dijo que hoy tiene que hacer horas extra.
+0018 [Kind Witch] | ¿Corte Robledal...?==W== Conozco ese restaurante. Está muy de moda últimamente, ¿no?
+0019 [Annie] | Sí... Llevaba tanto tiempo esperándolo... Sniff...
+0020 [Kind Witch] | Ay, no llores. ¿Y si te llevo yo? Escuché que su pastel de queso es increíble. Yo también tenía ganas de probarlo.
+0021 [Annie] | ¿¡De verdad!?
+0022 [Kind Witch] | ¡Claro~! Y, solo entre tú y yo, en realidad soy Mensajera del Festival Nevado.
+0023 [Annie] | ¿¡Eres una de esas Mensajeras!?
+0024 [Kind Witch] | ¡Sí! Considera la cena de esta noche mi regalo del festival para ti. ¿Qué te parece?
+0025 [Annie] | ¡Yupi! ¡Gracias, señorita Bruja!
+0026 [Kind Witch] | Eso fue lo que pasó. Me comuniqué con la mamá de Annie, pero ya había cancelado la reservación. Pensé en venir a formarme temprano, pero resulta que esta noche ya está todo reservado.
+0027 [Freesia] | Ya veo ...==W== Perdona, no debí suponer cosas ni mucho menos regañarte... Todo fue un malentendido.
+0028 [Freesia] | ¡Lo siento mucho! Por favor, perdona mi grosería.
+0029 [Freesia] | Toma, quédate con mi boleto.
+0030 [Kind Witch] | ¿¡En serio!? Pero ... pero...
+0031 [Freesia] | Vender boletos de reservación definitivamente va contra las reglas, pero...
+0032 [Freesia] | Regalarlo debería estar bien.
+0033 [Kind Witch] | ¡Muchísimas gracias!
+0034 [Freesia] | No es nada. Considéralo un pequeño regalo de mis amigas y mío...==W== Un regalo del Festival Nevado, por así decirlo.
+0035 [Freesia] | Si fueran Donna y Teresa, seguro harían lo mismo.
+0036 [Kind Witch] | ¡Voy a atesorar este regalo!
+0037 [Kind Witch] | En realidad ... debo decirte la verdad.==W== No hice todo esto solo para ayudar a Annie.
+0038 [Freesia] | ¿Mm? ¿A qué te refieres...?
+0039 [Weather Witch] | Verás, en realidad soy una Bruja del Clima que necesita acumular buenas acciones.
+0040 [Freesia] | Bruja del Clima... ¿Te refieres a alguien que da el pronóstico del tiempo? ¿Pero para qué las buenas acciones?
+0041 [Weather Witch] | ¡Así es! El problema es que adonde voy, siempre me siguen la lluvia y la nieve... es bastante molesto.
+0042 [Weather Witch] | Como hoy: antes de salir había sol, y en cuanto puse un pie afuera, empezó a nevar como loco. Por eso mis pronósticos siempre fallan y recibo muchas quejas del público.
+0043 [Weather Witch] | Pero descubrí por accidente que si hago muchas buenas acciones, el clima no sale tan mal.
+0044 [Weather Witch] | O sea que al ayudar a otros, también me ayudo a mí. Y hasta le mentí a Annie diciendo que era Mensajera del Festival Nevado...
+0045 [Freesia] | Para todas las personas a las que has ayudado, eso es justo lo que eres. Y así lo vería también Annie.
+0046 [Weather Witch] | ... Gracias. De verdad me ayuda.==W== Ah, por cierto: si es tan difícil conseguir reservación aquí, ¿por qué ibas a cancelar?
+0047 [Freesia] | Mis amigas se quedaron atrapadas en las afueras de la ciudad por la fuerte nevada. No lograrán volver esta noche.
+0048 [Weather Witch] | Espera... ¿Es por mi culpa...?
+0049 [Freesia] | Podría ser coincidencia. No te culpes.
+0050 [Weather Witch] | Suspiro... Perdona las molestias.
+0051 [Weather Witch] | Aun así, hoy es el Festival Nevado... Quién sabe, quizá algo bonito ocurra cuando menos lo esperes.
+0052 [Freesia] | ¿«Algo bonito», eh...?==W== Quizá...
+0053 [Freesia] | Ya oscureció...==W== Donna y Teresa no han respondido. Seguro siguen ocupadas con las entregas.
+0054 [Little Boy] | Mamá, apúrate, quiero llegar a casa a abrir mis regalos—
+0055 [Little Boy's Mother] | No corras así. No querrás tirar el pastel, ¿o sí?
+0056 [Little Boy] | ¡Está bien! ¡Y papá nos espera en casa para cenar!
+0057 [Little Boy's Mother] | Bueno, bueno... Qué travieso eres...
+0058 [Freesia] | ¿Eso es ... la pastelería?
+0059 [Freesia] | Qué lindo pastel del Festival Nevado...
+0060 [Freesia] | Cuando era pequeña, siempre había una gran cena la noche del Festival Nevado...
+0061 [Freesia] | Pero nunca llegué a pasar el día con mi familia...
+0062 [Freesia] | Y yo que pensaba que este año podría pasarlo con Donna y Teresa.
+0063 [Freesia] | Intercambiar regalos, jugar, comer pastel...
+0064 [Freesia] | Pero está bien. Solo será un día tarde, y entre más esperas, más dulce se vuelve el recuerdo.
+0065 [Freesia] | Además, este año recibí muchísima amabilidad y buenos deseos de desconocidos.
+0066 [Freesia] | Muy distinto de los años fríos y silenciosos de antes... Ya tengo bastante suerte.
+0067 [Freesia] | Donna... Teresa... ¿Dónde están ahora?
+0068 [Teresa] | ¡Donna, la encontré! ¡Encontré a Freesia!
+0069 [Donna] | Qué alivio. Me preocupaba no poder verla hoy.
+0070 [Teresa] | Jeje, se presenta una oportunidad única. ¡Vamos a darle una sorpresa!
+0071 [Donna] | ¡Gran idea! ¡Me apunto~!
+0072 [Donna] | Shhh, no hagas ruido. Acerquémonos sigilosamente...
+0073 [Donna] | Ejem, ejem, linda chica, ¿qué estás mirando?
+0074 [Teresa] | ¿Qué estás mirando, miau~?
+0075 [Freesia] | ¿¡Donna!? ¿¡Teresa!?
+0076 [Donna & Teresa] | ¡Tan-tan~! ¡Un regalo del Festival Nevado para Freesia, que se portó tan bien este año!
+0077 [Freesia] | Esto es ...==W== ¿para mí?
+0078 [Donna] | Jeje, te asustamos, ¿verdad?
+0079 [Freesia] | Sí... No esperaba que lograran regresar.
+0080 [Donna] | Mientras entregábamos regalos, conocimos a dos brujas súper amables que se ofrecieron a ayudarnos.
+0081 [Teresa] | Gracias a ellas terminamos rápido. ¡Y volar de regreso en escoba estuvo increíble!
+0082 [Freesia] | ¿Brujas?
+0083 [Donna] | Sí. Al parecer, una persona de buen corazón les pidió que nos trajeran de vuelta a la ciudad y entregaran los regalos por nosotras.
+0084 [Weather Witch] | Aun así, hoy es el Festival Nevado... Quién sabe, quizá algo bonito ocurra cuando menos lo esperes.
+0085 [Freesia] | ¿Fue ella?
+0086 [Freesia] | De verdad eres Mensajera del Festival Nevado, después de todo...
+0087 [Teresa] | Freesia, ¿de qué te ríes?
+0088 [Freesia] | Nada. Ya que todas regresaron... ¿Buscamos un lugar para intercambiar regalos?
+0089 [Freesia] | He traído sus regalos conmigo todo el día.
+0090 [Teresa] | ¡Yupi! Busquemos un lugar calentito. ¡Quiero sopa caliente!
+0091 [Freesia] | Ah, ese boleto de reservación del restaurante... ==W==Pensé que hoy no lo necesitaría, así que se lo di a otra persona.
+0092 [Freesia] | Pensé que estaría mejor en sus manos.
+0093 [Donna] | Ejem~ Eso sí suena a Freesia.==W== En fin, busquemos primero dónde sentarnos y calentarnos. ¡Aquí afuera hace un frío espantoso!
+0094 [Teresa] | ¡Vamos! ¡Andando!
+0095 [Freesia] | Sí, vamos.
+0096 [Freesia] | Momentos como este, con todas nosotras juntas... Ese es el mejor regalo que hay.==W== Donna, Teresa... Gracias.
+0097 [Freesia] | Este año, mi deseo por fin se cumplió.

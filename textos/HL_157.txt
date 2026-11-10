@@ -1,0 +1,232 @@
+# Heartlink de Karin: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Karin] | Por fin
+A01.0002 [Karin] | En serio, ya nos conocemos desde hace rato. ¿Por qué apenas nos agregamos ahora?
+A01.0003 [Tú] | ¡Porque no paraban de salir cosas de por medio!
+A01.0004 [Karin] | No me importa. La próxima vez no se te puede olvidar
+A01.0005 [Tú] | ¿Cómo habría una próxima vez si ya nos agregamos?
+A01.0006 [Tú] | ¿Cuando te compres un teléfono nuevo?
+A01.0007 [Tú] | ¿O si yo borro...
+A01.0008 [Karin] | ¡Aahh!
+A01.0009 [Karin] | ¡Ni se te ocurra!
+A01.0010 [Karin] | ¡La cosa es que no olvides que ahora estoy en tu lista de amigos!
+A01.0011 [Karin] | ¡Acuérdate de hablarme!
+A01.0012 [Tú] | Entendido~
+
+## Conversación A02
+A02.0001 [Karin] | Oye~
+A02.0002 [Karin] | Quédate justo ahí, no te muevas
+A02.0003 [Tú] | ¿Qué pasa?
+A02.0004 [Tú] | Estás literalmente parada justo frente a mí ahora mismo
+A02.0005 [Tú] | ¿Por qué me mandas mensajes?
+A02.0006 [Karin] | Porque estoy practicando—
+A02.0007 [Tú] | ¿Practicando qué?
+A02.0008 [Tú] | ¿Por qué te alejaste de repente?
+A02.0009 [Karin] | Esta distancia es perfecta
+A02.0010 [Tú] | ¿Perfecta para qué?
+A02.0011 [Karin] | Para mi práctica de tiro al blanco
+
+## Conversación A03
+A03.0001 [Karin] | Oyeee—
+A03.0002 [Karin] | Hace rato me estabas echando miraditas, ¿verdad?
+A03.0003 [Tú] | Nah
+A03.0004 [Karin] | Sí, sí lo hacías. Me di cuenta
+A03.0005 [Tú] | Solo estaba mirando a Shia. Está justo a tu lado
+A03.0006 [Karin] | ¡¡¡!!!
+A03.0007 [Karin] | ¡No mires!
+A03.0008 [Karin] | ¡Cierra los ojos!
+A03.0009 [Tú] | Entonces no podré caminar, ¿o sí?
+A03.0010 [Karin] | Entonces te tomo de la mano y te guío
+A03.0011 [Karin] | Eso es, básicamente eres una mascota, ¡así que tengo que vigilarte o te metes en problemas!
+A03.0012 [Tú] | Normalmente, el perro guía es el que lleva la delantera...
+A03.0013 [Karin] | ¡¡¡!!!
+A03.0014 [Karin] | ¡Uggggh...!
+A03.0015 [Karin] | ¡¿Por qué te ríes por lo bajo?!
+A03.0016 [Tú] | Ahora eres tú la que me echa miraditas
+A03.0017 [Tú] | Jeje~
+
+## Conversación A04
+A04.0001 [Karin] | ¡Examen sorpresa!
+A04.0002 [Karin] | ¡Dame la respuesta más real, más cruda, más sin filtro y más directa al grano que haya escuchado!
+A04.0003 [Karin] | ¿Qué tipo de postre te gusta?
+A04.0004 [Opción] | Pastel de sal marina
+A04.0005 [Opción] | Galletas de calamar
+A04.0006 [Tú] | Pastel de sal marina, supongo
+A04.0007 [Karin] | Je...
+A04.0008 [Karin] | ¿No es cosa de niños?
+A04.0009 [Tú] | ¿No te gusta?
+A04.0010 [Karin] | Sí me gusta, pero...
+A04.0011 [Karin] | ¡Eso no tiene nada que ver!
+A04.0012 [Karin] | ¿¿Eeeh?? ¿Te gustan esas...?
+A04.0013 [Tú] | ¿Qué tiene de malo? Soy más de botanas saladas
+A04.0014 [Karin] | A veces las usan como carnada para pescar, ¿sabes...?
+A04.0015 [Tú] | ¡Ugh! ¡¿Por qué no me lo dijiste antes?!
+A04.0016 [Karin] | Pff... Jajaja~ Mira tu cara~
+A04.0017 [Karin] | Si de verdad fuera carnada, ¿las venderían a la gente?
+A04.0018 [Tú] | Botanas marca Karin
+A04.0019 [Karin] | Nunca había oído de eso
+A04.0020 [Karin] | ¡¡¡ESPERA!!!
+A04.0021 [Karin] | ¡¡No lo hagas raro!!
+A04.0022 [Tú] | Solo bromeaba
+A04.0023 [Tú] | Lo que quise decir es que me quedo con lo que a ti te guste
+A04.0024 [Karin] | ... Eso no tiene absolutamente ningún sentido
+A04.0025 [Tú] | ¿Entonces por qué me preguntas esto de repente?
+A04.0026 [Karin] | Estoy en el pueblo y pensé en comprar unas botanas para llevar
+A04.0027 [Tú] | Entonces no necesitas preguntarme a mí. Deberías preguntarle a Shia, ¿no?
+A04.0028 [Karin] | Ya sé lo que le gusta a Shia. Te lo pregunto a ti
+A04.0029 [Tú] | Pero ni siquiera llevo tanto tiempo quedándome en tu casa...
+A04.0030 [Karin] | ¡Pues quédate más!
+A04.0031 [Karin] | ¡Termina las botanas antes de irte!
+
+## Conversación A05
+A05.0001 [Karin] | Estuvo bastante peligroso, la verdad...
+A05.0002 [Karin] | ¿Por qué te interesaste por nadar de repente?
+A05.0003 [Tú] | Ver lo increíbles que son tú y Shia me da algo de nostalgia
+A05.0004 [Karin] | Tonto
+A05.0005 [Karin] | Piensa en cuánto tiempo llevamos entrenando
+A05.0006 [Karin] | Además, cuando practicábamos, nos cubríamos las espaldas la una a la otra
+A05.0007 [Karin] | Aunque, honestamente, era sobre todo Shia quien cubría la mía...
+A05.0008 [Tú] | Sí, lo siento...
+A05.0009 [Karin] | Vamos, anímate
+A05.0010 [Karin] | Querías practicar, ¿no?
+A05.0011 [Karin] | Está bien, practicaré contigo
+A05.0012 [Tú] | ¡¿En serio?!
+A05.0013 [Karin] | Considéralo una recompensa por lo bien que te has portado últimamente...
+A05.0014 [Karin] | Pero la marea está subiendo, así que la playa no es buen lugar para eso
+A05.0015 [Karin] | Ah, ya sé. Puedes practicar tu técnica en la alberca inflable
+A05.0016 [Tú] | ¿Tú también te vas a meter a la alberca?
+A05.0017 [Karin] | Por supuesto. Tengo que tomarte de la mano, ¿no?
+A05.0018 [Tú] | Mjm...
+A05.0019 [Karin] | ¿Qué pasa? ¿Te estás echando para atrás?
+A05.0020 [Tú] | No, o sea... Es que se me acaba de ocurrir...
+A05.0021 [Tú] | ¿Esto cuenta como bañarnos juntos?
+A05.0022 [Karin] | ¡fjio!!...gs**fds^!
+A05.0023 [Karin] | ¡Qué mente tan sucia!
+A05.0024 [Karin] | ¡¡¡No lo puedo creer!!!
+A05.0025 [Karin] | ¡Jefe, tienes una mente asquerosa!!!!
+
+## Conversación A06
+A06.0001 [Karin] | Ugh...
+A06.0002 [Karin] | Mis ojos...
+A06.0003 [Karin] | Tan secos e incómodos...
+A06.0004 [Tú] | ¿Forzaste la vista?
+A06.0005 [Karin] | No es eso...
+A06.0006 [Karin] | Ayer estaba tan cansada que, al volver, me tiré en la cama y me dormí al instante
+A06.0007 [Karin] | Se me olvidó quitarme los lentes de contacto...
+A06.0008 [Tú] | ¿Por qué hay que quitárselos antes de dormir? ¿Es malo seguir usándolos?
+A06.0009 [Karin] | Sí...
+A06.0010 [Karin] | No sé cómo funciona, pero está escrito en las instrucciones de los lentes de contacto que pedí como deseo...
+A06.0011 [Karin] | «Lo mejor es no dormir con ellos puestos».
+A06.0012 [Karin] | Ahora entiendo por qué...
+A06.0013 [Tú] | Entonces quítatelos por ahora. Probablemente tampoco deberías salir hoy
+A06.0014 [Tú] | No te gusta usar esos lentes gruesos, ¿verdad?
+A06.0015 [Karin] | Hmph. Qué bien adivinas
+A06.0016 [Tú] | También sé que hoy te vas a aburrir sola en casa
+A06.0017 [Karin] | Hmph
+A06.0018 [Karin] | ¿Por qué me entiendes tan bien?
+A06.0019 [Karin] | Te odio
+A06.0020 [Karin] | ¡Toma esto!
+A06.0021 [Tú] | Arghhh... creo que me voy a morir
+A06.0022 [Karin] | ¿Qué edad tienes...?
+A06.0023 [Tú] | Entonces, ¿quieres que vaya o no~?
+A06.0024 [Karin] | Nunca dije que no pudieras...
+A06.0025 [Karin] | Date prisa...
+A06.0026 [Tú] | Vale, vale~
+
+## Conversación A07
+A07.0001 [Sistema] | Tienes una llamada perdida.
+A07.0002 [Sistema] | Tienes una llamada perdida.
+A07.0003 [Sistema] | Tienes una llamada perdida.
+A07.0004 [Sistema] | Karin te dio un toque.
+A07.0005 [Sistema] | Karin te dio un toque.
+A07.0006 [Karin] | ¿¿¿Hola??? ¿¿¿Hay alguien???
+A07.0007 [Tú] | ¿Qué pasa?
+A07.0008 [Karin] | ¡Por fin!
+A07.0009 [Karin] | Pensé que quizá habías perdido tu teléfono
+A07.0010 [Tú] | Acabo de volver de un encargo...
+A07.0011 [Tú] | Vaya, cuántas llamadas...
+A07.0012 [Tú] | ¿Quieres que haga algo?
+A07.0013 [Karin] | Nop
+A07.0014 [Tú] | ¿Eh?
+A07.0015 [Karin] | ¿Acaso no puedo llamarte si no pasó nada?
+A07.0016 [Tú] | No me refería a eso...
+A07.0017 [Tú] | Al menos debería haber un motivo, ¿no...?
+A07.0018 [Opción] | ¿Tienes hambre?
+A07.0019 [Tú] | ¡Ah! Ya entendí
+A07.0020 [Tú] | Quieres comer, ¿verdad?
+A07.0021 [Karin] | ¡Ni de broma!
+A07.0022 [Tú] | No me digas que me has estado vigilando
+A07.0023 [Karin] | ¡Para nada!
+A07.0024 [Karin] | O sea, sí tengo que vigilarte...
+A07.0025 [Karin] | ¡Pero no así!
+A07.0026 [Tú] | Entonces, ¿qué es?
+A07.0027 [Karin] | Yo... solo estaba pensando...
+A07.0028 [Karin] | Hace rato estaba hojeando una enciclopedia de animales y vi algo sobre los conejos
+A07.0029 [Karin] | Decía que los conejos pueden enfermar si se sienten demasiado solos...
+A07.0030 [Tú] | Ah, sí, ya entendí
+A07.0031 [Tú] | Ahora también me da curiosidad ese libro
+A07.0032 [Tú] | ¿Puedo ir a leerlo contigo?
+A07.0033 [Karin] | Como quieras
+A07.0034 [Tú] | Llego pronto
+
+## Conversación A08
+A08.0001 [Karin] | (Mirada fija)
+A08.0002 [Tú] | ¿Eh?
+A08.0003 [Karin] | (Mirada fija)
+A08.0004 [Karin] | (Sigue mirando)
+A08.0005 [Tú] | Ya sé, ya sé~
+A08.0006 [Karin] | ¿Qué sabes?
+A08.0007 [Tú] | No seas tan impaciente. Todo a su tiempo, ¿sí?
+A08.0008 [Tú] | Ahora mismo estoy eligiendo cosas con Shia
+A08.0009 [Karin] | ¡¿Te refieres a un regalo?!
+A08.0010 [Tú] | Ah, de eso nos encargamos hace mucho
+A08.0011 [Tú] | Ahora mismo, en realidad estamos eligiendo un pastel
+A08.0012 [Karin] | ¡Quiero ir!
+A08.0013 [Karin] | ¡Quiero elegirlo con ustedes!
+A08.0014 [Tú] | Tú espera en casa, ¿vale? No puede ser que la cumpleañera haga todo el trabajo
+A08.0015 [Tú] | Ah, se me olvidó decirlo esta mañana, así que lo digo ahora
+A08.0016 [Tú] | ¡Feliz cumpleaños, Karin!
+A08.0017 [Karin] | Jejeje...
+
+## Conversación A09
+A09.0001 [Karin] | ¿Es-estás bien...?
+A09.0002 [Karin] | Se te veía la cara muy pálida hace un momento
+A09.0003 [Tú] | Pues claro...
+A09.0004 [Tú] | Cualquiera se asustaría al ver un tiburón de la mitad del tamaño de un bote
+A09.0005 [Karin] | Perdón. En realidad ese era «Jefe Tiburón»
+A09.0006 [Karin] | A veces, cuando cazamos en alta mar, simplemente aparece de repente
+A09.0007 [Tú] | Eso suena peligroso...
+A09.0008 [Tú] | ¿No ataca a la gente?
+A09.0009 [Karin] | Cuando te conoce por primera vez, sí
+A09.0010 [Karin] | Así que peleé con él, pero al final ninguno de los dos cedió
+A09.0011 [Karin] | Luego descubrí que le gustan las tortitas de pescado, así que a veces le lanzo algunas como pago de escolta
+A09.0012 [Karin] | Cuando anda cerca, evita que otras criaturas marinas grandes se acerquen a causar problemas
+A09.0013 [Karin] | ¡Pero la mayor parte del tiempo, el verdadero alborotador es él!
+A09.0014 [Tú] | Qué vínculo tan extraño tienen ustedes dos
+A09.0015 [Karin] | Exacto...
+A09.0016 [Karin] | Y esta vez también te dio un susto a ti
+A09.0017 [Karin] | Lo recordaré. La próxima vez que lo vea, le doy un coscorrón en esa cabezota
+A09.0018 [Tú] | Eres sorprendentemente impresionante en cosas como esta, Karin
+A09.0019 [Karin] | Hmph~
+A09.0020 [Karin] | ¿Apenas te das cuenta?
+
+## Conversación A10
+A10.0001 [Karin] | ¿Los sonidos también pueden guardar recuerdos?
+A10.0002 [Tú] | Claro que sí. Se puede decir con seguridad que el sonido es parte de la memoria misma
+A10.0003 [Karin] | Hace un momento escuché una melodía extraña en el Monolito...
+A10.0004 [Karin] | Por un instante sentí que recordaba algo
+A10.0005 [Tú] | Ya veo. Con razón te quedaste helada de repente
+A10.0006 [Karin] | Mmm...
+A10.0007 [Karin] | Normalmente, aquí es donde dirías que no oíste nada
+A10.0008 [Tú] | Cierto. Pero ahora estamos dentro de un Monolito. Aquí puede pasar cualquier cosa
+A10.0009 [Tú] | Así que supongo que oíste una melodía de tus recuerdos
+A10.0010 [Karin] | Vale. Aunque no lo entiendo del todo...
+A10.0011 [Karin] | Pero... Ese recuerdo era como una especie de fruta
+A10.0012 [Karin] | El primer bocado sabía amargo, pero luego, muy pronto, quedó un regusto dulce
+A10.0013 [Tú] | La forma en que lo describiste, Karin. Eso fue muy tú
+A10.0014 [Karin] | ¿Qué quieres decir con eso? Te estás burlando de mí otra vez...
+A10.0015 [Karin] | Bueno. Como esta vez viví algo increíble, lo dejaré pasar

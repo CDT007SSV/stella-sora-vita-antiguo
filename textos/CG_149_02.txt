@@ -1,0 +1,118 @@
+# Historia de Gerie · 2 · Collars and Cords (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Trekker | Trekker curioso
+N:Discreet Trekker | Trekker discreto
+N:Kind Trekker | Trekker amable
+N:News-Seeking Trekker | Trekker chismoso
+N:Timid Trekker | Trekker tímido
+N:Well-Informed Trekker | Trekker bien informado
+N:avg1_149 | Gerie
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_973 | Trekker de paso
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Collares y cuerdas (Parte II)
+0003 [Intro] | ¿Qué secretos ocultos yacen tras esos ojos salvajes y desafiantes?
+0004 [Willow] | Su comisión está completa.
+0005 [Willow] | Buen trabajo allá afuera, Jefe.
+0006 [Timid Trekker] | ¿Ese es...==B== el que se juntó con ... la de los Árbitros del Ocaso?
+0007 [Discreet Trekker] | Aceptar un trabajo con esa tal Gerie y regresar de una pieza... De verdad es de otro nivel.
+0008 [Well-Informed Trekker] | ¡Baja la voz! Es el «Jefe» que dirige su propia empresa. Oí que ==SEX1== y Gerie se pusieron ...==W== muy cercanos en el Monolito.
+0009 [Tú] | Tengo el presentimiento de que unos chismes feos se van a esparcir como pólvora...
+0010 [Tú] | Yo puedo con eso, pero Gerie es de los Árbitros del Ocaso. Esto podría causarle problemas. Debería avisarle.
+0011 [Tú] | ¿Gerie—?==B== Oye, ¿adónde se fue?
+0012 [Gerie] | Ah ... ah ...==B== ngh...==B== Qué calor...
+0013 [Tú] | ¡Gerie, oye! ¿Por qué te fuiste así nada más?
+0014 [Gerie] | Ngh...==W== Oh. ¿Necesitabas algo?
+0015 [Tú] | ¡Órale, estás ardiendo! ¿Qué es esta fiebre...==B== ¿Te sientes mal?
+0016 [Tú] | No ... ni una fiebre fuerte debería estar tan caliente...
+0017 [Gerie] | Jeje... No me digas ... ¿de verdad te preocupas por mí?
+0018 [Tú] | Claro, ¿cómo no? Tu fiebre es muy seria. Vamos, te llevo con un médico.
+0019 [Gerie] | Es inútil... ==B==Esto ... no se puede curar...
+0020 [Gerie] | Mi ... bolsita...==W== El inhibidor...
+0021 [Tú] | ¿El inhibidor? ¿Esto? Estás hirviendo como lava ahora mismo ...==W== trata de quedarte quieta.
+0022 [Narración] | Tras tomar el inhibidor, la temperatura de Gerie baja y la tensión de su ceño por fin se suaviza. Pero no tiene intención de descansar. Solo toma su arma y regresa hacia el Monolito.
+0023 [Tú] | Oye, no te esfuerces. ¿Adónde vas?
+0024 [Gerie] | Tengo ... que llegar al Monolito...==B== Este inhibidor no durará mucho...
+0025 [Tú] | ¿Al Monolito? ¡No estás en condiciones de ir a ningún lado!
+0026 [Gerie] | No es nada. Solo necesito ir a liberar mi magia.
+0027 [Tú] | ¿Así como estás? ¿No temes desplomarte?
+0028 [Gerie] | Jeje... Al contrario, en realidad. Como tú, tengo una constitución especial con la magia. Mi cuerpo la genera cien ... no, quizá mil veces más rápido que una persona normal.
+0029 [Tú] | ¿Mil veces más rápido? ¿Entonces ni siquiera necesitas la magia de la Piedra del Alma?
+0030 [Gerie] | Suena conveniente, ¿verdad? El problema es que si no la uso, la magia se acumula dentro de mí ... y mi cuerpo empieza a fallar.
+0031 [Tú] | ¿Como la fiebre que tuviste?
+0032 [Gerie] | Eso es solo un síntoma. Mis sentidos ya están entumecidos por el desbordamiento constante. Si lo dejo así, la magia los obstruirá hasta que no pueda ver ni oír ...==W== y enloqueceré.
+0033 [Gerie] | Y si no la libero pronto, simplemente—==W==BUM—me haré pedazos con ella. Llevándome conmigo todo lo que me rodea.
+0034 [Gerie] | Así que la única cura es una liberación total. Soltar toda la magia excedente.
+0035 [Tú] | Ya veo, por eso tienes que ir al Monolito...==W== ¿Pero de verdad no hay forma de curarlo?
+0036 [Gerie] | En cierto modo no es una enfermedad, es mi don. Así que no hay «cura». Todo lo que puedo hacer es liberar mi magia con regularidad y usar inhibidores para controlarla.
+0037 [Tú] | Entiendo la situación, pero aun así ...==W== estás vulnerable en este estado. Es peligroso.
+0038 [Gerie] | Jeje, te preocupas por mí. Eso me hace algo feliz... Pero para mí, el peligro es algo bueno. Salir herida sería aún mejor...
+0039 [Tú] | ¿Mejor? ¿Qué tiene de bueno salir herida?
+0040 [Gerie] | Pelear herida consume más magia. La sangre y los moretones solo afilan mis sentidos. Me hacen sentir más viva.
+0041 [Gerie] | Si lo piensas así, hasta el dolor se vuelve ...==B== entrañable. Se convierte en esta dulce sensación que crece hasta ... ¡el éxtasis absoluto==W==!
+0042 [Gerie] | ¡Mientras más herida estoy, más duele, y más fuerte es el placer! ¡Por eso anhelo las heridas! ¡Es mi propósito! ¡Anhelo el dolor! El dolor es dulce, el dolor es dicha, el dolor es—
+0043 [Tú] | Eh ...==W== se está emocionando. De verdad no debí sacar el tema.
+0044 [Gerie] | Ah ... ah... Ngh... Otra vez me estoy quemando ... qué calor... Pero==W== esta agonía abrasadora ... es igual de dulce... ♪
+0045 [Gerie] | Jeje, jejejejeje... ♪
+0046 [Tú] | Todavía falta un buen tramo para el Monolito. No sé si Gerie aguantará...
+0047 [Gerie] | Je je... Me solté mucho allá ... pero todavía me sobra magia para gastar... Debí haberla usado más.
+0048 [Tú] | Entonces ... ¿se estaba conteniendo==W== porque yo estaba ahí? Si es así, me siento algo mal.
+0049 [Tú] | Gerie, aguanta un poco más. En cuanto lleguemos al Monolito, podrás desatarte todo lo que quieras.
+0050 [Gerie] | Je ... qué oferta tan tentadora ...==W== pero me temo que estoy en mi límite...
+0051 [Gerie] | Tengo que—==W==
+0052 [Narración] | La mano de Gerie tiembla al alcanzar la cuerda de su gargantilla. Está a punto de desatar el hechizo que vaporizó a los Stellaroids al instante.
+0053 [Tú] | ¡Oye! ¡No puedes usar eso aquí!
+0054 [Gerie] | ¡Ay!
+0055 [Tú] | Fiu... ¡Sí...! ¡Justo a tiempo!
+0056 [Narración] | En el último segundo me lanzo hacia adelante y le arrebato la cuerda del cuello.
+0057 [Gerie] | Ooh~ ¿Qué ... es esta sensación? ♪ ==W==Mi querido ... Jefe... ¿Qué ... me hiciste...?
+0058 [Passing Trekker] | ¿Fue un grito? ¿Alguien está herido?
+0059 [Kind Trekker] | ¿Necesitan ayuda? Voy a llamar a alguien de inmediato—==W==¿eh?
+0060 [Gerie] | Ahh ... es increíble, Jefe... Soy sierva del Dios de la Gracia ... y aun así... Solo puedo pensar en ti...
+0061 [Gerie] | Me siento tan ligera... ¿Qué es esto? ¡Nunca había sentido algo así!
+0062 [Tú] | ¡GE—RIE—!! ¡Basta! ¡Ya basta! ¡¿No crees que esto es raro?! O sea, tú siempre eres rara, ¡pero esto es una clase de rareza completamente nueva!
+0063 [Tú] | Bien, esto está mal. Esto está muy mal.
+0064 [Passing Trekker] | ¡¿Qué rayos?! ¡Creí que alguien necesitaba ayuda! ¡¿Haciendo ... eso?! ¡¿No tienen vergüenza?! ¡Estamos en plena calle!
+0065 [Kind Trekker] | Vaya ... eso es ... intenso.==W== Oigan, lo que les guste es asunto suyo, pero ¿quizá busquen un lugar un poco más privado?
+0066 [Tú] | ¡No es lo que piensan! ¡Es un malentendido! ¡Gerie, ayúdame a explicarlo!
+0067 [Gerie] | ¿Mm? La verdad no entiendo ... pero que me sostengas así ...==W== se siente maravilloso. Si sigues así ... podría volverme adicta, mi querido Jefe... ♪
+0068 [Tú] | ¡Nada! ¡No sirve de nada!
+0069 [Tú] | Está completamente fuera de sí. ¿Será por la sobrecarga de magia? No, esto se siente distinto de lo que dijo antes.
+0070 [Tú] | ¡Esperen! ¡Todos, sé que esto se ve raro, pero solo estamos ensayando! ¡Somos actores de Flavio!
+0071 [Passing Trekker] | Aja. «Actores». Siiií, cómo no.==W== Solo ... bájenle un poco.
+0072 [Kind Trekker] | ¡Maldición! ¡Qué par de descarados! ¡Y yo que de verdad estaba preocupado!==W== ¡Consigan un cuarto, ustedes dos! ¡O mejor aún, una celda!
+0073 [Narración] | Unos minutos después.
+0074 [Gerie] | Ah ... ah... La magia excedente ... se está desvaneciendo.==W== ¿Eh? ¿Qué acaba de pasar?
+0075 [Gerie] | ¡Tú! ¡¿Qué me hiciste?!
+0076 [Tú] | Hasta que por fin estás lúcida. Felicidades, pero ya es un poco tarde.
+0077 [Gerie] | Dímelo ya...==B== ¿Qué==W== me==W== hiciste==W== a==W== mí?==W==
+0078 [Tú] | Solo agarré la cuerda de tu cuello==W== antes de que lanzaras esa magia cuyo nombre no conozco.
+0079 [Gerie] | ¿Eso es todo? ¿En serio?
+0080 [Tú] | Te lo dije cuando aceptamos la comisión:==W== si tus métodos se pasaban de la raya, te detendría.
+0081 [Tú] | El trabajo ya terminó, pero aun así no puedo dejar que armes una masacre en plena calle.
+0082 [Gerie] | No suenas como si mintieras.
+0083 [Gerie] | Jefe. Tira otra vez. Ahora.
+0084 [Tú] | ¿P-Por qué?
+0085 [Gerie] | Este collar y esta cuerda son reliquias sagradas que guardan el legendario hechizo «Juicio del Alma». Nadie más que yo puede tocarlos jamás.
+0086 [Gerie] | Pero esa sensación que acabo de tener...==W== Tengo que confirmar que no fue una coincidencia.
+0087 [Tú] | ¿Un «hechizo legendario», eh? Bueno, si eso la calma, supongo que debo hacerlo.
+0088 [Opción] | Tomar la cuerda de la gargantilla de Gerie
+0089 [Gerie] | Ahhh~ Jefe... Sí, esa es la sensación~
+0090 [Gerie] | Mmm, podría derretirme~~~ ♪
+0091 [Tú] | ¡Ya empezó otra vez! Más que una cuerda, es un interruptor. Si alguien la ve así...
+0092 [News-Seeking Trekker] | Órale, no puede ser...==B== ¿Son esos dos de los que todos hablan?
+0093 [Tú] | Y ya nos vieron.
+0094 [Curious Trekker] | Ese es el Jefe de Boss Accord, ¿no? Domando a una Árbitra del Ocaso... Caray. Qué leyenda.
+0095 [Gerie] | Oh, Jefe...==W== Me siento tan... plena. ¿De verdad eres un mensajero enviado por el Dios de la Gracia para salvarme~~~? ♪
+0096 [Tú] | ¿El Dios de la Gracia me envía como mensajero? Sí, cómo no. Si de verdad existe un Dios de la Gracia, esto debe de ser mi castigo.
+0097 [Tú] | ¡Gerie, reacciona!

@@ -1,0 +1,117 @@
+# Recuerdo de disco · Ride the Waves With Me · 1 · Ride the Waves With Me
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Plushie | Peluche
+N:Seabird | Ave marina
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_233 | Peluche de conejita de Shia
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Surfea las olas conmigo
+0003 [Intro] | ¡No dejaré que la amabilidad de Shia se desperdicie! ¡Tengo que montar esta ola!
+0004 [Plushie] | «Karin, ¿quieres ser mi amiga?»
+0005 [Shia] | ¡Feliz cumpleaños, cumpleañera!==W== ¡Aquí tienes el peluche y la tabla de surf que pediste! ♪
+0006 [Karin] | ¡Guau...!==W== ¡Gracias, Shia! ¿¡Todos estos regalos son para mí!?
+0007 [Shia] | ¡Claro! ¡Verte feliz me hace feliz a mí! ♪
+0008 [Karin] | ¡Shia! ¡Quiero aprender a surfear ahora mismo!
+0009 [Karin] | Poco a poco le he agarrado el truco a navegar y a leer las olas. Surfear no puede ser tan diferente. ¡Lo aprenderé en un santiamén!
+0010 [Karin] | ¡Pwah!
+0011 [Shia] | Mmm...==W== Karin, ¿no crees que es un poco pronto para meterte directo al agua?
+0012 [Karin] | ¡Estoy bien! Le estoy agarrando el truco...==W== ¡Una vez más!
+0013 [Karin] | ¿¡Eh!?==W== ¡Guau, espera, waaah!
+0014 [Shia] | ¡Karin!
+0015 [Shia] | Practiquemos un poco más en la playa primero. ¿Qué parte te está dando problemas?
+0016 [Karin] | Siento que estoy peleando contra todo el océano.==W== Ni siquiera puedo ponerme de pie. Las olas me tiran, la corriente me roba la tabla y no logro mantener el equilibrio.
+0017 [Shia] | Ya veo...==W== ¿Qué tal si==W== lo abordamos de otra manera?
+0018 [Karin] | ¿De otra manera?
+0019 [Shia] | ¡Así es! ¡No intentes pelear contra el océano, intenta hacerte amiga de él!
+0020 [Karin] | ¿Hacerme amiga del océano...?
+0021 [Karin] | Argh...==W== No entiendo lo que dice Shia. Se esfuerza tanto en enseñarme y yo no sirvo para nada.
+0022 [Karin] | Pero si me rindo ahora, defraudaría a Shia. ¡Voy a aprender a surfear cueste lo que cueste!
+0023 [Karin] | ¿No hay nadie cerca?==W== Perfecto. ¡Comienza el entrenamiento secreto!
+0024 [Karin] | Hoy eres la suplente de Shia. ¡Mira con atención!
+0025 [Karin] | Ugh...==W== Fallé otra vez.==W== ¿Qué significa siquiera hacerse amiga del océano?==W== El océano no es nada amistoso...
+0026 [Plushie] | «¡No pasa nada! Te hiciste amiga mía, Karin, ¿verdad? ¡También puedes hacerte amiga del océano! ♪»
+0027 [Karin] | ¿En serio? Jeje, ¡si Shia lo dice, lo lograré!
+0028 [Karin] | ¿Eh? Ahora que lo pienso...==W== Shia dijo algo así antes.==W== Espera...
+0029 [Seabird] | ...
+0030 [Karin] | ¿Y esa mirada? ¡Deja de mirarme como si diera lástima!
+0031 [Seabird] | «Miren a esta coneja tonta hablando con un peluche».
+0032 [Karin] | ¡Sé lo que estás pensando! ¡Cállate! ¡Métete en tus asuntos!
+0033 [Seabird] | Coneja tonta. Coneja tonta.
+0034 [Karin] | ¿¡Quién es una coneja tonta!? Hmph, ya verás. ¡Me convertiré en una surfista profesional!
+0035 [Narración] | Dos horas después...
+0036 [Karin] | Sí...==W== ¡Sí! ¡Me puse de pie!==W== ¡Por fin estoy sobre la tabla!
+0037 [Karin] | Ahora a montar la ola...==W== ¡Pwah!
+0038 [Karin] | Wah...==W== Por fin me paré y la ola me tiró otra vez. ¿Para qué?==W== El océano simplemente no quiere ser mi amigo...==W== ¡Ay!
+0039 [Karin] | ¡Pájaro tonto! ¿Por qué me jalas el pelo? ¡Suéltame!
+0040 [Karin] | ¿Eh...? ¿Quieres que te siga?
+0041 [Narración] | Mira hacia donde el ave la arrastra. Peces de colores y tortugas se mecen con las olas.
+0042 [Seabird] | «Mira y aprende, coneja tonta».
+0043 [Karin] | ¿¡Es eso lo que querías decir!? ¡Métete en tus asuntos!
+0044 [Plushie] | No te enojes, Karin. Te están mostrando cómo se hace.
+0045 [Karin] | Espera, ¿el peluche de Shia? ¿Cómo llegaste aquí? Te dejé en la playa...==W== Y un momento, ¡ni siquiera abrí la boca! ¿¡Cómo estás hablando!?
+0046 [Plushie] | Estoy hablando dentro de tu cabeza, Karin ♪
+0047 [Karin] | ¿¡Puedes hacer eso!?
+0048 [Plushie] | No te preocupes por eso ♪ Copia a esa medusa. Dijo que estabas luchando demasiado contra el agua.
+0049 [Karin] | ¿¡Copiar a una medusa!? Bueno...==W== Si tú lo dices...
+0050 [Karin] | Copiar a una medusa...==W== Relajarme... Respirar...
+0051 [Karin] | ¡Guau! ¡Me mantuve más tiempo!
+0052 [Plushie] | ¡Esa es mi Karin! ♪ ¡Sigue así! ¡Ahora probemos con otras criaturas marinas!
+0053 [Karin] | ¡Entendido!
+0054 [Karin] | ¿¡Viste eso!? ¡Rompí mi récord otra vez!
+0055 [Plushie] | ¡Genial! ¡Felicidades, Karin! ♪
+0056 [Karin] | Bien, al menos ya soy lo bastante buena como para no avergonzar a Shia...==W== Espera, ¿dónde estoy?
+0057 [Karin] | ¡Oh, demonios! ¡Estaba tan concentrada que me alejé muchísimo mar adentro! ¿Qué hago? Ni siquiera veo la orilla...
+0058 [Karin] | ¿Voy a morir aquí como una tonta?==W== ¡No, no, no! ¡Ni hablar!
+0059 [Plushie] | Tranquila, Karin. ¡Tú puedes, sé que puedes!
+0060 [Karin] | ¿Pero qué puedo hacer? Claro, ya sé surfear, ¡pero eso no me va a llevar de vuelta a tierra firme!
+0061 [Plushie] | Eso no es cierto. Eres una surfista increíble. Si te haces amiga del océano, sé que puedes montar cualquier ola.
+0062 [Karin] | Hacerme amiga del océano...==W== Otra vez lo mismo.
+0063 [Karin] | ¿Otra vez...?==W== ¡Oh! Sabía que me sonaba familiar. Shia me dijo exactamente lo mismo antes...==W==
+0064 [Shia] | ¿Quieres saber el secreto de la navegación?
+0065 [Karin] | ¡Sí! ¡Quiero ser como tú, Shia! ¡Quiero navegar a través de todo lo que se me cruce!
+0066 [Shia] | El truco es dejar de pelear contra el mar.==W== Siente las mareas, el viento, las criaturas a tu alrededor. Hazlos tus amigos.
+0067 [Shia] | Entonces navegar se sentirá tan natural como mover tus propios brazos y piernas.
+0068 [Karin] | ¿Hacerlos amigos? ¿No se supone que se conquistan las olas con pura habilidad?
+0069 [Shia] | No. Para una Trekker marinera, Karin, el océano nunca es el enemigo. El océano es—
+0070 [Karin] | Un amigo...==W== Es verdad. Eso fue lo que Shia me dijo entonces.
+0071 [Karin] | Pero lo único que me importaba era vencer al océano...==W== Con razón no lo lograba.
+0072 [Plushie] | ¡Karin, cuidado! ¡Se acerca una ola monstruosa! ¡Te va a tragar entera!
+0073 [Karin] | ¿¡Qué!?
+0074 [Karin] | ¡Da igual, es ahora o nunca! Como dijo Shia: siente la corriente, recuerda cómo se movían las criaturas marinas...
+0075 [Karin] | Aprovecha el impulso...==W== ¡Ahora!
+0076 [Karin] | Guau...==W== ¡La estoy montando!==W== ¡Esta ola es enorme y la estoy montando de verdad!
+0077 [Seabird] | ¡Cuac! ¡Cuac!
+0078 [Karin] | ¿Oh? ¿Me guías hacia la orilla?
+0079 [Karin] | Muy bien,==W== ¡miren cómo la monto directo de vuelta al Pueblo Carlo!
+0080 [Karin] | ¡Ya==W== vooolví!==W== ¡Esto==W== es==W== genial!!
+0081 [Karin] | Domé una ola monstruosa en mi primer intento...==W== ¿¡Soy una prodigio del surf!?
+0082 [Karin] | ¡Ay! ¿Cuál es tu problema, pájaro tonto? ¡Deja de picotearme la cabeza o te doy un manotazo!
+0083 [Plushie] | Creo que te dice que no se te suba a la cabeza. Por cierto, Karin, ¿no tienes algo que decir?
+0084 [Karin] | ... Sí, tienes razón.
+0085 [Karin] | ¡Gracias, todos en el océano! Si no me hubieran enseñado el truco, nunca habría aprendido a surfear.
+0086 [Karin] | Y si este ave molesta no me hubiera guiado, probablemente estaría perdida en el mar. ¡Solo volví a salvo gracias a ustedes!
+0087 [Karin] | ¡Se lo debo todo a ustedes!==W== ¡Gracias!
+0088 [Karin] | Jeje...==W== Supongo que esto significa ...==W== que el océano y yo por fin somos amigos, ¿eh?
+0089 [Plushie] | Mira, Karin. Los peces nadan directo hacia ti.
+0090 [Plushie] | ¡Dicen que es un placer conocer a su nueva amiga! ♪
+0091 [Karin] | ... ¡Gracias! ¡Oficialmente somos mejores amigos!
+0092 [Seabird] | ¡Cuac! ¡Cuac!
+0093 [Karin] | ¡Cuídense de regreso! ¡Juguemos otra vez la próxima vez que nos veamos!
+0094 [Shia] | ¡Karin!
+0095 [Karin] | ¡Oh, Shia!
+0096 [Shia] | ¡Me asustaste llegando en esa ola enorme! ¿Estás bien? ¿Tragaste agua?
+0097 [Karin] | ¡Estoy bien! El peluche que me diste y mis amigos del mar me ayudaron.
+0098 [Shia] | ¿El peluche? ¿Y tus amigos del mar?
+0099 [Karin] | ¡El peluche que me diste habló! Me hablaba directo en la cabeza...==W== Hasta traducía lo que decían los animales.
+0100 [Shia] | Yo misma hice ese peluche,==W== y definitivamente no le di ningún poder mágico...
+0101 [Karin] | ¿¡Qué!? No puede ser...==W== Espera, ¡¿TÚ lo hiciste!? ¡Ay no, ¿lo ensucié?!
+0102 [Shia] | Jeje, a mí me parece que está perfecto. No entiendo del todo lo que pasó allá afuera, pero parece que tú y el océano se han hecho amigos, Karin.
+0103 [Karin] | ¡Así es! ¡Vamos, Shia, vamos a surfear!
+0104 [Karin] | ¡Déjame mostrarte todo lo que me enseñaron mis amigos!
+0105 [Karin] | Quizá esa voz del peluche ...==W== era el propio océano.

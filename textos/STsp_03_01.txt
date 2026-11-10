@@ -1,0 +1,105 @@
+# Nova Times #03 · Mil flores en la noche · 1 · A Thousand Blossoms by Night (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Excited Child | Niño emocionado
+N:Naughty Child | Niño travieso
+N:Well-Behaved Child | Niño educado
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_169 | Chica
+N:avg3_176 | Loong Resident
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Mil flores en la noche (Parte I)
+0003 [Intro] | De regreso en Cangwu, Jinglin llega justo a tiempo para inscribirse en el Festival del Pez Nadador, donde se reencuentra con sus amigas de la infancia, Shimiao y Chixia.
+0004 [Shimiao] | Haaah—==W==por fin terminó todo el trabajo de hoy.
+0005 [Shimiao] | Qué bien,==W== y todavía es de mañana...==W== Eso significa que esta noche puedo relajarme e ir a ver los faroles...
+0006 [???] | ¡¡Espere!! ¡Disculpe! ¡¿Hay alguien aquí?!
+0007 [Shimiao] | ... Parece que todavía no puedo salir.
+0008 [Jinglin] | Haah... Haah... ¡E-espere—!==W==Yo... quiero inscribirme en el «Festival del Pez Nadador». ¿Llegué demasiado tarde?
+0009 [Shimiao] | Recupera el aliento, no te alteres.==W== Llegaste con un minuto de sobra.
+0010 [Jinglin] | ¡¿Un minuto—?! ¡Por los pelos!==W== Cof... Pero al menos llegué.
+0011 [Shimiao] | Ya llenaste el formulario de inscripción, ¿verdad?
+0012 [Jinglin] | ¡Sí, sí!==W== Aquí está, ¡por favor!
+0013 [Shimiao] | A ver... Todo en orden.==W== Lo entrego ahora mismo.
+0014 [Jinglin] | M-muchas gracias...==W== Me cuesta mucho hacer el viaje de regreso a Cangwu. Si me hubiera perdido esto...
+0015 [Shimiao] | Aprecio tu entusiasmo...==W== Por cierto, ¿ya hiciste tu farol de pez?
+0016 [Jinglin] | ... ¿Si empiezo ahora, quizá todavía lo logre?==W== Eh, espera— Tú eres—
+0017 [Loong Resident] | ¡Fuego! ¡Hay un incendio!
+0018 [Shimiao] | Justo hoy...==W== Perdona. Hablamos luego.
+0019 [Shimiao] | ¡Tengo que ir a ayudar!==W==
+0020 [Jinglin] | ¡S-sí! ¡Ten cuidado!
+0021 [Jinglin] | Su rostro me resultaba familiar... ¿Dónde la he—
+0022 [Jinglin] | Yo también ayudaré.
+0023 [Shimiao] | ¡¿Este es el origen?! ¡Todos, atrás... yo me encargo!
+0024 [Narración] | ¡Lluvia oportuna, cae... empapa la tierra!
+0025 [???] | ¡¡Waaah!!==W== ¡¿Qué—?! ¡Ayuda!
+0026 [Chixia] | ¡De repente estoy empapada de pies a cabeza! ¡¿Qué pasó?!
+0027 [Shimiao] | ¡¿Chixia?! ¿No te lastimaste? ¡Era un fuego muy serio!
+0028 [Chixia] | Ah, eres tú, Shimiao... ¿Fuego? ¿Qué fuego?
+0029 [Shimiao] | Oí a alguien gritar afuera de la oficina, así que pensé que...
+0030 [Chixia] | ¡Ah, eso no era un incendio de verdad!==W== ¡Solo estaba encendiendo sus faroles de pez!
+0031 [Excited Child] | ¡Así es! ¡La llama subió muy alto, fue algo increíble de Xuan Shi!
+0032 [Chixia] | ¡Jajaja! ¿Ven? A veces sí me pongo seria cuando estoy inspirada.
+0033 [Well-Behaved Child] | ... Entonces toda esta lluvia repentina fue porque—==W==ah, la confundieron con un incendio...
+0034 [Chixia] | ¡¿Qué?! ¡¿Pensaste que había un incendio?!
+0035 [Shimiao] | Viendo la escena, es la conclusión lógica...
+0036 [Naughty Child] | Jaja, Chixia, ¡un minuto antes presumías y al siguiente quedaste hecha una sopa!
+0037 [Chixia] | Uf... Está bien, tienen razón. Me dejé llevar.
+0038 [Shimiao] | Vaya, lo admitiste. Qué raro.
+0039 [Chixia] | Oye, yo sé reconocer cuando me equivoco.
+0040 [Jinglin] | ¡Guau! ¡Lo sabía! ¡Esa voz, ese hechizo... Shimiao! ¡De verdad eres tú!
+0041 [Shimiao] | Tú eres... la chica de la Oficina de hace rato... Espera, tú eres...
+0042 [Chixia] | ¡¿Eres... Jinglin?!==W== ¡Ja, de verdad eres tú! ¡Has crecido muchísimo!
+0043 [Shimiao] | No puede ser... Pero sí te pareces un poco a ella. ¿De verdad eres Jinglin?
+0044 [Jinglin] | ¡Soy yo! ¡De verdad me recordaron!
+0045 [Chixia] | ¡Claro! Cuando todas vivíamos en el mismo patio,==W== ¡Shimiao y yo te llevábamos a jugar todo el tiempo!
+0046 [Shimiao] | Perdón por no reconocerte de inmediato, Jinglin...==W== Solo te recordaba de niña pequeña.
+0047 [Jinglin] | No, soy yo quien debe disculparse... Entré corriendo y ni siquiera las reconocí.==W== Pero yo siempre te he recordado, Shimiao. Por favor no te enojes conmigo.
+0048 [Chixia] | ¿Enojarme contigo? ¿Por qué?==W== ¡Todas somos amigas!
+0049 [Shimiao] | ¡No te lo preguntaba a ti! ...==W== Olvídalo.==W== En fin, te mudaste a Philae, ¿verdad?
+0050 [Jinglin] | Sí. Regresé con mis padres por unos días. ¡Justo a tiempo para el Festival del Pez Nadador!
+0051 [Chixia] | Ya veo, ya veo... Pero queda súper lejos, ¿no? Philae está a cientos de kilómetros, ¿verdad?
+0052 [Shimiao] | Ya veo...==W== En fin, bienvenida de vuelta, Jinglin.
+0053 [Chixia] | Exacto. Esto es un gran acontecimiento. ¡Deberíamos celebrarlo! ¿Por qué no—==W==achú==W==!
+0054 [Shimiao] | Ay, no, se me olvidó que sigues empapada.==W== Ven, te seco.
+0055 [Jinglin] | Jajaja... Se siente como cuando éramos niñas, ¿verdad?
+0056 [Jinglin] | Hablando de eso... ¡Almuerzo! ¿Qué tal el Comedor Fenghuang? Si vamos, puedo arreglar algo.
+0057 [Chixia] | ¡El Comedor Fenghuang! Hace siglos que no voy. ¡Vamooos!
+0058 [Shimiao] | No te muevas, déjame secarte bien.==W== Espera, ¿«arreglar» qué?
+0059 [Jinglin] | Jeje, déjenmelo a mí.==W== ¡Miren esto~!
+0060 [Chixia] | Espera... ¡Brilla—!
+0061 [Shimiao] | ¡Es un... gafete de personal brillante!
+0062 [Jinglin] | ¡Sip! ¿Les impresiona? Soy la gerente de la sucursal de Philae del Comedor Fenghuang.==W== ¿Han oído hablar del Bistró Jing?
+0063 [Shimiao] | ¿El Bistró Jing? ¡Había oído hablar de él, pero nunca imaginé que fueras la gerente!
+0064 [Chixia] | ¡Así que a eso te referías!
+0065 [Jinglin] | ¡Exacto! ¡Vamos, a comer! ¡Va por la casa!
+0066 [Shimiao] | ¡Gracias! Es un lujo poder salir tan temprano del trabajo y disfrutar de una comida como se debe... Ahh, qué maravilla.
+0067 [Chixia] | ¡Qué, qué, qué rico! ¡El Comedor Fenghuang de verdad es el mejor!
+0068 [Jinglin] | Jeje, qué bueno que les guste.
+0069 [Jinglin] | ¡Cangwu ha cambiado muchísimo desde que me fui! Hasta esta sucursal parece renovada.
+0070 [Chixia] | ¡Totalmente!==W== ¿Te acuerdas de ese callejón junto a nuestro viejo patio, Jinglin?
+0071 [Chixia] | El callejón con la tienda de espinos confitados==W== y la tiendita...==W== Sí, la calle se ve distinta ahora.
+0072 [Shimiao] | La mayoría de los negocios se mudaron a la calle peatonal.==W== Algunos pasaron a manos de los aprendices, pero los sabores siguen siendo los mismos.
+0073 [Shimiao] | Es solo que... aquí hay mucha más tranquilidad que antes.
+0074 [Jinglin] | Cierto... ¡Pero tú no has cambiado nada, Shimiao!
+0075 [Jinglin] | Y Chixia, ¿ahora eres Xuan Shi en Yunji, verdad?==W== ¡Tus talismanes funcionan muy bien; son bastante famosos, incluso en Philae!
+0076 [Chixia] | ¡Jajaja!! ¡Así es!==W== ¡No tenía idea de que me volvería tan importante, ni siquiera en Philae! ¡Jajaja!
+0077 [Jinglin] | Y Shimiao, hace rato estabas encargada de las inscripciones del Festival del Pez Nadador.==W== ¿Entonces ya te uniste oficialmente a la Oficina Baize?
+0078 [Jinglin] | Siempre admiré lo seria y trabajadora que eras.==W== ¡Eres increíble!
+0079 [Shimiao] | Ay, qué amable de tu parte decirlo, Jinglin...
+0080 [Chixia] | ¡Pero tiene razón! ¡Shimiao procesó un montón de solicitudes hoy, ella sola! Yo jamás lo habría logrado.
+0081 [Chixia] | ¡Oh, no! ¡Mi propio farol de pez! ¡Todavía no lo termino!
+0082 [Shimiao] | ¿Eh? ¿Todavía no hiciste el tuyo?
+0083 [Shimiao] | Estabas ayudando a los niños a encender los suyos, pero todavía no terminas el tuyo...==W== De verdad eres algo más.
+0084 [Chixia] | Después de la clase de la mañana salí corriendo directo afuera...==W== ¡Me divertí tanto que se me olvidó por completo!
+0085 [Shimiao] | Bueno… La verdad, yo tampoco terminé el mío por andar tan ocupada con el trabajo.==W== ¿Por qué no los hacemos juntas?
+0086 [Jinglin] | ¡Perfecto!==W== ¡Hagámoslo!
+0087 [Jinglin] | ¡Veamos cuál farol queda más brillante!

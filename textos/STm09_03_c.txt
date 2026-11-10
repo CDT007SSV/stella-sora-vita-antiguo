@@ -1,0 +1,185 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 3C · Donde todo comenzó
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Excited Desert Scorpions | Escorpiones del Desierto emocionados
+N:Giant Stellaroid | Stellaroid gigante
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_133 | Nazuka
+N:avg1_136 | Angie
+N:avg1_145 | Otoha
+N:avg1_146 | Benito
+N:avg1_150 | Laru
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg2_979 | Enviado espectral
+N:avg3_100 | Sylar
+N:avg3_1306 | Soldado de los Centinelas del Alba
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_1311 | SaiLa
+N:avg3_152 | Bastelina
+N:avg3_207 | Myrsha
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_210 | Hazana
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Donde todo comenzó
+0003 [Intro] | Tú y la Nueva Estrella regresan al piso 50, el lugar donde todo comenzó. Al recrear la plegaria de hace tiempo, el enorme Stellaroid aparece de nuevo. Esta vez, parece reconocerte...
+0004 [Lugar y hora] | 17:30, 18.º del mes de Nebula, Monolito del Desierto, piso 50
+0005 [Noya] | Uf... Esto sí que es un viaje al pasado. De verdad logramos volver aquí.
+0006 [Iris] | Ahora que lo pienso... ¿Cómo le hicimos las tres para cargar una Caja de Deseos tan enorme cincuenta pisos hacia abajo?
+0007 [Amber] | Gracias a la aterradora obsesión de Iris por los Artefactos.
+0008 [Noya] | ¡Jaja! Cuando la abrimos y vimos a ==PLAYER_NAME==, Iris pensó que ==SEX== era un Artefacto humanoide. ¡==SEX1== estaba palpando a ==SEX4== buscando un botón de encendido!
+0009 [Iris] | ¡O-oye, no lo digas tan fuerte! ¡En ese entonces no teníamos ni un Dorra para comer!
+0010 [Noya] | La verdad, encontrar a ==PLAYER_NAME== ahí dentro fue mucho mejor que encontrar un Artefacto. Si no hubiéramos conocido a ==SEX4==, Feagin nos habría comido vivas al volver a Emor.
+0011 [Iris] | Sí. Parece un sueño. Después de tantas aventuras, aquí estamos... Justo donde todo comenzó.
+0012 [Noya] | ¡Y enfrentando otra crisis enorme, además!
+0013 [Noya] | Pero oigan, si logramos volver aquí, quiere decir que podemos superar esto. Y cuando volvamos a partir, llegaremos todavía más lejos.
+0014 [Narración] | Bajo la protección de nuestros aliados, el Gremio de la Nueva Estrella y yo llegamos al último piso del Monolito del Desierto en poco más de dos horas.
+0015 [Narración] | Salvo el singular último piso, cada nivel de un Monolito es una maraña de pisos paralelos casi idénticos.
+0016 [Narración] | Dentro del Monolito, el piso 30 no es un lugar fijo. Solo significa que quien escala llegó a la prueba del trigésimo piso.
+0017 [Narración] | Cuando se abren las puertas del elevador, no hay garantía de que sea el mismo piso 30 que viste la última vez. Dos gremios que entren uno tras otro podrían subir hasta la cima sin cruzarse nunca.
+0018 [Narración] | Construimos toda nuestra estrategia contra el Comité de Salvación en torno a esta mecánica.
+0019 [Narración] | Los elevadores del Monolito solo admiten a diez personas a la vez, lo que divide de forma natural al enemigo en escuadrones aislados que no pueden apoyarse entre sí.
+0020 [Narración] | Al entrar primero y conseguir las bendiciones adecuadas, aprovechamos nuestra ventaja en poder y terreno para emboscarlos.
+0021 [Nazuka] | Jefe, las intercepciones en cada piso van según lo planeado. La «Guía de combos de bendiciones del Monolito» de Iris es una salvación. Sincronizar nuestras configuraciones con sus estrategias le dio un impulso enorme a nuestra magia y nuestra fuerza.
+0022 [Nazuka] | Nos enfrentamos a más de doscientos miembros del Comité, aplastamos a unos ciento cincuenta y el resto se retiró afuera. Solo Fuyuka, Chaton y Chitose recibieron algunos golpes menores, pero nada grave.
+0023 [1] | Excelente trabajo. ¿Entonces quedan menos de cien enemigos adentro?
+0024 [Nazuka] | Sí, pero son la élite. Y todavía no hemos visto ni rastro de Angie ni de Greyhorn.
+0025 [Nazuka] | Ya no nos quedan Piedras del Alma de repuesto. Todas estamos al límite.
+0026 [1] | ¿Podemos quitarle las suyas al enemigo?
+0027 [Nazuka] | No sirve. Las suyas tienen sellos mágicos. Romperlos tomaría demasiado tiempo.
+0028 [1] | Entendido. Todas hicieron un trabajo increíble. Pasemos a la fase dos. Ustedes repléguense, salgan del Monolito y reabastézcanse. Déjennos a nosotros distraer al Comité.
+0029 [Nazuka] | Entendido, Jefe. Cuídate.
+0030 [1] | Tú también.
+0031 [Amber] | Jefe, ¿y los demás? ¿Pasamos a la ofensiva?
+0032 [Noya] | ¡Ahora un solo tajo de mi espada dispara hojas de viento en ocho direcciones! ¡Las tres podemos con diez de ellos sin problema!
+0033 [Tú] | No será tan fácil. Angie y Greyhorn siguen sin aparecer, y la capitana Greyhorn es formidable. Que hayan esquivado a los equipos de Nazuka podría no ser solo suerte. Quizá estén usando alguna técnica de escalada específica.
+0034 [Tú] | Mejor vayamos a lo seguro. Sigamos el plan y usemos el terreno del Monolito para superarlos en maniobras. Vamos al piso 51: el Dominio del Jefe.
+0035 [Iris] | Uf... ¿De verdad tenemos que ir ahí?==W== ¿Y si... y si ese Stellaroid aterrador sigue esperándonos?
+0036 [Tú] | Aunque así sea, estaremos bien. Dijiste que allá arriba solo hay un elevador, y que el Stellaroid no atacó hasta que salieron de él.
+0037 [Noya] | Sí. Solo apareció cuando intentamos abrir la Caja de Deseos. Quizá solo la está protegiendo.
+0038 [Tú] | Eso es todo lo que necesitamos. Si no tocamos la Caja de Deseos, el Dominio del Jefe se convierte en un refugio que solo nosotros controlamos.
+0039 [Amber] | Salimos para golpear a Angie. Pero ella no puede golpearnos.
+0040 [Tú] | Exacto. Aunque Angie sepa cómo repetir la historia, no importará. Con un solo elevador en el Dominio del Jefe, bloquearles el paso será facilísimo.
+0041 [Tú] | El equipo de Nazuka conserva sus bendiciones incluso fuera del Monolito. Solo tenemos que resistir hasta que se reabastezcan y regresen. Entonces, el Comité de Salvación se quedará sin opciones.
+0042 [Tú] | Subamos a ver si ese Stellaroid gigante sigue por ahí. Ya afinaremos los detalles después.
+0043 [Iris] | Muy bien. Hora de repetir la historia.
+0044 [Narración] | Oh, Dios de la Gracia, por favor… ¡Por favor, déjanos encontrar una Caja de Deseos absurdamente enorme!
+0045 [Noya] | ¡Miren! ¡Cambiaron las luces del elevador! ¡Lo logramos!
+0046 [Lugar y hora] | 17:45, 18.º del mes de Nebula, Monolito del Desierto, dentro del elevador
+0047 [Noya] | Llegamos, ==PLAYER_NAME==. Nadie se mueva todavía. Déjenme echar un vistazo.
+0048 [Noya] | ¿Eh?
+0049 [Iris] | ¿Qué pasa, Noya?
+0050 [Noya] | Si mal no recuerdo... El Stellaroid gigante hizo un berrinche cuando nos llevamos la Caja de Deseos y destrozó el piso, ¿verdad?
+0051 [Amber] | Así es.
+0052 [Noya] | Y dejamos la Caja de Deseos tirada en el desierto, ¿verdad?
+0053 [Iris] | Obvio. Loxy no podía remolcar algo tan pesado.
+0054 [Noya] | Entonces, ¡¿por qué... la Caja de Deseos está otra vez justo en medio del Dominio del Jefe?! ¡¿Y el piso está reparado?!
+0055 [Lugar y hora] | 17:50, 18.º del mes de Nebula, Monolito del Desierto, Dominio del Jefe
+0056 [Tú] | ¿Aquí es donde... el Gremio de la Nueva Estrella me encontró?
+0057 [Narración] | Una Caja de Deseos negra como la noche está justo en el centro del Dominio del Jefe. Con la correa negra de Amber bien sujeta a mi cintura, Noya y yo avanzamos poco a poco hacia ella.
+0058 [Iris] | ¡Ten cuidado, Jefe!
+0059 [Amber] | Si pasa algo, jalo a ==SEX4== de regreso.
+0060 [Noya] | ¿Crees que el Stellaroid gigante haya arrastrado la Caja de Deseos hasta aquí? ¿Y que también haya reparado el piso? Ahora que lo pienso... ¿De verdad le importa esta sala?
+0061 [Tú] | Siguiendo esa lógica, ¿qué era yo para el Stellaroid mientras dormía ahí dentro? ¿Algún Artefacto preciado que estaba acaparando?
+0062 [Noya] | ¡Quizá creía que era tu sirvienta personal! Cuidando con esmero tu sueño reparador todo este tiempo.
+0063 [Tú] | Eso ya es exagerar un poco.
+0064 [Noya] | ¿Y bien? ¿Venir aquí te refrescó la memoria?
+0065 [Tú] | Ni un poquito. Honestamente, siento que es la primera vez que vengo. Incluso la textura de esta Caja de Deseos... no me dice nada.
+0066 [Iris] | ¡Wah! Este retumbar... ¡Ya está aquí! ¡El Stellaroid gigante!
+0067 [Iris] | ¡Noya, Jefe, regresen! ¡Amber, jala la correa!
+0068 [Noya] | Espera un segundo. Esta vez se siente diferente...
+0069 [Narración] | El Stellaroid gigante flota sobre la sala. No ataca. Solo se queda suspendido en silencio.
+0070 [Amber] | ¿Nos... está observando?
+0071 [Iris] | Ni siquiera sabemos dónde tiene la cara... Solo prepárate para jalar al Jefe de regreso.
+0072 [Giant Stellaroid] | Vrrrr... Vrrrr...
+0073 [Tú] | Noya. Se está girando hacia ti.
+0074 [Noya] | No me digas que... de verdad se acuerda de mí.
+0075 [Giant Stellaroid] | VRRRRR——==W==——==W==
+0076 [Amber] | Mal asunto. Está cargando energía.
+0077 [Opción] | Tomar la mano de Noya
+0078 [Tú] | ¡Amber, jálanos de regreso!
+0079 [Noya] | ¡Espera! El Stellaroid... ¡Guardó el cañón del pecho!
+0080 [Tú] | V-vaya, de verdad lo hizo... Pero ¿por qué?
+0081 [Noya] | Creo que es porque... me tomaste de la mano.
+0082 [Noya] | Se está yendo... ¿Así nada más se fue?
+0083 [Iris] | ¡Jefe! ¡Noya! ¡¿Están bien?!
+0084 [Tú] | S-sí, estamos bien... ¿No era hostil?
+0085 [Amber] | Más bien, no es hostil con el Jefe.
+0086 [Noya] | Hace rato me estaba apuntando a mí, así que recuerda que nos llevamos la Caja de Deseos. Pero en cuanto ==PLAYER_NAME== me tomó de la mano, se calmó.
+0087 [Noya] | ¿No significa eso que... lo que en realidad protege es... a ==PLAYER_NAME==? ¿Que tomarme de la mano demostró que somos amigos y por eso se retiró?
+0088 [Tú] | ¿De verdad los Stellaroids son tan listos?
+0089 [Iris] | N-no lo sé... Pero esto es bueno, ¿no? Al menos... quiere decir que ahora podemos usar este piso como refugio.
+0090 [Tú] | Espera. Si es así... tengo una idea todavía más audaz.
+0091 [Lugar y hora] | 18:00, 18.º del mes de Nebula, Monolito del Desierto, piso 50
+0092 [Tú] | Te tomaste tu tiempo, Angie.
+0093 [Angie] | Tus compañeras dieron una buena pelea, Tirano. Acabaron con dos tercios de mis fuerzas. Pero aquí se termina todo.
+0094 [Angie] | Sus Piedras del Alma están agotadas y huyeron. Mis fuerzas controlan todos los elevadores del piso 50.
+0095 [Angie] | Aunque las bendiciones del Monolito multipliquen tu poder por cinco o por diez, nosotros tampoco llegamos con las manos vacías.
+0096 [Angie] | ¿De verdad piensas pelear contra cien de nosotros con solo tres personas?
+0097 [Tú] | Déjame corregirte en una cosa. Mis compañeras no huyeron. Solo fueron a recargar sus Piedras del Alma.
+0098 [Angie] | Ridículo. Todas las Piedras del Alma que lleva el Comité de Salvación están selladas con magia. No pueden usarlas. ¿Estás esperando a los Gatos Blancos? Aunque juntaran todo lo que tienen, no les alcanzaría para hacer la diferencia.
+0099 [Tú] | No somos los únicos jugadores en Mirage, Angie. Subestimar a las facciones insignificantes te va a salir caro.
+0100 [Angie] | ¡¿Los... Escorpiones del Desierto?!
+0101 [Hazana] | Vaya, pero si es Serena... ¿O ahora debería llamarte Lady Angie? ¿No estás en un Monolito? ¿Cómo tienes señal?
+0102 [Hazana] | Ah, cierto. Ese Monolito tiene un agujero enorme. La señal se debe estar colando por ahí.
+0103 [Angie] | Hazana, déjate de tonterías. ¡¿Qué hiciste?!
+0104 [Hazana] | Nada del otro mundo. Solo vi un montón de cajas tiradas en el desierto y, como nadie parecía reclamarlas, traje a los Escorpiones a recogerlas.
+0105 [Bastelina] | ¡Lady Angie! ¡No... no podemos contenerlos! ¡Nos rodean un montón de Escorpiones del Desierto! ¡Da muchísimo miedo!
+0106 [Angie] | ¡¿Atacaste al escuadrón de logística del Comité de Salvación?! ¡Cómo te atreves! ¿No te prometí...?
+0107 [Hazana] | Lo siento, Angie, pero los Escorpiones tienen que comer. Vamos adonde está el dinero.
+0108 [Hazana] | No puedes igualar lo que ofreció el Jefe. Aunque no fueras una hereje y siguieras dirigiendo el Instituto del Cielo, no te alcanzaría.
+0109 [Hazana] | Así que, suerte con todo eso. Nos vemos.
+0110 [Hazana] | Seguro ahorita está echando chispas, picada por los mismos Escorpiones a los que siempre despreció.
+0111 [Hazana] | ¡Sigan moviéndose, todos! ¡Todo lo que hay aquí es nuestro! ¡A partir de hoy, también somos gente de empresa!
+0112 [Excited Desert Scorpions] | ¡Hurra!
+0113 [Laru] | Oye, señorita. ¿Cómo supo el Jefe que estábamos aquí? ¿Y cómo supo ==SEX== que solo estábamos fingiendo con el Comité de Salvación?
+0114 [Benito] | Mmm... La verdad no tengo idea de cómo supo el Jefe que estaban aquí. ==SEX1== simplemente parece saberlo todo. Hasta la magia especial que usan los capitanes del Comité.
+0115 [Laru] | Ah, ¿sí? Entonces supongo que andar dando vueltas con helado y papas fritas sin encontrar nunca a ==SEX4== no echó nada a perder.
+0116 [Bastelina] | ¡Pregunta! ¡Tu adorable Bastelina también tiene una pregunta!
+0117 [Bastelina] | ¿Con qué sobornó exactamente el Jefe a los Escorpiones del Desierto? Esa Hazana no quería saber nada de esta pelea. Lady Angie intentó convencerla durante siglos y no consiguió nada.
+0118 [Benito] | Con un Sello de la Gracia.
+0119 [Bastelina] | ¡¿Eh?! ¡Un Sello de la Gracia! Con razón... Eso es rarísimo.
+0120 [Benito] | En realidad, no fue el Sello lo que la convenció. Fue...
+0121 [Narración] | Una hora antes.
+0122 [Hazana] | ¿Un Sello de la Gracia? Es una oferta generosa, claro. Pero no voy a apostar la vida de mi gente contra el Comité de Salvación solo porque pagas bien.
+0123 [Benito] | El Jefe dijo que este Sello de la Gracia no es un pago. Solo es un extra que viene con la verdadera oferta.
+0124 [Benito] | Esto es lo que ==SEX== realmente ofrece: ¿Seguirán siendo arena que se lleva el viento, o tomarás esta pieza, guiarás a los mineros oprimidos de Mirage y forjarás un futuro en el que nadie vuelva a exprimirlos nunca?
+0125 [Hazana] | ...
+0126 [Hazana] | ... ¡Jajajaja! No sé cómo lo descubrió el Jefe, pero de verdad me trata como... una socia en igualdad de condiciones.
+0127 [Hazana] | Con un Sello de la Gracia y una victoria sobre los herejes, por fin tendremos un lugar de verdad en la mesa de Nova. No peleamos por nadie más. ¡Peleamos por nosotros mismos!
+0128 [Hazana] | ¡Myrsha! ¡Lleva estas Piedras del Alma a la entrada del Monolito! ¡Dile al Jefe que se luzca!
+0129 [Myrsha] | ¡Voy para allá!
+0130 [Hazana] | ¡Andando, Escorpiones! ¡Hora de mostrarle a esa mujer arrogante de qué estamos hechos!
+0131 [Tú] | Mis compañeras ya consiguieron suficientes Piedras del Alma gracias a los Escorpiones del Desierto. Ahora mismo están subiendo al piso 50 y volverán antes de que te des cuenta.
+0132 [Angie] | ¿Predijiste cada paso de esta batalla... incluso el cambio de lealtades de los Escorpiones del Desierto? ¿Cómo demonios lo lograste?
+0133 [Tú] | ¡Intuición!
+0134 [Angie] | ¡Te voy a matar aquí mismo, ahora mismo!
+0135 [Angie] | ¿Un escudo defensivo de cuerpo completo aplicado directamente sobre la ropa? Qué interesante, Iris. No pensé que fueras a desperdiciar magia de forma tan frívola.
+0136 [Angie] | Un hechizo así consume las bendiciones de toda una Piedra del Alma en un solo lanzamiento.
+0137 [Iris] | ¡De todos modos solo tenemos que aguantar un poco más! ¡Nos sobran bendiciones, así que nunca nos vas a atrapar!
+0138 [Iris] | Oh, Dios de la Gracia, por favor... ¡Por favor, déjanos encontrar una Caja de Deseos absurdamente enorme!
+0139 [Angie] | Uy, acabas de gastar otras dos Piedras del Alma. ¿Cuántas de repuesto te quedan?
+0140 [Iris] | ¡Jefe, vámonos!
+0141 [Angie] | ¡Corran! No importa dónde se escondan... ¡Los encontraré y mataré al Tirano!
+0142 [Lugar y hora] | 18:15, 18.º del mes de Nebula, Monolito del Desierto, Dominio del Jefe
+0143 [Amber] | Me llevo a Iris. Nos esconderemos en el acantilado justo debajo del piso.
+0144 [Tú] | ¡Noya, abre la Caja de Deseos! A juzgar por lo tranquila que está Angie, seguro ella también sabe cómo «repetir la historia».
+0145 [Angie] | Je. No es «seguro», Tirano. Lo sé a ciencia cierta.
+0146 [Angie] | Investigué cada detalle de tu pasado. ¿Cómo iba a pasar por alto el lugar donde todo comenzó?
+0147 [Angie] | El Dominio del Jefe del Monolito del Desierto. Para desbloquearlo solo hacen falta una espadachina de cabello rubio claro y una noble de cabello morado.
+0148 [Angie] | Aquí dentro no hay nada. Es un callejón sin salida absoluto. ¿Esta es la tumba que elegiste para ti?
+0149 [Tú] | Parece que hasta los informantes se equivocan a veces. Aquí dentro sí hay algo.
+0150 [Angie] | ¿Q-qué es ese sonido? Según los registros de la difunta Emperatriz... ¡No debería haber ningún Arconte en este Monolito!
+0151 [Tú] | ¡Noya, métete en la Caja de Deseos!
+0152 [Angie] | ¡Ni lo intentes!
+0153 [Narración] | Las balas de Angie destrozan las últimas capas de magia defensiva que Iris lanzó sobre Noya y sobre mí, y agotan nuestras últimas Piedras del Alma.
+0154 [Narración] | Noya y yo saltamos dentro de la Caja de Deseos, y la pesada tapa se cierra lentamente frente a nosotros.
+0155 [Narración] | Lo último que veo del exterior es al Stellaroid gigante elevándose, con su sombra tragándose toda la sala.

@@ -1,0 +1,99 @@
+# Historia de Ridge · 3 · An Atypical Greenhouse (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Shrubshrew | Shrubshrew
+N:Shrubshrew Leader | Líder Shrubshrew
+N:Shrubshrews | Shrubshrews
+N:avg1_116 | Ridge
+N:avg2_003 | Shrubshrew granadero
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un invernadero atípico (Parte III)
+0003 [Intro] | Gracias al esfuerzo de Ridge, los guisantes prosperan... pero ¿no están creciendo un poco demasiado? ¡Ay no, los brotes de guisante nos van a devorar!
+0004 [Ridge] | ¡Oiga, Jefe! ¡Por aquí, por acá!
+0005 [Ridge] | ¡Mire, estos son los guisantes que sembré antes! ¡Ya crecieron así de grandes!
+0006 [Ridge] | Los he estado observando con cuidado y hasta he estudiado cómo influye el entorno en el rendimiento. Gracias a usted, Jefe, ¡la cruza va muy bien!
+0007 [Narración] | Mirando alrededor, veo que la parcela de prueba de Ridge está dividida en secciones, cada una con una variedad distinta de guisante. Algunas son apenas brotecitos, otras ya están altas.
+0008 [Tú] | Nunca imaginé que aquella historia del «experimento con guisantes» daría tan buenos frutos...
+0009 [Ridge] | ¡Y eso no es lo mejor! Hace poco empecé a usar unos nutrientes especiales para que crezcan más rápido.
+0010 [Ridge] | Según cómo se usen estos nutrientes, se obtienen resultados totalmente distintos.==W== Los guisantes han crecido de todas las formas posibles: ¡se sorprenderá de cuánto varían!
+0011 [Ridge] | Y el más impresionante...==W== Jeje...
+0012 [Ridge] | Jefe, venga conmigo a verlo～
+0013 [Tú] | ¡V-vaya, es enorme! Espera, ¿los guisantes pueden crecer tanto? ¡Es más alto que un árbol!
+0014 [Ridge] | ¿Verdad que es impresionante? A este le apliqué el último acelerador de crecimiento que desarrolló el departamento de investigación.
+0015 [Ridge] | Pero este acelerador sí tiene un defecto. Hace que la planta crezca muy rápido en poco tiempo, pero también reduce el número de vainas...
+0016 [Tú] | Sí, el tallo es enorme, pero casi no le crece nada...
+0017 [Ridge] | ¡Estos días he estado trabajando para ver cómo arreglarlo! ¡Y hoy por fin hice una versión mejorada del acelerador de crecimiento!
+0018 [Ridge] | ¡Por eso lo invité aquí, Jefe!
+0019 [Ridge] | Voy a aplicar un poco ahora mismo para ver cómo funciona. ¡Allá vamos!
+0020 [Narración] | Ridge mezcla el concentrado acelerador de crecimiento con un montón de otras cosas misteriosas,==W== luego lo vierte en la tierra junto a las raíces del guisante gigante...==W== Ahora a esperar.
+0021 [Ridge] | Qué raro. ¿Por qué no pasa nada? Debería funcionar bastante rápido...
+0022 [Ridge] | ¿Quizá la dosis no fue suficiente...? Le agrego un poco más.
+0023 [Narración] | Aun después de que Ridge agrega más, la planta de guisante sigue sin reaccionar.
+0024 [Ridge] | Mmm...==W== Sigue sin reaccionar...
+0025 [Ridge] | ¡En ese caso, le daré un pequeño impulso mágico! ¡Allá voy... hey!
+0026 [Tú] | ¿De verdad está bien usar magia==W== para esto?
+0027 [Ridge] | ¡Estará bien, lo hago todo el tiempo! ¡No se preocupe!
+0028 [Tú] | Eso espero...==W== Espera, ¿es un temblor?
+0029 [Tú] | No, ¡espera! Esto se siente como...
+0030 [Ridge] | ¡Guau!
+0031 [Tú] | ¡¿Q-qué...?! ¡¿El guisante gigante se...==W== está moviendo?!
+0032 [Ridge] | ¡Waaaah!==W== ¡Me duuuuele!==W== ¡¿C-cómo pasó esto?!==W== ¡No lo puedo creer!
+0033 [Ridge] | Me alegra que haya crecido tanto,==W== pero... nunca pensé que, no sé, se moviera...
+0034 [Opción] | ¿Estás bien? ¡Yo te salvo!
+0035 [Ridge] | Ah...==W== ¡E-espere...!==W== Ahí no...==W== ¡N-no, no jale así!
+0036 [Ridge] | Si jala así,==W== se va a enredar todavía más...==W== Ah,==W== ¡e-espere!
+0037 [Ridge] | Ngh... Ngh...==W== Está muy apretado...==W== ¡Yo...==W== no sé si pueda aguantar esto!
+0038 [Opción] | Perdón. Estoy haciendo lo que puedo...
+0039 [Ridge] | ¡Agh!==W== ¡Espere, ahí no...!==W== ¡En serio!==W== ¿Señor guisante?==W== Me voy a enojar==W== si no me suelta.==W==
+0040 [Ridge] | ¡Y no le conviene!==W== Lo voy a cocinar==W== y me lo voy a comer, ¿eh?
+0041 [Opción] | ¡Vaya, creo que nunca te había visto enojada!
+0042 [Ridge] | ¿Mm?==W== ¡E-eh...!==W== ¡Ay! ¡AAAAY!==W== ¡Duele, duele!==W== ¿Señor guisante?==W== Espere...==W== ¿Está enojado?
+0043 [Ridge] | Jajaja...==W== Bueno, este,==W== era broma lo de comerlo.==W== ¿Estamos bien?
+0044 [Ridge] | ¡Iiih!==W== ¡N-no!==W== ¡Ah!==W== ¡No aguanto...!==W== ¡Me rindo! ¡Me rindo!
+0045 [Ridge] | ¡Gyaaaah!==W== ¡Ayúdeeeeme,==W== Jefe!
+0046 [Tú] | ¡Tengo que ayudarla, ahora mismo! Pero...==W== ¿¡cómo!?
+0047 [Tú] | ¿Eh? ¿E-eso es...?
+0048 [Shrubshrew] | Chillido...
+0049 [Tú] | ¡Justo a tiempo...!
+0050 [Tú] | ¡Oigan, Shrubshrews de allá! ¡Escúchenme!
+0051 [Shrubshrew] | ¿Chillido...?
+0052 [Tú] | Ugh, qué rápido se fueron...==W== Tch, parece que no puedo contar con nadie más...==W== Al menos no con monstruos...
+0053 [Ridge] | ¡Ugh... no aguanto mucho más!
+0054 [Tú] | Maldición... todavía no es suficiente...==W== Supongo que no puedo hacerlo solo...
+0055 [Tú] | ¿Ir por ayuda? Pero no hay tiempo...==W== Con la resistencia de Ridge agotándose, cada segundo cuenta...
+0056 [Shrubshrew] | ¡Chiiillido!
+0057 [Shrubshrews] | ¡Chillido! ¡Chillido, chillido, chillido!
+0058 [Tú] | ¡¿Qué...?! ¡Cuántos Shrubshrews! ¿Entonces fueron por ayuda...?
+0059 [Shrubshrew Leader] | ¡Chillido! ¡Chillido, chillido, chillido!
+0060 [Shrubshrews] | ¡Chiiillido!
+0061 [Narración] | Encabezados por el jefe Shrubshrew que atrapamos y soltamos antes, los Shrubshrews saltan sobre las enredaderas que envuelven a Ridge y empiezan a roerlas.
+0062 [Narración] | En un santiamén, el guisante gigante descontrolado queda hecho trizas y Ridge por fin se libera.
+0063 [Ridge] | Increíble... ¡Muchas gracias, Shrubshrews!
+0064 [Shrubshrew Leader] | ¡Chillido!
+0065 [Tú] | Se fueron justo después de ayudarnos... Quizá de verdad regresaron solo para pagar la bondad que les mostraste antes...
+0066 [Ridge] | Sí, quizá...==W== ¿Supongo que ahora estamos a mano?
+0067 [Ridge] | No nos preocupemos de eso ahora...==W== ¡Volvamos al experimento con guisantes, Jefe!
+0068 [Tú] | ¿Más experimentos? Después de todo lo que pasamos, ¿¡no aprendiste la lección!?
+0069 [Ridge] | ¡Claro que sí～!
+0070 [Ridge] | Está bien, las cosas se...==W== salieron un poco de control.==W== Pero también me dio muchas ideas nuevas. ¡Hay que aprovecharlo!
+0071 [Tú] | Siempre es bueno aprender de los errores...==W== ¿Pero de verdad le llamamos «un poco fuera de control»?
+0072 [Ridge] | Además, mejorar las variedades de cultivo es algo importante, ¡hay que abordarlo paso a paso! ¡Un tropiezo así ni de cerca me hará rendirme!
+0073 [Ridge] | Así que... ¡sigamos esforzándonos por acumular provisiones! ¡Podemos con esto, Jefe!
+0074 [Tú] | Eh, ¡s-sí...! Esa determinación sin duda es admirable, así que... buena suerte...==W== Espera, ¿¡yo también soy parte de esto!?
+0075 [Ridge] | ¡Sí! A veces puedo ser un poco imprudente...==W== ¡Pero con usted cerca me siento mucho más segura!
+0076 [Tú] | ¿«Un poco», eh...? Bueno, supongo que de verdad no puedo dejarte sin supervisión...==W== Está bien, pasaré de vez en cuando a echar una mano.
+0077 [Ridge] | ¡Yupi, qué bien! Entonces, como agradecimiento...
+0078 [Ridge] | ¡Mire～! Todo este carrito de verduras:==W== ¡es suyo!
+0079 [Tú] | ¿To... todo esto? ¡No puede ser, es demasiado! ¡No puedo...!
+0080 [Ridge] | ¡No se ponga así, Jefe!
+0081 [Ridge] | ¡Jefe, ahora es mi agrocompa! ¡Y los agrocompas siempre comparten lo bueno!
+0082 [Tú] | ¿Agro... agrocompas...?
+0083 [Ridge] | ¡Sí! ¡«Compañeros de campo»!
+0084 [Ridge] | ¡Cada vez que le den ganas de comer verduras, no sea tímido, pase cuando quiera!
+0085 [Ridge] | ¡Me esforzaré por cultivar y guardar una parte de la cosecha para usted, Jefe!
+0086 [Narración] | Ridge agita su pala y me sonríe radiante.

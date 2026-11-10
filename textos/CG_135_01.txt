@@ -1,0 +1,75 @@
+# Historia de Mistique · 1 · A Special Report (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_135 | Mistique
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Un reportaje especial (Parte I)
+0003 [Intro] | Estás en tus asuntos de siempre cuando descubres la mirada furtiva de Mistique, la bruja...
+0004 [Narración] | Un día bastante común, con calles bulliciosas llenas de gente.
+0005 [Narración] | Mi tarea de hoy es la honorable e importante labor de conseguir materiales. Al menos eso pensé al principio.
+0006 [Tú] | Cuando termine, puedo aprovechar el buen clima, disfrutar del sol y holgazanear un rato...
+0007 [Tú] | Pero primero tengo que ocuparme del problema de antes...==W== O, más bien, del que tengo detrás.
+0008 [Narración] | Hace unos quince minutos empecé a sentir un escalofrío que me subía por la espalda de vez en cuando.
+0009 [Narración] | Era una mirada hambrienta: afilada, maligna y rebosante de expectación.
+0010 [Tú] | Basta, Mistique. Ya te vi.
+0011 [Tú] | Si sigues sacándome fotos a escondidas, voy a empezar a cobrarte una tarifa.
+0012 [Narración] | Una brisa repentina, dulce y salvaje, pasa de largo. Y así, sin más, una bruja lista y encantadora desciende en su escoba justo a mi lado.
+0013 [Tú] | ¿Qué, caminar no te basta? ¿O el mantenimiento de tu escoba te sale gratis?
+0014 [Mistique] | ¡Soy una bruja, tengo que verme como tal!
+0015 [Mistique] | ¡Regla de bruja n.º 1: nunca corras si puedes volar!
+0016 [Tú] | Inventando cosas otra vez, ¿eh?==W== Ni siquiera recuerdas hasta qué número llegaste la última vez, ¿verdad?
+0017 [Mistique] | Olvida todo eso, Jefe. ¿Cómo me descubriste?
+0018 [Tú] | Si vas a seguir a alguien, aunque no te molestes con disfraces, ¡al menos esconde ese sombrero tuyo!
+0019 [Tú] | Y también, al menos silencia el sonido del obturador de tu cámara...
+0020 [Mistique] | ¡Ay, caray! ¡Ni siquiera me di cuenta! ¡Qué vergüenza!
+0021 [Mistique] | ¡Maldición! Este debe de ser el mayor error de toda mi carrera como bruja... ==W==¡Mi único arrepentimiento...!
+0022 [Tú] | Te creería, si no fuera porque sigues tomando fotos mientras hablamos...
+0023 [Narración] | Mistique es una bruja.
+0024 [Narración] | En Nova, las brujas son personas que vuelan en escobas, toman fotografías y convierten historias en reportajes.
+0025 [Narración] | La mayoría trabaja para Scarlet Sights Media y sigue sus instrucciones. Pero, por supuesto, Mistique piensa distinto.
+0026 [Mistique] | ¡Regla de bruja n.º 2: nada puede interponerse en el camino de la verdad!
+0027 [Tú] | Está bien, está bien, ya entendí.==W== Entonces, ¿qué clase de «verdad» intentas sacarme de la cara hoy?
+0028 [Mistique] | Uf, hay demasiados ojos y oídos en la calle. ¡Una colaboración tan importante necesita un lugar tranquilo y adecuado para conversarla!
+0029 [Narración] | Sé que Mistique está llena de secretos.
+0030 [Narración] | Rara vez publica reportajes a través de Scarlet Sights Media.
+0031 [Tú] | O, mejor dicho, aunque lo haga, no es bajo su nombre. Es como si la hubieran expulsado de la industria o algo así.
+0032 [Tú] | En fin... Mejor no llamar la atención aquí en la calle. Busquemos un lugar para sentarnos a hablar.
+0033 [Narración] | Apenas nos acomodamos en la tienda de postres, Mistique estalla de emoción, vibrando. ¡Acaba de conseguir una «comisión misteriosa»!
+0034 [Mistique] | En fin, esta paga muy bien...
+0035 [Mistique] | ¡Además, resulta que coincide perfectamente con lo que me ha interesado últimamente!
+0036 [Mistique] | Ahora tengo la excusa perfecta, jejeje. ==W==¡Por fin puedo tomarte una foto como se debe, Jefe!
+0037 [Tú] | ¿Podrías al menos bajar la cámara mientras hablas conmigo...?
+0038 [Tú] | ¿O sea que la comisión era tomarme fotos?
+0039 [Mistique] | ¡Exacto!==W== Y tiene que ser de cerca, jugosa y dulce, perfectamente fresca...
+0040 [Tú] | ¿Qué soy para ti? ¿Una fruta?
+0041 [Mistique] | Así que, ==W==¡Jefe!==W== Por favor,==W== ten piedad y ríndete obedientemente bajo el lente de mi cámara, ¿sí?
+0042 [Tú] | ¿Quieres mi piedad o mi rendición? Olvida eso...
+0043 [Tú] | ¿Qué gano yo, señorita Bruja?
+0044 [Mistique] | ¿Eh? … ¿¿¿Eh???
+0045 [Narración] | Su alegre sonrisa de hace un momento se queda congelada. La comisura de su boca empieza a temblar.
+0046 [Tú] | No me digas que planeas tomar tus fotos, desaparecer sin dejar rastro y quedarte con todo el dinero, ¿verdad?
+0047 [Mistique] | B-==W==bueno...
+0048 [Narración] | Junta las puntas de los dedos y desvía la mirada, como si eso fuera a ayudarla a salir del apuro.
+0049 [Tú] | ¡No subestimes a Boss Accord Staffing!
+0050 [Tú] | ¡Si quieres que el Jefe cumpla tu deseo, más te vale estar lista para pagar!
+0051 [Mistique] | Buaa...
+0052 [Mistique] | ¡¡Buaaa!! ¡Jefe, cómo pudiste decirme algo así!!!
+0053 [Tú] | ¿Por qué lloras? Yo soy la víctima aquí.
+0054 [Narración] | La bruja recurre a su truco de siempre: hacer un berrinche dramático.
+0055 [Tú] | Mjm, y ahora sigue el numerito de «pobre de mí», ¿verdad?
+0056 [Mistique] | Ugh... ¡Como sabes, mi trabajo es súper inestable casi siempre!
+0057 [Mistique] | ¡Me mato escribiendo todos esos reportajes, y lo que gano apenas alcanza para un cupcake al día!==W== Ah, no, gracias, no estaba pidiendo...!
+0058 [Mistique] | Ejem... Por fin, gracias a un generoso benefactor, tengo la oportunidad de ganar dinero fácil con un trabajo extra, solo para ser rechazada cruelmente por...
+0059 [Tú] | ¿Generoso benefactor?
+0060 [Tú] | ¡Esta vez, ==W==yo seré tu generoso benefactor!
+0061 [Mistique] | ¿Eh? ==W==¿Qué? ¿Eh?
+0062 [Tú] | Despeja tu agenda por hoy.
+0063 [Tú] | Eres mía por el resto del día.
+0064 [Mistique] | ¡Je-Jefe! ¿Q-qué quieres que haga?!!!
+0065 [Tú] | Qué bonito está el clima hoy.
+0066 [Tú] | Perfecto para tomar fotos, ¿no crees?

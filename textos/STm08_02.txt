@@ -1,0 +1,158 @@
+# Capítulo 8 · Calor residual · 2 · A punta de cuchillo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Sentinel of Dawn | Centinela del Alba arrogante
+N:Injured Sentinel of Dawn | Centinela del Alba herido
+N:Knight Captain | Capitán de los caballeros
+N:Ruby & Sapphire | Ruby y Sapphire
+N:Ruthless Sentinel of Dawn | Centinela del Alba despiadado
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_136 | Angie
+N:avg1_138 | Nyx
+N:avg1_144 | Chitose
+N:avg1_150 | Laru
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_157 | Guardia Imperial
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | A punta de cuchillo
+0003 [Intro] | Angie y los Centinelas del Alba se retiran. Descubres que Serena, en su papel de la directora Angie, encabeza la milicia privada conocida como el Comité de Salvación y te ha estado poniendo a prueba para determinar si eres el legendario Tirano.
+0004 [Lugar y hora] | 10:45, 23.º del mes de Venatio, Distrito de Plata de Philae, Calle sin nombre
+0005 [Arrogant Sentinel of Dawn] | Maldita sea, ¿dónde demonios está ese francotirador? Nos está tumbando uno tras otro.
+0006 [Ruthless Sentinel of Dawn] | No deja de cambiar de posición para que no lo ubiquemos. Tch... El director ejecutivo de Boss Accord vino bien preparado.
+0007 [Ruthless Sentinel of Dawn] | Ningún director ejecutivo, ni siquiera uno de Cosecha Unida, contrataría a un francotirador para protegerse en sus asuntos diarios. ¡Eso lo confirma: ==SEX== ES el legendario Tirano!
+0008 [Ruthless Sentinel of Dawn] | La buena noticia es que el francotirador ha estado gastando su magia todo este tiempo. A estas alturas ya debe de estar casi sin reservas.
+0009 [Arrogant Sentinel of Dawn] | Solo tenemos que cerrar esta calle. Así encerraremos al Tirano en la zona del hotel. Luego lo rodeamos y acabamos con ==SEX4==.
+0010 [Tilia] | Capitán, ¿qué está pasando? Creí que Cosecha Unida Philae nos había contratado para proteger sus instalaciones y resguardar la zona residencial. ¿Por qué estamos aquí cazando gente?
+0011 [Knight Captain] | Shh, baja la voz. La orden vino de arriba. Recemos para que esos dos Centinelas se olviden de que estamos aquí. No quiero otro encontronazo con ese Tirano.
+0012 [Arrogant Sentinel of Dawn] | ¡Oigan, dejen de platicar! Tú eres el capitán, ¿no? Haz que tu gente acordone todas las propiedades de esta calle. No podemos arriesgarnos a que el Tirano escape.
+0013 [Knight Captain] | Con todo respeto... Digan lo que digan de ==SEX4==, ==SEX== sigue siendo el director ejecutivo de Boss Accord. Cualquier acción contra un director ejecutivo constituye una guerra corporativa, y el protocolo exige que la Guardia Imperial se mantenga neutral en esos conflictos.
+0014 [Arrogant Sentinel of Dawn] | Esto no es una guerra corporativa. Está en juego el futuro de Nova.
+0015 [Knight Captain] | Eh... Pero...
+0016 [Arrogant Sentinel of Dawn] | Si el Tirano se escapa, ¿quién va a asumir la responsabilidad? ¿Tú?
+0017 [Tilia] | ¡Yo la asumo!
+0018 [Knight Captain] | Tilia...
+0019 [Tilia] | ¡El Jefe y ==SEX3== amigos protegieron Philae! ¡==SEX1== jamás sería quien destruya Nova! ¡Jamás!
+0020 [Arrogant Sentinel of Dawn] | ¿Y tú quién se supone que eres?
+0021 [Tilia] | Soy Tilia, escudera de la Guardia Imperial.
+0022 [Arrogant Sentinel of Dawn] | Hmph... ¿Desde cuándo una simple escudera habla sin que le den permiso?
+0023 [Ruthless Sentinel of Dawn] | ¡No sabes nada! El Libro de las Profecías de la Gracia nunca se equivoca. El Tirano debe ser ejecutado por el bien de todos los novianos...
+0024 [Noya] | ¡Oye, quítate de en medio!
+0025 [Ruthless Sentinel of Dawn] | Gah... ¿De dónde salió eso...?
+0026 [Arrogant Sentinel of Dawn] | ¡E-esperen...! ¡¿Se volvieron locos?! ¡¿Cómo se atreven a atacar a miembros del Comité?! ¡Y ustedes, caballeros holgazanes! Haré que los metan a todos a la cárcel...
+0027 [Chitose] | Mi ==SEX11==, ya me encargué de los enemigos.
+0028 [Tú] | Gracias, Chitose. No lo habría logrado sin ti.
+0029 [Amber] | ¿Estás herido, Jefe?
+0030 [Iris] | Otoha nos avisó y nos pidió que viniéramos por ti. Qué bueno que llegamos a tiempo.
+0031 [Tú] | Perdón si las preocupé.
+0032 [Noya] | ==PLAYER_NAME==, ¿qué pasó? ¿Por qué el Imperio de la Gracia va tras de ti...?
+0033 [Tú] | Serena está convencida de que soy el legendario Tirano. Ha estado reuniendo a empleados del Imperio de la Gracia, diciendo que matarme es la única forma de salvar al mundo.
+0034 [Tú] | No sé por qué llegó tan lejos. Pero no todos en el Imperio de la Gracia están en nuestra contra. Ahí está Bastelina. Ella solo nos ha tratado con amabilidad.
+0035 [Tú] | Y tú también, Tilia. Gracias por defenderme. De verdad significa mucho para mí.
+0036 [Tilia] | No hay de qué. Arriesgaste la vida por hacer lo correcto. Así es un defensor de la justicia. Una mala persona jamás haría eso.
+0037 [Knight Captain] | Ejem, tiene razón. La Guardia Imperial siempre está del lado de la justicia. Si alguno de nuestros guardias te atacó hace rato, seguro no fue a propósito.
+0038 [Knight Captain] | Solo seguíamos órdenes del Imperio de la Gracia. Tenemos que... ¡Pero no queremos hacerte ningún daño, Jefe!
+0039 [Tú] | E... ¿Está bien?==W== Lo tendré en cuenta.
+0040 [Knight Captain] | Como muestra de buena fe, permítenos escoltarte a un lugar seguro.
+0041 [Firenze] | Agradecemos la intención, capitán. Pero ahora que llegamos, no hay lugar más seguro para el Jefe que aquí con nosotros.
+0042 [Tú] | ¡Firenze, viniste! ¡Y todos los de Cosecha Unida Philae!
+0043 [Nyx] | Perdón, intentamos llegar antes... Pero íbamos un paso atrás.==W== En fin, lo más importante es que estás a salvo.
+0044 [Firenze] | Ahora que estamos aquí, diría que las fuerzas están parejas.
+0045 [Tú] | Firenze, ya logré salir. ¿De verdad hace falta escalar la situación?
+0046 [Tú] | El Imperio de la Gracia tiene literalmente un ejército allá. Si esto se convierte en una pelea de verdad, podría arrastrar a tu empresa.
+0047 [Firenze] | Si Cosecha Unida Philae no puede proteger a la persona que la salvó a ella y a la ciudad, si no está con sus aliados cuando la necesitan, ¿qué sentido le queda como empresa?
+0048 [Firenze] | Ruby, Sapphire, aseguren la entrada principal del hotel.
+0049 [Ruby & Sapphire] | ¡¡Entendido!!
+0050 [Knight Captain] | Nosotros los apoyaremos.==W== ¡Caballeros Imperiales, en formación!
+0051 [Tilia] | Espere, capitán... ¿No acaba de decir que no nos metemos en guerras corporativas?
+0052 [Knight Captain] | Bueno, esos Centinelas dejaron claro que...
+0053 [Arrogant Sentinel of Dawn] | Esto no es una guerra corporativa.
+0054 [Knight Captain] | En ese caso...
+0055 [Knight Captain] | Esta gente no es más que una banda de rufianes armados. ¡La Guardia Imperial cumplirá su contrato con Cosecha Unida Philae y ayudará a mantener el orden en la ciudad!
+0056 [Lugar y hora] | 11:30, 23.º del mes de Venatio, Distrito de Plata de Philae, habitación del hotel
+0057 [Injured Sentinel of Dawn] | Señora, la Guardia Imperial se puso del lado del Tirano. Se voltearon las cosas. Ahora nos están rodeando a nosotros.
+0058 [Angie] | ...Retirémonos. Subestimé al Tirano. ==SEX1== vino mejor preparado de lo que esperaba. Tenemos que reagruparnos.
+0059 [Angie] | Ya verás, Tirano.==W== Por el futuro de Nova...
+0060 [Angie] | La próxima vez dejaré que el rayo del Cetro de la Muerte te atraviese el corazón...
+0061 [Angie] | ...aunque eso signifique caer contigo.
+0062 [Albedo] | Directora, aquí está. Me debe una explicación por todo este desastre.
+0063 [Albedo] | Las acciones del Imperio de la Gracia provocaron un caos enorme en Philae... Ni siquiera sé por dónde empezar. No se irá a ningún lado hasta que me dé respuestas.
+0064 [Angie] | Sé que tienes muchas quejas, Albedo. Yo también, pero...
+0065 [Angie] | Lo único que importa es salvar a Nova de la destrucción.==W== ¿Un poco de caos en Philae? ¿Unos cuantos problemas para el Imperio de la Gracia? Eso no es nada.
+0066 [Angie] | Je... Jajaja... No, ni siquiera cuentan como problemas. Así que dime, ¿por qué habría de importarme?
+0067 [Albedo] | Otra vez con lo mismo... La misma cantaleta de la profecía. La destrucción de Nova no es más que tinta en una página. ¿Por qué está tan obsesionada con eso?
+0068 [Angie] | Ah... Ya veo, Albedo. Así que tú también has vivido en una burbuja.
+0069 [Nyx] | Está rodeada. Resistirse no tiene sentido. Suelte sus armas y ríndase.
+0070 [Angie] | Vaya, vaya. Miren cuánta gente.==W== Me temo que estoy demasiado ocupada para recibirlos. Nos vemos la próxima vez.
+0071 [Firenze] | ¡No te vas a escapar!
+0072 [Firenze] | No puede ser... ¡¿Simplemente desapareció?!
+0073 [Nyx] | ¿Lady Albedo, contadora en jefe del Instituto del Cielo? Me temo que, dadas las circunstancias, tendrá que venir con nosotros.
+0074 [Lugar y hora] | 14:00, 23.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0075 [Ruby] | ¡Reporte! Jefe, Lady Firenze, la zona alrededor del hotel está asegurada. No hubo huéspedes heridos.
+0076 [Sapphire] | Capturamos a cuatro Centinelas del Alba, pero ninguno quiso revelar su identidad.
+0077 [Sapphire] | En cuanto a bajas, treinta de nuestros elementos de seguridad resultaron heridos. La Guardia Imperial también tuvo pérdidas, probablemente unas cuantas decenas, pero no hay una cifra exacta.
+0078 [Firenze] | Traigan a los mejores médicos de Philae. Asegúrense de que todos los heridos reciban la atención adecuada.
+0079 [Ruby & Sapphire] | ¡Sí, señora!
+0080 [Nyx] | Los Centinelas del Alba son duros. Serena solo trajo a diez y aun así contuvieron a más de cien de los nuestros, y seis lograron escapar.
+0081 [Amber] | Su magia está en otro nivel. Sus hechizos son incluso más rápidos que una bala mágica saliendo del cañón.
+0082 [Noya] | Y son increíblemente fuertes. En los choques apenas podía sostener mi espada. Iris, ¿quiénes son esas personas? ¿Soldados privados del Imperio de la Gracia?
+0083 [Iris] | Y-yo tampoco lo sé. La información pública dice que son una unidad especial del Imperio de la Gracia, pero es todo lo que hay. La mayoría de la gente ni siquiera sabe que existen.
+0084 [???] | Responden ante uno de los cuatro miembros de los Aspectos de la Tétrada, el máximo consejo de gobierno del Imperio de la Gracia. Los Centinelas del Alba son una unidad especial para combatir a Nocturn Eterna; normalmente están apostados cerca de los Monolitos del Fin del Mundo. Rara vez aparecen.
+0085 [Chitose] | Mi ==SEX11==, traje a Albedo.
+0086 [Tú] | Chitose, desátala, por favor.==W== No... creo que sea nuestra enemiga.
+0087 [Albedo] | No, Jefe, permítame rechazar su amabilidad. La directora del Instituto del Cielo huyó. Como contadora en jefe, estoy obligada a asumir las consecuencias.
+0088 [Tú] | La directora del Instituto del Cielo...==W== Solo para que quede claro: ¿Serena es la directora? ¿La que intenta matarme?
+0089 [Albedo] | Sí. Ordenó esta cacería sin la aprobación de los Aspectos de la Tétrada. Por desgracia, no tengo pruebas concretas para demostrarlo. Puede que no le convenza.
+0090 [Noya] | Aspectos de la Tétrada... Centinelas del Alba... Instituto del Cielo... Cuántos nombres. Me da vueltas la cabeza...
+0091 [Tú] | Cuando los Centinelas iban tras Chitose y de mí, tú interviniste.==W== Así que... supongo que estoy dispuesto a confiar en ti.
+0092 [Tú] | Pero ¿puedes explicarnos todo desde el principio?
+0093 [Albedo] | De verdad es tan amable como dicen. Gracias. Le diré todo lo que sé.
+0094 [Albedo] | El Imperio de la Gracia tiene cuatro grandes divisiones. El Instituto del Cielo administra el comercio de la Gracia y de las Piedras del Alma. El Ojo de la Gracia se dedica al estudio de la magia y a la administración de la universidad y las academias.
+0095 [Albedo] | Los Árbitros del Ocaso sirven al Dios de la Gracia y se encargan de dar caza a los herejes. Los Centinelas del Alba custodian los Monolitos y persiguen a Nocturn Eterna.
+0096 [Albedo] | Los líderes de las cuatro divisiones forman los Aspectos de la Tétrada, el máximo consejo de gobierno del Imperio de la Gracia.
+0097 [Albedo] | Las decisiones importantes solo pueden tomarse y llevarse a cabo cuando más de la mitad de los Aspectos de la Tétrada las aprueban.
+0098 [Albedo] | ...Pero últimamente, la directora ha estado actuando a sus espaldas y ejerciendo su autoridad por su cuenta.
+0099 [Albedo] | Por ejemplo, adelantar la fecha de la subasta del Monolito de Philae fue idea suya y de nadie más.
+0100 [Albedo] | Se lo ocultó a todo el Instituto del Cielo, incluida yo. El anuncio salió de la nada y tuvimos que correr para preparar el recinto.
+0101 [Albedo] | Lo peor de todo es que después descubrimos que se comunicaba en secreto con Omnisky Aegis. No... Era una licitación amañada.
+0102 [Albedo] | Inscribió a todos los empleados del Instituto del Cielo en seguros médicos carísimos...
+0103 [Albedo] | ...todo para inflar las cifras de las hermanas Mercurio y ayudarlas a escalar en la jerarquía corporativa.
+0104 [Tú] | La directora trajo a Omnisky Aegis para inflar las pujas, y la Guardia Imperial es su respaldo de toda la vida.==W== Entonces eso significa...
+0105 [Firenze] | Parece que la directora actúa por pura malicia. ¿O será solo su forma de castigarnos por el incidente de Darcia?
+0106 [Albedo] | Eso pensé al principio. Claro, es poco ético, pero si solo se tratara de bajarle los humos a Philae, casi podría tolerarlo. Pero entonces...
+0107 [Albedo] | Cuando la puja alcanzó el tope de cuarenta mil millones de Dorra, la directora me dijo esto...
+0108 [Angie] | Preparé dos versiones de la consigna de deseo. Si ==PLAYER_NAME== llega a un acuerdo con Omnisky Aegis o con Finanzas del Mar Profundo esta noche, usa la versión estándar.
+0109 [Angie] | Pero si decide reunir los fondos por su cuenta, usa el fragmento del Libro de las Profecías de la Gracia.
+0110 [Albedo] | ¿Entonces me está diciendo...? Si Cosecha Unida Philae acepta trabajar con otra parte o pide un préstamo al banco, ¿usted retiraría su castigo?
+0111 [Angie] | Jeje. Albedo, sigues sin entenderlo.
+0112 [Angie] | Esto no es un castigo. Es una prueba.
+0113 [Tú] | Una prueba...==W== Ahora que lo pienso, desde nuestro primer encuentro hasta el entrenamiento de Fuyuka, me ha estado poniendo a prueba todo el tiempo.
+0114 [Tú] | ¿Así que me consideró el legendario Tirano desde el momento en que puse un pie en Philae?
+0115 [Tú] | No... Viene de antes. Bastelina organizó nuestro primer encuentro,==W== lo que significa que ya me estaban vigilando desde Emor.
+0116 [Albedo] | Bastelina no tenía idea de nada de esto. Solo hacía lo que la directora le había pedido.
+0117 [Albedo] | ==PLAYER_NAME==, creo que la directora lo puso en la mira desde el momento en que abrió esa caja fuerte.
+0118 [Albedo] | Dentro del Imperio de la Gracia hay una facción secreta...
+0119 [Albedo] | El «Comité Especial para la Salvación del Continente de Nova y la Neutralización del Tirano». A estas alturas, seguramente ya sabe quiénes son.
+0120 [Albedo] | Cuando Serena asumió la presidencia de este Comité, adoptó un nombre antiguo: Angie.
+0121 [Albedo] | Y fue entonces cuando empezó a cambiar.
+0122 [Albedo] | Siguió al pie de la letra el Libro de las Profecías de la Gracia y rastreó cada señal del Tirano.
+0123 [Albedo] | Yo no creo en leyendas ni profecías, y no sabría decirle cómo llegó la directora Angie a la conclusión de que usted es el Tirano...
+0124 [Albedo] | Pero incluso para alguien incrédula como yo, lo que usted ha hecho en los últimos seis meses es más que extraordinario.
+0125 [Albedo] | Por favor, responda una pregunta, ==PLAYER_NAME==.==W== A estas alturas, ¿cree usted que es el legendario Tirano?

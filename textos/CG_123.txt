@@ -1,0 +1,6 @@
+# Historia de Ann — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_123_01 | La pequeña guardiana insomne (Parte I)
+CG_123_02 | La pequeña guardiana insomne (Parte II)
+CG_123_03 | La pequeña guardiana insomne (Parte III)

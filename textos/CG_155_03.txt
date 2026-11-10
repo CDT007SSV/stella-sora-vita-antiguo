@@ -1,0 +1,93 @@
+# Historia de Shia · 3 · Trace of Scent (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_155 | Shia
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Rastro de aroma (Parte III)
+0003 [Intro] | Siempre ahí, justo detrás de mí: el mismo aroma, sin cambiar.
+0004 [Narración] | Como prometió Shia, la cena de mariscos es todo un banquete.
+0005 [Tú] | Comí de más ... apenas puedo caminar...
+0006 [Shia] | Con que lo hayas disfrutado, eso es lo importante. La próxima vez te llevaré a otro lugar♪
+0007 [Narración] | Salimos del restaurante y encontramos el cielo completamente oscuro.
+0008 [Shia] | Con esto termina la «aventura junto al mar» de hoy. Espero que lo hayas pasado bien, Jefe.
+0009 [Tú] | Espera... ¿Eso es todo?
+0010 [Shia] | Eh ... ¿sí? ¿Quieres más?
+0011 [Tú] | ¡Sí! ¡Claro que sí! Hoy compramos trajes de baño y ni siquiera los usamos.
+0012 [Tú] | ¡Si nuestra aventura junto al mar termina aquí... me voy a arrepentir toda la vida!
+0013 [Shia] | Ah—¡perdón, perdón...! Estaba en las nubes... ¡se me olvidó por completo...!
+0014 [Shia] | Pero la playa de noche... ==W==Bueno, es un poco peligrosa. No te recomendaría ir a nadar...
+0015 [Tú] | Rayos... A este paso, mi plan para animarla se va a ir al traste...
+0016 [Shia] | Quizá podamos hacerlo la próxima vez—
+0017 [Tú] | E-en realidad... siempre me ha interesado el surf. Hace tiempo que quiero probarlo...
+0018 [Shia] | ¿Te refieres a... ahora?
+0019 [Shia] | Jefe... ¿Será que...?
+0020 [Shia] | Está bien. Aunque es bueno tener algo que esperar la próxima vez, es mejor si hacemos de hoy el momento más inolvidable.
+0021 [Tú] | Qué silencio... Completamente distinto de la playa de día.
+0022 [Shia] | La oscuridad esconde los peligros del mar: a diferencia del día, no se ven las corrientes.==W== Por eso tanto turistas como locales evitan la playa de noche.
+0023 [Tú] | Pero mientras estés aquí, no habrá problema, ¿verdad?
+0024 [Shia] | Sí. Una vez que estemos en el agua, no te separes de mí, ¿de acuerdo?
+0025 [Shia] | Si tienes miedo, puedes agarrarte fuerte de mí... Eso también me dará tranquilidad♪
+0026 [Tú] | Dejando de lado lo de «agarrarme fuerte»... Haré todo lo posible por estar a tu lado.
+0027 [Tú] | Surfear de noche, y nada menos que con Shia... Ya me están dando nervios...
+0028 [Tú] | ==W==¡Guau—
+0029 [Shia] | Jeje, ¿ya te estás divirtiendo, Jefe?
+0030 [Tú] | E-espera... ¡Por favor, no me hables ahorita!
+0031 [Tú] | Apenas puedo mantener el equilibrio... Ni tengo tiempo de pensar en divertirme ni nada... ¡Ahhh!
+0032 [Shia] | Jeje, ¿en serio? Entonces, ¿qué tal si hacemos el chapuzón todavía más grande? Ah, aceptaste, no hay vuelta atrás.
+0033 [Tú] | ¡¡¡Yo no acepté nada!!!
+0034 [Shia] | Jefe, ¿qué tal tu primera vez surfeando? Divertido, ¿verdad?
+0035 [Tú] | La verdad, al principio me dio un poco de miedo...==W== Pero cuando me acostumbré, se sintió muy liberador. ¡Qué subidón!
+0036 [Tú] | Se suponía que yo animaría a Shia. En cambio, el surf me atrapó a mí...
+0037 [Shia] | Es impresionante que puedas mantener el equilibrio en tu primer intento. Jefe, definitivamente tienes talento para esto.
+0038 [Tú] | Nah, es que tengo buena maestra.
+0039 [Tú] | Muchísimas gracias, Shia. Tuve un día maravilloso.
+0040 [Shia] | Soy yo quien debería agradecerte.
+0041 [Shia] | Quería mostrarte todo como se debe, pero salió completamente distinto a lo que imaginaba.
+0042 [Shia] | Estuviste conmigo todo el tiempo, y aun así ... me dejé llevar por la tristeza.
+0043 [Shia] | Al final, tú fuiste quien me animó y me ayudó a sentirme mejor. Así que de verdad yo debería agradecerte♪
+0044 [Tú] | ¿Entonces lo notaste?
+0045 [Shia] | Jeje, porque de repente quisiste ir a surfear.
+0046 [Shia] | Sé que es porque...
+0047 [Shia] | Cuando me siento mal, suelo ir a surfear.
+0048 [Shia] | Recordaste que dije eso, ¿verdad?
+0049 [Tú] | Aunque no fui muy sutil, igual da algo de pena que me descubran...
+0050 [Tú] | En fin, solo no quería verte con esa cara de soledad...
+0051 [Shia] | ¿Por qué?
+0052 [Tú] | Si tú no estás feliz, Shia, no podemos hacer de hoy el mejor día en nuestra memoria.
+0053 [Shia] | ¡Jefe...!
+0054 [Tú] | Solo quería crear un buen recuerdo para mí. Por eso te arrastré a surfear conmigo... Nada más.
+0055 [Tú] | Pero no quería que solo pusieras buena cara por mí.
+0056 [Tú] | Es completamente normal sentir una sensación de pérdida cuando algo familiar desaparece de repente.
+0057 [Shia] | Gracias. Tienes razón.
+0058 [Shia] | Para mí, los aromas son como faros junto al mar. Marcan todos mis recuerdos.
+0059 [Shia] | Pero hoy... Aunque las calles se veían familiares, su aroma me resultó completamente extraño.
+0060 [Shia] | Sé que el mundo siempre está cambiando, igual que las olas nuevas siempre cubren a las viejas. ==W==Pero ... aun así... Aun así me cuesta acostumbrarme.
+0061 [Shia] | Si la luz del faro se apaga y el mar queda completamente a oscuras... ¿Adónde iré a la deriva?
+0062 [Opción] | Abrazar a Shia por detrás
+0063 [Shia] | Ah...==W== ¿Eh?==W== ¿Eh—?==W== ¿Por qué==W== de repente…?
+0064 [Opción] | ¿Te sentirías mejor si hago esto?
+0065 [Shia] | Sí…==W== Me gusta que me abracen fuerte así.==W== Me da mucha tranquilidad.==W== Aunque me diste un pequeño susto==W== cuando te acercaste de repente…
+0066 [Opción] | Soltar a Shia
+0067 [Shia] | ¿Será que todavía recuerdas …==W== lo que te conté==W== de abrazar a la abuela cuando era niña?
+0068 [Opción] | Eso también es parte de los recuerdos de hoy, ¿no?
+0069 [Shia] | Jeje,==W== ya veo.==W== De verdad eres==W== muy gentil.
+0070 [Shia] | Ah,==W== por cierto...==W== Cuando me abrazaste hace un momento,==W== de pronto me di cuenta de algo.
+0071 [Shia] | Todo el día,==W== me he sentido sola,==W== como si el mundo entero me hubiera dejado atrás…==W== Es un sentimiento==W== grabado==W== tan hondo en mi corazón…
+0072 [Shia] | Pero==W== cuando estoy contigo,==W== yo …==W== me siento verdaderamente feliz.==W== De eso==W== estoy segura.
+0073 [Opción] | ¿Por qué será?
+0074 [Shia] | Mm.==W== Porque,==W== entre todos esos aromas extraños,==W== siempre hay uno==W== que me resulta el más familiar.==W== Y ...==W== ese aroma==W== ha estado a mi lado todo este tiempo.
+0075 [Shia] | Jeje,==W== ¿sabes==W== cuál es?
+0076 [Opción] | Hablando de eso, me olfateaste la primera vez que nos conocimos...
+0077 [Shia] | Jeje…==W== En ese entonces==W== no pensé tanto...==W== En fin,==W== en los días por venir,==W== todo a mi alrededor==W== seguramente==W== seguirá cambiando.
+0078 [Shia] | Pero…==W== Con solo saber==W== que un aroma==W== nunca cambiará,==W== siento que ya no tengo miedo.==W== Gracias,==W== ==SEX7== Conejo♪
+0079 [Narración] | Esa noche, platiqué con Shia hasta la madrugada antes de volver a casa.
+0080 [Shia] | ¡Hoy fue un día maravilloso♪
+0081 [Shia] | Es solo que hubo cosas que no me atreví a decir.
+0082 [Shia] | Quizá hasta mi aroma haya cambiado.
+0083 [Shia] | Ah... Ya huelo a Jefe...
+0084 [Narración] | Es mi favorito♪

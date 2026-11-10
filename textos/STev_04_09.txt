@@ -1,0 +1,154 @@
+# Evento · Réquiem invernal y el gatillo del alba · 9 · La carga del poder
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Council Member | Miembro del consejo
+N:Master | Maestro
+N:Researcher | Investigador
+N:avg1_120 | Canace
+N:avg1_143 | Wraith
+N:avg2_951 | Entidad de la Prosperidad (Fuego)
+N:avg3_100 | Sylar
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_168 | Chica
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_195 | Edda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | La carga del poder
+0003 [Intro] | Hace falta un choque brutal para que Edda comprenda que no puede derrotar a Wraith. Desesperada, intenta forzar la mano de Wraith para completar el ritual, pero Wraith se niega.
+0004 [Wraith] | Basta de esta farsa.
+0005 [Edda] | ¡Ugh! Tú...==W== ¡Monstruo incansable!
+0006 [Tú] | Edda, ya no tienes opciones. Detén esto antes de que sea demasiado tarde.
+0007 [Edda] | ¿Detenerlo...?==W== Je, je, je...
+0008 [Edda] | ¡Perdí el camino hace mucho tiempo!
+0009 [Tú] | ¡¿Cómo?! ¿Por qué se convirtió en Norstheim si estamos dentro de un Monolito?
+0010 [Wraith] | ¡==PLAYER_NAME==, atrás!
+0011 [Wraith] | Te estás quedando sin Gracia. Deja de perder el tiempo. Si tienes un as bajo la manga, úsalo.
+0012 [Wraith] | Lánzame todo lo que tengas. Te derribaré cada vez.
+0013 [Edda] | Hmph. Mucha palabrería.
+0014 [Wraith] | Ve al punto.
+0015 [Edda] | Si quisieras terminar con esto, ya habrías apretado el gatillo.==W== Pero... Mira a tu alrededor. ¿Te suena familiar? El día en que el Monolito se apagó.
+0016 [Wraith] | ¡¿Cómo sabes de ese día?!
+0017 [Edda] | Claro que lo sé. Como te dije: hice mi tarea antes de venir.
+0018 [Edda] | No solo el Monolito... Investigué todo lo relacionado con Norstheim.
+0019 [Edda] | Después de todo... aquel día no pude estar aquí con la persona más importante.
+0020 [Edda] | Puede que no me importe esta ciudad...==W== pero ¿quién no querría saber la verdad sobre su propia tierra natal?
+0021 [Opción] | ¿Tierra natal? Entonces eres...
+0022 [Edda] | Así es. Nacida y criada aquí. Aunque casi todos me llamaban la Vergüenza de Norstheim.
+0023 [Edda] | Je. No siento nada por este lugar, pero me ronda al fondo de la mente...==W== Como una maldición.
+0024 [Edda] | Pero tú... Tú eres del linaje del Señor de la Guerra. Tuviste una vida cómoda antes de ese día, e incluso después... Nunca entenderás lo que siento.
+0025 [Wraith] | Tienes razón... Viendo lo que has hecho, no puedo fingir que te entiendo. Pero nunca he olvidado el honor de mi clan.
+0026 [Edda] | ¿El honor de tu clan?==W== Je... ¡Jajajaja!
+0027 [Edda] | Ejem... Disculpa. Es que no esperaba palabras tan altaneras viniendo de ti.
+0028 [Wraith] | ¿Mm? ¿Dije algo raro?
+0029 [Edda] | ¿Crees que no lo sé? Wraith, no has matado a una sola Nocturn Eterna.==W== Los monstruos que destruyeron tu hogar... no les has tocado ni un pelo.
+0030 [Edda] | Y tienes el descaro de decir que nunca lo olvidaste... No me hagas reír.
+0031 [Opción] | ¡Wraith, no dejes que te meta cosas en la cabeza!
+0032 [Wraith] | Gracias por la advertencia, pero estoy bien. Nada de lo que diga cambia la verdad. Nunca olvidé ese honor.==W== No... En realidad, tú me ayudaste a recuperarlo.
+0033 [Tú] | ¿Y-yo? ¿A qué te refieres?
+0034 [Wraith] | Oíste bien.
+0035 [Tú] | Ah... Así que a eso te referías. Supongo que sí pasó.
+0036 [Edda] | Otra vez con lo mismo... Odio a la gente como tú...
+0037 [Edda] | Actúan como si merecieran todo. Presumiendo todo... Todo lo que yo nunca podré tener...
+0038 [Edda] | ¿Por qué tú puedes tenerlo todo? ¿Será porque no nací guerrera? ¿O porque usé eso como excusa para huir?
+0039 [Edda] | Olvídalo... Ya no importa. Solo aprieta el gatillo. Acaba con esto...
+0040 [Edda] | ¡Ugh...!
+0041 [Master] | ¡Edda, no te esfuerces! ¡Es demasiado peligroso! ¡Baja la espada, ahora mismo!
+0042 [Edda] | Perdón... Yo solo... quería intentarlo una vez más...
+0043 [Master] | Eres demasiado frágil. Hicieron falta años de tratamiento solo para ponerte de pie.
+0044 [Edda] | ¿Por qué todos los demás pueden hacerlo, menos yo...?==W== Ayer ellos... me llamaron callejera. Dijeron que no soy una verdadera hija de Norstheim...
+0045 [Master] | ¡¿Quién te dijo eso?!
+0046 [Edda] | Todos en la calle...
+0047 [Master] | Escucha, Edda. Ignóralos. Este es tu hogar. Las puertas de Norstheim siempre están abiertas para ti.
+0048 [Master] | No te angusties por tu origen ni por lo que diga la gente... Aunque no puedas blandir una espada, encontrarás tu propia fuerza. No tienes que ser guerrera para servir a esta ciudad.
+0049 [Edda] | Mi propia fuerza...
+0050 [Edda] | Eh, Maestro... En realidad, anoche me escapé a los terrenos de caza. Vi a una chica siendo atacada por un monstruo. Y entonces yo...
+0051 [Council Member] | ¡¿Derrotar a un enorme Jabalí Corteza con un solo hechizo?! Qué talento increíble...
+0052 [Council Member] | Esta niña... ¿Tal vez deberíamos enviarla a la Academia Luz de Gracia? No... ¿Por qué no hacer que los investigadores del Ojo de la Gracia la evalúen directamente?
+0053 [Master] | Edda, quiero oír tu decisión.
+0054 [Edda] | Yo... quiero ir.==W== Pero ¿la Ciudad de los Mil Monolitos no queda muy lejos...? Además, estoy prácticamente en la ruina...
+0055 [Council Member] | Olvida el costo. Un don como el tuyo es raro... Financiaremos todo. Yo mismo escribiré la recomendación.
+0056 [Edda] | ...
+0057 [Master] | Vaya, ¿llorando antes de empezar la escuela?
+0058 [Edda] | ¡Porque...! Eso significa que tengo que dejarlo, Maestro...
+0059 [Master] | ¡Jajaja! No es que nunca nos vayamos a ver otra vez. Ven a visitarnos en las vacaciones: ¡este siempre será tu hogar!
+0060 [Narración] | Meses después.
+0061 [Narración] | ==A-1==Querido Maestro: ¿Cómo ha estado? Parece que hace una eternidad que salí de Norstheim.==P== ==A-1==Casi vivo en la biblioteca y el laboratorio últimamente... Pero todos aquí son tan únicos. Estoy bien y estoy haciendo muchos amigos.==P== ==A-1==Aun así, extraño mi hogar. Se acercan las vacaciones, así que pronto debería ir a visitarlo.==P== ==A-1==Por ahora me detengo aquí. Quiero guardar el resto para cuando lo vea. —Edda
+0062 [Edda] | Ahora solo falta encontrar un mensajero para enviar esto...
+0063 [Edda] | ¡¿Wah?!
+0064 [???] | ¡Perdón! ¡¿Estás bien?!
+0065 [Edda] | Auch...==W== ¡¿Eh?! ¿Canace senpai?
+0066 [Canace] | ¿Mm? ¿No eres Edda? ¿De la Clase de Élite?
+0067 [Edda] | ¡S-sí! ¡Soy Edda! Nunca esperé toparme con una graduada como tú por aquí...
+0068 [Canace] | Bueno... Es complicado. Estoy aquí en observación por un tiempo.
+0069 [Canace] | ¿Mm? ¿Se te cayó esto?
+0070 [Edda] | Ah, cierto, ¡mi carta! Con las vacaciones cerca, quería enviar una nota a casa antes de regresar...
+0071 [Canace] | ¿No eres de... la Ciudad del Norte?==W== Si es así...
+0072 [Edda] | ¿Sí...? ¿Por qué...? ¿Pasó algo en Norstheim?
+0073 [Canace] | Ah... Bueno, solo he oído rumores. Pero dicen que hubo una catástrofe enorme en el Monolito de Norstheim...==W== Dicen que se apagó.
+0074 [Researcher] | Hola. ¿Eres la nueva investigadora asignada a esta unidad?
+0075 [Edda] | Sí. Me asignaron al Departamento de Estudios Antiguos.
+0076 [Researcher] | Entendido, déjame registrarte...==W== ¿Y el lugar de nacimiento?
+0077 [Edda] | Lugar de nacimiento... ¿Puedo poner N/A?==W== Mi hogar ya...
+0078 [Narración] | ...fue borrado del mapa.
+0079 [Edda] | El Maestro me prometió que siempre tendría un hogar al que volver... Pero como el Monolito se apagó, ya no me quedó adónde ir.
+0080 [Edda] | Me enterré en el trabajo, de día y de noche, tratando de olvidar. Entonces descubrí la verdad: Nocturn Eterna destruyó el Monolito. Destruyeron mi hogar.
+0081 [Edda] | Mi gente se enorgullecía de su fuerza. Entonces, ¿por qué no pudieron detener a Nocturn Eterna? Durante muchísimo tiempo no logré entenderlo...
+0082 [Edda] | Pero ahora...==W== lo veo con claridad. En realidad es muy simple.
+0083 [Edda] | Norstheim cayó por una sola razón: eran más débiles que Nocturn Eterna. Esa es la única verdad.
+0084 [Edda] | Y si eso es cierto...
+0085 [Edda] | Entonces necesito poder, un poder tan absoluto que ningún enemigo se atreva a desafiarlo... Con eso, puedo protegerlo todo.
+0086 [Edda] | Así que usé mi rango en el Ojo de la Gracia y accedí a archivos que debían permanecer prohibidos.
+0087 [Edda] | Uní las pistas... Hasta que Los encontré, enterrados en lo profundo de las ruinas.
+0088 [Edda] | Con este poder, la historia nunca se repetirá: ese único pensamiento me impulsó a prepararme para hoy.
+0089 [Edda] | El paso final del plan... Aunque todos los rituales anteriores fallaran, mientras Wraith me matara al final...
+0090 [Edda] | Después de todo, el círculo mágico que llevo es mi arma. Destruirlo también cuenta como «desarmarme»... Lo que significa que el ritual todavía podría...
+0091 [Narración] | Mi deseo debía hacerse realidad...
+0092 [Wraith] | Se acabó.
+0093 [Edda] | Por qué...==W== ¡¿Por qué no disparaste?! ¡¿Por qué?!
+0094 [Wraith] | La batalla terminó. No hay necesidad de esto.
+0095 [Edda] | ¡No me trates con condescendencia!
+0096 [Edda] | Ya entiendo... Eres blanda. Igual que los otros guerreros. Ellos también dudaron frente a Nocturn Eterna. Esa indecisión es la razón por la que...
+0097 [Wraith] | Te equivocas. Sigues sin entender.
+0098 [Wraith] | La fuerza de Norstheim nunca provino de sus armas.
+0099 [Wraith] | Sobrevivieron en una tierra hostil apoyándose unos a otros. Su unidad era su verdadero poder.
+0100 [Edda] | ¡Sentimientos así... no salvaron a Norstheim! ¡¿O sí?!
+0101 [Tú] | ¡...!
+0102 [Wraith] | Entiendo tu dolor. Pero como dije... los norteños eran fuertes porque se mantenían unidos.
+0103 [Edda] | ¡¿Y qué?! ¡¿De qué sirvió?!
+0104 [Wraith] | Mientras uno de nosotros siga respirando, la ciudad vive. Aunque tengamos que reconstruirla desde un solo ladrillo en otro lugar...==W== Esa negativa a rendirse es el alma de Norstheim.
+0105 [Master] | ¡Jajaja! No es que nunca nos vayamos a ver otra vez. Ven a visitarnos en las vacaciones: ¡este siempre será tu hogar!
+0106 [Edda] | Entonces, ¿para qué fue todo?
+0107 [Tú] | Edda, deja de torturarte.
+0108 [Edda] | Tirano...
+0109 [Tú] | Te has estado culpando todo este tiempo, ¿verdad? Odiándote por estar demasiado lejos para evitar el desastre.
+0110 [Tú] | Por eso te llevaste al límite. Cualquier cosa con tal de adormecer el dolor.
+0111 [Tú] | Pero en tu hogar la gente te quería. Si te vieran destruyéndote por una tragedia que no podías controlar... ¿Cómo crees que se sentirían?
+0112 [Edda] | ¿Crees que un discurso sentimental basta para detenerme?
+0113 [Edda] | No seas ingenuo. Si no me matas aquí, quizá algún día intente reiniciar el ritual.
+0114 [Wraith] | Como quieras.
+0115 [Wraith] | Te lo dije: haz los trucos que quieras. Si intentas algo, volveré a derribarte.
+0116 [Tú] | ¡¿Q-qué está pasando?! ¡¿Un temblor?!
+0117 [Wraith] | ¡Se quedó sin Gracia! ¡Ya no puede mantener unido este espacio!
+0118 [Tú] | ¡Edda! ¡Ahí no es seguro! ¡Ven acá!
+0119 [Wraith] | ¡Detente! ¡Te arrastrará con ella!
+0120 [Tú] | ¡¿Eh?! Auch... ¿Qué acaba de pasar?
+0121 [Wraith] | Nos teletransportaron. Estamos en el elevador.
+0122 [Tú] | ¿Teletransporte? ¿Edda hizo esto?
+0123 [Opción] | Tender la mano a Edda
+0124 [Tú] | ¡No te quedes ahí parada! ¡Edda, ven con nosotros!
+0125 [Edda] | Vaya, de verdad eres... irremediablemente ingenuo.
+0126 [Edda] | Je... Iba a ofrecerlos como sacrificios, ¿sabes?==W== Déjame ir y te arrepentirás tarde o temprano...
+0127 [Wraith] | Actúas terrible... ¿Quién es la ingenua ahora?
+0128 [Edda] | Disculpen, pero todavía no puedo dejarme atrapar. Hasta la próxima...
+0129 [Edda] | Ah... Casi lo olvido. Todavía te debo la mitad de esa recompensa, Tirano.
+0130 [Edda] | No puedo conjurar los Dorra así como así. Así que acepta este consejo como pago...
+0131 [Edda] | Deberías cuidarte, porque hay muchos que te desean: tu cuerpo, tu alma... todo.
+0132 [Narración] | Caen escombros mientras la plataforma cede.
+0133 [Narración] | Su silueta se desvanece en la oscuridad y deja solo una críptica advertencia.

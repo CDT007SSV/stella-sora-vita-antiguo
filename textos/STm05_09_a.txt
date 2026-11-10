@@ -1,0 +1,119 @@
+# Capítulo 5 · Una chispa en la oscuridad · Final: Joseph
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Astute Intelligent Plant | Planta Inteligente astuta
+N:Bernina & Virigia | Bernina y Virigia
+N:avg1_110 | Firenze
+N:avg1_135 | Mistique
+N:avg2_958 | Hierbajo Peleador
+N:avg2_964 | Hummingbird
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_134 | Mina
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | Joseph
+0003 [Intro] | Con su conspiración al descubierto, Joseph finge rendirse, solo para soltar a la Espada de Jade en una emboscada de último segundo. Aunque descubres parte de la verdad, el precio es tu vida.
+0004 [Lugar y hora] | 22:15, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0005 [Mistique] | Yo cubro el lado izquierdo.
+0006 [Mina] | Entonces yo me encargo del derecho.
+0007 [Tú] | Repórtense en el grupo de Heartlink cada diez minutos.
+0008 [Tú] | Si alguien no se reporta, asumimos que está en problemas. Los otros dos van a ese punto de inmediato.
+0009 [Mina] | Entendido. Aunque, con mis habilidades de combate... no esperen que sea de mucha ayuda.
+0010 [Mistique] | ¡No te preocupes por los detalles! Tómalo como un despertadorcito que te recuerda que estés alerta.
+0011 [Mina] | Suena a un consejo que usted necesita, señorita Mistique. Siempre está tan ocupada tomando fotos. Seguro se distrae y cae directo en una trampa.
+0012 [Mistique] | Vaya, ¿tan preocupada estás? Seguro estás enamorada de mí.==W== Jefe, nos vemos luego.
+0013 [Tú] | ¿Peleándose? ¿Justo ahora? Bueno, supongo que es mejor que un silencio incómodo.
+0014 [Tú] | En el fondo, sus objetivos coinciden. Lo que chocan son sus métodos.
+0015 [Tú] | Yo reviso el invernadero de enfrente.
+0016 [Astute Intelligent Plant] | ¡Uiiiii...!
+0017 [Tú] | Rayos, me metí directo a su territorio...==W== Espera. Es una Planta Inteligente. Quizá pueda razonar con ella.
+0018 [Tú] | Hola. No vine a pelear y no te voy a hacer daño. ¿Me dejas pasar?
+0019 [Astute Intelligent Plant] | ¡Uiiii-iii...!
+0020 [Narración] | La planta agita una enredadera como si saludara y se desenrolla poco a poco para despejar el camino.
+0021 [Tú] | ¿Está imitando una reverencia? Entonces no son hostiles a menos que se los ordenen.==W== Si es así...
+0022 [Tú] | ¿Viste pasar a un señor mayor?==W== Usa lentes redondos.
+0023 [Astute Intelligent Plant] | ¡Uu-ii-uuuu...!
+0024 [Tú] | ¿Te molesta esa ramita seca que tienes en la cabeza?
+0025 [Astute Intelligent Plant] | ¡Uiiii...!
+0026 [Tú] | Quieres hacer un trato, ¿eh...?
+0027 [Tú] | Listo. Ya te la quité.
+0028 [Tú] | ¿El señor... se fue por allá?==W== Entendido. Gracias.
+0029 [Narración] | La Planta Inteligente recoge sus enredaderas y se arrastra perezosamente bajo una Hierba de Jade para disfrutar de su resplandor mágico.
+0030 [Tú] | Pensando en lo que dijo Joseph...
+0031 [Joseph] | ¿Caso? No hay ningún «caso». La empresa quería más rendimiento y menos costos. Yo cumplí.
+0032 [Tú] | Mintió.==W== Para cultivar la Hierba de Jade se necesita una Espada de Jade, y encontrar una es pura suerte. Ninguna empresa basa un plan de producción en un golpe de suerte.
+0033 [Tú] | Eso significa que su verdadero objetivo no estaba en la Hierba de Jade... La hierba solo era un medio para un fin.
+0034 [Tú] | Su verdadero objetivo tiene que ser cultivar las Plantas Inteligentes. Pero un plan tan enorme...==W== Joseph no pudo haberlo hecho solo.
+0035 [Tú] | Seguro tiene un cómplice. La principal sospechosa...==W== es Lady Gray, escondida dentro de Cosecha Unida.
+0036 [Tú] | No, ni siquiera entre los dos tendrían los recursos. Debe haber alguien poderoso respaldándolos tras bambalinas.
+0037 [Tú] | ¿Firenze? ¿O Darcia?
+0038 [Tú] | ¡¿Hay alguien adelante?!==W== Rayos. No hay tiempo de llamar a Mistique y a Mina. Tendré que improvisar...
+0039 [Tú] | ¡¿Quién anda ahí?! ¡Mistique, el hechizo!
+0040 [???] | ¡Espera, no! ¡Nada de magia! Mis viejos huesos no aguantan un golpe así...
+0041 [Tú] | Sir Joseph. Sabía que era usted.
+0042 [Joseph] | Ah, ==PLAYER_NAME==. Estabas fanfarroneando. ¡La bruja ni siquiera está aquí!
+0043 [Tú] | Puede que Mistique no esté aquí, pero con un mensaje se sube a su escoba y llega en un instante.
+0044 [Joseph] | Me rindo...==W== Pelear con un Trekker a mi edad es buscarse una paliza.
+0045 [Joseph] | En cuanto ustedes irrumpieron, yo ya había perdido.
+0046 [Joseph] | Aunque me los quitara de encima, no puedo escapar del Maestro. Cosecha Unida me atraparía al final de todos modos.
+0047 [Tú] | ¿Rendirse así de fácil?
+0048 [Tú] | Sea cual sea su plan, solo tengo que ganar tiempo. No me reporté en Heartlink a los diez minutos, así que Mistique y Mina ya deben venir en camino. Le seguiré el juego.
+0049 [Tú] | Eso es bastante contradictorio. Si sabía desde el principio que no había esperanza, ¿para qué huyó?
+0050 [Joseph] | Yo...==W== Todavía tenía trabajo que terminar.
+0051 [Joseph] | Quería regar estas Hierbas de Jade con Neo Solution una última vez. Una despedida. Déjame hacerlo y me iré contigo. No pondré resistencia.
+0052 [Tú] | ¿Neo Solution?
+0053 [Joseph] | Es esto. Una solución mágica prohibida por el Imperio de la Gracia. Inestable: un movimiento en falso y sales volando por los aires, pero es excelente para infundir magia.
+0054 [Tú] | Usar una solución prohibida... ¿Por qué llegar a esos extremos?
+0055 [Joseph] | ¿De verdad hace falta preguntarlo? Somos investigadores. No necesitamos ninguna razón.
+0056 [Joseph] | No sé cómo veas a la gente como yo, pero simplemente así somos. Aunque conozcamos el peligro, la curiosidad no nos deja parar.
+0057 [Narración] | Joseph se agacha, desenrosca la tapa de la Neo Solution y deja caer unas gotas sobre las raíces de la Hierba de Jade. Debe haberlo hecho tantas veces que sus movimientos parecen pura memoria muscular.
+0058 [Joseph] | La magia de la Espada de Jade no basta para que prosperen. Necesitan una dosis precisa de Neo Solution todos los días. Si falla una sola vez, esa perfección se pierde.
+0059 [Tú] | ¿Por qué esa obsesión? ¿Solo porque la empresa las necesita para acelerar las Plantas Inteligentes?
+0060 [Joseph] | Las Plantas Inteligentes son, en efecto, la obra de toda una vida del Maestro. Son hermosas, y quizá el Maestro tenga razón. Quizá de verdad cambien el mundo.
+0061 [Joseph] | Pero por más magníficas que sean, no son creación mía.
+0062 [Joseph] | ==PLAYER_NAME==, no sé qué significa la mediocridad para un Trekker. ¿Pero en mi campo? Que te digan promedio es que te digan fracasado.
+0063 [Joseph] | Antes soñaba con que el esfuerzo podía superar al talento natural... Pero no fue más que un sueño. Nunca pude vencer a los verdaderos genios.
+0064 [Joseph] | Pero no podía aceptarlo. Así que me abrí paso con uñas y dientes hasta este puesto, sobreviviendo solo gracias a mi absoluta lealtad al Maestro.
+0065 [Joseph] | La Hierba de Jade es el único logro verdadero de toda mi vida. Jamás la entregaré.
+0066 [Narración] | Joseph vacía la última gota, se pone de pie y se sacude las rodillas.
+0067 [Joseph] | Listo... Ahora ya no me arrepiento de nada.
+0068 [Tú] | Bien. De todos modos, se nos acaba el tiempo.
+0069 [Joseph] | Así es. Vámonos...==W== ¡juntos al otro mundo!
+0070 [Tú] | ¿Qué acaba de decir?
+0071 [Joseph] | Fuiste muy paciente conmigo... Estabas ganando tiempo para tus amigos, ¿verdad? ¡Jajaja, pues yo también! ¡Y mira! ¡Ya llegó... mi mejor aliada!
+0072 [Tú] | ¡¿La Espada de Jade?!
+0073 [Tú] | Ay, no. Cuando me lo topé, no estaba reuniendo magia para atacarme. ¡Estaba invocando a la Espada de Jade, igual que en el sótano!
+0074 [Mistique] | ¡Jefe! ¡Corre!
+0075 [Narración] | Mistique baja en picada en su escoba, pero su magia no es más rápida que el pico de la Espada de Jade.
+0076 [Tú] | Perdón, Mistique. Lo demás...==W== te lo dejo a ti.
+0077 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0078 [Bernina & Virigia] | Bienvenido de vuelta, estimado Tirano.
+0079 [Tú] | Así que... la Espada de Jade me atrapó.
+0080 [Virigia] | Sí. De hecho, parece que le tiene bastante cariño. Mire...
+0081 [Bernina] | Virigia, ¿por qué le enseñas eso al Tirano? Solo es un nido de pájaro.
+0082 [Virigia] | Es el nido de la Espada de Jade. Se llevó su tocado para decorar su hogar.
+0083 [Virigia] | Lo considera una presa prestigiosa. Un trofeo digno de presumir.
+0084 [Tú] | Todo un elogio viniendo de un pájaro. ¿Debería sentirme halagado?
+0085 [Vita] | Estimado Tirano, si hubiera completado la recolección de almas, no habría caído ante una bestia tan primitiva.
+0086 [Tú] | Vita, no te aparezcas en mi cabeza a menos que te llame.
+0087 [Vita] | Entendido, Tirano. Su orden es mi voluntad.
+0088 [Bernina] | ¿Tirano? Está muy callado. ¿Le duele algo?
+0089 [Tú] | Todavía siento el dolor en el pecho de cuando me atravesaron, pero sobreviviré. En sentido figurado.
+0090 [Virigia] | Apostar la vida es emocionante, Tirano... Pero morir de verdad no tiene caso, ¿no cree?
+0091 [Bernina] | Jiji. Hasta un anciano frágil puede mostrar un poder increíble cuando protege lo que le importa.
+0092 [Tú] | Entendido.==W== Vita, abre la puerta.
+0093 [Vita] | Su orden es mi voluntad.
+0094 [Tú] | Esto es... justo cuando entramos al Invernadero n.º 100.
+0095 [Vita] | Tirano, le aconsejo hacer un pacto de almas de inmediato. Una vez completada la misión, la Espada de Jade dejará de ser una amenaza.
+0096 [Tú] | Gracias, Vita. Pero primero lo voy a resolver a mi manera.

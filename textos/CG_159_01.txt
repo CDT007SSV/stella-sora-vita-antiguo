@@ -1,0 +1,115 @@
+# Historia de Springseek Coronis · 1 · Secret Digestive Recipe (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Candy Stall Owner | Dueña del puesto de dulces
+N:Snack Stall Owner | Dueño del puesto de botanas
+N:Tea Stall Owner | Dueña del puesto de té
+N:avg1_113 | Shimiao
+N:avg1_159 | Coronis
+N:avg3_100 | Sylar
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Receta secreta para la digestión (Parte I)
+0003 [Intro] | Durante sus vacaciones en Cangwu, receta casualmente unas cuantas medicinas más.
+0004 [Tú] | Un rollito primavera, por favor.
+0005 [Snack Stall Owner] | ¡Enseguida!==W== ¡Cuidado, está caliente!
+0006 [Tú] | Gracias.
+0007 [Tú] | Ay, qué caliente, caliente...==W== Muy bien, ¡primer bocado!==W== ¡Mm, qué rico!
+0008 [Tú] | De verdad no hay puesto de comida en Cangwu que se equivoque.
+0009 [Tú] | Bollos, masa frita, brochetas... Ya probé todo.==W== ¿Qué sigue?
+0010 [Tú] | ¡¿Urgh?!
+0011 [Tú] | Me duele el estómago...==W== ¿Comí demasiado?
+0012 [???] | Oh, ¿==PLAYER_NAME==? ¿Por qué estás encogido por aquí?
+0013 [Tú] | Esa voz es...
+0014 [Tú] | Ugh...==W== ¿Coronis?
+0015 [Coronis] | Quédate quieto. Déjame examinarte.
+0016 [Coronis] | Tez pálida, sudor frío==W== y manos heladas. Parece que has comido en exceso.
+0017 [Tú] | Ugh...==W== Me descubriste...
+0018 [Coronis] | Espera un momento. Recuerdo haber visto uno cerca...
+0019 [Coronis] | Lo encontré.
+0020 [Coronis] | Disculpe. ¿Podría darme una taza de Té Digestivo?
+0021 [Tea Stall Owner] | ¡Oh, doctora Coronis! ¡Por favor, tómelo! ¡Va por la casa!
+0022 [Coronis] | Mis disculpas. Por el momento no cuento con mis herramientas y reactivos habituales, así que esto es de gran ayuda.
+0023 [Coronis] | Perdón por la espera.==W== Toma, bebe despacio...==W== Debería aliviar la molestia.
+0024 [Tú] | G-gracias...
+0025 [Tú] | Fiu...==W== Me siento mucho mejor. Perdón por las molestias.
+0026 [Coronis] | Solo cumplí con mi deber.
+0027 [Tú] | Me sorprende... ¿Quién diría que el té podía funcionar como medicina?
+0028 [Coronis] | Es una especialidad de Cangwu:==W== el Té Medicinal. Cada taza es una mezcla de hierbas diseñada para impulsar la recuperación natural.==W== Un excelente tratamiento complementario.
+0029 [Tú] | Convertir una bebida común en medicina...==W== Eso sí es impresionante.
+0030 [Coronis] | No necesariamente. Todo lo que ingerimos puede ser medicina o veneno.==W== Esto aplica a la carne, las verduras, la fruta, los pasteles e incluso el té.
+0031 [Coronis] | Alimento y medicina comparten las mismas raíces, después de todo. El control de la dieta es crucial para tu salud. Considéralo una lección aprendida.
+0032 [Tú] | Entendido, doctora...==W== Reflexionaré sobre mis malas decisiones...
+0033 [Tea Stall Owner] | Doctora Coronis. ¿Cómo está el té? ¿Quiere otro tazón?
+0034 [Coronis] | El problema está resuelto. Gracias.
+0035 [Tú] | Y gracias por el té. Sabía bastante bien.
+0036 [Tea Stall Owner] | ¡Oh, qué amable! ¡Pero de verdad, el diagnóstico de la doctora Coronis nunca falla!==W== Si tan solo pudiera convencerla de hacer una rotación en mi clínica...
+0037 [Tú] | ¿Tiene una clínica?
+0038 [Tea Stall Owner] | En realidad soy médica de profesión.==W== Puse este puesto durante las fiestas como un pequeño negocio extra.
+0039 [Coronis] | Así es. Desde que llegué a Cangwu, la he estado consultando sobre recetas de té medicinal y otros remedios herbales.
+0040 [Tea Stall Owner] | La doctora Coronis es aguda y aprende rápido. ¡Con mucho gusto compartí mis recetas!==W== Sus mezclas personalizadas ya son bastante populares entre los pacientes.
+0041 [Coronis] | Me halaga. Usted también es una instructora muy capaz.
+0042 [Tea Stall Owner] | ¡Jajaja, es usted demasiado modesta! En fin, debo volver al trabajo. ¡Espero que disfruten de su estancia en Cangwu!
+0043 [Tú] | Espera, ¿no se supone que estás aquí de vacaciones? No puedo creer que sigas estudiando...
+0044 [Coronis] | Cangwu tiene muchos aspectos fascinantes,==W== en particular sus prácticas médicas. Hay una riqueza de conocimientos y técnicas aquí a los que nunca había estado expuesta.
+0045 [Coronis] | Aunque, ahora que lo mencionas...==W== He estado tan inmersa en analizar la medicina Loong que no he explorado la ciudad como se debe.
+0046 [Coronis] | Dado que el festival está en marcha, lo lógico sería observar también el lado cultural.
+0047 [Tú] | ¡Perfecto! ¿Qué tal si te llevo a pasear? Considéralo un agradecimiento por haberme atendido hace rato.
+0048 [Tú] | Además, un amigo local me dio algunos consejos sobre los mejores lugares. ¡No te decepcionarás!
+0049 [Coronis] | Muy bien. Guía el camino.
+0050 [Tú] | Entendido. ¡Déjamelo a mí!
+0051 [Tú] | ¡Mira, es el Baile Loong! ¿Espectacular, verdad?==W== Me dejó con la boca abierta la primera vez que lo vi.
+0052 [Coronis] | ¿Oh?==W== ¿Ese Loong está hecho a mano?==W== La artesanía es precisa y delicada.==W== Bastante impresionante.
+0053 [Coronis] | Vaya, ¿saltaron tan lejos? ¿Es magia?
+0054 [Tú] | Es la técnica de la ligereza. Dicen que no usan magia en absoluto: ¡es pura técnica!
+0055 [Coronis] | Pensar que el cuerpo humano es capaz de tales hazañas sin ayuda mágica... ¡Fascinante!
+0056 [Tú] | ¡Oh, tanghulus! Se ven deliciosos...
+0057 [Tú] | ¡No, no, no! ¡No debería comer nada más!
+0058 [Coronis] | Vaya... ¿Parece que tu apetito ha regresado?
+0059 [Tú] | Eh...==W== Bueno, verás...
+0060 [Coronis] | Je. Llevamos un rato caminando. Si te preocupa comer en exceso, ¿por qué no compartimos uno?
+0061 [Tú] | ¡Me parece genial!
+0062 [Coronis] | Disculpe. Quisiera una brocheta de tanghulu.
+0063 [Candy Stall Owner] | ¡Enseguida!==W== Espere... ¡¿Doctora Coronis?! ¡Usted salvó a mi hermanito hace unos días!==W== ¡Por favor, llévese este gratis!
+0064 [Coronis] | ¿Cómo está ahora?
+0065 [Candy Stall Owner] | ¡Gracias a su receta y a ese té de hierbas especial, se recuperó por completo!
+0066 [Coronis] | Excelente.==W== Sin embargo, asegúrese de que termine el tratamiento completo, aunque ya se sienta mejor.==W== Y gracias. Esto se ve apetitoso.
+0067 [Candy Stall Owner] | ¡Entendido! ¡Cuídese!
+0068 [Tú] | Coronis...==W== A ver si entendí bien. Técnicamente estás de vacaciones, ¿verdad?
+0069 [Coronis] | Así es. ¿Hay algún problema?
+0070 [Tú] | Ese vendedor era pariente de un paciente, ¿verdad?==W== ¿Has estado aceptando casos nuevos?
+0071 [Coronis] | Sí. Por casualidad escuché que su hermano estaba indispuesto. Los síntomas sonaban intrigantes, así que decidí hacer un breve examen.
+0072 [Tú] | No me digas que hay más...
+0073 [Coronis] | Si buscan ayuda, no me negaré.==W== Además, tratar a los locales proporciona datos clínicos valiosos. Es un arreglo eficiente.
+0074 [Coronis] | Toma. Aquí está tu parte.
+0075 [Tú] | G-gracias...
+0076 [Tú] | Entiendo su lógica... Pero ¿esto siquiera cuenta como vacaciones?
+0077 [Coronis] | Es dulce, es ácido, y el contraste de texturas entre el glaseado quebradizo y la fruta...==W== Nada mal.
+0078 [Tú] | ¿Verdad? Es la combinación perfecta...==W== ¡Podría comerlos todo el día!
+0079 [Coronis] | ¿Ya olvidaste tu lección tan pronto?
+0080 [Tú] | Eh...==W== ¿Por qué su dedo...
+0081 [Coronis] | Tienes migajas de azúcar justo ahí.==W== ¿Quién habría pensado que una persona tan capaz como tú podría ser tan descuidada?
+0082 [Tú] | ¿Acaba de...==W== Ay, qué vergüenza...
+0083 [Coronis] | Muy bien. ¿A dónde vamos ahora?
+0084 [Coronis] | Hoy me pareció muy agradable. Gracias por tu compañía.
+0085 [Tú] | No hay de qué. Me alegra que la hayas pasado bien.
+0086 [Tú] | Por cierto...==W== ¿Tienes planes para mañana?
+0087 [Coronis] | Nada específico. Pienso ...==W== quizá explorar un poco la ciudad por mi cuenta. ¿Por qué lo preguntas?
+0088 [Tú] | En ese caso, ¿qué tal si mañana te llevo a pasear otra vez?==W== Conozco un lugar perfecto para relajarse. Deberíamos ir a verlo.
+0089 [Coronis] | ¿Un lugar para relajarse?
+0090 [Tú] | Sí. Siempre dices que tratas a la gente solo para satisfacer tu curiosidad intelectual,==W== pero te estás desviviendo por ellos todo el tiempo. Debes de estar agotada.
+0091 [Tú] | Yo también me he beneficiado mucho de tu ayuda...==W== Así que, hablando como paciente: quiero que mi doctora descanse de verdad mientras está de vacaciones.
+0092 [Coronis] | Eso suena sorprendentemente considerado. Muy bien. Me someteré a tu sugerencia.
+0093 [Tú] | ¡Suena a plan! Nos vemos mañana en la plaza, a las once en punto.
+0094 [Tú] | Qué raro...
+0095 [Tú] | Ya pasaron las once... ¿Por qué no ha llegado Coronis?==W== Tampoco hay mensaje de ella...
+0096 [Shimiao] | ¡Jefe! ¡Malas noticias!
+0097 [Tú] | ¿Shimiao? ¿Qué haces aquí?
+0098 [Shimiao] | Es la doctora Coronis...==W== ¡Esto es grave!
+0099 [Tú] | ¡¿Qué?!

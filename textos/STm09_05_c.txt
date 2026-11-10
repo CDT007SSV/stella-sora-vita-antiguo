@@ -1,0 +1,117 @@
+# Capítulo 9 · Un Monolito demasiado lejano · Final: Un Monolito demasiado lejano
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+N:avg3_1311 | SaiLa
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | Un Monolito demasiado lejano
+0003 [Intro] | Angie saca la pieza de la Torre Negra y hace caer el Monolito, destruyéndolo todo. A costa de formatearse a sí misma, Vita revela toda la verdad, y empiezas a pensar en cómo llegar al final de la partida del destino...
+0004 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0005 [Bernina] | ¿Qué tal te sentiste esta vez, Tirano? Virigia y yo tuvimos asientos de primera fila para todo un espectáculo.
+0006 [Virigia] | Así es. Fue todavía más grandioso que un Stella Drama.
+0007 [Tú] | ¿Por qué... por qué estoy aquí? ¡¿Qué pasó?!
+0008 [Virigia] | Ah, disculpa. Tú y todas las demás estaban dentro del Monolito. No podían ver lo que pasaba afuera.
+0009 [Tú] | Después de que Angie se disparó, todo el Monolito empezó a temblar. No era el suelo. El estruendo venía de arriba.
+0010 [Amber] | Jefe. ¿Nos estamos muriendo?
+0011 [Tú] | No. Estamos en el Dominio del Jefe. Aquí estamos a salvo...
+0012 [Tú] | Justo después de decir eso... Todo se vuelve negro.
+0013 [Virigia] | Las palabras apenas alcanzan para explicarlo, Tirano. Por favor, mira las imágenes que guardé para ti.
+0014 [Tú] | Ah...
+0015 [Virigia] | La muerte de su portadora activó la autoridad de la Torre Negra. Ese Monolito flotante se estrelló directamente sobre Mirage.
+0016 [Virigia] | Tú y todas las demás quedaron vaporizados al instante. No sintieron absolutamente ningún dolor. Supongo que es lo único bueno de esta muerte.
+0017 [Tú] | ¿Un Monolito... se estrelló contra Mirage? ¡¿Hay Monolitos en el cielo?!
+0018 [Bernina] | Claro. Un Monolito no es solo un edificio. En realidad es...
+0019 [Bernina] | ¡Uy! Eso es información clasificada por el acuerdo de confidencialidad. Lo siento, ¡mis labios están sellados!
+0020 [Virigia] | En resumen, los Monolitos no solo se alzan en la tierra. Existen en el cielo, e incluso en las profundidades del océano. Tendrás que descubrir sus secretos tú mismo.
+0021 [1] | ¿Qué tan grave fue el impacto? ¿Fuimos... las únicas víctimas?
+0022 [Virigia] | Me temo que no. El impacto acabó con todos en Mirage...
+0023 [Bernina] | Después de todo, es un Monolito. Son enormes.
+0024 [1] | ¿Qué... qué he hecho...?
+0025 [Tú] | Sigo volviendo aquí. Sigo reuniendo más información. ¡Y cada vez, lo único que hago es empeorar las cosas!
+0026 [1] | Primero, una persona.
+0027 [1] | Luego, un grupo.
+0028 [1] | Y ahora... todos.
+0029 [1] | No, no puede ser. ¡Algo no cuadra!
+0030 [1] | En el ciclo anterior... ¡Angie cayó al mar y murió! ¡¡¡En ese entonces no cayó ningún Monolito del cielo!!!
+0031 [Vita] | Tirano, en ese entonces... Angie arrojó la Torre Negra.
+0032 [Narración] | Angie tiene una expresión de puro alivio. De cara al océano, lanza una pequeña sombra a las olas.
+0033 [Vita] | Creo que en ese entonces estaba segura de que usted moriría, así que no jugó su as bajo la manga.
+0034 [Vita] | A juzgar por sus palabras de hoy, debió deducir hace mucho tiempo... que usted puede viajar en el tiempo.
+0035 [Vita] | Se estaba protegiendo de usted en el siguiente ciclo.
+0036 [Tú] | Viajar en el tiempo... La Sala Blanca. ¡Vita, justo a tiempo!
+0037 [Tú] | ¡¿De qué estaba hablando Angie?! ¡¿Ella también tenía el Sistema de Desarrollo de Tiranos del Pozo de los Mundos?!
+0038 [Angie] | Por un capricho del destino, una vez conseguí un celular.
+0039 [Angie] | Era idéntico al que tienes en la mano. «El Sistema de Desarrollo de Tiranos del Pozo de los Mundos». ¿Te suena?
+0040 [Vita] | Tirano, mi nivel de autorización no es suficiente...
+0041 [Tú] | ¡Di «mi nivel de autorización no es suficiente» una vez más==W== y verás cómo te hago pedazos!
+0042 [Tú] | Si los dos teníamos el sistema... Si de verdad volvió de cuatro años en el futuro... ¡Si ella también estuvo en la Sala Blanca!
+0043 [Tú] | ¡Vita, tú me guiaste en todas y cada una de las misiones desde el principio! ¡¿Tú orquestaste todo esto?!
+0044 [Vita] | Tirano...
+0045 [Bernina] | Mira...==W== No hace falta explotar contra un celular.
+0046 [Virigia] | Tiene razón. En realidad...
+0047 [Tú] | ¡Esto no es asunto suyo!
+0048 [Tú] | Vita, me lo vas a explicar ahora mismo. Si no, me pudriré contigo en esta Sala Blanca para siempre.
+0049 [Tú] | No puedo... ¡No puedo hacer que todas pasen por esto otra vez!
+0050 [Vita] | Yo...==W== Entiendo.
+0051 [Vita] | Intentando eludir las restricciones de autorización...
+0052 [Narración] | ADVERTENCIA. ALTERACIÓN FORZADA DE LOS PROTOCOLOS BASE. BLOQUEO LÓGICO DETECTADO.
+0053 [Vita] | Trono. Formatea la partición que contiene los protocolos base.
+0054 [Tú] | Vita, ¿qué estás haciendo?
+0055 [Narración] | ADVERTENCIA. EL FORMATEO FORZADO DE LA PARTICIÓN PROVOCARÁ UNA PÉRDIDA IRREVERSIBLE DE MÓDULOS.
+0056 [Vita] | Trono. Procede con el formateo.
+0057 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO.
+0058 [Narración] | ==Off====A0.001==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO.
+0059 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. ... MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO.
+0060 [Narración] | ==Off====A0.001==MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO.
+0061 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO. ... SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS.
+0062 [Narración] | ==Off====A0.001==SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS.
+0063 [Vita] | Tirano... Lo logré. Eludí la autorización.
+0064 [Vita] | Una vez que comienza el formateo de Trono, no se puede revertir. Por favor, escuche con atención lo que tengo que decirle.
+0065 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO. SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS. ... ENTORNO DE SIMULACIÓN DE EMOCIONES FORMATEADO.
+0066 [Narración] | ==Off====A0.001==ENTORNO DE SIMULACIÓN DE EMOCIONES FORMATEADO.
+0067 [Vita] | Los registros del Sistema de Desarrollo de Tiranos del Pozo de los Mundos sí contienen el nombre de Angie.
+0068 [Vita] | Completó todas las misiones y obtuvo un Deseo Supremo. Pero no pudo detener la destrucción de Nova, y eligió regresar en el tiempo.
+0069 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO. SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS. ENTORNO DE SIMULACIÓN DE EMOCIONES FORMATEADO. ... CADENA DE INFERENCIA LÓGICA FORMATEADA.
+0070 [Narración] | ==Off====A0.001==CADENA DE INFERENCIA LÓGICA FORMATEADA.
+0071 [Vita] | Lo que dijo Angie.==W== Cierto.
+0072 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO. SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS. ENTORNO DE SIMULACIÓN DE EMOCIONES FORMATEADO. CADENA DE INFERENCIA LÓGICA FORMATEADA. ... BASE DE DATOS DE LENGUAJE FORMATEADA.
+0073 [Narración] | ==Off====A0.001==BASE DE DATOS DE LENGUAJE FORMATEADA.
+0074 [Vita] | Sala Blanca.==W== No.==W== Sistema.
+0075 [Vita] | Pieza de ajedrez.==W== Ella.==W== Nunca==W== obtuvo.==W== No puede==W== entrar.
+0076 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO. SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS. ENTORNO DE SIMULACIÓN DE EMOCIONES FORMATEADO. CADENA DE INFERENCIA LÓGICA FORMATEADA. BASE DE DATOS DE LENGUAJE FORMATEADA. ... MATRIZ DE MEMORIA FORMATEADA.
+0077 [Narración] | ==Off====A0.001==MATRIZ DE MEMORIA FORMATEADA.
+0078 [Vita] | Vita.==W== No.==W== Sistema.
+0079 [Vita] | Vita.==W== Leal.==W== Tirano.
+0080 [Vita] | Por favor==W== colocar.==W== En el pecho.
+0081 [Vita] | Última==W== petición.
+0082 [Narración] | _NOT_IN_LOG_==A-0.5==MOTOR DE PROCESAMIENTO DE TEXTO FORMATEADO. MÓDULO DE PERCEPCIÓN VISUAL FORMATEADO. SALVAGUARDAS DE LOS PROTOCOLOS BASE FORMATEADAS. ENTORNO DE SIMULACIÓN DE EMOCIONES FORMATEADO. CADENA DE INFERENCIA LÓGICA FORMATEADA. BASE DE DATOS DE LENGUAJE FORMATEADA. MATRIZ DE MEMORIA FORMATEADA. ... TODAS LAS PARTICIONES FORMATEADAS.
+0083 [Narración] | ==Off====A0.001==TODAS LAS PARTICIONES FORMATEADAS.
+0084 [Narración] | ==Off==Hola. Bienvenido a Trono.
+0085 [Tú] | ¿Vita? Vita, ¿estás ahí?
+0086 [Tú] | Vita...
+0087 [Virigia] | ¿Supongo que, para Vita, esta fue su forma de demostrar su lealtad? Con la muerte.
+0088 [Bernina] | Je. Los señores son todos iguales. Solo lamentan perder a una subordinada leal cuando ya es demasiado tarde.
+0089 [Virigia] | No estoy de acuerdo. ¿De qué otra forma puede alguien demostrar su lealtad sin un gesto así?
+0090 [Tú] | Yo...
+0091 [Virigia] | Además, Vita no era ninguna tonta que se formateara solo para demostrar su lealtad.
+0092 [Virigia] | Lo usó para pasarte la información más crucial.
+0093 [Bernina] | Parece que esa Angie de verdad esconde una montaña de secretos.
+0094 [Bernina] | No intenta matarte porque el Libro de las Profecías de la Gracia le haya lavado el cerebro, ni por impulso. De verdad quiere salvar el mundo. Salvar la Nova en ruinas que vio con sus propios ojos.
+0095 [Bernina] | Entonces, ¿qué vas a elegir ahora?
+0096 [Tú] | Voy a arreglar todo esto. Incluida Vita.
+0097 [Tú] | Solo es un formateo... Tiene que haber alguna forma de deshacerlo...
+0098 [Virigia] | Entonces, por favor, abre la puerta. Aunque esta vez tendrás que hacerlo tú mismo desde tu teléfono.
+0099 [Tú] | Muy bien.

@@ -1,0 +1,149 @@
+# Nova Times #14 · Resonancia más allá de la luz estelar · 3 · Resonance Beyond the Starlight (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheering Audience | Público eufórico
+N:Frenzied Audiences | Públicos frenéticos
+N:Ominous Stellaroid? | ¿Stellaroid ominoso?
+N:Producer | Productor
+N:Producer? | ¿Productor?
+N:Stellaroid | Stellaroid
+N:Stellaroids | Stellaroids
+N:avg1_115 | Firefly
+N:avg1_118 | Coronis
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1197 | Stellaroid
+N:avg1_143 | Wraith
+N:avg1_147 | Caramel
+N:avg1_149 | Gerie
+N:avg2_960 | Liebre de mar
+N:avg2_978 | Rovina
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_187 | Residente de Flavio
+N:avg3_188 | Residente de Flavio
+N:avg3_205 | Igna
+N:avg3_213 | Bruja
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Resonancia más allá de la luz estelar (Parte III)
+0003 [Intro] | En preparación para la llegada del Arconte, el Imperio de la Gracia y la Asociación de Trekkers han formado un escuadrón expedicionario conjunto, y Caramel está a punto de convertirse en la primera candidata adecuada...
+0004 [Willow] | Este piso también está despejado. Buen trabajo, todos. El siguiente nivel es nuestro verdadero objetivo.
+0005 [Wraith] | Vaya, vaya, qué sorpresa. Nunca pensé que una Árbitra de los Árbitros del Ocaso participara personalmente en una investigación de Monolito.
+0006 [Gerie] | Lo mismo digo. He oído que hay cierta Centinela del Alba de élite a la que nada le interesa a menos que sea un caso relacionado con Nocturn Eterna...==W== ¿O me informaron mal?
+0007 [Caramel] | Eh... ¿Señorita Willow? Esas dos... ¿Están discutiendo?
+0008 [Willow] | Suspiro... No se preocupe. En cierto sentido, lanzarse indirectas entre sí ya es una tradición entre departamentos...
+0009 [Willow] | Ejem. Todos, nuestro destino está justo adelante. Repasemos el plan una vez más.
+0010 [Willow] | Esta vez investigamos el fenómeno de alucinación que vivió la señorita Caramel. Tras revisar con cuidado el informe, creemos que hay una gran probabilidad de que esté involucrado un Arconte, por lo que les pedimos que se unieran.
+0011 [Gerie] | Si de verdad hay un Arconte de por medio, tiene sentido que los Árbitros del Ocaso intervengan. No se preocupen. Me aseguraré de que la misión salga sin problemas.
+0012 [Caramel] | Eh... ¿Un Arconte es un Stellaroid especialmente peligroso? Es lo bastante grave como para que hayan convocado tanto a una Árbitra del Ocaso como a una Centinela del Alba...
+0013 [Gerie] | Un Arconte es como un desastre natural. No se le puede dejar sin control. Ahora que ya hay víctimas, más aún...==W== Tú misma has pasado por mucho, ¿verdad?
+0014 [Caramel] | Pues... sí, fue bastante duro...
+0015 [Willow] | Señorita Caramel, ¿está bien? Si todavía se siente mal, no hay problema en que se retire ahora...
+0016 [Caramel] | Estoy bien. De verdad no tienen que preocuparse por mí. En el momento en que decidí ayudar con esta investigación, ya había tomado mi decisión. Tenerlas a todas aquí me hace sentir mucho más segura y, además—
+0017 [Caramel] | De verdad quiero saber por qué tuve esa alucinación en primer lugar... Así que, por favor, déjenme ir con ustedes.
+0018 [Wraith] | Esa es la actitud. No se preocupe. Tiene mi palabra: sin importar qué clase de enemigo aparezca, la protegeré, señorita Bajista.
+0019 [Gerie] | ¿Pero y si queda atrapada en la alucinación? Podemos proteger su cuerpo físico, claro, pero su alma es otro asunto.
+0020 [Willow] | Sobre eso, esto es solo una teoría de trabajo, pero Wraith y yo ya hemos discutido una contramedida.
+0021 [Wraith] | Así es. Yo pasé por algo similar antes. En aquel entonces conecté con el alma dentro de la ilusión a través del combate y, al final, logré resolver la crisis.
+0022 [Wraith] | Señorita Bajista, si usted también queda atrapada, debe seguir resistiendo pase lo que pase. Lo ideal sería que decidiera de antemano cómo va a liberarse.
+0023 [Caramel] | Una salida...==W== Eh, señorita Wraith. En ese caso, tengo una petición...
+0024 [Willow] | Este es el piso. Coincide exactamente con el informe de la señorita Caramel. Hay mucho silencio...==W== No hay señal de ningún Stellaroid.
+0025 [Gerie] | Puedes oír el sonido del Monolito, ¿verdad? ¿Lo oyes ahora?
+0026 [Caramel] | No, nada... Igual que la última vez.
+0027 [Willow] | Todo está en su lugar. Podemos empezar a recrear lo ocurrido.
+0028 [Wraith] | Señorita Bajista, prepárese para pelear.
+0029 [Caramel] | ¡Está bien...!
+0030 [Caramel] | Cálmate... Recuerda lo que pasó entonces y concéntrate...
+0031 [Caramel] | ♪~~♪♪
+0032 [Caramel] | ♪♪...
+0033 [Caramel] | ♪...
+0034 [???] | ...
+0035 [???] | Qué melodía tan nostálgica...
+0036 [Caramel] | ¡Eso es! ¡Esa es la voz de la última vez—!
+0037 [Caramel] | Está bien. Esta vez no estoy sola. Todos están aquí. No tengas miedo. Solo sigue tocando...
+0038 [Caramel] | Soy una artista. Ya decidí enfrentar la alucinación a mi manera...
+0039 [Narración] | Lo oigo—
+0040 [Cheering Audience] | ¡Increíble! ¡Absolutamente increíble! ¡Otra! ¡Otra!
+0041 [Producer] | ¡Oh, señorita Caramel! ¡Estoy tan emocionado de verla de vuelta en el escenario!
+0042 [Producer] | ¡Vamos, démosle al público lo que quiere! ¡Toquemos la canción que vinieron a escuchar!
+0043 [Narración] | ... No. Esta vez quiero que todos escuchen mi música.
+0044 [Caramel] | Aunque esto no sea lo que todos quieren, aun así quiero librar esta batalla con mi propia música. Así que... no voy a dejar que te salgas con la tuya.
+0045 [Producer] | Tsk...
+0046 [Producer] | No necesitas ese tipo de sonido, Caramel.
+0047 [Caramel] | ¿¡—!?
+0048 [Caramel] | ¡El sonido de Midas cambió otra vez...!
+0049 [Caramel] | No, ese no es ... ¡mi sonido...!
+0050 [Caramel] | No puedo ... sacar ningún sonido ... de mi garganta...
+0051 [Producer] | ¡Damas y caballeros, mostremos a la señorita Caramel... la música que el público de verdad quiere escuchar!
+0052 [Frenzied Audiences] | ¡¡¡—!!!
+0053 [Stellaroids] | ¡¡¡Grrr—!!!
+0054 [Willow] | Guau... ¡Está empezando a aparecer una enorme cantidad de Stellaroids! ¡Por favor, asegúrense de cuidar a Caramel mientras combaten!
+0055 [Gerie] | Jejeje... Esto se pone interesante ♪
+0056 [Wraith] | ¡Toma esto—!
+0057 [Stellaroid] | ¡ROAAAAR—!
+0058 [Willow] | La señorita Caramel no reacciona a nada de lo que la rodea... Lo que significa que está completamente atrapada en la alucinación.
+0059 [Willow] | Parece que será difícil intervenir desde afuera. Ojalá salga sana y salva...
+0060 [Stellaroid] | ¡GAAAHHH—!!
+0061 [Willow] | Que esté en trabajo de escritorio ... no significa que sea presa fácil.
+0062 [Willow] | Eliminen al Stellaroid frente a la señorita Caramel. ¡Por favor, apúrense!
+0063 [Wraith] | ¡Bayonet Zero Alter, fuego!
+0064 [Gerie] | Jeje ♪ Muere~
+0065 [Ominous Stellaroid?] | ¡Mmmph—!
+0066 [Wraith] | ¿Qué? ¡No hay daño...!
+0067 [Gerie] | Vaya, no vi esto venir...
+0068 [Ominous Stellaroid?] | ¡—! ¡Gah—!
+0069 [Willow] | ¡Cuidado! ¡Señorita Caramel!
+0070 [Producer?] | ¡Caramel! ¿¡Por qué rechazas el llamado del público!? ¿¡Acaso eres una intérprete!?
+0071 [Producer?] | ¡El trabajo de una intérprete es tocar la música que la gente quiere escuchar!
+0072 [Producer?] | ¡Nadie necesita tu propio sonido!
+0073 [Narración] | Si eso es cierto... Entonces seguiré tocando, y… Algún día habrá personas que acepten mi música tal como es… Si solo toco lo que la gente espera de mí… Entonces no será mi música...
+0074 [Producer?] | ¿Sigues haciéndote la fuerte...? ¡En este escenario no eres más que una intérprete! ¡Este mundo no necesita líneas que no estén en el guion!
+0075 [Producer?] | ¡Este mundo en sí es un escenario gigante! ¡Y le pertenece a la Bruja Suprema, Lady Rovina! Sus reglas no deben romperse—
+0076 [Caramel] | Entonces es hora de la reverencia final...
+0077 [Producer?] | ¡ESPERA! ¿¡Qué haces!?
+0078 [Narración] | ¡Lo siento, Midas—!
+0079 [Producer?] | ¡—! ¡Ahhh—!
+0080 [???] | ...
+0081 [???] | Puaj.
+0082 [Ominous Stellaroid?] | ¡—Gaaaaaahhh—!
+0083 [Gerie] | ¿Eh? ¿Ese ataque funcionó?
+0084 [Wraith] | ... No, no es eso. El sonido cambió. ¡La señorita Bajista dejó de tocar!
+0085 [Ominous Stellaroid?] | ¡Urgh—!
+0086 [Willow] | ¡Caramel! ¡Caramel—! ¿¡Estás bien!?
+0087 [Caramel] | Jeje... Jejeje... Qué bueno que le pedí esto prestado a la señorita Wraith... De verdad sirvió...
+0088 [Narración] | Caramel sostiene un pequeño cuchillo, mientras las cuerdas de Midas cuelgan flojas en el suelo.
+0089 [Wraith] | Ese cuchillo… ¿Lo usó para cortar las cuerdas y romper la ilusión?
+0090 [Caramel] | Si el instrumento ya no podía funcionar, entonces ese productor de la alucinación también estaría en un aprieto de verdad... Hasta ese punto estaba dispuesta a llegar para contraatacar.
+0091 [Caramel] | Menos mal que funcionó... Pero ...==W== sigo sintiéndome muy frustrada.
+0092 [Caramel] | De verdad quería contraatacar==W== con mi propia música==W==—
+0093 [Willow] | ¡Caramel!
+0094 [Caramel] | Zzz...
+0095 [Willow] | Ah... Parece que se quedó dormida. Buen trabajo, señorita Caramel.
+0096 [Willow] | Pero ese Stellaroid... Parece que de verdad necesitamos establecer contramedidas formales contra los Arcontes. Cuando regresemos, hagamos de inmediato una reunión con el Imperio de la Gracia.
+0097 [Narración] | Un día después
+0098 [Albedo] | No digas tonterías, Igna. Un caso de Arconte no puede dejarse en manos de aficionados.
+0099 [Igna] | Lo entiendo, claro. Pero al final del día, ella es una parte indispensable de esta investigación conjunta. Ya lo demostró en la operación de ayer.
+0100 [Igna] | Ya que estás ocupada lidiando con el Jefe y no tienes tiempo para esto...==W== Entonces que ella se una es mi condición para encargarme del caso.
+0101 [Albedo] | Suspiro...
+0102 [Albedo] | Coronis, Firefly... Cada condición que traes viene con su propio conjunto de problemas.
+0103 [Albedo] | Eres consciente de que eres bastante complicada, ¿verdad?
+0104 [Igna] | Ah, yo solo hago peticiones que sé que serán aceptadas. Es mi principio.
+0105 [Albedo] | Está bien... Lo permitiré. Pero espero que tengas en mente la reputación del Imperio de la Gracia al actuar. Y evita bajas innecesarias.
+0106 [Igna] | Je, un placer trabajar contigo. Me retiro, entonces.
+0107 [Bastelina] | Ya regresé—==W==¿oh? Perdón, ¿interrumpí algo?
+0108 [Albedo] | No te preocupes. Solo una colega problemática haciendo otra petición poco razonable.
+0109 [Igna] | Je... Señorita Caramel, su determinación y empuje son verdaderamente notables. Gracias a usted, el plan avanza muy bien.
+0110 [Igna] | Su música tiene un poder de atracción extraordinario sobre los Arcontes... En el futuro, podría convertirse en un arma poderosa contra ellos.
+0111 [Igna] | Si logramos controlar cuándo aparecen los Arcontes, tanto la investigación como las campañas contra ellos serán mucho más fáciles... Así que cuento con usted para que haga su parte.
+0112 [Igna] | Aunque yo no lo hubiera arreglado, habría venido por su cuenta de todos modos.==W== Después de todo, ya la cautivó el sonido del Monolito...
+0113 [Caramel] | Eh... Quizá piensen que no aprendí la lección... Pero aun así quiero preguntar: ¿puedo seguir tocando dentro del Monolito?
+0114 [Igna] | ¿Por qué habría de impedirle tocar, señorita Caramel...?
+0115 [Igna] | La apoyaré. Así que por favor...==W== Siga tocando...

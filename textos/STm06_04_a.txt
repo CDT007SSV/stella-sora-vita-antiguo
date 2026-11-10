@@ -1,0 +1,135 @@
+# Capítulo 6 · Milagro de un destello · 4A · Sin vuelta atrás
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Customer with Fruit | Cliente con fruta
+N:Elite Soldier | Soldado de élite
+N:Gen-3 Intelligent Plants | Plantas Inteligentes de 3.ª generación
+N:Intelligent Plant Clerk | Planta Inteligente dependienta
+N:Leading Intelligent Plant | Planta Inteligente líder
+N:Observing Intelligent Plant | Planta Inteligente observadora
+N:Singing Intelligent Plant | Planta Inteligente cantante
+N:Working Intelligent Plant | Planta Inteligente trabajadora
+N:Wounded Soldier | Soldado herido
+N:avg1_110 | Firenze
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_108 | Cosson
+N:avg3_115 | Jayhawk
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_1268 | Hierba de largo alcance
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Sin vuelta atrás
+0003 [Intro] | Bajo tu mando, el ejército de plantas aplasta a la sede de Cosecha Unida, y Darcia conquista sin pausa todo lo que encuentra a su paso. Todo parece encaminarse a un final no tan malo... ¿O no?
+0004 [Narración] | Una semana después.
+0005 [Lugar y hora] | 10:00, 15.º del mes de Messis, Distrito Invernadero de Philae, Núcleo del laboratorio
+0006 [1] | Darcia, haz que el Tercer Regimiento rodee por el bosque de la derecha. Golpearemos su flanco.
+0007 [1] | Para contrarrestarlo y mantener la formación, Cosecha Unida tendrá que extender su ala izquierda.
+0008 [1] | Pero nosotros tenemos la superioridad numérica, y el bosque nos favorece.==W== En cuanto su línea se adelgace, la romperemos.
+0009 [Darcia] | Entendido.==W== Transmitiendo las órdenes.
+0010 [Lugar y hora] | 10:15, 15.º del mes de Messis, afueras de Philae, en lo profundo del bosque
+0011 [Gen-3 Intelligent Plants] | ¡Uu-ii! ¡Uu-ii!
+0012 [Elite Soldier] | ¡Mantengan el flanco izquierdo!
+0013 [Wounded Soldier] | No tenemos suficiente gente... ¡Salen demasiados de la ciudad!
+0014 [Jayhawk] | ¿Extender la línea? Maldición... Este bosque no ofrece ninguna cobertura. Si nos estiramos, seremos los primeros en caer.==W== Je. Jaque mate.
+0015 [Jayhawk] | Esa es la situación. ¿Sus órdenes?==W== La derrota es solo cuestión de tiempo.
+0016 [Cosson] | Hmph. Trajimos a nuestra élite para asegurar la victoria...==W== Jamás pensé que nos arrinconarían de forma tan fea.
+0017 [Cosson] | Parece que==W== a Darcia la respalda un comandante con un gusto por la elegancia que rivaliza con el mío.
+0018 [Cosson] | Entonces==W== aceptaré la derrota con aplomo: ¡la única opción elegante!==W== Puede que pierda la batalla, pero en estilo...==W== ¡nadie me superará jamás!
+0019 [Cosson] | Inspectora Jayhawk,==W== ¡ordene la retirada!
+0020 [Lugar y hora] | 17:00, 15.º del mes de Messis, Distrito Invernadero de Philae, Núcleo del laboratorio
+0021 [Firenze] | ==SEX12== Tirano, Lady Darcia.==W== Las tres legiones de Cosecha Unida quedaron desbandadas durante su caótica retirada.
+0022 [Firenze] | Perdimos 22 325 Plantas Inteligentes de 3.ª generación.==W== Sin embargo, capturamos a 7657 enemigos.==W== 320 están en estado crítico.
+0023 [Darcia] | Felicidades, Su Majestad. Gracias a su brillante mando, aplastamos a su fuerza principal de un solo golpe.
+0024 [Darcia] | Sin tres legiones, Cosecha Unida no volverá a amenazarnos en mucho tiempo.
+0025 [Darcia] | Su Majestad, su gran conquista de Nova ha comenzado con un primer paso perfecto.
+0026 [Tú] | Mm... Bien.==W== Darcia, ¿qué tan pronto podemos reponer las 20 mil plantas que perdimos?
+0027 [Darcia] | Si usamos la radiación de la Hierba de Jade, tendremos existencias de nuevo en una semana.
+0028 [Darcia] | Sin embargo, eso acorta drásticamente su vida útil.==W== En lugar de cuatro años, se consumirán en tres meses.
+0029 [Tú] | Hazlo. Pon en marcha la producción. Además, asegúrate de que atiendan a los prisioneros heridos y de que cuiden a los demás.
+0030 [Darcia] | ¿Atenderlos? ¿Cuidarlos?==W== ¿Para qué tanta molestia?==W== Yo digo que los ejecutemos a todos. Si hacemos un escarmiento, las demás compañías aprenderán a temernos.
+0031 [Tú] | No. Piénsalo...==W== Si los empleados de Cosecha Unida ven que nuestros prisioneros viven mejor aquí que en casa, ¿seguirán siendo leales?
+0032 [Tú] | En cuanto echa raíces la discordia interna, toda la organización se pudre de adentro hacia afuera.
+0033 [Darcia] | Ya veo. Sembrar la discordia en sus filas...==W== Me encargaré de inmediato.
+0034 [Tú] | Estoy agotado. Voy a descansar un poco.
+0035 [Darcia] | Firenze, lleva a ==SEX2== Majestad a mis aposentos.
+0036 [Firenze] | De inmediato.
+0037 [Lugar y hora] | 17:00, 15.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0038 [1] | ...==W==
+0039 [Firenze] | ...==W==
+0040 [Firenze] | ==SEX12== Tirano, el asedio se rompió. Los ciudadanos creen que esto fue solo una guerra civil dentro de la compañía, así que la ciudad está tranquila.==W== ¿Por qué sigue tan decaído?
+0041 [Tú] | ¿Decaído? ¿Me veo decaído?
+0042 [Tú] | Quizá solo estoy cansado.==W== Camina un rato conmigo, Firenze.
+0043 [Firenze] | Como desee.
+0044 [Lugar y hora] | 17:30, 15.º del mes de Messis, Distrito Invernadero de Philae, Departamento de Producción de Cosecha Unida
+0045 [Leading Intelligent Plant] | Uu-iiii-uu-ii, uu-ii-uu-iiii...♪
+0046 [Singing Intelligent Plant] | Jiiiii... ¡ya!... ♪
+0047 [Tú] | Cuánta gente... ¿Toda esta línea la operan Plantas Inteligentes?
+0048 [Firenze] | Así es. Con suficiente agua y nutrientes, pueden operar las líneas veinticuatro horas seguidas.
+0049 [Firenze] | Siguiendo sus órdenes, mandé a casa al personal humano. Con sueldo completo, naturalmente.
+0050 [Tú] | Mm... Ya veo. Veamos otro lugar.
+0051 [Lugar y hora] | 18:00, 15.º del mes de Messis, Distrito Invernadero de Philae, Departamento de Investigación y Desarrollo de Cosecha Unida
+0052 [Working Intelligent Plant] | ¡Uu-ii-ya!
+0053 [Observing Intelligent Plant] | ¡Ya-ya, ii!
+0054 [Tú] | ¿Están... hablando?
+0055 [Firenze] | En cierto modo. Los sonidos son solo imitación.==W== En realidad se comunican enlazando sus enredaderas: cada giro y cada nudo transmite un significado distinto.
+0056 [Tú] | Interesante. Pensar que la 3.ª generación ya es capaz de hacer trabajo de investigación...
+0057 [Firenze] | Sí, ==SEX12== Tirano. De hecho, sus enredaderas a menudo son más aptas para las tareas delicadas que las manos humanas.
+0058 [Tú] | Mm... Nada mal. ¿Quién sabe?==W== Quizá las plantas puedan ofrecernos... una perspectiva nueva.
+0059 [Lugar y hora] | 18:30, 15.º del mes de Messis, Distrito de Plata de Philae, tienda de Cosecha Unida
+0060 [Customer with Fruit] | Hola, me llevo esto.
+0061 [Intelligent Plant Clerk] | ¡Uu-ii!
+0062 [Customer with Fruit] | Vaya, ¿das el cambio y además cargas las compras?==W== ¿Por qué no tuvimos plantas tan útiles antes?
+0063 [Tú] | Hasta los dependientes son plantas ahora. Parece que la gente las aceptó.
+0064 [Firenze] | Cuando hicimos el cambio, al principio los clientes tenían demasiado miedo de comprar aquí.
+0065 [Firenze] | Por suerte, ya no le enviamos las ganancias a la sede.==W== Siguiendo sus órdenes, todas las ganancias se reinvierten en bonos para el personal y en la calidad de los productos.
+0066 [Firenze] | Nuestros productos de alta calidad y bajo costo vencieron su miedo rápidamente.
+0067 [Firenze] | Ahora las plantas se volvieron nuestra mascota. A todo el mundo le parecen adorables.
+0068 [Tú] | Qué lástima.==W== Ya no hay nadie con botarga para hacer reír a los clientes.
+0069 [Firenze] | ==SEX12== Tirano...==W== No, ==PLAYER_NAME==.==W== ¿Por qué llegar tan lejos?
+0070 [Tú] | ¿Tan lejos? ¿A qué te refieres?
+0071 [Firenze] | Sustituir la mano de obra con plantas, dar vacaciones pagadas...==W== Incluso tratar a sus prisioneros con dignidad.
+0072 [Tú] | Porque así es como actúa un Tirano.
+0073 [Firenze] | ¿Ah, sí? ¿De verdad eso es lo que hace un «Tirano»?
+0074 [Firenze] | En las leyendas, el Tirano libró una guerra sangrienta contra los Monolitos y los novianos. Murieron incontables personas.==W== Las ideas de Darcia encajan mucho mejor con esas historias.
+0075 [Tú] | Quizá no esté a la altura de las historias.==W== Pero pienso conquistar Nova a mi manera.
+0076 [Firenze] | Conquistar... ¿De verdad es eso lo que quieres, ==PLAYER_NAME==?
+0077 [Tú] | ¿Importa si es cierto?==W== Hacer preguntas así... Suena a que planeas traicionar a Darcia.
+0078 [Firenze] | ¿Traicionarla? Para empezar, nunca le fui leal. Si no hubieras arruinado nuestros planes...==W== Olvídalo. Lo pasado, pasado.
+0079 [Firenze] | ==PLAYER_NAME==, cuando aceptaste las condiciones de Darcia y te adjudicaste el título de Tirano... Creí que ya te tenía calado. Supuse que eras solo otro hipócrita que perseguía el poder a cualquier precio.
+0080 [Firenze] | Pero todo lo que has hecho desde entonces desafía la lógica.==W== Muestras bondad a desconocidos sin ganar absolutamente nada. Francamente, es... anormal.
+0081 [Tú] | Je. Déjame preguntarte algo: ¿qué tan «normal» puede ser alguien que se pasa cada minuto despierto haciéndose pasar por un Tirano?
+0082 [Firenze] | Buen punto...==W== De verdad no tienes ambiciones egoístas. Investigué tu pasado: iniciaste esa guerra de compañías solo para liberar a los niños a los que estaban lastimando.
+0083 [Firenze] | Aplastaste a los Tres Grandes por los Trekkers...==W== Te infiltraste en Cosecha Unida solo por tu gremio y para encontrar a esos huérfanos...==W== ¿Por qué llegar a tales extremos por otras personas?
+0084 [Tú] | Porque... ¿Sinceramente? No estoy seguro. Solo siento que...
+0085 [Tú] | Nadie nace para sufrir.==W== Si de verdad tengo el poder de dar forma al futuro,==W== quiero hacer todo lo posible para dejar este mundo un poco mejor de como lo encontré.
+0086 [Firenze] | ¿Qué eres...? ¿El Dios de la Gracia?
+0087 [Firenze] | Olvida todo eso.==W== ==PLAYER_NAME==, huye conmigo. Sin ti, los planes de Darcia se vienen abajo.
+0088 [Tú] | ¿Qué es exactamente lo que estás pensando...? Aunque escapemos, no se arreglará nada.==W== ¿Sabes cuántas plantas de 3.ª generación puede cultivar Darcia en un solo mes?
+0089 [Firenze] | 80 mil... No, seguramente más.==W== Dejaría Philae en los huesos, esclavizaría a los ciudadanos... Cualquier cosa con tal de acelerar la cosecha.
+0090 [Tú] | Cada una de esas plantas golpea tan fuerte como un Trekker de élite. Con un ejército así, ¿crees que se detendría en Philae?
+0091 [Firenze] | Yo...
+0092 [Tú] | Por eso no puedo irme.==W== Darcia solo me obedece a mí. Soy el único que puede frenarla, reducir los daños...==W== Quizá incluso encauzar este caos hacia un buen desenlace.
+0093 [Tú] | Además... Hay dos personas atrapadas en ese laboratorio subterráneo por mi culpa. Tengo que sacarlas.
+0094 [Firenze] | ...
+0095 [Firenze] | Entiendo, ==PLAYER_NAME==...==W== No. Jefe.
+0096 [Firenze] | Si sobrevivimos a esto... Sería un honor trabajar para ti. Aunque sea como una empleada común.
+0097 [Lugar y hora] | 19:30, 15.º del mes de Messis, Distrito Invernadero de Philae, Núcleo del laboratorio
+0098 [Darcia] | Su Majestad. ¿Dejó ir a Firenze?
+0099 [Tú] | Nuestros caminos se separaron. Tenerla cerca era un riesgo.
+0100 [Darcia] | Así que usted también lo vio.==W== Qué lástima. Tenía grandes esperanzas en ella. Lástima que no pudo purgar esa ingenuidad de su corazón.
+0101 [Tú] | ¿Ingenuidad?
+0102 [Darcia] | Je, por favor, no se preocupe por eso, Su Majestad. Es solo que...==W== Sin Firenze, las mejoras de sus Plantas Inteligentes de 4.ª generación volverán a retrasarse.
+0103 [Darcia] | Pensaba usarla==W== como el ingrediente final de los nutrientes.
+0104 [Tú] | Yo tengo otra opinión al respecto.
+0105 [1] | Darcia, tus nutrientes actuales son de mala calidad.
+0106 [1] | Deshazte de esos desechos inútiles.==W== De ahora en adelante, yo seré el nutriente de primera y comandaré personalmente a las Plantas Inteligentes.

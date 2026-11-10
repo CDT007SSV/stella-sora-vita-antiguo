@@ -1,0 +1,93 @@
+# Nova Times #05 · La veterana y la novata · 2 · The Old Timer and the Newcomer (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Delivery Person | Repartidor
+N:avg1_150 | Laru
+N:avg3_139 | Trekker
+N:avg3_152 | Bastelina
+N:avg3_161 | Leafia
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La veterana y la novata (Parte II)
+0003 [Intro] | Tras llegar a la Asociación de Trekkers, les informan que Willow está de viaje. Decidida a no volver al trabajo, Laru decide simplemente esperar allí hasta que Willow regrese.
+0004 [???] | Bienvenidas a la Asociación de Trekkers.
+0005 [Laru] | ¡Oh, hola, Leafia! ¿Estás de turno hoy? Eso sí es nuevo.
+0006 [Leafia] | Es cierto. ¿No pasaste hace apenas unos días? ¿Vienes a holgazanear otra vez?
+0007 [Laru] | No, no, no... ¡Ni lo pienses!==W== ¡Vengo a mostrarle todo a la novata!
+0008 [Bastelina] | Hola, soy Bastelina. Acabo de convertirme en empleada de planta del Imperio de la Gracia.
+0009 [Leafia] | Me llamo Leafia. Soy topógrafa de los Despertamares. A veces ayudo en la recepción.
+0010 [Laru] | ¿Dónde está Willow? Que le explique los detalles a Bastelina.
+0011 [Leafia] | ¿No te enteraste? La señorita Willow se fue de viaje de negocios a la sede. Todavía no regresa.
+0012 [Laru] | ¿Viaje de negocios?==W== ¡Ah, cierto! Mencionó algo de eso... por lo del Colapso del Monolito...
+0013 [Leafia] | Está programada para volver esta noche. ¿Quizá prefieran venir otro día?
+0014 [Laru] | No, ¡esperaremos aquí a que vuelva!
+0015 [Bastelina] | Señorita Laru, no tendremos que esperar todo el día, ¿verdad?
+0016 [Laru] | ¡Anda, piénsalo!==W== Si regresamos ahora, eso significa volver al trabajo, ¿no?
+0017 [Bastelina] | Entonces quédese aquí, señorita Laru. Yo regreso primero, hay cosas que hacer en la Tienda de Almas.
+0018 [Laru] | ¡No, no, no! ¡Mi trabajo de hoy es «ayudar a la novata a familiarizarse con el proceso»! Si la novata se va, no puedo hacer mi trabajo, ¿o sí?
+0019 [Laru] | El trabajo consiste en terminar rápido y disfrutar tu tiempo libre, eso es lo que siempre digo.
+0020 [Bastelina] | (¿Por qué Laru solo se motiva cuando se trata de holgazanear...?)
+0021 [Delivery Person] | ¡Hola! ¡Entrega de papas Monolito súper mega jumbo! ¿De quién es el pedido?
+0022 [Laru] | ¡Es mío! ¡Mío! Gracias~
+0023 [Bastelina] | (¿Cuándo pidió esto?==W== Espera... ¿no me digas que este era su plan desde el principio?)
+0024 [Leafia] | Si van a esperar, pasen, por favor. Síganme.
+0025 [Leafia] | Vuelvo a mi trabajo. Estoy abajo, llámenme si me necesitan.
+0026 [Laru] | ¡Sip, gracias!
+0027 [Laru] | Ahh~ Las papas fritas saben mejor cuando estás recostada en un sillón~
+0028 [Bastelina] | Señorita Laru, no me parece correcto que coma papas fritas en el sofá de otra persona...
+0029 [Laru] | No te preocupes. A Willow no le importan cosas como esta~
+0030 [Laru] | Ponte cómoda, Bastelina.==W== Ah, ese cojín está un poco aplastado: busca otro lugar, si quieres.
+0031 [Bastelina] | Parece que conoce muy bien este lugar...
+0032 [Laru] | ¡Claro! ¡Esto es como mi segunda casa!
+0033 [Laru] | ¡Cuando empieces a tomar asignaciones de campo, también podrás venir a pasar el rato aquí!
+0034 [Bastelina] | Creo que paso...==W== Aunque lo hiciera, primero pediría permiso para ausentarme.
+0035 [Laru] | No, no, no, si pides permiso te descuentan el sueldo y tu supervisora pensará mal de ti. Sobre todo si es alguien como esa reina de hielo de Albedo.
+0036 [Bastelina] | Pero...==W== ¿eso no es malo para la empresa? Después de todo, nos pagan a tiempo cada mes.
+0037 [Laru] | Bastelina, de verdad no entiendes. ¡La empresa nos paga por entregar resultados, no por nuestro tiempo!
+0038 [Bastelina] | Pero si nos atrapan haciendo eso, seguro nos descuentan el sueldo...
+0039 [Laru] | ¡Por eso no te dejas atrapar! Tengo este libro del Monolito llamado El arte de holgazanear con estrategia. ¡Tiene treinta y seis tácticas ingeniosas! Te lo presto algún día.
+0040 [Laru] | Solo que tu jefa no lo vea, o lo confiscará y usará los mismos trucos contigo.
+0041 [Bastelina] | Jaja... Como novata, creo que todavía no estoy lista para esas «tácticas». Me limitaré a hacer mi trabajo. Pero gracias, señorita Laru.
+0042 [Laru] | Está bien. Solo avísame si cambias de opinión.
+0043 [Laru] | Pero en serio, qué aburrido es cuando Willow no está~
+0044 [Laru] | ¿Te gusta pescar? ¡Vamos a pescar!
+0045 [Bastelina] | ¿No se suponía que me mostraría el proceso de trabajo? ¿Y si la señorita Willow regresa mientras no estamos?
+0046 [Laru] | ¡Ah, cierto, cierto! Sobre eso.==W== ¿Has oído hablar de la Casa de los Trekkers?
+0047 [Bastelina] | Creo que sí... Es ese lugar importantísimo para los Trekkers, ¿verdad?
+0048 [Laru] | Sí. Es como una oficina de campo que establecieron en las Tierras Salvajes de Nova.
+0049 [Laru] | Los Trekkers reciben encargos y cobran allí. También tienen habitaciones y comidas económicas.==W== Básicamente, si quieres encontrar muchos Trekkers, es el único lugar. En la ciudad no encontrarás a ninguno.
+0050 [Bastelina] | ¡Ah, ya entendí! ¡Por eso la Asociación de Trekkers se encarga de nuestros encargos de Artefactos de una sola vez! ¡Hacerlo nosotras mismas en cada Casa de los Trekkers sería una pérdida enorme de tiempo!
+0051 [Laru] | ¡Qué lista! Captas rápido para ser novata.
+0052 [Laru] | En fin, lo único que tenemos que hacer es tomar las listas de inventario y las hojas de precios de Willow, entregárselas a Albedo y a sus contadores, y listo.
+0053 [Bastelina] | ¿Solo la lista? ¿No revisamos la mercancía?==W== ¿Y si algo está mal...?
+0054 [Laru] | No te preocupes. Willow es súper confiable. Revisa todo, hasta el rasguño más diminuto en estos Artefactos.
+0055 [Laru] | Llevamos años trabajando con ella y nunca hemos tenido un problema. Solo tenemos que hacer nuestra parte y confiar en ella.
+0056 [Laru] | Además, si intentáramos verificar cada detalle del proceso nosotras mismas, nunca tendríamos tiempo para nada más. Hay que confiar en los socios~
+0057 [Bastelina] | Ya veo... Así que encontrar socios de confianza es la clave...
+0058 [Leafia] | Disculpen, solo necesito mover estas cajas.
+0059 [Laru] | ¡Guau... Qué montaña de papeleo!
+0060 [Leafia] | Sí, y hay otras dos cajas como esta abajo.
+0061 [Bastelina] | ¿Quieres ayuda?
+0062 [Leafia] | No, gracias. Son nuestras invitadas.
+0063 [Bastelina] | ¡No hay problema! Somos socias, ¿no? ¡Ayudarnos es lo natural!
+0064 [Leafia] | Entonces...==W== ¿podrías ayudarme a mover las que están junto a la escalera?
+0065 [Bastelina] | ¡Claro!
+0066 [Laru] | Jaja, las novatas llenas de entusiasmo son las mejores.==W== Yo también solía ser así de radiante...
+0067 [Laru] | En fin. Comer papas fritas mientras se holgazanea es mucho mejor~
+0068 [Bastelina] | ¿Qué hay en estas, por cierto? Pesan. ¿Las vamos a mover todas?
+0069 [Leafia] | Sí. Con la señorita Willow fuera, se acumularon un montón de informes de Trekkers y papeles de transacciones.
+0070 [Leafia] | Todos tienen que revisarse y firmarse para mañana. Se los estoy subiendo con anticipación.
+0071 [Bastelina] | ¿Solo unos días fuera y se acumula así? La carga de trabajo de la Asociación de Trekkers suena aterradora.
+0072 [Leafia] | Toma esta, es más ligera. La mitad está llena de Artefactos de uso laboral.
+0073 [Bastelina] | ¡Hup!
+0074 [Leafia] | ¿Seguro que puedes moverla? No te excedas.
+0075 [Bastelina] | Pan comido~ Puedo parecer pequeña y linda, ¡pero durante mi pasantía cargaba Artefactos todos los días!
+0076 [Leafia] | Aquí está bien. ¡Muchas gracias, Bastelina!
+0077 [Bastelina] | Uf, nada como un poco de trabajo duro para despejar la mente~
+0078 [Leafia] | Gracias de nuevo. Déjame servirte un poco de té. Por favor, toma asiento.
+0079 [Bastelina] | (Guau... Si fuera yo, esta pila de papeleo me llevaría más de una semana...)
+0080 [Bastelina] | (¿De verdad podrá la señorita Willow terminarlo todo antes de mañana?)

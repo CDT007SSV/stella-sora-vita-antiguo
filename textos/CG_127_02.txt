@@ -1,0 +1,97 @@
+# Historia de Teresa · 2 · The Clever Courier Never Gets Hurt (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Shrubshrew | Shrubshrew enfurecido
+N:avg1_127 | Teresa
+N:avg2_001 | Shrubshrew matón
+N:avg2_002 | Shrubshrew estaca
+N:avg2_003 | Shrubshrew granadero
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La mensajera astuta nunca se lastima (Parte II)
+0003 [Intro] | Algunas personas simplemente tienen un don para las habilidades más inusuales.
+0004 [Tú] | Jaa... ==W==Jaa...
+0005 [Tú] | Ugh...
+0006 [Teresa] | ¡J-Jefe! Te ves fatal, ¿estás bien?
+0007 [Tú] | Hace siglos que nadie recorre este sendero de montaña, ¿eh?... ==W==Ya ni siento las piernas...
+0008 [Teresa] | No entiendo bien a qué te refieres… Pero descansemos aquí primero.
+0009 [Tú] | Vaya... Ahí se fueron mis rodillas...
+0010 [Teresa] | Tengo agua en la mochila. Te la saco.
+0011 [Tú] | Esa mochila es enorme. ¿Te estás mudando o qué?==W== Espera, ¿todos esos son Artefactos?
+0012 [Teresa] | ¡Sí! Aunque la mayoría están rotos.
+0013 [Tú] | ¿Para qué coleccionas Artefactos rotos?
+0014 [Teresa] | Todavía no sé bien qué hacer con ellos...==B== Pero los Trekkers ponen tanto en desearlos para que existan que dejarlos tirados por ahí se siente un desperdicio.
+0015 [Teresa] | Y aunque los Artefactos rotos no se puedan usar como antes, quizá sirvan para otra cosa.
+0016 [Teresa] | Como este, se puede presionar. No está mal para aliviar el estrés, ¿verdad?
+0017 [Tú] | Buena idea. Déjame probar.
+0018 [Teresa] | Toma.
+0019 [Tú] | Mmm... La sensación del clic al presionarlo es algo divertida...==W== Pero por alguna razón siento que estoy trabajando.
+0020 [Tú] | Bueno, el alivio del estrés es distinto para cada quien.
+0021 [Teresa] | Qué brisa tan agradable y fresca.
+0022 [Teresa] | Espera un momento... Ese olor...
+0023 [Teresa] | ¡Jefe! ¡Creo que ese olor viene de las Ortigas Moradas!
+0024 [Tú] | ¿En serio? Yo no huelo nada...
+0025 [Teresa] | ¡Creo que sí! ¡Estoy segura! ¡Sí, al cien por ciento!
+0026 [Teresa] | ¡Mi nariz en realidad es súper aguda!
+0027 [Tú] | Entonces, ¿seguimos ese aroma?
+0028 [Teresa] | ¡Sí! No te separes. ¡Quédate cerca de mí, Jefe!
+0029 [Teresa] | Aquí estamos.
+0030 [Tú] | Hay un acantilado más adelante. También percibo el leve aroma. Pero ¿dónde están las Ortigas Moradas?
+0031 [Teresa] | Allá arriba.
+0032 [Narración] | Sigo el dedo de Teresa y veo unas diminutas flores meciéndose con el viento en lo alto de la pared del acantilado.
+0033 [Tú] | Así que las encontramos. ¡Pero están tan arriba...!
+0034 [Tú] | Sabía que crecían en pendientes empinadas, pero no pensé que sería tan empinada.
+0035 [Tú] | Los encargos de Trekker de verdad nunca son fáciles.
+0036 [Teresa] | Jefe, cuida mis cosas.
+0037 [Tú] | ¿Qué haces?
+0038 [Teresa] | Subir ese acantilado y recoger las Ortigas Moradas por ti. ¿Qué más?
+0039 [Tú] | Es demasiado peligroso. Además, este es mi encargo desde el principio.
+0040 [Teresa] | ¡Para mí, una escalada así es pan comido!
+0041 [Teresa] | He escalado acantilados mucho más altos que este mientras repartía cartas.
+0042 [Tú] | ¿Siempre hace entregas tan peligrosas...?
+0043 [Teresa] | Además, hoy me salvaste, Jefe. Considéralo mi «gracias». Bueno, vuelvo en un santiamén.
+0044 [Teresa] | Hop... ja...==B== Uf... Ya subí bastante, miau...
+0045 [Teresa] | Las rocas de aquí están algo flojas. No sirven de apoyo.
+0046 [Teresa] | Pero de verdad no hay mejor lugar...==B== Supongo que probaré esta ruta...
+0047 [Tú] | Teresa...
+0048 [Narración] | A pesar de mi preocupación, Teresa se agarra con destreza de las grietas de la pared del acantilado mientras sube.
+0049 [Tú] | Qué movimientos tan rápidos y ágiles... Pero...==B== ¿Cómo es que alguien tan ágil como Teresa cae en un agujero tan simple?
+0050 [Tú] | Ay no, se metió en un callejón sin salida. No hay nada alrededor de lo que pueda agarrarse.
+0051 [Teresa] | Es hora de un doble salto de pared... ¡Jiiiya!
+0052 [Tú] | Vaya... ==B==Salta y se agarra de una saliente más alta.
+0053 [Tú] | ¡Es increíble...! ¡Se nota que haces esto todo el tiempo!
+0054 [Teresa] | Un poquito más... hasta la cima.
+0055 [Teresa] | ¡Jeje! Jefe, ¿lo viste? Esto no es nada comparado con los acantilados que escalé de niña.
+0056 [Teresa] | Ortigas Moradas, Ortigas Moradas.
+0057 [Teresa] | Hay bastantes aquí... Llevarnos la mitad debería estar bien.
+0058 [Teresa] | Dos... Cuatro... Seis... Jefe, con seis basta, ¿verdad?
+0059 [Tú] | Sí. ¡Gracias!
+0060 [Teresa] | ¡Listo! Jeje, si dejamos tanto atrás, toda la zona debería florecer el año que viene.
+0061 [Teresa] | ¡Jefe! ¡Ya bajo～!
+0062 [Tú] | Ten cuidado, Teresa.
+0063 [Teresa] | Estoy bien. Aunque me caiga, tú me atraparás, ¿verdad?
+0064 [Tú] | ¡¿Yo?!
+0065 [Tú] | E-espera, déjame juntar unas hojas para amortiguar la caída.
+0066 [Teresa] | Es broma. Un acantilado así de pequeño no es para preocuparse. Es tan fácil como subir y bajar escaleras.
+0067 [???] | Chillido, chillido, chillido, chillido.
+0068 [Tú] | ¿Qué es ese ruido?
+0069 [Narración] | Unas cabecitas diminutas asoman en lo alto del acantilado.
+0070 [Angry Shrubshrew] | ¡Chillido chillido, cuac cuac, chillido chillido chillido chillido!
+0071 [Teresa] | ¿Por qué hay Shrubshrews sobre mi cabeza?
+0072 [Teresa] | Se ven muy enojados… Espera, ¿ese lugar de antes era su guarida...?
+0073 [Teresa] | ¡Lo siento! No lo hice a propósito.
+0074 [Angry Shrubshrew] | ¡Chillido chillido, cuac cuac, chillido chillido chillido chillido!
+0075 [Teresa] | ¡Oigan, no me lancen frutas podridas! Huelen horrible.
+0076 [Tú] | ¡Ay no...! ¡El momento no podría ser peor...! ¡Tengo que encontrar la forma de ayudar a Teresa...!
+0077 [Narración] | Lanzo un palo a los Shrubshrews, intentando espantarlos.
+0078 [Tú] | El acantilado es alto. No los alcanzo.
+0079 [Teresa] | Ay no... Esto no pinta bien...
+0080 [Narración] | Teresa esquivó por poco la lluvia de frutas voladoras...
+0081 [Narración] | Pero resbaló.
+0082 [Teresa] | ¡Me-me voy a caer!
+0083 [Teresa] | ¡Jefe! ¡Lo siento mucho...!

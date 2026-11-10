@@ -1,0 +1,6 @@
+# Historia de Springseek Coronis — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_159_01 | Receta secreta para la digestión (Parte I)
+CG_159_02 | Receta secreta para la digestión (Parte II)
+CG_159_03 | Receta secreta para la digestión (Parte III)

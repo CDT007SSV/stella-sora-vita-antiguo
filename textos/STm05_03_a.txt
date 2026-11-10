@@ -1,0 +1,137 @@
+# Capítulo 5 · Una chispa en la oscuridad · 3A · El arte de la explosión
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Busy Team Leader | Líder de equipo ocupada
+N:Confident Team Member | Miembro del equipo confiado
+N:Exhausted Team Member | Miembro del equipo agotado
+N:Noya & Fuyuka | Noya y Fuyuka
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg3_100 | Sylar
+N:avg3_134 | Mina
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_180 | Investigador de Cosecha Unida
+N:avg3_183 | Joseph
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El arte de la explosión
+0003 [Intro] | En su primerísimo día en el Departamento de I+D, Noya y Fuyuka provocan una explosión en el laboratorio. Pero Joseph, el jefe de I+D, no las regaña…
+0004 [Narración] | Departamento de I+D, Cosecha Unida
+0005 [Busy Team Leader] | ¿Cómo va el experimento?
+0006 [Confident Team Member] | Fase final de lanzamiento del hechizo. Los resultados deberían salir en cualquier momento.
+0007 [Busy Team Leader] | Bien. Sigan así...
+0008 [Busy Team Leader] | Esperen. ¿Quiénes son esas de allá? Nunca las había visto.
+0009 [Exhausted Team Member] | Becarias de Estrategia. Tienen que pasar por todos los departamentos para aprender cómo funciona todo, así que les tocó estar con nosotros unos días.
+0010 [Busy Team Leader] | ¡No me importa de dónde vengan! ¿Por qué unas becarias están manejando un círculo mágico experimental?
+0011 [Confident Team Member] | El operador de siempre está ocupado... Además, ahorita solo estamos inyectando magia. Es a prueba de tontos. Ni una becaria podría arruinarlo.
+0012 [Exhausted Team Member] | Sí, ese círculo mágico es sólido como una roca. Aunque quisieras, no podrías romperlo.
+0013 [Exhausted Team Member] | Llevo un mes entero desvelándome; ya casi ni veo bien. Las novatas pueden con el trabajo pesado. Déjanos tomar un respiro, ¿sí?
+0014 [Busy Team Leader] | Ni hablar. Tengo que revisarlas.
+0015 [Noya] | Fuyuka, ¿lista?
+0016 [Fuyuka] | El círculo mágico y el equipo de Artefactos están preparados, pero... ¿de verdad podremos con esto solo nosotras dos?
+0017 [Noya] | El manual dice que solo hay que canalizar magia, o sea, la Gracia de nuestras Piedras del Alma, hasta la punta de los dedos y apuntar. ¡Ya saldrá de algún modo!
+0018 [Noya] | Lista...==W== Tres...
+0019 [Fuyuka] | Bien, concentrar la magia... Apuntar...
+0020 [Noya] | Dos...
+0021 [Fuyuka] | E-espera, esto se siente raro. ¿N-no estamos inyectando demasiada?
+0022 [Fuyuka] | ¡Noya, espera! ¿Qué decía el manual? ¡¿Cuánta se supone que debemos usar?!
+0023 [Noya] | Pues...==W== ¡Vámonos por instinto!
+0024 [Noya] | ¡...Uno!
+0025 [Noya] | ¡Vamos!
+0026 [Noya] | ¿Eh? ¿Se supone que el círculo mágico brille así? Algo se siente... raro.
+0027 [Fuyuka] | ¡Eso definitivamente no es normal! ¡Y la alarma es ensordecedora!
+0028 [Noya] | ¡No te asustes! Mantén la calma.==W== ¡Ah, ya sé: Contragolpe Mágico! Ya he reventado círculos mágicos antes metiéndoles magia de regreso.
+0029 [Fuyuka] | ¡¿R-reventarlo?!
+0030 [Noya] | ¡Como sea! Hazte para atrás, Fuyuka. ¡Déjamelo a mí!
+0031 [Busy Team Leader] | ¡¿Q-qué rayos...?! ¡¿Por qué explotó?!
+0032 [Busy Team Leader] | Cof, cof... Agh, hay demasiado humo aquí...
+0033 [Busy Team Leader] | ¡Ustedes dos! ¡Evacúen, ya! ¡Y luego preséntense de inmediato en la sala de juntas!
+0034 [Noya & Fuyuka] | S-sí, señora...
+0035 [Tú] | I+D debería estar justo adelante...==W== Esperen, ¿qué es todo ese humo?
+0036 [Mistique] | Jiji, huele a que está pasando algo divertido. Voy a echar un vistazo★
+0037 [Mistique] | Ya tengo la primicia★ Se dice en I+D que las nuevas becarias de Estrategia hicieron un desastre enorme. Mina va para allá ahora mismo.
+0038 [Tú] | Becarias...==W== ¡Espera, tienen que ser Noya y Fuyuka!
+0039 [Fuyuka] | Maestro... Todo es mi culpa. Le metí demasiada magia.
+0040 [Noya] | No, no. Yo fui la que no leyó bien el manual.
+0041 [Tú] | Lo único que me importa es que las dos estén bien.
+0042 [Fuyuka] | Pero... Mina...
+0043 [Busy Team Leader] | ¡Departamento de Estrategia! ¿Así capacitan a su personal? Cuando los subordinados la riegan, el jefe paga las consecuencias, ¡y ustedes van a pagar por este desastre!
+0044 [Mina] | Lamento muchísimo las molestias que causamos.
+0045 [Busy Team Leader] | ¡Ya nos falta personal, y ahora esto! Destruyeron un Artefacto valioso. ¿Por qué no las han despedido? ¿Están esperando a que saboteen toda la empresa?
+0046 [Mina] | Apenas empezaron hoy. Despedirlas me parece... demasiado severo. Yo soy su supervisora. La responsabilidad es mía.
+0047 [Busy Team Leader] | Como eres la jefa, asumir la responsabilidad es parte del trabajo. ¡Esta pérdida va a salir del presupuesto de Estrategia!
+0048 [Mina] | E-entendido...
+0049 [Mistique] | Ay, no se pongan tan serias. Pero díganme, ¿este «accidente» de verdad es culpa de ellas por completo?
+0050 [Busy Team Leader] | ¿No es obvio? Le metieron demasiada magia y... ¡pum!
+0051 [Mistique] | Es cierto, sí lo sobrecargaron.==W== Pero acabo de echarle un ojo a su manual del círculo mágico. Qué curioso: en realidad no dice cuánta magia hay que inyectar. No menciona ningún límite.
+0052 [Noya] | Entonces no se me pasó después de todo...
+0053 [Mistique] | Además, ¿dejar que dos becarias que apenas empezaron hoy se encarguen del paso final? ¿Sin ninguna supervisión ni capacitación? ¿No les suena a negligencia por parte de I+D?
+0054 [Busy Team Leader] | ¡E-es que últimamente tenemos demasiados experimentos! ¡Estamos saturados!
+0055 [Busy Team Leader] | Mira, hagamos esto. Como no estamos del todo libres de culpa, dividamos los daños mitad y mitad.
+0056 [Tú] | Está cediendo. Mistique se dio cuenta al instante de que quería echarle la bolita a otro y le reclamó su negligencia.
+0057 [Tú] | Dice ser la estrella de Scarlet Sights Media... Parece que no está fanfarroneando.
+0058 [Mina] | Mitad y mitad... Podemos aceptarlo.
+0059 [Mistique] | Espera, Mina.==W== Con alguien como ella, hay que apretarle un poquito más.
+0060 [Busy Team Leader] | ¡Oye, ya estoy cediendo a medias! ¿Ahora quieren echarnos toda la culpa a nosotros?
+0061 [Mistique] | Exacto. Si presentamos un informe oficial del accidente, seguro investigarán tu falta de supervisión... ¿o no?
+0062 [Busy Team Leader] | Sí, lo harían... Eso significa como mínimo un recorte de sueldo. Quizá hasta una degradación.
+0063 [Mistique] | Me contaron que I+D tiene una cuota anual de «desgaste de Artefactos». Mientras las pérdidas se mantengan en un rango razonable, nadie hace preguntas.
+0064 [Mistique] | De todos modos, ese Artefacto se veía bastante viejo. ¿Por qué no lo registramos como «falla del equipo por antigüedad»? Así nadie aquí tiene la culpa.
+0065 [Mistique] | En cuanto a los daños colaterales al laboratorio, el Departamento de Estrategia puede encargarse de las reparaciones. ¿Qué les parece?
+0066 [Mina] | Técnicamente no viola las políticas de la empresa... Pero ¿no es aprovecharse demasiado de un vacío legal?
+0067 [???] | Je. A mí su sugerencia me parece bastante sensata. De hecho, diría que es la opción más sabia.
+0068 [Mina] | Sir Joseph...
+0069 [Joseph] | Ese Artefacto nos sirvió durante años. Simplemente llegó al final de su vida útil.
+0070 [Joseph] | Probablemente por eso una pequeña sobrecarga de magia lo hizo estallar. Habría explotado sin importar quién estuviera a los controles, becarias o no.
+0071 [Joseph] | Si acaso, debería agradecerles. Se deshicieron de una unidad inestable antes de que causara un verdadero desastre. ¿No debería I+D estar agradecido?
+0072 [Mina] | Eso es... demasiado generoso. La verdad es que nuestras becarias son inexpertas.
+0073 [Joseph] | Ahórrese la modestia, señorita Mina; los hechos son los hechos. I+D presentará el informe. Nos ceñiremos a la versión: falla del equipo por antigüedad.
+0074 [Mina] | Pero... ni siquiera hemos hecho una investigación.
+0075 [Joseph] | Je, tranquila. A Lady Darcia no le preocupan las minucias.
+0076 [Joseph] | Mientras I+D dé resultados, con gusto pasa por alto cualquier tropiezo en el camino.
+0077 [Joseph] | Hmph. No como ciertas personas a su lado que solo saben recortar gastos. Pero ¿de qué sirve gastar saliva en las opiniones de unos aficionados?
+0078 [Joseph] | Solo Lady Darcia puede cargar con el futuro de Cosecha Unida. ¿Y I+D? ¡Respondemos a sus expectativas con resultados!
+0079 [Mina] | Bueno, si usted insiste, señor...==W== Seguiremos su ejemplo.
+0080 [Joseph] | Excelente. Ahora, como a I+D de verdad le falta personal, ¿le molestaría que estas dos se quedaran un tiempo más en nuestro departamento?
+0081 [Fuyuka] | Pero nosotras... Acabamos de volar un experimento.
+0082 [Joseph] | Bah, no se preocupen. No sería I+D sin unas cuantas explosiones, ¿verdad?
+0083 [Joseph] | ¿Oí que ustedes dos eran Trekkers?
+0084 [Noya] | ¡Sí! Las dos tenemos muchísima experiencia como Trekkers.
+0085 [Joseph] | Je, perfecto. Estamos desarrollando nuevos productos para la línea «Monolito Premium» y conseguimos muchos ingredientes directamente de las Tierras Salvajes...
+0086 [Joseph] | Pero mi equipo es de ciudad hasta la médula. No saben ni lo más básico sobre los Monolitos o las Tierras Salvajes.
+0087 [Joseph] | Así que esperaba que pudieran usar sus conocimientos de Trekker para ayudarnos a procesar estos ingredientes.
+0088 [Noya] | ¡Déjemelo a mí! Quizá no lo parezca, pero en realidad soy una experta en la cocina~
+0089 [Fuyuka] | Esta vez tendré muchísimo cuidado... ¡N-no volveré a arruinar nada, se lo aseguro!
+0090 [Joseph] | Jeje, no hace falta que te estreses.
+0091 [Joseph] | Después de todo, nadie nace sabiendo. Solo aprende de tus errores y aplícalo la próxima vez; con eso basta.
+0092 [Fuyuka] | ¡E-está bien! ¡Gracias! ¡Muchísimas gracias...!
+0093 [Noya] | ¡Sir Joseph, qué amable es!
+0094 [Joseph] | Ahórrense los halagos. Vayan ustedes dos, y búsquenme si tienen alguna pregunta.
+0095 [Mistique] | ¡Misión cumplida! Todo sobre ruedas. Ahora Noya y Fuyuka pueden husmear en I+D en busca de pistas con toda calma.
+0096 [Mistique] | Mina, ==PLAYER_NAME== y yo vamos a revisar los otros departamentos.
+0097 [Mina] | Mistique, ¿por qué lo manejaste así?
+0098 [Mina] | Aunque el Artefacto fuera viejo, Estrategia tuvo parte en su destrucción. Lavarnos las manos y dejar que la empresa absorba la pérdida... No me parece correcto.
+0099 [Mistique] | ¿Por qué? Déjame preguntarte algo: si tú cargabas con la culpa, sin contar tu propio castigo, ¿de verdad crees que a Noya y a Fuyuka las dejarían seguir en I+D?
+0100 [Mina] | Esos son... dos asuntos distintos.
+0101 [Mistique] | Pero en la realidad, uno lleva al otro. La investigación del Ruiseñor Dorado se quedaría en un callejón sin salida. ¿No crees que vale la pena un pequeño daño colateral para poder seguir?
+0102 [Mina] | Yo... supongo que sí. Entiendo. Regresaré y empezaré a reunir datos.
+0103 [Tú] | ¿No fuiste un poco dura?==W== De verdad la desanimaste.
+0104 [Mistique] | Va a estar bien. Tarde o temprano tiene que entenderlo. En una megacorporación despiadada como Cosecha Unida, conspirar unos contra otros es el pan de cada día.
+0105 [Mistique] | Aunque metas la pata, aquí no sobrevives ni cinco minutos si no aprendes a echarle la bolita a otro y esquivar la culpa.
+0106 [Tú] | A tu manera eres sorprendentemente «gentil». Aunque tus métodos sean un poco retorcidos.
+0107 [Mistique] | Es solo el tierno amor de una bruja. Además, I+D estaba tan lista para echarnos todo encima... No podía dejarlo pasar★
+0108 [Mistique] | Entonces, Jefe, ¿adónde vamos ahora? ¿Exploramos otro lugar?
+0109 [Opción] | Ver cómo van Noya y Fuyuka
+0110 [Opción] | Ver cómo van Iris y Amber
+0111 [Opción] | Concentrarnos en nuestra propia tarea
+0112 [Tú] | Pasemos por Marketing.==W== Iris puede con el papeleo y las relaciones públicas sin problema,==W== pero Amber... no estoy tan seguro.
+0113 [Mistique] | Tranquilo. Ya se las arreglarán de algún modo.
+0114 [Tú] | Deberíamos seguir el plan e investigar nuestra propia tarea: el Departamento de Producción.
+0115 [Mistique] | Uy, mírate, todo un profesional, Jefe. ¡A los invernaderos★

@@ -1,0 +1,201 @@
+# Capítulo 3 · 9 · Un corazón confiado
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Fierce Bark Boar | Jabalí Corteza feroz
+N:Spirit of Brutality | Espíritu de la Brutalidad
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_156 | Nazuna
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_1246 | Alpha Boar
+N:avg3_1247 | Alpha Boar
+N:avg3_1248 | Alpha Boar
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Un corazón confiado
+0003 [Intro] | Para tranquilizar a Fuyuka, finges firmar un contrato con ella. Los monstruos llegan con ferocidad y Nazuka interviene en un momento crucial para ayudar. Al final, es Fuyuka quien lanza el puñetazo que conduce a la victoria.
+0004 [Lugar y hora] | 12:30, 27.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0005 [Narración] | Nazuka está de pie en lo alto de las copas de los árboles, contemplando el bosque del este.
+0006 [Nazuka] | ...==W==...
+0007 [Claire] | ¿Ves algo?
+0008 [Nazuka] | El bosque de allá está demasiado silencioso.==W== Es inquietante.==W== Iré a explorar adelante.
+0009 [Claire] | Ese es trabajo del equipo de reconocimiento. Nosotros somos la escuadra de caza.==W== Nuestras órdenes son descansar y conservar energías para un combate repentino.
+0010 [Claire] | Espera...==W== ¿Puedes oír cosas desde tan lejos?
+0011 [Nazuka] | El viento trajo el mensaje.
+0012 [Claire] | Hmph.==W== El viento, ¿eh?==W== Volar alto, oír susurros lejanos... Debe de ser agradable.
+0013 [Claire] | No la detendré, Capitana.==W== Pero no se aleje demasiado. El Espíritu de la Brutalidad podría aparecer en cualquier momento.
+0014 [Nazuka] | Sí, lo sé.
+0015 [Claire] | ...==W== No puedes dejar las cosas atrás, ¿verdad?
+0016 [Lugar y hora] | 13:00, 27.º del mes de Pluvia, afueras de Philae, claro con huellas
+0017 [Amber] | Terminé de inspeccionar las huellas.
+0018 [Amber] | 
+0019 [Amber] | Dieciséis rastros de huellas enormes.
+0020 [Amber] | Parecen coincidir con las del Espíritu de la Brutalidad.
+0021 [Amber] | También hay muchas más pequeñas.
+0022 [Amber] | Calculo unos treinta... No, al menos cincuenta Jabalíes Corteza.
+0023 [Amber] | 
+0024 [Amber] | Según la información de Nazuna, el Espíritu de la Brutalidad es un Jabalí Corteza gigante. Lo más probable es que guíe una manada enorme.
+0025 [Kaede] | Las huellas son recientes. Han estado rondando esta zona los últimos días.
+0026 [Iris] | Uf... ¿Tantos? ¿Cómo se supone que vamos a poder con ellos?
+0027 [Iris] | 
+0028 [Nazuna] | En circunstancias normales, no podrían.
+0029 [Nazuna] | Por eso la escuadra es tan grande.
+0030 [Nazuna] | 
+0031 [Nazuna] | Si somos listos y usamos su comportamiento en su contra, aún podemos ganar.
+0032 [Nazuna] | Los Jabalíes Corteza son monstruos que cazan solos. Siempre van directo al objetivo más fuerte que encuentran.
+0033 [Nazuna] | Así que nos vamos a dispersar. Quien atraiga su atención mantendrá ocupado al Espíritu de la Brutalidad mientras los demás nos encargamos del resto de los jabalíes.
+0034 [Nazuna] | Luego concentramos el ataque en el Espíritu de la Brutalidad.
+0035 [Nazuna] | 
+0036 [Tú] | Muy bien, todos en silencio. En cuanto Mistique lo tenga a la vista, va a atraer al Espíritu de la Brutalidad hasta aquí. Yo daré las órdenes.
+0037 [Noya] | ¡Entendido!
+0038 [Amber] | Comprendido.
+0039 [Iris] | Recibido
+0040 [Nazuna] | De acuerdo
+0041 [Fuyuka] | Entendido
+0042 [Kaede] | ¡Okey!
+0043 [Nazuna] | Je. Estar aquí parados esperando a que nos elijan como objetivo te hace sentir como un premio en una máquina de garra, ¿no?
+0044 [Nazuna] | 
+0045 [Kaede] | 
+0046 [Kaede] | Sigue hablando así, Nazuna, y a lo mejor el premio que atrapen seas tú.
+0047 [Amber] | Profecía.
+0048 [Amber] | 
+0049 [Nazuna] | ¡Oye, solo estaba haciendo una comparación!
+0050 [Tú] | La escuadra de emboscada está lista. Ahora solo tenemos que confiar en que Mistique haga su parte.
+0051 [Narración] | Guardo el teléfono y me uno a Fuyuka en un acantilado bajo que domina el que pronto será el campo de batalla.
+0052 [Fuyuka] | J-Jefe...==W== En un momento como este...==W==no,==W== precisamente porque es un momento como este...==W== ¡P-por favor, tome mi alma!
+0053 [Tú] | ¿A qué viene esto de repente?==W== Sí, soy el Jefe, pero es solo un título de trabajo. No el Jefe del tipo Tirano, ya sabes.
+0054 [Fuyuka] | Oí que si hago un «pacto de alma»,==W== puedo convertirme en su empleada==W== y entregarle mi alma.
+0055 [Tú] | Bueno, técnicamente es cierto.==W== ¿Pero quieres unirte al Boss Accord?
+0056 [Fuyuka] | Ah, no...==W== No es eso...==W== Pero si firmar el pacto significa unirme,==W== y-y-yo supongo que no me importa...
+0057 [Fuyuka] | Pero no quiero unirme a una compañía. Solo quiero...==W== que tome mi alma para que pueda controlarme.==W== Así no tendré que preocuparme por lastimarlo cuando se supone que debo estar de guardia.
+0058 [Tú] | Parece que lo entendió mal.==W== No es que pueda controlar a una persona solo por tener su alma.==W== En realidad no puedo hacer nada con ella.
+0059 [Tú] | ¿Controlarte? ¿Quién te ha estado diciendo estas cosas?
+0060 [Fuyuka] | L-lo siento,==W== no puedo decir su nombre,==W== pero...==W== como su guardaespaldas en esta pelea, estoy aterrada.==W== Me preocupa no poder controlar mi propia fuerza...
+0061 [Tú] | Dudo que Iris o las demás mencionaran jamás el intercambio de almas...==W== La única que le metería una idea así en la cabeza a Fuyuka es Serena. Tiene que ser ella.
+0062 [Opción] | Hablarles con pasión
+0063 [Opción] | Hablarles con lógica
+0064 [Opción] | Hablarles como el Jefe
+0065 [Tú] | Fuyuka, creo en ti.==W== Después de todo ese entrenamiento, lo tienes totalmente dominado.
+0066 [Fuyuka] | ¿D-==W==de verdad...?
+0067 [Tú] | ¿Tú crees en mí?
+0068 [Fuyuka] | ¡Sí!
+0069 [Tú] | Exacto.==W== Yo creo en ti y tú en mí.==W== Así que confía en que sé lo que digo.
+0070 [Fuyuka] | Confiar en usted...==W== que usted confía en mí...
+0071 [Tú] | Je, ¡esta pequeña charla motivadora tiene que funcionar!
+0072 [Fuyuka] | Ah, eh, em... entonces...==W== yo...==W== ¿debería creer en mí misma...?
+0073 [Fuyuka] | Ugh, ¡n-no puedo pensar con claridad!==W== ¡Jefe, tome ya mi alma!==W== ¡Así podré depositar toda mi fe en la yo cuya alma está a salvo con usted!
+0074 [Tú] | Está tan alterada que simplemente...==W== ¿hizo cortocircuito?
+0075 [Tú] | Olvidemos lo del alma por un momento.==W== Fuyuka, explícame la estrategia para pelear contra el Espíritu de la Brutalidad.
+0076 [Fuyuka] | No se le puede atacar de frente.
+0077 [Fuyuka] | El Espíritu de la Brutalidad vive en simbiosis con las plantas. Las enredaderas de su cara desvían casi todos los ataques.
+0078 [Fuyuka] | Y... no es tan imprudente como parece. Quizá sea el más inteligente de los Tres Grandes. Ya emboscó a varias cacerías...
+0079 [Tú] | Suena difícil. ¿Tiene algún punto débil?
+0080 [Fuyuka] | Sí.==W== La máscara vegetal es una gran protección, pero anula su campo de visión. Golpearlo desde un costado o por detrás es mucho más efectivo.
+0081 [Fuyuka] | Además, después de embestir, tiene que detenerse para volver a encontrarte.==W== Esa es tu oportunidad, justo cuando baja la guardia.
+0082 [Tú] | ¿Ves? Conoces esto de arriba abajo.
+0083 [Fuyuka] | E-==W==Todo eso viene de las notas de Nazuna. Solo las memoricé...
+0084 [Tú] | Es más que eso. Has entrenado como loca, ¿verdad, Fuyuka?
+0085 [Fuyuka] | P-pero...==W== Solo practiqué sola, así que no sirve... Solo tome mi alma.==W== Es la única manera.
+0086 [Tú] | Genial. Toda esa lógica solo hizo que se obsesionara con no tener compañero de entrenamiento...
+0087 [Tú] | Hmph. Un Jefe tiene sus normas. No reclamo cualquier alma que se cruce en mi camino.==W== Si quieres que tome la tuya, tendrás que demostrar su valor.
+0088 [Fuyuka] | ¿C-cómo lo demuestro? ¿Debería...==W== ir a destrozar aquella roca gigante?
+0089 [Tú] | No. Eso solo demostraría tu fuerza física. El verdadero valor de un alma se mide por la fortaleza de su convicción.
+0090 [Fuyuka] | La convicción d==W==e mi corazón...
+0091 [Tú] | Exacto.==W== Creer en el camino que elegiste y recorrerlo hasta el final. Esa es la clase de alma que busco.
+0092 [Fuyuka] | El camino que elegí...==W== Ya lo entiendo.
+0093 [Tú] | Bien. Entonces volvamos a concentrarnos en el Espíritu de la Brutalidad, ¿te parece?
+0094 [Tú] | ¡Oye, oye! ¿Por qué te arrodillas? Levántate.
+0095 [Fuyuka] | ¡El camino que elegí es ofrecer mi alma al Jefe! ¡Encontré mi convicción!
+0096 [Tú] | Bueno, eso salió espectacularmente mal.
+0097 [Tú] | Parece que==W== la única manera de calmarla es hacer un trato formal... un pacto.==W== Pero...
+0098 [Vita] | Cuantas más almas reúna, Tirano, más podré hacer por usted.
+0099 [Tú] | Vita, esa cosa en mi teléfono...==W== Ugh, no quiero escucharla. Siento que me estoy aprovechando de Fuyuka.
+0100 [Tú] | Está bien, Fuyuka. Redactaré los términos. Un momento.
+0101 [Narración] | Saco pluma y papel y garabateo rápidamente un «pacto» usando alguna escritura del Monolito a medio recordar.
+0102 [Tú] | Su firma aquí.
+0103 [Fuyuka] | Entendido.
+0104 [Narración] | Sin mirarlo dos veces, Fuyuka firma con su nombre en el documento.
+0105 [Tú] | ¿En serio? Ni siquiera lo leyó. Un día la van a estafar.
+0106 [Fuyuka] | Entonces...==W== ¿mi alma ahora es suya?
+0107 [Tú] | Mmm-jm. Y tu poder ahora está bajo mi mando.
+0108 [Fuyuka] | Yo...==W== no siento ninguna diferencia.
+0109 [Tú] | Así debe ser.==W== El intercambio en sí es imperceptible.==W== Solo sentirás la conexión cuando recurra al poder de tu alma.
+0110 [Fuyuka] | O-oh,==W== ¡ya veo...!==W== Jefe, lo protegeré lo mejor que pueda.
+0111 [Tú] | Cuento contigo.
+0112 [Tú] | Solo le sigo la corriente.==W== Es una técnica terapéutica eficaz sobre la que leí en el Monolito...
+0113 [Tú] | ¡El viejo y querido efecto placebo!
+0114 [Tú] | Es Mistique.
+0115 [Mistique] | ¡Heeey, Jefe!==W== ¡Prepárate, estoy guiando a ese grandulón y a un montón de Jabalíes Corteza directo hacia ti!==W== ¡Casi llegamos al punto de reunión!
+0116 [Tú] | Entendido. Gracias.
+0117 [Tú] | ¡Todos, prepárense! ¡El Espíritu de la Brutalidad está aquí!
+0118 [Narración] | ¡GARUUUAAAGH...!!
+0119 [Tú] | ... ¡Ya llegó!
+0120 [Iris] | Uf... uf...==W== ¿Cuántos son?==W== ¿Alguien está contando?
+0121 [Kaede] | Cincuenta... No,==W== al menos sesenta.
+0122 [Mistique] | Ugh, ¡¿en serio?!==W== ¡Vine a hacer una entrevista, no a que me metan de carnada para monstruos!
+0123 [Nazuna] | Espera, vimos muchas menos huellas que esto.==W== ¿El Espíritu de la Brutalidad acaba de convocar a todos los Jabalíes Corteza del bosque?
+0124 [Nazuna] | Oye, ==PLAYER_NAME==, ¡piensa en algo, rápido! No podemos contenerlos mucho más.==W== Si llegan hasta el Espíritu de la Brutalidad, estamos fritas.
+0125 [Tú] | La información de Nazuna sobre el Espíritu de la Brutalidad era exacta,==W== pero estos jabalíes son demasiados.
+0126 [Tú] | ¿Debería arriesgarme y enviar a Fuyuka, apostando por ese pacto falso que hicimos?==W== Pero si lo hago, eso deja al Espíritu de la Brutalidad==W==...==W==
+0127 [Nazuna] | ¡Maldición, caigan de una vez!==W== ¡Rayos, se me resbaló la mano...!
+0128 [Iris] | Nazuna,==W== ¡detrás de ti!
+0129 [Jabalí Corteza feroz] | ¡GAAAHHH...!!
+0130 [Iris] | ¡No...!==W== ¡Mi magia no llega a tiempo!
+0131 [Narración] | ¿Con qué puedo sostenerte?
+0132 [Narración] | Un torbellino verde levanta una nube de polvo que ciega a los Jabalíes Corteza que cargan y le da a Nazuna una oportunidad para esquivar.
+0133 [Jabalí Corteza feroz] | ¡¿Gaah?!
+0134 [Narración] | Te ofrezco hojas frescas, virotes detenidos y esquirlas de piedra afilada.
+0135 [Narración] | Urk...==W== ¡GAAAAHHHH...?!
+0136 [Narración] | Te ofrezco el sueño concedido por los espíritus salvajes.
+0137 [Nazuna] | Esta magia de viento... ¡Nazuka!
+0138 [Nazuka] | Nazuna.==W== Tan imprudente como siempre.
+0139 [Nazuna] | Hmph...==W== ¿La gran Lady Nazuka vino hasta aquí solo para hablarme con desdén?
+0140 [Nazuka] | No estoy tan desocupada.==W== Estaba de patrulla, oí monstruos y vine a investigar.
+0141 [Nazuna] | Típico de Nazuka,==W== aburrida==W== como siempre==W==...
+0142 [Nazuka] | Te lo devuelvo,==W== palabra por palabra.
+0143 [Narración] | Nazuna alza su ballesta mientras Nazuka invoca una hoja de viento. Se enfrentan, pero permanecen inmóviles.
+0144 [Kaede] | ¿Nazuna, Nazuka...?==W== Tranquilícense las dos.
+0145 [Narración] | El virote y la magia se cruzan, y cada uno alcanza a un Jabalí Corteza que las acechaba por detrás.
+0146 [Narración] | Al segundo siguiente, ambas cargan, compitiendo por ver quién derriba más monstruos.
+0147 [Nazuna] | No te metas en mi camino.
+0148 [Nazuka] | Tú eres quien estorba. Hace un minuto estabas a punto de llorar.
+0149 [Nazuna] | ¡¿Q-qué?!==W== ¡No es cierto! ¡N-ni de lejos!==W== ¡No digas tonterías!
+0150 [Nazuka] | Llorona.
+0151 [Nazuna] | ¡TÚ...!
+0152 [Nazuna] | «No hay tiempo para integrar gente nueva»...==W== ¡tú fuiste quien lo dijo!==W== ¡Novata!
+0153 [Nazuka] | Tus tácticas toscas no necesitan preparación. Y aun así, parece que ni siquiera pudieron coordinarse con ellas.==W== ¿No es así, ==PLAYER_NAME==?==W== O debería llamarte...==W== Jefe.
+0154 [Nazuna] | ¡Oye, no lo llames así sin más!==W== ¡El Jefe está con nosotras!
+0155 [Tú] | ¿Cómo terminé metido en esto==W==...?
+0156 [Tú] | Están perfectamente sincronizadas...==W== ¿De verdad se pelearon?
+0157 [Narración] | Atrapados en la ráfaga, los Jabalíes Corteza se dispersan y huyen despavoridos.
+0158 [Narración] | Cuando volvemos a abrir los ojos, solo queda el Espíritu de la Brutalidad, fulminándonos con la mirada.
+0159 [Nazuna] | ¡Hmph, esto no ha terminado! ¡Una ráfaga como esa no le hará nada a este grandullón!
+0160 [Nazuka] | Si mi viento no puede moverlo, tus virotes tampoco atravesarán su cuero.
+0161 [Espíritu de la Brutalidad] | ¡ROAAAR...!
+0162 [Tú] | ... ¿Eh?==W== ¡Espera! ¡¿Por qué me mira a mí?!
+0163 [Noya] | ¡==PLAYER_NAME==, cuidado! ¡Te tiene en la mira!
+0164 [Tú] | Espera, ¿los Jabalíes Corteza no siempre van tras el más fuerte...?
+0165 [Nazuka] | Así que te diste cuenta de que eliminar nuestro centro de mando es la clave para romper nuestra formación.==W== Oh, espíritus salvajes...
+0166 [Amber] | Está==W== atacando.
+0167 [Narración] | El Espíritu de la Brutalidad hunde la cabeza en el suelo y la vuelve a alzar de un tirón.
+0168 [Narración] | Una roca enorme se arranca de la tierra. Sale disparada como una bala de cañón, atraviesa la barrera de viento a medio formar de Nazuka y ignora los ataques de Noya y Amber mientras vuela directo hacia mí.
+0169 [Narración] | ¡Yo protegeré...!
+0170 [Tú] | ¡¿Fuyuka...?!
+0171 [Kaede] | ¡Fuyuka, eso fue increíble...!==W== Hiciste añicos ese peñasco de un solo puñetazo...
+0172 [Amber] | ==PLAYER_NAME== no tiene ni un rasguño.
+0173 [Iris] | Y miren... ni un solo fragmento de la explosión cayó donde está ==PLAYER_NAME==.
+0174 [Fuyuka] | Yo... lo logré.==W== ¡Esto tiene que ser por el intercambio de almas...!
+0175 [Narración] | ROAAR==W==...
+0176 [Fuyuka] | ¡Poner cara de miedo no te servirá!==W== ¡¿Cómo te atreves a atacar al Jefe?!==W== ¡No te lo permitiré!

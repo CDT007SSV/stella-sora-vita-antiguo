@@ -1,0 +1,98 @@
+# Historia de Springseek Coronis · 3 · Secret Digestive Recipe (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Guilty Patient | Paciente culpable
+N:avg1_113 | Shimiao
+N:avg1_159 | Coronis
+N:avg3_100 | Sylar
+N:avg3_175 | Residente de Loong
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Receta secreta para la digestión (Parte III)
+0003 [Intro] | Si hubiera que nombrar la práctica de salud más famosa de los Loong, sería, por supuesto, el arte del masaje.
+0004 [Guilty Patient] | Lo siento muchísimo, doctora...
+0005 [Coronis] | ¿Ignorar las órdenes de tu doctora? Eso te hace muy travieso.
+0006 [Narración] | Le explico la teoría de Coronis al Guardia. Por fin aceptan liberarla, siempre que permanezca bajo estricta vigilancia.
+0007 [Narración] | Al revisar al paciente, descubrimos que se bebió el suministro de un mes entero de té de hierbas de una sola vez.
+0008 [Guilty Patient] | Su té sabía tan rico que no pude contenerme...==W== Además, hizo efecto rápido, así que pensé que mientras más bebiera, mejor.
+0009 [Guilty Patient] | Pero después de terminármelo, no podía dormir. Luego, cuando por fin me dormí, caí como tronco hasta hace un momento.
+0010 [Shimiao] | En serio...==W== Esto no debió convertirse en un problema tan grande.==W== ¡Tenga más cuidado la próxima vez!
+0011 [Guilty Patient] | ¡S-Sí! ¡Lo haré!
+0012 [Tú] | Parece que todos los demás siguieron sus recetas. Él es el único caso atípico.
+0013 [Tú] | Menos mal que Coronis intervino a tiempo.
+0014 [Coronis] | Hasta las sustancias benéficas se vuelven veneno en exceso. En el futuro, debe seguir las instrucciones de la receta.
+0015 [Coronis] | Tuvo suerte esta vez. Si vuelve a pasar...==W== Podría ni siquiera despertar de su siesta.
+0016 [Guilty Patient] | ¡¡Ay no!!
+0017 [Shimiao] | Lamento muchísimo las molestias.==W== Como disculpa, mis colegas de la Guardia Loong insistieron en invitarlos a ambos a un hotpot. ¡Coman sin pena!
+0018 [Coronis] | Jeje...==W== Bueno, desde luego no diré que no.
+0019 [Coronis] | Come, mi querido asistente. Mereces el crédito por resolver este enigma.
+0020 [Tú] | Tú también lo hiciste bien. Todo fue tan repentino...==W== Me alegra que lo hayamos resuelto.
+0021 [Coronis] | Los pacientes siempre se quejan de que mi medicina es demasiado amarga. Pensé que mejorar el sabor ayudaría, pero parece que corregí de más...==W== Jeje.
+0022 [Coronis] | Como dicen, «la buena medicina es amarga». Quizá...==W== ¿debería hacer el sabor aún más insoportable la próxima vez?
+0023 [Tú] | Pero si es demasiado amarga, la gente tendrá miedo de beberla...==W== Encontrar ese equilibrio es difícil.
+0024 [Coronis] | Bueno, ¿qué le vamos a hacer? Cada paciente trae su propio conjunto de exigencias.
+0025 [Tú] | ¿Mm? Pero en realidad suenas como si lo estuvieras disfrutando.
+0026 [Coronis] | Naturalmente.==W== De no ser por este incidente, jamás habría reunido tantos datos sobre estos fascinantes síntomas nuevos.
+0027 [Tú] | Suspiro...==W== Coronis siempre dice que trata a la gente únicamente por el bien de la «investigación»...
+0028 [Tú] | Pero en el fondo sé que hay más que eso.
+0029 [Coronis] | ...
+0030 [Tú] | ¿Mm? ¿Por qué me miras así?
+0031 [Coronis] | Tienes salsa en la comisura de la boca otra vez.
+0032 [Tú] | ¡Ella...==W== otra vez me tocó los labios!
+0033 [Coronis] | Fiu...==W== Por fin de vuelta. Y yo que pensaba que estas serían unas vacaciones tranquilas y relajantes.
+0034 [Tú] | ¡Entonces mañana tenemos que ir sin falta a ese resort! Sobre todo porque nuestros planes originales se arruinaron...
+0035 [Coronis] | Entonces, si entiendo bien...==W== Quieres que me tome un día entero solo para relajarme. ¿Es así?
+0036 [Tú] | ¿Eh? Este...==W== Sí...==W== Así es.
+0037 [Coronis] | Y dijiste ...==W== que querías que descansara como se debe. ¿Correcto?
+0038 [Tú] | Sí lo dije...==W== ¿H-Hay algún problema?
+0039 [Coronis] | Preferiría empezar a relajarme ahora mismo en lugar de mañana.
+0040 [Tú] | Entonces, ¿quieres decir...?
+0041 [Coronis] | ¿Qué te parece si me das un masaje, mi querido asistente?
+0042 [Tú] | ¿Yo? ¿Darte un masaje?
+0043 [Coronis] | Precisamente. Ese interrogatorio en realidad me tuvo bastante tensa. Estaba rígida...==W== ¡Ahora me duele todo y necesito urgentemente que alguien me ayude a deshacer esos nudos!
+0044 [Tú] | Coronis ...==W== ¿de verdad se pone nerviosa?
+0045 [Tú] | Hay muchos médicos en Cangwu mucho mejores que yo para los masajes. ¿Por qué no...
+0046 [Coronis] | No te molestes. Tú lo harás bien.
+0047 [Tú] | Pero...==W== no tengo formación.==W== ¿Y si uso demasiada fuerza o arruino algo?
+0048 [Coronis] | Eres el asistente que yo misma elegí.==W== Confío en ti. A menos que...==W== ¿todo ese discurso sobre apoyarme fuera solo palabras vacías?
+0049 [Tú] | ¡N-No, claro que no! Está bien...==W== ¡Pero no me culpes si lo hago fatal!
+0050 [Coronis] | Mmm...==W== Ah...==W== Justo ahí,==W== Jeje...==W== Tus manos==W== son muy hábiles...==W== ¡¿Mm?!
+0051 [Opción] | ¡Perdón, perdón! ¿Te lastimé?
+0052 [Coronis] | No,==W== no hace falta disculparse...==W== Al contrario,==W== ¿podrías presionar un poco más?
+0053 [Coronis] | Estimulando los acupuntos así,==W== todo mi cuerpo se calentará en un instante.
+0054 [Coronis] | Mmm...==W== Sí, se siente tan bien… ¡Ah!
+0055 [Opción] | ¡Deja de hacer esos ruidos extraños!
+0056 [Coronis] | Hah...==W== Justo ahí... ==W==Por favor, más fuerte...
+0057 [Coronis] | Oye,==W== no te quedes solo en las plantas;==W== también pantorrillas y muslos…
+0058 [Opción] | ¡E-eso no parece nada apropiado!
+0059 [Coronis] | Es mi petición;==W== no tienes por qué tener reservas.==W== ¿Qué pasa?==W== Tus manos se han detenido.
+0060 [Coronis] | Ah~==W== ¿Será que ...==W== Je.==W== mientras tocas mis pies,==W== te pones a pensar en otra cosa?
+0061 [Opción] | ¡¿Otra cosa?!
+0062 [Coronis] | Aunque te entiendo.==W== Yo también lo he experimentado.==W== Después de todo...==W== sentir emoción==W== al tocar el cuerpo de otra persona es perfectamente natural♪
+0063 [Coronis] | Lo que quiero hacer ...==W== depende por completo de mi capricho.
+0064 [Coronis] | … Cada centímetro de la otra persona está bajo mi total control...==W== Al lanzar hechizos, incluso experimento esta ilusión.
+0065 [Opción] | ¡¿A eso te referías con «otra cosa»?!
+0066 [Coronis] | Mmm~ Entonces, ¿qué estabas pensando exactamente hace un momento?==W== No seas tímido, pórtate bien, ==SEX9==, y dímelo…
+0067 [Opción] | Dame un respiro... Deja de burlarte de mí.
+0068 [Coronis] | Jeje,==W== me descubriste.==W== Tus reacciones siempre son tan entretenidas,==W== que no puedo evitarlo.
+0069 [Opción] | De verdad te estabas burlando de mí.
+0070 [Coronis] | Pero hablando en serio,==W== el tratamiento médico se basa por completo en la confianza.==W== Tienes que entregarle todo de ti a la otra persona.==W== Así funciona.
+0071 [Coronis] | Ahora entiendes por qué te pedí específicamente a ti.==W== Si eres tú...==W== no me importaría en absoluto entregar «todo de mí».==W== A eso me refiero.
+0072 [Opción] | Creo ... que lo entiendo, más o menos...
+0073 [Coronis] | En ese caso,==W== continuemos—==W==no olvides que prometiste «sanarme» como se debe...
+0074 [Coronis] | Espero con ganas ...==W== cómo me darás el placer~
+0075 [Coronis] | Ah...==W== ¡Qué maravilla! No esperaba que tuvieras tanto talento para los masajes.
+0076 [Tú] | Fiu...==W== Me alegra que te guste.
+0077 [Tú] | Uf... Dar masajes en realidad es todo un ejercicio...
+0078 [Coronis] | Entonces,==W== ¿qué se siente tener el control total de mi cuerpo?
+0079 [Tú] | ¡Por favor, deja de plantearlo así!
+0080 [Tú] | Se siente ...==W== bien.
+0081 [Tú] | Q-quiero decir, me permite entenderte a un nivel más profundo. Puedo sentir físicamente la fatiga que has acumulado...
+0082 [Tú] | Como saber exactamente qué músculos están tensos.
+0083 [Tú] | Además, de verdad quiero que descanses como se debe...
+0084 [Coronis] | Jeje. Bien dicho.
+0085 [Coronis] | Si hay una próxima vez, siempre te elegiré a ti.
+0086 [Coronis] | Después de todo, poder tocar mi cuerpo entero así ...==W== es un privilegio reservado solo para mis asistentes más excelentes.

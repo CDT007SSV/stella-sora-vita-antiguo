@@ -1,0 +1,160 @@
+# Capítulo 6 · Milagro de un destello · 6 · Gen-3 Intelligent Plants
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Gen-3 Plant Shooter | Planta tiradora de 3.ª generación
+N:Gen-3 Plant Warrior | Planta guerrera de 3.ª generación
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1265 | Firenze
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Plantas Inteligentes de 3.ª generación
+0003 [Intro] | Para ganar tiempo, le ordenas a Darcia que siga perfeccionando las Plantas Inteligentes. Firenze te acorrala y te exige que uses un pacto de almas para obligar a Darcia a rendirse ante la sede...
+0004 [Darcia] | Je, je... ¿Lo ves, Firenze? Este es el destino de quien llevó a juicio a tu padre.
+0005 [Darcia] | Saboréalo. Este es el sabor de la verdadera venganza.
+0006 [Firenze] | ...
+0007 [Firenze] | Lady Darcia, con todo respeto... Esto no me produce ninguna satisfacción. La venganza no debería sentirse así.
+0008 [Darcia] | ¿Eh?
+0009 [Firenze] | Hace cuatro años, en aquella sala del tribunal...
+0010 [Darcia] | Quédate a mi lado y te concederé el poder para aplastar a Nyx.
+0011 [Firenze] | Usted me prometió el poder para aplastar a Nyx.
+0012 [Firenze] | Ahora tengo ese poder. Pero usted misma la derrotó y la convirtió en la batería principal de estas plantas.
+0013 [Firenze] | Me robó la oportunidad de acabar con ella yo misma.
+0014 [Darcia] | Ahora que lo mencionas... Supongo que tienes razón.==W== Te pido disculpas. Pasé por alto ese detalle.
+0015 [Darcia] | Pero quédate tranquila: los «nutrientes» no mueren. Por ahora, el Fluido Psíquico y la pieza de ajedrez de ==SEX2== Majestad solo extraen residuos de memoria, fragmentos insignificantes que de todos modos habría olvidado.
+0016 [Darcia] | Antes de que sufra daños permanentes en la memoria, la cambiaré por un espécimen más adecuado. Entonces te la dejaré a ti.
+0017 [Darcia] | ¿Te parece aceptable?
+0018 [Firenze] | Gracias por su comprensión, milady.==W== Cuando llegue el momento, consumaré mi venganza con la mayor crueldad.
+0019 [Tú] | Firenze se está comportando... un poco raro.
+0020 [Darcia] | Esperaré ese momento con ansias.
+0021 [Darcia] | Su Majestad, ¿tiene alguna pregunta?
+0022 [Tú] | ¿Entonces estas Plantas Inteligentes en realidad no piensan? ¿Solo toman prestados los recuerdos de las personas?
+0023 [Darcia] | Exactamente. Uso su Alfil para extraer los residuos de memoria de los nutrientes y alimentar con ellos a la Madre Hierba Esbelta. Así se construye un enorme modelo cognitivo. Sus reacciones no son pensamientos, sino instintos impulsados por ese modelo.
+0024 [Tú] | ¿Y qué distingue a la tercera generación de la segunda?
+0025 [Darcia] | En lugar de aburrirlo con una larga explicación, sería mejor que lo presenciara usted mismo.
+0026 [Darcia] | Firenze. Pon a prueba a las Plantas Inteligentes de 3.ª generación.
+0027 [Narración] | Dos plantas entraron arrastrando los pies, una alta y otra baja, indistinguibles de una Hierba Radiante Mandrágora común.
+0028 [Narración] | Firenze desenvainó un estoque de su bastón y adoptó su postura.
+0029 [Gen-3 Plant Warrior] | ¡Uiiii...!
+0030 [Firenze] | Rápida.
+0031 [Narración] | La planta más baja se abalanzó con una velocidad imposible, azotando a Firenze con sus lianas desde todos los ángulos.
+0032 [Narración] | Su estoque negro se volvió un borrón en el aire...
+0033 [Narración] | Atraviesa el ojo de la criatura y la clava contra la pared.
+0034 [Narración] | Pero la más alta ya la había flanqueado por su punto ciego. Su vaina apuntaba a su cabeza, con semillas que brillaban con un frío destello metálico.
+0035 [Gen-3 Plant Shooter] | ¡Iiik...!
+0036 [Firenze] | Notable... Me rindo.
+0037 [Darcia] | La 3.ª generación presume la destreza de combate de Nyx o, mejor dicho, de una Trekker veterana.
+0038 [Darcia] | Enfrentarte a dos a la vez y despachar a una al instante. Tu desempeño fue admirable.
+0039 [Firenze] | Me honra.==W== Esa planta que disparaba proyectiles de verdad imitaba las tácticas de Nyx.
+0040 [Darcia] | Su Majestad, ¿la Planta Inteligente de 3.ª generación está a la altura de sus expectativas? ¿Mi lealtad cuenta con su aprobación?
+0041 [Tú] | Darcia presume este poder por una sola razón: obligarme a aceptar su lealtad.
+0042 [Tú] | Sean cuales sean sus motivos, aceptar su lealtad es un boleto sin regreso al desastre.
+0043 [Tú] | Su «lealtad» no es más que una obsesión desesperada por ser validada. Al final, hará que maten a todos.
+0044 [Tú] | Entonces, ¿qué le respondo?
+0045 [Opción] | Son completamente inútiles
+0046 [Opción] | No tienen nada de especial
+0047 [Opción] | Estoy satisfecho
+0048 [Tú] | Tus plantas se ven formidables, pero ¿en la práctica? Son completamente inútiles.
+0049 [Darcia] | ¿I-inútiles...? Su Majestad, no entiendo... ¿En qué le he fallado?
+0050 [Tú] | Por separado, sí, rivalizan con Firenze en fuerza bruta.==W== Pero durante esa pelea no mostraron ni el más mínimo trabajo en equipo.
+0051 [Tú] | Cuando la unidad cuerpo a cuerpo se enfrentó a Firenze, la que dispara semillas debió darle fuego de cobertura. Con el apoyo adecuado, habrían ganado sin un rasguño.
+0052 [Tú] | En cambio, tu supuesta planta «inteligente» ignoró por completo la seguridad de su aliada y prefirió asegurarse una mejor posición para sí misma.
+0053 [Darcia] | Pero el sacrificio es una táctica válida, Su Majestad.
+0054 [Tú] | A veces el sacrificio es necesario. Pero eso no fue una táctica.
+0055 [Tú] | Una sola unidad podría derrotar a un Trekker promedio. ¿Pero cien? No pelearían contra el enemigo...
+0056 [Tú] | Lo más probable es que se tropezaran unas con otras en medio de la confusión.
+0057 [Tú] | ¿De verdad esperas que me conforme con una mercancía tan defectuosa?
+0058 [Darcia] | Yo... La visión de Su Majestad supera por mucho la mía. Ahora lo entiendo. Comenzaré las mejoras de inmediato.
+0059 [Tú] | Sé más selectiva con tus «nutrientes». Las prisas solo traen desperdicio.
+0060 [Tú] | Y no abuses de mi Alfil. ¿Está claro?
+0061 [Darcia] | S-sí... Como ordene...
+0062 [Tú] | Uf. Con eso debería ganar algo de tiempo.
+0063 [Tú] | Si elogio su fuerza, de inmediato me presionará para que la acepte.
+0064 [Tú] | Si digo que son débiles, solo cosechará a más personas como «nutrientes» para mejorarlas.
+0065 [Tú] | Tengo que hilar muy fino aquí...
+0066 [Tú] | Sinceramente, estas Plantas Inteligentes no tienen nada de especial.
+0067 [Tú] | Dime, Darcia. ¿Alguna vez viste el Jardín Parásito?
+0068 [Darcia] | Le ruego me disculpe... Su Majestad. Yo estaba en la sede cuando los Trekkers lo destruyeron. Nunca lo vi en persona.
+0069 [Tú] | El Jardín Parásito era un árbol enorme y monstruoso. Liberaba una especie de niebla que confundía a aliados y enemigos, y al mismo tiempo le permitía controlar a todos los demás monstruos del bosque.
+0070 [Tú] | Pensándolo ahora, seguramente obtuvo esas habilidades por la influencia de mi pieza del Alfil.
+0071 [Tú] | Como tus plantas tienen el mismo origen, deberían compartir ese poder.==W== ¿Y qué pasó?
+0072 [Tú] | Se juntaron dos contra una para enfrentar a Firenze y apenas ganaron. ¿Eso te satisface? Esperaba más. Vuelve y estudia la verdadera autoridad de la pieza del Alfil.
+0073 [Darcia] | Su Majestad... Fui presuntuosa en mis expectativas. Reanudaré mi investigación de inmediato y no volveré hasta que las plantas estén a su altura.
+0074 [Tú] | Uf... Con eso me la quitaré de encima un buen rato.
+0075 [Tú] | Son especímenes excepcionales, Darcia.==W== Estoy complacido.
+0076 [Darcia] | Su satisfacción es mi mayor honor.==W== Su Majestad, ¿aceptará ahora mi...?
+0077 [Tú] | ¿Aceptar tu lealtad? Tal vez.==W== Pero primero... Llena de «nutrientes» todos los tanques vacíos de tu laboratorio. Empieza a cultivar la siguiente generación de inmediato.
+0078 [Darcia] | Sí... Sí, por supuesto...==W== Ahora lo entiendo, Su Majestad.
+0079 [Darcia] | Si ese es el precio de su aceptación... lo pagaré con gusto.
+0080 [Tú] | Y no me insultes con «nutrientes» de mala calidad.==W== Espero que cada espécimen sea del calibre de Nyx.
+0081 [Darcia] | Como ordene, Su Majestad.
+0082 [Tú] | El campamento de Trekkers está prácticamente desierto, y sujetos como Nyx son difíciles de conseguir.==W== Eso debería entretenerla un buen rato.
+0083 [Firenze] | Lady Darcia, ==SEX12== Tirano no ha descansado desde anoche. Ahora que la demostración ha concluido...
+0084 [Darcia] | ¡Ah, Su Majestad! He sido una sirvienta negligente al descuidar su bienestar. ¡Merezco la muerte por semejante descuido!
+0085 [Darcia] | Firenze, lleva a dos de las Plantas Inteligentes de 3.ª generación y atiende a ==SEX2== Majestad. Asegúrate de que ==SEX== esté cómodo.
+0086 [Gen-3 Plant Warrior] | ¡Iiik...!
+0087 [Gen-3 Plant Shooter] | ¡Yah...!
+0088 [Tú] | Si «descansar» significa dormir junto a estos horrores rastreros, ¡paso!
+0089 [Lugar y hora] | 11:00, 5.º del mes de Messis, Distrito de Oro, Philae, sala de recepción VIP
+0090 [Firenze] | Descanse tranquilo, ==SEX12== Tirano. Estaré en la habitación de al lado por si necesita algo.
+0091 [Tú] | ¿No puedes llevarte estas plantas? ¿Quién podría dormir con estas cosas mirándolo?
+0092 [Firenze] | Mis disculpas. Parece que solo obedecen a Lady Darcia.
+0093 [Tú] | Está bien... Entonces, ustedes son Plantas Inteligentes de 3.ª generación, ¿no? ¿Qué pueden hacer por mí en realidad?
+0094 [Gen-3 Plant Warrior] | ¡Iiik...!
+0095 [Gen-3 Plant Shooter] | ¡Yah...!
+0096 [Tú] | ¿Eh? Una pijama y un antifaz... Qué atentas, quién lo diría.==W== Está bien, me los pondré.
+0097 [Tú] | De repente... me cae encima todo el cansancio.==W== Tiene sentido. Llevo treinta horas sin pegar el ojo.
+0098 [Tú] | Con estas dos rondando, no puedo usar el teléfono para contactar a Noya o a Nazuka.
+0099 [Tú] | Espera, todavía tengo a Vita. Vita, ¿estás ahí?
+0100 [Vita] | Siempre estoy a su servicio, Tirano.
+0101 [Tú] | Oír ese título ahora... se siente raro.==W== Darcia parece desesperada por convertirme en su versión de un Tirano.
+0102 [Vita] | El «Tirano» que desea Darcia no es el verdadero Tirano.
+0103 [Tú] | ¿Ah, sí? ¿Sabes cómo es en realidad el verdadero Tirano?
+0104 [Vita] | Como su antigua Sacerdotisa y actual secretaria, sí, conozco su verdadero ser. Sin embargo, por permisos insuficientes, no puedo revelar esa información.
+0105 [Vita] | Además... fui yo quien lo llamó Tirano primero, para que lo sepa.
+0106 [Tú] | Ya, ya. Ya sé que fuiste la primera.
+0107 [Vita] | Le sugiero que concrete un pacto de almas de inmediato. Completar esta tarea elevará su nivel de autorización y desbloqueará nuevos poderes.
+0108 [Vita] | Para romper este estancamiento, le pido que reconsidere mi propuesta.
+0109 [Tú] | ¿Y qué poderes obtengo, exactamente? Uf, olvídalo. Déjame adivinar: «Permisos insuficientes», ¿verdad?
+0110 [Vita] | Exactamente. Pero le aseguro que las funciones que desbloquee serán vitales para su ascenso como verdadero Tirano. Ese es el propósito central del Sistema de Desarrollo de Tiranos del Pozo de los Mundos.
+0111 [Tú] | Tú, Darcia... Todos están obsesionados con coronarme «Tirano». ¿De verdad es tan buen trabajo?
+0112 [Tú] | Como sea. Estoy en aprietos, sí, pero todavía me quedan jugadas. Vita, Firenze no le es leal a Darcia en realidad, ¿verdad?
+0113 [Vita] | Mi análisis coincide. Al ver a la señorita Nyx bajo custodia, Firenze mostró un aumento del ritmo cardiaco y respiración acelerada: señales clásicas de angustia.
+0114 [Vita] | Sus signos vitales solo se estabilizaron cuando Darcia confirmó que Nyx no corría peligro inmediato.
+0115 [Tú] | Dice que quiere vengarse de Nyx, pero su reacción fisiológica muestra «preocupación».
+0116 [Tú] | Dicho eso, Darcia no ha dicho ni una palabra sobre la llegada del ejército de la sede. ¿Está ocultando la información o simplemente no le importa?
+0117 [Tú] | Por cierto, ¿qué estabas mirando? Parecías completamente absorta...==W== No es propio de ti.
+0118 [Firenze] | El cielo.
+0119 [Narración] | Sigo la mirada de Firenze hacia el este. No veo nada fuera de lo común hasta donde alcanza la vista: solo el sol de la mañana, que me lastima los ojos con su resplandor.
+0120 [Tú] | Entonces, ¿por qué estaba tan fija en el cielo del este aquella vez? Es casi como si supiera que el ejército venía en camino.
+0121 [Vita] | En lugar de especular a solas, ¿por qué no le pregunta directamente?
+0122 [Tú] | No tiene caso sin pruebas. Conociendo a Firenze, no va a soltar sus secretos tan fácilmente.
+0123 [Tú] | Necesito dormir. Vigila a Firenze por mí, ¿sí? Despiértame en cuanto haga algún movimiento.
+0124 [Vita] | Entendido. Su orden es mi voluntad.
+0125 [Lugar y hora] | 18:00, 5.º del mes de Messis, Distrito de Oro, Philae, sala de recepción VIP
+0126 [Vita] | ¡Tirano! ¡Tirano, despierte!
+0127 [Tú] | Mmm... ¿Qué hora es?
+0128 [Gen-3 Plant Warrior] | Uiiiii...
+0129 [Tú] | ¿Las 6 de la tarde?==W== ¿Eso es lo que me quieres decir?
+0130 [Gen-3 Plant Shooter] | ¡Yah...!
+0131 [Vita] | ==SEX12== Tirano, Firenze acaba de salir de la habitación.
+0132 [Tú] | Entendido. Ya me levanto.
+0133 [Narración] | Tomo la ropa que prepararon las plantas, me la pongo a toda prisa y salgo por la puerta buscando a Firenze con la mirada.
+0134 [Narración] | Ahí está, en las escaleras cercanas, caminando despacio hacia los invernaderos.
+0135 [Tú] | ¿Me está esperando para que la alcance...?==W== Muy bien. Veamos qué quiere.
+0136 [Narración] | Así que sigo a Firenze, con las dos Plantas Inteligentes detrás de mí.
+0137 [Narración] | Entramos a un invernadero, bajamos las escaleras==W== y recorremos el profundo pasillo del laboratorio subterráneo.
+0138 [Tú] | ¿Otra vez aquí?==W== Seguro me lleva a... esa habitación en lo más profundo del laboratorio.
+0139 [Tú] | ¿Eh? ¿Adónde se fue?
+0140 [Narración] | Un destello de acero frío surge de la nada y se detiene a centímetros de mi garganta.
+0141 [Firenze] | Me siguió, ==SEX12== Tirano. Tal como esperaba.
+0142 [Firenze] | Entonces seré directa:==W== acepte la lealtad de Lady Darcia, átela con un «pacto de almas» y ordénele que se rinda ante la sede.
+0143 [Firenze] | Permítame ser perfectamente clara para evitar cualquier... malentendido. Escuche bien. Esto no es una petición. Es una orden. Y mi estoque no es famoso por su paciencia.

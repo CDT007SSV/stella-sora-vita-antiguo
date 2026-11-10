@@ -1,0 +1,6 @@
+# Historia de Flora — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_126_01 | Señorita Mariposa (Parte I)
+CG_126_02 | Señorita Mariposa (Parte II)
+CG_126_03 | Señorita Mariposa (Parte III)

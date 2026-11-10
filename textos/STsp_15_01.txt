@@ -1,0 +1,108 @@
+# Nova Times #15 · Síndrome de dependencia de la ternura · 1 · Cuteness Dependency Syndrome (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Ashwind Clan | Clan Viento de Ceniza
+N:Director Knight | Caballero director
+N:Vollara & Neuvira | Vollara y Neuvira
+N:avg1_107 | Tilia
+N:avg1_132 | Minova
+N:avg2_943 | Belleza Prohibida
+N:avg2_990 | Miembro del Viento de Ceniza
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_1099 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_157 | Guardia Imperial
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Síndrome de dependencia de la ternura (Parte I)
+0003 [Intro] | ¡Silencio en el set! ¡Sonido, rueda! ¡Cámara, rueda! Actores, preparados... Así se supone que debe empezar la filmación, pero parece que nuestra protagonista, Minova, ¿todavía no está lista?
+0004 [Imperial Guard] | ...
+0005 [Ashwind Clan] | ...
+0006 [Vollara] | ¡Muy bien, equipo! Hombros atrás. ¡No vamos a dejar que nos miren por encima del hombro!
+0007 [Neuvira] | Hermana, su líder viene hacia acá...
+0008 [???] | ¡Somos los orgullosos caballeros que juraron proteger Nova con sus espadas!==W== ¡Jamás retrocederemos, sea quien sea el enemigo!
+0009 [???] | ¡Somos la Guardia Imperial! ¡Protectores del pueblo! ¡Resguardamos los bienes y la paz! ¡Luchamos por la libertad y la gloria!
+0010 [Tilia] | ¡Soy Tilia,==W== escudera de la Guardia Imperial! ¡La Justicia está a punto de llegar!
+0011 [???] | Je...==W== No está mal. Tienes agallas, eso te lo concedo.==W== Pero...
+0012 [Minova] | Si quieres enfrentar al verdadero mal, primero tendrás que pasar sobre mí.
+0013 [Tilia] | Perfecto.==W== ¡Acepto tu desafío!
+0014 [Tilia] | ¡Nadie puede detener la marcha de la Justicia!
+0015 [Minova] | ¡Ja! ¡Deberías fijarte por dónde vas!==W== ¡Toma esto...!
+0016 [Narración] | ¡Corte...!
+0017 [Narración] | ¡Na! ¡Da! ¡Bue! ¡No!
+0018 [Tilia] | ¡L-lo siento, directora!==W== Hace mucho que no actúo, y me puse un poco nerviosa...
+0019 [Director Knight] | No. Tilia ya se compuso.==W== TÚ eres el problema.
+0020 [Director Knight] | ¡Minova! ¡Del Clan Viento de Ceniza!==W== ¿Siquiera sabes qué papel se supone que interpretas?
+0021 [Minova] | ¿Te refieres a la compañera que pelea junto a la Guardia Imperial?
+0022 [Director Knight] | No solo una compañera. ¡Eres la protagonista!==W== La==W== gran==W== heroína.==W== ¿Entiendes?
+0023 [Director Knight] | ¿Y qué fue eso de hace un momento?==W== ¡Parecías la villana, por todos los cielos!==W== ¿No entiendes lo que significa ser la heroína?
+0024 [Minova] | ¿Eh?==W== ¡Claro que sí!
+0025 [Director Knight] | ¡Entonces empieza a actuar como una!
+0026 [Minova] | «Actuar como una» es demasiado vago.==W== ¿Puedes ser un poco más específica?
+0027 [Director Knight] | Muy bien, entonces...==W== Ve a cambiarte a otra cosa. Quizá eso te ayude a meterte en el papel.==W== Tú decide qué ponerte. Pero el próximo día de filmación quiero ver un atuendo que grite energía de heroína apenas lo vea la gente.
+0028 [Director Knight] | Ah, y solo tráeme el recibo. No te preocupes por el presupuesto.==W== Eso es todo por hoy. Buen trabajo, todos.
+0029 [Vollara] | Hmph...==W== Qué cómoda se ha puesto dando órdenes. Estar en la Guardia Imperial se les sube a la cabeza, ¿verdad?
+0030 [Tilia] | Perdón...==W== Le pedí al Clan Viento de Ceniza que viniera a ayudar con la filmación, y terminó así...
+0031 [Minova] | No te preocupes.==W== Aceptamos el encargo, así que haremos nuestro mejor esfuerzo.
+0032 [Minova] | Entonces el problema es el atuendo, ¿no?==W== Entiendo lo que quiere decir, pero ¿qué cuenta exactamente como energía de heroína?==W== Mmm...
+0033 [Tilia] | ¡Como referencia, mi atuendo fue hecho a la medida y se inspira en el Caballero Enmascarado!==W== Minova, si tienes un personaje o estilo favorito, quizá eso te dé alguna idea.
+0034 [Minova] | Ya veo...==W== Gracias por la sugerencia.==W== En la próxima filmación estaré en plena forma. Y entonces tendremos nuestro pequeño duelo como se debe.
+0035 [Vollara] | Uf...==W== Estoy agotada...==W== Actuar cansa mucho más de lo que pensaba...
+0036 [Neuvira] | Fueron solo unas cuantas líneas, pero pararme frente a la cámara igual me puso nerviosa~
+0037 [Vollara] | ¡Oye, Capi! Buen trabajo hoy...==W== ¿Eh? ¿Qué estás leyendo?
+0038 [Minova] | Revistas de moda.==W== La directora me dijo que preparara un atuendo con más aire de heroína, ¿no? Así que pensé en hojearlas a ver si me llega alguna inspiración.
+0039 [Vollara] | Ahora que lo pienso, el atuendo de esa tal Tilia sí estaba padre. Sobre todo el cinturón y esas cosas.
+0040 [Neuvira] | Sí~ Normalmente se ve bastante simple, pero con ese atuendo parecía otra persona totalmente.==W== Me tomó por sorpresa~
+0041 [Vollara] | Hmph.==W== ¡Entonces la Capitana puede conseguirse un atuendo todavía más padre que el de ella!
+0042 [Minova] | Pero la directora quiere energía de heroína.==W== Tiene que ser algo especial.
+0043 [Neuvira] | Mmm...==W== Entonces, ¿qué es exactamente esa «energía de heroína»?
+0044 [Minova] | Sinceramente, todavía no lo averiguo...==W== Las heroínas de Stella Drama suelen ser chicas ricas, princesas y cosas así. Pero esta vez interpreto a la compañera de Tilia que pelea a su lado...
+0045 [Minova] | ¡Y ahí es donde entra esta revista!
+0046 [Minova] | Ustedes dos vengan a echar un vistazo también.==W== Marquen lo que les guste y averigüemos cómo debería verse una heroína del Viento de Ceniza.
+0047 [Vollara] | ¡Oooooh!==W== ¡Una heroína del Viento de Ceniza suena genial!
+0048 [Neuvira] | Pero en serio, Capi, no tenía idea de que tenías tantas revistas de moda.
+0049 [Minova] | Eh, bueno...==W== ¡Eran para actividades extracurriculares de mis clases en la Academia Platino! ¡Así es! ¡También tienen cursos de moda y diseño!
+0050 [Minova] | En realidad, las compré por las historietas shojo que publican por entregas...==W== Sí, ¡eso me lo llevo a la tumba...!
+0051 [Vollara] | ¡Ooh~!==W== La Academia Platino suena increíble. Hasta tienen cursos de cosas como esta.
+0052 [Minova] | Bueno, basta de plática. Empiecen a buscar. Si ven un atuendo que les guste, doblen la página.
+0053 [Vollara] | Mmm...==W== ¡Ah, este queda perfecto para Capi!==W== No, espera, este es mejor...==W== ¡Órale, ese también se ve increíble!
+0054 [Neuvira] | Hermana, si marcas todas las páginas, después no vamos a poder reducir nada, ¿sabes?...==W== ¿Eh?
+0055 [Narración] | Justo cuando Neuvira alcanzó otra revista, un folleto delgado se deslizó de entre las páginas.
+0056 [Vollara] | ¡Oh! ¡Este también sirve! Lindo y genial a la vez, ¡te queda perfecto, Capi!
+0057 [Minova] | ¿Qué?==W== Eso es...==W== ¡¿«Adiós, mi amiga de la infancia mina terrestre»?! ¡¿Por qué está aquí?!
+0058 [Neuvira] | Mina terrestre...==W== Oye, Capi, ¿qué es esto~?
+0059 [Vollara] | ¡Neuvira, déjame ver!==W== ¿Mm? Las chicas de estas imágenes tienen ojos enormes...
+0060 [Minova] | ¡Aaaahhh...==W==eso...==W== Es porque es un libro ilustrado!==W== El dibujo está exagerado para que los niños pequeños lo entiendan mejor.
+0061 [Vollara] | ¿Un libro ilustrado? ¿De verdad hay libros ilustrados así de pequeños? ¿Y con tantas páginas?
+0062 [Minova] | ¡S-sí! ¡Sí hay!
+0063 [Minova] | ¡Eso no importa ahora! ¡Se supone que estamos decidiendo mi atuendo!==W== ¡Todavía quedan muchas revistas, y si seguimos perdiendo el tiempo así, nunca vamos a terminar!
+0064 [Vollara] | ¡Mejor usemos el atuendo de la portada de este libro ilustrado!==W== ¡Se ve fuerte con él, el parche en el ojo está buenísimo y, la verdad, parece el look perfecto de Heroína del Viento de Ceniza!
+0065 [Neuvira] | Apoyo la moción~==W== Miren, «mina terrestre» es una de esas trampas explosivas enterradas en el campo de batalla, ¿no? Entonces... ¡bum! ¡Tendría un impacto visual espectacular!
+0066 [Minova] | ¿Así que eso significa el tipo mina terrestre? En su momento no lo entendí bien...
+0067 [Minova] | No, no, no... ¡si esta conversación sigue, ¿significa que de verdad voy a terminar filmando con el atuendo de una heroína de historieta shojo?!==W== Aunque... bueno, no es que nunca me lo haya preguntado...
+0068 [Minova] | Cálmate... Minova.==W== No hay forma de que de verdad te veas bien con eso. Haz que desechen esta idea.
+0069 [Minova] | Lo hacen sonar demasiado fácil. Este li==W==—este libro ilustrado es ficción. Ropa así ni siquiera existe en la vida real.==W== Aunque empezáramos a hacer una ahora, no estaría lista a tiempo para la filmación. ¡Moción rechazada!
+0070 [Neuvira] | Si no se puede comprar...==W== Entonces, ¿por qué no pedimos un deseo en el Monolito?
+0071 [Vollara] | ¡Qué buena idea! Ahora que sabemos qué estilo queremos, también deberían subir las probabilidades de obtener lo correcto. ¡Vamos ahora mismo!
+0072 [Minova] | Ugh...==W== De algún modo se salieron con la suya....
+0073 [Minova] | Bueno...==W== Supongo que iremos al Monolito. Además, pedir un deseo no está garantizado. Cuando lo intenten y fallen, seguramente lo dejarán por la paz.
+0074 [Minova] | Está bien, está bien, de acuerdo.==W== Pero que quede claro: solo vamos a hacer la subida una vez.
+0075 [Minova] | Si el deseo falla, tendremos que rendirnos e ir a comprar algo a las tiendas del pueblo. Los deseos tienen un precio. No se pueden andar tirando como si nada.
+0076 [Vollara & Neuvira] | ¡Yaaaay~~~!!
+0077 [Vollara & Neuvira] | ¡Mina~ Bomba~ Genial a más no poder...!==W== ¡Bomba~ Mina~ Tremendamente chida...!
+0078 [Minova] | De verdad no sé qué hacer con ustedes dos...
+0079 [Vollara] | ¡Oh! ¡Los patrones de esta pared son increíbles!==W== ¡Y estas pinturas también están padrísimas!
+0080 [Neuvira] | Capi, el Monolito se siente algo...==W== ¿elegante hoy~? Con un ambiente totalmente distinto...
+0081 [Minova] | Gracias a la Asociación de Trekkers por el dato. Al parecer, los diseñadores de moda suelen contratar a Trekkers para que vengan a este Monolito en particular en busca de inspiración.
+0082 [Minova] | Si a esas dos les interesan otros diseños, puedo desviar la conversación de ese atuendo...
+0083 [Minova] | Si algo de aquí les llama la atención, asegúrense de recordarlo bien.==W== Solo la ropa obtenida de la Caja de Deseos puede sacarse del Monolito, así que cuando llegue el momento de pedir el deseo,==W== tienen que describirla con mucha, mucha claridad.
+0084 [Vollara] | Mmm...==W== Pero sigo pensando que te verías mejor con el estilo del libro ilustrado...==W== ¿Eh?
+0085 [Vollara] | ¡Miren! ¡Este adorno también se ve increíble!==W== Oigan, ¿y si combinamos esto con el atuendo de la portada...?
+0086 [Neuvira] | Hermana...==W== Eh...
+0087 [Minova] | ¡Tonta, atrás! ¡Eso es un Stellaroid!

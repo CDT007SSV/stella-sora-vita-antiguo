@@ -1,0 +1,157 @@
+# Capítulo 3 · 2 · La señora oculta del bosque
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_976 | Señora de la Garra de Premios
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La Señora Oculta del Bosque
+0003 [Intro] | Siguiendo las pistas, llegas al lugar de Serena. Allí conoces a una chica que se hace llamar la «Señora de la Garra de Premios». Está enfrascada en una intensa competencia de máquina de garra con Amber.
+0004 [Lugar y hora] | 09:00, 16.º del mes de Pluvia, afueras de Philae, camino del bosque
+0005 [Noya] | ¡Aquí es!
+0006 [Iris] | Espera... ¿aquí es? ¿Esta choza?
+0007 [Tú] | Parece abandonada.
+0008 [Noya] | Oigan, los mejores Trekkers siempre viven en lugares así.
+0009 [Noya] | Como en esos Stella Dramas, ¿saben? El pequeño maestro espadachín verde escondido en una cueva tenebrosa.
+0010 [Tú] | Pero Bastelina dijo...==B== que la corredora de información se hospedaba en la Casa de los Trekkers.
+0011 [Tú] | Se supone que las Casas de los Trekkers son puestos de la Asociación de Trekkers, lugares para ayudar a los Trekkers y repartir encargos.
+0012 [Tú] | ¿Qué pasó aquí? Este sendero está totalmente cubierto de maleza. Hace siglos que nadie lo usa.
+0013 [Amber] | Sospechoso. Peligroso.
+0014 [Noya] | ¡Dejen de pensar tanto! Solo hay una forma de averiguarlo: ¡vamos!
+0015 [Lugar y hora] | 09:05, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0016 [Noya] | ¿Hola? ¿Hay alguien en casa?==W== ¡Ho==W==olaaaa==W==!==W==
+0017 [Iris] | ¡Tonta! Les vas a dar un infarto.
+0018 [Iris] | Ejem... Disculpen la intromisión. Somos el Gremio de la Nueva Estrella...==W== ¿Está vacío?
+0019 [Tú] | Mm, el interior está bastante limpio. Parece que alguien vive aquí después de todo.
+0020 [Amber] | Hay alguien aquí.
+0021 [???] | ¡Shhh! Este es el momento crucial...
+0022 [Narración] | En un rincón en penumbra del vestíbulo hay varias máquinas de garra de premios. La chica que habló está encorvada sobre una de ellas.
+0023 [Narración] | Aferra la palanca, con la concentración absoluta, mientras la reluciente garra plateada desciende hacia su premio.
+0024 [Narración] | La garra atrapa un peluche de un pingüino blanco y negro llamado Sherlock, algo muy común en los Monolitos.
+0025 [???] | ...¡Uf! Lo logré.
+0026 [Noya] | ¡Vaya, qué buena jugada!
+0027 [???] | Jeje, ¡gracias!
+0028 [Tú] | ¿Será ella...?==B== No, no parece probable.
+0029 [Noya] | Verde... dedos ágiles...
+0030 [Noya] | Disculpa... ¿eres maestra espadachina?
+0031 [???] | ¿Eh?
+0032 [Iris] | Noya, la realidad no es un Stella Drama.
+0033 [Iris] | B-bueno, somos el Gremio de la Nueva Estrella. Perdón por entrar así.
+0034 [Iris] | Buscamos a una corredora de información llamada Serena.
+0035 [???] | ¿Buscan a Serena, eh? Je.
+0036 [???] | Sí, bueno, malas noticias: no está aquí. No le gusta aparecer en público.
+0037 [???] | Pero por suerte para ustedes, sé cómo encontrarla.
+0038 [Iris] | ¡Oh, qué alivio! ¿Podría llevarnos con ella, por favor? Sobre el precio...
+0039 [???] | Mmm, está bien. Pero primero tienen que jugar conmigo... Digo, ¡superar mi prueba! No puedo ayudar a cualquier grupo que se pasee por aquí, ¿saben?
+0040 [Noya] | ¡Ooh, ya entendí! ¡Es igual que en los cuentos! Para conocer al ermitaño legendario, ¡primero hay que vencer a su leal guardiana!
+0041 [???] | ¡NO soy su guardiana!
+0042 [Tú] | ¡P-perdón! Disculpa a Noya...==B== Bueno, sobre esta prueba...
+0043 [???] | ¡Esta, por supuesto! ¡Un duelo de garra de premios! Cada uno controla una garra y gana quien atrape más peluches antes de que se acabe el tiempo.
+0044 [???] | Suena como un verdadero desafío, ¿eh?
+0045 [Tú] | ...
+0046 [Tú] | Solo quiere alguien con quien jugar, ¿verdad?
+0047 [Amber] | ==PLAYER_NAME==, lo quiero.
+0048 [Tú] | ¿?
+0049 [Amber] | Quiero ese peluche.
+0050 [Tú] | Vaya, nunca había visto a Amber tan emocionada por algo.
+0051 [???] | ¡Sabía que no podrían resistirse! ¿Ves? Tu amiga ya está lista para empezar♪
+0052 [???] | Hmph. ¡Ah, ahora lo entiendo! No buscaban a Serena para nada. ¡Vinieron por MÍ!
+0053 [Tú] | ...
+0054 [???] | Seguro oyeron historias sobre la Señora Oculta de la Garra de Premios y vinieron en busca de un desafío, ¿verdad?
+0055 [Tú] | Bien, parece que no obtendremos respuestas hasta que le sigamos el juego.
+0056 [Opción] | Aceptar su desafío
+0057 [Opción] | Demostrarle de qué estás hecho
+0058 [Opción] | Asustarla para que se vaya
+0059 [Tú] | Ya que Amber quiere jugar, más vale seguirle la corriente.
+0060 [Tú] | Está bien, aceptamos tu desafío. Pero si ganamos, tienes que llevarnos con Serena.
+0061 [Señora de la Garra de Premios] | ¿Te das cuenta de que estás desafiando a la Señora de la Garra de Premios, verdad? Encontrar a Serena no es nada. Si me vences, haré lo que quieras.
+0062 [Tú] | Entonces...==B== Amber...
+0063 [Amber] | ¡Sí!
+0064 [Señora de la Garra de Premios] | ¡Jaja, sabía que serías la retadora! Vamos, toma asiento.
+0065 [Amber] | Lista.
+0066 [Señora de la Garra de Premios] | ¡Que comience el desafío!
+0067 [Narración] | La Señora salta junto a Amber y maneja los controles con maestría. Mueve la garra con destreza y, de un solo movimiento, atrapa un peluche de cocodrilo.
+0068 [Señora de la Garra de Premios] | Hmph. ¿Viste eso? Pura habilidad. Si quieres rendirte ahora, no te culparé...
+0069 [Señora de la Garra de Premios] | ¡Qu... espera! ¡¿Cómo eres tan rápida?!
+0070 [Amber] | ~♪
+0071 [Narración] | En un abrir y cerrar de ojos, tres peluches nuevos aparecen a los pies de Amber.
+0072 [Señora de la Garra de Premios] | Oh, ¿jugando a la silenciosa y letal?
+0073 [Señora de la Garra de Premios] | ¡Bien! ¡Entonces tendré que mostrarte el verdadero poder de la Señora Oculta!
+0074 [Tú] | Bueno, si esto es lo que hace falta para que coopere...
+0075 [Tú] | Además, Amber parece muy metida, así que ¿qué daño hace?
+0076 [Tú] | Está bien, aceptado. Pero ¿podemos tantear primero la máquina?
+0077 [Señora de la Garra de Premios] | Por supuesto. Un verdadero desafío exige condiciones parejas.
+0078 [Amber] | Me toca.
+0079 [Señora de la Garra de Premios] | ¿Oh? Alguien está confiada. Para que lo sepas, estas máquinas no son como las de los Monolitos.
+0080 [Señora de la Garra de Premios] | Están ajustadas a medida. La tensión de la garra es extremadamente delicada. Un novato podría intentarlo cien veces y aun así...
+0081 [Amber] | Conseguí uno~
+0082 [Señora de la Garra de Premios] | ¿Eh?
+0083 [Señora de la Garra de Premios] | ¿Eh? Ja... eso es pura suerte. Suerte de principiante. Pronto se acabará y entonces...
+0084 [Amber] | Otro.
+0085 [Amber] | Y con esos ya van tres y cuatro.
+0086 [Amber] | Bien. Ya calenté. Es fácil.
+0087 [Tú] | ¡Amber es una prodigio de la garra de premios!
+0088 [Señora de la Garra de Premios] | Hmph... ¡Jejeje! Qué interesante. Por fin aparece una rival digna...
+0089 [Señora de la Garra de Premios] | ¡Entonces permíteme, a mí, la Señora Oculta de la Garra de Premios, APLASTAR por completo esa confianza!
+0090 [Tú] | Hmph... Je, je.
+0091 [Tú] | ¡Jajajajajaja!
+0092 [Señora de la Garra de Premios] | Eh, ¿estás bien...?
+0093 [Tú] | Solo me maravillaba de que algún mortal se atreva a desafiarme A MÍ, el gran Jefe... y con un juego tan infantil.
+0094 [Señora de la Garra de Premios] | ¿J-Jefe?
+0095 [Tú] | Y por eso debo preguntarte:
+0096 [Tú] | ¿Estás dispuesta a ofrecer tu alma?
+0097 [Señora de la Garra de Premios] | ¿Mi...==B== mi alma?!
+0098 [Tú] | Cuando lanzas un desafío, debes apostar tu propia alma.
+0099 [Tú] | Je, je... ¡Que comience el juego! ¡Mi campeona, la Pantera de la Oscuridad, te dará una lección!
+0100 [Amber] | Miau~
+0101 [Señora de la Garra de Premios] | ¡¿La Pantera de la Oscuridad?!
+0102 [Narración] | Y así, en nombre de reunir información, se libró una feroz guerra secreta.
+0103 [Señora de la Garra de Premios] | ¿Crees que puedes vencerme? Lo siento, amiga. ¡Nací para ganar!
+0104 [Señora de la Garra de Premios] | ¡En el vocabulario de la Señora Oculta de la Garra de Premios no existe la «derrota»! ¡Ni ahora ni nunca! ¡RAAAAAAAGH!
+0105 [Tú] | Tanto grito, ¿para qué?
+0106 [Señora de la Garra de Premios] | Yo... ¡de verdad perdí...!
+0107 [Señora de la Garra de Premios] | ¡No! ¡No puede ser! ¡NOOOOOO!
+0108 [Señora de la Garra de Premios] | ¡E-esta vez solo cuenta porque la tensión de la garra estaba mal!
+0109 [Señora de la Garra de Premios] | ¡Y la colocación de los premios estaba toda mal! ¡Además hoy hace... mucho viento!
+0110 [Señora de la Garra de Premios] | ¡V-vamos una ronda más!
+0111 [Amber] | Esto es divertido~
+0112 [Narración] | Las horas pasaron volando en un borrón. El marcador final fue 109 a 58, una victoria aplastante para Amber.
+0113 [Lugar y hora] | 11:00, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0114 [Tú] | ... ¿No crees que ya es suficiente?
+0115 [Señora de la Garra de Premios] | ... Esto debe ser... sí, un sueño. Una pesadilla total.
+0116 [Tú] | Lo está tomando muy mal.
+0117 [Señora de la Garra de Premios] | ¿Eh? ¡Mi colección de premios! Todos los peluches que deseé de los Monolitos, los que reuní uno a uno... ¡¿Por qué faltan algunos?!
+0118 [Señora de la Garra de Premios] | Ajaja... Oh. Así que no era un sueño después de todo. Bueno, da igual. Perder es perder. No soy mala perdedora ni nada...
+0119 [Amber] | Puedes quedártelos.
+0120 [Narración] | De la montaña de premios a sus pies, Amber tomó un solo peluche de gato naranja.
+0121 [Amber] | Este es el único que quiero.
+0122 [Señora de la Garra de Premios] | ... ¿Me tienes lástima? ¡No necesito caridad de la ganadora...!
+0123 [Amber] | ¿No los quieres?
+0124 [Señora de la Garra de Premios] | ¡C-claro que sí!
+0125 [Tú] | ¿Contenta ahora?
+0126 [Amber] | Mmm~
+0127 [Señora de la Garra de Premios] | Aunque me niego a aceptarlo, la Señora de la Garra de Premios ya no existe. A partir de ahora viviré como Nazuna, una simple miembro de Petal Bloom...
+0128 [Nazuna] | Eh... ¿Amber? El título ahora es tuyo.
+0129 [Amber] | Ah... No.
+0130 [Nazuna] | ¡¿Por qué?! ¡¿No vienes por el título?!
+0131 [Tú] | No, buscamos a Serena...
+0132 [Tú] | Llevamos todo este tiempo diciéndolo...
+0133 [Nazuna] | Estoy... completamente derrotada. Eh... ustedes deben de ser Trekkers de otra ciudad, ¿verdad?
+0134 [Iris] | Somos de Emor.
+0135 [Nazuna] | Ya veo. Bueno, si todavía no han decidido dónde quedarse, pueden quedarse aquí.
+0136 [Nazuna] | En realidad...==B== Serena solo salió por un asunto. Volverá por la tarde.
+0137 [Iris] | Sería demasiada molestia para ustedes. Es su casa, después de todo.
+0138 [Nazuna] | No se preocupen. Aunque se ve algo destartalada, esta era la Casa de los Trekkers de la Asociación de Trekkers en Philae: siempre estuvo destinada a ser un lugar de descanso para los Trekkers.
+0139 [Nazuna] | Además, últimamente no ha venido ningún Trekker por aquí. Si no, no tendríamos tanta libertad para hacer lo que queremos.
+0140 [Noya] | Así que esto es una Casa de los Trekkers... ¿Pero cómo terminó así?
+0141 [Noya] | ¿La atacaron monstruos?
+0142 [Nazuna] | Bueno...==W== Eh, les explicaré todo bien cuando todos regresen esta noche.

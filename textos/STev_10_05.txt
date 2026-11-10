@@ -1,0 +1,130 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 5 · Sombra gigante con tesoro
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Tourist | Turista ansioso
+N:Hermit Crab | Cangrejo ermitaño
+N:Startled Tourist | Turista sobresaltado
+N:Talkative Treasure Hunter | Cazatesoros hablador
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1210 | Cosette
+N:avg1_142 | Cosette
+N:avg1_160 | Willow
+N:avg2_945 | Cangrejo ermitaño
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_211 | Líder de los cazatesoros
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Sombra gigante con tesoro
+0003 [Intro] | Resulta que el «fantasma» es un cangrejo ermitaño que lleva puesto un Artefacto de venta automática y destroza el resort. ¡Y Cosette también está sobre su lomo! Tú y tus amigos deciden seguirlo y rescatar a Cosette.
+0004 [Treasure Hunter Leader] | Buaa... Qué malos son...
+0005 [Treasure Hunter Leader] | ¿Por qué no pueden darnos un respiro? Esta vez nos portamos bien, con un trabajo honesto. ¿¡Por qué siguen persiguiéndonos!?
+0006 [Iris] | Mira quién habla.==W== Tú lanzaste el primer golpe.
+0007 [Treasure Hunter Leader] | Entonces... ¿no vinieron a arruinar nuestro trabajo?
+0008 [Tú] | Solo buscábamos a alguien a quien preguntarle por los rumores. ¿A menos que otra vez andes en algo turbio?
+0009 [Treasure Hunter Leader] | ¡No! Nos hemos partido el lomo día y noche para ahorrar para nuestros viajes.
+0010 [Tú] | Ah... Bueno. Pensé que ustedes podrían estar detrás de las leyendas urbanas.
+0011 [Treasure Hunter Leader] | ¡Qué va! ¡Nosotros somos las víctimas!
+0012 [Treasure Hunter Leader] | Trabajar aquí era duro, claro, pero el negocio iba viento en popa. Buenos ingresos significaban buenos bonos, y el dueño los pagaba.
+0013 [Treasure Hunter Leader] | Entonces, de la nada, empezaron a circular rumores raros. La mirada en la oscuridad, las sombras, Scissorhands... Y cada vez se ponen más exagerados.
+0014 [Willow] | Imagino que esos rumores golpearon muy fuerte al negocio.
+0015 [Treasure Hunter Leader] | Y que lo digas. ¡El negocio se desplomó por completo! La gente se registraba para pasar la noche y exigía el reembolso por la mañana. Otros cancelaban sus reservaciones apenas oían las historias.
+0016 [Treasure Hunter Leader] | Claro, nos llegan algunos buscadores de emociones que quieren leyendas urbanas vivientes, pero eso no suma nada.
+0017 [Treasure Hunter Leader] | La clientela siguió disminuyendo y eso le bajó mucho los ánimos al dueño del resort. Al final renunció a atender la recepción y mandó a todo el personal a cazar esos incidentes sobrenaturales.
+0018 [Treasure Hunter Leader] | ¡A este paso reprobaremos las evaluaciones de desempeño y perderemos el empleo!
+0019 [Tú] | Pero esas historias no salieron de la nada. Algo tiene que estar pasando aquí.==W== ¿Han presenciado algo extraño ustedes mismos?
+0020 [Treasure Hunter Leader] | Bueno... Se supone que no debemos andar divulgando rumores.
+0021 [Willow] | No te preocupes, estamos aquí para ayudar. Lo que nos cuentes quedará entre nosotros. No buscamos causar problemas.
+0022 [Talkative Treasure Hunter] | Jefe...==W== ¿Y si se lo contamos? No es como si tuviéramos mejores opciones.
+0023 [Treasure Hunter Leader] | Está bien...==W== Sí nos topamos con cosas raras.
+0024 [Treasure Hunter Leader] | Últimamente oímos un ruido de clac-clac por las noches y tenemos la sensación de que algo nos observa desde la oscuridad.
+0025 [Treasure Hunter Leader] | Todas las noches aparecen enormes marcas de arrastre en la playa, y tenemos que rastrillarlas antes del amanecer para que los huéspedes no se asusten.
+0026 [Treasure Hunter Leader] | Pero lo más raro de todo es ese Artefacto de venta automática.
+0027 [Noya] | ¡Oh, de ese sí oí! ¡El Artefacto de venta automática que devora gente, ¿verdad?!
+0028 [Treasure Hunter Leader] | Parece que alguien exageró esa historia. Pero sí vimos que el Artefacto se movía solo.
+0029 [Talkative Treasure Hunter] | ¡Lo vi clarito! Ese Artefacto de venta automática se deslizaba lentamente hacia el océano.==W== ¡Para cuando lo seguí hasta el agua, había desaparecido!
+0030 [Treasure Hunter Leader] | Pero lo mejor es esto. Cada vez que volvíamos a revisarlo, el Artefacto ya estaba otra vez en su lugar original.
+0031 [Treasure Hunter Leader] | Por raro que fuera, no le hacía daño a nadie, así que lo dejamos. Entonces esta mañana, un huésped llegó gritando que lo atacaron mientras compraba una bebida. Cuando fuimos a revisar la escena, después de por fin calmarlo...
+0032 [Treasure Hunter Leader] | ¡El Artefacto de venta automática se había esfumado de algún modo! ¡Puf! Sin dejar rastro.
+0033 [Tú] | Cosette estuvo cavando trampas en la playa anoche... ¿Podría estar relacionado?
+0034 [Willow] | Sombras, ojos, marcas de arrastre en la arena y un Artefacto de venta automática que anda por ahí.==W== Parece que todas estas pistas están conectadas.
+0035 [Talkative Treasure Hunter] | Jefe... ¿Y si les contamos lo de la otra cosa?
+0036 [Tú] | ¿Qué otra cosa?
+0037 [Treasure Hunter Leader] | Bueno, aparte de todo eso, algo más nos llamó la atención. Hace poco apareció en el resort una niña pequeñita de cabello blanco.
+0038 [Treasure Hunter Leader] | Pensamos que era una turista más. Pero empezó a esconderse mucho en los rincones. No tenemos idea de qué trama.
+0039 [Treasure Hunter Leader] | Esta mañana, a primera hora, la encontré tirada en la playa, murmurando que esta vez sí atraparía a alguien sin falta. Traté de preguntarle qué hacía, pero entró en pánico y salió corriendo.
+0040 [Tú] | Cabello blanco, pequeñita...==W== ¿Hablan de Cosette?
+0041 [Anxious Tourist] | ¡C-Corran! ¡Salgan de aquí!
+0042 [Startled Tourist] | ¡Aaah! ¿¡Qué es eso!? ¡Aléjense!
+0043 [Noya] | ¿Eh? ¿Qué está pasando?
+0044 [Amber] | Allá abajo, en la playa...
+0045 [Noya] | Wow... Eso es una locura.
+0046 [Iris] | ¿¡Q-Qué es eso!?
+0047 [Amber] | Un cangrejo ermitaño con un Artefacto de venta automática puesto. Y está destrozando todo.
+0048 [Iris] | ¿¡Cómo es que esas dos cosas quedaron pegadas!?
+0049 [Tú] | Espera... La persona que lo persigue parece ser...
+0050 [Cosette] | ¡Detente! ¡Dije que te detengas!
+0051 [Cosette] | ¡Alto ahí!==W== ¡Devuélveme mis bebidas!
+0052 [Treasure Hunter Leader] | ¡Oigan! ¡Esa es la niña de la que les hablaba!
+0053 [Willow] | ¿Por qué rayos persigue a un cangrejo ermitaño...?
+0054 [Willow] | ... Espera, no importa. No hay tiempo para quedarnos mirando. Hay que despejar la zona ya.
+0055 [Willow] | ¡Todos, sigan avanzando! ¡Mantengan la calma y aléjense de inmediato del camino del cangrejo!
+0056 [Treasure Hunter Leader] | ¡Un momento! ¿¡Ese es el Artefacto de venta automática desaparecido en su lomo!?
+0057 [Talkative Treasure Hunter] | ¡Maldición, sí es! Estamos acabados. Adiós a todo nuestro sueldo...
+0058 [Narración] | El cangrejo ermitaño gigante está enloquecido, agitando sus pinzas y arrasando el resort.
+0059 [Willow] | No se puede razonar con él. En ese caso...
+0060 [Iris] | Espera, Willow... No irás a...
+0061 [Narración] | Willow se lanza directo contra el cangrejo desbocado.
+0062 [Narración] | Un golpe sordo resuena cuando su brazo mecánico se estrella contra su cabeza.
+0063 [Noya] | ... Típico de Willow. No se contiene para nada.
+0064 [Cosette] | ¡Te tengo! ¡Ladrón asqueroso!
+0065 [Hermit Crab] | ¡Clac-clac-clac!
+0066 [Cosette] | ¡Buaaah! ¡Mejor ríndete! ¡No te suelto hasta que me devuelvas mis bebidas!
+0067 [Tú] | ... ¿¡Cómo te preocupas por las bebidas en este momento!?
+0068 [Treasure Hunter Leader] | ¡Un momento! Este cangrejo ermitaño...
+0069 [Treasure Hunter Leader] | ¿Será el legendario Cangrejo Ermitaño Portador de Tesoro?
+0070 [Tú] | ¿El Cangrejo Ermitaño Portador de Tesoro?
+0071 [Treasure Hunter Leader] | ¡Sí! Mira, aquí tengo la vieja libreta de mi superior. ¡Todo está aquí!
+0072 [Treasure Hunter Leader] | Es un cangrejo ermitaño enorme que solo se encuentra en el océano. ¡Su duro caparazón, liso y con un extraño lustre, no tiene precio para los coleccionistas!
+0073 [Treasure Hunter Leader] | Por eso, incontables cazatesoros han pasado la vida persiguiéndolo.
+0074 [Noya] | Pero no tiene caparazón en la espalda...
+0075 [Treasure Hunter Leader] | ¡Ahí está el detalle!
+0076 [Treasure Hunter Leader] | Dicen que hace unos meses, un rico magnate contrató a un grupo de Trekkers para atrapar a esta cosa. Lo rastrearon durante una semana entera y por fin lo acorralaron...
+0077 [Treasure Hunter Leader] | Pero se les escapó en el último segundo. Nadie lo ha vuelto a ver... Se rumora que incluso se vieron fragmentos del caparazón flotando en el agua en aquel entonces.
+0078 [Treasure Hunter Leader] | ¡Debió de luchar con tanta fuerza cuando lo acorralaron que perdió el tesoro que cargaba!
+0079 [Treasure Hunter Leader] | ¡Así que ahora regresó, ardiendo de rencor, para vengarse de la humanidad!
+0080 [Iris] | ¿Seguro de eso...?
+0081 [Treasure Hunter Leader] | Hablo en serio. ¡Piénsalo! Ese caparazón era su orgullo y alegría, y los humanos codiciosos se lo quitaron. Eso basta como motivo de venganza.
+0082 [Treasure Hunter Leader] | Atacar humanos ya no le bastaba para saciar su furia, así que empezó a ir tras las posesiones valiosas de los humanos. ¿Y cuál es el mayor premio de este resort?
+0083 [Iris] | ... ¿Ese Artefacto de venta automática con bebidas especiales?
+0084 [Treasure Hunter Leader] | ¡Exacto! Ese Artefacto despacha una bebida exclusiva que no se consigue en ningún otro lado. La mitad de los turistas vienen específicamente por ella. Es casi un monumento local.
+0085 [Treasure Hunter Leader] | El cangrejo pensó que era un tesoro humano y se llevó el aparato completo.
+0086 [Cosette] | ¡DIJE==W== QUE LO DEVUELVAS!==W== ¡AHORA!
+0087 [Hermit Crab] | ¡Clac-clac-clac!
+0088 [Tú] | ¡Cosette...!
+0089 [Narración] | El cangrejo ermitaño se zambulle en el océano con Cosette aún aferrada desesperadamente a su lomo. Un enorme géiser de agua salta y ambos desaparecen entre las olas revueltas.
+0090 [Willow] | ¡Esto está mal!
+0091 [Tú] | ¡Tenemos que ir tras ella!
+0092 [Iris] | Pero están en el océano. ¿Cómo vamos a perseguirlos?
+0093 [Treasure Hunter Leader] | Pueden llevarse nuestro bote...
+0094 [Treasure Hunter Leader] | ¡Pero por favor, también tienen que traer de vuelta ese Artefacto de venta automática!
+0095 [Noya] | Y yo que pensé que estaban siendo generosos. Resulta que todo es por el Artefacto...
+0096 [Treasure Hunter Leader] | ¡Claro que me importa! No es una imitación barata con alguien escondido adentro. Es un auténtico Artefacto automático deseado directamente del Monolito. ¡Cuesta una fortuna!
+0097 [Treasure Hunter Leader] | El dueño del resort gastó una buena suma en él. ¡Si no lo traemos de vuelta, seguro nos toca hacer las maletas!
+0098 [Iris] | Pero míralo, está completamente destrozado. Aunque lo recuperemos, probablemente ya no funcione.
+0099 [Treasure Hunter Leader] | ¡Vivo o muerto, necesito el cuerpo!==W== Si está roto, ya veremos cómo arreglarlo. ¡Si se pierde para siempre, no nos quedará nada!
+0100 [Treasure Hunter Leader] | Por favor, honorable Jefe... Tienes que ayudarnos.
+0101 [Tú] | ... Está bien. Rescatar a Cosette es la prioridad.==W== Haremos lo posible por traer ese Artefacto también.
+0102 [Treasure Hunter Leader] | ¡Fantástico! No esperaba menos del Jefe que siempre arruina nuestros planes. ¡Eres de verdad un hacha!
+0103 [Tú] | Eso no suena como un cumplido...
+0104 [Willow] | Basta de charla. Todos al bote. ¡Tenemos que alcanzarlos!

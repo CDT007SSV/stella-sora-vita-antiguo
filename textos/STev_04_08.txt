@@ -1,0 +1,112 @@
+# Evento · Réquiem invernal y el gatillo del alba · 8 · El gatillo del alba
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Ancient Souls | Almas antiguas
+N:Attendant | Asistente
+N:Strange Old Man | Anciano extraño
+N:avg1_1211 | Wraith
+N:avg1_143 | Wraith
+N:avg2_951 | Entidad de la Prosperidad (Fuego)
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_109 | Abuelo Chai
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_195 | Edda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | El gatillo del alba
+0003 [Intro] | Tras combatir a las almas antiguas dentro de la ilusión, Wraith logra liberarse y regresar a la realidad, y se une a ti para enfrentar a una Edda completamente desquiciada.
+0004 [1] | No creo en los Arcontes, ni me sentaré a salvo en ningún «asiento de espectador».
+0005 [1] | ¡Yo mismo protegeré a mi compañera!
+0006 [Edda] | Así que esa es tu respuesta. Qué...==W== decepcionante. Una verdadera lástima.
+0007 [Edda] | Muy bien, Testigo. Una vez terminado el ritual, habrás dejado de ser útil.
+0008 [Opción] | Proteger el arma de Wraith
+0009 [Edda] | Tirano, ¿perdiste la cabeza? Un arma sirve para protegerse a uno mismo, no al revés.
+0010 [Tú] | Edda, sigues haciendo teatro, ¿verdad?
+0011 [Tú] | Tu verdadero objetivo es su arma. ¿Cierto?
+0012 [Edda] | ¡¿De qué hablas?!
+0013 [Tú] | No sé nada de tu Dios de la Guerra ni del ritual de los Arcontes y todo eso.
+0014 [Tú] | Pero pensándolo bien, ningún comandante ordenaría a sus guerreros matarse entre ellos antes de una batalla.
+0015 [Tú] | Además, todas las personas controladas con las que Wraith y yo nos topamos se desplomaban después de que les quitaran el arma de las manos.
+0016 [Tú] | La verdadera regla de este ritual... es desarmar al oponente, ¿no es así?
+0017 [Tú] | Wraith aferró con fuerza su hoja incluso al caer al suelo:==W==nunca abandonó la lucha.
+0018 [Edda] | Hmph, Tirano, como «Testigo», puedes despedirte de tu garantía de seguridad en cuanto intervienes.
+0019 [Edda] | ¿De verdad crees que puedes vencerme?
+0020 [Tú] | No me atrevería a decir esto de nadie más, pero si eres tú, que solo sabes usar magia...
+0021 [Tú] | Eres del Imperio de la Gracia, deberías conocer mi condición particular.
+0022 [Edda] | ¡Ten en cuenta que el manejo de la espada no me es ajeno!
+0023 [Narración] | Edda desenvaina la daga que lleva y se me acerca lentamente.
+0024 [Tú] | ¡Vamos, Wraith, despierta! ¡Sé que no has dejado de pelear!
+0025 [Wraith] | Por el bien de ==PLAYER_NAME==... ¡no caeré aquí!
+0026 [Attendant] | ¡Ríndanla!
+0027 [Wraith] | ¿Eso es todo lo que tienen?==W== Vengan todos a la vez. Tengo prisa.
+0028 [Attendant] | Derribó a todo nuestro regimiento con las manos desnudas.
+0029 [Attendant] | Ese estilo de lucha... ¿Dónde lo aprendiste?
+0030 [Wraith] | ¿Dónde? En Norstheim, los niños practican estos movimientos desde que pueden ponerse de pie.
+0031 [Wraith] | Si dependes demasiado de tu arma, te matarás. Es entrenamiento básico.
+0032 [Attendant] | ¡Maldita! ¡¿Cómo te atreves a burlarte de nuestras tradiciones?!
+0033 [Narración] | ¡Basta!
+0034 [Attendant] | ¡Vicecomandante! ¡¿Por qué nos detiene?! ¡Todavía podemos pelear!
+0035 [Strange Old Man] | El resultado es claro. Esta pelea nunca fue justa. Si seguimos, perderemos hasta el último resto de dignidad.
+0036 [Strange Old Man] | Antes de declarar a la vencedora, joven alma, tengo una pregunta.
+0037 [Strange Old Man] | Estas habilidades tuyas... En tu mundo, ¿de verdad son de conocimiento común?
+0038 [Wraith] | ... Eso he oído. Cuenta la leyenda que este estilo fue alguna vez un secreto celosamente guardado entre la nobleza.
+0039 [Wraith] | Pero en las tierras heladas, si no sabes pelear, no sobrevives.
+0040 [Wraith] | Con el tiempo se volvió una habilidad de supervivencia para todos: hombres, mujeres y niños.
+0041 [Wraith] | ¿Te satisface esta respuesta?
+0042 [Strange Old Man] | Ah... ¿De verdad ha pasado tanto tiempo en el mundo exterior? Con razón el aspecto de este salón no deja de cambiar.
+0043 [Strange Old Man] | Aún reconozco que era un lugar para comer, aunque no se parece en nada a las mesas de nuestros recuerdos. Este debe de ser... el estilo arquitectónico de tu época.
+0044 [Wraith] | Hmph, eres demasiado sentimental. Una mesa es una mesa: mientras puedas comer en ella, ¿cuál es el problema?
+0045 [Strange Old Man] | Jaja, me gusta tu espíritu. Me recuerdas a los días en que todavía estaba entre los vivos.
+0046 [Strange Old Man] | Hemos presenciado demasiada matanza, hemos visto cómo la guerra lo reduce todo a ruinas, ciclo tras ciclo.
+0047 [Strange Old Man] | Y sin embargo... de esta tierra marcada por las cicatrices siempre parecen surgir nueva vida y nuevo orden.
+0048 [Strange Old Man] | Dios debió de guiarte hasta nosotros. Quizá para entregar un mensaje.
+0049 [Wraith] | Me lo preguntaba... ¿Son la legión de los murales? ¿Los que marcharon con el «Dios de la Guerra»?
+0050 [Strange Old Man] | Sí, hicimos campaña con ella... y al final nos perdimos dentro del Monolito, junto a ella.
+0051 [Strange Old Man] | Fue una guerrera legendaria, pero en algún momento se aisló... se obsesionó. Intentamos hacerla entrar en razón, por desgracia...
+0052 [Wraith] | Fracasaron. Y sus almas quedaron atrapadas justo aquí.
+0053 [Strange Old Man] | Pero tú eres distinta, joven alma. Tu destino no está sellado en este lugar.
+0054 [Strange Old Man] | Gracias a la naturaleza de tu compañero, el ritual que nos ata aquí se ha debilitado considerablemente.
+0055 [Strange Old Man] | Si... canalizamos nuestro poder restante, deberíamos poder sacarte de este dominio.
+0056 [Wraith] | ... Espera. No pensarán...
+0057 [Strange Old Man] | No nos mires así. Solo somos ecos del pasado. Ayudar a los vivos es la liberación que deseamos.
+0058 [Ancient Souls] | ¡Gracias, chica! ¡Hacía siglos que no tenía una pelea tan buena!
+0059 [Ancient Souls] | ¡Asegúrate de hablarle al mundo de nosotros! ¡Jajajaja!
+0060 [Attendant] | Hmph... Ya que regresas, asegúrate de terminar lo que empezaste.
+0061 [Strange Old Man] | ¡Ve ahora!
+0062 [Narración] | ¡Lo que dejamos inconcluso en vida... Te lo confiamos a ti!
+0063 [Wraith] | Los oigo.==W== Y llevaré conmigo su voluntad y su espíritu...
+0064 [Edda] | Ese cuerpo tuyo es una verdadera molestia, Tirano. ¿No es hora de rendirte?
+0065 [Edda] | Uf... La verdad, preferiría no llegar demasiado lejos.==W== Solo suelta el arma y te llevaré sano y salvo a casa. Sí reservé un carruaje para mañana.
+0066 [Tú] | Uf... Uf... ¡Tú eres la que debe parar! ¡Tu obsesión va a matar a todos!
+0067 [Tú] | Ay, no... Ya no puedo correr más...
+0068 [Edda] | Hmph... Je. Yo también estoy cerca de mi límite... ¡Pero parece que la victoria sigue siendo mía!
+0069 [Tú] | ¡Rayos...!
+0070 [Narración] | En una fracción de segundo, una enorme onda expansiva me manda volando.
+0071 [Tú] | No... El arma de Wraith...
+0072 [Edda] | Estás al borde de la muerte y aun así sigues aferrado a eso.
+0073 [Edda] | Esa inmunidad a la magia tuya no te salvará. No de una hoja física.
+0074 [Edda] | Si no lo sueltas, te cortaré los dedos uno por uno hasta que no puedas sostener nada nunca más. ¿Qué te parece?
+0075 [Tú] | Edda, te ves absolutamente patética, aferrándote al poder con medidas tan desesperadas.
+0076 [Edda] | Cállate... ¡Ya te lo dije! ¡Necesito salvar a Nova de Nocturn Eterna!
+0077 [Edda] | Y si alguien se interpone en mi camino, no me importa quién sea, lo eliminaré. Por cualquier medio necesario.
+0078 [Edda] | ¡Esa es la misión que me encomendaron... los Arcontes!
+0079 [???] | Te equivocas, Edda. La verdadera paz nunca puede ganarse con el peso de la fuerza bruta.
+0080 [Edda] | ¿Qué...? ¡Imposible! ¡¿Cómo es que estás despierta?!
+0081 [Tú] | ¡Wraith!
+0082 [Wraith] | Perdón por hacerte esperar, ==PLAYER_NAME==. Ya volví.
+0083 [Edda] | Imposible. ¡¿Qué hiciste?! Nadie escapa del Dominio del Arconte...
+0084 [Wraith] | Quizá no. Pero aquí estoy.
+0085 [Wraith] | Parece que ese «poder» que veneras no es tan absoluto como creías.
+0086 [Edda] | ... Jaja...==W== ¡Jajajaja!
+0087 [Edda] | ¡Bien! Tuviste suerte esta vez. ¡Pero ya pasamos el punto sin retorno!
+0088 [Edda] | ¡Hoy... ninguno de ustedes saldrá vivo de aquí!
+0089 [Wraith] | Sí saldremos.==W== ¡Prepárate, ==PLAYER_NAME==!
+0090 [Tú] | Entendido. Wraith, ¡saldremos de esta!

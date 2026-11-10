@@ -1,0 +1,108 @@
+# Historia de Mistique · 3 · A Special Report (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_135 | Mistique
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un reportaje especial (Parte III)
+0003 [Intro] | El Jefe y la Bruja forman una alianza y comparten un momento inolvidable.
+0004 [Mistique] | Uf...==W== Por fin escapamos...
+0005 [Tú] | Me siento mareado... De verdad quiero vomitar.
+0006 [Tú] | Vaya, no tenía idea de que pudieras volar tan rápido...
+0007 [Mistique] | ¡Es parte del trabajo cuando eres bruja!
+0008 [Narración] | Aunque soltó unas frases geniales a esos acosadores rastreros, ¡Mistique sorprendentemente, y con bastante decisión, salió corriendo!
+0009 [Tú] | Bueno, al menos tuvo la decencia de agarrarme antes de despegar.
+0010 [Tú] | Su escoba sí que es rápida... Pero si algún día hay una próxima vez...
+0011 [Tú] | Espero que al menos sea un viaje agradable y suave, no una huida frenética como esta.
+0012 [Mistique] | Pero en serio, Jefe, no tenía idea de que valías tanto.
+0013 [Mistique] | Parece que este cliente quiere más que solo fotos tuyas.
+0014 [Tú] | Será un secuestro...
+0015 [Mistique] | ¡Ugh, esto es un intento de secuestro a mitad de comisión! ¿¡Alguien ha oído hablar de ética profesional!?
+0016 [Tú] | O sea que hasta una bruja traviesa como ella tiene momentos en que pierde la compostura.
+0017 [Tú] | Quizá estemos a salvo por ahora, pero ¿quién sabe cuándo volverán a aparecer los malos?
+0018 [Tú] | … Pidieron específicamente por ella, ¿eh?==W== … Ya veo.
+0019 [Narración] | La respuesta está en la pregunta. Si no lo aclaro ahora y Mistique se hace una idea equivocada, causará problemas.
+0020 [Mistique] | Tch... Y yo que esperaba revisar unos cuantos lugares más contigo.
+0021 [Tú] | Mistique, cálmate, escúchame...
+0022 [Tú] | ¿No crees que lo que pasó fue muy extraño?
+0023 [Mistique] | ¿Oh? ¿Mi brillante Jefe descubrió algo?
+0024 [Mistique] | … ¡Ah, oír al Jefe llamarme por mi nombre: qué regalo!
+0025 [Narración] | Estoy acostumbrado a este tipo de burlas suyas, así que sigo explicando mi teoría.
+0026 [Tú] | ¿De verdad iban tras de mí?
+0027 [Tú] | Mistique, ¿últimamente te han seguido más de lo normal?
+0028 [Mistique] | O sea que dices... ¿que no es a ti a quien siguen, sino que es a mí a quien buscan?
+0029 [Tú] | Cuando crees que eres el cazador, quizá en realidad seas la presa.
+0030 [Mistique] | Jefe...
+0031 [Mistique] | ¡Cielos, ¿de verdad te preocupas por mí?!
+0032 [Tú] | N-no, claro que no. Solo es una deducción lógica, nada más.
+0033 [Tú] | Mistique, siempre estás en movimiento y es difícil dar contigo. Quien te busque probablemente notó el interés que has mostrado en mí últimamente.
+0034 [Tú] | Así que pensaron que, si me usaban de carnada... aparecerías en las calles sin pensarlo dos veces.
+0035 [Mistique] | Ya veo... Me tendieron una buena trampa.
+0036 [Tú] | Cuando estás sola, nadie puede atraparte, porque siempre vas zumbando en tu escoba.
+0037 [Tú] | Pero si necesitas tomarme fotos a escondidas, te mueves más lento y te vuelves muchísimo más fácil de ubicar.
+0038 [Mistique] | Vaya... ¿Así que es eso...?
+0039 [Tú] | Debes de tener alguna idea, Mistique. ¿Quién querría atraparte?
+0040 [Mistique] | ¿Cómo voy a saberlo?
+0041 [Narración] | Me responde con una sonrisa burlona, dando brinquitos en círculos con las manos detrás de la espalda.
+0042 [Tú] | Tratando de esquivar mi pregunta otra vez, ¿eh?
+0043 [Mistique] | Bueno...
+0044 [Mistique] | Como sabes, soy una bruja, y de las grandes.
+0045 [Tú] | Sí, todos lo sabemos. Por favor, continúa.
+0046 [Mistique] | He hecho enojar a mucha gente con mis reportajes.
+0047 [Mistique] | Scarlet Sights Media ya dejó de darme encargos hace tiempo, pero yo sigo en la calle todos los días, persiguiendo historias por mi cuenta.
+0048 [Mistique] | Hay demasiada gente que quiere que deje de investigar.
+0049 [Tú] | No creí que alguien en Nova pudiera atraer aún más atención que Boss Accord.
+0050 [Mistique] | Una de las ventajas de ser bruja, supongo.
+0051 [Mistique] | Pero, Jefe...
+0052 [Mistique] | Si lo que dices es cierto y todo este problema empezó porque alguien intenta derribarme...
+0053 [Mistique] | Entonces quizá debería dejar de pasar volando a pasar el rato contigo.
+0054 [Tú] | ¿Por qué?
+0055 [Mistique] | … Porque todavía quiero ser esa bruja que persigue la verdad.
+0056 [Mistique] | Pero si estar cerca de ti te pone en peligro... Entonces de verdad sería solo una bruja que trae mala suerte...
+0057 [Tú] | ¡No lo serás, Mistique!
+0058 [Narración] | Esto no es algo con lo que se bromee, así que la interrumpo a media frase.
+0059 [Narración] | No quiero que se haga una idea equivocada.
+0060 [Tú] | ¿No acabo de decirlo? Eres la clase especial de bruja...
+0061 [Tú] | ¡Una bruja temible cuya sola existencia atrae la atención de los enemigos, igual que Boss Accord!
+0062 [Mistique] | ¿Eh?
+0063 [Tú] | El Jefe que quiere poner el mundo de cabeza y la Bruja que ha logrado enojar al mundo entero. ¡Me suena a dúo poderoso!
+0064 [Tú] | Además, ¡yo soy el Jefe! ¡Proteger a una bruja es pan comido!
+0065 [Mistique] | ¡Guau! Jefe...
+0066 [Mistique] | Je,==W== ¡voy a recordar lo que acabas de decir!
+0067 [Tú] | … ¿Dije algo raro?
+0068 [Mistique] | ¡No, no, muy propio de tu posición, Jefe!
+0069 [Mistique] | ¡La Bruja y el Jefe, sellando un pacto! Ah, qué momento memorable...
+0070 [Mistique] | ¿Puedo tomar una foto para capturar el momento?
+0071 [Tú] | Claro. Como quieras.
+0072 [Mistique] | Me lo voy a cobrar.
+0073 [Mistique] | Oye, ¿Jefe? ==W==¿Cómo te sientes ahora?==W==
+0074 [Opción] | ¡N-no puedo moverme! ¿¡Qué hiciste!?
+0075 [Mistique] | Relájate. ==W==Es solo un hechizo pequeño que me da control de tu cuerpo. ==W====W==Es tu culpa, ¿sabes? ==W====W==Colarte así en mi corazón.
+0076 [Mistique] | Ejeje...==W== Después de todo, ==W====W==si vamos a tomar una foto, ==W==tiene que ser buena. ★==W==
+0077 [Opción] | … ¿Pero de verdad es necesario?
+0078 [Mistique] | Sabes, ==W==el Jefe no debe romper sus promesas. ==W====W==Aceptaste la sesión de fotos, ¿recuerdas? ==W====W==¡Ahora vamos, sonríe! ♪
+0079 [Mistique] | ¿Mm? ==W==El encuadre no está mal ...==W== pero esa cara. Mmm...
+0080 [Opción] | Acepté una foto...
+0081 [Opción] | No hacer gestos...
+0082 [Mistique] | Ja-ja. ★ ==W==Buen punto. ==W==Pero si una foto así llegara a salir a la luz, ==W====W==¿qué dirá la gente?==W==
+0083 [Mistique] | A menos que ...==W== en realidad no te importe verte envuelto en un escándalo conmigo. ==W====W==Ejeje. ¡Vamos, di la verdad!==W==
+0084 [Opción] | … Lo que sea
+0085 [Mistique] | Aww, ¿haciéndote el interesante?==W== Eres adorable. ♪ ==W==Entonces, ¿qué tal esto?
+0086 [Mistique] | Si esta foto tuya en tan lamentable estado llegara al mundo, ==W====W==¿qué pasaría con la reputación de tu empresa?
+0087 [Opción] | ¡Eso ya no es una broma, es chantaje!
+0088 [Mistique] | ¡Sí, ==W==eso es! ==W==¡Esa es EXACTAMENTE la cara que quería ver, Jefe! ==W==¡Ejeje! ==W==Ahora no te muevas... ♪
+0089 [Narración] | No sé si Mistique me soltó o si yo jalé con demasiada fuerza; de cualquier modo, logré liberarme.
+0090 [Tú] | ¿¡Qué clase de fotos tomaste!?
+0091 [Mistique] | ¡Perfecto! ¡Titularé esta: El momento suave y blandito del Jefe!
+0092 [Tú] | Ni modo... ¿Qué voy a hacer contigo...?
+0093 [Mistique] | ¡Jeje, muchísimas gracias! ¡Una bruja nunca olvida un favor!
+0094 [Mistique] | ¡Este reportaje exclusivo será mi regalo para ti, Jefe!
+0095 [Tú] | … Sí, no puedo decir que lo espere con ganas.
+0096 [Narración] | Un día bastante común, con calles bulliciosas llenas de gente.
+0097 [Narración] | La Bruja y el Jefe, nuestra historia apenas comienza.
+0098 [Mistique] | Jeje, esta foto de nosotros juntos...
+0099 [Mistique] | Jefe, la atesoraré para siempre...==W==

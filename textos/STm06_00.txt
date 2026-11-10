@@ -1,0 +1,128 @@
+# Capítulo 6 · Milagro de un destello · Interludio · Lealtad y traición
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Astonished Audience | Público asombrado
+N:Cautious Judge | Juez cauteloso
+N:Crisp Voice | Voz nítida
+N:Gentle Father | Padre amable
+N:Giotto | Giotto
+N:Gloating Audience | Público burlón
+N:Smart Girl | Chica lista
+N:Well-Informed Audience | Público bien informado
+N:avg1_110 | Firenze
+N:avg1_138 | Nyx
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1265 | Firenze
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Interludio
+0002 [Intro] | Lealtad y traición
+0003 [Intro] | Nyx y Firenze eran amigas cercanas en la escuela. Sin embargo, Nyx se convirtió después en inspectora y hundió al padre de Firenze en un caso de filtración. Tres años más tarde, Firenze se unió a Darcia para cobrar su «venganza» contra su antigua amiga.
+0004 [Smart Girl] | Moler tres Colmillos de Elfo del Bosque hasta hacerlos polvo, cortar dos Plumas de Jade en pedacitos...
+0005 [Smart Girl] | Luego echarlos en cuatro onzas de agua de mar del Arrecife Nocturno y agitar bien...
+0006 [Smart Girl] | ¡Guau! ¡Papá, se puso morado, justo como dijiste!
+0007 [Smart Girl] | Pero ¿cómo? No usé nada morado. ¿Le metiste magia a escondidas para cambiarle el color?
+0008 [Gentle Father] | No toqué nada, te lo prometo. Es la magia que hay dentro de los ingredientes. Reaccionaron y crearon ese tono tan bonito.
+0009 [Gentle Father] | Tienes un don para percibir la magia, Firenze. Confía un poco en ti. Preparaste esta poción tú solita.
+0010 [Smart Girl] | ¿Eso quiere decir que ya puedo ir a Investigación y Desarrollo a ser tu asistente?
+0011 [Gentle Father] | Jaja, quizá cuando seas más grande. Por ahora, concéntrate en tus estudios.
+0012 [Smart Girl] | Ay, los estudios... ¡Para cuando me gradúe, seguro la Hierba Radiante Mandrágora ya estará haciendo los experimentos por ti! Ni siquiera me vas a necesitar.
+0013 [Gentle Father] | No te preocupes, a ese proyecto todavía le falta mucho. Incluso cuando termines la Academia de Philae y la Academia Luz de Gracia, quedará muchísimo trabajo para ti.
+0014 [Smart Girl] | No sabía que incluso alguien tan increíble como tú tuviera que batallar tanto con eso... Papá, ¿alguna vez has pensado en renunciar?
+0015 [Gentle Father] | Mmm... A veces sí se pone difícil. Pero creo que esta investigación le traerá comodidad y felicidad a la gente.
+0016 [Gentle Father] | La compañía y mis colegas me respaldan, y además te tengo a mi lado, ¿no?
+0017 [Gentle Father] | Pero basta de hablar de mí. ¿Cómo te ha ido en la escuela últimamente?
+0018 [Smart Girl] | ¡Todos los días están llenísimos! Hice una nueva amiga, Nyx. La verdad es muy lista. Bueno, no tanto como yo, claro.
+0019 [Gentle Father] | Ah... Firenze. ¿Recuerdas lo que te enseñé sobre la amistad?
+0020 [Smart Girl] | Claro que sí.
+0021 [Narración] | Nunca construyas una amistad por interés, y nunca, jamás, traiciones a un amigo.
+0022 [Narración] | Unos años después.
+0023 [Narración] | Año 992 del Calendario Monolítico
+0024 [Lugar y hora] | 10:30, 16.º del mes de Nebula, Distrito de Oro de Philae, Tribunal de la compañía Cosecha Unida
+0025 [Crisp Voice] | Giotto de Feltro. Se le acusa de traición a la compañía: filtrar datos confidenciales a una bruja de Scarlet Sights Media. ¿Impugna estos cargos?
+0026 [Giotto] | No... los impugno.
+0027 [Astonished Audience] | ¿Confesó? No puede ser. ¿Por qué el director de Investigación y Desarrollo se vendería a una bruja?
+0028 [Gloating Audience] | Como si tuviera opción. La oficial Nyx es lo mejor de la sede. Ya viste las pruebas: lo agarraron con las manos en la masa. Seguro quería los Dorra.
+0029 [Astonished Audience] | Pero es director. ¿De verdad se volvería traidor por una ganancia rápida?
+0030 [Gloating Audience] | Oye, el dinero es el dinero. Aunque De Feltro se descuidó. Nyx lleva apenas dos meses en Philae, y mira todo lo que ha sacado a la luz.
+0031 [Well-Informed Audience] | Dicen que lo venía planeando desde la academia. Es la mejor amiga de la hija de De Feltro. Seguro la usó para acercarse al director.
+0032 [Well-Informed Audience] | Y hoy además es el cumpleaños de la hija. ¿Juzgar a su padre justo hoy? Esos oficiales no tienen corazón.
+0033 [Astonished Audience] | ¡Shh, baja la voz! La chica que está justo frente a nosotros... ¿No es ella?
+0034 [Gloating Audience] | Bah, ¿y qué? Su padre ya no es director. Ahora es solo un convicto.
+0035 [Firenze] | Mi padre lo dio todo por Cosecha Unida. ¡No creo que haya hecho esto! Y aunque lo hubiera hecho... Debió de tener una razón.
+0036 [Firenze] | Nyx... ¿Por qué eres tú la demandante? ¿Es cierto lo que dicen? ¿Te hiciste mi amiga solo para llegar a mi padre? ¿No fui más que una pista para ti?
+0037 [Firenze] | ¿Por qué? No tiene sentido... No lo entiendo...
+0038 [Nyx] | Su Señoría. El director Giotto de Feltro es culpable de malversación y de violación de secretos comerciales.
+0039 [Nyx] | En nombre del Departamento de Cumplimiento, presento formalmente estos cargos. Solicitamos un fallo inmediato.
+0040 [Cautious Judge] | Acusado Giotto de Feltro. ¿Tiene algo más que agregar?
+0041 [Giotto] | No, Su Señoría. Traicioné a la compañía. Mis crímenes son imperdonables.
+0042 [Cautious Judge] | En cuanto a la filtración en el Departamento de Investigación y Desarrollo de Philae: los hechos son claros y las pruebas, concluyentes. Procederé a dictar sentencia.
+0043 [Cautious Judge] | Este tribunal lo declara culpable de retrasar deliberadamente el proyecto de la Hierba Radiante Mandrágora para desviar cuantiosos fondos y materiales. Esto constituye el delito de malversación...
+0044 [Cautious Judge] | Además, su divulgación no autorizada de datos clasificados a una bruja de Scarlet Sights le causó a la compañía pérdidas catastróficas. Este acto malicioso constituye una grave violación de secretos comerciales.
+0045 [Cautious Judge] | Por el conjunto de estos delitos, Giotto de Feltro queda condenado a cadena perpetua, sin posibilidad de libertad condicional ni conmutación de la pena.
+0046 [Firenze] | ¿C-cadena perpetua? No... ¿Cómo llegamos a esto...?
+0047 [Narración] | Desde la galería, Firenze, aturdida, alza la vista y cruza la mirada con su padre en el banquillo.
+0048 [Giotto] | ...
+0049 [Narración] | El hombre lleno de vida que ella recuerda se ve completamente destrozado. Le hace a Firenze un leve gesto de negación con la cabeza y luego aparta la vista mientras los guardias de la compañía se lo llevan.
+0050 [Narración] | Firenze voltea hacia el estrado de la demandante: está vacío. Su antigua mejor amiga, la inspectora, se fue hace rato. Durante todo el juicio, la mirada de Nyx recorrió la sala, pero ni una sola vez se posó en Firenze.
+0051 [Firenze] | ¿Por qué? ¿Por qué justo hoy? Creí que éramos mejores amigas...
+0052 [Narración] | Una voz suave habla a sus espaldas.
+0053 [???] | Firenze de Feltro. ¿No te das cuenta? Para Nyx, una «amiga» no es más que un activo que se vende para sacar ganancia. De hecho, lo que ustedes dos tenían apenas puede llamarse «amistad».
+0054 [???] | ¿Deseas el poder para revocar este veredicto? ¿Para limpiar el nombre de tu padre?
+0055 [Firenze] | ¿Q-quién eres?
+0056 [???] | Soy Darcia, directora ejecutiva de la sucursal de Philae de Cosecha Unida. Quédate a mi lado y te daré el poder para aplastar a Nyx.
+0057 [Narración] | Tres años después.
+0058 [Narración] | Año 995 del Calendario Monolítico
+0059 [Lugar y hora] | 08:30, 23.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0060 [Nyx] | ¿Qué? ¿Van a cerrar el Departamento de Cumplimiento de la sucursal de Philae?
+0061 [Firenze] | No, se llama fusión. A partir de hoy, todo el personal local y las funciones del Departamento de Cumplimiento quedan bajo la directora de operaciones. Es decir, yo.
+0062 [Firenze] | Eso significa que ahora me reportas directamente a mí, inspectora Nyx. Respondes ante mí, no ante la sede.
+0063 [Nyx] | ¡Los inspectores de cumplimiento solo responden ante la sede! ¡No tienes esa autoridad!
+0064 [Firenze] | La gente cambia. Las reglas evolucionan. Esta resolución del Senado llegó ayer. Léela.
+0065 [Nyx] | Resolución sobre la reestructuración del Departamento de Cumplimiento... Esto es imposible.
+0066 [Firenze] | Al final, tú solita te lo buscaste.
+0067 [Firenze] | Tu error durante la investigación del director Joseph, acusar a un técnico superior inocente, hizo que el Senado dudara de la competencia de todo tu departamento.
+0068 [Nyx] | En ese caso, tres de los cuatro testigos cambiaron su versión en el tribunal. El último hasta salió de repente con que tenía «amnesia».
+0069 [Nyx] | ¡Era obvio que los habían sobornado! ¿Cómo pudiste hacerte de la vista gorda?
+0070 [Firenze] | ¡Cuida tu tono, Nyx!
+0071 [Firenze] | Dices que los sobornaron. ¿Tienes aunque sea una sola prueba?
+0072 [Firenze] | Para el Senado, y para mí, parece más bien que tú los coaccionaste. Forzaste los testimonios que necesitabas para asegurar una condena.
+0073 [Firenze] | Igual que hiciste en el juicio de mi padre.
+0074 [Nyx] | Ahora lo entiendo... ¡Me tendiste una trampa, Firenze!
+0075 [Nyx] | Los cuatro testigos eran del personal de Producción: tus subordinados. Todo esto fue una trampa que montaste solo para vengarte, ¿verdad?
+0076 [Nyx] | Bien... Aunque sea yo sola, encontraré las pruebas. La resolución del Senado no revocó el derecho de un inspector a investigar por su cuenta.
+0077 [Firenze] | Como quieras. Pero a partir de hoy, perteneces a Marketing. Esos «privilegios de inspectora» no van a pesar mucho allá abajo...
+0078 [Firenze] | Aunque, conociéndote... Seguro que te abrirás paso de regreso a la fuerza. Ah, y si la carga de trabajo te resulta demasiado, siempre puedes renunciar.
+0079 [Nyx] | Je... De algún modo te volviste todavía más retorcida de lo que recordaba.
+0080 [Firenze] | Guardé este lado de mí solo para hoy. Después de todo, es tu cumpleaños. Esperé mucho tiempo para darte la... celebración que mereces.
+0081 [Nyx] | Vete al diablo, Firenze.
+0082 [Darcia] | Hace tres años, en tu cumpleaños, ella llevó a tu padre a juicio.
+0083 [Darcia] | Hoy, le devuelves el favor en el suyo: degradación y recorte de sueldo. Dime, Firenze, ¿te basta con esta venganza?
+0084 [Firenze] | Claro que no, Lady Darcia.==W== Esto es solo la jugada inicial.
+0085 [Firenze] | Nyx conserva su título. Atacar abiertamente a una inspectora llamaría la atención de la sede,==W== y jamás me atrevería a interferir con sus planes, mi señora.
+0086 [Darcia] | No has dejado que la venganza nuble tu juicio. Bien.
+0087 [Firenze] | La paciencia lo es todo. Usé testigos falsos para provocar un error y dejarla sin el respaldo de la sede.
+0088 [Firenze] | Que se pudra en Marketing por ahora. Cuando su orgullo esté hecho pedazos y esté verdaderamente acorralada...
+0089 [Firenze] | Entonces me desharé de ella para siempre.
+0090 [Firenze] | Cuando llegue ese momento, estará de rodillas, llorando, suplicándome piedad.
+0091 [Darcia] | Y pensar que alguna vez fue tu amiga más cercana.
+0092 [Firenze] | Lo fue... Pero también fue ella quien traicionó ese lazo primero.
+0093 [Firenze] | Tiene razón, Lady Darcia.==W== Los amigos no son más que activos para vender. Solo el poder, y usted, valen la pena servir.
+0094 [Darcia] | Je... Bien dicho, Firenze. Sabía que no me decepcionarías.
+0095 [Darcia] | Sigue trabajando.
+0096 [Darcia] | Algún día, le ofreceré mi verdadera lealtad a mi señor. Y tú destruirás Cosecha Unida para salvar a tu padre.
+0097 [Firenze] | Su señor...==W== Lady Darcia, ¿quién es exactamente ese señor suyo?
+0098 [Narración] | Año 996 del Calendario Monolítico
+0099 [Lugar y hora] | 00:45, 5.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0100 [Narración] | En cuatro años a su servicio, Firenze nunca ha visto a Darcia arrodillarse con tanta humildad ante nadie. Hasta ahora.
+0101 [Darcia] | Pero usted es Su Majestad. El único y verdadero Tirano. Yo, Darcia, le juro lealtad eterna.
+0102 [Darcia] | La sucursal de Philae de Cosecha Unida no es más que el cuartel que construí para usted. Y le ruego que la considere su capital provisional.
+0103 [Darcia] | Deseche ese nombre falso que le impusieron. Recuerde su gloria. Guíenos a nosotros, sus lamentables súbditos, y dele nueva vida a este mundo devastado.
+0104 [Darcia] | En cuerpo y alma... Todo lo que soy es suyo.
+0105 [Narración] | El joven ==SEX9== al que llaman «Tirano» alza la vista, confundido.
+0106 [Narración] | ==SEX2== mirada se cruza con la de Firenze.
+0107 [Firenze] | ==PLAYER_NAME==, ¿aceptas esta lealtad? ¿Tomarás este poder y te convertirás en el verdadero Tirano?

@@ -1,0 +1,174 @@
+# Capítulo 8 · Calor residual · 14B · Señor de la guerra
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Disappointed Policyholder | Asegurado decepcionado
+N:Former Agent | Exagente
+N:Newspaper Kid | Voceador
+N:Novice Trekker | Trekker novato
+N:Omnisky Aegis Agent | Agente de Omnisky Aegis
+N:Omnisky Aegis Executive | Ejecutivo de Omnisky Aegis
+N:Terrified Imperial Knight | Caballero Imperial aterrorizado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_136 | Angie
+N:avg1_163 | Greyhorn
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1303 | Greyhorn
+N:avg3_135 | Claire
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_197 | Feagin
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_207 | Myrsha
+N:avg3_210 | Hazana
+N:avg3_232 | Representante de Omnisky Aegis
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto catorce
+0002 [Intro] | Señor de la guerra
+0003 [Intro] | Los Cetros de la Muerte inundan las ciudades y desatan una enorme guerra territorial entre ciudadanos oprimidos, empresas furiosas y el Comité de Salvación. Culpándose a sí misma, Angie se entrega y termina tras las rejas...
+0004 [Narración] | Varios meses después.
+0005 [Greyhorn] | Estoy lista. Dispara cuando quieras.
+0006 [Angie] | Bien. Ya te tengo en la mira.
+0007 [Greyhorn] | Ugh.
+0008 [Angie] | ¡Greyhorn! ¿Estás bien?
+0009 [Greyhorn] | Estoy bien. El peto encantado detuvo la bala y el acolchado amortiguó el golpe. Pero... la fuerza se sintió como un ariete en el pecho.
+0010 [Angie] | Impacto aparte, detuvo la bala. Eso es un éxito. ¿Podemos producirlo en masa para el Comité?
+0011 [Angie] | El Tirano y los Escorpiones del Desierto están desangrando a nuestra gente con sus tácticas de golpear y huir.
+0012 [Greyhorn] | El costo de energía es enorme y el efecto es breve. Encantar una armadura completa solo te da treinta minutos. Con cinco lanzamientos se agota por completo una Piedra del Alma. La relación entre costo y duración la hace inviable en el campo de batalla.
+0013 [Greyhorn] | Además, la armadura tiene huecos. Un disparo con suerte entre las placas y estás muerto. Intentar proteger esos puntos débiles consumiría una Piedra del Alma entera por lanzamiento.
+0014 [Angie] | ¿Una Piedra del Alma entera por treinta minutos? No soy soldado, pero bloquear un disparo común de arma mágica no debería ser tan costoso.
+0015 [Greyhorn] | No debería. Pero las armas mágicas y los Cetros de la Muerte funcionan de forma completamente distinta.==W== Un arma mágica simplemente moldea energía mágica en un proyectil.
+0016 [Greyhorn] | Los combatientes con experiencia perciben ese pico de maná,==W== lanzan una protección rápida==W== y neutralizan el golpe.
+0017 [Greyhorn] | Las flechas encantadas funcionan igual.==W== Primero disipas el aura mágica==W== y luego desvías el astil de madera.
+0018 [Greyhorn] | Y ahí está el problema. El Cetro no dispara maná. Dispara balas de metal sólido.
+0019 [Greyhorn] | No hay ninguna firma de maná que rastrear antes del impacto,==W== y supera a cualquier flecha en velocidad y en potencia.
+0020 [Greyhorn] | Como no podemos ver venir los ataques,==W== tenemos que mantener los escudos con la máxima potencia de maná==W== todo el tiempo.
+0021 [Angie] | Y no tenemos tiempo para perfeccionar la magia, ni la logística para forjar mejores armaduras...
+0022 [Angie] | Je. El Tirano nos tiene en jaque mate.
+0023 [Greyhorn] | Le debo una disculpa, Lady Angie.==W== No creía que ==PLAYER_NAME== fuera el legendario Tirano. Pensé que usted sacaba conclusiones precipitadas.
+0024 [Greyhorn] | Hasta ahora, solo obedecía al gran capitán. Fingía ayudarla, nada más.
+0025 [Angie] | ¿Así que estas batallas recientes te hicieron cambiar de opinión? ¿Ahora crees que ==PLAYER_NAME== es el Tirano?
+0026 [Greyhorn] | En la guerra se esperan bajas. No fue eso lo que me convenció.
+0027 [Greyhorn] | Inundar las ciudades con los Cetros de la Muerte,==W== sembrar el caos por todo el continente...==W== ¿Quién más orquestaría algo así sino el Tirano?
+0028 [Angie] | ¿Así lo ves? Entonces me juzgaste mal a mí, juzgaste mal a ==PLAYER_NAME== y no entiendes para nada cómo terminaría este mundo.
+0029 [Greyhorn] | ¿A qué se refiere?
+0030 [Angie] | El Tirano trajo el caos, sí. Pero las acciones de ==SEX3== se apartan por completo de la profecía.
+0031 [Angie] | Viéndolo bien, ==SEX== nunca fue el Tirano que destruiría el mundo como creíamos.
+0032 [Angie] | La responsable de convertir a ==SEX4== en esto... no es otra más que...
+0033 [Angie] | Yo.
+0034 [Narración] | Mientras tanto, en el Departamento Comercial de Omnisky Aegis, en Geminia.
+0035 [Omnisky Aegis Executive] | ¿Qué es todo ese ruido allá abajo?
+0036 [Omnisky Aegis Agent] | Volvió el asegurado de hace rato. Llevaron de urgencia a su hermana a un hospital del Ojo de la Gracia por palpitaciones y desmayos. Necesita una cirugía, y él espera que cubramos los gastos.
+0037 [Omnisky Aegis Executive] | ¿El Ojo de la Gracia? ¿Tiene idea de lo que cobran? No vamos a aprobar eso. Rechaza la reclamación.
+0038 [Omnisky Aegis Agent] | P-pero no tenemos una razón válida. ¿Podemos rechazarlo así nada más?
+0039 [Omnisky Aegis Executive] | ¿Te tengo que enseñar todo? ¿Presentó una solicitud de autorización previa antes de que la internaran? ¿La cirugía se considera un tratamiento excesivo? Escoge una y recházalo.
+0040 [Omnisky Aegis Agent] | Dice que ella se desplomó en la calle y que un transeúnte la llevó corriendo a urgencias. Tiene todos los informes de diagnóstico del Ojo de la Gracia. Todo está en orden. Si rechazamos la reclamación...
+0041 [Omnisky Aegis Executive] | Dije que no y es no. Ya alcanzamos el tope de pagos del mes. Si autorizamos un pago tan grande, el Senado nos va a estar respirando en la nuca otra vez...==W== Dame su expediente.
+0042 [Omnisky Aegis Agent] | S-sí, aquí está...
+0043 [Omnisky Aegis Executive] | ... Perfecto. Ahí está nuestra salida. Rechaza su reclamación por incumplimiento del deber de declaración. Dile que no reportó una condición preexistente cuando contrató la póliza.
+0044 [Omnisky Aegis Agent] | ¿Condición preexistente? Perdón, pero no creo que su hermana tenga ningún historial médico de...
+0045 [Omnisky Aegis Executive] | Idiota, mira aquí. ¿Dice o no dice que alguna vez tuvo una caries?
+0046 [Omnisky Aegis Agent] | ¿Eh?
+0047 [Omnisky Aegis Agent] | Lo siento mucho, señor. Debido a una irregularidad al contratar su póliza, no podemos aprobar su reclamación.
+0048 [Disappointed Policyholder] | Ya veo... Perdón por las molestias. Buscaré otra forma de pagar la cirugía.
+0049 [Omnisky Aegis Agent] | Espere. Aunque no podemos aprobar la reclamación, por favor acepte esto...==W== Es algo de mi propio bolsillo. Espero que su hermana se recupere pronto.
+0050 [Disappointed Policyholder] | Yo... ¡Gracias! No puedo creer que haya alguien tan amable en Omnisky Aegis. Qué bueno que me lo encontré hoy. ¡No lo olvidaré mientras viva!
+0051 [Omnisky Aegis Agent] | Jaja... Amable, sí, cómo no. Soy un cobarde sin agallas que le hace el trabajo sucio a su supervisor.
+0052 [Former Agent] | Mírate, metiéndole mano otra vez a tus ahorros.==W== Sabes que ayudar en privado a un asegurado con la póliza cancelada es una violación grave de las políticas de la empresa, ¿verdad?
+0053 [Omnisky Aegis Agent] | ¡No, espera, es un malentendido! ¡Déjame explicarte!
+0054 [Former Agent] | Tranquilo, solo te estoy molestando. Ya renuncié, ¿te acuerdas? No tienes que preocuparte de que te acuse.
+0055 [Omnisky Aegis Agent] | Ah, eres tú. No me asustes así.==W== Desde que renunciaste, ese jefe basura me ha estado echando todo tu trabajo pendiente.==W== Estos clientes cumplen claramente las condiciones de pago, pero me obliga a rechazar sus reclamaciones y cancelar sus pólizas todos los días.
+0056 [Omnisky Aegis Agent] | Me mata verlos irse con las manos vacías.==W== Por cierto, ¿por qué renunciaste? Nunca me dijiste.
+0057 [Former Agent] | Por la misma porquería con la que tú lidias ahora. Rechazaba todas las reclamaciones, diciendo que habían hecho actividades de alto riesgo sin autorización previa.
+0058 [Former Agent] | Pero toda mi lista de clientes eran Trekkers. ¿Se suponía que debía hacerlos llenar una solicitud y quedarse esperando días cada vez que escalaban un Monolito?
+0059 [Former Agent] | Con el tiempo me di cuenta de que todo era una pura estupidez. Me enojé, fui a protestar, me dieron una paliza... y me corrieron en el acto.
+0060 [Omnisky Aegis Agent] | Esta empresa está podrida hasta la médula...
+0061 [Former Agent] | Y que lo digas. Ese desgraciado es un parásito.==W== Tomó la red de seguridad que era para todos y la convirtió en su alcancía personal.
+0062 [Omnisky Aegis Agent] | Pasos... ¡Es él! ¡Rápido, escóndete! Últimamente anda con todo un escuadrón de guardias armados. ¡Si te atrapa, estás muerta!
+0063 [Former Agent] | ¿Esconderme? Lo he estado esperando. Vine hoy a ajustar cuentas de una vez por todas.
+0064 [Omnisky Aegis Executive] | Vaya, vaya. Si no es la basura que corrí el otro día.==W== ¿Y eso? Hasta trajiste un arma chiquita. ¿Vienes a vengarte?
+0065 [Former Agent] | ¡Ja! ¿Vengarme? No digas tonterías. Me trataste tan bien. Solo vine a devolverte el favor.
+0066 [Omnisky Aegis Executive] | ¿Ah, sí? A ver, inténtalo. ¿Crees que puedes contra toda mi escolta tú sola?==W== ¡Agárrenla! ¡Echen a esta bocona al río para que se la coman los peces!
+0067 [Omnisky Aegis Agent] | ¡C-cálmate! ¡No lo hagas, no eres rival para los Caballeros Imperiales!
+0068 [Former Agent] | Ah, estoy perfectamente tranquila. Pero esto se va a poner feo. Mejor hazte a un lado.
+0069 [Terrified Imperial Knight] | ¡¿Pero qué...?! ¡¿Eso es... un Cetro de la Muerte?!==W== ¡Ay, no, retírense! ¡Retirada!
+0070 [Omnisky Aegis Executive] | Agh... No puede ser... Me preparé especialmente...==W== con un pergamino de protección de primera... ¿Cómo lograste...?
+0071 [Former Agent] | Los tiempos cambiaron,==W== jefe.
+0072 [Narración] | Unos días después. En la Asociación de Trekkers a las afueras de la ciudad de Emor.
+0073 [Myrsha] | ¡Oye, señorita! ¡Espera! ¿Vienes seguido por aquí?
+0074 [Novice Trekker] | Eh... Sí. Apenas empecé a venir hace poco.
+0075 [Myrsha] | Soy Myrsha, del desierto. ¿Cómo te llamas?
+0076 [Novice Trekker] | Dime Anna.
+0077 [Myrsha] | Perdón por meterme, pero vi que te quedaste mirando el tablero un buen rato. ¿No encuentras un buen encargo?
+0078 [Novice Trekker] | Sí. Nadie quiere una compañera. Los clientes le echan un vistazo a una Trekker promedio como yo y pasan de largo.
+0079 [Myrsha] | Te entiendo. Armadura de cuero estándar, espada básica, recién empezando la vida de aventurera. La gente te mide rapidísimo.
+0080 [Myrsha] | Pero bueno, así funciona en todo Nova.
+0081 [Myrsha] | Por eso tengo el arma perfecta para ti. ¡Mira esto! Con esto en tus manos, los clientes van a hacer fila para contratarte.
+0082 [Novice Trekker] | ¿Eso es... un arma mágica? Nunca había visto una con esa forma. Pero la verdad, soy malísima para la magia...
+0083 [Myrsha] | ¡Ah, no te preocupes por eso! Esto no es un arma mágica.==W== ¿Alguna vez has oído hablar del Cetro de la Muerte?
+0084 [Novice Trekker] | ¿El Cetro de la Muerte? ¿El Artefacto del que no dejan de hablar en las noticias? Oí que es raro... El metal no se parece a nada que haya tocado.
+0085 [Myrsha] | ¡Jeje, así es! Este es el producto más nuevo de los Escorpiones del Desierto. El Cetro de la Muerte 47.==W== Fácil de usar, fácil de mantener. Hasta una niña como yo puede apuntar sin problemas.
+0086 [Myrsha] | Solo 99,999 Dorra. Este Cetro salió de un Monolito ayer. Nuevecito y todo tuyo.
+0087 [Novice Trekker] | Ese precio parece demasiado bajo para un Artefacto raro.==W== ¿Es una estafa?
+0088 [Myrsha] | Llévatelo y pruébalo. Si te gusta, regresa en una semana y lo pagas. Si no, devuélvelo dentro de siete días. Sin preguntas.
+0089 [Novice Trekker] | ¡Un Cetro de la Muerte...! Jeje, las noticias dicen que son unos villanos, pero los Escorpiones del Desierto en realidad son bastante buena onda.
+0090 [Novice Trekker] | Muy bien, entonces me lo llevo prestado. ¡Gracias!
+0091 [Myrsha] | ¡Un placer hacer negocios contigo!
+0092 [Amber] | Vaya...==W== Lo vendiste rápido.
+0093 [Myrsha] | ¡Nah, no fui yo! Agradézcanle al Jefe. ==SEX1== sacó toda clase de Cetros de la Caja de Deseos. ¡Estamos ganando un dineral! ♪
+0094 [Hazana] | Pero la verdad, esperaba más. Creí que el Cetro de la Muerte tenía algún poder legendario. Resulta que solo es una herramienta práctica.
+0095 [Iris] | Eso nos conviene. Una vez que esté por todas partes, la gente verá que no es el arma apocalíptica de las profecías.
+0096 [Noya] | Y cuando eso pase, todos esos rumores sobre el Tirano que destruirá el mundo se van a caer solos.
+0097 [Hazana] | Vender el arma barata o regalarla, y luego sacar ganancia con las municiones. Jaja, el Jefe es un maldito genio de los negocios.
+0098 [Hazana] | Gracias a ti, los Escorpiones del Desierto podemos caminar por Emor con la frente en alto bajo el estandarte de Boss Accord. Lo digo en serio. Gracias.
+0099 [Tú] | Nos cuidamos unos a otros. Nunca habríamos escapado del asalto de Angie sin su ayuda.
+0100 [Tú] | Además, últimamente los Escorpiones también han recibido su buena dosis de golpes.
+0101 [Hazana] | No nos dan miedo unas cuantas bajas con tal de conseguir lo que queremos.
+0102 [Noya] | Pero esto es lo raro. Oí que las grandes empresas están persiguiendo a Angie con más fuerza ahora que los Cetros de la Muerte están por todos lados.
+0103 [Noya] | Si estos Cetros son lo que está empujando a los trabajadores a rebelarse, uno pensaría que el Senado iría tras nosotros y no tras ella.
+0104 [Hazana] | ¡Ja! Les encantaría deshacerse de nosotros. Pero somos los únicos que sabemos pedir más Cetros, así que no pueden darse el lujo de tocarnos.
+0105 [Hazana] | Si lo rastreas todo hasta el origen, todo este lío es culpa de Angie de todos modos. Venir por nosotros sería una pérdida de tiempo.
+0106 [Tú] | De hecho, algunas empresas importantes se me han acercado en secreto. Quieren asociarse para vender juntos los Cetros de la Muerte.
+0107 [Tú] | Las rechacé. Les dije que Boss Accord está demasiado ocupada esquivando al Comité de Salvación como para pensar en alianzas ahora.
+0108 [Tú] | Seguro captaron la indirecta: primero encárguense del Comité, y luego hablamos de negocios.
+0109 [Iris] | Hasta estás haciendo que empresas de fuera te hagan el trabajo. Esa es una estrategia aterradora, Jefe.
+0110 [Amber] | El Jefe es listo.
+0111 [Iris] | Pero... ¿estás seguro de esto? Inundar el mercado con estos Cetros... Tengo un mal presentimiento. Dicen que asesinaron a un alto ejecutivo de Omnisky Aegis.
+0112 [Myrsha] | Te preocupas demasiado. Esos trajeados corporativos se lo buscaron. Además, estamos poniendo poder en manos de gente que nunca tuvo forma de defenderse.
+0113 [Myrsha] | Si me preguntas, esto es mucho más sano que antes, cuando tu valor se medía por tu magia y tu cartera.
+0114 [Tú] | Entiendo el punto de Myrsha, pero Iris no se equivoca al preocuparse.
+0115 [Tú] | Cuando terminemos con el Comité de Salvación, tengo que replantear nuestra estrategia de distribución de los Cetros de la Muerte.
+0116 [Newspaper Kid] | ¡Última hora! ¡Se disuelve el grupo hereje Comité de Salvación!==W== ¡Su líder, Angie, fue detenida por la capitana de los caballeros Greyhorn y espera juicio!
+0117 [Tú] | Angie... ¡¿De verdad la atraparon?!
+0118 [Narración] | Mientras tanto, en la Prisión de la Guardia Imperial, Distrito de las Cenizas de Emor.
+0119 [Greyhorn] | Por aquí, Lady Angie.
+0120 [Angie] | Olvida el título, por favor. Solo soy una prisionera que arrestaste... esperando su juicio.
+0121 [Greyhorn] | Eso es puro sensacionalismo de Scarlet Sights. Usted misma disolvió el Comité de Salvación y vino aquí a enfrentar el juicio voluntariamente.
+0122 [Angie] | Je, no importan los detalles. Cometí mis errores, y ahora tengo que enfrentar las consecuencias.
+0123 [???] | Esa voz... ¿Serena? ¡¿Eres tú?!
+0124 [Angie] | Tú estabas en el escuadrón de caza en aquel entonces... Clara, ¿verdad?
+0125 [Claire] | ¡Es Claire!==W== Uf... Olvídalo.==W== ¿Qué haces aquí?
+0126 [Angie] | Juzgué mal a ==PLAYER_NAME==. Creí que ==SEX== era el Tirano destinado a destruir el mundo. Causé un daño irreparable, y ahora me toca enfrentar el juicio.
+0127 [Claire] | ¿==PLAYER_NAME==? Te refieres al Jefe. Qué pequeño es el mundo.
+0128 [Angie] | ¿Qué pequeño es el mundo?
+0129 [Claire] | Todo este bloque está lleno de gente a la que ==SEX== derribó.
+0130 [Claire] | La que balbucea en la celda de al lado es Feagin. Una canalla de lo peor que dirigía una red de trabajo infantil.
+0131 [Feagin] | Agh... Philae... Philae...
+0132 [Claire] | No pudo soportar perder la guerra entre empresas. Se metió con Nocturn Eterna, pidió un deseo al Monolito que no pudo controlar, y ahora está... así.
+0133 [Claire] | Y esos de al lado son Joseph y Lady Gray. Joseph ni fu ni fa, pero Lady Gray quedó hecha chatarra después de que Darcia le exprimiera hasta la última gota de valor.
+0134 [Lady Gray] | Tch... Cierra la boca, Claire.==W== Cuando salga de este agujero, te lo cobraré... con intereses.
+0135 [Joseph] | Ah, Lady Angie, la voz del Imperio de la Gracia. Retirarse a una celda no es el peor destino, pero sí se vuelve aburrido.==W== ¿Le importaría ayudar a estos viejos huesos a pasar el rato?
+0136 [Angie] | ... Ya veo. Así que aquí termina mi viaje.
+0137 [Narración] | Angie entra a su celda, se acuesta en la fría cama de piedra y cierra los ojos.

@@ -1,0 +1,120 @@
+# Recuerdo de disco · Sunlit Blossom · 1 · Sunlit Blossom
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Friendly Resident | Residente amable
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_143 | Residente
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Flor bañada de sol
+0003 [Intro] | Un intento titubeante, un comienzo luminoso.
+0004 [Narración] | Esta es la historia de Freesia cuando se unió por primera vez a Post Haste.
+0005 [Freesia] | La dirección de esta carta...==W== sí, debe ser esta. Destinatario y número de casa confirmados. Entrega hecha.
+0006 [Freesia] | Ahora, ¿cuál es mi siguiente parada? Tengo que revisar el mapa otra vez...
+0007 [Freesia] | Uf, llegando tarde otra vez...==W== Tengo que memorizar estas rutas cuanto antes si quiero ser tan rápida como Teresa. Bueno, mejor acelero el paso y trato de cumplir con el horario.
+0008 [Freesia] | ¿Destinatario? Listo. ¿Dirección? Lista. Entregado. Siguiente parada...
+0009 [Friendly Resident] | ¡Hola, chica ciclista! ¿Tienes un momento?
+0010 [Freesia] | ¿Se refiere a... mí?
+0011 [Friendly Resident] | Eres repartidora, ¿no?
+0012 [Freesia] | Sí. Freesia, de Post Haste, a sus órdenes. Sus cartas serán entregadas con rapidez y precisión.
+0013 [Friendly Resident] | ¡Excelente! Qué suerte. Aunque debo mencionar que tengo bastantes cartas aquí. ¿Te sirve?
+0014 [Freesia] | Ningún problema.
+0015 [Freesia] | ¿¡Cielos...!?
+0016 [Friendly Resident] | Son todas cartas de saludo para nuestros clientes VIP. Valdrá la pena...==W== Ay, ¿estás bien?
+0017 [Freesia] | Sí, todo bien.
+0018 [Friendly Resident] | Vi esa cara que pusiste. ¿Te abruma?
+0019 [Freesia] | Para nada. Tiene mi palabra de que cada carta se entregará con el debido cuidado.
+0020 [Friendly Resident] | Entonces las dejo en tus capaces manos.
+0021 [Freesia] | Vaya, esto complica las cosas. Aunque un pedido grande debería ser buena noticia...
+0022 [Freesia] | Donna habría manejado esto mucho mejor; hasta podría haberlos convertido en clientes leales.
+0023 [Freesia] | Soy parte de Post Haste, pero parece que no puedo hacer nada para ayudar.
+0024 [Freesia] | No sirve de nada lamentarme. Acepté el trabajo, así que más vale entregar cada carta a tiempo.
+0025 [Freesia] | Si doy todo de mí, debería lograrlo...==W== No, ¡TENGO que lograrlo—!
+0026 [Freesia] | ¿Eh?
+0027 [Freesia] | Ay, eso dolió... ¿Ahora qué pasa?
+0028 [Freesia] | ¿¡Otra vez la cadena!? No puedo terminar la ruta de hoy sin la bicicleta...==W== No, tengo que volver de prisa a arreglarla.
+0029 [Freesia] | ... ¿Está lloviendo?
+0030 [Freesia] | Tiene que ser broma. Mejor busco refugio antes de que estas cartas se empapen.
+0031 [Freesia] | Uf...==W== Aquí debería estar a salvo. Revisión rápida... Sí, todas las cartas están secas.
+0032 [Freesia] | Entregas sin terminar, bicicleta rota. Si además estas cartas se arruinaran, ¿cómo voy a mirar a Donna y a Teresa a la cara...?
+0033 [Freesia] | Mmm... ¿De verdad merezco seguir en Post Haste si ni siquiera puedo con lo básico?
+0034 [Freesia] | Quizá Post Haste funcionaría mejor solo con Donna y Teresa.
+0035 [Freesia] | No puedo permitirme retrasarlas.
+0036 [Freesia] | —¿¡!?
+0037 [???] | ¿Adivina quién?
+0038 [Freesia] | Esa voz...==W== ¿Donna?
+0039 [Donna] | ...
+0040 [Donna] | ¿Qué pasa? ¿Todo bien?
+0041 [Freesia] | ... De verdad no es nada.
+0042 [Donna] | ¿En serio?
+0043 [Freesia] | ... Es algo que debo resolver yo misma.
+0044 [Donna] | Ah, ¿sí?==W== Bueno, si lo compartes conmigo, quizá pueda ayudarte a entenderlo con más facilidad.
+0045 [Freesia] | Pero...
+0046 [Donna] | Tranquila, di lo que piensas.
+0047 [Freesia] | Me da pena decirlo, pero... quizá simplemente no sirvo para este trabajo de repartidora...
+0048 [Donna] | ¿Qué? ¿¡Qué podría hacerte pensar eso!?
+0049 [Freesia] | No soy como Teresa: ella se sabe las rutas de memoria. Yo siempre me tardo una eternidad en las entregas.
+0050 [Freesia] | Desperdicié una oportunidad perfecta de promover Post Haste cuando un cliente quería más servicios...==W== Donna, tú seguro los habrías convertido en clientes fijos.
+0051 [Freesia] | Y...==W== en mi «brillante» intento de acelerar las cosas, terminé destrozando la bicicleta.
+0052 [Freesia] | Luego empezó a llover a cántaros...==W== Claro, salvé las cartas, pero eso fue literalmente lo único que hice bien hoy. Un fracaso total.
+0053 [Donna] | Ya veo...
+0054 [Freesia] | Quizá es una señal de que simplemente no sirvo para Post Haste...
+0055 [Donna] | ¡Alto ahí! ¡No puedo permitir que sigas así!
+0056 [Freesia] | Perdón.
+0057 [Donna] | Que quede claro: tu desempeño ha sido nada menos que admirable. Tus dudas no tienen ningún fundamento.
+0058 [Freesia] | Pero...
+0059 [Donna] | ¡Déjame terminar! Estás tratando de compararte con Teresa y conmigo, ¿verdad?
+0060 [Freesia] | Ya veo...
+0061 [Donna] | No es justo hacer ese tipo de comparaciones. Tú aún estás aprendiendo y nosotras llevamos bastante tiempo en esto.
+0062 [Donna] | Solo habla: pregúntale a Teresa si necesitas indicaciones y déjame a mí los clientes difíciles.
+0063 [Freesia] | Pero eso solo significa más trabajo para ti...==W== No quiero ser una carga por mis defectos.
+0064 [Donna] | ¿Por qué te considerarías una carga?
+0065 [Freesia] | ¿Mm?
+0066 [Donna] | Eres una joya, Freesia. Post Haste tiene suerte de contar con alguien tan concienzuda como tú.
+0067 [Donna] | Todos tenemos fortalezas distintas. No hay vergüenza en pedir ayuda donde otros brillan. Pero asegúrate de cultivar también tus propios talentos, Freesia.
+0068 [Freesia] | Mis talentos...
+0069 [Donna] | Para ser sincera, preferiría que te apoyaras más en nosotras. Los verdaderos lazos familiares se forjan con apoyo mutuo y confianza.
+0070 [Freesia] | Mm, entiendo. Pero... ¿crees que Teresa siente lo mismo que tú?
+0071 [Donna] | Jeje, no lo sabrás a menos que se lo preguntes tú misma.
+0072 [Freesia] | ¿Preguntárselo yo misma?
+0073 [Teresa] | ... ¡Ah, aquí están! ¡Donna! ¡Freesia! ¡Traje paraguas!
+0074 [Freesia] | ¿Qué hace Teresa aquí?
+0075 [Donna] | Con toda esta lluvia, la llamé para que viniera por nosotras. Por cierto, sobre esa pregunta de antes, ¿por qué no se la haces ahora?
+0076 [Teresa] | ¿Y tanto secreto, ustedes dos?
+0077 [Freesia] | Eh...==W== Teresa, ¿puedo preguntarte algo...?
+0078 [Teresa] | ¿Eh? ¿La lluvia te afectó la cabeza, Freesia? ¿Por qué actúas raro?
+0079 [Freesia] | Pues... No solo soy lenta con las entregas, también destrocé la bicicleta y ahora necesito tu ayuda para arreglarla, otra vez.
+0080 [Teresa] | No pasa nada, la arreglamos. Déjame ver...==W== ¡Guau!
+0081 [Donna] | ¿Qué pasa, Teresa?
+0082 [Teresa] | ¡Esta cadena está completamente destrozada! Debiste usar una fuerza descomunal para romperla así... ¡Freesia, de verdad te pasas con estas entregas!
+0083 [Teresa] | ¡Esta vez la reforzaré para que no se rompa por mucho que pedalees! ¡Entonces Freesia andará volando—==W==quizá hasta más rápido que esos scooters!
+0084 [Donna] | ¿Más rápido que los scooters? Entonces seguro podremos entregar a lugares más lejanos...==W== ¡Ah, es cierto! ¡Andar en bici es tu talento, Freesia!
+0085 [Teresa] | ¡Exacto! Además, cuando hago reparaciones, ¡Freesia es mi superasistente de fuerza increíble que levanta la bici como si nada!
+0086 [Freesia] | Todo esto...==W== ¿de verdad son mis talentos?
+0087 [Donna] | Muy bien, a ponernos en marcha para terminar estas últimas entregas. Teresa, puedes darle a Freesia un pequeño recorrido por la zona.
+0088 [Teresa] | ¡Entendido! Confía en mí, Freesia, ¡me sé toda esta zona de memoria, hasta los caminos ocultos!
+0089 [Freesia] | Menos mal que están aquí. Ahora quizá estas entregas sí se terminen.
+0090 [Teresa] | ¡Miren, la lluvia está parando!
+0091 [Donna] | Ya podemos guardar los paraguas—==W==¡Guau, miren eso!
+0092 [Freesia] | Es un arcoíris...
+0093 [Donna] | ¡Dicen que los arcoíris traen buena suerte!
+0094 [Teresa] | ¡Hermoso! ¡Miren todos esos colores por el cielo!
+0095 [Freesia] | ...
+0096 [Freesia] | (Donna y Teresa son tan cariñosas... Supongo que le di demasiadas vueltas. Nunca debí dudar de ellas.)
+0097 [Freesia] | (Creen en mí... No pienso defraudarlas.)
+0098 [Freesia] | Oigan...==W== ¿Donna, Teresa?
+0099 [Donna] | ¿Sí? ¿Qué pasa?
+0100 [Teresa] | ¿Algo te preocupa?
+0101 [Freesia] | Todavía soy nueva en esto de las entregas y soy bastante torpe. Gracias por tenerme paciencia; haré lo posible por mejorar.
+0102 [Freesia] | Además, trataré de... apoyarme un poco más en las dos.
+0103 [Donna] | ¡Genial! ¡Trabajo en equipo, sueño cumplido! ¡Convirtamos a Post Haste en un imperio!
+0104 [Teresa] | ¡Imperio! ¡Imperio!
+0105 [Freesia] | Gracias a todas.
+0106 [Narración] | ¿Convertirse en repartidora es de verdad la decisión correcta? Freesia no está segura; sus fracasos pasados todavía le hacen dudar de sí misma.
+0107 [Narración] | Pero conocer a Donna y a Teresa lo cambia todo: esto debe ser un nuevo comienzo, como un hermoso día que despunta.

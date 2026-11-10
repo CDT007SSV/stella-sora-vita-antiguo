@@ -1,0 +1,131 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 7 · Déjame ser tu mano
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_160 | Willow
+N:avg3_100 | Sylar
+N:avg3_1305 | Willow de Marea Solar
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Déjame ser tu mano
+0003 [Intro] | Bajo la lluvia torrencial, la prótesis de Willow falla por el uso excesivo. Ella está afectada por algo de su pasado y le preocupa ser una carga para ti. Le dices que puedes «ser su mano»...
+0004 [Tú] | La lluvia cae cada vez más fuerte...
+0005 [Willow] | Necesitamos refugio pronto o nos dará hipotermia.
+0006 [Narración] | Sigo a Willow, tropezando en el lodo mientras nos adentramos más en la isla.
+0007 [Willow] | ==PLAYER_NAME==, quédate cerca de mí.
+0008 [Tú] | ¿Por qué? ¿Es peligroso por aquí?
+0009 [Willow] | La lluvia afloja la tierra. Incluso el terreno plano puede ceder y causar un deslave.
+0010 [Willow] | Si la tierra se ve descolorida o se siente blanda bajo los pies, retrocede de inmediato.
+0011 [Tú] | Entendido.
+0012 [Narración] | Ella va delante de mí todo el camino, desgarrando enredaderas y rompiendo ramas para abrir paso.
+0013 [Tú] | Aparta troncos y rocas pesadas como si nada... Willow es increíble.
+0014 [Willow] | El lecho del río es la ruta más rápida, pero con una lluvia así, acercarse al agua es...
+0015 [Tú] | Willow... ¿Estás bien?
+0016 [Willow] | ¿Eh? ¿Por qué lo preguntas?
+0017 [Tú] | Tu brazo izquierdo se ve rígido...==W== Y estás pálida. ¿Te sientes mal?
+0018 [Willow] | No es nada. Estoy bien. No te preocupes por mí. Lo prioritario es encontrar un lugar para que descanses.
+0019 [Tú] | Deja de ponerme a mí en el centro. Tú también necesitas descansar. Si te pasa algo, ¿qué les voy a decir a los demás? Tu salud importa.
+0020 [Willow] | ... Supongo que tienes razón.==W== Lo tendré en cuenta.
+0021 [Narración] | Quizá sea el agotamiento de la tormenta, o tener que fijarnos en cada paso en el lodo... No hemos avanzado mucho, pero se siente como si lleváramos horas caminando.
+0022 [Willow] | Espera. El terreno de más adelante se ve raro. Déjame revisarlo...
+0023 [Tú] | Espera,==W== ¡Willow! ¿Oíste eso...?
+0024 [Willow] | ¡Cuidado!==W== ¡==PLAYER_NAME==, retrocede!
+0025 [Narración] | Un rugido ensordecedor sacude el aire mientras un torrente de lodo y rocas se desploma por la pendiente. El suelo bajo nuestros pies cede.
+0026 [Narración] | Willow se abalanza hacia mí. Agarra una enredadera que cuelga, intentando balancearnos a ambos fuera de peligro.
+0027 [Narración] | ... Al menos, ese era el plan.
+0028 [Willow] | ¿Eh...?==W== Mi mano...
+0029 [Narración] | La enredadera mojada se le escurre entre los dedos rígidos.
+0030 [Narración] | Al perder el agarre, Willow pierde el equilibrio y cae hacia el barranco de abajo.
+0031 [Tú] | ¡¡Willow!!
+0032 [Narración] | Lodo, ramas y agua se precipitan por la ladera. Entre el rugido ensordecedor, agarro la mano de Willow y me aferro con todas mis fuerzas.
+0033 [Narración] | El mundo da vueltas mientras rodamos por la pendiente, y solo nos detenemos al chocar contra un tronco.
+0034 [Willow] | ¡¿==PLAYER_NAME==, estás bien?!
+0035 [Tú] | Ugh... Estoy bien. ¿Y tú?==W== Tu brazo...
+0036 [Willow] | Estoy bien... Pero mi prótesis está completamente muerta.
+0037 [Willow] | La forcé demasiado al abrir el camino y agoté su energía. El repuesto de Neo Solution sigue en el bote.
+0038 [Willow] | Lo siento, ==PLAYER_NAME==...
+0039 [Opción] | ¿Por qué te disculpas?
+0040 [Willow] | Me lo advertiste, pero yo estaba demasiado impaciente para escuchar.
+0041 [Willow] | Se suponía que debía mantenerte a salvo. En cambio, la regué y te arrastré al peligro...
+0042 [Willow] | Juré que nunca volvería a cometer este error. Y lo hice.
+0043 [Willow] | Si algo te pasa, ¿cómo podría dar la cara ante el Gremio de la Nueva Estrella?
+0044 [Willow] | Todos se esforzaron para darme este brazo tan increíble... Y aun así cometí el mismo error.
+0045 [Willow] | Es metal frío. Nunca se cansa, nunca se lastima. Se supone que es más fuerte que mi brazo de verdad.
+0046 [Willow] | ¿Por qué... por qué duele tanto?
+0047 [Tú] | No conozco los detalles de tu pasado, pero tú no me arrastraste a nada.
+0048 [Willow] | Pero...
+0049 [Tú] | Si no me hubieras atrapado cuando caímos, ya sería comida de peces.
+0050 [Tú] | Hice lo mismo que habrías hecho tú: arriesgar el pellejo para ayudar a una amiga. No tienes nada de qué disculparte.
+0051 [Tú] | Willow, gracias por salvarme la vida. Quiero demostrarte mi gratitud, no aceptar una disculpa. Son dos cosas distintas.
+0052 [Tú] | Así que deja de culparte. ¿Sí?
+0053 [Willow] | ...
+0054 [Tú] | No me salvaste solo por tener un brazo mecánico sofisticado.
+0055 [Tú] | Fue tu ingenio, tu experiencia y tu valentía.
+0056 [Tú] | Mientras estés a salvo, soy feliz. Y como ese brazo está fuera de servicio...
+0057 [Opción] | Déjame ser tu mano izquierda de ahora en adelante.
+0058 [Willow] | ¿Eh?
+0059 [Tú] | Solo dime qué hay que hacer. ¡Mándame como si fuera tu mano de verdad!
+0060 [Tú] | Despejar caminos, mover escombros, ayudarte a caminar... Yo me encargo.
+0061 [Tú] | Y si algo es demasiado para mí solo, lo resolveremos juntos.
+0062 [Tú] | Has aguantado tanto tiempo sola. ¿Por qué no apoyarte en mí por una vez?
+0063 [Willow] | ==PLAYER_NAME==...
+0064 [Tú] | ¿Trato hecho? Nada de disculpas, ¿sí?
+0065 [Willow] | ... Jaa.==W== Tienes razón.
+0066 [Willow] | Gracias. Entonces te dejo lo pesado a ti, mi «mano izquierda».
+0067 [Tú] | Uf... Por fin un lugar seco para esperar a que pase la lluvia.
+0068 [Willow] | ...
+0069 [Tú] | Willow, ¿qué haces?
+0070 [Willow] | Reviso si hay huellas de monstruos.
+0071 [Willow] | Las cuevas como esta son guaridas perfectas para monstruos grandes. No nos entreguemos como comida para llevar.
+0072 [Tú] | Buen punto...==W== Oye, ¿Willow? Ven a ver esto.
+0073 [Tú] | Barriles viejos, cajas, pedazos de un naufragio... y conchas esparcidas...
+0074 [Tú] | Parece que alguien más llegó aquí antes que nosotros.
+0075 [Willow] | Tal vez. Esos rasguños raros en las tablas son un poco preocupantes...==W== Pero ahora debemos concentrarnos en rescatar lo que podamos.
+0076 [Narración] | Encuentro un trozo de suelo despejado, escojo unas tablas como me indica Willow e intento encender una fogata.
+0077 [Willow] | Empieza con las virutas finas como yesca. Cuando la llama esté estable, añade las piezas más grandes poco a poco.
+0078 [Willow] | Deja algunos huecos para que circule el aire, o se ahogará y se apagará.
+0079 [Tú] | ¿Así?
+0080 [Willow] | Sí, eso es. Buen trabajo.==W== Ah... Estoy volviendo a la vida. Qué calorcito.
+0081 [Tú] | Esta mano izquierda tuya hizo un buen trabajo, ¿eh?
+0082 [Willow] | Sí. A este paso me van a malcriar por completo.
+0083 [Tú] | ¿Tan malo sería? Te vendría bien descansar.
+0084 [Willow] | Eso sí suena tentador...
+0085 [Willow] | ==PLAYER_NAME==, ¿te acercas más?==W== Se está más calientito...
+0086 [Tú] | Sí, buena idea. Quedémonos cerca.
+0087 [Willow] | ...==W== Gracias por lo de antes, ==PLAYER_NAME==.
+0088 [Tú] | ¿Por la fogata? No fue nada.
+0089 [Willow] | No solo eso.==W== Me ayudaste a recomponerme cuando entré en pánico.
+0090 [Tú] | Para eso estoy aquí.
+0091 [Willow] | Quizá para ti sea algo natural... Pero para mí significa todo.
+0092 [Tú] | Entonces déjame agradecerte yo también. Gracias por cuidarme siempre, Willow.
+0093 [Tú] | No habría llegado tan lejos sin las habilidades de supervivencia que me enseñaste.
+0094 [Willow] | Jeje... Es lo mínimo que podía hacer. Parte de ser veterana es enseñarles a los novatos cómo se hacen las cosas.
+0095 [Tú] | Hablando de eso, Noya mencionó que antes eras una Trekker increíble. ¿Es cierto?
+0096 [Willow] | Eso es una exageración enorme. Fui Trekker un par de años, nada más.
+0097 [Willow] | Me alegra no haber olvidado la experiencia. Al menos hoy sirvió de algo.
+0098 [Tú] | Entonces, ¿por qué te uniste a la Asociación de Trekkers? Con tus habilidades, ya serías una leyenda si hubieras seguido.
+0099 [Willow] | Mmm... Buena pregunta.==W== Me di cuenta de que no estaba hecha para esa vida. Es mejor que trabaje tras bambalinas.
+0100 [Willow] | Todavía subo al Monolito de vez en cuando, pero ya no puedo lanzarme de cabeza persiguiendo solo la libertad y los sueños...
+0101 [Tú] | ¿Por qué Willow tiene esa expresión? ¿Qué pasó en su pasado...?
+0102 [Tú] | Willow...==W== ¡Wow!
+0103 [Tú] | ¿Calentar tu teléfono junto al fuego lo revivió?
+0104 [Noya] | ¿Bueno? ¿¡==PLAYER_NAME==!?==W== ¡Gracias al cielo, por fin logré comunicarme!
+0105 [Noya] | ¿Están bien? ¿Willow está contigo?
+0106 [Tú] | Sí, una ola enorme nos arrastró hasta una isla desierta.==W== Estamos bien gracias a Willow. ¿Y ustedes?
+0107 [Noya] | ¡Flotamos un rato sobre unos restos del naufragio y luego nos rescataron!
+0108 [Amber] | Iremos a buscarlos. Manténganse a salvo hasta que lleguemos.
+0109 [Narración] | Al oír sus voces familiares, suspiro de alivio. Después de confirmar que están bien, Willow les da nuestra ubicación aproximada.
+0110 [Iris] | Entendemos la situación. Traten de no preocuparse, tenemos expertos en navegación con nosotros. Los encontraremos.
+0111 [Iris] | La tormenta está muy fuerte ahora. Cuando despeje, iremos por ustedes. Cuídense mientras tanto.
+0112 [Tú] | No se preocupen. Con Willow aquí, estaremos bien.
+0113 [Willow] | Por fin nos comunicamos. Saber que todos están a salvo me quita un peso de encima...
+0114 [Tú] | Sí. Ahora a esperar con paciencia el rescate.
+0115 [Narración] | La cueva queda en silencio, salvo por el reconfortante crepitar de la fogata.
+0116 [Narración] | Nos acurrucamos juntos en el cálido resplandor. Justo cuando me estoy quedando dormido, oigo a Willow susurrar.
+0117 [Willow] | Gracias.
+0118 [Willow] | Esas manos que me atraparon...==W== Son realmente confiables.

@@ -1,0 +1,127 @@
+# Recuerdo de disco · Witch's Swing · 1 · Witch's Swing
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Guild Accountant | Contable del gremio
+N:Guild Leader | Líder del gremio
+N:Guild Thug | Matón del gremio
+N:Onlooking Citizen | Ciudadano curioso
+N:Shopkeeper | Tendero
+N:Unfazed Citizen | Ciudadano imperturbable
+N:avg1_109 | Aobelle
+N:avg1_135 | Mistique
+N:avg2_965 | Lanterna
+N:avg3_1099 | Guardia Imperial
+N:avg3_128 | Ophir
+N:avg3_144 | Residente
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_157 | Guardia Imperial
+N:avg3_187 | Residente de Flavio (hombre)
+N:avg3_188 | Residente de Flavio (mujer)
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_937 | La multitud
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Columpio de la bruja
+0003 [Intro] | En un jardín tranquilo que alimenta secretos, la bruja descendió en silencio.
+0004 [Mistique] | Básicamente, toda esta mercancía de ídolos es género defectuoso.
+0005 [Mistique] | Olvídate de «premium»: ni siquiera podrían revenderla de segunda mano.
+0006 [Guild Leader] | ¿Oyeron eso? Colarles esto a los fans ya es grave, ¡pero intentar estafarnos a nosotros!
+0007 [Shopkeeper] | ¡Imposible! ¡Todo esto vino por los canales oficiales, con certificados oficiales! Si no me creen, miren—
+0008 [Guild Thug] | ¿Que miremos qué? ¿Creen que pueden engañarnos a nosotros, el Gremio de Supervisión de Mercancía?
+0009 [Shopkeeper] | ¿Gremio de Supervisión de Mercancía...?==W== ¿No son solo una asociación civil? ¿Con qué derecho—?
+0010 [Guild Accountant] | Cuida el tono. Tenemos Brujas informando para nosotros. No querrás que esto se publique por todas partes, ¿verdad?
+0011 [Shopkeeper] | Eh...==W== P-perdón.
+0012 [Guild Leader] | Pero... esto no tiene por qué ser un problema. Sabes qué hacer, ¿verdad?
+0013 [Shopkeeper] | La mitad de las ganancias, pagadas cada semana...
+0014 [Guild Leader] | ¡Jajaja! ¡Por fin alguien que habla mi idioma!
+0015 [Shopkeeper] | ¡S-señora Bruja! ¡Dicen que usted se inventará cosas! ¡No lo hará, ¿verdad?!
+0016 [Mistique] | Je...==W== ¿No conoces bien a las Brujas?
+0017 [Mistique] | Escucha bien: las Brujas hacen cualquier cosa por una gran exclusiva~
+0018 [Mistique] | Sinceramente, Flavio no es para alguien tan ingenuo como tú.
+0019 [Guild Leader] | Por ahora salda lo de la semana pasada. Volveremos en unos días. No se te ocurra nada raro. Mientras estés en Flavio, no hay forma de que te libres de esto.
+0020 [Shopkeeper] | Por qué... Por qué a mí...
+0021 [The Crowd] | ¡Salud!
+0022 [Guild Leader] | Glup—==W==¡ah! ¡Bien hecho, bien hecho!
+0023 [Guild Leader] | ¡De ahora en adelante, todas las tiendas de la ciudad nos pagarán con regularidad!
+0024 [Guild Thug] | Somos la autoridad. Si van contra nosotros, ¡van contra todo Flavio!
+0025 [Guild Accountant] | Je, la mercancía de mala calidad perjudica por igual a los ídolos y a los fans. Cualquier tendero cedería.
+0026 [Guild Thug] | ¡Y todo gracias a tu brillante idea!
+0027 [Guild Leader] | Eh~ No puedo llevarme todo el crédito. La verdadera estrella de hoy es nuestra Bruja. ¡Un brindis por la gran Bruja!
+0028 [The Crowd] | ¡Por la gran Bruja!
+0029 [Guild Leader] | Hic...==W== No se queden ahí bebiendo. ¿No han pensado qué harán cuando estén forrados?
+0030 [Guild Thug] | ¡Yo, yo, yo! ¡Eh~ Quiero comprarme un coche y pasearme todos los días por el Distrito de Oro!
+0031 [Guild Accountant] | La verdad, he estado mirando propiedades en alquiler por allá.==W== Cuando tenga el dinero, podré ir todos los días a los conciertos de Aobelle, jejeje...
+0032 [Guild Leader] | Tsk, ¿eso es todo lo que se te ocurre?
+0033 [Guild Accountant] | ¿Y usted, jefe?
+0034 [Guild Leader] | ¿Yo? Seguiré ampliando nuestro modelo de negocio. ¡Algún día cobraré en Emor!
+0035 [Guild Thug] | ¡Guau, eso sí es visión de futuro! ¡Ahí está! ¿Y usted, señora Bruja?
+0036 [Mistique] | ¿Yo? Nada en particular~ Si tuviera el dinero, me gustaría construir otro Faro de las Brujas.
+0037 [Mistique] | Así sería mucho más fácil desenmascarar a ratas como ustedes.
+0038 [Guild Leader] | ¿Q-qué? ¿A quién vas a desenmascarar?
+0039 [Mistique] | Al Gremio de Supervisión de Mercancía, o sea, a todos ustedes.
+0040 [Guild Leader] | ¡Tú! ¡Cómo te atreves...!
+0041 [Guild Leader] | Hmph, sabía que tenías un plan. ¿Pero qué pruebas tienes?
+0042 [Mistique] | Ajaja~ Lo siento, pero tengo de sobra.
+0043 [Guild Thug] | Qué bueno que cerramos con llave. Ahora la rata subterránea eres tú. No hay escapatoria.
+0044 [Mistique] | Jijiji~ Adelante~ De todos modos no me detendrán.
+0045 [Mistique] | Extorsión, vandalismo, falsificación. Elige tu cargo favorito, ¿o prefieres llevarte todo el paquete~?
+0046 [Guild Leader] | Maldición...==W== ¡No tengan miedo, muchachos! ¡Es solo una Bruja! ¡Muéstrenle lo que pasa si se meten con nosotros!
+0047 [Mistique] | Jojo~ Vengan por mí~
+0048 [Mistique] | Las consecuencias de enfurecer a una bruja... De todos, ustedes deberían saberlo bien~
+0049 [Mistique] | Se apagan las luces...==W== y que comience el juicio~
+0050 [Guild Thug] | ¡Es la Guardia Imperial! ¡Vienen por nosotros!
+0051 [Guild Leader] | ¿¡La Guardia!?...==W== ¡Maldita Bruja! ¡También te arrestarán a ti!
+0052 [Imperial Guard] | ¡Guardia! ¡Nadie se mueva! ¡Ambas manos abajo!
+0053 [Guild Thug] | ¡Jefe! ¡Esa Bruja! ¡Desapareció!
+0054 [Guild Leader] | ¿Dón... dónde está? ¡Bruja! ¡Sal de ahí—!
+0055 [Guild Leader] | ¡No te escaparás!
+0056 [Shopkeeper] | ... Cuánto ruido afuera. ¿Otro evento?
+0057 [Shopkeeper] | ¿Q-quién anda ahí? ¿¡Otra extorsión—!?==W== ¡Por favor, esperen!
+0058 [Shopkeeper] | No hay nadie...
+0059 [???] | ¡Hola! ¡Disculpe~!
+0060 [Shopkeeper] | ¡Aaaaaaaaah—!!
+0061 [Mistique] | Shhh, no grites, soy yo. Mírate, qué asustadizo.
+0062 [Shopkeeper] | ¿La señora Bruja? ¿Qué hace aquí? Si es por la cuota de protección, ¿no es hasta después?
+0063 [Mistique] | ¿Cuota de protección?==W== Solo vine a platicar~ Pasé por tu tienda, pero no había nadie. Me costó un rato encontrarte.
+0064 [Shopkeeper] | Ya... ya no la atiendo.==W== Me iré de Flavio en unos días.
+0065 [Mistique] | ¿Eh? ¿Por qué?
+0066 [Shopkeeper] | ¿Cómo que «por qué»?==W== Después de pagar la cuota de protección, ni siquiera me alcanzaba para la renta.
+0067 [Shopkeeper] | Y la semana pasada se llevaron la mitad de mis ganancias... Ya no puedo seguir así...
+0068 [Mistique] | Je, toma. Te devolví tu dinero, ¿no?
+0069 [Shopkeeper] | Espere... Qué...
+0070 [Mistique] | Perdona por eso. Tuve que fingir que estaba de su lado para infiltrarme en su bandita. Toma, te devuelvo el dinero ahora~
+0071 [Shopkeeper] | ¡Muchísimas gracias! ¡Ahora no tendré que cerrar!
+0072 [Mistique] | No hay de qué. Si de verdad quieres agradecerme...==W== Sabes lo que de verdad buscan las Brujas, ¿cierto?
+0073 [Mistique] | Una historia como esta se cuenta mejor cuando la víctima habla~ ¡Así que cuento contigo!
+0074 [Shopkeeper] | ¡Sin problema! ¡Contaré exactamente cómo pasó!
+0075 [Onlooking Citizen] | ¡Oye, mira los periódicos! Un escándalo enorme sobre ese Gremio de Supervisión de Mercancía~
+0076 [Unfazed Citizen] | ¿No son una asociación civil? ¿Qué clase de escándalo podría haber?
+0077 [Onlooking Citizen] | Si sigues leyendo, dice que «Una investigación conjunta de una Bruja y la Guardia reveló graves casos de corrupción».
+0078 [Onlooking Citizen] | Mmm...==W== ¿Qué Bruja será...?
+0079 [Unfazed Citizen] | A ver...==W== Se llama Mistique.
+0080 [Mistique] | ¡Bruja pasando! ¡Perdón! ¡Con permiso!
+0081 [Onlooking Citizen] | Cof...==W== ¡Oye! ¡Fíjate por dónde vuelas!
+0082 [Unfazed Citizen] | Espera... ¿No era esa Mistique? ¿De Scarlet Sights Media? ¡Es la Bruja que escribió esta nota!
+0083 [Onlooking Citizen] | ¡No puede ser! Ni siquiera me di cuenta...
+0084 [Mistique] | Je~ Parece que este reportaje está causando buena reacción~
+0085 [Mistique] | Si no agito las cosas y hago ruido de verdad, ¿no se desperdiciaría todo mi esfuerzo~?
+0086 [Mistique] | Pero esto es solo el comienzo~
+0087 [Mistique] | Es raro que un montón de pandilleros callejeros logren algo tan organizado.
+0088 [Mistique] | Entonces...==W== ¿Quién está detrás de ellos?
+0089 [Mistique] | Jejeje~ En las sombras de la ciudad crecen los secretos. Y los secretos atraen a Brujas hambrientas.
+0090 [Mistique] | Las Brujas responden a la sed de verdad de la gente y entregan lo que anhela.
+0091 [Mistique] | Secretos, deseo, verdad, pasión: tal es la mezcla del elixir de una bruja~
+0092 [Mistique] | Bueno... Hora de encontrar algo aún más jugoso.==W== ¿Hm?
+0093 [Ophir] | ¿Oíste, Mistique?
+0094 [Ophir] | ¡Registraron una nueva empresa!
+0095 [Ophir] | ¡No, espera, más bien volvió de una suspensión!
+0096 [Mistique] | ¿En serio? ¿Cómo se llama?
+0097 [Ophir] | Creo que se llama...==W== «Boss Accord Staffing Company».
+0098 [Mistique] | ¿«Jefe»? Jejejeje...
+0099 [Mistique] | ¡¡¡SUENA MUUUUY==W== INTERESANTE!!!
+0100 [Mistique] | Parece que tendré que hacer un viaje a Emor.

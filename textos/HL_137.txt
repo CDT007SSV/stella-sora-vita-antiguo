@@ -1,0 +1,210 @@
+# Heartlink de Eleanor: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Eleanor] | ¡Mentor! ¡Por fin puedo escribirle!
+A01.0002 [Tú] | Me alegra hablar contigo
+A01.0003 [Eleanor] | ¡Adivine qué, Mentor!
+A01.0004 [Eleanor] | Ya conseguí que me prestaran...
+A01.0005 [Eleanor] | ¡todos los mapas que mi familia confiscó!
+A01.0006 [Eleanor] | ¿Partimos hoy mismo?
+A01.0007 [Opción] | Siento que es algo repentino
+A01.0008 [Opción] | Primero hay que prepararnos
+A01.0009 [Eleanor] | ¿Eh? ¿Usted cree?
+A01.0010 [Eleanor] | ... Lo siento, Mentor
+A01.0011 [Eleanor] | Supongo que fui un poco abrupta
+A01.0012 [Eleanor] | ¡Lo hablaremos bien la próxima vez que nos veamos!
+A01.0013 [Eleanor] | ¡Tiene toda la razón, Mentor!
+A01.0014 [Eleanor] | ¡Lo hablaremos bien la próxima vez que nos veamos!
+A01.0015 [Eleanor] | ¡Nos vemos entonces!
+
+## Conversación A02
+A02.0001 [Eleanor] | ¡Adivine qué, Mentor!
+A02.0002 [Eleanor] | ¡Hoy tengo muchísimas cosas divertidas que contarle!
+A02.0003 [Tú] | ¿Qué pasó?
+A02.0004 [Eleanor] | ¡Fui al mercado!
+A02.0005 [Eleanor] | Mis padres siempre decían que estaba demasiado lleno y desordenado, así que nunca me dejaron ir
+A02.0006 [Eleanor] | Hoy fui en persona
+A02.0007 [Eleanor] | ¡Y fue como un tesoro escondido en pleno corazón de la ciudad!
+A02.0008 [Eleanor] | Compré unos pastelillos recién horneados
+A02.0009 [Eleanor] | Una flauta que sopla burbujas
+A02.0010 [Eleanor] | Aunque me emocioné un poquito de más
+A02.0011 [Eleanor] | Y choqué de frente con un puesto de fruta...
+A02.0012 [Tú] | ¡¿Estás bien?!
+A02.0013 [Eleanor] | No se alarme, Mentor. Compensé al dueño como corresponde
+A02.0014 [Tú] | ¡No, no! No me refería a eso...
+A02.0015 [Tú] | Preguntaba si te lastimaste
+A02.0016 [Eleanor] | Estoy bien, estoy bien. ¡Fuerte como siempre!
+A02.0017 [Eleanor] | Jeje, Mentor, usted se preocupa mucho por mí
+A02.0018 [Eleanor] | La próxima vez, vayamos juntos al mercado, ¿le parece?
+
+## Conversación A03
+A03.0001 [Eleanor] | ¡Adivine qué, Mentor!
+A03.0002 [Eleanor] | ¡Encontré otro mapa del tesoro!
+A03.0003 [Tú] | ¿«Otro»?
+A03.0004 [Eleanor] | Buaa...
+A03.0005 [Eleanor] | Sé que ya me han estafado muchas veces...
+A03.0006 [Eleanor] | ¡Pero este sí es diferente!
+A03.0007 [Tú] | ¿Diferente en qué?
+A03.0008 [Eleanor] | Se supone que el tesoro está cerca de casa
+A03.0009 [Eleanor] | En la cima de una colina pequeña
+A03.0010 [Eleanor] | Así que, aunque fuera un engaño y hiciéramos el viaje en vano
+A03.0011 [Eleanor] | No perderíamos demasiado tiempo ni energía
+A03.0012 [Tú] | ¡¿Esa es tu idea de «diferente»?!
+A03.0013 [Eleanor] | Jeje~
+A03.0014 [Eleanor] | Eh... Bueno, ya empaqué mis cosas
+A03.0015 [Eleanor] | Quiero llegar allá lo antes posible
+A03.0016 [Eleanor] | Acampar de noche
+A03.0017 [Eleanor] | Y luego, a la luz de la mañana, tomar chocolate caliente en la cima de esa colina
+A03.0018 [Eleanor] | Seguro que allá arriba sabrá completamente distinto
+A03.0019 [Eleanor] | Mentor, ¿hará ese viaje conmigo?
+A03.0020 [Tú] | Vale
+A03.0021 [Eleanor] | ¡Lo sabía! ¡Usted es el mejor!
+A03.0022 [Eleanor] | Entonces nos vemos pronto
+
+## Conversación A04
+A04.0001 [Eleanor] | Hay un secreto que quiero compartir con usted, Mentor
+A04.0002 [Tú] | ¿Sí?
+A04.0003 [Eleanor] | ¡Hoy completé un encargo!
+A04.0004 [Eleanor] | De regreso, pasé por el bosque...
+A04.0005 [Eleanor] | ¡Y encontré un árbol de aspecto muy extraño!
+A04.0006 [Eleanor] | Sus ramas parecían manos extendidas
+A04.0007 [Eleanor] | El árbol entero parecía una persona bailando
+A04.0008 [Eleanor] | Me quedé ahí mirándolo muchísimo rato
+A04.0009 [Eleanor] | Cuando reaccioné, ya casi oscurecía
+A04.0010 [Eleanor] | Y entonces... perdí la carroza de vuelta
+A04.0011 [Eleanor] | ¡Pero gracias a ese árbol, todo el viaje terminó siendo muy especial!
+A04.0012 [Tú] | ¿Entonces bailaste con ese árbol?
+A04.0013 [Eleanor] | Claro que no. No soy tan tonta...
+A04.0014 [Eleanor] | Mentor... ¿no se está burlando de mí, verdad?
+A04.0015 [Tú] | No, no, claro que no
+A04.0016 [Tú] | Cambiar los planes solo por seguir la curiosidad...
+A04.0017 [Tú] | No es una cualidad muy común en la gente
+A04.0018 [Tú] | La próxima vez, ¿puedes llevarme a ver ese «árbol bailarín»?
+A04.0019 [Eleanor] | Mentor...
+A04.0020 [Eleanor] | ¡Sabía que lo entendería!
+A04.0021 [Eleanor] | La próxima vez me acordaré de traer mis materiales de arte
+A04.0022 [Eleanor] | Y haré un boceto del árbol para conservarlo de recuerdo
+
+## Conversación A05
+A05.0001 [Eleanor] | ¡Mentor! ¡Ayuda!!
+A05.0002 [Eleanor] | ¡Estoy en el mercado ahora mismo y me metí en un lío complicadísimo!
+A05.0003 [Tú] | ¿Qué pasó?
+A05.0004 [Eleanor] | Me topé con una anciana que vendía flores
+A05.0005 [Eleanor] | Su canasta se veía muy pesada
+A05.0006 [Eleanor] | así que pensé en ayudarla a cargarla
+A05.0007 [Eleanor] | Pero... ¡esa cosa pesaba una barbaridad!
+A05.0008 [Eleanor] | La anciana no paraba de decirme qué buena niña era...
+A05.0009 [Eleanor] | Y tuvo la amabilidad de invitarme a tomar el té en su casa.
+A05.0010 [Eleanor] | El problema es... ¡que no puedo dar un paso más!
+A05.0011 [Tú] | ¿En qué parte del mercado estás exactamente?
+A05.0012 [Tú] | Estoy cerca. Voy a echarte una mano
+A05.0013 [Eleanor] | Estoy en la entrada sureste
+A05.0014 [Eleanor] | ¡¡¡Buaa, qué alma tan bondadosa es usted!!!
+A05.0015 [Eleanor] | Ah, la anciana dijo que nos regalaría unas flores en agradecimiento
+A05.0016 [Eleanor] | ¿Qué color le gusta? ¡Le elegiré algunas!
+
+## Conversación A06
+A06.0001 [Eleanor] | Mentor, últimamente he estado trabajando en aumentar mi fuerza
+A06.0002 [Eleanor] | ¿Tiene algún buen consejo de entrenamiento?
+A06.0003 [Eleanor] | ¿O quizá alguien de quien pueda aprender?
+A06.0004 [Eleanor] | Por ejemplo, la señorita Fuyuka, líder del gremio Petal Bloom
+A06.0005 [Eleanor] | Creo recordar que es muy fuerte
+A06.0006 [Tú] | Puedo arreglarlo, sí
+A06.0007 [Tú] | ¿Pero a qué viene tanto interés repentino en el entrenamiento de fuerza?
+A06.0008 [Tú] | No va mucho con tu estilo de combate
+A06.0009 [Eleanor] | Ah, sabía que no podría ocultárselo...
+A06.0010 [Eleanor] | La verdad es que mi maleta pesa demasiado
+A06.0011 [Eleanor] | Sigo metiéndole más y más cosas
+A06.0012 [Eleanor] | Cuando me di cuenta, ya era demasiado pesada para mí
+A06.0013 [Opción] | ¿Por qué no sacas algunas cosas?
+A06.0014 [Opción] | De acuerdo. Entonces tiene sentido aumentar tu fuerza
+A06.0015 [Eleanor] | ¿Eh? Pero todo lo que hay ahí dentro es importante...
+A06.0016 [Eleanor] | Un Trekker tiene que estar preparado para todo, ¿no?
+A06.0017 [Eleanor] | Jeje, sabía que usted lo entendería
+A06.0018 [Tú] | Eleanor, se me acaba de ocurrir una idea
+A06.0019 [Tú] | Una maleta tan pesada...
+A06.0020 [Tú] | Podría usarse como arma por sí sola, ¿no?
+A06.0021 [Eleanor] | T-Tiene razón...
+A06.0022 [Eleanor] | Nunca lo había pensado
+A06.0023 [Eleanor] | Yo solo veía el peso como una carga...
+A06.0024 [Eleanor] | ¡Gracias por el consejo, Mentor!
+
+## Conversación A07
+A07.0001 [Eleanor] | ¡Auxilio! ¡Auxilio!
+A07.0002 [Eleanor] | ¡Auxilio! ¡Auxilio!
+A07.0003 [Eleanor] | ¡Mentor! ¡Necesito su ayuda urgente!
+A07.0004 [Tú] | ¿Te perdiste otra vez?
+A07.0005 [Tú] | ¿O hay algo más que no puedes cargar?
+A07.0006 [Eleanor] | ¡Ninguna de las dos!
+A07.0007 [Eleanor] | ¿Recuerda cuando fuimos de aventura hace un tiempo?
+A07.0008 [Eleanor] | Usted se quitó el abrigo y yo dije que lo lavaría antes de devolverlo
+A07.0009 [Eleanor] | Así que pensé en intentar lavar la ropa yo misma por una vez
+A07.0010 [Eleanor] | Seguí las instrucciones de lavado...
+A07.0011 [Eleanor] | Y puse su abrigo oscuro y mi vestido en la misma tina
+A07.0012 [Eleanor] | Luego le eché media bolsa de quitamanchas
+A07.0013 [Eleanor] | ¡Ahora la tina rebosa de espuma!
+A07.0014 [Eleanor] | Y su abrigo parece una especie de retazo mal teñido...
+A07.0015 [Eleanor] | Mentor, ¿le compro uno idéntico para reponerlo?
+A07.0016 [Eleanor] | ¿O me meto en un hoyo y no salgo nunca más?
+A07.0017 [Eleanor] | ... ¿Mentor?
+A07.0018 [Eleanor] | ¡Sé que la regué, pero por favor no me ignore!
+A07.0019 [Tú] | ¿Y tu vestido?
+A07.0020 [Eleanor] | También está arruinado...
+A07.0021 [Tú] | Vayamos juntos a comprar ropa nueva algún día
+A07.0022 [Tú] | Solo no seas tan imprudente la próxima vez
+A07.0023 [Eleanor] | ¡Ohh Mentor! ¡Usted es el mejor!
+A07.0024 [Eleanor] | ¡La próxima vez que salgamos, yo invito todo!
+
+## Conversación A08
+A08.0001 [Eleanor] | ¡Feliz cumpleaños, Mentor!
+A08.0002 [Eleanor] | ¡Llevo tres días enteros mirando el calendario, esperando a que por fin llegara hoy!
+A08.0003 [Tú] | Gracias
+A08.0004 [Eleanor] | ¡De nada!
+A08.0005 [Eleanor] | Y también he planeado una salida especial para nosotros
+A08.0006 [Eleanor] | Siempre he pensado que si no vas a un lugar especial en un día como este
+A08.0007 [Eleanor] | ¡estarías desperdiciando una oportunidad que llega una vez al año!
+A08.0008 [Eleanor] | Así que encontré en el mapa dos lugares especiales que se supone tienen vistas increíbles:
+A08.0009 [Eleanor] | Un valle donde se pueden ver luciérnagas y un acantilado para observar las estrellas
+A08.0010 [Eleanor] | ¿A cuál le gustaría ir?
+A08.0011 [Opción] | Al valle
+A08.0012 [Opción] | Al acantilado
+A08.0013 [Opción] | No importa adónde vayamos
+A08.0014 [Eleanor] | ¡Muy bien! ¡Vámonos!
+A08.0015 [Eleanor] | ¡No hay problema! ¡Ya tengo todo listo!
+A08.0016 [Tú] | Lo que importa es poder pasar el día contigo
+A08.0017 [Eleanor] | Mentor... ¡me ha conmovido mucho!
+A08.0018 [Eleanor] | En fin, hoy dejaremos todas nuestras preocupaciones atrás
+A08.0019 [Eleanor] | Y pasaremos el día como verdaderos aventureros
+A08.0020 [Eleanor] | ¡Espere con ansias, Mentor!
+
+## Conversación A09
+A09.0001 [Eleanor] | Mentor, me he dado cuenta de que usted es realmente increíble
+A09.0002 [Tú] | ¿Qué pasa?
+A09.0003 [Eleanor] | Después de seguir su guía todo este tiempo
+A09.0004 [Eleanor] | he comprendido de verdad lo distinto que es pelear en equipo en vez de ir por mi cuenta.
+A09.0005 [Eleanor] | Cuando peleaba sola, siempre me preocupaba que alguien me atacara por la espalda
+A09.0006 [Eleanor] | Pero cuando estoy con usted, no tengo que pensar en eso en absoluto
+A09.0007 [Eleanor] | Y otra cosa...
+A09.0008 [Eleanor] | Me preocupaba que mi estilo de combate fuera demasiado impredecible...
+A09.0009 [Eleanor] | Y que a otras personas no les gustara tenerme de compañera
+A09.0010 [Eleanor] | Pero mientras usted dé las órdenes, nada de eso importa
+A09.0011 [Eleanor] | ¿Supongo que a esto le llaman estar en sintonía?
+A09.0012 [Eleanor] | ¡Mentor, sigamos peleando codo a codo!
+
+## Conversación A10
+A10.0001 [Eleanor] | La música es realmente maravillosa, ¿verdad?
+A10.0002 [Tú] | ¿Estudiaste música, Eleanor?
+A10.0003 [Eleanor] | Sí
+A10.0004 [Eleanor] | Arte, música, baile...
+A10.0005 [Eleanor] | Mis padres me hicieron aprender todo eso
+A10.0006 [Eleanor] | Quizá no lo parezca, pero en realidad canto muy bien
+A10.0007 [Tú] | Te creo
+A10.0008 [Tú] | Ya tienes una voz tan hermosa
+A10.0009 [Eleanor] | ...!
+A10.0010 [Eleanor] | Mentor... usted sí que sabe cómo halagar a una chica
+A10.0011 [Eleanor] | Le cantaré la próxima vez que tenga oportunidad
+A10.0012 [Eleanor] | ¡Pero solo después de tener mucho tiempo para prepararme!
+A10.0013 [Tú] | Tengo muchas ganas de oírte

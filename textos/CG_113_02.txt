@@ -1,0 +1,79 @@
+# Historia de Shimiao · 2 ·  Spice Reveals All (Part II) 
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Butcher | Carnicero
+N:Shocked Shopkeeper&Customer | Comerciante y cliente atónitos
+N:avg1_113 | Shimiao
+N:avg3_100 | Sylar
+N:avg3_169 | Chica
+N:avg3_175 | Residente Loong
+N:avg3_176 | Residente Loong
+N:avg3_880 | Curiosos
+N:avg3_882 | Clienta enojada
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El picante lo revela todo (Parte II)
+0003 [Intro] | Justo cuando la verdad del caso sale a la luz… ¡¿aparece de repente una nueva petición?! El primer paso para resolver el caso: ¡seguir los movimientos de las Xuan Shi!
+0004 [Narración] | Hay una multitud reunida a la entrada del mercado, observando algún tipo de discusión.
+0005 [Angry Customer] | Estaba gritando una oferta especial: 980 Dorras la libra.
+0006 [Angry Customer] | La mercancía se veía buena, así que agarré unas cuantas. ¡¿Pueden creer que me pide 9,000 Dorras?!
+0007 [Butcher] | Oiga, sea justa.
+0008 [Butcher] | Lo que lleva aquí suma nueve libras y media; incluso se lo redondeé a la baja.
+0009 [Angry Customer] | No hay manera de que haya nueve libras y media aquí.
+0010 [Shimiao] | Cálmense, por favor, los dos.
+0011 [Butcher] | ¡¿Qué hace usted...?!
+0012 [Angry Customer] | Usted es de ... la Oficina Baize...
+0013 [Shimiao] | Señora, ¿cree que el peso que él le dio es incorrecto?
+0014 [Angry Customer] | ¡Sí! ¡Exacto!
+0015 [Shimiao] | Muy bien. No tiene caso seguir discutiendo. Déjenme resolverlo.
+0016 [Narración] | Gira la empuñadura de su espada como una tapa, partiendo la hoja limpiamente en dos.
+0017 [Narración] | Sorprendentemente, tras sacudir Shimiao la hoja, una balanza delgada y de aspecto antiguo ... ¿una romana?... se desliza de su interior hueco.
+0018 [Onlookers] | ¡¡¡Ahí está!!! ¡La Espada Miaravillosa de Shimiao! ¡Capaz de invocar todo y cualquier cosa!
+0019 [Tú] | ¡¿La Espada Miaravillosa de Shimiao...?!
+0020 [Shocked Shopkeeper&Customer] | Guauuu ... ¡¿Esa es la legendaria «Espada Miaravillosa de Shimiao» que puede invocar cualquier cosa...?!==B== ¡No puedo creer que la esté viendo en persona...!
+0021 [Shimiao] | ¡Por favor ... por favor no le digan así...! ¡Qué vergüenza!==B== ¡Esta es mi Caja de Almacenamiento Multifunción con Forma de Espada!
+0022 [Tú] | Vale, pero es la Espada Miaravillosa de Shimiao.
+0023 [Shocked Shopkeeper&Customer] | Lo que usted diga, dueña de la Espada Miaravillosa de Shimiao.
+0024 [Onlookers] | Así que la Espada Miaravillosa de Shimiao es en realidad una caja de almacenamiento. Aprendo algo nuevo cada día.
+0025 [Shimiao] | Está bien ... Espada Miaravillosa será...
+0026 [Shimiao] | ¡En fin! ¡Usaré esta balanza para llegar al fondo de esto!
+0027 [Shimiao] | Mi pesa es de cuatro jin, el estándar de la Oficina Baize. Pueden comprobarlo.
+0028 [Shimiao] | Si la balanza del vendedor es exacta, deberíamos obtener el mismo peso al medirlo ahora.
+0029 [Butcher] | B-bueno ... ¡Espere! ¡Espere, espere!
+0030 [Butcher] | Q-quizá ... haya algo mal con mi balanza ... Perdón, señora, ¡lo hago de nuevo!
+0031 [Shimiao] | Suspiro. Lo suponía. Señor, no puede hacer negocios así.
+0032 [Shimiao] | Según el reglamento de la Oficina Baize, esto cuenta como dar de menos a los clientes, lo cual es una forma de fraude.
+0033 [Shimiao] | Si afirma que su balanza es exacta, la pesa debería detenerse en la marca correcta después de pesar.
+0034 [Butcher] | S-sí, entiendo ... Pagaré, ahora mismo ... No lo volveré a hacer.
+0035 [Tú] | De algún modo siento que podrías volver a hacerlo. Por cierto, ¿pasó por aquí ayer un grupo de Xuan Shi?
+0036 [Butcher] | Sí, sí, compraron una montaña. Tampoco les importó el precio, unos incautos de lo más fáciles... ==W==eh, yo no dije eso.
+0037 [Shimiao] | ¡Más te vale confesar también lo que hiciste ayer! ¡Y quiero comprar la misma carne que ellas se llevaron, y no intentes engañarme!
+0038 [Tú] | Carne, condimentos, manzanas ... ¿Más de veinte bolsas? ¿Qué botana nocturna tenían en mente?
+0039 [Tú] | Vaya, también hay un montón de pimientos. Shimiao, no deberíamos dejar que toda esta comida se desperdicie. ¿Quieres cocinar un poco más tarde?
+0040 [Shimiao] | ...
+0041 [Shimiao] | ... ... ...
+0042 [Shimiao] | ¿P-pimiento? N-no, gracias. Paso...
+0043 [Shimiao] | Yo probaré las manzanas y tú puedes quedarte con los pimientos, Jefe.
+0044 [Tú] | Shimiao...
+0045 [Tú] | No me digas que eres de paladar quisquilloso y no comes pimientos.
+0046 [Shimiao] | ¡No! ¡Nooooo!!
+0047 [Shimiao] | ¡Para nada es así!
+0048 [Tú] | ¿En serio...? Pero el señor dijo que los pimientos están muy buenos hoy.
+0049 [Tú] | Déjame probar.==B== Mmm, ¡está muy rico! Los pimientos son súper nutritivos, así que no seas quisquillosa.
+0050 [Shimiao] | Jefe ... ¡¿puedes ... comerlos crudos?!
+0051 [Tú] | ¡Sí! Si tuvieras que comer Ruiseñor Leonado todos los días, también podrías comerte cualquier cosa~
+0052 [Shimiao] | G-guau...
+0053 [Shimiao] | No es tanto que sea quisquillosa para comer...
+0054 [Shimiao] | Más bien soy quisquillosa para no comer.
+0055 [Tú] | Sí...
+0056 [Shimiao] | Eh, creo que el chiste no cuajó...
+0057 [Tú] | Me sorprende. La empleada modelo de la Oficina Baize, perfeccionista total, resulta ser una quisquillosa que cuenta chistes sosos.
+0058 [Shimiao] | «¡¿La empleada modelo?!» ¿Mis colegas han estado diciendo cosas raras otra vez...?
+0059 [Tú] | Nada, nada raro, jaja. Es solo que todos te admiran muchísimo.
+0060 [Shimiao] | Mmm ... Me hago una idea, sí. Y la verdad me da un poco de orgullo...
+0061 [Shimiao] | ...==W== Así que no puedo defraudarlos...
+0062 [Tú] | ... ¿Qué acabas de decir?
+0063 [Shimiao] | No es nada, no es nada. Solo falta un último lugar por revisar. Pongámonos en marcha.

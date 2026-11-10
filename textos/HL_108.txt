@@ -1,0 +1,266 @@
+# Heartlink de Kasimira: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Kasimira] | Hola
+A01.0002 [Kasimira] | Este es mi celular de trabajo. Si tienes un encargo para mí, contáctame por teléfono
+A01.0003 [Tú] | Claro
+
+## Conversación A02
+A02.0001 [Tú] | ¡Capitana, quiero reportar algo!
+A02.0002 [Kasimira] | ?
+A02.0003 [Kasimira] | ¿Qué pasa
+A02.0004 [Opción] | Chaton dijo que un día te reemplazará como capitana
+A02.0005 [Opción] | Chaton dijo «Pfft, uno de estos días seré la capitana»
+A02.0006 [Opción] | Parece que Chaton le tiene el ojo a tu puesto de capitana
+A02.0007 [Kasimira] | ...
+A02.0008 [Kasimira] | ...
+A02.0009 [Kasimira] | Está bien
+A02.0010 [Kasimira] | Siempre es así
+A02.0011 [Kasimira] | Es la reina del drama que lleva dentro
+A02.0012 [Tú] | Las relaciones dentro de tu compañía parecen bastante complicadas
+A02.0013 [Kasimira] | Todo está bien
+A02.0014 [Kasimira] | Aunque diga cosas así todo el tiempo
+A02.0015 [Kasimira] | Chaton es un pan de Dios en el fondo
+A02.0016 [Tú] | Los conoces bien
+A02.0017 [Kasimira] | Por supuesto, es uno de los deberes de la capitana
+
+## Conversación A03
+A03.0001 [Tú] | ¡Capitana, quiero reportar algo!
+A03.0002 [Kasimira] | ?
+A03.0003 [Opción] | Vi a un miembro de la Compañía entrando a la sala de juegos
+A03.0004 [Opción] | Alguien se coló en la sala de juegos
+A03.0005 [Opción] | Algunos miembros de la Compañía están enganchados a los juegos
+A03.0006 [Kasimira] | Ya veo
+A03.0007 [Kasimira] | Dame los nombres y mañana duplicaré su carga de entrenamiento matutino
+A03.0008 [Kasimira] | Pero dime, ¿cómo te enteraste?
+A03.0009 [Tú] | ...
+A03.0010 [Kasimira] | Tú también estabas ahí, ¿verdad?
+A03.0011 [Kasimira] | «Quienes habitan las Tierras Salvajes no pueden permitirse descuidar el entrenamiento ni un solo día, el arrepentimiento siempre llega tarde».
+A03.0012 [Kasimira] | Por supuesto, esta es solo una de las reglas de la Compañía del Gato Blanco. No necesitas seguirla
+A03.0013 [Kasimira] | Pero creo que encierra un fondo de verdad universal
+A03.0014 [Tú] | ...
+A03.0015 [Tú] | (Kasimira está sermoneando otra vez...)
+A03.0016 [Kasimira] | Oye, guárdate tus pensamientos
+
+## Conversación A04
+A04.0001 [Kasimira] | Jefe, ¿crees que me he vuelto vieja
+A04.0002 [Tú] | ¿A qué te refieres?
+A04.0003 [Kasimira] | Dije algo durante el entrenamiento
+A04.0004 [Kasimira] | Algo como «los jóvenes de hoy ya no son lo que eran...»
+A04.0005 [Kasimira] | Dijeron que sonaba como una vieja gruñona
+A04.0006 [Kasimira] | Pero eso nos decían nuestros instructores cuando yo estaba en entrenamiento
+A04.0007 [Kasimira] | ¿Será que me he quedado atrás con los tiempos
+A04.0008 [Opción] | Suena a alguien que no sabe usar un celular
+A04.0009 [Opción] | Sí, seriamente anticuada
+A04.0010 [Opción] | Resulta que los jóvenes de la generación anterior ya eran un desastre
+A04.0011 [Kasimira] | ¡No! No es eso
+A04.0012 [Kasimira] | Es que no quiero volverme dependiente de los celulares
+A04.0013 [Tú] | Sí, sí
+A04.0014 [Kasimira] | Exacto. Así que tú también lo notaste...
+A04.0015 [Tú] | Pero por eso Kasimira es tan confiable
+A04.0016 [Kasimira] | ...
+A04.0017 [Kasimira] | ¿Podrías no meterme en el mismo saco que la generación anterior, por favor
+A04.0018 [Kasimira] | No eres mucho menor que yo, ==PLAYER_NAME==, ¿o sí
+A04.0019 [Tú] | Perdón, lo dije sin pensar
+A04.0020 [Tú] | Siempre eres tan confiable que por eso la gente te considera mayor de lo que eres en realidad
+A04.0021 [Kasimira] | Hum, sabía que todos están confabulados
+A04.0022 [Kasimira] | Como sea
+
+## Conversación A05
+A05.0001 [Tú] | Los miembros de la Compañía del Gato Blanco parecen estar muy interesados en la sala de juegos
+A05.0002 [Kasimira] | Un poco de relajación nunca está de más
+A05.0003 [Kasimira] | A trabajar duro, a jugar duro
+A05.0004 [Kasimira] | Así que uso el acceso a la sala de juegos como recompensa para sacar lo mejor de cada uno
+A05.0005 [Kasimira] | Además, a quién no le gustan los juegos
+A05.0006 [Opción] | ¿Tú también juegas?
+A05.0007 [Opción] | Pensé que la capitana no se metería en ese tipo de cosas
+A05.0008 [Opción] | Me sorprende que pienses así
+A05.0009 [Kasimira] | ...
+A05.0010 [Kasimira] | Tienes una idea equivocada de mí
+A05.0011 [Kasimira] | Incluso alguien tan aburrida como yo puede apreciar la diversión de jugar
+A05.0012 [Kasimira] | Hasta las gatas madre enseñan al principio a cazar a sus gatitos mediante juegos
+A05.0013 [Kasimira] | Los juegos son algo muy especial para nosotros, los Gatos Blancos
+A05.0014 [Kasimira] | Son un poco como hilos que se han transmitido a través de generaciones...
+A05.0015 [Tú] | ¿Hilos?
+A05.0016 [Kasimira] | Sí. Hilos que nos unen mediante la amistad y el destino
+A05.0017 [Kasimira] | Trabajar duro y jugar duro, esa ha sido siempre la forma del Gato Blanco
+A05.0018 [Tú] | ...
+A05.0019 [Tú] | Hoy hablamos mucho
+A05.0020 [Tú] | Hablaste de muchas cosas personales en tu celular de trabajo. ¿No va contra las reglas?
+A05.0021 [Kasimira] | Espera, ¿ustedes usan otro celular para cosas personales?
+A05.0022 [Kasimira] | Perdón, este es el único celular que tengo
+A05.0023 [Tú] | Pero dijiste que este era tu celular de trabajo cuando empezamos
+A05.0024 [Kasimira] | Sí, compré el celular en un principio con fines laborales
+A05.0025 [Kasimira] | Y es el único celular que tengo. ¿Hay algún problema?
+A05.0026 [Tú] | ...
+A05.0027 [Tú] | ¿Sabes que los demás te malinterpretan fácilmente?
+A05.0028 [Kasimira] | ?
+
+## Conversación A06
+A06.0001 [Kasimira] | Jefe, ¿necesitas pañuelos desechables
+A06.0002 [Tú] | ?
+A06.0003 [Kasimira] | Te explico lo que pasó
+A06.0004 [Kasimira] | Cuando estaba de compras hoy, el dueño del supermercado me dijo que estaban haciendo un evento de gacha
+A06.0005 [Kasimira] | Lo intenté cinco veces y lo único que saqué fue un miserable Cuarto Premio
+A06.0006 [Opción] | ¿Así que te afectó?
+A06.0007 [Opción] | Te entiendo. Quedar en cuarto lugar es una lata
+A06.0008 [Opción] | No es lo máximo, pero tampoco lo peor...
+A06.0009 [Kasimira] | En resumen, ahora nuestra compañía tiene pañuelos de sobra
+A06.0010 [Tú] | Entendido. Me los llevo para el Gremio de la Nueva Estrella
+A06.0011 [Kasimira] | Gracias. Eres una gran ayuda
+
+## Conversación A07
+A07.0001 [Kasimira] | Jefe
+A07.0002 [Kasimira] | ¿Tienes algo de tiempo libre
+A07.0003 [Tú] | ¿Qué pasa?
+A07.0004 [Kasimira] | Ahora que lo pienso, no llegué a verte jugar en la sala de arcade la última vez
+A07.0005 [Kasimira] | Cuanto más lo pensaba, más me decía, ¡qué lástima!
+A07.0006 [Kasimira] | ¿Qué te parece? ¿Quieres jugar contra mí
+A07.0007 [Kasimira] | Si pierdo, te pago las fichas
+A07.0008 [Opción] | Baja tus expectativas, por favor. No se me da bien
+A07.0009 [Opción] | Nah, ¡no hay forma de que te venza!
+A07.0010 [Opción] | No tengo ninguna posibilidad
+A07.0011 [Kasimira] | ¿...?
+A07.0012 [Kasimira] | ¿En serio? Y yo que pensaba que podrías darme batalla
+A07.0013 [Tú] | Iré si es algún tipo de juego cooperativo
+A07.0014 [Kasimira] | Sin problema
+A07.0015 [Kasimira] | Entonces podemos ver quién aporta más puntos al final
+A07.0016 [Tú] | ¿Me has estado escuchando siquiera?
+
+## Conversación A09
+A09.0001 [Tú] | Capitana Kasimira, ¿puedo hacerte una pregunta?
+A09.0002 [Kasimira] | Dime
+A09.0003 [Kasimira] | No hace falta ser tan formal. Suéltalo
+A09.0004 [Tú] | Siempre tengo la sensación de que eres diferente al resto de los miembros de la Compañía del Gato Blanco
+A09.0005 [Opción] | Los otros gatos prefieren los ataques a distancia o la puntería
+A09.0006 [Opción] | Pero Kasimira, parece que eres excelente en el cuerpo a cuerpo
+A09.0007 [Opción] | Tu especialidad...¿parece ser distinta?
+A09.0008 [Kasimira] | Ah, eso
+A09.0009 [Kasimira] | Eso es señal de que los tiempos cambian
+A09.0010 [Kasimira] | Los nuevos miembros lo tienen muy fácil hoy en día
+A09.0011 [Kasimira] | En los viejos tiempos, el entrenamiento cuerpo a cuerpo se tomaba muy en serio
+A09.0012 [Kasimira] | Pero los tiempos cambian
+A09.0013 [Kasimira] | Hoy en día es difícil encontrar a gente que enseñe habilidades de combate cercano
+A09.0014 [Tú] | Ya veo...
+A09.0015 [Tú] | Gracias, capitana. Me alegra que hayamos tenido esta charla
+A09.0016 [Kasimira] | De nada. Normalmente no tengo oportunidad de hablar de estas cosas
+A09.0017 [Kasimira] | Hablar de la historia del Gato Blanco me hace feliz
+
+## Conversación A10
+A10.0001 [Kasimira] | Gracias por venir a ayudar con nuestro entrenamiento
+A10.0002 [Kasimira] | Todos, incluida yo, hemos aprendido mucho
+A10.0003 [Opción] | No hay de qué
+A10.0004 [Opción] | Somos compañeros
+A10.0005 [Opción] | Es natural que los Trekkers se ayuden entre sí
+A10.0006 [Kasimira] | Bien dicho
+A10.0007 [Kasimira] | No solo eres un buen estratega, tu carácter también es verdaderamente admirable
+A10.0008 [Kasimira] | Sigues sorprendiéndome, ==PLAYER_NAME==
+A10.0009 [Kasimira] | Mis expectativas sobre ti siguen creciendo
+
+## Conversación B01
+B01.0001 [Kasimira] | Jefe, hay algo que quiero hablar contigo.
+B01.0002 [Tú] | ¿Qué pasa?
+B01.0003 [Kasimira] | ?
+B01.0004 [Kasimira] | ¿Pareces sorprendido?
+B01.0005 [Tú] | No. Es que incluso por texto, tu tono se siente serio
+B01.0006 [Tú] | Me tomó por sorpresa
+B01.0007 [Kasimira] | Se trata de una solicitud de encargo, después de todo
+B01.0008 [Kasimira] | La seriedad está justificada
+B01.0009 [Tú] | Entonces, ¿por qué no nos vemos en persona?
+B01.0010 [Kasimira] | ¿Se podría?
+B01.0011 [Kasimira] | Pensé que alguien tan importante como tú siempre estaría ocupado
+B01.0012 [Tú] | Nah, no es eso
+B01.0013 [Tú] | Siempre puedo sacar tiempo para ti
+B01.0014 [Kasimira] | Oír eso me alegra. Nos vemos pronto
+
+## Conversación B02
+B02.0001 [Kasimira] | Últimamente he estado usando el celular más seguido a propósito
+B02.0002 [Kasimira] | Perdón si te estuve molestando hace rato
+B02.0003 [Tú] | Eso lo explica
+B02.0004 [Tú] | Entonces, ¿cuál es la razón?
+B02.0005 [Kasimira] | Quería superar una debilidad mía
+B02.0006 [Kasimira] | Entonces me di cuenta
+B02.0007 [Kasimira] | Hay una razón por la que no estoy acostumbrada a usar un celular
+B02.0008 [Kasimira] | A través de una pantalla no puedes observar las expresiones ni el lenguaje corporal de alguien
+B02.0009 [Kasimira] | No es una excusa. Para quienes tenemos nuestro oficio, es cuestión de supervivencia
+B02.0010 [Kasimira] | Antes de aceptar un encargo
+B02.0011 [Kasimira] | Tienes que saber si el cliente es de fiar
+B02.0012 [Tú] | Ya veo
+B02.0013 [Tú] | Así que cuando te reúnes cara a cara, puedes averiguarlo
+B02.0014 [Tú] | Tiene sentido, a la mayoría le costaría mentirte
+
+## Conversación B03
+B03.0001 [Kasimira] | Me pican las manos
+B03.0002 [Opción] | ¿Vas a golpear a alguien?
+B03.0003 [Opción] | ¿Quieres ir a jugar en el Monolito?
+B03.0004 [Kasimira] | No soy una maniática violenta
+B03.0005 [Kasimira] | Buena idea
+B03.0006 [Kasimira] | Pero quizá la próxima vez
+B03.0007 [Kasimira] | En fin, basta de charla: tengo algo serio que discutir contigo
+B03.0008 [Kasimira] | Planeo organizar un entrenamiento conjunto
+B03.0009 [Kasimira] | Esta vez, no solo con nuestros propios miembros
+B03.0010 [Tú] | ¿Quieres practicar combate con gente ajena a la Compañía del Gato Blanco?
+B03.0011 [Kasimira] | Sí, y confío en que conoces a muchos combatientes poderosos
+B03.0012 [Kasimira] | o a personas fascinadas por el combate
+B03.0013 [Kasimira] | ¿Quizá podrías presentarme a algunos para un combate amistoso?
+B03.0014 [Tú] | Suena divertido. Pensaré en algunos candidatos
+B03.0015 [Kasimira] | Gracias, Jefe
+B03.0016 [Kasimira] | Esperaré tus buenas noticias
+
+## Conversación B04
+B04.0001 [Kasimira] | Jefe, ¿quieres un regalo?
+B04.0002 [Tú] | ¿Eh? ¿Cuál es la ocasión?
+B04.0003 [Kasimira] | Nada, solo es un obsequio
+B04.0004 [Kasimira] | Últimamente he jugado un poco de más...
+B04.0005 [Tú] | ¿No solo dentro del Monolito, supongo?
+B04.0006 [Kasimira] | Me meto y participo cada vez que veo algo divertido en un mercado
+B04.0007 [Kasimira] | Y no puedo parar hasta ganar el premio mayor
+B04.0008 [Tú] | ¿Y no te han vetado de todos esos puestos todavía?
+B04.0009 [Kasimira] | Sí tengo algunos detractores
+B04.0010 [Kasimira] | Sobre todo esos vendedores tramposos que hacen trampa y ponen trampas a los jugadores
+B04.0011 [Kasimira] | Lo que odio más que perder son las personas que no saben aceptar una derrota
+B04.0012 [Kasimira] | Expongo sus trucos después de ganar
+B04.0013 [Tú] | Esos estafadores definitivamente se lo merecen
+B04.0014 [Tú] | ¡Estoy contigo!
+
+## Conversación B05
+B05.0001 [Kasimira] | Jefe, ¿puedes salir conmigo hoy?
+B05.0002 [Tú] | ¿Necesitas mi ayuda con algún trabajo?
+B05.0003 [Kasimira] | No, acabo de terminar mi último encargo
+B05.0004 [Kasimira] | Pero de regreso
+B05.0005 [Kasimira] | me topé con una adivina
+B05.0006 [Kasimira] | Dijo que necesito que alguien me acompañe estos días
+B05.0007 [Kasimira] | O me ocurrirá una gran desgracia
+B05.0008 [Kasimira] | Qué lata: yo quería algo de tiempo a solas, para relajarme
+B05.0009 [Kasimira] | Pero ahora tengo que pedirte que me acompañes
+B05.0010 [Tú] | ¿No puedes pedírselo a los miembros de tu compañía?
+B05.0011 [Kasimira] | Es difícil acudir a ellos con una petición así
+B05.0012 [Kasimira] | No quiero que se hagan una idea equivocada de su líder
+B05.0013 [Opción] | ¿Una idea equivocada cómo?
+B05.0014 [Opción] | Solo quieres que te haga compañía, ¿verdad?
+B05.0015 [Kasimira] | Está bien, no es la forma correcta de decirlo.
+B05.0016 [Kasimira] | No quiero mostrar debilidad ante los demás
+B05.0017 [Kasimira] | ¿Es razón suficiente?
+B05.0018 [Kasimira] | Me descubriste por completo, Jefe. Justo como esperaba.
+B05.0019 [Tú] | Está bien, lo que quieras, cuenta conmigo
+
+## Conversación B06
+B06.0001 [Kasimira] | Jefe, de repente me di cuenta de que compartimos un rasgo en común
+B06.0002 [Tú] | ¿Sí?
+B06.0003 [Kasimira] | Aunque yo misma no lo veo
+B06.0004 [Kasimira] | Pero a la gente a mi alrededor parece que le parece que me encanta cuidar de los demás
+B06.0005 [Tú] | Un poquito demasiado, quizá...
+B06.0006 [Tú] | Oye, cuando dijiste que compartimos un rasgo...
+B06.0007 [Tú] | Seguro no te referías a esto, ¿verdad?
+B06.0008 [Kasimira] | Sí me refería. Eres increíblemente paciente con la gente
+B06.0009 [Kasimira] | De alguna manera concedes hasta los deseos más irrazonables
+B06.0010 [Tú] | En cierto sentido, eso es parte de mi trabajo. Soy el Jefe, después de todo
+B06.0011 [Kasimira] | O sea que quieres decir... ¿Solo estás «cumpliendo con tu deber»?
+B06.0012 [Kasimira] | ¿Eso también es...
+B06.0013 [Kasimira] | Perdón por mis palabras, parece que me estoy echando flores
+B06.0014 [Tú] | Jaja, dudo que alguien esté en desacuerdo
+B06.0015 [Tú] | En fin, me honra que pienses que tenemos algo en común
+B06.0016 [Kasimira] | Sí, igualmente

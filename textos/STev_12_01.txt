@@ -1,0 +1,142 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! · 1 · Una tarde de té para señoritas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Eleanor's Father | Padre de Eleanor
+N:Eleanor's Mother | Madre de Eleanor
+N:Vivian & Caterine | Vivian y Caterine
+N:avg1_103 | Amber
+N:avg1_119 | Nanoha
+N:avg1_137 | Eleanor
+N:avg1_145 | Otoha
+N:avg2_976 | Árbol Asociado
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Una tarde de té para señoritas
+0003 [Intro] | Eleanor le cuenta a sus amigas de la infancia las dificultades de sus viajes, y ellas aceptan ayudarla a entrenar en secreto.
+0004 [Eleanor] | ¡Perdón por llegar tarde!
+0005 [???] | ¡Eleanor! Hasta que llegas. ¡Te hemos esperado una eternidad!
+0006 [Eleanor] | Disculpa, Caterine. Me retrasé con unas cosas pendientes.
+0007 [???] | Parece que últimamente las cosas han estado difíciles.
+0008 [Eleanor] | No pasa nada. Ya me estoy acostumbrando.
+0009 [???] | Ya llevas un tiempo en casa, pero me dicen que todavía te vigilan de cerca.
+0010 [???] | Aún no has renunciado a tu sueño, ¿verdad?
+0011 [Eleanor] | ¡Jamás!
+0012 [???] | Avísanos si necesitas algo. Eres mi mejor amiga.
+0013 [Eleanor] | Gracias, Vivian.
+0014 [Caterine] | ¡Yo también! ¡Puedes acudir a mí cuando quieras!
+0015 [Eleanor] | Je, lo sé. Ustedes dos son las mejores.
+0016 [Eleanor] | Por favor, siéntense. Guardé mi mejor té y mis mejores pastelillos para hoy.
+0017 [Caterine] | Guau, huele increíble.
+0018 [Vivian] | Horneados a la perfección, con formas preciosas. Se nota que los hizo un maestro pastelero.
+0019 [Caterine] | ¡La presentación es impecable! Esa galleta de encima se ve especialmente tentadora.
+0020 [Vivian] | De verdad, Caterine. Sigues igual de emocionable que siempre.
+0021 [Vivian] | Deberías aprender de Eleanor. Mira qué perfecta es su postura.
+0022 [Caterine] | ¡Hmph! Y tú tampoco has cambiado. ¡Sigues regañándome como si fueras mi madre!
+0023 [Vivian] | ¡¿Perdón?!
+0024 [Eleanor] | Bueno, ustedes dos, dejen de pelear. Casi no podemos reunirnos, y sería una lástima desperdiciar el buen té.
+0025 [Eleanor] | Además, Vivian lo dijo con buena intención.
+0026 [Caterine] | ... Lo sé. Perdón, Vivian. Estaba bromeando.
+0027 [Vivian] | No hay problema, te entiendo.==W== Además, no tengo ningún derecho a sentarme aquí a sermonearte.
+0028 [Caterine] | Cierto. Eleanor es la única de nosotras que de verdad ha visto el mundo exterior.
+0029 [Caterine] | Si tan solo pudiera...==W== escaparme de casa aunque fuera una vez...
+0030 [Vivian] | Shh.
+0031 [Vivian] | Baja la voz. Nos meteríamos en problemas si alguien lo oyera.
+0032 [Caterine] | Lo sé. Ustedes son las únicas a quienes les diría algo así. Y la verdad, jamás tendría el valor de hacerlo...
+0033 [Vivian] | Cambiemos de tema. Deberíamos relajarnos y disfrutar del té.
+0034 [Caterine] | Buen punto. Aunque este té negro está buenísimo...==W== Tiene un retrogusto maravilloso.
+0035 [Vivian] | Sí. Pero hablando del té de tu mansión, Eleanor...
+0036 [Vivian] | Tu antigua jefa de sirvientas preparaba un té increíble.
+0037 [Caterine] | Ah, hablas de ella...
+0038 [Eleanor] | Ahora que lo pienso, hace mucho que se fue.
+0039 [Caterine] | Ella fue quien te salvó la vida, ¿no?
+0040 [Eleanor] | Sí. Ella es la razón por la que quise convertirme en Trekker.
+0041 [Eleanor] | Es una lástima. Aparte de mencionar que había sido Trekker, nunca me contó nada de su pasado.
+0042 [Eleanor] | Intenté localizarla después de irme de la mansión, pero no encontré ni una sola pista.
+0043 [Vivian] | Ay, qué misteriosa suena.
+0044 [Caterine] | ¡Como una maestra legendaria sacada de una novela!
+0045 [Vivian] | Por intrigante que suene tu jefa de sirvientas...==W== prefiero escuchar tus aventuras, Eleanor.
+0046 [Eleanor] | ¿Qué? ¿Otra vez? He repetido esas historias una docena de veces desde que volví...
+0047 [Caterine] | ¡Nunca nos cansaremos de oír sobre el mundo exterior!
+0048 [Vivian] | Tiene razón.
+0049 [Eleanor] | B-Bueno, está bien...
+0050 [Caterine] | ¡Te topaste con las Tres Grandes Comisiones en Philae==W== y hasta ayudaste a defender un campamento de un monstruo gigante! Esta historia se pone más épica cada vez que la escucho.
+0051 [Vivian] | Las noticias de Philae nos llegaron hasta Emor. No teníamos idea de que estabas en medio de todo.
+0052 [Caterine] | ¡Y luego te uniste a Boss Accord y a Goodwind Homecare para derrotar al sindicato que te perseguía! ¡Es increíble!
+0053 [Eleanor] | ¡N-No fue así! Casi no hice nada en Philae...
+0054 [Eleanor] | Cuando esos tipos me atraparon, si logré escapar fue solo gracias a Mentor y a la señorita Nanoha.
+0055 [Caterine] | Hablando de tu Mentor...==W== Todavía no puedo creer que conozcas a la directora ejecutiva de Boss Accord.
+0056 [Vivian] | Oí que en Philae pasaron muchas más cosas después de los Tres Grandes, y que esa tal Jefa logró resolverlo todo.
+0057 [Caterine] | Qué aventura. Yo nunca podría imaginarme haciendo algo así.
+0058 [Vivian] | Es cierto. Suena fascinante...
+0059 [Caterine] | Entonces, ¿sigues en contacto con la Jefa? Ya estarás lista para salir otra vez pronto, ¿no?
+0060 [Eleanor] | Bueno... Sobre eso...
+0061 [Eleanor's Mother] | Eleanor, antes hicimos la vista gorda con tus travesuras, pero esta vez te pasaste.
+0062 [Eleanor's Father] | De ahora en adelante, no saldrás de esta mansión sin nuestro permiso.
+0063 [Eleanor] | ... Eso no es justo...
+0064 [Eleanor's Father] | Escaparte durante días enteros... ¿Ya causaste suficientes problemas?
+0065 [Eleanor] | Y-Yo solo intentaba...
+0066 [Eleanor's Mother] | ¿Por ese sueñito tuyo, supongo? Créeme, lo sé.
+0067 [Eleanor's Mother] | Pero Eleanor, tienes que aceptar la realidad. No estás hecha para la vida de Trekker.
+0068 [Eleanor] | Madre, ¿cómo puedes decir eso?
+0069 [Eleanor's Mother] | ...
+0070 [Eleanor's Father] | Porque no tienes idea de lo peligroso que es el mundo. Escúchame. Lo hacemos por tu bien.
+0071 [Eleanor's Father] | Hice que los sirvientes se deshicieran de tu equipo. Aprovecha esta oportunidad para abandonar esta tontería de una vez por todas.
+0072 [Eleanor] | Ngh...
+0073 [Caterine] | ¡Espera, ¿les confiscaron todo?! ¡Nunca dijiste nada!
+0074 [Eleanor] | No se preocupen, me lo esperaba. Ya escondí todo lo importante.
+0075 [Eleanor] | Y los Artefactos que me ayudaron a encontrar también están a salvo.
+0076 [Caterine] | ¡Eso es genial! ¡Esa es nuestra Eleanor!
+0077 [Eleanor] | Estoy atrapada en la mansión, pero no he dejado de entrenar. Además, recibo consejos de Mentor todo el tiempo...
+0078 [Eleanor] | ... Por cartas, claro.
+0079 [Eleanor] | Es increíble que podamos mantenernos en contacto con un teléfono desde ciudades completamente distintas...
+0080 [Eleanor] | Esto debe de ser tu arma secreta, ¿verdad? ¡Es asombroso!
+0081 [Eleanor] | ¡Ah...!==W== No te preocupes, prometo guardar el secreto del teléfono. Nos ceñiremos a la historia de que nos escribimos cartas.
+0082 [1] | Te lo agradezco mucho.
+0083 [1] | En fin, volvamos a tu plan de entrenamiento.
+0084 [1] | «Cambia de armas continuamente para ejecutar ataques fluidos e impredecibles. Mantén a tus enemigos adivinando con una variedad de tácticas...»
+0085 [1] | Esa es la estrategia general que sugirió Nanoha. ¿Por dónde crees que deberíamos empezar?
+0086 [Eleanor] | Bueno...
+0087 [Eleanor] | Creo que debería empezar por encontrar el arma que mejor me quede. Cuando la domine, puedo ir ampliando poco a poco a otras...==W== ¿Qué opinas?
+0088 [1] | Vas por buen camino. Pero antes de eso, necesitas entender los peligros de cada arma.
+0089 [1] | Las armas sirven para protegerte y derrotar enemigos. Si terminas lastimándote a ti misma o a un aliado, pierde todo el sentido.
+0090 [Eleanor] | Tiene sentido...==W== ¡Tendré cuidado!
+0091 [1] | Una cosa más. Perfeccionar tus habilidades es importante, pero saber evaluar armas y equipo es igual de crucial.
+0092 [1] | Aprendes rápido, Eleanor, y tienes muchas ganas de aprender. Eso no debería ser un problema...
+0093 [1] | Pero todavía te falta malicia callejera y cultura financiera. Si no cubres esos puntos ciegos, los estafadores se aprovecharán de ti en un santiamén.
+0094 [Eleanor] | Al menos, eso fue lo que me dijo Mentor.
+0095 [Caterine] | Guau...==W== La verdad es que tiene mucho sentido.
+0096 [Eleanor] | Pero la verdad... Ahora ni siquiera puedo salir de casa. ¿Cómo voy a entrenar...?
+0097 [Vivian] | Eleanor...
+0098 [Eleanor] | ¡Ah, perdón! No quería arruinar el ánimo. Solo necesitaba desahogarme...==W== Jaja.
+0099 [Vivian] | ... Te entiendo.
+0100 [Vivian] | No estás sola en esto. Permítenos ayudarte.
+0101 [Eleanor] | ¿Eh?
+0102 [Caterine] | ... O sea, yo estoy totalmente a favor. Pero no sabemos nada de ser Trekkers. Si todavía acudimos a Eleanor en busca de consejos, ¿cómo vamos a ayudarla?
+0103 [Vivian] | Veamos el entrenamiento de Eleanor.==W== En resumen, necesitas desarrollar buen ojo para evaluar el valor y la función de un objeto, ¿correcto?
+0104 [Eleanor] | ... Sí.
+0105 [Vivian] | Caterine, tu familia tiene contactos con varios comerciantes y tiendas, ¿verdad?
+0106 [Caterine] | Sí, los tenemos...==W== ¡Oh! ¡Ya entendí!
+0107 [Caterine] | ¡Si te consigo un puesto en una de nuestras tiendas, tal vez tus padres de verdad te dejen salir de casa!
+0108 [Vivian] | Exacto. Nuestras familias están muy unidas desde que éramos niñas. Los adultos confían plenamente en nosotras, así que no deberían oponerse.
+0109 [Vivian] | Luego está tu condición física. Necesitas mejorar tus habilidades de combate...
+0110 [Vivian] | Yo no tengo contactos en ese terreno, pero mi instructor de baile siempre dice que bailar da flexibilidad y coordinación. Agudiza los reflejos. ¿Quizá aprender a bailar serviría?
+0111 [Vivian] | Si yo misma te recomiendo para mis clases, tus padres difícilmente dirían que no.
+0112 [Eleanor] | Bueno...==W== Podría funcionar...
+0113 [Caterine] | ¡Vamos, Eleanor! ¡Déjanos hacer esto por ti!
+0114 [Eleanor] | Parece que nuestros papeles se invirtieron. ¡Yo soy la que necesita ayuda, así que debería ser yo quien les rogara a ustedes dos!
+0115 [Vivian] | Sabemos que tú jamás pedirías ayuda a menos que fuera una emergencia absoluta. Tenemos que ser un poco insistentes.
+0116 [Caterine] | ¡Exacto! Te conocemos demasiado bien.
+0117 [Eleanor] | ... Je, je, tienen razón. Somos amigas de la infancia, después de todo.
+0118 [Eleanor] | Vivian, Caterine... Necesito su ayuda.
+0119 [Eleanor] | Por favor, échenme una mano. ¡Voy a terminar este entrenamiento, y mi sueño de convertirme en Trekker se hará realidad!
+0120 [Vivian & Caterine] | ¡Cuenta con nosotras!

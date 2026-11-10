@@ -1,0 +1,90 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 4B · Gray for Coincidence
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_142 | Cosette
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_1080 | Niño
+N:avg3_167 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_927 | Niña
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Gris de coincidencia
+0003 [Intro] | Te topas con Cosette por casualidad, pero el saludo de Laru y su trineo cañón la espantan. Después de que le ofrecen una bebida, Cosette revela que el libro con la foto ahora está en la casa del carpintero de la calle Este 1.
+0004 [Narración] | Para encontrar la foto del Espíritu del Árbol Nevado, repartimos regalos a los niños mientras les preguntamos por la niña de cabello blanco.
+0005 [Little Girl] | ¡Ah! ¡Me acuerdo de ella! Tenía el cabello largo y blanco—
+0006 [Little Boy] | Daba un poco de miedo...==W== Nos dio demasiado miedo hablarle.
+0007 [Laru] | ¡No se preocupen, yo voy! ¿Recuerdan para dónde se fue?
+0008 [Little Girl] | La vimos hace rato...==W== ¡Ah! ¡Allá!
+0009 [Laru] | ¿Dónde? ¿Dónde?
+0010 [Tú] | ¿Eh? Cosette, ¿qué hace aquí?
+0011 [Laru] | ¿La conoces?
+0012 [Tú] | Más o menos. Me ha estado siguiendo desde hace un rato y hasta intentó secuestrarme...
+0013 [Laru] | ¡¿Siguiéndote?! ¡¿Y secuestrándote?! Tirano, ¿te metiste en problemas?
+0014 [Laru] | Te lo digo desde ya: puedo ser tu guardaespaldas, pero la comisión se cobra aparte.
+0015 [Laru] | Como ya nos conocemos tanto, te hago descuento. Justo andaba echándole el ojo a esta caña de pescar nuevecita...
+0016 [Tú] | Eh, no es lo que piensas...
+0017 [Tú] | Cosette no es mala persona. Dijo que quería secuestrarme, pero aun después de seguirme tanto tiempo, nunca me puso un dedo encima.
+0018 [Laru] | Ohhh~~ Ya entendí. Ese tipo de seguimiento.==W== Qué popular eres, Tirano.
+0019 [Tú] | Otra vez se está haciendo una idea equivocada...==W== Olvídalo.
+0020 [Laru] | Como ustedes dos se conocen, esto será fácil. Ve y pregúntale.
+0021 [Tú] | Cosette siempre está alerta... Para sacarle algo, quizá necesitemos otro enfoque.
+0022 [Laru] | ¡Hola! Soy Laru, del Imperio de la Gracia. ¿Tienes un momento?
+0023 [Tú] | ¿No es esto... un poco demasiado directo...?
+0024 [Laru] | ¿Eh? ¡Espera! ¡¿Por qué corre?!
+0025 [Tú] | ¿Porque la asustaste?
+0026 [Laru] | ¡¿Por qué sigues ahí parado?! ¡Corre tras ella!
+0027 [Laru] | Uf...==W== ¡Corre—corre demasiado rápido!
+0028 [Tú] | ¿A dónde se fue?
+0029 [Laru] | ¡La veo!==W== ¡Por allá—==W==vamos!
+0030 [Laru] | ¡A-alto! Ya no puedo correr más...
+0031 [Laru] | Quédate donde estás. No me voy a acercar más. Hablemos así, ¿sí?
+0032 [Tú] | Cosette, no te pongas nerviosa. Solo queremos preguntarte una cosa.
+0033 [Cosette] | Jefe...
+0034 [Laru] | Sí, conoces a ==SEX4==, ¿verdad? No somos gente mala. ¿Por qué corriste?
+0035 [Cosette] | ¿Por qué los buenos arrastrarían un trineo con un cañón enorme?==W== ¡Definitivamente son malos!
+0036 [Cosette] | Además, dijiste que eres del Imperio de la Gracia...
+0037 [Laru] | ¿De verdad tenemos tan mala fama?
+0038 [Tú] | ¡Ese no es el punto!
+0039 [Laru] | Bueno, escucha. Este trineo cañón no es para volar a nadie por los aires. Es para entregar regalos, a los niños.
+0040 [Laru] | ¿Ves? Está lleno de regalos. Te preguntamos porque tiene que ver con los deseos del Festival Nevado de los niños.
+0041 [Cosette] | ¿En serio?
+0042 [Laru] | ¡Claro, ¿por qué más me vestiría así?! Y aunque no me creas, ¿no confías en la persona que está a mi lado?
+0043 [Tú] | Yo respondo por ella. Dice la verdad.
+0044 [Tú] | Los niños dijeron que te prestaron un libro con una foto metida adentro. ¿Es cierto?
+0045 [Cosette] | ¿«Un libro con una foto metida adentro»? ¿Qué clase de nueva clave criminal es esa?
+0046 [Cosette] | ¡No sé nada! ¡Nunca lo había oído!
+0047 [Tú] | Cosette sí que está a la defensiva... Parece que no tenemos opción.
+0048 [Tú] | Hagamos un trato. Tú nos cuentas lo que sabes y yo te compro algo de beber. ¿Qué dices?
+0049 [Laru] | ¿Algo de beber? ¿Qué clase de soborno es ese...?
+0050 [Cosette] | ¿En serio? ¡¿Me vas a comprar una bebida?! ¡¿Puede ser la nueva especial de invierno?!
+0051 [Tú] | Claro. ¿Hay una por aquí cerca?
+0052 [Cosette] | ¡Está en el Artefacto de venta automática del parque! ¡La vi hace rato! ¡Vamos, vamos! ¡Ahorita!
+0053 [Laru] | Espera, ¿eso era todo lo que hacía falta?
+0054 [Laru] | ¡¿Entonces por qué la perseguí tanto tiempo?!
+0055 [Cosette] | Ahh—qué rico~~ Una bebida calientita para esta época...
+0056 [Tú] | Como prometí, ¿ya nos puedes contar del libro y la foto? ¿Recuerdas el libro de los cuentos del Árbol Nevado?
+0057 [Cosette] | ... Creo que sí lo pedí prestado para leerlo.
+0058 [Laru] | Sí. Ese mero, con una foto del Espíritu adentro.
+0059 [Cosette] | Ah, ya me acordé, así que de eso trata la foto.
+0060 [Laru] | Exacto. ¿Todavía tienes el libro?
+0061 [Cosette] | No. Lo terminé con unos niños del Clan Viento de Ceniza esta mañana,==W== y luego se lo pasé a otros.
+0062 [Tú] | ¿Recuerdas a quién se lo diste?
+0063 [Cosette] | A ver...==W== A un niño de la calle Este 1.==W== Creo que su familia trabaja con madera.
+0064 [Laru] | ¿Trabaja con madera?==W== ¿Hablas del hijo de un carpintero? Creo que ya sé quién es.
+0065 [Tú] | Muy bien, vamos a ver.
+0066 [Tú] | ¡Gracias, Cosette!
+0067 [Cosette] | D-de nada. Y gracias por la bebida, Jefe...==W== Estaba muy buena...
+0068 [Narración] | Después de despedirnos de Cosette, nos dirigimos a la calle Este 1.
+0069 [Laru] | Mmm, ojalá esta vez salga algo...
+0070 [Tú] | Solo nos queda esperarlo.==W== Por cierto, pareces muy empeñada en encontrar esa foto.
+0071 [Laru] | ¡E-es que nunca he visto al Espíritu del Árbol Nevado, así que quiero verlo con mis propios ojos!
+0072 [Laru] | Además, haría realidad el deseo de los niños...
+0073 [Tú] | ¿En serio?
+0074 [Laru] | ¡No me pongas esa cara de sospecha! En fin...==W== ¡Primero encontremos la foto!
+0075 [Tú] | Shhh...
+0076 [Tú] | ¿Soy yo o siento que...==W== alguien nos sigue?

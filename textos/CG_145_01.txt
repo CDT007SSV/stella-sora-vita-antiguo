@@ -1,0 +1,95 @@
+# Historia de Otoha · 1 · Performer of Myriad Faces (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Gear Shop Owner | Dueño de la tienda de equipo
+N:avg1_145 | Otoha
+N:avg3_100 | Sylar
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_198 | Pandillera genial
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La artista de mil rostros (Parte I)
+0003 [Intro] | Impulsada por un propósito secreto, orquestó con cuidado un encuentro «casual».
+0004 [Narración] | La mayoría de la gente sigue durmiendo en una mañana de descanso como esta, y sin embargo aquí estoy...
+0005 [Tú] | Le prometí a Noya que ayudaría...==W== Pero no esperaba un mandado al amanecer. Acabemos con esto.
+0006 [Gear Shop Owner] | Ah, perdón...==W== Ayer vendimos todas esas llaves de boca extragrandes.
+0007 [Tú] | ¿Agotadas?==W== En serio...
+0008 [Gear Shop Owner] | ¡Espere, un momento! Todavía tenemos esto...==W== ¡La joya de la corona de la tienda: nuestro Kit de reparación Súper Deluxe!
+0009 [Tú] | ¿Súper Deluxe...?
+0010 [Gear Shop Owner] | ¡Así es! ¡Este kit trae todas las llaves, destornilladores y pinzas!==W== ¡Con esto, puede arreglar lo que sea!
+0011 [Gear Shop Owner] | Y, naturalmente, incluye la llave que busca.==W== Es el último que queda en existencias, así que le doy un trato especial: 200,000 Dorra.
+0012 [Tú] | Vaya, ni hablar. Es muchísimo. Solo necesito una llave, no un kit completo.
+0013 [Tú] | Olvídelo. Probaré en otra tienda.
+0014 [???] | Perdone la intromisión, ==SEX17==. ¿Un momento?
+0015 [Tú] | ¿Eh? ¿Me habla a mí?
+0016 [Otoha] | Si no me equivoco, necesita esa llave para dar mantenimiento a un Artefacto automóvil, ¿correcto?
+0017 [Tú] | ¿¡Otoha!? ¿Qué hace ella aquí?
+0018 [Tú] | Como sea. Mejor seguirle el juego. Seguro tiene otro «plan secreto».
+0019 [Tú] | Así es. El auto de nuestro gremio ha estado fallando.
+0020 [Otoha] | Ya veo.==W== En ese caso, este kit es en realidad bastante apropiado.
+0021 [Otoha] | Contiene no solo herramientas, sino también medidores y un Artefacto de iluminación para la cabeza. Esencial para trabajar bajo el chasis.
+0022 [Otoha] | Sin embargo...==W== El color de la caja de herramientas es bastante llamativo y el acabado está muy rayado.
+0023 [Otoha] | Apenas digno de un obsequio.
+0024 [Tú] | ¿Un obsequio?
+0025 [Otoha] | Casualmente estoy investigando autos en este momento.==W== Admito que me intriga bastante el vehículo de su gremio.==W== Si no le molesta, ¿puedo acompañarle para echarle un vistazo?
+0026 [Otoha] | Permítame comprarle este juego de herramientas. Considérelo ...==W== un regalo de mi parte.
+0027 [Tú] | Oh, no debería.==W== Solo venga de visita. No hace falta un regalo de 200,000 Dorra...
+0028 [Gear Shop Owner] | ¿Investigando...?==W== ¿Autos...?==W== Espere, ¿será que...?
+0029 [Gear Shop Owner] | ¡Usted es esa legendaria genio de la mecánica de la que todos hablan, ¿verdad?!
+0030 [Tú] | ¿Legendaria ...==W== mecánica?!
+0031 [Gear Shop Owner] | ¿No se ha enterado?==W== Es una maga de las reparaciones, claro, pero también gasta una fortuna coleccionando cada nuevo aparato del mercado. Nunca regatea por lo que busca.
+0032 [Gear Shop Owner] | ¡En el mundo de las reparaciones es una absoluta leyenda!
+0033 [Otoha] | Jeje, me halaga.
+0034 [Gear Shop Owner] | Oí que solo compra en boutiques de lujo. ¿Qué la trae hoy a un mercado común?
+0035 [Otoha] | De vez en cuando, el mercado ofrece las sorpresas más deliciosas. ¿No le parece,==W== ==SEX17==?
+0036 [Tú] | S-sí...
+0037 [Otoha] | Por favor, envuélvamelo.==W== Aquí está el pago.
+0038 [Gear Shop Owner] | ¡No hace falta! ¡Por favor, llévese el juego de herramientas por la casa!==W== Siempre he admirado su trabajo. Considérelo una muestra de mi respeto.
+0039 [Otoha] | Agradezco el gesto, pero insisto en pagar. No podría permitir que opere a pérdida.
+0040 [Gear Shop Owner] | Por favor, no lo mencione. Ese kit llevaba una eternidad juntando polvo en el inventario. Tenía un precio tan alto que no sabía cuándo lo vendería.
+0041 [Gear Shop Owner] | Además, el negocio ha estado en auge últimamente. He ganado bastante, así que considérelo buen karma.
+0042 [Tú] | Así que solo intentaba endosarme mercancía estancada...==W== Llamarlo su «joya de la corona». Labia de ventas muy hábil.
+0043 [Otoha] | ¿El negocio ha mejorado últimamente?
+0044 [Gear Shop Owner] | Sí. Oleadas de Trekkers entrando, todos desesperados por kits de reparación. Dicen que sus armas se rompieron o algo así.
+0045 [Gear Shop Owner] | ¿Habrá problemas afuera de la ciudad?
+0046 [Tú] | Ni idea...
+0047 [Tú] | ¿Otra incursión importante? ¿Conflictos entre gremios?==W== Si las cosas estuvieran tan mal, ya habríamos oído rumores.
+0048 [Otoha] | ¿Qué compran principalmente?
+0049 [Gear Shop Owner] | Quitaóxido, tornillos, pernos...==W== Suministros estándar.
+0050 [Otoha] | Mmm...
+0051 [Otoha] | Sabe, el otro día alguien me propuso esta idea de un «seguro». Decían que cubren el costo total si cualquier equipo costoso se rompe.
+0052 [Otoha] | ¿También intentaron vendérselo a usted?
+0053 [Gear Shop Owner] | Lo intentaron, pero los espanté.==W== ¡Como si tuviera dinero que tirar en seguros!
+0054 [Gear Shop Owner] | Una total pérdida de tiempo, si me lo pregunta.==W== Oí que también molestaron a un montón de Trekkers, pero nadie compra esa basura.
+0055 [Tú] | Ahora que lo pienso, un agente también se acercó a Iris, pero ella lo rechazó de plano.
+0056 [Tú] | Pero ¿por qué mencionas el seguro ahora, Otoha?
+0057 [Otoha] | Jeje, buen punto.
+0058 [Otoha] | Bueno, gracias de nuevo por el regalo. No olvidaré el favor.
+0059 [Tú] | Igualmente. ¡Gracias!
+0060 [Narración] | Saco a Otoha del caos del mercado hasta el tranquilo parque, por fin recuperando el aliento.
+0061 [Otoha] | Muy bien, Jefe, ya puedes relajarte.==W== Fue todo un espectáculo improvisado.
+0062 [Tú] | Lo tomaré como un cumplido...
+0063 [Tú] | La próxima vez que quieras hacer teatro, ¿podrías avisarme antes?
+0064 [Otoha] | ¿Dónde estaría la diversión? Solo entretiene cuando nunca lo ves venir.
+0065 [Tú] | Aun así, ¿«genio de la mecánica»? No tenía idea de que tuvieras tal reputación.
+0066 [Otoha] | Bueno, mis necesidades de materiales y herramientas son un poco más específicas que las de los Trekkers comunes.
+0067 [Otoha] | Armamento nuevo del Monolito, chatarra de vendedores callejeros... Todo merece una mirada más atenta.
+0068 [Otoha] | Simplemente compré algunas piezas extra e intercambié consejos con los comerciantes. Sinceramente, me halagan con un título tan grandioso.
+0069 [Tú] | No suena muy humilde al respecto...
+0070 [Tú] | En fin, gracias por el juego de herramientas. Noya va a estar encantada.
+0071 [Tú] | Entonces, ¿me necesitabas para algo en específico?
+0072 [Otoha] | ¿Y si te dijera==W== que todo fue una feliz casualidad?
+0073 [Tú] | ¿Segura?
+0074 [Otoha] | ...
+0075 [Otoha] | Esos ojos honestos tuyos... Haces imposible mentir, Jefe.
+0076 [Otoha] | Estoy investigando algo. Y da la casualidad de que también podría concernirte.
+0077 [Tú] | Eso no suena bien...
+0078 [Otoha] | Por eso esperaba que me echaras una mano.
+0079 [Tú] | No estoy hecho precisamente para el trabajo pesado...==W== Pero haré lo que pueda. Considéralo el pago por las herramientas.
+0080 [Otoha] | Gracias por el voto de confianza, Jefe.
+0081 [Otoha] | Por ahora sígueme el ritmo.==W== Te prometo que será una experiencia esclarecedora.
+0082 [Tú] | Suspiro...==W== Adiós a mi relajante día libre.

@@ -1,0 +1,156 @@
+# Capítulo 5 · Una chispa en la oscuridad · 4 · Atar cabos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Mandrake Radiant Grass | Hierba Radiante Mandrágora
+N:Proactive Team Leader | Líder de equipo proactivo
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg1_156 | Nazuna
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_134 | Mina
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Atar cabos
+0003 [Intro] | Tras un par de días reuniendo pistas, Mistique deduce que estás investigando la deuda del orfanato. La información de un soplo anónimo revela que la receta también está relacionada con el orfanato.
+0004 [???] | Una investigación sobre el Ruiseñor Dorado... Hay gente que de verdad tiene demasiado tiempo libre, armando este alboroto en un momento como este.
+0005 [???] | Ya les advertí, pero dudo que se echen para atrás tan fácilmente.
+0006 [???] | Esto es un problema. Espero que no interfiera con nuestros planes.
+0007 [???] | Je, con el Tirano metido en esto, seguro lo va a echar todo a perder.
+0008 [???] | Aun así, no hay que preocuparse demasiado; quizá hasta terminen ayudándonos.
+0009 [Lugar y hora] | 22:00, 31.º del mes de Tonitrua, Distrito Invernadero de Philae, almacén de Cosecha Unida
+0010 [Mina] | Buen trabajo hoy, todos.==W== Con esto termina el primer día. ¿Cómo se sienten?
+0011 [Fuyuka] | La investigación es mucho más difícil de lo que pensaba==W==...==W== Perdón por ser una carga para todos.
+0012 [Noya] | ¿Eh? ¿Se supone que el círculo mágico brille así? Algo se siente... raro.
+0013 [Fuyuka] | ¡Eso definitivamente no es normal! ¡Y la alarma es ensordecedora!
+0014 [Noya] | Jeje,==W== lo intentamos unas cuantas veces más,==W== y desde entonces el flujo de magia ha ido sobre ruedas.
+0015 [Amber] | Tantos gritos...==W== Fue aterrador==W==...
+0016 [Proactive Team Leader] | ¡Oye, becaria! ¿Por qué tan callada?==W== ¡Esto es un mitin motivacional! ¡Sin pena, grita con el equipo! ¡Suéltalo! ¡Que te oiga! ¡Vamos, a la cuenta...!
+0017 [Proactive Team Leader] | Subamos... el rendimiento...
+0018 [Amber] | ......
+0019 [Proactive Team Leader] | ¡No te oigo! ¡Desde el principio! A mi cuenta: tres, dos, uno, ¡GRITEN!
+0020 [Iris] | No te preocupes,==W== Amber.==W== Le pregunté a una superior de Marketing. Estos mitines no son diarios.==W== Solo hay que hacerlos dos veces por semana==W==.
+0021 [Amber] | ¿¡Dos veces...==W== por semana?!==W==!==W==!==W==!
+0022 [Mistique] | El Departamento de Producción fue de lo más interesante.==W== Presenciamos todo un espectáculo.
+0023 [Ruby] | ¡Gatito que rueda, que salta y que juega!==W== ¡Estira tu cuerpo==W== y arriba, a volar!
+0024 [Ruby] | ¡Sueña en grande, sin temor! ¡Los gatitos chiquitos se quedan, qué horror! ¡Pero el arbolito verde un día al cielo llegará!
+0025 [Mandrake Radiant Grass] | ¡Jiiiii... ya...!
+0026 [Noya] | ¿Hierba Radiante Mandrágora?==W== ¡En I+D me contaron de eso!==W== ¡No puedo creer que me ganaran==W== y vieran primero la de verdad!
+0027 [Tú] | Esas plantas son peligrosas.==W== No se puede razonar con ellas,==W== así que todo se tuerce en cuanto bajas la guardia.
+0028 [Tú] | Si Firenze no hubiera intervenido...
+0029 [Mina] | ¿Lady Firenze de verdad bajó a Producción?==W== ¿Y? ¿Su aura era totalmente abrumadora?
+0030 [Firenze] | Sapphire, Ruby. ¿Esto es lo que hoy en día se considera «gestión» en Producción?
+0031 [Tú] | Fue intimidante.==W== La verdad, trabajar bajo su mirada se sintió el doble de agotador.
+0032 [Mina] | Ah,==W== jaja, ¡no te preocupes!==W== Lady Firenze está saturada.==W== Casi nunca se para por Producción.
+0033 [Mina] | Si tienen preguntas sobre el trabajo, pregúntenles a Ruby o a Sapphire.==W== Las dos son muy amables.
+0034 [Tú] | Casi nunca se aparece por ahí...==W== ¿Entonces vino hoy justamente porque nosotros empezábamos?
+0035 [Mistique] | En fin,==W== sobrevivimos al primer día. Juntemos nuestra información.
+0036 [Mistique] | Quiero saber todo lo que pasó hoy.==W== Hasta. El. Último. Detalle.
+0037 [Noya] | ¡Yo primero, yo primero!==W== Bueno, pues esta mañana==W== en I+D...
+0038 [Fuyuka] | Paso uno:==W== saludar a la gente del laboratorio con un «buenos días».
+0039 [Fuyuka] | Eh,==W== pero normalmente están en grupo...==W== ¿Quizá==W== «buenos días a todos»?
+0040 [Fuyuka] | En cuanto a mi expresión...==W== Eh,==W== una sonrisa sencilla funciona, ¿no?
+0041 [Fuyuka] | Una sonrisa enorme como la de Noya sería mejor,==W== pero...==W== No, eso es demasiado,==W== demasiado difícil.
+0042 [Fuyuka] | Después del saludo,==W== pasar a lo importante.==W== Algo como==W==...==W== «¡Los mercenarios de Cosecha Unida son geniales!==W== ¿Qué armas usan?».==W== No,==W== espera.==W== ¿Muy forzado?
+0043 [Noya] | ¡Buenos días, Fuyuka!
+0044 [Fuyuka] | ¡Gah...!==W== N-==W==Noya...
+0045 [Noya] | Nazuna tenía razón.==W== Si Fuyuka desaparece,==W== hay que buscar en las esquinas de los pasillos un hongo blanco que murmura.
+0046 [Noya] | ¡Qué suerte!==W== ¡Te encontré al segundo intento!
+0047 [Fuyuka] | Nazuna senpai...==W== me conoce demasiado bien.
+0048 [Noya] | En fin, ¿no íbamos a salir ya?
+0049 [Fuyuka] | Eh...==W== C-cierto.==W== E-es que... necesitaba un lugar donde n-nadie me viera para, eh,==W== prepararme mentalmente para los saludos...
+0050 [Noya] | Si te sigues «preparando», no va a quedar nadie a quien saludar.==W== Porque...
+0051 [Noya] | ¡Vamos a llegar tarde!
+0052 [Fuyuka] | ¡¿Qué?!
+0053 [Noya] | ¡Jeje!==W== ¡Te echo una carrera!
+0054 [Fuyuka] | ¡N-Noya!==W== ¡No tienes que contarles esa parte a todos!
+0055 [Noya] | Mistique dijo==W== que quería hasta el último detalle.
+0056 [Mistique] | ¡Así es!==W== Justo ese nivel de detalle es el que necesito.
+0057 [Mistique] | Jiji,==W== una pista del Ruiseñor Dorado podría estar escondida en cualquier parte.
+0058 [Tú] | ¿De verdad el Ruiseñor Dorado==W== es lo único que busca Mistique?==W== Tengo la sensación de que tiene otros planes...
+0059 [Mistique] | Para ahorrar tiempo, Amber, tú encárgate de la información del Departamento de Marketing.==W== Mándame por mensaje lo que encontraron Iris y tú;==W== yo lo voy procesando mientras escucho a Noya y Fuyuka.
+0060 [Tú] | ¿Puedes manejar dos fuentes de información==W== al mismo tiempo?
+0061 [Mistique] | No dos: tres.==W== Al mismo tiempo voy a redactar el artículo sobre el Departamento de Producción.
+0062 [Mina] | Voy a preparar algo de botana para la noche.==W== ¡Manos a la obra!
+0063 [Narración] | Unas horas después...
+0064 [Lugar y hora] | 1:30, 1.º del mes de Calor, Distrito Invernadero de Philae, almacén de Cosecha Unida
+0065 [Fuyuka] | Estoy agotada==W==...==W== Creo que esta noche gasté todas las palabras que me tocaban en el año.
+0066 [Noya] | Es la primera vez que hablo hasta que se me cansa la mandíbula.==W== En serio, Mistique, ¿tenías que ser tan minuciosa?
+0067 [Amber] | Me duelen==W== un poco los dedos.
+0068 [Mistique] | ¡Jiji! ¡Primer día y ya tenemos cien páginas de notas!==W== ¡Definitivamente nos estamos acercando poco a poco a la verdad del Ruiseñor Dorado!
+0069 [Tú] | ¿Tanto escarbar... y solo nos estamos acercando «poco a poco»?==W== Revisar cien páginas va a tomar una eternidad...
+0070 [Mina] | Excelente trabajo, todos.==W== Miren la hora.==W== Yo me encargo de organizar. Vayan a descansar.
+0071 [Mistique] | No, no, no.==W== Tú también vas a descansar, Mina.==W== ==PLAYER_NAME== y yo nos encargamos.
+0072 [Tú] | ¿Eh? ¡¿Desde cuándo me ofrecí?!
+0073 [Mina] | Pero==W== yo fui la que los contrató...
+0074 [Mistique] | Nada de «peros».==W== Mañana tienes que coordinar entre departamentos. No puedes hacerlo sin dormir.
+0075 [Mistique] | Además, ==PLAYER_NAME== y yo podemos poner a la Hierba Radiante a ayudarnos con el trabajo pesado en Producción. ¡No te preocupes!
+0076 [Mina] | B-bueno. No se esfuercen demasiado.==W== De todos modos, no vamos a descubrirlo todo en un día. Ya me voy.
+0077 [Fuyuka] | Buenas noches, Maestro.
+0078 [Iris] | Nosotras ya nos vamos a dormir.==W== Regresen pronto y, por favor, no trabajen de más.
+0079 [Mistique] | Jeje.==W== Vaya, mira nada más, Jefe.==W== Ahora solo quedamos nosotros dos en el almacén.
+0080 [Tú] | Si querías hablar en privado,==W== ¿por qué obligaste a todos a hacer tiempo durante horas hasta que Mina se fuera?==W== Podrías haberme llevado afuera.
+0081 [Mistique] | Ay, relájate. Esperar a que se fuera era parte del plan, sí.==W== Pero de verdad quería estos registros.==W== Hay una verdad deliciosa escondida en estas páginas.
+0082 [Tú] | ¿Como cuál?
+0083 [Mistique] | Como que no aceptaste el encargo de Mina por el dinero.==W== Lo aceptaste para infiltrarte en Cosecha Unida y encontrar a alguien, ¿verdad?
+0084 [Mistique] | Y ese alguien...==W== Déjame adivinar.==W== La culpable que metió a la fuerza el Jardín Parásito en el campamento de Trekkers...
+0085 [Mistique] | Lady Gray.
+0086 [Tú] | ¿Y tu prueba?
+0087 [Mistique] | La prueba está aquí mismo en los registros.==W== ¿Recuerdas lo que dijo Fuyuka hace rato?
+0088 [Fuyuka] | Después del saludo,==W== pasar a lo importante.==W== Algo como==W==...==W== «¡Los mercenarios de Cosecha Unida son geniales!==W== ¿Qué armas usan?».==W== No,==W== espera.==W== ¿Muy forzado?
+0089 [Mistique] | ¿Por qué preguntar por los mercenarios si están investigando el Ruiseñor Dorado?==W== Son las tropas de Lady Gray, ¿no?
+0090 [Mistique] | Eres buena persona, Jefe.==W== Pero dudo que tu sentido de la justicia sea tan fuerte como para infiltrarte en Cosecha Unida solo para atraparla.==W== Eso les toca a los Trekkers de Philae.
+0091 [Mistique] | Y entonces caí en la cuenta.==W== Cuando nos conocimos, hablamos de orfanatos, ¿no?
+0092 [Mistique] | Algo tan trivial como «adónde se fue el orfanato». La gente de Flavio puede averiguarlo en minutos.
+0093 [Mistique] | Así que la verdad es obvia.==W== Lady Gray... o mejor dicho,==W== Cosecha Unida, está relacionada con el orfanato.
+0094 [Opción] | Aplaudir
+0095 [Tú] | Nada mal. Justo lo que esperaba de la bruja estrella de Flavio.==W== Lo armaste todo a partir de migajas.==W== Tienes razón. Eso fue parte de por qué aceptamos el encargo.
+0096 [Tú] | Pero==W== ¿no crees que es peligroso hurgar así en los secretos de la gente?
+0097 [Mistique] | Claro que sí.==W== Pero no puedo evitarlo.==W== Los secretos que escondes tienen un aroma tan tentador==W== que es un riesgo que estoy dispuesta a correr.
+0098 [Mistique] | Después de todo,==W== las brujas «nos alimentamos de la verdad».
+0099 [Mistique] | Además, no me voy a quedar con tus secretos gratis.==W== Te los cambio por mi información exclusiva sobre el orfanato.
+0100 [Mistique] | Ahora estamos «colaborando»,==W== ¿no?
+0101 [Tú] | Entendido.==W== Dame un segundo.
+0102 [Tú] | ¿Amber? Perdón por la espera. Ya pueden volver.
+0103 [Amber] | Llegando.
+0104 [Mistique] | Ay, no~==W== ¿Oyeron todo?
+0105 [Amber] | El Jefe me mandó un mensaje==W== antes de que saliéramos.==W== Dijo que la bruja tenía algo más que decir.
+0106 [Mistique] | Vaya, vaya.==W== ¿Tan desesperada estaba por soltar la sopa?==W== Resulta que todo este tiempo yo era la presa del Jefe★
+0107 [Mistique] | Bueno, entonces,==W== deléitense con esto.==W== Información exclusiva y fresquecita, recién salida de la imprenta.
+0108 [???] | Cosecha Unida no inventó el Ruiseñor Leonado.
+0109 [???] | Hace dos años, Firenze se llevó la receta del pan de un orfanato del Distrito de las Cenizas de Emor.
+0110 [???] | Cosecha Unida es peligrosa.
+0111 [???] | Sal de ahí. Ya.
+0112 [Mistique] | ¿Quién eres?
+0113 [Narración] | Conexión de Heartlink no establecida. No se pudo enviar el mensaje.
+0114 [Fuyuka] | La receta==W==...
+0115 [Noya] | ¡¿Se la quitaron a un orfanato==W==?!
+0116 [Iris] | El orfanato del Distrito de las Cenizas==W==...
+0117 [Amber] | ¡Solo hay uno==W==!
+0118 [Mistique] | Esta noche, de vuelta en el almacén,==W== recibí una solicitud de amistad de un usuario anónimo.
+0119 [Mistique] | Los contactos de Heartlink se agregan juntando los teléfonos,==W== y no había revisado el mío desde que salí en la mañana.
+0120 [Mistique] | Lo que significa que==W== este «Usuario anónimo» juntó su teléfono con el mío hoy sin que me diera cuenta.==W== Me mandó la solicitud,==W== soltó la información y luego me eliminó al instante.
+0121 [Mistique] | Como bruja, he tenido mi buena dosis de informantes secretos.==W== Pero este es el trabajo más limpio que he visto. No sentí nada, y tampoco se puede rastrear nada.==W== Sea quien sea, es una profesional.
+0122 [Tú] | Los únicos que pudieron acercarse lo suficiente para juntar su teléfono con el de Mistique hoy...==W== son los que conocimos en persona.
+0123 [Tú] | Esperen.==W== Olvídense del remitente un momento. Miren la cronología que acabamos de descubrir...==W== Encaja demasiado bien.
+0124 [Tú] | El orfanato, Cosecha Unida,==W== Joseph en I+D,==W== Nyx en Marketing,==W== nuestra entrevistadora Firenze,==W== la directora ejecutiva Darcia,==W== y Lady Gray en las sombras.
+0125 [Tú] | Ya entiendo.==W== El Ruiseñor Leonado y el Ruiseñor Dorado... Lo conectan todo.
+0126 [Tú] | Todos,==W== escuchen. El encargo de Mina, el paradero de Lady Gray, el destino del orfanato...==W== No son tres misterios separados.
+0127 [Tú] | Son un solo caso, todo conectado.==W==

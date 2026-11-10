@@ -1,0 +1,120 @@
+# Nova Times #17 · El tesoro más preciado · 2 · The Most Precious Treasure (Part Ⅱ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Treasure Hunter | Cazatesoros arrogante
+N:Serious Treasure Hunter | Cazatesoros serio
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg2_984 | Soldado Trekker
+N:avg3_138 | Trekker
+N:avg3_211 | Líder de los cazatesoros
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El tesoro más preciado (Parte Ⅱ)
+0003 [Intro] | ¿Teresa se une a los cazatesoros? Sigues su rastro. ¿A dónde llevan las marcas del bosque?
+0004 [Teresa] | ¡Descubrí el secreto del mapa!
+0005 [Arrogant Treasure Hunter] | ¡¿Imposible?! ¡¿Ya?! ¡Estudiamos el mapa más de diez días y no sacamos nada!
+0006 [Treasure Hunter Leader] | ¡Increíble! ¡Sabía que tenía razón contigo!
+0007 [Serious Treasure Hunter] | ¡Vamos, dínoslo! ¿Cuál es el secreto?
+0008 [Teresa] | ¿Alguien me puede traer un vaso de agua? Es más fácil mostrárselos...
+0009 [Treasure Hunter Leader] | ¿Agua? ¿Para qué?
+0010 [Teresa] | ¡Así, miau!
+0011 [Serious Treasure Hunter] | ¡Oye! ¡¿Qué haces?! ¡Ese mapa nos costó una fortuna!
+0012 [Teresa] | ¡Relájense! Ahora, sosténganlo sobre el fuego y lo revelará todo.
+0013 [Narración] | Teresa sostiene el mapa mojado sobre el fuego. Al calentarse, aparecen nuevos patrones sobre el pergamino en blanco.
+0014 [Treasure Hunter Leader] | ¡Whoa, ¿qué?! ¡¿Esto estuvo oculto todo este tiempo?!
+0015 [Teresa] | Mi papá me contó que antes la gente escondía marcas secretas de esta manera.
+0016 [Treasure Hunter Leader] | ¡Con razón nadie lo encontró! ¡Es un truco muy ingenioso!==W== ¡Eres increíble, chica repartidora!
+0017 [Teresa] | ¡Oye, no soy «chica repartidora»! ¡Me llamo Teresa, miau!
+0018 [Treasure Hunter Leader] | Teresa...==W== Qué nombre tan bonito.
+0019 [Treasure Hunter Leader] | ¡Está decidido! ¡Teresa, te unes a la cacería! ¡Y recibirás tu parte cuando lo encontremos!
+0020 [Teresa] | ¿Eh...? ¿En serio? Pero es su mapa.
+0021 [Treasure Hunter Leader] | ¡Los cazatesoros nos apoyamos entre nosotros! Tú descifraste el código. Eso es un gran logro. ¡Te ganaste tu lugar!
+0022 [Teresa] | ¡Yupi, gracias! Últimamente ando corta de Dorras, así que esto me ayuda un montón, miau!
+0023 [Teresa] | ¡Esto es perfecto, miau! ¡Nuestra meta de 1.2 millones de Dorras por fin se va a cumplir, miau! ¡Espérenme, Donna! ¡Freesia!
+0024 [Donna] | ¡Achú!
+0025 [Freesia] | Toma, Donna. Ponte mi abrigo antes de que te congeles.
+0026 [Donna] | ¡Estoy bien! Solo fue un estornudo. Quizá Teresa esté hablando de mí en algún lado...
+0027 [Donna] | ... Aunque probablemente sigue enojada conmigo. Jajaja...
+0028 [Noya] | Espera... ¿De verdad es la primera vez que pelean ustedes dos?
+0029 [Donna] | Sí. Teresa casi nunca pierde los estribos... Y esta es definitivamente la primera vez que se va así.
+0030 [Freesia] | No te desmorones, Donna. Ni siquiera se han visto desde la discusión. Cuando se sienten a hablar, lo resolverán.
+0031 [Iris] | Estoy de acuerdo. Las amigas discuten todo el tiempo. Es completamente normal. ¡Seguro que se reconcilian!
+0032 [Amber] | ¡De acuerdo!
+0033 [Noya] | ¿Tanto tiempo sin una sola pelea? ¡Ustedes dos sí que son cercanas! ♪
+0034 [Noya] | Jeje, no como yo. Siempre vuelvo loca a Iris.==W== Qué bueno que es tan indulgente y siempre me deja salir bien librada.
+0035 [Iris] | Endulzarme el oído no te va a llevar a nada, ¿sabes?...
+0036 [Iris] | Pero tiene razón... Una tormenta despeja el ambiente. A veces una buena pelea es justo lo que necesitan para entenderse mejor.
+0037 [Donna] | Despeja el ambiente...
+0038 [Donna] | ... Sí, tienen razón. ¡Gracias a todas!
+0039 [Donna] | ¡Muy bien! ¡Vamos a encontrar a Teresa pase lo que pase! ¡Primero me disculparé y luego pondré todos mis sentimientos sobre la mesa!
+0040 [Noya] | ¡Jaja, ese es el espíritu! ¡Aceleremos el paso y sigamos buscando!
+0041 [Amber] | Oh. ¿Qué es esto? ¿Una marca?
+0042 [Donna] | ¡Esa forma...! ¡Apuesto lo que sea a que Teresa dejó esta marca!
+0043 [Teresa] | ¡Cuidado, todos!
+0044 [Serious Treasure Hunter] | ¡Guau...! ¡¿Esa liana es enorme?!
+0045 [Teresa] | ¡Al suelo!
+0046 [Arrogant Treasure Hunter] | ¡Ay! ¡¿Flechas desde los arbustos?! ¡¿Por qué hay tantas trampas aquí?!
+0047 [Teresa] | Este camino también es peligroso. Mejor dejo una marca...
+0048 [Treasure Hunter Leader] | ¡Je je je! ¿Ya se cansaron? Yo voy adelante. Ustedes quédense atrás y relájense...
+0049 [Teresa] | ¡¿?! ¡Cuidado!
+0050 [Treasure Hunter Leader] | ¡Agh...!
+0051 [Treasure Hunter Leader] | Ay... ¡Esa roca es enorme! Casi me aplasta...==W== ¡Me salvaste la vida, Teresa!
+0052 [Teresa] | N-no hay de qué... Seguro hay más trampas por aquí. Todos, cuidado dónde pisan.
+0053 [Treasure Hunter Leader] | Entendido...==W== Tu instinto es increíble, Teresa. ¿Eres psíquica o algo así?
+0054 [Teresa] | Siempre atravieso lugares peligrosos en mis rutas de correo. He desarrollado un don para detectarlos, ¡miau!
+0055 [Teresa] | Además, el peligro suele significar que hay algo escondido cerca...
+0056 [Teresa] | ¡Tachán! ¡Sabía que encontraría un tesoro, miau!
+0057 [Treasure Hunter Leader] | ¿Tesoro? Eso es un pedazo de chatarra roto. Nadie lo compraría ni regalado.
+0058 [Teresa] | ¿Ah, sí? ¡Pues lo que se encuentra, se queda! ¡Quizá pueda arreglarlo y darle uso!
+0059 [Treasure Hunter Leader] | ¡Espera! ¡Tienes la rodilla raspada! ¿Estás bien? ¿No te duele?
+0060 [Teresa] | ¡Oh, oye, tienes razón! ¡Ni cuenta me había dado, miau! ¡Gracias!
+0061 [Teresa] | Eh, vendas, vendas...==W== ¿Dónde las puse?
+0062 [Treasure Hunter Leader] | En serio... No sé si es un genio cazatesoros o una torpe de remate...
+0063 [Amber] | Otra marca. En el tronco.
+0064 [Noya] | Una marca de espina de pescado. Definitivamente es el estilo de Teresa. ¿Qué se supone que significa?
+0065 [Donna] | Eso me suena...==W== Creo que significa Peligro adelante o No hay vuelta atrás...
+0066 [Donna] | Eso no suena nada bien...
+0067 [Freesia] | Todos, hay una fogata junto a la marca. Todavía está tibia. Creo que tenemos compañía.
+0068 [Iris] | Lo que significa que Teresa podría haberse topado con quien la encendió...
+0069 [Freesia] | Veo varios juegos de huellas. Es un grupo.
+0070 [Iris] | Una marca de advertencia justo junto a las huellas de un grupo...==W== ¿Estarán relacionados?
+0071 [Noya] | Teresa debe estar en problemas. Es una señal de auxilio.
+0072 [Freesia] | Odiaría suponer lo peor, pero ... tiene sentido.
+0073 [Donna] | ... ¡Teresa!
+0074 [Donna] | La cabeza del pescado apunta hacia una trampa. Debió dejarla para advertir a quien pasara.
+0075 [Donna] | ¡Debe estar cerca! ¡Vamos!
+0076 [Serious Treasure Hunter] | ¡Guau...! ¡Nunca había estado en un lugar así!
+0077 [Treasure Hunter Leader] | ¡El tesoro prácticamente es nuestro! Ustedes, revisen esa entrada. El terreno es accidentado, ¡así que cuidado dónde pisan!
+0078 [Teresa] | Upa ... hop. ¡Y listo!
+0079 [Treasure Hunter Leader] | Oye, Teresa. ¿Dibujando otra marca?
+0080 [Teresa] | ¡Por si acaso!
+0081 [Treasure Hunter Leader] | Ya pusiste varias de esas allá atrás, ¿no?
+0082 [Teresa] | ¡Son distintas, miau! ¡La última era una advertencia de trampa! ¡Esta significa Caída empinada adelante, miau!
+0083 [Treasure Hunter Leader] | Je, qué profesional. Traerte con nosotros definitivamente fue la decisión correcta.
+0084 [Teresa] | ¡Ehehe, me vas a hacer sonrojar, miau! ♪
+0085 [Treasure Hunter Leader] | Teresa. ¿Has pensado en quedarte con nosotros para futuras expediciones?
+0086 [Teresa] | Si alguna vez andan por Puerto Bellin, no me importaría echarles una mano.
+0087 [Treasure Hunter Leader] | ¡Oh, vamos! ¡No hablo de trabajitos! ¡Te estoy pidiendo formalmente que te unas a la banda!
+0088 [Teresa] | ¿Unirme ... a la banda...?
+0089 [Treasure Hunter Leader] | ¡Entre tu experiencia en el campo y nuestra información, seríamos fácilmente la mejor banda cazatesoros del Continente de Nova!
+0090 [Teresa] | ¡Espera, un momento! ¡No puedes decidir eso por mí! Yo solo vine aquí por...
+0091 [Treasure Hunter Leader] | Por las Dorras, ¿verdad? Créeme, lo recuerdo.
+0092 [Teresa] | ¡Urk!
+0093 [Treasure Hunter Leader] | ¡Los cazatesoros nos apoyamos entre nosotros! Tú descifraste el código. Eso es un gran logro. ¡Te ganaste tu lugar!
+0094 [Teresa] | ¡Yupi, gracias! Últimamente ando corta de Dorras, así que esto me ayuda un montón, miau!
+0095 [Teresa] | No... ¡Eso no es cierto...!==W== Lo hago por...
+0096 [Treasure Hunter Leader] | Mira, sé que te lo suelto de la nada. Pero únete a nosotros y te garantizo una buena parte de Dorras. Mucho más de lo que ganarías repartiendo cartas.
+0097 [Arrogant Treasure Hunter] | ¡Capitana! ¡Encontramos la entrada a la cueva subterránea!
+0098 [Treasure Hunter Leader] | ¡Buen trabajo! ¡Vamos para allá!
+0099 [Treasure Hunter Leader] | No hace falta que respondas con prisa, Teresa. Hablemos después de conseguir el tesoro ♪
+0100 [Teresa] | Ah...
+0101 [Teresa] | Donna...

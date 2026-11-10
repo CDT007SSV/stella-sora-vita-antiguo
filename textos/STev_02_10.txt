@@ -1,0 +1,104 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 10 · A Dangerous "Game"
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Stellaroid | Stellaroid
+N:avg1_115 | Firefly
+N:avg1_1196 | Stellaroid
+N:avg1_1197 | Stellaroid
+N:avg1_1198 | Stellaroid
+N:avg1_158 | Laru
+N:avg2_953 | Delirio del Horno
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | Un «juego» peligroso
+0003 [Intro] | Para cumplir el deseo, tú y Laru llevan al Monolito a la misteriosa niña, Firefly, solo para descubrir que su fuerza es extraordinaria... Comienza un «juego» algo descabellado.
+0004 [???] | Eh...==W== Señorita Espíritu... tengo un deseo...
+0005 [Laru] | ¿Un deseo? Mmm...==W== Bien... Ya veo.
+0006 [Laru] | Puedo hacerlo realidad, pero antes,==W== necesito conocerte un poco mejor.
+0007 [Laru] | ¿Puedes...==W== responder primero unas preguntas?
+0008 [???] | Está bien.
+0009 [Laru] | ¿Cómo te llamas?
+0010 [Firefly] | Firefly.
+0011 [Laru] | Pequeña Firefly... ¡Qué nombre tan lindo!
+0012 [Laru] | Dime, pequeña Firefly, ¿te cae bien la amable señorita Espíritu?
+0013 [Tú] | ¡¿Qué... qué clase de pregunta es esa?!
+0014 [Laru] | Eh... Solo intento actuar como la señorita Bruja...
+0015 [Firefly] | ¿Amable... señorita Espíritu...? No entiendo...
+0016 [Laru] | Ja, ja... ¡Cierto, perdón!==W== ¡Siguiente pregunta! ¿De dónde vienes?
+0017 [Firefly] | De la casa de mi profesora...
+0018 [Laru] | ¡Ah, tu profesora! Bien...==W== ¿Ya recibiste el regalo del Imperio de la Gracia?
+0019 [Firefly] | Sí.
+0020 [Laru] | Ya veo...==W== Entonces tu deseo no tiene que ver con regalos, ¿verdad?
+0021 [Firefly] | No.
+0022 [Laru] | Bien... Entonces, ¿cuál es tu deseo?
+0023 [Firefly] | Deseo...==W== un amigo con quien jugar.
+0024 [Laru] | ¡¿Eh?!
+0025 [Firefly] | ... ¿Estoy pidiendo demasiado, señorita Espíritu?
+0026 [Laru] | ¡Para nada! Solo me pregunto: ¿por qué no tendrías amigos con quienes jugar?
+0027 [Firefly] | No sé...
+0028 [Laru] | Debes de sentirte... sola, ¿verdad?
+0029 [Firefly] | Un poco... aburrida.
+0030 [Laru] | Eh...
+0031 [Laru] | ¡Muy bien! ¡Entonces yo, el Espíritu del Árbol Nevado, te haré compañía!
+0032 [Firefly] | ¿En serio? ¡Yupi!
+0033 [Laru] | ¿Qué quieres hacer, pequeña Firefly?
+0034 [Firefly] | Quiero... ir al Monolito.
+0035 [Laru] | ¿Eh? ¡¿P-por qué?!
+0036 [Tú] | ¿Quieres ir al Monolito...==W== a pedir algún deseo?
+0037 [Firefly] | No, quiero...==W== jugar ahí.
+0038 [Firefly] | Mi profesora... No me deja ir sola...==W== Pero si ustedes pueden ir conmigo...
+0039 [Laru] | Jugar en el Monolito...==W== Bueno, supongo que entre más prohibido es un lugar, más tentador resulta... ¿Qué tal si...?
+0040 [Tú] | ... ¡Pero el Monolito es demasiado peligroso para una niña!
+0041 [Laru] | Sí... Tienes razón...
+0042 [Firefly] | ¿Es que...==W== no se puede?
+0043 [Laru] | Pues...==W== ¡Ah!==W== Tirano, ¿podemos hablar un momento?
+0044 [Tú] | ... ¿Qué?
+0045 [Laru] | El Monolito de la ciudad lo administra el Imperio de la Gracia, así que debe de ser seguro, ¿no?
+0046 [Tú] | Tú trabajas para el Imperio de la Gracia.==W== Deberías saberlo mejor que yo.
+0047 [Laru] | No dijo que quisiera escalarlo, así que podemos llevarla a echar un vistazo... Eso no será problema, ¿verdad?==W== Sobre todo porque nosotros estaremos ahí.
+0048 [Tú] | ¿Entonces solo le mostramos la entrada?
+0049 [Laru] | ¡Sí, sí! ¡Eso debería estar bien!
+0050 [Tú] | Está bien. Hagámoslo, entonces. Debería estar...==W== bien, ¿no?
+0051 [Laru] | ¡Genial!==W== ¡Vámonos!
+0052 [Laru] | ¡Pequeña Firefly, vamos al Monolito!
+0053 [Firefly] | ¿En serio? ¡Yupiii!
+0054 [Narración] | Pensamos que podríamos convertirlo en una aventurita segura sin adentrarnos en el Monolito. Pero...
+0055 [Stellaroid] | ¡GRAWRR...!!
+0056 [Laru] | ¡¿En serio?! ¡No debería haber tantos Stellaroids aquí!
+0057 [Tú] | Quéjate después.==W== ¡Primero protege a Firefly!
+0058 [Laru] | ¡Claro!==W== Eh...==W== ¿Qué?
+0059 [Firefly] | ¡Juguemos...!
+0060 [Narración] | Firefly sale de detrás de Laru y camina directo hacia los Stellaroids, sin el menor rastro de miedo.
+0061 [Laru] | ¡FIREFLY! ¡¡REGRESA!!
+0062 [Firefly] | Ja, ja, ja—
+0063 [Stellaroid] | ¡¡GRRAAAWRRR!?
+0064 [Laru] | ¿Qué está pasando...?
+0065 [Tú] | No sé...
+0066 [Firefly] | Los Stellaroids se escapan cuando me acerco, pero cuando todos se juntan, podemos jugar con ellos.
+0067 [Stellaroid] | ¡¡GRRAAWRR!!
+0068 [Firefly] | ¿Están jugando a las escondidas?==W== Bueno, ahora yo busco. ¿Quieren jugar?
+0069 [Laru] | ¡Alto! ¡¡Es peligroso!!
+0070 [Tú] | ¿Le hablas a Firefly o a los Stellaroids...?
+0071 [Laru] | No sé qué está pasando... ¡Primero síguela!
+0072 [Firefly] | Je, je, ¡te atrapé!
+0073 [Firefly] | ¡Vamos, chicos! ¡Háganmelo más difícil!
+0074 [Firefly] | Tú corres, yo te persigo, qué divertido...
+0075 [Laru] | ... ¡Guau!
+0076 [Tú] | Uhhh...
+0077 [Laru] | Eh, Tirano...
+0078 [Tú] | ¿Sí?
+0079 [Laru] | Mmm... ¿Crees que Firefly no tiene amigos porque...?
+0080 [Tú] | Hablaremos de eso después...
+0081 [Laru] | Está bien...
+0082 [Firefly] | Ya los atrapé a todos. Qué fácil. Casi aburrido, la verdad.
+0083 [Laru] | Impresionante... Derribó a tantos Stellaroids... ella sola...
+0084 [Tú] | ¿Quién es esta niña?
+0085 [Laru] | ¡Quién sabe...! En fin, creo que deberíamos regresar. Más adelante habrá más peligro...==W== ¡Vámonos!
+0086 [Laru] | ¡Espera! ¡Algo se nos acerca!
+0087 [Tú] | Sí, yo también lo siento.
+0088 [Firefly] | ... ¡Guau! ¡Miren eso! ¡Este se ve divertido!

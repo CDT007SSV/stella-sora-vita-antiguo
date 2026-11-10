@@ -1,0 +1,7 @@
+# Nova Times #12 · Tú, en mis ojos — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_12_01 | Tú, en mis ojos (Parte Ⅰ)
+STsp_12_02 | Tú, en mis ojos (Parte Ⅱ)
+STsp_12_03 | Tú, en mis ojos (Parte Ⅲ)
+STsp_12_04 | Tú, en mis ojos (Parte Ⅳ)

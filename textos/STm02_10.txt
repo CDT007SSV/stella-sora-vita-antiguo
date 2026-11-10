@@ -1,0 +1,155 @@
+# Capítulo 2 · 10 · Cómo se cumplen los deseos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Knight Squire | Escudero
+N:Panicked Child | Niño asustado
+N:Terrified Citizen | Ciudadano aterrado
+N:Timid Citizen | Ciudadano tímido
+N:White-Haired Girl | Chica de pelo blanco
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_107 | Tilia
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg2_972 | Guantelete de la Ira
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg2_975 | Glopo
+N:avg2_979 | Enviado espectral
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1234 | Aeloria
+N:avg3_1235 | Aeloria
+N:avg3_139 | Trekker
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_152 | Bastelina
+N:avg3_167 | Chica
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | Cómo se cumplen los deseos
+0003 [Intro] | Negándose a la derrota, Feagin invoca a un Stellaroid colosal, haciéndole el juego a la maga de pelo blanco. Para frustrar el complot, Chitose se dispone a interceptar a la maga.
+0004 [Lugar y hora] | 15:20, 2 del mes de Pluvia, cerca del Monolito n.º 7 de Emor. Pasillo del puente del canal
+0005 [Chitose] | ¡Hyaaah!
+0006 [Minova] | ¡Maldición! ¡Siguen saliendo más Stellaroids! ¿Se están filtrando del Monolito?
+0007 [Iris] | Los Trekkers con experiencia lo llaman un Colapso del Monolito.
+0008 [Iris] | Cuando se acumulan demasiados Stellaroids dentro de un Monolito, se desbordan.
+0009 [Noya] | Eso suele pasar con los Monolitos de las Tierras Salvajes. Nadie los escala, así que nadie los limpia. ¡Pero estamos en medio de una ciudad!
+0010 [Amber] | ¡Los Stellaroids van a llegar a las calles!
+0011 [Minova] | ¡El Distrito de las Cenizas está justo abajo! ¡No podemos dejar que pasen!
+0012 [Tú] | Esa maga de pelo blanco mencionó que iría al Monolito cuando rescató a Feagin.
+0013 [Tú] | ¿Será que ellas provocaron esto?
+0014 [Chica de pelo blanco] | Buena deducción, Jefe.
+0015 [Chica de pelo blanco] | Estos Stellaroids nacen del odio de Feagin.==W== No... El odio por sí solo no basta. Brotan de un lugar mucho más profundo y oscuro...
+0016 [Chica de pelo blanco] | Está empeñada en vengarse. De ti. De todos.
+0017 [Iris] | ¡Pero ella es la que está equivocada!
+0018 [Noya] | ¡Sí, la gente del Distrito de las Cenizas no le hizo nada!
+0019 [Chica de pelo blanco] | Ay, qué ingenuas. Lo llaman «guerra» y aun así esperan que todos jueguen según las reglas.
+0020 [Chica de pelo blanco] | Tienes razón en algo,==W== lo concedo. Pero la guerra nunca se ha jugado con las reglas de nadie.
+0021 [Tú] | Derribaremos a Feagin de una vez por todas y terminaremos esta guerra rápido.
+0022 [Tú] | Ella es a quien perseguimos. No tienes que defenderla, y mucho menos seguirla.
+0023 [Chica de pelo blanco] | ¿Seguirla?==W== Por favor...
+0024 [Aeloria] | Yo.
+0025 [Aeloria] | Aeloria.
+0026 [Aeloria] | La gran Ladrona de Lux.
+0027 [Aeloria] | Alguien como yo, cargada con una misión sagrada, jamás se rebajaría a unirse a un grupo patético como Creta Trading.
+0028 [Aeloria] | Feagin y yo simplemente nos usábamos mutuamente para beneficio común.
+0029 [Iris] | Ladrona de Lux... ¡¿Eres de Nocturn Eterna?!
+0030 [Aeloria] | ¡Vaya, alguien ha estado estudiando!
+0031 [Aeloria] | Así es, mi grupo y yo pretendemos destruir cada uno de los Monolitos.
+0032 [Aeloria] | Aun así... ¿es este realmente el momento para charlar?
+0033 [Amber] | El Stellaroid. En el cielo. Es enorme.
+0034 [Noya] | ¿Eh? ¡No me digas que es ese Stellaroid gigante que no pudimos vencer en el desierto!
+0035 [Aeloria] | ¡Jajaja! Así que ya se conocen. Excelente.
+0036 [Aeloria] | En ese caso, deberían agradecerle a Feagin. Tómenlo como un regalo de despedida.
+0037 [Minova] | ¡Espera, ese monstruo se dirige hacia el Distrito de las Cenizas!
+0038 [Minova] | ¡Oye, ¿a qué juegas?! ¡Se supone que tu objetivo somos nosotras! ¡Haz que se devuelva, ya!
+0039 [Aeloria] | Hmph. Me temo que no puedo conceder esa petición.
+0040 [Aeloria] | Toma esto.
+0041 [Tú] | ==W==¡¿El Sello de la Gracia de Creta Trading?!
+0042 [Aeloria] | Tomen el sello, considérense ganadoras. Su pequeña guerra ha terminado.
+0043 [Aeloria] | En cuanto a estos Stellaroids... los usaré como me parezca. Es solo que... Feagin los deseó con tanto odio. Necesitan desatarse un poco antes de que pueda controlarlos.
+0044 [Ciudadano aterrado] | ¡Viene un monstruo! ¡Corran!
+0045 [Ciudadano tímido] | ¡Ayuda!
+0046 [Niño asustado] | ¡Waaah!!==W== ¡Mami!
+0047 [Escudero] | ¡Oye, pequeño, ponte a salvo!
+0048 [Escudero] | No tengas miedo...
+0049 [Escudero] | La Guardia Imperial te protegerá.
+0050 [Noya] | ¡Minova! ¡Tenemos que detener a ese Stellaroid!
+0051 [Minova] | ¿Crees que dejaría que se salga con la suya? Lo juro por el Clan Viento de Ceniza: ¡nadie destroza mi territorio!
+0052 [Aeloria] | ¿Están locas?
+0053 [Aeloria] | Tienen el sello. Han ganado. ¿Por qué siguen peleando?
+0054 [Aeloria] | ¿Para qué molestarse? Que se ocupe el Imperio de la Gracia o la Guardia Imperial, alguien lo resolverá.
+0055 [Aeloria] | Hagan lo que siempre hacen en los Monolitos: deséenlo lejos y den el asunto por zanjado.
+0056 [???] | La gente entrega sus deseos a esa estrella.
+0057 [???] | Porque así, cuando sus deseos no se cumplen...
+0058 [???] | «Bueno, hice lo que pude, pero mi estrella de la suerte no brilló para mí».
+0059 [Opción] | Con solo desear no se logra nada.
+0060 [Tú] | Los Trekkers enfrentan las peligrosas Tierras Salvajes, derrotan fieras bestias y Stellaroids solo para llegar a una Caja de Deseos.
+0061 [Tú] | Ese es un deseo concedido mediante las propias decisiones y el propio esfuerzo.
+0062 [Aeloria] | Mucho hablar. No tienen forma de derrotar a un Stellaroid así.
+0063 [Amber] | Sí la tenemos.
+0064 [Iris] | Lo encontré...
+0065 [Iris] | Hay una matriz en su cabeza que canaliza magia de Terra. Si destruimos esa matriz, el Stellaroid no podrá repararse con los materiales de alrededor. Incluso podría derrumbarse bajo su propio peso.
+0066 [Noya] | Humph. Iris se ha pasado las noches en vela, escarbando en los registros desde que salimos del Monolito del desierto. Anoche por fin encontró algo.
+0067 [Aeloria] | ¿E-en serio? ¿Investigar un Stellaroid que quizá solo encuentres una vez en la vida?
+0068 [Noya] | ¡Oye, somos profesionales! Nunca sabes con qué te toparás en los Monolitos. Hay que estudiar cada Stellaroid que encuentres.
+0069 [Noya] | ¡Oh! ¡Minova, lo tengo! ¡Una idea brillante para derribar a ese grandote!
+0070 [Aeloria] | ¡Oigan! ¡Dejen de ignorarme!
+0071 [Aeloria] | ¡Esa cosa es importante para mis planes! ¡No pueden destruirla!
+0072 [Aeloria] | Tch.
+0073 [Aeloria] | ¿Por qué no te defiendes?
+0074 [Chitose] | Si no te doy oportunidad de lanzar un hechizo, no hay necesidad de que me defienda.
+0075 [Chitose] | Mi ==SEX11==, déjamelos a mí.
+0076 [Chitose] | Contendré al enemigo... y te prestaré mi ayuda.
+0077 [Tú] | Está bien.==W== Cuento contigo.
+0078 [Aeloria] | ...
+0079 [Aeloria] | Maldita seas… ¡¿cómo te atreves a destrozar mi plan perfecto?!
+0080 [Aeloria] | Pero tu espada no siempre será tan rápida.
+0081 [Aeloria] | Despojada de magia, no eres más que una simple mortal.
+0082 [Aeloria] | Enfrentarte a mí y a estos Stellaroids sola y sin magia... De verdad, ustedes los Trekkers rozan la locura.
+0083 [Chitose] | Eso no me corresponde considerarlo. Como espada de mi ==SEX11==, derribaré a todo aquel que se atreva a bloquear el camino de ==SEX3==.
+0084 [Aeloria] | ¿Por qué eres tan innecesariamente terca?
+0085 [Aeloria] | Bien. Si te mueres por pelear, te daré pelea.
+0086 [Aeloria] | ¡Para que aprendas lo impotente que eres ante mí!
+0087 [Chitose] | Percibo... magia aún en curso en alguna parte... ¿Es su mano derecha? No. La izquierda.
+0088 [Chitose] | Son las sombras que controla. Lo que significa... que debo apuntar a su cuerpo.
+0089 [Aeloria] | Maestra espadachina noviana, esta es tu última advertencia. Si no desistes, mi próximo golpe te llevará la cabeza.
+0090 [Chitose] | En ese caso... cortaré tu plan y lo echaré a un lado. Prepárate.
+0091 [Aeloria] | ¿Cómo puede ser tan rápida... sin magia?!
+0092 [Aeloria] | Jajaja... Es imposible.
+0093 [Aeloria] | Nunca pensé que encontraría a una guerrera noviana digna de respeto.
+0094 [Chitose] | No soy guerrera, solo una hoja que lucha por mi ==SEX11==.
+0095 [Aeloria] | No creas que la próxima vez será tan fácil.
+0096 [Chitose] | Inténtalo cuanto quieras, el final será el mismo.
+0097 [Chitose] | Desde muy joven me he entrenado en el arte del battojutsu, una técnica que no depende de la magia. Ha demostrado ser útil. Sin embargo, mi dependencia de mi Maestro sugiere que aún necesito más diligencia.
+0098 [Chitose] | ¿Hm? Parece que aún quedan rezagados.
+0099 [Chitose] | La reflexión tendrá que esperar.
+0100 [Chitose] | ¡Chitose... sube al escenario!
+0101 [Chitose] | Acabaré con esto rápido.
+0102 [Amber] | ¡Allí!
+0103 [1] | ¡He golpeado el círculo mágico!
+0104 [Noya] | ¡Muy bien! ¡Ahora de vuelta al plan: al Canal!
+0105 [Minova] | Déjenme la distracción a mí. ¡Armaré un caos serio!
+0106 [Iris] | ¡Jefe, tú das las órdenes de aquí en adelante!
+0107 [Tú] | ¡Cuenten conmigo!
+0108 [Lugar y hora] | 15:55, 2 del mes de Pluvia, cerca del Monolito n.º 7 de Emor. Cúspide del puente del canal
+0109 [Tú] | Iris, gira a la derecha en la próxima intersección. Chitose se encargará de cualquier Stellaroid que bloquee tu camino.
+0110 [Tú] | ¡Noya, retrocede a Loxy otros 100 metros! ¡Necesitamos una pista más larga!
+0111 [Tú] | Bien, el señuelo funciona. Ese Stellaroid gigante llegará al Canal en cualquier momento.
+0112 [Bastelina] | ¡Jefe, qué comando tan perfecto!
+0113 [Bastelina] | Como formo parte de este brillante plan, ¿puedo incluir mis contribuciones en mi informe de pasantía, verdad?
+0114 [Tú] | No tiene ningún sentido del peligro, apareciendo aquí en un momento como este.
+0115 [Tú] | Aun así, ese Artefacto telescópico que trajo nos salvó el pellejo.
+0116 [Narración] | Mirando por el Artefacto telescópico, veo a Minova, Iris y Amber a lo lejos. Han atraído al enorme Stellaroid hacia un puente roto y apartado: la plataforma de lanzamiento perfecta.
+0117 [Narración] | Ese es el escenario del gran final de hoy.
+0118 [Tú] | Este loco plan suyo tiene que funcionar.

@@ -1,0 +1,120 @@
+# Especial 9.5 · 5 · Insula
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Archon Olympia | Archon Olympia
+N:Coppelius the High Priest | Coppelius the High Priest
+N:High Priest | High Priest
+N:Leita the Saintess | Leita the Saintess
+N:Saintess | Saintess
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_162 | Alina
+N:avg2_941 | Olympia (Puppet)
+N:avg2_942 | Coppelius
+N:avg3_100 | Sylar
+N:avg3_182 | Elis
+N:avg3_225 | Leita
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | ínsula
+0003 [Intro] | Te despiertas en la Ínsula de Alina y descubres que pasaste la prueba. Elis defiende el caso de Alina en tu nombre para que ella cubra tu comida y alojamiento. Ese mismo día, Olimpia invita a Leita a buscar la "perfección"...
+0004 [???] | ==PLAYER_NAME==, ¡despierta-despierta! ¡El sol brilla y el desayuno está caliente!
+0005 [Tú] | Mng...==W== Buenos días, Noya. ¿Qué estamos teniendo?
+0006 [Noya] | ¡Mi Tawny Nightingale especial, de corte grueso y extra crujiente!==W== Incluso le metí otro huevo al tuyo. ¡Date prisa y dale un mordisco!
+0007 [Tú] | Mmm. Tan crujiente... También huele increíble.
+0008 [Iris] | Mmm...==W== ==PLAYER_NAME==¿Durmiste algo? Te ves horrible.
+0009 [Amber] | El jefe volvió a quedarse despierto hasta tarde. Mirando ==SEX3== teléfono.
+0010 [Tú] | Shh... ¡Ámbar!
+0011 [Iris] | Despierto toda la noche otra vez, vamos...==W== Y Amber, debes dejar de hacer que Boss siga hablando. ==SEXO1== trabaja lo suficiente durante el día.
+0012 [Iris] | ¿Y jefe? Si no empiezas a cuidarte mejor, nos vamos a preocupar muchísimo...
+0013 [???] | Ey. Despertar.
+0014 [???] | Maestro, si no se levanta ahora mismo, me comeré yo mismo todo este delicioso pan.
+0015 [Tú] | Uf... Buenos días. ¿Es pan otra vez...?==W== ¿Elis?
+0016 [Tú] | ¿Dónde estamos? ¿Pasé la prueba de la casa de baños?
+0017 [Elis] | Con gran éxito. Aguantaste tres horas y media.==W== Alina dice que eso te coloca en el segundo lugar en toda la historia de Filani, justo detrás del Sumo Sacerdote.
+0018 [Elis] | Tanto la Santa como el Sumo Sacerdote están de acuerdo: tu magia está a la par de la de un Acólito, tal vez incluso de un Sacerdote completo. Nuestra cobertura es sólida.
+0019 [Elis] | Y tenemos que agradecer a Night Watcher Alina por todo esto. Gracias a su terquedad, una noble acólita y ==SEX3== esclava tuvo que sufrir la indignidad de ser encerrada en un carro de prisioneros durante días.
+0020 [Elis] | Para compensarnos por nuestro "tiempo perdido y angustia emocional", Filanis envió una enorme pila de oro.
+0021 [Elis] | Alina también tiene que disculparse y cumplir con cualquier demanda que le hagamos, siempre y cuando no "causen la muerte o cicatrices permanentes".==W== Ah, y casi la echan de Filanis.
+0022 [Tú] | Espera, ¿en serio? ¿Llegaron tan lejos?
+0023 [Elis] | Je. Pareces terriblemente preocupado por ese Vigilante Nocturno.
+0024 [Tú] | No es sólo eso. Alina es una buena persona. Ella solo estaba haciendo su trabajo cazando a la Santa Caída. Además...
+0025 [Tú] | En realidad ella tenía razón. Tú eres la Santa Caída y yo no soy un Acólito.
+0026 [Tú] | Tampoco nos maltrató en el camino. Ella no se merece esto.
+0027 [Elis] | Maestro, su amabilidad a veces es desconcertante. Si Alina se marcha sin un rasguño, significa que vieron a través de nuestra tapadera.
+0028 [Elis] | Y si eso sucede, cualquier cosa que obtenga Alina nos parecerá unas vacaciones. Decapitación como mínimo...==W== No, demasiado rápido. Probablemente terminaríamos atados a un potro de esclavos y desangrados.
+0029 [Tú] | Lo sé... Pero aun así la arrastramos con nosotros.
+0030 [Elis] | Je je, deja de preocuparte por ella. Como tu brillante esclavo personal, naturalmente tuve en cuenta toda tu rutina "misericordiosa". Mientras estabas fuera, usé tu nombre para mover algunos hilos...
+0031 [Elis] | Santa. Sumo sacerdote. Antes de la prueba, mi Maestro me dijo ==SEX== No desea responsabilizar a Alina por esto. Le rogamos que le muestre indulgencia.
+0032 [Saintess] | Qué inesperado. Pensar que usted y su Maestro defenderían su caso.==W== Sumo Sacerdote, ¿qué piensas?
+0033 [High Priest] | ==PLAYER_NAME== es un acólito notablemente misericordioso. Estoy orgulloso de contar con un personaje así entre nuestras filas.
+0034 [High Priest] | Sin embargo, como Vigilante Nocturna, Alina les causó a ambos una profunda humillación. Debe pagar el precio, de lo contrario mancharía el nombre de su patrona, la Arconte Olimpia.
+0035 [Elis] | Que Alina me confundiera con la Santa Caída también fue en parte culpa nuestra...
+0036 [Elis] | Esta terrible experiencia en realidad sirvió como la prueba perfecta para la magia que mi Maestro está investigando. Puede profundizar ==SEX3== la sintonía con lo arcano y provocar una profunda inspiración.
+0037 [Elis] | Si castigas a Alina, inevitablemente perturbará el enfoque de mi Maestro, poniendo en riesgo la investigación de ==SEX3==.
+0038 [High Priest] | Veo. La investigación mágica requiere una mente descargada, especialmente en lo que respecta al campo no conquistado de la magia de la resurrección. Aún...==W== Un perdón total parece inapropiado.
+0039 [Saintess] | Sumo Sacerdote, ¿qué pasa si lo abordamos así?==W== dejamos ==PLAYER_NAME== dictar los términos exactos del castigo de Alina...
+0040 [Saintess] | Eso demostraría que la Arconte Olimpia no protege su patrocinio, demostrando su absoluta justicia y al mismo tiempo tranquilizando a nuestro invitado.
+0041 [High Priest] | Lógica sólida. Está decidido entonces.
+0042 [High Priest] | Alina, ¿reconoces tu culpa? el momento ==PLAYER_NAME== despierta, te disculparás y aceptarás cualquier sentencia ==SEX== considere oportuno.
+0043 [Alina] | Reconozco mi culpa. Ofreceré ==SEX12== Acólito mis más sinceras disculpas.
+0044 [Tú] | Elis, eres increíble. Hiciste todo eso en el acto y conseguiste que retiraran los cargos contra Alina.
+0045 [Elis] | Je je. Superé mi clase de retórica en la Academia Emor Saintess. Sé muy bien lo que motiva a estos nobles.
+0046 [Elis] | El patrón de Alina es el Arconte de esta ciudad. Tanto la Santa como el Sumo Sacerdote le responden.
+0047 [Elis] | No podían castigar a Alina simplemente por capricho. Si es demasiado ligero o demasiado duro, se reflejará mal en ellos.
+0048 [Elis] | Tuvieron que adoptar posturas acerca de proteger la reputación del Arconte y amenazar con fuertes sanciones primero.
+0049 [Elis] | Como acólito visitante con una formación adecuada en etiqueta, se esperaba que mostraras gracia en ese momento. Eso les dio la salida perfecta para reducir su sentencia. Todos ganan.
+0050 [Tú] | No tenía idea de que había tanta política involucrada...==W== Esperar. ¿Fue esa otra prueba? Si no hubieras mostrado misericordia, no habríamos actuado como un verdadero acólito en absoluto.
+0051 [Elis] | Exactamente. Un paso en falso con estas élites y listo.==W== De todos modos, el castigo exacto aún depende de ti, pero aproveché la oportunidad para hacerte una pequeña petición...
+0052 [Elis] | Mientras nos quedamos en Filanis, Alina cubre nuestra comida y alojamiento.
+0053 [Elis] | Cuando "Acólitos" como usted viajan entre ciudades, los nobles locales tropiezan con ellos mismos para recibirlos. Les da prestigio.
+0054 [Elis] | Alina es un Caballero, por lo que tiene un rango social lo suficientemente alto como para recibirte, además...
+0055 [Tú] | Si no la elegimos, terminaríamos siendo recibidos por la Santa o el Sumo Sacerdote. Y luego ...==W== ¿Ahí va nuestra portada?
+0056 [Elis] | Te das cuenta rápido. Comparada con esos dos, Alina no sabe casi nada sobre la vida noble. Ella es un blanco mucho más fácil.
+0057 [Tú] | So ...==W== ¿Es esta la casa de Alina?
+0058 [Elis] | No exactamente... Estrictamente hablando, su casa es solo una habitación individual en este edificio.
+0059 [Tú] | Una... ¿habitación individual?
+0060 [Elis] | Mi único error de cálculo. Nunca esperé...==W== un Capitán Vigilante Nocturno con un Patrón Arconte en quiebra.==W== Está apretujada en una ínsula, un edificio de viviendas barato.
+0061 [Elis] | No puede permitirse el lujo de hospedarnos en absoluto. Por suerte, este lugar está tan deteriorado que la mayoría de las habitaciones están vacías... Podemos elegir.
+0062 [Tú] | ¿Se supone que los Vigilantes Nocturnos... son ricos?
+0063 [Elis] | Por supuesto. Un Capitán Vigilante Nocturno en Emor vive en una domus con jardín y piscina privados. Atrapan a los ladrones y apagan incendios. ¿Realmente necesito explicar lo lucrativo que resulta?
+0064 [Tú] | Atrapar ladrones y apagar incendios… ¿es rentable?
+0065 [Elis] | En serio, ¿cuál es tu problema? Tienes la apariencia y los modales de un noble, pero cero sentido común.
+0066 [Tú] | Te lo dije, soy de muy, muy lejos. Hay muchas cosas que no sé.
+0067 [Tú] | Elis, enséñame. Todo lo que necesito saber para pasar por Acólito. Vamos...==W== Comience con el calendario.
+0068 [Elis] | Sinceramente... ¿De qué clase de remanso saliste arrastrándote para ni siquiera saber el calendario?==W== Bien. De todos modos, ahora estamos en el mismo barco.==W== Escuchen atentamente, ¡sólo lo digo una vez!
+0069 [Elis] | Este es el año de la semidiós Lucila como cónsul, el año 704 desde la fundación de Emor.
+0070 [Elis] | El calendario noviano tiene doce meses, cada uno con treinta o treinta y un días. Ahora mismo estamos en el sagrado quinto mes del año.
+0071 [Narración] | La temporada de Semidioses y Arcontes...
+0072 [Lugar y hora] | 13:30, quinto mes 26, isla Filanis, casa de baños Olympia
+0073 [???] | Has trabajado duro en mi ausencia. He estado recluido demasiado tiempo preparando el ritual de ascensión.==W== Alguien tenía que contemplar a Filanis en mi lugar... para asegurarse de que siga siendo tan perfecta como siempre.
+0074 [Leita the Saintess] | Eres demasiado amable. Es un honor para mí velar por Filanis por ti. No fue ninguna dificultad.
+0075 [Coppelius the High Priest] | Arconte Olimpia. Tu leal Coppelius informa que durante los seis meses de tus preparativos rituales se ha mantenido un orden absoluto en Filanis.
+0076 [Coppelius the High Priest] | No hay esclavos en la ciudad y los ciudadanos siguen disfrutando de tus bendiciones. Mi Arconte, Filanis es una ciudad perfecta.
+0077 [Archon Olympia] | ¿Escuché que mi Vigilante Nocturno localizó a nuestra Santa Caída fugitiva?
+0078 [Leita the Saintess] | El Sumo Sacerdote y yo ya hemos verificado el asunto. La joven simplemente comparte un parecido con la Santa Caída. En realidad, es la esclava de un acólito visitante.
+0079 [Archon Olympia] | Veo...==W== Qué desafortunado. ¿La emancipaste?
+0080 [Leita the Saintess] | El Acólito ya debería estar despierto. Ya envié a Alina solicitando eso. ==SEX== respetar las costumbres locales y liberar al esclavo.
+0081 [Archon Olympia] | Excelente. La tierra labrada por manos de desesperación nunca dará una cosecha abundante.
+0082 [Archon Olympia] | Además, el Acólito es un extranjero que aún tiene que experimentar nuestra perfección. Maneja la emancipación con cuidado. No debemos ofender a nuestro invitado.
+0083 [Leita the Saintess] | Tenga la seguridad, Arconte. El Acólito es bastante misericordioso y no le gusta subyugar a los demás. no lo creo ==SEX== resistirá nuestras costumbres.
+0084 [Archon Olympia] | Bien.==W== Leita, acércate. No hemos tenido una conversación adecuada desde hace mucho tiempo.
+0085 [Leita the Saintess] | Sí, Arconte Olimpia.
+0086 [Archon Olympia] | Cuéntame más sobre este acólito.
+0087 [Archon Olympia] | escucho ==SEX== Lleva una misteriosa caja parecida a un ataúd. Eso ==SEX== Estaba completamente desprovisto de aliento y calor corporal, sólo para despertar repentinamente. y eso ==SEX== ¿Estudia magia de resurrección?
+0088 [Leita the Saintess] | En efecto. Pero la magia de la resurrección es una quimera. Nadie lo ha logrado en miles de años.==W== Me temo que la investigación de este acólito al final no servirá de nada.
+0089 [Archon Olympia] | Je. Leita, no lo entiendes.
+0090 [Archon Olympia] | Este Acólito exhibe cualidades extraordinarias sin ningún refinamiento...==W== Qué material tan raro y casi perfecto.
+0091 [Archon Olympia] | Viste ==SEX4== ayer. ¿No encuentras...?==W== ese cuerpo hermoso?
+0092 [Leita the Saintess] | Arconte Olimpia, no entiendo...
+0093 [Archon Olympia] | Eso está bien. Lo entenderás muy pronto.
+0094 [Archon Olympia] | Has crecido mucho. Tu aplomo, tu etiqueta, tu magia, todo muy superior a antes. Pero nadie nace perfecto. Siempre hay un defecto lamentable.
+0095 [Archon Olympia] | Leita. ¿Te gustaría romper los límites de la mortalidad y tocar la gloria superior que te pertenece?
+0096 [Leita the Saintess] | I...
+0097 [Narración] | Mi hermosa y pura Santa...
+0098 [Narración] | Únase a mí en la búsqueda de la verdadera perfección.

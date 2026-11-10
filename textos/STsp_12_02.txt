@@ -1,0 +1,140 @@
+# Nova Times #12 · Tú, en mis ojos · 2 · You, In My Eyes (Part Ⅱ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_149 | Gerie
+N:avg2_954 | Pezuñas Crujientes
+N:avg3_100 | Sylar
+N:avg3_905 | Iris y Noya
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Tú, en mis ojos (Parte Ⅱ)
+0003 [Intro] | A medida que avanza la misión, descubres más sobre Gerie, pero su sospecha de que eres el legendario Tirano solo se hace más profunda. De pronto, una señal de auxilio rompe el silencio.
+0004 [Iris] | ¡Congélate!
+0005 [Noya] | ¡Buen golpe, Iris! Este grupo es mío.
+0006 [Noya] | Queda uno. ¡Amber, ahí va!
+0007 [Amber] | En eso.
+0008 [Narración] | Entramos al Monolito y nos enfrentamos de inmediato a los Stellaroids. Mantengo el teléfono a la mano y le tomo una foto a cada eliminación para el informe del encargo.
+0009 [Tú] | Si seguimos así, cubriremos las pérdidas del último trabajo y la renta del próximo mes. Pero...
+0010 [Gerie] | ...
+0011 [Tú] | Esa mirada me da escalofríos... ¿No está aquí solo para supervisar? ¿Por qué tiene los ojos clavados en mí?
+0012 [Gerie] | Mmm. Llegamos a la zona segura. Han trabajado muy duro.
+0013 [Gerie] | Traje almuerzo y justo me sobra. ¿Quieren probar?
+0014 [Iris] | ¡N-no, gracias! ¡Tenemos el nuestro!
+0015 [Tú] | Eh, sí. Tenemos que repasar nuestro siguiente paso, así que las dejamos con lo suyo.
+0016 [Gerie] | ¿Oh? Tenía la esperanza de tener compañía para almorzar. Qué lástima.
+0017 [Iris] | ¿Qué pasa, Jefe? Tienes la cara algo pálida.
+0018 [Tú] | Mientras peleaban, no dejó de lanzarme esas miradas raras. Nos observaba a todos.
+0019 [Noya] | Yo definitivamente sentí unos ojos encima...
+0020 [Amber] | Escalofrío... en la espalda.
+0021 [Iris] | ¿No creerán que los rumores son ciertos, o sí?
+0022 [Noya] | El encargo es un cebo. En realidad ella...
+0023 [Iris] | ... ¡va tras nuestras almas! Nos va a encerrar en una caja de hierro con púas para robárnoslas.
+0024 [Noya] | ¡Tiene que ser eso! Nos atrajo al Monolito para que, si desaparecemos, nadie afuera se entere jamás.
+0025 [Amber] | Jefe, ten cuidado. En una pelea caótica, eres el blanco más fácil para un ataque sucio.
+0026 [Gerie] | ¿Cuidado con qué? ¿Con los Stellaroids?
+0027 [Noya] | ¡Oh! ¡Sí! ¡Sí, claro! ¡Decíamos que la seguridad de ==PLAYER_NAME== es primero! ¡Nuestra prioridad número uno!
+0028 [Gerie] | Jeje. No se preocupen. Si las cosas se ponen feas, intervendré... Estoy aquí para supervisar, sí, pero sé defenderme en una pelea.
+0029 [Tú] | ¡Que intervengas es justo lo que me da miedo!
+0030 [Tú] | ¿No estabas almorzando hace un segundo? ¿Por qué estás aquí?
+0031 [Gerie] | Qué bueno que lo mencionas. Han peleado con empeño; deben de estar agotados. ¿Quieren probar mis bocadillos?
+0032 [Narración] | Gerie saca una caja de pastelillos de aspecto sencillo.
+0033 [Gerie] | Quizá no parezcan gran cosa, pero les prometo que saben mejor que cualquier cosa que compren en una tienda.
+0034 [Noya] | ¿Bocadillos? ¿De la nada? ¡Eso es sospechoso!
+0035 [Iris] | ¡Baja la voz, Noya! Te va a oír.
+0036 [Amber] | Jefe… No comas comida de Árbitros.
+0037 [Tú] | ¿Eh? ¿E-es peligrosa?
+0038 [Amber] | Yo te protegeré.
+0039 [Tú] | Eso no es bueno...==W== Espera, ella no sabe que soy inmune a la magia. Yo daré el primer bocado.
+0040 [Tú] | Se ven deliciosos. ¿Te molesta si pruebo uno?
+0041 [Gerie] | Adelante.
+0042 [Opción] | Probar un trozo
+0043 [Tú] | Mmph... Mmm...==W== Mmm...
+0044 [Tú] | ¿¡Ghk—!?
+0045 [Noya] | ¿¡Jefe!? ¿¡Qué pasa!?
+0046 [Iris] | ¿Es... es una trampa? ¿¡Veneno!?
+0047 [Amber] | ¡Escúpelo, Jefe!
+0048 [Tú] | Cof... Estoy bien. Solo me atraganté un poco. La textura es agradable... Pero es demasiado dulce.
+0049 [Iris] | Oh...
+0050 [Noya] | Eh...
+0051 [Iris & Noya] | Perdón.
+0052 [Gerie] | No es nada. Los Árbitros estamos acostumbrados a que nos malentiendan.
+0053 [Gerie] | Si tienen curiosidad, siéntanse libres de probar.
+0054 [Iris] | Supongo que probaré uno.
+0055 [Noya] | Yo quiero el rojo.
+0056 [Noya] | Mmph...==W== Mmm...==W== ¿¡Nrrgh—!?
+0057 [Noya] | ¡¡Pica!! ¡Ja! ¡Ja—agua!! ¡Dame agua!
+0058 [Iris] | Ugh... ¡e-este es amargo...!==W== ¿¡Por qué tiene que ser así!?
+0059 [Tú] | Qué raro. El sabor no debería ser tan extremo. Amber, ¿quieres probar el amarillo?
+0060 [Amber] | Se ve ... ácido. No me gusta lo ácido. Lo dulce sí está bien.
+0061 [Tú] | Supongo que me queda el que tengo en la mano.
+0062 [Amber] | Mm. Nada mal. Dulce.
+0063 [Tú] | Eh, a ese ya le di una mordida.
+0064 [Amber] | Está... está bien.
+0065 [Gerie] | ¿Oh? ¿Mis pastelillos saben raro? A mí me parecieron bien.
+0066 [Tú] | Eh... No raro, exactamente. Solo ... sabores extremadamente intensos.
+0067 [Gerie] | Ah... Ya veo. Mis disculpas. Un error de cálculo de mi parte.
+0068 [Gerie] | Me ciño a los sabores extremos por razones personales. Los hice a mi gusto. De verdad lo siento.
+0069 [Gerie] | Por favor, no se obliguen. No quisiera que se enfermaran por un bocadillo.
+0070 [Noya] | ¡N-no se preocupe! El picante me aceleró el metabolismo. ¡Ahora me muero por pelear!
+0071 [Gerie] | Je. Gracias por ser tan considerados. Les propongo algo: yo limpiaré los Stellaroids del siguiente piso. Ustedes descansen aquí.
+0072 [Tú] | Ella sola... ¿Es seguro?==W== Aunque no es que podamos negarnos.
+0073 [Noya] | Y se fue... Pero Gerie es la supervisora. ¿De verdad debemos dejar que haga todo el trabajo?
+0074 [Iris] | Mm... ¿Debería estar bien? Si la supervisora toma la decisión, no debemos estorbar.
+0075 [Amber] | Ya ...==W== regresó.
+0076 [Iris] | No, imposible. Apenas han pasado cinco minutos... ¿Los Stellaroids de adelante son demasiado fuertes hasta para la Árbitra Gerie?
+0077 [Gerie] | Todos, despejé el piso de adelante. Sigamos avanzando.
+0078 [Iris] | No puede ser... ¡Todos... aniquilados!
+0079 [Noya] | Había docenas allá atrás... Y ahora el lugar está impecable. ¡Ni un Trekker legendario se mueve tan rápido!
+0080 [Amber] | Fuerte. Aterradora.
+0081 [Tú] | Oye, Gerie. Una pregunta rápida...
+0082 [Gerie] | ¿Te preguntas por qué los contraté si yo misma puedo despejarlos?
+0083 [Tú] | Sí. No puedo aceptar la tarifa del encargo con la conciencia tranquila sin saber por qué.
+0084 [Gerie] | Porque...==W== soy una Árbitra.
+0085 [Tú] | ¿Eso significa...?
+0086 [Gerie] | Los Árbitros purgamos herejes. Pero los Stellaroids son creaciones del Dios de la Gracia. No son objetivos.
+0087 [Gerie] | Por lo tanto, exterminarlos está prohibido. Sin embargo... ayudar a otra persona a hacerlo es otra historia.
+0088 [Gerie] | Desde que entramos al Monolito me moría por unirme. Solo que no tenía excusa hasta ahora.
+0089 [Tú] | Contratar Trekkers era por cumplimiento... No nos clavaba la mirada; buscaba una oportunidad para hablar.==W== Definitivamente estábamos pensando de más.
+0090 [Gerie] | Por cierto, la chica del libro mágico. Estás llevando la cuenta de eliminaciones, ¿verdad?
+0091 [Iris] | ¿S-sí? ¿Pasa algo...?
+0092 [Gerie] | Suma mis eliminaciones a tu conteo. Quiero que te paguen por ellas.
+0093 [Iris] | ¡Eso no está bien! ¡Fallamos a nuestro deber al dejar que la supervisora pelee! ¡No podemos llevarnos el crédito por su trabajo!
+0094 [Gerie] | Mmm...==W== Te propongo algo. Ya que me uniré a la siguiente pelea, considera el dinero extra como pago por tu silencio. ¿Te parece justo?
+0095 [Iris] | P-pero... ¡No! ¡Un Trekker tiene que ser honesto!
+0096 [Gerie] | Mmm. Eres Iris, ¿verdad?
+0097 [Iris] | Sí...
+0098 [Gerie] | Qué chica tan honesta. Puntaje de Herejía: cero.
+0099 [Iris] | Ugh... sé que sacar cero aquí es técnicamente bueno, pero escuchar ese puntaje me lastima el alma de alguna manera...
+0100 [Amber] | Te obsesionas demasiado con las calificaciones, Iris.
+0101 [Gerie] | Amber. La francotiradora. Buena chica. Puntaje de Herejía: cero.
+0102 [Noya] | ¿Y yo? ¡Sigo yo!
+0103 [Gerie] | Siempre cargando en primera línea... Otra buena chica. Puntaje de Herejía: cero.
+0104 [Tú] | Mmm... En realidad Gerie no da tanto miedo. Parece sorprendentemente amable.
+0105 [Opción] | Entonces, ¿cuál es mi puntaje?
+0106 [Gerie] | Mmm...==W== ¡Cuarenta puntos!
+0107 [Tú] | ¿¡Por qué subió otra vez!? ¡Yo también tengo honestidad de sobra, ¿sabes?!
+0108 [Gerie] | Sospechar de los bocadillos y probarlos por si tenían veneno para proteger a tus amigas... Igualito que el legendario Tirano. Más diez puntos~
+0109 [Gerie] | Compartir tu último bocado sin pensarlo dos veces... El legendario Tirano haría lo mismo. Más diez puntos~
+0110 [Gerie] | Rodearte de buenas chicas tan talentosas... Exactamente la compañía que tenía el legendario Tirano. Más diez puntos~
+0111 [Tú] | ¡Oye! ¿¡Qué clase de lógica de puntuación es esta!? ¡A este paso llegaré a 100 en cualquier momento!
+0112 [Amber] | Jefe. Encontré un teléfono aquí. Parece sospechoso.
+0113 [Iris] | ¿Eh? ¿Eso es ... sangre? Pero está completamente seca. Parece que lleva ahí mucho tiempo.
+0114 [Noya] | ¿Quizá alguien lo dejó caer en la esquina al subir en el elevador?
+0115 [Iris] | Si fuera así, ¿no habrían vuelto por él al darse cuenta de que lo perdieron?
+0116 [Tú] | Los teléfonos son un salvavidas para los Trekkers. No lo dejarían atrás, y menos por una herida menor.
+0117 [Tú] | A menos que...
+0118 [Amber] | Los Trekkers han estado muy activos últimamente, explorando la zona. Poco después, algunos desaparecieron cerca de Emor. Cuatro o cinco escuadrones se esfumaron en solo dos semanas...
+0119 [Tú] | ¡Guau! ¡Está sonando...!
+0120 [Iris] | Iik—¿De-deberíamos contestar?
+0121 [Gerie] | Permíteme.==W== Hola. ¿Y quién será?
+0122 [Narración] | Stellaroids... Demasiados...
+0123 [Narración] | Monolito... En lo profundo... Ayuda...
+0124 [Narración] | ¡Ayuda!

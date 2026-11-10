@@ -1,0 +1,91 @@
+# Historia de Shia · 2 · Trace of Scent (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Barista | Barista
+N:Swimsuit Shop Clerk | Dependiente de la tienda de trajes de baño
+N:avg1_155 | Shia
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Rastro de aroma (Parte II)
+0003 [Intro] | El aroma que antes flotaba en las calles ahora se ha desvanecido.
+0004 [Narración] | Cerca del mediodía, Shia me lleva a una pequeña tienda de botanas que, según ella, sirve los sabores más auténticos del pueblo.
+0005 [Shia] | ¿Eh? ¿Por qué cambiaron el letrero de la entrada?
+0006 [Shia] | Espera, el aroma también es totalmente distinto...
+0007 [Tú] | ¿Será que nos equivocamos de lugar? ¿O se mudaron?
+0008 [Shia] | La dueña vive justo al lado. Lleva décadas con este lugar. No creo que simplemente se haya ido.
+0009 [Shia] | Mejor entremos a echar un vistazo.
+0010 [Shia] | De verdad el aroma es distinto...
+0011 [Barista] | Bienvenidos a «Coral del Atardecer: Café de la Isla Secreta»~ ¿Mesa para dos?
+0012 [Shia] | Disculpa, ¿este lugar es nuevo? Creo que nunca lo había visto por aquí.
+0013 [Barista] | Sí, tuvimos la gran inauguración el mes pasado.
+0014 [Shia] | ¿El mes pasado?
+0015 [Shia] | ¿Sabes adónde se fue la dueña del local anterior?
+0016 [Barista] | Vino hace un rato a despedirse de nuestro dueño... ==W==Ah, cierto, creo que ella y su familia se mudaron a Sailstead.
+0017 [Barista] | Qué suerte... Me encantaría trabajar en Sailstead también. En las ciudades grandes pagan mucho mejor por hora que aquí.
+0018 [Shia] | Ya veo. Gracias por decírnoslo.
+0019 [Shia] | Bien, pidamos. Yo quiero una leche de fresa. ¿Y tú, Jefe?
+0020 [Tú] | Déjame pensar... ==W==Lo mismo.
+0021 [Narración] | Encontramos un lugar junto a la ventana y nos sentamos. Shia mira a su alrededor, observando el entorno.
+0022 [Shia] | Viéndolo bien, los pilares están en los mismos lugares y las ventanas tampoco han cambiado de forma.==W== De alguna manera, eso me tranquiliza un poco...
+0023 [Tú] | ¿Aquí estaba la tienda de botanas?
+0024 [Shia] | Sí. Una tía muy enérgica la atendía ella sola.
+0025 [Shia] | No era ni de lejos tan elegante. Solo mesas y sillas de madera sencillas, y su hijita garabateaba en las paredes... Definitivamente no era lo que llamarías ordenado.
+0026 [Shia] | Pero a todos nos gustaba este lugar. Siempre veníamos a comer y a platicar.
+0027 [Shia] | Por cierto, su platillo estrella eran las «sardinas fritas al momento».
+0028 [Shia] | Cada mañana, la tía freía sardinas recién pescadas justo al frente. El olor era irresistible. Desde temprano se formaba una larga fila afuera.
+0029 [Shia] | Eran tan crujientes y ligeras... Qué lástima que ahora no puedas probarlas.
+0030 [Tú] | Si era tan popular... Ahora sí quiero saber a qué sabía.
+0031 [Shia] | ¿Verdad? Con solo pensar en ese olor me antojo otra vez de esos pescaditos fritos.
+0032 [Tú] | Dijeron que se mudó a Sailstead. ¿Quizá ahora los vende allá?
+0033 [Shia] | Mmm, difícil saberlo. Como su familia le pidió que se mudara... ¿Quizá ya se jubiló?
+0034 [Shia] | Aun así, aunque de verdad se haya jubilado, no significa que nunca volveremos a verla. Está bien.
+0035 [Tú] | Shia se ve algo decaída... Tengo que encontrar la manera de animarla.
+0036 [Shia] | ¡No te preocupes! Aunque hoy no podamos comer esos pescaditos fritos—
+0037 [Shia] | Algún día recrearé ese sabor. Y cuando lo haga, Jefe, tú también tienes que probarlo♪
+0038 [Tú] | Esperaré con ganas tu versión.
+0039 [Tú] | Me preocupaba que estuviera decaída un buen rato, pero parece que por ahora ya se recuperó.
+0040 [Narración] | Tras un breve descanso en el café, retomamos el plan de la «aventura junto al mar» de Shia.
+0041 [Shia] | Esta tienda lleva siglos aquí. Se especializa en trajes de baño a la medida. ¡Yo compro los míos aquí desde que era niña!
+0042 [Shia] | Como no todos los días vienes de visita, quise traerte aquí para conseguirte un traje de baño que te quede perfecto.
+0043 [Tú] | Bueno, la verdad es que no nado tan seguido...
+0044 [Tú] | Quizá mejor paso.
+0045 [Shia] | ¿En serio? Pero incluso flotar en el agua es muy relajante. ¡No te arrepentirás de tener uno!
+0046 [Shia] | Cuando me siento mal, suelo ir a surfear.
+0047 [Swimsuit Shop Clerk] | ¡Ah, lo sabía! Reconocí esa voz de inmediato. ¡Shia! ¡Cuánto tiempo sin verte~!
+0048 [Swimsuit Shop Clerk] | ¿Trajiste... a un amigo?
+0049 [Shia] | Sí. Un amigo muy especial.
+0050 [Swimsuit Shop Clerk] | ¡Oh! ¡Qué bien por ti~!
+0051 [Tú] | Eh ... ¿qué...?
+0052 [Shia] | Jeje, es broma. Hoy quiero pedirte que ayudes a mi amigo a conseguir un traje de baño a la medida.
+0053 [Shia] | ¿Qué tan rápido lo tendríamos?
+0054 [Swimsuit Shop Clerk] | Ay, ya no hacemos pedidos a la medida. Ahora solo vendemos trajes de baño ya hechos, como las demás tiendas.
+0055 [Swimsuit Shop Clerk] | Los pedidos a la medida eran demasiada lata y tardaban mucho. Los turistas no querían esperar.
+0056 [Swimsuit Shop Clerk] | Además, tenemos una gran variedad de tallas. Siempre hay algo que te quede.
+0057 [Shia] | Con razón ya no está ese aroma a hilo secado al sol...
+0058 [Tú] | ¿El aroma del hilo? ¿A qué se refiere?
+0059 [Tú] | Está bien. Elegiré algo ya hecho.
+0060 [Tú] | Shia, ¿me ayudas a elegir uno? La verdad no tengo idea de cuál escoger.
+0061 [Shia] | ¡¿En serio?! ¿Quieres que te elija uno?
+0062 [Shia] | Jeje, entonces elegiré algo que me guste~
+0063 [Narración] | Después de elegir el traje de baño, Shia me llevó a algunos de sus antiguos lugares favoritos.
+0064 [Narración] | Pero cada uno de esos lugares ha cambiado, algunos más que otros. Ninguno se ha quedado exactamente como ella lo recordaba.
+0065 [Shia] | Aquí antes había un pequeño puesto de helados...
+0066 [Shia] | Ese aroma dulce y suave del helado... Y el aroma de los clientes felices y sonrientes.
+0067 [Shia] | Todo eso desapareció...
+0068 [Tú] | ¿Hace mucho que no vuelves, Shia?
+0069 [Shia] | Si lo cuento bien, en realidad no es tanto tiempo.
+0070 [Shia] | Pueblo Carlo es un lugar pequeño, después de todo. Karin y yo vivimos cerca, en Sailstead, por trabajo, pero de vez en cuando vuelvo a la vieja casa de aquí para limpiarla.
+0071 [Shia] | Pero siempre me concentraba solo en limpiar la casa; no se me ocurría visitar esos lugares...
+0072 [Shia] | Y hoy me sorprendí mucho... Je.
+0073 [Tú] | Así que no eran ideas mías. Shia de verdad parece un poco decaída.
+0074 [Shia] | Mis disculpas, Jefe.
+0075 [Shia] | Dije que sería tu guía, y aun así no hemos llegado a ni un solo lugar que quería mostrarte...
+0076 [Shia] | Para compensarte, déjame invitarte a un banquete de mariscos esta noche, ¿sí?
+0077 [Tú] | No pasa nada, Shia. No tienes por qué sentirte mal. La he pasado muy bien.
+0078 [Tú] | Tengo que pensar en cómo animarla...

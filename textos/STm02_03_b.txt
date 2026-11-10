@@ -1,0 +1,140 @@
+# Capítulo 2 · 3B · Después de horas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Student Applicant | Aspirante estudiante
+N:White-Haired Girl | Chica de pelo blanco
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg3_100 | Sylar
+N:avg3_1234 | Aeloria
+N:avg3_1235 | Aeloria
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_157 | Guardia Imperial
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Esperando la hora de salida
+0003 [Intro] | Esperas a que se apaguen las luces de Creta Trading para colarte. Sin embargo, un gesto amable de Minova la delata ante Feagin. Justo cuando los caballeros te rodean, surge una figura oscura y los derriba.
+0004 [Lugar y hora] | 18:00, 1.º del mes de Pluvia, Distrito de Oro, Emor. Pasillo del puente del canal
+0005 [Minova] | Uf, mucho mejor.==W== Esto es mucho más práctico.
+0006 [Narración] | Media hora después, Minova termina su entrevista y regresa discretamente al puente del Canal.
+0007 [Minova] | Miren esto. El plano de Creta Trading.
+0008 [Minova] | Tu vehículo está estacionado justo en esta sala.
+0009 [Minova] | Cinco minutos por el Canal hacia el Monolito. Hay un gran elevador cerca.
+0010 [Minova] | Cuando recuperemos tu vehículo, subimos el elevador hasta el puente.==W== Así la gente de Feagin no nos verá.
+0011 [Tú] | Eres un salvavidas, Minova.
+0012 [Minova] | Ni lo menciones.==W== Las compañías que abusan de los demás solo por tener un Sello de la Gracia merecen ser borradas de la faz de Nova.
+0013 [Noya] | ¡Aguanta, Loxy!==W== ¡Pronto te sacamos de ahí!
+0014 [Amber] | Exploraré nuestra ruta de escape.==W==
+0015 [Iris] | Decidido.==W== Nos infiltraremos==W== cuando Creta Trading cierre por hoy.
+0016 [Lugar y hora] | 19:00, 1.º del mes de Pluvia, Distrito de Oro, Emor. Pasillo del puente del canal
+0017 [Noya] | ¿Siguen ahí adentro? ¡Vamos, me muero de hambre!
+0018 [Iris] | Tranquila, apenas son las siete.==W== Muchas compañías trabajan hasta más tarde.
+0019 [Lugar y hora] | 21:00, 1.º del mes de Pluvia, Distrito de Oro, Emor. Pasillo del puente del canal
+0020 [Minova] | Son las 9 de la noche. Ya deben de haber terminado, ¿no?
+0021 [Iris] | Eeeh...==W==quizá... ¿les traen la cena?
+0022 [Lugar y hora] | 23:59, 1 del mes de Pluvia, Distrito de Oro, Emor. Pasillo del puente del canal
+0023 [Amber] | Luces aún encendidas.
+0024 [Iris] | Ajaja...==W== Supongo que podríamos aprender algo de su... ética de trabajo.
+0025 [Lugar y hora] | 01:20, 2 del mes de Pluvia, Distrito de Oro, Emor. Pasillo del canal
+0026 [Tú] | Apenas puedo...==W== mantener los ojos abiertos...
+0027 [Iris] | Oigan, ¿por qué no duermen un poco?==W== Yo puedo vigilar.
+0028 [Lugar y hora] | 03:30, 2 del mes de Pluvia, Distrito de Oro, Emor. Pasillo del canal
+0029 [Tú] | (Ronquidos suaves)
+0030 [Noya] | Loxy...==W== Te voy a salvar...==W==
+0031 [Iris] | ¡¿Cuándo demonios cierra Creta Trading?!
+0032 [Iris] | Todas están dormidas...==W== Yo también me estoy apagando.
+0033 [Iris] | ¿Eh?
+0034 [Iris] | ¡Levántense, todas!==W== ¡Las luces están apagadas!==W== ¡Por fin se fueron!
+0035 [Lugar y hora] | 04:00, 2 del mes de Pluvia, Distrito de Oro, Emor. Pasillo de Creta Trading
+0036 [Noya] | Feagin debe de ser una especie de fenómeno.
+0037 [Noya] | En serio, ¿3:30 de la madrugada?==W== ¿Cómo funciona siquiera?
+0038 [Amber] | Las compañías...==W== Dan miedo.
+0039 [Iris] | Bueno, eh... no todas las compañías son así, ¿saben?
+0040 [Tú] | ¡Shh!==W== ¿Soy yo o siento como si...==W== alguien nos estuviera observando?
+0041 [Minova] | ¿Sí? Quizá fue solo tu mente.
+0042 [Amber] | No siento nada.
+0043 [Tú] | Qué raro.==W== Yo sí lo sentí...
+0044 [Noya] | ¡Lo encontré!==W== Esta es la sala.
+0045 [Lugar y hora] | 04:10, 2 del mes de Pluvia, Distrito de Oro, Emor. Vestíbulo de Creta Trading
+0046 [Noya] | ¡Loxy! ¡Te extraño tanto!
+0047 [Iris] | ¡¿Q-qué está pasando?!
+0048 [Feagin] | Vaya, vaya. Ya me estaba cansando de esperar.==W== Casi pensé que no vendrían esta noche.
+0049 [Feagin] | Muy bien,==W== ¡ustedes!==W== ¡Atrápenlas!
+0050 [Minova] | ¡Es una emboscada!==W== ¿Fue porque mi disfraz no era lo bastante bueno?
+0051 [Feagin] | Ah, ¿te refieres a esta tarde?==W== De hecho, hiciste un trabajo bastante bueno.
+0052 [Feagin] | En serio, jamás habría relacionado a alguien tan... ruda...==W== con esa educada chica de la Academia Platino.
+0053 [Feagin] | La cuestión es que...
+0054 [Aspirante estudiante] | Pero...==W== ¿los niños no perderán enormes porciones de su memoria?
+0055 [Feagin] | Si tus padres estuvieran en el Senado de otra compañía,==W== tampoco te preocuparías tanto por unos cuantos niños.==W== Son solo números en la hoja de presupuesto.
+0056 [Feagin] | Algo no cuadraba entonces. Ahora que lo pienso, esa estudiante no parecía realmente de la Academia Platino...==W== Y su color de pelo es igual al tuyo.
+0057 [Minova] | ¡No puedes tratar a las personas como números!
+0058 [Feagin] | La perspectiva cambia según dónde estés parada, querida.
+0059 [Feagin] | Es mejor arrancar la curita de golpe. Mientras pueda seguir fabricando nuevas tarjetas de deseo...
+0060 [Feagin] | Los sacrificios valen la pena.
+0061 [Tú] | ¿Eso es...==W== un Sello de la Gracia?
+0062 [Feagin] | Primero, infundir magia en el Sello.==W== Luego, copiar las especificaciones del vehículo con el Sello.
+0063 [Feagin] | Por último, imprimir esos datos en la tarjeta de deseo. Trabajo hecho.
+0064 [Tú] | Así que así se fabrican las tarjetas de deseo...
+0065 [Feagin] | De esta forma, ==W==cualquiera puede pedir un deseo.==W== No importa si conocen los Artefactos o las oraciones correctas.
+0066 [Noya] | Entonces, ¿por qué no pides tú los deseos?
+0067 [Feagin] | Ah...==W== si yo perdiera la memoria,==W== sería una enorme pérdida para la sociedad, ¿no?
+0068 [Feagin] | Naturalmente, tiene todo el sentido dejar que lo hagan los inútiles.
+0069 [Feagin] | Esos niños deberían estar contentos, ya que pudieron contribuir a la sociedad, ¿no?
+0070 [Minova] | Tsk...==W== Te falta un tornillo.
+0071 [Minova] | Tenía razón.==W== Deshacernos de ti y de Creta Trading==W== sería hacerle un favor a toda Nova.
+0072 [Feagin] | Oye, no querrás hacer nada precipitado.
+0073 [Feagin] | ¡Los veinte Caballeros Imperiales que contraté no son de adorno!
+0074 [Feagin] | ¿Eh? ¡¿P-por qué están todos en el suelo?!
+0075 [Minova] | No sé quién nos ayuda, ==W==pero su sincronización no pudo ser mejor.==W==
+0076 [Feagin] | ¡Eeeek!
+0077 [Minova] | ¡No dejen que escapen!
+0078 [Iris] | Amber, Feagin dejó caer sus archivos. ¡Rápido, toma fotos!==W== Podría haber pistas==W== sobre ese extraño préstamo.
+0079 [Amber] | A eso voy.==W==
+0080 [Noya] | Yo voy a rescatar a Loxy.==W==
+0081 [Feagin] | Tú...==W== ¡no creas que te saldrás con la tuya==W==!
+0082 [Feagin] | ¡Todavía tengo mi carta de triunfo!
+0083 [Minova] | ¿Y ahora qué tramas?
+0084 [Feagin] | ¡Por fin despiertas! ¡Necesito tu ayuda, ya!
+0085 [Chica de pelo blanco] | Aaaah…==W== ¿cómo se supone que duerma==W== con todo este alboroto?
+0086 [Iris] | ¡Mi Piedra del Alma no funciona!
+0087 [Amber] | Mis armas no disparan.
+0088 [Minova] | ¡Maldición!==W== ¡Toma esto!
+0089 [Narración] | La chica se disuelve en niebla negra, que fluye a través del bate de Minova.
+0090 [Narración] | Arrebata a Feagin, acorralada contra la pared por Minova, y se desvanece, como nieve oscura derritiéndose en primavera.
+0091 [Narración] | Al instante siguiente, reaparece con Feagin en el extremo opuesto del salón.
+0092 [Chica de pelo blanco] | Patéticos novianos.==W== Sin sus Piedras del Alma, no son nada.
+0093 [Feagin] | ¡G-==W==Gran Maestra!==W== ¡Ayúdame! ¡Atrapa a estas salvajes!
+0094 [Chica de pelo blanco] | ¿Eh?==W== ¿Por qué debería?
+0095 [Chica de pelo blanco] | No me interesa.==W== Solo te rescaté para que dejaran de molestar mi sueño con este escándalo.
+0096 [Feagin] | ¡Te pagaré extra, ¿sí?!
+0097 [Chica de pelo blanco] | Me niego.
+0098 [Iris] | ¿Una disputa? No sé qué pasa... ==W==¡pero aprovechemos y retirémonos==W==!
+0099 [Minova] | No estoy segura, pero creo que esta niebla me impide usar magia...
+0100 [Minova] | Odio dejarlas escapar, pero por ahora no podemos hacer nada.
+0101 [Noya] | Loxy tampoco arranca.==W== Primero empujemos a Loxy de regreso.
+0102 [Chica de pelo blanco] | Je, ==W==tus objetivos se están escapando.
+0103 [Chica de pelo blanco] | Si quieres mi ayuda, ==W==tendrás que prepararme unas cosas==W==.
+0104 [Lugar y hora] | 06:00, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0105 [Noya] | Uf, Loxy está a salvo escondida.
+0106 [Noya] | La bifurcación de allá atrás lleva a un puente destruido. Dudo que alguien vaya por ahí.
+0107 [Iris] | Esa extraña maga no nos siguió.
+0108 [Tú] | Probablemente aún esté regateando con Feagin.==W== No parecen estar del todo del mismo lado.
+0109 [Amber] | Hay muchos mercenarios y pandilleros bajo el puente del Canal.
+0110 [Tú] | Lo sé.==W== No debemos bajar la guardia todavía.
+0111 [Minova] | Los niños del clan... Me estoy preocupando... Necesito volver...
+0112 [Minova] | Ah, cierto,==W== y quien nos ayudó a derribar a esos caballeros, ¿quién es?
+0113 [Tú] | A mí también me da curiosidad.==W== Pero ahora no tenemos tiempo para eso.
+0114 [Tú] | Volvamos primero al clan.
+0115 [Narración] | Antes de bajar del puente del Canal, miro hacia atrás, al camino vacío que dejamos.
+0116 [Tú] | Se siente como si alguien... me cuidara en silencio.

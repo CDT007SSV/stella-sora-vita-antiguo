@@ -1,0 +1,129 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 2 · Visita misteriosa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Tailor | Sastre
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_138 | Nyx
+N:avg1_145 | Otoha
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_976 | Árbol Asociado
+N:avg2_979 | Enviado espectral
+N:avg3_100 | Sylar
+N:avg3_136 | Ruby
+N:avg3_143 | Residente
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Visita misteriosa
+0003 [Intro] | Te ofreces a dar el discurso principal del banquete en lugar de Firenze para que ella pueda cumplir las órdenes de la sede y viajar a Puerto Jilguero. Mientras te pruebas tu traje formal, entras por accidente en la habitación de una desconocida.
+0004 [Lugar y hora] | 15:00, 3.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0005 [1] | ¿No tenemos opción? Supongo que la autoridad de la gran inspectora es demasiado absoluta como para desafiarla.
+0006 [Firenze] | Tienes razón, la gran inspectora tiene autoridad para investigar a cualquier empleado de Cosecha Unida.==W== Aun así, dudo que esta vez sea ella quien realmente nos convocó...
+0007 [Firenze] | Dentro de la sede de Cosecha Unida, la gran inspectora es una de las pocas aliadas que se opusieron a Darcia y se pusieron de nuestro lado.==W== Cuando incriminaron a mi padre, aunque no pudo refutar las pruebas, nos ayudó muchísimo.
+0008 [Nyx] | Después de que me degradaron a Marketing,==W== si conservé mi puesto de inspectora fue solo gracias a ella.
+0009 [Firenze] | Dada la situación actual, es poco probable que haga algo en contra de la sucursal de Philae o de nosotras.
+0010 [Tú] | ¿Será que alguien está usando su nombre para distraerlas? Quien haya montado esto es alguien de cuidado.
+0011 [Firenze] | En cualquier caso, la carta sí tiene la letra de la gran inspectora Matilda,==W== lleva su sello y se envió desde Puerto Jilguero.
+0012 [Tú] | Si no van, les quedará en el expediente que «violaron las políticas de la empresa».==W== Pero si van, puede que las espere una trampa.
+0013 [Firenze] | Entre los dos males, diría que vamos.
+0014 [Nyx] | Ahora que sabemos que la gran inspectora Matilda está en Puerto Jilguero,==W== hablar con ella cara a cara es la mejor forma de resolver todos estos problemas.
+0015 [Tú] | Entendido. Vayan ustedes.==W== ¡El Gremio de la Nueva Estrella y yo ayudaremos con el banquete!
+0016 [Tú] | Si Iris se entera de que vamos a tratar con tantas figuras importantes, seguro le da un ataque de pánico.==W== Aunque,==W== la verdad, es más que capaz de manejarlo.
+0017 [Firenze] | Jefe, de verdad te pido disculpas por cargarte con esto en un momento así.
+0018 [Firenze] | Además de explicar la verdad detrás del incidente de Darcia, este banquete también es una oportunidad para que varias partes,==W== incluida la sede de Cosecha Unida, evalúen el estado actual de la sucursal de Philae.
+0019 [Firenze] | Quieren ver si la sucursal está estable==W== y si tiene la capacidad de mantener su nivel de negocio anterior.
+0020 [Nyx] | Se rumora que la sede pretende quitar a Firenze de su puesto como directora ejecutiva interina para abrirle paso a un sucesor respaldado por el Senado que tome el control de la sucursal de Philae.
+0021 [Nyx] | Ese candidato está impulsando un «Plan de Innovación» para la sucursal.
+0022 [Nyx] | En pocas palabras, se trata de recortar costos y aumentar ganancias, justo lo que el Senado quiere oír.
+0023 [Nyx] | Si ese plan llega a aprobarse, el personal trabajará turnos sin parar, igual que las Plantas Inteligentes.
+0024 [Nyx] | Se están llevando a Firenze en un momento así solo para armar un caos en el banquete.
+0025 [Nyx] | Si las cosas salen mal, tendrán la excusa perfecta, «incompetencia administrativa», para renovar la dirección de la sucursal de Philae.
+0026 [Tú] | Por otro lado, si la fiesta sale perfecta sin Firenze, eso demuestra que construyó una base sólida como roca.
+0027 [Firenze] | Cierto.==W== Pero puede que algunos «colados» se metan al banquete.==W== Ten mucho cuidado.
+0028 [Tú] | ¿Colados?
+0029 [Firenze] | En la carrera por el título de director ejecutivo, podrían recurrir a... métodos poco convencionales.
+0030 [Firenze] | Sinceramente, quería que disfrutaras el banquete sin preocupaciones.==W== Pero sin nosotras aquí, podrían poner la mira en ti...==W== Así que, por favor, mantente alerta.
+0031 [Firenze] | Puse personal de seguridad cerca del salón.
+0032 [Tú] | ¿Seguridad? ¿No se llevaron al equipo anterior junto con Lady Gray?
+0033 [Firenze] | Sí. Los nuevos son de medio tiempo, trabajadores de la sucursal.==W== No tienen tanta experiencia como los profesionales.
+0034 [Tú] | Tranquila. Ya lo he visto todo.==W== El enorme Stellaroid del Canal,==W== monstruos fantasmales,==W== y esa aterradora legión de plantas...
+0035 [Tú] | Un banquete, aunque esté plagado de peligros,==W== es algo que puedo manejar.
+0036 [Tú] | En ese caso, yo me encargo del discurso que ibas a dar tú.
+0037 [Tú] | Eso sí, más te vale pagarme el trabajo~==W== ¿Qué tal una cena en el mejor restaurante de Philae?
+0038 [Firenze] | Sin problema.
+0039 [Nyx] | Jefe,==W== te confío el futuro de cada trabajador de la sucursal de Philae.
+0040 [Tú] | Sí,==W== entendido.
+0041 [Tú] | Qué determinación tan intensa...==W== A Nyx de verdad le importa la empresa.
+0042 [Nyx] | ¡Si ese Plan de Innovación se aprueba y me ponen turnos seguidos,==W== voy a perder mis siestas de la tarde! ¡Eso jamás va a pasar!==W== ¡Mi hora de la siesta es sagrada!
+0043 [Tú] | ¡¿Eso es lo que te preocupa?!
+0044 [Nyx] | De todos modos, tenemos que averiguar quién mandó esta carta urgente==W== y qué está tramando.
+0045 [Ruby] | Lady Firenze, su invitada ya llegó.
+0046 [Firenze] | Entendido. Vamos para allá.
+0047 [Firenze] | Hora de volver al hotel.==W== En cuanto saludemos a nuestra invitada, tenemos que salir de inmediato a Puerto Jilguero.
+0048 [Nyx] | ¡Ah, y Jefe!==W== Mándame una foto cuando hayas escogido tu traje, ¿sí?
+0049 [Tú] | Espera, ¿qué traje?
+0050 [Firenze] | Le pedí a un maestro sastre==W== que te tome medidas para un traje de gala a la medida.
+0051 [Tú] | ¡¿Desde cuándo...?!==W== No, no, es demasiado.==W== ¿No puedo arreglármelas con lo que traigo puesto?==W==
+0052 [Firenze] | Es cuestión de etiqueta, y ya está todo arreglado.==W== En pocas palabras: «no» no es una opción.==W== Solo escoge uno que te guste.
+0053 [Tú] | ¡¿En serio?!
+0054 [Lugar y hora] | 16:00, 3.º del mes de Venatio, Distrito de Plata de Philae, vestíbulo del hotel
+0055 [Noya] | ¡==PLAYER_NAME==!==W== ¡Por fin regresaste!
+0056 [Iris] | ¡Ese sastre trajo un montón de atuendos preciosos!==W== ¡No nos podemos decidir!
+0057 [Amber] | Jefe,==W== pruébatelos todos.
+0058 [Tú] | ¡¿De verdad es necesario?!==W== Es solo por una noche. Cualquiera debería servir.
+0059 [Noya] | ¡Ni de chiste!==W== ¡Tienes que verte lo mejor posible!==W==
+0060 [Tú] | Disculpe... No quiero quitarle su tiempo. Si todavía hay que hacer pruebas, más vale que nos apuremos.
+0061 [Tailor] | Por favor,==W== no se preocupe por eso.==W== ¡Mi única prioridad es que quede encantado con el resultado final!
+0062 [Tú] | Yo...==W== Eh...
+0063 [Noya] | ¿Ves? Hasta el sastre dice que no hay problema. ¡Ándale, ==PLAYER_NAME==, pruébatelos!
+0064 [Tú] | Está bien...==W== Lo haré.
+0065 [Narración] | Me pongo y me quito un atuendo tras otro... Pero ninguno convence al grupo, hasta que...
+0066 [Iris] | ¡E-==W==Ese es!
+0067 [Noya] | ¡Es perfecto!==W== ¿Puedes usar esto todos los días, ==PLAYER_NAME==?
+0068 [Amber] | Está hecho para ti.==W==
+0069 [1] | ...==W== No exageren, chicas.==W==
+0070 [Tailor] | ¡Acepte el cumplido! Esta prenda le queda perfecta.==W== ¡Entonces es esta!
+0071 [Tailor] | ¡Excelente!==W==
+0072 [1] | Por fin...==W== Llevan horas vistiéndome y desvistiéndome como si fuera un maniquí.
+0073 [1] | Mejor regreso a cambiarme. Tengo que arreglarme antes de la cena.
+0074 [1] | Habitación 404...==W== 404...==W== Aquí es.
+0075 [1] | ¿Mmm?==W== ¿Por qué huele a...==W== flores en el pasillo?
+0076 [???] | Vaya... ¿Esperábamos visita?
+0077 [Tú] | ¡¿?!
+0078 [???] | Dime...==W== ¿Qué te trae a mi puerta?
+0079 [Opción] | Espera, ¡¿no es mi habitación?!
+0080 [???] | Jeje. Tienes sentido del humor, eso sí,==W== pero me temo que esta suite está ocupada.
+0081 [???] | Yo diría que estás...==W== un poco perdido.
+0082 [Tú] | Ahora que me fijo bien...==W== Sí, definitivamente me equivoqué de lugar.
+0083 [Tú] | ¡Perdón!==W== ¡Me equivoqué de puerta!
+0084 [???] | No pasa nada.
+0085 [???] | Por suerte para ti, solo estoy tomando el té.==W== Si me hubiera estado cambiando...==W== Bueno,==W== una simple disculpa no habría bastado.
+0086 [Opción] | L-lo siento mucho...
+0087 [???] | Solo estoy bromeando. Ese atuendo es precioso...==W== ¿Vas a un banquete, tal vez?
+0088 [Opción] | A-algo así.
+0089 [???] | Jeje.==W== Entonces debes ser la estrella de la noche.
+0090 [???] | ¿No te quedas a tomar una taza de té negro? A mí también me da bastante curiosidad ese banquete.
+0091 [???] | Además, tu habitación no está lejos de aquí, ¿verdad?
+0092 [Tú] | Eh... Mejor no. Tengo unos asuntos urgentes que atender. Disculpe por entrar así de golpe a su habitación.
+0093 [???] | Entonces... te deseo la mejor de las suertes.
+0094 [Opción] | G-gracias.
+0095 [Opción] | No le quito más tiempo. Yo...
+0096 [Narración] | Salgo de prisa y echo un vistazo al número de la puerta al irme: claramente dice «406».
+0097 [1] | Qué raro. Habría jurado que vi «404» en la puerta...==W== ¿Ya me está pasando factura el cansancio?
+0098 [Lugar y hora] | 22:00, 3.º del mes de Venatio, Distrito de Plata de Philae, habitación del hotel
+0099 [1] | Llevo días sin dormir bien, y ahora ni siquiera distingo una puerta de otra. Hoy, irme a dormir es la prioridad número uno.
+0100 [1] | No me puedo dar el lujo de cometer errores en el banquete...==W== Tengo que estar en mi mejor forma.
+0101 [1] | Pero aun así...==W== ¿De verdad leí mal?
+0102 [1] | Habría jurado==W== que revisé el número antes de entrar...==W==
+0103 [1] | ¿Eh...?==W== ¿Quién anda ahí?
+0104 [Narración] | Abro la puerta y me encuentro con un pasillo completamente vacío.
+0105 [1] | ¿Qué...?
+0106 [Narración] | Mientras me quedo ahí, desconcertado, un sobre se desliza en silencio por el piso hasta mis pies.
+0107 [1] | ¡¿Esto es...?!

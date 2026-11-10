@@ -1,0 +1,129 @@
+# Historia de Minova · 2 · A Delinquent's Day (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Frightened Girl | Chica asustada
+N:Sly Gangster | Pandillero astuto
+N:Strict Teacher | Profesora estricta
+N:Veteran Gangster | Pandillero veterano
+N:Vicious Gangster | Pandillero cruel
+N:Young Gangster | Pandillero joven
+N:avg1_120 | Canace
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_167 | Chica
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El día de una delincuente (Parte II)
+0003 [Intro] | Para esta chica delincuente, algunas batallas se libran no con un bate, sino con una pluma.
+0004 [Strict Teacher] | Los Artefactos son dones concedidos a los novianos por el Dios de la Gracia.
+0005 [Strict Teacher] | Solo quienes tienen el valor de desafiar al Monolito se ganan el derecho de recibir este don mediante el Rito de los Deseos.
+0006 [Strict Teacher] | Esto seguro saldrá en el examen final. Asegúrense de aprenderlo bien.
+0007 [Narración] | Academia Luz de Gracia.
+0008 [Narración] | Me siento en la penúltima fila junto a la ventana, rodeado del suave rasgueo de plumas sobre el papel.
+0009 [Minova] | Tengo que ir al siguiente campo de batalla.
+0010 [Tú] | ¿Así que a esto se refería Minova con «siguiente campo de batalla»?
+0011 [Tú] | Pelearse con otras pandillas y aun así tener que asistir a clase. Debe de ser duro.
+0012 [Tú] | Ahora que lo pienso, todos los demás toman apuntes y yo aquí, mirando a mi alrededor. No me veo muy bien, ¿verdad?
+0013 [Strict Teacher] | Usted.
+0014 [Tú] | ¿Eh?
+0015 [Strict Teacher] | Sí, usted. Responda a mi pregunta.
+0016 [Tú] | ¡Ay, me distraje un momento! ¡No tengo idea de cuál era la pregunta!
+0017 [Tú] | Eh, la respuesta a la pregunta, es decir...
+0018 [Minova] | Ejem.
+0019 [Narración] | Minova empuja en silencio sus apuntes hacia mí.
+0020 [Tú] | Ah, ya me acordé.
+0021 [Tú] | Lo que es otorgado por los dioses no puede desafiarse.
+0022 [Tú] | Por lo tanto no podemos, ni debemos, desmantelar Artefactos.
+0023 [Strict Teacher] | Correcto. Puede sentarse.
+0024 [Tú] | Me salvaste, Minova.
+0025 [Narración] | Para no repetir mi error, me concentro intensamente el resto de la clase de Artefactos.
+0026 [Tú] | Por fin terminó la clase.==W== ¡No tenía idea de que solo escuchar pudiera ser tan agotador!
+0027 [Minova] | Esta profesora es bastante estricta,==W== pero también es la instructora de Monolitología más dedicada.
+0028 [Minova] | Lo siguiente... Déjame revisar el horario.
+0029 [Minova] | Ah, hoy solo tengo esta clase de Monolitología.
+0030 [Minova] | Volvamos, Jefe.
+0031 [Tú] | ¿Normalmente tienes más?
+0032 [Minova] | Vengo dos o tres veces por semana, y a veces asisto a clases todo el día.==W== Todas tratan del Monolito y los Trekkers.
+0033 [Minova] | Sé que la experiencia práctica es una parte esencial de convertirse en Trekker.
+0034 [Minova] | Pero quiero aprender el oficio lo más rápido posible, desear piezas de Artefacto y que todos en el Viento de Ceniza armen sus propios Artefactos.
+0035 [Tú] | Lo que quieres va en contra de lo que te enseñaron.
+0036 [Tú] | Lo que es otorgado por los dioses no puede desafiarse. No podemos, ni debemos, desmantelar Artefactos.
+0037 [Minova] | Bueno, el libro de texto es una cosa y la realidad es otra.
+0038 [Minova] | Memorizar al pie de la letra te hace pasar exámenes, pero la verdadera comprensión viene de adaptar las teorías a tus propios fines.
+0039 [Minova] | Ejem, creo que me puse demasiado ñoña ahí.
+0040 [Minova] | Como líder de una pandilla, probablemente debería decir algo como...
+0041 [Minova] | ¡No tengo tiempo para tantas palabras! ¡Solo dime cómo golpear gente y ganar dinero!
+0042 [Tú] | Se siente raro oírte decir eso con el uniforme de estudiante puesto.
+0043 [Tú] | Hablando de eso, ¿no enseñan estas cosas en la Academia Platino?
+0044 [Minova] | La gente del Distrito de Oro solo piensa en conseguir empleo en grandes empresas.
+0045 [Minova] | Los conocimientos sobre el Monolito de la Academia Platino están todos orientados al lado empresarial, totalmente distintos del camino de Trekker que quiero seguir.
+0046 [Minova] | Por eso conseguí un pase de oyente para la Academia Luz de Gracia.
+0047 [Tú] | Y me trajiste a mí de paseo.
+0048 [Minova] | Todo es gracias a este uniforme.
+0049 [Minova] | «Quien estudia en la Academia Platino debe de ser hija de ejecutivos de empresas o de pesos pesados del Senado».
+0050 [Minova] | «Y quienes la rodean deben de ser gente de bien».
+0051 [Minova] | Así que tuviste pase libre.
+0052 [Tú] | Muy conveniente.
+0053 [Minova] | No me gusta este uniforme. Se siente como una jaula de pájaros glorificada.
+0054 [Minova] | Es solo que... muchas veces de verdad me ayuda a mí, y al Viento de Ceniza, a evitar problemas.
+0055 [Young Gangster] | Oigan, miren, ¿esa no es Minova?
+0056 [Young Gangster] | Solo trae un acompañante. Parece de los flacos. ¿Le damos un ataque sorpresa?
+0057 [Veteran Gangster] | ¿Estás ciego o qué? ¿No ves que trae uniforme de la Academia Platino?
+0058 [Veteran Gangster] | Si eres tan tonto como para atacar a una alumna de Platino, mañana en la mañana te encontrarán colgado de las vigas.
+0059 [Veteran Gangster] | Los padres de algunos de esos estudiantes quizá sean justo los mecenas que financian a las pandillas.
+0060 [Narración] | Los pandilleros observan cómo Minova y yo atravesamos tranquilamente su territorio.
+0061 [Tú] | Es como un amuleto protector.
+0062 [Tú] | Ahora que lo pienso, Minova parece más femenina con el uniforme puesto.
+0063 [Minova] | Jefe. Me estás juzgando en silencio, ¿verdad?
+0064 [Minova] | Algo como... que mi manera de caminar es rara.
+0065 [Tú] | No. Para nada.
+0066 [Minova] | Esta falda dificulta el movimiento. Solo puedo caminar con pasitos y se siente tan incómodo.
+0067 [Minova] | La primera vez que me metí en una pelea, llevaba puesto un uniforme de la Academia Platino.
+0068 [Minova] | Rompí la falda para poder correr mejor. Jeje.
+0069 [Minova] | Menos mal que Platino da dos juegos de uniformes.
+0070 [Tú] | Así fue como surgió la media falda de tu atuendo habitual.
+0071 [Minova] | Sí, esa falda guarda muchos recuerdos.
+0072 [Minova] | La recorté a su largo y la teñí de azul oscuro, así que ahora no se nota que originalmente era de un uniforme escolar.
+0073 [Vicious Gangster] | ¡Oye, tú, entrega la lana!
+0074 [Sly Gangster] | Hazle caso si no quieres que te usemos para practicar golpes.
+0075 [Frightened Girl] | ¡Buaaa!
+0076 [Tú] | Salvo la calle donde está el Clan Viento de Ceniza, el Distrito de las Cenizas es un lugar muy turbio.
+0077 [Minova] | ...
+0078 [Tú] | Si fuera la Minova de siempre, ya habría arremetido.
+0079 [Tú] | Pero ahora lleva su uniforme de la Academia Platino, y este no es territorio del Viento de Ceniza.
+0080 [Tú] | ¿Ella... lo manejó?
+0081 [Minova] | Solo los cobardes se miden con gente común. La próxima vez que tengas ganas de pelea, búscame a mí.
+0082 [Minova] | Y tú, aléjate de esta zona la próxima vez. Las pandillas de aquí son verdaderos canallas.
+0083 [Frightened Girl] | Gra... gracias...
+0084 [Tú] | ¿De verdad está bien que hagas esto? Después de todo, este no es territorio del Viento de Ceniza.
+0085 [Tú] | ¿No dijiste que había que evitar hacerse enemigos cuando se pudiera?
+0086 [Minova] | Puedo ceder cuando se trata solo de mí, pero si no intervengo cuando intimidan a otros, no soy fiel a mí misma.
+0087 [Minova] | Además, te tengo a ti como escudo.
+0088 [Tú] | ¿A mí?==W== ¿Tu escudo?
+0089 [Minova] | Todas las pandillas del Distrito de las Cenizas creen que respaldas al Clan Viento de Ceniza.
+0090 [Minova] | Esos eran solo peces chicos. No se atreven a decir nada.
+0091 [Tú] | No sabía que era tan impresionante.
+0092 [Narración] | En efecto, la mayoría de los pandilleros agachados junto al camino que no son novatos de verdad evitan mirarme a los ojos.
+0093 [Minova] | Ahora me estoy colgando de tus faldas por completo. O, como dicen los Loong, un zorro que se vale del poder del tigre.
+0094 [Narración] | Divertido por esta revelación, intento cruzar la mirada con cada pandillero que pasamos de camino a casa.
+0095 [Tú] | Minova, hay una caja sospechosa que hace tictac frente al clan.
+0096 [Minova] | ...
+0097 [Tú] | Dice... «Para Minova del Clan Viento de Ceniza. Contiene bomba».
+0098 [Tú] | ¡¿Una bomba?!
+0099 [Minova] | Déjamela a mí, Jefe.
+0100 [Tú] | ¿Acaba de aplastar el mecanismo de detonación solo con la fuerza de su agarre?
+0101 [Minova] | Uf, desactivada.
+0102 [Minova] | Llamadas de emergencia, Jefe. Tengo que desmantelar por completo esta bomba.
+0103 [Tú] | ¿Necesitas ayuda?
+0104 [Minova] | Estoy bien. El Viento de Ceniza recibe amenazas así todo el tiempo.
+0105 [Minova] | Bombas. Asesinos. Ya estoy acostumbrada.
+0106 [Minova] | Te lo agradeceré como se debe otro día.
+0107 [Narración] | La expresión de Minova es algo inquieta. Se rasca la mejilla, se despide y entra.

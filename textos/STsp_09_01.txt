@@ -1,0 +1,109 @@
+# Nova Times #09 · Pareja por un día · 1 · One-Day Partner (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Sneaky Captain | Capitán sigiloso
+N:The Boss | La Jefa
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg2_982 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Pareja por un día (Parte I)
+0003 [Intro] | Temprano por la mañana, una llamada repentina de Mistique te despierta: dice que necesita ayuda urgente. Siguiendo la dirección que te envía, llegas a un lugar que parece un hotel de lujo.
+0004 [Tú] | Mmm... A esta hora de la mañana... ¿Quién es?
+0005 [Mistique] | ¡Por favor, Tirano!==W== ¡Te necesito! ¡Te necesito muchísimo!
+0006 [1] | Esa voz... ¿Es Mistique?
+0007 [Mistique] | No estabas durmiendo, ¿verdad? ¡De todos modos, ven a ayudarme ahora mismo! ¡De inmediato! ¡No hay tiempo para explicar!
+0008 [Mistique] | Te cuento los detalles cuando llegues. ¡Es urgente! ¡Ya te mandé la dirección!
+0009 [Tú] | Eh, y me colgó...
+0010 [Tú] | ¿De verdad será tan urgente? Más vale levantarme e ir a echar un vistazo.
+0011 [Tú] | Este lugar es... ¿Un hotel de lujo?
+0012 [Tú] | Pero esta es la dirección que me mandó Mistique...==W== Ojalá no me haya equivocado de lugar.
+0013 [???] | ¡Cariño~! ¿Por qué tardaste tanto?==W== ¡Rápido, rápido! ¡Por aquí!
+0014 [Tú] | ¿C-c-cariño? ¡Perdón, se equivocó de persona!
+0015 [Tú] | Espera... ¿Mistique? Tú... ¿Qué es lo que traes puesto?
+0016 [Mistique] | ¡Shh! ¡No te alteres tanto! ¡Baja la voz!
+0017 [Mistique] | ¡Si alguien pregunta, di que somos pareja! ¡Soy una joven rica llamada Lutty que se escapó de casa por amor, y tú eres mi gran amor, con quien me fugué!
+0018 [Tú] | ¿Pareja? ¿Lutty? ¿De qué estás hablando?
+0019 [Mistique] | ¡Si no regreso pronto, se van a sospechar! ¡Te explico todo después! ¡Por ahora, solo sígueme la corriente!
+0020 [Tú] | Eh... Está bien...
+0021 [Tú] | A Mistique le encanta hacer bromas, pero nunca me ha hecho ningún daño. Supongo que por ahora le seguiré el juego...
+0022 [Mistique] | ¡Aquí tiene, señora! ¡Traje de vuelta a ==SEX4==! ¡==SEX1== es mi gran amor! ¡Mientras pueda estar con ==SEX4==, estoy dispuesta a renunciar a todo!
+0023 [The Boss] | Nada mal. Déjame echarle un vistazo.
+0024 [The Boss] | Mmm... ==SEX1== parece pobre, pero ==SEX== tiene una cara bastante decente.==W== Si tuviera veinte años menos, me vería teniendo una cita con esta persona.
+0025 [Tú] | Eso no sonó a un cumplido de verdad... ¿Qué clase de lugar es este?
+0026 [Tú] | Y hay demasiados guardias de seguridad. Incluso para seguridad de alto nivel... no hace falta tanta gente.
+0027 [The Boss] | ¡Muy bien, sirves! Escucha con atención. Este es un trabajo que requiere cerebro, así que piensa rápido y trabaja duro.
+0028 [Tú] | ¿Trabajo?==W== No necesito—
+0029 [Mistique] | CA~==W==RI~==W==ÑO~
+0030 [Tú] | Agh... ay...
+0031 [Tú] | ¡Oh, qué maravilla! ¡Lutty! ¡Justo estaba buscando un trabajo que pague bien!
+0032 [Mistique] | ¡Mm! ¡Por nuestro futuro juntos, hagamos mucho dinero!
+0033 [The Boss] | Si buscas ganar mucho dinero, has venido al lugar correcto. Mientras trabajes duro, te garantizo ganancias muy por encima de lo esperado.
+0034 [The Boss] | Por cierto, nuestro principal negocio aquí es vender Artefactos. Por el bien del público y para difundir la bendición de la Gracia, mantenemos los precios a una décima parte del valor de mercado.
+0035 [Mistique] | Sí, cariño. Nuestro trabajo es vender estos Artefactos. ¡Entre más vendamos, mejor!
+0036 [Tú] | Ya veo...==W== Pero si cuestan solo una décima parte del precio de mercado, ¿no harían fila para comprarlos incluso sin que les demos discursos de venta?
+0037 [The Boss] | Qué poco entiendes... ¿No has oído el dicho «lo barato sale caro»?
+0038 [Tú] | ¿A qué se refiere?
+0039 [Mistique] | Estos Artefactos son solo cascarones vacíos. Parecen legítimos, pero no funcionan.
+0040 [Tú] | ¿Qué? Entonces, ¿no son falsificaciones?
+0041 [The Boss] | ¡Ejem!==W== Donde hay demanda, hay mercado. Somos un negocio perfectamente legítimo. Los clientes compran Artefactos para lucirlos en su sala, no para usarlos de verdad.
+0042 [The Boss] | En otras palabras, no vendemos Artefactos. Vendemos el estatus de tener uno. En cuanto a si funciona, ¿a quién le importa?
+0043 [Mistique] | ¡Comparado con pagar una fortuna para encargarles a unos Trekkers que pidan un deseo en el Monolito, nuestras réplicas son mucho más baratas! ¡Por eso usted es la jefa! ¡Su visión para los negocios es increíble!
+0044 [The Boss] | Ya ves, Lutty capta la idea. Deberías aprender de tu novia para vender mejor nuestros productos.
+0045 [Tú] | Guau, vender falsificaciones sin una pizca de vergüenza... Esto es obviamente una red de estafadores. ¿Por qué me habrá arrastrado Mistique hasta aquí...?
+0046 [Mistique] | 
+0047 [Mistique] | ¡Es trabajo encubierto! ¡Sígueme la corriente!
+0048 [Mistique] | Relájate. ¡No voy a hacerte vender mercancía falsa de verdad!
+0049 [Mistique] | 
+0050 [Mistique] | ¿Por favoooor?
+0051 [Tú] | Escribe a ciegas en su teléfono con una sola mano detrás de la espalda...==W== Ella y Amber deben tener mucho de qué hablar.
+0052 [The Boss] | ¡Ejem! ¡Mientras tu superiora habla, no mires el teléfono! Como Lutty te recomendó, esta vez lo dejaré pasar. ¡Que no se repita!
+0053 [Tú] | Perdón. Solo estaba apagando el teléfono==W== para concentrarme mejor en lo que decía.
+0054 [The Boss] | En serio... La juventud de hoy... ¿Se les olvidaron hasta los modales básicos?
+0055 [Tú] | Ahora los estafadores dan lecciones de modales...
+0056 [The Boss] | Bien, hablemos de tu paga. Por cada trato que cierres, recibes una comisión. Es decir, entre más trabajes, más ganas. Bastante sencillo, ¿no?
+0057 [Mistique] | ¡Y, cariño! ¡Si logras reclutar a más personas como yo lo hice, podrás hacer trabajo más avanzado y ganar comisiones aún más altas!
+0058 [Tú] | ¿Trabajo más avanzado? ¿También venden otras cosas?
+0059 [Mistique] | También tenemos teléfonos obtenidos por ciertos canales. Con magia que altera la voz, ayudamos a contactar a los amigos y familiares del dueño y a platicar de oportunidades de negocio muy lucrativas~★
+0060 [The Boss] | ¡Ejem! Lutty, todavía no les cuentes esa parte del trabajo a los nuevos.
+0061 [Tú] | Oportunidades de negocio lucrativas para todos...==W== Eso me suena muy familiar...
+0062 [Narración] | Hace unos días.
+0063 [Noya] | ¡Iris! ¡Ay, no, perdí mi teléfono! ¿Qué hago? ¡B-buaaah—!
+0064 [Iris] | ¿Noya? ¿Qué haces aquí?
+0065 [Noya] | ¿P-por qué no puedo estar aquí? Perdí mi teléfono, claro que vine a pedirte ayuda.
+0066 [Iris] | Pero hace un momento hablabas conmigo por teléfono... Decías que te habían ofrecido una comisión enorme, pero que primero tenías que darles un millón de Dorras como depósito de garantía. Estaba a punto de ir a buscarte.
+0067 [Iris] | Pero si perdiste tu teléfono, ¿con quién estaba hablando?
+0068 [Tú] | No me digas que fue una estafa. Las comisiones de la Asociación de Trekkers jamás exigirían un depósito tan enorme.
+0069 [Noya] | ¿¡Una estafa!?==W== ¡Rayos! ¡Alguien se hizo pasar por mí para engañarte! Iris, ¿no entregaste el dinero, verdad?
+0070 [Iris] | Como si tuviéramos algo cercano a un millón de Dorras... Ni siquiera tenemos diez mil ahorrados ahorita.
+0071 [Tú] | Como el Gremio de la Nueva Estrella estaba en la ruina, no nos estafaron.==W== Más tarde encontramos el teléfono perdido de Noya en un callejón de la zona de los invernaderos.
+0072 [Tú] | Seguramente hicimos demasiado ruido al pedirle ayuda a Firenze, y el ladrón entró en pánico y soltó el teléfono robado.
+0073 [Tú] | Pero nunca atraparon al culpable.==W== ¿Será ... que la mujer que tengo enfrente es la organización de estafadores detrás de todo?
+0074 [Mistique] | Eh, disculpe, señora...
+0075 [The Boss] | ¿Ahora qué pasa?
+0076 [Mistique] | Ya traje gente y vendí todo el inventario anterior. Eso significa que mi periodo de prueba terminó, ¿verdad?
+0077 [Mistique] | Entonces... ¿Ya puedo entrar al negocio de alta comisión?
+0078 [The Boss] | La ambición es buena, pero la prisa es mala consejera. Todavía debes pasar por el proceso adecuado.
+0079 [Mistique] | Lo sé... Pero, eh... En realidad no tenemos mucho tiempo.
+0080 [Mistique] | Si esto se alarga, mi familia podría encontrarme. Quiero fugarme junto a ==SEX4== lo antes posible, y para eso necesitamos mucho dinero. Por eso traje también a ==SEX4== aquí para el trabajo.
+0081 [Mistique] | ¡Tenemos que hacer dinero rápido y dejar esta ciudad para siempre! ¡Si me atrapan y me llevan de vuelta con mis padres, seré una pieza en un matrimonio político y me separarán de mi gran amor para siempre!
+0082 [Tú] | Guau, qué trama tan disparatada... ¿De verdad se la va a creer la jefa?
+0083 [The Boss] | Ah, ustedes los jóvenes... Tan audaces, dispuestos a todo por amor. En mis tiempos... Cuando era joven, yo también... Pero dudé.
+0084 [The Boss] | En fin, entiendo su situación. Quienes tienen algo en juego son los que más se esfuerzan.==W== Haré una excepción esta vez. Lutty, mañana empiezas el otro negocio.
+0085 [Tú] | ¿¡Esa trama tan trillada de verdad funcionó!?
+0086 [Mistique] | ¡Gracias!==W== Me llevo ahora a ==SEX4== a los dormitorios. Mañana ganaré muchísimas, muchísimas Dorras, para ustedes y para mí.
+0087 [Mistique] | Vamos, cariño~ Trabajemos duro por nuestra nueva vida★
+0088 [The Boss] | Qué extraño. Lutty nunca había mencionado tener pareja. ¿De dónde salió de repente?
+0089 [The Boss] | Ustedes dos, síganlos.==W== Averigüen si ==SEX== de verdad es el gran amor de Lutty.
+0090 [Sneaky Captain] | Sí, señora.

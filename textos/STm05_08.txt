@@ -1,0 +1,162 @@
+# Capítulo 5 · Una chispa en la oscuridad · 8 · El mito del invernadero
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Efficient Mercenary | Mercenario eficiente
+N:Intelligent Plant | Planta Inteligente
+N:avg1_103 | Amber
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_964 | Hummingbird
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1250 | Empleado de Cosecha Unida
+N:avg3_1264 | Mistique
+N:avg3_134 | Mina
+N:avg3_183 | Joseph
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | El mito del invernadero
+0003 [Intro] | Irrumpes en el invernadero y descubres una enorme cantidad de plantas de crecimiento forzado. El responsable de todo es Joseph, el jefe de I+D. En la persecución, te conduce al laboratorio donde se cultivan plantas para convertirlas en armas...
+0004 [Lugar y hora] | 21:30, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 99
+0005 [???] | ¡Muévanse! ¡Saquen de aquí esas preciadas Hierbas de Jade antes de que la pelea las arruine!
+0006 [Efficient Mercenary] | Señor, listos para la emboscada.
+0007 [???] | Hmph. Esta vez sí atrapamos a ese tirador. Con tanta gente contra un solo objetivo, no tiene escapatoria.
+0008 [Efficient Mercenary] | Señor, una corrección. No es un solo objetivo. Son siete.
+0009 [???] | ¡¿Siete?!
+0010 [Noya] | ¡Ustedes son los que están detrás del Ruiseñor Dorado, ¿verdad?!
+0011 [Joseph] | Cof... Cof...==W== ¿Noya? ¿Siquiera te das cuenta de lo que estás haciendo?
+0012 [Amber] | Jefe, estamos rodeados.
+0013 [Fuyuka] | ¿S-Sir Joseph? ¿Qué hace aquí?
+0014 [Joseph] | Atrapar a las plagas que zumban a mi alrededor, naturalmente. Aunque... atraparlos a ustedes es una grata sorpresa.
+0015 [Mina] | Sir Joseph, ¡¿por qué creó el Ruiseñor Dorado?!
+0016 [Joseph] | Ah, el «Ruiseñor Dorado». ¿Así le dicen al pan? En realidad, crearlo no era mi intención.
+0017 [Joseph] | Fue un simple subproducto.==W== Contemplen mi último avance en cultivo mágico: la Hierba de Jade.
+0018 [Tú] | Hierba de Jade... El nombre me suena...
+0019 [Joseph] | La variedad silvestre absorbe la luz del sol de día y la libera de noche, como un verdadero sol.==W== ¡Para replicarlo a la perfección, prácticamente viví en la jaula con la Espada de Jade!
+0020 [Joseph] | Hace varios meses, unos Trekkers capturaron a la Espada de Jade en las Tierras Salvajes. Sus plumas son magia pura condensada, y genera viento mágico con solo batir las alas.
+0021 [Joseph] | Atiborramos a la bestia con alimento de alta carga mágica y luego usamos las plumas, y ese viento, para potenciar al máximo la Hierba, de modo que pudiera liberar luz solar mágica.
+0022 [Joseph] | Je... ¡Jajaja! ¡El destino recompensa a los ambiciosos! Las Hierbas de Jade que cultivamos son excepcionales. Su luz acelera el crecimiento de las plantas. A su lado, la variedad silvestre parece maleza.
+0023 [Joseph] | Dos meses. Nueve invernaderos. Igualamos toda su producción anual. ¿Las pruebas de campo con el trigo de afuera? Resultados espectaculares.
+0024 [Noya] | ¿Por qué llegar a esos extremos para forzar la cosecha? ¿Qué caso tiene?
+0025 [Joseph] | ¿Caso? No hay ningún «caso». La empresa quería más rendimiento y menos costos. Yo cumplí.
+0026 [Mina] | Espere... ¿Eso quiere decir que otros productos de Cosecha Unida también llevan esta harina forzada con magia?
+0027 [Joseph] | Je, je. Eres más lista de lo que pareces, Mina.
+0028 [Joseph] | Ruiseñor Leonado, Ruiseñor Dorado... ¿A quién le importa? La ganancia ahí es una miseria comparada con nuestros productos estrella.
+0029 [Joseph] | Aun así, el dinero es dinero. Aunque sea un solo Dorra, prefiero que esté en mi bolsillo.
+0030 [Joseph] | Nunca pensé que alguien de verdad se molestaría en pedirle algo a la dirección por el Ruiseñor Leonado... La empresa dio ese producto por perdido hace siglos.
+0031 [Mina] | ¡Eso es mentira! ¡La empresa nunca se rindió con él!
+0032 [Mina] | Cuando le pedí a Lady Darcia un equipo de investigación, ella misma me dijo...
+0033 [Darcia] | El Ruiseñor Leonado es el orgullo de nuestra sucursal de Philae. Nos ganó nuestra reputación con los Trekkers y con el Distrito de las Cenizas.
+0034 [Darcia] | Haz una investigación a fondo, Mina. Sé que no me vas a decepcionar.
+0035 [Tú] | ¿Eh? Así que quien respalda a Mina es Darcia... Y Firenze también ayudó a limpiar nuestros nombres antes.
+0036 [Tú] | Si la directora ejecutiva y la segunda al mando están limpias... ¿qué onda con Lady Gray? ¿Quién la está manejando?
+0037 [Mina] | ¡No voy a dejar que nadie arrastre nuestro nombre por el lodo ni que pisotee la comida que tanto nos costó crear!
+0038 [Mina] | Sir Joseph, usted violó gravemente el protocolo de la empresa. Vendrá conmigo con Lady Darcia a rendir cuentas.
+0039 [Joseph] | Jeje... ¡Jajajaja! Tienes una visión muy estrecha de cómo funcionan las cosas aquí, ¿verdad, Mina?
+0040 [Joseph] | Estás completamente ciega ante las intenciones de quienes están justo a tu lado.
+0041 [Joseph] | Mira a tus ayudantes contratados. Simples Trekkers que trabajan por dinero y, aun así, arriesgan el pellejo donde no hay ninguna ganancia. ¿No te parece... raro?
+0042 [Mina] | ¿Raro? ¿Qué está insinuando?
+0043 [Joseph] | ¡Jajaja! De todos aquí, tú eres la que peor ha violado el protocolo, Mina.
+0044 [Joseph] | Esa mujer a tu lado se hace pasar por una transferida de otra sucursal. Pero no es ninguna empleada. Es una bruja.
+0045 [Mina] | ¡¿Una bruja...?!
+0046 [Joseph] | Je. Se infiltró para desenterrar los trapos sucios de Cosecha Unida. Igual que en el escándalo de I+D de hace cuatro años.
+0047 [Mina] | Mistique... No, ella no haría...
+0048 [Joseph] | Entonces dime... ¿Crees que dejaría pasar un titular como «maduración acelerada con magia»? ¿Una historia que podría arruinar toda esta sucursal?
+0049 [Mistique] | ...
+0050 [Joseph] | Supongo que la edad lo vuelve a uno parlanchín.==W== Pero ya gasté suficiente saliva. Acaben con todos.
+0051 [Fuyuka] | ¡Maestro, ¿qué hacemos?!
+0052 [Tú] | Maldición. Estamos acorralados. Aunque logremos escapar, vamos a sufrir muchas bajas.
+0053 [Joseph] | ¡¿Otra plaga?!
+0054 [Efficient Mercenary] | ¡Director, cuidado! ¡Hay hostiles arriba!
+0055 [Efficient Mercenary] | ¡Argh...!
+0056 [Tú] | ¡Ahora! ¡Avancen! ¡Acaben con los mercenarios y atrapen a Joseph!
+0057 [Mistique] | ¡Espera! Jefe, esa «otra plaga» que mencionó... Quizá no sea amistosa.
+0058 [Tú] | Sí, pero ahora mismo no importa. Atrapar a Joseph es nuestra prioridad.
+0059 [Mistique] | ¡Voy!
+0060 [Mistique] | Mi escoba puede hacerlo sin problema.==W== ¡Jefe, súbete!
+0061 [Joseph] | Trekkers... y un tirador.==W== Ya veo. Por fin lo veo... Nos usaron desde el principio.
+0062 [Joseph] | ¡Jajaja! ¡Todos somos gusanos ciegos y patéticos! Y déjenme decirles algo... ¡No soy el único lunático que dirige esta empresa!
+0063 [Mistique] | Ahórrate los desvaríos. Estás acabado.
+0064 [Joseph] | Je, je... Me persiguieron justo hasta el lugar perfecto.
+0065 [Tú] | ¡No! ¡Cerró la reja!
+0066 [Fuyuka] | ¡El Maestro quedó encerrado adentro! ¡¿Qué hacemos?!
+0067 [Tú] | ¿Qué es este lugar?
+0068 [Narración] | La enorme cámara solo está iluminada por el tenue resplandor de unos tanques gigantescos, en los que flotan plantas colosales y grotescas.
+0069 [Joseph] | ¿Querías la verdad sobre el Ruiseñor Dorado? Todo empezó en este laboratorio.
+0070 [Tú] | ¿Algo... me está observando?
+0071 [Tú] | Ugh...
+0072 [Mistique] | ¿Pero qué...? ¿Una Hierba Radiante Mandrágora gigante?
+0073 [Joseph] | Je. No compares mi obra con hierbajos primitivos como la Hierba Radiante Mandrágora. Estas son «Plantas Inteligentes de 2.ª generación».
+0074 [Joseph] | Te estaba mirando hace un momento, ¿no? Está observando y aprendiendo.
+0075 [Mistique] | Inteligentes... ¿Observando? ¿Me estás diciendo que... son conscientes de sí mismas?
+0076 [Joseph] | Naturalmente. Mis datos demuestran que pueden encargarse de trabajos complejos. Piensan, razonan y toman decisiones, igual que un humano.
+0077 [Mistique] | Esta es una primicia enorme. Tengo que grabarlo todo.
+0078 [Mina] | ¡Alto!
+0079 [Mistique] | ¡¿Mina?! ¿Qué haces aquí?
+0080 [Mina] | Yo... apenas alcancé a entrar antes de que se cerrara la reja. ¡No puedo dejar que filtres secretos de la empresa!
+0081 [Mina] | Mistique, ¿es cierto? ¿Todo lo que dijo Sir Joseph? ¿Por qué me mentiste? ¿Todo fue por un titular?
+0082 [Mistique] | ...
+0083 [Mistique] | ... Sí. Es cierto. Soy una bruja. ¿Y los secretos de Cosecha Unida? Para las de mi clase son irresistibles. Por eso estoy aquí.
+0084 [Mistique] | Aunque admito que no me esperaba encontrar la Hierba de Jade y unas «Plantas Inteligentes» escondidas aquí abajo. Jeje, parece que hoy es mi día de suerte.
+0085 [Mina] | Fuiste la primera en unirte al proyecto del Ruiseñor Leonado después de mí. Pensé que de verdad te importaba.
+0086 [Mistique] | Tal vez. Son una gran comida cuando ando volando. Pero para una bruja, lo único que importa es la verdad.
+0087 [Joseph] | Je. Bien dicho. «Lo único que importa es la verdad».
+0088 [Mistique] | Ni se te ocurra escapar...
+0089 [Mistique] | ¡Ugh! ¡¿Por qué hay tantas Hierbas Radiantes?! ¡¿De dónde salieron?!
+0090 [Joseph] | Hmph. Son Plantas Inteligentes de 2.ª generación, que conste.
+0091 [Joseph] | Adiós a todos. Serán un excelente fertilizante.
+0092 [Tú] | Joseph soltó cientos de estas cosas. Es imposible que Mistique pueda sola con un enjambre así.
+0093 [Intelligent Plant] | Uuu... Iii...
+0094 [Tú] | Un momento. Las plantas no me atacan. ¿Por qué?
+0095 [Tú] | También ignoran a Mina. Su único objetivo es Mistique.
+0096 [Intelligent Plant] | Uuu... Iii...
+0097 [Tú] | Espera. ¿Cómo estaba Joseph tan seguro de que no quedaría atrapado en el fuego cruzado al soltar a la horda?
+0098 [Tú] | Yo, Mina, Joseph... ¿Qué tenemos en común?==W== ¡Ah, ya lo tengo!
+0099 [Tú] | ¡Mistique! ¡Toma mi mano!
+0100 [Mistique] | ¿Eh? ¡E-espera, ¿qué?!
+0101 [Intelligent Plant] | ¿Iii? ¿Iii? Uuu...
+0102 [Narración] | Las plantas retroceden del lado en el que la sujeto. Sus enredaderas se mueven y la rodean para atacar su lado descubierto.
+0103 [Tú] | ¡No atacan a nadie con uniforme de Cosecha Unida! Así distinguen a los amigos de los enemigos.
+0104 [Mistique] | ¿En serio?==W== Entonces solo necesito mi uniforme...==W==¡Ugh, tengo los brazos atrapados! ¡Suéltenme, hierbajos!
+0105 [Tú] | Vienen más, y los demás se quedaron afuera.
+0106 [Mina] | Mistique.==W== Déjame ayudarte.
+0107 [Narración] | Mina toma la otra mano de Mistique. Con nuestro escudo humano protegiéndola por ambos lados, las plantas titubean confundidas antes de retirarse.
+0108 [Mistique] | Mina...==W== Gracias.==W== ¿Pero por qué?
+0109 [Mina] | No lo hago por ti. Que hayas mentido o que pienses filtrar fotos es irrelevante. No has renunciado. Sigues siendo miembro del proyecto del Ruiseñor Leonado del Departamento de Estrategia.
+0110 [Mina] | No... no puedo abandonar a una colega. Es la política de la empresa Cosecha Unida.
+0111 [Mistique] | Así que... ¿ahora hasta a mí me protege la «política de la empresa»?
+0112 [Mina] | Vámonos. Primero tenemos que salir de este laboratorio.
+0113 [Narración] | Al final del oscuro pasillo hay un invernadero que no sabíamos que existía.
+0114 [Mina] | Invernadero n.º 100... ¿Nuestra empresa siquiera tiene un número 100?
+0115 [Mistique] | Seguramente lo construyeron sin registrarlo, para investigar. Jefe, ¿cuál es el plan?
+0116 [Tú] | Hay que atrapar a Joseph... Pero este lugar es enorme.
+0117 [Opción] | Separarnos
+0118 [Opción] | Mantenernos juntos
+0119 [Opción] | Investigar el laboratorio
+0120 [Tú] | Este lugar es demasiado grande. Separémonos. Tengan los teléfonos encendidos.
+0121 [Mina] | ... Está bien.
+0122 [Mistique] | Entendido...
+0123 [Tú] | Las cosas siguen tensas entre Mistique y Mina. Eso no se va a arreglar pronto. Quizá separarnos sea lo mejor.
+0124 [Narración] | Con un asentimiento silencioso, nos fuimos en direcciones distintas para dar con Joseph.
+0125 [Tú] | Territorio enemigo. Puede haber trampas. Deberíamos mantenernos juntos.
+0126 [Mistique] | Pero Joseph se va a escapar...
+0127 [Mina] | Tú solo quieres más fotos.
+0128 [Tú] | Si nos quedamos juntos, se van a pelear,==W== pero no tengo otra opción.==W== Esos mercenarios... ¿De verdad eran de Joseph? Algo no cuadra.
+0129 [Tú] | Ya basta. La seguridad es primero. Mistique, eres la única que puede pelear. Si nos separamos y nos topamos con más mercenarios, estamos muertos.
+0130 [Tú] | Aseguren la zona. Voy a contactar a Noya ahora mismo.
+0131 [Tú] | Mistique, Joseph es tuyo.
+0132 [Mistique] | ¿Yo? ¿Sola?
+0133 [Tú] | Sí. Tú eres la fuerza bruta. Mina y yo solo estorbaríamos.
+0134 [Tú] | Mina, contacta a Noya y a Cosecha Unida. Esto es demasiado grande para ocultarlo.
+0135 [Mina] | E-entendido.
+0136 [Tú] | Aprovecharé para regresar a revisar el laboratorio.
+0137 [Tú] | Lady Gray huyó hacia aquí, y el orfanato también está ligado a esta empresa. Es muy probable que este laboratorio secreto tenga pistas.

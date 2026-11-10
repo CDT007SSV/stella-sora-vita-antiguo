@@ -1,0 +1,6 @@
+# Nova Times #03 · Mil flores en la noche — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_03_01 | Mil flores en la noche (Parte I)
+STsp_03_02 | Mil flores en la noche (Parte II)
+STsp_03_03 | Mil flores en la noche (Parte III)

@@ -1,0 +1,13 @@
+# Evento · Una tormenta de arena y disparos — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_09_01 | Expedición: ausencia de poder
+STev_09_02 | Cangwu: prueba de poder
+STev_09_03 | Emor: demostración de poder
+STev_09_04 | Inicio: la investigación de Chaton
+STev_09_05 | Infiltración: en el nido oscuro
+STev_09_06 | Asalto: trampas del nido oscuro
+STev_09_07 | Fuga: el poder renacido
+STev_09_08 | Brindis: por la gran Chaton
+@BT01 | Fuego cruzado: refriega en Mirage
+@BT02 | Duelo de monstruos: rescate de Trekkers

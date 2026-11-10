@@ -1,0 +1,90 @@
+# Historia de Fuyuka · 2 · First Snow
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Grateful Trekker | Trekker agradecido
+N:Observant Trekker | Trekker observador
+N:Rampaging Monster | Monstruo desbocado
+N:Shop Manager | Encargado de la tienda
+N:Worker | Trabajador
+N:avg1_134 | Fuyuka
+N:avg2_003 | Shrubshrew Granadero
+N:avg2_983 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_917 | Cliente
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Primera nevada
+0003 [Intro] | Sus esfuerzos pueden ser torpes, pero son sinceros. Y el cambio ocurre antes de que alguien se dé cuenta.
+0004 [Fuyuka] | ¿Pensar en las conversaciones como un campo de batalla?
+0005 [Tú] | Sí. Ya que ahora puedes lanzar puñetazos con libertad, no hay razón para que no puedas hablar con libertad.
+0006 [Tú] | Usa un cambio de perspectiva: convierte lo que no conoces en algo que sí conoces.
+0007 [Fuyuka] | Convertirlo en algo familiar...==W== Y-yo creo que entiendo, gracias por el consejo. Eh...==W== ¿Hay algo que pueda hacer para agradecérselo?
+0008 [Tú] | Mmm...==W== Como su maestro, no podría pedir un pago... Entonces...
+0009 [Tú] | Pronto llegarán el viento helado y la nieve. Si quieres pagar mi guía, cuando llegue el momento, prepara un nido cálido para los pajaritos del bosque.
+0010 [Tú] | Adiós, chica de cabello blanco.
+0011 [Fuyuka] | Ah...==W== Supongo que el Maestro... digo, el pajarito ermitaño, se fue.
+0012 [Fuyuka] | Fiu...==W== Ahora depende de mí. Imaginarlo como un campo de batalla...==W== campo de batalla, el campo de batalla de un Trekker...==W== ¡Entonces primero debería ir a tomar alguna comisión!
+0013 [Tú] | Otra vez se fue corriendo tan rápido. Seguro volvió a salir. Aun así, me preocupa un poco, mejor la sigo para ver...
+0014 [Fuyuka] | Tanta, tanta gente...==W== Parece ser la misma multitud de antes.
+0015 [Fuyuka] | Si me acerco así nada más, me rodearán como la última vez. Sí conseguí la comisión, pero ¿cómo llego hasta el cliente...?
+0016 [Fuyuka] | Pensar en ello como un campo de batalla... un campo de batalla... ==W==Entonces solo tengo que esquivar a los monstruos que atacan mientras avanzo lo más rápido que pueda...
+0017 [Tú] | Espera, ¿alguien que se parecía a Fuyuka acaba de correr hacia allá...?
+0018 [Tú] | ¡¿Se subió al techo en un instante?!
+0019 [Tú] | Rayos, si no la persigo ahora la perderé. ¡Disculpen, permiso!
+0020 [Consignor] | Estos son materiales de construcción necesarios para el mercado. Por favor, tengan cuidado al cargarlos.
+0021 [Worker] | ¡Déjenoslo a nosotros!
+0022 [Fuyuka] | Eh... Disculpe...
+0023 [Consignor] | ¡Vaya! ¡Lady Fuyuka! ¡Apareció de la nada!
+0024 [Fuyuka] | Eh...==W== Vengo a aceptar una comisión.
+0025 [Fuyuka] | Esta comisión es de acarreo de mercancías; no parece muy difícil. El cliente se ve fácil de tratar. ¡Seguro saldrá bien!
+0026 [Consignor] | ¿¡De verdad es usted!? Pensé que tenía que ser alguien con el mismo nombre.
+0027 [Fuyuka] | S-sí, soy yo. Por favor, cuénteme la situación...
+0028 [Consignor] | Ah, entendido. Nos estamos preparando para ampliar el mercado del campamento, y la comisión es acarrear materiales de construcción.
+0029 [Consignor] | Esa es la situación. ¿Qué le parece?
+0030 [Fuyuka] | ¿Eh? Esa voz es...
+0031 [Fuyuka] | —¡Cuidado!
+0032 [Fuyuka] | Fiu...==W== No lo vi venir, pero por suerte lo atrapé a tiempo.
+0033 [Worker] | Q-qué susto. Pensé que nos iban a aplastar...
+0034 [Observant Trekker] | ¡Todos, miren, Lady Fuyuka intervino! ¡Llegó de golpe y salvó a varias personas en un instante! ¡Qué genial!
+0035 [Consignor] | ¡Muchísimas gracias! ¿¡Lo previó y por eso aceptó la comisión!?
+0036 [Fuyuka] | ¡N-no, para nada...! Eso solo fue un accidente...==W== Eh, me estaba contando sobre la comisión...
+0037 [Consignor] | ¡Nos salvó la vida literalmente! ¿Cómo podríamos pedirle algo más?
+0038 [Consignor] | Pase, pase, siéntese; tome algo y pruebe unos bocadillos. Ya nos ayudó tanto, ¿cómo vamos a dejar que usted misma cargue esas cosas? También subiré el pago, por supuesto.
+0039 [Fuyuka] | Eh...
+0040 [Fuyuka] | Yo...==W== puedo ayudar con la caza...
+0041 [Observant Trekker] | ¡Ay, caray! ¡Es un monstruo!
+0042 [Rampaging Monster] | ¡Grrr, grrr!
+0043 [Fuyuka] | ¡E-esto sí que es un campo de batalla ahora!
+0044 [Fuyuka] | ¡No permitiré que les haga daño!
+0045 [Grateful Trekker] | Qué bueno que Lady Fuyuka está aquí.
+0046 [Fuyuka] | Eh... Entonces... sobre mi comisión...
+0047 [Grateful Trekker] | Ah, no hace falta. ¡Ya derrotó al monstruo! Deje lo demás en nuestras manos.
+0048 [Fuyuka] | Eh...
+0049 [Fuyuka] | Fiu...==W== Terminó...
+0050 [Fuyuka] | Llevo una hora aquí parada con un letrero. Mmm...==W== Se siente como atraer al enemigo, y se ha juntado mucha gente a mi alrededor, pero... ¿De verdad está bien?
+0051 [Fuyuka] | Lo siento, siento que no hice mucho...
+0052 [Shop Manager] | ¡Para nada! Usted es nuestro ídolo, Lady Fuyuka. Atrae a una multitud enorme con solo estar ahí.
+0053 [Shop Manager] | Las ventas de hoy fueron más de diez veces las de un día normal; eso lo prueba. Ah, qué felices estamos de haber logrado que viniera.
+0054 [Shop Manager] | ¡Por favor, ayúdenos de nuevo cuando pueda!
+0055 [Fuyuka] | Eh...
+0056 [Fuyuka] | Perdón, buaaa...==W== Maestro, y-yo soy una inútil...
+0057 [Fuyuka] | No, digo, Mae...==W== el Ermitaño me dio una idea tan buena, pero al final no hice nada en realidad. Todos me dicen que no haga nada. Soy una inútil...
+0058 [Tú] | Jaja...==W== Está bien, puedes decir «Maestro». ¡Y en realidad lo hiciste muy bien! Completaste cada tarea de maravilla y todos te han dado las gracias.
+0059 [Fuyuka] | P-pero aún no he interactuado con la gente de verdad...
+0060 [Tú] | Usaste tu poder para ayudar a otros y cumpliste el trabajo. Esa es la mejor clase de interacción, ¿no crees?
+0061 [Tú] | Además, Fuyuka, quizá no lo notaste, pero en realidad ya has crecido mucho.
+0062 [Fuyuka] | ¿De verdad...?
+0063 [Tú] | Saliste y encontraste esas comisiones tú sola, incluida una en la que trabajaste como promotora de una tienda.
+0064 [Tú] | Piénsalo: hace unos meses, ¿habrías imaginado tomar este tipo de trabajo por tu propia voluntad?
+0065 [Fuyuka] | Supongo que...==W== no habría podido.
+0066 [Tú] | Faltan unos días para el discurso; solo necesitas seguir practicando.
+0067 [Tú] | Aunque no seas tan buena para hablar en público como quienes tienen ese talento natural, lo importante es que te propusiste cambiar.
+0068 [Fuyuka] | Cambiarme a mí misma...
+0069 [Fuyuka] | Siento... que mi ánimo por fin se está aliviando...==W== Gracias, Maestro.

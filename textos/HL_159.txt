@@ -1,0 +1,333 @@
+# Heartlink de Springseek Coronis: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Springseek Coronis] | Me estabas mirando fijamente hace un momento
+A01.0002 [Springseek Coronis] | ¿Hay algo que quieras decirme?
+A01.0003 [Opción] | Solo miraba tu jeringa
+A01.0004 [Opción] | Nunca te había visto con esta ropa
+A01.0005 [Opción] | ¡No te estaba mirando...!
+A01.0006 [Springseek Coronis] | ¿Mi jeringa?
+A01.0007 [Springseek Coronis] | Ah, esta es un poco distinta de las de siempre
+A01.0008 [Springseek Coronis] | Descuida, no voy a usarla contigo
+A01.0009 [Tú] | ... Qué considerada
+A01.0010 [Springseek Coronis] | ¿Te refieres a este atuendo?
+A01.0011 [Springseek Coronis] | Me lo puse especialmente para hoy. Va con el ambiente festivo de Cangwu, ¿no crees?
+A01.0012 [Tú] | Hay algo que se siente raro...
+A01.0013 [Tú] | ¡Pero sí se ve bien!
+A01.0014 [Springseek Coronis] | ¿Ah, sí?
+A01.0015 [Springseek Coronis] | Sabes, a quienes dicen mentiras se las llevan los demonios para experimentar con ellas
+A01.0016 [Tú] | ¡Solo tú quieres hacerme experimentos!
+A01.0017 [Springseek Coronis] | Suspiro...
+A01.0018 [Springseek Coronis] | En fin, me despido por ahora
+A01.0019 [Springseek Coronis] | Pero me alegra verte en Cangwu
+A01.0020 [Springseek Coronis] | Busquemos un momento para hablar con calma más tarde
+
+## Conversación A02
+A02.0001 [Springseek Coronis] | ¿Sabes hacer recortes de papel para ventanas?
+A02.0002 [Opción] | ¿Sí?
+A02.0003 [Opción] | ¿No?
+A02.0004 [Opción] | ¿Eh? ¿Por qué?
+A02.0005 [Springseek Coronis] | ¿Sabes? Jamás lo habría imaginado
+A02.0006 [Springseek Coronis] | Pensé que, si te interesaba, te invitaría a unirte a nosotras
+A02.0007 [Springseek Coronis] | Jinglin me está enseñando a hacerlos
+A02.0008 [Springseek Coronis] | ¿Te interesa aprenderlo?
+A02.0009 [Springseek Coronis] | Jinglin me está enseñando a hacerlos
+A02.0010 [Springseek Coronis] | Pensé que, si te interesaba, podías unirte a nosotras
+A02.0011 [Springseek Coronis] | Jinglin me está enseñando a hacerlos
+A02.0012 [Springseek Coronis] | Pensé que, si te interesaba, podías unirte a nosotras
+A02.0013 [Tú] | ¡Voy para allá de inmediato!
+A02.0014 [Springseek Coronis] | Estupendo, te esperamos.
+
+## Conversación A03
+A03.0001 [Springseek Coronis] | Quizá no haya un Monolito en Cangwu, pero hay muchos en los alrededores
+A03.0002 [Springseek Coronis] | Pensé que debía encontrar tiempo para visitarlos
+A03.0003 [Springseek Coronis] | Bien. ¿Qué tal mañana? ¿Quieres venir conmigo?
+A03.0004 [Opción] | ¡Claro!
+A03.0005 [Opción] | Es muy repentino, paso...
+A03.0006 [Tú] | Claro, no tengo nada planeado para mañana
+A03.0007 [Springseek Coronis] | Entonces te espero mañana por la mañana frente al Retiro Yunji
+A03.0008 [Springseek Coronis] | No me dejes plantada
+A03.0009 [Tú] | Mmm... ¿Mañana?
+A03.0010 [Tú] | Es un poco improvisado para mí. ¿Podemos dejarlo para otro día?
+A03.0011 [Springseek Coronis] | Es justo...
+A03.0012 [Springseek Coronis] | Entonces exploraré la ruta yo misma
+A03.0013 [Springseek Coronis] | Cuando quieras ir juntos, ==PLAYER_NAME==, solo avísame
+
+## Conversación A04
+A04.0001 [Springseek Coronis] | ==PLAYER_NAME==, hoy conocí a una niña que no le tenía miedo a las jeringas
+A04.0002 [Springseek Coronis] | No solo no lloró, sino que se acercó a preguntar si podía tocarla
+A04.0003 [Tú] | ¡Oh, eso sí es poco común!
+A04.0004 [Springseek Coronis] | Qué audacia... Podría tener madera de médica o investigadora
+A04.0005 [Tú] | ¿Piensas tomar a esta niña como alumna?
+A04.0006 [Springseek Coronis] | Por ahora no. No tengo energía
+A04.0007 [Springseek Coronis] | Solo me pareció una cualidad poco común
+A04.0008 [Springseek Coronis] | Si la vuelvo a ver, quizá le dedique un rato
+A04.0009 [Tú] | Suena bien
+A04.0010 [Springseek Coronis] | Podría hacer que me acompañe a la disección de un monstruo
+A04.0011 [Springseek Coronis] | O dejar que me observe en una cirugía
+A04.0012 [Tú] | ¡Espera un momento, ¿seguro que eso es apropiado para niños?!
+
+## Conversación A05
+A05.0001 [Springseek Coronis] | ¿Comiste bien hoy?
+A05.0002 [Springseek Coronis] | ¿O volviste a darte gusto con botanas del mercado?
+A05.0003 [Tú] | ¡No!
+A05.0004 [Springseek Coronis] | ¿Mm? ¿Seguro?
+A05.0005 [Springseek Coronis] | Hace apenas dos días te atiborraste de ellas hasta el dolor de estómago, tanto que no podías caminar, y Shimiao tuvo que cargarte hasta mí.
+A05.0006 [Tú] | Eh...
+A05.0007 [Tú] | Hoy solo comí una brocheta de espino confitado... ¡No hay forma de que haya comido de más!
+A05.0008 [Tú] | ¡Y almorcé a tiempo también!
+A05.0009 [Springseek Coronis] | Qué bien, ==SEX9==
+A05.0010 [Springseek Coronis] | Aun así, si has consumido mucho azúcar, te sugiero pasarlo con té depurador del hígado
+A05.0011 [Springseek Coronis] | Pasa por mi posada más tarde; te prepararé un té de hierbas digestivo
+A05.0012 [Tú] | ¿No será otro de tus brebajes raros, verdad?
+A05.0013 [Tú] | Si es otro «Brebaje Calmahuesos», no lo toco...
+A05.0014 [Springseek Coronis] | Descuida
+A05.0015 [Springseek Coronis] | Mi té solo puede beneficiarte
+A05.0016 [Springseek Coronis] | Ven, te estaré esperando
+
+## Conversación A06
+A06.0001 [Springseek Coronis] | Hoy vi a un paciente en el local de Jinglin con un tipo de crecimiento carnoso que jamás había visto
+A06.0002 [Springseek Coronis] | Se veía tan desagradable que los demás clientes se quejaban sin parar y querían que lo echaran
+A06.0003 [Tú] | ¿Qué? Qué horror
+A06.0004 [Springseek Coronis] | Así que, con su permiso, lo examiné ahí mismo
+A06.0005 [Tú] | ¿Y?
+A06.0006 [Springseek Coronis] | El bulto no era infeccioso
+A06.0007 [Springseek Coronis] | Pero la causa no está clara. Le di mi tarjeta y le dije que me buscara en Philae
+A06.0008 [Tú] | Sigues tan obsesionada con las enfermedades raras como siempre
+A06.0009 [Springseek Coronis] | Bueno, solo los humanos padecen estos males tan extraños
+A06.0010 [Tú] | Eso me supera...
+A06.0011 [Springseek Coronis] | Pero tú eres diferente. Tu sola existencia ya me fascina
+A06.0012 [Tú] | ¿Otra vez con eso?
+A06.0013 [Springseek Coronis] | Lo diga o no, es simplemente un hecho
+
+## Conversación A07
+A07.0001 [Springseek Coronis] | ¿Tienes tiempo esta noche, mi asistente de confianza?
+A07.0002 [Opción] | Sí
+A07.0003 [Opción] | No
+A07.0004 [Tú] | Y yo aquí sin nada que hacer
+A07.0005 [Tú] | ¿Para qué me necesitas?
+A07.0006 [Springseek Coronis] | He mezclado un nuevo aceite esencial que relaja los nervios. Necesito un voluntario para probarlo
+A07.0007 [Tú] | Esta noche...
+A07.0008 [Tú] | Si es para cenar, acabo de reservar en un restaurante de cocina Loong
+A07.0009 [Tú] | ¿Te unes?
+A07.0010 [Springseek Coronis] | ¿Cenar? Eso también sirve
+A07.0011 [Springseek Coronis] | ¿Tienes compromisos después?
+A07.0012 [Tú] | No. ¿Quieres hacer algo más?
+A07.0013 [Springseek Coronis] | He mezclado un nuevo aceite esencial que relaja los nervios
+A07.0014 [Springseek Coronis] | Si estás libre después de la cena...
+A07.0015 [Springseek Coronis] | Podemos dar un paseo y luego probarlo en mi posada
+A07.0016 [Tú] | Eh...
+A07.0017 [Tú] | La última vez que «probaste» algo conmigo, tuve las piernas débiles durante tres días...
+A07.0018 [Springseek Coronis] | Eso solo significa que había demasiada tensión. Esta vez seré más gentil
+A07.0019 [Tú] | ¡Quieres decir que me darás un masaje suave mientras analizas el estado nervioso de mis fibras musculares!
+A07.0020 [Springseek Coronis] | Culpable de los cargos
+A07.0021 [Springseek Coronis] | Pero suena divertido, ¿no?
+A07.0022 [Springseek Coronis] | Espero con ansias esta noche
+
+## Conversación A08
+A08.0001 [Springseek Coronis] | Hoy es un día verdaderamente especial
+A08.0002 [Tú] | ¿Eh? ¿Qué día?
+A08.0003 [Springseek Coronis] | ¿No lo recuerdas?
+A08.0004 [Opción] | ¿Un día cualquiera?
+A08.0005 [Opción] | ¡Claro que lo recuerdo!
+A08.0006 [Tú] | ¿Hoy es un día especial o qué?
+A08.0007 [Springseek Coronis] | ¿Hoy es mi cumpleaños?
+A08.0008 [Springseek Coronis] | De modo que de verdad no recordabas mi cumpleaños. Qué decepción
+A08.0009 [Tú] | ¡Claro que recuerdo tu cumpleaños!
+A08.0010 [Tú] | En serio... ¡Y yo que decoré todo antes de engañarte para que vinieras!
+A08.0011 [Springseek Coronis] | ¿De verdad lo recordaste?
+A08.0012 [Tú] | ¿Cómo no iba a hacerlo?
+A08.0013 [Tú] | ¡Feliz cumpleaños!
+A08.0014 [Springseek Coronis] | ¿Eh?
+A08.0015 [Springseek Coronis] | De verdad lo recordaste.
+A08.0016 [Tú] | ¡Por supuesto!
+A08.0017 [Tú] | Pero como ya soltaste la sopa, mejor ven para acá ahora mismo
+A08.0018 [Sistema] | Empezaste a compartir tu ubicación
+
+## Conversación A09
+A09.0001 [Springseek Coronis] | Últimamente siento que he llegado a entenderte mejor
+A09.0002 [Tú] | ¿Eh?
+A09.0003 [Springseek Coronis] | Conozco los datos de tu cuerpo como la palma de mi mano
+A09.0004 [Tú] | ¡Espera! ¡Espera un momento!
+A09.0005 [Springseek Coronis] | Según tu fuerza muscular y la forma en que aplicas la fuerza
+A09.0006 [Springseek Coronis] | creo que podemos idear un estilo de combate que te quede mejor
+A09.0007 [Tú] | ... Ah, eso es lo que querías decir
+A09.0008 [Springseek Coronis] | ¿Qué otra cosa podría querer decir?
+A09.0009 [Springseek Coronis] | ¿Qué pensaste que quería decir?
+A09.0010 [Tú] | Eh, nada...
+A09.0011 [Springseek Coronis] | Pero hablando de los datos de tu cuerpo...
+A09.0012 [Springseek Coronis] | Hay un dato en particular en el que he estado pensando últimamente...
+A09.0013 [Springseek Coronis] | Quizá pueda medirlo cuando te vea esta noche
+A09.0014 [Tú] | ¡Gracias, pero no, gracias!
+
+## Conversación A10
+A10.0001 [Springseek Coronis] | Qué melodía tan nostálgica
+A10.0002 [Tú] | ¿La habías oído antes en algún lado?
+A10.0003 [Springseek Coronis] | No lo sé
+A10.0004 [Springseek Coronis] | Pero, curiosamente, al escucharla recuerdo los días en que llegué a Philae
+A10.0005 [Springseek Coronis] | No está asociada a un recuerdo en particular...
+A10.0006 [Springseek Coronis] | Pero me dio un vuelco el corazón y me escocieron un poco los ojos
+A10.0007 [Springseek Coronis] | ¿Esto es lo que llaman memoria corporal?
+A10.0008 [Springseek Coronis] | Aunque la mente olvide, el cuerpo recuerda
+A10.0009 [Tú] | Coronis...
+A10.0010 [Springseek Coronis] | Vivirlo en carne propia se siente tan distinto a leerlo en las notas de un paciente
+A10.0011 [Springseek Coronis] | Sumamente satisfactorio
+A10.0012 [Tú] | ...
+A10.0013 [Tú] | Pensé que por una vez te ponías sentimental y estaba a punto de consolarte
+A10.0014 [Springseek Coronis] | ¿Quieres consolarme?
+A10.0015 [Springseek Coronis] | Justo a tiempo. Acabo de preparar una poción nueva
+A10.0016 [Springseek Coronis] | Me sentiré supremamente consolada si te animas a probarla
+A10.0017 [Tú] | ¡Paso!
+
+## Conversación B01
+B01.0001 [Springseek Coronis] | ==PLAYER_NAME==, ven a buscarme esta noche a la habitación de huéspedes del tercer piso de esa posada
+B01.0002 [Tú] | ¿Q-qué estás planeando?
+B01.0003 [Springseek Coronis] | ¿A qué te refieres con qué estoy planeando?
+B01.0004 [Tú] | ¿No estarás intentando atraerme ahí, atarme y hacerme algún experimento turbio, verdad?
+B01.0005 [Springseek Coronis] | Claro que no. ¿Cuánto tiempo llevamos de conocernos?
+B01.0006 [Springseek Coronis] | ¿De verdad parezco el tipo de persona que haría algo así?
+B01.0007 [Tú] | Eh... ¿Sí?
+B01.0008 [Springseek Coronis] | Suspiro... Siempre malinterpretas mis intenciones. De verdad me duele...
+B01.0009 [Springseek Coronis] | La posada acaba de añadir un platillo nuevo al menú y quería probarlo contigo, eso es todo
+B01.0010 [Tú] | Ya veo...
+B01.0011 [Tú] | Perdón por haberlo entendido mal
+B01.0012 [Tú] | ¡Por favor, acepta mis disculpas!
+B01.0013 [Springseek Coronis] | Entonces... Vendrás, ¿verdad?
+B01.0014 [Tú] | ¡Mm-hmm! ¡Lo prometo!
+B01.0015 [Springseek Coronis] | ¡Qué maravilla!
+B01.0016 [Tú] | ¿Por qué sigo sintiendo que algo no cuadra?
+B01.0017 [Springseek Coronis] | ¿A qué te refieres?
+B01.0018 [Tú] | Si solo vamos a cenar, ¿no podríamos vernos en el vestíbulo? ¿Por qué reservaste específicamente una habitación?
+B01.0019 [Springseek Coronis] | Porque hay demasiada gente abajo
+B01.0020 [Springseek Coronis] | Estorbarían mientras te observo comer
+B01.0021 [Tú] | ¡Lo sabía! ¡Sabía que tenías un motivo oculto!
+B01.0022 [Springseek Coronis] | Solo bromeaba
+B01.0023 [Springseek Coronis] | El balcón de la habitación es el mejor lugar para ver los fuegos artificiales. Quería verlos contigo
+B01.0024 [Tú] | La verdad, pudiste haberlo dicho desde el principio
+B01.0025 [Springseek Coronis] | Y ya que estarás ahí
+B01.0026 [Springseek Coronis] | no sería mucho pedir una muestra de sangre de paso, ¿verdad?
+B01.0027 [Tú] | ¡Lo sabía! ¡No voy!
+B01.0028 [Springseek Coronis] | ¡No digas eso! ¡Ya pedí la comida!
+
+## Conversación B02
+B02.0001 [Springseek Coronis] | Esta mañana vino a verme alguien de la Oficina Baize
+B02.0002 [Tú] | ¿Qué pasó?
+B02.0003 [Tú] | ¿Descubrieron que investigabas algún té medicinal ilegal?
+B02.0004 [Springseek Coronis] | Claro que no
+B02.0005 [Springseek Coronis] | Aunque investigara algo así, no hay forma de que lo descubrieran
+B02.0006 [Springseek Coronis] | La Feria de Botanas ya está a la vuelta de la esquina otra vez
+B02.0007 [Springseek Coronis] | Buscan un médico en el lugar
+B02.0008 [Tú] | Ya veo
+B02.0009 [Tú] | Tiene sentido. La comida de la Feria de Botanas siempre es riquísima
+B02.0010 [Tú] | Cada vez hay gente que ya está llena pero sigue comiendo, y luego vomita o le duele el estómago
+B02.0011 [Springseek Coronis] | ¿Seguro que no hablas de ti?
+B02.0012 [Tú] | Soy un modelo de moderación
+B02.0013 [Springseek Coronis] | En fin, necesito un asistente
+B02.0014 [Springseek Coronis] | Y tú eres mi primera opción
+B02.0015 [Tú] | Déjame pensarlo
+B02.0016 [Springseek Coronis] | Habrá botanas gratis~
+B02.0017 [Tú] | Me apunto
+B02.0018 [Springseek Coronis] | Solo reúnete conmigo primero ese día
+B02.0019 [Springseek Coronis] | Pero como mi asistente, procura no enfermarte de tanto comer antes de empezar
+B02.0020 [Tú] | Descuida. ¡Seguro que no!
+
+## Conversación B03
+B03.0001 [Springseek Coronis] | Cangwu realmente es el tipo de ciudad de la que cuesta irse
+B03.0002 [Springseek Coronis] | A veces no puedo evitar preguntarme si debería quedarme aquí para siempre
+B03.0003 [Tú] | ¿Y eso por qué?
+B03.0004 [Springseek Coronis] | Por un lado, aquí hay todo tipo de comida deliciosa
+B03.0005 [Springseek Coronis] | Y como está al otro lado del Continente Nova, algunas enfermedades de aquí son distintas de las de Philae y Emor
+B03.0006 [Springseek Coronis] | Además, las prácticas médicas de los Loong también merecen mucho estudio
+B03.0007 [Tú] | Bueno, en ese caso
+B03.0008 [Tú] | Coronis, ¿te vas a quedar aquí?
+B03.0009 [Springseek Coronis] | Mmm...
+B03.0010 [Springseek Coronis] | Eso no sería realista
+B03.0011 [Springseek Coronis] | Aún tengo pacientes en Philae que necesitan atención
+B03.0012 [Springseek Coronis] | Si me ausentara demasiado tiempo...
+B03.0013 [Tú] | Lo sabía, de verdad eres una buena médica que se preocupa por los pacientes
+B03.0014 [Springseek Coronis] | No. Simplemente tengo curiosidad por ver cómo evolucionan sus condiciones
+
+## Conversación B04
+B04.0001 [Springseek Coronis] | ¿Sabes, ==PLAYER_NAME==? En la medicina Loong existe un concepto conocido como «patrón de pulso»
+B04.0002 [Springseek Coronis] | Leyendo el pulso de alguien, puedes diagnosticar su estado general, e incluso lo que piensa
+B04.0003 [Tú] | He oído que se puede tener una idea general del estado de un paciente por su pulso
+B04.0004 [Tú] | Pero poder saber lo que piensa suena prácticamente a estafa
+B04.0005 [Springseek Coronis] | Según mis propios experimentos, probablemente no lo sea~
+B04.0006 [Tú] | ¿Cómo es eso?
+B04.0007 [Springseek Coronis] | Cuando nos encontramos en Cangwu, aproveché para registrar los cambios en tu pulso
+B04.0008 [Springseek Coronis] | Tras estudiar patrones de pulso estos días, logré deducir más o menos lo que pensabas en ese momento
+B04.0009 [Springseek Coronis] | Tal como pensaba, los nervios te ganan al verme. ¿No es así, ==PLAYER_NAME==?
+B04.0010 [Springseek Coronis] | Me pregunto por qué. ¿Simplemente temes ir al médico? ¿O... es porque soy yo?
+B04.0011 [Opción] | Sí, porque eres tú
+B04.0012 [Opción] | No, hay otras razones
+B04.0013 [Tú] | Eres tú, claro
+B04.0014 [Tú] | En Philae, siempre intentabas hacerme experimentos
+B04.0015 [Tú] | ¡Pensé que me habías seguido hasta Cangwu!
+B04.0016 [Springseek Coronis] | Jeje. Muy bien. Parece que adiviné~
+B04.0017 [Tú] | No creo que haya hecho falta adivinar mucho
+B04.0018 [Tú] | Llevabas algo completamente distinto a tu estilo habitual
+B04.0019 [Tú] | Y luego te topé de repente en Cangwu. Cualquiera tendría un poco de cautela
+B04.0020 [Springseek Coronis] | ¿Oh?
+B04.0021 [Springseek Coronis] | Qué inesperado. Completamente distinto de lo que adiviné
+B04.0022 [Tú] | Pues. Esto se parece mucho a ... esos adivinos con bola de cristal del Distrito de las Cenizas de Emor
+B04.0023 [Tú] | Te guían con unas cuantas indicaciones sencillas y luego te dan descripciones vagas que podrían aplicarse a casi cualquiera
+B04.0024 [Tú] | Te hacen sentir como si te hubieran leído a la perfección o predicho cosas con increíble exactitud
+B04.0025 [Tú] | Cuando en realidad no hay base alguna para nada de eso. Solo inventan cosas
+B04.0026 [Springseek Coronis] | Mmm... Ahora que lo mencionas, es cierto
+B04.0027 [Springseek Coronis] | Aun así, es seguro que el estado general de un paciente puede diagnosticarse solo con su pulso
+B04.0028 [Springseek Coronis] | Y eso definitivamente vale la pena estudiarlo
+B04.0029 [Tú] | ¡Mm-hmm! He oído que muchos médicos Loong mayores diagnostican así a sus pacientes
+B04.0030 [Springseek Coronis] | Debería sacar tiempo para visitar a algunos de esos ancianos
+
+## Conversación B05
+B05.0001 [Springseek Coronis] | ¿Qué tal el té que te di la última vez?
+B05.0002 [Tú] | ¿Te refieres a ese té para la digestión?
+B05.0003 [Springseek Coronis] | Sí
+B05.0004 [Springseek Coronis] | ¿Funcionó?
+B05.0005 [Tú] | Sí, estuvo bien
+B05.0006 [Tú] | Se me revolvió un poco la cabeza después de comer todos esos dulces
+B05.0007 [Tú] | Pero tras beber el té, pronto volví a estar como siempre
+B05.0008 [Springseek Coronis] | Suena a que funcionó muy bien
+B05.0009 [Springseek Coronis] | ¿Ves? No te mentía
+B05.0010 [Springseek Coronis] | Los tés que preparo solo te hacen bien
+B05.0011 [Tú] | ¡Sí!
+B05.0012 [Springseek Coronis] | Así que esta vez he mezclado uno nuevo
+B05.0013 [Springseek Coronis] | Lo llamo «Té del Sueño de la Mariposa Soñadora»
+B05.0014 [Springseek Coronis] | Está pensado para ayudarte a dormir
+B05.0015 [Tú] | Lo supe por el nombre
+B05.0016 [Springseek Coronis] | Bien, ¿quieres ayudarme a probarlo también?
+B05.0017 [Tú] | Nah
+B05.0018 [Springseek Coronis] | No te preocupes. Es perfectamente seguro
+B05.0019 [Springseek Coronis] | Ya lo probé con animales y monstruos
+B05.0020 [Springseek Coronis] | Después de que el Alpha Boar bebió agua mezclada con mi té, se apagó
+B05.0021 [Springseek Coronis] | Durmió como un bebé
+B05.0022 [Tú] | Ahora tengo aún menos ganas de probarlo
+B05.0023 [Tú] | ¡Eso es simple tranquilizante para animales, ¿no?!
+B05.0024 [Tú] | ¿Y si nunca despierto?
+B05.0025 [Springseek Coronis] | Entonces supongo que no me quedará más remedio que convertirte en un espécimen de mi colección personal
+
+## Conversación B06
+B06.0001 [Springseek Coronis] | Ahora que lo pienso, toparme contigo aquí fue algo bueno
+B06.0002 [Springseek Coronis] | ¿Has oído el dicho Loong sobre encontrarse con un viejo amigo lejos de casa?
+B06.0003 [Springseek Coronis] | Es una de las llamadas «cuatro grandes alegrías de la vida»~
+B06.0004 [Tú] | Lo he oído
+B06.0005 [Springseek Coronis] | Como es una ocasión tan alegre, deberíamos celebrarla como se debe
+B06.0006 [Springseek Coronis] | Y dejar algunos recuerdos que pertenezcan solo a nosotros dos
+B06.0007 [Tú] | ¿No celebramos ya comiendo en ese restaurante de hot pot?
+B06.0008 [Tú] | En cuanto a los recuerdos...
+B06.0009 [Tú] | Creo que cada lugar que visitamos juntos en Cangwu, cada persona que conocimos y todo lo que pasó estos últimos días...
+B06.0010 [Tú] | Son los mejores recuerdos que podría pedir
+B06.0011 [Springseek Coronis] | ==PLAYER_NAME==...
+B06.0012 [Springseek Coronis] | Estoy verdaderamente conmovida
+B06.0013 [Tú] | Jejeje...
+B06.0014 [Tú] | Así que... mientras ninguno de los dos tenga que volver todavía
+B06.0015 [Tú] | Hagamos unos cuantos recuerdos más que sean solo nuestros
+B06.0016 [Springseek Coronis] | Eso sí me gusta cómo suena
+B06.0017 [Springseek Coronis] | Para ser honesta, ya me estoy impacientando un poco
+B06.0018 [Springseek Coronis] | Ven a mi cuarto esta noche
+B06.0019 [Springseek Coronis] | Déjame acercarme un poco más a ti ... para estudiarte como se debe
+B06.0020 [Tú] | Eh... ¡Entonces olvídalo!
+B06.0021 [Tú] | ¡Puedo prescindir de eso!

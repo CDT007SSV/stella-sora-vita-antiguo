@@ -1,0 +1,6 @@
+# Historia de Otoha — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_145_01 | La artista de mil rostros (Parte I)
+CG_145_02 | La artista de mil rostros (Parte II)
+CG_145_03 | La artista de mil rostros (Parte III)

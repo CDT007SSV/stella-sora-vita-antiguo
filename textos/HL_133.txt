@@ -1,0 +1,294 @@
+# Heartlink de Nazuka: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Nazuka] | Gracias por esperar.
+A01.0002 [Nazuka] | Soy Nazuka.
+A01.0003 [Tú] | ¡Hola!
+A01.0004 [Nazuka] | Puedes confiarme cualquier encargo.
+A01.0005 [Nazuka] | Si tienes dudas, no dudes en preguntarme.
+A01.0006 [Nazuka] | Usaré todo lo que sé y haré todo lo posible por ayudarte.
+A01.0007 [Tú] | Gracias. Eres muy confiable.
+A01.0008 [Nazuka] | Sí, hablamos luego.
+
+## Conversación A02
+A02.0001 [Nazuka] | Sobre el encargo de campo anterior.
+A02.0002 [Nazuka] | Organicé todo en un informe y te lo envié.
+A02.0003 [Nazuka] | Por favor, revísalo cuando puedas.
+A02.0004 [Tú] | Entendido. Lo revisaré y te mandaré comentarios.
+A02.0005 [Tú] | Aunque, tengo que decirlo...
+A02.0006 [Tú] | Tus mensajes siempre son muy serios, Nazuka.
+A02.0007 [Nazuka] | El trabajo hay que tomarlo en serio.
+A02.0008 [Tú] | Aun así, podrías enviar mensajes que no sean de trabajo de vez en cuando.
+A02.0009 [Nazuka] | ¿?
+A02.0010 [Nazuka] | ¿Está bien eso?
+A02.0011 [Nazuka] | ¿No es este tu celular de trabajo?
+A02.0012 [Tú] | Nah, en realidad...
+A02.0013 [Tú] | Todos terminan platicando conmigo de todo tipo de cosas.
+A02.0014 [Tú] | Como pequeños problemas o preocupaciones de su vida diaria,
+A02.0015 [Tú] | o alguien interesante que conocieron.
+A02.0016 [Tú] | La gente comparte ese tipo de cosas conmigo todo el tiempo.
+A02.0017 [Nazuka] | Ya veo.
+A02.0018 [Nazuka] | Lo haré lo mejor posible la próxima vez.
+A02.0019 [Tú] | No, no, por favor, no te sientas presionada.
+A02.0020 [Tú] | Solo lo que te salga natural.
+A02.0021 [Nazuka] | Sí, lo sé.
+
+## Conversación A03
+A03.0001 [Nazuka] | Hola
+A03.0002 [Tú] | Hola.
+A03.0003 [Tú] | ....¡Oh!
+A03.0004 [Tú] | Eres Nazuka, ¿verdad?
+A03.0005 [Nazuka] | ¿Te sorprende?
+A03.0006 [Tú] | Sí. Verte usar stickers fue algo inesperado.
+A03.0007 [Nazuka] | Nazuna me enseñó.
+A03.0008 [Tú] | Eh... No hace falta que mandes tantos de golpe...
+A03.0009 [Nazuka] | Eh... Ese de hace un momento...
+A03.0010 [Nazuka] | No quise decir que quería ... estar así contigo.
+A03.0011 [Nazuka] | ¿No puedo cancelar el envío de este mensaje?
+A03.0012 [Tú] | No te preocupes, entiendo.
+A03.0013 [Tú] | Es solo una broma, ¿verdad?
+A03.0014 [Nazuka] | Perdón, creo que me emocioné un poco.
+A03.0015 [Tú] | No pasa nada. Yo también le mando ese sticker a la gente a veces.
+A03.0016 [Nazuka] | ¿El de hace un momento?
+A03.0017 [Tú] | Sí. ¿Qué pasa con él?
+A03.0018 [Nazuka] | Nada. Hablamos la próxima vez.
+
+## Conversación A04
+A04.0001 [Nazuka] | «Todas estas cosas son para mí la muerte y el dolor del mundo».
+A04.0002 [Nazuka] | «Todas ellas, porque se desvanecerán, viven en mi corazón».
+A04.0003 [Nazuka] | «Y mi corazón es un poco más grande que el universo entero».
+A04.0004 [Nazuka] | Es un poema que encontré hace poco. Quiero compartirlo contigo.
+A04.0005 [Tú] | Guau... Se siente algo triste.
+A04.0006 [Nazuka] | ¿Sí? A mí me parece más bien romántico.
+A04.0007 [Nazuka] | «El corazón humano» y «el universo».
+A04.0008 [Nazuka] | Conectar esas dos cosas... Es justo lo que haría un poeta.
+A04.0009 [Tú] | ¿Este poema también lo encontraste en el Monolito?
+A04.0010 [Nazuka] | Sí. Fascinante, ¿verdad?
+A04.0011 [Nazuka] | Últimamente he pensado en recopilar los poemas que me gustan en una colección.
+A04.0012 [Nazuka] | Por supuesto, no me pertenecen. Sería solo para compartir.
+A04.0013 [Nazuka] | Te enviaré una copia.
+A04.0014 [Tú] | Gracias.
+A04.0015 [Tú] | Ahora que lo pienso, no es solo poesía. También hay películas, videojuegos...
+A04.0016 [Tú] | Los Monolitos han tenido una influencia inmensa en este mundo.
+A04.0017 [Tú] | Y eso sin contar todo tipo de Artefactos.
+A04.0018 [Nazuka] | Sí, el Monolito guarda tantas cosas asombrosas.
+A04.0019 [Nazuka] | ¿Cuántos secretos y tesoros más siguen sin descubrir?
+A04.0020 [Nazuka] | De verdad ... estimula la imaginación, ¿no?
+
+## Conversación A05
+A05.0001 [Nazuka] | Hola
+A05.0002 [Tú] | ¿Pasó algo?
+A05.0003 [Nazuka] | Creo que dijiste una vez que...
+A05.0004 [Nazuka] | Puedo escribirte aunque no sea por trabajo, ¿verdad?
+A05.0005 [Tú] | ¡Claro!
+A05.0006 [Tú] | ¿De qué te gustaría hablar?
+A05.0007 [Nazuka] | Eh...
+A05.0008 [Nazuka] | Perdón, aún no se me ocurre nada.
+A05.0009 [Tú] | No pasa nada. Yo pensaré un tema.
+A05.0010 [Opción] | Por ejemplo, el clima.
+A05.0011 [Opción] | Por ejemplo, el Monolito.
+A05.0012 [Nazuka] | El clima...
+A05.0013 [Nazuka] | El clima de Philae está agradable hoy.
+A05.0014 [Tú] | Es verdad.
+A05.0015 [Nazuka] | Sí
+A05.0016 [Tú] | ...
+A05.0017 [Tú] | Entonces ... ¿por qué no nos vemos en persona?
+A05.0018 [Nazuka] | Claro
+A05.0019 [Nazuka] | ¿El Monolito? ¿Qué del Monolito?
+A05.0020 [Tú] | ¿Has ido a escalar últimamente?
+A05.0021 [Nazuka] | Como siempre, voy cuando no tengo trabajo.
+A05.0022 [Tú] | Ya veo...
+A05.0023 [Nazuka] | Sí
+A05.0024 [Tú] | ...
+A05.0025 [Tú] | ¿Quieres que escalemos un Monolito juntos?
+A05.0026 [Nazuka] | Claro
+A05.0027 [Tú] | Entonces nos vemos pronto.
+
+## Conversación A06
+A06.0001 [Nazuka] | Sobre el borrador del Manual del Trekker que te envié hace un tiempo...
+A06.0002 [Nazuka] | ¿Qué te pareció?
+A06.0003 [Tú] | Lo leí con Noya, Iris y Amber.
+A06.0004 [Tú] | También les pregunté a otros Trekkers.
+A06.0005 [Tú] | Todos tuvieron una opinión positiva.
+A06.0006 [Tú] | Todos pensamos que estás haciendo algo que de verdad vale la pena.
+A06.0007 [Nazuka] | Qué alegría...
+A06.0008 [Nazuka] | Tus comentarios son muy atentos, te lo agradezco mucho.
+A06.0009 [Nazuka] | Todo este tiempo te he estado pidiendo ayuda.
+A06.0010 [Tú] | Nah, es algo que ayudará a todos.
+A06.0011 [Tú] | ¡Solo hago mi trabajo!
+A06.0012 [Nazuka] | ¿Y si no es cuestión de trabajo?
+A06.0013 [Nazuka] | ¿Y si algún día quisiera molestarte con asuntos personales...?
+A06.0014 [Tú] | Claro que sí. Adelante.
+A06.0015 [Tú] | Ya te lo dije antes, ¿no? Somos amistades.
+A06.0016 [Nazuka] | Entonces permíteme agradecerte de antemano.
+
+## Conversación A07
+A07.0001 [Nazuka] | Quisiera hacerte un regalo.
+A07.0002 [Nazuka] | ¿Hay algo que te gustaría?
+A07.0003 [Tú] | ¿Eh? ¿Qué se celebra?
+A07.0004 [Tú] | ¿Por qué tan de repente?
+A07.0005 [Nazuka] | Por nada. Solo pensé ... que ya nos conocemos desde hace bastante tiempo.
+A07.0006 [Nazuka] | Quizá regalar algo sería una buena forma de marcarlo.
+A07.0007 [Nazuka] | Por favor, dímelo.
+A07.0008 [Opción] | Quisiera un Cupón de Deseo.
+A07.0009 [Opción] | Quisiera un molinillo de viento.
+A07.0010 [Nazuka] | ¿A qué te refieres?
+A07.0011 [Tú] | Significa que aún no lo decido. Quisiera guardar el deseo para después.
+A07.0012 [Nazuka] | Ya veo...
+A07.0013 [Nazuka] | Pero aunque no tengas Cupones de Deseo...
+A07.0014 [Nazuka] | Con gusto cumpliré tu deseo de todos modos.
+A07.0015 [Nazuka] | ¿Eh? Pero ¿no te di uno ya....?
+A07.0016 [Nazuka] | Oh, estás bromeando, ¿verdad?
+A07.0017 [Nazuka] | En serio...
+A07.0018 [Tú] | Es que de verdad no se me ocurre nada.
+A07.0019 [Tú] | Si necesito algo, te lo pediré directamente.
+A07.0020 [Nazuka] | Tiene sentido.
+A07.0021 [Nazuka] | Ya que no tienes nada en mente, dejémoslo así.
+A07.0022 [Tú] | Mm. Pero gracias de todos modos por pensar en mí.
+
+## Conversación A08
+A08.0001 [Nazuka] | Disculpa, pero... ¿tienes un momento?
+A08.0002 [Tú] | Pues, tengo algo que preparar para hoy.
+A08.0003 [Nazuka] | Entonces... ¿No?
+A08.0004 [Nazuka] | Perdón por molestar.
+A08.0005 [Tú] | ¡Espera!
+A08.0006 [Tú] | ¡O sea, para ti sí tengo tiempo!
+A08.0007 [Tú] | ¡Más que para cualquier otra persona!
+A08.0008 [Nazuka] | Perdón, creo que no te estoy entendiendo bien.
+A08.0009 [Tú] | Jeje, Nazuka, mi querida Nazuka...
+A08.0010 [Tú] | No habrás pensado que olvidaría tu cumpleaños, ¿verdad?
+A08.0011 [Tú] | ¡Subestimas nuestra relación!
+A08.0012 [Nazuka] | Yo... Perdón.
+A08.0013 [Tú] | Cuando dije «algo que preparar», me refería a tu regalo de cumpleaños.
+A08.0014 [Tú] | No te preocupes, estaré en tu fiesta de cumpleaños sin falta.
+A08.0015 [Nazuka] | Te estaré esperando.
+
+## Conversación A09
+A09.0001 [Nazuka] | Crecer.
+A09.0002 [Nazuka] | Qué palabra tan asombrosa.
+A09.0003 [Tú] | ¿Por qué dices eso de repente?
+A09.0004 [Nazuka] | Antes pensaba que...
+A09.0005 [Nazuka] | ya había alcanzado el límite de mis propias capacidades.
+A09.0006 [Nazuka] | Después de todo, he entrenado durante años,
+A09.0007 [Nazuka] | y llevo mucho tiempo siendo Trekker.
+A09.0008 [Nazuka] | Pero después de conocerte,
+A09.0009 [Nazuka] | descubrí nuevas posibilidades dentro de mí.
+A09.0010 [Nazuka] | Es ... una sensación desconocida.
+A09.0011 [Tú] | No eres la primera que lo dice.
+A09.0012 [Tú] | Supongo que eso significa que tengo bastante talento para inspirar a los demás, ¿eh?
+A09.0013 [Nazuka] | Es cierto.
+A09.0014 [Nazuka] | Impresionante, Jefe.
+A09.0015 [Nazuka] | Me alegra haberte conocido.
+
+## Conversación A10
+A10.0001 [Nazuka] | ¿Recuerdas la vez que subimos a una montaña...
+A10.0002 [Nazuka] | y encontramos una casita ahí?
+A10.0003 [Tú] | Eh... Te refieres a...
+A10.0004 [Tú] | ¿La vez que nos topamos con una manada de venados salvajes?
+A10.0005 [Nazuka] | Sí. No pensé que aún lo recordaras.
+A10.0006 [Tú] | ¡Claro que sí! Éramos solo nosotros.
+A10.0007 [Tú] | Entonces, ¿pasó algo?
+A10.0008 [Nazuka] | No. Nada.
+A10.0009 [Nazuka] | Solo estaba pensando...
+A10.0010 [Nazuka] | La próxima vez que ambos estemos libres, quizá podríamos volver allí.
+A10.0011 [Nazuka] | Parece un buen lugar para desconectar.
+A10.0012 [Tú] | ¡Claro!
+A10.0013 [Tú] | Quizá nos topemos con la misma manada.
+A10.0014 [Nazuka] | Lo espero con ganas.
+
+## Conversación B01
+B01.0001 [Nazuka] | Jefe, acabo de regresar a Philae. ¿Te gustaría que nos viéramos en los próximos días?
+B01.0002 [Tú] | Claro. Últimamente no te he visto por ahí
+B01.0003 [Nazuka] | Me salieron encargos que me llevaron a otras ciudades
+B01.0004 [Tú] | ¡Trabajas muy duro!
+B01.0005 [Tú] | Aunque, tengo que decirlo... ¡De verdad eres famosa!
+B01.0006 [Tú] | ¡Tu reputación va más allá de las murallas de Philae!
+B01.0007 [Nazuka] | Todo gracias a que la Asociación de Trekkers ayuda a difundir la voz
+B01.0008 [Nazuka] | Tener más trabajo siempre es bueno
+B01.0009 [Nazuka] | Porque significa que cada vez más gente reconoce mis habilidades
+B01.0010 [Nazuka] | Pero también significa menos tiempo para pasar con amistades
+B01.0011 [Nazuka] | A veces sí siento una pizca de arrepentimiento por eso
+B01.0012 [Tú] | Encontrarás la manera de compensarlo, poco a poco
+B01.0013 [Tú] | Seguro todos entienden cómo es
+
+## Conversación B02
+B02.0001 [Nazuka] | Quisiera comer algo dulce
+B02.0002 [Tú] | ¿?
+B02.0003 [Tú] | ¿Por qué tan de repente?
+B02.0004 [Nazuka] | Kaede dijo que he estado demasiado tensa últimamente
+B02.0005 [Nazuka] | Y que necesito relajarme un poco
+B02.0006 [Nazuka] | Lo pensé, y comer fue lo único que se me ocurrió
+B02.0007 [Tú] | También podrías salir a divertirte así
+B02.0008 [Nazuka] | Pero cada vez que salgo, termino preocupándome
+B02.0009 [Nazuka] | ¿Y si pasa algo en el gremio mientras no estoy?
+B02.0010 [Tú] | Mmm, Kaede no bromeaba cuando dijo que estabas tensa
+B02.0011 [Nazuka] | Sé que tengo que aprender a confiar en mis compañeros de gremio
+B02.0012 [Nazuka] | Pero aun así, no puedo evitar preocuparme...
+B02.0013 [Tú] | Muy bien, entonces te daré un encargo, ahora mismo
+B02.0014 [Nazuka] | ¿Eh?
+B02.0015 [Tú] | Hoy. Sal y pasa el rato conmigo
+B02.0016 [Tú] | Te estaré esperando
+
+## Conversación B03
+B03.0001 [Nazuka] | Jefe, tengo curiosidad
+B03.0002 [Nazuka] | Sé que no puedes usar magia
+B03.0003 [Nazuka] | Pero si pudieras...
+B03.0004 [Nazuka] | ¿Qué tipo de magia querrías hacer?
+B03.0005 [Tú] | La magia de Ventus como la tuya suena bastante bien
+B03.0006 [Nazuka] | ¿Por qué?
+B03.0007 [Tú] | Porque podría llevarme al cielo
+B03.0008 [Tú] | ¿A quién no le gustaría la sensación de volar?
+B03.0009 [Tú] | ¡Libre como un pájaro!
+B03.0010 [Nazuka] | Una vez vi una frase en el Monolito...
+B03.0011 [Nazuka] | «Volar es un sueño ancestral de la humanidad».
+B03.0012 [Tú] | Me parece totalmente lógico. Así me siento exactamente
+
+## Conversación B04
+B04.0001 [Nazuka] | Quisiera preguntarte algo, Jefe
+B04.0002 [Tú] | ¿Sí?
+B04.0003 [Nazuka] | ¿Cómo logras el equilibrio entre trabajo y vida personal?
+B04.0004 [Nazuka] | ¿No es agotador encargarse de tantas cosas?
+B04.0005 [Tú] | Pues... ¿siento que no está tan mal?
+B04.0006 [Tú] | Ya sea como Trekker o como líder de empresa
+B04.0007 [Tú] | He hecho carrera viviendo aventuras
+B04.0008 [Tú] | Viajar tanto sí llega a cansar a veces
+B04.0009 [Tú] | Pero gracias a esta gran aventura
+B04.0010 [Tú] | he podido conocer a tanta gente maravillosa y hacer tantas cosas interesantes
+B04.0011 [Tú] | Perdón, me dejé llevar, ¿verdad?
+B04.0012 [Nazuka] | No, para nada. Gracias por responderme
+B04.0013 [Nazuka] | Entonces supongo que, más que pensar en equilibrar, se trata de disfrutarlo...
+B04.0014 [Nazuka] | Eso es muy útil
+
+## Conversación B05
+B05.0001 [Nazuka] | Creo que estoy empezando a acostumbrarme
+B05.0002 [Tú] | ¿A qué?
+B05.0003 [Nazuka] | A mi nueva vida
+B05.0004 [Nazuka] | Es un poco distinta a la de antes
+B05.0005 [Nazuka] | Pero me siento llena de esperanza
+B05.0006 [Nazuka] | Tengo muchas amistades a mi lado
+B05.0007 [Nazuka] | Y he conocido personas con las que puedo contar
+B05.0008 [Nazuka] | Tú eres quien hizo posible todo esto
+B05.0009 [Nazuka] | Gracias.
+B05.0010 [Tú] | Escuchar un agradecimiento tan sincero
+B05.0011 [Tú] | me da muchísima vergüenza
+B05.0012 [Nazuka] | ¿En serio? Me encantaría ver esa expresión en tu cara
+B05.0013 [Nazuka] | Mmm, si tengo la oportunidad
+B05.0014 [Nazuka] | te lo diré en persona ... un par de veces
+
+## Conversación B06
+B06.0001 [Nazuka] | Hay algo que quiero compartir contigo
+B06.0002 [Tú] | ¿Sí?
+B06.0003 [Nazuka] | Tengo un pasatiempo que disfruto desde la infancia
+B06.0004 [Tú] | Eso es en realidad algo raro
+B06.0005 [Nazuka] | Cierto. Como Trekker, es fácil olvidar el pasado
+B06.0006 [Nazuka] | La gente tiende a vivir en el presente y a preocuparse más por quienes la rodean
+B06.0007 [Nazuka] | Y las cosas del pasado que sí recuerdas
+B06.0008 [Nazuka] | brillan más por eso
+B06.0009 [Tú] | No me digas que ese pasatiempo es...
+B06.0010 [Nazuka] | Hoy quiero ir a ver la noria de agua a las afueras de Philae
+B06.0011 [Nazuka] | Hace mucho que no voy
+B06.0012 [Tú] | Lo sabía
+B06.0013 [Tú] | Voy contigo

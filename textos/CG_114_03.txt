@@ -1,0 +1,127 @@
+# Historia de Chaton · 3 · Commission: Tyrant's Trials (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Stellaroid | Stellaroid
+N:avg1_114 | Chaton
+N:avg2_949 | Breezy Owl
+N:avg2_954 | Crispy Hooves
+N:avg2_975 | Glopo
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1278 | Martillo de la Olla de Vapor
+N:avg3_1279 | Martillo de la Olla de Vapor
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Encargo: Las pruebas del Tirano (Parte III)
+0003 [Intro] | ¡Me siento con energía y en racha! Es el momento perfecto para romper ese récord.
+0004 [Tú] | Uf...==W== ¡Uf...!
+0005 [Chaton] | ¡Tirano! ¡A las dos en punto, enemigos!
+0006 [Tú] | ¡¿Eh?!
+0007 [Tú] | Ay no, fui muy lento...
+0008 [Chaton] | ¡Tirano!
+0009 [Tú] | Uf...==W== Gracias.
+0010 [Chaton] | ¡Tirano! ¡A las cinco en punto! ¡Vienen!
+0011 [Tú] | ¡¿Vienen?!==W== ¡Te dije que yo soy el cerebro en combate!
+0012 [Chaton] | ¡Justo por eso perdiste y te sellaron! ¡Nunca entrenas!
+0013 [Tú] | Te dije que no soy ese legendario Tirano...
+0014 [Chaton] | ¡Quizá lo olvidaste! Dicen que la terapia de choque funciona con la amnesia.
+0015 [Chaton] | ¡Sigue peleando, hazte más fuerte y quizá tus recuerdos vuelvan!
+0016 [Tú] | ¡Esto es una locura! ¡Aaaaah!
+0017 [Tú] | Pensé que solo íbamos a visitar el Monolito,==W== ¡no a que nos cazaran los Stellaroids!
+0018 [Tú] | Si bastara con eso para recuperar la memoria, no me estaría metiendo en tantos problemas…
+0019 [Tú] | ¡Rayos! ¡Me rodean!
+0020 [Chaton] | ¡Tirano! ¡¿Sigues de pie?!
+0021 [Tú] | ¡Sin ti ya estaría perdido!
+0022 [Chaton] | ¡Por supuesto!==W== ¡Mi golpe final, impulsado por el Ojo del Dios Miau!
+0023 [Chaton] | ¡Nadie escapa de la Entrada del Códice Inconclusa MK I!
+0024 [Chaton] | ¡El punto es que yo te cubro, Tirano! Entrena todo lo que quieras. ¡Yo te respaldo!==W== ¡Nyajajajaja!
+0025 [Tú] | Jajaja...
+0026 [Tú] | Su puntería es de verdad...
+0027 [Tú] | Qué montaje tan disparatado, pero su cobertura es impecable.
+0028 [Tú] | Seguir peleando para hacerse más fuerte...==W== Vaya.
+0029 [Tú] | Tiene razón. No puedo esconderme tras los demás para siempre.==W== Es hora de dar un paso al frente.
+0030 [Tú] | ¡Muy bien, voy a intentarlo!
+0031 [Chaton] | ¡Tirano! ¡Llévalo hacia las tres en punto!
+0032 [Tú] | ¡Voy!
+0033 [Chaton] | ¡¿Qué?! ¡¿De dónde salió eso?!
+0034 [Chaton] | ¡No hay tiempo de apuntar!==W== ¡Tirano, corre!
+0035 [1] | ¡Si me alcanza, estoy perdido!==W== Espera...==W== ¿Eso es...?
+0036 [1] | ¡Ven por mí!
+0037 [1] | Atráelo cerca...==W== ¡Y luego a la derecha!
+0038 [Stellaroid] | ¡Skreeeeah!
+0039 [Tú] | ¡Uf...!
+0040 [Chaton] | ¡Tirano, increíble!==W== ¿Ves? ¡Sí puedes!
+0041 [Tú] | Apenas lo logré. Por poco.
+0042 [Chaton] | ¡Mantengamos el ritmo y sigamos entrenando! ♪
+0043 [Tú] | ¡Con esa última ya fue demasiado!
+0044 [Chaton] | Esa era la última Stellaroid de este piso, ¿verdad?==W== Limpiar monstruos... Simple y brutal. ¡Me encantan los encargos así!
+0045 [Chaton] | ¡A través de la mira, mi mente se vuelve afilada como una navaja!==W== Y hay un poder dormido dentro de mí... Agitándose, despertando.==W== ¡Es embriagador...!==W== ¡Lo sabía, nací para esta clase de trabajo!
+0046 [Chaton] | Tú también lo sientes, ¿verdad, Tirano?
+0047 [Tú] | Zzz...==W== Zzzz...
+0048 [Tú] | Perdón...==W== ¿Qué dijiste?
+0049 [Chaton] | ¿Eh? ¿Ya te falta el aire? ¡Eres el Tirano, no puedes verte tan agotado!
+0050 [Tú] | Y me pregunto de quién será la culpa...
+0051 [Tú] | Uf...==W== No me apunté para correr tanto.
+0052 [Chaton] | ¡Bueno, aun así derrotaste a varios Stellaroids hoy! ¿Te devolvió algún recuerdo?
+0053 [Tú] | Por desgracia, no. Ni uno.
+0054 [Chaton] | Ya veo...==W== Bueno, qué se le va a hacer.
+0055 [Tú] | Ahora sí tiene que rendirse...
+0056 [Chaton] | ¡Muy bien, se acabó el descanso! ¡Al siguiente piso!
+0057 [Tú] | Así que no me va a perdonar nada...==W== Aquí vamos otra vez...
+0058 [Tú] | Espera, ¿esto es...==W== una sala de videojuegos?
+0059 [Chaton] | ¡Así es! Y lo siento en los huesos. ¡Hoy voy a pulverizar mi récord!
+0060 [Chaton] | ¡Estoy motivada y en mi mejor momento!==W== ¡Además tengo al Tirano a mi lado, potenciándome con poder oscuro!
+0061 [Tú] | ¿Y yo qué tengo que ver?
+0062 [Chaton] | ¡Todo!==W== ¡Siento la energía oscura que emana de ti, resonando con mi alma! ¡El poder de la gran Chaton se desborda!
+0063 [Tú] | A-ah, ya veo...
+0064 [Chaton] | ¡Comienza la prueba! ¡Desciende!==W== ¡Rapsodia del Sufrimiento Mundano!
+0065 [Tú] | Y ahí va. ¿Pero qué está jugando?
+0066 [Tú] | Parece que está golpeando la puerta de un Artefacto de lavado...
+0067 [Chaton] | Hmph...==W== ¡He jugado esta canción mil veces!
+0068 [Chaton] | ¡No te dejes engañar por el inicio lento. El clímax es el verdadero reto!
+0069 [Tú] | ¿Canción? Ah,==W== está presionando botones al ritmo.
+0070 [Tú] | Mm mm mm... Ritmo pegajoso. Dan ganas de seguirlo con los dedos.
+0071 [Chaton] | ¡Oh! ¡Ya casi!==W== ¡Aquí viene el reto definitivo!
+0072 [Chaton] | ¡Tirano! ¡Préstame tu poder oscuro!
+0073 [Tú] | ¡Está bien! ¿Anhelas el poder del Tirano?==W== ¡Entonces yo, soberano de la oscuridad, te lo prestaré!
+0074 [Tú] | No sé qué lo causó, si el ritmo o su energía, pero terminé siguiéndole el juego.
+0075 [Tú] | Pero...==W== espero no haberla arruinado.
+0076 [Chaton] | Hmph...==W== ¡Parece que esa pelea despertó un poco de tu antiguo yo!
+0077 [Chaton] | ¡Como única heredera del poder oscuro en la Compañía del Gato Blanco, acepto tu ayuda!==W== ¡La melodía de la prueba final! ¡Enfrenta mi ataque!
+0078 [Tú] | ¡Oye! ¿Este es el clímax?==W== ¡Va tan rápido que apenas alcanzo a leer la pantalla!
+0079 [Tú] | Pero Chaton ni se inmuta,==W== acertando cada nota.
+0080 [Tú] | El ritmo va terminando.==W== Parece que ya casi acaba.
+0081 [Chaton] | ¡¡Increííííble!!==W== ¡Tirano! ¡¿Lo viste?!==W== ¡No solo rompí mi récord personal,==W== sino que además hice Full Combo de una canción entera en dificultad Infierno!
+0082 [Opción] | Lo vi. ¡Fue increíble!
+0083 [Chaton] | Antes siempre fallaba en el mismo punto exacto.==W== ¡El tiempo es brutal…!
+0084 [Chaton] | ¡No puedo creer que hoy lo logré en el primer intento!==W== Seguro es==W== porque estabas a mi lado,==W== ¿verdad?
+0085 [Opción] | Todo fue tu propio poder, Chaton.
+0086 [Chaton] | ¿Mi propio poder?==W== ¿Eh?==W== ¿Quieres decir que mi verdadero poder por fin se desató por completo?
+0087 [Chaton] | ¡Qué genial!==W== Si es así, ¡con más razón fue porque estabas a mi lado!
+0088 [Chaton] | Jeje…==W== Es hora de despojarme de esta falsa identidad.==W== ¡Oscuridad, habita mi cuerpo!==W== ¡Que este poder de aniquilación resuene como preludio del regreso del Tirano!
+0089 [Opción] | Eh... No llegaría tan lejos...
+0090 [Chaton] | ¿Por qué? ¡¿Por qué?!==W== ¡Precisamente porque existe el Tirano es que existen ==SEX3== secuaces!
+0091 [Chaton] | Suspiro,==W== ¡deberías tener más confianza, Tirano!==W== ¡Aun sin tus recuerdos, sigues siendo el más fuerte!
+0092 [Opción] | ¿En serio?
+0093 [Chaton] | ¡Exacto!==W== Lo siento…==W== ¡El poder oscuro está oculto dentro de ti!
+0094 [Chaton] | ¡Ese poder puede despertar almas==W== y guiar a los convocados hacia cumbres aún más altas!==W== ¡Igual que despertó el poder dormido dentro de mí!
+0095 [Opción] | Hace tiempo que me da curiosidad...
+0096 [Opción] | ¿Qué es en realidad ese poder oscuro?
+0097 [Chaton] | Hablando de poder oscuro,==W== seguro es el poder del Tirano, ¿verdad?
+0098 [Chaton] | Pinta todo en el mundo de oscuridad.==W== ¡Hasta los dioses que gobiernan todas las cosas caerían ante él!
+0099 [Chaton] | ¡Pero ese poder fue sellado junto con tus recuerdos!==W== ¡Qué desperdicio!, ¿no?
+0100 [Opción] | S-sí...
+0101 [Chaton] | Jeje,==W== no te preocupes.==W== Como secuaz modelo del Tirano,==W== ¡definitivamente te ayudaré a recuperar todos tus recuerdos y tu poder!
+0102 [Chaton] | ¡Así que confía en la gran Chaton!==W== Mi querido Tirano~
+0103 [Tú] | Agradezco la ayuda, pero...==W== ¿cuál es el plan en realidad?
+0104 [Chaton] | Mmm... Bueno,==W== médicamente hablando, estoy segura de que la terapia de choque y recrear escenarios tratan la amnesia.
+0105 [Tú] | ¿Lo que significa...?
+0106 [Chaton] | ¡Que seguiremos enfrentando pruebas dignas del Tirano!==W== ¡Peleamos, entrenamos y destruimos cada obstáculo en nuestro camino! ¡Es infalible!
+0107 [Chaton] | ¡El campamento definitivo para forjar al Tirano más fuerte! Jeje...==W== ¡La gran Chaton se está emocionando!
+0108 [Chaton] | ¡Espera y verás, Tirano! ¡Te encantará cuando tu verdadero poder despierte!
+0109 [Tú] | Ah...==W== Supongo que no me queda más que esperarlo con ganas.
+0110 [Tú] | Quizá es la primera vez...==W== que siento verdaderas ganas de recuperar mis recuerdos...
+0111 [Narración] | Desde ese día, hasta que el Gremio de la Nueva Estrella dejó Emor, Chaton y yo seguimos aceptando encargos bajo el disfraz de las «Pruebas del Tirano»...

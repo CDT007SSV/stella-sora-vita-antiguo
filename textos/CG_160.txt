@@ -1,0 +1,6 @@
+# Historia de Suntide Willow — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_160_01 | Unas vacaciones ajetreadas (Parte I)
+CG_160_02 | Unas vacaciones ajetreadas (Parte II)
+CG_160_03 | Unas vacaciones ajetreadas (Parte III)

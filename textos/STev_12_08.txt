@@ -1,0 +1,153 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! · 8 · Noche de honor
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Ceremony Host | Presentador de la ceremonia
+N:Eleanor's Father | Padre de Eleanor
+N:Eleanor's Mother | Madre de Eleanor
+N:Gang Member | Pandillero
+N:Imperial Guard | Guardia Imperial
+N:Scammer's Accomplice | Cómplice del estafador
+N:Supporting Trekker | Trekker de apoyo
+N:The Captives | Los cautivos
+N:avg1_137 | Eleanor
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_144 | Residente
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_188 | Residente de Flavio
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_213 | Bruja
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Noche de honor
+0003 [Intro] | Nombrada «Ciudadana Honoraria» por su valentía, Eleanor asiste a la ceremonia de premiación. Ahí, por fin aclara las cosas con sus padres, lista para dar el siguiente gran paso en su vida.
+0004 [Scammer's Accomplice] | Maldición... ¿Cómo se fue todo al diablo?
+0005 [Imperial Guard] | ¡Atención! Suelten las armas y ríndanse.
+0006 [Gang Member] | ¡Aaargh! ¡C-Corran!
+0007 [Scammer's Accomplice] | Espera... La Guardia Imperial llegó demasiado rápido.
+0008 [Supporting Trekker] | ¡No van a escapar!
+0009 [Gang Member] | ¡Gaaah!
+0010 [Scammer's Accomplice] | ¡¿Y de dónde salieron estos Trekkers?!
+0011 [Scammer's Accomplice] | Menos mal que contraté músculo extra...==W== Los usaré de cobertura y me largaré.
+0012 [Eleanor] | ¡Alto ahí!
+0013 [Scammer's Accomplice] | ¡Tú...!
+0014 [Eleanor] | Ríndete. Se acabó.
+0015 [Eleanor] | Todos tus crímenes ...==W== terminan hoy.
+0016 [Scammer's Accomplice] | ¡Argh!
+0017 [Vivian] | ¡Eleanor!
+0018 [Caterine] | ¡Eso estuvo intenso! ¿Estás herida?
+0019 [Eleanor] | Estoy bien. Por fin se acabó...
+0020 [The Captives] | ¡Gracias! Gracias por salvarnos, señorita.
+0021 [Eleanor] | ¿Eh? Oh, eh, de nada...
+0022 [Vivian] | Jeje, yo no diría que todavía «se acabó» del todo.
+0023 [Vivian] | ¿No has notado que todos nos están mirando?
+0024 [Supporting Trekker] | Oye, ¿viste eso? Esa niña tiene movimientos de otro nivel.
+0025 [Supporting Trekker] | No parece de la Guardia Imperial. ¿Quizá una Trekker contratada?
+0026 [Imperial Guard] | Disculpe, ¿es usted la Trekker que rescató a todos? Vaya, vaya... Qué talento tan increíble a su edad.
+0027 [Imperial Guard] | ¡Hizo un gran trabajo allá! Presentaré una recomendación apenas regrese.
+0028 [Eleanor] | ... ¿Eh? ¿Una recomendación?
+0029 [Imperial Guard] | Así es. ¿Me permite preguntar su nombre, señorita?
+0030 [Eleanor] | E-Eh...
+0031 [Caterine] | ¡Se llama Eleanor! Es la heroína que nos salvó a todos.
+0032 [Narración] | Cinco días después.
+0033 [Eleanor] | ... Suspiro.
+0034 [Eleanor] | Todavía no logro acostumbrarme a esto...
+0035 [Vivian] | ¿Eleanor? ¿Eso fue un suspiro?
+0036 [Caterine] | Qué raro. ¿No deberías estar contenta? ¡Es tu gran día!
+0037 [Eleanor] | Vivian, Caterine...
+0038 [Eleanor] | Todo esto me parece irreal.
+0039 [Vivian] | ¿Por qué? Ah... ¿Es porque este honor llegó de la nada?
+0040 [Eleanor] | Sí, en parte... Jamás imaginé que me nombrarían Ciudadana Honoraria del Año, y mucho menos que organizarían una ceremonia entera para mí.
+0041 [Eleanor] | Y sigo siendo una novata total...
+0042 [Caterine] | Pero nos salvaste a mí y a los demás. Eso es un hecho. Todos lo vimos.
+0043 [Caterine] | No lo decimos porque seamos tus amigas. Detuviste a esos criminales y salvaste el día. Te lo ganaste.
+0044 [Vivian] | Nuestra Eleanor ha trabajado duro desde hace mucho. Así se convirtió en la Trekker que es hoy.
+0045 [Vivian] | Ahora por fin tuviste tu oportunidad de brillar, Eleanor. Caterine y yo estamos orgullosas de ti.
+0046 [Vivian] | Y mira, tus padres vinieron a tu ceremonia.
+0047 [Caterine] | Oh, vienen hacia acá.
+0048 [Vivian] | Vamos, Caterine, salgamos. Dejémosles un rato en familia.
+0049 [Eleanor's Father] | ¿Lista para recibir tu premio, Eleanor?
+0050 [Eleanor] | ... Sí.
+0051 [Eleanor's Mother] | Nunca pensé que lograrías todo esto sin que nos enteráramos.
+0052 [Eleanor] | Padre, Madre...
+0053 [Eleanor] | Lamento haberles mentido.==W== Pero nunca renuncié a mi sueño.
+0054 [Eleanor's Mother] | Pero Eleanor, tienes que aceptar la realidad. No estás hecha para la vida de Trekker.
+0055 [Eleanor] | Madre, ¿cómo puedes decir eso?
+0056 [Eleanor's Mother] | ...
+0057 [Eleanor's Father] | Porque no tienes idea de lo peligroso que es el mundo. Escúchame. Lo hacemos por tu bien.
+0058 [Eleanor's Father] | Hice que los sirvientes se deshicieran de tu equipo. Aprovecha esta oportunidad para abandonar esta tontería de una vez por todas.
+0059 [Eleanor's Father] | Sobre ese día...==W== Fuimos demasiado precipitados al juzgar. Decidimos que no tenías madera de Trekker sin entenderte, ni respetar la profesión.
+0060 [Eleanor] | ¿Eh...?
+0061 [Eleanor's Mother] | Somos nosotros quienes te debemos una disculpa.
+0062 [Eleanor] | Madre...
+0063 [Eleanor's Father] | Nuestra hija enfrentó el peligro de frente para salvar a su amiga y a ciudadanos inocentes. No todos pueden hacer eso.
+0064 [Eleanor's Father] | ... Has crecido, Eleanor. Tu madre y yo estamos orgullosos de ti.
+0065 [Eleanor] | ... ¿Eso significa que puedo seguir siendo Trekker?
+0066 [Eleanor's Father] | Bueno...
+0067 [Eleanor's Mother] | Eleanor, eres nuestra única heredera. Aún esperamos que te hagas cargo de la finca.
+0068 [Eleanor] | ... Entiendo.
+0069 [Eleanor] | Pero... ¿Y si no quiero elegir?
+0070 [Eleanor] | Aprenderé a administrar la finca y seguiré siendo Trekker.
+0071 [Eleanor's Mother] | ... Pronto comenzaremos tu formación formal como heredera. Equilibrarla con tus deberes de Trekker no será fácil.
+0072 [Eleanor] | No me importa lo difícil que sea. ¡Sé que puedo lograrlo!
+0073 [Eleanor's Mother] | ¿Qué opinas, querido?
+0074 [Eleanor's Father] | Quizá...==W== Deberíamos hacernos a un lado y dejar que lo intente.
+0075 [Eleanor's Mother] | Je... Parece que pensamos lo mismo. Se ha esforzado tanto. ¿Qué derecho tenemos de detenerla?
+0076 [Eleanor] | ...! ¿D-De verdad lo dicen en serio?
+0077 [Eleanor's Father] | Por supuesto. Tus acciones han demostrado que ya no eres una niña, Eleanor.
+0078 [Eleanor's Father] | Así que de ahora en adelante, hablaremos las cosas contigo de igual a igual.
+0079 [Eleanor] | Han pasado tantas cosas últimamente... Una tras otra. Todavía me da vueltas la cabeza...
+0080 [Eleanor] | Padre y Madre... Por primera vez, no me tratan como a una niña. Por fin me entienden...
+0081 [Eleanor] | ... ¡Ah! ¡No hay tiempo para pensar en eso! ¡Estoy por subir al escenario...!
+0082 [Ceremony Host] | A continuación, el premio a la Ciudadana Honoraria del Año...
+0083 [Ceremony Host] | Ante una despiadada banda criminal, rompió el estancamiento con un valor extraordinario. Su pasión devolvió la paz y el orden a nuestra ciudad...
+0084 [Eleanor] | Guau... Qué exageración. Mi cara debe de estar roja como un tomate...
+0085 [Eleanor] | Estoy nerviosa. Pronto tengo que dar un discurso, ¿verdad? Escribí un borrador, pero todavía tengo el estómago hecho nudo...
+0086 [Ceremony Host] | Demos la bienvenida a nuestra galardonada, la señorita Eleanor, para unas palabras.
+0087 [Eleanor] | H-Hola a todos. Soy Eleanor, y soy Trekker...
+0088 [Eleanor] | Es un honor estar aquí hoy... Eh, bueno...
+0089 [Eleanor] | ¿Eh? ¿Esos son Vivian y Caterine? Parece que intentan decirme algo...
+0090 [Caterine] | ¡No entres en pánico, Eleanor! ¡Aquí estamos!
+0091 [Vivian] | ¡Es tu primer gran reconocimiento! ¡Y vimos cómo te lo ganaste!
+0092 [Eleanor] | ... Gracias, ustedes dos. Ya me estoy calmando...
+0093 [Eleanor] | ... Convertirme en Trekker siempre ha sido mi sueño. Pero durante muchísimo tiempo dudé de si realmente tenía lo necesario.
+0094 [Eleanor] | Padre y Madre... Me están sonriendo.
+0095 [Eleanor] | Hoy por fin me demostré a mí misma. Pero no llegué aquí sola.
+0096 [Eleanor] | A las amigas que me apoyaron desde el primer día, a la familia que nunca dejó de preocuparse por mí, y...
+0097 [Eleanor] | ... a mi Mentor, que no pudo estar hoy aquí, pero me guió en cada paso.
+0098 [Eleanor] | Desde el fondo de mi corazón, gracias.
+0099 [Eleanor] | Este honor es solo el comienzo. No me detendré aquí. Seguiré esforzándome para convertirme en una Trekker más fuerte, y dejaré que mis acciones lo demuestren.
+0100 [Eleanor] | De ahora en adelante, seguiré protegiendo a quienes lo necesiten y estaré siempre lista para echar una mano. Porque esa es la Trekker que quiero ser.
+0101 [Eleanor] | ¡Mi sueño está lejos de terminar!
+0102 [Eleanor] | Por fin de vuelta...
+0103 [Eleanor] | Todo este día se sintió como un sueño...
+0104 [Eleanor] | ... Oh, un mensaje.
+0105 [Tú] | ¿Ya terminó la ceremonia?
+0106 [Eleanor] | ¡Sí!
+0107 [Eleanor] | Recibí el premio de Ciudadana Honoraria
+0108 [Eleanor] | Acabo de llegar a mi cuarto
+0109 [Eleanor] | 
+0110 [Eleanor] | ¡En un rato te mando unas fotos, Mentor!
+0111 [Tú] | 
+0112 [Tú] | Qué increíble
+0113 [Tú] | ¡Sigue así!
+0114 [Eleanor] | ¡Lo haré!
+0115 [Eleanor] | Je, je... Sabía que Mentor me estaba cuidando.
+0116 [Eleanor] | Gracias, Mentor.
+0117 [Eleanor] | Hablé en serio en la ceremonia. Todavía no me detengo...
+0118 [Eleanor] | Tomar encargos es solo una parte de ser Trekker. Otra tarea importante para mí es escalar Monolitos.
+0119 [Eleanor] | Ya lo tengo todo planeado. Saldré pasado mañana. Será mi primera vez enfrentando un Monolito.
+0120 [Eleanor] | Pero antes de eso...==W== La tarde de té de mañana ... con todos...
+0121 [Eleanor] | Zzz... Zzz...

@@ -1,0 +1,99 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 9 · Sol y brisa marina
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Fisherman in Trouble | Pescador en apuros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1208 | Trekker
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg1_160 | Willow
+N:avg2_945 | Cangrejo ermitaño
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_977 | Trekker ansioso
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Sol y brisa marina
+0003 [Intro] | Juntos derrotan al cangrejo ermitaño, rescatan a Cosette y recuperan el Artefacto de venta automática. Antes de irte, disfrutas de la vista de la isla en la playa con Willow... Pero este cuento de verano continuará.
+0004 [Hermit Crab] | Clac...
+0005 [Cosette] | ¡Alto! ¡Devuélveme mi bebida!
+0006 [Cosette] | ¡Wow—!
+0007 [Tú] | ¡Cosette! ¿Estás bien?
+0008 [Cosette] | Buaa... La cabeza me da vueltas...==W== Mi Artefacto de venta automática... Mi bebida...
+0009 [Tú] | O sea que lloras por esa bebida...==W== Entonces estás bien...
+0010 [Willow] | Parece que solo está un poco mareada, nada grave. Solo necesita descansar.
+0011 [Amber] | Un Artefacto de venta automática, qué bien.
+0012 [Iris] | Pero está muy deformado. ¿De verdad se podrá arreglar...?==W== Bueno, llevémoslo primero.
+0013 [Willow] | Qué sorpresa. Salimos a atrapar al cangrejo ermitaño y terminamos topándonos con el Artefacto.
+0014 [Tú] | Quizá no sea simple coincidencia...
+0015 [Tú] | Willow, ¿recuerdas los barriles y las conchas con rasguños en la cueva?
+0016 [Willow] | Claro que sí... Ah, ¿entonces los rasguños los dejó el cangrejo ermitaño?
+0017 [Tú] | Supongo que tomó esa cueva como su hogar... Ha vivido en esta isla todo este tiempo...
+0018 [Tú] | Y siguiendo su rastro, descubrimos por casualidad dónde está su hogar.
+0019 [Willow] | Suena muy probable...
+0020 [Noya] | En fin, ya encontramos a Cosette y al Artefacto de venta automática, nuestro trabajo aquí está hecho. ¡Hay que celebrar!
+0021 [Noya] | ¡Volvamos juntos!
+0022 [Willow] | Sí, tienes razón.
+0023 [Shia] | Hace rato el mar estaba bastante agitado. Creo que deberíamos revisar bien el estado de nuestro bote antes de zarpar. Tomemos un descanso mientras tanto.
+0024 [Tú] | ¡Oye, pero si es Shia!==W== ¿Karin también está aquí?
+0025 [Karin] | Hola, Jefe. Parece que nos vimos hace nada...
+0026 [Tú] | Así que ustedes dos son los «viejos amigos» de los que hablaba Iris.
+0027 [Karin] | Así es.==W== Nos enteramos de tu apuro en el mar y lo primero que pensé fue: «¿Otra vez...?»
+0028 [Shia] | Bueno, ahora te ves muy bien, y eso tranquiliza.
+0029 [Tú] | Gracias a ustedes. En serio. Gracias por venir a ayudarnos.
+0030 [Karin] | ¡D-Deja eso! ¡Me estás poniendo la piel de gallina! Solo hicimos lo que teníamos que hacer.
+0031 [Karin] | Bueno, basta de charla. ¡Tengo trabajo que hacer!
+0032 [Shia] | Te aviso cuando estemos listos para partir. Puedes relajarte un rato.
+0033 [Tú] | Uf...
+0034 [Tú] | Cosette está bien y el Artefacto de venta automática ya está reparado. Ahora solo queda esperar...
+0035 [Tú] | Espera, ¿dónde está Willow? Estaba aquí hace un momento... Tengo que encontrarla.
+0036 [Narración] | No muy lejos de donde atraca el bote, hay una cala poco profunda de agua cristalina abrazada por rocas a su alrededor.
+0037 [Tú] | ¿Willow?
+0038 [Willow] | ¿==PLAYER_NAME==? ¿Qué haces aquí?
+0039 [Tú] | No te vi en el bote y me preocupé un poco.
+0040 [Willow] | Ah... Pensé en lavarme rapidito antes de subir a bordo. Ya sabes, tengo arena y lodo por todos los pies...
+0041 [Willow] | Sería muy irrespetuoso ensuciar así su bote.
+0042 [Tú] | Es cierto...
+0043 [Narración] | Me acerco a Willow.==W== El agua fresca del mar me lame los tobillos y se siente muy agradable.
+0044 [Tú] | Qué vista tan linda... ¿Por qué no la había notado?
+0045 [Willow] | Sí... Bueno, yo sí, pero no tenía el tiempo ni el ánimo para disfrutarla...
+0046 [Willow] | Ahora que por fin podemos tomarnos un descanso, no puedo evitar contemplarlo todo.
+0047 [Narración] | De pie en el agua, Willow se enjuaga con cuidado hasta el último rastro de lodo y arena.
+0048 [Narración] | Mientras el sol la ilumina, las gotas de agua que le resbalan por el cabello y los hombros brillan como diamantes.
+0049 [Willow] | ¿Qué? ¿Por qué me miras así?
+0050 [Tú] | Nada... Es solo que...==W== Te ves un poco distinta a como eres normalmente.
+0051 [Tú] | Siempre has sido muy considerada y confiable. Parece que puedes encargarte de todo a la perfección.
+0052 [Tú] | Y eso hace que dependa mucho de ti.==B== «Solo sigue a Willow», y sé que todo saldrá bien.
+0053 [Willow] | ¿Quieres decir que ahora te parezco menos confiable?
+0054 [Tú] | ¡No, no! No quise decir eso...
+0055 [Tú] | Es que no estoy acostumbrado a verte así.
+0056 [Tú] | O sea, normalmente dirías algo como: «¡Cuidado donde pisas!»
+0057 [Tú] | Ya sabes, aquí está bastante resbaloso y podría tropezar.
+0058 [Willow] | Pues...
+0059 [Willow] | Supongo que de verdad estoy disfrutando el presente.
+0060 [Willow] | Sin preocuparme por nada ni planear el siguiente paso. Solo estar aquí de pie en el agua, escuchando el sonido de las olas y sintiendo la frescura del agua...
+0061 [Tú] | Es la primera vez que veo a Willow tan relajada...
+0062 [Willow] | ¿Puedes acercarte más... por favor?
+0063 [Willow] | Esto es increíble... Nosotros aquí de pie con la brisa, contemplando el mar...
+0064 [Willow] | Se siente como si de verdad estuviéramos de vacaciones, con todas nuestras preocupaciones atrás.
+0065 [Tú] | Suena maravilloso...==W== Puedo estar aquí a tu lado el tiempo que quieras.
+0066 [Iris] | ¡Jefe! ¡Willow! ¿Están ahí?
+0067 [Noya] | ¡Ya estamos listos para irnos!
+0068 [Tú] | Bueno... Parece que tendremos que dejar nuestras vacaciones para la próxima.
+0069 [Willow] | La próxima... Jeje, ¡asegúrate de cumplir tu palabra!
+0070 [Willow] | Vamos. No los hagamos esperar.
+0071 [Anxious Trekker] | ¡Rápido! ¡La camilla!
+0072 [Anxious Trekker] | Está muy débil ahora...==W== ¡Cuidado al moverlo!
+0073 [Fisherman in Trouble] | Cof... En el mar...==W== agua...
+0074 [Anxious Trekker] | ¿Agua? ¿Qué hay en el agua?
+0075 [Fisherman in Trouble] | Mono...
+0076 [Fisherman in Trouble] | Monolito...==W== ¡en el agua...!
+0077 [Narración] | Continuará

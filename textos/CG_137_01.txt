@@ -1,0 +1,115 @@
+# Historia de Eleanor · 1 · Something's on Her Mind (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Vivian & Caterine | Vivian y Caterine
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Algo le preocupa (Parte I)
+0003 [Intro] | Sin querer, te topas con una reunión de damas nobles... y descubres un lado distinto de ella.
+0004 [Caterine] | Ah, las tartaletas de frutas se ven preciosas hoy. Las frutas brillan como joyas.==W== ¿Verdad, Eleanor?
+0005 [Eleanor] | Suspiro...
+0006 [Vivian] | ¿Y este té negro no es tu favorito? Recuerdo que nos hablabas maravillas de él.
+0007 [Eleanor] | Suspiro...
+0008 [Vivian & Caterine] | ...
+0009 [Caterine] | ¡Eleanor! ¿Siquiera nos estás escuchando?
+0010 [Eleanor] | ¡¿Eh?! P-perdón, ¿de qué hablábamos?
+0011 [Vivian] | No lo puedo creer...==W== Has estado a kilómetros de aquí toda la tarde. ¿Qué te preocupa?
+0012 [Caterine] | Sabes que puedes contarnos lo que sea. Si algo te molesta, aquí estamos para escucharte.
+0013 [Eleanor] | No, no es nada de eso...==W== Ah.
+0014 [Eleanor] | Perdón, ¿les importa si contesto esto?
+0015 [Vivian] | Adelante. Tómate tu tiempo.
+0016 [Tú] | Eleanor, ¿tienes tiempo pronto?
+0017 [Tú] | La semana que viene voy a Emor. Quiero hablar contigo de algo en persona.
+0018 [Eleanor] | ¡Claro que sí!
+0019 [Eleanor] | ¡Solo dime la fecha, Mentor! ¡Estaré ahí para recibirte!
+0020 [Eleanor] | 
+0021 [Eleanor] | No lo puedo creer... ¡Mentor quiere verme...!
+0022 [Caterine] | Vaya, vaya. Parece que esperamos a un invitado importante, Vivian.
+0023 [Vivian] | Así parece, Caterine. Un invitado muy especial para nuestra querida Eleanor, según se ve.
+0024 [Eleanor] | ¡E-espera! ¡No es lo que piensan! ¡Mentor y yo no somos...!
+0025 [Vivian] | ¿Oh? Qué raro. ¿El gran Jefe no cuenta como invitado especial?
+0026 [Eleanor] | Y-yo me refiero...==W== Eh...
+0027 [Caterine] | Jeje. No necesitas explicar nada. Ya lo sabemos.
+0028 [Vivian] | Por cierto, todavía no hemos conocido oficialmente al famoso Jefe.
+0029 [Caterine] | Buen punto. Eleanor, ¿por qué no aprovechas para presentarnos al Jefe?
+0030 [Vivian] | Hasta podemos invitar al Jefe a nuestra fiesta del té mientras ==SEX== esté aquí.
+0031 [Caterine] | Excelente idea. Eleanor, ¿sabes qué clase de té negro le gusta al Jefe?
+0032 [Eleanor] | ¡B-bueno! Primero tengo que preguntarle a ==SEX4==...
+0033 [Caterine] | Contamos contigo, ¿sí?
+0034 [Eleanor] | ¡Entendido, le pregunto ahora mismo!
+0035 [Caterine] | Jeje, sin prisa. Tómate tu tiempo.
+0036 [Caterine] | ... Vivian, entiendes a qué me refiero, ¿verdad?
+0037 [Vivian] | Por supuesto, Caterine. Hablaremos de los detalles después...
+0038 [Narración] | Una semana después.
+0039 [Vivian] | Mucho gusto. Soy Vivian. Conocemos a Eleanor desde niñas.
+0040 [Caterine] | Un placer conocerlo, Jefe. Soy Caterine. Es un honor.
+0041 [Tú] | Un gusto conocerlas a ambas. Eleanor habla de ustedes todo el tiempo.
+0042 [Tú] | Me dijeron que ustedes dos la ayudaron a convertirse en Trekker.
+0043 [Vivian] | Ella también habla muy bien de usted. Nos dijo que, si usted no se hubiera acercado en aquel momento, quizá ya habría renunciado a su sueño.
+0044 [Eleanor] | ¡Ay! ¡Espera, Vivian! ¡Se suponía que era un secreto!
+0045 [Vivian] | ¡Ay, Eleanor, te estás sonrojando!==W== ¿Te da pena?
+0046 [Caterine] | ¡Aww, no hay nada de qué avergonzarse!
+0047 [Eleanor] | N-no es... En serio,==W== ustedes dos...
+0048 [Eleanor] | Ejem, perdón por eso. En fin, Mentor, ¿qué se le ofrece?
+0049 [Tú] | Voy a un baile a finales de este mes como representante de la empresa, pero no sé bailar ni a palos.
+0050 [Tú] | Así que esperaba que me enseñaras.==W== Tomas clases de baile, ¿verdad?
+0051 [Eleanor] | ¿Eh? ¿Y-yo? ¡¿Enseñarle a usted, Mentor?!
+0052 [Eleanor] | ¡No soy tan buena! Si quiere, puedo presentarle a mi instructor...
+0053 [Vivian] | Habla como una verdadera directora general. Sin duda encontró a la persona indicada.
+0054 [Caterine] | ¡Sí! Si quiere aprender, ¡Eleanor es la mejor opción!
+0055 [Eleanor] | ¡¿Vivian?! ¡¿Caterine?!
+0056 [Vivian] | Hasta su instructor opina que es genial. Además, con la confianza que se tienen, se sentirá mucho menos nervioso. ¿No es así?
+0057 [Tú] | Buen punto.==W== Pero si a Eleanor le incomoda, no insistiré...
+0058 [Caterine] | ¡Di que sí, Eleanor! Te mueres por devolverle el favor a tu Mentor, ¿verdad?
+0059 [Eleanor] | Bueno, sí, pero...==W== ¡Caterine! ¡Eso también se suponía que era un secreto!
+0060 [Caterine] | ¡Jeje, se me olvidó!
+0061 [Vivian] | Jefe, ¿podría pedirle un momento?
+0062 [Tú] | Eh, ¿qué pasa?
+0063 [Vivian] | Sé que acabamos de conocernos, perdone mi atrevimiento...==W== Pero por el bien de Eleanor, por favor, ayúdenos.
+0064 [Vivian] | ¿Podría encontrar un buen momento para preguntarle qué le preocupa?==W== Últimamente suspira sin parar y estamos muy preocupadas.
+0065 [Vivian] | Hay cosas que no comparte con nosotras. Pero si usted le pregunta, quizá se abra...
+0066 [Tú] | ... Ya veo.
+0067 [Vivian] | No me malinterprete. Su talento para el baile es auténtico. Es la mejor persona para enseñarle.
+0068 [Tú] | Entendido. Buscaré un momento para preguntarle.
+0069 [Vivian] | ¡Gracias! Eleanor tiene razón sobre usted. Dijo que es su Mentor de mayor confianza.
+0070 [Tú] | ¿Habla de mí tanto así? Me halaga un poco...
+0071 [Vivian] | ¡Caterine, misión cumplida!
+0072 [Caterine] | ¡Buen trabajo, Vivian!
+0073 [Eleanor] | Vivian, ¿le estabas susurrando algo a Mentor?
+0074 [Vivian] | ¡Estaba recomendándote al Jefe como ==SEX3== profesora de baile, por supuesto!
+0075 [Tú] | Así es. Cuento contigo para que me enseñes, Eleanor.
+0076 [Caterine] | ¡Una petición personal del Jefe ==SEX8==, Eleanor! La oportunidad perfecta para devolver el favor.
+0077 [Eleanor] | B-bueno.==W== Si le sirve de ayuda, Mentor,==W== lo haré.
+0078 [Vivian] | ¡Entonces está decidido! Ustedes dos tienen que organizar la logística, así que no estorbaremos más.
+0079 [Eleanor] | ¿Espera, así nada más?
+0080 [Caterine] | ¡No hay mejor momento que el presente! Nos vemos luego, Eleanor. Jefe.
+0081 [Eleanor] | ¡Espera! ¡¿Vivian?! ¡¿Caterine?!
+0082 [Tú] | ... Bueno, no perdieron el tiempo.
+0083 [Eleanor] | Lo siento, Mentor. Parece que nuestra fiesta del té tendrá que esperar...
+0084 [Tú] | No te preocupes. Pero en serio, Eleanor, ¿te preocupa algo?
+0085 [Eleanor] | ¿Preocuparme?==W== Nada en particular...
+0086 [Tú] | ¿Así que no? Me dijeron que últimamente suspiras sin parar.
+0087 [Eleanor] | Ah...==W== Vivian se lo dijo, ¿verdad? Lo que significa que Caterine me mantenía ocupada para...
+0088 [Tú] | Para darle la oportunidad de hablar conmigo a solas, sí.
+0089 [Tú] | Tienes dos grandes amigas. Trata de no preocuparlas.
+0090 [Tú] | Yo también quiero ayudar. Si confías en mí, siempre estoy aquí para escucharte.
+0091 [Eleanor] | Mentor...==W== La verdad es que yo...
+0092 [Eleanor] | ... No es nada, en serio. Me he estado preguntando cómo ser más como usted.
+0093 [Tú] | ¿Como yo?
+0094 [Eleanor] | Sí. Quiero ser una gran líder como usted. Pero aún no tengo experiencia...==W== Darme cuenta de cuánto me falta por recorrer me ha estado pesando.
+0095 [Tú] | Pero Eleanor, ya has demostrado lo que vales. Todos aquí saben que eres una Trekker capaz.
+0096 [Eleanor] | Para nada. ¡Ni de cerca estoy a ese nivel!
+0097 [Tú] | Mmm...==W== Algo sigue sin cuadrar.
+0098 [Tú] | Un problema así no debería preocupar tanto a sus amigas...
+0099 [Tú] | Te propongo algo. ¿Has tomado comisiones últimamente? Me encantaría ver cuánto has crecido.
+0100 [Tú] | Déjame acompañarte en tu trabajo de Trekker unos días. Cuando me haga una idea de tu rutina, podremos averiguar qué te falta exactamente.
+0101 [Eleanor] | Espera, no tiene que tomarse tantas molestias...==W== ¿Y sus clases de baile?
+0102 [Tú] | Esas no corren prisa. Primero resolvamos tus preocupaciones. Así podrás concentrarte por completo en enseñarme, ¿no?
+0103 [Eleanor] | Ah...==W== Tiene sentido...==W== Entonces quedo a su cuidado, Mentor.

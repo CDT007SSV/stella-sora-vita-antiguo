@@ -1,0 +1,69 @@
+# Prólogo · Prólogo, parte 2
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Prólogo
+0002 [Intro] | El comienzo
+0003 [Intro] | Las chicas del Gremio Nueva Estrella, que están en la ruina, te llevan a ti, una persona amnésica, a subir a otro Monolito, donde su deseo hace surgir un Artefacto, algo a la vez familiar y ajeno para ti.
+0004 [Narración] | ♪~==W==♪~==W==♫~==W==♫~==W==♪~==W==♪~==W==♫~==W==♫~
+0005 [Opción] | ...
+0006 [???] | ¡Oye, Iris! ¿Cómo está la persona que salió de la caja?
+0007 [???] | El pulso y la temperatura son normales. La respiración también es estable.
+0008 [???] | Qué bien. Ah, y esa melodía de hace un rato... ¿no era la que tarareaba la tía Allie? ¿Por qué se te ocurrió?
+0009 [???] | Solo estaba recordando algo. Una vez, cuando era pequeña, me caí y me lastimé, y la tía Allie me cantó esa canción. El dolor simplemente... desapareció, como por arte de magia.
+0010 [???] | Así que pensé que si la cantaba ahora, quizá ayudaría a esta persona a sentirse mejor también...
+0011 [Opción] | Abre los ojos
+0012 [???] | Oh, ==SEX== ya despertó.
+0013 [???] | ¿¡Queeé!? ¡Bien hecho, Iris!
+0014 [Opción] | ¿Quiénes... son ustedes?
+0015 [???] | No te preocupes. Nosotras también somos Trekkers.
+0016 [???] | Sacamos una Caja de Deseos del Monolito, y cuando la abrimos, tú estabas dentro.
+0017 [Noya] | ¡Hola! ¡Soy Noya! ¡Mucho gusto!
+0018 [Noya] | ¡Y la que está arriba del vehículo es Amber!
+0019 [Noya] | ¡E Iris es quien te explicó todo hace un momento!
+0020 [Noya] | Por cierto, ¿viniste sin compañía? ¿No hay nadie de tu equipo contigo?
+0021 [Iris] | Oye, Noya. ¿Qué tal si le bajas un poco a las preguntas?
+0022 [Noya] | ¡Ay, perdón! ¡Es que me sorprendí mucho, ¿sabes?!
+0023 [Noya] | Es que la caja se abrió y ahí estabas tú, durmiendo a pierna suelta. Iris hasta dijo: «¡Quizá es un Artefacto humanoide!» y empezó a examinarte de pies a cabeza.
+0024 [Opción] | ¿De pies a cabeza?
+0025 [Iris] | ¡Ejem! ¡Solo comprobaba si eras una persona o un Artefacto, nada más!
+0026 [Iris] | ¡J-Juro que no hice nada raro!
+0027 [Opción] | Gracias por salvarme.
+0028 [Opción] | Yo soy...
+0029 [Opción] | Espera... ¿quién soy?
+0030 [Narración] | Media hora después...
+0031 [Opción] | ¿Así que este soy yo...?
+0032 [Opción] | No recuerdo nada...
+0033 [Noya] | Entonces, oye, ¿te suena mi cara? Tengo la sensación de que ya nos conocimos en alguna parte.
+0034 [Tú] | ¿Antes? Si hubiera conocido a alguien tan linda como tú, seguro que no la habría olvidado.==W== Lo siento, no me viene nada a la mente.
+0035 [Noya] | ¿¡Eh!? ¿¡L-Linda!? ¡Ay, no, no digas esas cosas así de repente, me da vergüenza!
+0036 [Tú] | No creo haber dicho nada tan raro...
+0037 [Tú] | Como sea, no recuerdo mi nombre, ni sus caras, ni por qué estaba en esa caja.
+0038 [Amber] | Amnesia.
+0039 [Iris] | Eso parece.
+0040 [Noya] | Bueno, para nosotras es como un riesgo del oficio.
+0041 [Tú] | ¿Amnesia? Lo dices como si fuera algo muy común.
+0042 [Noya] | Es que ser Trekker y perder la memoria casi siempre van de la mano.
+0043 [Opción] | ¿A qué te refieres?
+0044 [Iris] | Los Trekkers escalan Monolitos, piden deseos con las Cajas de Deseos y reciben poderosos Artefactos.==W== Pero a cambio, el Monolito les arrebata una parte de su memoria.
+0045 [Iris] | Tu situación es justo lo que eso parece. Lo ideal sería llevarte directo de vuelta a la ciudad, pero...
+0046 [Iris] | Tampoco podemos irnos con las manos vacías, así que vamos camino a otro Monolito.
+0047 [Iris] | Así que... lo sentimos mucho,==W== pero te agradeceríamos que viajaras con nosotras un rato.
+0048 [Noya] | Además, por aquí hay muchos monstruos, así que no es muy seguro que te quedes a solas en el vehículo. Pero no te preocupes. ¡Te protegeremos!
+0049 [Amber] | Acabaremos con cualquier monstruo o Stellaroid que se nos cruce.
+0050 [Tú] | No parece que tenga mucha opción. Ir a ese tal Monolito quizá me ayude a recuperar algunos recuerdos.
+0051 [Tú] | Pero sobre lo que acabas de decir...
+0052 [Tú] | Si pides un deseo, podrías terminar con amnesia como yo, ¿verdad?
+0053 [Opción] | ¿No da... miedo?
+0054 [Iris] | Jaja... Bueno, mentiría si dijera que no tengo miedo.
+0055 [Iris] | Pero, sinceramente, lo que da más miedo ahora que perder la memoria es que no tenemos dinero para sobrevivir un día más.

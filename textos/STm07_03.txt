@@ -1,0 +1,129 @@
+# Capítulo 7 · El precio de la estrella · 3 · Día de la subasta
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_145 | Otoha
+N:avg1_150 | Laru
+N:avg1_151 | Yunshu
+N:avg1_152 | Jiyue
+N:avg2_977 | Alpha Boar
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Día de la subasta
+0003 [Intro] | Los invitados del banquete reciente reaparecen como tus rivales en la licitación. Mientras Firenze y tú intentan desenredar los motivos ocultos detrás de tantas coincidencias, Vita te plantea un nuevo y audaz objetivo: adquirir un Monolito.
+0004 [Narración] | Cinco días después.
+0005 [Lugar y hora] | 11:30, 13.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0006 [Firenze] | Jefe, aquí está el contrato de transferencia de acciones de la sucursal de Philae de Cosecha Unida.
+0007 [Firenze] | El cuarenta y uno por ciento de los invernaderos,==W== edificios==W== y campos de allá afuera ahora le pertenece a Boss Accord.
+0008 [Firenze] | ¿Debería empezar a llamarlo «el gran jefe», Jefe?
+0009 [Tú] | Llámame como quieras.==W== Para mí suena igual de todos modos.
+0010 [Firenze] | Muy bien, si el Jefe quiere dejar las cosas como están... ¿Qué hacemos con lo de «sucursal de Philae»?==W== Técnicamente, ahora somos una empresa conjunta.
+0011 [Firenze] | ¿Alguna idea para un nombre nuevo, Jefe?
+0012 [Tú] | Un nombre nuevo...==W== Quitemos lo de «sucursal» y dejémoslo en «Cosecha Unida Philae».==W==
+0013 [Firenze] | ¿Eh?==W== ¿Sin Boss Accord en el nombre?
+0014 [Firenze] | Normalmente,==W== una fusión así se llamaría «Empresa Conjunta Cosecha Unida y Boss Accord Philae»,==W== o con un nombre compuesto como «Boss Harvest».
+0015 [1] | No hace falta. Por ahora es mejor que Boss Accord no llame la atención.==W== Además, un cambio de marca grande podría afectar las operaciones,==W== y cambiar los letreros cuesta demasiado.
+0016 [1] | ¡Quitar lo de «sucursal»==W== es lo más barato!==W==
+0017 [Firenze] | Je, siempre pendiente de los números.==W== Habla como todo un jefe.
+0018 [1] | No es solo por ahorrar dinero.==W== En aquel entonces...
+0019 [Firenze] | Jefe, este es mi deseo.
+0020 [Firenze] | Únase a mí. Cambiemos Cosecha Unida, juntos.
+0021 [1] | Tu deseo fue que «cambiáramos juntos Cosecha Unida».
+0022 [1] | En fin,==W== aquí en Nova, cada Sello de la Gracia viene con una patente de franquicia.
+0023 [1] | Supongo que la patente de Cosecha Unida tiene que ver con la comida, ¿no?
+0024 [Firenze] | Correcto. Cosecha Unida tiene una pieza negra de «Torre», y la patente cubre los alimentos;==W== específicamente, el comercio de granos al por mayor.
+0025 [Firenze] | No les interesan las granjas familiares ni las panaderías independientes.==W== Pero si alguien intenta montar una operación agrícola a gran escala, la empresa interviene.
+0026 [1] | Para arreglar Cosecha Unida, tenemos que hacerlo desde dentro.
+0027 [1] | Con la sede todavía en posesión del cuarenta y nueve por ciento de Cosecha Unida Philae, la independencia total no va a pasar...
+0028 [1] | Pero con Boss Accord respaldándote, ya no pueden hacer lo que se les dé la gana.
+0029 [1] | En cuanto tu modelo demuestre que puede ser rentable y a la vez ayudar a los clientes, las demás sucursales, y quizá hasta la sede, van a replantearse su forma de trabajar.
+0030 [1] | Confía en mí. No pierdas de vista la meta==W== y da todo lo que tengas.
+0031 [Firenze] | Le agradezco el voto de confianza, pero...==W== ¿usted qué gana?
+0032 [Firenze] | Se endeudó con treinta mil millones por esas acciones, y ahora está participando en la licitación. Claro, es una empresa conjunta,==W== pero ¿no es Boss Accord la que carga con todo el riesgo?
+0033 [Tú] | Si lo logramos, nos ganamos la confianza tuya y de la gran inspectora.==W== Para el futuro de Boss Accord,==W== esa clase de ventaja no tiene precio.
+0034 [Firenze] | ¿Lo dice...==W== en serio?
+0035 [Tú] | Bueno, tú te encargas de pagar todos nuestros Ruiseñores Leonados==W== y las raciones de viaje.==W== Además==W==...==W==
+0036 [Tú] | Cuanto antes cumpla tu deseo,==W== antes podré reclamar oficialmente esa alma tuya.
+0037 [Firenze] | Je. Usted es otra cosa, Jefe.==W== Odio admitirlo,==W== pero empiezo a entender por qué Darcia está tan obsesionada con usted.
+0038 [Firenze] | La primera sesión de la licitación del Monolito empieza a las 2:00 p. m. Voy a revisar otra vez nuestros papeles y paso por usted en una hora.==W== Descanse un poco.
+0039 [Tú] | Eso haré.==W== Nos vemos.
+0040 [1] | Uf. No se puede «pelear» con el estómago vacío.==W== Debería ir a buscar a Noya y a las demás para comer algo.
+0041 [1] | Si Iris ve este contrato de transferencia de acciones==W== y se da cuenta de que metimos una deuda de treinta mil millones de Dorra en los libros,==W== se va a desmayar==W==...==W==
+0042 [Vita] | Disculpe la interrupción, Tirano.==W== Tengo noticias importantes.
+0043 [Tú] | ¿Eh?
+0044 [Vita] | El Sistema de Desarrollo de Tiranos del Pozo de los Mundos ha emitido un nuevo objetivo.==W== Su segunda misión es adquirir un Monolito.
+0045 [Tú] | Qué considerado es este sistema. Sus misiones siempre parecen encajar a la perfección con mis planes del momento.
+0046 [Vita] | No exactamente, Tirano.
+0047 [Vita] | Los objetivos y sus tiempos de publicación están predeterminados. En cuanto a la inquietante coincidencia,==W== sospecho que quien diseñó las misiones tenía un don para la profecía.
+0048 [Tú] | No me importa la coincidencia. Quiero confirmar otra cosa:==W== completar esta misión me da nuevos poderes y más autoridad en el sistema, ¿verdad?
+0049 [Vita] | Correcto.
+0050 [Tú] | Entendido.==W== Lo haré.
+0051 [Vita] | Tirano, detecto un cambio en su actitud hacia el sistema y sus misiones.
+0052 [Vita] | Anomalía detectada.
+0053 [Vita] | Mi sistema indica que está experimentando confusión.
+0054 [1] | Je. Para alguien que no entiende los sentimientos humanos,==W== eres sorprendentemente sensible a mis estados de ánimo.
+0055 [Narración] | Levanto mi teléfono. La pieza de ajedrez que cuelga de la correa refleja la luz del sol.
+0056 [Tú] | Es difícil no cambiar==W== después de todo lo que hemos pasado últimamente.
+0057 [Darcia] | Aunque no pueda estar a su lado, por favor recuerde:==W== todas las demás empresas de este mundo son su enemigo.
+0058 [Tú] | Tener este Sello otorga un poder inmenso.==W== Pero usarlo cuando apenas puedo protegerme a mí mismo...==W==
+0059 [Tú] | Es como pintarme un enorme blanco en la espalda.
+0060 [1] | Si he sobrevivido hasta ahora==W== es por pura suerte.
+0061 [1] | Desde la retorcida lealtad de Darcia,==W== toparme con una asesina tan peculiar como Otoha en el banquete,==W== la Sala Blanca, hasta mis amigos respaldándome...==W== hemos salido a rastras de una crisis tras otra.==W==
+0062 [1] | Eso no puede seguir así.==W== Si quiero protegerme a mí y a mi equipo,==W== necesito poder y recursos de verdad.
+0063 [1] | Vita,==W== esto es lo que el sistema quiere que entienda, ¿no?
+0064 [Vita] | Así es, Tirano.==W== Pero, por favor, recuerde que el sistema existe para proteger su camino,==W== no para controlar su destino.
+0065 [Tú] | Su propósito final no importa. Yo decido adónde me lleva este camino.
+0066 [Vita] | Está un paso más cerca de convertirse en el verdadero Tirano.==W== Me retiro.==W== Algún día, recuperará el trono que le pertenece.
+0067 [Lugar y hora] | 13:00, 13.º del mes de Venatio, Distrito de Plata de Philae, Tienda de Almas
+0068 [Bastelina] | ¡Jefe, llegaste!==W== Tu linda dependienta Bastelina te ha estado esperando una eternidad.
+0069 [Tú] | Ah, hola, Bastelina. Cuánto tiempo...==W== Espera,==W== ¿cuándo llegaste a Philae?
+0070 [Bastelina] | Los peces gordos del Imperio de la Gracia están hasta el cuello con la licitación del Monolito. ¡Me mandaron de refuerzo! ¡De hecho, también estuve en el banquete!
+0071 [Bastelina] | ¡Ah, cierto! Quiero presentarte a alguien.==W== Ella es mi superior del Departamento de Compras,==W== Laru.==W==
+0072 [Laru] | Hola. Soy Laru.==W== Esta vez me toca revisar los requisitos de licitación de todas las empresas.
+0073 [Laru] | Entonces, si tú eres el Jefe, eres el representante de Boss Accord.==W== Y Cosecha Unida Philae va a usar tu Sello de la Gracia para esta licitación, ¿verdad?
+0074 [Tú] | Así es. Como accionista, Boss Accord respalda por completo la oferta de Cosecha Unida Philae.
+0075 [Laru] | ¿Ah, sí? ¿Una empresa conjunta metiéndose en la guerra de ofertas? Deben de tener mucho tiempo libre.==W== En fin,==W== suerte con eso.
+0076 [Tú] | Directo al grano. Es de las serias.
+0077 [Bastelina] | Por aquí, Jefe,==W== Lady Firenze.==W== Los llevo a la sala de espera.
+0078 [Lugar y hora] | 13:20, 13.º del mes de Venatio, Distrito de Plata de Philae, sala de espera de la Tienda de Almas
+0079 [Tú] | Vaya,==W== esto está lleno.==W== Veo muchas caras conocidas del banquete.
+0080 [Firenze] | Parece que el Imperio de la Gracia convocó esta licitación del Monolito con poco aviso,==W== aprovechando que todos los representantes de las empresas ya estaban en Philae para husmear en el incidente de Darcia.
+0081 [Firenze] | Si no, reunir a toda esta gente habría tomado por lo menos un mes.
+0082 [Tú] | Si eso es cierto...==W== podría haber un motivo oculto detrás de toda esta licitación.
+0083 [Firenze] | No sería la primera vez que el Imperio de la Gracia hace una jugada así.==W== Quédese aquí y descanse. Voy a buscar a algunos contactos de las otras empresas a ver qué puedo averiguar.
+0084 [Tú] | Cuento contigo.
+0085 [Tú] | Ah, bebidas y botanas gratis. Buen detalle.==W== Ñam, ñam...==W== Estas papas fritas no están nada mal.
+0086 [Tú] | Un momento,==W== ¡¿por qué todos los tazones de botana están llenos de papas fritas?!
+0087 [Laru] | ¡Yuju!==W== ¿Disfrutando las papas, Jefe?
+0088 [Tú] | Ah, hola, Laru. Sí, son auténticas. Saben idénticas a las que salen como deseo del Monolito.
+0089 [Laru] | ¿Ves, Bastelina?==W== ¡Hasta el Jefe aprecia mis papas!
+0090 [Bastelina] | Eso no justifica llenar todos los tazones con la misma botana.
+0091 [Laru] | ¿Cómo que «la misma»?==W== Mira:==W== ¡sal de mar, barbacoa, queso!==W== Apóyame, Jefe.
+0092 [Tú] | Bueno, los sabores sí son distintos...
+0093 [Laru] | ¡Lo sabía!==W== ¡Tú me entiendes,==W== y entiendes las papas!==W== Toma, prueba estas.==W== ¡Sabor Espíritu de la Brutalidad! Comerlas se siente como si una papa te diera un puñetazo en la cara.==W== ¡El golpe es increíble!
+0094 [Tú] | ¡¿No estabas actuando de lo más normal hace un minuto?!==W== ¡¿Qué es este fanatismo repentino por las papas?!
+0095 [Bastelina] | Laru, tengo un asunto importante que hablar con el Jefe.==W== ¿Podrías llevarte tus papas y esperarnos allá?
+0096 [Laru] | ¡Claro!==W== Y que conste que Bastelina me dijo explícitamente que «comiera papas mientras espero». No estoy holgazaneando.==W== ¡Nos vemos,==W== Jefe!
+0097 [Tú] | Gracias por rescatarme, Bastelina.==W== Estaba a punto de tener que comerme a la fuerza toda la línea de papas.
+0098 [Bastelina] | Jaja, tiene buenas intenciones.==W== Es que le apasionan muchísimo las papas. Seguro le alegraste el día al disfrutar su banquete.
+0099 [Tú] | No puedo decir que lo entienda del todo, pero lo de su obsesión por las papas quedó clarísimo.==W== En fin, ¿cuál era ese «asunto importante»?
+0100 [Bastelina] | Ah, eso fue solo una mentirita piadosa para rescatar a un cliente VIP.==W== Si la dejas seguir, se pasaría hablando toda la licitación del Monolito.
+0101 [Tú] | ¿Cliente VIP? ¿Yo?
+0102 [Bastelina] | ¡Claro! Vaciaste tu caja fuerte, pero yo todavía la administro. Eso te convierte en VIP para tu dependienta favorita.
+0103 [Bastelina] | Y como beneficio para clientes,==W== permíteme ofrecerte unos... servicios especiales.
+0104 [Bastelina] | Jeje. No te quitaré mucho tiempo. ¿Me acompañas por aquí, por favor?

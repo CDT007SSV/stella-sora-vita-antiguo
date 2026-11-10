@@ -1,0 +1,106 @@
+# Historia de Fuyuka · 1 · First Snow (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Passing Student | Estudiante de paso
+N:Philae Citizen | Ciudadano de Philae
+N:Suspicious Trekker | Trekker sospechoso
+N:avg1_134 | Fuyuka
+N:avg2_967 | Mercenario del Gato Blanco
+N:avg2_968 | Mercenario del Gato Blanco
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_175 | Residente de Loong
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_978 | Trekker emocionado
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Primera nevada (Parte I)
+0003 [Intro] | Las aventuras han llegado a una pausa temporal. El crecimiento trajo nuevos problemas. Tú y la tímida chica de cabello blanco se reencuentran mientras Philae se cubre lentamente de nieve.
+0004 [Tú] | Oye, algo pasa allá adelante. ¿Es un festival o algo así?
+0005 [Athrill Trekker] | ¡Rápido, rápido! Si no nos movemos ahora, nunca las veremos.
+0006 [Suspicious Trekker] | El Gremio Petal Bloom y Lady Fuyuka deben de estar ocupadísimos ahora. ¿Crees que tengan tiempo de venir?
+0007 [Athrill Trekker] | No subestimes mi red de información. ¡Revisé la agenda completa de Lady Fuyuka!
+0008 [Suspicious Trekker] | Ah, ¿tienes información de verdad? Qué bien.
+0009 [Tú] | Ah, es Fuyuka. Con razón hay tanta gente... Pero a juzgar por esa cara...
+0010 [Athrill Trekker] | ¡Guau, eres increíble! Esta...==W== ¡Es la primera vez que la veo en persona, señorita Fuyuka! ¿Me daría un autógrafo?
+0011 [Fuyuka] | ...
+0012 [Philae Citizen] | Señorita Fuyuka, tengo aquí una comisión de caza única en su tipo. ¿Le interesaría unirse?
+0013 [Fuyuka] | ...
+0014 [Passing Student] | ¡Señorita Fuyuka, llevo un buen tiempo siguiendo su impresionante trabajo! Estoy preparando un informe académico sobre los Tres Grandes. ¿Aceptaría una entrevista?
+0015 [Fuyuka] | ...
+0016 [Tú] | Se ve completamente abrumada. Enfrentarse a tanta gente a la vez debe de ser aterrador para una introvertida. Supongo que debería ir a ayudarla un poco.
+0017 [Athrill Trekker] | Ya basta, ustedes. ¿No ven que están importunando a Lady Fuyuka?
+0018 [Tú] | Vaya, al menos alguien sabe leer el ambiente.
+0019 [Athrill Trekker] | Lady Fuyuka...
+0020 [Fuyuka] | Mjm.
+0021 [Athrill Trekker] | ¡Es la mayor estrella de Philae! ¡La mejor Trekker de por aquí, sin duda!
+0022 [Athrill Trekker] | Gente así no les debe su atención a los simples mortales como nosotros.
+0023 [Philae Citizen] | Es verdad...==W== La presencia silenciosa y regia de Lady Fuyuka es cautivadora. ¡Ni siquiera nos habíamos dado cuenta! ¡Qué vergüenza!
+0024 [Fuyuka] | ¡C-cualquiera! ¡Ayuda...!
+0025 [Tú] | Supongo que no puedo quedarme mirando...
+0026 [Tú] | Oye... Fuyuka...
+0027 [Fuyuka] | ¿M-Maestro...?!
+0028 [Tú] | ¿Qué haces aquí? ¿No tenías una comisión hoy?
+0029 [Fuyuka] | ¿Eh? ¿Una comisión? Qué...
+0030 [Tú] | Qué mala memoria tienes. Era una comisión especial que el cliente nos pidió mantener en secreto.
+0031 [Tú] | No hagas preguntas, solo sígueme la corriente.
+0032 [Fuyuka] | Ah... Es cierto.==W== Perdón, lo olvidé. Vamos ahora mismo.
+0033 [Tú] | ¿Podrían abrirnos paso, por favor? Estamos trabajando. Ella está ocupadísima.
+0034 [Passing Student] | ¿Quién era esa persona? ¿Y cómo logró ==SEX== que Fuyuka se fuera con tanta docilidad?
+0035 [Philae Citizen] | Shh, baja la voz. Parecía ser...==W== quien dirige Boss Accord. Dicen que con una sola magia, ==SEX== aniquiló a un Stellaroid tan grande como una fábrica de Cosecha Unida.
+0036 [Athrill Trekker] | Guau, Lady Fuyuka invitada en persona por quien dirige una empresa. Qué genial.
+0037 [Tú] | Uf, hasta yo me vi envuelto.
+0038 [Tú] | Bien, ya nos alejamos de la multitud.
+0039 [Fuyuka] | G-gracias...==W== Maestro, me salvó otra vez. Eh... Mi mano.
+0040 [Tú] | ¿Eh? Ah, cierto, perdón.
+0041 [Fuyuka] | N-no era eso a lo que me refería...
+0042 [Fuyuka] | He corrido tanto rato que tengo las manos sudadas, pero seguí aferrada a usted con estas manos húmedas. Lo siento mucho...
+0043 [Tú] | No me importa.
+0044 [Fuyuka] | Fiu...==W== Qué alivio. Eh, Maestro, en ese caso,==W== ¿podría seguir sosteniendo mi mano? Me hace sentir segura.
+0045 [Tú] | Claro.
+0046 [Fuyuka] | Jeje...==W== Gracias.
+0047 [Fuyuka] | De verdad me salvó allá atrás. Quizá me habría desmayado.
+0048 [Tú] | No hay de qué. Solo pasaba por casualidad.
+0049 [Tú] | Ya eres famosa. Es normal tener una base de fans entusiasta. La próxima vez, ponte una capa o algo, disfrázate un poco.
+0050 [Fuyuka] | En realidad...==W== lo hice a propósito. Quería ponerme a prueba saliendo de mi zona de confort.
+0051 [Fuyuka] | Al principio practiqué con una amiga. Hace unos días pensé que ya estaba lista para intentarlo, pero tampoco funcionó...
+0052 [Fuyuka] | Pero creo que es necesario.==W== ¡Oh! Todavía no termino el entrenamiento de hoy, ¡con su permiso!
+0053 [Tú] | Espera...
+0054 [Tú] | Se fue corriendo tan rápido...==W== No sé si eso significa que es demasiado tímida o demasiado proactiva.
+0055 [Tú] | ¿Practicó con una amiga? Debería ir a ver. Me da curiosidad eso del entrenamiento.
+0056 [Tú] | Fuyuka debe de estar cerca.==W== ¿Cómo terminé en el bosque?
+0057 [???] | Hoy intenté hablar con desconocidos. Resultó que las conversaciones de verdad no son como la práctica...
+0058 [Tú] | ¿Eh? Esa voz...
+0059 [Fuyuka] | Pero cuando tenía tanto miedo que ni podía moverme, ¡mi Maestro apareció y vino a rescatarme...!
+0060 [Tú] | Fuyuka está...==W== ¿hablando con un árbol?
+0061 [Tú] | No, habla con un pájaro en el árbol. ¿Será la amiga que mencionó?
+0062 [Fuyuka] | El Maestro ya me ayudó a dominar mi puñetazo. Si también tengo que depender de ==SEX4== para arreglar mi problema al hablar, seré un fracaso total como aprendiz...
+0063 [Fuyuka] | Suspiro. B-bueno, de vuelta al entrenamiento.
+0064 [Fuyuka] | Primero, quisiera hablar, eh, hablar sobre...
+0065 [Tú] | ¿Eso es...==W== un discurso? Fuyuka ha estado trabajando en silencio, pero solo practicar así no bastará.
+0066 [Tú] | En ese caso, debo cumplir mi parte como Maestro.==W== Mmm, quizá podría...
+0067 [Fuyuka] | Sobre el futuro del campamento, creo que...
+0068 [Opción] | Fuyuka
+0069 [Fuyuka] | ¿¡Qué!? ¿¡El árbol habla!?
+0070 [Tú] | Pío-pío, no es el árbol. Es un pajarito.
+0071 [Fuyuka] | Un pajarito...==W== No, espera... suena como el Mae...
+0072 [Tú] | Así es. Soy el pajarito ermitaño que vive en el bosque y guía a los Trekkers.
+0073 [Fuyuka] | ¿Un pajarito ermitaño?
+0074 [Tú] | En resumen, pío-pío, me especializo en enseñarles todo tipo de cosas a los Trekkers.
+0075 [Tú] | Viniste hasta el corazón del bosque porque te sentías perdida, ¿verdad?
+0076 [Fuyuka] | Oh...==W== Lo notó. Qué aguda observación...==W==justo como lo esperaba.
+0077 [Fuyuka] | Y-yo sí tengo algo que me preocupa y quisiera contarle, Mae...==W==eh... ¡Ermitaño!
+0078 [Tú] | Adelante, por favor.
+0079 [Fuyuka] | Nuestro campamento tiene una tradición: los Trekkers dan charlas para compartir consejos de aventura y animar a los demás...==W== Y me eligieron para dar la próxima charla.
+0080 [Tú] | Eso demuestra que todos tienen muy buena opinión de ti. Creen que representas lo mejor de los Trekkers de Philae.
+0081 [Fuyuka] | L-lo sé. Y de verdad agradezco la oportunidad.
+0082 [Fuyuka] | Pero...==W== soy pésima hablando con desconocidos, ni se diga hablar en público...
+0083 [Fuyuka] | Leí que imaginar al público como animalitos o plantas ayuda con los nervios, pero...==W== No funcionó mucho.
+0084 [Fuyuka] | Ugh...==W== ¿Lo estoy haciendo de la manera correcta?
+0085 [Tú] | No te desanimes. Déjamelo a mí.

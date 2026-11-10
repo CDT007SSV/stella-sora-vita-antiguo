@@ -1,0 +1,109 @@
+# Evento · Réquiem invernal y el gatillo del alba · 7 · Los Arcontes
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Attendant | Asistente
+N:Strange Old Man | Anciano extraño
+N:avg1_143 | Wraith
+N:avg2_982 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_109 | Abuelo Chai
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_195 | Edda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Los Arcontes
+0003 [Intro] | Estalla el conflicto entre Wraith, Edda y tú. En un descuido momentáneo, la conciencia de Wraith queda aprisionada. Entonces Edda revela su verdadero propósito: despertar a los poderosos «Arcontes».
+0004 [Tú] | ¡¿Wraith?! ¡Aguanta! ¡Oye!
+0005 [Tú] | ¡¡¡Wraith!!!
+0006 [Edda] | Es inútil. Ahora que el círculo está activo, su mente ya abandonó ese cascarón.
+0007 [Tú] | Caí en la trampa. El ataque de Edda era una trampa: quería que Wraith me protegiera y se acercara...==W== Pero... ¿por qué se activó el círculo en mí?
+0008 [Tú] | Espera... ¿Tú...?
+0009 [Tú] | Está bien. El peligro pasó...==W== Vamos, respira hondo.
+0010 [Edda] | Uf... Uf... Tus latidos, Tirano... Me hacen sentir muy segura.
+0011 [Tú] | Cuando fingiste entrar en pánico y me abrazaste, ¿pusiste el círculo en mi ropa?
+0012 [Edda] | Exacto~ Bastante convincente, ¿no? El hechizo de calor que lancé antes sobre tu ropa solo servía para ocultar el sello.==W== Tirano, eres demasiado ingenuo.
+0013 [Edda] | Deberías agradecer que te topaste con una vieja bondadosa como yo. Si te hubiera encontrado Nocturn Eterna... Bueno...
+0014 [Tú] | ¡¿Qué le hiciste a Wraith?!
+0015 [Edda] | Hmph. Este Monolito quizá esté agotado, pero la primera fase está completa...==W== Este dominio ahora pertenece a Ellos.
+0016 [Edda] | Le arrebataron la mente y la arrojaron a una grieta en el espacio-tiempo. Se fue para siempre.
+0017 [Tú] | ¿Quiénes son esos «Ellos» de los que hablas?
+0018 [Edda] | No suelo compartir mis secretos, pero tratándose del Tirano, supongo que puedo hacer una excepción.
+0019 [Edda] | Después de todo, todavía los necesito a ustedes dos para llevar mi plan hasta el final.
+0020 [Tú] | ¿Para qué me necesitas a mí?
+0021 [Edda] | Este mundo quizá adore a seres supremos como el Dios de la Gracia... Pero en Norstheim veneramos algo muy distinto. Ellos son...
+0022 [Narración] | Los Arcontes.
+0023 [Edda] | Antaño gobernaron los Monolitos y exigieron temor... hasta que el Imperio de la Gracia intentó borrarlos de la historia.
+0024 [Edda] | Yo no soy como esos tontos. Encontré los vestigios en ruinas y escrituras prohibidas, y descubrí la verdad sobre su poder.
+0025 [Edda] | Los Arcontes son caprichosos, sin embargo. Pocos son considerados dignos de convertirse en sus «Allegados».
+0026 [Edda] | Pero en mi búsqueda... tuve la fortuna de ganarme Su mirada.
+0027 [Edda] | En ese instante, todo se aclaró. Las runas crípticas, los susurros en la oscuridad... ¡De repente lo entendí todo!
+0028 [Edda] | Quien me bendijo, sin duda, es el Arconte que posee la autoridad de la «Guerra».
+0029 [Edda] | Y para traer al Arconte de la Guerra a este mundo... ¡con gusto sacrificaré todo!
+0030 [Tú] | Es mucho que asimilar... Pero ¿por eso engañaste a Wraith para que llegara hasta aquí?
+0031 [Edda] | Así es. En cuanto mencioné a Nocturn Eterna, aceptó seguirnos. Fue muy fácil, además.
+0032 [Edda] | Solo si guerreros lo bastante poderosos participan en el ritual, Ellos quedarán satisfechos.
+0033 [Tú] | Entonces, ¿por qué yo? Peleo tan bien como una persona común sin magia.
+0034 [Edda] | Los Arcontes existen más allá de las leyes de la realidad. El ritual de invocación solo ancla su paso a este mundo. Para atraer Su atención, además de realizar los ritos que Ellos prefieren... también se requiere un «individuo especial».
+0035 [Edda] | Como Tirano, eres la pieza final del rompecabezas. El componente más crucial: el Testigo.
+0036 [Edda] | Mientras estés aquí, dentro del ritual, Ellos sin duda se darán cuenta. ¡Eso es lo que te hace... especial!
+0037 [Edda] | Había planeado simplemente encerrarte, pero...==W== esa molestia era más astuta de lo que le reconocí. Nunca encontré una oportunidad.
+0038 [Tú] | Wraith me estuvo protegiendo desde el principio...==W== ¿Habrá descubierto a Edda desde siempre?
+0039 [Edda] | Hmph. ¡Ya no importa! ¡Faltaste al respeto al Arconte y pagarás el precio!
+0040 [Tú] | ¡Espera! ¡No le hagas daño a Wraith! ¡Mira, todo esto está solo en tu cabeza! Esos textos antiguos, las leyendas... ¡nada de eso está comprobado!
+0041 [Edda] | Silencio. Incluso viniendo de ti, Tirano, eso pone a prueba mi paciencia.
+0042 [Edda] | Hmph. Ver para creer. Antes de que termine el ritual, permíteme mostrarte...
+0043 [Edda] | ¡... lo que sacrifiqué para llegar a este preciso momento!
+0044 [Tú] | ¿Qué... es eso...?
+0045 [Narración] | Una marea de magia en bruto se lanza hacia Edda y hace temblar todo el piso.
+0046 [Narración] | Una espesa oscuridad se extiende por el aire, y algo vil y desquiciado se agita en su interior.
+0047 [Tú] | No... No puedo mirarlo. Me está robando los sentidos.
+0048 [Edda] | El ritual... está casi completo.
+0049 [Edda] | Ven, Tirano. Grábate este momento en la memoria.
+0050 [Wraith] | Ugh... ¿Dónde==W== ... estoy?
+0051 [Wraith] | A ver, déjame pensar... Bloqueé ese hechizo por ==PLAYER_NAME==, luego me tragó esa extraña luz... y perdí el conocimiento...
+0052 [Wraith] | ¿Fallé? Espera... No me digas que esto es...
+0053 [Wraith] | «Decoraciones fastuosas. Grandes salones. Un santuario rebosante de comida y vino, resonando con versos hermosos...»
+0054 [Wraith] | «El lugar de descanso final de todas las almas del norte: el Salón del Festín Eterno...»
+0055 [Wraith] | Aun así... Este lugar se parece más al hotel de lujo de Emor.
+0056 [???] | ¿Oh? Una cara nueva. ¿Eres nueva por aquí?
+0057 [Wraith] | No, yo...
+0058 [???] | Mm~ Si vienes a presentarte, ve con el vicecomandante. Está al fondo de la mesa larga.
+0059 [Wraith] | (¿«Subcomandante»? ¿No debería haber un «caudillo» o un «señor de la guerra» en un lugar así...?)
+0060 [Wraith] | Entendido. Gracias.
+0061 [Strange Old Man] | «Al necio le conviene callar en compañía. Pues si no habla, nadie conocerá su ignorancia.»
+0062 [Strange Old Man] | Parece que un fantasma aferrado todavía a la «vida» ha vagado hasta nuestra tierra de exilio.
+0063 [Wraith] | ¿«Fantasma»? ¿Hablas de mí? Perdona, pero no pienso morir hoy.
+0064 [Attendant] | ¡Cuida tu tono! ¡Estás frente al vicecomandante de la Legión!
+0065 [Strange Old Man] | Déjala. Perecimos en aquel campo de batalla hace mucho. Ahora no somos más que voluntades persistentes atrapadas en las armas.
+0066 [Wraith] | (Voluntades dentro de un arma... ¿Se refiere a esas armas antiguas?)
+0067 [Wraith] | (Eso lo explica. Quienes perdieron el control estaban influenciados por estos espíritus.)
+0068 [Strange Old Man] | Joven alma, aún pareces perdida. Quizá deberías reflexionar sobre...
+0069 [Wraith] | Mi compañero está en peligro. Perdona, pero no tengo tiempo para esto.
+0070 [Strange Old Man] | Jaja, ¿con prisa? Entonces seré franco.==W== Este es un campamento de guerra. Debes demostrar que mereces salir.
+0071 [Wraith] | Hmph... «La fuerza hace la razón», ¿eh? Debiste empezar por ahí.
+0072 [Strange Old Man] | Pelear carecería de sentido. Mira, niña.
+0073 [Narración] | El anciano señala la ventana. Una escena se refleja en los ojos de Wraith...
+0074 [Wraith] | ¡==PLAYER_NAME==!
+0075 [Strange Old Man] | El siguiente movimiento de esa Allegada es destruir tu arma. Se te acaba el tiempo.
+0076 [Tú] | No está fanfarroneando... El ritual está casi completo. ¡Tengo que detener esto ya, o Wraith no lo logrará!
+0077 [Edda] | Tirano, por favor, observa con atención. Por la paz. Por Nova. Por un mundo libre de las garras de Nocturn Eterna... Todo lo que he hecho.
+0078 [Tú] | ¿Y qué tiene que ver invocar a este Arconte con eso?
+0079 [Edda] | ¡Oh, vaya! Perdón. Estaba tan absorta alabándolos que olvidé mencionar la conexión.
+0080 [Edda] | Una vez que el Arconte de la Guerra descienda por completo, Él transformará todo este Monolito en una fortaleza de guerra.
+0081 [Edda] | Con el Monolito totalmente fortificado, Nocturn Eterna no podrá infiltrarlo ni sabotearlo.
+0082 [Edda] | El Monolito jamás volverá a apagarse, ni la tragedia de las Ciudades se repetirá...
+0083 [Tú] | Así que esta es... tu respuesta final.
+0084 [Tú] | Lo entiendo.
+0085 [Opción] | Dar un paso al frente
+0086 [Edda] | Ah, veo que lo entiendes. Estarás a salvo. No te engañé.
+0087 [Edda] | Como Testigo, eres distinto a nosotros. Solo toma asiento en las «gradas de espectadores» y observa cómo se desarrolla el duelo.
+0088 [Tú] | Te equivocas, Edda.
+0089 [Opción] | Tomar el arma de Wraith
+0090 [Tú] | No creo en los Arcontes, ni me sentaré a salvo en ningún «asiento de espectador».
+0091 [Tú] | ¡Yo mismo protegeré==W== a mi compañera!

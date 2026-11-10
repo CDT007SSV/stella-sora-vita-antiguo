@@ -1,0 +1,120 @@
+# Recuerdo de disco · Little Paradise · 1 · Little Paradise
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Kind Mother | Madre amable
+N:Lily | Lily
+N:Little Sparkla | Sparkla pequeña
+N:Mimi | Mimi
+N:Mimi & Lily | Mimi y Lily
+N:avg1_131 | Bloc
+N:avg1_140 | Sparkla
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_169 | Chica
+N:avg3_221 | Rabbit Pie
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Pequeño paraíso
+0003 [Intro] | Es un recuerdo solo para nosotros dos, lleno de los sentimientos más profundos que tengo por ti.
+0004 [Bloc] | Buenos días, Sparkla~==W== Hoy es día de entregas. ¿Tienes todo listo?
+0005 [Sparkla] | Todo está apilado junto a la puerta. Solo llévatelo y vete.
+0006 [Bloc] | ¡Esa es nuestra Sparkla! Muy bien, me voy~==W== Hay que aprovechar la oportunidad y convertir estos productos en Dorra cuanto antes.
+0007 [Sparkla] | Eh...==W== Bloc. ¿Qué tipo de regalo de cumpleaños crees que es el mejor para una amiga?
+0008 [Bloc] | ¿Un regalo de cumpleaños?==W== ¡Obviamente un sobre rojo enorme!! Lo llenas de Dorra para que compre lo que quiera~
+0009 [Bloc] | Oh jo jo...==W== ¿Significa esto que Sparkla y yo por fin hemos llegado a la etapa de intercambiar regalos de cumpleaños?!==W== Solo para que sepas, mi cumpleaños es apenas el—
+0010 [Sparkla] | Hablaremos de eso cuando llegue el momento.
+0011 [Sparkla] | Suspiro...==W== Le pregunté a la persona equivocada, después de todo. Rabbit Pie ni siquiera necesita Dorra, así que tu consejo es completamente inútil.
+0012 [Bloc] | Ah, así que es para Rabbit Pie...==W== Espera un momento... ¿Rabbit Pie tiene cumpleaños?
+0013 [Sparkla] | Por supuesto. El día en que creé a Rabbit Pie es el cumpleaños de ese pequeño.
+0014 [Sparkla] | Bien, ya no tengo más preguntas para ti, así que puedes irte.
+0015 [Bloc] | ¡Espera! ¿Un regalo para Rabbit Pie, eh?==W== ¡Oh, ya sé!
+0016 [Bloc] | ¿Qué tal si le das algo que pueda ser un recuerdo especial solo para ustedes dos?==W== Algo lleno de tus sentimientos por Rabbit Pie, algo verdaderamente único.
+0017 [Sparkla] | Un recuerdo solo para nosotros dos...==W== No esperaba que alguien tan obsesionado con el dinero fuera tan sentimental.
+0018 [Bloc] | ¿Eh? ¿En serio? O sea...==W== Quizá no lo parezca, pero ¡no me paso cada segundo pensando en Dorra, sabes!
+0019 [Bloc] | Sinceramente, solo estaba copiando un viejo eslogan publicitario que fue superpopular...==W== No pensé que hasta Sparkla se lo creería...
+0020 [Bloc] | ¡Ahh, no hay tiempo para charlar ahora! ¡Todavía tengo que terminar estas entregas!==W== ¡Nos vemos, Sparkla! Gracias de nuevo por el arduo trabajo~
+0021 [Sparkla] | ¡Ah, espera!==W== Quería preguntarte más sobre eso...==W== ¿Te vas tan rápido? No me culpes si rechazo tu próximo pedido.
+0022 [Sparkla] | Mmm...==W== Pensé que quizá curiosear en una tienda de regalos me daría inspiración...==W== Pero nada me convence del todo...==W== ¿Hm?
+0023 [Mimi] | Lily, ¿y si mejor intercambiamos otra cosa?==W== Las capturadoras de fotos son demasiado caras, y no hay forma de que nuestra mesada alcance...
+0024 [Sparkla] | ¿A ellas también les cuesta elegir un regalo? Vamos a hablarles—
+0025 [Lily] | ¡No! ¡Quiero una foto!
+0026 [Lily] | Pronto te mudarás muy lejos...==W== Y mi cuerpo es demasiado débil para ir a visitarte...==W== Tos, tos, tos...
+0027 [Lily] | Si tuviera una foto tuya...==W== Quizá ya no me sentiría tan sola...
+0028 [Sparkla] | Estar completamente sola... Qué horrible...
+0029 [Mimi] | ¡Ya sé! ¡Entonces pensemos juntas en otra idea!
+0030 [Sparkla] | Hola. De hecho tengo una sugerencia para ustedes dos, si quieren oírla.
+0031 [Mimi & Lily] | ¡¿Wah?!
+0032 [Sparkla] | Perdón, no quise asustarlas.==W== Soy diseñadora de utilería de la Compañía de Cuentos de Hadas «Zanahoria Picante» de Flavio.
+0033 [Mimi] | Eh... ¿Necesitaba algo de nosotras?
+0034 [Sparkla] | Justo las oí hablar de fotos hace un rato. Quizá pueda ayudar.
+0035 [Lily] | ¿¡E-en serio!?
+0036 [Sparkla] | Mhm ♪==W== Nuestra compañía creó hace poco un nuevo tipo de utilería llamado «Muñeco Autómata». Una vez conectados a una fuente de energía, estos diminutos muñecos pueden moverse según instrucciones preprogramadas.
+0037 [Sparkla] | Me gustaría hacer un set de Muñecos Autómata personalizado solo para ustedes dos. Los muñecos pueden recrear uno de sus recuerdos favoritos juntas.
+0038 [Sparkla] | Jeje. Suena mucho más interesante que simplemente tomarse una foto juntas, ¿no creen?
+0039 [Lily] | ¡Suena increíble!==W== Ah...==W== Pero no tenemos dinero...
+0040 [Sparkla] | No se preocupen por eso.==W== De todos modos es la primera vez que hago este tipo de utilería, así que lo trataré como un prototipo. Sin costo.
+0041 [Mimi & Lily] | ¡Muchas gracias, señorita Diseñadora de Utilería!
+0042 [Sparkla] | Entonces empecemos de inmediato. ¿Por qué no me cuentan un recuerdo que quieran conservar?==W== Podemos charlar con unas botanas ricas ♪
+0043 [Mimi] | Mmm...==W== Hay tantos recuerdos. ¿Cómo elegimos solo uno?
+0044 [Sparkla] | Jeje, de verdad son muy unidas.
+0045 [Lily] | ¡Mhm! ¡Mimi es mi mejor amiga!==W== Aunque me enferme todo el tiempo, siempre se queda conmigo y juega conmigo.
+0046 [Lily] | ¡Oh! Mimi, ¿y si recreamos el primer día que salimos juntas?==W== ¡Fue el día más feliz de toda mi vida!
+0047 [Mimi] | ¿Eh? Pero ese día...
+0048 [Sparkla] | ¿Qué pasó ese día?
+0049 [Mimi] | Nos divertimos...==W== Pero a mitad del día, a Lily le dio fiebre.==W== Fue mi culpa por arrastrarla afuera...
+0050 [Lily] | ¡Enfermarme no fue tu culpa! Además...==W== También hubo cosas felices.
+0051 [Sparkla] | ¿Y qué cosa feliz fue? ¿Puedes contármelo?
+0052 [Lily] | Mm. En ese entonces, en realidad tenía mucho miedo...==W== Pensé que quizá Mimi dejaría de juntarse conmigo como hicieron los otros niños.==W== Nos estábamos divirtiendo y de pronto me desplomé. Pensé que debí de asustarla...
+0053 [Lily] | Pero ...==W== Mimi fue a visitarme al hospital con un gorrito esponjoso. Hasta le prometió a mi mamá: «¡No dejaré que Lily vuelva a enfermarse, así que por favor déjenos seguir jugando juntas!»...==W== Me puse muy feliz.
+0054 [Mimi] | ¿T-todavía te acuerdas de eso...?
+0055 [Lily] | Claro que sí. Por eso ese día es el que más significa para mí.
+0056 [Sparkla] | Jeje, parece que ya tomamos la decisión.
+0057 [Mimi] | ¡Sí! ¡Si Lily piensa que ese día fue especial, yo también elijo ese!
+0058 [Sparkla] | Muy bien. Ahora díganme qué llevaban puesto ese día.
+0059 [Sparkla] | Mmhm, perfecto.==W== Ya tengo todos los detalles que necesito. ¡Les haré el recuerdo más especial de todos!
+0060 [Lily] | ¡Gracias! Eh...==W== ¿Para cuándo estará listo? Mimi se muda muy pronto...
+0061 [Sparkla] | Mmm...==W== Quizá pueda traerlo aquí mañana al mediodía. ¿Qué tal si nos vemos de nuevo en este mismo lugar?
+0062 [Lily] | ¿¡Mañana!?==W== Que sea rápido está genial, pero ¿de verdad pueden terminarse los muñecos tan pronto?
+0063 [Sparkla] | Por supuesto. Siempre pueden contar con su hermana mayor ♪
+0064 [Mimi] | ¡Gracias! ¡Nos vemos mañana, señorita Diseñadora de Utilería!
+0065 [Sparkla] | Ups... Sin querer comprimí el cronograma a medio día.
+0066 [Sparkla] | Pero viendo lo emocionadas que están... De verdad quiero ver sus reacciones lo antes posible.==W== Creo que pasaré la noche en vela y lo terminaré hoy~
+0067 [Sparkla] | Buenos días, ustedes dos. Los Muñecos Autómata de Mimi y Lily están oficialmente terminados~♪
+0068 [Mimi & Lily] | ¡Waaah...!==W== ¡Son adorables!
+0069 [Sparkla] | Miren bien, ¿sí? Se le da cuerda al resorte de la base así...==W== Y los dos muñecos empiezan a caminar de la mano hacia el campo de flores.
+0070 [Lily] | ¡Increíble, increíble! ¡Es igualito a nosotras de verdad ese día!
+0071 [Sparkla] | Parece que lo recreé bastante bien. Qué alivio. Entonces, ¿les gusta?
+0072 [Mimi] | ¡Nos ENCANTA! ¡Muchas gracias, señorita Diseñadora de Utilería!
+0073 [Lily] | Jeje, ¡cuando Mimi se mude, tendré esto para hacerme compañía! ¡Lo atesoraré para siempre!
+0074 [Mimi & Lily] | ¡Ya tenemos que irnos! ¡Gracias otra vez por todo!
+0075 [Sparkla] | Adiós~
+0076 [Sparkla] | Un símbolo de amistad ... que lleva en su interior recuerdos preciosos...
+0077 [Little Sparkla] | Mamá, ¿todavía no puedo ir a hacer una guerra de bolas de nieve con los otros niños? Ya no estoy enferma, ¿sabes?
+0078 [Kind Mother] | Que te sientas un poco mejor no significa que puedas excederte. El clima ha estado helado últimamente. Si vuelves a enfermarte, tendrás que seguir tomando medicina.
+0079 [Kind Mother] | Sé que te sientes sola quedándote en casa...==W== ¿Q-qué te parece esto? Le pediré a tu papá que construya un conejo de nieve gigante en el patio. Podrás verlo desde la ventana.
+0080 [Little Sparkla] | Jaja, ¡entonces tendría que ser un conejo ENORME! Está bien...==W== Me quedaré adentro como una niña buena...
+0081 [Kind Mother] | Esa es mi niña buena. Mira, mamá te compró un libro nuevo de cuentos de hadas. Sé que te encantará.==W== Ay, tus manos siguen heladas. Iré a avivar el fuego.
+0082 [Little Sparkla] | ... No importa.==W== De todos modos, nadie querría jugar con una niña que siempre está en cama enferma...
+0083 [Little Sparkla] | Estar completamente sola ... qué horrible...
+0084 [Kind Mother] | ¡Sparkla, mira afuera! ¡Papá terminó de construir tu conejo de nieve!
+0085 [Little Sparkla] | ¡Waaah, es increíble!==W== Hola, conejo de nieve. ¿Quieres ser mi amigo?
+0086 [Little Sparkla] | Ojalá algún día pudiera tomarte de la mano y salir juntos...
+0087 [Sparkla] | Este encargo me trajo muchos recuerdos.
+0088 [Sparkla] | Gracias, ustedes dos. Gracias a ustedes por fin descubrí qué regalo hacer yo también.
+0089 [Sparkla] | Rabbit Pie, ya puedes abrir los ojos.
+0090 [Sparkla] | Esto ...==W== es tu regalo de cumpleaños.
+0091 [Sparkla] | Instalé una caja de música dentro de la base. Dale cuerda y empezará a sonar. ¿No suena precioso?==W== Y los muñecos del centro somos tú y yo.
+0092 [Rabbit Pie] | :] Sparkla y Rabbit Pie. Entendido.
+0093 [Sparkla] | Qué lindo, ¿verdad? Esta es la escena que siempre imaginé de nosotros yendo de aventura juntos~
+0094 [Sparkla] | Desde pequeña soñaba con tener un adorable mejor amigo que saltara de un libro de cuentos de hadas y me invitara a emocionantes aventuras.
+0095 [Sparkla] | Alguien que siempre estuviera a mi lado ...==W== para que nunca más tuviera que sentir la soledad de quedarme completamente sola.
+0096 [Sparkla] | Seguí deseándolo ... hasta hace exactamente un año, hoy.==W== En el momento en que naciste, todos mis sueños sobre la amistad por fin se hicieron realidad.
+0097 [Sparkla] | Feliz cumpleaños, mi amigo más importante.
+0098 [Sparkla] | Este es un regalo de cumpleaños lleno de toda mi gratitud y cariño por ti... ¡Y una prueba de nuestra amistad!
+0099 [Rabbit Pie] | :] ¿Una prueba ...==W== de amistad?
+0100 [Sparkla] | Jeje. No pasa nada si todavía no lo entiendes. Creo ...==W== que algún día seguro lo harás.
+0101 [Sparkla] | De ahora en adelante, también cuento contigo, Rabbit Pie. Vamos a vivir toda clase de aventuras juntos.

@@ -1,0 +1,171 @@
+# Evento · Enmarcando los sentimientos invisibles · 7 · La determinación
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheerful Trekker | Trekker alegre
+N:Composed Trekker | Trekker sereno
+N:Eye of Grace Researcher | Investigador del Ojo de la Gracia
+N:Eye of Grace Scholar | Erudito del Ojo de la Gracia
+N:Stellaroids | Stellaroids
+N:Trekkers | Trekkers
+N:avg1_115 | Firefly
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1197 | Stellaroid
+N:avg1_1198 | Stellaroid
+N:avg1_1199 | Stellaroid
+N:avg1_120 | Canace
+N:avg1_1200 | Stellaroid
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_975 | Glopo
+N:avg3_100 | Sylar
+N:avg3_1292 | Firefly
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_205 | Igna
+N:avg4_103 | Firefly Bright
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | La determinación
+0003 [Intro] | Los Stellaroids irrumpen en una oleada abrumadora que ni siquiera Firefly puede resistir. Para protegerla, las personas caen una a una... En el último momento, el arma de Firefly empieza a brillar.
+0004 [Narración] | Dos horas antes...
+0005 [Canace] | Tardé días, pero por fin les seguí la pista.==W== ¿De verdad está a punto de actuar el Ojo de la Gracia?
+0006 [Igna] | No hay pruebas firmes, pero han presentado una petición ante la junta. Ya se están movilizando en las sombras, sin esperar aprobación.
+0007 [Igna] | Han quemado sus propias naves.
+0008 [Igna] | Si arrastran a Firefly de vuelta al laboratorio, recurrirán a medidas extremas. No pararán hasta desangrarla.
+0009 [Canace] | ... No lo permitiré.
+0010 [Igna] | Yo siento lo mismo.
+0011 [Igna] | Firefly es un éxito raro. Es la candidata perfecta para empuñar a Avalanche.
+0012 [Igna] | Quiebra su mente y Avalanche se vuelve chatarra. Un hecho que esos necios todavía no logran comprender.
+0013 [Igna] | Pero basta de quejas.==W== A lo que voy es que tengo las manos atadas. Si usan los protocolos del Ojo de la Gracia en mi contra, no podré intervenir a tiempo.
+0014 [Igna] | Por eso necesito que gente de fuera como ustedes, y ese Tirano, den un paso al frente.
+0015 [Canace] | ... Entendido. ¿Qué necesitas que haga?
+0016 [Igna] | Mantén a Firefly lejos del Monolito.==W== He visto tecnología capaz de distorsionar el entorno interior.==W== Si la despliegan, la torre se vuelve una trampa mortal.
+0017 [Igna] | Aparte de eso, no entres en pánico. Sigue con tu rutina normal hasta que esto pase.
+0018 [Igna] | ¿Sí? ¿Qué pasa?
+0019 [Canace] | ... Tenemos un problema. Ya dejé a Firefly al cuidado del Tirano. Incluso le di permiso para entrar al Monolito.
+0020 [Igna] | ... ¿Que hiciste qué?
+0021 [Canace] | Perdona, tengo que regresar. Tengo un muy mal presentimiento...
+0022 [Igna] | Por favor, ten cuidado.
+0023 [Canace] | ... Por supuesto. Mis corazonadas nunca fallan.
+0024 [Canace] | Esta oleada de Stellaroids... Alguien está detrás.
+0025 [Tú] | ¿También estás lidiando con una horda?
+0026 [Canace] | Sí, es una pesadilla allá afuera.==W== En resumen, tenemos que irnos. Ya.
+0027 [Tú] | ¡¿Q-qué está pasando?!
+0028 [Canace] | ... No son solo los Stellaroids. El Monolito mismo está cambiando.
+0029 [Firefly] | La puerta... está abierta.
+0030 [Canace] | ... Alerta.
+0031 [Tú] | ¡Es exactamente el mismo piso! ¿Por qué volvimos aquí?
+0032 [Composed Trekker] | Oigan, miren. Viene alguien.
+0033 [Cheerful Trekker] | ¡Oh, es Firefly!==W==
+0034 [Tú] | ¿Todavía están aquí? Pensé que ya estarían a salvo afuera.
+0035 [Composed Trekker] | Estamos intentando salir... Pero siempre terminamos de vuelta aquí. No tiene sentido.
+0036 [Cheerful Trekker] | ¡Esto es como un Stella Drama que vi hace poco!==W== ¿Tenemos que encontrar la Salida n.º X o algo así?
+0037 [Stellaroids] | ¡Graaagh!
+0038 [Cheerful Trekker] | Pero lo que de verdad impresiona es este desfile de Stellaroids.
+0039 [Cheerful Trekker] | Ver tantos juntos en un solo lugar es todo un espectáculo.==W== No me digas que tenemos que abrirnos paso peleando contra todos.
+0040 [Composed Trekker] | Solo pensarlo me marea.
+0041 [Tú] | ¿Cómo rayos rompemos esto?
+0042 [Firefly] | Déjenmelos a mí.
+0043 [Firefly] | Yo mantengo a todos a salvo.
+0044 [Canace] | ¡¿Qué?!==W== ¡Firefly, espera!
+0045 [Stellaroids] | ¡Graaah!
+0046 [Firefly] | ¡Hora de jugar!==W== ¡Yupi!==W==
+0047 [Canace] | ¡No, Firefly! ¡Son demasiados! ¡No vas a aguantar!
+0048 [Tú] | ¿A qué se refiere con que no va a aguantar?
+0049 [Canace] | ... Su arma, Avalanche. Su poder tiene un costo enorme. Le pasará una factura severa a su cuerpo.==W== Es demasiado pequeña para sostener esto mucho tiempo.
+0050 [Tú] | Entonces la respaldamos. Hacemos todo lo que podamos para ayudarla.
+0051 [Canace] | ...==W== Tienes razón.==W== ¡Vamos!
+0052 [Firefly] | Haa...
+0053 [Firefly] | ¿Ya terminó...?
+0054 [Firefly] | ¡¿...?!==B====W==
+0055 [Firefly] | Más juguetes...
+0056 [Firefly] | ¿Eh...?==W== No puedo volar. ¿Por qué?
+0057 [Firefly] | Estos Stellaroids encima de mí...==W== Pesan mucho...==W==
+0058 [Firefly] | ¡...!
+0059 [Firefly] | Eso duele un poquito.
+0060 [Firefly] | ¡Aah!==W==
+0061 [Canace] | ¡Firefly!
+0062 [Tú] | Firefly, ¿estás bien?
+0063 [Firefly] | ¿Profesora...? ¿Tirano...?
+0064 [Tú] | Son demasiados para que pelees sola. Tenemos que mantenernos juntos y abrirnos paso.
+0065 [Composed Trekker] | ¡Estamos contigo!
+0066 [Cheerful Trekker] | ¡Todos estamos aquí para ayudar!
+0067 [Firefly] | ...
+0068 [Firefly] | ¿Por qué...? ¿No creen en mí?==W== Yo puedo. Mantendré a todos a salvo...
+0069 [Tú] | Sí creemos en ti. Todos aquí cuentan contigo, porque eres importante para nosotros.
+0070 [Firefly] | ¿Yo... soy importante?
+0071 [Tú] | Lo eres. No lo olvides, ya eres de los nuestros. Estás peleando para proteger a todos, así que déjanos protegerte a ti también.
+0072 [Canace] | ¡Nosotros cubrimos la retaguardia!
+0073 [Composed Trekker] | ¡A eso vamos!
+0074 [Cheerful Trekker] | ¡Estamos a tu lado, Firefly!
+0075 [Firefly] | ... Mhm.==B====W==
+0076 [Narración] | Conforme avanza la batalla, Firefly desata una fuerza con una ferocidad que nadie había visto.
+0077 [Narración] | El grupo se abre paso a través de oleada tras oleada de enemigos, rompiendo el cerco de Stellaroids y avanzando hacia la salida.
+0078 [Narración] | Pero entonces...
+0079 [Firefly] | Haa... Haa...
+0080 [Firefly] | ... Estoy... bien...
+0081 [Firefly] | ¡Quédense...==W== abajo!
+0082 [Canace] | ¡Hah!==W==
+0083 [Tú] | Firefly, ¿estás bien?
+0084 [Firefly] | Estoy bien. Estoy... bien...
+0085 [Tú] | Está pálida como un fantasma...==W== Canace tenía razón en preocuparse.
+0086 [Canace] | ¿Qué pasa?
+0087 [Tú] | A Firefly le pasa algo.
+0088 [Firefly] | No me pasa... nada...
+0089 [Firefly] | Estoy... perfectamente sana...
+0090 [Canace] | Llegó a su límite...
+0091 [Tú] | ¿Por culpa de esa cosa llamada Avalanche?
+0092 [Canace] | ... Me temo que sí.
+0093 [Canace] | Usarla tantas veces seguidas... El costo mental es inimaginable.
+0094 [Cheerful Trekker] | ¡Firefly! ¡¿Estás bien?!
+0095 [Cheerful Trekker] | ¡Los Stellaroids se están reagrupando! ¡Nos van a rodear otra vez!
+0096 [Firefly] | No... estoy cansada...
+0097 [Firefly] | Puedo... seguir...
+0098 [Firefly] | Tengo que... proteger...
+0099 [Canace] | ¡Firefly...!
+0100 [1] | ¡¿Firefly?!
+0101 [Narración] | ... ¿Eh?
+0102 [Narración] | Mi cuerpo... no se mueve...
+0103 [Narración] | Así que de verdad... estoy tan cansada...
+0104 [Eye of Grace Researcher] | Olvídalo. Suspende la prueba de hoy.
+0105 [Eye of Grace Researcher] | ¿Algo?
+0106 [Eye of Grace Scholar] | La telemetría es un desastre. Podemos analizar los números en el laboratorio, pero no te hagas ilusiones.
+0107 [Eye of Grace Researcher] | Firefly, ¿algún cambio físico?
+0108 [Firefly] | ...
+0109 [Eye of Grace Scholar] | Ay, ya déjalo. Si preguntarle a la sujeto sirviera de algo, no nos pagarían a nosotros.
+0110 [Narración] | Sí dolía...
+0111 [Narración] | Todos los días... Dolía... Y me sentía tan triste...
+0112 [Narración] | La verdad... lo odiaba... Odiaba todo eso...
+0113 [Canace] | Escúchame, Firefly. No tienes que forzar una sonrisa. Cada día en ese lugar fue puro dolor. De hecho...==W== tienes todo el derecho a llorar.
+0114 [Firefly] | ¿Llorar...?==W== Pero... las lágrimas no salen.
+0115 [Firefly] | ¿Hice algo mal? ¿Soy... rara?
+0116 [Canace] | No, claro que no. Tienes sentimientos como todos... Como cualquier otra niña.
+0117 [Canace] | Simplemente aún no los has encontrado. Encerraste tus sentimientos para protegerte.==W== Pero un día, ese candado se romperá...
+0118 [Narración] | Profesora... creo que ya entiendo.
+0119 [Narración] | Cuando duele... Cuando es insoportable... quiero llorar.
+0120 [Narración] | Yo también estoy llorando...
+0121 [Canace] | ¡Oigan! ¡Por aquí!
+0122 [Canace] | ¡No le van a poner un dedo encima a Firefly!
+0123 [Canace] | ¡Gah...!==W==
+0124 [Tú] | ¡Canace!
+0125 [Stellaroids] | ¡Roar!
+0126 [Cheerful Trekker] | Je, justo a tiempo. No pensé que devolveríamos el favor tan pronto.
+0127 [Cheerful Trekker] | ¡Mi abuelo siempre decía que una deuda se puede evadir, pero un favor se paga mientras sigas respirando!
+0128 [Composed Trekker] | Jaja, tienes razón... Debemos mantener a salvo a la pequeña Firefly.
+0129 [Trekkers] | ¡Ugh...!
+0130 [1] | ¡Oye, aguanta!==W== No, nos han desbordado... Al menos tengo que sacar a Firefly...
+0131 [Tú] | ¡¡Aaaargh!!
+0132 [Narración] | ... Todos están cayendo... por mi culpa...
+0133 [Firefly] | ¿Por qué...? ¿No creen en mí?==W== Yo puedo. Mantendré a todos a salvo...
+0134 [Tú] | Sí creemos en ti. Todos aquí cuentan contigo, porque eres importante para nosotros.
+0135 [Firefly] | ¿Yo... soy importante?
+0136 [Tú] | Lo eres. No lo olvides, ya eres de los nuestros. Estás peleando para proteger a todos, así que déjanos protegerte a ti también.
+0137 [Narración] | ¡Ngh! ... Avalanche... ¿Me oyes?
+0138 [Narración] | Parece que... sí me oyes.
+0139 [Narración] | No perdonaré a nadie que lastime a la profesora.
+0140 [Narración] | Si el Tirano llora, yo lloro.
+0141 [Narración] | Así que... escúchame. Despierta.
+0142 [Firefly] | Pelea conmigo... ¡Tenemos que proteger a las personas que «importan»!==B====W== Esta vez, no es un juego.

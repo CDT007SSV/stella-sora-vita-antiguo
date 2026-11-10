@@ -1,0 +1,101 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 1 · Carta de medianoche
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:The Voice | La voz
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_138 | Nyx
+N:avg1_145 | Otoha
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Carta de medianoche
+0003 [Intro] | Para recibir a los representantes de varias empresas y despedirte a ti y al Gremio de la Nueva Estrella, Firenze decide organizar un banquete en Philae. Sin embargo, la víspera del evento, de pronto no puede asistir.
+0004 [Lugar y hora] | 23:00, 2.º del mes de Venatio, Distrito de Plata de Emor, ???
+0005 [???] | 1.º del mes de Venatio, 09:35. El sujeto salió de la habitación 404 y bajó al restaurante del hotel a comer.
+0006 [???] | 10:20. El sujeto salió del restaurante, se quedó un rato en la sala del vestíbulo y luego regresó a su habitación.
+0007 [???] | 11:40. El sujeto hizo una llamada desde la habitación. Duración: siete minutos con treinta segundos.
+0008 [The Voice] | ¿El contenido?
+0009 [???] | El clima, comida, plática trivial. Nada de valor.
+0010 [???] | El destinatario parece ser una integrante de Petal Bloom que salió de Philae hace poco.
+0011 [???] | Si gusta, puedo seguir esa pista e investigarla.
+0012 [The Voice] | No te molestes. No me interesan las trivialidades.
+0013 [???] | Muy bien. Con eso concluye el informe.
+0014 [???] | El sujeto no ha contactado a ninguna otra empresa. ¿Continúo con la vigilancia?
+0015 [The Voice] | No. Cambio la misión. La operación es en tres días. ¿Puedes encargarte?
+0016 [???] | Afirmativo. Sin embargo, necesito los detalles antes de poder...
+0017 [The Voice] | Tendrás las especificaciones en cuanto colguemos.
+0018 [???] | ¿Ya colgó?
+0019 [???] | Vaya... Algún día esa impaciencia le va a salir cara.
+0020 [???] | ¿Mmm? Ya llegó el expediente. A ver...
+0021 [Narración] | Noche del 5 de Venatio. Infiltrarse en el banquete disfrazada... Llegar antes al objetivo y presentarle los términos...
+0022 [Narración] | ...Si el objetivo se niega, eliminarlo en el acto.
+0023 [???] | Vaya, vaya. Qué órdenes tan estrictas.
+0024 [???] | Pero, sinceramente, me vienen como anillo al dedo.
+0025 [???] | Por fin, después de tanto tiempo, voy a conocerte cara a cara.
+0026 [???] | Eres el objetivo más extraño, más interesante y más impredecible que he rastreado jamás.
+0027 [???] | Tengo preguntas para ti... y espero respuestas.
+0028 [???] | Dime, Jefe... ¿De verdad eres del tipo salvador benevolente?
+0029 [???] | ¿O eres la calamidad que acabará con el mundo, como dicen los rumores?
+0030 [???] | Voy a descubrir la verdad por mí misma.
+0031 [Narración] | No te me vas a escapar.
+0032 [Tú] | ¡¡Uaaah!!
+0033 [Tú] | ¿Qué fue ese ruido?
+0034 [Iris] | Noya reventó otro...==W== En serio, ¿tienes que inflarlos hasta que revienten todas las veces?
+0035 [Noya] | ¡Entre más grandes los globos, más geniales se ven! ¡Obvio!
+0036 [Amber] | Ahogándome. En globos.
+0037 [Lugar y hora] | 14:00, 3.º del mes de Venatio, Distrito de Plata de Philae, vestíbulo del hotel
+0038 [Iris] | ¡Con cuidado, Noya! ¡Son objetos valiosos que le pedimos al Monolito!
+0039 [Noya] | ¡Ándale! Es un banquete de lujo para todos. ¡Hay que echar la casa por la ventana con la decoración para que quede épico!
+0040 [Narración] | Tras el incidente de Darcia, todas las empresas de Nova empezaron a enviar representantes, tanto por negocios como por asuntos privados.
+0041 [Narración] | Para hacer de anfitriona amable, Firenze decidió organizar un banquete en nombre de la sucursal de Philae de Cosecha Unida.
+0042 [Narración] | Oficialmente, es un evento de networking para dar la bienvenida a los representantes. Pero en realidad, también es una fiesta de despedida para nosotros.
+0043 [Narración] | El Gremio de la Nueva Estrella y yo estamos a punto de emprender un nuevo viaje para seguir buscando pistas sobre el orfanato.
+0044 [Narración] | Noya le está dando un mantenimiento completo a Lucky Oasis para el viaje.
+0045 [Narración] | Mientras tanto, nos hospedamos en el hotel y ayudamos a preparar el salón.
+0046 [Iris] | No te ves muy bien, Jefe... ¿Estás agotado?
+0047 [Tú] | Estoy bien. Es que no he dormido bien últimamente.
+0048 [Amber] | ¿Por qué?
+0049 [Tú] | No sé. Me la paso dando vueltas toda la noche.
+0050 [Iris] | Puede ser el cambio repentino de ambiente. Al fin y al cabo, estamos acostumbrados a dormir en el vehículo.
+0051 [Amber] | Entendido. El Jefe no puede dormir sin nosotras.
+0052 [Amber] | Entonces yo...
+0053 [Tú] | ¡No, no quise decir eso! ¡Puedo dormir solo perfectamente!
+0054 [Tú] | Ya basta de hablar de mí. Iris, últimamente has estado hasta el cuello de trabajo, ¿no?
+0055 [Tú] | Preparar el salón, encargarte de la logística... Deberías tomarte un respiro.
+0056 [Iris] | Ah, no pasa nada. La verdad, me siento más tranquila sabiendo que yo misma me encargué de los suministros.
+0057 [Iris] | El verdadero dolor de cabeza es el banquete. Tanta gente importante... La presión me está afectando.
+0058 [Noya] | ¡Relájate! Codearse con los peces gordos es trabajo de Firenze y Nyx. ¡Nosotras solo vamos a arrasar con el bufé!
+0059 [Tú] | Cierto. Firenze dijo que también es nuestra despedida. Solo disfruta la noche y no le des tantas vueltas.
+0060 [Noya] | ¡Genial! Mi misión:==W== ¡acabar con cien filetes!
+0061 [Amber] | Tu estómago se va a arrepentir.
+0062 [Firenze] | Disculpen la interrupción, todos.
+0063 [Firenze] | Jefe, ¿me acompañas un momento a mi oficina? Tenemos que hablar.
+0064 [Tú] | Claro. Tú guías.
+0065 [Lugar y hora] | 14:30, 3.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0066 [Nyx] | Buenas tardes, Jefe.
+0067 [Tú] | ¿Oh? Nyx también está aquí.
+0068 [Tú] | ¿Por qué esas caras tan serias? No me digan que son malas noticias.
+0069 [Firenze] | Todavía es difícil decir si son «malas», pero sin duda es una complicación.
+0070 [Firenze] | Jefe, échale un vistazo a esto.
+0071 [Tú] | ¿Esto es... una carta de la sede de Cosecha Unida?
+0072 [Firenze] | Sí, un envío urgente. Nos convoca a Nyx y a mí a Puerto Jilguero en representación de la sucursal de Philae. Tenemos que presentarnos ante...
+0073 [Narración] | La gran inspectora Matilda
+0074 [Nyx] | Dirige el Departamento de Cumplimiento. Es una de las tres figuras más poderosas de Cosecha Unida, con suficiente influencia para inclinar al Senado.
+0075 [Nyx] | Que me llame a rendir informe tiene sentido; soy inspectora. ¿Pero llevarse también a Firenze? Y justo ahora, de todos los momentos...
+0076 [Tú] | ¿Cuándo es la reunión?
+0077 [Firenze] | En dos días. El 5 del mes de Venatio, la misma noche de nuestro banquete.
+0078 [Firenze] | Puerto Jilguero queda muy lejos. Aun con una bruja de Scarlet Sights Media encargándose del transporte, el viaje toma por lo menos dos días.
+0079 [Nyx] | O sea que tendríamos que salir de inmediato.
+0080 [Tú] | Entonces se van a perder el banquete.
+0081 [Tú] | Sacarlas de Philae justo cuando se supone que vamos a informar a las demás empresas sobre el incidente de Darcia...
+0082 [Tú] | Me parece demasiado conveniente.
+0083 [Firenze] | De acuerdo. Alguien está moviendo los hilos para quitarnos de en medio a Nyx y a mí.
+0084 [Firenze] | Pero saber que es una trampa no significa que podamos ignorar la convocatoria.
+0085 [Tú] | ¿Quieres decir...?

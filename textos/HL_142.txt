@@ -1,0 +1,286 @@
+# Heartlink de Cosette: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Cosette] | Agregado
+A01.0002 [Cosette] | La próxima vez te compraré una soda
+A01.0003 [Cosette] | La máquina expendedora junto a Finanzas Estrella del Abismo
+A01.0004 [Cosette] | Tiene una soda sabor leche que está buena
+A01.0005 [Tú] | Ah, genial~
+
+## Conversación A02
+A02.0001 [Cosette] | $^dda@*$$#%
+A02.0002 [Tú] | ¿¿¿¿????
+A02.0003 [Tú] | ¿Pasó algo?
+A02.0004 [Tú] | ¿¿Hola??
+A02.0005 [Cosette] | Creo que fueron solo mis dedos de salchicha; estaba trabajando
+A02.0006 [Cosette] | Perdón
+A02.0007 [Tú] | Me asustaste...
+A02.0008 [Cosette] | Hoy estoy ocupada
+A02.0009 [Cosette] | La próxima vez te compraré otra soda para disculparme
+A02.0010 [Tú] | ¡No hace falta! ¡Lo más importante es que estés bien!
+
+## Conversación A03
+A03.0001 [Cosette] | ¿Tienes un poco de tiempo libre hoy, Jefe?
+A03.0002 [Opción] | ¿Sí?
+A03.0003 [Opción] | Tengo un poco de prisa. ¿Qué pasa?
+A03.0004 [Cosette] | Como te dije la otra vez, quiero invitarte una soda
+A03.0005 [Cosette] | Y disculparme contigo
+A03.0006 [Cosette] | ¿Estás libre para salir ahora mismo?
+A03.0007 [Cosette] | Como te dije la otra vez, quiero invitarte una soda
+A03.0008 [Cosette] | Y disculparme contigo
+A03.0009 [Cosette] | Si hoy no se puede, mañana también está bien
+A03.0010 [Cosette] | Mañana tengo el día libre
+A03.0011 [Tú] | ¡¡Ya te dije que no hace falta nada de eso!!
+A03.0012 [Tú] | ...
+A03.0013 [Tú] | Vale, entendido. Pongamos hora~
+A03.0014 [Tú] | Y puedes venir conmigo a ver la librería~
+A03.0015 [Cosette] | Claro
+
+## Conversación A04
+A04.0001 [Cosette] | Jefe, lo encontré: ese yogur sabor cilantro que te mencioné
+A04.0002 [Cosette] | ¿Quieres venir a verlo?
+A04.0003 [Cosette] | O
+A04.0004 [Cosette] | puedo llevártelo...
+A04.0005 [Opción] | ...¿Cilantro? ¿En serio?
+A04.0006 [Opción] | ¿Qué clase de sabor es el cilantro?
+A04.0007 [Cosette] | Sí, es un yogur
+A04.0008 [Cosette] | Muy rico
+A04.0009 [Cosette] | Sabe un poco a pasto verde
+A04.0010 [Cosette] | Definitivamente deberías probarlo, Jefe
+A04.0011 [Tú] | Bueno... Ya que insistes tanto...
+A04.0012 [Tú] | Lo probaré
+A04.0013 [Cosette] | Hurra
+A04.0014 [Cosette] | Te lo llevo ahora mismo
+A04.0015 [Tú] | ¿¿¿Ahora mismo???
+
+## Conversación A05
+A05.0001 [Cosette] | ¡Jefe! ¡Jefe!
+A05.0002 [Cosette] | Había una máquina expendedora
+A05.0003 [Cosette] | Metí dinero y salieron dos latas
+A05.0004 [Cosette] | ¿Qué hago? ¿Vuelvo a meter la sobrante?
+A05.0005 [Opción] | Bueno, ya que salió, quédatela
+A05.0006 [Opción] | No creo que puedas volver a meterla. Puedes intentarlo...
+A05.0007 [Cosette] | Pero yo solo pagué una...
+A05.0008 [Cosette] | ¿De verdad está bien?
+A05.0009 [Tú] | No te preocupes, todo fue culpa de la máquina expendedora
+A05.0010 [Tú] | Simplemente quédatela
+A05.0011 [Cosette] | No, no vuelve a entrar
+A05.0012 [Cosette] | ¿Qué hago?
+A05.0013 [Tú] | Tendrás que quedártela
+A05.0014 [Tú] | Considéralo un poco de suerte del día
+A05.0015 [Cosette] | Ugh
+A05.0016 [Cosette] | Los novianos sí que tienen una forma complicada de hacer las cosas
+
+## Conversación A06
+A06.0001 [Cosette] | ¡Jefe!
+A06.0002 [Tú] | Descubriste otro sabor de bebida, ¿eh?
+A06.0003 [Cosette] | ¿Cómo lo supiste?
+A06.0004 [Opción] | Porque tengo el Ojo que Todo lo Ve
+A06.0005 [Opción] | Porque cada vez que descubres un sabor nuevo de bebida, siempre usas un signo de exclamación
+A06.0006 [Cosette] | ¿En serio?
+A06.0007 [Cosette] | Eres increíble, Jefe...
+A06.0008 [Cosette] | ¿Eh? ¿De verdad?
+A06.0009 [Cosette] | Eres increíble, Jefe...
+A06.0010 [Tú] | ¿Y qué sabor es esta vez?
+A06.0011 [Cosette] | Agua con Gas de Chile Infernal
+A06.0012 [Tú] | ...
+A06.0013 [Cosette] | Pero ¿qué es este «Infierno», de todos modos? ¿Es de donde viene el chile?
+
+## Conversación A07
+A07.0001 [Cosette] | Jefe...
+A07.0002 [Tú] | ¿Qué pasa?
+A07.0003 [Cosette] | Hace un momento, alguien de Finanzas del Mar Profundo me dijo que
+A07.0004 [Cosette] | mis preferencias de sabor
+A07.0005 [Cosette] | son muy raras
+A07.0006 [Cosette] | ...
+A07.0007 [Cosette] | ¿Es cierto?
+A07.0008 [Tú] | Bueno... no está mal
+A07.0009 [Cosette] | ¿En serio?
+A07.0010 [Cosette] | Ella dijo que nadie bebería una bebida con sabor a pescado, que sabe horrible...
+A07.0011 [Tú] | ¿Una bebida con sabor a pescado... Qué es eso?
+A07.0012 [Cosette] | Está hecha de jugo de hierba de pescado
+A07.0013 [Tú] | ...
+A07.0014 [Cosette] | ¿Hay algún problema?
+A07.0015 [Tú] | No... O sea... es solo que...
+A07.0016 [Tú] | Es única
+A07.0017 [Cosette] | ¿En serio?
+A07.0018 [Cosette] | La próxima vez te traeré una, está muy buena
+A07.0019 [Tú] | ¿Eh?
+
+## Conversación A08
+A08.0001 [Cosette] | ¿Piensas salir hoy, Jefe?
+A08.0002 [Cosette] | Hoy tengo el día libre
+A08.0003 [Tú] | Perfecto~ Quería salir contigo hoy~
+A08.0004 [Cosette] | Vaya, ¿en serio?
+A08.0005 [Tú] | Claro. ¿No recuerdas qué día es hoy?
+A08.0006 [Cosette] | ¿Hoy...?
+A08.0007 [Cosette] | ¿Hoy es un día especial?
+A08.0008 [Tú] | Hoy te convertiste en ciudadana noviana oficial
+A08.0009 [Tú] | ¿No dijiste antes que no sabes cuándo es tu cumpleaños?
+A08.0010 [Tú] | Entonces, ¿qué tal si tomamos el día en que empezaste tu nueva vida como tu cumpleaños?
+A08.0011 [Cosette] | Cumpleaños... ¿Eso existe?
+A08.0012 [Tú] | Claro
+A08.0013 [Tú] | Hoy tendremos un banquete, comeremos pastel e iremos al parque de diversiones
+A08.0014 [Cosette] | ¡¡¡!!!
+A08.0015 [Cosette] | Qué bien, gracias, Jefe
+
+## Conversación A09
+A09.0001 [Cosette] | Jefe, ¿hoy también vas a entrenar?
+A09.0002 [Tú] | ¿No te gusta entrenar?
+A09.0003 [Cosette] | ...
+A09.0004 [Cosette] | No es que no me guste entrenar
+A09.0005 [Cosette] | Es que, como Nocturn Eterna, hice cosas malas para los novianos
+A09.0006 [Cosette] | No sé si quieran volver a verme la cara
+A09.0007 [Cosette] | Así que...
+A09.0008 [Tú] | Pero eso ya es cosa del pasado
+A09.0009 [Cosette] | ¿De verdad está bien
+A09.0010 [Cosette] | que salga con todos los demás?
+A09.0011 [Opción] | ¡Claro que sí!
+A09.0012 [Opción] | ¿A menos que tú no quieras?
+A09.0013 [Tú] | Mientras quieras venir, eres más que bienvenida
+A09.0014 [Cosette] | ¡¡No!! ¡¡Eso no es lo que quise decir!!
+A09.0015 [Cosette] | Es que no quiero causarte problemas...
+A09.0016 [Tú] | ¡No le des tantas vueltas!
+A09.0017 [Tú] | Te esperaremos. ¡Tienes que venir!
+
+## Conversación A10
+A10.0001 [Cosette] | El Disco Rúnico que me diste
+A10.0002 [Cosette] | Tiene una música muy bonita
+A10.0003 [Cosette] | Me gusta mucho
+A10.0004 [Cosette] | Gracias, Jefe
+A10.0005 [Tú] | Ah, entonces qué bueno
+A10.0006 [Cosette] | Lo único es que
+A10.0007 [Cosette] | de pronto recordé algunas cosas de hace mucho tiempo
+A10.0008 [Tú] | ¿Cosas buenas?
+A10.0009 [Cosette] | Sí...
+A10.0010 [Cosette] | Sobre quien me salvó...
+A10.0011 [Cosette] | Ella es la que me hizo querer volverme más fuerte
+A10.0012 [Cosette] | Para tener la fuerza de devolverle su bondad
+A10.0013 [Cosette] | Le estoy muy agradecida
+A10.0014 [Tú] | Deben de ser recuerdos muy valiosos
+
+## Conversación B01
+B01.0001 [Cosette] | Jefe
+B01.0002 [Cosette] | ¿Por qué se mueve algo dentro de mi botella?
+B01.0003 [Tú] | ¿¿Algo se mueve??
+B01.0004 [Tú] | ¡¿No me digas que son bichos?!
+B01.0005 [Cosette] | ¿Bichos?
+B01.0006 [Cosette] | ¿Entonces todavía puedo beberla?
+B01.0007 [Tú] | ¡¡¡NO!!! ¡¡¡Tírala!!!
+B01.0008 [Tú] | ¿La dejaste abierta mucho tiempo?
+B01.0009 [Cosette] | La abrí la semana pasada. Olvidé la tapa cuando salí
+B01.0010 [Cosette] | Luego me fui a una misión
+B01.0011 [Cosette] | Espera, no
+B01.0012 [Cosette] | ¡Sin misión!
+B01.0013 [Cosette] | ¡Eso!
+B01.0014 [Tú] | ...
+B01.0015 [Tú] | En fin, ya se echó a perder. No la bebas.
+B01.0016 [Tú] | ¡Ni se te ocurra beberla!
+
+## Conversación B02
+B02.0001 [Cosette] | ¿Dónde estás ahora mismo, Jefe?
+B02.0002 [Opción] | Distrito de las Cenizas, Emor
+B02.0003 [Opción] | Puerto Sailstead
+B02.0004 [Tú] | Distrito de las Cenizas, Emor.
+B02.0005 [Tú] | Echando un vistazo a la Tienda de Almas.
+B02.0006 [Tú] | Puerto Sailstead.
+B02.0007 [Tú] | Pasando el rato en la sede de la Asociación de Trekkers.
+B02.0008 [Cosette] | Ah. Anotado
+B02.0009 [Tú] | ¿Por qué?
+B02.0010 [Cosette] | Confirmando coordenadas del objetivo
+B02.0011 [Cosette] | Necesarias para el secuestro
+B02.0012 [Tú] | ...
+B02.0013 [Tú] | Sabes que no se supone que me digas eso, ¿verdad?
+B02.0014 [Cosette] | Irrelevante. No me detectarás
+B02.0015 [Cosette] | El éxito sigue siendo muy probable
+B02.0016 [Tú] | Eh, ¿no estás parada justo al lado de esa máquina expendedora?
+B02.0017 [Cosette] | ¡¿Cómo me viste?!
+
+## Conversación B03
+B03.0001 [Cosette] | Jefe, escúchame
+B03.0002 [Cosette] | Hagas lo que hagas, NO bajes del auto
+B03.0003 [Tú] | Eh... ¿Por qué?
+B03.0004 [Cosette] | Tu horóscopo dice que hoy tendrás «pésima suerte en los viajes»
+B03.0005 [Cosette] | Así que, puramente por tu seguridad
+B03.0006 [Cosette] | Más te vale quedarte donde estás
+B03.0007 [Tú] | Esta advertencia amistosa huele sospechosamente a trampa.
+B03.0008 [Cosette] | ¡No!
+B03.0009 [Cosette] | Que Aeloria diga que «a la gente le encanta hacer lo contrario de lo que le dicen»
+B03.0010 [Cosette] | ¡no significa que yo cuente con eso!
+B03.0011 [Tú] | Ah...
+B03.0012 [Tú] | A ver si entendí. Estás agachada justo afuera de la puerta
+B03.0013 [Tú] | esperando a que me ponga rebelde y salga
+B03.0014 [Tú] | ¿para poder secuestrarme?
+B03.0015 [Cosette] | ...
+B03.0016 [Cosette] | Vaya, nada se le escapa al Jefe
+B03.0017 [Cosette] | ¡¿Cómo lo descubriste?!
+B03.0018 [Cosette] | Como me han descubierto
+B03.0019 [Cosette] | me retiraré
+B03.0020 [Tú] | ¡Tienes la cara literalmente aplastada contra la ventana!
+B03.0021 [Tú] | ¡Eres la peor mentirosa del mundo!
+
+## Conversación B04
+B04.0001 [Cosette] | Leche x2
+B04.0002 [Cosette] | Jade Líquido x4
+B04.0003 [Cosette] | Soda de Durazno x2
+B04.0004 [Cosette] | Yogur x2
+B04.0005 [Tú] | ...? ¿Vale?
+B04.0006 [Cosette] | ¿¿¿¿Eh????????????
+B04.0007 [Cosette] | ¿¿Por qué respondes aquí, Jefe??
+B04.0008 [Tú] | ¿¿¿Eh???
+B04.0009 [Cosette] | ¿¿Eh??
+B04.0010 [Cosette] | Espera, ¿esta no es mi app de notas?
+B04.0011 [Tú] | Entonces, ¿vas a salir a la tienda?
+B04.0012 [Cosette] | ¡Voy a comprar bebidas!
+B04.0013 [Cosette] | ¿Quieres venir, Jefe? Dicen que hay un sabor nuevo de soda
+B04.0014 [Tú] | Claro. De todos modos tengo que comprar algunas cosas de uso diario.
+B04.0015 [Cosette] | Vale. Te espero en la entrada
+
+## Conversación B05
+B05.0001 [Cosette] | Jefe, ¿sabes dónde puedo conseguir una lima de uñas?
+B05.0002 [Tú] | Seguro que la mayoría de las tiendas generales las tienen.
+B05.0003 [Cosette] | Una tienda...
+B05.0004 [Tú] | ¿La necesitas ahora mismo?
+B05.0005 [Tú] | Si tienes prisa, ¿por qué no pides una prestada en una Tienda de Almas cercana?
+B05.0006 [Cosette] | ¿Una Tienda de Almas? ¿No las maneja el Imperio de la Gracia?
+B05.0007 [Cosette] | No. No, definitivamente no.
+B05.0008 [Cosette] | No puedo dejar que el Imperio de la Gracia lo sepa. La necesito para limarme los cuernos
+B05.0009 [Tú] | ¿Cuernos?
+B05.0010 [Cosette] | ¡!
+B05.0011 [Cosette] | No, espera, quise decir...
+B05.0012 [Cosette] | ¡Limar leche de soya!
+B05.0013 [Cosette] | Eso. Una vez vi a alguien hacerlo. Sí, leche de soya.
+B05.0014 [Cosette] | Así que
+B05.0015 [Cosette] | Una lima
+B05.0016 [Cosette] | Para eso sirve
+B05.0017 [Tú] | Eh...
+B05.0018 [Tú] | Bueno, vale
+B05.0019 [Cosette] | Ahora voy a la tienda
+B05.0020 [Cosette] | ¡La leche de soya es deliciosa!
+
+## Conversación B06
+B06.0001 [Cosette] | Jefe. Tengo que pedirte un favor
+B06.0002 [Opción] | ¿Qué es?
+B06.0003 [Opción] | ¡NO voy a dejar que me «secuestres»!
+B06.0004 [Cosette] | Entonces. Necesito que me dejes fingir que te capturé
+B06.0005 [Cosette] | Necesito una foto como prueba
+B06.0006 [Cosette] | ¡De verdad necesito material para mi informe mensual!
+B06.0007 [Cosette] | ¡Ni siquiera lo he dicho todavía! ¡¿Cómo lo supiste?!
+B06.0008 [Tú] | ¡Porque lo intentas cada vez!
+B06.0009 [Cosette] | Porfa
+B06.0010 [Cosette] | Solo una foto
+B06.0011 [Cosette] | ¡De verdad necesito material para mi informe mensual!
+B06.0012 [Tú] | No voy a caer otra vez.
+B06.0013 [Tú] | Eso fue lo que dijiste la última vez.
+B06.0014 [Tú] | ¡Y luego intentaste llevarme a rastras en cuanto las cuerdas estuvieron apretadas!
+B06.0015 [Cosette] | Eso fue
+B06.0016 [Cosette] | ¡Un reflejo!
+B06.0017 [Cosette] | Prometo que esta vez no lo haré
+B06.0018 [Tú] | Olvídalo. ¿Quieres probar una bebida nueva?
+B06.0019 [Tú] | Acabo de conseguir una Bebida de Café con Wasabi.
+B06.0020 [Cosette] | ¡¿Qué es eso?!
+B06.0021 [Cosette] | ¡Mándame la ubicación! ¡Voy para allá!
+B06.0022 [Sistema] | Compartiste tu ubicación con Cosette.

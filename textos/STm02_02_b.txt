@@ -1,0 +1,120 @@
+# Capítulo 2 · 2B · Investigación disfrazada
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Student Applicant | Aspirante estudiante
+N:Vollara & Neuvira | Vollara y Neuvira
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_171 | Empleada
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Investigación disfrazada
+0003 [Intro] | Minova se cambia a un uniforme de la Academia Platino y se hace pasar por una señorita. Fingiendo ser aspirante a un empleo, explora la distribución de la compañía. Pero ¿de verdad la infiltración saldrá tan bien?
+0004 [Lugar y hora] | 15:43, 1.º del mes de Pluvia, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0005 [Minova] | Oigan, miren esto. Nueva oferta de empleo de Creta Trading.
+0006 [Noya] | ...
+0007 [Minova] | Están apurados por cubrir un puesto de Investigación de Artefactos. Seguro es para hurgar en su vehículo.
+0008 [Iris] | ...
+0009 [Minova] | Con la Academia Platino en mi currículum, conseguir una entrevista debería ser fácil.
+0010 [Amber] | ...
+0011 [Minova] | Una vez dentro, averiguaremos dónde escondió Feagin su vehículo.
+0012 [Minova] | Oigan, ¿se les comió la lengua el gato?
+0013 [Iris] | Eh... todas ven esto también, ¿verdad?
+0014 [Iris] | ¡¿E-en serio eres Minova?! ¡¿O, no sé, su hermana gemela perdida hace mucho?!
+0015 [Amber] | Cambio... total.
+0016 [Iris] | ¡Vaya, ese uniforme de Platino sí que hace efecto! ¡Te ves totalmente distinta!
+0017 [Vollara] | ¿Cómo que no? ¡Es porque la jefa tiene estilo! ¡Ella hace que el uniforme se vea bien!
+0018 [Neuvira] | Sí, si nos lo pusiéramos nosotras, solo pareceríamos tontas.
+0019 [Minova] | Ay, no se menosprecien.
+0020 [Minova] | Se parten el lomo solo para comer. Prácticamente aún son niñas, pero igual cuidan a los más pequeños.
+0021 [Minova] | Eso no solo es respetable, es admirable.
+0022 [Vollara y Neuvira] | Jefa...
+0023 [Minova] | La ropa son solo hilos. No define quién eres por dentro.
+0024 [Tú] | Minova tiene razón.
+0025 [Tú] | Aun así, mucha gente solo ve la superficie... Si no, ella no apostaría por el nombre de la Academia para abrirse paso.
+0026 [Tú] | Pero...
+0027 [Tú] | Feagin te conoce, sin embargo. ¿De verdad basta el uniforme? ¿No necesitas también, no sé, maquillaje o algo?
+0028 [Noya] | ==PLAYER_NAME==, ¿qué dices? ¡Mírala! ¡No hay manera de que Feagin reconozca a Minova así!
+0029 [Tú] | N-no puede ser... no hablan en serio.
+0030 [Iris] | ¡Parece una persona completamente distinta!
+0031 [Tú] | ¿Cómo pueden estar tan seguras...?
+0032 [Amber] | Unos lentes y listo. Identidad nueva.
+0033 [Tú] | No, no es a eso a lo que me refiero... O sea... ==W==ugh, olvídenlo.
+0034 [Tú] | ¿Seré yo? ¿Soy el único que no lo ve?
+0035 [Lugar y hora] | 17:30, 1.º del mes de Pluvia, Distrito de Oro, Emor. Creta Trading
+0036 [Aspirante estudiante] | Hola, vengo a una entrevista de trabajo. ¿Es el lugar correcto?
+0037 [Narración] | Justo a tiempo, una Minova disfrazada entra en Creta Trading. ==W==El resto del grupo, esperando junto al Canal, escucha por su teléfono.
+0038 [Receptionist] | Hola. ¿Trae un currículum?
+0039 [Aspirante estudiante] | Sí, aquí está.
+0040 [Receptionist] | ¡Oh, de la Academia Platino! Es un honor tenerla aquí.
+0041 [Aspirante estudiante] | Sí, así es. Me gradúo este verano, así que estoy adelantando mi búsqueda de empleo.
+0042 [Feagin] | ¿Academia Platino, dice?
+0043 [Feagin] | Buenas tardes, soy Feagin. ==W==Mis disculpas, qué descortés de mi personal no haberle ofrecido té.
+0044 [Feagin] | Vaya, sus... sus ojos...
+0045 [Tú] | ¡Ay, no, ¿la descubrieron?!
+0046 [Feagin] | Esos lentes le sientan de maravillas. La montura realza sus ojos.
+0047 [Aspirante estudiante] | ¡Oh! Eh, gracias.
+0048 [Tú] | ¡Esos lentes funcionan como magia!
+0049 [Feagin] | Y ahora, acompáñeme por aquí, por favor.
+0050 [Aspirante estudiante] | Oh, eh, ¿quizá quiera ver primero mi currículum?
+0051 [Feagin] | Para nada. Una estudiante con uniforme de la Academia Platino ya es una candidata de primera.
+0052 [Feagin] | Recepción, por favor traigan té. ¡Del bueno! Tenemos una futura estrella.
+0053 [Feagin] | Las funciones principales de este puesto consisten en investigar la estructura de los Artefactos, analizar las funciones de sus distintos componentes y redactar informes.
+0054 [Feagin] | Como estudiante de la Academia Platino, seguro ha manejado muchos Artefactos. Eso la hace ideal para este puesto, ¿no cree?
+0055 [Aspirante estudiante] | Gracias por el voto de confianza. Es muy alentador oírlo.
+0056 [Aspirante estudiante] | Sin embargo, tenía entendido que la estructura de los Artefactos ya es un tema muy investigado. La Academia tiene incontables informes al respecto.
+0057 [Aspirante estudiante] | Si eso es lo que necesitan, puedo acceder a los archivos de la Academia.
+0058 [Feagin] | Ah, la biblioteca de la Academia... Verdaderamente envidiable.
+0059 [Feagin] | Pero no hablo de esos Artefactos bien documentados.
+0060 [Feagin] | Por favor, por aquí.
+0061 [Aspirante estudiante] | Esto es...
+0062 [Feagin] | Un hallazgo raro, ¿verdad? Una adquisición reciente. Un enorme vehículo Artefacto. Dicen que unos Trekkers lo armaron pieza por pieza.
+0063 [Aspirante estudiante] | Es sin duda un espécimen raro. Imagino que muy valioso para la investigación.
+0064 [Aspirante estudiante] | ¿Podría verlo más de cerca?
+0065 [Feagin] | Por supuesto. Tómese todo el tiempo que quiera. Solo tenga cuidado de no romper nada.
+0066 [Aspirante estudiante] | Mmm, las cuatro ruedas... probablemente deseos distintos. Y las conexiones entre las ruedas y los ejes... ==W==Ah, así lograron esta ingeniosa estructura.
+0067 [Aspirante estudiante] | La carrocería también, deseada por separado y luego ensamblada... ==W==No, espera. Esta sección del chasis parece hecha a mano. Es increíble que igualaran tan bien el color del metal deseado.
+0068 [Noya] | ¡Sí, eso es! ¡Esa es nuestra Loxy! ¡Todas trabajamos juntas para construirla!
+0069 [Iris] | Minova acertó de lleno. Lograr esas conexiones de eje no fue fácil. No creo que pudiera hacerlo otra vez ni aunque me fuera la vida.
+0070 [Amber] | Qué bien que notó la parte que nos llevó una eternidad.
+0071 [Noya] | Bueno, ella inventó las patinetas del Viento de Ceniza. ¡Claro que entiende a Loxy! ¡Las dos tienen cuatro ruedas y las piezas que las unen!
+0072 [Feagin] | Un verdadero ojo para el detalle de la Academia Platino. Creo que podemos prescindir del resto de la entrevista.
+0073 [Feagin] | Si acepta, puede empezar en Creta Trading desde mañana mismo.
+0074 [Feagin] | ¿Qué le parecen cinco millones de Dorra al mes?
+0075 [Feagin] | Además, si logra analizar con éxito la función de cada componente y determinar las oraciones de deseo correctas, podemos subirlo a veinte millones mensuales. Más un escaño en el Senado de Creta Trading.
+0076 [Iris] | ¡¿Veinte millones?! ¡¿Oí bien?!
+0077 [Amber] | El Senado...
+0078 [Noya] | ¡Esperen, no entienden! ¡Va a desarmar a Loxy! ¡Tenemos que entrar AHORA!
+0079 [Tú] | Calma, Noya. Ya sabemos dónde está. Podemos recuperar a Loxy antes de que Feagin le haga algo.
+0080 [Aspirante estudiante] | Esto es... muy repentino. ==W==Pero gracias. Acepto. Será un honor encargarme del trabajo.
+0081 [Aspirante estudiante] | Una pregunta, sin embargo. ¿Y los Trekkers que lo construyeron? Tenerlos aquí aceleraría muchísimo la investigación.
+0082 [Feagin] | Tsk... Lo último que quiero es involucrar a esos vagabundos.
+0083 [Feagin] | Dejaron el vehículo como garantía de una deuda. Ya se fueron lejos, ==W==me temo.
+0084 [Aspirante estudiante] | ...
+0085 [Aspirante estudiante] | Qué lástima. ==W==Entonces una última pregunta.
+0086 [Aspirante estudiante] | Mencionó analizar el método de deseo. Pero aunque entendamos cómo funciona, no podemos garantizar los mismos resultados.
+0087 [Aspirante estudiante] | Entonces, ¿cuál es el sentido de esta investigación?
+0088 [Feagin] | Tenga por seguro que su investigación se aprovechará bien para pedir deseos.
+0089 [Feagin] | Verá, Creta Trading posee... «tarjetas de deseo» milagrosas.
+0090 [Feagin] | ¡Con estas tarjetas, la comprensión es irrelevante! Basta con sacrificar un poco más de memoria de lo normal y, puf, se puede desear cualquier Artefacto registrado en la tarjeta.
+0091 [Aspirante estudiante] | ¿Y piensan hacer que los Trekkers usen estas tarjetas para pedir los deseos?
+0092 [Feagin] | ¿De qué habla?
+0093 [Feagin] | ¿Contratar Trekkers para trabajo bruto como ese? ¡Demasiado costoso!
+0094 [Feagin] | Los huérfanos de la calle sirven perfectamente. Consigo cuatro niños por el precio de un Trekker.
+0095 [Aspirante estudiante] | Pero... ¿los niños no perderán enormes porciones de su memoria?
+0096 [Feagin] | Vaya, qué sentimental es usted, ¿no? En todo caso, ese no es nuestro problema.
+0097 [Feagin] | Les hago firmar contratos al contratarlos. Así que si algo... sucede en el trabajo, es responsabilidad de ellos.
+0098 [Feagin] | No se preocupe por esas nimiedades.
+0099 [Feagin] | ¡Con su talento, Creta Trading recuperará su antigua gloria! ¡Seremos una potencia con la que nadie se atreva a jugar!
+0100 [Feagin] | ¡Únase a mí! ¡Seamos los salvadores que resuciten a Creta Trading!

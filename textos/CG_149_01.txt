@@ -1,0 +1,92 @@
+# Historia de Gerie · 1 · Collars and Cords (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1197 | Stellaroid
+N:avg1_1199 | Stellaroid
+N:avg1_149 | Gerie
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Collares y cuerdas (Parte I)
+0003 [Intro] | Un lazo imposible de cortar, un reencuentro que nadie esperaba.
+0004 [Gerie] | ¡Ajaja, largo de aquí!
+0005 [Gerie] | ¡Tú, el de allá!
+0006 [Gerie] | ¡Y tú también!
+0007 [Gerie] | Vengan a saludarme, mis pequeños queridos~
+0008 [Gerie] | Tranquilícense, formen una fila~
+0009 [Gerie] | Muy pronto los liberaré de este mundo.
+0010 [Tú] | Fecha: Día del Juicio Final ==B==... perdón, no, 15 del mes de Floris.
+0011 [Tú] | Lugar: un Monolito cerca de Emor. Clima: sangre y truenos.
+0012 [Tú] | Registrado por ==PLAYER_NAME==.
+0013 [Gerie] | Jeje... No es suficiente. ¡Todavía no es suficiente!
+0014 [Tú] | Uf, si los Stellaroids tienen un infierno, debe de ser así. Casi puedo oír la última trompeta.
+0015 [Tú] | ¿Oh? Parece que uno sobrevivió...
+0016 [Tú] | ¿Será que logrará escapar con suerte?
+0017 [Gerie] | Jeje, ¿adónde crees que vas? ♪ Juguemos un ratito más, ¿sí?
+0018 [Tú] | Creo que no.
+0019 [Narración] | Se me hiela el corazón, pero sigo registrando el infierno que tengo enfrente.
+0020 [Narración] | Todo esto empezó ayer—
+0021 [Tú] | Fiu... Esa comisión fue una verdadera bestia ...==W== pero salimos adelante.
+0022 [Tú] | Últimamente solo me tocan trabajos así. De verdad necesito algo distinto para despejar la cabeza.
+0023 [Tú] | Oigan, ya volví.
+0024 [Willow] | ¡Jefe, ya llegó! ¡Gracias al cielo!
+0025 [Willow] | ¡Por el Dios de la Gracia, por fin vino a salvarnos!
+0026 [Tú] | Órale, calma ...==B== estás exagerando un poco... Solo vine por una comisión.
+0027 [Willow] | ¡Es verdad! ¡Al aceptar esta comisión, salvará a muchísima gente...!
+0028 [Willow] | Tenemos una comisión que solo usted puede manejar...
+0029 [Tú] | Ejem. Bueno, si lo pones así, ¿cómo voy a negarme? Entonces, ¿de qué se trata el trabajo?
+0030 [Willow] | ¡Oh, gracias!==W== Ah ... primero, ¿podría llenar este formulario?==W== La comisión es bastante sencilla: solo una expedición normal al Monolito que requiere un equipo.
+0031 [Tú] | ¿Una expedición al Monolito que solo yo puedo manejar? ¿Qué, necesitan que les escriba su deseo? ¿El cliente es algún novato?
+0032 [Willow] | No, no es novato. Al contrario, es de los mejores...==W== ¡Ah! ¡Gracias por llenar el formulario...!
+0033 [Tú] | Vaya, nada mal. Suena bastante fácil, y además conoceré a un Trekker de primera.
+0034 [Tú] | Entonces, ¿quién es el cliente?
+0035 [Willow] | Este ...==W== bueno, el cliente se llama...==W== Gerie.
+0036 [Tú] | Ah, Gerie ... claro.==W== Espera, ¿¿¿GERIE??? ¿Todavía puedo salir corriendo?
+0037 [Willow] | ¡Me temo que ya firmó el formulario!==W== Si se echa para atrás ahora, no solo incumple el contrato, sino que tampoco podemos hacernos responsables de lo que esa clienta en particular pueda hacer.==W== ¡Así que, por favor!
+0038 [Tú] | ¡Maldita sea, me tendió una trampa!
+0039 [Tú] | Ya está. No me queda más que escapar—
+0040 [???] | Vaya, vaya.==W== Vaya, vaya, vaya, vaya, vaya...==W== ¿Pero si es el querido Jefe? ♪
+0041 [Gerie] | Que nos volvamos a ver así... ¿Será obra del Dios de la Gracia?
+0042 [Tú] | ==B==Ya es tarde, ¿eh...?
+0043 [Tú] | Ah, ajaja~ Cuánto tiempo sin verte, Gerie...
+0044 [Tú] | ¿Alguien tan hábil como tú necesita un equipo para un Monolito? Debe de ser uno de nivel altísimo.
+0045 [Gerie] | Jeje~ No hace falta que estés tan tenso. Es solo una comisión simple.
+0046 [Gerie] | Solo necesito ...==W== a alguien que capture el éxtasis que siento en batalla.
+0047 [Tú] | Eh ... ¿cómo?==W== No estoy captando a qué te refieres.
+0048 [Gerie] | Pienso que si puedo grabar a la perfección ese momento en que me pierdo por completo, podré verlo después y revivir esa sensación sublime.
+0049 [Gerie] | Pero cuando se lo pedí a los demás Árbitros, todos me rechazaron de inmediato.
+0050 [Tú] | Ni modo. Intentar filmar a Gerie en pleno arrebato suena a una excelente forma de morir.
+0051 [Gerie] | Jeje~ No me dirás que no, ¿verdad?
+0052 [Gerie] | Contigo detrás de la cámara,==W== estoy segura de que ==W==captarás hasta el último detalle íntimo ...==W== de pies a cabeza ...==W== cada uno de los lunares de mi piel,==W== de aquí a allá...
+0053 [Gerie] | Todo~
+0054 [Narración] | La normalmente caótica Asociación de Trekkers está en completo silencio.==W== Todos los presentes me miran fijamente, con una mezcla de lástima y «tú puedes».
+0055 [Tú] | Qué bien ...==W== parece que tendré que aguantarme.
+0056 [Tú] | Está bien. Acepto la comisión. Formemos equipo.
+0057 [Gerie] | ¡Dijiste que sí tan rápido! ¡Qué emoción! ♪
+0058 [Tú] | ¡Pero! Con una condición.
+0059 [Tú] | Yo seré quien filme, así que necesito garantizar la calidad.==W== Si tus «métodos» se vuelven demasiado extremos para mí, me retiro.
+0060 [Gerie] | Entonces...==W== ¿se trata de una «contención» mental? Ooh, eso lo hace aún más emocionante.
+0061 [Gerie] | Que me contenga alguien que ni siquiera puede pelear mientras yo desato el infierno... Quizá descubra un placer que nunca he conocido...
+0062 [Tú] | Entonces, ¿es un sí?
+0063 [Gerie] | Oh, no te preocupes. Estaré encantada de que me contengas ♪
+0064 [Gerie] | Jejeje, más ... ¡dame más...! Hazme ... ¡enloquecer todavía más...! ♪
+0065 [Tú] | De verdad creí que poner algunas reglas la frenaría...==W== Pero sigue arrasando como una maniática...
+0066 [Gerie] | Ah ... ah... Aún no es suficiente. Si es así... ¡No me queda más que...!
+0067 [Gerie] | ¡Acabar con todos de una vez!
+0068 [Tú] | Otra vez ese movimiento... ¡maldita sea, está completamente desquiciada!
+0069 [Narración] | Sus delgados dedos tiran de la cuerda en su cuello, y siento como si me arrancaran el alma del cuerpo.
+0070 [Narración] | Mi visión se nubla por un instante. Cuando se aclara, todos los Stellaroids del piso yacen derrumbados, convertidos en simples cascarones vacíos.
+0071 [Tú] | Esa magia da tanto miedo como siempre...
+0072 [Gerie] | Fiu... Ya se acabaron los Stellaroids de aquí.
+0073 [Gerie] | Jeje~ Tal como esperaba de mi querido Jefe. Mi magia ni siquiera te inmutó.

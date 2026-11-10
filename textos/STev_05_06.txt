@@ -1,0 +1,131 @@
+# Evento · Para ti, mi persona más querida · 6 · Operación Grano de Maíz
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Child Passing By | Niño que pasa
+N:Equipment Shop Owner | Dueño de la tienda de equipo
+N:Fisherman | Pescador
+N:Gale Owl | Búho Vendaval
+N:Mother Passing By | Madre que pasa
+N:Stall Vendor | Vendedor del puesto
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg2_950 | Búho Vendaval
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_161 | Leafia
+N:avg3_166 | Anciana del pueblo
+N:avg3_167 | Chica
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Operación Grano de Maíz
+0003 [Intro] | Teresa rellena una carta con granos de maíz y la usa de carnada para que el Búho Vendaval se la lleve. Siguiendo el rastro de maíz caído y gracias a las habilidades sobrehumanas de Teresa para abrir camino, rastrean al monstruo hasta su guarida.
+0004 [Donna] | Por cierto, me pregunto por qué ese monstruo está tan obsesionado con las «cartas», de entre todas las cosas...
+0005 [Leafia] | La evidencia apunta a una razón simple: la construcción de nidos.
+0006 [Tú] | ¡¿Leafia?! ¿Desde cuándo estás aquí?
+0007 [Leafia] | Desde el momento en que llegaron al puerto. Después de todo, nuestros objetivos coinciden.
+0008 [Freesia] | Supongo que tú también rastreas a este monstruo roba cartas.
+0009 [Leafia] | Correcto. Investigar al Búho Vendaval es la razón completa por la que vine al Puerto Bellin.
+0010 [Teresa] | ¿«Búho Vendaval»? ¿Ese es el nombre del monstruo?
+0011 [Leafia] | Más que un nombre, es una designación en clave de la Asociación de Trekkers.==W== Los monstruos no se nombran a sí mismos. Pero sin una etiqueta, los registros y la investigación son imposibles.
+0012 [Leafia] | El Búho Vendaval es un monstruo aviar migratorio.==W== Cambia de nido con frecuencia para evadir a los depredadores,==W== un comportamiento bastante inteligente.
+0013 [Leafia] | Y el ciclo migratorio reciente lo trajo al Puerto Bellin.==W== Identificó las «cartas» como material de anidación de primera...==W== De ahí los robos.
+0014 [Donna] | ¿Un nido hecho de cartas? Intento imaginármelo, pero es... raro.
+0015 [Leafia] | Al parecer le encanta la textura. Y para construir un buen nido necesita un suministro enorme. Como los sobres contienen varias hojas,==W== quizá robar cartas sea la forma más eficiente de reunir recursos.
+0016 [Freesia] | Qué fastidio...==W== ¿Tiene algún otro hábito que debamos conocer?
+0017 [Leafia] | Es astuto.==W== Los registros muestran muchos casos en que entraron volando a casas particulares para llevarse objetos de valor.
+0018 [Teresa] | ¡¿A las casas de la gente?! Si eso es cierto, entonces la carta del señor Howard...
+0019 [Tú] | Es muy probable que ahora esté en el nido de ese Búho Vendaval.
+0020 [Tú] | La cuestión es... ¿cómo lo encontramos?
+0021 [Freesia] | Si está asaltando el Puerto Bellin, el nido debe de estar cerca, ¿no?
+0022 [Donna] | El Puerto Bellin es uno de los centros más grandes del continente... «Cerca» sigue dejándonos una zona enorme que cubrir.==W== ¿Hay forma de acotarla?
+0023 [Leafia] | Tengo un plan...==W== ¿Les gustaría probarlo?
+0024 [Freesia] | ¡Cu-cu-cuuuu!==B====W== Cu-cu...
+0025 [Freesia] | ... ¿C-cómo estuvo?
+0026 [Leafia] | Mmm... El tono no es correcto.==W== La siguiente.
+0027 [Teresa] | ¡Uuuuu, uu-uu!==W== ¡Uu-uu...!
+0028 [Donna] | Coc-coc...==W== coc-coc...
+0029 [Child Passing By] | ¡Mami, mira! ¿Qué están haciendo?
+0030 [Mother Passing By] | ¡Shh!==W== No las mires, cariño, sigue caminando.
+0031 [Teresa] | Uf... Resoplido... ¡¿Funcionó?!
+0032 [Donna] | Si seguimos así, la imagen de marca de Post Haste se va a arruinar…==W== Si no aparece pronto...
+0033 [Leafia] | Mmm... Lamentable. No hay señal del objetivo.
+0034 [Leafia] | La imitación auditiva debería haberlo atraído, en teoría...==W== Pero al parecer... no funciona.
+0035 [Tú] | Dijiste que este Búho Vendaval parece... bueno, un búho. Pero ustedes están repasando todos los ruidos de ave que existen...
+0036 [Leafia] | No podemos asumir que suene como un búho solo porque lo parezca... Hay que probar todas las variables por seguridad.
+0037 [Tú] | Hablas como toda una erudita. Tan rigurosa... Lástima que no funcionó. ¿Hay otra forma...? ¡Espera, ya sé!
+0038 [Tú] | Si queremos atraer a un ladrón de cartas... ¿por qué no usamos una «carta» como carnada?
+0039 [Leafia] | Una deducción lógica. De hecho ya lo intentamos antes, pero fracasamos.
+0040 [Leafia] | El Búho Vendaval es demasiado rápido. Una vez que toma la carnada, lo perdemos antes de poder rastrearlo hasta el nido.==B====W== Por eso sugerí los llamados, con la esperanza de que bajara la guardia.
+0041 [Teresa] | O sea que la clave es no perderlo de vista, ¿verdad?==W== ¡En ese caso, tengo un plan! ¡Déjenmelo a mí!
+0042 [Teresa] | ¡Tachán! ¡Mi Carta Especial de Granos de Maíz está lista para la acción!
+0043 [Freesia] | ¿Una Carta Especial de Granos de Maíz? Rellenaste el sobre con grano... ¿para...?
+0044 [Leafia] | Ya veo. Ingenioso.
+0045 [Tú] | Sí, Teresa siempre tiene una manera única de resolver las cosas.
+0046 [Freesia] | Espera, ¡¿todos los demás lo entienden?!==W== ¿Hasta tú, Donna?
+0047 [Donna] | Freesia, mira con más atención aquí, en la esquina de abajo.
+0048 [Freesia] | ¿La esquina?==W== Ah, una pequeña perforación.==W== Ya entendí.
+0049 [Teresa] | Je, je, por fin.==W== ¡La idea es que el maíz se caiga de la carta y deje un lindo rastro para que lo sigamos directo hasta su escondite!
+0050 [Freesia] | Aunque no podamos igualar la velocidad del Búho Vendaval, aún podemos localizar su nido...==W== ¡Brillante, Teresa! Jamás habría concebido un plan así.
+0051 [Tú] | Hay un fallo, sin embargo. Puede volar sobre obstáculos que nosotros no.==W== Si el rastro cruza un callejón sin salida o un muro...
+0052 [Leafia] | Correcto. El terreno alrededor del Puerto Bellin es complejo. Es muy probable que encontremos rutas intransitables.==B====W== Aun si seguimos el rastro, el camino podría cortarse fácilmente a medio trayecto.
+0053 [Teresa] | ¡Sin problema! ¡Déjenme la navegación a mí!
+0054 [Donna] | ¡Jefe, Leafia, déjenme a mí la búsqueda del camino!==W== ¡Como líder de Post Haste, lo garantizo!
+0055 [Tú] | Entendido. Probemos.
+0056 [Donna] | Hemos dejado muchísimas cartas de carnada...
+0057 [Freesia] | ¿De verdad crees que vendrá...?
+0058 [Teresa] | ¡Paciencia, ustedes dos! Mi papá siempre decía: una vez puesta la trampa, la paciencia es el arma más fuerte del cazador.
+0059 [Tú] | Espera. Oigo aleteos...
+0060 [Gale Owl] | ¡Uuu... uuu... gaaahhh!!!!
+0061 [Tú] | ¿«Uuu...==W== uuu...==W== gah»?
+0062 [Leafia] | Oh, así que esa es su vocalización real... Déjenme registrar ese dato...
+0063 [Freesia] | ¡No hay tiempo para notas!==W== ¡El Búho Vendaval ya mordió el anzuelo!
+0064 [Teresa] | ¡Muy bien! ¡Comienza la persecución...!
+0065 [Freesia] | Otro grano...==W== ¡por allá!
+0066 [Tú] | ¡Pero es un callejón sin salida...!
+0067 [Teresa] | ¡Yo me adelanto...!
+0068 [Teresa] | ¡No busquen solo el maíz, fíjense también en mis marcas!
+0069 [Narración] | Teresa trepa por el muro y se lanza por los tejados, persiguiendo al monstruo con agilidad felina.
+0070 [Donna] | Bueno, ahí arriba sin duda no podemos seguirla...==W== No pasa nada, podemos tomar el camino largo y buscar el siguiente grano.
+0071 [Freesia] | ¿Esta es... la Carta Especial de Granos de Maíz...? ¿La tiró entera...?
+0072 [Donna] | Parece que descubrió nuestro truquito.
+0073 [Leafia] | Más astuto de lo que le reconocía...
+0074 [Tú] | Esto no pinta bien. Vamos a perder el rastro...
+0075 [???] | ¿Ustedes persiguen a ese monstruo con alas? ¡Se fue volando para allá...!
+0076 [Donna] | ¡¿El dueño de la tienda de equipo?!
+0077 [Equipment Shop Owner] | Van a acabar con esa cosa, ¿verdad? ¡Contamos con ustedes, Trekkers!
+0078 [Donna] | ¡¡Se lo agradezco muchísimo!!
+0079 [Stall Vendor] | ¿Buscan a Teresa?==W== ¡Ya pasó volando por aquí!
+0080 [Fisherman] | ¡El monstruo se fue por allá! ¡Atrápenlo, Post Haste!
+0081 [Tú] | Increíble. Todo el pueblo... ¡Todos nos están señalando el camino!
+0082 [Donna] | ¡Ay, basta, me van a hacer llorar!==W== Ser mensajera y ayudar a todos así... ¡Es lo mejor!
+0083 [Freesia] | De acuerdo... No podemos defraudarlos.==W== ¡Aceleremos el paso y atrapemos a esa cosa!
+0084 [Narración] | Mientras tanto...
+0085 [Teresa] | Maldición... ¡Soltó la carta a medio camino!==W== ¡Si pierdo el rastro ahora, toda esta persecución habrá sido en vano!
+0086 [Teresa] | Si esa carta se pierde para siempre por mi culpa...==W== ¡No! ¡Piensa, Teresa! ¡Tengo que encontrar su nido!
+0087 [Teresa] | Pero acercarme demasiado podría espantarlo y alejarlo del nido por completo...==B====W== ¿Habrá otra forma de marcarlo...?==B====W== Espera. Este bosque...
+0088 [Teresa] | ¡Qué suerte la mía! En ese caso, ¡hora de cambiar de plan!
+0089 [Teresa] | ¡Detente ahí...! ¡Espérame...!
+0090 [Gale Owl] | ¡Uuu-uuu... gaaahhh?!!
+0091 [Teresa] | ¡Ahora!
+0092 [Narración] | Teresa lanza una piedra contra una rama...
+0093 [Narración] | De inmediato, un diluvio de fruta demasiado madura y podrida cae sobre el Búho Vendaval.
+0094 [Gale Owl] | ¡Uuu-uuuuu... gaaah...?!?!
+0095 [Teresa] | Este bosque está lleno de trampas de Shrubshrew. ¡Ahora estás cubierto del hedor de cáscaras de fruta podrida!
+0096 [Teresa] | ¡Je, je, mi nariz lo sabe todo!==W== ¡Ya no puedes escapar, te voy a atrapar!
+0097 [Teresa] | ¡Todos! ¡El nido del Búho Vendaval está aquí!!!==W== ¿Eh? ¡Dimos toda la vuelta de regreso hasta la costa...!
+0098 [Donna] | ¡Increíble trabajo, Teresa! ¡Esas marcas que dejaste fueron de muchísima ayuda!
+0099 [Gale Owl] | ¡Gaaah...! ¡Gaaah...!
+0100 [Freesia] | Déjennos la pelea a nosotras.==W== Jefe, esperamos tu orden.
+0101 [Tú] | Recibido. ¡Acabemos con este monstruo y recuperemos la carta del señor Howard!
+0102 [Donna] | Construir un nido en el cabo más pintoresco del Puerto Bellin... Sin duda tiene buen gusto.
+0103 [Donna] | Sabes... La gente del Puerto Bellin escribe y recibe incontables cartas todos los días.==W== ¿Adivinas por qué?
+0104 [Donna] | Porque confían en Post Haste. ¡Creen que entregaremos cada carta a su destinatario!==B====W== Ninguna carta se queda atrás, ningún sentimiento sin expresar...==W== Por eso nos confían sus cartas.
+0105 [Donna] | Esa confianza... Esos lazos que conectan a las personas a través de estas cartas...==W== ¡Voy a recuperarlo todo!==W== ¡Prepárate!

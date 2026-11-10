@@ -1,0 +1,64 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · Epílogo · Verano sin fin
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Verano sin fin
+0003 [Intro] | Todo está en orden y por fin puedes relajarte. Este es un verano que te pertenece a ti, a todos: un verano que nunca termina.
+0004 [Noya] | ... ¡Oye, Amber, despierta!==W== ¿Te quedaste dormida aquí mismo, en la mesa?
+0005 [Amber] | Anoche estaba mandándole mensajes al Jefe y me quedé dormida sin darme cuenta...
+0006 [Noya] | El Jefe dijo que ==SEX== estaría aquí hace una hora, ¡pero ya pasó muchísimo tiempo! Ugh, si ==SEX== no vuelve pronto, te juro que yo misma voy a buscar a ==SEX4==.
+0007 [Noya] | Iris no deja de intentar detenerme, diciendo que «navegar un barco no es como manejar un coche». Vamos, ¿cuál es la diferencia?
+0008 [Iris] | ¡A la playa, ahora!==W== ¡El Jefe volvió!
+0009 [Narración] | Tres días después...
+0010 [Karin] | ¡O-Oye! ¡No me toques las orejas! ¡Solo Shia puede hacerlo!
+0011 [Iris] | ¡Lo siento muchísimo! Me disculpo por Noya...==W== ¡No tiene ningún sentido del espacio personal!
+0012 [Karin] | ¡No solo es despistada, también es sorda!==W== ¡Oye! ¡¿Me estás escuchando?!
+0013 [Noya] | ¡Guau! ¡Así que esta es la legendaria Karin que tanto ayudó al Jefe!♪ ¡Qué suavecita! ¡Qué esponjosa!
+0014 [Karin] | Shia, ayúdame...
+0015 [Amber] | 137...==W== 138...
+0016 [Opción] | ¿Qué te tiene tan hipnotizada con esa bebida?
+0017 [Amber] | Contando las burbujas.
+0018 [Amber] | Es del color del fondo del mar. Es hermosa.
+0019 [Shia] | Es fascinante. Su aroma también es bastante único.
+0020 [Opción] | ¿Eh? ¿Amber tiene un aroma?
+0021 [Shia] | Cuando está tranquila, como ahora, huele a caramelos de refresco de menta.
+0022 [Shia] | Pero ayer, cuando la descubrí...
+0023 [Shia] | Esa menta fresca burbujeaba y estallaba como un paquete de caramelos explosivos.
+0024 [Shia] | Le pregunté por qué me estaba observando. Solo agachó la cabeza y no dijo ni una palabra.
+0025 [Opción] | Así que por eso tenía la cara roja como un tomate cuando volvió ayer.
+0026 [Opción] | La pillaste con las manos en la masa.
+0027 [Shia] | No te preocupes, Jefe. Fui muy gentil. Hasta le enseñé a usar una pistola de agua y le encantó.
+0028 [Opción] | Ya veo... Parece que se llevaron bien de inmediato.
+0029 [Iris] | Oye, Mistique, ¿cómo va ese artículo tuyo? ¿Está teniendo buenos comentarios?
+0030 [Mistique] | ¿Bromeas? Cuando esta bruja está en acción, es noticia de portada. ¡Prepárense para cobrar su parte!
+0031 [Iris] | Ah, qué gran alivio. Me preocupaba mucho que comprar toda esta comida dejara los fondos del gremio en números rojos otra vez…
+0032 [Mistique] | Bueno, tenemos que agradecerle a Shia que me dejara publicar la historia completa.
+0033 [Mistique] | ¡Ah, ya está! El primer pincho es mío...
+0034 [Tú] | Hablando de eso, ¿por qué decidiste contarles la verdad a todos, Shia?
+0035 [Shia] | Lo pensé mucho. Es mejor ser franca sobre lo que hay en la isla que andar con tanto secreto.
+0036 [Shia] | En cuanto esos cazatesoros se den cuenta de que los huesos de Ballena Hexcuerno no valen nada, simplemente se rendirán y se irán.
+0037 [Shia] | Además, esa bruja se esforzó muchísimo por limpiar el nombre de mi abuela. Ahora nadie puede acusarla de mentir para acaparar un tesoro. Por fin puede descansar en paz.
+0038 [Tú] | Qué bien. Significa que todo el esfuerzo de tu abuela valió la pena.
+0039 [Tú] | Y gracias a ti y a Karin por ser tan excelentes anfitrionas.
+0040 [Shia] | No hay de qué. Después de todo, somos...
+0041 [Iris] | ¡Shia, Jefe! ¡La comida está lista!
+0042 [Tú] | ¡Oh, es Iris!
+0043 [Shia] | Jeje, vamos♪
+0044 [Cosette] | ... Rayos, estuvo muy cerca. La chica conejo casi me descubre.
+0045 [Cosette] | Juro que vigilaba cada uno de mis movimientos. Nunca tuve ni una sola oportunidad.
+0046 [Cosette] | ¿Qué le iba a decir al Jefe, justo al final? «Somos...»
+0047 [Cosette] | Ugh, como sea.==W== Tengo que conseguir una de esas sodas de playa de edición limitada.
+0048 [Narración] | Y así pasamos una larga y tranquila tarde junto al mar.
+0049 [Narración] | El hermoso verano que todos esperábamos por fin llegó...

@@ -1,0 +1,124 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 3B · Lluvia en el desierto
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Capable Committee Member | Miembro del Comité capaz
+N:Preparing Committee Member | Miembro del Comité preparándose
+N:avg1_111 | Iris
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg1_145 | Otoha
+N:avg1_163 | Greyhorn
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1307 | Soldado de los Centinelas del Alba
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_216 | Gunhild
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Lluvia en el desierto
+0003 [Intro] | Las condiciones de Angie para la paz siguen siendo las mismas: tu vida. Sus deducciones se acercan peligrosamente a la verdad sobre el Sistema de Desarrollo de Tiranos. Aunque te sacuden, aun así le das a Fuyuka la señal para activar la trampa...
+0004 [Lugar y hora] | 15:00, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0005 [Angie] | Nos volvemos a ver, Tirano.
+0006 [Angie] | Un solo guardia. Debo admitir que me sorprende un poco.
+0007 [Tú] | Seamos honestos, Angie. Ya no te queda nadie a quien mandar.
+0008 [Tú] | Tenemos a 160. Gunhild está atada a la artillería. Greyhorn es el único refuerzo que pudiste reunir.
+0009 [Tú] | Greyhorn es una caballera honorable. Jamás caería tan bajo como para atacar a traición.==W== Y en cuanto a ti...
+0010 [Tú] | Tu Cetro de la Muerte no tiene ninguna oportunidad contra la espada de Chitose.
+0011 [Tú] | Así que con Chitose a mi lado me basta y me sobra. El resto de mi equipo tiene cosas mejores que hacer.
+0012 [Angie] | Vaya. ¿De verdad no soy para ti más que una cobarde traicionera?
+0013 [Tú] | ¿Y no lo eres? Me invitaste a un hotel solo para asesinarme con un Artefacto que yo mismo hice aparecer con un deseo.
+0014 [Angie] | Je. Nunca negué ser despreciable. Haré lo que sea necesario para salvar este mundo.
+0015 [Angie] | Pero los ataques sorpresa no son mi única táctica, ni mucho menos.
+0016 [Tú] | Basta de charla. La pelea todavía no ha causado demasiados daños y nadie ha muerto.
+0017 [Tú] | Angie, ordénale al Comité de Salvación que se retire. Te garantizo tu seguridad, un juicio justo, y hasta abogaré por ti.
+0018 [Angie] | ¿Esas son tus condiciones? Qué misericordia, considerando que estamos tratando de matarte.
+0019 [Angie] | Pero...==W== ¿de dónde sale tanta confianza?
+0020 [Tú] | Acabamos de aplastar a tu Segunda Compañía en un enfrentamiento directo. Y capturamos a 160.
+0021 [Angie] | Je. Un revés menor.
+0022 [Angie] | Tus compañeras son fuertes y tus tácticas, astutas. Pero las guerras se ganan con logística, no con heroísmo individual.
+0023 [Angie] | Greyhorn, dale a ==SEX4== el informe de bajas de la Segunda Compañía.
+0024 [Greyhorn] | Sí, señora.
+0025 [Greyhorn] | Cero muertos. Cuarenta heridos leves y diez graves. Salvo los casos críticos, el resto puede volver al servicio después de un breve descanso.
+0026 [Tú] | (Justo como dijo Nazuka. El Comité tiene reservas de magia sin fondo. Están lanzando magia defensiva como si fuera gratis.)
+0027 [Tú] | (Atravesamos su unidad entera, pero apenas hicimos mella en su número real.)
+0028 [Angie] | Tu impecable asalto solo me costó diez soldados. Y todavía tengo dos compañías completamente intactas esperando entre bastidores.
+0029 [Angie] | Quizá consigas algunas victorias hermosas más. Pero ¿cuánto durará en realidad la Gracia de sus Piedras del Alma?
+0030 [Angie] | Tenemos una ventaja abrumadora tanto en número como en suministros.
+0031 [Angie] | Solo convocaste esta reunión para presionarme. Aprovechando el impulso de tu reciente victoria, con la esperanza de que entrara en pánico y cediera a tus exigencias.
+0032 [Angie] | Pero no entiendes en absoluto al Comité de Salvación. Nuestro único objetivo es salvar el mundo. Sin importar cómo vaya la batalla, jamás aceptaremos tus condiciones.
+0033 [Tú] | (Me leyó por completo. De verdad quería presionarla.)
+0034 [Tú] | (Haber cambiado el destino de Noya y la Segunda Compañía significa que ya no puedo predecir lo que pasará. Si la batalla continúa, el Comité sin duda lleva la ventaja.)
+0035 [Tú] | (Aunque, la verdad, nunca esperé que unas cuantas palabras baratas la engañaran, y mucho menos que convencieran a su ejército de rendirse.)
+0036 [Tú] | (Toda esta conversación es solo para ganar tiempo. Así los demás pueden ocupar sus posiciones. Tengo que aplastar al Comité ahora, mientras mis recuerdos del ciclo anterior todavía me sirven.)
+0037 [Angie] | ¿Y bien? ¿No tienes nada que decir?==W== Sé que estás esperando a Firenze y a los Árbitros del Ocaso. Llegarán en unos dos días.
+0038 [Tú] | Parece que Angie tiene su propia información sobre Firenze y los Árbitros, incluso sin mis llamadas por Heartlink.
+0039 [Angie] | Pero usar esta negociación para ganar tiempo solo deja ver tu debilidad.
+0040 [Angie] | Al Comité de Salvación le basta con mantener un asalto implacable. Veinticuatro horas son más que suficientes para tomar Mirage. El tiempo no está de tu lado, Tirano.
+0041 [Tú] | Entonces, ¿por qué no atacas ahora mismo? A fin de cuentas, tú también estás usando esta negociación para ganar tiempo y reagruparte, ¿o no?
+0042 [Tú] | Los dos sabemos perfectamente dónde está parado el otro. Dejémonos de teatro.
+0043 [Tú] | Solo tengo curiosidad. Aunque de verdad fuera el legendario Tirano, ¿qué te hace estar tan segura de que el Tirano destruirá el mundo? ¿Todo se basa en ese Libro de las Profecías de la Gracia?
+0044 [Angie] | Que lo preguntes demuestra que leíste el diario de la habitación secreta del Gato Blanco.==W== Ya aceptaste que eres el Tirano.
+0045 [Angie] | Tienes razón. Los dos necesitamos un poco más de tiempo. Así que te contaré algo que el diario no menciona.
+0046 [Angie] | Tirano,==W== ¿conoces los principios básicos de los deseos del Monolito?
+0047 [Opción] | Quien pide el deseo sacrifica sus recuerdos a cambio de un Artefacto.
+0048 [Angie] | Exacto. Los novianos quieren la comodidad de los Artefactos, y el Monolito exige sus recuerdos más vívidos.
+0049 [Angie] | Pero he oído que tus compañeras... O, mejor dicho, las empleadas de Boss Accord... no han perdido ningún recuerdo desde hace bastante tiempo.
+0050 [Vita] | Los recuerdos también son una forma de información. Durante sus deseos, Vita replicará los recuerdos que exija el Monolito y le entregará esas copias, mientras ustedes conservan los originales.
+0051 [Iris] | ¿De verdad...==W== puede funcionar así?
+0052 [Tú] | Engañar al Monolito...==W== No, técnicamente no lo estamos engañando. El Monolito sí recibe los recuerdos, aunque sean copias. La información es información, y una copia sirve igual que el original.
+0053 [Tú] | Eso es...==W== una función creada al combinar el Sistema de Desarrollo de Tiranos con la autoridad de la pieza de ajedrez. Le da al Monolito recuerdos copiados durante un deseo.
+0054 [Tú] | Visto desde fuera, sin duda parece que las empleadas de Boss Accord pueden pedir deseos sin perder sus recuerdos.
+0055 [Angie] | Libro de las Profecías de la Gracia, 10:10.
+0056 [Angie] | «El arrogante Tirano cegó a los dioses indefensos con falsos juramentos y les arrebató sus preciadas reliquias».
+0057 [Angie] | «Desde entonces, la torre eterna comenzó a decaer, y los cimientos mismos del mundo empezaron a temblar».
+0058 [Angie] | Tus acciones reflejan exactamente el Libro de las Profecías de la Gracia. Creo que eso responde a tu pregunta.
+0059 [Tú] | ¿Esa función del sistema va a destruir el mundo? ¿Cómo es eso siquiera posible...?
+0060 [Tú] | Desde que leí ese diario en la habitación secreta del Gato Blanco, he intentado demostrar que no soy el Tirano. Pero entre más trato de escapar de esta profecía apocalíptica, más me acerco a cumplirla.
+0061 [Tú] | Es imposible que Angie sepa del Sistema de Desarrollo de Tiranos.==W== Y no tiene ninguna razón para mentirme ahora. Si se lo hubiera inventado, yo podría revisar el libro fácilmente.
+0062 [Tú] | Entonces... ¿Eso quiere decir...?
+0063 [Tú] | No, no, no. No puedo dejar que se meta en mi cabeza.
+0064 [Tú] | Esta mujer que tengo enfrente solo está tratando de confundirme.
+0065 [Angie] | Je. Ver cómo cambian tus expresiones es bastante entretenido, Tirano.
+0066 [Angie] | No es común que podamos negociar así. Permíteme presentarte mis condiciones.
+0067 [Angie] | Toma este Cetro de la Muerte y quítate la vida. Sacrifícate para salvar el mundo.
+0068 [Angie] | Hazlo, y te garantizo la seguridad y la libertad de tus compañeras y de la gente de Mirage.
+0069 [Chitose] | Mi ==SEX11==, no tiene por qué escuchar semejante disparate. Debí haber acabado con esta mujer en el Monolito de Philae.
+0070 [Angie] | No seas tan impulsiva. Sé que es una propuesta difícil de aceptar, así que añadiré una condición más.
+0071 [Angie] | Tus compañeras pueden unirse al Comité de Salvación y quedarse a mi lado. Si, después de observar mis actos, deciden que en realidad no estoy salvando el mundo, pueden matarme cuando quieran.
+0072 [Angie] | Y aunque me perdonen por ahora, dentro de cuatro años, cuando el mundo esté verdaderamente a salvo de la destrucción, les pediré que me quiten la vida como compensación por la tuya.
+0073 [Angie] | En otras palabras, pase lo que pase, pagaré tu vida con la mía. Si todavía dudas de mí, tus compañeras pueden atarme con un contrato mágico. Uno irrompible.
+0074 [Chitose] | ¿Cómo te atreves a comparar la noble vida de mi ==SEX11== con la de una hormiga insignificante como tú?
+0075 [Tú] | Está ofreciendo exactamente las mismas condiciones que la última vez. Se nota que definitivamente no quiere matarme por un deseo personal.
+0076 [Tú] | Me encantaría sacarle más información, pero se acabó el tiempo. La interrogaré como se debe cuando la atrapemos.
+0077 [Tú] | Angie. Entiendo.
+0078 [Tú] | Sobre tus condiciones...==W== Necesito contactar a mis compañeras y ver qué opinan.
+0079 [Chitose] | Mi ==SEX11==...
+0080 [Angie] | Tirano, sigues sorprendiéndome. ¿De verdad estás dispuesto a sacrificarte por el mundo?
+0081 [Tú] | Fuyuka, ¿estás ahí?
+0082 [Fuyuka] | ¡Maestro! Estoy justo donde me dijo. ¡Estoy completamente lista!
+0083 [Tú] | Angie sugirió que me quite la vida con un Cetro de la Muerte para salvar el mundo. Si lo hago, ella garantizará la seguridad y la libertad de todas, y luego entregará su propia vida dentro de cuatro años.
+0084 [Tú] | ¿Qué te parecen esas condiciones, Fuyuka?
+0085 [Fuyuka] | ¡¿Q-q-quitarse la... vida?!
+0086 [Fuyuka] | ¡Maestro, ¿qué está diciendo?! ¡No! ¡Absoluta e incondicionalmente NO!
+0087 [Greyhorn] | ¡Señora, cuidado con el suelo!
+0088 [Gunhild] | ¡¿Q-qué está pasando?! ¡Ni siquiera hemos disparado y el suelo se está hundiendo! ¡La Primera Compañía todavía no llega a las minas, ¿o sí?!
+0089 [Capable Committee Member] | ¡Capitana! La Primera Compañía...
+0090 [Gunhild] | ¡¿Qué pasa con ellos?! ¡¿Y qué le pasó a Lady Angie?!
+0091 [Minova] | ¡Jamás llegarán hasta el Jefe!
+0092 [Gunhild] | ¡Agh! ¿Cuándo te colaste hasta aquí? Y disfrazada de una de nosotros...
+0093 [Gunhild] | ¡No me hagan caso! ¡Rápido, lancen su magia a las coordenadas de Lady Angie! ¡Es una orden directa!
+0094 [Otoha] | ¿Dispuestos a sacrificar la vida de su propia líder solo para matar al Jefe? Admiro esa clase de entrega.
+0095 [Otoha] | Pero le hice una promesa a ==SEX4==. No dejaré que le pase nada a ==SEX4==. ¡Suelten sus bastones, lunáticos del Comité de Salvación!
+0096 [Gunhild] | ¡Ignoren a los heridos! ¡Solo son dos! ¡Apunten! ¡Apunten!
+0097 [Narración] | De pronto, el atardecer se ve bastante luminoso, porque empieza a caer una lluvia suave...
+0098 [Preparing Committee Member] | ¡Agh, ¿de dónde salió toda esta arena?! ¡No veo nada!
+0099 [Nazuka] | ¡Que esta lluvia de arena los sepulte! ¡No les daré la oportunidad de apuntarle al Jefe!
+0100 [Narración] | A las afueras de la ciudad de Mirage, la arena arremolinada se transforma en un aguacero torrencial que cae sin piedad sobre las altas dunas.

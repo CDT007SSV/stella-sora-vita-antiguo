@@ -1,0 +1,151 @@
+# Heartlink de Sparkla: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Sparkla] | ¿Cómo va Lucky Oasis?
+A01.0002 [Opción] | ¡A Loxy casi se le acaba la energía otra vez!
+A01.0003 [Opción] | ¡Loxy está a tope de carga y va a toda velocidad!
+A01.0004 [Sparkla] | ¡Ve a ver a Bloc y menciona mi nombre! ¡Te hará descuento!
+A01.0005 [Sparkla] | ¡Genial! ¡Avísame si te topas con algún problema!
+A01.0006 [Sparkla] | Espera... ¿«Loxy» es como le dices a Lucky Oasis?
+A01.0007 [Tú] | ¡Sip! Lindo, ¿no?
+A01.0008 [Sparkla] | ¡Lindísimo! ¿Te molesta si yo también empiezo a llamarlo así?
+A01.0009 [Tú] | ¡Claro que no!
+
+## Conversación A02
+A02.0001 [Sparkla] | Oye, Jefe, si Bloc pregunta, tampoco has sabido nada de mí.
+A02.0002 [Tú] | ¿Otra vez se pelearon?
+A02.0003 [Sparkla] | ¡La bloqueé!
+A02.0004 [Sparkla] | ¡Aceptó un montón de encargos para Dorra, tratando de matarme de trabajo!
+A02.0005 [Sparkla] | Y ni me hagas hablar de las exigencias...
+A02.0006 [Sparkla] | «Quiero que la zancada de mi prótesis izquierda sea exactamente UN centímetro más larga que la derecha.»
+A02.0007 [Sparkla] | ¡¿En qué estará pensando esa clienta?!
+A02.0008 [Tú] | Sí, es una petición muy rara.
+A02.0009 [Sparkla] | ¡¿Verdad?! ¡Mira, tú sí me entiendes!
+A02.0010 [Sparkla] | ¡Digo, ¿¡un solo centímetro?!
+A02.0011 [Sparkla] | ¿Por qué no me deja convertir toda la pierna en un planeador?
+A02.0012 [Sparkla] | ¡Nadie va a notar una diferencia de un centímetro!
+A02.0013 [Sparkla] | ¡Mientras que mi diseño de planeador puede lanzarte unos buenos 100 metros!
+
+## Conversación A03
+A03.0001 [Sparkla] | Oye, Jefe, ¿has oído el cuento de hadas de la Niña de Nieve?
+A03.0002 [Opción] | Me suena.
+A03.0003 [Opción] | No.
+A03.0004 [Tú] | Pero prefiero oírlo de ti.
+A03.0005 [Tú] | Cuéntamelo.
+A03.0006 [Sparkla] | Una niña de nieve se enamora de un pastor.
+A03.0007 [Sparkla] | Y cuanto más profundo se enamora de él,
+A03.0008 [Sparkla] | más cálido se vuelve su corazón...
+A03.0009 [Sparkla] | hasta que ese mismo calor termina derritiéndola.
+A03.0010 [Tú] | Vaya, qué final tan trágico...
+A03.0011 [Sparkla] | ¡Si tan solo hubiera un aparato para evitar que los muñecos de nieve se derritan!
+A03.0012 [Sparkla] | ¡Espera, tengo una idea!
+A03.0013 [Tú] | ¿Qué idea?
+A03.0014 [Tú] | ¿Sparkla?
+A03.0015 [Tú] | ¿?
+A03.0016 [Tú] | Y ya se fue.
+A03.0017 [Tú] | ¡Asegúrate de enseñármelo cuando esté listo!
+
+## Conversación A04
+A04.0001 [Sparkla] | ¡Acabo de darle un modo de masaje a Pastel Jefe!
+A04.0002 [Sparkla] | ¿Quieres pasar a mi taller a probarlo?
+A04.0003 [Tú] | ¿Puedo probarlo?
+A04.0004 [Sparkla] | ¡Obvio! Eres la musa detrás de esto.
+A04.0005 [Sparkla] | Jamás dejaría que masajeara a nadie más.
+A04.0006 [Sparkla] | Solo a ti.
+A04.0007 [Tú] | ¡Es un honor!
+A04.0008 [Sparkla] | ¡Solo avísame cuando estés libre!
+A04.0009 [Sparkla] | Quizá también haya una sorpresa secreta.
+
+## Conversación A05
+A05.0001 [Sparkla] | Oye, Jefe, ¿te animas con un encargo?
+A05.0002 [Tú] | Siempre
+A05.0003 [Tú] | Es mi especialidad
+A05.0004 [Sparkla] | Estoy planeando... una renovación enorme del taller.
+A05.0005 [Sparkla] | Antes necesito ayuda con una limpieza a fondo.
+A05.0006 [Tú] | ¿No puede hacerlo Pastel Jefe?
+A05.0007 [Sparkla] | Sí, pero contigo aquí,
+A05.0008 [Sparkla] | ¡los dos trabajamos mucho más rápido!
+A05.0009 [Tú] | Paso.
+A05.0010 [Tú] | Después de todo
+A05.0011 [Tú] | ayudar a una amiga no es un encargo
+A05.0012 [Tú] | ¿Verdad?
+A05.0013 [Sparkla] | ¡Casi me lo creo!
+
+## Conversación A06
+A06.0001 [Sparkla] | Fui a ver a la doctora Coronis. ¡Usé tu tarjeta!
+A06.0002 [Tú] | ¿Y bien? ¿Qué dijo?
+A06.0003 [Sparkla] | Sí, más o menos lo que me imaginaba.
+A06.0004 [Sparkla] | No hay muchas esperanzas de mejora.
+A06.0005 [Sparkla] | El daño de la ONG de verdad es permanente, tal como pensaba.
+A06.0006 [Tú] | Lamento no haber podido hacer más.
+A06.0007 [Sparkla] | ¡Oh, no lo lamentes!
+A06.0008 [Sparkla] | Tengo todos mis inventos.
+A06.0009 [Sparkla] | ¡Mi día a día no tiene ninguna limitación!
+A06.0010 [Sparkla] | ¡Eso sí, la voy a visitar muchísimo más seguido!
+A06.0011 [Sparkla] | Ella está súper fascinada con mi pierna.
+A06.0012 [Sparkla] | ¡Y yo estoy igual de fascinada con su ojo!
+A06.0013 [Tú] | ...
+A06.0014 [Tú] | ¡¡Eso suena muy escalofriante!!
+
+## Conversación A07
+A07.0001 [Tú] | ¿?
+A07.0002 [Tú] | ¿Tú también presionaste el botón equivocado?
+A07.0003 [Sparkla] | Uf...
+A07.0004 [Sparkla] | Quizá no lo creas,
+A07.0005 [Sparkla] | pero esos dos últimos mensajes...
+A07.0006 [Sparkla] | ¡los mandó Pastel Jefe!
+A07.0007 [Sparkla] | Su módulo de reconocimiento de texto ya está oficialmente funcionando.
+A07.0008 [Sparkla] | Por fin tuve algo de tiempo libre estos días para terminarlo.
+A07.0009 [Sparkla] | ¡Pastel Jefe ya no es un robot analfabeto!
+A07.0010 [Tú] | Espera, ¿los robots pueden ser analfabetos?
+A07.0011 [Sparkla] | ¡Claro! ¡Mis inventos tienen que ser perfectos!
+A07.0012 [Sparkla] | ¡Me voy, hoy voy en racha!
+A07.0013 [Sparkla] | ¡Aprovecharé para instalarle a Pastel Jefe un reproductor de canciones de cuna!
+
+## Conversación A08
+A08.0001 [Sparkla] | ¡Recibí tu tarjeta de cumpleaños!
+A08.0002 [Sparkla] | ¡Gracias!
+A08.0003 [Tú] | ¡Ah, qué bien!
+A08.0004 [Tú] | El clima ha estado feo últimamente
+A08.0005 [Tú] | Me preocupaba que se retrasara
+A08.0006 [Sparkla] | No te preocupes.
+A08.0007 [Sparkla] | A partir de hoy, voy a intentar construir
+A08.0008 [Sparkla] | una paloma mensajera mecánica
+A08.0009 [Sparkla] | ¡que garantice la entrega a tiempo con CUALQUIER clima!
+A08.0010 [Tú] | Sí...
+A08.0011 [Tú] | La verdad, ni me lo imagino.
+A08.0012 [Sparkla] | ¡Me encanta inventar lo inimaginable!
+A08.0013 [Sparkla] | ¡Ya verás!
+A08.0014 [Sparkla] | ¡Quizá para tu próximo cumpleaños
+A08.0015 [Sparkla] | te llegue una paloma mecánica!
+
+## Conversación A09
+A09.0001 [Sparkla] | ¡Cargamento enorme de Artefactos hoy!
+A09.0002 [Opción] | ¿Qué tal lo hice como comandante?
+A09.0003 [Sparkla] | ¡Nos sacamos la lotería en esta salida!
+A09.0004 [Sparkla] | Con eso ya tengo todo un mes de Neo Solution resuelto.
+A09.0005 [Sparkla] | ¡Pero en serio, ni una palabra a Bloc!
+A09.0006 [Sparkla] | Voy a acaparar todo este lote para mis propios inventos.
+A09.0007 [Sparkla] | De ninguna manera lo voy a desperdiciar en sus encargos.
+A09.0008 [Tú] | Eh, ella acaba de escribirme
+A09.0009 [Tú] | Y más o menos ya se lo dije
+A09.0010 [Sparkla] | ¡¡¡Aaaaaaargh!!!
+A09.0011 [Sparkla] | ¡Maldición, no puedo creer que me hayan descubierto!
+
+## Conversación A10
+A10.0001 [Sparkla] | Mmm ♪ mm mm ♪
+A10.0002 [Sparkla] | ¡Esta melodía lleva toda la semana pegada en mi cabeza!
+A10.0003 [Tú] | Oh, esa me suena
+A10.0004 [Tú] | Parece una canción de cuna
+A10.0005 [Tú] | Muy relajante
+A10.0006 [Sparkla] | ¡¿Verdad?! Ese Disco es totalmente mi onda.
+A10.0007 [Tú] | Quédatelo, es tuyo.
+A10.0008 [Sparkla] | ¡Espera, ¿en serio?!
+A10.0009 [Sparkla] | Voy a asignar a Pastel Jefe para protegerlo.
+A10.0010 [Sparkla] | ¡Guardia de seguridad las 24 horas!
+A10.0011 [Tú] | Oye, deja que Pastel Jefe descanse de vez en cuando
+A10.0012 [Tú] | Ten compasión del pobre
+A10.0013 [Sparkla] | Es verdad. Me niego a convertirme en una jefa sin corazón como Bloc.

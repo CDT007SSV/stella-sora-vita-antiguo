@@ -1,0 +1,131 @@
+# Nova Times #01 · El frío de la hoja, el calor de tu mano · 1 · The Chill of the Blade, the Warmth of Your Grip (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Gentle Voice | Voz amable
+N:Peer Trekker A | Trekker compañero
+N:Peer Trekker B | Trekker compañero
+N:Tender Voice | Voz tierna
+N:Worried Trekker | Trekker preocupado
+N:avg1_144 | Chitose
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1242 | Chitose
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_973 | Trekker de paso
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El frío de la hoja, el calor de tu mano (Parte I)
+0003 [Intro] | Tras incontables pruebas, el viaje de entrenamiento de Chitose ha comenzado. Sin embargo, su aura, que debía ser prueba de su maestría, empieza a desbordarse sin control...
+0004 [Narración] | Un arroyo murmuraba, entretejido con el canto de los insectos.
+0005 [Narración] | Una brisa fresca me rozó las mejillas.
+0006 [???] | (Apuntar... Concentrarme...)
+0007 [Narración] | En un instante, mi hoja cortó limpiamente el tallo de bambú que tenía enfrente.
+0008 [Narración] | Con un suave chapoteo, la punta cortada cayó al estanque.
+0009 [Chitose] | ¿Esto será suficiente, Maestro?
+0010 [Narración] | No hubo respuesta, pero miré al aire vacío y pregunté de todos modos. Una vieja costumbre.
+0011 [Chitose] | (Maestro... ¿me está observando?)
+0012 [Narración] | Desde niña me enseñaron a convertirme en una «espada útil».
+0013 [Narración] | Esa es mi tarea, mi misión... mi razón de ser.
+0014 [Narración] | Desde que tengo memoria, había vivido entre los muros de esta gran mansión.
+0015 [Narración] | Y aun así... nunca estuve realmente sola.
+0016 [Chitose] | ¿Madre? ¿Padre?
+0017 [Narración] | Se oían voces amables detrás del muro.
+0018 [Narración] | Aunque nunca nos habíamos visto, siempre me habían cuidado así, como una presencia reconfortante.
+0019 [Gentle Voice] | Nosotros... siempre estaremos aquí para protegerte, Chitose.
+0020 [Gentle Voice] | Solo dedícate al entrenamiento de tu Maestro y te convertirás en una «espada útil».
+0021 [Narración] | Así viví mi vida, guiada por ellos desde el otro lado del muro.
+0022 [Narración] | Mi vida tranquila de entrenamiento continuó hasta el día en que por fin fui forjada como una hoja verdaderamente afilada.
+0023 [Chitose] | (Tantos años... y por fin llegó el momento.)
+0024 [Chitose] | (La lección final... por fin lo logré. ¿De verdad puedo convertirme ya en la hoja?)
+0025 [Narración] | Más allá de blandir una espada o dominar el flujo del agua, mi entrenamiento más importante—
+0026 [Narración] | —había sido forjar mi magia hasta convertirla en un filo.
+0027 [Narración] | El poder de cortar solo con magia concentrada.
+0028 [Narración] | El momento en que dominé esta «espada sin hoja» fue el momento en que me convertí en la hoja misma.
+0029 [Chitose] | (Es hora. Debería volver.)
+0030 [Tender Voice] | Chitose... ¿cómo va tu entrenamiento de la lección final?
+0031 [Chitose] | Yo...
+0032 [Chitose] | Yo... creo que estoy lista.
+0033 [Narración] | Me quedé sola sobre el suelo vacío del dojo.
+0034 [Narración] | Como siempre, la voz firme de mi Maestro me guiaba desde detrás del biombo.
+0035 [Narración] | Colocaron una manzana frente a mí.
+0036 [Narración] | Partir esta manzana limpiamente por la mitad sin usar una espada...
+0037 [Narración] | Esa era mi prueba final.
+0038 [Chitose] | (... Concentrar mi aura... partirla.)
+0039 [Chitose] | (... Afirmar mi postura. Contener la respiración. Concentrarme...)
+0040 [Narración] | Un agudo pulso de energía mágica desgarró el aire. La manzana cayó con un golpe seco.
+0041 [Chitose] | (¿Lo logré...?)
+0042 [Narración] | Rodó hasta detenerse a mis pies. Por una vez, el corte era perfecto—
+0043 [Narración] | Ni irregular, ni torcido, ni aplastado. Todo mi entrenamiento... por fin había dado fruto.
+0044 [Narración] | Lo has hecho bien, Chitose.
+0045 [Chitose] | Me honra. Todo mi éxito se lo debo a su guía, Maestro.
+0046 [Tender Voice] | Y con eso, ahora eres una hoja capaz de valerse por sí misma. Tu entrenamiento aquí ha terminado.
+0047 [Chitose] | ¿Terminado...?
+0048 [Tender Voice] | Tu siguiente prueba es encontrar a tu portador. Ve. Tu viaje comienza ahora.
+0049 [Chitose] | ¿Un portador... un viaje...?
+0050 [Chitose] | Maestro, ¿a qué se refiere...?
+0051 [Narración] | Después de eso, por más que insistí, solo recibí silencio.
+0052 [Chitose] | (¡...!)
+0053 [Passing Trekker] | ¡Oye! ¡Fíjate por dónde vas! ¿Piensas irte así nada más?
+0054 [Chitose] | Mis disculpas—
+0055 [Passing Trekker] | ¿Qué dijiste? ¡Habla más fuerte! ¡No te oigo!==W== Oye, espera. ¡Mi hombrera está rota! ¡Me la vas a pagar!
+0056 [Chitose] | (Volví a enojar a alguien... ¿Cuántas veces van ya?)
+0057 [Chitose] | (Pero me he esforzado tanto... por contener este poder.)
+0058 [Narración] | No fue sino hasta bien avanzado mi viaje que me di cuenta de que mi entrenamiento para controlar el aura estaba lejos de ser suficiente.
+0059 [Narración] | Solo había logrado hacerlo en total soledad. Pero aquí, en el camino, había gente por todas partes...
+0060 [Chitose] | (¿Pierdo el control de mi aura cuando hay otras personas cerca? Mi entrenamiento está lejos de estar completo...)
+0061 [Passing Trekker] | ¡Oye, te estoy hablando a ti! ¡Paga!
+0062 [Worried Trekker] | —¡Ya, no te la puedes llevar! ¡Olvídalo, vámonos!
+0063 [Narración] | Los vi alejarse apresurados y luego mi mirada se dirigió a la torre resplandeciente en el horizonte.
+0064 [Chitose] | El Monolito... ¿Habrá alguien poderoso ahí?
+0065 [Peer Trekker] | ¡Agh—! ¡Ay!==W== Mi mano... ¡¿cómo se cortó?!
+0066 [Peer Trekker] | ¡A mí también—! ¡Mi arma está rota! ¡¿Tu hoja me volvió a pegar?!
+0067 [Chitose] | ... Perdónenme. La culpa es mía.
+0068 [Chitose] | (... Qué torpe. Esto es indigno de mí...)
+0069 [Chitose] | ... Debo... apartarme del grupo.
+0070 [Peer Trekker] | ¿Eh? ¡No fue para tanto! No habríamos ganado esa última pelea sin ti.
+0071 [Peer Trekker] | ¿Y el Artefacto? ¿Vas a renunciar a la recompensa y al botín así nada más?
+0072 [Chitose] | Sí. No busco Artefactos ni recompensas,==W== sino un portador.
+0073 [Narración] | Me di la vuelta y me alejé con la frente en alto, rumbo al siguiente lugar donde podría estar mi portador.
+0074 [Narración] | Los libros que había leído decían que, una vez que encontrara a un portador digno, todo encajaría.
+0075 [Chitose] | ... Al menos cuando estoy sola, debo recuperar el control de mi aura...
+0076 [Chitose] | «Maestro... Madre... Padre... ¿me están observando?»
+0077 [Narración] | Se lo pregunté a mis tres hojas. Pero el día que partí, volvieron a ser simples espadas—así que, como siempre, solo recibí silencio.
+0078 [Narración] | Las miré, pero solo hubo silencio.
+0079 [Narración] | Me concentré en la manzana que tenía enfrente y, con un respiro, liberé mi aura.
+0080 [Narración] | Pero la manzana no se partió en dos mitades como en mi prueba final.
+0081 [Chitose] | He vuelto a fallar... ¿Por qué ya no funciona?
+0082 [Narración] | ¿Cuándo empezó a pasar esto?
+0083 [Narración] | ¿Fue un error dejar la mansión? ¿Estuvo mal estar rodeada de gente? No, pero... ¿cómo voy a encontrar a mi portador...?
+0084 [Narración] | Duda, arrepentimiento, tristeza. El caos de todo ello inunda mi mente y me quita el aliento.
+0085 [Chitose] | Si esto sigue así... no seré más que una hoja... indigna y sin filo.
+0086 [Chitose] | Mi entrenamiento... Mi viaje...
+0087 [Chitose] | Para convertirme en una hoja verdaderamente afilada...
+0088 [Narración] | Era como hundirme en aguas sin fondo... o quizá había vuelto a la orilla de aquel estanque.
+0089 [Narración] | Al menos ahí me sentía segura. Tal vez sería mejor simplemente regresar...
+0090 [Chitose] | Maestro, ¿qué debo hacer...?
+0091 [Chitose] | Por favor, respóndame... Maestro.
+0092 [Narración] | Las lágrimas me nublaron la vista. Cuando desperté, un hondo dolor de hambre se había instalado en mis huesos.
+0093 [Chitose] | ... Qué pesadilla.
+0094 [Narración] | Aún le daba vueltas a aquella manzana destrozada de mi sueño, pero un aroma me devolvió a la realidad.
+0095 [Chitose] | (¿Qué es esto—?!)
+0096 [Narración] | Sin duda, alguien había dejado comida a mi lado. Como si me invitara a comer.
+0097 [Chitose] | (... ¿Quién la dejó? ¿Ya se habrán ido?)
+0098 [Narración] | Miré a lo lejos y vi unas pequeñas figuras conversando; luego desaparecieron por un sendero de este nivel del canal.
+0099 [Narración] | El hambre me carcomía y mis manos se movieron solas, estirándose hacia la comida...
+0100 [Chitose] | Entonces... lo haré.==W== Mmm—==W==¡Es increíble...!
+0101 [Chitose] | Soy una hoja... No debería tener deseos tan mundanos... y sin embargo.
+0102 [Chitose] | Este pan y este pescado... ¿Cómo es que nunca me di cuenta de lo sabrosos que son?
+0103 [Narración] | Seguramente el Maestro no aprobaría lo que hago ahora.
+0104 [Narración] | Lo sabía, y aun así... no podía dejar de llenarme la boca de comida.
+0105 [Narración] | Un cálido consuelo se extendió desde mi estómago hasta mi pecho. Por fin sentí que mi filo regresaba: volvía a estar afilada.
+0106 [Chitose] | ... Una pequeña amabilidad debe pagarse mil veces.==W== Estoy obligada por honor a saldar esta deuda.
+0107 [Narración] | Recordando el dicho, reuní mis pertenencias y fijé la mirada en el sendero por donde habían desaparecido.
+0108 [Chitose] | Hacía mucho que mi propósito no se sentía tan claro.
+0109 [Chitose] | Debo seguirle el paso a quien me salvó la vida.
+0110 [Chitose] | (... ¿Serás tú quien me empuñe?)

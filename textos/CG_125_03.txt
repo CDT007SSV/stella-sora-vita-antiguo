@@ -1,0 +1,99 @@
+# Historia de Freesia · 3 · A Bonding Duel (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_125 | Freesia
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un duelo de camaradería (Parte III)
+0003 [Intro] | Se crean nuevos recuerdos y la joven, atormentada por su pasado, encuentra su roca.
+0004 [Narración] | Por la tarde terminamos de entregar las demás cartas una por una y luego descansamos en una banca junto al camino, cerca de Post Haste.
+0005 [Freesia] | Estos son para usted, Jefe.
+0006 [Freesia] | No sabía qué tipo de bocadillos le gustan, así que traje un poco de todo.
+0007 [Freesia] | Perdone por hoy. Surgieron muchas cosas inesperadas.
+0008 [Tú] | Para nada. Estuviste increíble, Freesia.
+0009 [Tú] | Cuando dijeron que se iban a batir en duelo, me preocupé en serio.
+0010 [Freesia] | El duelo era la solución más sencilla dada la situación.
+0011 [Freesia] | Él fue quien me desafió, yo solo acepté.
+0012 [Tú] | Por cierto, Aoi y la tía Helen también mencionaron «duelos». ¿Qué son exactamente?
+0013 [Freesia] | Aoi faltó a clase para pasar el rato con su hermana, y justo las sorprendí.
+0014 [Freesia] | Se negaron a volver a clase, así que las reté a un duelo de «Campeonato de Canicas».
+0015 [Opción] | ¡¿Campeonato de Canicas?!
+0016 [Freesia] | Sí. Gané limpiamente y me prometieron que nunca volverían a faltar a clase.
+0017 [Freesia] | Y yo les prometí que, mientras se portaran bien, podíamos pasar el rato y volver a jugar.
+0018 [Tú] | Así que por eso tenía tantas ganas de otro duelo contigo... ==W==¿Y el duelo que mencionó la tía Helen?
+0019 [Freesia] | Ese fue con un jabalí gigante.
+0020 [Opción] | ¡¿Un jabalí?!
+0021 [Freesia] | Probablemente salió corriendo del bosque cercano y se coló en el patio de la tía Helen.
+0022 [Freesia] | Esperaba poder hablar con él, pero se negó a entrar en razón.
+0023 [Freesia] | Así que lo reté a un duelo. Perdió y lo arrastré de vuelta al bosque.
+0024 [Tú] | No puedo creer que derrotaras a un jabalí salvaje tan fácilmente...
+0025 [Tú] | Con razón todos te lo agradecen. Eres de gran ayuda para ellos.
+0026 [Tú] | Cuando Aoi mencionó el duelo hace rato, te viste muy nerviosa. Pensé que era algún gran secreto.
+0027 [Freesia] | … P-perdone, no era mi intención ocultárselo.
+0028 [Freesia] | Me preocupaba que, al oír hablar del duelo, pensara mal de mí...==W== o de Post Haste.
+0029 [Freesia] | La mayoría de la gente, cuando lo oye por primera vez, piensa que es alguna práctica bárbara.
+0030 [Tú] | Yo mismo he oído algo de la antigua tradición del «Juicio por duelo». Resolver las cosas así es bastante efectivo, en realidad.
+0031 [Tú] | Además, tú no te bates en duelo por fines egoístas. Lo haces para ayudar a la gente.
+0032 [Freesia] | Aprecio su comprensión, Jefe.
+0033 [Freesia] | Aun así, fue terriblemente indebido de mi parte batirme en duelo frente a usted.
+0034 [Freesia] | Cuando estoy en un duelo... me han dicho... que puedo dar bastante miedo.
+0035 [Tú] | Aunque dijera que no pienso eso, Freesia probablemente supondría que solo intento hacerla sentir mejor.
+0036 [Tú] | ¿Cómo puedo convencerla?
+0037 [Tú] | ...==W== Ah, solo queda un bocadillo.
+0038 [Tú] | Este te lo dejo a ti, Freesia.
+0039 [Freesia] | No... Por favor, Jefe, usted debería ser quien lo disfrute.
+0040 [Tú] | Una divergencia de opiniones... ==W==Necesitamos una forma de resolverla.
+0041 [Tú] | ¡Batámonos en duelo, Freesia!
+0042 [Tú] | El ganador decide quién se queda con el último bocadillo.
+0043 [Tú] | El duelo será un juego de canicas, con ambos de total acuerdo.
+0044 [Tú] | Déjame ver qué tan buena eres, Freesia.
+0045 [Freesia] | Muy bien, Jefe. Daré lo mejor de mí.
+0046 [Freesia] | ¿Está lloviendo?
+0047 [Tú] | Es solo una llovizna. Debería parar pronto.
+0048 [Tú] | ¿Quieres volver primero y batirnos en duelo después de la lluvia?
+0049 [Freesia] | No, gracias.==W== Un duelo bajo la lluvia es más emocionante.
+0050 [Tú] | Uf... ==W==Queda una canica...
+0051 [Freesia] | Venga, Jefe. Este es nuestro enfrentamiento final.
+0052 [Tú] | Sí. No te lo voy a poner fácil.
+0053 [Freesia] | Entonces haré la cuenta regresiva.
+0054 [Freesia] | Tres...==W== Dos...==W== ¡Uno!
+0055 [Tú] | ¡Mi último tiro! ¡Allá va!
+0056 [Narración] | La canica pasa rasante y veloz, trazando un arco perfecto mientras corre directo hacia su objetivo.
+0057 [Tú] | ¡Dio en el blanco!
+0058 [Freesia] | Felicidades por ganar este duelo, ==W==Jefe.
+0059 [Tú] | Gracias por el desafío. Oye, no te ves tan distinta cuando te bates en duelo, Freesia.
+0060 [Tú] | Solo un poco más seria de lo habitual.
+0061 [Freesia] | Jefe, sé lo que intenta hacer. No tenía por qué.
+0062 [Freesia] | Para usted nunca se trató de ganar el duelo, ¿verdad?
+0063 [Tú] | Lo notaste, ¿eh?
+0064 [Tú] | Pero te juro que nunca te subestimé. Lo di todo.
+0065 [Freesia] | Igual yo. Fue un honor batirme en duelo con usted.
+0066 [Tú] | Como la decisión es mía, quiero que te quedes con el último bocadillo.
+0067 [Freesia] | Y, como se acordó, lo aceptaré.
+0068 [Freesia] | Junto con su amabilidad.
+0069 [Narración] | Mientras Freesia sube a cambiarse, me siento solo en el sofá de la sala.
+0070 [Tú] | Brr, estoy helado, empapado hasta los huesos. Supongo que tendré que esperar a que se seque mi ropa.
+0071 [Tú] | Me está dando algo de sueño de tanto correr todo el día...
+0072 [Freesia] | Jefe...
+0073 [Freesia] | Jefe,==W== por favor despierte.==W== Le traje ropa seca.==W== Debería cambiarse esa ropa mojada.
+0074 [Freesia] | Con este clima,==W== podría resfriarse fácilmente si se queda con la ropa empapada.
+0075 [Opción] | Ah, no hace falta... No se preocupe por mí
+0076 [Freesia] | Le agradezco mucho su ayuda de hoy.==W== Me sentiría fatal==W== si usted enfermara por mi culpa.==W==
+0077 [Opción] | La verdad no hice gran cosa
+0078 [Freesia] | Siempre estuvo ahí para mí hoy,==W== repartiendo cartas, apoyando mi duelo,==W== y jugando canicas conmigo.
+0079 [Freesia] | Aun así...==W== sinceramente no esperaba ==W==que se metiera en esos «juegos infantiles» con tanto entusiasmo. ==W==¡Y además jugaba muy bien!==W==
+0080 [Opción] | La verdad me divertí
+0081 [Opción] | Más bien, yo soy quien debería darte las gracias
+0082 [Freesia] | Ah, gracias.==W== Pero... parece que la lluvia arrecia, ¿no es así?
+0083 [Freesia] | La verdad es que...==W== no tengo muy buenos recuerdos de los días lluviosos. ==W==Solo con oírla siento un peso en el corazón.==W==
+0084 [Opción] | ¿Ahora también?
+0085 [Opción] | ¿La lluvia todavía te molesta?
+0086 [Freesia] | Ya no,==W== porque he creado un nuevo recuerdo.==W== A partir de mañana,==W== cuando vuelva a llover,==W== lo primero que pensaré...==W== será en esta noche con usted:==W== firme e inquebrantable==W== en mi corazón.
+0087 [Freesia] | Si logro eso, quién sabe. ==W==Quizá hasta aprenda a querer los días de lluvia. ==W==Así que, otra vez... ==W==Gracias.
+0088 [Opción] | El gusto fue mí... ¡Achú!
+0089 [Freesia] | Vaya. ==W==Tiene el pelo todo húmedo. ==W====W==Quédese quieto, por favor, y déjeme secárselo.
+0090 [Narración] | La lluvia no paró esa noche.==B== Azotaba y el viento aullaba afuera, pero Post Haste se mantuvo firme, ofreciendo calidez y refugio a Freesia y a mí.

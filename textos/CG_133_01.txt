@@ -1,0 +1,109 @@
+# Historia de Nazuka · 1 · Whispers in the Wind (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Trekker | Trekker ansioso
+N:Energetic Trekker | Trekker enérgico
+N:Flustered Trekker | Trekker nervioso
+N:Skewer Vendor | Vendedor de brochetas
+N:Souvenir Vendor | Vendedora de souvenirs
+N:avg1_133 | Nazuka
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Susurros en el viento (Parte I)
+0003 [Intro] | El significado del regalo del molinete es un secreto que jamás se contará.
+0004 [Narración] | Había quedado en patrullar con Nazuka el mercado cerca del campamento de Trekkers. Pero cuando llegó la hora, ella aún no aparecía...
+0005 [Tú] | No me equivoqué de hora ni de lugar, ¿verdad?
+0006 [Tú] | Es raro que Nazuka llegue tarde. No es propio de ella...==W== Ah, ahí viene.
+0007 [Nazuka] | Perdón por la tardanza. El trabajo se complicó muchísimo.
+0008 [Tú] | No te preocupes, no llevo mucho esperando. Primero recupera el aliento.
+0009 [Nazuka] | Gracias... Uf...==W== De verdad lo siento.
+0010 [Tú] | No te angusties. Aprecio el gesto.
+0011 [Nazuka] | Sí... Aun así...
+0012 [Nazuka] | Déjame compensarte, ¿sí? Por ejemplo...==W== ¿Hay algo que quieras, Jefe?
+0013 [Tú] | Mmm, ya que preguntas...
+0014 [Nazuka] | Eh...
+0015 [Tú] | Justo tengo un poco de hambre. ¿Y si comemos algo juntos?
+0016 [Nazuka] | Ahhh...
+0017 [Nazuka] | ¡Q-quizá después! ¡Primero hagamos la patrulla!
+0018 [Nazuka] | El objetivo de hoy es revisar si hay alguien sospechoso por aquí.
+0019 [Energetic Trekker] | ¡Lady Nazuka! ¡Gracias por su arduo trabajo!
+0020 [Nazuka] | Igualmente. ¿Cómo va el campamento?
+0021 [Energetic Trekker] | Todo normal hasta ahora.
+0022 [Nazuka] | Bien. Avísame de inmediato si pasa algo.
+0023 [Skewer Vendor] | ¡Oye, pero si es Nazuka! ¡Ven a probar esto! Es un agradecimiento por todo lo que haces por el campamento. Tu amigo también puede probar.
+0024 [Nazuka] | Gracias, qué amable. Pero estamos patrullando ahora. Quizá después...
+0025 [Skewer Vendor] | Entendido. Pero si tardan mucho, puede que ya no quede nada.
+0026 [Tú] | Pues, ya que es tan amable de ofrecer, probaré solo un poquito.
+0027 [Nazuka] | Sabes que seguimos de servicio, ¿verdad? Comer mientras patrullamos es un poco...
+0028 [Tú] | Como dicen, no se puede trabajar con el estómago vacío. Y menos si a tu lado suena el estómago de alguien sin parar.
+0029 [Tú] | Además, esto cuenta como tu compensación, ¿vale? Gracias a ti, comí esto gratis.
+0030 [Nazuka] | Perdón, ¿podría darme una brocheta más?
+0031 [Skewer Vendor] | ¡Claro! Come todo lo que quieras. Va por mi cuenta. La carne de hoy es de primera.
+0032 [Nazuka] | Bueno, entonces con gusto...
+0033 [Nazuka] | Esto está... ==W==¡increíble!
+0034 [Skewer Vendor] | ¡Jajaja! ¡Te lo dije! ¡Disfrútala!
+0035 [Nazuka] | En realidad... sí tengo un poco de hambre. Me concentro mejor con el estómago lleno. Muchísimas gracias.
+0036 [Tú] | Claro. Después de todo, todos contamos contigo en emergencias, Nazuka.
+0037 [Souvenir Vendor] | ¡Lady Nazuka!==W== ¿Será que viene con su pareja?==W== Vaya, ¿están en una cita?
+0038 [Nazuka] | ¿Eh? No, no...==W== ==SEX1== solo me está ayudando con la patrulla.
+0039 [Souvenir Vendor] | ¡Jaja, no hace falta que lo oculte! Ah, por cierto, ¿qué le parece esto?
+0040 [Tú] | Esto es...==W== ¿Un molinete?
+0041 [Souvenir Vendor] | Así es. ¡Es el símbolo de Philae! Últimamente es un recuerdo muy popular entre las parejas, y dicen que tiene un significado hermoso...
+0042 [Nazuka] | Ya le dije que no tenemos ese tipo de relación.
+0043 [Souvenir Vendor] | Pero se ven perfectos juntos...==W== Entonces, ¿qué tal si lo lleva como regalo para acercarse aún más?
+0044 [Nazuka] | Estoy a punto de enojarme con usted.
+0045 [Souvenir Vendor] | ¡Jaja, perdón, perdón! Solo pensé que sería lindo que Lady Nazuka nos hiciera algo de publicidad gratis. En fin~
+0046 [Nazuka] | Eso suponía.==W== ==PLAYER_NAME==, vámonos.
+0047 [Tú] | Vale...
+0048 [Tú] | ¿Fue mi imaginación, o interrumpió a esa vendedora a propósito?
+0049 [Narración] | Unos minutos antes.
+0050 [Narración] | Para Nazuka, hoy ha sido un día difícil para mantener la calma.
+0051 [Nazuka] | Llegar tarde ya era malo, y ahora además le suenan las tripas...==W== Qué descuido.
+0052 [Souvenir Vendor] | ¡Lady Nazuka!==W== ¿Será que viene con su pareja?==W== Vaya, ¿están en una cita?
+0053 [Nazuka] | ¿Eh? No, no...==W== ==SEX1== solo me está ayudando con la patrulla.
+0054 [Nazuka] | ¿Una cita? B-bueno, sí quedé con ==SEX4== aquí y comimos brochetas juntos...==W== ¿De verdad la gente piensa que parecemos pareja?
+0055 [Souvenir Vendor] | ¡Jaja, no hace falta que lo oculte! Ah, por cierto, ¿qué le parece esto?
+0056 [Nazuka] | ¿Qué es esto?
+0057 [1] | Esto es...==W== ¿Un molinete?
+0058 [Souvenir Vendor] | Así es. ¡Es el símbolo de Philae! Últimamente es un recuerdo muy popular entre las parejas, y dicen que tiene un significado hermoso...
+0059 [Nazuka] | Es esa vieja tradición local, ¿verdad?==W== El molinete gira con el viento. Intercambiarlos con alguien significa prometer que se quedarán juntos... Lo que quiere decir...
+0060 [Nazuka] | Hasta que la muerte... nos separe.
+0061 [Nazuka] | No... De ninguna manera puedo dejar que ==PLAYER_NAME== se entere de esto.
+0062 [Nazuka] | Ya le dije que no tenemos ese tipo de relación.
+0063 [Souvenir Vendor] | Pero se ven perfectos juntos...==W== Entonces, ¿qué tal si lo lleva como regalo para acercarse aún más?
+0064 [Nazuka] | ¿Perfectos juntos? ¿Yo y ==PLAYER_NAME==? ¿De verdad...?==W== ¡No, basta, Nazuka! ¡Contrólate!
+0065 [Nazuka] | Estoy a punto de enojarme con usted.
+0066 [Souvenir Vendor] | ¡Jaja, perdón, perdón! Solo pensé que sería lindo que Lady Nazuka nos hiciera algo de publicidad gratis. En fin~
+0067 [Nazuka] | Eso suponía.==W== ==PLAYER_NAME==, vámonos.
+0068 [Nazuka] | Entonces, ¿todo eso era pura labia de ventas... o acaso...?
+0069 [Tú] | ¿Por qué Nazuka se quedó callada de repente...?
+0070 [Tú] | Lo sabía... Ese molinete de verdad le llamó la atención...
+0071 [Tú] | Nazuka, tengo curiosidad...
+0072 [Nazuka] | ¿Mmm?
+0073 [Tú] | ¿Interrumpiste a esa vendedora a propósito?
+0074 [Tú] | ¿Esos molinetes tienen algún significado especial?
+0075 [Nazuka] | Eh... En realidad, eso es...
+0076 [Tú] | ¿!?
+0077 [Flustered Trekker] | ¿Qué fue ese ruido? ¿Fue una explosión en algún lado?
+0078 [Anxious Trekker] | ¿¡Una explosión!? ¿D-deberíamos huir?
+0079 [Flustered Trekker] | ¡Miren! ¡Sale humo de la entrada del campamento!
+0080 [Tú] | ¿Qué está pasando...?
+0081 [Nazuka] | Voy a revisar. ==PLAYER_NAME==, por favor quédate aquí y espérame.
+0082 [Tú] | ¡Espera! ¡Yo también voy!==W== Ah, ya se fue. Qué bueno tener magia.
+0083 [Tú] | Bah. Supongo que iré caminando.
+0084 [Tú] | ¿Dónde está Nazuka?
+0085 [Nazuka] | Jefe, igual me seguiste.
+0086 [Tú] | Dije que patrullaría contigo hoy. No te dejaré hacer esto sola.
+0087 [Nazuka] | Tienes razón. Nunca eres de los que se quedan mirando.
+0088 [Tú] | ¿Descubriste qué causó la explosión?
+0089 [Nazuka] | Alguien intentó atacar el mercado. Iban a irrumpir desde esa dirección. Por suerte, nadie resultó herido.==W== Pero para cuando llegué, los culpables ya habían huido.
+0090 [Tú] | Parece que este ataque estaba planeado de antemano.
+0091 [Nazuka] | Intentaron alterar la paz de este campamento... Y no dejaré que se salgan con la suya.
+0092 [Narración] | Nazuka miró a lo lejos. Sus ojos ardían de determinación.

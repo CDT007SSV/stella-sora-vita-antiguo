@@ -1,0 +1,168 @@
+# Capítulo 4 · Más allá del sueño · 7 · Una lluvia que sabe leer el ambiente
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Trekker | Trekker enojado
+N:Chatty Passerby | Transeúnte parlanchín
+N:Curious Trekker | Trekker curioso
+N:Withdrawn Trekker | Trekker retraído
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Una lluvia que sabe leer el ambiente
+0003 [Intro] | Al darse cuenta de que te había causado problemas, Nazuka se adentró en la lluvia. No puedes detener la lluvia, pero sí puedes sostenerle un paraguas. Hay palabras que nunca es tarde para decir.
+0004 [Lugar y hora] | 10:00, 3.º del mes de Tonitrua, afueras de Philae, antigua Casa de los Trekkers
+0005 [Noya] | Escuchen. Afuera ya se calmó todo.
+0006 [Nazuna] | Ya era hora de que esos idiotas se dieran cuenta de lo estúpidos que estaban siendo, ¿no?
+0007 [Kaede] | Todos estaban... muy furiosos.
+0008 [Tú] | Entiendo de dónde viene su enojo. Después de todo, para ellos somos la razón por la que fracasó la primera expedición.
+0009 [Iris] | Jefe, los Trekkers que nos rodeaban se retiraron. Van corriendo hacia el campamento.
+0010 [Nazuna] | ¡Rayos! ¿Nos acosan y luego simplemente se largan?==W== ¡Fuyuka, Kaede, vamos tras ellos!
+0011 [Fuyuka] | ¡E-entendido!
+0012 [Lugar y hora] | 10:20, 3.º del mes de Tonitrua, afueras de Philae, linde del bosque
+0013 [Withdrawn Trekker] | Váyanse al diablo... ¡Suéltenme!==W== ¿Trekkers volviéndose contra los suyos? ¡Tienen que estar bajo el control del Jefe!
+0014 [Nazuna] | ¿Eh?==W== Tú no sabes nada del Jefe, así que deja de decir tonterías, ¿quieres?
+0015 [Withdrawn Trekker] | ¡No soy el único que lo dice! Y además...==W== ¡ustedes son la razón por la que fracasó la primera cacería!
+0016 [Nazuna] | Esto es como hablarle a la pared... Ya te dije que...
+0017 [Kaede] | Eso no son más que rumores.
+0018 [Withdrawn Trekker] | ¿Rumores? ¡Nazuka misma lo admitió! Dijo que ella fue la que hizo que aniquilaran a todo el escuadrón.
+0019 [Tú] | ¿Qué acabas de decir?
+0020 [Nazuna] | ¡Espera, un momento...!==W== ¿Qué fue exactamente lo que admitió Nazuka?
+0021 [Withdrawn Trekker] | ¿No se los acabo de decir? ¡E-ella confesó! ¡Dijo que la primera cacería se arruinó por su culpa! ¡Ahorita, ahorita mismo, en la plaza del campamento! ¡Ahora todo el lugar es un caos!
+0022 [Lugar y hora] | 10:30, 3.º del mes de Tonitrua, afueras de Philae, campamento de Trekkers
+0023 [Narración] | Para cuando llegamos al campamento, el lugar es un desastre total.
+0024 [Noya] | Piedras, huevos, astas de bandera rotas... ¿Qué pasó aquí?
+0025 [Kaede] | Nazuka... Espero que esté bien.
+0026 [Iris] | Disculpe, ¿podría decirnos qué pasó?
+0027 [Angry Trekker] | ¿Qué? ¿No se enteraron de lo de la asesina?==W== Hmph. Debimos estar ciegos para llamar heroína a ese monstruo.
+0028 [Amber] | Monstruo... heroína...==W== ¿Nazuka?
+0029 [Angry Trekker] | No digas su nombre. Me da asco. Solo era una «heroína» porque nuestros sacrificios la encumbraron. Llegó a la cima pisoteando a todos los demás.
+0030 [Angry Trekker] | Dejar morir a sus propios compañeros solo para acaparar la recompensa... ¿Quién podría perdonar algo así?
+0031 [Angry Trekker] | Je... Pensar que el nuevo escuadrón no era más que otra herramienta para esa canalla... Todo mi esfuerzo parece un chiste.
+0032 [Nazuna] | Ah, ya veo. ¡Eres un idiota de primera!
+0033 [Angry Trekker] | ¿Qué dijiste?
+0034 [Nazuna] | Ay, perdón. Supongo que eres demasiado lento para entender lo que dice la gente.
+0035 [Nazuna] | ¡Dije que eres un idiota! ¡Tienes una cabeza sobre los hombros, pero no tienes idea de cómo usarla!
+0036 [Nazuna] | Eres del nuevo escuadrón, ¿no? Entonces piensa: ¿hubo una sola incursión en la que Nazuka no fuera al frente?
+0037 [Angry Trekker] | E-ella...==W== ella solo lo hacía por la re... recompensa. Es la más fuerte, así que montó todo ese teatro para engañarnos.
+0038 [Nazuna] | ¿Y tú solo te escondías en un lugar seguro y la veías arriesgar la vida?
+0039 [Angry Trekker] | ¡No! Obviamente planeaba usarnos como carnada, para mandarnos a morir cuando las cosas se pusieran críticas.
+0040 [Nazuna] | ¿Ah, sí? ¿Y eso alguna vez te pasó de verdad?
+0041 [Angry Trekker] | Maldición... ¡Esto no tiene sentido!==W== Entonces, ¿por qué diría algo así...?
+0042 [Nazuna] | Tú, dímelo ahora mismo. ¿Qué dijo exactamente Nazuka aquí y qué acaba de pasar?
+0043 [Angry Trekker] | Ella... Nazuka admitió que el fracaso de la primera cacería fue culpa suya. Y luego... la multitud no se pudo contener. Algunos empezaron a lanzar piedras, y unos hasta desenvainaron las espadas.
+0044 [Kaede] | ¡¿Desenvainaron las espadas?!
+0045 [Angry Trekker] | B-bueno, ¡solo gritamos, no llegamos a los golpes! De todos modos, no es como si pudiéramos ganarle...==W== ganarle a ella. Nadie se atrevió a atacarla de verdad.
+0046 [Angry Trekker] | Luego Nazuka desapareció hacia el fondo del campamento mientras todos le gritábamos. Dijo que... asumiría la responsabilidad y... desaparecería.
+0047 [Fuyuka] | Nazuka senpai...
+0048 [Nazuna] | ¡¿Qué?! ¡¿Y ni siquiera intentaste detenerla?!==W== Olvídalo...
+0049 [Nazuna] | ¡Jefe! ¡Todos! ¡Tenemos que encontrar a Nazuka, ya!
+0050 [Lugar y hora] | 11:00, 3.º del mes de Tonitrua, afueras de Philae, campamento de Trekkers
+0051 [Tú] | Está empezando a llover. Busqué por todo el campamento, pero ni rastro de Nazuka.
+0052 [Tú] | ¿Adónde pudo ir? ¿Al bosque, tal vez? Estos días se ha estado exigiendo demasiado.
+0053 [Tú] | Si se topa con el Jardín Parásito, estará en serios problemas...
+0054 [Nazuna] | ¡No está por ningún lado! ¡¿Adónde demonios se fue Nazuka?!
+0055 [Kaede] | Pero ¿por qué diría que fue culpa suya?
+0056 [Nazuna] | ¡Es tan estúpido! Lo único que hace es complicarles las cosas a todos.
+0057 [Fuyuka] | Sé, sé que no me corresponde meterme, pero...
+0058 [Fuyuka] | ¿Creen que Nazuka senpai dijo que era culpa suya solo para dejarnos fuera de esto?
+0059 [Fuyuka] | Si no lo hubiera hecho, seguro todos aquí nos habrían culpado a nosotras y al Jefe.
+0060 [Nazuna] | ¡¡Y eso es justo lo que tiene de estúpido!!
+0061 [Nazuna] | ¡La última vez hizo exactamente lo mismo! ¡Siempre toma estas grandes decisiones ella sola sin hablar con ninguna de nosotras!
+0062 [Nazuna] | ¿Quién se cree que es? ¿Una santa legendaria que salvó a Philae de lluvias interminables?
+0063 [Tú] | La leyenda...
+0064 [Nazuka] | No es un monstruo. Es una estatua. ¿Conoces la Santa Manca del Museo de Arte de Philae? Algo así, pero con tu cara.
+0065 [Nazuka] | Aun así, lo que admiro de la Santa Manca es su valor para hacer ese sacrificio.
+0066 [Tú] | Creo que sé adónde fue. ¿Qué tan bien conocen la ciudad?
+0067 [Nazuna] | No vamos mucho a la ciudad, pero somos de aquí, así que conocemos lo básico.
+0068 [Kaede] | Yo voy seguido a la ciudad por trabajo, así que me sé mover por ahí.
+0069 [Tú] | Hay un lugar que tengo que revisar. Voy a necesitar su ayuda.
+0070 [Tú] | Aunque podría estar equivocado. Noya, Iris, Amber, ¿me hacen el favor de buscar en el bosque?
+0071 [Amber] | Entendido.
+0072 [Iris] | Ahora mismo.
+0073 [Noya] | ¡Muy bien, en marcha! Nos llevamos a Loxy.
+0074 [Lugar y hora] | 12:10, 3.º del mes de Tonitrua, Philae, algún lugar del Distrito de Plata
+0075 [Nazuka] | ¿Adónde...==W== fui a parar?
+0076 [Chatty Passerby] | Oye, ¿te enteraste? Quitaron la estatua de la Santa Manca.
+0077 [Curious Trekker] | ¿Qué, en serio? Creí que esa estatua era superpopular.
+0078 [Chatty Passerby] | Es falsa. El Ojo de la Gracia acaba de publicar una nueva investigación que dice que tanto la leyenda como la estatua son falsificaciones que se inventaron mucho después.
+0079 [Curious Trekker] | Ah, entonces toda esa leyenda era pura ficción.
+0080 [Nazuka] | Una leyenda falsa...==W== Sí, supongo que de verdad soy una farsa.
+0081 [Nazuka] | De verdad creí que sacrificar algo valioso para mí lo arreglaría todo... y protegería a todos.
+0082 [Claire] | Si de verdad eres tan increíble, ¡¿por qué no despejas las nubes de encima y haces que pare esta lluvia?!
+0083 [Nazuka] | No soy más que...==W== una tonta santurrona que lastimó a sus propias amigas. Ni siquiera sé hacia dónde sopla el viento...
+0084 [Nazuka] | ¿Qué...==W== qué estoy haciendo...?
+0085 [Narración] | Acurrucada en una esquina de la calle, Nazuka se abraza las rodillas y cierra los ojos, dejando que el estruendo de la lluvia se lleve todo lo demás.
+0086 [Nazuka] | Así no tengo que obsesionarme con esa pregunta imposible.
+0087 [Nazuka] | ¿La lluvia...==W== paró?
+0088 [Opción] | Aquí estás.
+0089 [Nazuka] | Jefe... ¿Qué haces aquí?
+0090 [Opción] | Tú fuiste quien me habló de la Santa Manca.
+0091 [Opción] | Así que no es raro que esté aquí, ¿verdad?
+0092 [Nazuka] | Ah... Supongo que es cierto.
+0093 [Nazuka] | Perdón por hacerte venir hasta acá para nada. Quitaron la estatua.
+0094 [Opción] | Sí, oí a la gente hablar de eso.
+0095 [Opción] | La verdad, creo que es mejor que se olviden la historia y la estatua.
+0096 [Nazuka] | Hasta tú piensas eso...
+0097 [Tú] | Exacto. ¿Una verdadera santa sacrificaría sus propios brazos por una vaga esperanza o una promesa vacía?
+0098 [Tú] | Si de verdad existiera un dios malvado que exigiera un sacrificio para detener las lluvias y las inundaciones, una verdadera santa usaría sus propias manos para derribarlo.
+0099 [Tú] | Igual que lo que hiciste tú al pelear contra los Tres Grandes.
+0100 [Nazuka] | Los Tres... Grandes.==W== Jefe, Nazuna tenía razón. Tomé la decisión equivocada desde el principio, justo cuando fuimos a pelear contra ellos. Si no hubiera sido por eso...
+0101 [Tú] | ¿La decisión equivocada? Muy bien, entonces, si pudieras volver en el tiempo, ¿qué harías?
+0102 [Tú] | ¿Te habrías retirado antes que los demás?
+0103 [Nazuka] | No, no lo haría... Volvería a ganar tiempo para que todos se retiraran, una y otra vez. En ese momento, solo Claire y yo podíamos cubrirlos.
+0104 [Tú] | ¿Te habrías echado para atrás y huido sola de Philae cuando Cosecha Unida amenazó la seguridad de tus amigas?
+0105 [Nazuka] | No lo haría...==W== De ninguna manera.
+0106 [Tú] | Entonces, ¿habrías dejado que tus amigas manejaran esa información peligrosa, que Cosecha Unida las tuviera en la mira y ponerlas en peligro?
+0107 [Nazuka] | ¡Claro que no!
+0108 [Nazuka] | ...
+0109 [Nazuka] | Je. Ya entiendo lo que quieres decir, Jefe. Aunque pudiera volver, tomaría las mismas decisiones.
+0110 [Nazuka] | Intentas decirme que mi destino ya está escrito.
+0111 [Nazuka] | Supongo que eso me convierte en un caso perdido.
+0112 [Tú] | Una terca perdida, quizá.
+0113 [Tú] | Cuando no puedes despejar las nubes de lluvia, abre un paraguas. Y si no tienes uno, pídele ayuda a alguien que sí lo tenga.
+0114 [Tú] | Nazuka, no tiene nada de malo resolver las cosas por tu cuenta, pero no olvides que tus amigas también pueden ayudar.
+0115 [Nazuka] | Pero...
+0116 [Tú] | Sé que es difícil para ti.
+0117 [Tú] | Eres más que lo bastante fuerte, y tienes una bondad que protege a tu gremio. Y aun así alejas a tus amigas, creyendo que puedes con todo tú sola.
+0118 [Tú] | Para mí, eso no es diferente de la Santa Manca de la leyenda. Las dos le rezan a algún «dios malvado» pidiéndole piedad.
+0119 [Tú] | Tu plan quizá te saque de la crisis inmediata, pero solo te traerá más penurias más adelante.
+0120 [Nazuka] | Yo... No... Eso... eso no es...
+0121 [Nazuka] | Voy a formar un nuevo escuadrón de caza.==W== Y en él no hay lugar para los débiles. Adiós.
+0122 [Nazuka] | Todo lo que dices... ¡Lo entiendo todo! ¡Pero no tengo opción! ¡No hay otra manera!
+0123 [Nazuka] | Porque... Nazuna y Kaede son demasiado buenas. Si no hacía esto, insistirían en seguirme, pasara lo que pasara...
+0124 [Nazuka] | Pero si eso pasaba... Saldrían heridas. O peor, podría pasar algo terrible, irreversible.
+0125 [Nazuka] | Todos dicen que soy «fuerte»... Pero no soy nada fuerte...
+0126 [Nazuka] | No. Si ser fuerte significa quedarse de brazos cruzados mientras lastiman a las personas que te importan... entonces no quiero ser fuerte.
+0127 [Nazuka] | Pero... ¿por qué? Mis sentimientos eran sinceros... Entonces, ¿por qué hice...?
+0128 [Nazuka] | Yo... Ojalá pudiera volver en el tiempo y hacerlo todo de nuevo... Quiero disculparme por las cosas horribles que dije, decirles que lo siento... Solo quiero volver a estar con ellas...
+0129 [Nazuka] | Nunca quise separarme de las personas que quiero...
+0130 [Opción] | ¿Así es como te sientes de verdad?
+0131 [Nazuka] | Sí. Pero sé que el tiempo no se puede regresar. Fue mi decisión y tengo que vivir con ella.
+0132 [Opción] | Es cierto, el tiempo no se puede regresar.
+0133 [Opción] | Pero como no puedes rehacer el pasado, ¿por qué no miras hacia adelante?
+0134 [Nazuka] | ¿Eh? ¿Mirar hacia adelante...?
+0135 [Opción] | Nunca es tarde para decir lo que hay que decir.
+0136 [Fuyuka] | Eh... ¿senpai?
+0137 [Nazuka] | ¿Eh?==W== ¡¿F-Fuyuka?!
+0138 [Kaede] | Nazuka... Vamos a casa juntas.
+0139 [Nazuka] | Kaede, ¿tú también estás aquí?==W== Entonces...
+0140 [Nazuna] | ¡Nazuka, tonta!==W== ¡Si tenías algo que decir, debiste decirlo antes!
+0141 [Nazuka] | Nazuna... Ah, eh...==W== Lo que dije hace un momento, eso fue...
+0142 [Nazuna] | No hace falta que lo expliques. Ya sabía lo que sentías.==W== Así que...
+0143 [Nazuna] | Bienvenida de vuelta, Nazuka.
+0144 [Nazuka] | Sí...==W== Ya volví.
+0145 [Nazuka] | Déjenme decirlo como se debe: me alegra estar de vuelta con todas ustedes.
+0146 [Tú] | Por fin dejó de llover.

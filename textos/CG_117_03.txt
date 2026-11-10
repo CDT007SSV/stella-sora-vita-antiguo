@@ -1,0 +1,113 @@
+# Historia de Jinglin · 3 · Candy Hidden within the Promise (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Server A | Mesero
+N:Server B | Mesero
+N:avg1_117 | Jinglin
+N:avg3_100 | Sylar
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un dulce escondido en la promesa (Parte III)
+0003 [Intro] | «Gracias... por acompañar a alguien como yo～»
+0004 [Tú] | ¡Kong! ¡Y otro Kong!
+0005 [Tú] | ¡Jajaja...! ¡Mano ganadora desde el primer reparto! ¡El mahjong sí que es muy divertido!
+0006 [Jinglin] | ¡¿Q-qué?! ¡¿Ya ganó?! ¿Las fichas tienen marcas o algo? O... ¡¿tiene algún tipo de superpoder?!
+0007 [Tú] | Sí, creo que no se me dan mal este tipo de juegos...==W== ... Es broma, ¡todo es suerte de principiante!
+0008 [Jinglin] | Guau, quizá logre los Trece Huérfanos～
+0009 [Tú] | ¿Trece Huérfanos?
+0010 [Jinglin] | ¡Una mano súper impresionante y con muchísima suerte! Una de cada ficha, todas robadas y completadas justo a tiempo, ¡y listo, Trece Huérfanos! Como hoy tiene tanta suerte, ¡quizá le salga!
+0011 [Tú] | Suena dificilísimo...
+0012 [Jinglin] | Je, la verdad es que yo nunca lo he logrado, jamás.
+0013 [Jinglin] | Y además se ve tan bonito～==W== Algún día... ¡voy a lograr la mano más bonita de todas!
+0014 [Tú] | Ya veo...
+0015 [Tú] | Parece que Jinglin le tiene un cariño especial a la mano de los Trece Huérfanos.
+0016 [Tú] | Quizá siempre pierde porque muchas veces solo intenta jugar las fichas más bonitas...
+0017 [Tú] | Ahora que lo pienso, he oído que a los niños de Loong les encanta un juego de castigo llamado «Dibujar tortugas». ¿Y si hacemos esto más interesante?
+0018 [Jinglin] | Eh... Sí... Dibujar tortugas... ¿Hasta eso sabe, Jefe?
+0019 [Tú] | Jejeje... Es una larga historia, pero sí, así queda decidido.
+0020 [Tú] | ¡El ganador dibuja en la cara del perdedor! ¡Hace el juego mucho más emocionante y divertido!
+0021 [Jinglin] | ¡Qué idea tan infantil, Jefe! ¡Pintarse la cara es cosa de niños!
+0022 [Tú] | Aun mientras dice eso, su cola se mueve de la emoción...
+0023 [Tú] | ¿Seguro que la orgullosa gerente del Bistró Jing no le teme a este desafío?
+0024 [Jinglin] | Hmph～～==W== ¡No tengo miedo en absoluto!
+0025 [Narración] | Dos rondas después...
+0026 [Jinglin] | ...Bueno, trato es trato.
+0027 [Jinglin] | ¡Yo... estoy lista!
+0028 [Jinglin] | Solo no dibuje en el centro, por favor, por favor...
+0029 [Narración] | Jinglin cierra los ojos con fuerza, se aparta el flequillo y se inclina hacia mí.
+0030 [Narración] | Sus pestañas temblorosas delatan nerviosismo, pero aun así espera con paciencia mi movimiento.
+0031 [Tú] | ¿Qué tal un cerdito?
+0032 [Jinglin] | ¿U-un cerdito?? Ay... Pero trato es trato.
+0033 [Jinglin] | ¡Haga lo peor que pueda, Jefe!
+0034 [Tú] | Nada mal. Cada vez dibujo mejor.
+0035 [Tú] | Para las próximas rondas, puedo dibujar lo que quieras. Gatito, perrito o tortuguita, solo elige.
+0036 [Jinglin] | Ugh... ¡qué vergüenza! No quiero ninguno...
+0037 [Tú] | Entonces dejemos eso en pausa por ahora y pensemos en otro castigo～
+0038 [Jinglin] | Por mí está bien～==W== Vaya, ya es muy tarde. Si no me duermo pronto, afectará mi trabajo de mañana.
+0039 [Jinglin] | Lo siento, Jefe.==W== Me emocioné tanto que perdí por completo la noción del tiempo...
+0040 [Tú] | ¡Ah! No me di cuenta de que ya era tan tarde...
+0041 [Narración] | Jinglin recoge rápido la mesa de mahjong. Parece que este encargo también terminó bien.
+0042 [Tú] | Es que...
+0043 [Tú] | Tiene la cola toda enroscada. ¿Será que todavía no se ha divertido lo suficiente?
+0044 [Tú] | ...
+0045 [Tú] | El encargo era «asegurarse de que nuestra joven gerente pueda jugar mahjong a su entera satisfacción». Lo cual de verdad no parece haberse cumplido.
+0046 [Tú] | Entonces... ¿qué tal unas rondas más mañana, antes de que abra el restaurante?
+0047 [Jinglin] | P-pero... si hacemos eso, todos los demás...
+0048 [Server] | ¿De qué hablas? No te preocupes por la preparación de la mañana. Déjanosla a nosotros.
+0049 [Server] | ¡Déjanos encargarnos de la preparación de la comida! No siempre tienes la oportunidad de divertirte, así que no la desperdicies～
+0050 [Jinglin] | ¡¿Eh?! ¡¿Han estado mirando todo este tiempo?! ¡Qué vergüenza! Bueno, si de verdad no hay problema... ¡cuento con todos ustedes mañana!
+0051 [Narración] | A la mañana siguiente...
+0052 [Narración] | El personal del restaurante me despierta temprano y me lleva directo al «campo de batalla».
+0053 [Narración] | Con el personal mirando mientras se preparan para abrir el día, Jinglin y yo nos enfrentamos en una partida total.
+0054 [Narración] | Mantuvimos el castigo de dibujar en la cara, y el juego va igual que ayer: la cara de Jinglin ya está llena de garabatos.
+0055 [Tú] | Jejeje, parece que otra vez vas en racha perdedora. ¡A este paso terminará conmigo ganando todas las rondas!
+0056 [Jinglin] | ¡N-no se lo pondré tan fácil! ¡Esta siguiente ronda... es todo o nada! ¡Esta vez voy a ganar, ya verá!
+0057 [Tú] | Adiós a la victoria perfecta... Parece que no se va a dar: la suerte no está de mi lado ahora.
+0058 [Tú] | Pero Jinglin... Su forma de jugar se ve rara. Solo descarta fichas de los números del medio... ¿Será que...?
+0059 [Jinglin] | ¡Pum!==W== ¡Lo logré!
+0060 [Jinglin] | ¡Tsumo!==W== ¡Trece Huérfanos! ¡Es doble yakuman!
+0061 [Opción] | ¡Agh! ¡Perdí!
+0062 [Jinglin] | ¡No puedo creer que gané con los trece huérfanos!==W== ¡¿De verdad está pasando?!
+0063 [Jinglin] | ¡Y hasta logré los trece huérfanos con espera de trece, un patrón de fichas tan hermoso...!==W== ¡Casi quiero dejarlo así!
+0064 [Opción] | ¿Por qué no le tomamos una foto?
+0065 [Jinglin] | Ah,==W== ¡no!==W== ¡Mejor no!
+0066 [Jinglin] | No quiero que me tomen una foto con todo esto en la cara.==W== Espere.==W== Voy a lavarme ahora mismo.
+0067 [Jinglin] | ¡Oiga!==W== ¡¿Espere?! ==W== ¡Creí haberle dicho que parara!==W== ¡¿Por qué hizo eso, Jefe?!
+0068 [Jinglin] | ¡Me encantaría presumirlo,==W== pero no puedo tener la cara así en el restaurante!
+0069 [Opción] | Ay, vamos. Tu cara es parte de la historia.
+0070 [Opción] | La verdad creo que se ve algo linda.
+0071 [Jinglin] | ¿D-de verdad...?==W== Bueno... supongo que si usted lo dice, Jefe.==W== ¿Quizá tenga razón?
+0072 [Jinglin] | Pero...==W== me preocupa que la gente piense que soy muy infantil.
+0073 [Jinglin] | O sea, soy la gerente del Bistró Jing, después de todo.==W== Debo mantener el nivel adecuado de profesionalismo,==W== ¿verdad?
+0074 [Opción] | ¿Por qué no les preguntas a los del bistró?
+0075 [Jinglin] | ¿Mi equipo...?
+0076 [Jinglin] | Ah, es cierto.==W== Este encargo==W== lo pidieron todos.
+0077 [Jinglin] | Así que, supongo que tomármelo demasiado en serio==W== sería lo incorrecto.
+0078 [Jinglin] | Y…==W== no solo me divertí muchísimo con usted,==W== sino que me ayudó mucho.==W== ¡Gracias, Jefe!==W==
+0079 [Jinglin] | ¡Jeje! ¡Trece Huérfanos... de verdad lo logré! Es cierto que no dejé de perder, ¡pero mi suerte cambió justo al final!
+0080 [Jinglin] | Quizá soy de esas personas que siempre se levantan. Verá, cuando mamá enfermó, el abuelo Qin y todos los demás se quedaron a mi lado y me ayudaron a superarlo.
+0081 [Jinglin] | Aun cuando el restaurante pasaba apuros y tuvimos que renovar el menú para cambiar la situación, nuestros clientes habituales lo tomaron con calma. Hasta les dijeron a sus amigos que vinieran.
+0082 [Jinglin] | Siempre que tengo problemas, alguien interviene para ayudar... Es como si las cosas siempre se arreglaran para mí, pase lo que pase.
+0083 [Tú] | No es solo suerte; es el vínculo que has construido con todos aquí.
+0084 [Jinglin] | ¿A qué se refiere?
+0085 [Tú] | Sí. Los platillos tradicionales que mantuviste en el menú todo este tiempo son la mejor prueba, ¿no?
+0086 [Tú] | Aunque ahora no mucha gente los pida, mientras esos clientes habituales sigan viniendo, no los quitarás del menú.
+0087 [Tú] | Y la manera en que tratas a todos los clientes, y a todos en el restaurante, como familia, es exactamente igual.
+0088 [Tú] | Como has formado lazos pequeños pero fuertes con la gente a tu alrededor, cuando las cosas se ponen difíciles siempre hay alguien para ayudarte.
+0089 [Tú] | Así que todo eso de comportarte como una gerente como se debe y ser responsable de todo... La verdad, no hace falta que te preocupes tanto.
+0090 [Jinglin] | Ya veo... Supongo que es una forma de verlo...
+0091 [Jinglin] | Justo como dijo, Jefe: como he formado lazos tan fuertes con todos, no hace falta ponerme tanta presión... Sí, tiene sentido.
+0092 [Jinglin] | Además...
+0093 [Tú] | ¿Mm? ¿Qué pasa?
+0094 [Jinglin] | Si usted se dio cuenta de esto, Jefe, eso significa que entre nosotros también hay un lazo fuerte.
+0095 [Jinglin] | ¡Cuando estoy con usted, Jefe, siempre me siento muy tranquila! ¡Es como si hubiera un entendimiento tácito entre nosotros!
+0096 [Jinglin] | ¿No es así?
+0097 [Tú] | Pero claro～
+0098 [Tú] | Siempre que tengas problemas, aquí estaré para ayudarte. Y si quieres jugar mahjong, también siempre estoy listo～
+0099 [Jinglin] | ¡Entonces... entonces es un trato! ¡Quiero jugar muchísimo más mahjong con usted!
+0100 [Narración] | Jinglin y yo hacemos la promesa del meñique, y su sonrisa despreocupada brilla más que nunca.

@@ -1,0 +1,101 @@
+# Evento · ¡Latido! Rapsodia neoinspirada · 4 · El taller móvil
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_131 | Bloc
+N:avg1_140 | Sparkla
+N:avg3_100 | Sylar
+N:avg3_158 | Pingüino artista
+N:avg3_221 | Rabbit Pie
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | El taller móvil
+0003 [Intro] | Te invitan al taller de Sparkla, donde planea crear un fascinante autómata inspirado en ti. Ante la insistencia incansable de Bloc, Sparkla por fin comienza a prepararse para la competencia.
+0004 [Sparkla] | ¡Tan-tan! Bienvenidos al Taller Móvil de Sparkla♪
+0005 [Bloc] | ¿Eh? Cambió toda la distribución. No se veía así la última vez que vine...
+0006 [Sparkla] | Después de mejorar las funciones domésticas de Rabbit Pie, ella optimizó las rutas para adaptarlas a mis hábitos.
+0007 [Rabbit Pie] | :] Correcto. En teoría, la distribución optimizada reduce el tiempo de desplazamiento en un 5%. Reducción real medida: 3%.
+0008 [Rabbit Pie] | :( Sparkla suele hacer cosas impredecibles...
+0009 [Bloc] | Mm-hmm, te entiendo perfectamente.==W== La vida es dura para las dos, Rabbit Pie...
+0010 [Sparkla] | Nos estamos quedando sin Neo Solution en el taller, así que primero tengo que refinar un poco más. Rabbit Pie, activa el círculo mágico de protección.
+0011 [Rabbit Pie] | :] Entendido.
+0012 [Bloc] | Espera, espera, la constitución del Jefe es un poco inusual. La magia de protección no funciona en ==SEX4==. Si vamos a refinar Neo Solution, también necesitaremos otras medidas de seguridad...==W== ¡Ah, cierto!
+0013 [Rabbit Pie] | :] El té está listo.
+0014 [Bloc] | Gracias, Rabbit Pie~ Jefe, yo me tomo tu té por ti. No hay forma de que puedas beber nada con ese traje protector puesto, ¿verdad?
+0015 [Tú] | Ugh... Qué calor.
+0016 [Tú] | ¡¿Por qué tu tienda tiene siquiera un disfraz de la mascota Sherlock?!
+0017 [Bloc] | Oh, jojojo, fue un pedido de Cosecha Unida.
+0018 [Bloc] | Al parecer, las ventas de la sucursal de Philae se dispararon después de usar disfraces de mascota en promociones callejeras, así que todas las demás sucursales empezaron a copiarlos y también pidieron montones de disfraces~
+0019 [Bloc] | ¿Eh? ¿Por qué trajiste también el letrero publicitario?
+0020 [Tú] | Los vi juntos y lo agarré sin pensar... Jaja.
+0021 [Tú] | Y hasta hay un círculo mágico de protección superpuesto al traje de mascota...==W== Sparkla, ¿refinar Neo Solution de verdad es tan peligroso?
+0022 [Sparkla] | Mm-hmm. Refinar Neo Solution es básicamente extraer magia de los Artefactos. Si alguien entra en contacto directo con magia de alta densidad que se fuga, la carga que le impone al cuerpo humano es inimaginable.
+0023 [Sparkla] | Bloc mencionó hace rato que tienes una constitución «aislada de la magia», pero mientras no confirmemos si una magia tan concentrada afecta tu cuerpo, es mejor ser cautelosos.
+0024 [Tú] | Lo pensaron muy bien...==W== ¡Gracias, a las dos!
+0025 [Tú] | Por cierto, ¿dijiste que extraen magia de los Artefactos? ¿Eso es posible?
+0026 [Sparkla] | Sí. Los Artefactos que los Trekkers comunes obtienen con un deseo, sin entender su estructura ni sus principios, son básicamente cajas llenas de trucos de magia. Funcionan con fuerzas desconocidas, así que no se pueden modificar ni reparar una vez que se rompen.
+0027 [Sparkla] | Pero la magia sobrante dentro de los Artefactos dañados todavía se puede extraer por medios especiales.
+0028 [Sparkla] | Ese método son nuestras Neomonedas. La Neo Solution que producimos se hace con los subproductos de desmantelar Artefactos.
+0029 [Bloc] | Por supuesto, desmantelar Artefactos se considera un tabú gravísimo. El Imperio de la Gracia lo prohíbe expresamente~ Por eso somos criminales buscados.
+0030 [Tú] | ... Ya veo.
+0031 [Sparkla] | Jeje, ¿curiosidad satisfecha?==W== Mmm... La verdad, sigo pensando que las medidas de seguridad no bastan... ==PLAYER_NAME==, será mejor que te quedes fuera de la sala de inventos y no te acerques demasiado a mi equipo de refinado.
+0032 [Bloc] | ¡Voto que sí con las dos manos! ¡Jefe, ven a esperar conmigo en la sala de descanso!
+0033 [Tú] | Ya preparamos protección doble. Debería estar bien, ¿no?
+0034 [Bloc] | No, no, no, no podemos bajar la guardia. La propia Sparkla quedó con secuelas graves por un solo descuido mínimo.
+0035 [Tú] | Espera...==W== ¿Por eso Sparkla siempre está sentada en esa silla?
+0036 [Bloc] | Sí. Después de ese accidente, Sparkla inventó esa silla:==W== el «Súper Pastel de Acción». Se mueve tan rápido que ni mi carrito puede seguirle el paso~
+0037 [Narración] | Platicar con Bloc hace que el tiempo vuele en un abrir y cerrar de ojos.
+0038 [Rabbit Pie] | :] Refinado completo. Producción total: cuarenta litros.
+0039 [Bloc] | Oh, jojo, cuando Sparkla se pone seria, se nota. Mira este color, Jefe. Mientras más claro, mayor estabilidad.
+0040 [Bloc] | Por cierto, el Lucky Oasis también usa esta misma Neo Solution de alto grado, así que no hay de qué preocuparse por explosiones~
+0041 [Bloc] | En fin, pruébala primero. Y si algún día decides cambiar a un Neomotor hecho por Sparkla, no olvides avisarme~
+0042 [Bloc] | La Neo Solution cuesta solo un tercio de lo que cuesta la misma cantidad de Gracia, así que puede reducir muchísimo tus gastos~
+0043 [Tú] | Bueno... Cambiar el motor es una decisión enorme. No puedo decidir algo así sin consultarlo antes con todos.
+0044 [Bloc] | No hay problema, no hay problema~ Solo avísame cuando lo hayan hablado entre todos~
+0045 [Bloc] | ¿Eh? ¿Dónde está Sparkla? ¿Por qué no ha salido todavía?
+0046 [Rabbit Pie] | :p ==PLAYER_NAME==, por favor acompáñame a la sala de inventos.
+0047 [Bloc] | ¡Espera, ¿por qué de repente te llevas al Jefe a la sala de inventos?! Sparkla, ¿qué piensas hacer...?
+0048 [Sparkla] | Lo primero es que la apariencia tiene que ser tan linda como ==PLAYER_NAME==. Esa es la prioridad máxima del diseño.
+0049 [Sparkla] | Jeje, creo que hacerlo un poco más pequeño le quedaría mejor♪
+0050 [Sparkla] | Pero si lo hago, los viejos estándares de precisión ya no servirán. Tendré que volver a medir todos los componentes, así que podría tomar más tiempo... Mmm, no debería ser un gran problema.
+0051 [Sparkla] | Ahora bien, el siguiente asunto es decidir qué aspectos del rendimiento optimizar primero...
+0052 [Tú] | Hoolaaa~ ¿Me escuchas?
+0053 [Sparkla] | Jejeje... Antes de tomar esa decisión, necesito entender a ==PLAYER_NAME== más a fondo... Si no, simplemente no se puede. Jejejeje~
+0054 [Tú] | ¿Entenderme==B== más a fondo...?
+0055 [Sparkla] | Después de todo, este pequeño autómata está siendo modelado a partir de ti. Si decido a la ligera qué funciones instalarle de inmediato, solo desperdiciaría esta preciosa chispa de inspiración.
+0056 [Sparkla] | Así que lo único que tienes que hacer es sentarte justo ahí. Estoy segura de que así empezarán a fluir las buenas ideas.
+0057 [Tú] | ¿D-de verdad? ¿Solo me siento aquí sin hacer nada?
+0058 [Sparkla] | Así es. Mientras te quedes a mi lado, todo saldrá bien.
+0059 [Bloc] | Espera, ¡¿por qué solo tienes favoritismos con el Jefe~?! ¡Yo también soy adorable! ¡Yo también puedo quedarme a tu lado todo el día, ¿sabes?!
+0060 [Sparkla] | Mirar la cara de Bloc no me inspira. Fin de la declaración.
+0061 [Bloc] | Uweh...
+0062 [Tú] | Es raro ver a Bloc sin palabras. Parece que Sparkla gana esta ronda.
+0063 [Bloc] | ¡Waaah, tienes toda la razón~! Si Sparkla dejara de desarrollar productos, mi negocio se derrumbaría...==W== Aunque siempre termino limpiando sus desastres cada vez~
+0064 [Bloc] | ¡Ojalá la suerte del Jefe se nos pegue esta vez para que todo salga perfecto!!
+0065 [Sparkla] | Ah, cierto, Bloc también puede quedarse. Cuando empiezo a dibujar planos, dejo de prestar atención a todo lo demás. ==PLAYER_NAME== probablemente se aburriría solo. Puedes hacerle compañía a ==SEX4== por mí.
+0066 [Bloc] | ¡Oh, jojo, suena maravilloso! Mientras pueda vigilar...==W== quiero decir, proteger a Sparkla, ¡me quedo con muchísimo gusto!
+0067 [Tú] | ... Y entonces nos dividimos en dos grupos. El Gremio de la Nueva Estrella y Petal Bloom fueron al Monolito a reunir energía.
+0068 [Tú] | Mientras tanto, yo fingí aceptar la propuesta y dirigí a las plantas para evitar una destrucción aún mayor.
+0069 [Bloc] | ¿Y luego? ¿Qué pasó después?
+0070 [Tú] | Un día después, todos los del Gremio llegaron con éxito a Philae y usaron la Gracia del Monolito para detener la situación antes de que se saliera aún más de control.
+0071 [Bloc] | ¿Usar la Gracia del Monolito fuera del Monolito? Jefe, lo haces sonar muy fácil, pero nadie puede hacer eso en realidad, ¿verdad?
+0072 [Tú] | Jejejeje... Ese es el poder que se obtiene tras vender el alma al Tirano...
+0073 [Bloc] | ¡¿Iiik?!
+0074 [Tú] | Es broma, jaja~ Ejem. En fin, gracias al esfuerzo de todos, el incidente de las plantas en Philae terminó resolviéndose en paz.
+0075 [Bloc] | Eso suena más creíble...
+0076 [Sparkla] | Conservar el poder de la Gracia fuera del Monolito...
+0077 [Sparkla] | ¡Oh! ¿Y si los autómatas también pudieran conservar una parte de la Gracia del Monolito? De hecho, suena como una muy buena idea, ¿no?
+0078 [Sparkla] | A nadie más que a mí se le podría ocurrir una idea así...==W== Maravilloso, maravilloso. Este es un desafío sin precedentes~
+0079 [Bloc] | ¡¡E-espera un momento!! ¡¿No estarás tomando en serio la broma del Jefe, verdad?!
+0080 [Sparkla] | Correcto. ¡¡¡¡ESTA es la «verdadera creación» que he estado buscando!!!!
+0081 [Bloc] | Q-quiero decir... Bueno, ¡pero ni siquiera tú podrías terminar algo así antes de que empiece la Convención Tecnológica, Sparkla!
+0082 [Sparkla] | ¿Hm? Yo nunca dije que este niño fuera a competir en la convención, ¿o sí?
+0083 [Bloc] | ¡¿Qué...?! ¡¿Entonces para qué estuve esperando aquí todo este tiempo?! ¡¿Después de todo este caos, ni siquiera era tu proyecto para la competencia?!
+0084 [Sparkla] | Mm-hmm.
+0085 [Bloc] | Mis... Mis cinco Neomonedas... La apuesta que hundí en esto... Espera... No puedo ... respirar...==W== Se acabó... Mi futuro... Está completamente oscuro...
+0086 [Sparkla] | ¿De qué hablas? ¿Cuándo he dejado de cumplir una promesa contigo?
+0087 [Sparkla] | Tranquila. Desde el principio ya decidí a quién iba a modificar para la competencia. Jejejeje~
+0088 [Bloc] | No me digas que... Te refieres a...
+0089 [Rabbit Pie] | :] El té está listo.

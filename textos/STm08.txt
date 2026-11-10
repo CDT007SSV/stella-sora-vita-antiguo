@@ -1,0 +1,31 @@
+# Capítulo 8 · Calor residual — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm08_01 | Matanza inocente
+STm08_02 | A punta de cuchillo
+STm08_03 | ¿Quién soy?
+STm08_04 | Trampa autocumplida
+STm08_05 | Compañeros
+STm08_06 | El fin del mundo
+STm08_07 | La solución en blanco Ⅰ
+STm08_08 | La solución en blanco Ⅱ
+STm08_09 | La solución en blanco Ⅲ
+STm08_10 | Primer encuentro con Mirage
+STm08_11 | Las reglas del desierto
+STm08_12 | Solo en casa
+STm08_13 | Pausa
+STm08_14 | La rutina diaria de Mirage
+STm08_15 | Duelo de sombras
+STm08_16_a | El pasado del Gato Blanco
+STm08_16_b | La ambición del Escorpión del Desierto
+STm08_17_a | Feliz cumpleaños Ⅰ
+STm08_17_b | Rey de la guerra
+STm08_18_a | Feliz cumpleaños Ⅱ
+STm08_18_b | Efecto mariposa
+STm08_19_a | Feliz cumpleaños Ⅲ
+STm08_19_b | Mamá
+STm08_20 | Amanecer en Mirage
+STm08_21 | Mi nombre
+@BT01 | Disparo de advertencia
+@BT02 | El bueno, el malo y el bufón
+@BT03 | Sabiduría ancestral

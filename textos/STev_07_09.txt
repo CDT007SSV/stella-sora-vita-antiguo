@@ -1,0 +1,134 @@
+# Evento · Enmarcando los sentimientos invisibles · 9 · Una niña normal
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_115 | Firefly
+N:avg1_120 | Canace
+N:avg3_100 | Sylar
+N:avg3_205 | Igna
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Una niña normal
+0003 [Intro] | Con su propia fuerza, Firefly se ha liberado de las cadenas de los experimentos y ha recuperado su verdadero ser. Con ustedes y Canace a su lado, seguramente crecerá sana...
+0004 [Tú] | ¿Cómo está Firefly?
+0005 [Canace] | Tranquilo. Ni un rasguño, y su respiración es estable. Está inconsciente por agotamiento.
+0006 [Canace] | Qué suerte que no sea nada grave.
+0007 [Tú] | Qué alivio.
+0008 [Narración] | Hace un rato escapamos del Monolito y llevamos a una Firefly inconsciente al despacho de Canace.
+0009 [Tú] | ... ¿Quién es?
+0010 [Igna] | Perdonen la interrupción.
+0011 [Canace] | ¿Igna?
+0012 [Igna] | Lo dejé todo en cuanto llegó el informe.
+0013 [Igna] | Ya tengo el panorama completo. Gracias por mantener a salvo a Firefly.
+0014 [Tú] | Es al revés. Firefly fue quien nos salvó.
+0015 [Igna] | Aun así, sin ustedes allí, dudo que hubiera salido sola.
+0016 [Igna] | Ese Monolito era el campo de entrenamiento de Firefly. Manipular su espacio interior altera la cantidad de Stellaroids... Alguien claramente está usando la tecnología como arma.
+0017 [Tú] | ... ¿Todo este desastre es obra de quienes intentan capturarla?
+0018 [Igna] | Necesitamos pruebas más concretas, pero sé quiénes están detrás.
+0019 [Igna] | Irónicamente, esta crisis arroja el resultado perfecto. Su vínculo emocional con ustedes provoca un avance enorme.
+0020 [Igna] | Sus nuevos datos de combate rompen todos los récords anteriores. Los números hablan por sí solos.
+0021 [Igna] | Nadie maneja a Avalanche mejor que Firefly.
+0022 [Igna] | Para nosotras, es una excelente noticia. Para ciertas otras personas... es una pesadilla.
+0023 [Canace] | ¿Los investigadores intrigantes?
+0024 [Igna] | Precisamente. Ahora mismo, seguramente están temblando de miedo en el laboratorio.
+0025 [Igna] | Apostaron sus carreras a desafiar a los altos mandos y solo demostraron su incompetencia. Su credibilidad en el Ojo de la Gracia está por los suelos.
+0026 [Igna] | Lo pagarán. Voy a iniciar una investigación interna para asegurar que esto no vuelva a suceder.
+0027 [Canace] | ... Te lo dejo a ti.
+0028 [Igna] | Además, quiero que Firefly esté en una instalación especializada. En cuanto se recupere, le haremos un chequeo completo.
+0029 [Canace] | Eso sería lo mejor.==W== Dame un minuto.==W== Empaco y nos vamos juntas.==W==
+0030 [Igna] | Antes de eso, hay un asunto importante que discutir...==W== Sobre el futuro de Firefly. Su vivienda y su educación.
+0031 [Igna] | Pedirte que la acogieras fue una solución provisional. Después de este incidente, su seguridad está totalmente garantizada.
+0032 [Igna] | Profesora Canace, estás ocupada. ¿Quizá sea hora de confiar a Firefly a otra persona de confianza?
+0033 [Canace] | ¿Como... tú?
+0034 [Igna] | Precisamente.
+0035 [Igna] | Los datos demuestran que necesita un entorno sano y sin restricciones para alcanzar su potencial.
+0036 [Igna] | Tienes mi palabra: no sufrirá ningún maltrato en su nuevo hogar.
+0037 [Canace] | ...
+0038 [Igna] | ... Je. Soy del Ojo de la Gracia. Es natural que no confíes en mí.
+0039 [Canace] | Te equivocas. No me refería a eso...
+0040 [Igna] | Si tienes dudas, podemos firmar un contrato mágico.
+0041 [Igna] | Ofrezco un entorno donde sus talentos puedan florecer, junto con una vida mucho mejor que la que lleva ahora.
+0042 [Canace] | ...
+0043 [Canace] | Una vida... mejor...
+0044 [Tú] | ¿Puedo meter una palabra?
+0045 [Igna] | ¿Quieres compartir tu opinión, Tirano?
+0046 [Tú] | ¿De verdad deberíamos decidir su futuro sin preguntarle primero?
+0047 [Tú] | Creo que debemos respetar los deseos de Firefly.
+0048 [Firefly] | Ugh...
+0049 [Canace] | Estoy de acuerdo. Que decida por sí misma cuando despierte.
+0050 [Igna] | Entiendo.
+0051 [Igna] | Aunque me temo que el resultado ya está escrito...
+0052 [Narración] | Varios días después
+0053 [Canace] | Ya volvimos, ==PLAYER_NAME==.
+0054 [Canace] | Perdona la espera. No pensé que tardaría tanto.
+0055 [Tú] | No te preocupes. No me iré hasta que se resuelva la situación de Firefly.
+0056 [Tú] | No podría dormir si me fuera sin saber que está bien.
+0057 [Canace] | Je, qué angustiado eres.
+0058 [Firefly] | ¡Tirano!
+0059 [Tú] | ¡Firefly!
+0060 [Tú] | ¿Cómo te sientes? ¿Todo bien?
+0061 [Firefly] | Sí.
+0062 [Firefly] | ¡Me siento genial!
+0063 [Firefly] | ¡Tengo energía de sobra para quedarme despierta toda la noche jugando con el Tirano!
+0064 [Tú] | Jaja, me alegra oírlo.
+0065 [Igna] | Verlos tan unidos... Je. Me da un poco de envidia.
+0066 [Tú] | Igna, gracias por atender a Firefly.
+0067 [Igna] | Solo cumplo con mi deber. En el fondo, este incidente es un «descuido» de nuestra organización.
+0068 [Tú] | Entonces, ¿qué hay de la custodia de Firefly? ¿Ya se decidió?
+0069 [Igna] | La respuesta es obvia.
+0070 [Igna] | Firefly está aquí por voluntad propia.==W== Esa es su respuesta.
+0071 [Firefly] | Quiero quedarme con la profesora y el Tirano.
+0072 [Tú] | Firefly...
+0073 [Igna] | Entonces no me entrometeré más...==W== Antes de irme, tengo una advertencia para ustedes dos.
+0074 [Igna] | Quizá le hayamos garantizado a Firefly la vida que quiere, pero la vigilancia no cesará.
+0075 [Igna] | Mientras controle a Avalanche, el Ojo de la Gracia la considerará un arma peligrosa. La libertad absoluta está fuera de discusión.
+0076 [Igna] | Si llegara a ocurrir algo inesperado...
+0077 [Canace] | No. Firefly ya no es un arma.
+0078 [Canace] | De ahora en adelante, es una niña normal.
+0079 [Canace] | Si algo así vuelve a pasar, yo le pondré un alto.==W== Yo... y ==PLAYER_NAME==.
+0080 [Tú] | Llegaré en un abrir y cerrar de ojos.==W== Pase lo que pase, la vida de Firefly le pertenece a ella.
+0081 [Igna] | Gracias por la tranquilidad.
+0082 [Igna] | Entonces me retiro...
+0083 [Tú] | Igna,==W== quiero agradecerte otra vez.
+0084 [Tú] | No habríamos podido salvar a Firefly sin ti.
+0085 [Igna] | De nada. Yo también gané mucho con esto.
+0086 [Igna] | ... Y lo mejor fue conocerte.
+0087 [Igna] | Me gusta alinear mis cartas del triunfo de antemano. Espera más encargos míos en el futuro.==W== Espero que no me digas que no.
+0088 [Tú] | Igna...==W== Nunca se sabe qué piensa.
+0089 [Canace] | Yo la conozco desde hace más y aún es un misterio para mí.
+0090 [Canace] | Seguro te diste cuenta: Igna trata bien a Firefly, pero probablemente solo porque es una sujeto de pruebas valiosa, no porque le importe.
+0091 [Canace] | En eso discrepamos fundamentalmente, y por eso me cuesta confiar en ella.
+0092 [Tú] | Mientras sepamos que no le hará daño a Firefly, para mí basta. No podemos esperar que todos piensen como nosotros.
+0093 [Canace] | Muy convincente.
+0094 [Canace] | ... En fin, ¿ya te regresas?
+0095 [Tú] | Sí. Misión cumplida, así que me voy mañana. Todos en el Gremio de la Nueva Estrella deben de estar preocupados por mí.
+0096 [Firefly] | ... No.
+0097 [Firefly] | Tirano, no te vayas...
+0098 [Firefly] | Profesora, Firefly, Tirano... Nos quedamos juntos.
+0099 [Tú] | Gracias, Firefly... Pero tengo que volver.
+0100 [Firefly] | No. Quedarnos juntos.
+0101 [Firefly] | Quédate al lado de Firefly. Para siempre.
+0102 [Tú] | Hmm... Esto se complica.
+0103 [Canace] | Firefly. Entiendo cómo te sientes, pero tienes que ser razonable.
+0104 [Canace] | ==PLAYER_NAME== es un Trekker excelente con el deber de ayudar a la gente. Eso significa viajar por todo el Continente de Nova. Si eres un verdadero amigo de ==SEX3==, no te interpondrás en ==SEX3== trabajo. Lo sabes, ¿verdad?
+0105 [Firefly] | ...
+0106 [Firefly] | El Tirano es el único amigo de Firefly. Si nos despedimos... voy a estar sola.
+0107 [Tú] | Siempre seré tu amigo, esté donde esté. Y no pasará mucho tiempo antes de que volvamos a vernos.
+0108 [Firefly] | ¿...?
+0109 [Tú] | ¿No acaba de decirlo Canace? El trabajo de un Trekker es viajar a todas partes. Puedo ir a visitarte cuando quiera.
+0110 [Firefly] | ... ¿De verdad?
+0111 [Tú] | Sí. Además, Emor es el centro del continente. Pasaré todo el tiempo por aquí...==W== ¡¿eh?!
+0112 [Tú] | ¿Q-qué pasa...?
+0113 [Firefly] | Si te vas mañana, Tirano, ¡esta noche jugamos! ¡No te dejaré dormir!
+0114 [Tú] | Espera, ¡¿hablabas en serio sobre quedarnos despiertos toda la noche?!
+0115 [Tú] | Suspiro... Está bien, tú ganas. ¡Esta noche los tres haremos una pijamada!
+0116 [Firefly] | ¿Una pi-ja-ma-da? ¿Qué es eso? Suena divertido... Hagámosla.
+0117 [Canace] | Je. Parece que nos veremos mucho. Contaré con tu ayuda hasta que Firefly crezca.
+0118 [Canace] | ... Sabes, has hecho mucho por nosotras últimamente y no te he agradecido como se debe.
+0119 [Canace] | Fue una coincidencia, pero agradezco que fueras tú quien encontró a Firefly.
+0120 [Firefly] | Tirano, mi mejor amigo.
+0121 [Tú] | Yo debería agradecerte. Firefly también es mi mejor amiga.
+0122 [Narración] | Y así, la niña que alguna vez se cerró al mundo comienza un nuevo capítulo de su vida...
+0123 [Narración] | ...dando su primer paso para convertirse en una niña normal...

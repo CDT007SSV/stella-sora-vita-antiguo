@@ -1,0 +1,123 @@
+# Nova Times #14 · Resonancia más allá de la luz estelar · 2 · Resonance Beyond the Starlight (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Producer | Productor
+N:avg1_143 | Wraith
+N:avg1_147 | Caramel
+N:avg2_978 | Rovina
+N:avg3_102 | Willow
+N:avg3_1290 | Bruja general
+N:avg3_1291 | Bruja general
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_161 | Leafia
+N:avg3_187 | Residente de Flavio
+N:avg3_188 | Residente de Flavio
+N:avg3_205 | Igna
+N:avg3_213 | Bruja
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Resonancia más allá de la luz estelar (Parte II)
+0003 [Intro] | En el reino ilusorio, Caramel parece vislumbrar recuerdos del pasado de alguien, pero justo cuando está por descubrir la verdad detrás de las Notas del Monolito…
+0004 [Producer] | Señorita Caramel, su actuación de hoy estuvo increíble, como siempre. Ya llegaron los resultados de la encuesta: ¡les encantó!
+0005 [Producer] | Aunque esa parte de improvisación a la mitad me tuvo en ascuas,==W== ¡el resto fue exactamente lo que esperamos de usted! Estaba guiando el flujo emocional del público, ¿verdad?
+0006 [Caramel] | ¡No, eso no fue improvisación! ¡Eso fui... yo!
+0007 [Caramel] | Está pasando otra vez... Cada vez que intento decir la verdad, de pronto no me salen las palabras...
+0008 [Producer] | Jaja, entendido, entendido. Solo un giro juguetón para darle sabor al espectáculo, ¿verdad?
+0009 [Producer] | Pero si lleva ese tipo de cosas demasiado lejos, perderá fans. La gente no paga por ... eso.
+0010 [Caramel] | «Eso»...
+0011 [Caramel] | ¡Pero ese es mi verdadero sonido!
+0012 [Producer] | Por favor, siga creando música que la gente quiera escuchar y amar. Después de todo, usted es la nueva guitarrista estrella que Flavio estaba esperando.
+0013 [Caramel] | ¿Guitarrista? No, Midas es...
+0014 [Caramel] | ¡Un bajo!==W== ¿Por qué? ¿¡Por qué no puedo producir ni un solo sonido!?
+0015 [Producer] | ¿Mm? ¿Hasta le puso nombre a su guitarra? Qué lindo. Podría servir para la promoción más adelante.
+0016 [Narración] | Si no puedo decir las palabras, entonces lo intentaré con la música...
+0017 [Producer] | ¿Oh? ¿Otro de sus jueguitos? Pero lo que la gente quiere ...==W== es esto.
+0018 [Caramel] | ¿¡Ese sonido...!? ¿Una guitarra? ¡Pero Midas es un bajo! ¿¡Por qué!?
+0019 [Producer] | La guitarra está «de moda» ahora en Flavio. Por eso «Caramel» debe tocar la guitarra.
+0020 [Producer] | A la gente le gustan los ritmos intensos y los tonos brillantes. Así que la música de Caramel tiene que sonar así.
+0021 [Producer] | Estas son reglas establecidas personalmente por la Bruja Suprema, Lady Rovina. No deben romperse.
+0022 [Producer] | ¿Lo entiende, señorita Caramel?
+0023 [Narración] | ¿Lo entiendes, Caramel?
+0024 [Narración] | ¿Lo entiendes, Trekker?
+0025 [Caramel] | ¡Ahhhhhhh—no me quiten mi sonido!
+0026 [Igna] | ¿Se encuentra bien, señorita Caramel?
+0027 [Caramel] | ¡Haa... Haa...! ¿D-dónde ... estoy?
+0028 [Igna] | Está en mi clínica. Tómese un momento para estabilizar la respiración. Beba un poco de agua.
+0029 [Caramel] | Ah, gracias...==B== ¿Estaba soñando...?
+0030 [Igna] | ¿No lo recuerda? Dijo que mientras estaba dentro del Monolito, de pronto empezó a tocar.
+0031 [Igna] | Fue como si estuviera poseída. Tras terminar una pieza en trance, simplemente se desplomó.
+0032 [Caramel] | Ya veo...==W== Uf... qué bueno que fue un sueño. Por fin puedo decir lo que quiera otra vez.
+0033 [Caramel] | Mm... Midas suena igual que siempre. Cierto. No hay forma de que un bajo se convierta en guitarra...
+0034 [Caramel] | Doctora... Ya lo recuerdo todo. Lo que pasó en el Monolito... lo recuerdo todo...
+0035 [Caramel] | Quizá estoy perdiendo la cabeza... Doctora, ¿puede escucharme?
+0036 [Igna] | Entonces, tocó la guitarra en el Monolito y después tuvo alucinaciones... ¿Es correcto?
+0037 [Caramel] | Sí... ¡no!==W== ¡Midas no es una guitarra, es un bajo!
+0038 [Igna] | Mis disculpas. No estoy muy familiarizada con la música... Ejem. Volvamos al punto.
+0039 [Igna] | En la alucinación, usted tocaba su instrumento. Pero a mitad de camino, sus dedos empezaron a moverse solos, el tono del instrumento cambió y al final ni siquiera pudo hablar... ¿Es así?
+0040 [Caramel] | Sí... Fue aterrador. Sentí que me convertían en una marioneta de hilos...
+0041 [Caramel] | Las cosas que quería decir... simplemente no lograba sacarlas. El público y el productor tomaron el control...
+0042 [Caramel] | Doctora... ¿Tengo afasia o algo así?
+0043 [Igna] | No se preocupe. Según los resultados del examen, sus cuerdas vocales están bien y no hay señales de un trastorno mental.
+0044 [Caramel] | Qué alivio...==W== ¿Podría ser un efecto secundario de pedir un deseo? Quizá pedí un deseo enorme y simplemente no lo recuerdo...
+0045 [Igna] | Es difícil decirlo. Ha habido reportes de pérdida de memoria, pero alucinaciones durante la exploración de un Monolito... es la primera vez que lo oigo.
+0046 [Igna] | Aún hay muchos misterios sin resolver sobre el Monolito. Es posible que algo anormal ocurriera adentro, afectando indirectamente su mente.
+0047 [Caramel] | ¿Algo anormal?
+0048 [Igna] | ¿Tiene alguna pista?
+0049 [Caramel] | No sé si cuenta como anormal, pero en ese momento todo se sentía antinaturalmente silencioso. No podía oír el sonido del Monolito en absoluto, aunque normalmente siempre está ahí...
+0050 [Caramel] | Pero cuando toqué a Midas, oí algo... Como si me respondiera.
+0051 [Caramel] | Estaba muy feliz, así que seguí tocando. Fue el mejor dueto que he hecho...
+0052 [Caramel] | Pero entonces vinieron las horribles alucinaciones...==W== ¿Será que al Monolito no le gustó mi respuesta? ¿Y luego se enojó?
+0053 [Igna] | Es posible, sí...
+0054 [Igna] | En la alucinación, la obligaron a tocar música que no era suya. Si lo que la controlaba era el propio Monolito, entonces tendría cierto sentido.
+0055 [Caramel] | Ahora que lo pienso... En la alucinación, alguien insistía en que debía tocar canciones rápidas con la guitarra.==W== Decían que era una regla establecida por «Rovina».
+0056 [Igna] | ¿Rovina?
+0057 [Caramel] | Sí. ¿Será que el Monolito tiene nombre?
+0058 [Igna] | ... Difícil saberlo. Como mencioné, aún hay muchas incógnitas sobre el Monolito. O bien—
+0059 [Igna] | Ese podría ser el nombre de «algo» que daña a los Trekkers.
+0060 [Igna] | Por precaución, debería reportar esto a la Asociación de Trekkers. Prepararé su informe médico completo.
+0061 [Igna] | Además de tratar sus heridas, también puedo recetarle algo para calmar los nervios. ¿Necesita algo más?
+0062 [Caramel] | Eh... Quizá piense que no aprendí la lección... Pero aun así quiero preguntar: ¿puedo seguir tocando dentro del Monolito?
+0063 [Igna] | Un médico no tiene derecho a quitarle la música a un músico. Pero ¿no le dan miedo las alucinaciones?
+0064 [Caramel] | Para ser sincera, sí...==W== Pero lo que siento aún más es frustración. Como si mi respuesta no hubiera sido lo bastante buena.
+0065 [Caramel] | Y quiero entender por qué el Monolito prefiere esa clase de música... Como intérprete, quiero saberlo por mí misma.
+0066 [Igna] | Ya veo... No le falta ambición.==W== En ese caso, ¿quién soy yo para interponerme? Tiene mi apoyo.
+0067 [Caramel] | ¡Gracias, doctora Igna!
+0068 [Caramel] | Algún día lograré que tanto el Monolito como su alucinación acepten mi música. Seguiré trabajando en ello. ¡Gracias por atenderme hoy!
+0069 [Igna] | Si vuelve a ocurrir algo, venga a verme cuando quiera. Cuídese.
+0070 [Igna] | Las reglas de Rovina, ¿eh...?
+0071 [Igna] | Jamás esperé encontrar tu rastro aquí. No voy a desperdiciar esta oportunidad...==W== «Fantasma de la Ópera».
+0072 [Caramel] | ¡Hola! ¿Está aquí la persona a cargo? Me topé con una situación muy peligrosa en el Monolito y necesito reportarla.
+0073 [Leafia] | Un informe de exploración, ¿verdad? Espere un momento, por favor.
+0074 [Leafia] | Willow, alguien viene a hacer un reporte—
+0075 [Willow] | Perdone la espera. Soy Willow, jefa de la sucursal de Emor.
+0076 [Willow] | Viene a presentar un informe de exploración de Monolito, ¿correcto? Disculpe, pero tendrá que seguir el procedimiento habitual. Por favor, lea y confirme estos puntos.
+0077 [Willow] | Especialmente este... Sobre información de alto riesgo. Tras consultarlo, esta información podrá compartirse con otros Trekkers. ¿Da su consentimiento?
+0078 [Caramel] | Sí, sí, estoy de acuerdo con todo. Creo que todos necesitan saber esto...
+0079 [Caramel] | Lo que voy a decir quizá sea difícil de creer, pero todo me pasó a mí. Empezaré desde el principio—
+0080 [Narración] | Media hora después.
+0081 [Willow] | Alucinaciones dentro del Monolito... Control del comportamiento... Esta es realmente la primera vez que ocurre algo así. Me alegra mucho que esté a salvo, señorita Caramel.
+0082 [Caramel] | Sí, de verdad me alegra estar viva...
+0083 [Willow] | Gracias por proporcionar información tan valiosa. Señorita Caramel, ¿tiene tiempo después de esto?
+0084 [Caramel] | ¿Eh? Sí, creo que sí. ¿Quiere que haga algo?
+0085 [Willow] | Esta es una situación bastante peligrosa. Necesito discutirla con los miembros veteranos de la Asociación y con mis colegas del Imperio de la Gracia. ¿Le importaría esperar aquí un momento?
+0086 [Caramel] | ¿¡Personas tan importantes!? Bueno... entiendo. ¡Esperaré...!
+0087 [Leafia] | Mientras espera, siéntase libre de tomar bebidas y botanas de aquí. Si necesita algo, avíseme.
+0088 [Caramel] | Eh, ¿podría sentarme en un rincón a darle mantenimiento a Midas? No molestaré a nadie...
+0089 [Leafia] | Por supuesto. Un poco de buena música de fondo sería más que bienvenida.
+0090 [Caramel] | ♪—
+0091 [Caramel] | Esto es más serio de lo que pensaba. Así que de verdad fue peligroso...
+0092 [Caramel] | Pero... aun así no puedo dejar de tocar. Quiero entender por qué tuve esa alucinación.
+0093 [???] | Esa fue una pieza muy cautivadora. Toca bien el bajo.
+0094 [Caramel] | ¡Ah, gracias! ¿Y usted es...?
+0095 [Caramel] | Guau, ¿ella también es Trekker? ¡Reconoció a Midas como un bajo!
+0096 [???] | Soy Wraith, de los Centinelas del Alba. Escuché su conversación hace un momento y me pareció muy interesante.
+0097 [Caramel] | ¿Se refiere a ... lo que dije sobre ver alucinaciones en el Monolito?
+0098 [Wraith] | Sí. Los detalles fueron distintos, pero yo he tenido una experiencia similar.
+0099 [Wraith] | Esa alucinación que describió... probablemente fue obra de los Arcontes.
+0100 [Caramel] | ¿Los Arcontes? ¿Qué son?
+0101 [Wraith] | Lo que queda de las almas lastimosas que fueron consumidas por el Monolito...==W== Se podría decir que también son una especie de Stellaroid.

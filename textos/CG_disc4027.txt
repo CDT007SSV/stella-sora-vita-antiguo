@@ -1,0 +1,72 @@
+# Recuerdo de disco · Mystic Brushstrokes · 1 · Mystic Brushstrokes
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Yunji Retreat Student | Estudiante del Retiro Yunji
+N:avg1_113 | Shimiao
+N:avg1_141 | Chixia
+N:avg3_169 | Chica
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Pinceladas místicas
+0003 [Intro] | Sea cual sea la escritura, cada una es un trazo con el que ella escribe el mundo.
+0004 [Shimiao] | Con eso termina la inspección de rutina de esta semana.
+0005 [Shimiao] | ¿Hm? Esa figura de allá ... parece...==W==¿Chixia? ==W==¿Qué hace agazapada en una esquina así...?
+0006 [Shimiao] | Creo que iré a ver.
+0007 [Chixia] | Mjm~♪ ¡Perfecto! ¡Soy de verdad la mejor Xuan Shi~♪
+0008 [Shimiao] | ¿Qué estás dibujando, Chixia?
+0009 [Chixia] | ¡Wah—!!
+0010 [Chixia] | Uf... ==W==Ah, eres tú, Shimiao. Me asustaste un segundo...
+0011 [Shimiao] | Perdón. Estabas aquí sola, así que pensé en saludarte...==W== ¿Qué haces?
+0012 [Shimiao] | Esa placa de madera...==W== No me digas que es un nuevo tipo de talismán.
+0013 [Chixia] | ¿¡De qué hablas!? ¿¡No ves que es solo mi nombre!?
+0014 [Shimiao] | Yo... ==W==ya veo.
+0015 [Shimiao] | Para ser sincera, al principio no lo reconocí...
+0016 [Chixia] | ¡Ya que estás aquí, ven a ayudarme a escribir!
+0017 [Shimiao] | Bueno, podría... Pero ¿qué es exactamente esto?
+0018 [Chixia] | ¡Je, buena pregunta! Pues bien—
+0019 [Chixia] | Shimiao, conoces el «Ranking del Discípulo Más Respetado» de Yunji, ¿verdad?
+0020 [Chixia] | Claro, yo pensaba que sería la número uno seguro...
+0021 [Chixia] | ¡Pero adivina qué! ¡No me nominaron para nada! ¡Ni una sola vez!
+0022 [Chixia] | ¿Cómo es posible? ¡Yo, Chixia, la Xuan Shi genio, no soy la número uno! ¡Imposible!
+0023 [Shimiao] | No puede ser...==W== ¿Entonces ... vas a votar por ti misma?
+0024 [Chixia] | ¡Jajaja, así es! ¡Voy a colgar veinte placas con mi propio nombre!
+0025 [Shimiao] | Eh...==W== ¿No es hacer trampa?
+0026 [Chixia] | ¿Eh? ¿Quieres decir que no puedo?
+0027 [Shimiao] | A mí me suena un poco turbio, sí.
+0028 [Chixia] | Pero nunca dijeron que no se pueda votar por una misma, así que debería estar bien, ¿no?
+0029 [Chixia] | En el peor de los casos, el Maestro me regañará un poco. ¡No es para tanto!
+0030 [Shimiao] | Que te regañen...==W== Mira, si la gente lo llama trampa, yo no puedo ayudarte.
+0031 [Chixia] | Está bien entonces. Las escribiré yo sola.
+0032 [Narración] | Unas semanas después...
+0033 [Shimiao] | Siento que hace tiempo que no veo a Chixia... ¿Será que ==W==se fue de viaje otra vez?
+0034 [Shimiao] | Pero cada vez que sale de Cangwu arma algún alboroto. Si no hay noticias, probablemente sigue en la ciudad. Quizá revise el dojo...
+0035 [Shimiao] | Qué raro... No está en ninguno de sus lugares habituales...
+0036 [Yunji Retreat Student] | ¿Shimiao? Guau, no te veo mucho por aquí. ¿Qué te trae?
+0037 [Shimiao] | Ah, hola. Vine a buscar a Chixia...
+0038 [Yunji Retreat Student] | Ah, ¿Chixia? La castigaron. Últimamente está copiando textos en el campo de entrenamiento.
+0039 [Shimiao] | ¿¡Castigada!? No me digas que es por votar por sí misma con esas placas de madera...
+0040 [Yunji Retreat Student] | ¿Placas de madera...?
+0041 [Shimiao] | Chixia estaba escribiendo su propio nombre en placas, diciendo que votaría por sí misma como el discípulo más respetado...
+0042 [Yunji Retreat Student] | ¡Ohhh! ¿Así que eso eran esas placas? ¿Tenían su nombre? Todos pensamos que eran talismanes contra fantasmas. Creímos que quizá estaba bromeando porque no la nominaron.
+0043 [Yunji Retreat Student] | Ahora tiene sentido. ¡Con razón su maestro la castigó con ejercicios de caligrafía!
+0044 [Shimiao] | Ya veo...==W== Entonces probablemente hoy no la encuentre. Creo que me regresaré por ahora.
+0045 [Yunji Retreat Student] | Bueno, le decimos «castigada», pero no es tan estricto. Si quieres verla, solo pasa por el campo de entrenamiento.
+0046 [Shimiao] | Ya veo. Gracias por avisarme. Iré al campo de entrenamiento.
+0047 [Shimiao] | Pero después de tanto tiempo castigada... Conociendo a Chixia, ya debe de estar desesperada de encierro...
+0048 [Shimiao] | Ah, ahí la veo. Chi...
+0049 [Narración] | Chixia está tirada en el suelo, rodeada de hojas de papel, con la cara manchada de tinta.
+0050 [Chixia] | La caligrafía es igual que dibujar talismanes~ Un trazo a la vez. La verdad, creo que me está quedando bastante bien.
+0051 [Chixia] | Aunque...
+0052 [Chixia] | Hm... La forma de «Relámpago» se me hace muy familiar...
+0053 [Chixia] | ¡Espera! ¡Ese talismán de rastreo que nos enseñó el Maestro la última vez se ve casi igual!
+0054 [Chixia] | Cierto, el Maestro sí dijo que las palabras mismas son parte de los talismanes... Entonces, ¿y si le añado unos cuantos caracteres extra a uno ya existente, así...==W== Y uno más aquí...?
+0055 [Chixia] | ... ¡Ja! ¡Relámpago, aparece!
+0056 [Chixia] | ¡Ajajaja! ¡SOY UNA GENIO!
+0057 [Chixia] | Pero en serio... ¿por qué me castigó el Maestro con caligrafía? Escribir caracteres es tan aburrido...
+0058 [Chixia] | Mmm... Pero si añadir palabras funciona, ¿qué pasa si en cambio borro palabras de un talismán...?==W== Jeje, ¡creo que lo probaré!
+0059 [Yunji Retreat Student] | Ah, Shimiao, ¿ya te vas? ¿No encontraste a Chixia?
+0060 [Shimiao] | Sí la encontré. Se veía bastante animada, así que ya no estoy preocupada.
+0061 [Shimiao] | Y parece ocupada experimentando con papeles de talismán. Volveré otro día.

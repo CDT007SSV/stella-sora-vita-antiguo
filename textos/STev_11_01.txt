@@ -1,0 +1,120 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 1 · Encargo traído por la brisa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_982 | Soldado Trekker
+N:avg3_159 | Horizon
+N:avg3_161 | Leafia
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Encargo traído por la brisa
+0003 [Intro] | Intrigada por los rumores sobre un Monolito en el mar, Leafia quiere zarpar para investigar. Horizon le recomienda a dos Trekkers marinas con mucha experiencia: Shia y Karin.
+0004 [Horizon] | ¿Quieres investigar el Monolito del mar?
+0005 [Leafia] | Así es.==W== Hace unos días rescataron a un pescador en altamar.
+0006 [Leafia] | Desde que lo sacaron del agua, no deja de murmurar lo mismo una y otra vez, como si hablara dormido: En el mar... Un Monolito...
+0007 [Horizon] | Ah, eso.==W== Oí que el tipo apenas estaba lúcido cuando lo subieron, y que solo balbuceaba puros disparates. Pensamos que no valía la pena mandar a un equipo por un rumor sin confirmar.
+0008 [Leafia] | ¿Pero y si de verdad vio algo?
+0009 [Leafia] | Si hay un Monolito sin registrar allá afuera, tenemos que ponerlo en el mapa. Rumor o no, tengo que verlo con mis propios ojos.
+0010 [Horizon] | Sabía que dirías eso. Oficialmente no puedo asignarte gente ni recursos. Pero si quieres husmear por tu cuenta en tu tiempo libre, no te voy a detener.
+0011 [Horizon] | Eso sí, Leafia...==W== ¿Alguna vez has navegado en mar abierto?
+0012 [Leafia] | No.
+0013 [Leafia] | O sea que tienes que ayudarme a averiguar cómo hacerlo.
+0014 [Horizon] | Siempre pides favores como si se te debieran.==W== Está bien, no tengo cara para quejarme. Por suerte para ti, ya me lo veía venir.
+0015 [Horizon] | Te voy a conectar con dos expertas. Si quieres salir al agua, son tu mejor opción.
+0016 [Horizon] | Ah, y cuando las veas,==W== a ver si les puedes preguntar cuándo se van a dignar a pasar por aquí. Mis asientos especiales para expertas se están llenando de polvo...
+0017 [Leafia] | Este debe ser el lugar.==W== Horizon mencionó a unas Fluflas en traje de baño... ¡Ah, ahí están!
+0018 [Leafia] | ¡Ahí!
+0019 [Leafia] | Disculpen, ¿ustedes dos son...==W== ¡Whoa!
+0020 [Shia] | Mm... Huele a papel y tinta, con un toque de sol y tierra...
+0021 [Leafia] | ¡¿Q-Qué haces?! ¡¿Quién anda oliendo a la gente apenas la conoce?!
+0022 [Karin] | ¡Shia! ¡¿Por qué siempre haces esto con la gente nueva?! ¡Te dije que las asusta!
+0023 [Shia] | ¿Cómo voy a confirmar que es la que mandó Horizon si no capto su aroma?
+0024 [Karin] | ¡La gente normal empieza preguntando el nombre!
+0025 [Leafia] | Sí, empezar por el nombre se siente un poco más seguro...
+0026 [Shia] | Jeje, perdón por el susto. Pero identidad confirmada.
+0027 [Shia] | Mucho gusto. Soy Shia, y ella es Karin. Somos Trekkers marinas. Si tiene que ver con el mar, nosotras nos encargamos.
+0028 [Shia] | Y tú debes de ser Leafia. La topógrafa que cargó una bolsa enorme de herramientas desde Sailstead en una búsqueda inútil de un Monolito marino que quizá ni exista.
+0029 [Leafia] | Parece que Horizon ya les contó de mí.
+0030 [Leafia] | Pero por cortesía, déjenme presentarme como se debe. Soy Leafia, de la Asociación de Trekkers.
+0031 [Leafia] | Espero que ustedes dos puedan ayudarme a salir al mar e investigar los rumores del Monolito marino.
+0032 [Karin] | Hay que tener agallas.
+0033 [Karin] | La mayoría lo descartaría como una farsa o se echaría para atrás. Tú no. Llegaste cargando una mochila gigante.
+0034 [Karin] | Te lo advierto desde ya: hacer topografía en el mar no es ninguna broma. Subestima el océano y lo pagarás caro.
+0035 [Leafia] | Jamás lo haría. Por eso vine con ustedes.
+0036 [Leafia] | Horizon dijo que son las mejores Trekkers marinas que hay. Verdaderas expertas. Supuse que con ustedes estaría en buenas manos.
+0037 [Karin] | ¿Expertas?==W== Mmm-hmm... Las mejores... Expertas...
+0038 [Leafia] | ¿Está bien? ¿Dije algo raro?
+0039 [Shia] | Jeje, parece que la cola de Karin apunta derechito hacia arriba.
+0040 [Karin] | ¡Shia! ¡Claro que no!==W== Ejem... Bueno, creo que hablas en serio. Y no tienes cara de estafadora que nos robaría el barco para venderlo.
+0041 [Leafia] | Qué golpe bajo. ¿Por qué haría algo así?
+0042 [Shia] | Jeje, Karin es cautelosa. Pero una vez que confía en ti, te cuida muy bien.
+0043 [Karin] | ¡Shia! ¡No tienes que contarle todo eso!
+0044 [Karin] | B-Bueno... A nosotras también nos intriga el Monolito marino.
+0045 [Leafia] | ¿Entonces creen que de verdad hay un Monolito en el mar?
+0046 [Shia] | Mm.==W== Hace unos meses apareció una luz misteriosa en el agua. La gente decía que era el resplandor de un Monolito marino.
+0047 [Shia] | Resultó ser el esqueleto brillante de una ballena. Pero después revisamos unos registros antiguos y encontramos bastantes historias sobre un Monolito marino.
+0048 [Karin] | El mar está lleno de incógnitas, pero un rumor así no sale de la nada.
+0049 [Karin] | Como Trekkers marinas, nosotras también queremos entender mejor el océano. Descubrir sus secretos.
+0050 [Leafia] | Perfecto. ¿Cuándo zarpamos?
+0051 [Karin] | Bueno, sobre eso...
+0052 [Leafia] | Cierto, ya entendí. Hay un montón de preparativos antes de zarpar, ¿verdad?
+0053 [Leafia] | Como revisar el casco, checar las velas, abastecernos de agua y comida, y trazar una ruta según las corrientes y los patrones del viento...
+0054 [Shia] | Todo eso importa, pero hay algo todavía más importante.
+0055 [Leafia] | ¿Algo más importante? ¿Será...==W== He oído que los pescadores le ofrecen una oración al mar antes de salir...
+0056 [Karin] | Eso no es lo nuestro.==W== ¡La prioridad número uno es conseguirte un traje de baño!
+0057 [Leafia] | ¿Eh? ¿Oí bien? Quizá necesito dormir más.
+0058 [Shia] | ¡Oíste bien! ¡Vamos, hay que conseguirte un traje de baño!
+0059 [Leafia] | P-Pero ¿no estamos aquí para investigar el Monolito marino? ¿Qué tiene que ver un traje de baño con eso?
+0060 [Karin] | ¡Mucho! No pensarás salir en serio con esa ropa. Si se moja, no solo vas a estar incómoda, ¡apenas podrás moverte!
+0061 [Shia] | ¡Un traje de baño es equipo esencial! Ligero, transpirable, sin nada que te estorbe.==W== ¿Y lo mejor? Si te pones el indicado, ¡vas a sentir ganas de lanzarte directo al océano!
+0062 [Shia] | Vamos, no pongas esa cara de horror. Nos pediste ayuda, así que estamos haciendo nuestro trabajo: ¡asegurarnos de que estés preparada para el mar!
+0063 [Leafia] | Ugh...
+0064 [Leafia] | No puedo creer que ando en traje de baño... No logro concentrarme para nada... Esto se siente mal...
+0065 [Leafia] | ¿Eh? Esa persona agachada junto al agua...==W== ¿Es Karin?
+0066 [Karin] | Ah, eres tú.
+0067 [Karin] | Mmm... Te ves como se debe, pero pareces tensa. ¿No te queda bien?
+0068 [Leafia] | No, escogiste muy bien. Es que no estoy acostumbrada a andar con esto puesto...
+0069 [Leafia] | Pero por la misión, lo voy a aguantar... Hasta bailaría en plena calle con esto.
+0070 [Karin] | ¡No tienes que llegar a tanto! Te tomas las cosas demasiado en serio...
+0071 [Leafia] | En el campo pasan cosas inesperadas. Si no te adaptas rápido, el trabajo no se hace.
+0072 [Karin] | Ya veo... Bueno, por hoy tómatelo con calma.
+0073 [Karin] | Sé que te mueres por meterte al agua ahora mismo, pero no salimos hasta mañana temprano. Guarda tus energías.
+0074 [Leafia] | Tú...==W== ¡¿Puedes leer la mente?!
+0075 [Karin] | Ni de broma.==W== Horizon nos lo dijo en su carta. Dijo que estarías tan ansiosa que irías nadando hasta allá tú sola, y nos rogó que te detuviéramos.
+0076 [Leafia] | Está bien.==W== Si hoy no vamos a salir, ¿qué haces agachada aquí afuera?
+0077 [Karin] | Eh... Buscando navajas.
+0078 [Leafia] | ¿Navajas?
+0079 [Karin] | ¡S-Sí! Como es la primera vez que nos vemos, pensé en desenterrar unas almejas y pedirle a Shia que prepare una buena cena de bienvenida.==W== ¿Es... es algún problema?!
+0080 [Leafia] | No, para nada. Es que no esperaba que te tomaras la molestia por mí. Es una linda sorpresa.
+0081 [Karin] | ¡¿Qué quieres decir con molestia?! ¡T-Eres nuestra invitada y vamos a navegar juntas! ¡Claro que voy a cuidarte!
+0082 [Karin] | Lástima que hoy la playa está muerta. Llevo siglos aquí afuera y casi no he encontrado nada.
+0083 [Leafia] | Ay, no... ¿Qué se supone que diga?
+0084 [Leafia] | Esa estrategia de cumplidos que me enseñó Mikan es demasiado complicada. Tengo la mente en blanco. No me acuerdo de nada.
+0085 [Leafia] | Quizá mejor me quedo con las almejas...
+0086 [Leafia] | Eh... ¿Son difíciles de encontrar las navajas?
+0087 [Karin] | No mucho. Solo te concentras y escuchas si algo se mueve bajo la arena.==W== Oh... Creo que aquí hay algo.
+0088 [Leafia] | ¿Una navaja?
+0089 [Karin] | No, suena a un cangrejo.
+0090 [Narración] | Karin aparta una fina capa de arena y deja ver un cangrejito debajo.
+0091 [Karin] | Parece que quedó varado con la marea baja y se resecó bajo el sol. El pobre no tuvo fuerzas para volver arrastrándose, así que se enterró en la arena para esconderse.
+0092 [Narración] | Karin se agacha, levanta con cuidado al cangrejito inerte, camina hasta la orilla y lo devuelve con delicadeza al mar.
+0093 [Karin] | Listo. Vuelve a casa.
+0094 [Leafia] | Increíble... ¿Cómo supiste que era un cangrejo nada más por el sonido?
+0095 [Karin] | ¡Jeje! Eso es la experiencia.
+0096 [Karin] | Shia y yo hemos vivido junto al agua por años.
+0097 [Karin] | Dónde llegan las conchas con la marea baja, bajo qué rocas se esconden los cangrejos, qué peces entran a las aguas poco profundas... Me lo sé todo con los ojos cerrados.
+0098 [Leafia] | Con los ojos cerrados...
+0099 [Karin] | Espera, ¿quieres una demostración con los ojos vendados?==W== ¡Va! ¡Reto aceptado!
+0100 [Leafia] | No, de verdad estoy impresionada. Conoces este mar mejor de lo que esperaba, Karin.
+0101 [Karin] | ¡Claro que sí!
+0102 [Leafia] | Sí... Ahora entiendo por qué Horizon me mandó contigo.
+0103 [Leafia] | No solo son expertas navegantes. Sienten y entienden el mar de verdad.
+0104 [Leafia] | Si hay un Monolito allá en el mar, sé que siguiéndolas nos llevarán directo a él.
+0105 [Karin] | Hmph. Veo que tienes buen ojo.
+0106 [Karin] | ¡Ya que me estás echando flores, supongo que tengo que lucirme un poco y dejarte boquiabierta!
+0107 [Leafia] | ¿Eh?
+0108 [Karin] | ¡Prepárate para ver cómo es una Trekker marina de confianza!

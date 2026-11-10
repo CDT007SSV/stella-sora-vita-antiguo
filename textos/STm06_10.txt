@@ -1,0 +1,122 @@
+# Capítulo 6 · Milagro de un destello · 10 · The Battle in Philae Ⅲ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cautious Soldier | Soldado cauteloso
+N:Docile Gen-3 Plant | Planta dócil de 3.ª generación
+N:Gen-3 Plant Warrior | Planta guerrera de 3.ª generación
+N:Irritable Soldier | Soldado irritable
+N:Timid Soldier | Soldado tímido
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_138 | Nyx
+N:avg1_156 | Nazuna
+N:avg1_1997 | Soldado
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_962 | Empleado envenenado de Cosecha Unida
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_1268 | Hierba de largo alcance
+N:avg3_132 | Kaede
+N:avg3_134 | Mina
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | La batalla de Philae III
+0003 [Intro] | Tras cruzar el campo de batalla, Firenze se reúne con Petal Bloom y la Nueva Estrella. Después de ganarse la confianza mutua, el grupo entra al Monolito para obtener poder adicional. Mientras tanto, Darcia hace que Mina firme cierto «documento»...
+0004 [Lugar y hora] | 09:00, 7.º del mes de Messis, afueras de Philae, campamento de Trekkers
+0005 [Cautious Soldier] | ¡¿Cómo los derrotamos?! Espadas, flechas... ¡Nada les hace ni un rasguño!
+0006 [Irritable Soldier] | ¡Quémenlos! Oí que así fue como los Trekkers acabaron con el Jardín Parásito.
+0007 [Cautious Soldier] | ¿Estás loco? ¡Este lugar es un polvorín! ¡Nos vas a asar vivos a todos!
+0008 [Lugar y hora] | 09:30, 7.º del mes de Messis, afueras de Philae, antigua Asociación de Trekkers
+0009 [Kaede] | A este paso van a arrasar el campamento... Nazuka, Nazuna, ¿qué hacemos?
+0010 [Nazuna] | ¡¿Todavía lo preguntas?! ¡Agarramos a Mistique y nos largamos antes de que nos acorralen!
+0011 [Nazuka] | Tranquila. Sé que se ven aterradoras, pero miren...
+0012 [Timid Soldier] | ¡Me rindo! ¡Por favor, a-aléjense!
+0013 [Gen-3 Plant Warrior] | ¿Iii-uuu?
+0014 [Gen-3 Plant Warrior] | ¡Uiii!
+0015 [Nazuka] | ¿Ven? No atacan. Solo desarmaron a los soldados y se fueron... Estaremos más seguras si nos quedamos quietas.
+0016 [Nazuna] | S-sí, parece que no son peligrosas... Jaja, ¿será que el Jefe mandó refuerzos para despejar el campo?
+0017 [Nazuna] | ¡Iik! ¡¿Nos encontraron?!
+0018 [Nazuka] | No es una planta. Es una persona.
+0019 [Kaede] | Un uniforme de Cosecha Unida...==W== Tú soltaste a esas cosas, ¿no es así?
+0020 [Firenze] | Buen día. Soy Firenze, directora de operaciones de la sucursal de Philae de Cosecha Unida. Supongo que ==PLAYER_NAME== les avisó que vendría.
+0021 [Nazuna] | Sí, ==SEX== dijo que alguien de Cosecha Unida vendría de visita.
+0022 [Nazuna] | Solo que no esperaba que fuera toda una directora...
+0023 [Nazuna] | Entonces, ¿qué quieres? Te voy a ser sincera: después del lío de Lady Gray, su reputación por aquí está por los suelos.
+0024 [Firenze] | Je.==W== Desde luego no se andan con rodeos a la hora de recibir a alguien.
+0025 [Nazuka] | Nazuna, cálmate.
+0026 [Nazuka] | Se puede confiar en Firenze. Ella fue quien limpió nuestros nombres de los rumores sobre Lady Gray.
+0027 [Nazuna] | A-ah, ¿en serio...?==W== Entonces tal vez sea de las buenas.
+0028 [Firenze] | No soy una buena persona. Digamos que el Jefe y yo tenemos intereses en común.==W== Limpiar sus nombres fue solo un negocio, una compensación por las molestias.
+0029 [Firenze] | Ahora debemos atacar la crisis de las Plantas Inteligentes de raíz.
+0030 [Firenze] | Vine a coordinar nuestro siguiente paso: infiltrarnos en el laboratorio subterráneo mañana al amanecer.
+0031 [Firenze] | Además, como ustedes entrarán al Monolito para obtener su Gracia,==W== yo puedo cuidar a la señorita Mistique mientras siga inconsciente.
+0032 [Lugar y hora] | 14:30, 7.º del mes de Messis, entrada del Monolito, Isla del Lago, Philae
+0033 [Noya] | No puedo creer que de verdad nos hayas encontrado...
+0034 [Firenze] | No fue difícil. Es una isla pequeña. Si se rastrea el bosque sector por sector, tarde o temprano uno se topa con la entrada del Monolito.
+0035 [Noya] | Pero hemos estado entrando de nuevo al Monolito cada media hora para obligar a que la entrada cambie de lugar...
+0036 [Firenze] | Ya había previsto esa variable, y precisamente por eso llené la zona de equipos de búsqueda.
+0037 [Docile Gen-3 Plant] | (Crujido)
+0038 [Amber] | ¡Plantas Inteligentes!
+0039 [Firenze] | No disparen. El Jefe las tiene bajo control.
+0040 [Fuyuka] | ¡¿M-Maestro... el Maestro las está comandando?!
+0041 [Firenze] | Correcto. Para evitarle a la ciudad una masacre sin sentido, el Jefe fingió una alianza con Darcia. ==SEX1== está usando las plantas para doblegar a las legiones de la sede.
+0042 [Firenze] | Supongo que el Jefe ya les explicó, ¿no? Lo de entrar al Monolito para obtener la Gracia que hay dentro.
+0043 [Fuyuka] | El Maestro sí lo dijo... Pero ¿salir del Monolito conservando nuestros poderes? Y-yo... la verdad todavía no puedo creerlo.
+0044 [Amber] | Pero el Jefe... no mentiría.
+0045 [Noya] | Sí. No vamos a dudar de ==PLAYER_NAME==.
+0046 [Fuyuka] | Es solo que... no podemos estar seguras de que de verdad nos estés ayudando.
+0047 [Amber] | Necesitamos. Pruebas.
+0048 [Firenze] | Qué precavidas. No esperaba menos de las subordinadas del Jefe.
+0049 [Firenze] | ¿Pruebas de mi lealtad...? Lo admito, no tengo ninguna.==W== Y como el Jefe está con Darcia, llamarle para comprobarlo no es precisamente una opción.
+0050 [Firenze] | Un momento, ¿Nyx no les dejó nada?
+0051 [Firenze] | Nunca coordinamos esto, pero conociéndola, siempre tan preparada, estoy segura de que previó este enfrentamiento.
+0052 [Nyx] | Amber. Atrápala.
+0053 [Amber] | Es...==W== tu almohada.
+0054 [Nyx] | Guárdamela. Si alguna vez llegan a un callejón sin salida y no pueden decidir, ábrela.==W== La respuesta está adentro.
+0055 [Amber] | La almohada... Nyx dijo que la abriéramos si no podíamos decidir.
+0056 [Firenze] | ¿Una almohada?==W== Je. Típico de Nyx...==W== ¿Y bien? ¿Qué hay adentro?
+0057 [Fuyuka] | L-la voy a abrir.==W== Hay... ¿una foto?
+0058 [Amber] | Algo escrito, atrás.
+0059 [Fuyuka] | Pueden confiar incondicionalmente en la persona de esta foto. —Nyx
+0060 [Noya] | Vaya. No se parece mucho a como te ves ahora, pero sí...==W== Definitivamente eres tú.
+0061 [Firenze] | M-mi foto de credencial...==W== ¿Cómo diablos la consiguió...?
+0062 [Firenze] | Me la quedo. En fin... ¿Ya terminaron de interrogarme?
+0063 [Noya] | Como ==PLAYER_NAME== y Nyx responden por ti... Está bien. Confiamos en ti. El tiempo corre, ¡vamos a escalar!
+0064 [Firenze] | En efecto. Sin embargo, prácticamente no tengo experiencia de campo dentro del Monolito. Confiaré en su guía.
+0065 [Noya] | ¡No hay problema! Déjanoslo a nosotras.==W== Después de todo, tenemos...
+0066 [Iris] | Por la Gracia de Noya, ella debería ir al frente...==W== Mejor no. Fuyuka debería encabezar. Philae es su territorio.
+0067 [Iris] | Además, con Firenze aquí podemos dividirnos en dos escuadras. Fuyuka, Noya y Amber, ustedes van juntas. Firenze, tú vienes conmigo.
+0068 [Noya] | Desde que ==PLAYER_NAME== dijo que podríamos llevarnos la Gracia afuera, Iris no ha parado de hacer cálculos para aprovechar al máximo nuestro potencial.
+0069 [Noya] | Firenze, ahora eres parte del equipo. Confiemos en el plan y sigámoslo.
+0070 [Firenze] | Je...==W== Hacía mucho que no me sentía así. Jefe... Debo admitir que lo envidio.
+0071 [Lugar y hora] | 16:30, 7.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0072 [Darcia] | Mina, debo admitir que te envidio.
+0073 [Mina] | Lady Darcia, por favor, no se burle de mí. Solo soy una empleada común. ¿Qué hay que envidiar?
+0074 [Mina] | Compararme con usted... Sinceramente, no me atrevería.==W== Usted es mucho más importante de lo que yo jamás seré, tanto para Cosecha Unida como para ==SEX12== Tirano.
+0075 [Darcia] | No. Lo digo en serio.
+0076 [Darcia] | Tuve que esperar hasta hoy para darme cuenta de que siempre estuve en el camino equivocado.
+0077 [Darcia] | Tú, Firenze...==W== Son las personas de corazón puro como ustedes quienes de verdad merecen estar al lado del Tirano.
+0078 [Mina] | Eh, ¿Lady Darcia? No tengo idea de qué está hablando. Solo vine a buscar la pijama de ==SEX12== Tirano.
+0079 [Darcia] | Quizá sea mejor que no lo sepas.==W== Toma, mira este documento. Si los términos te parecen aceptables, fírmalo.
+0080 [Mina] | Esto es... ¿Por qué me da esto a mí?
+0081 [Darcia] | Ni al Tirano ni a la altiva Firenze les importarían. Prefiero dejárselos a alguien que de verdad los valore.
+0082 [Darcia] | Sin embargo, nada es gratis.
+0083 [Darcia] | Entiendes el precio, ¿verdad?
+0084 [Tú] | Las llamamos «Inteligentes», pero actúan según la mente de su «nutriente». Se les pegaron las costumbres de Nyx, incluida la siesta de la tarde.
+0085 [Mina] | Lo sé... y lo acepto.
+0086 [Mina] | Entonces... Por favor, Lady Darcia. Dejo en sus manos la tarea de apoyar al Tirano.
+0087 [Darcia] | Gracias, Mina…
+0088 [Darcia] | Usaré tu voluntad como nutriente...
+0089 [Darcia] | ...para asegurar que este ideal eche raíces.

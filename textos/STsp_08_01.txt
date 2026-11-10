@@ -1,0 +1,114 @@
+# Nova Times #08 · Cautiva de la verdad · 1 · Captive of Truth (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Medical Instructor | Instructora de Medicina
+N:Prison Guard | Guardia de la prisión
+N:avg1_118 | Coronis
+N:avg3_157 | Guardia Imperial
+N:avg3_171 | Empleada
+N:avg3_205 | Igna
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Cautiva de la verdad (Parte I)
+0003 [Intro] | En la sombría mazmorra de los Árbitros del Ocaso, Coronis recibe la visita de una amiga. Pero esta amiga no ha venido solo para un reencuentro sencillo.
+0004 [Lugar y hora] | ??:??, día ?? del mes de ???, Imperio de la Gracia, Prisión n.º 7 de los Árbitros del Ocaso
+0005 [Narración] | Mm... ¿Cuántos días llevo aquí dentro?
+0006 [Narración] | En serio. ¿Sin ventanas, ni siquiera un reloj?
+0007 [Coronis] | Creo que perdí toda la sensibilidad en las pantorrillas...
+0008 [Coronis] | Fascinante... Así que esta es la respuesta fisiológica a arrodillarse por mucho tiempo.
+0009 [Coronis] | El cuerpo humano es verdaderamente una maravilla.
+0010 [Coronis] | No es que vaya a ir a ninguna parte. ¿De verdad es necesario atarme así?
+0011 [Prison Guard] | ¡Oye, pecadora! ¡Deja de murmurar! ¡Silencio!
+0012 [Coronis] | Solo hago observaciones... Sabes, eres muy paranoico para tratarse de una prisionera sin ningún deseo de irse.
+0013 [Coronis] | Dame un modelo de esqueleto y jamás me iría. Es tranquilo, privado... De verdad debí haber traído mi equipo de laboratorio.
+0014 [Prison Guard] | ... ¿El aislamiento te frió el cerebro? ¡Escucha: hacerte la loca no te va a sacar de aquí!
+0015 [???] | Suéltenla. No podemos hablar mientras está de rodillas.
+0016 [Coronis] | —¿Oh?
+0017 [Prison Guard] | ¡Señorita Igna! ¡Sí, señora! De inmediato.
+0018 [???] | Gracias. Déjennos solas. Vengo por órdenes a tomar la declaración de Coronis.
+0019 [Prison Guard] | Entendido. Me retiro.
+0020 [Prison Guard] | ¡Y tú!==W== Cuidado, ¡no intentes nada raro!
+0021 [???] | Cuánto tiempo sin verte, Coronis.
+0022 [Coronis] | Me preguntaba quién se molestaría en venir... Una invitada poco común, en verdad, Igna.
+0023 [Igna] | Hmph... Deja el teatrito. Arrodillarte tanto tiempo debió matarte las piernas. Ven, te ayudo a levantarte.
+0024 [Igna] | Desde luego no se contuvieron. Uno pensaría que ser colega oficial del Imperio de la Gracia contaría para algo.
+0025 [Coronis] | Estoy bien. De hecho, el dolor ayuda. Sirve como una distracción útil.
+0026 [Igna] | Ya salió el veredicto.==W== Échale un vistazo.
+0027 [Coronis] | A ver...==W== Mmm. «Blasfemia contra el Dios de la Gracia. Herejía. Condenada a la horca pública».
+0028 [Coronis] | Ja. Tal como predije. Qué tedioso... Los tontos siempre recurren a la violencia burda cuando se enfrentan a algo que no pueden comprender.
+0029 [Igna] | Escuché que intentaste convertir tu juicio en un debate académico.
+0030 [Coronis] | ¿A eso le llamas debate? Su ignorancia era asombrosa... Intentar razonar con los Árbitros del Ocaso es como echar perlas a los cerdos.
+0031 [Coronis] | Lo dije con toda claridad: «Los Nocturn Eterna no necesitan la bendición del Dios de la Gracia para usar magia».
+0032 [Coronis] | «Generan su propia magia. No se requieren Piedras del Alma».==W== ... Simple. Empírico.
+0033 [Igna] | ¡Jajaja! Bueno, no son académicos, Coronis. No les importa la ciencia.
+0034 [Igna] | Su trabajo es dejar de pensar, emitir un veredicto que encaje con la «doctrina antigua» y cerrar el caso.
+0035 [Igna] | La doctrina establece que la magia y las Piedras del Alma son dones exclusivos del Dios de la Gracia. Nadie se atreve a cuestionarlo en público... Incluso investigarlo está prohibido.
+0036 [Coronis] | Hmph... Creo que se hacen los tontos. Evitan verdades a las que les aterra enfrentarse.
+0037 [Coronis] | Un Alto Árbitro llegó a argumentar que la «fe en el Dios de la Gracia» es un requisito para la magia. Casi me río a carcajadas en plena corte.
+0038 [Coronis] | Consideré lanzar un hechizo mientras denunciaba a su dios, solo para demostrarles que se equivocaban. Pero qué flojera... Tendría que explicarles desde cero los principios básicos de la magia.
+0039 [Igna] | ¿Así que renunciaste al resto de la defensa y los dejaste pasar directo a la sentencia?
+0040 [Coronis] | Como dije: perlas a los cerdos. No importa qué tan claro lo explique, carecen de la capacidad para entender.
+0041 [Igna] | Perlas a los cerdos...==W== ¡Jajaja!
+0042 [Igna] | ¡Hablas igualito que un profesor de la Academia Luz de Gracia! ¡Jajaja!
+0043 [Coronis] | ¡Luz de Gracia jamás admitiría estudiantes tan cerrados! Y mucho menos organizaría un debate tan estúpido.
+0044 [Igna] | Suspiro... La Academia Luz de Gracia. Extraño mis días de estudiante.
+0045 [Igna] | Si no me hubieras conocido en aquel entonces, quién sabe. Quizá habrías terminado en un oficio muy distinto.
+0046 [Narración] | Hace dos años—
+0047 [Coronis] | Departamento de Medicina...==W== Departamento de Medicina...==W==
+0048 [Coronis] | Debe de ser aquí.
+0049 [Coronis] | Disculpa. Vengo a inscribirme en Medicina...
+0050 [Igna] | Llegaste demasiado tarde. La inscripción a Medicina ya cerró.
+0051 [Coronis] | Oh. ¿En serio? Bueno, supongo que iré a ver Biología entonces...
+0052 [Coronis] | De haberlo sabido, no me habría desvelado trabajando en ese espécimen... Bostezo...
+0053 [Igna] | ¡Espera! ¡Un momento!==W== ¿Dijiste ... «espécimen»?
+0054 [Coronis] | ¿Mm? Sí. Ayer conseguí gratis unos restos de monstruo de la Asociación de Trekkers. Tenía que procesarlos antes de que se pudrieran, así que me desvelé.
+0055 [Igna] | ¿Qué les pasa a los de nuevo ingreso hoy en día? ¿Ni siquiera han empezado las clases y ya están preservando muestras?
+0056 [Coronis] | Solo es un pasatiempo. Soy Coronis...==W== ¿Eres ... maestra aquí?
+0057 [Igna] | No, soy Igna. Estoy dos años por delante de ti. Solo estoy aquí ayudando a la facultad a ordenar unos archivos.
+0058 [Igna] | Te propongo algo: te llevo con la profesora. La inscripción está cerrada, pero si le explicas la situación y le muestras lo que sabes hacer, quizá haga una excepción.
+0059 [Igna] | Sería una lástima dejar que otro departamento se quede con una estudiante de tu calibre.
+0060 [Coronis] | Muchísimas gracias,==W== sénior Igna.
+0061 [Igna] | Jajaja, no hace falta. No soy de títulos. Llámame Igna, nada más.
+0062 [Igna] | Mmm... En realidad, mostrarle tu trabajo directamente a la profesora sería más convincente. Pasemos por tu dormitorio a recoger ese espécimen.
+0063 [Medical Instructor] | Este es un espécimen notablemente fino. ¿De verdad lo preservaste tú misma? El trabajo de incisión es impecable: diría que tienes al menos tres años de experiencia.
+0064 [Coronis] | Me halaga. Pero dado que los huesos son la única prueba duradera de que una criatura alguna vez vivió, creo que tallar en un sujeto exige la reverencia que se le debe al arte.
+0065 [Medical Instructor] | Ya veo. Dime, ¿por qué elegir Medicina como carrera principal? ¿Por qué no Biología?
+0066 [Coronis] | Los humanos son la cúspide de la creación. Despiertan en mí una curiosidad que ninguna otra criatura iguala. La biología general está bien, pero el cuerpo humano... Eso es lo que va con mis gustos.
+0067 [Coronis] | Pero el estudio autodidacta tiene límites insuperables. En específico en anatomía: es sumamente difícil conseguir sujetos humanos de buena calidad por mi cuenta, así que...
+0068 [Medical Instructor] | ¡Guau, espera ahí! ¿Estás diciendo ... que solo quieres inscribirte aquí para abrir gente en canal?
+0069 [Igna] | ¡Eh, profesora! ¡Lo que Coronis quiere decir es que la anatomía humana presenta un desafío único! ¡Ella quiere dominarla para... eh... beneficiar a la sociedad!
+0070 [Medical Instructor] | Ah... ¿Es así? Ya veo.
+0071 [Medical Instructor] | Coronis, aparte de la disección, ¿tienes otros intereses?
+0072 [Coronis] | También incursiono en la farmacología.
+0073 [Narración] | Coronis saca un tubo de ensayo lleno de un misterioso líquido.
+0074 [Medical Instructor] | ¿Y esto qué es?
+0075 [Coronis] | Una poción que preparé yo misma. Funciona como amplificador de magia.
+0076 [Coronis] | Una vez ingerida, dispara temporalmente la producción de maná de quien la toma, duplicando de hecho la potencia de los hechizos.
+0077 [Medical Instructor] | Fascinante. En efecto, es morada.
+0078 [Medical Instructor] | ¿Te importa si la pruebo?
+0079 [Coronis] | Adelante, sírvete.
+0080 [Medical Instructor] | Mmm... No está mal. Pasa suave.==W== Probémosla. Un simple Hechizo de Luz debería bastar.
+0081 [Medical Instructor] | ¡Aaah! ¡Mis ojos! ¡Mis ojos! ¡Está cegador! ¡Esta cosa funciona demasiado bien!
+0082 [Igna] | Entonces, profesora... ¿Hará una excepción y dejará que Coronis se inscriba?
+0083 [Medical Instructor] | ¡Por supuesto! ¡Está dentro! ¡Bienvenida a bordo! De todos modos, las fechas límite son solo sugerencias.
+0084 [Medical Instructor] | Un consejo, eso sí. No profundices demasiado en la naturaleza de la magia.
+0085 [Medical Instructor] | No es el enfoque de nuestro departamento. Además, si caes en la «desviación ideológica», ni nosotros podemos salvarte.
+0086 [Coronis] | ¿Mm? ¿Por qué?
+0087 [Igna] | ¡Muy bien, ya basta! Saber demasiado de eso no te conviene.
+0088 [Medical Instructor] | Ya tengo preparados los formularios de inscripción. Solo llévalos a Asuntos Académicos.
+0089 [Igna] | ¡Voy! ¡Gracias, profesora!
+0090 [Igna] | Después de eso, arrasaste con los cursos en dos años. Te reclutó pronto el Ojo de la Gracia... Una prodigio que aparece una vez cada siglo.
+0091 [Igna] | Es una lástima. La profesora te advirtió una y otra vez que no investigaras la magia, y aun así tomaste ese camino.
+0092 [Igna] | Quizá no debí haberte detenido en aquel entonces. Tal vez te habría ido mejor quedándote en la biología.
+0093 [Coronis] | Anatomía, biología... Da lo mismo. Habría llegado a las mismas conclusiones tarde o temprano. Habría hecho las mismas preguntas.
+0094 [Igna] | Es cierto. Bueno, se acabó la charla. Vamos al grano.
+0095 [Igna] | Vengo por el Tribunal de los Árbitros del Ocaso. Necesito registrar tu declaración completa.
+0096 [Igna] | El Árbitro ya dictó sentencia, pero aun así debemos seguir el procedimiento.
+0097 [Coronis] | Dices «procedimiento», pero el Ojo de la Gracia está desesperado por saber lo que descubrí, ¿verdad?
+0098 [Igna] | Correcto. El Ojo de la Gracia nunca ignora el conocimiento.==W== Ni siquiera el prohibido.
+0099 [Igna] | Y no querrás que tu descubrimiento quede enterrado en la oscuridad, ¿verdad, Coronis?
+0100 [Igna] | Así que, por favor,==W== comparte tus hallazgos.==W== Con la mayor==W== calma posible.

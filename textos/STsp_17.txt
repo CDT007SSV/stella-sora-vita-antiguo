@@ -1,0 +1,6 @@
+# Nova Times #17 · El tesoro más preciado — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_17_01 | El tesoro más preciado (Parte Ⅰ)
+STsp_17_02 | El tesoro más preciado (Parte Ⅱ)
+STsp_17_03 | El tesoro más preciado (Parte Ⅲ)

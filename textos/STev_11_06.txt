@@ -1,0 +1,96 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 6 · Revuelo por las caracolas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Glopo Duke Ⅲ | Duque Glopo Ⅲ
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg1_160 | Willow
+N:avg2_938 | Duque Glopo
+N:avg3_100 | Sylar
+N:avg3_1314 | Glopo
+N:avg3_1315 | Glopo
+N:avg3_1316 | Glopo
+N:avg3_161 | Leafia
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Revuelo por las caracolas
+0003 [Intro] | El Duque Glopo propone una competencia. Shia gana fácilmente la primera ronda, pero en la segunda una emboscada descarada la manda al mar. Por suerte, Karin la rescata. Ahora Karin se encargará del enfrentamiento ella misma.
+0004 [Iris] | G-Gran Duque Glopo, por favor devuelva la caracola a su legítimo dueño...
+0005 [Glopo Duke Ⅲ] | ¡Hmph!
+0006 [Noya] | Vamos, no seas tacaño. Esa caracola significa mucho para el pequeñín. Entrégala, ¿sí?
+0007 [Glopo Duke Ⅲ] | ¡Hmph—!
+0008 [Amber] | El cangrejo ermitaño se pondrá triste sin su caracola.
+0009 [Glopo Duke Ⅲ] | ¡Hmph! ¡Hmph!
+0010 [Willow] | Es inútil. Nos ignora por completo.
+0011 [Leafia] | Se aferra a esa caracola como si le fuera la vida. Y ahora la levanta para burlarse de nosotros...
+0012 [Karin] | ¡Este idiota quiere pelea, ¿verdad?!
+0013 [Tú] | ¡Tranquila, Karin! ¡Vas a atravesar el piso de tanto pisotear!
+0014 [Shia] | Esperen. Creo que el Glopo intenta hacernos una señal.
+0015 [Narración] | El Duque Glopo señala la caracola y agita su «mano».
+0016 [Narración] | Luego, el Duque invoca a unos Glopos pequeños. Se sube a un bote y rema por la sala, dejando a los pequeños jadeando a su paso.
+0017 [Narración] | Por último, infla el pecho y levanta la caracola por encima de su cabeza.
+0018 [Karin] | Oh... ¿Quiere competir con nosotras?==W== ¡¿El ganador se queda con la caracola?!
+0019 [Glopo Duke Ⅲ] | ¡Hmph-mm!
+0020 [Glopo Duke Ⅲ] | ¡Hmmmmph-mmm-==W==nohmu!
+0021 [Tú] | ¡¿La sala se acaba de convertir en el océano?!
+0022 [Karin] | Ja, ¿quieres competir conmigo en el agua?==W== Perfecto. Te voy a mostrar de lo que es capaz una verdadera Trekker marina...
+0023 [Karin] | ...==W== Ah, cierto. No puedo...
+0024 [Shia] | Yo me encargo, Karin. Las carreras en el mar son lo mío.
+0025 [Karin] | ¡E-Entonces cuento contigo, Shia!
+0026 [Tú] | En sus marcas...==W== ¡Tres, dos, uno!
+0027 [Leafia] | ¡Whoa, qué rápida! ¡Increíble!
+0028 [Karin] | ¡Claro que sí! Así es Shia. ¡En el agua nadie la vence!
+0029 [Tú] | Y la ganadora es... ¡Shia!
+0030 [Karin] | ¡Eso es!
+0031 [Karin] | Oye, Duque Glopo, ganamos. Entrega la caracola. Ahora.
+0032 [Glopo Duke Ⅲ] | ¡Hmph, hmph! ¡Hmph, hmph, hmph! ¡Hmmmmph!
+0033 [Narración] | El Duque levanta la mano y muestra tres dedos, luego dos.
+0034 [Karin] | ¿Dos de tres?==W== A este tipo no le gusta perder, ¿eh...
+0035 [Karin] | Bien, si quieres otra ronda, ¡ven por ella!==W== De todos modos jamás le ganarás a Shia.
+0036 [Tú] | ¡Segunda ronda, comiencen!
+0037 [Willow] | Shia va muy adelante otra vez~
+0038 [Karin] | ¡Naturalmente! No importa cuántas veces lo hagamos, jamás le ganará a Shia.
+0039 [Glopo Duke Ⅲ] | ¡Hmph! ¡Hmph, hmph, nohmmmu!!!
+0040 [Tú] | ¡¿De dónde salieron estas olas enormes?! ¡¿El Duque Glopo hizo algo?!
+0041 [Karin] | Ugh, ¿haciendo trampa porque no puedes ganar? ¡Patético!
+0042 [Karin] | ¡Pero Shia no va a dejar que unas cuantas olas la detengan!
+0043 [Narración] | Shia se abre paso entre las olas, ganando terreno con cada oleaje. Está a segundos de la meta, y entonces...
+0044 [Glopo Duke Ⅲ] | ¡Hmphhhhh!
+0045 [Willow] | ¡Shia, cuidado!
+0046 [Shia] | ¿Eh?
+0047 [Narración] | El ataque del Duque Glopo golpea a Shia de lleno en la espalda. Ella tropieza, sale despedida de la tabla y la ola se la traga.
+0048 [Leafia] | ¡Oye, eso es trampa!
+0049 [Noya] | ¡Falta! ¡Eso es una falta!
+0050 [Willow] | ¡Shia!
+0051 [Narración] | Willow corre hacia el agua, pero una ola la golpea y la tira hacia atrás.==W== Antes de que pueda recuperarse, otra figura pasa corriendo a toda velocidad y se zambulle en el mar revuelto.
+0052 [Shia] | ¿Qué me está pasando...
+0053 [Shia] | Cierto... Me golpearon, caí al agua...==W== Tengo que volver a subir...
+0054 [Shia] | ¿Eh? Mi cuerpo se siente pesado... No puedo moverme...==W== Esto podría ser grave...
+0055 [Shia] | Karin...
+0056 [Narración] | ¡Shia—!
+0057 [Shia] | (Esa voz... Es...)
+0058 [Shia] | (Ah... Por supuesto...)
+0059 [Shia] | (Siempre me encuentras, ¿verdad, Karin...?)
+0060 [Karin] | (¡Más rápido... Más rápido!)
+0061 [Narración] | El agua de mar le inunda la nariz y los oídos. Le arde el pecho. Karin se sumerge más hondo, impulsada por un solo pensamiento...
+0062 [Narración] | Shia... ¡Está ahí!
+0063 [Karin] | ¡Agarra... mi... mano! ¡Shia—!
+0064 [Shia] | (Karin… Tiene una expresión tan angustiada...)
+0065 [Shia] | (Pero aun así... Es linda.)
+0066 [Karin] | Ah... Ah...
+0067 [Karin] | ¡Shia! ¿Estás bien?
+0068 [Shia] | Estoy bien. Nada grave. Solo un poco entumida. Se me pasará en un rato.
+0069 [Glopo Duke Ⅲ] | ¡Hmph-mm! ¡Hmph hmph!
+0070 [Karin] | No puede ser... ¡Lastimaste a Shia!
+0071 [Karin] | ¡Espera nada más! ¡Te voy a destrozar!
+0072 [Glopo Duke Ⅲ] | ¿Hmph? ¡Hmmmmmph!
+0073 [Narración] | El Duque Glopo da una palmada a su bote y vuelve a levantar a la rehén... La caracola.
+0074 [Willow] | ¿Nos está amenazando?
+0075 [Tú] | Eh...==W== La segunda ronda es para...==W== el Duque Glopo.
+0076 [Karin] | ¡Maldición!==W== ¡Este tipo me saca de quicio!

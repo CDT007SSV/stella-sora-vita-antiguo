@@ -1,0 +1,98 @@
+# Historia de Snowish Laru · 3 · Gifts on Delivery (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Regalos a domicilio (Parte III)
+0003 [Intro] | Si el regalo de agradecimiento fuera yo misma... Claro, ¡es broma!
+0004 [Tú] | Laru,==W== ¿estás ahí?==W==
+0005 [Tú] | Qué raro... ¿No hay nadie? Ella me invitó, ¿no?
+0006 [Narración] | Hace una hora.
+0007 [Laru] | Fiu~ Por fin terminamos.==W== Estoy exhausta. Qué horror... Abajo el tiempo extra...
+0008 [Tú] | Piénsalo. Si te hubieras puesto seria con el trabajo desde el principio, no habrías tenido que quedarte hasta tarde.
+0009 [Laru] | ¡Es que no se me da ponerme seria con el trabajo!
+0010 [Laru] | En fin, gracias por echarme una mano hoy. Si hubiera sido yo sola, jamás habría terminado esas entregas.
+0011 [Tú] | No hay de qué. Estamos juntos en esto. Después de todo, dos personas terminan las cosas más rápido que una.
+0012 [Laru] | Ugh...==W== Eres demasiado buena onda, Tirano.==W== ¡Te quiero!
+0013 [Laru] | Ah, cierto, ¿estás libre esta noche?==W== ¡Ven a mi casa! Te lo agradeceré como se debe.
+0014 [Tú] | Sí que lo dijo, en aquel entonces...
+0015 [Tú] | Laru, ¿estás aquí?==W== ¿Eh? La puerta está abierta...
+0016 [Tú] | ¿Se le olvidó cerrarla con llave? O peor...==W== ¿Habrá entrado alguien a la fuerza?
+0017 [???] | Mmm... Ugh...
+0018 [Tú] | ¡¿Qué es ese extraño gemido?! ¡Sí entró alguien!
+0019 [Tú] | No es momento de dudar... ¡Laru, voy a entrar!
+0020 [Tú] | ...
+0021 [Tú] | No hay sonido de pasos. Tampoco movimiento. ¿Estará escondida en algún lado, esperando para emboscarme?
+0022 [???] | Ugh... Uggggh...
+0023 [Tú] | Otra vez ese gemido...==W== Parece que viene de allá.
+0024 [Tú] | Laru, ¿estás bien?
+0025 [Tú] | ...
+0026 [Tú] | ¿Qué es esto? Una enorme caja de regalo en el suelo...
+0027 [???] | Ummph... Ayuda...
+0028 [Tú] | El sonido viene de dentro de la caja.==W== Tiene una etiqueta que dice—
+0029 [Tú] | «Para Tirano: ¡un regalo sorpresa gigantesco!»
+0030 [Tú] | ¿Es esto lo que Laru quería decir con agradecerme «como se debe»?
+0031 [Tú] | ¿Y ahora qué? Quizá debería fingir que no vi nada...
+0032 [Tú] | Un cuarto vacío, una caja de regalo gigante en la que cabe una persona y ruidos raros que vienen de adentro...
+0033 [Tú] | Tengo un mal presentimiento...
+0034 [Tú] | Mmm...==W== Olvídalo, mejor me voy a casa.
+0035 [???] | Guaa... Guaaaa—
+0036 [Tú] | Suena desesperada. ¿La abro? Pero ¿qué habrá adentro...?
+0037 [???] | A-Ayuda...
+0038 [Tú] | Escuchando bien, creo que de verdad es la voz de Laru...
+0039 [Tú] | No tengo idea de qué truco está haciendo esta vez... Pero bueno, la abriré.
+0040 [Laru] | ¡Tirano, eres muy lento!!!==W== ¡Te estuve esperando una eternidad; pensé que me ibas a dejar plantada...==W== ¡Casi me quedo dormida!
+0041 [Laru] | No me hagas bromas en momentos raros—==W==si vas a abrirla, ábrela de una vez, ¿sí?
+0042 [Opción] | En serio, solo con ver esta caja me da mala espina...
+0043 [Opción] | Eh, ¿por qué estás en la caja?
+0044 [Laru] | ¡Para sorprenderte, obvio!==W== Cuando la abrieras,==W== y «¡Pum!», yo salgo de golpe. ¿No sería divertido?
+0045 [Laru] | Además,==W== según mi investigación,==W== entre las «5 frases más populares que dicen las chicas»==W== está «El regalo==W== soy... YO==W==~»
+0046 [Laru] | Por eso...==W== ¿Eh?==W== Espera, ay no…
+0047 [Opción] | ¿Qué pasa?
+0048 [Laru] | Eh,==W== creo que me quedé en la caja en esta posición demasiado tiempo...==W== Ahora tengo los pies dormidos...==W== No puedo salir.
+0049 [Opción] | Mmm. ¿Estás bien?
+0050 [Laru] | Pues no puedo hacer fuerza con ellos—==W==y siento hormigueo.==W== Pero seguro que se me pasa si descanso un rato.
+0051 [Laru] | Eh...==W== ¿Eh?==W== ¿Qué pasa, Tirano...==W== ¿Por qué sonríes así?
+0052 [Opción] | ¡Picar!
+0053 [Laru] | ¡Gyaaaahhh! ==W==¡E-Espera, Tirano!==W== ¡¿Qué rayos haces?!
+0054 [Opción] | Perdón, Laru. No puedo desaprovechar una oportunidad así.
+0055 [Laru] | ¡Jajajajaja!==W== ¡Oye!==W== ¡Nada de picar!==W== ¡¿Mi cuerpo no es ningún juguete?!
+0056 [Opción] | Perdón, Laru, no puedo evitarlo...
+0057 [Opción] | ¡Picar otra vez!
+0058 [Laru] | ¡No, no, no, ¿cómo que no puedes evitarlo?!==W== Dije que no soy tu juguete—
+0059 [Laru] | ¡Gyajajajajaja!==W== ¡P-Para,==W== me da cosquillas!==W== ¡Paraaa!!
+0060 [Laru] | Hah, hah...==W== Muy bien,==W== ¿ya te divertiste suficiente?==W== Si es así,==W== ¿no es hora de que me saques de esta caja?
+0061 [Opción] | ¿No puedes salir tú sola?
+0062 [Laru] | ¡Si pudiera, ya lo habría hecho!==W== Entonces...==W== ¿Me ayudas a salir?
+0063 [Opción] | ¿Mm? ¿Qué?
+0064 [Laru] | Solo...==W== sácame cargando.==W== Me manoseaste tanto rato,==W== me debes al menos esta compensación, ¿no?
+0065 [Laru] | Fiu... A salvo por fin. Estuvo muy cerca.
+0066 [Tú] | En serio... La próxima vez, piensa en lo que podría pasar si tu plan sale mal.
+0067 [Laru] | Lo voy a reflexionar...==W== Ugh, ¿por qué Bastelina tuvo que amarrarla tan fuerte?
+0068 [Tú] | ¿Por qué le pediste que lo hiciera?
+0069 [Laru] | Pasó por mi casa por casualidad.
+0070 [Tú] | ¿Vino por su cuenta?
+0071 [Laru] | Sí, con una pila de documentos también.==W== ¿Ves? Están ahí.
+0072 [Tú] | Mmm...==W== El contenido es algo...
+0073 [Laru] | ¿Algo qué? Todavía no las he visto.
+0074 [Tú] | Es la factura de reparación de la puerta principal de la Tienda de Almas...
+0075 [Laru] | …
+0076 [Laru] | Ajajaja, ¡cierto! Eso me recuerda—==W==¡toma! ¡Esto es para ti!
+0077 [Tú] | Otra vez evade el tema.
+0078 [Laru] | ¡Vamos, ábrelo!
+0079 [Tú] | ¿Equipo de pesca? ¿Y un saco de dormir?
+0080 [Laru] | Es un Kit de Pesca Salvaje de Invierno~ ¿Y bien? ¿No sientes ya las ganas de lanzar el sedal?
+0081 [Tú] | Se ve de alta calidad... Gracias.
+0082 [Laru] | Jeje, me alegra. Pero no sabrás qué tan bueno es hasta que lo pruebes, ¿verdad?
+0083 [Laru] | Vamos a pescar, ¡ahora~!
+0084 [Tú] | Ya veo. ¡Desde el principio ya tenías esto planeado, ¿verdad?!
+0085 [Tú] | Pero bueno, no te falta razón. Solo se sabe qué tan buenas son las herramientas cuando las usas,==W== así que me vas a enseñar a pescar.
+0086 [Laru] | Jeje... ¡Vamos, andando!==W== ¡Conozco un lugar secreto donde los peces pican rápido!
+0087 [Narración] | Más tarde esa noche, acampamos en el «lugar secreto» de Laru y esperamos toda la noche sin pescar un solo pez. Pero compartir saco de dormir con ella resultó ser inesperadamente cálido y reconfortante... Poco después, los dos nos quedamos dormidos.
+0088 [Narración] | Al día siguiente... Bueno, no es difícil adivinar. Tras pagar la «factura» emitida por Albedo y Bastelina, la cartera de Laru quedó vacía,==W== igual que nuestra canasta de pesca.

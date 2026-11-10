@@ -1,0 +1,284 @@
+# Heartlink de Tilia: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Tilia] | ¡Jijiji!
+A01.0002 [Tilia] | ¡Escudera novata Tilia, Defensora de la Justicia!
+A01.0003 [Tilia] | ¡A sus órdenes!
+A01.0004 [Tú] | Qué enérgica, ¿no?
+A01.0005 [Tilia] | Por supuesto.
+A01.0006 [Tilia] | ¡El rojo es el color de la pasión y la valentía!
+A01.0007 [Opción] | ¿No es el amarillo tu color designado?
+A01.0008 [Opción] | ¿Rojo?
+A01.0009 [Tilia] | ¡No, hablo del color del corazón!
+A01.0010 [Tilia] | ¡Sí, rojo como el color del corazón de uno!
+A01.0011 [Tilia] | Tengo que ir a patrullar. ¡Nos vemos!
+
+## Conversación A02
+A02.0001 [Tilia] | Perdón... Hoy no puedo ir...
+A02.0002 [Tilia] | No solo hoy... De hecho, de ahora en adelante...
+A02.0003 [Opción] | ??? ¿Qué pasó?
+A02.0004 [Opción] | ¡TI-LI-A!
+A02.0005 [Tilia] | Snif...
+A02.0006 [Tilia] | No hace falta exagerar tanto... Eres demasiado complaciente.
+A02.0007 [Tilia] | Me lastimé la pierna... Y huelo mal.
+A02.0008 [Tilia] | No te importará, ==PLAYER_NAME==, ¿verdad?
+A02.0009 [Tú] | ¿Es grave?
+A02.0010 [Tilia] | No, solo un esguince de ligamento en la pierna...
+A02.0011 [Tilia] | Es que...el doctor dijo que necesito una semana de reposo.
+A02.0012 [Tilia] | Lo que significa que este mes me quedo sin el bono de asistencia perfecta.
+A02.0013 [Tú] | ¿Y qué pasó exactamente?
+A02.0014 [Tilia] | Mientras patrullaba la Calle Farolito hoy, vi un cartel del Escuadrón de la Mesa Redonda.
+A02.0015 [Tilia] | Me quedé mirándolo demasiado y sin querer metí el Águila Lapislázuli entre los arbustos.
+A02.0016 [Tilia] | Luego... caí en un bote de basura.
+A02.0017 [Tú] | ...
+A02.0018 [Tilia] | ¡Dijiste que no te importaba, ==PLAYER_NAME==!
+A02.0019 [Tú] | La próxima vez ten cuidado al conducir. No mires tanto a todos lados
+
+## Conversación A03
+A03.0001 [Tilia] | Durante mis patrullas recientes...
+A03.0002 [Tilia] | Noté algo...
+A03.0003 [Tú] | ¿Eh?
+A03.0004 [Tilia] | El Águila Lapislázuli es demasiado lenta.
+A03.0005 [Tilia] | A veces ni siquiera puede seguirle el paso a alguien patinando sin prisa.
+A03.0006 [Opción] | ¿Quizá su velocidad máxima está limitada?
+A03.0007 [Opción] | Pero como dicen, Las rutas son incontables, la seguridad es lo primero
+A03.0008 [Tilia] | ¡No! ¡El Águila Lapislázuli tiene alma propia!
+A03.0009 [Tilia] | Pero si soy demasiado lenta...
+A03.0010 [Tilia] | No podré atrapar a los criminales.
+A03.0011 [Tilia] | Supongo que tendré que modificar el Águila Lapislázuli después de todo.
+A03.0012 [Tilia] | Pero va contra las reglas de la Guardia Imperial.
+A03.0013 [Tilia] | Si sigo las reglas, no podré defender la justicia.
+A03.0014 [Tilia] | Pero si rompo las reglas, le doy la espalda a la justicia misma...
+A03.0015 [Tilia] | Qué dilema.
+A03.0016 [Tú] | Mientras se vea genial, ¿no?
+A03.0017 [Tilia] | ¡Se ve genial...!
+A03.0018 [Tilia] | ¡Sí, así es!
+A03.0019 [Tilia] | ¡Ya lo entiendo!
+A03.0020 [Tilia] | ¡Gracias, ==PLAYER_NAME==!
+
+## Conversación A04
+A04.0001 [Tilia] | El otro día fui a una reunión de fans del Caballero Enmascarado...
+A04.0002 [Tú] | ¿Te reuniste con otros fans?
+A04.0003 [Tilia] | Sip.
+A04.0004 [Tú] | Pero no pareces muy contenta.
+A04.0005 [Tilia] | Bueno...todos pensaron que yo era una guardia de seguridad, no una de las fans.
+A04.0006 [Tú] | Espera, ¿qué llevabas puesto?
+A04.0007 [Tú] | Déjame adivinar...
+A04.0008 [Tilia] | La armadura reglamentaria de la Guardia Imperial, por supuesto.
+A04.0009 [Tilia] | Y también tenía puesto el casco.
+A04.0010 [Tú] | Lo sabía. Con razón se confundieron.
+A04.0011 [Tilia] | (Cara llorando) ¡Con el casco puesto, estaba totalmente enmascarada!
+A04.0012 [Tilia] | ¡Me veía exactamente como un caballero enmascarado!
+
+## Conversación A05
+A05.0001 [Tilia] | Jefe, ¡quiero preguntarte algo!
+A05.0002 [Tú] | ?
+A05.0003 [Tilia] | Quiero salir con alguien...
+A05.0004 [Tilia] | No... Es decir, patrullar con alguien...
+A05.0005 [Tilia] | Pero Noya se fue a entrenar.
+A05.0006 [Tilia] | Iris tenía que estudiar para su examen.
+A05.0007 [Tilia] | Y no he visto a Amber desde esta mañana.
+A05.0008 [Tilia] | Kaydoke tampoco tiene tiempo...
+A05.0009 [Tilia] | Así que ==PLAYER_NAME==, ¡eres mi última esperanza!
+A05.0010 [Tú] | No tengo tiempo
+A05.0011 [Tilia] | ¿T-tú también estás ocupado?
+A05.0012 [Tú] | Sí. No he terminado de jugar el juego que acabo de comprar
+A05.0013 [Tilia] | No te la pases encerrado en casa todo el tiempo. No es bueno para la salud.
+A05.0014 [Tilia] | Hace un día precioso. Vamos a caminar.
+A05.0015 [Tú] | No tengo nada que decirle a la gente que sí tiene vida
+A05.0016 [Tilia] | ¿Por favor?
+A05.0017 [Tilia] | ¿Por favor por favor por favor?
+A05.0018 [Opción] | Bueno, bueno. Me rindo
+A05.0019 [Opción] | Está bien, está bien, ya entendí
+A05.0020 [Tilia] | ¡Yaaay!
+A05.0021 [Tilia] | ¡Lo sabía! ¡Eres lo mejor!
+
+## Conversación A06
+A06.0001 [Tilia] | ¡==PLAYER_NAME==!
+A06.0002 [Tilia] | ¿Quieres ver al dragón conmigo?
+A06.0003 [Tú] | ...¿Dragón? ¿Hablas en serio?
+A06.0004 [Tilia] | ¡Claro!
+A06.0005 [Tú] | ¿Dónde? ¿En una cueva? ¿O en un castillo?
+A06.0006 [Tilia] | Dentro del Museo de Historia de la Guardia Imperial.
+A06.0007 [Tú] | Ah, el que mencionaste antes.
+A06.0008 [Tilia] | Sí.
+A06.0009 [Tilia] | Normalmente está cerrado al público.
+A06.0010 [Tilia] | Pero vendrán estudiantes de una escuela del Distrito de Oro en una excursión.
+A06.0011 [Tilia] | Así que se presenta una oportunidad poco común.
+A06.0012 [Tilia] | Pensé en ti de inmediato.
+A06.0013 [Tilia] | ¿A que soy buena amiga? Ven, ven.
+A06.0014 [Tú] | ...Tilia
+A06.0015 [Tilia] | ??
+A06.0016 [Tú] | Sé sincera conmigo. Solo quieres que te ayude a cuidar a los niños, ¿verdad?
+A06.0017 [Tilia] | ¡...!
+A06.0018 [Tilia] | ¿T-tú...lo descubriste?
+A06.0019 [Tú] | Sí, lo descubrí
+A06.0020 [Tilia] | Waaah... Por favor ayúdame...
+
+## Conversación A07
+A07.0001 [Tilia] | Buenos días.
+A07.0002 [Tú] | Buenos días. ¿Qué has estado haciendo últimamente?
+A07.0003 [Tilia] | Arreglos florales, conciertos y té de la tarde con amigas.
+A07.0004 [Tú] | ?
+A07.0005 [Tilia] | ??
+A07.0006 [Opción] | ¿Quién eres?
+A07.0007 [Opción] | ¿Perdiste tu celular?
+A07.0008 [Tilia] | ¿Ehh? ¡Oh, eres ==PLAYER_NAME==! Pero ¿por qué?
+A07.0009 [Tilia] | No...no es lo que piensas...
+A07.0010 [Tilia] | Perdón. Pensé que eras uno de mis padres revisándome
+A07.0011 [Tú] | ¿A ellos les gusta que hagas esas cosas?
+A07.0012 [Tilia] | No. Es que no quería que se preocuparan por mí.
+A07.0013 [Tilia] | No quería que pensaran que sigo corriendo por ahí, metiéndome en problemas.
+A07.0014 [Tú] | Siempre fuiste así, ¿eh?
+A07.0015 [Tilia] | Jejeje. Era una alborotadora.
+A07.0016 [Tilia] | La verdad no ha cambiado mucho. Me siguen gustando las mismas cosas.
+A07.0017 [Tilia] | ¿Quizá simplemente no he madurado nada?
+A07.0018 [Tú] | Creo que es diferente.
+A07.0019 [Tú] | Antes tenías un sueño. Ahora estás en camino de hacerlo realidad.
+A07.0020 [Tilia] | ...
+A07.0021 [Tilia] | Ah...
+A07.0022 [Tilia] | Bien dicho... Gracias, ==PLAYER_NAME==.
+A07.0023 [Tilia] | De repente me siento muy segura de mí.
+
+## Conversación A08
+A08.0001 [Tilia] | ¡Hoy es un día especial, ==PLAYER_NAME==!
+A08.0002 [Tú] | Así es. Es tu cumpleaños, ¿verdad?
+A08.0003 [Tilia] | ¡Es el aniversario de los Caballeros Enmascarados!
+A08.0004 [Tilia] | ¿Eh?
+A08.0005 [Tú] | ¿Mm?
+A08.0006 [Tilia] | Oh... Cierto, creo que hoy es mi cumpleaños...
+A08.0007 [Tú] | ¿No te habías dado cuenta?
+A08.0008 [Tilia] | Estaba tan emocionada que se me olvidó.
+A08.0009 [Tilia] | Jaja, supongo que los cumpleaños no son gran cosa para mí...
+A08.0010 [Tú] | Bueno...
+A08.0011 [Tú] | Tengo el regalo y el pastel. Ven cuando estés libre
+A08.0012 [Tú] | Noya, Iris y Amber también están aquí
+A08.0013 [Tú] | Lo celebraremos juntas
+A08.0014 [Tilia] | ¿Te tomaste todas esas molestias por mí? ¡Qué conmovedor...!
+A08.0015 [Tú] | También te conseguimos mercancía de edición limitada de los Caballeros Enmascarados
+A08.0016 [Tilia] | Snif...
+A08.0017 [Tilia] | ¡Yo... los quiero muchísimo a todos!
+
+## Conversación A09
+A09.0001 [Tilia] | ¡==PLAYER_NAME==!
+A09.0002 [Tilia] | Como esperaba, mi decisión inicial resultó ser la correcta.
+A09.0003 [Opción] | ¿Qué decisión inicial?
+A09.0004 [Opción] | ¿A qué te refieres?
+A09.0005 [Tilia] | Al principio, al principio de todo. ¿Lo dije en aquel entonces?
+A09.0006 [Tilia] | Cuando nos conocimos. En ese entonces pensé...
+A09.0007 [Tilia] | Que no se puede defender la justicia siendo un lobo solitario.
+A09.0008 [Tilia] | Después de pelear a tu lado, estoy aún más segura de ello.
+A09.0009 [Tilia] | Me he vuelto innegablemente más fuerte.
+A09.0010 [Tilia] | Y estoy un paso más cerca de hacer realidad mi sueño.
+A09.0011 [Tú] | Eso es gracias a tener camaradas como tú.
+A09.0012 [Tilia] | Entrenaré todavía más duro.
+A09.0013 [Tilia] | ¡Hagámonos más fuertes juntos!
+
+## Conversación A10
+A10.0001 [Tilia] | Recibí el Disco Rúnico que me enviaste la última vez.
+A10.0002 [Tú] | ¿Lo escuchaste? ¿Qué te pareció?
+A10.0003 [Tilia] | Difícil de poner en palabras.
+A10.0004 [Tú] | ¿Te gustó o no?
+A10.0005 [Tilia] | Me gustó, creo... Es que...
+A10.0006 [Tilia] | No fue lo que esperaba.
+A10.0007 [Tilia] | Tuve...sentimientos encontrados.
+A10.0008 [Tilia] | Me hizo pensar en cosas del pasado.
+A10.0009 [Tú] | Es raro ver tu lado nostálgico
+A10.0010 [Tilia] | ¿A qué te refieres? Yo también soy capaz de tener emociones delicadas.
+A10.0011 [Tú] | ¿Te puso triste?
+A10.0012 [Tilia] | No tanto triste...
+A10.0013 [Tilia] | Recordé el sueño que tenía. Eso no ha cambiado.
+A10.0014 [Tilia] | Quiero convertirme en la verdadera caballera, una heroína que pueda proteger a todos.
+A10.0015 [Tú] | Sí, seguro que puedes lograrlo
+
+## Conversación B01
+B01.0001 [Tilia] | El ambiente de la Guardia Imperial está todo mal
+B01.0002 [Tú] | ¿Así que lo notaste?
+B01.0003 [Tilia] | Mucha gente no sabe nada de las viejas leyendas de caballeros
+B01.0004 [Tilia] | ¿No es raro?
+B01.0005 [Tilia] | ¡Tenemos tantos caballeros famosos en la historia!
+B01.0006 [Tú] | Es verdad
+B01.0007 [Tú] | Supongo que a la gente ya no le emocionan las historias antiguas
+B01.0008 [Tilia] | Qué lástima
+B01.0009 [Tú] | Pero podrías intentar recomendar tus historias clásicas favoritas a los colegas que te rodean
+B01.0010 [Tú] | O historias más nuevas del mismo estilo
+B01.0011 [Tilia] | Gracias
+B01.0012 [Tilia] | ¡Ya sé qué hacer!
+
+## Conversación B02
+B02.0001 [Tilia] | ¿Puedo preguntarte algo?
+B02.0002 [Tilia] | ¿Qué tipo de pasatiempos tienes?
+B02.0003 [Tú] | Eso es bastante amplio
+B02.0004 [Tilia] | Entonces cuando hablo de las cosas que me gustan...
+B02.0005 [Tilia] | ¿Cuál es tu reacción?
+B02.0006 [Tilia] | ¿Se siente repentino o incómodo?
+B02.0007 [Tú] | Para nada
+B02.0008 [Tú] | La verdad, al escuchar a la gente hablar de sus pasatiempos
+B02.0009 [Tú] | quizá adquiera uno nuevo en el camino
+B02.0010 [Tú] | Eso es en realidad un pasatiempo mío
+B02.0011 [Tilia] | ¡Eso es algo complejo!
+B02.0012 [Tilia] | Pero ahora me siento aliviada, jaja
+
+## Conversación B03
+B03.0001 [Tilia] | La competencia se acerca pronto
+B03.0002 [Tilia] | ¿Vendrás a animarme?
+B03.0003 [Tú] | ¿Qué competencia?
+B03.0004 [Tilia] | Campo traviesa con carga
+B03.0005 [Tú] | ¿No ganaste ya el primer lugar antes?
+B03.0006 [Tú] | Siempre pensé que tenías una resistencia increíble
+B03.0007 [Tú] | ¿Tienes alguna rutina de entrenamiento?
+B03.0008 [Tilia] | Sobre todo patrullar y trabajar, supongo
+B03.0009 [Tilia] | Ah, cierto
+B03.0010 [Tilia] | Para convertirme en caballera
+B03.0011 [Tilia] | ¡solía hacer mucho entrenamiento especial!
+B03.0012 [Tilia] | ¿Quieres que te enseñe?
+B03.0013 [Tilia] | ¡No es tarde para empezar!
+B03.0014 [Tú] | ¿Qué clase de entrenamiento especial?
+B03.0015 [Tilia] | Si mal no recuerdo, carreras de larga distancia con armadura completa...
+B03.0016 [Tú] | Sí, creo que ya sabemos por qué ganaste el primer lugar
+
+## Conversación B04
+B04.0001 [Tilia] | Jefe, el casco que te di
+B04.0002 [Tilia] | ¿Todavía lo tienes?
+B04.0003 [Tú] | Claro
+B04.0004 [Tilia] | Jeje, entonces ¿estás libre mañana?
+B04.0005 [Tú] | Supongo, pero
+B04.0006 [Tú] | ¿Hay alguna relación entre esas dos preguntas?
+B04.0007 [Tilia] | Voy a asistir a un evento de homenaje al Caballero Enmascarado
+B04.0008 [Tilia] | Y quiero hacer una actuación de transformación en el escenario contigo
+B04.0009 [Tilia] | ¡Tachán! ¡Entrada del dúo de Caballeros Enmascarados!
+B04.0010 [Tú] | Bueno, podría...
+B04.0011 [Tú] | Pero quizá no se me dé muy bien
+B04.0012 [Tilia] | ¡Entonces practiquemos juntas!
+
+## Conversación B05
+B05.0001 [Tilia] | De verdad quiero volver a ese lugar
+B05.0002 [Tú] | ¿Te refieres al campo de trigo?
+B05.0003 [Tilia] | ¡Sí! Sabía que me entenderías
+B05.0004 [Tilia] | Entonces, ¿quieres ir?
+B05.0005 [Tú] | Claro, vamos juntas
+B05.0006 [Tilia] | ¿Ni siquiera vas a preguntar por qué?
+B05.0007 [Tú] | No hace falta
+B05.0008 [Tú] | Simplemente «tienes tiempo», ¿verdad? Yo también
+B05.0009 [Tilia] | Jeje, de verdad me entiendes
+B05.0010 [Tilia] | ¡Iré en bici a recogerte!
+B05.0011 [Tú] | Ve con cuidado
+
+## Conversación B06
+B06.0001 [Tilia] | ¡Por fin lo descubrí!
+B06.0002 [Tú] | ¿Qué?
+B06.0003 [Tilia] | Una forma de hacer guardia bajo un calor abrasador con un casco puesto
+B06.0004 [Tilia] | ¡Sin desmayarme!
+B06.0005 [Tú] | Quizá es mejor simplemente dejar de hacer eso...
+B06.0006 [Tilia] | Estoy en ello, lo juro
+B06.0007 [Tilia] | Pero como caballera, quiero superar mis debilidades
+B06.0008 [Tilia] | Así que hace poco
+B06.0009 [Tilia] | ¡fui a un lugar de aguas termales!
+B06.0010 [Tú] | ¿Eso también es entrenamiento especial?
+B06.0011 [Tilia] | Exacto. Al principio quería entrar con el casco puesto
+B06.0012 [Tilia] | Pero el personal no me dejó
+B06.0013 [Tilia] | Así que disfruté las aguas termales sin el casco
+B06.0014 [Tú] | Ves, funciona perfectamente

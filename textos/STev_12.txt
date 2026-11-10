@@ -1,0 +1,14 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_12_01 | Una tarde de té para señoritas
+STev_12_02 | Con los pies en la tierra
+STev_12_03 | Progreso
+STev_12_04 | Una nueva vida
+STev_12_05 | Desaparecida
+STev_12_06 | Encubierta
+STev_12_07 | La fuga
+STev_12_08 | Noche de honor
+STev_12_09 | Un nuevo sueño
+@BT01 | Primer encargo
+@BT02 | Golpe al corazón

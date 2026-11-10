@@ -1,0 +1,6 @@
+# Historia de Firenze — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_110_01 | Vacaciones en Philae (Parte I)
+CG_110_02 | Vacaciones en Philae (Parte II)
+CG_110_03 | Vacaciones en Philae (Parte III)

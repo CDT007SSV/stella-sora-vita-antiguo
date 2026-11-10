@@ -1,0 +1,276 @@
+# Heartlink de Nanoha: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Nanoha] | Es un honor conocerle, ==SEX7== ==PLAYER_NAME==
+A01.0002 [Nanoha] | Si en el futuro necesita ayuda, no dude en contactar a Nanoha
+A01.0003 [Opción] | ¿De verdad ofreces servicios de limpieza del hogar?
+A01.0004 [Opción] | Nuestra casa rodante necesita que la ordenen un poco...
+A01.0005 [Nanoha] | Ha hecho una pregunta bastante intrigante
+A01.0006 [Nanoha] | A título personal, Nanoha puede ofrecerle una amplia gama de servicios de limpieza del hogar
+A01.0007 [Tú] | ¿«A título personal»?
+A01.0008 [Nanoha] | Heh...
+A01.0009 [Nanoha] | Su intuición, como era de esperar, es notablemente aguda
+A01.0010 [Nanoha] | Por ahora, al menos, permítame guardarme algunas cosas
+A01.0011 [Nanoha] | Si necesita servicios de limpieza, haga una reserva con un día de anticipación, indicando la hora y el lugar
+A01.0012 [Tú] | ¿Va a ser... caro?
+A01.0013 [Nanoha] | Para ==SEX7== ==PLAYER_NAME==, no. Nanoha no cobrará ninguna tarifa
+A01.0014 [Nanoha] | Solo necesito otra cosa de usted
+A01.0015 [Tú] | ...Eso suena un poco aterrador
+A01.0016 [Nanoha] | Mis disculpas. Solo bromeaba
+A01.0017 [Nanoha] | Y tampoco fue una buena broma... Por favor, perdone mi comportamiento inapropiado
+
+## Conversación A02
+A02.0001 [Nanoha] | [Recordatorio de Goodwind Homecare: Afuera está despejado y soleado, ideal para secar la ropa.]
+A02.0002 [Nanoha] | [Responda «0» para cancelar la suscripción, «1» para continuarla.]
+A02.0003 [Opción] | 0
+A02.0004 [Opción] | 1
+A02.0005 [Nanoha] | Mis disculpas. No volveré a molestarle
+A02.0006 [Tú] | ¿Eh? ¿De verdad responde una persona? Pensé que era un mensaje automático del sistema
+A02.0007 [Nanoha] | Su mensaje ha sido recibido. Gracias por usar Goodwind Homecare
+A02.0008 [Tú] | ¿Esto también es un mensaje automático?
+A02.0009 [Nanoha] | Soy yo, Nanoha
+A02.0010 [Nanoha] | Es un día soleado, ideal para salir a caminar
+A02.0011 [Nanoha] | Le deseo un buen día, Jefe
+
+## Conversación A03
+A03.0001 [Nanoha] | Los polluelos se durmieron
+A03.0002 [Tú] | ¡¡¡!!!
+A03.0003 [Tú] | ¡Qué lindos!
+A03.0004 [Nanoha] | Su madre salió a cazar
+A03.0005 [Nanoha] | Si le interesa, ==SEX7== ==PLAYER_NAME==, Nanoha con gusto tomará algunas fotos más para usted
+A03.0006 [Tú] | Espera un momento... Este ángulo...
+A03.0007 [Tú] | No estarás en el árbol, ¿verdad?
+A03.0008 [Nanoha] | No, Nanoha está en el alero junto a este árbol
+A03.0009 [Tú] | ¡Eso sigue siendo bastante peligroso!
+A03.0010 [Nanoha] | Gracias por su preocupación
+A03.0011 [Nanoha] | Esto es parte de mi entrenamiento diario
+
+## Conversación A04
+A04.0001 [Nanoha] | Mis disculpas, ==PLAYER_NAME==, Nanoha parece haber tocado su foto de perfil por accidente
+A04.0002 [Nanoha] | No fue mi intención... ¿Se encuentra bien?
+A04.0003 [Tú] | Aaaaagh... ¡Me duele!
+A04.0004 [Nanoha] | ¿Dónde está? Iré a buscarle de inmediato
+A04.0005 [Nanoha] | ¿Dónde le duele? ¿Es grave?
+A04.0006 [Tú] | Es broma. No te preocupes, en realidad no puedes tocarme a través del teléfono.
+A04.0007 [Nanoha] | Ya veo... Lo importante es que no haya sufrido daño
+
+## Conversación A05
+A05.0001 [Nanoha] | ¡==SEX7== ==PLAYER_NAME==! ¡Tengo noticias urgentes!
+A05.0002 [Nanoha] | Por favor, respóndame lo antes posible
+A05.0003 [Tú] | ¿Qué pasa?
+A05.0004 [Nanoha] | Nanoha está aprendiendo a hacer un nuevo tipo de pastel
+A05.0005 [Nanoha] | Y por accidente preparó demasiado...
+A05.0006 [Nanoha] | ¿Le interesaría probar un poco?
+A05.0007 [Tú] | ¿De qué sabor?
+A05.0008 [Nanoha] | Queso con durazno
+A05.0009 [Nanoha] | Chocolate crujiente
+A05.0010 [Nanoha] | Helado de menta
+A05.0011 [Nanoha] | Si desea otro sabor, Nanoha con gusto lo preparará para usted
+A05.0012 [Tú] | Tantos sabores. De verdad no parece un accidente...
+A05.0013 [Nanoha] | Por supuesto, usted ve a través de Nanoha
+A05.0014 [Nanoha] | Mis disculpas. Esto era solo una excusa... ¿Aún así vendría?
+A05.0015 [Tú] | Claro
+A05.0016 [Tú] | ¡Solo un tonto diría «no» a tantos pasteles deliciosos!
+A05.0017 [Nanoha] | ¡Qué bueno oír eso!
+A05.0018 [Nanoha] | Nos vemos pronto, ==SEX7== ==PLAYER_NAME==
+
+## Conversación A06
+A06.0001 [Nanoha] | ¿Hay alguna flor que le guste en particular, ==SEX7== ==PLAYER_NAME==?
+A06.0002 [Nanoha] | Hace un tiempo compré unas semillas en el mercado y planeo probar suerte con la jardinería
+A06.0003 [Tú] | No creo...
+A06.0004 [Tú] | ¿Por qué jardinería?
+A06.0005 [Nanoha] | Siento que el jardín ha estado descuidado desde hace mucho; es hora de arreglarlo
+A06.0006 [Nanoha] | Cada vez que usted viene de visita, me da un poco de vergüenza
+A06.0007 [Tú] | Está bien así
+A06.0008 [Tú] | Déjame adivinar. Algunas de esas semillas son de girasol, ¿verdad?
+A06.0009 [Nanoha] | ¿Cómo lo supo?
+A06.0010 [Tú] | Porque te gustan los girasoles
+A06.0011 [Tú] | Tus accesorios para el cabello, los estampados de tu ropa e incluso la forma de tu shuriken son girasoles
+A06.0012 [Nanoha] | ...
+A06.0013 [Nanoha] | No esperaba que me observara tan de cerca
+A06.0014 [Tú] | Ups, no quise soltarlo así
+A06.0015 [Tú] | No te parece raro, ¿verdad?
+A06.0016 [Nanoha] | No... Me alegra
+A06.0017 [Nanoha] | Una vez sí planté unos girasoles. Pero fue hace mucho tiempo
+A06.0018 [Nanoha] | Me pregunto si estas flores podrán sobrevivir al invierno y llegar a la primavera...
+A06.0019 [Tú] | No te preocupes, podemos cuidarlas juntas
+A06.0020 [Tú] | Si necesitas ayuda, avísame
+A06.0021 [Nanoha] | ¿De verdad? Eso es maravilloso
+A06.0022 [Nanoha] | Espero que, cuando florezcan, podamos disfrutar de las flores y tomar té juntos en el jardín
+A06.0023 [Tú] | Sí, es un trato
+
+## Conversación A07
+A07.0001 [Nanoha] | ==SEX7== ==PLAYER_NAME==, ¿ya se durmió?
+A07.0002 [Nanoha] | Disculpe que le moleste tan tarde, pero Nanoha quería comprobar si se encuentra a salvo ahora mismo
+A07.0003 [Tú] | ¿Eh? Estaba a punto de dormir
+A07.0004 [Tú] | Estoy bien. ¿Por qué lo preguntas?
+A07.0005 [Nanoha] | ...Me alegra saberlo
+A07.0006 [Nanoha] | Me quedé dormida hace un momento y tuve un sueño desagradable
+A07.0007 [Tú] | No te preocupes. Los sueños siempre son lo contrario de la realidad. Olvídalo
+A07.0008 [Nanoha] | Lo sé...
+A07.0009 [Nanoha] | Pero hay sueños que Nanoha quisiera recordar
+A07.0010 [Nanoha] | Y me alegra que esté a salvo. Por favor, descanse
+A07.0011 [Tú] | ¿Y tú? ¿Puedes volver a dormir después de una pesadilla?
+A07.0012 [Nanoha] | Si no puedo dormir, voy a contar las semillas de un girasol
+A07.0013 [Nanoha] | O a pulir todos mis shuriken
+A07.0014 [Nanoha] | O a mirar la luna desde la azotea
+A07.0015 [Tú] | Siento que hace mucho que Nanoha no mira bien la luna
+A07.0016 [Tú] | Espera un momento. ¡¿La casa rodante de esta foto es...?!
+A07.0017 [Nanoha] | Lamento haber aparecido sin avisarle antes
+A07.0018 [Nanoha] | Estaba tan preocupada...
+
+## Conversación A08
+A08.0001 [Nanoha] | Feliz cumpleaños, ==SEX7== ==PLAYER_NAME==
+A08.0002 [Nanoha] | Seguramente hoy tenga mucho que hacer y Nanoha no le quitará más tiempo
+A08.0003 [Nanoha] | Le entregué el pastel a la señorita Iris. Es del sabor que probó la última vez y que más le gustó
+A08.0004 [Nanoha] | Hace muchos años, un día como hoy, usted llegó a este mundo
+A08.0005 [Nanoha] | Yo también estoy agradecida por ese día
+A08.0006 [Nanoha] | Me pregunto si se siente a gusto en esta etapa de su vida
+A08.0007 [Nanoha] | Pase lo que pase, estoy muy contenta de haberle conocido
+A08.0008 [Nanoha] | Su cumpleaños es el día más especial del año. Por favor, disfrútelo al máximo y cree recuerdos maravillosos
+A08.0009 [Tú] | Bostezo... Acabo de despertar
+A08.0010 [Tú] | Vaya, me llenaste de mensajes justo después de medianoche
+A08.0011 [Tú] | En fin, muchas gracias por tus buenos deseos de cumpleaños
+A08.0012 [Tú] | Parece que Noya y compañía organizaron una especie de fiesta sorpresa. Si estás libre, ¡ven a unirte!
+
+## Conversación A09
+A09.0001 [Nanoha] | Últimamente, la coordinación de Nanoha con todos en el Gremio de la Nueva Estrella durante las batallas ha mejorado mucho
+A09.0002 [Nanoha] | Quizá solo sean imaginaciones mías, pero...
+A09.0003 [Tú] | No, no lo son
+A09.0004 [Tú] | Nos hemos vuelto más fuertes desde que te uniste
+A09.0005 [Nanoha] | Me alegra que lo piense así
+A09.0006 [Nanoha] | En Goodwind, aunque varias personas realicen una tarea juntas, cada ninja solo se encarga de sí misma
+A09.0007 [Nanoha] | Cuando resulté herida la última vez, el equipo me cubrió y me trajo de vuelta sana y salva
+A09.0008 [Nanoha] | No podía creerlo...
+A09.0009 [Tú] | Para eso están los compañeros
+A09.0010 [Nanoha] | Gracias por invitar a Nanoha a unirse a su equipo
+A09.0011 [Nanoha] | Seguiré entrenando duro y nunca la defraudaré
+
+## Conversación A10
+A10.0001 [Nanoha] | Jefe, ¿ya se enteró del pasado de Nanoha...?
+A10.0002 [Nanoha] | Mis disculpas, debí confesárselo hace mucho
+A10.0003 [Nanoha] | Es solo que nunca encontré el momento adecuado para decirlo
+A10.0004 [Tú] | No pasa nada
+A10.0005 [Tú] | Después de todo, es algo que preferirías no recordar
+A10.0006 [Nanoha] | A menudo tengo estas dudas...
+A10.0007 [Nanoha] | Todos estos años... ¿han sido en vano?
+A10.0008 [Nanoha] | Quizá mi maestra ya haya...
+A10.0009 [Tú] | No, no puede ser
+A10.0010 [Tú] | Eres una buena ninja, Nanoha. Seguro tu maestra lo es aún más
+A10.0011 [Tú] | No hay forma de que pierda contra esos canallas
+A10.0012 [Nanoha] | Gracias por consolarme, ==SEX7== ==PLAYER_NAME==
+A10.0013 [Nanoha] | Desde que le conocí, estoy decidida a entrenar aún más duro
+A10.0014 [Nanoha] | Nunca volveré a perder a alguien querido
+A10.0015 [Tú] | Con «alguien querido», ¿te referías a mí?
+A10.0016 [Nanoha] | ...
+
+## Conversación B01
+B01.0001 [Nanoha] | Preparé un postre nuevo
+B01.0002 [Nanoha] | ¿Le interesaría probarlo, ==SEX7== ==PLAYER_NAME==?
+B01.0003 [Tú] | ¿Qué preparaste esta vez?
+B01.0004 [Nanoha] | Es una receta que encontré en el Monolito
+B01.0005 [Nanoha] | Se cuece al vapor arroz glutinoso para hacer una masa y se envuelve crema y fruta por dentro
+B01.0006 [Nanoha] | Y queda como una pequeña bolita blanca
+B01.0007 [Nanoha] | Es parecido a un postre de mi tierra natal
+B01.0008 [Nanoha] | Así que intenté hacer unos cuantos
+B01.0009 [Tú] | Suena delicioso
+B01.0010 [Nanoha] | Pero es la primera vez que lo preparo
+B01.0011 [Nanoha] | Si resultara mal
+B01.0012 [Nanoha] | Le pido disculpas de antemano
+B01.0013 [Tú] | ¡Para nada!
+B01.0014 [Tú] | ¡Confío en tu habilidad para cocinar!
+B01.0015 [Nanoha] | Entonces nos vemos pronto, ==SEX7== ==PLAYER_NAME==
+
+## Conversación B02
+B02.0001 [Nanoha] | ==SEX7== ==PLAYER_NAME==
+B02.0002 [Nanoha] | Escuché que si come demasiados dulces le salen caries
+B02.0003 [Nanoha] | Como gusanos que hacen agujeros en los dientes
+B02.0004 [Nanoha] | ¿Es cierto?
+B02.0005 [Opción] | ¡Es cierto!
+B02.0006 [Opción] | ¿Sí y no?
+B02.0007 [Tú] | Los gusanos te dejarán sin dientes, es horrible
+B02.0008 [Nanoha] | Entonces eliminaré a todos los gusanos
+B02.0009 [Tú] | De verdad no puedes renunciar a los dulces, ¿verdad?
+B02.0010 [Tú] | Comer demasiado postre sí causa caries
+B02.0011 [Tú] | Pero creo que lo de los «gusanos» es solo para asustar a los niños
+B02.0012 [Nanoha] | Uf...
+B02.0013 [Nanoha] | Me siento mucho mejor ahora, gracias
+
+## Conversación B03
+B03.0001 [Nanoha] | ==SEX7== ==PLAYER_NAME==, ¿le gustan los chistes tontos?
+B03.0002 [Tú] | ¿Supongo?
+B03.0003 [Nanoha] | Entonces... ¿Sabe por qué el helado siempre es tímido?
+B03.0004 [Tú] | ¿Por qué?
+B03.0005 [Nanoha] | Porque si sus emociones se acaloran demasiado, se derrite
+B03.0006 [Tú] | ...
+B03.0007 [Nanoha] | ¿Sabe por qué los libros de matemáticas siempre están tristes?
+B03.0008 [Tú] | ... ¿Por qué?
+B03.0009 [Nanoha] | Tienen demasiados problemas sin resolver
+B03.0010 [Tú] | ...
+B03.0011 [Tú] | ¿De verdad eres Nanoha?
+B03.0012 [Nanoha] | Lo siento... No puedo recuperar el aliento
+B03.0013 [Tú] | ...?? ¡¿De verdad te parecen tan graciosos?!
+B03.0014 [Nanoha] | Lamento mostrarle ese lado de mí
+B03.0015 [Nanoha] | Por favor, olvide que esto ocurrió
+B03.0016 [Tú] | No, la próxima vez cuéntamelos en persona
+B03.0017 [Tú] | Quiero ver tu cara cuando los digas
+B03.0018 [Nanoha] | Entonces, la próxima vez que nos veamos, prepararé tantos chistes como pueda
+
+## Conversación B04
+B04.0001 [Nanoha] | ==SEX7== ==PLAYER_NAME==, ¿necesita servicios de limpieza del hogar?
+B04.0002 [Tú] | Mmm
+B04.0003 [Tú] | Ahora que lo mencionas, probablemente sí...
+B04.0004 [Tú] | Hemos estado ocupadísimos estas dos semanas, así que el Lucky Oasis es un completo desastre
+B04.0005 [Nanoha] | De acuerdo, iré para allá ahora, por favor espéreme
+B04.0006 [Tú] | ¡¿Eh?! ¿¡Ahora mismo!?
+B04.0007 [Tú] | Pensándolo bien, tus tarifas por encargo son bastante altas
+B04.0008 [Tú] | Tengo que hablarlo con Iris antes de poder contratarte
+B04.0009 [Nanoha] | No le cobraré
+B04.0010 [Tú] | Eh
+B04.0011 [Tú] | No puedo hacerte eso
+B04.0012 [Nanoha] | El otro día la señorita Iris me contó la situación actual de su gremio
+B04.0013 [Nanoha] | Que aceptaron un encargo grande y nadie ha tenido tiempo para las tareas del hogar
+B04.0014 [Tú] | Ya veo...
+B04.0015 [Tú] | Entonces acepto con gratitud. Yo también ayudaré
+B04.0016 [Nanoha] | Será un placer. Nos vemos pronto
+B04.0017 [Nanoha] | Llevaré los cupcakes que tanto le gustan a todos
+
+## Conversación B05
+B05.0001 [Nanoha] | ==SEX7== ==PLAYER_NAME==, ¿ha visto alguna vez un campo de girasoles?
+B05.0002 [Tú] | Nop
+B05.0003 [Nanoha] | La última vez, rumbo al Monolito, pasamos por un pueblo
+B05.0004 [Nanoha] | Escuché que sus campos estaban llenos de girasoles
+B05.0005 [Nanoha] | Pero cuando fuimos, justo era temporada de cosecha
+B05.0006 [Nanoha] | Así que habían cortado todas las flores
+B05.0007 [Tú] | ¡Ay, qué lástima!
+B05.0008 [Tú] | No estés triste, florecerán otra vez el año que viene
+B05.0009 [Nanoha] | Sí...
+B05.0010 [Nanoha] | Cuando lo hagan, ==SEX7== ==PLAYER_NAME==, ¿le interesaría ir a verlos conmigo?
+B05.0011 [Tú] | Claro
+B05.0012 [Tú] | Solo recuérdamelo cuando sea el momento
+B05.0013 [Nanoha] | Lo haré
+
+## Conversación B06
+B06.0001 [Nanoha] | ==SEX7== ==PLAYER_NAME==, ¿aún no se duerme?
+B06.0002 [Nanoha] | Perdone que le moleste tan tarde otra vez
+B06.0003 [Tú] | No hay problema, aún no me duermo
+B06.0004 [Tú] | ¿Qué pasa?
+B06.0005 [Nanoha] | Cuando fui hoy a comprar suministros, creo que la vi
+B06.0006 [Nanoha] | o a alguien que se le parecía mucho
+B06.0007 [Tú] | ¿Te refieres a... tu Maestra?
+B06.0008 [Nanoha] | Sí
+B06.0009 [Nanoha] | La tienda estaba llena y no pude ver bien
+B06.0010 [Nanoha] | Fue solo un instante y luego desapareció
+B06.0011 [Nanoha] | Fue mi culpa... Una ninja siempre debe estar alerta
+B06.0012 [Nanoha] | No debí distraerme mientras esperaba en la fila
+B06.0013 [Tú] | No te exijas tanto, Nanoha
+B06.0014 [Tú] | Si no era ella, no importa
+B06.0015 [Tú] | Y si lo era, seguro volverán a encontrarse
+B06.0016 [Nanoha] | Gracias por consolarme
+B06.0017 [Nanoha] | Es solo que... cuando cierro los ojos, ese momento se repite una y otra vez en mi mente
+B06.0018 [Tú] | Si no puedes dormir, ¿quizá salir a caminar?
+B06.0019 [Tú] | Te esperaré en nuestro lugar de siempre
+B06.0020 [Nanoha] | Voy en camino

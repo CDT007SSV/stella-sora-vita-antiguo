@@ -1,0 +1,6 @@
+# Historia de Shimiao — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_113_01 | El picante lo revela todo (Parte I)
+CG_113_02 | El picante lo revela todo (Parte II)
+CG_113_03 | El picante lo revela todo (Parte III)

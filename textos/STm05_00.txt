@@ -1,0 +1,168 @@
+# Capítulo 5 · Una chispa en la oscuridad · Interludio · Trato secreto
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Amberina | Amberina
+N:Fuyusica | Fuyusica
+N:Irisa | Irisa
+N:Nora | Nora
+N:Sneaky Silhouette | Silueta furtiva
+N:Suspicious Silhouette | Silueta sospechosa
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_156 | Nazuna
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_134 | Mina
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Interludio
+0002 [Intro] | Trato secreto
+0003 [Intro] | Mina, de Cosecha Unida, llega a la antigua Casa de los Trekkers y te invita a investigar el misterio del Ruiseñor Leonado. Su plan: infiltrarse en la empresa pasando la entrevista de trabajo.
+0004 [Narración] | Plena noche. Unas figuras sombrías se escabullen hacia un callejón desolado.
+0005 [Sneaky Silhouette] | ¿Trajiste la mercancía?
+0006 [Suspicious Silhouette] | Por supuesto. Pruébala. A ver si es auténtica.
+0007 [Sneaky Silhouette] | Ñam, ñam... Mmm.==W== Sí,==W== es justo esto.
+0008 [Suspicious Silhouette] | ¿Y dónde está mi pago?
+0009 [Sneaky Silhouette] | No te voy a quedar mal.==W== Cuéntalo.
+0010 [Suspicious Silhouette] | Uno,==W== dos,==W== tres,==W== cuatro,==W== cinco...==W== Está completo.
+0011 [Suspicious Silhouette] | Pero ¿será legítimo?==W== Eso lo decidimos nosotros.==W== ¡Muy bien, equipo, rodéenla!
+0012 [Suspicious Silhouette] | ¡Nora, las luces!==W== Irisa, si ves algo raro, avisa.==W== Sin pena.
+0013 [Nora] | Luces, luces...==W== ¡A la orden!==W== ¡Todo listo!
+0014 [Irisa] | ¡Déjenme la verificación a mí!
+0015 [Suspicious Silhouette] | Si intenta pasarse de lista,==W== ¡tendrá que vérselas con el arma de Amberina y los puños de Fuyusica!
+0016 [Amberina] | Hmph. Objetivo fijado.
+0017 [Fuyusica] | ¡O-==W==oigan...! ¡Un momento!==W== ¡¿Cómo terminé metida en este asunto tan turbio?!
+0018 [Irisa] | Jefe... creo que nuestra actuación está siendo un fracaso.==W== ¿De verdad esto es lo que quería la clienta?
+0019 [Sneaky Silhouette] | Jiji, tranquila, Irisa.==W== La vida es un escenario, ¿no?
+0020 [Sneaky Silhouette] | Captaron a la perfección esa vibra de «extras de Flavio».==W== La verdad, me siento como en casa.
+0021 [Sneaky Silhouette] | Además, sé que fue una petición rara.==W== En parte fue solo por los viejos tiempos.
+0022 [Sneaky Silhouette] | ¿Y lo demás?==W== Solo quería ver al Jefe haciendo payasadas con su equipo.==W== Justo así.
+0023 [Mistique] | Después de todo, las brujas nos alimentamos==W== de la verdad.
+0024 [Tú] | Hacer equipo con Mistique...==W== se siente arriesgado.
+0025 [Tú] | Si se entera de lo de Vita o de la Sala Blanca...==W== Me va a desplumar con tal de llegar a la verdad.
+0026 [Tú] | En fin, gracias por conseguirnos estos consejos para la entrevista.
+0027 [Mistique] | El gusto es mutuo. Yo también obtuve justo lo que buscaba.
+0028 [Mistique] | Uy, me descubrieron...==W== Qué lástima, quería platicar un poco más.
+0029 [Mistique] | ¡Ah, cierto!==W== Esa información es bastante densa. Si se atoran, solo griten.==W== ¡El servicio al cliente está incluido!
+0030 [Tú] | Iris, ¿de verdad sirven estas notas de Mistique?
+0031 [Iris] | Sí.==W== Son auténticas...==W== Increíblemente detalladas. No puedo creer que las cambiamos por unos cuantos Ruiseñores Leonados...
+0032 [Iris] | Me pregunto si la próxima vez podría pedirle un expediente sobre el Imperio de la Gracia...==W== ¡Ah,==W== es broma! Solo es broma.
+0033 [Tú] | No fue solo el pan... También fue todo el trabajo de campo.
+0034 [Tú] | Tuvimos que recorrer todas las panaderías de Philae==W== solo para satisfacer su extraño antojo==W== de Ruiseñor Leonado.
+0035 [Iris] | Aun así valió la pena.==W== ¡Con estas notas, conseguir trabajo en Cosecha Unida va a ser pan comido!
+0036 [Noya] | Yo nomás estoy feliz de ahorrar en comida... ¡y además vamos a comer esas cosas finas de «Selección Monolito» que nunca podemos pagar...!
+0037 [Noya] | Es como un sueño==W== hecho realidad♪
+0038 [Amber] | Gratis.==W== Bien.
+0039 [Iris] | Es cierto.==W== Si nos contratan, al menos ahorraremos en comidas.==W== Comer fuera en esta ciudad cuesta una fortuna.
+0040 [Iris] | ¡Esperen, no, no!==W== ¡Ese no es el punto!
+0041 [Iris] | ¡Estamos aquí para cumplir el encargo de Mina,==W== no solo para conseguir comida gratis!
+0042 [Narración] | Para entender cómo llegamos a esto, hay que retroceder unas horas...
+0043 [Lugar y hora] | 15:00, 21.º del mes de Tonitrua, afueras de Philae, antigua Casa de los Trekkers
+0044 [???] | ¿Hola? Disculpen...==W== ¿Esta es la Casa de los Trekkers de la Asociación de Trekkers?
+0045 [Kaede] | Sí, ¿en qué puedo ayudarla?==W== ...Bueno, eso iba a decir,==W== pero lo siento mucho.
+0046 [Kaede] | La Casa de los Trekkers se mudó fuera de Philae hace varios meses; este edificio ahora es solo la antigua sede.
+0047 [Kaede] | Pero si lo que necesita es que alguien se encargue de un encargo...
+0048 [Nazuna] | ¡Nosotras podemos!==W== ¡Está viendo a Petal Bloom, el gremio que derrotó a los Tres Grandes!
+0049 [???] | ¿Petal Bloom?==W== Disculpe,==W== no estoy muy al tanto de los gremios locales...
+0050 [???] | En realidad busco la agencia de personal Boss Accord.==W== ¿Está el Jefe?
+0051 [Nazuna] | ¡Agh!==W== Casi nos morimos cumpliendo las Tres Grandes Comisiones...==W== ¡¿Cómo es que seguimos siendo unas don nadie?!
+0052 [Kaede] | Ni modo.==W== La reputación no se construye en un día. Ganarse la confianza toma tiempo.
+0053 [Nazuna] | Sí, sí, ya sé...==W== Como sea.==W== ¡Todo tuyo, Jefe!
+0054 [Tú] | Mucho gusto.==W== Soy el director ejecutivo==W== de Boss Accord.
+0055 [Mina] | Hola. Soy Mina, de Cosecha Unida.==W== Aquí tiene mi tarjeta.
+0056 [Tú] | Cosecha Unida... Gerente de proyectos, Departamento de Estrategia...
+0057 [Mina] | Estoy a cargo del proyecto Ruiseñor Leonado.==W== ¿Quizá ha oído hablar de nuestro pan?
+0058 [Nazuna] | ¡Ah, claro que sí!==W== ¡Nos sacó de un apuro==W== hace unos días!
+0059 [Mina] | Jeje, me alegra oírlo.==W== Si tienen un momento, ¿podrían contarme un poco más?
+0060 [Nazuna] | Estábamos peleando contra monstruos==W== en el bosque de aquí cerca...
+0061 [Nazuna] | Me quedé sin virotes==W== y todavía quedaba una bestia en pie.
+0062 [Nazuna] | ¡Así que agarré un Ruiseñor Leonado y se lo aventé!==W== ¿Y adivine qué?==W== ¡PUM! ¡Justo entre los ojos!==W== ¡La dejó noqueada!
+0063 [Mina] | Esa...==W== ¡¡no es la experiencia de usuario que tenía en mente...!!
+0064 [Noya] | La corteza es dura como un ladrillo, eso sí.==W== Por cómo lo usó Nazuna...==W== ¿supongo que eso lo vuelve un producto alimenticio poco convencional?
+0065 [Amber] | Raciones de grado armamentístico para condiciones extremas.
+0066 [Mina] | ...==W== ...==W==
+0067 [Iris] | ¡Oigan! ¡Noya, Amber, ya basta!==W== ¡El Ruiseñor Leonado es comida, no munición!==W== ¡Sin él nos habríamos muerto de hambre,==W== eh!
+0068 [Iris] | O sea... Sí, es seco... y duro...==W== y sabe a aserrín==W== ...y quizá le faltan nutrientes...
+0069 [Iris] | ¡Pero! ¡Dura para siempre! ¡Lo venden en todas partes!==W== Y lo más importante...
+0070 [Iris] | ...como casi no se digiere,==W== ¡te mantiene lleno muchísimo más tiempo!==W== ¡¿Eso es una gran ventaja, no?!
+0071 [Tú] | ¿De verdad está intentando elogiarlo?
+0072 [Mina] | Ay, Dios...==W== Eres tan...
+0073 [Iris] | ¿D-==W==dije algo malo?
+0074 [Mina] | ¡No, no!==W== ¡Eres una verdadera conocedora del Ruiseñor Leonado!
+0075 [Mina] | Diste justo en nuestra filosofía de diseño:==W== llenar el estómago en cualquier lugar, a cualquier hora, por la menor cantidad posible de Dorra.
+0076 [Mina] | En cuanto a lo seco... lo duro...==W== la textura de aserrín... y lo nutricional...==W== Ejem.==W== Estamos trabajando activamente para optimizarlo.
+0077 [Mina] | Ay, mírennos,==W== ya nos desviamos del tema.==W== Volvamos a los negocios...
+0078 [Mina] | En realidad vine==W== a hacerle un encargo formal a Boss Accord.
+0079 [Mina] | Me gustaría que investigaran==W== cierto==W== «Ruiseñor Leonado delicioso» que apareció en Philae.
+0080 [Fuyuka] | ¿Delicioso?
+0081 [Nazuka] | ¿Ruiseñor Leonado?
+0082 [Tú] | Espere, ¿un Ruiseñor Leonado... y se supone que es delicioso?==W== ¿Nos podría dar los detalles?
+0083 [Mina] | Ah, disculpe.==W== Aunque yo sea la clienta, esa información está clasificada como secreto comercial de Cosecha Unida.==W== Me temo que por ahora no puedo revelar ningún detalle.
+0084 [Tú] | ¿Ni siquiera nos va a decir los pormenores?==W== ¿Y cómo se supone que vamos a investigar?
+0085 [Mina] | En realidad es sencillo.==W== Una vez que los contraten oficialmente en Cosecha Unida, las restricciones sobre los secretos comerciales se levantarán solas.
+0086 [Tú] | Así que volvernos empleados resuelve el problema del acceso...==W== Es una solución muy directa, pero no puedo objetar la lógica.
+0087 [Mina] | Claro, siempre existe la posibilidad de que reprueben la entrevista...==W== Pero suponiendo que los contraten, podrán empezar su investigación ese mismo día.
+0088 [Tú] | Espere, ¡¿de verdad nos pueden rechazar?!==W== Pensé que iba a mover algunas palancas por nosotros...
+0089 [Mina] | En circunstancias normales, por supuesto.==W== Nada me gustaría más que asignarles un puesto directamente...
+0090 [Mina] | Sin embargo,==W== esta investigación es sumamente delicada.
+0091 [Mina] | Si los meto yo misma a la empresa, podría levantar sospechas.==W== Por eso necesito que pasen por la entrevista normal.
+0092 [Tú] | Levantar sospechas...==W== ¿Entonces sospecha que hay un topo dentro de la empresa?
+0093 [Mina] | Me doy cuenta==W== de que es mucho pedir.
+0094 [Mina] | Pero si logran que los contraten,==W== les prometo todo el apoyo operativo.==W== Por favor, echen un vistazo a estos documentos.
+0095 [Iris] | Eh, a ver...==W== El salario y las prestaciones durante el periodo de prueba son equivalentes a los de un empleado de planta,==W== aparte de la tarifa del encargo...
+0096 [Iris] | Además de un viático diario de diez mil Dorra por persona.==W== Y en cuanto al pago final...
+0097 [Iris] | La tarifa es de cincuenta millones de Dorra...==W== Cincuenta millones.==W== Cincuenta... ¡¿CINCUENTA MILLONES?!
+0098 [Noya] | ¡Iris! ¡No te nos vayas!
+0099 [Mina] | ¡Se desmayó!==W== ¿Está bien?
+0100 [Amber] | Está bien. Su cerebro se apagó de pura felicidad.
+0101 [Amber] | 
+0102 [Amber] | Jefe, tenemos que aceptar este trabajo.
+0103 [Amber] | Recuerda que donamos todo lo de las Tres Grandes Comisiones para reconstruir el campamento.
+0104 [Amber] | Hace siglos que no tenemos un trabajo pagado, y los ahorros del gremio ya están en las últimas.
+0105 [Amber] | Anoche oí a Iris suspirar frente al libro de cuentas toda la noche.
+0106 [Amber] | 
+0107 [Tú] | No te preocupes. Me aseguraré de que lo consigamos.
+0108 [Tú] | Incluso dejando de lado el tema del dinero...
+0109 [Serena] | Todos los documentos de ese préstamo fraudulento==W== los falsificó una exempleada de Cosecha Unida llamada Lady Gray.
+0110 [Serena] | Y aquí va un dato extra:==W== puede que Cosecha Unida haya emitido una orden de arresto contra Lady Gray, pero ahora mismo está escondida ahí, en sus propias narices.
+0111 [Tú] | Esta es nuestra oportunidad de acercarnos a Lady Gray, la mente maestra detrás de la deuda del orfanato y de lo que le pasó a Claire.==W== Para nosotros...==W== ¡es la oportunidad perfecta!
+0112 [Tú] | Señorita Mina,==W== aceptamos el encargo.
+0113 [Mina] | ¡¿De verdad?!==W== ¡Ay, gracias!==W== Ella tenía razón: venir con ustedes fue la decisión correcta.
+0114 [Tú] | ¿«Ella»? ¿A quién se refiere exactamente?
+0115 [Mina] | Ah,==W== haga como que no oyó eso.==W== Digamos que es alguien con quien ya se ha cruzado.==W== Me temo que no puedo revelar su nombre.
+0116 [Mina] | Aquí tienen cinco millones de Dorra por adelantado==W== para sus preparativos.
+0117 [Mina] | Sus entrevistas están programadas para el 30 del mes de Tonitrua.==W== ¡Cuento con ustedes!
+0118 [Tú] | Nos vemos la próxima semana.
+0119 [Tú] | Alguien de mayor rango que ella...==W== y alguien que conocemos...==W== Mmm...==W==
+0120 [Narración] | Claro que, antes de empezar el trabajo, teníamos que conseguir el trabajo.
+0121 [Narración] | Esa noche, le dimos a Mistique unos Ruiseñores Leonados de la panadería que ella indicó a cambio de información privilegiada sobre el proceso de entrevistas.
+0122 [Narración] | Pasamos la semana siguiente estudiando a marchas forzadas. Por fin llegó el día de la entrevista.
+0123 [Lugar y hora] | 9:15, 30.º del mes de Tonitrua, Distrito Invernadero de Philae, Plaza de la Abundancia
+0124 [Nazuna] | ¡No es justo!==W== ¡El Jefe tiene favoritos!==W== Trabajar en Cosecha Unida suena divertidísimo, ¿por qué no me eligieron a mí?
+0125 [Kaede] | ¿No tienes suficiente que hacer en el campamento? Además...
+0126 [Kaede] | Jeje.==W== Ese trabajo implica levantarse a las 06:00 todos los días.==W== Los turnos empiezan a las 7:30 en punto.
+0127 [Nazuna] | Uf, ¿todas las mañanas a las 06:00?==W== Olvídenlo.
+0128 [Nazuna] | ¡Bueno, no trabajen demasiado!==W== ¡Cuídense mucho!
+0129 [Tú] | La misión principal es «investigación encubierta». No es que nos vayamos a volver adictos al trabajo...
+0130 [Iris] | Simulación uno:==W== el entrevistador pregunta mi ventaja competitiva frente a otros candidatos.==W== La respuesta óptima es...
+0131 [Tú] | Eh...==W== Hablé demasiado pronto.
+0132 [Nazuka] | Nosotras cuidaremos el fuerte aquí.==W== Si necesitan algo, solo díganlo.
+0133 [Tú] | Entendido. Ya nos vamos.
+0134 [Nazuka] | Mucha suerte,==W== a todos.
+0135 [Nazuna] | ¡Fuyuka!==W== ¡Representas a Petal Bloom==W== como nuestra líder del gremio!==W== ¡Haznos sentir orgullosas!
+0136 [Fuyuka] | Respira hondo...==W== Respira hondo...==W==
+0137 [Fuyuka] | Fuyuka, tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes,==W== tú puedes==W==...
+0138 [Tú] | La guía de Mistique era bastante detallada,==W== pero ahora que llegó la hora de la verdad,==W== cada quien está manejando la presión a su muy particular manera.
+0139 [Noya] | Jeje,==W== ¿qué comemos en el festín de la victoria?==W== Hace siglos que no como carne asada. A lo mejor la preparo yo misma...
+0140 [Amber] | Las entrevistas==W== requieren relajación.==W== Necesito fotos de gatos ya...
+0141 [Tú] | ¿De verdad esta entrevista...==W== va a salir bien?

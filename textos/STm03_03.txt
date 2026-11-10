@@ -1,0 +1,127 @@
+# Capítulo 3 · 3 · Petal Bloom
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Gentle Girl | Chica amable
+N:Girl in a Cloak | Chica de la capa
+N:Timid Girl | Chica tímida
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_136 | Angie
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_152 | Bastelina
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Petal Bloom
+0003 [Intro] | Por la noche, las integrantes de Petal Bloom se reúnen. Serena juega contigo un juego: te reta a encontrar a la «verdadera ella». Descubres su truco e inicias la conversación sobre el comercio de información.
+0004 [Lugar y hora] | 19:00, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0005 [Chica tímida] | ¡No, yo no! P-por favor, no me miren.
+0006 [Chica amable] | Jeje, o quizá soy yo.
+0007 [Nazuna] | Ugh, a Serena siempre le encanta hacer estos «jueguitos»...==W== Je, aunque no puedo decir que a mí no.
+0008 [Tú] | Serena es una de ellas... La chica de pelo verde dice que es Nazuna, pero podría estar mintiendo.
+0009 [Tú] | Mmm... ¿cuál de estas tres será la verdadera Serena?
+0010 [Narración] | Toda esta situación empezó hace cinco minutos.
+0011 [Lugar y hora] | 18:55, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0012 [Chica tímida] | Y-ya volví.
+0013 [Chica amable] | Nazuna, deseé un peluche nuevo en el Monolito y...==W== Oh, ¿tenemos visitas? Qué inusual.
+0014 [Iris] | Saludos. Somos Trekkers del Gremio de la Nueva Estrella.
+0015 [Chica tímida] | ¡Eek...! ¡¿E-e-extraños?! ¡Lo siento mucho, casa equivocada!
+0016 [Nazuna] | Tranquila, estás en el lugar correcto... En resumen, buscan a Serena.
+0017 [Nazuna] | Te las presento. La alta es...
+0018 [Chica amable] | Espera, Nazuna. No nos presentes todavía.
+0019 [Nazuna] | ¿Por qué no?
+0020 [Chica amable] | Si no me equivoco, usted es el Jefe de Boss Accord Staffing Corporation, ¿verdad?
+0021 [Tú] | Lo soy. ¿Ya llegaron a Philae las noticias de mi compañía?
+0022 [Chica amable] | No sabría decirle. Solo me pidieron que le entregara esta carta.
+0023 [Tú] | ¿Una carta? Quien la envió debía de saber que vendría.
+0024 [Narración] | Saludos, Jefe. Estoy parada justo frente a usted. Tiene una oportunidad para adivinar quién soy. Elija con cuidado y podrá preguntarme lo que quiera. —Serena, 10.º del mes de Pluvia.
+0025 [Tú] | Una carta de hace seis días... Interesante. Aunque todo esto es muy extraño, parece que lo único que tengo que hacer es encontrar a la verdadera Serena.
+0026 [Lugar y hora] | 19:02, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0027 [Nazuna] | Entonces, ¿==PLAYER_NAME==? Es hora de elegir.
+0028 [Nazuna] | Ah, y para que lo sepas, a ella en realidad no le importa ganar o perder. Se mostrará aunque te equivoques, así que no hay presión.
+0029 [Tú] | Dudo que no tenga sentido, sin embargo... Esto probablemente es alguna clase de prueba.
+0030 [Noya] | Oye, ==PLAYER_NAME==, juntémonos.
+0031 [Iris] | Creo que la chica de pelo rosa es la más sospechosa. Dice que solo entregaba la carta, pero ¿y si la escribió ella misma? Es la forma perfecta de desviar sospechas.
+0032 [Noya] | «Serena» es solo un nombre en clave, ¿no? Eso significa que incluso Nazuna podría ser nuestra objetivo.
+0033 [Iris] | Es cierto, no puedo descartarla...
+0034 [Noya] | Por eso mi instinto dice que es la chica tímida de pelo blanco.
+0035 [Iris] | ¿Por qué ella? Alguien tan tímida jamás podría ser corredora de información.
+0036 [Noya] | ¡No, no, ¿y si eso es solo una fachada? La tapadera perfecta para ocultar sus verdaderas habilidades.
+0037 [Noya] | No sé por qué las ocultaría, pero no es imposible, ¿verdad?
+0038 [Noya] | Amber, ¿tú qué opinas?
+0039 [Amber] | Mmm...
+0040 [Amber] | Mmm...
+0041 [Amber] | A Serena le gustan los juegos. A Nazuna le gustan los juegos.
+0042 [Tú] | Todos tienen buenos argumentos, pero no creo que sea ninguna de ellas.
+0043 [Iris] | ¿Qué? Pero la carta decía: «Estoy parada justo frente a usted». Aparte de nosotros, son las únicas otras personas en la sala.
+0044 [Noya] | ¡Oh, ya entendí! ==PLAYER_NAME== cree que Serena se cambió en secreto por una de nosotras.
+0045 [Tú] | Dudo que se infiltrara en nuestro grupo. Dado su amor por los juegos, no recurriría a un truco tan barato. No tiene gracia ganar haciendo trampa.
+0046 [Tú] | Lo que me lleva a mi conclusión. ¿Recuerdan lo que nos dijo Bastelina?
+0047 [Bastelina] | Serena no hace trampa.
+0048 [Bastelina] | Es la única pista que puedo darles.
+0049 [Tú] | Si le creemos, entonces Serena debe de estar en algún lugar de esta sala, y no está haciendo trampa.
+0050 [Tú] | Como juega limpio, debe de habernos dado alguna pista.
+0051 [Tú] | La carta dice: «Estoy parada justo frente a usted»... Nunca dijo que tuviera que ser una de esas tres personas.
+0052 [Tú] | En ese caso, mi respuesta es esta: Serena no es ninguna de las tres personas frente a mí. Está escondida en algún lugar de esta sala, pero aun así dentro de mi línea de visión mientras leía la carta. Lo que significa que el lugar más probable es...
+0053 [Narración] | Apenas terminas de pronunciar las palabras, una vieja capa en la pared se agita de repente y adopta una forma humana.
+0054 [Narración] | Parpadeas y una chica está de pie en silencio junto a la pared, como si hubiera estado allí todo el tiempo.
+0055 [Chica de la capa] | Impresionante, Jefe. Descubrió mi jueguito mucho más rápido de lo que esperaba.
+0056 [Serena] | Es un placer conocerlo por fin. Soy Serena.
+0057 [Serena] | Para toda pregunta de este mundo, yo tengo la respuesta.
+0058 [Lugar y hora] | 20:00, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0059 [Narración] | Con la identidad de Serena revelada, la Casa de los Trekkers, antes silenciosa, ahora sirve una cena sencilla pero deliciosa.
+0060 [Nazuna] | Bien, ahora que estamos todos, hagamos presentaciones como es debido.
+0061 [Nazuna] | Esta rara que siempre esconde la cara bajo una capucha es Serena, a quien todos vinieron a ver.
+0062 [Nazuna] | Sé que parece algo sospechosa, pero así es ella. No se preocupen.
+0063 [Serena] | Proteger la propia seguridad es lo natural. Ser corredora de información te granjea unos cuantos enemigos, ¿sabes?♪
+0064 [Nazuna] | ...
+0065 [Serena] | Eh... ¿no estaba siendo lo bastante sutil?
+0066 [Nazuna] | ¡Por eso intentaba disimularlo!
+0067 [Nazuna] | En fin, sobre mi gremio, Petal Bloom: esta es nuestra alta, Kaede. Es una profesional en todo, desde encargos hasta logística. Nuestro gremio se vendría abajo sin ella.
+0068 [Kaede] | Hola. Soy Kaede.
+0069 [Iris] | Parece muy amable...
+0070 [Kaede] | Sobre esa carta: Serena me pidió que se la entregara la semana pasada. Dijo que el Jefe sería la siguiente persona en llegar a la Casa de los Trekkers. Sinceramente, no queríamos jugarles una broma.
+0071 [Tú] | ¿Serena... sabía con seis días de antelación que estaríamos aquí?
+0072 [Tú] | Pero vinimos directo. Esa tiene que ser la forma más rápida de viajar. ¿Cómo pudo saberlo?
+0073 [Nazuna] | Y esta chica de pelo blanco es Fuyuka. Es nuestra integrante más nueva, se unió el mes pasado...
+0074 [Nazuna] | ...
+0075 [Nazuna] | ¿Fuyuka? Fuyuka, ¿a dónde te fuiste?
+0076 [Amber] | Detrás del sofá.
+0077 [Kaede] | Fuyuka no quiere ser grosera. Solo le cuesta tratar con la gente.
+0078 [Nazuna] | Dicho simple, es increíblemente tímida. Ver a tantos desconocidos a la vez debe de haberle agotado por completo la batería social.
+0079 [Nazuna] | Solo necesita ir a temblar en un rincón un rato para recargarse. Saldrá cuando esté lista.
+0080 [Noya] | ¡Nuestro turno! ¡Somos el Gremio de la Nueva Estrella, también conocido como Boss Accord Staffing Co.!
+0081 [Serena] | Los mismos que aplastaron a Creta Trading, detuvieron el Colapso del Monolito, destruyeron a un Stellaroid gigante y salvaron la Vía Fluvial y la ciudad.
+0082 [Nazuna] | Aplastaron a Creta Trading... ¿Derribaron a toda una compañía?
+0083 [Iris] | ¡Todo gracias a ==PLAYER_NAME==!
+0084 [Noya] | ¡Sí! ¡El Jefe es increíble!
+0085 [Noya] | Pero Serena, ¿dónde te enteraste de eso? Si Scarlet Sights Media hubiera publicado una nota sobre nosotros, Nazuna y las demás ya lo sabrían.
+0086 [Serena] | Oh, no. Su reportaje entre ciudades no saldrá hasta dentro de una semana. Como corredora de información, mi trabajo es ser más rápida que cualquier periodista.
+0087 [Tú] | Je. Sin duda hace honor a su reputación.
+0088 [Tú] | En ese caso, volvamos a nuestro trato. La ubicación del orfanato... Sabes dónde está. ¿Cuál es tu precio?
+0089 [Noya] | Oye, ==PLAYER_NAME==, espera. ¿No dijo que podíamos preguntarle lo que fuera si la encontrábamos?
+0090 [Tú] | Lo dijo. Pero la carta nunca dijo que respondería todas tus preguntas.
+0091 [Tú] | En otras palabras, el juego aún no termina... ¿verdad?
+0092 [Serena] | Vaya, vaya. De verdad es usted algo, Jefe... Creo que empieza a caerme bien.
+0093 [Serena] | La verdad, nunca tuve que reunirme con usted. Así que dejar que me haga preguntas ya es un generoso descuento.
+0094 [Tú] | Entonces es una transacción simple. Solo tenemos que pagar tu precio.
+0095 [Serena] | ¿Ve? Hablar con los inteligentes ahorra muchísimo tiempo.
+0096 [Serena] | Lo sé todo sobre su pregunta, incluida la razón detrás de ella. Y lo que aún no sé, puedo averiguarlo con facilidad.
+0097 [Serena] | Pero usted hará algo por mí: derrotar a uno de los dos Grandes que quedan y devolver a Petal Bloom su antigua gloria.
+0098 [Kaede] | ¿Eh? ¿Serena? ¿De qué hablas...?
+0099 [Nazuna] | ¡Oye, Serena, no te metas en nuestros asuntos!
+0100 [Serena] | Quizá no lo sepan...
+0101 [Serena] | El Gremio Petal Bloom solía ser una fuerza a tener en cuenta.
+0102 [Nazuna] | ¡Te dije que te callaras!
+0103 [Serena] | Conocieron a una poderosa Trekker en el campamento, ¿verdad? Lady Nazuka, la que lideró la expedición contra la Espada de Jade.
+0104 [Serena] | Ella solía ser miembro de este mismo gremio.
+0105 [Tú] | ¿Eh?
+0106 [Nazuna] | ¡Maldición! ¡No menciones a esa traidora!

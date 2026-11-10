@@ -1,0 +1,101 @@
+# Nova Times #06 · Alma de guardia, corazón de caballero · 2 · Soul of a Guard, Heart of a Knight (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Passerby | Transeúnte ansioso
+N:Director Knight | Caballero director
+N:Displeased Passerby | Transeúnte molesto
+N:Impatient Knight | Caballero impaciente
+N:Lazy Knight | Caballero perezoso
+N:Panicked Passerby | Transeúnte aterrado
+N:Robber | Ladrón
+N:avg1_107 | Tilia
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1222 | Guardia
+N:avg3_129 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_157 | Guardia Imperial
+N:avg3_189 | Kaydoke
+N:avg3_880 | Curiosos
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Alma de guardia, corazón de caballero (Parte II)
+0003 [Intro] | La aparición de un malvado enemigo rompe la calma. Frente al mal, ¿dónde se alzará la justicia?
+0004 [Director Knight] | ¿Todos en posición?==W== Siguiente escena—¡tres, dos, uno, acción!
+0005 [Narración] | El juramento de la Guardia Imperial no es solo una frase; es la luz que brilla en mi corazón.
+0006 [Narración] | ¡Somos Guardias Imperiales, protectores del Imperio, paladines de la justicia!
+0007 [Narración] | Pase lo que pase, no me acobardaré, ¡porque soy miembro de la Guardia Imperial!
+0008 [Narración] | ¡Corte!
+0009 [Director Knight] | ¡Eso estuvo bien! ¡Muy bien! ¡La expresión fue viva y natural, y la actuación tuvo verdadero sentimiento!
+0010 [Director Knight] | Una cosa, sin embargo. ¿Por qué tus líneas fueron distintas a lo que dice el guion?
+0011 [Tilia] | Jaja... Sentí que esta versión mostraba mejor el espíritu de la Guardia, así que le agregué un poco de mi propia interpretación...
+0012 [Director Knight] | Bueno, está lo bastante cerca. Podemos usar esta toma tal cual.
+0013 [Director Knight] | ¡Muy bien, todos, descanso de diez minutos!
+0014 [Kaydoke] | Lo estás haciendo genial. Cero repeticiones en las últimas escenas.
+0015 [Tilia] | ¡Todo gracias al consejo del Jefe! ¡Me imaginé como el Caballero Enmascarado y las líneas salieron solas!
+0016 [Tú] | Esa convicción ya la tenías dentro; yo solo te ayudé a darle forma con palabras.
+0017 [Tilia] | Aun así ...==W== aunque ya digo bien mis líneas, siento que todavía falta algo.
+0018 [Kaydoke] | ¿En serio? A mí esas partes me parecieron bastante buenas.
+0019 [Tilia] | No, no son las líneas en sí. Es solo que ... se siente raro.
+0020 [Tú] | Yo siento lo mismo. Aunque su actuación mejoró mucho, se siente algo extraño ver a Tilia ahí parada recitando líneas sola.
+0021 [Tú] | Sería mejor que hubiera alguien que actuara frente a ella.
+0022 [Tilia] | ¡Sí, eso es! En el Caballero Enmascarado, los héroes siempre pelean contra villanos.
+0023 [Tilia] | Voy a ver si podemos agregar una escena de esas~
+0024 [Director Knight] | Ni hablar. El guion no tiene una escena así, y ¿dónde voy a encontrar a alguien que haga de villano con tan poco tiempo?
+0025 [Tilia] | Pero...
+0026 [Director Knight] | No le des tantas vueltas. Descansa y volvemos a grabar. Tenemos que terminar hoy.
+0027 [Tilia] | Sí, entendido...
+0028 [Narración] | Al terminar el descanso, se reanudó la grabación.==W== En ese momento, un alboroto estalló de repente cerca de ahí.
+0029 [Anxious Passerby] | ¡Mi teléfono! ¡Alguien me quitó mi teléfono!
+0030 [Panicked Passerby] | ¡Robaron a alguien! ¡El tipo corrió por allá!
+0031 [Robber] | ¡Quítense del camino si quieren vivir!
+0032 [Narración] | Un hombre alto y de hombros anchos llegó a toda velocidad en un Artefacto de motocicleta de dos ruedas, irradiando agresividad.
+0033 [Tú] | ¿Un ladrón en moto?
+0034 [Kaydoke] | ¿Eh? Este ladrón no está en el guion, ¿o sí...?
+0035 [Tilia] | ¡Guau! Eres increíble. ¡Conseguiste un actor con tan poco tiempo!
+0036 [Director Knight] | ¿Eh? ¡N-no sé nada de esto!
+0037 [Tilia] | Su actuación se ve muy convincente. ¡De verdad da miedo!
+0038 [Robber] | ¿Qué hace una cámara de grabación profesional aquí?==W== Je, esto vale un buen montón de Dorras. ¡Me voy a hacer rico!
+0039 [Tú] | ¡Alto! ¡Es un ladrón de verdad!
+0040 [Robber] | ¡Fuera de mi camino!
+0041 [Tilia] | ¡Jefe! ¡Cuidado!
+0042 [Robber] | ¡Tsk! ¡Entrometido de mierda!
+0043 [Narración] | El ladrón, frustrado, maldice y se aleja a toda velocidad.
+0044 [Director Knight] | ¿¡Hay daños!?
+0045 [Tú] | Estoy bien. Menos mal que Tilia—
+0046 [Director Knight] | ¡Rentar este Artefacto de cámara costó una fortuna! ¡Si se llegó a golpear, este mes me quedo sin bono! ¡Háganse a un lado, déjenme revisarlo!
+0047 [Tú] | ... Ah, claro.
+0048 [Onlookers] | ¿Cuántas veces van ya este mes?
+0049 [Displeased Passerby] | Quién sabe. Ese ladrón motociclista ha estado atacando a gente con Artefactos y ha causado varios accidentes. ¡Nadie hace nada!
+0050 [Onlookers] | ¿Acaso no están ahí mismo los Guardias Imperiales? ¿No se supone que ellos se encargan de esas cosas?
+0051 [Displeased Passerby] | ¡Sí, cómo no! Seguro a los Guardias les importa un comino.
+0052 [Tilia] | ¡Capitán! ¡Hay que perseguirlo!
+0053 [Director Knight] | Eh...==W== Mejor no.
+0054 [Tilia] | ¿Capitán?
+0055 [Director Knight] | Es mejor no meterse. Además, la persona asaltada no nos pidió recuperar su teléfono. ¿Para qué meter las narices?
+0056 [Director Knight] | El ladrón ya se fue lejos. Ya no lo alcanzamos. Lo prioritario es terminar la grabación.
+0057 [Impatient Knight] | Sí, tenemos que terminar rápido y entregar esto.
+0058 [Lazy Knight] | Así es. No quiero desperdiciar todo mi esfuerzo.
+0059 [Tilia] | Pero ...==W== como miembro de la Guardia Imperial, ¡no puedo quedarme de brazos cruzados ante el mal!
+0060 [Tilia] | Si ni siquiera nosotros nos preocupamos por el honor de un caballero, ¿quién defenderá la justicia tal como la conocemos?
+0061 [Director Knight] | Eh...
+0062 [Tilia] | Aunque nadie nos lo haya pedido,==W== ¡voy tras ese ladrón!
+0063 [Tilia] | Capitán, necesito pedirle esto prestado.
+0064 [Director Knight] | ¡Ni hablar! ¡Absolutamente no! ¡Esto es un objeto de utilería que proporcionó la empresa para la grabación; si se daña, no podemos pagar el reemplazo!
+0065 [Kaydoke] | ¡Tilia, por aquí! ¡Tu Águila Lapislázuli!
+0066 [Tilia] | ¡Gracias, Kaydoke!
+0067 [Director Knight] | ¡Tilia! ¡Si arruinas la grabación, tú asumes toda la responsabilidad! ¡Habrá una amonestación formal!
+0068 [Tú] | Director, cálmese.
+0069 [Tú] | De hecho, esta es la oportunidad perfecta para usted.
+0070 [Director Knight] | ¿A qué te refieres?
+0071 [Tú] | Ese ladrón acaba de intentar arrebatarnos la cámara. Por suerte no se dañó, pero sigue siendo un ataque a la propiedad de la Guardia.
+0072 [Tú] | Si ignoramos al ladrón y se corre la voz de que se puede asaltar a la Guardia Imperial y salir impune, todos dirán que los Guardias tienen demasiado miedo para defenderse.
+0073 [Tú] | Olvide mejorar la imagen pública de la empresa: esto va a arruinar la reputación de la Guardia. Una amonestación formal sería su menor problema.
+0074 [Director Knight] | Tienes razón... Pero ¿y la grabación...?
+0075 [Tú] | Eso déjemelo a mí.

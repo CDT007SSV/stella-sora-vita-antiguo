@@ -1,0 +1,148 @@
+# Historia de Otoha · 3 · Performer of Myriad Faces (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Insurance Manager | Gerente de seguros
+N:Nervous Citizen | Ciudadano nervioso
+N:Receptionist | Recepcionista
+N:avg1_145 | Otoha
+N:avg3_100 | Sylar
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_196 | Empleada corporativa
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La artista de mil rostros (Parte III)
+0003 [Intro] | Cuando cae el telón, ¿cómo distinguir la diferencia entre la realidad y la apariencia?
+0004 [Narración] | Otoha y yo seguimos al empleado hasta el edificio de Omnisky Aegis.
+0005 [Otoha] | ¿Memorizaste el guion que te di, Jefe?
+0006 [Otoha] | La verdadera actuación empieza ahora. Veamos qué tienes.
+0007 [Tú] | Está bien. Haré lo mejor que pueda.
+0008 [Receptionist] | Buenas tardes. ¿En qué puedo ayudarle hoy?
+0009 [Otoha] | Tengo una cita por una póliza de alto valor.
+0010 [Receptionist] | Por supuesto. ¿Recuerda qué asesor se comunicó con usted?
+0011 [Otoha] | Ni idea. Mi teléfono suena sin parar todo el día. No puedo llevar la cuenta de cada nombre.
+0012 [Otoha] | Creo que era un «Asesor Sénior» o algo así...==W== Si nadie está disponible, me retiraré.
+0013 [Receptionist] | ¡Por favor, espere un momento! ¡Reviso de inmediato!
+0014 [Insurance Manager] | Permítame. Yo atenderé personalmente a esta clienta.
+0015 [Receptionist] | Pero, señora, aún no he confirmado de quién es la cita...
+0016 [Insurance Manager] | No hace falta.==W== No podemos hacer esperar a una invitada tan valiosa, ¿verdad?
+0017 [Tú] | Qué labia. Obviamente solo intenta quedarse con la comisión.
+0018 [Tú] | Pero bueno, al menos nos deja pasar sin complicaciones.
+0019 [Otoha] | Usted no fue quien llamó, pero supongo que es lo de menos. Los negocios son los negocios.
+0020 [Insurance Manager] | Por favor, por aquí...
+0021 [Narración] | Mientras la gerente nos guía, Otoha entrelaza su brazo con el mío como si fuera lo más natural del mundo.
+0022 [Otoha] | Jeje.
+0023 [Tú] | Sé que es actuación...==W== Pero aún no me acostumbro a esto.
+0024 [Insurance Manager] | Permítame presentarme. Dirijo la sucursal de Omnisky Aegis en Emor. Ahora permítame presentarle nuestro portafolio premium.
+0025 [Insurance Manager] | Mencionó pólizas de alto valor. ¿Qué cobertura específica tiene en mente?
+0026 [Insurance Manager] | Ofrecemos responsabilidad civil, gastos médicos mayores, gestión patrimonial...
+0027 [Otoha] | Ugh, ahórrame la jerga.
+0028 [Otoha] | Quiero la póliza más cara que tengan. El mayor rendimiento posible para ==SEX4==.
+0029 [Insurance Manager] | Por supuesto. ¿Y puedo preguntar ... la naturaleza de su relación?
+0030 [Otoha] | ==SEX1== es el protagonista de la próxima Stella Drama que estoy financiando. Tenemos ...==W== una conexión bastante especial. ¿Verdad?
+0031 [Tú] | Por supuesto...==W== Pero tenemos que ser discretos. Ni una palabra de esto debe salir de aquí.
+0032 [Insurance Manager] | Tenga la seguridad. La discreción es nuestra moneda. Su privacidad está a salvo conmigo.
+0033 [Otoha] | Bien. Me muero de preocupación por mi estrellita. Actuar pasa una factura enorme al cuerpo.
+0034 [Otoha] | Solo mira esa carita linda. Si le pasara algo...==W== Bueno, me destrozaría.
+0035 [Tú] | ¡Está bien, demasiado cerca!==W== ¿¡Y tienes que pellizcarme tan fuerte!?
+0036 [Insurance Manager] | Oh, ya veo. Completamente entendido.
+0037 [Tú] | ¡¡Quítate esa sonrisita burlona de la cara!!
+0038 [Tú] | En serio, ¿por qué este trasfondo...?
+0039 [Otoha] | Una amiga recomendó su firma en una fiesta hace poco. Su asesor debía reunirse conmigo aquí.
+0040 [Otoha] | Pero este lugar es diminuto. Casi no hay oficinas. ¿No será usted parte de alguna estafa de poca monta?
+0041 [Insurance Manager] | ¡Absolutamente no!==W== Quizá no lo sepa, pero nuestra sede en Puerto Jilguero ha liderado la industria durante una década.
+0042 [Insurance Manager] | La sucursal de Emor puede parecer modesta, pero nuestro crecimiento reciente es explosivo.
+0043 [Insurance Manager] | Cubrimos a todos: Trekkers, ciudadanos y clientes VIP como usted.
+0044 [Tú] | Trekkers... Ciudadanos...
+0045 [Tú] | ¿Fueron ellos? Las armas rotas, las noticias sensacionalistas... ¿Han estado moviendo los hilos todo este tiempo?
+0046 [Otoha] | Ya veo.
+0047 [Otoha] | En ese caso, redacte una propuesta para mí. Mi presupuesto es de cinco millones de Dorra.
+0048 [Otoha] | Cinco millones. ¿Qué te parece, ==PLAYER_NAME==?
+0049 [Tú] | ...
+0050 [Tú] | Cinco millones...==W== Esa es la señal. Es hora del espectáculo.
+0051 [Tú] | ¿¡Estás bromeando!? ¿¡Unos miserables cinco millones!?
+0052 [Tú] | ¡No creas que no sé que aseguraste a tu último actor principal por diez millones!
+0053 [Tú] | ¿Eso es todo lo que valgo para ti?
+0054 [Otoha] | ¡N-no, espera! ¡Déjame explicar...!
+0055 [Tú] | ¡Ahórratelo! ¡Me voy!
+0056 [Otoha] | ¿A dónde vas? ¡Espera!
+0057 [Insurance Manager] | ¡Por favor, espere! ¡Podemos llegar a un acuerdo!
+0058 [Tú] | Uf...==W== Actuar desgasta muchísimo. Al menos lo logramos.
+0059 [Tú] | Ahora...==W== solo tengo que esperar a que Otoha consiga lo que busca.
+0060 [Otoha] | En cuanto diga «cinco millones», explotas. Te enojas y te marchas dando un portazo.
+0061 [Otoha] | Nos separamos y yo buscaré el objetivo.
+0062 [Otoha] | Ese es el guion.
+0063 [Tú] | No tengo mucha confianza en mis dotes de actuación...==W== Pero está bien. Lo intentaré.
+0064 [Narración] | Una hora después...
+0065 [Tú] | Ya pasó una hora desde que salí. Espero que Otoha esté bien...
+0066 [Tú] | Es una profesional.==W== Seguro está bien...
+0067 [Nervous Citizen] | Oye, ¿te enteraste? ¡Algo está pasando en ese edificio de la calle de arriba!
+0068 [Nervous Citizen] | Dicen que alguien armó un enorme alboroto adentro...
+0069 [Nervous Citizen] | ¡Sí, me enteré! Parece que ya atraparon a alguien.==W== Con razón había multitud cuando pasé. Hasta llegó la Guardia Imperial.
+0070 [Tú] | Hablan del==W== edificio de Omnisky Aegis...
+0071 [Tú] | Otoha...==W== ¡Por favor, dime que no te atraparon!
+0072 [???] | ¿Te hice esperar, verdad, Jefe?
+0073 [???] | Encuéntrame en la azotea del hotel junto al edificio de Omnisky.
+0074 [Tú] | ¿Eh? ¿Esa era Otoha?==W== Entonces, ¿a quién atraparon los guardias...?
+0075 [Narración] | Cuando llego, ya ha caído la noche.
+0076 [Narración] | Subo corriendo las escaleras y abro de golpe la puerta de acceso.
+0077 [Otoha] | Por aquí, Jefe.
+0078 [Tú] | ¡Otoha!
+0079 [Otoha] | Vaya.==W== ¿Por qué estás sin aliento?
+0080 [Opción] | Tardaste mucho en avisar. Estaba preocupado.
+0081 [Otoha] | Lo siento.==W== Hubo algunos problemas,==W== y tomó más tiempo del esperado.
+0082 [Opción] | ¿Es así...? ¿Estás herida?
+0083 [Otoha] | Jeje...==W== Tirano,==W== te preocupas por la persona equivocada.
+0084 [Otoha] | Dejando eso a un lado,==W== ¿no tienes curiosidad==W== por lo que conseguí?
+0085 [Otoha] | Eso es ...==W== algo que te concierne.
+0086 [Opción] | Dicho así, sí me hace preguntarme…
+0087 [Opción] | ¿Me dirás la verdad?
+0088 [Otoha] | Jeje.==W== La yo de siempre quizá habría puesto una condición, pero...
+0089 [Otoha] | Esta es mi forma de agradecerte por forzarte a mentir==W== y soportarme hoy.
+0090 [Opción] | Dudo que alguna vez me acostumbre a mentir.
+0091 [Opción] | Pero al menos hoy fue divertido.
+0092 [Otoha] | El momento en que una persona revela su verdadero yo==W== es cuando brilla más.
+0093 [Otoha] | Pero mi «verdad»==W== ya se fue a algún lugar lejano.
+0094 [Otoha] | Es como una luna llena flotando en el cielo nocturno...==W== La ves, pero nunca puedes alcanzarla.
+0095 [Opción] | Es cierto que no se puede alcanzar la luna. Pero...
+0096 [Opción] | Aunque no podamos verla, la verdad está ahí, ¿no?
+0097 [Opción] | Entonces no es algo que lamentar.
+0098 [Otoha] | Jeje.==W== Tirano,==W== eres definitivamente directo.
+0099 [Otoha] | Como dicen,==W== la verdad y la falsedad son dos caras de la misma moneda.
+0100 [Otoha] | En ese caso,==W== intentaré sentir la «verdad»==W== que está aquí ahora mismo.
+0101 [Narración] | Una suave brisa nos envuelve mientras contemplamos la luz de la luna. Por un instante, el mundo se detiene.
+0102 [Tú] | Entonces, ese «pequeño incidente» de hace rato... ¿Qué pasó?
+0103 [Otoha] | Una vez que te fuiste, ubiqué la oficina del gerente general y aseguré el objetivo.
+0104 [Otoha] | Pero mientras salía, un grupo de Trekkers irrumpió, alegando que representantes de ventas los estafaron con sus pagos.
+0105 [Otoha] | La Guardia Imperial llegó para arrestarlos, así que los ayudé a escabullirse. De paso conseguí información útil.
+0106 [Tú] | Ya veo…==W== ¿Y qué sacaste exactamente de la oficina?
+0107 [Otoha] | Su estrategia de negocios para Emor. O, más exactamente,==W== pruebas de sus crímenes.
+0108 [Otoha] | Describe todo el esquema: inundar el mercado con pernos corrosivos y tuercas baratas...==W== Los Trekkers se lastiman en el trabajo, se les empuja más seguro contra accidentes.
+0109 [Otoha] | También manipulan la opinión pública para vender seguros de desempleo a los ciudadanos comunes.
+0110 [Tú] | Harán lo que sea por ganancias, ¿eh?
+0111 [Otoha] | Como sea, tengo en mi poder lo que vine a buscar.
+0112 [Otoha] | Oí que su líder tiene bastante interés en Boss Accord Staffing Co.==W== Sin embargo, no hay nada sobre ti en estos archivos. Seguiré investigando.
+0113 [Tú] | ¿Interesado en mí?
+0114 [Tú] | Gracias por la advertencia. Estaré alerta.
+0115 [Tú] | Pero...==W== tengo una pregunta.
+0116 [Tú] | Podrías haber recabado esta información tú sola. ¿Por qué me arrastraste contigo?
+0117 [Otoha] | ...
+0118 [Otoha] | Tu instinto agudo y tu honestidad son verdaderamente aterradores, Jefe.
+0119 [Otoha] | ¿Y si dijera que simplemente me aburría y quería compañía? ¿Te molestaría?
+0120 [Tú] | No. Te conozco. Debe de haber una razón.
+0121 [Otoha] | Entonces permíteme preguntarte algo a cambio, Jefe.
+0122 [Otoha] | Tuviste muchas oportunidades de negarte, pero seguiste mi farsa todo el día. ¿Por qué?
+0123 [Tú] | Bueno...==W== Fue algo molesto, pero la verdad, actuar fue bastante divertido.
+0124 [Otoha] | Entonces deberíamos repetirlo la próxima vez.
+0125 [Otoha] | Se hace tarde. Deberías regresar a descansar.
+0126 [Tú] | Está bien. Nos vemos luego.
+0127 [Narración] | Días después, los periódicos publican un reportaje sobre las corruptas tácticas de ventas de Omnisky Aegis, divulgando a la vista de todos el plan estratégico robado.
+0128 [Narración] | La firma es de esa bruja novata. Otoha debió de filtrarle los documentos.
+0129 [Otoha] | Hasta que nos volvamos a ver, Jefe, atesoraré el recuerdo de esa luz de luna que compartimos.
+0130 [Otoha] | Para mí, fue lo único que se sintió ... «real».

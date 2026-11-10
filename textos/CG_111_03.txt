@@ -1,0 +1,119 @@
+# Historia de Iris · 3 · The Shopping War (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Calm Customer | Cliente tranquilo
+N:Manager | Gerente
+N:Shop Manager | Gerente de la tienda
+N:Young Customer | Cliente joven
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg2_984 | Soldado Trekker
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_129 | Guardia Imperial
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_147 | Residente del Distrito de Oro
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La guerra de las compras (Parte III)
+0003 [Intro] | ¡Es hora de que las delicias de la mantequilla y el azúcar barran con todo mal humor!
+0004 [Iris] | ==PLAYER_NAME==... ==W==Yo...
+0005 [Tú] | Devolvamos las cosas de más.
+0006 [Iris] | ¿Eh?
+0007 [Tú] | Quedémonos con las papas fritas y los fideos instantáneos.
+0008 [Tú] | Aunque compremos de más de estos, si todos quieren, igual los terminamos en un abrir y cerrar de ojos.
+0009 [Tú] | Pero el arroz y los fideos... Si no los terminamos a tiempo, se echarán a perder. Devolvamos algunos.
+0010 [Tú] | Y el champú, la pasta de dientes, las toallas...
+0011 [Tú] | Con estos pasa lo mismo. No necesitamos tantos.
+0012 [Iris] | Pero...
+0013 [Tú] | Siento lo mismo que tú, Iris.
+0014 [Tú] | Así que no te preocupes, solo sigue tu corazón.
+0015 [Iris] | Ya veo. Gracias. ==PLAYER_NAME==.
+0016 [Iris] | No puedo aceptar esas condiciones solo por un regalo gratis.
+0017 [Iris] | Pasemos por la caja normal y olvidemos todo el asunto de la cortesía.
+0018 [Narración] | Iris y yo repasamos los artículos del carrito, conservando solo lo esencial.
+0019 [Tú] | Creo que eso es todo.
+0020 [Tú] | Voy a pagar ahora. En cuanto a ti, Iris, haz lo que sientas que es correcto.
+0021 [Iris] | Sí. Lo pensé y...
+0022 [Iris] | Aunque la participación es totalmente voluntaria, no creo que nadie aquí se dé cuenta de lo difícil que es conseguir el 70 % de descuento.
+0023 [Iris] | No intento interferir ni detenerlos.
+0024 [Iris] | Pero...
+0025 [Iris] | Asegurarse de que ambas partes estén igualmente informadas es esencial en un trato justo.
+0026 [Iris] | … Así que les voy a decir la verdad a todos.
+0027 [Narración] | Iris se agacha y se abre paso hasta el mostrador de registro.
+0028 [Iris] | Atención, todos, por favor escúchenme...
+0029 [Narración] | Nadie la nota.
+0030 [Iris] | …
+0031 [Iris] | Ni modo, creo que tendré que recurrir a...
+0032 [Iris] | ¡El «70 % de descuento» es una estafa! ¡No caigan!
+0033 [Narración] | La multitud se calla de inmediato. Muchas miradas se posan en Iris.
+0034 [Iris] | Perdón, tenía que decir eso para captar su atención... Todos deben conocer las probabilidades reales de conseguir el descuento.
+0035 [Iris] | La ruleta de descuentos tiene una mediana de 0.2 %. Eso significa que, en tres horas, necesitarían traer a 350 personas si quieren obtener el descuento.
+0036 [Iris] | Sumen el tiempo que se pasa buscando gente y hablando con ella. Es seguro decir que conseguir este 70 % es mucho más difícil de lo que esperarían.
+0037 [Young Customer] | Tiene sentido. Tres horas parece mucho tiempo, pero no hay forma de conseguir a 350 personas.
+0038 [Iris] | Sé que algunos de ustedes tienen muchos amigos y para ustedes completar el reto es pan comido. Y algunos quizá tengan una suerte descomunal y consigan el descuento máximo en cada giro.
+0039 [Shop Manager] | ¡Basta! ¿Qué le pasa? ¡La demandaré por difamación!
+0040 [Iris] | Pero para la gente común, como ustedes y yo, este juego no es para nosotros.
+0041 [Manager] | ¡Seguridad! ¡Seguridad! ¡Sáquenla de aquí!
+0042 [Young Customer] | ¡Oiga! ¡Déjela terminar!
+0043 [Calm Customer] | ¡Queremos saber la verdad detrás del descuento del recorte de precios!
+0044 [Narración] | Los clientes se agrupan para formar una barrera humana que protege a Iris.
+0045 [Tú] | Iris, salta. ¡Tenemos que irnos!
+0046 [Iris] | Ahhhh...
+0047 [Iris] | ¡Está bien!
+0048 [Narración] | Con la ayuda de otros clientes, por fin esquivamos a los de seguridad y salimos del centro comercial de una pieza.
+0049 [Tú] | Iris, ¿estás ahí?
+0050 [Tú] | ¿Eh? ¿Ese bulto de la cobija se acaba de mover...?
+0051 [Iris] | Aquí estoy...
+0052 [Tú] | ¿Estás bien? Pareces un poco decaída y apenas probaste tu cena.
+0053 [Iris] | Y-yo estoy bien.
+0054 [Iris] | Solo estoy cansada de ir de compras y quiero acostarme temprano.
+0055 [Tú] | Sí... Pero...
+0056 [Tú] | ¿Siempre duermes con tu cuaderno en la mano?
+0057 [Iris] | Iba a dormir temprano, pero...
+0058 [Iris] | Aunque no me arrepiento de la decisión de hoy, no puedo evitar preguntarme...
+0059 [Iris] | ¿De verdad tomé la mejor decisión?
+0060 [Iris] | Si hubiera investigado más de antemano y hecho un plan más minucioso, ¿habría podido detectar los problemas de esa venta falsa e ir a otra tienda que de verdad tuviera descuentos reales...?
+0061 [Iris] | Mientras más lo pienso, más difícil me es dormir. Termino llevando las cuentas.
+0062 [Iris] | Calculé nuestros gastos de hoy, ==W==revisé cuánto dinero nos quedaba,==W== y repasé nuestro plan de gastos futuros...
+0063 [Narración] | Iris abre el libro de cuentas y repasa su plan detallado para los próximos seis meses.
+0064 [Tú] | Hiciste un trabajo excelente hoy, Iris. No solo compraste los suministros que necesitábamos, también expusiste la estafa de esa tienda.
+0065 [Tú] | Así que, en lugar de repasar lo que salió mal, lo que necesitas ahora es premiarte un poco.
+0066 [Narración] | Saqué el único artículo que compré antes mientras pagaba a solas: el único que no estaba en oferta.
+0067 [Iris] | Estas son … galletas de mantequilla...==W== Pero ¿por qué?
+0068 [Tú] | Porque se veía que de verdad las querías.
+0069 [Tú] | Pensé que estarías triste si al final no podías comer estas galletas.
+0070 [Iris] | (Gimoteo)
+0071 [Tú] | Y acabo de revisar las cuentas. El presupuesto de compras de hoy alcanzaba de sobra para comprar unas cuantas cajas de galletas además de lo demás.
+0072 [Tú] | Siempre te contienes porque piensas que las galletas no son esenciales y que no debes darte gustos.
+0073 [Tú] | Siempre nos cuidas y nos compras lo que queremos, pero has estado descuidando tus propios sentimientos.
+0074 [Iris] | Ya que te tomaste tantas molestias...
+0075 [Narración] | Iris toma las galletas.
+0076 [Iris] | ¿Cuánto hace que no como una?
+0077 [Iris] | ==W==Regañé a Noya ==W==por comer en la cama esta mañana,==W== y ahora yo estoy haciendo lo mismo...==W== Jefe,==W== ¡por favor ayúdame a mantener esto en secreto!
+0078 [Opción] | No te preocupes
+0079 [Opción] | Esto será nuestro secreto
+0080 [Iris] | Gracias, ==W==Jefe. Eh..., bueno...
+0081 [Iris] | Debo de verme rara ahora, ==W==¿verdad?==W== No solo me sorprendiste llevando las cuentas a escondidas bajo mi cobija,==W== ahora estoy comiendo galletas en la cama...
+0082 [Iris] | Suspiro...==W== Hay tantas cosas en mi cabeza ahora ...==W== incluso las galletas ==W==que rara vez disfruto saben insípidas...
+0083 [Opción] | ¿Me pasé con la galleta?
+0084 [Iris] | No es ==W==lo que quise decir...
+0085 [Iris] | En realidad,==W== cuando me diste las galletas ...==W== me puse tan feliz...
+0086 [Iris] | Pero,==W== pensar que solo yo recibí las galletas==W== me hace sentir que ==W====W==no merezco ser tan feliz...==W==
+0087 [Opción] | Mereces que te traten bien
+0088 [Iris] | ¿Eh?==W== Eso no es... O sea...
+0089 [Iris] | Pero,==W== oírlo de ti...==W== me hace sentir menos ansiosa.==W==
+0090 [Iris] | La verdad,==W== creo que...==W== estoy empezando a depender cada vez más de ti.
+0091 [Iris] | Así que... ¡te hago responsable!
+0092 [Iris] | Si no puedo volver a comer galletas en el futuro,==W== m-me voy a molestar muchísimo.
+0093 [Iris] | Las galletas … son tan deliciosas.
+0094 [Tú] | Veo muchas galletas en tu futuro.
+0095 [Iris] | Lo sé.
+0096 [Iris] | Tú, yo, Noya, Amber. Si todos trabajamos duro juntos, estoy segura de que...
+0097 [Narración] | Toda la frustración y el mal humor, como las migajas de las galletas...
+0098 [Narración] | serán barridos antes de mañana.

@@ -1,0 +1,126 @@
+# Historia de Firstlight Noya · 3 · The Name of Hers (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blind Girl | Chica ciega
+N:Hot-Tempered Slave Trader | Traficante de esclavos irascible
+N:Imprisoned Civilian | Civil encarcelado
+N:Noble Guard | Guardia noble
+N:Suspicious Slave Trader | Traficante de esclavos sospechoso
+N:avg1_162 | Alina
+N:avg3_100 | Sylar
+N:avg3_219 | Residente de Mirage
+N:avg3_227 | Anciano de Filanis
+N:avg3_228 | Ciudadano de Filanis (H)
+N:avg3_229 | Esclavo de Filanis
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El nombre de ella (Parte III)
+0003 [Intro] | Convertirse en el consuelo del otro, con los dedos entrelazados, protegiendo un secreto que pertenece solo a los dos.
+0004 [Tú] | No tenía idea de que las cuevas bajo Filanis fueran tan enormes...
+0005 [Alina] | La roca de aquí se erosiona con facilidad. Con el tiempo, el agua simplemente excavó estos túneles.
+0006 [Tú] | Parece que la naturaleza quiere ver pagar a esa escoria.
+0007 [Tú] | Pero ¿por qué actuar al amanecer? ¿No sería más seguro a medianoche?
+0008 [Alina] | Todo lo contrario. Estos nobles hacen fiesta toda la noche y no duermen hasta el amanecer. Justo ahora es cuando están dormidos como troncos.
+0009 [Tú] | Si pasar la noche en vela te convierte en noble, llevo un buen rato viviendo como la realeza.
+0010 [Tú] | Espera, no. No es como si ellos tuvieran que escalar el Monolito y cazar monstruos todos los días.
+0011 [Alina] | ==PLAYER_NAME==, por aquí. Ya abrí el túnel.
+0012 [Alina] | Espera. La mazmorra de Caligula está justo adelante...==W== ¡Shh! Hay alguien ahí.
+0013 [Hot-Tempered Slave Trader] | ¡¿Qué?! ¡¿El contrato queda anulado?! ¡No pueden hacer esto! ¡Déjenme ver a Lord Caligula!
+0014 [Noble Guard] | ¿Dejaste que escaparan y todavía tienes el descaro de pedir una audiencia? ¿Sabes cuánto tiempo y dinero nos costó tu error?
+0015 [Suspicious Slave Trader] | ¡¿Quién ha estado capturando a sus esclavos todos estos años?! ¡Aunque haya metido la pata, igual hice el trabajo!
+0016 [Noble Guard] | ¡Solo eres un traficante, así que cuida tu lengua! Lord Caligula ya terminó contigo. ¡Ahora lárgate!
+0017 [Tú] | Alina, parece que los ciudadanos capturados están encerrados ahí.
+0018 [Alina] | ... ¿Es culpa mía?
+0019 [Tú] | ¿Alina?
+0020 [Alina] | Salvé a esos esclavos, y ahora los ciudadanos de Filanis pagan el precio...
+0021 [Tú] | ¿Te arrepientes?
+0022 [Alina] | ... No. Si me hubiera dado la vuelta, jamás me lo habría perdonado.
+0023 [Tú] | Entonces eso basta. Esa es tu justicia.
+0024 [Tú] | No hiciste nada malo. El verdadero crimen es el tráfico de esclavos y los nobles que lucran con gusto de él.
+0025 [Tú] | Salvamos a esas hermanas, y ahora también vamos a salvar a la gente que está ahí dentro.
+0026 [Alina] | ... Tienes razón. Ahora no es momento de culparme. ¡Vamos!
+0027 [Alina] | ¿Están todos bien? Los guardias están inconscientes. Muévanse y háganlo en silencio.
+0028 [Imprisoned Civilian] | Ese uniforme...==W== ¿Es usted Vigía Nocturna? ¡Gracias al cielo...!==W== ¿Viene a salvarnos, verdad?
+0029 [Tú] | Manténganse cerca, todos. Los guiaré por el túnel.
+0030 [Narración] | El rescate sale sorprendentemente bien. Alina y yo recorremos la mazmorra y no dejamos atrás a nadie.
+0031 [Tú] | Con calma, no hay prisa. Está oscuro, así que cuidado donde pisan.
+0032 [Tú] | Esta chica es la última. Ahora solo quedamos Alina y yo...
+0033 [Blind Girl] | ¡Iiih! Ah...
+0034 [Noble Guard] | Oye, ¿oíste algo de la mazmorra?
+0035 [Tú] | ¡Ay no...!==W== ¡La patrulla nos oyó!
+0036 [Blind Girl] | ¡Lo siento! ¡Lo siento muchísimo! Y-==W==yo...
+0037 [Alina] | No es tu culpa. Date prisa y únete a los demás. Los detendremos aquí.
+0038 [Tú] | Alina, ¡corramos por el otro lado!
+0039 [Alina] | ¡Entendido!
+0040 [Noble Guard] | ¡Por allá! ¡Alto ahí, esclavos! ¡Son propiedad de Lord Caligula!
+0041 [Tú] | ¡¿A quién llamas propiedad?! ¡Atrápennos si pueden!
+0042 [Alina] | Bien, el plan funcionó. ¡Todos vienen tras nosotros!
+0043 [Tú] | En cuanto lleguemos a las calles, no podrán detenernos...==W== ¡Guau!
+0044 [Suspicious Slave Trader] | ¡Auch...!==W== ¡Fíjese por dónde va! ¡Ya estoy de pésimo humor!
+0045 [Tú] | P-Perdón...==W== Espera, ¡¿eres tú?!
+0046 [Suspicious Slave Trader] | ¿Mm? Esta voz... ¿La he oído en algún lado?
+0047 [Alina] | Oye, ¿estás bien?
+0048 [Hot-Tempered Slave Trader] | ¡Ah! ¡Esa voz! ¡Ustedes son los bandidos que robaron a nuestros esclavos!
+0049 [Tú] | ¡Maldición, por qué justo ahora...!
+0050 [Alina] | Hmph. Deberían sentirse honrados de abastecer de esclavos a Lord Caligula, ¿y se atreven a pedir dinero?
+0051 [Alina] | ¡Capten la indirecta y lárguense!
+0052 [Suspicious Slave Trader] | ¡¿Q-Qué acabas de decir?!
+0053 [Alina] | Si tienen algún problema, resuélvanlo con mis guardias.
+0054 [Suspicious Slave Trader] | ¡No son los únicos con refuerzos en esta ciudad! ¡Haremos que se arrepientan de esto!
+0055 [Tú] | Alina, los hombres de Caligula están aquí.
+0056 [Alina] | Momento perfecto. ¡Vayamos por aquí!
+0057 [Suspicious Slave Trader] | ¡Ni se les ocurra huir!
+0058 [Noble Guard] | ¡Ahí están! ¡Alto ahí, escoria ladrona!
+0059 [Suspicious Slave Trader] | ¡¿Eh?!
+0060 [Noble Guard] | Ya veo...==W== ¡Lord Caligula anula su contrato y ustedes liberan a los esclavos por venganza! ¡De verdad no saben cuál es su lugar!
+0061 [Hot-Tempered Slave Trader] | ¡Bastardos! ¡Caligula es quien rompió el contrato y se negó a pagar!
+0062 [Noble Guard] | ¡Cállense!
+0063 [Tú] | Qué golpe de suerte. Ahora se están agarrando del cuello...
+0064 [Alina] | Nos pisaban los talones. Qué bueno que se volvieron unos contra otros... Nos ahorró muchos problemas.
+0065 [Tú] | Nada mal.
+0066 [Alina] | ¿Qué cosa no está mal?
+0067 [Tú] | Nada. Solo me impresiona qué tan rápido inventaste esa mentira. Con unas pocas palabras los pusiste a pelear entre ellos.
+0068 [Alina] | ¿Y de quién es la culpa? Estando contigo, siento que estoy adquiriendo malos hábitos.
+0069 [Alina] | Aunque ...==W== ahora mismo no se siente tan mal.
+0070 [Alina] | Además...==W== Sobre lo de hoy...
+0071 [Tú] | Ya sé. Un secreto solo entre nosotros, ¿verdad?
+0072 [Alina] | Gracias.
+0073 [Tú] | Esto es ...==W== ¿los Baños Olimpia? Alina, ¿por qué estamos aquí?
+0074 [Alina] | Nos escondemos. Le pedí a Lulu que nos preparara un baño privado, uno que normalmente es solo para nobles.
+0075 [Alina] | Si los hombres de Caligula se dan cuenta de que atraparon a las personas equivocadas, jamás sospecharían que los verdaderos culpables estén disfrutando de un baño relajante.
+0076 [Alina] | Además, acabamos de correr por esas cuevas y estamos cubiertos de polvo. Es el momento perfecto para lavarnos y, de paso, destruir las pruebas...
+0077 [Tú] | Tiene sentido...==W== ¡¿E-Espera, Alina?! ¿Por qué te quitas la armadura...?
+0078 [Alina] | ¿Cómo más voy a bañarme? Vamos, date prisa.
+0079 [Alina] | Un baño tan lujoso...==W== Solo puedo usarlo gracias a ti.
+0080 [Alina] | El calor del vapor,==W== el suave aroma de las flores…==W== Así que esto es lo que se siente ser sanada.
+0081 [Opción] | Alina, tu espalda... ¿Estás herida?
+0082 [Alina] | ¿Herida?==W== No creo que...==W== Ah, ¿te refieres a mis viejas heridas?
+0083 [Alina] | Si es así, ya no duelen,==W== así que por favor no te preocupes.
+0084 [Opción] | ¿Viejas heridas? ¿De cuando eras gladiadora?
+0085 [Alina] | Sí.==W== Pero==W== siempre me he curado rápido,==W== así que la mayoría de las lesiones ni siquiera dejarían marca si se dejan solas…
+0086 [Alina] | Esas debieron ser especialmente profundas,==W== por eso permanecen.==W== Dicho esto, se irán desvaneciendo poco a poco,==W== así que no hay motivo de preocupación.
+0087 [Opción] | Así que tú también eres de las que no se marcan fácil.
+0088 [Alina] | ¿«Tú también»?==W== ¿Será que Noya,==W== la que dices que se parece a mí, es igual?
+0089 [Alina] | … Sinceramente,==W== siempre es Noya esto, Noya aquello.==W== La que enfrentó las dificultades a tu lado==W== no fue Noya, sino yo…
+0090 [Alina] | Para ti,==W== solo soy alguien que llena la soledad de no poder verla. Un sustituto, ¿no es así?
+0091 [Opción] | ¡No! No es eso.
+0092 [Opción] | Nunca he pensado en ti como el reemplazo de otra persona.
+0093 [Alina] | Jeje...==W== Está bien.
+0094 [Alina] | Si ves rastros de ella en mí,==W== eso solo demuestra que los recuerdos que compartiste con ella siguen en tu corazón.
+0095 [Alina] | Pero yo ni siquiera recuerdo los rostros de los compañeros con quienes alguna vez luché espalda con espalda…==W== Es bueno que no seas como yo…
+0096 [Opción] | Alina…
+0097 [Alina] | Yo ...==W== atesoraba estas viejas cicatrices de mi cuerpo==W== como ofrendas para los camaradas caídos en la arena.
+0098 [Alina] | Y sin embargo...==W== a medida que las cicatrices empezaron a desvanecerse,==W== también se desvanecieron las escenas de aquellos días.
+0099 [Alina] | Para ser sincera,==W== te envidio.==W== Todavía tienes==W== a alguien a quien anhelas ver.
+0100 [Alina] | Yo ya no==W== tengo a nadie así…
+0101 [Opción] | Me tienes a mí.
+0102 [Alina] | Jeje...==W== De verdad tienes==W== don de palabras.
+0103 [Alina] | Cuando estoy contigo,==W== solo quiero seguir cruzando las líneas para siempre.==W== De verdad eres ...==W== todo un caso.
+0104 [Narración] | Alina evita el tema en silencio. Se quita el resto de su ropa y me jala al baño privado hecho solo para los dos.
+0105 [Narración] | No sé qué estará pensando, pero mientras estamos sentados en el agua, mantiene sus dedos entrelazados con los míos.
+0106 [Narración] | Sus dedos son delgados, pero su agarre es firme y constante.
+0107 [Narración] | Más tarde, los crímenes de Caligula se hacen públicos. Pero la historia de ese día sigue siendo un secreto, uno que siempre compartiremos solo los dos.
+0108 [Narración] | Si tan solo ... pudiera convertirme en tu «Noya».

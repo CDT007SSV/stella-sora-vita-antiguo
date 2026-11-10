@@ -1,0 +1,110 @@
+# Nova Times #04 · Sueños de matcha · 1 · Matcha Dreaming (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Red Stellaroid | Stellaroid rojo
+N:avg1_119 | Nanoha
+N:avg2_954 | Crispy Hooves
+N:avg3_202 | Isaki
+N:avg3_203 | Okra
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Sueños de matcha (Parte I)
+0003 [Intro] | Mientras disfrutan del té de la tarde, la sucursal de Philae de Goodwind Homecare recibe de pronto una tarea de la sede. Para conseguir el equipo necesario para la misión, todas parten hacia el Monolito.
+0004 [Nanoha] | El té de la tarde está listo. Probé esa receta nueva de pastel de matcha que aprendí ayer. Quedó perfecto.
+0005 [Nanoha] | Será una gran sorpresa para la Maestra cuando regrese.
+0006 [???] | Nanoha, ya volví.
+0007 [Nanoha] | ¡Maestra! ¡Ya voy!
+0008 [Nanoha] | Maestra, ¿dónde está? No la veo.
+0009 [Nanoha] | ¡Maestra!
+0010 [Nanoha] | ¿Eso fue... un sueño?==W== No puedo creer que me haya quedado dormida. Qué poco profesional de mi parte.
+0011 [Nanoha] | Maestra... ¿adónde habrá ido...?
+0012 [Okra] | ¡Uf, saca de aquí ese balde de agua sucia de los platos!
+0013 [Isaki] | ¡¿Agua de los platos?! ¿Estás bromeando? ¡Es sopa, y huele deliciosa!
+0014 [Nanoha] | ¿Okra e Isaki...?==W== ¿Habrán preparado algo?
+0015 [Okra] | ¡N-no la saques aquí! ¡No puedes dejar que se lo coma! ¡¿Qué, quieres traicionarla y envenenarla?!
+0016 [Isaki] | ¡¿Traicionar a la Maestra?! ¡Claro que no! Le dediqué cinco horas. ¡Va a quedar increíble!
+0017 [Okra] | ¡Si es tan «increíble», tú tomas el primer sorbo! Vamos, abre la boca~
+0018 [Nanoha] | ¿Oh? ¿Están preparando algo rico?
+0019 [Isaki] | ¡Ah! ¡Maestra! ¡Ya se levantó!
+0020 [Nanoha] | Isaki, solo soy tu superior, no tu Maestra.
+0021 [Isaki] | ¡Pero usted nos enseña, y eso hace a una Maestra! ¿Ve? ¡Es lo mismo! ¡Eso la convierte en nuestra Maestra!
+0022 [Nanoha] | Hay una gran diferencia. «Maestra»... no estoy lista para cargar con ese peso.
+0023 [Nanoha] | ... Olvídalo. Llámame como quieras.
+0024 [Isaki] | ¡Gracias, Maestra! ¡Oh, mire! ¡Le preparé mi caldo especial! Sé que ha estado trabajando duro, así que pensé que le vendría bien un pequeño impulso.
+0025 [Isaki] | Lleva cáscara de mandarina, Despertalmas, Fruta Ignis, higanbana, madreselva...
+0026 [Okra] | ¡¿Qué clase de mejunje es ese?! Suena a un desastre culinario...
+0027 [Isaki] | ¡Seguí el libro de recetas al pie de la letra, así que tiene que estar bien! ¡Vamos, Maestra, solo un traguito!
+0028 [Okra] | ¡Nanoha senpai, no se lo beba! ¡Le llamaré la atención a Isaki después, se lo prometo!
+0029 [Nanoha] | Aprecio el gesto. Lo probaré.
+0030 [Okra] | ¡E-espere!
+0031 [Isaki] | ¿Ve? La Maestra se lo tomó de un trago. Mi caldo debe de ser increíble.
+0032 [Nanoha] | Preparaste bastante. ¿Por qué no tomas un poco tú también, Isaki?
+0033 [Isaki] | ¡Está bien, salud!
+0034 [Isaki] | Yo... creo que veo a mi bisabuela... saludándome desde el otro lado de un río.
+0035 [Okra] | ¿Isaki? Isaki, ¡¿estás bien?!
+0036 [Isaki] | Ah... ¡Estoy viva! Mi cocina es una amenaza. Es puro veneno...
+0037 [Nanoha] | No estuvo tan mal. Solo un poco confuso. En la cocina, a veces menos es más.
+0038 [Isaki] | E-entendido. ¡Por eso es la Maestra! ¡Otra lección aprendida!
+0039 [Okra] | Maestra, ¿se siente bien? Usted también se bebió eso.
+0040 [Nanoha] | Estoy bien.
+0041 [Nanoha] | Mi Maestra solía decir:==W== «Una ninja debe tragar todo lo comestible. Una sirvienta siempre debe mantener la elegancia».
+0042 [Nanoha] | Aquí en Goodwind Homecare somos ambas cosas. Así que me exijo comer todo lo comestible con elegancia.
+0043 [Nanoha] | Además, el caldo de Isaki no estuvo tan terrible. El cariño que le puso estaba en realidad bastante delicioso.
+0044 [Isaki] | M... Maestra...==W== Usted es la única que me entiende.
+0045 [Isaki] | ¡Ya lo tengo! ¡A partir de mañana entreno con este caldo hasta poder tomármelo sin siquiera inmutarme, como usted!
+0046 [Okra] | ¡Qué desperdicio de ingredientes!
+0047 [Nanoha] | Ya casi es hora del té. Hoy yo haré los bocadillos. ¿Qué tal un pastel de matcha?
+0048 [Okra] | No me gusta mucho la comida amarga, pero hago una excepción con el pastel de matcha. Ese ligero amargor resalta la dulzura.
+0049 [Isaki] | ¡Ah, lo sé! Es eso de que «lo dulce nunca es tan dulce sin lo amargo»...==W== Oye, ¿acabo de decir algo inteligente?
+0050 [Okra] | Así fue, hasta que lo señalaste.
+0051 [Nanoha] | Si quieres aprender a cocinar, Isaki, podemos empezar con esto. El pastel de matcha es bastante indulgente para una principiante.
+0052 [Isaki] | ¡Yupi! ¡Una clase de cocina con la Maestra! ¡Voy por los ingredientes!
+0053 [Nanoha] | ¿Qué es todo esto?
+0054 [Okra] | ¿Pasa algo?
+0055 [Nanoha] | El pastel tendrá que esperar. Tenemos una misión.
+0056 [Okra] | ¿Una misión, senpai? ¿De qué tipo?
+0057 [Nanoha] | Mañana hay un banquete en el Distrito de Oro, organizado por un comerciante adinerado. Según nuestra información, podría aparecer un noble de Tanikaze al que hemos estado buscando.
+0058 [Isaki] | Un noble al que hemos estado buscando...==W== ¿El que estafó a nuestra aldea?
+0059 [Nanoha] | El mismo. Aunque ha sido un fantasma durante años, así que no se hagan ilusiones. Concentrémonos en el trabajo y mantengamos los ojos bien abiertos.
+0060 [Okra] | Entendido. Seremos profesionales. Entonces, ¿cuál es nuestra tapadera?
+0061 [Nanoha] | Entraremos como cocineras y sirvientas.
+0062 [Okra] | Entendido. ¿Estamos aquí en el Monolito para reunir ingredientes para el banquete?
+0063 [Nanoha] | No. El comerciante se encarga de los ingredientes. El problema es su exigencia: todas las sirvientas deben usar uniformes al estilo de Philae.
+0064 [Isaki] | ¿Al estilo de Philae? ¿Cómo son?
+0065 [Okra] | Creo que son como los que usan en esos cafecitos. Un mundo de diferencia con nuestros uniformes actuales.
+0066 [Nanoha] | Nuestra sucursal de Philae apenas está empezando, así que no tuvimos tiempo de tener ninguno en existencia. Tendremos que pedirlos como deseo aquí en el Monolito.
+0067 [Isaki] | ¡No se preocupe, Maestra, déjemelo a mí! ¡Soy experta en pedir deseos!
+0068 [Red Stellaroid] | Roar...
+0069 [Isaki] | ¡Corte Sakura!
+0070 [Okra] | De verdad te encanta ponerles nombres raros a tus movimientos. ¿Y dónde está la parte de sakura?
+0071 [Isaki] | ¡Tara! ¡Sakura!
+0072 [Okra] | Eso no es sakura, Isaki. Son solo pétalos de Despertalmas...
+0073 [Nanoha] | Ustedes dos, dejen de jugar. Encontré la Caja de Deseos.
+0074 [Okra] | Oh, omnipotente Dios de la Gracia, con corazones piadosos humildemente te pedimos...
+0075 [Isaki] | Por favor, concédenos...
+0076 [Nanoha] | Los uniformes que usan las sirvientas de Philae.
+0077 [Isaki] | ¡Se abrió! ¿Qué tal el uniforme de sirvienta que pedí?
+0078 [Okra] | Eso es... un traje de baño.
+0079 [Isaki] | ¡No es cierto! Toca la tela. Esto es definitivamente un uniforme de sirvienta.
+0080 [Okra] | ¡¿Quién ha oído hablar de un uniforme de sirvienta de dos piezas?! ¡No puedes ponerte eso en un salón de banquetes!
+0081 [Isaki] | Bueno... no, supongo que no...==W== ¡Pero el tuyo también es raro! ¿Por qué un uniforme de sirvienta tiene orejas?
+0082 [Okra] | Este...==W== ¡Son... son solo accesorios lindos con tema de animales!
+0083 [Isaki] | ¡¿Y eso no sería raro de llevar en un salón de banquetes?!
+0084 [Okra] | Por la misión, y-yo puedo soportarlo.
+0085 [Nanoha] | Ustedes dos pueden ser solo las cocineras. Mi atuendo, al menos, es aceptable.
+0086 [Okra] | No esperaba menos de usted, Nanoha senpai. Su uniforme de sirvienta es perfectamente reglamentario.
+0087 [Isaki] | ¡Vamos, Maestra, pruébeselo! Hay un probador justo ahí.
+0088 [Nanoha] | ¿Qué...==W== les parece?
+0089 [Nanoha] | ¿Por qué están todas tan calladas?
+0090 [Isaki] | E-es perfecto.
+0091 [Okra] | ¡Esto es! ¡La sirvienta absoluta y perfecta! ¡Por favor, tiene que dejarme tomarle una foto!
+0092 [Okra] | ¡Murr, no puedo contenerme!
+0093 [Nanoha] | Bueno, bueno, cálmense. Y Okra, no te quedes ahí tomando fotos.
+0094 [Nanoha] | Se está haciendo tarde. Volvamos para afinar los detalles de mañana.
+0095 [Isaki] | Cierto. Pero Maestra, ¿qué hacemos con estos otros dos atuendos?
+0096 [Nanoha] | No podemos desperdiciarlos. Llévenlos. Nunca se sabe cuándo podrían servir.
+0097 [Isaki] | Sé que yo lo pedí,==W== pero... en serio, ¿qué clase de misión podría requerir un atuendo como este?

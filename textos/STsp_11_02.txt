@@ -1,0 +1,114 @@
+# Nova Times #11 · Deslizándose en la luz del sol · 2 · Slipping into Sunlight (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Fisherman | Pescador
+N:Marta | Marta
+N:Shop Owner | Dueño de la tienda
+N:Stall Vendor | Vendedor del puesto
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_138 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_166 | Anciana del pueblo
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Deslizándose en la luz del sol (Parte II)
+0003 [Intro] | Un secreto cuidadosamente guardado, un plan exagerado de trabajo de medio tiempo y un corazón que solo quiere sorprender a todos... ¡Esfuérzate, la siempre capaz Donna!
+0004 [Donna] | ¡Mmm, el aire de la mañana se siente buenísimo!
+0005 [Donna] | A ver qué hay en la agenda de hoy...
+0006 [Donna] | Clasificar la pesca y las verduras en el mercado ... luego empacar galletas en el taller familiar...
+0007 [Donna] | ¡Parece que hoy también tengo el día completo!
+0008 [Donna] | ¡Pero primero, el correo! ¡No puedo olvidar mi deber principal como mensajera de Post Haste!
+0009 [Donna] | ¡Vamos! ¡Soy la invencible Donna! ¡Mi meta ... por fin está al alcance!
+0010 [Donna] | ¡Quizá para el final del día por fin tenga suficientes Dorras para comprarlo!
+0011 [Narración] | Hace dos meses...
+0012 [Teresa] | ¿De verdad tienes que encargarte tú sola de esta entrega?
+0013 [Freesia] | Déjamelo a mí. Ya he visitado Philae antes y sin duda puedo con un paquete de este tamaño.
+0014 [Teresa] | ¡Pero es un viaje muy largo! ¡Tú en una bicicleta con esa caja gigante... me preocupa que te haga volcar!
+0015 [Freesia] | T-tendré cuidado...
+0016 [Donna] | ¡Tan-tan! ¡Galletas recién horneadas! ¿Quién quiere una?
+0017 [Donna] | Eh... El ambiente aquí está raro. ¿Pasó algo?
+0018 [Teresa] | ¡No, no! Solo creo que cargar ese paquete enorme sola es demasiado para Freesia. Quiero acompañarla y ayudar.
+0019 [Donna] | Buen punto... Freesia es fuerte, pero en esos caminos llenos de baches, equilibrar una caja enorme en la parte trasera de una bicicleta suena peligroso.
+0020 [Freesia] | No hay necesidad de preocuparse. Si aseguro bien el paquete y pedaleo con todas mis fuerzas, regresaré en unos pocos días.
+0021 [Teresa] | ¡Ni hablar! ¡En cuanto uses tu «fuerza total», la cadena se volverá a romper!==W== ¿Y quién la va a arreglar entonces? ¿Tú?
+0022 [Teresa] | Si tan solo tuviéramos un vehículo lo bastante grande==W== para llevarnos a las tres...
+0023 [Teresa] | ¡Y no solo para entregas: podríamos irnos de viaje juntas! ¡Imagina qué tan lejos podríamos llegar!
+0024 [Donna] | ¿Por qué no vamos a ver la Tienda de Artefactos?
+0025 [Freesia] | Un vehículo con capacidad para tres...==W== ¿De verdad existe algo así?
+0026 [Donna] | ¡Jeje, claro que sí! ¡De hecho vi uno mientras salía a hacer una entrega!
+0027 [Donna] | Hay que verlo para creerlo...==W== Solo espero que no lo hayan vendido ya.
+0028 [Teresa] | ¡Entonces apurémonos a la tienda! ¡Sería un desastre que alguien más lo hubiera comprado!
+0029 [Shop Owner] | Un vehículo para tres, ¿eh...?
+0030 [Shop Owner] | No digan más. ¡Seguro buscan esto!
+0031 [Donna] | ¡¡Guau!! ¿Eso es—?
+0032 [Freesia] | ... Una bicicleta==W== para tres.
+0033 [Teresa] | ¡Si le ponemos un portaequipaje atrás, las tres podríamos cargar hasta los paquetes más grandes en equipo!
+0034 [Donna] | No es el modelo que vi antes, ¡pero este también está genial! Déjame revisar la etiqueta...
+0035 [Freesia] | El precio es... 1.2 millones de Dorras.
+0036 [Teresa] | ¿¡Es una locura!?
+0037 [Donna] | Pensé que incluso los Artefactos más raros costaban un millón como máximo...
+0038 [Freesia] | Quizá deberíamos abandonar esta idea.
+0039 [Freesia] | Seguiré encargándome yo de la carga pesada. Si la bicicleta se descompusiera a mitad del trayecto...
+0040 [Freesia] | Simplemente cargaría tanto la bicicleta como los paquetes de regreso a casa.
+0041 [Teresa] | Sí. Creo que es más seguro que yo te acompañe, ¿no crees?
+0042 [Donna] | Mmm...
+0043 [Teresa] | ¿Tú qué opinas, Donna?
+0044 [Donna] | ¿Yo...?==W== Ah, cierto. Deberías ir con Teresa. Ustedes dos se encargan de lo pesado y yo llevo los paquetes más pequeños.
+0045 [Donna] | Ese es el plan por ahora... Pero el trabajo sería pan comido si tuviéramos esa bicicleta.
+0046 [Donna] | 1.2 millones es un precio alto. Pero pensándolo bien... no es imposible del todo.
+0047 [Donna] | ¡Está decidido! Para asegurar un futuro brillante para Post Haste, ¡moveré cielo y tierra para lograrlo!
+0048 [Donna] | ¡Oiga, señor! ¡Tengo una carta para usted!
+0049 [Donna] | Y también necesito estas verduras de aquí. ¿Me las puede meter en una bolsa?
+0050 [Stall Vendor] | Ah, Donna. Te veo por todas partes estos días. ¿Haciendo mandados otra vez?
+0051 [Donna] | ¡Jaja, sí! Estoy trabajando para alcanzar una metita mía—
+0052 [Stall Vendor] | Pero no te pases, ¿eh?==W== Aquí tienes tus verduras.
+0053 [Donna] | ¡Hola! ¡Entrega especial para usted!
+0054 [Fisherman] | ¿Eh? ¿Un paquete? ¿Para mí?
+0055 [Donna] | Una señora mayor de Sailstead me pidió que se lo trajera. ¿Podría revisar los datos del remitente?
+0056 [Fisherman] | Sailstead... ¡Ah! ¡Es de mi mamá! ¡Gracias!
+0057 [Donna] | ¡No hay de qué! ¡Para eso está Post Haste!
+0058 [Donna] | Por cierto, ¿tiene pescado a la venta hoy?
+0059 [Fisherman] | ¡Claro! Escoja el que quiera: ¡cortesía de la casa, como agradecimiento!
+0060 [Donna] | ¡Señora Marta! ¡Voy a pasar! ¡Traje el pescado que quería!
+0061 [Marta] | ¡Ay, Dios mío! Eres un salvavidas. Sabía que podía contar contigo, Donna.
+0062 [Marta] | Ah, y las galletas de la cocina están recién salidas del horno. ¿Me las empacas?
+0063 [Donna] | ¡Déjemelo a mí!
+0064 [Marta] | ¡Mil gracias! Avísame si necesitas algo.
+0065 [Narración] | El vapor sube de las galletas recién horneadas, llevando por el aire el rico y dulce aroma de leche y mantequilla.
+0066 [Donna] | Mmm... ¿Qué hay en la lista de empaque de hoy?
+0067 [Donna] | Parece que son puros sets de regalo pequeños. Nueve por caja. Tres sabores, tres de cada uno... Entendido.
+0068 [Donna] | Manos rápidas, toque suave...==W== Ups, esta tiene una esquina despostillada. Tú te vas al montón de rechazadas.
+0069 [Narración] | Una a una, exquisitas galletas llenan las cajas de regalo. Se aseguran las tapas y se atan los listones en moños perfectos.
+0070 [Donna] | Uf... Cuando termine este lote, sumado a lo que gano con las entregas...==W== ¡por fin debería llegar a 1.2 millones de Dorras!
+0071 [Donna] | ¡Sí! En cuanto salga del trabajo, ¡me voy a la tienda de Artefactos a recoger esa bicicleta para tres...! Freesia y Teresa ya deberían estar en casa cuando la lleve.
+0072 [Donna] | Jeje, ¡seguro se les van a caer las quijadas cuando llegue con una bicicleta para tres!
+0073 [Donna] | Lo llamaré... ¡Operación: La Gran Sorpresa de Donna! ¡Es perfecto!
+0074 [Donna] | Jiji. ¡No puedo esperar a ver sus caras!
+0075 [Donna] | Va a ser genial. ¡Ahora las tres podremos ir a todas partes juntas, ya sea para repartir cartas o para divertirnos!
+0076 [Donna] | ¿¡¡VENDIDA!!?
+0077 [Shop Owner] | Me temo que sí. Hace rato vino una familia de tres. Se enamoraron de ella y pagaron todo de contado, ahí mismo...
+0078 [Donna] | Ah... ¡No puede ser...! Me costó tanto reunir ese dinero...
+0079 [Shop Owner] | De verdad lo lamento muchísimo.
+0080 [Donna] | No, es culpa mía... Debí pedirle que me la apartara.
+0081 [Donna] | Espere un momento. La bicicleta que vi antes se veía distinta a la que acaban de vender.
+0082 [Donna] | ¿Eso significa que ... hay otro modelo?
+0083 [Donna] | Creo que estaba justo detrás de ese estante...
+0084 [Shop Owner] | ¿Busca algo?
+0085 [Donna] | Recuerdo que aquí había otro vehículo Artefacto para tres personas. ¿Todavía lo tiene? No el del escaparate, el otro.
+0086 [Shop Owner] | Otro más...==W== ¡Ah, cierto! ¿Se refiere a ese viejo triciclo que lleva siglos aquí?
+0087 [Shop Owner] | No logré venderlo, así que lo moví a la bodega. Me sorprende que lo recuerde.
+0088 [Shop Owner] | Es más grande que la bicicleta, así que es más caro. Le saldrá en 3 millones de Dorras, incluso con descuento...
+0089 [Donna] | 3 millones... Parece que me toca ahorrar muchísimo.
+0090 [Donna] | ¿Podría apartármelo? ¡Le juro que vuelvo a comprarlo en cuanto junte lo suficiente!
+0091 [Shop Owner] | Le propongo algo. Le guardaré el triciclo tres meses. Venga a recogerlo cuando quiera.==W== Pero si se tarda más que eso, no le prometo nada. Tengo un negocio que atender, después de todo.
+0092 [Donna] | ¡Trato hecho! ¡Sin problema! ¡Es un trato!
+0093 [Donna] | Entonces me voy. ¡Muchas gracias!
+0094 [Freesia] | Así que ... esa es la verdad detrás de todo...
+0095 [Freesia] | Teresa, yo...
+0096 [Teresa] | Lo sé, ¡yo siento lo mismo!==W== ¡Y eso nos deja con una sola opción!

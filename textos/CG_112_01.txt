@@ -1,0 +1,72 @@
+# Historia de Noya · 1 · Fast and Focused (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Rápidos y concentrados (Parte I)
+0003 [Intro] | Noya terminó de arreglar a Loxy y te invita a dar una vuelta.
+0004 [Narración] | Cielo despejado y una brisa suave.==W== Sin ningún encargo programado este fin de semana, la cálida luz del sol te arrulla con una agradable somnolencia.
+0005 [Narración] | Todo está en silencio,==W== salvo por los ocasionales tintineos que vienen de Loxy.
+0006 [Tú] | Noya,==W== llevas desde temprano trasteando con Loxy. ¿Hay algún problema?
+0007 [Noya] | Nah, nada grave.==W== Solo estoy cambiándole los amortiguadores.
+0008 [Noya] | El provisional estaba bastante gastado. Últimamente no ha corrido tan suave y los viajes han sido algo bruscos.
+0009 [Tú] | Cuando se trata de Loxy y todo lo relacionado con manejar, Noya siempre piensa en todo.
+0010 [Tú] | Es solo que...
+0011 [Narración] | ==A1== Hace una hora.
+0012 [Iris] | Jefe, voy a salir con Amber en un rato. Por favor, cuida a Noya y a Loxy.
+0013 [Iris] | Solo hay una cosa de la que debes cuidarte.
+0014 [Iris] | Si Noya se ofrece a llevarte a dar una vuelta en Loxy...==W== Lo mejor es que digas que no, si aprecias tu vida.
+0015 [Tú] | ¿S-si aprecio mi vida?
+0016 [Iris] | Sí. Aunque me prometió que nunca volvería a manejar de forma temeraria...==W== Bueno, más vale prevenir que lamentar.
+0017 [Narración] | Iris hablaba en serio,==W== y no pareció tranquilizarse hasta que le di un asentimiento. Solo entonces se relajó un poco y se despidió.
+0018 [Tú] | ¿Qué demonios pasó==W== para que Iris trate el manejo de Noya como un desastre en potencia?
+0019 [Tú] | Ugh,==W== mientras más lo pienso, más curiosidad me da...
+0020 [Noya] | ¡Misión cumplida!
+0021 [Noya] | ¡Mira, ==PLAYER_NAME==! ¡Un Lucky Oasis completamente nuevo!
+0022 [Tú] | ¡¡¡Guau!!!==W== Completamente nuevo...
+0023 [Tú] | Eh...==W== No se ve muy distinto de antes...
+0024 [Noya] | Porque lo que cambié fueron las piezas de la suspensión.==W== Solo notas la diferencia cuando vas montado en ella.
+0025 [Noya] | ¿Qué dices, ==PLAYER_NAME==? ¿Te … gustaría dar una vuelta en Loxy?
+0026 [Tú] | B-bueno...
+0027 [Noya] | ¿Te...==W== gustaría dar una vuelta...==W== en Loxy? Mi querido Jefe~~
+0028 [Narración] | El entusiasmo de Noya me puede, y descarto la advertencia de Iris.
+0029 [Noya] | ¡Incluso en el asiento trasero, asegúrate de abrocharte el cinturón y agarrarte fuerte!
+0030 [Tú] | ¿Agarrarme fuerte?
+0031 [Noya] | Si no quieres salir volando del asiento.
+0032 [Tú] | ==W==¡¿Salir volando del asiento?!
+0033 [Tú] | … Espera, ¿por qué hace ese ruido Loxy?
+0034 [Noya] | ¿A qué te refieres? Es solo el motor arrancando.
+0035 [Tú] | No, digo, ¡es demasiado ruidoso!
+0036 [Noya] | Porque...==W== Quiero que veas a Loxy a su máxima velocidad~
+0037 [Noya] | ¡Yuju!
+0038 [Tú] | ¡Nononono, nos vamos a estrellar!==W== ¡No vamos a pasar esa curva! ¡Nos vamos a ir por el precipicio!
+0039 [Tú] | ¡Aaaaaaaaah!!!
+0040 [Noya] | Agárrate fuerte.==W== ¡Aquí podemos ir todavía más rápido!
+0041 [Tú] | ¡Aaaaaaaaah!!!
+0042 [Tú] | A esta velocidad... ¡Si chocamos con un auto que venga de frente, estamos acabados!!!
+0043 [Noya] | ¡Nah, estamos bien! Saco a Loxy por aquí todo el tiempo.==W== El camino suele estar vacío a esta hora, y me lo sé como la palma de mi mano.
+0044 [Noya] | Eso, sumado a mis impecables habilidades de manejo... ¡Jeje!
+0045 [Noya] | ¡Mira este vaso de agua!
+0046 [Tú] | Quería preguntarte, ¿por qué hay un vaso de agua junto al asiento del conductor?
+0047 [Noya] | Es de una película que vi.
+0048 [Noya] | Después de años de práctica, el héroe podía tomar curvas cerradas a alta velocidad sin derramar una gota.==W== Solo entonces su papá por fin lo aprobó como un verdadero repartidor de tofu.
+0049 [Noya] | Así que empecé a hacer lo mismo. Cada vez que saco a Loxy a una prueba, siempre pongo un vaso de agua a mi lado. Es un pequeño recordatorio para manejar con seguridad.
+0050 [Tú] | Noya, ¿así que esto es lo que consideras ...==W== «manejar con seguridad»?
+0051 [Iris] | «Lo mejor es que digas que no, si aprecias tu vida».
+0052 [Tú] | Así que a eso se refieren cuando dicen==W== «la curiosidad mató al gato».
+0053 [Tú] | Debí haberte hecho caso, ==W==Iris...
+0054 [Noya] | ¡Jefe! Ahí viene el famoso tramo de cinco curvas cerradas seguidas.==W== ¡Es hora de mostrarte lo que Loxy y yo podemos hacer de verdad!
+0055 [Tú] | ¡¡WAAAHAHHHAHHHAHHHAHHHAHHH——
+0056 [Noya] | … Ahora, después de las cinco curvas cerradas, hay un lugar adelante...==W== Tiene unas vistas geniales...
+0057 [Noya] | Jaja,==W== ¿qué te parece?==W== ¿Soy o no soy una gran conductora...?
+0058 [Tú] | ...
+0059 [Noya] | ¿==PLAYER_NAME==? ¿==PLAYER_NAME==??
+0060 [Noya] | ¿Qué pasó? ¿Por qué no hablas?
+0061 [Noya] | ¡¿Eh?! ==W==¿No te desmayaste como Iris aquel día, verdad?
+0062 [Noya] | Vamos, reacciona, ¿==PLAYER_NAME==?

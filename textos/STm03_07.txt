@@ -1,0 +1,138 @@
+# Capítulo 3 · 7 · La debilucha no deseada
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_136 | Angie
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_131 | Nazuna
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | La debilucha no deseada
+0003 [Intro] | Siguiendo la sugerencia de la bruja, decides que Fuyuka enfrente su pasado. Fuyuka confiesa que Claire, de la nueva escuadra, la menospreció una vez. Nazuna se enfurece y decide dejar de lamentarse.
+0004 [Lugar y hora] | 18:00, 24.º del mes de Pluvia, afueras de Philae, pastelería
+0005 [Mistique] | ¡Uf! Este pastel me salva la vida. De verdad lo necesitaba.
+0006 [Mistique] | Toma, Jefe, tienes que probar un poco.
+0007 [Tú] | Gracias, pero estoy bien.
+0008 [Tú] | ¿No ibas a «alimentarte de la verdad»? ¿Cómo terminó en comer pastel? Todo esto me parece bastante sospechoso.
+0009 [Mistique] | ¡Para nada! Es solo mi dosis normal de azúcar★ Una bruja funciona con azúcar, ¿sabes?
+0010 [Mistique] | Ugh, tenía el cerebro hecho papilla después de una semana comiendo Ruiseñor Leonado en el camino.
+0011 [Mistique] | Además, las entrevistas en cafeterías son totalmente normales, ¿no? Hay que sentarse en un lugar agradable para sacar la historia de verdad.
+0012 [Tú] | ¿Una entrevista? Entonces, ¿eres reportera?
+0013 [Mistique] | ¿Reportera? Recuerdo que significa...==W== ¿alguien que registra cosas?
+0014 [Mistique] | ¡Jeje♪ Es gracioso que todavía usen esa palabra antigua. Más o menos es lo que hacemos, pero una bruja es una bruja.
+0015 [Tú] | Mmm... Así que supongo que puedo pensar en una «bruja» como una «reportera»... pero ¿por qué mi recuerdo de ellas es tan distinto?
+0016 [Mistique] | Como dijiste, hierbas, maldiciones, adivinación... todo eso es historia antigua. Mmm, no es que no pueda hacerlo...
+0017 [Mistique] | Pero hoy en día,==W== el trabajo de una bruja es volar por ahí, cazar grandes primicias y difundir la noticia.
+0018 [Tú] | Entendido. Eso explica por qué estás aquí.==W== Entonces, ¿dónde queda ese lugar, «Flavio», que mencionaste?
+0019 [Mistique] | ¡Es la «ciudad del entretenimiento», siempre envuelta en niebla! Es el centro donde se comercian todas las noticias de Nova.
+0020 [Mistique] | Así que, confía en mí, buscar información por aquí...==W== es una enorme pérdida de tiempo.
+0021 [Mistique] | ¿Encontrar un orfanato? Pff, eso no es nada. En Flavio conseguirías una pista en un segundo.
+0022 [Tú] | ¿Oh? ¿Entonces sabes dónde está?
+0023 [Mistique] | Bueno...==B== No supe que lo buscabas hasta que llegué a Emor. Y esto no es Flavio: volar hasta allá ahora no tendría sentido.
+0024 [Mistique] | Pero... si me das una entrevista exclusiva, ¡me aseguraré de que valga la pena★
+0025 [Mistique] | Puedo encargarme de casi cualquier cosa, como ordenar tu vehículo, llevarte a dar una vuelta por el cielo...
+0026 [Tú] | Una entrevista, ¿eh?... Algo de promoción pública para el gremio no vendría mal.
+0027 [Tú] | Además...==W== Hay algo en lo que ella podría ayudarme.
+0028 [Tú] | Las brujas recorren Nova en escoba, ¿no? Así que debes conocer bien el terreno.
+0029 [Mistique] | ¡Mjm! ¿Buscas guía? He pasado por casi todas las ciudades de Nova y conozco Philae como la palma de mi mano.
+0030 [Tú] | No, en realidad me preguntaba si alguna vez has lidiado con algo como esto.
+0031 [Narración] | Omito el nombre de Fuyuka y altero los detalles para que Mistique no la reconozca, y luego le explico la situación.
+0032 [Mistique] | Mmm...==W== Parece que ya probaron lo correcto.
+0033 [Tú] | Pero nada ha dado resultado.
+0034 [Mistique] | Bueno, es distinto para cada persona. Una vez entrevisté a alguien que lo superó con una «terapia vivencial».
+0035 [Tú] | Nunca la había oído.
+0036 [Mistique] | ¡Exacto! Porque literalmente me la acabo de inventar. No es, como, oficial ni nada★
+0037 [Mistique] | En resumen: un cierto Stellaroid la persiguió de niña y desde entonces les tiene un miedo atroz...
+0038 [Mistique] | Incluso después de convertirse en Trekker, seguía sin poder con esa clase de Stellaroid. En cuanto los veía, no podía dejar de temblar.
+0039 [Mistique] | Entonces, una vez, uno la arrinconó en un Monolito y tuvo que pelear. ¿Adivina qué pasó?
+0040 [Tú] | ¿Ganó?
+0041 [Mistique] | ¡No! ¡Perdió y huyó! Pero el miedo... puf, desapareció. Durante la pelea se dio cuenta de que no daba ni la mitad del miedo que imaginaba...
+0042 [Mistique] | Incluso sintió que la próxima vez podría ganar sin problema.
+0043 [Tú] | Así que enfrentar el miedo de frente...==W== Tiene sentido.
+0044 [Tú] | Lo que ahora parece enorme... a veces simplemente se desvanece.
+0045 [Mistique] | Jiji, entonces fui de gran ayuda, ¿verdad? ¿Eso significa que me llevo la entrevista exclusiva con el Jefe?
+0046 [Lugar y hora] | 22:00, 24.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0047 [Nazuna] | ¿Quieres saber más sobre cómo estafaron a Fuyuka?
+0048 [Tú] | Sí. Por ejemplo, ¿por qué se unió a ese gremio falso en primer lugar?
+0049 [Nazuna] | Eso no es ningún secreto; todas sabemos por qué. Pero...==W== ¿por qué nos preguntas a mí y a Kaede a sus espaldas?
+0050 [Tú] | Yo mismo se lo habría preguntado si pudiera.==W== Pero no puedo ir y remover recuerdos dolorosos.
+0051 [Kaede] | Mmm... Entiendo por qué a Nazuna le incomoda hablar a sus espaldas...==W== Pero el Jefe tiene razón. Debería estar bien contárselo a ==SEX4==, ¿no?
+0052 [Nazuna] | Tienes razón. Bien, te lo diré. Fuyuka estaba desesperada por convertirse en Trekker.
+0053 [Tú] | ¿No puede cualquiera convertirse en Trekker si quiere?
+0054 [Nazuna] | «Quien sale de una ciudad es un Trekker»: así dice el dicho. Pero según los estándares de los verdaderos Trekkers, hay que escalar un Monolito, pedir un deseo y derrotar a un monstruo duro para ganarse el título.
+0055 [Nazuna] | Así que no es tan simple. Muchos novatos no conocen las reglas y así es como los estafadores se aprovechan.
+0056 [Tú] | Pero dijiste que Fuyuka escala Monolitos por su cuenta. ¿No la haría eso una «verdadera Trekker» a estas alturas?
+0057 [Kaede] | Sí, eso es cierto. Pero la propia Fuyuka...
+0058 [???] | L-lo siento mucho. No quería preocupar a nadie.
+0059 [Nazuna] | ¡Qu...! Espera un momento... ¡¿Fuyuka?!
+0060 [Fuyuka] | S-sí, soy yo.
+0061 [Kaede] | Fuyuka, ¿qué haces escondida bajo la mesa?
+0062 [Fuyuka] | N-nada... Es que se siente seguro estar tan pequeña y apretada aquí... Jeje, y... la sala está tan silenciosa por la noche.
+0063 [Tú] | Genial. Intentaba esconderme de Fuyuka y terminamos en el mismo lugar...
+0064 [Tú] | Lo siento...==W== Hablamos de tu pasado sin permiso. No queríamos hacerte daño...
+0065 [Fuyuka] | ¡N-no, está bien! Sé que el Jefe lo hace por mi bien. Todo es porque fui demasiado débil...
+0066 [Fuyuka] | Por fin entré en un equipo y aun así no pude hacerlo bien...==W== Alguien como yo intentando ser Trekker... Probablemente fue un error desde el principio...
+0067 [???] | En eso debo decir que se equivoca. La leyenda del primer Trekker habla de escalar los Monolitos y de aventurarse completamente solo. Eso demuestra que no hace falta un equipo para serlo.
+0068 [Nazuna] | ¿Y esta quién es?
+0069 [Narración] | Igual que cuando se conocieron, la capa de Serena se despliega desde el perchero y revela su figura.
+0070 [Tú] | ¿Te pasas todo el día ahí... colgada de un perchero?
+0071 [Serena] | Vaya, vaya. Indagar en los secretos de una dama es bastante descortés. Además, esta pequeña charla no trata de mí.
+0072 [Serena] | Fuyuka, ¿alguien te dijo algo que te molestó?
+0073 [Fuyuka] | Bueno...
+0074 [Serena] | Me cuesta creer que alguien con tu sueño se rinda tan fácil. Más importante aún, temo que tu comprensión de la historia es algo defectuosa.
+0075 [Serena] | Los Trekkers solitarios son raros, ciertamente, pero la historia ha visto a unos cuantos famosos.
+0076 [Fuyuka] | Escalar los Monolitos sola y volverse famosa...==W== Eso es increíble.
+0077 [Fuyuka] | Está bien... Les contaré lo que pasó. Fue antes de unirme a Petal Bloom.
+0078 [Narración] | Hace más de un mes.
+0079 [Claire] | No. No puedo dejarte unirte a la nueva escuadra de caza.
+0080 [Fuyuka] | Pero... ni siquiera me ha visto pelear.
+0081 [Claire] | Sé quién eres. La Trekker que golpeó a su propio compañero.
+0082 [Fuyuka] | Yo... no fue mi intención.
+0083 [Claire] | Lo sé.
+0084 [Fuyuka] | ¿Eh?
+0085 [Claire] | He oído cosas sobre esa banda. Incluso sospecho que no fue tu culpa. Pero ese no es el problema.
+0086 [Claire] | Si no puedes controlar ni tus propios puños, podrías lastimar a un aliado en cualquier momento.
+0087 [Claire] | Para mí, quien no puede trabajar con otros no tiene derecho a ser Trekker. Solo es un lastre.
+0088 [Claire] | Y supongamos que sí puedes controlar tus puños. Si te tienden una trampa y no te defiendes, o peor, ni siquiera te das cuenta de que te la tienden...
+0089 [Claire] | Entonces eres simplemente ingenua. Eso significa que eres débil, y sigues siendo un lastre.
+0090 [Claire] | Además, la noticia ya se ha extendido por el campamento. Enfrentamos a un monstruo enorme y peligroso. No puedo permitir que la gente dude de quien pelea a su lado.
+0091 [Claire] | Así que la respuesta es no. Si lo entiendes, vete a casa.
+0092 [Kaede] | Claire, la vicecapitana de la nueva escuadra de caza...==W== Casi sabía que Fuyuka había sido víctima de una trampa...
+0093 [Serena] | Oh, así que esa es la clase de persona que es nuestra vicecapitana. No corre el más mínimo riesgo. Qué interesante.
+0094 [Tú] | La lógica de la vicecapitana Claire se sostiene y sus razones son sólidas... Pero aun así...
+0095 [Tú] | Para alguien tan aguda, rechazar a Fuyuka sin siquiera probar sus habilidades... Siento que hay algo más.
+0096 [Tú] | El trauma de Fuyuka no viene solo de la escalada del Monolito. Viene de que todos la juzgaran y culparan después. Para arreglar la raíz del problema, necesitamos...
+0097 [Nazuna] | ¡AAARGH! ¡Ya no aguanto más esto!
+0098 [Fuyuka] | L-lo siento, senpai Nazuna... No quería sacar algo tan horrible y hacerles perder el tiempo a todos...
+0099 [Nazuna] | Ese no es el problema...
+0100 [Nazuna] | ¡Es tu actitud! ¿«Lo siento»? Fuyuka, ¿qué hiciste mal? ¡De verdad tienes que dejar este hábito de disculparte por todo!
+0101 [Nazuna] | ¡Y cada uno de los de esa nueva escuadra de caza suelta las mismas malditas tonterías!
+0102 [Nazuna] | Y ya que estamos en el tema: les dije que Nazuka solía vivir aquí, ¿verdad? La traidora.
+0103 [Nazuna] | Dijo casi exactamente lo mismo antes de irse...
+0104 [Kaede] | Vaya... ¿De verdad? No tenía idea.
+0105 [Nazuna] | No quería alterarlas. Ese día intenté detenerla para que no se fuera...
+0106 [Nazuna] | Nazuka, ¿por qué te vas? Hemos avanzado más de la mitad de nuestra investigación sobre esos monstruos...
+0107 [Nazuna] | Una vez que descubramos todos sus patrones, definitivamente podremos vencerlos.
+0108 [Nazuka] | ...
+0109 [Nazuna] | Nazuka, di algo.
+0110 [Nazuka] | No tiene que hacer nada.
+0111 [Nazuna] | ¿Qué quieres decir?
+0112 [Nazuka] | Estoy formando una nueva escuadra de caza.==W== Y no hay lugar para los débiles. Adiós.
+0113 [Nazuna] | Estaba tan enojada. Sigo tan enojada. Nunca lo he superado.
+0114 [Fuyuka] | ¡Iiik...! ¡Senpai Nazuna, por favor, cálmese!
+0115 [Nazuna] | Fuyuka, escucha bien.
+0116 [Fuyuka] | ¡S-sí! ¡Estoy escuchando!
+0117 [Nazuna] | NO eres débil. ¡Y tampoco lo es nadie de Petal Bloom!
+0118 [Nazuna] | ¡Vamos a terminar esos dos últimos encargos!
+0119 [Nazuna] | ¡Y les vamos a mostrar a esos engreídos que subestiman a Petal Bloom de lo que realmente somos capaces!

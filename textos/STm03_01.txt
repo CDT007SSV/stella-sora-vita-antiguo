@@ -1,0 +1,146 @@
+# Capítulo 3 · 1 · Los Tres Grandes
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Chatty Trekker | Trekker parlanchín
+N:Cheerful Young Trekker | Joven Trekker alegre
+N:Excited Trekker | Trekker emocionado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_135 | Mistique
+N:avg1_137 | Eleanor
+N:avg1_142 | Cosette
+N:avg2_002 | Shrubshrew Stake
+N:avg2_963 | Poisoned UH Employee
+N:avg2_964 | Hummingbird
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_976 | Associated Tree
+N:avg2_977 | Alpha Boar
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_123 | Eleanor
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Los Tres Grandes
+0003 [Intro] | Tras llegar a Philae, te enteras de los Tres Grandes. Se dice que Cosecha Unida ha puesto una enorme recompensa por ellos, y una semana antes uno ya fue derribado por una escuadra de caza.
+0004 [Lugar y hora] | 07:30, 16.º del mes de Pluvia, afueras de Philae, camino del bosque
+0005 [Noya] | ¡Oigan, arriba, dormilones!
+0006 [Iris] | ¡¿Q-qué?! ¡¿Pasó algo?!
+0007 [Amber] | Uf, casi se me sale el corazón.
+0008 [Tú] | ¿E-eh? ¿Qué pasó?
+0009 [Noya] | Tengo una buena noticia y una mala. ¿Cuál quieren oír primero?
+0010 [Opción] | La buena noticia
+0011 [Opción] | La mala noticia
+0012 [Opción] | Cinco minutos más...
+0013 [Tú] | La buena. Siempre es mejor despertar con una buena noticia que con una mala.
+0014 [Noya] | ¡La buena noticia es que llegamos a Philae!
+0015 [Tú] | ¡¿En serio?! ¡Por fin llegamos!
+0016 [Tú] | Entonces... ¿cuál es la mala noticia?
+0017 [Amber] | Estamos atascados en el tráfico.
+0018 [Narración] | Afuera, el camino del bosque, normalmente vacío, está atascado de «tráfico».
+0019 [Narración] | El Oasis de la Suerte está rodeado de carretas tiradas por monstruos y extraños vehículos de Artefactos.
+0020 [Narración] | A lo lejos, una interminable extensión de casas asoma en el horizonte.
+0021 [Iris] | ¿Pasó algo?
+0022 [Noya] | Estamos totalmente atascados.
+0023 [Tú] | ¿Atascados?
+0024 [Noya] | Sí. Vamos, miren.
+0025 [Narración] | Afuera, el camino del bosque, antes desierto, está repleto de Trekkers a pie que avanzan despacio junto a su vehículo atascado.
+0026 [Narración] | A lo lejos, una interminable extensión de casas asoma en el horizonte.
+0027 [Tú] | Espera, ¡no me digas que eso es...!
+0028 [Noya] | Sí, esa es la buena noticia. Llegamos a Philae.
+0029 [Tú] | Ugh, ninguna de las dos. Mi sueño matutino es sagrado.
+0030 [Tú] | ¿Q-qué fue ese ruido?
+0031 [Narración] | Afuera de la ventana, un monstruo con dos trompas le arrebata con destreza una fruta de la mano a Amber.
+0032 [Iris] | ¿Estamos rodeados de monstruos?
+0033 [Noya] | ¿Eh? No, Amber solo está haciendo amistad con el monstruo que tira de la carreta de al lado. Esto es Philae. Y estamos atascados.
+0034 [Noya] | Ahí tienen la buena y la mala noticia: Philae está justo ahí, pero no vamos a ninguna parte.
+0035 [Narración] | Afuera, el camino del bosque, normalmente vacío, está atascado de «tráfico».
+0036 [Narración] | A lo lejos, una interminable extensión de casas asoma en el horizonte.
+0037 [Lugar y hora] | 07:50, 16.º del mes de Pluvia, afueras de Philae, entrada del campamento
+0038 [Tú] | ¿Así que esto es Philae? Es incluso más concurrido de lo que imaginaba.
+0039 [Iris] | No, Philae todavía está lejos. Esto es solo el campamento de Trekkers a las afueras de la ciudad.
+0040 [Tú] | ¿Toda esta gente en un campamento tan enorme son Trekkers?
+0041 [Amber] | Los Trekkers suelen montar campamentos cerca de los puntos calientes. Así todo es más fácil.
+0042 [Amber] | Con el tiempo se convierten en centros enormes para buscar encargos, intercambiar Artefactos y formar gremios.
+0043 [Amber] | Pero como no hay ningún Monolito cerca, no sé por qué este lugar está tan lleno.
+0044 [Tú] | Ya veo. Así que este es el estilo de vida de los Trekkers.
+0045 [Tú] | Por cierto, ¿qué es exactamente un «punto caliente»?
+0046 [Amber] | Cada Monolito suelta distintos tipos de Artefactos.
+0047 [Amber] | Los que tienen el mejor botín atraen a más gente. Les decimos «puntos calientes».
+0048 [Tú] | Entonces lo contrario serían «puntos fríos», ¿no?
+0049 [Iris] | Mmm...
+0050 [Tú] | ¿Por qué Iris se puso tan seria de repente?
+0051 [Iris] | Algo no cuadra. Este campamento es enorme, el Monolito más cercano está a medio día de camino y aun así sigue llegando más gente.
+0052 [Iris] | Tiene que ser...==W== ¡hay un encargo aquí con una paga descomunal!
+0053 [Iris] | ¡No podemos perdérnoslo! ==PLAYER_NAME==, Amber: ¡se acabaron nuestros problemas de dinero!
+0054 [Lugar y hora] | 08:00, 16.º del mes de Pluvia, afueras de Philae, campamento
+0055 [Joven Trekker alegre] | Oigan, ¿se preguntan por qué está tan lleno?==W== ¡Yo les cuento!
+0056 [Joven Trekker alegre] | ¡Todos están aquí por los Tres Grandes!
+0057 [Iris] | ¿Los Tres Grandes? ¿Es una especie de... ==B==encargo de monstruos?
+0058 [Joven Trekker alegre] | Ah, ¿nunca han oído de ellos?==W== Deben de ser nuevos por aquí.
+0059 [Joven Trekker alegre] | ...==W== Hace unos meses,==W== tres monstruos súper desagradables anidaron en el bosque cerca del Monolito,==W== bloqueando el paso.
+0060 [Joven Trekker alegre] | Nadie en Philae puede llegar al Monolito por Artefactos, y sin Artefactos no se puede ganar la vida, ¿verdad?
+0061 [Joven Trekker alegre] | Así que una gran corporación local, Cosecha Unida, dio un paso al frente.
+0062 [Joven Trekker alegre] | Publicaron una recompensa por los monstruos. Cualquier Trekker que logre neutralizar a las bestias se reparte una montaña ridícula de Dorra.
+0063 [Joven Trekker alegre] | Por eso este lugar explotó.
+0064 [Iris] | ¡¿Una montaña ridícula de Dorra?!
+0065 [Amber] | ¿«Neutralizar»?
+0066 [Joven Trekker alegre] | Sí, ya saben, neutralizar. Solo quitarlos del camino. Vencerlos, capturarlos, lo que funcione. Cada uno vale 500 millones de Dorra.
+0067 [Iris] | ¡Son 1.500 millones por los tres!
+0068 [Joven Trekker alegre] | ¡Así es! Aunque está muy fuera del alcance de una novata como yo.
+0069 [Joven Trekker alegre] | Oí que una escuadra de caza con más de cien Trekkers lo intentó...==W== y fracasó. Estrepitosamente.
+0070 [Joven Trekker alegre] | Yo me quedaré con los pequeños del bosque. Igual te pagan por despejarlos.
+0071 [Tú] | Gracias por contarnos. No nos dijiste tu nombre.
+0072 [Joven Trekker alegre] | ¡Ah, es cierto!
+0073 [Eleanor] | ¡Soy Eleanor! ¡Solo una Trekker novata, todavía aprendiendo lo básico!
+0074 [Eleanor] | Creo que me emocioné un poco. ¡Es que es genial por fin compartir información con veteranos como ustedes!
+0075 [Iris] | ¿Qué pasa? ¿Por qué todos miran de repente hacia allá?
+0076 [Eleanor] | ¡Oh! ¡Creo que son los Trekkers que derribaron a uno de los Tres Grandes! Regresan de una expedición de reconocimiento.
+0077 [Tú] | ¡¿Qué?! ¡¿De verdad alguien venció a uno de ellos?!
+0078 [Eleanor] | ¡Y tanto! La Espada de Jade fue capturada el mes pasado por la escuadra que ella lideraba.
+0079 [Trekker parlanchín] | ¡Ohh! ¡Lady Nazuka! ¡Por aquí! ¡Por favor, mire hacia acá!
+0080 [Trekker emocionado] | Aun así cuesta creerlo... Una chica tan callada logró capturar a la Espada de Jade...
+0081 [Trekker parlanchín] | ¿Eh? ¿Qué eres, un envidioso? ¿Dices que ella no derrotó sola a la Espada de Jade?
+0082 [Trekker parlanchín] | ¡Oye, oye, deja de ponerme palabras en la boca! ¡Y deja de mirarme así!
+0083 [Trekker parlanchín] | Esa cosa era de verdad dura. Yo ayudaba a la escuadra nueva y ni siquiera podía mantenerme en pie cuando batía las alas.
+0084 [Trekker parlanchín] | ¡Je! ¿Ves? Por eso Lady Nazuka es la mejor.
+0085 [Trekker parlanchín] | ¡Hasta esa bruja de Scarlet Sights Media vino a cubrirlo! Pronto todo el Continente sabrá su nombre.
+0086 [Eleanor] | Ojalá algún día pueda ser famosa como ella...
+0087 [Eleanor] | ¡Bueno, nos vemos! ¡Me voy a entrenar!
+0088 [Narración] | Eleanor se pierde entre la multitud, llena de energía. Con la partida de la expedición, los curiosos empiezan a dispersarse.
+0089 [Noya] | Uf... uf... Por fin pasé.
+0090 [Noya] | No puedo creer que llevar a Loxy por ese caos tardara más que lo que ustedes tardaron a pie.
+0091 [Noya] | Bueno, ¿de qué era todo ese alboroto?
+0092 [Tú] | De una Trekker increíble llamada Nazuka. Al parecer lideró un equipo que derribó a un monstruo con una recompensa de 500 millones de Dorra.
+0093 [Noya] | ¿Quinientos millones, eh?==W== Bien, sigamos.
+0094 [Tú] | Noya, ¿no te sorprende?
+0095 [Noya] | Claro, es mucho dinero. Suficiente para mantener a Loxy con repuestos de por vida.
+0096 [Noya] | Pero a mí me interesa más la Estrella Cosechada. Cazar monstruos no es lo mío.
+0097 [Tú] | ¿La Estrella Cosechada?
+0098 [Noya] | ¡Sí! Dicen que si derrotas al Stellaroid jefe final oculto de un Monolito, encontrarás la Estrella de los Deseos que custodia... ¡y puede conceder cualquier deseo!
+0099 [Iris] | Pero eso es solo una leyenda urbana.
+0100 [Noya] | ¿Y qué? ¡Lo que cuenta es el romance de la aventura!
+0101 [Noya] | En fin, apurémonos a encontrar a la corredora de información que nos mencionó Bastelina. Ya conseguí indicaciones para llegar a la Casa de los Trekkers.
+0102 [Iris] | Eh... ¿Noya? ¿Seguro que es por aquí?
+0103 [Noya] | ¡Totalmente! Tranquila, me dieron indicaciones perfectas en el campamento.
+0104 [Iris] | ¡¿Cómo quieres que no me preocupe si el bosque nos está cercando?!
+0105 [Iris] | Amber, ¿puedes ver algo desde allá arriba?
+0106 [Amber] | Nada... ¿Eh?
+0107 [Narración] | Sentada sobre el vehículo, los ojos agudos de la chica parecen captar un destello de movimiento.
+0108 [Tú] | ¿Ves algo?
+0109 [Amber] | Creí que sí... Ya no está.
+0110 [Amber] | Probablemente... solo un animal pequeño.
+0111 [Cosette] | (Uf... eso estuvo cerca. Estaba segura de haber ocultado por completo mi presencia.)
+0112 [Cosette] | (El Gremio de la Nueva Estrella...==B== No hay que subestimarlos.)
+0113 [Cosette] | (Hmph. Pero ustedes no pueden interponerse en el camino de Nocturn Eterna.)
+0114 [Cosette] | (Como la solucionadora de Nocturn Eterna, eliminaré cualquier obstáculo en el camino.)
+0115 [Cosette] | (Especialmente tú, Jefe. ¡Sin duda encontraré la oportunidad de secuestrarte...!)

@@ -1,0 +1,168 @@
+# Capítulo 7 · El precio de la estrella · 5B · Cien millones
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_138 | Nyx
+N:avg1_163 | Greyhorn
+N:avg3_100 | Sylar
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_124 | Erinis
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_125 | Meikyo
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Cien millones
+0003 [Intro] | Firenze y tú consiguen un préstamo enorme de Finanzas del Mar Profundo. Te niegas a ceder tus acciones y, en su lugar, pones en garantía dos Sellos de la Gracia.
+0004 [Lugar y hora] | 17:30, 13.º del mes de Venatio, Distrito de Oro de Philae, sucursal de Finanzas del Mar Profundo
+0005 [Erinis] | Gracias por visitar hoy Finanzas del Mar Profundo. Soy Erinis, gerente del Departamento de Crédito.==W== Los estábamos esperando. Es un honor que Cosecha Unida Philae nos confíe esto.
+0006 [Erinis] | Déjenme adivinar:==W== vienen por el depósito de la licitación,==W== ¿verdad?
+0007 [Erinis] | ¿Cuánto capital==W== están buscando?
+0008 [Opción] | 40 mil millones de Dorra.
+0009 [Erinis] | Je... Ya veo.==W== Un préstamo de 40 mil millones de Dorra==W==...
+0010 [Erinis] | Un momento, ¿40 mil millones?==W== ¡Eso es toda la oferta!
+0011 [Tú] | Exacto.==W== Pero se ve sorprendida.==W== ¿Es una cifra demasiado alta para la gerente que nos estaba esperando?
+0012 [Erinis] | Mmm, a estas alturas ya no queda margen de ganancia.==W== Finanzas del Mar Profundo se retira. Mucha suerte a las dos. Nuestras puertas están abiertas si necesitan un préstamo.
+0013 [Erinis] | B-==W==bueno,==W== ¡claro que no!==W== La frase «demasiado alta» no existe en nuestro diccionario.
+0014 [Erinis] | Es solo que...==W== Como gerente de Crédito, tengo que ser cuidadosa con una transacción de esta magnitud.
+0015 [Erinis] | Francamente, es un pésimo negocio.==W== 40 mil millones rompen todos los récords de renta de un Monolito.==W== Meikyo...==W==
+0016 [Meikyo] | ¡En eso estoy!==W== Mucho gusto a los dos, soy Meikyo, de Crédito.==W== Voy a asistir a Erinis.
+0017 [Meikyo] | Hice las cuentas. Entre esta renta, contratar Trekkers para escalar la torre, el mantenimiento de las instalaciones y los impuestos sobre Artefactos para el Imperio de la Gracia...==W== Nunca van a recuperar la inversión con un arrendamiento de diez años.
+0018 [Meikyo] | En términos económicos,==W== les conviene mucho más contratar Trekkers para los Monolitos de las Tierras Salvajes.
+0019 [Firenze] | Un análisis impecable.==W== Pero ustedes dos saben==W== que tener un Monolito urbano nunca fue solo cuestión de números.
+0020 [Erinis] | Entendido.==W== De verdad lo entendemos.==W== Y con una suma tan grande, Finanzas del Mar Profundo sin duda no los va a rechazar.
+0021 [Erinis] | Sin embargo...==W== Prestar tanto capital==W== significa que asumimos un riesgo inmenso.
+0022 [Erinis] | Así que,==W== para compensar ese riesgo,==W== normalmente subimos la tasa de interés.
+0023 [Firenze] | Era de esperarse. Entonces,==W== oigamos la cifra.
+0024 [Erinis] | ... Los rumores sobre su eficiencia eran ciertos. Muy bien.==W== El mes pasado,==W== una empresa sacó un préstamo de emergencia de diez mil millones a una tasa anual del 15 por ciento.
+0025 [Tú] | 15 por ciento...==W== Eso son 6 mil millones de Dorra al año en intereses. No es una carga pesada; es una carga que te deja lisiado...
+0026 [Erinis] | Pero después de su discurso en el banquete,==W== Jefe, me imagino que muchas empresas se sintieron inspiradas.
+0027 [Erinis] | Si a eso le sumamos el historial de Cosecha Unida Philae,==W== yo personalmente les daría la máxima calificación crediticia.
+0028 [Erinis] | Tomando todo eso en cuenta...==W== Estamos dispuestos a ofrecerles una tasa anual del 5 por ciento.
+0029 [Firenze] | Por raro que suene viniendo de mí, nada sale tan barato.==W== Un préstamo tan enorme al cinco por ciento quiere decir que hay truco. ¿Qué más quieren?
+0030 [Erinis] | Jeje, tratar con gente lista sí que facilita las cosas.==W== Finanzas del Mar Profundo quiere un contrato de compra de granos con Cosecha Unida Philae.
+0031 [Erinis] | Hasta que se liquide el préstamo, tendremos el derecho preferente de compra sobre sus granos y productos alimenticios.==W== El precio quedará fijo en el promedio del mercado de los últimos diez años.
+0032 [Firenze] | Dada nuestra situación, aceptamos.==W== Pero==W== ¿Finanzas del Mar Profundo quiere entrar al mercado de granos?
+0033 [Erinis] | Ay, no.==W== No tenemos las patentes de franquicia para eso.==W== Es solo una cobertura; parte de nuestra gestión de riesgos habitual.
+0034 [Tú] | ¿Negociamos 40 mil millones así de fácil?==W== Finanzas del Mar Profundo definitivamente esconde sus verdaderas intenciones.
+0035 [Erinis] | ¡Muy bien! Como ya estamos de acuerdo en el monto, la tasa y las condiciones, solo queda una cosa: la garantía.==W== Un préstamo de 40 mil millones requiere 60 mil millones en activos que lo respalden.
+0036 [Erinis] | Reunir 60 mil millones en garantías no es poca cosa.==W== ¿Qué ponen sobre la mesa?
+0037 [Erinis] | Según tengo entendido, el Senado tiene el 49 por ciento de Cosecha Unida Philae.==W== ¿Van a hipotecar el resto de las acciones?
+0038 [Tú] | ¿Quieren las acciones? Si sumo eso al contrato de compra,==W== supongo que su verdadero objetivo es acaparar un suministro estable de granos al por mayor. Pero ¿por qué?==W== Los márgenes de ganancia del mercado de granos no son altos.
+0039 [Tú] | No puedo usar las acciones de ninguna manera.==W== Matilda me las confió. Son de todos.
+0040 [Opción] | Sacar la pieza de Peón
+0041 [Tú] | Vamos a usar este Sello de la Gracia como garantía.
+0042 [Erinis] | Vaya, qué sorpresa. ¿Entregar un preciado Sello de la Gracia, con todo y sus patentes de franquicia?==W== Aun así... Es una oferta sólida.
+0043 [Erinis] | Sin embargo...==W== ¿Cuál es el veredicto, Meikyo?
+0044 [Meikyo] | Le ofrezco una sincera disculpa, Jefe.==W== Este Sello de la Gracia no alcanza el valor requerido.
+0045 [Meikyo] | Este es el sello que obtuvo durante la guerra de empresas en Emor, el Sello de la Gracia de Creta Trading, ¿no es así?
+0046 [Tú] | Sí. ¿Hay algún problema?
+0047 [Meikyo] | Sus patentes de franquicia son exclusivamente para minería.
+0048 [Tú] | La minería es lucrativa. ¿No debería valer 60 mil millones?
+0049 [Meikyo] | Hace 20 años, habría alcanzado fácilmente los cien mil millones.==W== Pero ya llevamos dos décadas sin una sola mina activa en Nova.
+0050 [Tú] | ¿Sin minas activas?==W== ¿Qué quiere decir?
+0051 [Meikyo] | Todavía se necesita un Sello de la Gracia para fundar una empresa, así que técnicamente no tiene precio. Pero no hay ningún mercado para él.==W== Es demasiado difícil de liquidar, así que no podemos valuarlo en 60 mil millones como garantía.
+0052 [Erinis] | Podemos aceptar el Sello como garantía,==W== pero tendrán que cubrir la diferencia con acciones...
+0053 [Opción] | Sacar la pieza de Alfil
+0054 [Tú] | ¿Y si agrego este?
+0055 [Meikyo] | ¿Un alfil blanco?==W== Espere, eso es...
+0056 [Erinis] | ¿Imposible?==W== Scarlet Sights Media tiene el alfil blanco. ¿Por qué lo tiene usted?
+0057 [Tú] | Ah, ¿Scarlet Sights Media también tiene un alfil blanco? Qué bueno saberlo.==W== Pero este no es el suyo. Es otro.
+0058 [Erinis] | Meikyo.==W== ¿Cuántos Sellos de alfil blanco hay registrados?
+0059 [Meikyo] | Solo uno.==W== El que tiene Scarlet Sights Media.
+0060 [Erinis] | Lo que significa...==W== que este es un Sello de la Gracia completamente nuevo, nunca antes descubierto.==W== Jamás esperé==W== ver uno en estas circunstancias.
+0061 [Tú] | No sé mucho del tema, así que le creo.==W== ¿Esto alcanza para cubrir el préstamo?
+0062 [Erinis] | ... Je.==W== Usted gana.
+0063 [Erinis] | Meikyo, prepara el papeleo.==W== Firme aquí,==W== y mañana transferiremos 40 mil millones de Dorra a las cuentas de Philae.
+0064 [Erinis] | Solo un pensamiento al aire...==W== Pero parece que Omnisky Aegis está tramando algo. Deberían salir temprano mañana.
+0065 [Tú] | Un pensamiento al aire, ¿eh?==W== Entonces lo dejaré así.==W== Gracias, y por una colaboración exitosa.
+0066 [Firenze] | Jefe, qué agallas tiene. Yo creía que pediría 20 mil millones.
+0067 [Tú] | Si ya estamos apostando todo, ¿qué diferencia hay entre 20 y 40?==W== Además, al pedir 40 mil millones, obligamos a Finanzas del Mar Profundo.==W== Ahora tienen que respaldarnos.
+0068 [Firenze] | Je. Respeto su astucia.==W== Pero entregar esos dos Sellos de la Gracia...==W== ¿Valió la pena?
+0069 [1] | Son garantías.==W== Si ganamos, nos los devuelven.
+0070 [1] | Y nosotros==W== vamos a ganar.
+0071 [Firenze] | Me preocupa Omnisky Aegis.==W== Si quieren guerra, atacaremos primero.==W== Haré que la gente de Cosecha Unida Philae rodee el lugar.
+0072 [Erinis] | Vaya. Esto se puso interesante.
+0073 [Meikyo] | ¡No, no, no! ¡Esto no tiene nada de interesante! ¡Son 40 mil millones de Dorra!==W== Si Cosecha Unida Philae quiebra,==W== ¡van a rodar nuestras cabezas!
+0074 [Erinis] | Seguramente nos amarrarán a unos bloques de cemento==W== y nos tirarán a un lago.
+0075 [Meikyo] | ¡¿Iiiih?! ¡¿A mí también?!==W== ¡T-tú firmaste el contrato!==W== ¡Duerme sola con los peces!
+0076 [Erinis] | Je. ¿De qué tienes miedo, Meikyo?==W== ¿Por qué crees que Finanzas del Mar Profundo quiere esas acciones de Cosecha Unida Philae?
+0077 [Erinis] | Porque cuando el mundo arde, los que acaparan los granos son los que ríen al último.
+0078 [Meikyo] | Pero no conseguimos las acciones.
+0079 [Erinis] | Una verdadera lástima...==W== Pero mientras respaldemos a un Jefe más audaz y más loco que nosotras,==W== no vamos a perder.
+0080 [Narración] | Dos años después.
+0081 [Noya] | Buenos días, Jefe.==W== ¿Otra vez te desvelaste?==W== Hicimos un escándalo al salir esta mañana y ni te moviste.
+0082 [1] | Perdón,==W== el trabajo no me dejó dormir.==W== Me acabo de levantar.
+0083 [Iris] | No te preocupes por nosotras. No te estamos culpando.==W== Además, volvemos a Philae unas cuantas veces al año.==W== No es un adiós para siempre.
+0084 [Amber] | Dormir tarde hace daño,==W== Jefe.==W== No eres un gato.
+0085 [1] | Gracias por preocuparte, Amber.==W== Lo tendré en cuenta.==W== ¿A dónde van esta vez?
+0086 [Noya] | Directo al este, a Cangwu, la ciudad de Loong.==W== Puede que encontremos una pista del orfanato por allá.
+0087 [Noya] | Ah, perdón, estamos saliendo del alcance del Monolito de Philae. Se está cortando la señal.==W== ¡Cuídate,==W== Jefe!
+0088 [1] | Gracias.==W== Buen viaje.
+0089 [Narración] | Hace dos años, para ganar la licitación del Monolito de Philae, conseguí un préstamo de 40 mil millones de Dorra de Finanzas del Mar Profundo, usando mis dos Sellos de la Gracia como garantía.
+0090 [Narración] | Después, gracias a que Firenze y su equipo de seguridad tuvieron a raya a Omnisky Aegis desde temprano, el Gremio de la Nueva Estrella y yo escalamos el Monolito y pedimos nuestro deseo.
+0091 [Narración] | Sacamos de la Caja de Deseos un contenedor transparente. Una vitrina de plástico, sin vidrio, magia, metal ni madera.
+0092 [Narración] | Si no hubiera sido por Iris, que conoce los Artefactos al derecho y al revés, jamás habríamos descifrado esa consigna. Gran parte de la victoria se la debíamos a ella.
+0093 [Narración] | Cosecha Unida Philae por fin se liberó de sus cadenas. Sobrevivió a una crisis tras otra y renació de sus cenizas.
+0094 [Narración] | Pero nadie vio venir lo que pasó después.
+0095 [Opción] | Adelante.
+0096 [Nazuka] | Jefe, la junta está por empezar.==W== Ah...==W== ¡¿por qué sigues en pijama?!
+0097 [1] | ¿Ya es hora?==W== Rayos,==W== me quedé dormido.
+0098 [Nazuka] | No tienes remedio.==W== Ven, déjame ayudarte a cambiarte.
+0099 [Narración] | Seis meses después de la licitación, una guerra civil fracturó Cosecha Unida.
+0100 [Narración] | El conflicto interminable entre la sede y las sucursales regionales hizo que la producción de granos se desplomara en todo Nova.
+0101 [Narración] | Nos mantuvimos al margen y conservamos la paz en Philae, pero la guerra disparó por las nubes nuestros costos agrícolas.
+0102 [Narración] | Mientras tanto, el contrato con Finanzas del Mar Profundo fijaba nuestros precios de venta en el promedio del mercado de diez años. Cuanto más vendíamos, más perdíamos. La ruina se nos venía encima.
+0103 [Narración] | Si a eso le sumamos dos mil millones de Dorra de intereses anuales, la empresa se desangró.
+0104 [Narración] | Con mis Sellos en manos de Finanzas del Mar Profundo, Vita perdió la capacidad de copiar recuerdos para el Monolito y de hacer llamadas entre ciudades.
+0105 [Narración] | Así que me quedé a dirigir la empresa. El Gremio de la Nueva Estrella hizo de Philae su base y siguió buscando pistas sobre el orfanato.
+0106 [Tú] | Uf.==W== Vámonos, Nazuka.
+0107 [Nazuka] | Jefe... ¿Podemos hablar un segundo antes de salir?
+0108 [Tú] | ¿Mmm? ¿Qué pasa?
+0109 [Nazuka] | B-==W==bueno...==W== Después de la junta,==W== ¿quieres escalar el Monolito conmigo?
+0110 [Tú] | Mejor no. La empresa me necesita ahora mismo.==W== Además, de todos modos no sirvo de mucho escalando un Monolito.
+0111 [Nazuka] | A-ah.==W== Últimamente te ves agotado. Pensé que podríamos ir a relajarnos a algún lado.==W== Perdón, olvida lo que dije.
+0112 [Tú] | Gracias. Te agradezco la intención.==W== Dame un poco más de tiempo. Las cosas están difíciles ahora,==W== y todos cuentan conmigo. No puedo decepcionarlos.
+0113 [Tú] | ... Y a ti tampoco.==W== Dejaste de ser Trekker==W== para quedarte a mi lado y apoyarme.
+0114 [Nazuka] | Tonto...==W== Entonces apóyate un poco más en mí.
+0115 [Tú] | Perdón por la tardanza.
+0116 [Firenze] | No pasa nada, Jefe. Buenas noticias:==W== la guerra civil de Cosecha Unida por fin terminó.
+0117 [Firenze] | La gran inspectora Matilda... No, ahora es la directora ejecutiva Matilda. Ganó ella.
+0118 [Tú] | Uf. Por fin las cosas pintan mejor. Ahora la producción de granos debería recuperarse, ¿no? Y nuestros costos agrícolas deberían bajar.
+0119 [Nyx] | Eso nos lleva a la mala noticia.==W== Matilda tiene el Sello de la Gracia,==W== pero su control real termina en las selvas del sur.
+0120 [Nyx] | Nueva Orelia y las demás regiones ahora no tienen ley. Las sucursales se están declarando independientes.==W== Es cuestión de tiempo para que los Monolitos de todas partes desaten nuevas guerras de licitación.
+0121 [Nyx] | Si eso pasa,==W== el mercado de granos de Nova solo se va a hundir más en el caos.
+0122 [Tú] | ¿Y cómo quedan nuestras operaciones?
+0123 [Ruby] | Los campos se ven sanos.==W== Esperamos otro año de cosecha abundante.
+0124 [Sapphire] | Pero entre el aumento de los costos y el precio fijo del trato con Finanzas del Mar Profundo... Después de intereses y pagos,==W== nuestra ganancia proyectada es de apenas...==W== dos millones de Dorra.
+0125 [Sapphire] | El próximo año también pinta mal para nosotros.==W== Los clientes de siempre están a la expectativa, esperando para quedarse con los restos del colapso de Cosecha Unida.
+0126 [Tú] | Estamos caminando en la cuerda floja. Un resbalón y se acabó.
+0127 [Tú] | Pero no hacer nada significa una muerte lenta. Este mercado nos arrastra de todos modos.
+0128 [Firenze] | Sea como sea,==W== la presión no cede.
+0129 [Opción] | Aliarnos con Matilda
+0130 [Opción] | Esperar el momento oportuno
+0131 [Opción] | Pedir más Dorra prestado
+0132 [Tú] | Nos aliamos con Matilda.==W== Hace dos años prácticamente nos regaló esas acciones para salvar a Cosecha Unida Philae.==W== Podemos confiar en ella.
+0133 [Firenze] | De acuerdo. Así podremos arreglar rápido el desastre de Cosecha Unida.==W== Yo me pongo en contacto con ella.
+0134 [Tú] | Entonces te lo dejo a ti,==W== Firenze.
+0135 [Tú] | Por lo que pasó hace dos años,==W== de verdad queremos apoyar a Matilda...
+0136 [Tú] | Pero primero hay que asegurar el suministro de granos de Philae==W== y nuestras operaciones.
+0137 [Nyx] | Tiene sentido.==W== Mientras sobrevivamos nosotros o la nueva Cosecha Unida,==W== alguien terminará restaurando el orden en el comercio de granos.
+0138 [Tú] | Sí. Gracias a todos.==W== Todavía tenemos que apretarnos el cinturón y aguantar la tormenta un poco más.
+0139 [Tú] | Ya lo decidí.==W== Vamos a pedirle otro préstamo a Finanzas del Mar Profundo.
+0140 [Nazuka] | ¿O-otro préstamo?==W== ¡Todavía les debemos el primero! ¿De verdad es buena idea cavar un hoyo más profundo?
+0141 [Tú] | No te preocupes.==W== Finanzas del Mar Profundo tiene más que perder si nos hundimos. Nos van a ampliar el préstamo.
+0142 [Tú] | ¡Con este financiamiento, podemos consolidar los territorios que quedaron tras el colapso de Cosecha Unida==W== y reconstruir el orden desde cero!

@@ -1,0 +1,76 @@
+# Historia de Nanoha · 2 · The Maid's Secret Mission (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Staff | Personal
+N:avg1_119 | Nanoha
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La misión secreta de la sirvienta (Parte II)
+0003 [Intro] | Misión n.º 2: ganar el gran premio.
+0004 [Narración] | Después de terminar de recorrer el área de postres, Nanoha y yo nos dirigimos a la zona de juegos.
+0005 [Staff] | ¿Quieren probar suerte?
+0006 [Staff] | Hay tres minijuegos en total: lanzamiento de aros, lanzamiento de pelotas y la carrera de obstáculos con campanas.
+0007 [Staff] | Si superan los tres de una sola vez, ganarán un extra:==W== ¡un delicioso gran premio!
+0008 [Tú] | ¿Qué sería?
+0009 [Staff] | Es un vale de todo lo que puedas comer en la Pastelería Frees. ¡Elijan cualquier postre que quieran!
+0010 [Tú] | Creo que ya había escuchado ese nombre. ¿Es un lugar famoso?
+0011 [Nanoha] | Así es. Sus postres son de primera, tanto en apariencia como en sabor.
+0012 [Tú] | Ya veo. Entonces, por supuesto, tenemos que jugar.
+0013 [Staff] | ¡Muy bien! Aquí están sus pases de juego. ¡No los pierdan!
+0014 [Narración] | Tras esperar un poco en la fila, por fin es nuestro turno.
+0015 [Staff] | Debido a la gran cantidad de asistentes a esta expo, pedimos que cada grupo elija solo a un jugador para participar en los juegos.
+0016 [Staff] | Claro, si su representante supera todos los juegos, todos en el grupo reciben el gran premio.
+0017 [Nanoha] | Usted decide, Amo.
+0018 [Tú] | Ve tú. Estoy muy lleno de tanto comer.
+0019 [Tú] | Te animaré desde la banda.
+0020 [Nanoha] | Como usted desee, entonces.
+0021 [Nanoha] | Nanoha no le defraudará.
+0022 [Nanoha] | ¿Lanzar los aros de plástico sobre los bloques del color correspondiente?==W== Ya veo.
+0023 [Staff] | ¡L-lo logró con todos!
+0024 [Staff] | ¡Felicidades por la puntuación perfecta!
+0025 [Nanoha] | El primer desafío, superado.
+0026 [Nanoha] | ¿Golpear a esos muñecos en movimiento con las pelotas de la canasta?==W== ¿Eso es... todo?
+0027 [Staff] | ¡¿Les dio a todos al mismo tiempo?!
+0028 [Staff] | ¡Es increíble, señorita!
+0029 [Nanoha] | El segundo desafío, superado.
+0030 [Tú] | Pan comido para ella...
+0031 [Nanoha] | El desafío final...==W== La carrera de obstáculos con campanas.
+0032 [Tú] | ¿Oh? Esto se ve algo difícil.
+0033 [Tú] | El participante debe atravesar un laberinto de cuerdas entrecruzadas con campanas atadas, sin hacer ningún ruido.
+0034 [Tú] | No te pongas nerviosa, Nanoha.
+0035 [Tú] | El personal me dijo que, aunque fallemos este, como superamos los dos primeros juegos, de todos modos recibiremos un pequeño obsequio.
+0036 [Nanoha] | Nanoha no fallará.
+0037 [Nanoha] | Le prometí el gran premio.
+0038 [Tú] | ¡Muy bien! ¡Ese es el espíritu!
+0039 [Tú] | Te esperaré en la meta.
+0040 [Narración] | Cuando Nanoha se desliza con gracia por la última cuerda, el juego termina.
+0041 [Staff] | Vaya, eres la mejor participante que hemos tenido hasta ahora hoy.
+0042 [Staff] | ¡Triplete perfecto!
+0043 [Nanoha] | Misión cumplida, Amo.
+0044 [Tú] | ¡Impresionante! ¡Nanoha, eres increíble!
+0045 [Tú] | Mientras Nanoha jugaba, bastante gente se reunió a mirar.
+0046 [Tú] | ¿No expondrá eso su identidad?
+0047 [Tú] | Espero que no le cause problemas con su misión...
+0048 [Nanoha] | Aquí está el vale de todo lo que pueda comer, Amo.
+0049 [Tú] | Gracias por tu arduo trabajo.
+0050 [Tú] | Oye... ¿tienes algún plan para después?
+0051 [Nanoha] | ¿Plan?
+0052 [Tú] | Ya casi terminamos con esta expo.
+0053 [Tú] | Si tienes otras cosas que atender, Nanoha, adelante. No te preocupes por mí.
+0054 [Tú] | Si todavía me necesitas de tapadera, podemos seguir.
+0055 [Nanoha] | No tengo nada más planeado para hoy.
+0056 [Tú] | Ah, no debí preguntar tan directamente. Seguro tiene órdenes de mantener en secreto lo que sea.
+0057 [Tú] | ¿Qué hacemos ahora?
+0058 [Tú] | Ah, cierto: los vales de todo lo que puedas comer de la pastelería. ¿Quieres ir a usarlos juntos?
+0059 [Nanoha] | ¿Ahora mismo?
+0060 [Tú] | Ah, espera. Ella debe quedarse aquí para completar su misión.
+0061 [Tú] | Déjame pensar en otra cosa...
+0062 [Nanoha] | Listo.
+0063 [Nanoha] | La Frees es muy popular, así que normalmente hay una larga fila. Acabo de enviarle un mensaje a la dueña y nos guardó un lugar.
+0064 [Nanoha] | Ahora podemos ir, Amo.
+0065 [Tú] | ¡¿Eh?!

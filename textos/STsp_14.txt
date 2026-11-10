@@ -1,0 +1,6 @@
+# Nova Times #14 · Resonancia más allá de la luz estelar — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_14_01 | Resonancia más allá de la luz estelar (Parte I)
+STsp_14_02 | Resonancia más allá de la luz estelar (Parte II)
+STsp_14_03 | Resonancia más allá de la luz estelar (Parte III)

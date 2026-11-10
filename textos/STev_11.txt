@@ -1,0 +1,14 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_11_01 | Encargo traído por la brisa
+STev_11_02 | Sueños a bordo
+STev_11_03 | Náufragos de la Nueva Estrella
+STev_11_04 | Fantasmas del mar
+STev_11_05 | Coleccionista en el vórtice
+STev_11_06 | Revuelo por las caracolas
+STev_11_07 | Mar enmarcado
+STev_11_08 | Fracturas y refugio
+STev_11_09 | El verano continúa
+@BT01 | Monolito de las profundidades
+@BT02 | Educación moral

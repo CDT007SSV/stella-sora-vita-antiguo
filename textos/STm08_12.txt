@@ -1,0 +1,173 @@
+# Capítulo 8 · Calor residual · 9 · Home Alone
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Kid Leader | Niño líder
+N:Noya & Iris & Amber | Noya, Iris y Amber
+N:The Kids | Los niños
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_139 | Allie
+N:avg1_1996 | Noya
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_100 | Sylar
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Solos en casa
+0003 [Intro] | Nunca esperaste encontrar aquí a la tía Allie. Resulta que huyó de Emor con los niños y convirtió este lugar en su nuevo orfanato. Para mantener en secreto su ubicación, se niega a dejar que la Compañía del Gato Blanco siga investigando.
+0004 [???] | ¡Ni se te ocurra!
+0005 [???] | ¡Ustedes tres! ¡Suelten las armas! ¡Al suelo, con las manos en la cabeza! ¡Muévanse!
+0006 [Iris] | ¡Iiih! ¡Está bien, está bien, y-ya entendí! ¡Por favor, no me lastimen!==W== ¡No a la violencia!
+0007 [???] | ¡Bien! ¡Ahora ustedes dos, hagan exactamente lo mismo que ella! ¡Rápido!
+0008 [Narración] | Siguiendo el ejemplo de Iris,==W== me agacho y recorro la habitación con la mirada.
+0009 [Tú] | ... ¿Eh? Está demasiado oscuro para ver bien...==W== Un momento, ¿dónde está Amber?
+0010 [???] | Bien. Ustedes dos están siendo listos.
+0011 [???] | ¡Oye! ¡Tú, la de allá! ¡Deja de hacerte la lenta! ¡Dije que rápido!
+0012 [Noya] | ¡Ay, no es que me niegue!
+0013 [Noya] | ¡Quiero soltar la espada, pero la correa está atorada por completo!
+0014 [???] | ¡Ja! No pueden ni con su propia arma, ¿y se dicen ladrones?
+0015 [Noya] | ¿Ladrones? ¿De qué hablas?
+0016 [???] | Hmph, como sea. Esta espada ahora es mía. Quédate ahí y no intentes nada raro.
+0017 [Amber] | ¡Te tengo!
+0018 [???] | ¡¿Q-qué...?! ¡¿Desde el techo?!
+0019 [Narración] | Amber baja de las vigas y somete a todo el grupo en segundos.
+0020 [???] | ¡Rayos! ¡Toma esto! ¡Suelo partido!
+0021 [Iris] | ¡Uaaaah! ¡Congélate! ¡Vamos, congélate!
+0022 [Narración] | Una neblina azul helada se extiende desde las palmas de Iris, apoyadas en el suelo. La madera bajo nuestros pies cruje un par de veces, pero sigue intacta.
+0023 [???] | ¡No puede ser! ¡¿Por qué no se activó la trampa?!
+0024 [???] | ¡¿Una ladrona que sabe magia?! ¡Entonces prueba esto!
+0025 [Noya] | ¡Lo vi venir!
+0026 [???] | ... ¿Eh? ¡¿Quéééé?! ¡No puede ser! ¡¿Atrapaste nuestras flechas con las manos?!
+0027 [Noya] | ¿Cómo que no puede ser? Estas ballestas prácticamente son juguetes. Los disparos no tenían nada de fuerza...
+0028 [Noya] | ¡Amber, Iris, júntenlos!
+0029 [Noya] | Estos niños son rápidos. Andaban esquivando por todos lados, pero ya los tenemos.
+0030 [Tú] | Esperen, ¿no se supone que esta es la guarida del Gato Diablo de Patas Negras? ¿Por qué hay niños aquí? ¿Y con pistolas mágicas de los Escorpiones del Desierto?
+0031 [Iris] | Mmm... La decoración de este cuarto me resulta conocida. Y sus tácticas de emboscada... Juraría que ya las he visto.
+0032 [Kid Leader] | ¡Ja! Ladrones tontos, ¿creen que ganaron solo porque nos atraparon?
+0033 [Kid Leader] | Este es el territorio del Gato Diablo de Patas Negras: el Orfanato Margarita. ¡Corran mientras puedan o vamos a gritar!
+0034 [Iris] | ¿Gritarle a ese gato diablo suyo?
+0035 [Noya] | ¿Un diablo en medio del desierto? Aunque sea real, cualquiera que use a niños para hacer su trabajo sucio es una basura. ¡Razón de más para darle una lección!
+0036 [Kid Leader] | Tsk, ya valieron. Tres, dos, uno... ¡Todos, a gritar!
+0037 [The Kids] | ¡Mamá!
+0038 [Amber] | ¿M-mamá?
+0039 [Iris] | ¿Por qué parpadean las luces? No me digan que de verdad hay un diablo...
+0040 [Amber] | ¿Qué fue eso? Es demasiado rápido, no puedo seguirlo.
+0041 [Iris] | ¡Y-yo busco el interruptor y estabilizo la lámpara! ¡Ustedes protejan al Jefe!
+0042 [Noya] | No importa qué tan rápido seas. Si te mueves en línea recta... ¡Justo aquí!
+0043 [Narración] | Las luces vuelven a encenderse. La espada de Noya queda suspendida en el aire, detenida sin esfuerzo por una escoba.
+0044 [???] | No sé si son ladrones o si buscan otra cosa.
+0045 [???] | Pero meterse a este orfanato significa que cruzaron un límite en este desierto.
+0046 [???] | Y por mucho que supliquen...
+0047 [???] | Lo van a pagar...
+0048 [???] | ¿Eh?
+0049 [Noya] | No puede ser... ¿El Gato Diablo de Patas Negras es...?
+0050 [???] | ¿Noya? ¿Eres tú?
+0051 [???] | Entonces... ¿esas dos deben ser Iris y Amber?
+0052 [Amber] | ¡¿T-tía Allie?!
+0053 [Iris] | ¿Qué está pasando? ¿Estoy soñando? ¿Cómo terminaron el orfanato y la tía Allie aquí, en el desierto?
+0054 [Tú] | El orfanato, la tía Allie...==W== Así que ella es la directora del Orfanato de las Cenizas que han estado buscando todo este tiempo.
+0055 [Allie] | ¡Ay, gracias al cielo...! Verlas tan sanas y llenas de vida... ¡Estoy... estoy tan contenta!
+0056 [Noya & Iris & Amber] | ¡Tía!
+0057 [Tú] | No vinimos a Mirage buscando el orfanato,==W== pero qué sorpresa tan increíble.
+0058 [Allie] | Un momento. ¿Cómo me dijeron?
+0059 [Amber] | ¿T-tía...?
+0060 [Allie] | ¿Tía? Qué distante... Me rompen el corazón.==W== ¿Adónde se fueron mis tres pequeñas consentidas? ¿Las que se me echaban encima y me decían mamá?
+0061 [Iris] | ¿C-consentidas...?
+0062 [Allie] | Después de mudarme de Emor a Mirage, temí no volver a verlas nunca...
+0063 [Allie] | Pero jamás imaginé que nuestro reencuentro sería así. ¡No solo dejaron de decirme mamá, sino que se meten a la casa como una banda de ladrones!
+0064 [Noya] | ¡No, no, no! ¡Ya te dije que no somos ladronas!
+0065 [Allie] | Pensar que ustedes tres se echaron a perder..==W==. Supongo que es culpa mía como su mamá. Bueno... Parece la oportunidad perfecta para darles una lección.
+0066 [Iris] | ¡¿Por qué?! ¡No! ¡Espera, es un malentendido enorme! ¡Vinimos buscando el Monolito del Desierto y solo paramos en Mirage para reabastecernos!
+0067 [Iris] | ¡Estamos aquí porque oímos que había información sobre el Monolito! Además, todos decían que el Gato Diablo de Patas Negras se había apoderado de este lugar, ¡así que obviamente teníamos que colarnos!
+0068 [Allie] | Aun así, es allanamiento de morada. Nunca imaginé que reencontrarme con mis niñas queridas terminaría así. Qué tragedia.
+0069 [Allie] | Vengan conmigo. Dejen que mamá les dé una lección.
+0070 [Noya] | ¡No, por favor...!
+0071 [Tú] | Se las llevó del pescuezo como a gatitas...==W== Oigan, yo sigo aquí.
+0072 [Allie] | Tú debes ser amigo de ellas.
+0073 [Tú] | Sí, soy ==PLAYER_NAME==, de su gremio. Eh... Noya, Iris y Amber son buenas chicas. No es lo que parece...
+0074 [Allie] | Lo sé.
+0075 [Tú] | Por favor, déjeme explicarle...==W== Un momento, ¿lo sabe?
+0076 [Allie] | Ponte detrás de mí. Cuando entren los Gatos Blancos, asegúrate de tener una buena excusa para estar en Mirage.
+0077 [Tú] | ¿Una buena excusa?==W== ¿Qué quiere decir?
+0078 [???] | Disculpe la intromisión a estas horas. Soy Kasimira, capitana del Tercer Escuadrón de la Compañía del Gato Blanco. Necesito hablar con usted... ¿Tiene un momento?
+0079 [Allie] | La puerta está abierta. Pase.
+0080 [Lugar y hora] | 22:10, 7.º del mes de Nebula, Mirage, Orfanato Margarita
+0081 [Kasimira] | Buenas noches, directora Allie. Disculpe la hora. Espero no haber asustado a los niños.
+0082 [Allie] | Ah, no se preocupe. A estas horas ya están bien dormidos. Pero, capitana Kasimira, trae usted mucha gente. ¿Qué la trae por aquí?
+0083 [Kasimira] | Seré clara: no venimos a pelear. Estamos investigando la riña que hubo hoy en el pueblo, para ver si alguien sabe algo.
+0084 [Allie] | ¿Una riña? Me temo que estuve aquí todo el día. ¿Pasó algo en el pueblo?
+0085 [Kasimira] | Esta mañana, los Escorpiones del Desierto y la Guardia Imperial tuvieron su pelea callejera de siempre. Pero los testigos dicen que ningún bando ganó. Alguien con uniforme de Gato Blanco la terminó usando dos de nuestras pistolas mágicas reglamentarias.
+0086 [Allie] | Entonces... ¿Alguien de los suyos?
+0087 [Kasimira] | Eso pensaría uno. Pero nuestras armas se asignan a miembros específicos. Usar dos a la vez es el estilo característico de una persona en particular... Pero...
+0088 [Kasimira] | Nadie en la Compañía usa dos pistolas actualmente.
+0089 [Kasimira] | Creo que alguien se está haciendo pasar por nosotros. Quieren romper el equilibrio y destruir la paz que tenemos en Mirage.
+0090 [Kasimira] | Ni la Compañía ni yo vamos a quedarnos de brazos cruzados. Nos negamos a dejar que Mirage vuelva a caer en el caos.
+0091 [Allie] | Mirage ya era pacífico cuando nos mudamos aquí. Sinceramente, me cuesta imaginar ese caos del pasado.
+0092 [Allie] | Pero ¿qué tiene que ver esto con el orfanato? Por el bien de los niños, nosotros tampoco queremos problemas.
+0093 [Kasimira] | Chaton. Explica.
+0094 [Chaton] | Je, je. Ese impostor es astuto, se lo reconozco. ¡Hasta yo, portadora del Ojo Maligno, me quedé perpleja al principio! Debió de usar una barrera mágica de alto nivel para distorsionar la percepción.
+0095 [Chaton] | ¡Pero! No importa qué técnicas magistrales use para esconderse: el mundo ahora está cubierto por las sombras.
+0096 [Chaton] | Con el poder oscuro desbordándose,==W== ¡absolutamente nada escapa a mi Ojo Maligno!
+0097 [Narración] | ==Off==¡Nyajajaja!
+0098 [Kasimira] | ... Habla en cristiano.
+0099 [Chaton] | Este, eh... Básicamente, no pude encontrarlo en todo el día. Pero esta noche por fin apareció el impostor. Lo seguí directo hasta el orfanato.
+0100 [Kasimira] | Así están las cosas. Directora Allie, ¿pasó algo fuera de lo común aquí esta noche?
+0101 [Allie] | ¿Fuera de lo común? No, no lo creo.==W== Cuando mucho, vino este Trekker a pedir dónde dormir... ¿Verdad?
+0102 [Tú] | ...¿Eh? ¿A pedir dónde dormir?
+0103 [Tú] | Está claro que Allie nos está cubriendo...==W== Más vale que le siga el juego y haga creíble la historia.
+0104 [Kasimira] | Un Trekker buscando alojamiento... Sospechoso. ¿Por qué vendría un Trekker a un lugar desolado y peligroso como Mirage, sobre todo si no hay Monolito?
+0105 [Tú] | La directora ejecutiva Firenze, de Cosecha Unida Philae, me encargó un trabajo. Vine a evaluar los productos agrícolas de la zona.
+0106 [Tú] | Parece que en el pueblo no hay posadas, así que dependo de la amabilidad de la gente de aquí para tener dónde dormir. Eso es todo.
+0107 [Tú] | ¿La Compañía del Gato Blanco es una empresa registrada? Si tienen algún problema, arréglenlo con la mía.
+0108 [Kasimira] | Cosecha Unida Philae... Los Escorpiones del Desierto los atacaron hace poco. ¿Usted estuvo involucrado?
+0109 [Tú] | Irrumpieron en nuestro banquete, sí. Queremos que paguen ante la justicia, pero no es eso lo que me trae a Mirage.
+0110 [Chaton] | ¡No, no! Este no es el de las pistolas. Vi claramente a cuatro personas entrar a este orfanato. ¿Dónde están las otras tres?
+0111 [Tú] | Debes estar equivocada. Acepté este trabajo solo. Los niños me estaban enseñando el camino. Seguro me viste caminando con ellos.
+0112 [Kid Leader] | ¡Sí! Nos encontramos con ==SEX4== en la calle. ==SEX1== no tenía dónde quedarse, así que nos vinimos con ==SEX4==.
+0113 [Chaton] | ¡Ugh! ¡Mi poder oscuro detectó otras tres presencias! Muévanse, déjenme entrar a buscar.
+0114 [Allie] | ¿No me oyó la primera vez? Los niños están durmiendo. Nadie va a entrar.
+0115 [Kasimira] | ¡Chaton, retírate!
+0116 [Chaton] | ¡¿Por qué?! Kasimira, lo juro por el poder oscuro. Sé que vi a otros ahí dentro.
+0117 [Kasimira] | No digo que te equivoques. Pero ya molestamos bastante a estas horas. Insistir sería una grosería. Va contra el código del desierto y el espíritu del Gato Blanco.
+0118 [Kasimira] | ¡Es una orden!
+0119 [Chaton] | ... Entendido.
+0120 [Kasimira] | Directora Allie, disculpe las molestias.==W== Si ve a alguien haciéndose pasar por un Gato Blanco, por favor avísenos.
+0121 [Kasimira] | Antes de irnos, tengo una pregunta personal. ¿Le suena el nombre Taffett?
+0122 [Allie] | ¿Taffett? Nunca había oído ese nombre. ¿Es una persona?
+0123 [Kasimira] | Ya veo. Olvide que se lo pregunté.==W== Tercer Escuadrón, en marcha.
+0124 [Tú] | Uf. De verdad nos salió.
+0125 [Allie] | Buen trabajo siguiéndome la corriente.==W== Pero, sinceramente, esas tres son demasiado imprudentes. No tenían idea de que las estaban siguiendo.
+0126 [Allie] | ¿Estarán bien? Me preocupan.
+0127 [Allie] | Ah, no me he presentado como se debe. Soy Allie. Soy la mamá de aquí. O sea, soy tanto la cuidadora como la directora.
+0128 [Tú] | Yo soy ==PLAYER_NAME==. Soy el director ejecutivo de una empresa llamada Boss Accord. Por mi cargo, todos me dicen Jefe.
+0129 [Tú] | Noya y las demás me salvaron en el desierto hace unos meses. Desde entonces viajo con ellas.
+0130 [Allie] | ¿Director ejecutivo de una empresa? Qué impresionante. Jejeje, esas niñas siempre están llenas de sorpresas.
+0131 [Lugar y hora] | 22:30, 7.º del mes de Nebula, Mirage, Orfanato Margarita
+0132 [Noya] | Como nos encerraste de la nada, pensé que había pasado algo terrible. Resulta que nos estaban siguiendo. ¡Tía Allie, nos hubieras dicho desde el principio!
+0133 [Allie] | Noya, tú no sabes guardar un secreto. Iris, en cuanto te pones nerviosa, se te nota en toda la cara.
+0134 [Allie] | ¡Y sigo enojada de que me digan tía en vez de mamá!
+0135 [Noya] | ¡¿Y eso último qué tiene que ver?! Bueno, está bien, lo intentaremos. ¿Verdad, Iris?
+0136 [Iris] | M-mamá...==W== ¡No, no puedo! ¡Me da muchísima vergüenza, siento la cara en llamas!
+0137 [Allie] | Ay, de verdad, cuando eran pequeñas me lo decían todo el tiempo...
+0138 [Allie] | En fin, apenas pusieron un pie en Mirage y ya se metieron con los Gatos Blancos. Ahora que están involucradas en esto, los Escorpiones y la Guardia serán los siguientes en buscarlas.
+0139 [Allie] | Quédense escondidas aquí conmigo. Será un orfanato, pero los Gatos, los Escorpiones y la Guardia saben que aquí no deben armar problemas.
+0140 [Tú] | Dijo que le preocupaba que se hubieran echado a perder, pero nos cubrió sin dudarlo. Pensó que estábamos en problemas y quiso protegernos.
+0141 [Tú] | Así que esto se siente tener un hogar. El calor de una madre... Para alguien que ni siquiera sabe adónde volver, de verdad me da envidia...
+0142 [Noya] | ¡No es para tanto! Somos niñas de tu orfanato, no causaríamos problemas. Y aunque los causáramos, nunca los traeríamos a casa.
+0143 [Iris] | Por cierto, queríamos preguntarte. ¿Por qué el orfanato desapareció de Emor sin decir nada? ¿Fue por Cosecha Unida?
+0144 [Allie] | Es una larga historia. Si no están cansadas, ¿por qué no platicamos mientras los niños duermen?==W== Quiero que me cuenten todo lo que han hecho desde que se fueron.
+0145 [Noya] | ¡Sí! ¡Acostémonos todas y rodemos por el piso mientras escuchamos historias! Como cuando éramos pequeñas.
+0146 [Amber] | Yo traigo las almohadas.
+0147 [Iris] | Yo traigo las cobijas.
+0148 [Narración] | A pesar de la larga separación, Noya, Iris y Amber no pierden el ritmo. Vuelven de inmediato a su antigua dinámica, como si se hubieran ido ayer.
+0149 [Narración] | Me jalan con ellas a los mullidos sofás. Con té caliente, nos acomodamos para una larga y entrañable noche de historias.

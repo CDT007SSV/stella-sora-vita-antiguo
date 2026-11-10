@@ -1,0 +1,150 @@
+# Capítulo 7 · El precio de la estrella · 6 · Pétalos caídos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Mercurio | Mercurio
+N:Omnisky Aegis CEO | Directora ejecutiva de Omnisky Aegis
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_138 | Nyx
+N:avg1_144 | Chitose
+N:avg1_163 | Greyhorn
+N:avg3_100 | Sylar
+N:avg3_152 | Bastelina
+N:avg3_220 | Mercurio
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Pétalos caídos
+0003 [Intro] | La subasta está lejos de terminar. Segunda ronda: desear el Cetro de la Muerte. Mientras tanto, cierta información sugiere que algo acecha dentro del Monolito del lago. En las calles de Philae, ves a alguien conocido rezando en silencio...
+0004 [Lugar y hora] | 08:00, 14.º del mes de Venatio, Distrito de Oro de Philae, oficina de Omnisky Aegis
+0005 [Omnisky Aegis CEO] | ¡Buenos días, Mercurio!==W== Hoy hace un día precioso aquí en Geminia. ¿Qué tal el clima en Philae?
+0006 [Mercurio] | Señora directora. El clima no afecta nuestras primas. Por favor, vaya al grano.
+0007 [Omnisky Aegis CEO] | Ay, Merky. Puro trabajo y nada de diversión.==W== ¡Solo quería ponerme al día contigo!
+0008 [Omnisky Aegis CEO] | Y deja ya eso de «señora directora». Es tan frío. Soy tu hermana mayor, ¿no?
+0009 [Mercurio] | Eso fue una excepción. En horario laboral uso los títulos. Es mi política.
+0010 [Omnisky Aegis CEO] | Tan estirada como siempre.==W== Está bien, vamos al grano. Te luciste en la subasta del Monolito.
+0011 [Omnisky Aegis CEO] | Todos los periódicos de la ciudad traen el mismo titular: «Omnisky Aegis suelta unos insólitos 40 000 millones por el Monolito de Philae». El escándalo de los Escorpiones del Desierto ya es historia antigua.
+0012 [Omnisky Aegis CEO] | Toda la ciudad habla de nuestra oferta. Ahora nos ven como un auténtico gigante financiero, y su disposición a comprar ha aumentado.
+0013 [Mercurio] | ¿Y el Senado?
+0014 [Omnisky Aegis CEO] | Tu valor nunca había estado tan alto.==W== Los números hablan por sí solos; no pueden negarlo.
+0015 [Omnisky Aegis CEO] | Así que, en cuanto esto termine, te transfieren de vuelta a la sede. Te voy a entregar todo el Departamento de Marketing.
+0016 [Mercurio] | Debo declinar. Philae es justo donde necesito estar.
+0017 [Omnisky Aegis CEO] | ¿Qué?==W== ¿Por qué?==W== ¿Tanto odias trabajar conmigo?
+0018 [Mercurio] | Primero, diversificación del riesgo. Si las dos estamos en Geminia, al Senado le resultaría demasiado fácil acabar con nosotras de un solo golpe.
+0019 [Omnisky Aegis CEO] | ¿Acabar con nosotras? No debería llegar a tanto.==W== Normalmente, cuando una directora ejecutiva choca con un senador, alguien pierde un debate y renuncia.
+0020 [Mercurio] | Los tiempos han cambiado, señora directora.
+0021 [Mercurio] | ¿Debo recordarle el banquete? Un senador de Cosecha Unida contrató asesinos para matar a Firenze por la autoridad sobre la sucursal de Philae.
+0022 [Omnisky Aegis CEO] | Buen punto. ¿Alguna otra razón?
+0023 [Mercurio] | Segundo, usted luchó mucho para conseguirme esta autoridad. Si vuelvo a Geminia, tengo que renunciar a ella.
+0024 [Omnisky Aegis CEO] | Bueno, en eso tienes razón.==W== Pero esa autoridad nunca fue para que te la quedaras. El incendio de relaciones públicas ya se apagó, así que tienes que devolverla.
+0025 [Omnisky Aegis CEO] | Si te pones a jugar a no soltarla, ni siquiera yo podré cubrirte.
+0026 [Mercurio] | El incendio de relaciones públicas. Claro...==W== Hablemos de dinero.==W== ¿Tenemos listos los 40 000 millones de Dorra?
+0027 [Omnisky Aegis CEO] | Por supuesto. Transferí activos líquidos de varias sucursales.==W== Perdemos por poco en la prueba de deseos y en unos días devolvemos los fondos por transferencia. Ese es el plan.
+0028 [Mercurio] | ...
+0029 [Omnisky Aegis CEO] | Mercurio. ¿Por qué te quedas callada? No me digas que de verdad quieres el Monolito de Philae.==W== ¡40 000 millones es solo la renta! Es un pozo sin fondo de dinero.
+0030 [Mercurio] | Es la única forma de conservar nuestro poder.
+0031 [Omnisky Aegis CEO] | Merky, sé razonable.==W== Omnisky Aegis no tiene 40 000 millones de Dorra para prenderles fuego.
+0032 [Omnisky Aegis CEO] | 40 000 millones...==W== Gastar tanto capital nos deja sin flujo de efectivo.==W== ¿De qué sirve la autoridad si la empresa quiebra?
+0033 [Mercurio] | Tranquila.==W== Hoy un cliente de Geminia nos va a poner en bandeja un contrato enorme.==W== Asegurar a toda su plantilla.
+0034 [Mercurio] | Lo enviaré a su oficina. Considérelo un regalo: nuestra estimada directora ejecutiva se lleva este año el título de mejor vendedora.
+0035 [Omnisky Aegis CEO] | Eh... Mi secretaria me acaba de avisar de una visita VIP sin cita.
+0036 [Omnisky Aegis CEO] | Un momento, ¡¿cómo es posible que sea esta empresa?!
+0037 [Mercurio] | Anoche intenté invitar a cenar a Firenze y a ese Jefe para negociar un acuerdo en el que todos ganáramos.==W== Fueron inesperadamente cautelosos y me rechazaron.
+0038 [Mercurio] | Cuando me costaba encontrar una salida, el representante de esta empresa vino a tocar a mi puerta.
+0039 [Mercurio] | Su única condición para este trato de miles de millones de Dorra es que==W== vayamos con todo en la oferta. Sin echarnos atrás.==W== Firmé en el acto. Era una oferta que no podíamos rechazar.
+0040 [Omnisky Aegis CEO] | Increíble. ¿Por qué harían algo así?
+0041 [Mercurio] | ¿A quién le importa?==W== No es asunto nuestro.==W== Y, sinceramente, es mejor no saberlo.
+0042 [Omnisky Aegis CEO] | Está bien. Esto salió completamente de la nada, pero yo me encargo de contener al Senado.==W== Dime, Mercurio, ¿confías en que puedes ganar la segunda ronda?
+0043 [Mercurio] | En lo más mínimo.
+0044 [Omnisky Aegis CEO] | Ja, esa es mi hermana. Sabía que tú... espera.==W== Un momento. ¿Qué dijiste? ¿En lo más mínimo?
+0045 [Mercurio] | El Imperio de la Gracia nos envió la consigna de la «evaluación de capacidad de deseo» justo antes de que habláramos. Léala usted misma. Es totalmente incomprensible...
+0046 [Mercurio] | Pero quédese tranquila, señora directora. Aunque seguir las reglas no nos hará ganar esta pelea, encontrar una salida es justo para lo que estoy aquí.
+0047 [Mercurio] | Exprimiré hasta la última gota de esta autoridad que tanto luchó por darme...==W== y me aseguraré de que Omnisky Aegis se quede con ese Monolito.
+0048 [Lugar y hora] | 08:10, 14.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0049 [Noya] | ¿Esta es... la consigna de deseo del Imperio de la Gracia?
+0050 [Amber] | No tiene ningún sentido.
+0051 [Iris] | «No conoce castas, no juzga causas. No requiere entrenamiento, no exige magia».
+0052 [Firenze] | «Forjado en adamante, encierra el trueno en frío hierro».
+0053 [Nyx] | «Lanza el rayo, y la muerte instantánea desciende».
+0054 [Bastelina] | Se llama el Cetro de la Muerte. Y esa es su consigna para la prueba de deseos.
+0055 [Bastelina] | Hoy a las 12:00 del mediodía, el Monolito de la Isla del Lago, el que está en subasta, abre sus puertas.
+0056 [Bastelina] | Omnisky Aegis,==W== la Guardia Imperial==W== y Cosecha Unida Philae==W== enviarán Trekkers adentro para pedir un deseo. Tienen hasta el atardecer del día 15 para entregar su Artefacto en la sala de conferencias de la Tienda de Almas.
+0057 [Bastelina] | Un Artefacto por empresa. Quien mejor se ajuste a la consigna gana un arrendamiento de diez años del Monolito de Philae.
+0058 [Bastelina] | ¡Y esas son las reglas de la segunda ronda! ¡Gracias por escuchar!
+0059 [Tú] | Gracias por traernos esto, Bastelina.==W== Pero... ¿de verdad es una consigna? Parece una profecía antigua.
+0060 [Bastelina] | Buen ojo, Jefe. Es un verso del antiguo Libro de las Profecías de la Gracia, que describe el legendario Cetro de la Muerte.
+0061 [Bastelina] | Pero, sinceramente, tu linda Bastelina cree que es imposible desear un tesoro legendario así. Lo mejor que pueden hacer es acercarse lo más posible a la descripción.
+0062 [Bastelina] | ¡Así que todo se reduce a quién consigue sacar el Artefacto que más se parezca al Cetro de la Muerte!
+0063 [Noya] | Entiendo que necesitamos el Cetro de la Muerte... Pero ¿cómo se supone que lo deseemos? Uf, me duele la cabeza.
+0064 [Firenze] | No eres la única con dolor de cabeza, Noya.
+0065 [Firenze] | Dudo que alguien aquí pueda siquiera imaginarse ese Cetro de la Muerte.
+0066 [Firenze] | A juzgar por la profecía, es un Artefacto devastador que dispara algo parecido a un rayo para matar a su objetivo al instante.
+0067 [Nyx] | Además, este Artefacto no conoce castas y no juzga causas... ¿Quizá algo que cualquiera pueda usar, incluso sin magia?
+0068 [Nyx] | Tomado al pie de la letra, se parece mucho a las armas de fuego mágicas que usamos Amber y yo.
+0069 [Amber] | Pero nuestras balas funcionan con magia. Eso rompe la regla de «no exige magia».
+0070 [Iris] | Tampoco cumple la condición de «no requiere entrenamiento».==W== Dominar un arma de fuego mágica lleva años de práctica con matrices de disparo. Un aficionado no puede simplemente agarrar una y ya.
+0071 [Tú] | Un arma que no requiere nada de magia y que no cuesta ningún esfuerzo usar...
+0072 [Narración] | La forma de un arma concreta me pasa por la mente. Aparte del nombre exageradamente dramático de «Cetro de la Muerte», encaja a la perfección con la consigna del Imperio de la Gracia.
+0073 [Tú] | Pero... ¿por qué nadie más lo ve?
+0074 [Opción] | Compartir mi teoría
+0075 [Tú] | ¿Alguno de ustedes ha visto alguna vez un arma que...?
+0076 [Narración] | Le describo el arma al grupo.
+0077 [Firenze] | Un arma que no requiere magia y que dispara balas de metal usando pólvora negra dentro de un casquillo... Lo siento, pero simplemente no logro imaginarla.
+0078 [Noya] | ¿Pólvora negra? ¿Te refieres a lo de los fuegos artificiales?
+0079 [Iris] | Probablemente. Pero eso solo sirve para fuegos artificiales. Metido en algo del tamaño de una bala, es imposible que tenga la potencia que describes, Jefe.
+0080 [Nyx] | Por lo menos nos da una dirección. Esta «arma de fuego» que imagina el Jefe suena verosímil. Desde luego encaja con la profecía.
+0081 [Amber] | De acuerdo.
+0082 [Tú] | Qué raro. De verdad no tienen ni idea de la «pistola» que yo conozco, y yo tampoco he visto ninguna desde que desperté en el Monolito.
+0083 [Tú] | Y aun así, aunque las armas de Amber funcionan de otra forma, el diseño es casi idéntico. ¿Será solo una coincidencia?
+0084 [Tú] | Da igual. Ahora no es momento para eso. Tengo que concentrarme en escalar el Monolito y pedir el deseo.
+0085 [Firenze] | Mmm...
+0086 [Tú] | ¿Qué pasa, Firenze?
+0087 [Firenze] | ¿Recuerdas lo que hablamos de encontrar a alguien que te cuide la espalda?
+0088 [Tú] | Sí. Dijiste que buscarías por tu lado.
+0089 [Firenze] | Y lo hice. Por desgracia, no he encontrado a nadie adecuado.
+0090 [Firenze] | Pero lo siguiente es entrar al Monolito de Philae. Es increíblemente peligroso, en serio. Preferiría reunir un equipo completo y prepararlo todo antes de movernos.
+0091 [Noya] | ¿Eh? ¿Tan peligroso es? Antes lo usamos como escondite.
+0092 [Firenze] | No llegaron lo bastante adentro para sentirlo. Si hubieran avanzado más, entenderían por qué sellaron esa torre.
+0093 [Iris] | ¿Sellaron?
+0094 [Firenze] | Sí. Esto fue hace seis años. Yo todavía era estudiante, así que solo oí fragmentos por mi padre.
+0095 [Firenze] | Durante el último ciclo de diez años, el Monolito de Philae le pertenecía a Cosecha Unida.
+0096 [Firenze] | Pero un día, un escuadrón de Trekkers de la sucursal de Philae deseó un Artefacto que nunca debió haber existido. Fue una violación enorme de las normas del Imperio de la Gracia.
+0097 [Firenze] | Después de eso, clausuraron el Monolito de la Isla del Lago y cortaron los teleféricos.
+0098 [Firenze] | Cosecha Unida tuvo que empezar a depender de los Trekkers que traían Artefactos de las Tierras Salvajes. De hecho, así fue como creció tanto el campamento de Trekkers...
+0099 [Firenze] | Pero eso no viene al caso.
+0100 [Iris] | Ya veo. Así que ese es el peligro. Seis años sin un solo deseo es sin duda un problema. En un Monolito inactivo durante tanto tiempo, podría pasar cualquier cosa.
+0101 [Noya] | ¿Qué clase de Artefacto rompe las reglas de esa forma?
+0102 [Firenze] | Ni idea. La sede lo clasificó como alto secreto. No hay ningún registro en los archivos de Philae.
+0103 [Tú] | Bastelina, ¿sabes algo de esto?
+0104 [Bastelina] | ¿Eh? ¡Ni siquiera la linda Bastelina tiene la respuesta a eso! Apenas entré al Imperio de la Gracia este año, y mis superiores nunca lo han mencionado. Seguramente es tabú.
+0105 [Bastelina] | Pero, hablando de guardaespaldas, ¿por qué no se lo pides a ella, Jefe?
+0106 [Tú] | ¿A ella?
+0107 [Bastelina] | ¡Sí! Cuando llegué esta mañana, la vi parada junto al río, por allá. Parecía que estaba rezando por algo.
+0108 [Lugar y hora] | 08:30, 14.º del mes de Venatio, Distrito de Plata de Philae, camino junto al río
+0109 [Narración] | Sigo a Bastelina por un callejón justo a las afueras de Cosecha Unida Philae.
+0110 [Bastelina] | Ahí está, Jefe.
+0111 [Tú] | ¿Esa es...?
+0112 [Chitose] | Oh, Guardián de Goodwind, escucha mi plegaria. Lava toda desgracia, pecado e impureza. Con la más profunda reverencia, te pido:
+0113 [Chitose] | Por favor, mantén a salvo a mi ==SEX11== y concédele a ==SEX4== buena salud. Que el camino de ==SEX3== sea tranquilo y concédele a ==SEX4== bendiciones duraderas.
+0114 [Chitose] | Si la desgracia encuentra a mi ==SEX11==, que me golpee a mí en su lugar.
+0115 [Chitose] | Si hay enemigos en el camino de ==SEX3==, déjame ser la espada que los derribe.
+0116 [Chitose] | Te lo suplico... Repara nuestro destino cortado y únenos de nuevo a mi ==SEX11== y a mí. Te lo ruego humildemente.
+0117 [Chitose] | Uf. Ya perdí la cuenta de cuántas plegarias he ofrecido desde que llegué. Y aun así, mi ==SEX11== y yo seguimos separados.
+0118 [Chitose] | ¿Por qué...? ¿Por qué no funciona?
+0119 [Chitose] | ... No, sé por qué.==W== Intento despejar la mente para rezar, pero mi cabeza está llena de pensamientos sobre mi ==SEX11==. Me estoy ahogando en apegos mundanos.
+0120 [Chitose] | El Guardián de Goodwind debe estar exasperado conmigo.
+0121 [Chitose] | Aunque, pensándolo bien, soy una espada. ¿No es perfectamente natural que no pueda pensar en otra cosa hasta volver a las manos de quien me empuña?
+0122 [Chitose] | ¡Un momento! ¡Eso significa que no son apegos mundanos en absoluto! ¡Es lealtad pura e innegable! ¡Oh, Guardián de Goodwind, perdona mi necedad!
+0123 [Chitose] | Oh...
+0124 [Chitose] | Qué brisa tan fuerte y reconfortante... ¿Será una señal del Guardián de Goodwind?
+0125 [Chitose] | Partida en dos, la roca ya no divide la corriente. Los pétalos caídos de glicina simplemente se deslizan por el hueco y flotan juntos río abajo.
+0126 [Chitose] | Ya veo. Mi ==SEX11== y yo somos como esos pétalos. Puede que ahora estemos separados, pero estamos destinados a reencontrarnos.
+0127 [Chitose] | Oh, Guardián de Goodwind, gracias por mostrarme el camino.
+0128 [Chitose] | Aun así... Debería bastarme con que mis plegarias sean escuchadas. Pero una parte egoísta de mí desea que mañana sea el día en que nos veamos. ¿Estaré pidiendo demasiado?
+0129 [Opción] | ¡Chitose!
+0130 [Chitose] | Esa voz... ¿Eres tú?
+0131 [Narración] | ¡¿Mi ==SEX11==?!

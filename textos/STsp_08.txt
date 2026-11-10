@@ -1,0 +1,6 @@
+# Nova Times #08 · Cautiva de la verdad — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_08_01 | Cautiva de la verdad (Parte I)
+STsp_08_02 | Cautiva de la verdad (Parte II)
+STsp_08_03 | Cautiva de la verdad (Parte III)

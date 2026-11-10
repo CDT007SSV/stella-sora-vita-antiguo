@@ -1,0 +1,140 @@
+# Capítulo 2 · 7 · Franquicia exclusiva
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Elite Knight | Caballero de élite
+N:Knight Captain | Capitán de los caballeros
+N:Passing Student | Estudiante de paso
+N:Serious Knight | Caballero serio
+N:Weary Captain | Capitán cansado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_1242 | Chitose
+N:avg3_129 | Guardia Imperial
+N:avg3_152 | Bastelina
+N:avg3_157 | Guardia Imperial
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Franquicia exclusiva
+0003 [Intro] | Después de que Iris explica todo el alcance de la autoridad de las compañías, decides usar tu Sello de la Gracia para fundar tu propia compañía y contraatacar. Con su disfraz de uniforme, Minova los introduce a ti y a Iris en el Imperio de la Gracia.
+0004 [Lugar y hora] | 11:05, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Canal
+0005 [Tú] | Así que de eso se trata todo esto.
+0006 [Iris] | Feagin necesita ese sello para salvar su compañía. Aunque huyamos, no dejará de perseguirnos.
+0007 [Minova] | Pero hay algo raro. ==PLAYER_NAME==, ¿no acabas de decir que Creta Trading apenas se sostenía a flote?
+0008 [Minova] | Entonces, ¿cómo contrató Feagin a todos esos matones?
+0009 [Tú] | Es decir, con mi memoria perdida, esto es solo una suposición...==W== ¿pero y si pidieron prestados los Dorra?
+0010 [Tú] | Nos están exprimiendo por dinero, así que no es descabellado pensar que deben dinero a alguien más, ¿no?
+0011 [Iris] | Sí, siempre que tengas una garantía aceptable.
+0012 [Tú] | Me lo imaginaba.
+0013 [Tú] | Cuanto más raro es algo, más vale. Si Feagin puso ese Sello de la Gracia como garantía, probablemente podría pedir prestados todos los Dorra que quisiera.
+0014 [Minova] | ¡Ugh, esa bruja! Usar la propiedad del orfanato para conseguir un préstamo y luego exprimir a los niños para pagarlo...
+0015 [Minova] | ¿Todas las compañías son tan abusivas?
+0016 [Chitose] | Señora Minova, no se debe generalizar.
+0017 [Chitose] | En mi lejana tierra natal, las compañías son conocidas por ser bastante benévolas.
+0018 [Chitose] | Los guerreros Loong también dicen que sus compañías son una fuente de apoyo para todos.
+0019 [Tú] | Una compañía es solo una organización. Que sea buena o mala depende de las personas que la componen.
+0020 [Iris] | Escuché algo parecido cuando investigaba eso que me pediste, ==PLAYER_NAME==.
+0021 [Tú] | Ah, cierto... Lo que te pedí. Lo olvidé por completo.
+0022 [Tú] | Gracias por recordármelo. De verdad lo aprecio.
+0023 [Iris] | ¡N-no, no hay problema! Han pasado tantas cosas, después de todo. De hecho, ahora es un buen momento para repasarlo.
+0024 [Iris] | No encontré nada concreto sobre una compañía que «estuvo en guerra con el mundo entero», pero sí encontré una lista de todos los derechos que tiene esta compañía.
+0025 [Noya] | ¡Son muchísimas páginas!
+0026 [Iris] | Bueno, las compañías están bendecidas por el Dios de la Gracia, después de todo.
+0027 [Iris] | Todas las compañías, grandes o pequeñas, tienen exactamente los mismos derechos.
+0028 [Iris] | Resalté los más importantes.
+0029 [Noya] | El derecho a la explotación comercial exclusiva.
+0030 [Chitose] | El derecho a protegerse.
+0031 [Amber] | El derecho a mantener el orden.
+0032 [Tú] | El derecho a hacer la guerra.
+0033 [Tú] | Esto no es una compañía, ¡es prácticamente un reino! ¡¿Pueden hacer la guerra?!
+0034 [Tú] | Espera... hacer la guerra...
+0035 [Amber] | ¿Qué es la «guerra»?
+0036 [Noya] | Eh... creo que es cuando gente de toda una ciudad pelea a muerte contra otro grupo de tamaño similar... ¿verdad, Iris?
+0037 [Iris] | Un poco vago, pero esa es la idea.
+0038 [Tú] | La letra pequeña de la cláusula de «hacer la guerra» dice...
+0039 [Tú] | Ajá... ==W==Esto se puso interesante.
+0040 [Tú] | Creo que sé cómo podemos vencer a Creta Trading.
+0041 [Vollara] | ¡Vamos, latas oxidadas! ¡Atrápennos si pueden!
+0042 [Neuvira] | ¡Diviértanse!
+0043 [Capitán de los caballeros] | ¡Mantengan la línea! ¡Aseguren las intersecciones! ¡Acorrálenlas!
+0044 [Caballero de élite] | ¡Sí, capitán!
+0045 [Neuvira] | ¡Nos tienen rodeadas!
+0046 [Vollara] | ¡Calma!
+0047 [Vollara] | ¡Justo en estos momentos hay que confiar en el plan de la jefa!
+0048 [Capitán de los caballeros] | ¡Armas listas!
+0049 [Caballero de élite] | ¡A la carga!
+0050 [Amber] | ¡Justo a tiempo!
+0051 [Vollara] | Uf, ¡justo a tiempo!
+0052 [Narración] | Las cintas del brazo de Amber se tensan de golpe y suben a Vollara y Neuvira directo al tejado.
+0053 [Vollara] | Je. ¿Quién diría que los tejados son geniales para patinar?
+0054 [Noya] | ¡Polen, a esparcirse!
+0055 [Capitán de los caballeros] | ==W==¡Achís!
+0056 [Caballero de élite] | ¡Mi nariz!
+0057 [Capitán de los caballeros] | ¡Retirada! ¡Contacten con el puesto! ¡Necesitamos caballeros hábiles en magia de Ventus o Aqua!
+0058 [Caballero de élite] | ¡Capitán! ¡Hay hostiles bloqueando nuestra retirada!
+0059 [Chitose] | ¡Hyaaah!
+0060 [Noya] | ¡Vaya, qué movimientos! ¡Supongo que no puedo dejar que me superes!
+0061 [Amber] | Se me acaban las bolsas de polen.
+0062 [Noya] | Tranquila, ==PLAYER_NAME== se encarga. Solo tenemos que mantener ocupados a estos caballeros.
+0063 [Lugar y hora] | 11:55, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Calle
+0064 [Caballero serio] | Disculpe, señorita. El procedimiento estándar exige que revisemos sus maletas.
+0065 [Estudiante de paso] | ¿Oh? ¿Pasa algo?
+0066 [Caballero serio] | Creta Trading reportó propiedad extraviada en el Distrito de las Cenizas. Estamos haciendo una búsqueda.
+0067 [Estudiante de paso] | ¿Solo porque una compañía perdió algo, bloquean todo el distrito?
+0068 [Estudiante de paso] | Mire, estas dos maletas están llenas de material de estudio. No tienen nada que ver con Creta Trading.
+0069 [Caballero serio] | Pero... las reglas son las reglas...
+0070 [Capitán cansado] | Oye, ¿por qué la demora?
+0071 [Caballero serio] | Capitán, ella no consiente la revisión...
+0072 [Capitán cansado] | ¿Una estudiante? Jah... ¿Estás ciego o qué?
+0073 [Capitán cansado] | ==W==¿No ves su uniforme de la Academia Platino?==W== ¿Desde cuándo una señorita de la Academia se mezcla con una compañía de mala muerte como Creta Trading?
+0074 [Capitán cansado] | Mis sinceras disculpas por las molestias, señorita. No hace falta revisión. Por favor, pase.
+0075 [Estudiante de paso] | Gracias.
+0076 [Caballero serio] | Pero capitán, ¿y si...?
+0077 [Capitán cansado] | ¿Y si qué? Los estudiantes de la Academia Platino son todos hijos de pez gordo del Senado.
+0078 [Capitán cansado] | Si descubres algo, lo único que lograremos es quedar atrapados en medio de su lucha de poder.
+0079 [Capitán cansado] | ¿Cuántos Dorra ganas siquiera en este turno? No vale la pena arriesgar el cuello.
+0080 [1] | Vaya, este uniforme de la Academia Platino es sorprendentemente eficaz.
+0081 [1] | Academia Platino... ¿Qué clase de escuela elegante es esa, por cierto?
+0082 [Lugar y hora] | 12:05, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Tienda de Almas
+0083 [Bastelina] | ¡Bienvenidos! ¡Su pasante súper linda está lista para ayudar! ♪
+0084 [Minova] | Vengo por el servicio de reactivación. Los materiales están en este maletín.
+0085 [Bastelina] | Reactivación... Ah, sí. Entiendo.
+0086 [Bastelina] | Por aquí, por favor.
+0087 [Lugar y hora] | 12:10, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Bóveda del Imperio de la Gracia
+0088 [Minova] | Bien, vía libre.
+0089 [Iris] | Lo logramos... Cuando la Guardia Imperial nos detuvo, de verdad pensé que estábamos perdidas.
+0090 [Narración] | Iris y yo salimos de las maletas.
+0091 [Minova] | ¿Ves? Te dije que saldría bien.
+0092 [Bastelina] | Vaya. Es bastante inusual encontrarnos así.
+0093 [Bastelina] | He oído algo de sus problemas con Creta Trading. Deben de haber pasado por mucho.
+0094 [Tú] | Tenemos poco tiempo, así que vayamos directo al grano.
+0095 [Tú] | Vengo a reactivar la compañía vinculada a este sello.
+0096 [Bastelina] | Jeje...==W== Así que han tomado su decisión. Iniciaré el papeleo.
+0097 [Tú] | Pero primero, tengo una pregunta.
+0098 [Tú] | No pudimos encontrar nada sobre esta compañía, ni siquiera en los archivos que nos diste. ¿Estás segura de que la compañía vinculada a este sello realmente existe?
+0099 [Bastelina] | No me sorprende. La bóveda que guardaba su dispositivo y su sello... ¡probablemente no se ha abierto en más de diez de mis vidas juntas!
+0100 [Bastelina] | Cosas tan antiguas... probablemente solo encontrarían registros en la Gran Biblioteca del Imperio de la Gracia.
+0101 [Bastelina] | Pero no se preocupen. Una vez que la reactiven, naturalmente sabrán todo sobre esta compañía.
+0102 [Tú] | Ya veo.==W== ¿Cómo la reactivo?
+0103 [Bastelina] | Cada compañía —o más bien, cada Sello de la Gracia— contiene una patente de franquicia única.
+0104 [Bastelina] | Como director general de la compañía, simplemente debe realizar una transacción dentro de su ámbito patentado.
+0105 [Bastelina] | Cierre un trato y la compañía se reactivará naturalmente.
+0106 [Tú] | Mmm... Entendido.==W== ¿Y cuál es el ámbito patentado de este sello?
+0107 [Bastelina] | ¡Déjelo en manos de la adorable yo! ♪ ¿Podría colocar el Sello sobre esa losa de piedra?
+0108 [Narración] | Haces lo que dice. El Sello se eleva lentamente en el aire, emitiendo un suave resplandor.
+0109 [Narración] | Aparece una línea de texto antiguo en la losa.
+0110 [Bastelina] | Gracias por esperar. El ámbito patentado de su compañía es...
+0111 [Bastelina] | Comercio de almas.

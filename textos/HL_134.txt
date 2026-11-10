@@ -1,0 +1,265 @@
+# Heartlink de Fuyuka: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Fuyuka] | Hola, Maestro. Por... por fin nos vemos otra vez.
+A01.0002 [Opción] | ¿Cómo has estado últimamente?
+A01.0003 [Opción] | Me alegra tenerte de alumna
+A01.0004 [Fuyuka] | ¡He estado muy bien, gracias a usted!
+A01.0005 [Fuyuka] | ¡N-no, es al revés!
+A01.0006 [Fuyuka] | ¡Espero tener más oportunidades de aprender de usted!
+
+## Conversación A02
+A02.0001 [Fuyuka] | Maestro, yo... he estado un poco preocupada últimamente.
+A02.0002 [Fuyuka] | En el campamento, me saluda gente que nunca he visto.
+A02.0003 [Fuyuka] | Todos son muy amables. Algunos hasta parece que me admiran.
+A02.0004 [Fuyuka] | Pero no sé cómo se llaman y nunca sé cómo responderles.
+A02.0005 [Tú] | Parece que te has vuelto toda una celebridad, Fuyuka.
+A02.0006 [Fuyuka] | ¡E-eek, M-Maestro, por favor no se burle de mí!
+A02.0007 [Opción] | ¿Necesitas mi ayuda?
+A02.0008 [Opción] | Es el precio de la fama.
+A02.0009 [Fuyuka] | Aún no estoy acostumbrada, pero... quiero manejarlo por mi cuenta.
+A02.0010 [Fuyuka] | S-sé que... solo hay que acostumbrarse, aun así...
+A02.0011 [Tú] | ¡Tú puedes!
+A02.0012 [Fuyuka] | ¡Sí, haré mi mejor esfuerzo!
+
+## Conversación A03
+A03.0001 [Tú] | Fuyuka, hay algo que siempre me he preguntado.
+A03.0002 [Fuyuka] | ¿S-sí, Maestro?
+A03.0003 [Tú] | Tu arma se ve inusual... Es grande y pesada.
+A03.0004 [Tú] | ¿Cómo le das mantenimiento?
+A03.0005 [Fuyuka] | No hay nada especial...
+A03.0006 [Fuyuka] | La engraso con regularidad, la limpio después de las batallas
+A03.0007 [Fuyuka] | y la guardo en un armario especial en casa.
+A03.0008 [Fuyuka] | Aunque cuando estoy en las Tierras Salvajes,
+A03.0009 [Fuyuka] | a veces es demasiado grande para guardarla bien en cualquier parte,
+A03.0010 [Fuyuka] | así que simplemente la mantengo a mi lado.
+A03.0011 [Opción] | ¿No te preocupa perderla?
+A03.0012 [Opción] | Ya veo. Es demasiado pesada.
+A03.0013 [Fuyuka] | No, la mayoría de la gente ni siquiera puede levantarla.
+A03.0014 [Fuyuka] | S-sí.
+A03.0015 [Fuyuka] | Algunos lo han intentado, pero soy la única que puede.
+A03.0016 [Tú] | Impresionante, Fuyuka.
+A03.0017 [Fuyuka] | Jeje, supongo que sí tengo algo de confianza en mi fuerza.
+A03.0018 [Fuyuka] | Si alguna vez necesita ayuda para levantar algo pesado, Maestro, ¡avíseme!
+
+## Conversación A04
+A04.0001 [Tú] | Fuyuka, hay algo que siempre me ha intrigado.
+A04.0002 [Fuyuka] | ¿Sí?
+A04.0003 [Tú] | ¿No te da calor vestirte así?
+A04.0004 [Tú] | Tu atuendo siempre da un aire invernal.
+A04.0005 [Fuyuka] | Eh... Nunca me había dado cuenta...
+A04.0006 [Tú] | Se ve calientito y suavecito. Me imagino que es perfecto para el invierno.
+A04.0007 [Tú] | ¿Pero en verano?
+A04.0008 [Fuyuka] | ...
+A04.0009 [Tú] | ¿No te hace sudar fácilmente?
+A04.0010 [Fuyuka] | ¡No! ¡Yo no sudo!
+A04.0011 [Fuyuka] | Y-y aunque sudara, no olería mal. ¡Así que no se preocupe!
+A04.0012 [Tú] | Eh, no me refería a eso...
+
+## Conversación A05
+A05.0001 [Fuyuka] | ¡Hoy es el día de encuentro de Petal Bloom y el Gremio de la Nueva Estrella!
+A05.0002 [Fuyuka] | ¿Podría traer a todos los del Gremio de la Nueva Estrella, Maestro?
+A05.0003 [Tú] | Qué raro.
+A05.0004 [Tú] | Normalmente son Kaede o Nazuna quienes invitan.
+A05.0005 [Fuyuka] | Este... yo... me ofrecí para el trabajo.
+A05.0006 [Fuyuka] | Me gustaría encargarme de estas invitaciones de ahora en adelante.
+A05.0007 [Fuyuka] | Pensé que... si ni siquiera puedo hablar de cosas así con usted, Maestro...
+A05.0008 [Fuyuka] | Será aún más difícil con cualquier otra persona.
+A05.0009 [Tú] | Entonces me honra ser con quien practicas.
+
+## Conversación A06
+A06.0001 [Fuyuka] | ¡Maestro! ¡Es una situación urgente!!!
+A06.0002 [Opción] | ¿Qué pasa?
+A06.0003 [Opción] | ¿Se comió el perro tu tarea?
+A06.0004 [Fuyuka] | Tengo algo importante que quisiera hablar con usted.
+A06.0005 [Fuyuka] | ¡¿Eh?! ¿Qué perro? ¿Qué tarea?
+A06.0006 [Fuyuka] | ¿A qué se refiere, Maestro?
+A06.0007 [Tú] | Ejem. Nada, solo mi pobre intento de humor.
+A06.0008 [Tú] | Solo dime.
+A06.0009 [Fuyuka] | C-claro. Resulta que pronto habrá una operación conjunta—
+A06.0010 [Fuyuka] | Nos asociaremos con otro gremio.
+A06.0011 [Fuyuka] | Y... no sé cómo comportarme frente a ellos.
+A06.0012 [Tú] | No te preocupes. He estado observando de cerca tus batallas.
+A06.0013 [Tú] | Haz lo que siempre haces.
+A06.0014 [Fuyuka] | ¿Eso es todo...?
+A06.0015 [Tú] | Sí. Eso es todo.
+A06.0016 [Fuyuka] | P-pero a diferencia de los demás líderes...
+A06.0017 [Fuyuka] | No sé dar discursos ni arengas...
+A06.0018 [Tú] | Cada líder tiene sus propias fortalezas.
+A06.0019 [Tú] | La tuya es liderar desde el frente.
+A06.0020 [Tú] | Cuando la gente te ve avanzar
+A06.0021 [Tú] | ellos también encontrarán su valor.
+A06.0022 [Fuyuka] | ¿De... de verdad lo cree?
+A06.0023 [Fuyuka] | Creo que empiezo a entender...
+
+## Conversación A07
+A07.0001 [Fuyuka] | ¿Tiene un poco de tiempo libre hoy, Maestro?
+A07.0002 [Fuyuka] | H-hay un lugar al que me gustaría ir.
+A07.0003 [Fuyuka] | ¿Vendría conmigo?
+A07.0004 [Tú] | ¿Sería una cita?
+A07.0005 [Fuyuka] | ¡...!
+A07.0006 [Tú] | Es broma.
+A07.0007 [Fuyuka] | ¡C-cita...!
+A07.0008 [Fuyuka] | ¡Salir en una cita con alguien como yo sería una total pérdida de tiempo!
+A07.0009 [Fuyuka] | Es solo que... siento que he crecido un poco
+A07.0010 [Fuyuka] | y últimamente veo las cosas de otra manera.
+A07.0011 [Fuyuka] | Y me gustaría compartir algunas reflexiones con usted.
+A07.0012 [Tú] | Lo espero con ganas.
+A07.0013 [Tú] | Además, estar contigo nunca es una pérdida de tiempo.
+A07.0014 [Tú] | Solo quiero que quede constancia de eso.
+A07.0015 [Fuyuka] | Eh... Sí. Entiendo.
+
+## Conversación A08
+A08.0001 [Tú] | ¡Feliz cumpleaños!
+A08.0002 [Fuyuka] | ¿Eh? ¿Cumpleaños?
+A08.0003 [Fuyuka] | Oh... ¿hoy es su cumpleaños, Maestro?
+A08.0004 [Fuyuka] | ¡Feliz cumpleaños!
+A08.0005 [Fuyuka] | Gracias por todo lo que ha hecho por mí.
+A08.0006 [Tú] | ...
+A08.0007 [Tú] | Quise decir ... que hoy es tu cumpleaños.
+A08.0008 [Tú] | Vengo a celebrarte.
+A08.0009 [Fuyuka] | ¡¿Quéééé?!
+A08.0010 [Fuyuka] | ¡P-perdón, me confundí!
+A08.0011 [Fuyuka] | Entonces, Maestro, ¿vendrá a mi fiesta de cumpleaños?
+A08.0012 [Tú] | ¡Voy para allá ahora mismo!
+A08.0013 [Fuyuka] | ¡Q-qué bien! ¡Empezaré a prepararme!
+
+## Conversación A09
+A09.0001 [Tú] | He estado viéndote pelear últimamente.
+A09.0002 [Tú] | Pareces mucho más cómoda allá afuera.
+A09.0003 [Fuyuka] | ¡S-sí! Todo es gracias a su entrenamiento, Maestro.
+A09.0004 [Fuyuka] | Por fin entiendo lo que realmente significa la fuerza.
+A09.0005 [Fuyuka] | Cuando pienso solo en proteger a mis amigos
+A09.0006 [Fuyuka] | puedo pelear con todo mi poder.
+A09.0007 [Tú] | Sigue así.
+A09.0008 [Fuyuka] | ¡Sí, lo haré!
+
+## Conversación A10
+A10.0001 [Fuyuka] | Escuché el Disco Rúnico que me envió la última vez, Maestro.
+A10.0002 [Tú] | ¿Sí?
+A10.0003 [Fuyuka] | Se siente ... nostálgico, de algún modo.
+A10.0004 [Tú] | Todos dicen eso.
+A10.0005 [Tú] | ¿Pensaste en cosas del pasado?
+A10.0006 [Fuyuka] | S-sí...
+A10.0007 [Fuyuka] | A diferencia de esos Trekkers increíbles
+A10.0008 [Fuyuka] | yo he tenido un pasado perfectamente ordinario.
+A10.0009 [Fuyuka] | Crecí en un pueblo pequeño, rodeada de gente ordinaria.
+A10.0010 [Fuyuka] | Pero... no sé cómo explicarlo...
+A10.0011 [Tú] | Esa clase de vida ordinaria es precisamente lo que vale la pena proteger.
+A10.0012 [Fuyuka] | ¡S-sí! ¡Exacto!
+A10.0013 [Fuyuka] | Me lee como un libro abierto...
+A10.0014 [Fuyuka] | Je, después de escuchar esa pista me siento llena de energía.
+A10.0015 [Fuyuka] | ¡Gracias, Maestro!
+
+## Conversación B01
+B01.0001 [Fuyuka] | ¡Maestro!
+B01.0002 [Tú] | ¿Qué pasa? Suenas inusualmente feliz
+B01.0003 [Fuyuka] | Jeje, los senpais han estado diciendo que he mejorado mucho últimamente
+B01.0004 [Fuyuka] | Dicen que ya empiezo a parecer una líder de gremio como se debe
+B01.0005 [Tú] | ¡Felicidades! ¡Qué bien por ti!
+B01.0006 [Tú] | ¡Seguro cada vez más gente reconocerá tu capacidad de liderazgo!
+B01.0007 [Fuyuka] | ¡Sí!
+B01.0008 [Fuyuka] | Estoy muy agradecida de tenerle como Maestro
+B01.0009 [Tú] | No es solo por mí
+B01.0010 [Tú] | Todo esto viene de tu disposición para esforzarte y cambiar
+B01.0011 [Tú] | Sigue así
+
+## Conversación B02
+B02.0001 [Fuyuka] | Maestro...
+B02.0002 [Fuyuka] | Siento que trabajar para una empresa
+B02.0003 [Fuyuka] | es completamente distinto a ser Trekker
+B02.0004 [Tú] | Una valora las reglas, la estructura y la estabilidad
+B02.0005 [Tú] | La otra representa libertad y aventura
+B02.0006 [Tú] | Es natural sentirse fuera de lugar
+B02.0007 [Fuyuka] | Pero cada vez que pienso que usted me ayudará
+B02.0008 [Fuyuka] | siento que puedo afrontar cualquiera de las dos vidas
+B02.0009 [Fuyuka] | Ah... ¿Le molesta eso?
+B02.0010 [Tú] | Claro que no
+B02.0011 [Tú] | Cuando quieras, puedes venir a mí por ayuda
+B02.0012 [Fuyuka] | ¡Yupi!
+B02.0013 [Fuyuka] | Jeje, me siento aliviada otra vez...
+
+## Conversación B03
+B03.0001 [Fuyuka] | ¡Maestro!
+B03.0002 [Fuyuka] | Hay algo que todavía no entiendo del todo
+B03.0003 [Tú] | ¿Qué es?
+B03.0004 [Fuyuka] | Cada vez que voy a aceptar encargos con los senpais
+B03.0005 [Fuyuka] | me pongo tan nerviosa que no puedo decir ni una palabra
+B03.0006 [Fuyuka] | Pero siempre me dicen que está bien, que solo siga con esa cara
+B03.0007 [Fuyuka] | Y a los clientes tampoco parece importarles
+B03.0008 [Fuyuka] | Aun así, temo estar siendo descortés...
+B03.0009 [Tú] | Fuyuka, es porque los demás te ven así
+B03.0010 [Tú] | Desde el principio te vieron como del tipo severo y sin sonrisas
+B03.0011 [Tú] | Aunque eso está muy lejos de la verdad
+B03.0012 [Tú] | Hace que la gente con malas intenciones lo piense dos veces antes de intentar engañarte
+B03.0013 [Fuyuka] | Ya veo
+B03.0014 [Fuyuka] | Aun así... ¿De verdad puedo mantener esto para siempre?
+B03.0015 [Tú] | Si quieres mostrar tu verdadero yo a los demás
+B03.0016 [Tú] | tendrás que esforzarte más de lo que lo haces ahora
+B03.0017 [Tú] | Pero estoy contigo, Fuyuka
+B03.0018 [Fuyuka] | Vale. ¡Gracias, Maestro!
+
+## Conversación B04
+B04.0001 [Fuyuka] | ¡Maestro! ¡Maestro!
+B04.0002 [Fuyuka] | ¡Elógieme, por favor!
+B04.0003 [Tú] | Es raro verte tan entusiasmada
+B04.0004 [Tú] | ¿Pasó algo?
+B04.0005 [Fuyuka] | Ya llegué al punto de poder pedir encargos fuera de la ciudad por mi cuenta
+B04.0006 [Fuyuka] | ¡y comunicarme directamente con los clientes!
+B04.0007 [Tú] | Guau, eso es importante
+B04.0008 [Tú] | ¿Cómo lo lograste?
+B04.0009 [Fuyuka] | Fue como usted me enseñó la última vez
+B04.0010 [Fuyuka] | Explicar la situación con la mayor claridad posible durante la fase de contacto inicial
+B04.0011 [Fuyuka] | Luego planear contingencias y pensar qué decir en caso de que ocurrieran
+B04.0012 [Tú] | Eso también ayuda a completar el encargo en sí
+B04.0013 [Fuyuka] | ¡Sí!
+B04.0014 [Tú] | Solo recuerda tener cuidado con los riesgos imposibles de planear
+B04.0015 [Fuyuka] | Jeje, por eso antes de cada viaje
+B04.0016 [Fuyuka] | siempre acuerdo una hora con los demás
+B04.0017 [Fuyuka] | Si algo saliera mal, vendrían a respaldarme
+B04.0018 [Tú] | Es asombroso. Lo pensaste muy bien
+B04.0019 [Tú] | De verdad has crecido
+
+## Conversación B05
+B05.0001 [Fuyuka] | Maestro, ¿vendría conmigo al bosque?
+B05.0002 [Tú] | Es raro que me invites así
+B05.0003 [Fuyuka] | Normalmente me preocupa molestarle demasiado
+B05.0004 [Fuyuka] | Pero esta vez no es solo por mí
+B05.0005 [Fuyuka] | Quiero visitar a unos viejos amigos con usted
+B05.0006 [Tú] | ¿Amigos que viven en el bosque?
+B05.0007 [Tú] | Ah, ¿te refieres a esa bandada de aves?
+B05.0008 [Tú] | Puede que ya se hayan ido volando
+B05.0009 [Tú] | El invierno ha llegado a su fin
+B05.0010 [Tú] | Deberían estar rumbo a su siguiente destino
+B05.0011 [Fuyuka] | Sí, solo quiero asegurarme
+B05.0012 [Tú] | Claro, voy contigo
+B05.0013 [Fuyuka] | ¡Gracias, Maestro!
+
+## Conversación B06
+B06.0001 [Fuyuka] | Ahora que lo pienso, siempre me anima y me elogia
+B06.0002 [Tú] | ¿?
+B06.0003 [Tú] | Porque siempre te esfuerzas
+B06.0004 [Tú] | ¿O es que en realidad quieres críticas?
+B06.0005 [Fuyuka] | ¡N-ni hablar!
+B06.0006 [Fuyuka] | ¡Con solo imaginar que me regaña me dan ganas de llorar!
+B06.0007 [Fuyuka] | Ya se me están saltando las lágrimas...
+B06.0008 [Tú] | ¡No! ¡Era broma!
+B06.0009 [Fuyuka] | Yo... solo me preocupaba que quizá sea usted demasiado amable...
+B06.0010 [Fuyuka] | Y que no siempre me diga la verdad
+B06.0011 [Fuyuka] | Quizá no sea tan buena...
+B06.0012 [Tú] | Fuyuka, siempre has sido buena en muchas cosas
+B06.0013 [Fuyuka] | ¿Como cuáles...?
+B06.0014 [Opción] | Eres fuertísima
+B06.0015 [Opción] | Eres excelente en sigilo
+B06.0016 [Fuyuka] | Eso sí es de verdad mi único punto fuerte
+B06.0017 [Tú] | Incluso totalmente equipada, puedes moverte sin hacer ruido
+B06.0018 [Fuyuka] | ... Eh, eso es porque... siempre me daba miedo toparme con gente...
+B06.0019 [Fuyuka] | Así fue como desarrollé mis habilidades de sigilo
+B06.0020 [Tú] | La cuestión es que
+B06.0021 [Tú] | aunque nunca hubieras cambiado, nadie puede menospreciarte
+B06.0022 [Tú] | Y ahora eres aún más increíble
+B06.0023 [Fuyuka] | Maestro...
+B06.0024 [Fuyuka] | Sus palabras siempre me calientan el corazón

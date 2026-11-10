@@ -1,0 +1,121 @@
+# Recuerdo de disco · Snowy Night Surprise · 1 · Snowy Night Surprise
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curly-Haired General | General de pelo rizado
+N:Energetic Laru | Laru enérgica
+N:Larus | Larus
+N:Newcomer Laru | Laru novata
+N:Snowish Shrubshrew | Shrubshrew Nevado
+N:Team Savory Laru | Laru del equipo Salado
+N:Team Sweet Laru | Laru del equipo Dulce
+N:avg1_150 | Laru
+N:avg1_158 | Laru
+N:avg2_001 | Matón Shrubshrew
+N:avg3_100 | Sylar
+N:avg3_1256 | Laru
+N:avg3_1257 | Laru
+N:avg3_150 | Albedo
+N:avg3_154 | Laru
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Sorpresa en la noche nevada
+0003 [Intro] | Cuando suenan las campanas de medianoche y las celebraciones se aquietan, ella también merece un regalo propio después de un largo día.
+0004 [Laru] | ¡Tirano! Apuesto a que tus papas favoritas son las sabor Pollo Frito, ¿verdad?
+0005 [Laru] | ¡Ni hablar! ¡El Tirano es definitivamente del equipo Pan de Jengibre!
+0006 [Laru] | A menos que ... lo que el Tirano de verdad anhela no sea una botana, sino ... ¿a mí? ¡Ay, tú! Pero supongo que está bien...==W== Hasta tengo papas sabor Laru, ¿sabes?
+0007 [Larus] | ¡Vamos, Tirano! ¿¡Cuáles son tus favoritas!?
+0008 [Tú] | Eh...==W== Pues...
+0009 [Tú] | ¡Esto tiene que ser un sueño! ¡Tiene que serlo!
+0010 [Narración] | Unas horas antes, la noche del Festival Nevado—
+0011 [Tú] | Uf, no puedo más. ¿Quién diría que repartir regalos sería tan agotador?
+0012 [Tú] | Bostezo...==W== Qué sueño. Me ocuparé del resto ...==W== mañana...
+0013 [Tú] | ¿Qué es ese ruido?
+0014 [Tú] | ¿Dónde estoy...? ¿¡No debería estar durmiendo en el Lucky Oasis!?
+0015 [Tú] | Este lugar...==W== Parece el interior de un Monolito.
+0016 [Snowish Shrubshrew] | ¡Chillido!
+0017 [Curly-Haired General] | ¡No teman, tropas! ¡Carguen!
+0018 [Tú] | ¿Laru y los Shrubshrews están ... peleando?
+0019 [Snowish Shrubshrew] | ¡Chillido!
+0020 [Narración] | ¡El Shrubshrew usó Placaje!
+0021 [Laru] | Auuu...==W== ¡Eso duele!
+0022 [Tú] | Oye...==W== ¿Estás bien?
+0023 [Laru] | ¡Oh, Tirano! Por favor, te lo ruego, ¡ayúdame!
+0024 [Laru] | Si esas cosas nos atrapan...==W== ¡nos convertirán en juguetes para morder!
+0025 [Laru] | ¡Estoy indefensa! ¿No te quedarás ahí mirando, verdad?
+0026 [Tú] | Está bien, te ayudaré.
+0027 [Tú] | Es verdad, pero sin arma...==W== Espera. ¡Puedo usar mi zapato!
+0028 [Narración] | Se usaron las Pantuflas de Objetos Clave.
+0029 [Tú] | ¡Toma esto!
+0030 [Snowish Shrubshrew] | ¡Chillido, chillido, chillido!
+0031 [Narración] | ¡Es supereficaz!
+0032 [Tú] | ¿Funcionó?
+0033 [Tú] | Bien...==W== Los espantó.
+0034 [Curly-Haired General] | ¡La victoria es nuestra!
+0035 [Laru] | ¡Oh, Tirano! ¡Gracias a ti nos libramos de ser botana de Shrubshrew!
+0036 [Tú] | Esa mordida en su espalda...==W== Bueno, mejor me callo.
+0037 [Tú] | Laru, me alegra que no estés herida.
+0038 [Tú] | ¿¡Laru!? Oye, oye, ¡espacio personal!
+0039 [Laru] | Ya no soy la Laru de siempre...
+0040 [Tú] | ¿Qué tramas ahora...?
+0041 [Laru] | ¡Eso no importa! ¡Déjame presentarme como es debido!
+0042 [Laru] | ¡Contemplen! ¡Ha llegado Laru, la princesa==W== del Reino de las Papas Fritas! ¡Y vengo en persona a desafiar a los shrubshrews!
+0043 [Laru] | ¡Esos bribones iban por nuestros campos de papas! Nos tendieron una emboscada y—ups—quedé rodeada.
+0044 [Tú] | ...¿De dónde sacas todas estas tonterías...?
+0045 [Laru] | Hemos ahuyentado a todos los shrubshrews, así que ahora te llevo de vuelta al Reino de las Papas Fritas~
+0046 [Laru] | ¡Al trineo, rápido!
+0047 [Tú] | ...¿Piensas lanzarme hasta allá?
+0048 [Laru] | ¡Vámonos! ¡Destino: Reino de las Papas Fritas!
+0049 [Narración] | Cada mesa de la sala está repleta de papas fritas ... y una Laru se encuentra frente a cada una.
+0050 [Larus] | ¡Vamos, Tirano! ¿¡Cuáles son tus favoritas!?
+0051 [Tú] | ¿¡Por qué hay tantas de ella!?
+0052 [Energetic Laru] | ¡Como no nos ponemos de acuerdo, resolvámoslo con papas!
+0053 [Energetic Laru] | ¡Daremos al Tirano nuestras mejores opciones, y que ==SEX4== sea quien juzgue!
+0054 [Larus] | ¡De acuerdo!
+0055 [Tú] | Eh, no gracias. Puedo comer por mi cuenta...
+0056 [Team Sweet Laru] | Jejeje...==W== ¡No hay escapatoria! ¡Atrapen al Tirano, chicas! ¡Rodeen a ==SEX4==!
+0057 [Team Savory Laru] | ¡Entendido! Todas tendrán su turno, ¡así que hagan fila!
+0058 [Team Sweet Laru] | Yo tomo el frente...
+0059 [Newcomer Laru] | Yo me quedo con la retaguardia...
+0060 [Team Savory Laru] | Papas por todos lados... Qué suerte, Tirano. ¿Con qué sabor vas a empezar?
+0061 [Team Sweet Laru] | ¡Prueba las mías! Son dulces y sabrosas...==W== ¡Un bocado y no podrás parar!
+0062 [Energetic Laru] | ¡Mis papas son buenas para la salud! ¡Vamos, come, come!
+0063 [Tú] | ¡No hay escapatoria! ¿Qué hago...?
+0064 [Larus] | ¡Por favor, acepta nuestra hospitalidad!
+0065 [Tú] | Ya... ya no me cabe nada más...
+0066 [Laru] | ¿Cómo te quedaste dormido? ¿Fue ... un coma por comida?
+0067 [Tú] | ...
+0068 [Laru] | Ugh, ¿ya se acabó el tiempo? ¡La diversión vuela, pero el trabajo se arrastra eternamente!
+0069 [Laru] | Me divertí a lo grande en el Festival Nevado de este año. Toma, ¡esto es para ti!
+0070 [Laru] | ¡Tachán!==W== ¡Un recuerdo del Reino de las Papas Fritas! ¿A que es lindo?
+0071 [Opción] | ¡Qué lindo!
+0072 [Laru] | Lo tallé recién hecho. ¿Y bien? Soy yo escupida, ¿verdad?
+0073 [Laru] | ¡Guárdalo cerca! Así, cada vez que lo mires, recordarás nuestra gran aventura de esta noche.
+0074 [Opción] | Gracias. Lo cuidaré bien.
+0075 [Laru] | Jejeje...==W== Si lo pierdes, haré que te arrepientas.
+0076 [Laru] | ¡Oh! Y si alguna vez tienes demasiado trabajo, solo pídele ayuda al muñeco. ¡Saldré de golpe para ayudarte con la Gran Estrategia Holgazana!
+0077 [Opción] | ¿Qué es la Gran Estrategia Holgazana?
+0078 [Laru] | ¡Holgazanear, por supuesto! Te llevaré a los campos de papas. Tomaremos el sol, olerás las papas y tendremos la mejor siesta de la historia.
+0079 [Opción] | ¡Si tengo tanto trabajo, cómo se supone que voy a dormir!
+0080 [Laru] | ¡Déjate llevar! ¿Quién sabe? Quizá unos elfos mágicos se cuelen y terminen tu trabajo.
+0081 [Opción] | Espera... no te emboscaron los Shrubshrews
+0082 [Opción] | porque estabas durmiendo en los campos de papas, ¿o sí?
+0083 [Laru] | ¡Ni hablar! ¡Ni en sueños! ¡Una genial estratega como yo jamás cometería un error de novata!
+0084 [Opción] | Perdón... No puedo mantener los ojos abiertos... Buenas noches, Laru.
+0085 [Laru] | Dulces sueños, Tirano.
+0086 [Tú] | Qué sueño tan raro...==W== Debo de estar sin energías.
+0087 [Laru] | Zzz...==W== Tirano...
+0088 [Tú] | ¿¡Eh!? ¿¡Por qué estoy aquí!? Este es el cuarto de Laru... Juraría que me dormí en el Lucky Oasis.
+0089 [Laru] | Buenos días, Tirano. ¿No recuerdas? Anoche estabas completamente fuera de combate, así que tuve que traerte a mi casa.
+0090 [Laru] | Luego a mí también me dio sueño, así que me desplomé justo a tu lado.
+0091 [Tú] | ¿A-así pasó? Perdón por las molestias.
+0092 [Laru] | ¡Quédate a desayunar! Tengo papas de distintos sabores. ¡Están deliciosas!
+0093 [Tú] | ¿¡P-papas!?
+0094 [Tú] | Eh, en realidad acabo de acordarme de que tengo algo urgente. ¡Tengo que irme, adiós!
+0095 [Laru] | Aww...==W== Tirano... Pero anoche te encantaron las papas...
+0096 [Tú] | Uf, logré salir. Dormir en casa de Laru y tener ese sueño raro... Qué incómodo.
+0097 [Tú] | ¿Eh? ¿Qué hay en mi bolsillo...?
+0098 [Tú] | Espera, ¿esto es...?
+0099 [Tú] | Todo lo de anoche...==W== Fue un sueño, ¿verdad? ¡Tenía que serlo!

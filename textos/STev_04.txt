@@ -1,0 +1,15 @@
+# Evento · Réquiem invernal y el gatillo del alba — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_04_01 | Rumbo a la ciudad del norte
+STev_04_02 | Las ruinas heladas
+STev_04_03 | Recuerdos del hogar
+STev_04_04 | Secretos ancestrales
+STev_04_05 | La noche antes del alba
+STev_04_06 | Mala intención
+STev_04_07 | Los Arcontes
+STev_04_08 | El gatillo del alba
+STev_04_09 | La carga del poder
+STev_04_10 | Más allá de la tormenta
+@BT01 | En la oscuridad helada
+@BT02 | Última resistencia

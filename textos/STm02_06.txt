@@ -1,0 +1,146 @@
+# Capítulo 2 · 6 · Privilegio de la empresa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Brawny Knight | Caballero corpulento
+N:Knight Leader | Líder de los caballeros
+N:Vigilant Knight | Caballero vigilante
+N:White-Haired Girl | Chica de pelo blanco
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_118 | Coronis
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_157 | Guardia Imperial
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Privilegio de compañía
+0003 [Intro] | La maga y un escuadrón de caballeros te rastrean hasta la clínica. Tus compañeras te ayudan a escapar, pero los inmensos recursos de Creta Trading aún las hacen parecer invencibles.
+0004 [Lugar y hora] | 10:10, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Clínica clandestina
+0005 [Chica de pelo blanco] | No se pongan tan hostiles. No pretendo hacerles daño.
+0006 [Tú] | ¿Destrozaste nuestra puerta y dices que no pretendes hacernos daño?
+0007 [Chica de pelo blanco] | Disculpas. La curiosidad pudo conmigo.
+0008 [Chica de pelo blanco] | No mucha gente puede recibir un golpe de mi magia y seguir en pie.
+0009 [Chica de pelo blanco] | Lástima que no tendremos oportunidad de conocernos mejor.
+0010 [Feagin] | ¡Excelente trabajo, Maestra! Atrapó a estas callejeras en un instante. Valió cada centavo.
+0011 [Chica de pelo blanco] | El trabajo está hecho.==W== Ahora, ¿qué hay de los artículos que prometiste y mi pase para el Monolito?
+0012 [Feagin] | Tan impaciente... ==W==Aquí tienes. Tu pase para el Monolito n.º 7.
+0013 [Chica de pelo blanco] | Pago recibido. Adiós, jóvenes Trekkers novatas. Quizá nos veamos otra vez.
+0014 [Chitose] | Mi ==SEX11==, nos superan en número. Por favor, dime hacia dónde dirigir mi espada.
+0015 [Tú] | Nos tienen completamente rodeados.
+0016 [Tú] | Intentar escapar... o que Chitose atrape a Feagin... Ninguna de las dos parece posible ahora mismo.
+0017 [Tú] | Espero que las demás estén bien...
+0018 [Feagin] | Hay que reconocerlo, corren rápido. Estoy impresionada.
+0019 [Feagin] | Si no hubiera sabido que no abandonarían así como así a esos niños del Clan Viento de Ceniza, quizá de verdad se hubieran escapado.
+0020 [Tú] | ¡¿Qué les hiciste a los niños?!
+0021 [Feagin] | Dile a esa... guardaespaldas tuya... que suelte las armas. Luego únete a Creta Trading y quizá te lo diga.
+0022 [Tú] | ¿Todavía intentas venderme esas tonterías?
+0023 [Feagin] | Tendrás que confiar en mí. Está bien, admito que el sueldo que ofrecí antes era un poco bajo. Mi error, fui descuidada con las cifras.
+0024 [Feagin] | Digamos que no aprecié tu verdadero valor. Piénsalo: si duplicara tu salario, unas cuantas multas por aquí y por allá ni importarían, ¿verdad?
+0025 [Tú] | Cierto. Y tú simplemente subirías las multas para compensar.
+0026 [Feagin] | Pero aún podemos trabajar juntos, ¿sabes?
+0027 [Feagin] | Convence a esas chicas de firmar su vehículo como propiedad de la compañía y hasta puedo conseguirte un escaño en el Senado.
+0028 [Feagin] | Incluso podemos renegociar tu contrato. Te pondré en la misma escala salarial que esa maestra de hace rato. ¿Qué dices? Es la mejor oferta que vas a recibir.
+0029 [Opción] | ¿De verdad esperas que me lo crea?
+0030 [Tú] | En cuanto las cosas no salgan como quieres, inventarás reglas nuevas, como siempre haces.
+0031 [Tú] | Toda esta oferta suena a otra estafa para quedarte con nuestro vehículo.
+0032 [1] | Esa es la voz de Amber.
+0033 [Feagin] | ¿De qué hablas? Has visto la tecnología que tiene Creta Trading.
+0034 [Feagin] | No necesitamos tu vehículito.
+0035 [Feagin] | ¡En serio, te estoy haciendo un favor!
+0036 [Amber] | 
+0037 [Amber] | ¡Aguanta! ¡La ayuda ya casi llega!
+0038 [Amber] | Lo mejor que puedes hacer es hacerla enojar.
+0039 [Tú] | ¿Hacerla enojar, eh?==W== Creo que sé cómo.
+0040 [Tú] | Déjame adivinar... el negocio en Creta Trading no está precisamente en auge, ¿verdad?
+0041 [Feagin] | ¡Dices tonterías!
+0042 [Tú] | ¿Ah, sí? Si el negocio fuera tan bueno, ¿cómo es que no vi a un solo empleado fijo cuando estuve en tu sede?
+0043 [Tú] | Todos con los que nos hemos topado estos días eran temporales o algún matón contratado.
+0044 [Feagin] | ¡E-eso es optimización! ¡¿Qué sabes tú de eficiencia?!
+0045 [Tú] | ¿Optimización? Entonces, ¿por qué dejas entrar al Monolito solo a un puñado de nosotros para pedir deseos?
+0046 [Tú] | ¿No sería más eficiente contratar a más Trekkers para desear más Artefactos?
+0047 [Feagin] | Hmph... Los aficionados deberían mantenerse al margen. ¡Tengo mis propias estrategias de negocio!
+0048 [Tú] | Mi suposición: es porque hay un límite de personas que puedes llevar al Monolito cada día.
+0049 [Tú] | O quizá... solo puedes fabricar cierta cantidad de esas tarjetas de deseo al día.
+0050 [Tú] | Podría ser ambas cosas. Lo que significa que tu única oportunidad real de ganar dinero es duplicar Artefactos raros como el Lucky Oasis.
+0051 [Chitose] | Mi ==SEX11==, tus deducciones son notablemente acertadas. Creo que has captado la verdad.
+0052 [Feagin] | Tú... ¡¿cómo descubriste los secretos comerciales de Creta Trading?!
+0053 [Tú] | Solo intentaba sacarla de quicio. No pensé que de verdad soltaría la sopa.
+0054 [Feagin] | ¡Basta, se acabó la amabilidad! ¡T-traigan a las prisioneras!
+0055 [Tú] | ¡¿Iris?!
+0056 [Feagin] | Tienes cinco segundos. Dime dónde está ese vehículo o nunca volverás a ver a tu amiga.
+0057 [Feagin] | Cinco.
+0058 [Iris] | ==PLAYER_NAME==, ¡no la escuches! ¡No atraparon a los niños, solo a mí!
+0059 [Feagin] | ¡Cállate! Cuatro.
+0060 [Iris] | ¡Olvídate de mí! ¡El Lucky Oasis vale mucho más... ugh!
+0061 [Feagin] | Tres.
+0062 [Tú] | ¿Es eso... el brillo de un bate de metal?
+0063 [Feagin] | Dos.
+0064 [Chitose] | Mi ==SEX11==, por favor ponte detrás de mí.
+0065 [Feagin] | ¡Uno!
+0066 [Tú] | ¿Eso fue una bolsa de harina cayendo?
+0067 [Tú] | Cof, cof... No, espera... esto es polen.
+0068 [Caballero corpulento] | Ah... ==W==¡Ah-CHÍS!
+0069 [Líder de los caballeros] | ¡Mi nariz!
+0070 [Caballero vigilante] | ¡Argh, no puedo rascarme con el casco puesto!
+0071 [Minova] | ¡Muévanse! ¡Fuera de mi camino!
+0072 [Tú] | ¡Minova, estás aquí!
+0073 [Minova] | ¡Oye! ¿Creías que abandonaría a quienes me salvaron el pellejo?
+0074 [Minova] | Iris, ven conmigo, ya.
+0075 [Minova] | ==PLAYER_NAME==, tú...
+0076 [Coronis] | Pasadizo secreto, por aquí. Ponte esto.
+0077 [Tú] | ¡Entendido, gracias!
+0078 [Lugar y hora] | 11:00, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Canal
+0079 [Iris] | Fuimos al Clan Viento de Ceniza por los niños... ==W==¡Achú!
+0080 [Amber] | Cuando llegamos, el lugar ya estaba derribado.
+0081 [Minova] | Gracias a las estrellas, los niños están a salvo.
+0082 [Vollara] | Estábamos revisando los escombros en busca de algo útil...
+0083 [Neuvira] | ...¡Cuando pum! Nos rodearon la Guardia Imperial, pandilleros y mercenarios.
+0084 [Noya] | Minova desvió agua del puente hasta aquí abajo y Iris congeló una gran extensión de hielo. Eso nos dio la oportunidad de escapar con los niños... ==W==¡Achú!
+0085 [Iris] | Y luego... luego me atraparon. ==W==¡Achú!
+0086 [Iris] | Esa chica de pelo blanco me registró y encontró el mapa... así encontró la clínica.==W== Lo s-siento muchísimo... ==W==¡Achú!
+0087 [Minova] | Oye, no hace falta que te disculpes, Iris. ¡Lo hiciste genial!==W== ¿Quedarte atrás para cubrirnos a las demás? Eso es de verdadera heroína.
+0088 [Minova] | Es culpa del Viento de Ceniza que destrozaran la clínica. Doctora, ya veré cómo compensárselo.
+0089 [Coronis] | No pasa nada. Mi amiga muda la clínica cada tres meses de todos modos.
+0090 [Coronis] | Ese pasadizo oculto se construyó para escapes rápidos. Solo ayudaste a acelerar la mudanza.
+0091 [Minova] | Se lo agradezco, doctora, pero...==W== este es nuestro lío. Le construiremos a su amiga una clínica nueva.
+0092 [Noya] | Ah... ¡Achú! Minova, ¿cómo es que tú estás bien?
+0093 [Minova] | Yo... contuve la respiración cuando me lancé.
+0094 [Iris] | Pero hablabas cuando me rescataste.
+0095 [Minova] | Eh... bueno... en realidad... ==W==¡ACHÚ!==W== ¡ACHÚ!==W== ¡ACHÚ!==W== ¡ACHÚ!
+0096 [Tú] | De verdad lo aguantaste un buen rato.
+0097 [Minova] | Hay que... mantener la imagen del Viento de Ceniza... ==W==¡Achú!
+0098 [Iris] | ==PLAYER_NAME==, ¿qué hacemos ahora?
+0099 [Minova] | Por ahora movimos a los niños al Canal, pero no pueden quedarse allí mucho tiempo.
+0100 [Tú] | ¿Cómo se ve la situación abajo?
+0101 [Amber] | Igual que siempre. Pandillas, caballeros, mercenarios... Está plagado.
+0102 [Coronis] | No es asunto mío, pero... llévense a los niños y huyan. Salgan de Emor.
+0103 [Noya] | Suena bien... ==W==pero ¿por qué huir?
+0104 [Coronis] | He oído cosas de Creta Trading. Una compañía horrible. Su negocio lleva años reduciéndose. Solo les queda influencia aquí en Emor.
+0105 [Tú] | O sea que si salimos de la ciudad, ya no pueden molestarnos... ¿es eso?
+0106 [Coronis] | Exacto. Son Trekkers, ¿no? No debería ser muy difícil para ustedes.
+0107 [Coronis] | Aquí en Emor, por muy mala que sea Creta Trading, aún conserva un Sello de la Gracia.
+0108 [Coronis] | Y como compañía, puede seguir pidiendo prestados Dorra, contratando músculo, incluso lanzándoles a la Guardia Imperial.
+0109 [Coronis] | Precisamente por eso mi amiga tiene que mover la clínica tan seguido.
+0110 [Coronis] | Tómenlo como consejo de una doctora errante. Decidan rápido.
+0111 [Iris] | No... Huir no servirá.
+0112 [Iris] | Todos, miren esto. Es un documento de Creta Trading que fotografió Amber.
+0113 [Noya] | Esto es...
+0114 [Minova] | Plan de proyecto: Eliminación del Orfanato de las Cenizas
+0115 [Iris] | Según esto, el sello de pieza de ajedrez que tiene Feagin pertenece a la directora del Orfanato de las Cenizas. Se lo dejó a Creta Trading en custodia hace mucho tiempo.
+0116 [Iris] | Según el contrato de entonces, como niñas de ese orfanato, tenemos derecho a recuperar ese sello. Y este contrato parece prevalecer sobre cualquier otra regla.
+0117 [Tú] | Eso significa que...
+0118 [Iris] | Para conservar ese Sello, Feagin tiene que silenciarnos. Aunque huyamos...==W== nos perseguirá para siempre.

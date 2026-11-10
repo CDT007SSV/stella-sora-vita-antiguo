@@ -1,0 +1,100 @@
+# Historia de Minova · 1 · A Delinquent's Day (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Ground Viper | Víbora Terrestre
+N:Ground Viper Leader | Líder de las Víboras Terrestres
+N:avg1_132 | Minova
+N:avg2_982 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El día de una delincuente (Parte I)
+0003 [Intro] | ¿Pelear por honor y territorio? Solo otro día en la vida de una chica delincuente.
+0004 [Minova] | ...
+0005 [Ground Viper Leader] | Tú eres la que llaman Minova, ¿no?
+0006 [Ground Viper Leader] | ¿Por qué llegaste sola? Hace parecer que las Víboras Terrestres te tendimos una emboscada.
+0007 [Minova] | Puedo con ustedes yo sola.
+0008 [Ground Viper Leader] | Tsk, te enfrentas a toda la élite de las Víboras.
+0009 [Ground Viper Leader] | Ponerte tan arrogante te va a costar caro.
+0010 [Ground Viper] | Líder, trae un solo ayudante flacucho.
+0011 [Tú] | ...
+0012 [Minova] | Cuida tu boca. Este es el Jefe. ¿Nunca has oído hablar del Boss Accord?
+0013 [Ground Viper] | ¡Iiih!
+0014 [Ground Viper Leader] | ¿Por qué gritas? Ese «Jefe» o lo que sea... ¿qué demonios se supone que es?
+0015 [Ground Viper] | ¡Líder, es quien se paró en el puente del canal y aniquiló a cientos de Stellaroids de un solo golpe!
+0016 [Tú] | Vaya, cómo le encanta exagerar a la gente...
+0017 [Ground Viper Leader] | E-eso es bastante impresionante. Pero y-yo también puedo hacerlo.
+0018 [Ground Viper Leader] | Hay que reconocértelo, Minova. Conseguir a alguien tan impresionante que te respalde... tienes buenas influencias.
+0019 [Ground Viper Leader] | Pero esto es entre el Clan Viento de Ceniza y las Víboras Terrestres: ¿de verdad vas a dejar que un forastero interfiera?
+0020 [Opción] | No soy cualquiera: Minova está conmigo.
+0021 [Ground Viper Leader] | No puedo creer que te vendieras así.
+0022 [Tú] | No hace falta alterarse tanto. No vine a ayudar a Minova.
+0023 [Tú] | Solo vine como testigo. Pelean por los derechos de este tramo del puente del canal y los 30 metros de territorio a cada lado, ¿verdad?
+0024 [Ground Viper Leader] | Sí.
+0025 [Minova] | No me interesa reclamar territorio nuevo, pero tampoco voy a dejar que las Víboras se instalen aquí.
+0026 [Tú] | El derecho sobre este territorio se decidirá en una pelea libre.==W== Sin límite de número.==W== La pelea termina cuando un bando se rinda o no pueda seguir.
+0027 [Ground Viper Leader] | Muy bien, muchachos, a formar.
+0028 [Ground Viper] | Sí.
+0029 [Tú] | La pandilla de las Víboras Terrestres trajo quince luchadores sólidos, suficientes para cubrir todo el ancho del puente del canal y aún tener una retaguardia.
+0030 [Tú] | Supongo que el líder de las Víboras no es solo fuerza bruta, después de todo.
+0031 [Tú] | Pero qué pena...
+0032 [Ground Viper Leader] | ¿Q-qué acaba de pasar?
+0033 [Ground Viper] | ¡Esa mujer destrozó el puente del canal!
+0034 [Ground Viper Leader] | Déjate de tonterías. No es un Stellaroid gigante. Nadie derriba un puente tan rápido.
+0035 [Ground Viper] | Oí que Minova estaba allí cuando cayó el Stellaroid gigante. Le arrancó uno de los brazos de un solo batazo.
+0036 [Minova] | Ups, perdón. Parece que mi golpe se desvió un poco.
+0037 [Minova] | Me aseguraré de apuntar bien la próxima vez.
+0038 [Ground Viper Leader] | ¿P-para qué pelear si el puente está hecho pedazos?
+0039 [Ground Viper Leader] | ¡Esperen y verán! Resolveremos esto otro día.
+0040 [Tú] | Se fueron.
+0041 [Minova] | Sí, eso debería mantenerlos alejados unos meses.
+0042 [Tú] | ¿No habían admitido ya la derrota?
+0043 [Minova] | La verdad no. Una pandilla necesita ajustar cuentas con las bandas rivales de vez en cuando.
+0044 [Minova] | Si no, los miembros jóvenes e inmaduros se inquietan y empiezan a pelearse entre ellos.
+0045 [Tú] | Debe de ser difícil para una pandilla de mentiras como el Clan Viento de Ceniza, entonces.
+0046 [Minova] | Sí. Por suerte se te ocurrió esta salida fácil para mí.
+0047 [Minova] | Usar magia para disfrazar el puente del canal, que ya estaba roto, y hacerlo parecer destrozado de un solo batazo.
+0048 [Tú] | Claro, Boss Accord cuida de sus empleados.
+0049 [Tú] | La verdad, aunque hubiera llegado a una pelea de verdad, creo que igual habrías ganado.
+0050 [Minova] | El Clan Viento de Ceniza tiene muy pocos miembros, así que evitamos hacernos enemigos cuando podemos.
+0051 [Minova] | Podemos hacer como el pez globo: inflarnos y vernos lo bastante rudos para espantar al enemigo.
+0052 [Minova] | Ah, hablando de eso, Jefe. Aprovechemos esto como oportunidad de práctica.
+0053 [Tú] | No creo ser el compañero de entrenamiento adecuado.
+0054 [Minova] | No para pelear. Quiero practicar cómo hablan los pandilleros.
+0055 [Tú] | Yo tampoco sé hacer eso de chasquear la lengua...
+0056 [Minova] | No hace falta ser tan formal. ==W==Lo aprendí de esas películas del Monolito. Eres Trekker, así que seguro también las has visto.
+0057 [Tú] | Sí, vi algunas mientras escalaba el Monolito.
+0058 [Minova] | Entonces habla como los personajes de esas películas.
+0059 [Tú] | Está bien, lo intentaré...==W== Solo tiene que sonar a algo que diría un pandillero, ¿verdad?
+0060 [Minova] | Sí. Empecemos. ¡Primero toca provocar a alguien!
+0061 [Minova] | Pertenecemos a pandillas rivales y nos topamos en la calle.
+0062 [Minova] | Oye, ¿qué demonios miras?
+0063 [Opción] | Miro a un pandillerito.
+0064 [Minova] | ¿A quién le faltas al respeto, pandillerito?
+0065 [Opción] | No es solo a ti. Digo que todos ustedes son basura.
+0066 [Minova] | Guau... ¿Qué está pasando aquí?
+0067 [Minova] | Jefe, ni siquiera sonaste tan agresivo, pero me callaste por completo.
+0068 [Tú] | Solo repetía algunas líneas que recuerdo.
+0069 [Minova] | Probemos otro escenario. Una escena de súplica.
+0070 [Minova] | ==PLAYER_NAME==, te daré lo que quieras, pero por favor ayúdame, te lo ruego.
+0071 [Opción] | Minova, Minova.
+0072 [Tú] | ¿Qué he hecho yo para que me trates con tanta falta de respeto?
+0073 [Tú] | No me ofreces amistad. Simplemente me pides esto, por dinero.
+0074 [Minova] | Yo... solo quiero demostrar que soy sincera.
+0075 [Opción] | Ni se te ocurre llamarme... Jefe.
+0076 [Minova] | Guau... Ni siquiera puedo...
+0077 [Minova] | ¡Y ni siquiera estás en una pandilla! De verdad eres increíble, Jefe.
+0078 [Minova] | Tendré que ver más películas de pandilleros en mis futuras escaladas al Monolito.
+0079 [Tú] | La vida debe ser dura para ti.
+0080 [Minova] | No está tan mal. Las sonrisas de los niños lo son todo para mí.
+0081 [Minova] | Además, la batalla de hoy apenas va por la mitad.
+0082 [Minova] | Tengo que ir al siguiente campo de batalla.
+0083 [Tú] | ¿Otra guerra de territorios?
+0084 [Minova] | No, no. Es más complicado que eso.
+0085 [Minova] | ¿Quieres venir a verlo por ti mismo?

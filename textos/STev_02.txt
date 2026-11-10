@@ -1,0 +1,17 @@
+# Evento · Mensajera radiante, espíritu de la noche santa — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_02_01 | Mensajera del Festival Nevado
+STev_02_02 | Carrera de regalos
+STev_02_03 | Rastro del espíritu
+STev_02_04_a | Rojo de pasión
+STev_02_04_b | Gris de coincidencia
+STev_02_04_c | Azul de nieve
+STev_02_05 | Un destello familiar
+STev_02_06 | Un deseo en soledad
+STev_02_07 | La magia de la amistad
+STev_02_08 | Un mundo más grande
+STev_02_09 | Una entrada espectacular
+STev_02_10 | Un «juego» peligroso
+STev_02_11 | Un regalo para ti
+@BT01 | Resplandor tras el festival

@@ -1,0 +1,1473 @@
+{
+"meta": {
+"fuente": "Stella Sora Team Rankings · ZiLenTz",
+"url": "https://docs.google.com/spreadsheets/d/1eGTh38V1VD-1O-yyMBB5gnlZw_ykt-WfFmE0Lg4XS8w/htmlview",
+"kofi": "https://ko-fi.com/zilentz_penguin",
+"generado": "2026-11-08T20:40:37Z",
+"supuestos": [
+"Discos: C1 para los limitados y del pase de batalla, C6 para los gratuitos (principal y apoyos).",
+"Emblemas: las dos mejores estadísticas (1 rara y 1 genérica), o tres a nivel 70 (2 raras y 1 genérica).",
+"Talentos: T0 para limitados, T3 para estándar y T5 para personajes de 4 estrellas, para comparar de forma justa."
+]
+},
+"equipos": [
+{
+"el": "Aqua",
+"team": "T5 Chitose Mark | Allie's Sig",
+"dmg": 18179468508.0,
+"s": [
+{
+"n": "Chitose",
+"t": "T5",
+"r": "DPS"
+},
+{
+"n": "Tilia",
+"t": "T1+",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/igxGeWp5PsY?si=UpogR2Enw_n8igKN",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=1318543766",
+"code": "AAAAkAAAAGsAAACgkAgjDDDBhgRgAM22AAAG",
+"pct": 1.0
+},
+{
+"el": "Aqua",
+"team": "Allie Mark",
+"dmg": 17323543510.0,
+"s": [
+{
+"n": "Allie",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Teresa",
+"t": "T5",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/laefwrwHgoU?si=z0y79Uck0Z26K5tu",
+"src": "https://docs.google.com/spreadsheets/d/1k_wbHZrPOR9fhxNhLE4k8zvdU9Z1NIUdPV-EoeW_Ec8/edit?gid=1577876630",
+"code": "AAAAiwAAAH8AAACgMAbCYDDMQAANgM2GAAIG",
+"pct": 0.9529
+},
+{
+"el": "Aqua",
+"team": "T5 Chitose Mark",
+"dmg": 17089527294.0,
+"s": [
+{
+"n": "Chitose",
+"t": "T5",
+"r": "DPS"
+},
+{
+"n": "Tilia",
+"t": "T1+",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/igxGeWp5PsY?si=UpogR2Enw_n8igKN",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=1662700348",
+"code": "AAAAkAAAAGsAAACgkAgjDDDBhgRgAM22AAAG",
+"pct": 0.94
+},
+{
+"el": "Terra",
+"team": "Gerie Mark | S.Coronis [Updating]",
+"dmg": 16388102501.0,
+"s": [
+{
+"n": "Nazuna",
+"t": "",
+"r": "Support"
+},
+{
+"n": "Gerie",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Springseek Coronis",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "",
+"code": "AAAAnAAAAJUAAACfwYADbAZgADsMAJGAAGww",
+"pct": 0.9015
+},
+{
+"el": "Aqua",
+"team": "T5 Chitose Skill | Allie's Sig",
+"dmg": 16360876866.0,
+"s": [
+{
+"n": "Chitose",
+"t": "T5",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/-Vkt1cRSjuk?si=YCUkFgtaGk1uJghh",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=2068972113",
+"code": "",
+"pct": 0.9
+},
+{
+"el": "Aqua",
+"team": "Allie Mark | T0 Teresa",
+"dmg": 16078095498.0,
+"s": [
+{
+"n": "Allie",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Teresa",
+"t": "T0",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/laefwrwHgoU?si=z0y79Uck0Z26K5tu",
+"src": "https://docs.google.com/spreadsheets/d/1k_wbHZrPOR9fhxNhLE4k8zvdU9Z1NIUdPV-EoeW_Ec8/edit?gid=1577876630",
+"code": "AAAAiwAAAH8AAACgMAbCYDDMQAANgM2GAAIG",
+"pct": 0.8844
+},
+{
+"el": "Aqua",
+"team": "Allie Mark | Donna",
+"dmg": 15923036840.0,
+"s": [
+{
+"n": "Allie",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/laefwrwHgoU?si=z0y79Uck0Z26K5tu",
+"src": "https://docs.google.com/spreadsheets/d/1k_wbHZrPOR9fhxNhLE4k8zvdU9Z1NIUdPV-EoeW_Ec8/edit?gid=1368668356",
+"code": "AAAAiwAAAIIAAACgMAbCYDDNgAQMAM2GAAIG",
+"pct": 0.8759
+},
+{
+"el": "Aqua",
+"team": "T5 Chitose Skill",
+"dmg": 15610494406.0,
+"s": [
+{
+"n": "Chitose",
+"t": "T5",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/-Vkt1cRSjuk?si=YCUkFgtaGk1uJghh",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=915610307",
+"code": "",
+"pct": 0.8587
+},
+{
+"el": "Aqua",
+"team": "Allie Skill",
+"dmg": 15564730838.0,
+"s": [
+{
+"n": "Allie",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1k_wbHZrPOR9fhxNhLE4k8zvdU9Z1NIUdPV-EoeW_Ec8/edit?gid=463256762",
+"code": "AAAAiwAAAIIAAACgzTADAAbNgAQMADAGwBwG",
+"pct": 0.8562
+},
+{
+"el": "Aqua",
+"team": "Chitose Mark | Allie's Sig",
+"dmg": 14363738314.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Tilia",
+"t": "T1+",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/igxGeWp5PsY?si=UpogR2Enw_n8igKN",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=1318543766",
+"code": "AAAAkAAAAGsAAACgkAgjDDDBhgRgAM22AAAG",
+"pct": 0.7901
+},
+{
+"el": "Aqua",
+"team": "Chitose Mark",
+"dmg": 13554906467.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Tilia",
+"t": "T1+",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/igxGeWp5PsY?si=UpogR2Enw_n8igKN",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=1662700348",
+"code": "AAAAkAAAAGsAAACgkAgjDDDBhgRgAM22AAAG",
+"pct": 0.7456
+},
+{
+"el": "Lux",
+"team": "Noya Skill",
+"dmg": 13547118217.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "https://docs.google.com/spreadsheets/d/1bEBF7P5C0XG2pX1P4l-brJ3tTfj2y5wVuDaVWHzUxz0/edit?gid=1224946512",
+"code": "AAAAogAAAHMAAABrzbADYYbNiAAMAGwIAGAA",
+"pct": 0.7452
+},
+{
+"el": "Aqua",
+"team": "Chitose Skill | Allie's Sig",
+"dmg": 13336368736.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/-Vkt1cRSjuk?si=YCUkFgtaGk1uJghh",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=2068972113",
+"code": "",
+"pct": 0.7336
+},
+{
+"el": "Lux",
+"team": "Noya Skill | T0 Tilia",
+"dmg": 12900585596.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Tilia",
+"t": "T0",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "https://docs.google.com/spreadsheets/d/1bEBF7P5C0XG2pX1P4l-brJ3tTfj2y5wVuDaVWHzUxz0/edit?gid=1224946512",
+"code": "AAAAogAAAHMAAABrzbADYYbNiAAMAGwIAGAA",
+"pct": 0.7096
+},
+{
+"el": "Ventus",
+"team": "Eleanor Skill | Willow Main",
+"dmg": 12822115038.0,
+"s": [
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+},
+{
+"n": "Eleanor",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Nazuka",
+"t": "",
+"r": "Sub-DPS"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/VW-t72XSON4",
+"src": "https://docs.google.com/spreadsheets/d/1pEBZQcQzUGtndS0rCSL0lsD70MO2aNQQPDeSflA8oXk/edit?gid=1455027366",
+"code": "AAAAoAAAAIkAAACFMAbDYAjCMANsADAAw2wA",
+"pct": 0.7053
+},
+{
+"el": "Aqua",
+"team": "Chitose Skill",
+"dmg": 12740049924.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/-Vkt1cRSjuk?si=YCUkFgtaGk1uJghh",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=915610307",
+"code": "",
+"pct": 0.7008
+},
+{
+"el": "Umbra",
+"team": "Karin Ultimate | C6 FE Discs",
+"dmg": 12251952779.0,
+"s": [
+{
+"n": "Karin",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/JjntJffv3bA?si=6FdkrrO07lQrr9nZ",
+"src": "https://docs.google.com/spreadsheets/d/1Yi2EHrnHe_Rithw_ZihYZYl06-Slaw7_W3FgRVhmGPg/edit?gid=2009632724",
+"code": "AAAAnQAAAJEAAACOzbADADDNgBsAAGwAwAww",
+"pct": 0.6739
+},
+{
+"el": "Ventus",
+"team": "Wraith AA | Eleanor",
+"dmg": 12128366766.0,
+"s": [
+{
+"n": "Wraith",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Eleanor",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Ann",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/VW-t72XSON4",
+"src": "https://docs.google.com/spreadsheets/d/1pEBZQcQzUGtndS0rCSL0lsD70MO2aNQQPDeSflA8oXk/edit?gid=892623817",
+"code": "AAAAjwAAAIkAAAB7zEgDDAAwBgdsAKBGwAwA",
+"pct": 0.6671
+},
+{
+"el": "Umbra",
+"team": "Karin AA",
+"dmg": 12119481742.0,
+"s": [
+{
+"n": "Karin",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/JjntJffv3bA?si=6FdkrrO07lQrr9nZ",
+"src": "https://docs.google.com/spreadsheets/d/1Yi2EHrnHe_Rithw_ZihYZYl06-Slaw7_W3FgRVhmGPg/edit?gid=1773193755",
+"code": "AAAAnQAAAJEAAACOMAbDYAYwBhtgAG2AwAwA",
+"pct": 0.6667
+},
+{
+"el": "Umbra",
+"team": "Karin AA | Willow's Sig",
+"dmg": 12021178583.0,
+"s": [
+{
+"n": "Karin",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/JjntJffv3bA?si=6FdkrrO07lQrr9nZ",
+"src": "",
+"code": "",
+"pct": 0.6613
+},
+{
+"el": "Ignis",
+"team": "Fuyuka Ultimate | Crit Fishing",
+"dmg": 11547280495.0,
+"s": [
+{
+"n": "Fuyuka",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Snowish Laru",
+"t": "",
+"r": "Support"
+},
+{
+"n": "Flora",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/c2UFkY52dTc?si=rT3DLQVq52gYnJ1k",
+"src": "https://docs.google.com/spreadsheets/d/1aVp8XhuH9ZJxN_c2syBFq6ITNKLv4QmacH1EdSHu7H8/edit?gid=1154343064",
+"code": "AAAAhgAAAJ4AAAB+MAEDDDbAABgMBqwwGGGA",
+"pct": 0.6352
+},
+{
+"el": "Lux",
+"team": "Noya AA",
+"dmg": 11378394368.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "https://docs.google.com/spreadsheets/d/1bEBF7P5C0XG2pX1P4l-brJ3tTfj2y5wVuDaVWHzUxz0/edit?gid=1796394495",
+"code": "AAAAogAAAHMAAABrMAbbbDYxjsAMAM2IAGAA",
+"pct": 0.6259
+},
+{
+"el": "Lux",
+"team": "Noya AA | T0 Tilia",
+"dmg": 11259705079.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Tilia",
+"t": "T0",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "https://docs.google.com/spreadsheets/d/1bEBF7P5C0XG2pX1P4l-brJ3tTfj2y5wVuDaVWHzUxz0/edit?gid=1796394495",
+"code": "AAAAogAAAHMAAABrMAbbbDYxjsAMAM2IAGAA",
+"pct": 0.6194
+},
+{
+"el": "Umbra",
+"team": "Karin Ultimate | C1 FE Discs",
+"dmg": 11018228547.0,
+"s": [
+{
+"n": "Karin",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/JjntJffv3bA?si=6FdkrrO07lQrr9nZ",
+"src": "",
+"code": "AAAAnQAAAJEAAACOzbADADDNgBsAAGwAwAww",
+"pct": 0.6061
+},
+{
+"el": "Aqua",
+"team": "Chitose AA | Donna",
+"dmg": 10312004817.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1tUKganHflc3phmsBRn5jQFUueuNy7u7YOrM5So5XT1E/edit?gid=1971715024",
+"code": "",
+"pct": 0.5672
+},
+{
+"el": "Lux",
+"team": "Noya Skill | No Tilia",
+"dmg": 10163048086.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Shia",
+"t": "*",
+"r": "Support"
+}
+],
+"auto": "Decent",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "",
+"code": "AAAAogAAAHMAAACbzbADYYbNiAAMAMABAAwA",
+"pct": 0.559
+},
+{
+"el": "Umbra",
+"team": "Karin Ultimate | Umbra Discs",
+"dmg": 10098512383.0,
+"s": [
+{
+"n": "Karin",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/JjntJffv3bA?si=6FdkrrO07lQrr9nZ",
+"src": "https://docs.google.com/spreadsheets/d/1Yi2EHrnHe_Rithw_ZihYZYl06-Slaw7_W3FgRVhmGPg/edit?gid=1973367383",
+"code": "AAAAnQAAAJEAAACOzbADADDNgBsAAGwAwAww",
+"pct": 0.5555
+},
+{
+"el": "Terra",
+"team": "Sparkla Rapid Fire",
+"dmg": 9971104043.0,
+"s": [
+{
+"n": "Sparkla",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Springseek Coronis",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Nazuna",
+"t": "T3",
+"r": "Support"
+}
+],
+"auto": "Decent",
+"guide": "https://youtu.be/Neu7ID0u2VU?si=kEXeRIKSGfib75mJ",
+"src": "https://docs.google.com/spreadsheets/d/1mfr6nSTJt1YA7vbwiJXRWlxJfk69umpUfqAK-jzUi5k/edit?gid=1800846676",
+"code": "",
+"pct": 0.5485
+},
+{
+"el": "Lux",
+"team": "T5 Shia DashAA | T3 Minova",
+"dmg": 9965105798.0,
+"s": [
+{
+"n": "Shia",
+"t": "T5",
+"r": "DPS"
+},
+{
+"n": "Minova",
+"t": "T3+",
+"r": "Support"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/R-MkppLXwqo?si=v_eEw-F819NyJcuq",
+"src": "https://docs.google.com/spreadsheets/d/1REZu7ktwmg9DMRUiUofq16FXFw6rfNmh1li0fPTrsmY/edit?gid=527086121",
+"code": "",
+"pct": 0.5482
+},
+{
+"el": "Aqua",
+"team": "Chitose AA | Avg. Temporal",
+"dmg": 9940457904.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Freesia",
+"t": "T3",
+"r": "Support"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1tUKganHflc3phmsBRn5jQFUueuNy7u7YOrM5So5XT1E/edit?gid=480925132",
+"code": "",
+"pct": 0.5468
+},
+{
+"el": "Lux",
+"team": "Noya Skill | Shia Support",
+"dmg": 9938165924.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Shia",
+"t": "*",
+"r": "Support"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "",
+"code": "AAAAogAAAGsAAACbzbADYYatiAAAAMABAAwA",
+"pct": 0.5467
+},
+{
+"el": "Ignis",
+"team": "Fuyuka Ultimate | Willow - Crit Fishing",
+"dmg": 9899152983.0,
+"s": [
+{
+"n": "Fuyuka",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Suntide Willow",
+"t": "",
+"r": "Support"
+},
+{
+"n": "Flora",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/c2UFkY52dTc?si=rT3DLQVq52gYnJ1k",
+"src": "https://docs.google.com/spreadsheets/d/1aVp8XhuH9ZJxN_c2syBFq6ITNKLv4QmacH1EdSHu7H8/edit?gid=1890415014",
+"code": "AAAAhgAAAKAAAAB+MAEDDDYwAMNgMKwwGGGA",
+"pct": 0.5445
+},
+{
+"el": "Ventus",
+"team": "Wraith AA | Nazuka",
+"dmg": 9746160744.0,
+"s": [
+{
+"n": "Wraith",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Nazuka",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Ann",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1cHa0jWXfRjOm4ZJxWz_u9PQJnxlNOd_JJRWSwuJ9Osk/edit?gid=941133376",
+"code": "AAAAjwAAAHsAAACFzbADDADBhsAMADAAG2wA",
+"pct": 0.5361
+},
+{
+"el": "Lux",
+"team": "T5 Shia DashAA",
+"dmg": 9611249431.0,
+"s": [
+{
+"n": "Shia",
+"t": "T5",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/R-MkppLXwqo?si=v_eEw-F819NyJcuq",
+"src": "https://docs.google.com/spreadsheets/d/1REZu7ktwmg9DMRUiUofq16FXFw6rfNmh1li0fPTrsmY/edit?gid=534972980",
+"code": "",
+"pct": 0.5287
+},
+{
+"el": "Ignis",
+"team": "Fuyuka Ultimate | Chixia - Crit Fishing",
+"dmg": 9579986453.0,
+"s": [
+{
+"n": "Fuyuka",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Chixia",
+"t": "T3",
+"r": "Support"
+},
+{
+"n": "Flora",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/c2UFkY52dTc?si=rT3DLQVq52gYnJ1k",
+"src": "https://docs.google.com/spreadsheets/d/1aVp8XhuH9ZJxN_c2syBFq6ITNKLv4QmacH1EdSHu7H8/edit?gid=2036290207",
+"code": "AAAAhgAAAI0AAAB+MAEDDDbMMABsAKwwGGGA",
+"pct": 0.527
+},
+{
+"el": "Aqua",
+"team": "Allie Skill | Teresa",
+"dmg": 9192728768.0,
+"s": [
+{
+"n": "Allie",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Teresa",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1k_wbHZrPOR9fhxNhLE4k8zvdU9Z1NIUdPV-EoeW_Ec8/edit?gid=1632405874",
+"code": "",
+"pct": 0.5057
+},
+{
+"el": "Lux",
+"team": "Shia DashAA | T3 Minova",
+"dmg": 9180291489.0,
+"s": [
+{
+"n": "Shia",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Minova",
+"t": "T3+",
+"r": "Support"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/R-MkppLXwqo?si=v_eEw-F819NyJcuq",
+"src": "https://docs.google.com/spreadsheets/d/1REZu7ktwmg9DMRUiUofq16FXFw6rfNmh1li0fPTrsmY/edit?gid=527086121",
+"code": "",
+"pct": 0.505
+},
+{
+"el": "Umbra",
+"team": "Firenze | Otoha Skill",
+"dmg": 9150214661.0,
+"s": [
+{
+"n": "Firenze",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/VUiktIb7FG4?si=S0pF3v6JsoCPLp9P",
+"src": "https://docs.google.com/spreadsheets/d/17yCFRpsO7qG3HN5Lol_foPpL8QSOGn0VejA_iJsq4vc/edit?gid=92698024",
+"code": "",
+"pct": 0.5033
+},
+{
+"el": "Umbra",
+"team": "Firenze | Otoha Ultimate",
+"dmg": 8898184243.0,
+"s": [
+{
+"n": "Firenze",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Otoha",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Cosette",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/VUiktIb7FG4?si=S0pF3v6JsoCPLp9P",
+"src": "https://docs.google.com/spreadsheets/d/17yCFRpsO7qG3HN5Lol_foPpL8QSOGn0VejA_iJsq4vc/edit?gid=1754589053",
+"code": "",
+"pct": 0.4895
+},
+{
+"el": "Ignis",
+"team": "Fuyuka Ultimate | Tilia - Crit Fishing",
+"dmg": 8773869732.0,
+"s": [
+{
+"n": "Fuyuka",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+},
+{
+"n": "Flora",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/c2UFkY52dTc?si=rT3DLQVq52gYnJ1k",
+"src": "https://docs.google.com/spreadsheets/d/1aVp8XhuH9ZJxN_c2syBFq6ITNKLv4QmacH1EdSHu7H8/edit?gid=203494535",
+"code": "AAAAhgAAAGsAAAB+MAEDDDZgBhhgBqwwGGGA",
+"pct": 0.4826
+},
+{
+"el": "Lux",
+"team": "Noya Skill | Laru",
+"dmg": 8588872950.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Laru",
+"t": "*",
+"r": "Support"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "",
+"code": "AAAAogAAAGsAAACWzbADYYatiAAAAAAAAAwA",
+"pct": 0.4724
+},
+{
+"el": "Lux",
+"team": "Shia DashAA",
+"dmg": 8569357483.0,
+"s": [
+{
+"n": "Shia",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Firefly",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/R-MkppLXwqo?si=v_eEw-F819NyJcuq",
+"src": "https://docs.google.com/spreadsheets/d/1REZu7ktwmg9DMRUiUofq16FXFw6rfNmh1li0fPTrsmY/edit?gid=534972980",
+"code": "",
+"pct": 0.4714
+},
+{
+"el": "Ventus",
+"team": "Eleanor AA Solo DPS",
+"dmg": 8201749633.0,
+"s": [
+{
+"n": "Canace",
+"t": "T3+",
+"r": "Support"
+},
+{
+"n": "Eleanor",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Ann",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/VW-t72XSON4",
+"src": "https://docs.google.com/spreadsheets/d/1pEBZQcQzUGtndS0rCSL0lsD70MO2aNQQPDeSflA8oXk/edit?gid=1586330603",
+"code": "AAAAeAAAAIkAAAB7rAAAjAAwBhtsAKAGwAwA",
+"pct": 0.4512
+},
+{
+"el": "Lux",
+"team": "Shia DashAA | T0 Minova",
+"dmg": 8107705000.0,
+"s": [
+{
+"n": "Shia",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Minova",
+"t": "T0",
+"r": "Support"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "No",
+"guide": "https://youtu.be/R-MkppLXwqo?si=v_eEw-F819NyJcuq",
+"src": "https://docs.google.com/spreadsheets/d/1REZu7ktwmg9DMRUiUofq16FXFw6rfNmh1li0fPTrsmY/edit?gid=527086121",
+"code": "",
+"pct": 0.446
+},
+{
+"el": "Lux",
+"team": "Noya Skill | T5 Jinglin",
+"dmg": 8074082457.0,
+"s": [
+{
+"n": "Firstlight Noya",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Jinglin",
+"t": "T5",
+"r": "Support"
+},
+{
+"n": "Tilia",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/iWnTY4vn6-w?si=bHSAOyDNGz8N7e10",
+"src": "",
+"code": "AAAAogAAAGsAAAB1zbADYYZsCABgAKABAAwI",
+"pct": 0.4441
+},
+{
+"el": "Ventus",
+"team": "Eleanor AA Solo DPS | T0 Canace",
+"dmg": 7972294720.0,
+"s": [
+{
+"n": "Canace",
+"t": "T0",
+"r": "Support"
+},
+{
+"n": "Eleanor",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Ann",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "https://youtu.be/VW-t72XSON4",
+"src": "https://docs.google.com/spreadsheets/d/1pEBZQcQzUGtndS0rCSL0lsD70MO2aNQQPDeSflA8oXk/edit?gid=1586330603",
+"code": "AAAAeAAAAIkAAAB7rAAAjAAwBhtsAKAGwAwA",
+"pct": 0.4385
+},
+{
+"el": "Terra",
+"team": "Sparkla Rapid Fire | T0 Nazuna",
+"dmg": 7803351358.0,
+"s": [
+{
+"n": "Sparkla",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Springseek Coronis",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Nazuna",
+"t": "T0",
+"r": "Support"
+}
+],
+"auto": "Decent",
+"guide": "https://youtu.be/Neu7ID0u2VU?si=kEXeRIKSGfib75mJ",
+"src": "https://docs.google.com/spreadsheets/d/1mfr6nSTJt1YA7vbwiJXRWlxJfk69umpUfqAK-jzUi5k/edit?gid=1800846676",
+"code": "",
+"pct": 0.4292
+},
+{
+"el": "Aqua",
+"team": "Chitose Skill | Teresa",
+"dmg": 7418169627.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Teresa",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Decent",
+"guide": "https://youtu.be/_BS4KqaGKfg?si=kvB522QQEnWLLiqJ",
+"src": "https://docs.google.com/spreadsheets/d/1kjYdH3b4khB8aiF2jlItvgSjG9Gw6GXKf84ZJSGGufM/edit?gid=1075738820",
+"code": "",
+"pct": 0.4081
+},
+{
+"el": "Ventus",
+"team": "Nazuka Solo DPS",
+"dmg": 7375873282.0,
+"s": [
+{
+"n": "Canace",
+"t": "T3+",
+"r": "Support"
+},
+{
+"n": "Nazuka",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Ann",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1cHa0jWXfRjOm4ZJxWz_u9PQJnxlNOd_JJRWSwuJ9Osk/edit?gid=1859809261",
+"code": "AAAAeAAAAIUAAAB7rAAAjAAwANtsAMAGwAwA",
+"pct": 0.4057
+},
+{
+"el": "Aqua",
+"team": "Chitose AA [Pre-Nerf]",
+"dmg": 7298108640.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Donna",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Teresa",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1tUKganHflc3phmsBRn5jQFUueuNy7u7YOrM5So5XT1E/edit?gid=1970114823",
+"code": "",
+"pct": 0.4014
+},
+{
+"el": "Ventus",
+"team": "Nazuka Solo DPS | T0 Canace",
+"dmg": 6950180707.0,
+"s": [
+{
+"n": "Canace",
+"t": "T0",
+"r": "Support"
+},
+{
+"n": "Nazuka",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Ann",
+"t": "T5",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1cHa0jWXfRjOm4ZJxWz_u9PQJnxlNOd_JJRWSwuJ9Osk/edit?gid=1859809261",
+"code": "AAAAeAAAAIUAAAB7rAAAjAAwANtsAMAGwAwA",
+"pct": 0.3823
+},
+{
+"el": "Aqua",
+"team": "Chitose AA | OG Team [Pre-Nerf]",
+"dmg": 5678264035.0,
+"s": [
+{
+"n": "Chitose",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Freesia",
+"t": "T3",
+"r": "Support"
+},
+{
+"n": "Teresa",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "Yes",
+"guide": "",
+"src": "https://docs.google.com/spreadsheets/d/1tUKganHflc3phmsBRn5jQFUueuNy7u7YOrM5So5XT1E/edit?gid=764570375",
+"code": "",
+"pct": 0.3123
+},
+{
+"el": "Terra",
+"team": "Placeholder#1",
+"dmg": 5555555555.0,
+"s": [
+{
+"n": "Nazuna",
+"t": "",
+"r": "Support"
+},
+{
+"n": "Leafia",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Springseek Coronis",
+"t": "",
+"r": "Sub-DPS"
+}
+],
+"auto": "",
+"guide": "",
+"src": "",
+"code": "",
+"pct": 0.3056
+},
+{
+"el": "Terra",
+"team": "Placeholder#2",
+"dmg": 1234576890.0,
+"s": [
+{
+"n": "Sparkla",
+"t": "",
+"r": "DPS"
+},
+{
+"n": "Leafia",
+"t": "",
+"r": "Sub-DPS"
+},
+{
+"n": "Nazuna",
+"t": "",
+"r": "Support"
+}
+],
+"auto": "",
+"guide": "",
+"src": "",
+"code": "",
+"pct": 0.0679
+}
+]
+}

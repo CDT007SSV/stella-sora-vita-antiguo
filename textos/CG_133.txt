@@ -1,0 +1,6 @@
+# Historia de Nazuka — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_133_01 | Susurros en el viento (Parte I)
+CG_133_02 | Susurros en el viento (Parte II)
+CG_133_03 | Susurros en el viento (Parte III)

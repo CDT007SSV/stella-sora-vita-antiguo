@@ -1,0 +1,145 @@
+# Capítulo 8 · Calor residual · 5 · Compañeros
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Boss (Nazuna) | Jefa (Nazuna)
+N:Boss? | ¿Jefe?
+N:Itoha | Itoha
+N:Nazuka & Chitose | Nazuka y Chitose
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_144 | Chitose
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+N:avg3_1311 | SaiLa
+N:avg3_132 | Kaede
+N:avg3_143 | Residente
+N:avg3_150 | Albedo
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Compañeros
+0003 [Intro] | Para asegurar una coartada en Philae, se requiere un video tuyo cada día. Después de que Petal Bloom regresa en secreto, haces que Nazuna se haga pasar por tu doble mientras tú y tus amigas se escabullen al desierto en busca de respuestas...
+0004 [Narración] | Tres días después
+0005 [Lugar y hora] | 08:00, 27.º del mes de Venatio, Distrito Invernadero, Núcleo del laboratorio
+0006 [Kaede] | Buenos días a todos. Bueno, creo que debería empezar con «¡Qué bueno estar en casa!». Jeje, después de un viaje largo, nada me tranquiliza tanto como volver a verlos a todos.
+0007 [Iris] | Bienvenida, señorita Kaede. Y también el resto de Petal Bloom.==W== ¿Oí que se colaron en la ciudad anoche?
+0008 [Fuyuka] | Más o menos. Firenze consiguió un camión de reparto para transportarnos... en costales de grano.==W==
+0009 [Iris] | ¿Se quedaron dentro de un costal de grano todo el viaje?==W== Debió de ser muy incómodo.
+0010 [Fuyuka] | Para nada.==W== De hecho, los espacios pequeños y oscuros me resultan bastante reconfortantes~
+0011 [Nazuka] | ...Seguramente eres la única, Fuyuka.==W== En fin, Jefe, no nos meterías a escondidas en Philae sin motivo, ¿verdad? Entonces... ¿cuál es la misión secreta?
+0012 [Tú] | Bueno...==W== Firenze definitivamente tiene algo en mente, pero todavía no me ha contado.
+0013 [Noya] | Je, apuesto a que es un ensayo para sacarte a escondidas de Philae. Si Petal Bloom pudo entrar sin que nadie lo notara, tú puedes salir de la misma forma.
+0014 [Iris] | No va a funcionar, Noya. El Jefe tiene que enviarle un video a Scarlet Sights todos los días, ¿te acuerdas?
+0015 [Noya] | Tranquila, ya lo tengo resuelto:==W== grabamos todos los videos de una vez y enviamos uno cada día.
+0016 [Noya] | Mi intuición me dice que Firenze trajo a Petal Bloom no solo para probar el sigilo, sino también para las grabaciones.
+0017 [Noya] | Piénsenlo: cada vez que Petal Bloom vuelve a Philae, siempre visita a ==PLAYER_NAME==. No sería convincente que sus caras nunca aparecieran en ninguno de los videos de ==PLAYER_NAME==, ¿verdad?
+0018 [Noya] | Así que==W== esta es la oportunidad perfecta para grabar su reencuentro con ==PLAYER_NAME==. Pueden escabullirse de la ciudad después de grabar y hacer un gran regreso una semana después.==W== Nadie notará el desfase de fechas.
+0019 [Chitose] | Es un plan excelente. Sin embargo,==W== Albedo especificó después que la grabación debe incluir un periódico de ese día y el pronóstico del clima.
+0020 [Noya] | ¿A-ah, sí?==W== Se me debió de pasar esa parte.
+0021 [Nazuka] | Por cierto,==W== señorita... ¿Quién es usted? Acaba de decir «mi ==SEX11==».==W== ¿Se refiere al Jefe?
+0022 [Chitose] | Mucho gusto. Soy Chitose, la espada guardiana de mi ==SEX11==.
+0023 [Nazuka] | La espada del Jefe...==W== Ya veo.==W== Yo soy Nazuka.==W== Gracias por cuidar de ==SEX4====W== mientras no estábamos.
+0024 [Chitose] | No hace falta que me agradezca. Como espada de mi ==SEX11==, proteger a ==SEX4== es simplemente mi deber.
+0025 [Nazuka] | Una guardiana muy dedicada...==W== Bueno,==W== ahora que regresé, yo me encargo a partir de aquí.==W== Puede retirarse.
+0026 [Chitose] | Me niego.==W== Una espada debe estar siempre al alcance de ==SEX3== mano.==W== Incluso mientras ==SEX== duerme,==W== permanezco a ==SEX3== lado.
+0027 [Nazuka] | ¡¿D... DDDDDDDDUERMES a ==SEX3== lado?!==W== Jefe,==W== ¡¿qué está pasando aquí exactamente?!
+0028 [Nazuka] | ¿D-de verdad...==W== ¿De verdad duerme contigo todas las noches...?!?!==W== Qué envid...==W== eh, digo,==W== ¡¡qué descaro!! ¡¡¡Qué descaro total!!!
+0029 [1] | ¡¿Oye, qué palabra tan fuerte?! ¡Espera, espera, espera, nada de eso ha pasado nunca!==W== ¡Chitose, por favor, acláralo!
+0030 [Chitose] | Mi ==SEX11==, ¿esta es Lady Nazuka, de quien me ha hablado tanto?==W== Parece bastante alterada.==W== Había oído que era una mujer sabia,==W== pero...
+0031 [Chitose] | No parece entender ni una palabra de lo que digo.==W== ¿Está seguro de que alguien como ella==W== es capaz de protegerlo?
+0032 [1] | ¡Aaah!==W== ¡Las dos están malinterpretando todo!==W== Por favor,==W== solo escúchenme...
+0033 [Nazuka] | ¡Jefe!==W==
+0034 [Chitose] | ¡Mi ==SEX11==!==W==
+0035 [Nazuka & Chitose] | ¡¿Quién quieres que te cuide la espalda?! ¡¿Quién desea que lo proteja?!==W==
+0036 [Amber] | Pelean como gatos.
+0037 [Nazuna] | Je, así que esto es lo que llaman un «dilema de adultos».==W== Amber, no terminemos como ellas.
+0038 [Nazuna] | Déjalas, ¡mira mi peluche nuevo! Es suavecito y adorable.
+0039 [Amber] | Lindo. Quiero sacar uno en la máquina.
+0040 [Nazuna] | ¡Oye, oye! Kaede se esforzó mucho en hacerlo.==W== Ni loca lo meto en una máquina de garra.
+0041 [Firenze] | Perdón por llegar tarde...==W==
+0042 [Firenze] | ...==W== Vaya,==W== aquí la tensión se puede cortar con cuchillo.==W== ¿Qué pasó?
+0043 [Tú] | ¡¡Gracias a Dios que llegaste,==W== Firenze!!
+0044 [1] | N-no te preocupes por eso,==W== Firenze. Nosotros también acabamos de llegar.==W== Ahora sí,==W== ¿qué es exactamente lo que planeas al meter a escondidas a Petal Bloom en la ciudad?
+0045 [Firenze] | Bueno...==W== Antes de explicar mi plan,==W== déjenme presentarles a una invitada muy especial.==W==
+0046 [Itoha] | ¡Holaaa, Jefe! ¡Cuánto tiempo sin vernos~!==W== ¡Soy yo, Itoha~!==W== ¡La maquillista más solicitada de toda Nova para todo tipo de actividades y eventos!
+0047 [Itoha] | Me enteré de que estabas en serios problemas. ¿Cómo iba a quedarme de brazos cruzados?==W== ¡Así que vine directo a ayudar!
+0048 [Chitose] | ¿«Vino a ayudar»?==W== Mi ==SEX11==, ¿siquiera conoce a esta mujer?
+0049 [Tú] | ¿Maquillista?==W== No conozco a nadie así...
+0050 [Tú] | Y a juzgar por la mirada cautelosa de Firenze...==W== ¿Está intentando verificar conmigo la historia de Itoha?
+0051 [Tú] | Y si algo no cuadra...==W== ¿Haría que se encargaran de ella ahí mismo?
+0052 [Itoha] | Ay, Jefe...==W== No me digas que ya olvidaste==W== aquella noche mágica que pasamos juntos en la azotea,==W== solo tú y yo...
+0053 [Nazuka] | Aquella noche mágica...==W==
+0054 [Chitose] | ¿Juntos en la azotea?==W==
+0055 [1] | ¡Por favor!==W== ¡¡Deja de empeorarlo!!==W==
+0056 [1] | (¿Quién es ella? ¡¿De qué está hablando?!==W== ¿U...==W== ¿Una noche en la azotea?)
+0057 [1] | (Un momento...==W== ¿Será que...?==W== N-no puede ser...==W== Pero...)
+0058 [1] | Todos, cálmense. Itoha y yo...==W== Bueno, nos conocimos en el banquete.==W== Lo único que hice fue pedirle que me maquillara, y ya.
+0059 [Itoha] | ¡Jefe, sí que te tomaste tu tiempo para acordarte de mí~!==W== En fin, esta vez daré lo mejor de mí.==W== ¡Me muero por trabajar con todos~♪!
+0060 [Firenze] | Mmm... Tendría mucho que comentar...==W== Pero dejémoslo así.==W== Jefe, supongo que quieres escuchar la siguiente parte del plan, ¿no?
+0061 [Firenze] | Bueno,==W== es muy sencillo.
+0062 [Firenze] | Haremos que alguien actúe como tu doble para enviar los videos.==W== E Itoha está aquí para ayudar.
+0063 [Itoha] | Me formé como maquillista en Goodwind Homecare y aprendí magia de transformación con la gente de Loong.==W== Hacer un disfraz es pan comido para mí ♪==W== En solo un minuto, puedo convertir a cualquiera en una persona totalmente distinta.
+0064 [Itoha] | Así que,==W== ¿podrían venir conmigo las cuatro, por favor?
+0065 [Nazuna] | Espera... ¿Quieres que una de nosotras...==W== haga de doble?
+0066 [Nazuka] | Porque no podemos pedirle a alguien que vive en Philae que haga de doble. La gente empezaría a hacer preguntas si alguien a quien ven a diario desaparece de repente.
+0067 [Nazuka] | Pero se supone que nosotras ni siquiera estamos aquí.==W== Así que nadie sospechará si no aparecemos.
+0068 [Tú] | Pero eso rompe nuestro acuerdo con Albedo, ¿no?==W== Si se entera...==W==
+0069 [Firenze] | Bueno,==W== depende de cómo interpretes las condiciones.
+0070 [Albedo] | Gracias por su cooperación.==W== Una cosa más. Antes de partir hacia Emor, deberá enviar un video corto cada día que documente sus actividades en Philae.==W== Después, Scarlet Sights lo transmitirá por toda Nova.
+0071 [Tú] | Cada día tengo que grabar un video corto y enviarlo a Scarlet Sights Media==W== para demostrarle al mundo que no me he movido de Philae.
+0072 [Firenze] | Je. Supongo que eres demasiado literal para las negociaciones de negocios.==W== La fama de Albedo de cuidar hasta el último detalle es bien conocida en todas las grandes empresas.
+0073 [Firenze] | En su práctica habitual, nunca deja pasar un error, ni siquiera una coma fuera de lugar en un acuerdo.==W== Así que, si de verdad hubiera querido confinarte en la ciudad, lo habría dejado clarísimo. Las condiciones dirían algo así...==W==
+0074 [Firenze] | Primero, deberá permanecer en todo momento dentro de los límites legales de Philae.==W== Segundo, cada día deberá grabar un video de sí mismo y enviarlo a Scarlet Sights para demostrar que sigue aquí,==W== y además registrarse en la Tienda de Almas con un miembro del personal que yo designe.
+0075 [Firenze] | Y no lo hizo.==W== En otras palabras, el acuerdo se redactó así para dejarnos margen de maniobra.
+0076 [Tú] | E-espera, ¿de verdad esa interpretación es válida?
+0077 [Firenze] | Claro. En las negociaciones de negocios, cualquier ambigüedad en la redacción termina convirtiéndose en una oportunidad para aprovecharla.
+0078 [Firenze] | Como representante asignada del Imperio de la Gracia y responsable de esta investigación, Albedo no puede soltar algo tan irresponsable como: «Confío en usted, Jefe. Solo preséntese en Emor dentro de un mes y haga lo que quiera hasta entonces».
+0079 [Firenze] | Y aun así, a pesar de estar atrapada en una red de complicaciones, logró dejarte un pequeño respiro.==W== Porque si limpias tu nombre, eso también la ayuda a lograr su propio objetivo.
+0080 [1] | Esto es tan complicado...==W== Tantas suposiciones y juegos mentales son difíciles de seguir.==W== Y ustedes lidian con esto todos los días... Nada más de pensarlo me canso.
+0081 [1] | Ahora entiendo lo que Albedo quiso decir en realidad, pero aun así me temo que usar un doble es demasiado arriesgado.==W== El Comité de Salvación quiere mi cabeza...==W== ¿Y si nos descubren?
+0082 [Boss?] | Oye, Iris, una pregunta rápida:==W== ¿cuántos Dorra nos quedan?
+0083 [1] | (¡¿Q-==W==quién es esa persona?!==W== ¡¿Por qué ==SEX== se ve exactamente igual a mí?!)
+0084 [Iris] | Ah,==W== eh...==W== Unos 200,000 Dorra.==W== Y hay algunas comisiones pendientes de mis trabajitos extra,==W== así que,==W== en total debería alcanzar para el viaje al desierto...==W==
+0085 [Iris] | Espera,==W== ¡¡¡¿hay dos Jefes?!!!
+0086 [1] | Eh, Iris,==W== yo soy el verdadero.
+0087 [Boss?] | ¡Mentira! ¡Yo soy el verdadero Jefe!==W== Tengo pruebas:==W== hay un pajarito lindo==W== en la taza de Iris.
+0088 [Iris] | Ay...==W== ¡Me rindo, de verdad no puedo distinguirlos!
+0089 [Boss?] | Nazuka, ¿y tú qué dices?==W== ¿Quién crees que es el verdadero Je...?==W==
+0090 [Nazuka] | Nazuna,==W== deja de jugar.
+0091 [Tú] | ¡¿==SEX1== es...==W== Nazuna?!
+0092 [Fuyuka] | ¡Vaya,==W== Nazuka senpai la descubrió al instante!
+0093 [Boss?] | ¿Cómo...==W== ¡¿Cómo es posible?!==W== ¡Se suponía que el disfraz era perfecto!
+0094 [Nazuka] | No se puede explicar con palabras.==W== Es más bien una sensación...==W== Un profundo vínculo del corazón.==W== Je,==W== con el verdadero Jefe cerca,==W== me siento mucho más segura...==W==
+0095 [Boss?] | Uf...==W== Demasiada miel.==W== Voy a vomitar.
+0096 [Itoha] | Jeje, no te preocupes.==W== Te elegí a ti, así que deberías tener un poquito más de confianza en ti misma ♪
+0097 [Nazuka] | Itoha tiene razón. Yo soy una excepción.==W== Los demás no podrían distinguir al verdadero Jefe. En realidad quería ofrecerme, pero está claro que no sirvo para esto...==W==
+0098 [Itoha] | La clave para actuar como doble está en entender a fondo a la persona que vas a imitar.==W== Un comportamiento que no encaje con el personaje delataría fácilmente mi disfraz perfecto.
+0099 [Itoha] | La complexión es otro factor importante. El doble necesita tener una constitución más o menos parecida, porque la magia de transformación no dura para siempre y la forma de caminar puede delatarte.==W== Con eso en mente, de todas las candidatas...==W==
+0100 [Itoha] | Nazuna es la que más se parece a la figura del Jefe: plana como una tabla.==W== ¡Qué maravilla! (En cuanto a la diferencia de estatura, unas plantillas de realce lo arreglan).
+0101 [Boss (Nazuna)] | ¡¿Plana como una tabla?!==W== ¡¿De qué estás hablando?! ¡¿Y qué tiene eso de maravilloso?!
+0102 [Chitose] | Yo tampoco tengo objeciones.
+0103 [Chitose] | Muy bien, mi ==SEX11==, estoy lista. ¿Cuándo partimos hacia el desierto?
+0104 [Tú] | Mmm...==W== Las habilidades de maquillaje de la señorita Itoha son realmente impresionantes, pero...==W==
+0105 [Itoha] | Ay, Jefe, nada de «peros». Sé que tienes tus preocupaciones, pero tus amigas también tienen las suyas.==W==
+0106 [Boss (Nazuna)] | No te preocupes, Jefe. Tú ve y haz lo que tengas que hacer. Cuando me pongo seria, no la riego. ¡Y si pasa algo malo, les daré una buena paliza!
+0107 [Kaede] | Le daremos a Nazuna un entrenamiento especial para que pueda ocupar tu lugar a la perfección. Y Fuyuka, a partir de ahora tendrás que tratarla como tu «Maestro».
+0108 [Fuyuka] | Nazuna senpai es mi Maestro...==W== Nazuna senpai es mi Maestro...==W== ¡M-me esforzaré al máximo para lavarme el cerebro!
+0109 [Nazuka] | Jefe, adelante. Nosotras cuidaremos a Nazuna.==W== Pero avísanos que estás bien, así que...==W== asegúrate de comunicarte conmigo...==W== seguido.
+0110 [Tú] | Está bien...==W== Nazuna, dejo todo en tus manos...==W== No, ahora debería decirte Jefa.==W== Por la presente te nombro directora ejecutiva de Boss Accord mientras dure mi ausencia.
+0111 [Boss (Nazuna)] | ¡Jeje, cuenta conmigo!==W== Ah, por cierto, ¿puedo usar fondos de la empresa para comprar unos peluches?
+0112 [Tú] | Por desgracia, no. Necesitamos cada Dorra para el viaje al desierto.
+0113 [Tú] | Y Chitose, lo siento, pero tendrás que quedarte en Philae, vigilando al lado de Nazuna.
+0114 [Chitose] | Pero ¿por qué? Como su espada, quiero seguirlo adondequiera que vaya...==W==
+0115 [Tú] | A partir de ahora, Nazuna es tu ==SEX11==. Te vieron peleando a mi lado en el Monolito, ¿recuerdas?
+0116 [Tú] | Si no das la cara, la gente empezará a sospechar de la identidad de Nazuna.==W== Y esas especulaciones,==W== en sí mismas, demuestran que el mundo ya te reconoce como mi espada.
+0117 [Chitose] | ¿De verdad...?==W== Entonces me quedaré al lado de su doble, como usted desea. Buen viaje, mi ==SEX11==.
+0118 [Noya] | Tranquilos, ==PLAYER_NAME== está en buenas manos con nosotras.
+0119 [Amber] | ¿Cuándo==W== nos vamos?
+0120 [Firenze] | Ahora mismo.==W== El Jefe y yo los despediremos públicamente cuando suban al Lucky Oasis.
+0121 [Firenze] | Muy bien,==W== todos,==W== ¡prepárense!==W== ¡Nuestra misión contra el Comité de Salvación empieza ahora!==W==

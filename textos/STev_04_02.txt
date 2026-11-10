@@ -1,0 +1,126 @@
+# Evento · Réquiem invernal y el gatillo del alba · 2 · Las ruinas heladas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Diligent Investigator | Investigador aplicado
+N:Sharp Investigator | Investigador perspicaz
+N:Supply Agent | Agente de suministros
+N:The Crew | El equipo
+N:avg1_135 | Mistique
+N:avg1_143 | Wraith
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg2_981 | Lucky Rubbi
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1275 | Lucky Rubbi
+N:avg3_1278 | Martillo de la Olla de Vapor
+N:avg3_195 | Edda
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Las ruinas heladas
+0003 [Intro] | En la Ciudad del Norte, Edda, quien inició el encargo, te presenta a los miembros y te informa sobre posibles actividades de Nocturn Eterna dentro de la ciudad. Luego se dividen en equipos para investigar.
+0004 [Wraith] | Ese era el último.
+0005 [Edda] | Uf... Uf... Vaya grupito.
+0006 [Tú] | Buen trabajo. ¿Todos de una pieza?
+0007 [Edda] | Agradezco la preocupación, Tirano. Estoy bien. Y seguro Wraith puede cuidarse sola.
+0008 [Tú] | Me alegra oírlo... Pero tengo malas noticias.==W== El carruaje y el cochero desaparecieron.
+0009 [Edda] | No lo culpo. Los Trekkers quizá estén acostumbrados, pero para una persona común, huir es la única reacción natural al ver Stellaroids.
+0010 [Wraith] | No importa. La Ciudad del Norte está cerca. Si salimos ahora, llegaremos a su Distrito de las Cenizas al anochecer.
+0011 [Tú] | ¿Un civil? Lo envió el Ojo de la Gracia. Trekker o no, debería haber sido un profesional... ¿Estaré pensando demasiado?
+0012 [???] | ¡Oigan! ¡Ustedes! ¿Están todos bien?
+0013 [Edda] | Oigan, ¿qué hacen aquí?
+0014 [Diligent Investigator] | Uf... Uf... Señorita Edda, estábamos de patrulla cuando oímos ruidos de batalla por acá, así que vinimos corriendo.
+0015 [Sharp Investigator] | Nos topamos con unos Stellaroids en el camino. No se preocupe, ya nos encargamos de ellos.
+0016 [Tú] | ¿Por qué hay Stellaroids fuera del Monolito? ¿Hay... un Colapso?
+0017 [Sharp Investigator] | Sí. Desde el reinicio ha habido varios Colapsos menores.
+0018 [Diligent Investigator] | Qué bueno que todos estén ilesos.
+0019 [Edda] | Gracias por su esfuerzo. Me alegra que todos estén a salvo.
+0020 [Tú] | Un Monolito reiniciado... Colapsos repentinos... y Nocturn Eterna...
+0021 [Edda] | Tirano, ¿algo te preocupa?
+0022 [Tú] | Estoy recordando a Aeloria,==W== esa agente de Nocturn Eterna.==W== En Emor usó un hechizo específico para forzar un Colapso.
+0023 [Edda] | ¡¿Sugieres que Nocturn Eterna ya se infiltró en la Ciudad del Norte?!
+0024 [Tú] | Es solo una teoría. Un Monolito sin supervisión durante mucho tiempo puede provocar un Colapso por sí solo.
+0025 [Edda] | Ya veo... No lo había considerado. Y te prometí una investigación segura... Te ofrezco mis más sinceras disculpas.
+0026 [Tú] | Fue inesperado. No es tu culpa, así que no hace falta que te disculpes. Concentrémonos en llegar a la Ciudad del Norte.
+0027 [Sharp Investigator] | Bien, síganos. Llegamos hace unos días y montamos campamentos en el Distrito de las Cenizas.
+0028 [Wraith] | Nocturn Eterna... ¿De verdad volverían?
+0029 [Narración] | Seguimos al investigador un buen rato y llegamos a nuestro destino justo al caer la noche.
+0030 [Sharp Investigator] | Llegamos. Bienvenidos a la ciudad que la humanidad dejó atrás.
+0031 [Tú] | Pura ruina.==W== Parece el resultado de un apocalipsis...
+0032 [Tú] | Nunca había visto algo así...
+0033 [Diligent Investigator] | La ciudad fue abandonada en cuanto cayó el Monolito. Años de abandono la dejaron irreconocible. Solo funcionan los Artefactos más resistentes.
+0034 [Diligent Investigator] | Aquí vivieron decenas de miles de personas. Era la ciudad más grande del norte. Se rumora que sus habilidades de forja eran de primer nivel: les valieron muchísimos pedidos del Imperio de la Gracia.
+0035 [Sharp Investigator] | Esas habilidades terminaron dispersándose por Nova junto con los ciudadanos que se fueron. Para estas alturas, bien podrían haberse perdido en el tiempo.
+0036 [Edda] | No del todo. Muchos ciudadanos fueron acogidos por el Imperio de la Gracia, y sus habilidades también se han conservado.
+0037 [Edda] | También he oído que... el Imperio de la Gracia puso la mira en los talentos de este lugar hace mucho. Cuando el Monolito aún brillaba.
+0038 [Diligent Investigator] | Como era de esperarse de la señorita Edda.==W== Sin duda conoce al Imperio de la Gracia mejor que casi cualquiera.
+0039 [Edda] | Me halagas.==W== Sigamos avanzando. El hechizo de calor de la ropa del Tirano se está desvaneciendo.
+0040 [Tú] | ¿Hechizo de calor? Ahora que lo mencionas, no he sentido nada de frío. ¿Es por eso?
+0041 [Edda] | Exacto.==W== Eres vital para esta operación, Tirano. Haré lo que sea para mantenerte sano y salvo. No sería bueno que te resfriaras.
+0042 [Tú] | Uf, con razón me siento calientito y cómodo: esta magia es muy práctica. Pero...==W== Parece que aquí hay alguien con menos ropa que yo.==W== Recuerdo que traía el abrigo puesto en el carruaje, y ahora se lo quitó después de la pelea...
+0043 [Sharp Investigator] | ¡Oigan!==W== ¡Ya volvimos y trajimos al resto del equipo!
+0044 [Supply Agent] | Buen trabajo, todos. Voy a calentar la cena.
+0045 [Tú] | No esperaba encontrar un edificio tan intacto en medio de la nada.
+0046 [Edda] | Se adelantaron para explorar y montar la base. Necesitamos este punto de apoyo para que la investigación avance sin contratiempos.
+0047 [Diligent Investigator] | Ordenamos y acomodamos lo esencial.==W== Siéntanse como en casa. Estaremos apostados aquí unos días.
+0048 [Supply Agent] | ¿Eh?==W== Me falta una porción. Señorita Edda, ¿se nos sumó un invitado extra?
+0049 [Edda] | Mis disculpas. Surgió algo en el camino y no tuve tiempo de avisar por radio.
+0050 [Edda] | Pero en realidad, qué buen momento.==W== Permítanme presentarles a nuestro consultor especial: el Tirano.
+0051 [Edda] | ==SEX1== ha tenido contacto con una Nocturn Eterna. No mucha gente tiene esa experiencia.
+0052 [Sharp Investigator] | ¡¿Espera, el Jefe?!==W== ¡¿El que salvó Emor y Philae, dirige una compañía,==W== y tiene un personal formado solo por chicas hermosas?!
+0053 [1] | ¡Un momento!==W== Dejando de lado la primera parte... ¡¿Dónde oyeron lo último?!
+0054 [Sharp Investigator] | Del reporte de la bruja en Scarlet Sights Media, obviamente.
+0055 [1] | Claro==W== que fue ella==W==...
+0056 [Edda] | Y esta es nuestra otra nueva incorporación:==W== Wraith.
+0057 [Edda] | Unos Stellaroids nos emboscaron de camino aquí. Ella acabó con la mayoría por sí sola.
+0058 [Wraith] | Mmm...==W== Mm...
+0059 [Edda] | Eh...==W== ¿Wraith?
+0060 [Wraith] | Cierto. Soy Wraith...==W== Mi especialidad es dar caza a los miembros de Nocturn Eterna.
+0061 [Edda] | Perdona, ¿estabas... dormida?==W== Parecías algo ausente.
+0062 [Wraith] | No dormía. Estaba pensando.==W== Conocer a tanta gente nueva lleva tiempo de procesar.
+0063 [Wraith] | Por cierto, ¿quién eras tú?
+0064 [Edda] | ¿Eh? ¿De qué hablas? ¡Soy Edda!==W== ¡Estuvimos en el mismo carruaje hace nada!
+0065 [Wraith] | Así que fuiste tú==W== quien viajó conmigo en el carruaje hace rato...
+0066 [Wraith] | Mm. Si ella es Edda... y tú tampoco llevas arma...==W== Por descarte, tú eres...==W== ==PLAYER_NAME==.
+0067 [Tú] | Esa es una forma muy extraña de reconocer a la gente...
+0068 [Tú] | No me digas que solo nosotros dos somos las únicas personas que puedes identificar.
+0069 [Wraith] | Para nada. Conozco perfectamente a Hacha, Espada Larga y Mago. Impresionante, ¿verdad?
+0070 [Tú] | «Hacha», «Espada Larga» y «Mago»... ¿Identificas a la gente por su equipo?
+0071 [Wraith] | Correcto. Un arma, y la manera de empuñarla, refleja el alma de su dueño. Es más fácil de rastrear que un rostro.
+0072 [Tú] | ¿Como ese viejo dicho de Loong, «la letra revela el carácter»?
+0073 [Wraith] | Algo así.
+0074 [Wraith] | Tomemos a Hacha y a Espada Larga. Sus hojas tienen marcas de garras idénticas. Ustedes dos deben de ser compañeros de equipo.
+0075 [Wraith] | Y Mago. Naciste zurdo, pero una lesión te obligó a cambiar de mano.
+0076 [The Crew] | V-vaya... Increíble...
+0077 [Tú] | Es fascinante. Como un trabajo de detective.
+0078 [Edda] | ¡Oye~! ¿Y yo qué?==W== Sin arma, sí, ¡pero me viste pelear!
+0079 [Edda] | ¡Toma eso!==W== ¡Ya no tienes adónde huir!
+0080 [Edda] | ¡Lárgate!
+0081 [Wraith] | Todo es un borrón. Estaba muy ocupada protegiendo a ==PLAYER_NAME== y neutralizando amenazas.
+0082 [Wraith] | Lo que sí recuerdo es que... Peleas bien, pero gritabas cada vez que atacabas. Era algo ruidoso.
+0083 [Edda] | ¡Ese es mi estilo característico!==W== ¡Deja de criticar!
+0084 [Edda] | Ejem. Sigamos. Ya que todos nos conocemos,==W== permítanme reiterar nuestro objetivo.
+0085 [Edda] | Estamos aquí para investigar el reinicio del Monolito y averiguar por qué Nocturn Eterna ha resurgido en esta zona.
+0086 [Edda] | Nocturn Eterna dejó esta ciudad en ruinas hace años, pero las anomalías recientes del Monolito sugieren que podrían seguir al acecho.==W== Por eso iremos en parejas: manténganse alerta mientras exploramos la ciudad en busca de señales de su regreso.
+0087 [Edda] | En cuanto a los equipos... Yo haré pareja con el Tirano, y...
+0088 [Wraith] | Yo me llevo a ==PLAYER_NAME==.==W== ==SEX1== no tiene ninguna capacidad de combate. Soy la opción lógica como escolta.
+0089 [Edda] | Uf... De acuerdo.==W== Entonces voy con el «Hacha», y la «señorita Espada Larga» se queda con la «Maga».
+0090 [Tú] | ¿Simplemente aceptó esos apodos? ¿Intentará facilitarle las cosas a Wraith?
+0091 [Edda] | Pero a cambio, yo elijo nuestras rutas de patrulla.
+0092 [Wraith] | Aceptable.
+0093 [Edda] | Todos, duerman un poco. Estamos agotados.==W== El trabajo de verdad empieza mañana.
+0094 [Edda] | Ah, ¿y Tirano? Esta habitación es tuya. Ya preparamos la cama.
+0095 [Tú] | Muchas gracias. Agradezco mucho la ayuda. Nos vemos en la mañana.
+0096 [Tú] | ¿Mm? ¿No vas a tu habitación?
+0097 [Wraith] | Aquí descanso.
+0098 [Tú] | Pero esta es mi habitación...==W== Ah, ¿quieres que cambiemos?==W== No me importa...
+0099 [Wraith] | No. Compartiremos esta habitación.
+0100 [Tú] | ¿Qué?
+0101 [Wraith] | ¿No me expliqué bien? Quise decir:==W== durante los próximos días,==W== dormiremos juntos.
+0102 [Tú] | ¡¿Por qué está pasando esto?!

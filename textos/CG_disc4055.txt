@@ -1,0 +1,136 @@
+# Recuerdo de disco · Fleeting Glimmers · 1 · Fleeting Glimmers
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_1209 | Willow
+N:avg1_160 | Willow
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_1096 | Vendedor del puesto
+N:avg3_1305 | Willow de Marea Solar
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_167 | Chica
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Destellos fugaces
+0003 [Intro] | Escucha a tu corazón en esta quietud de las profundidades.
+0004 [Willow] | Qué mañana tan hermosa.==W== Días como este dan ganas de adelantar—
+0005 [Willow] | Espera, no, basta. Estoy de vacaciones...==W== Estoy de vacaciones.
+0006 [Willow] | Un segundo de descanso y mi cerebro se va directo a la oficina.==W== La memoria muscular da miedo.
+0007 [Willow] | Le prometí a ==PLAYER_NAME== que hoy sí me tomaría un descanso de verdad. Nada de trabajo.
+0008 [Willow] | Hora de relajarme y disfrutar de este viaje.
+0009 [Tú] | Buenos días, Willow. Casi esperaba encontrarte otra vez sepultada bajo montones de papeles.
+0010 [Willow] | Descuida. Hoy estoy oficialmente en modo vacaciones.
+0011 [Willow] | La verdad,==W== hace siglos que no salgo a divertirme. Estoy completamente en tus manos, ==PLAYER_NAME==.
+0012 [Tú] | Jaja, no hace falta que seas tan formal. Estamos aquí para relajarnos, no para optimizar un flujo de trabajo. Respira hondo.
+0013 [Tú] | Hoy hay un mercado en la playa. Muchos juegos y comida local. ¿Quieres echar un vistazo?
+0014 [Willow] | Suena perfecto. Guíame.
+0015 [Willow] | ¡Guau...!==W== Hay más ambiente de lo que esperaba. Todos parecen estarse divirtiendo mucho.
+0016 [Willow] | Esto me trae recuerdos.==W== Solía venir todo el tiempo a la playa en Sailstead.
+0017 [Tú] | Entonces debes de conocer estos juegos de playa mejor que yo.
+0018 [Willow] | No exactamente. Normalmente, cuando salía aquí era para...==W== ¿Hmm?
+0019 [Willow] | Son demasiados turistas para tan poca vigilancia...==W== ¿Debería llamar a la Casa de los Trekkers para pedir refuerzos?
+0020 [Tú] | ¿Willow? ¿Tu cerebro volvió al modo trabajo?
+0021 [Willow] | Ah, perdón. No puedo creer que lo hayas notado. Modo vacaciones, Willow. Hay que mantener el personaje.
+0022 [Tú] | Me alegra que lo recuerdes.
+0023 [Tú] | Mira, allá están jugando Banderas de Playa. ¿Quieres probar?
+0024 [Willow] | ¿Banderas de Playa? ¿No es un ejercicio competitivo del entrenamiento de salvavidas? Se ve divertido...==W== ¡Ah!
+0025 [Willow] | Le están poniendo mucho empeño. Un aficionado podría desgarrarse un músculo así. ¿Y si chocan?==W== No veo ni un solo médico apostado cerca.
+0026 [Tú] | ¿Willow? ¿Por qué esa cara tan seria? ¿Qué pasa?
+0027 [Willow] | N-nada. ==PLAYER_NAME==, nada de Banderas de Playa. Si te lastimas ahí, nunca podré volver a dar la cara ante el Gremio de la Nueva Estrella.
+0028 [Willow] | Vamos a buscar un juego más seguro.
+0029 [Tú] | ¡¿Willow?! Bueno, no tenemos que jugar. ¡Solo no me jales el brazo tan fuerte!
+0030 [Willow] | ¿Con los ojos vendados ...==W== Golpea la Sandía?
+0031 [Tú] | Sí. Tal como dice el nombre. Te pones una venda e intentas romper una sandía usando solo las indicaciones de voz del público.
+0032 [Willow] | ¡Eso es muchísimo más peligroso! ¿Y si fallas la sandía y le abres la cabeza a alguien? Sería un desastre absoluto...!
+0033 [Tú] | ¡El palo que te dan no puede romper un cráneo! Además, los que miran no tienen los ojos vendados. Pueden esquivar fácilmente si la cosa se pone arriesgada.
+0034 [Tú] | ... Pero si eso te preocupa, siempre podemos jugar otra cosa.
+0035 [Willow] | Ahora me siento un poco mal...
+0036 [Willow] | ¿Esto es ...==W== un lanzamiento de aros?
+0037 [Willow] | ¿O sea que te llevas a casa lo que logres enganchar? ¿Y si aparece un profesional y se lleva todo el inventario? ¿De verdad el dueño lo entregaría todo?
+0038 [Stallholder] | ¡Jajaja! ¡No se preocupe por eso, señorita! Hacer un pleno en mi puesto es más difícil de lo que parece. ¿Qué dice? ¿Quiere probar?
+0039 [Tú] | Espera, ¿eres una especie de profesional del lanzamiento de aros, Willow?
+0040 [Willow] | Ah, no, ¡no me refería a eso...!==W== Solo tenía curiosidad por el modelo de negocio del puesto, nada más.==W== Perdón.
+0041 [Tú] | ¡No tienes que disculparte!==W== Estamos de vacaciones, no hay que preocuparse por los detalles. Lo único que importa es divertirse.
+0042 [Willow] | Suspiro... Lógicamente lo sé. Supongo que es un riesgo laboral. Empiezo a ver las cosas desde una perspectiva administrativa sin darme cuenta.
+0043 [Tú] | Mmm...==W== Y tú, Willow, ¿hay algo que de verdad quieras hacer?
+0044 [Willow] | ¿Algo que quiera hacer?
+0045 [Tú] | Sí. No tenemos tiempo libre como este muy seguido. Quiero que dejes atrás todo ese equipaje laboral y simplemente te relajes.
+0046 [Willow] | Eres muy amable. Sinceramente, con solo estar aquí de vacaciones contigo, ==PLAYER_NAME==, ya tengo más que suficiente para ser feliz.
+0047 [Tú] | Entonces lo pregunto de otra manera.==W== En Sailstead, ¿qué solías hacer normalmente en la playa?
+0048 [Tú] | Noté que no dejas de mirar el agua. ¿Hay algo allá que te llame la atención?
+0049 [Willow] | Nada tan especial, la verdad. En la playa de Sailstead, normalmente solo...
+0050 [Willow] | Ay, en serio...==W== No puedo creer que notaras que miraba.
+0051 [Willow] | ... En realidad, solía bucear. Me hundía en esa agua azul interminable, cada vez más profundo ...==W== hasta que por fin sentía paz.
+0052 [Tú] | Suena perfecto. Iré a preguntar por buenos sitios de buceo.
+0053 [Willow] | Pero ...==W== entonces no podrías disfrutar tus vacaciones. Y con tu nivel de natación...==W== Bueno, el buceo profundo quizá todavía te quede grande.
+0054 [Tú] | No me importa esperar en el bote. Escuchar lo que viste allá abajo me basta.==W== Prefiero mil veces que tú disfrutes estas vacaciones.
+0055 [Willow] | Eres increíble...==W== Está bien, ganaste. Iré.
+0056 [Tú] | ¿Qué te parece este lugar?
+0057 [Willow] | Agua clara, sin arrecifes ocultos. Es un excelente lugar. Hagámoslo aquí.
+0058 [Willow] | Ya tengo todo el equipo puesto. El bote queda en tus manos.
+0059 [Tú] | Yo me encargo. Cuídate allá abajo, Willow.
+0060 [Willow] | El agua está a la temperatura perfecta, hay mucha luz y la visibilidad es excelente.==W== Ah, días como este...
+0061 [Willow] | ... ¡están hechos para bucear!
+0062 [Narración] | _NOT_IN_LOG_T==A0.15==
+0063 [Narración] | _NOT_IN_LOG_T Ú==A0.15==
+0064 [Narración] | _NOT_IN_LOG_T Ú==A0.15==
+0065 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0066 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0067 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0068 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0069 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0070 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0071 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0072 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0073 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0074 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0075 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0076 [Narración] | _NOT_IN_LOG_T ÚTú ==A0.03==
+0077 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0078 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0079 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0080 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0081 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0082 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0083 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0084 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0085 [Narración] | _NOT_IN_LOG_T ÚTú dijiste==A0.03==
+0086 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0087 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0088 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0089 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0090 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0091 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0092 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0093 [Narración] | _NOT_IN_LOG_T ÚTú dijiste que==A0.03==
+0094 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0095 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0096 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0097 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0098 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0099 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0100 [Narración] | _NOT_IN_LOG_No es nada==A0.03==
+0101 [Willow] | ¿Cuándo fue la última vez que me solté así? A la deriva con la corriente, rodeada de peces... Siento que soy una con el océano.
+0102 [Willow] | Rendirme por completo al agua, sentir cómo se me quita el peso de los hombros...==W== Ah, extrañaba esto. Sigo amando el buceo.
+0103 [Willow] | Horizon fue quien me enseñó a bucear. En ese entonces yo era una Trekker despreocupada. De verdad he cambiado...
+0104 [Willow] | No...==W== Sigo siendo tan terca como siempre. Me entierro en el trabajo y dejo que todos los demás se preocupen por mí.
+0105 [Willow] | Sobre todo tú, ==PLAYER_NAME==. Has estado preocupándote por mí, ¿verdad?
+0106 [Willow] | Ni siquiera has recuperado tus propios recuerdos, y aun así aquí estás, haciendo lo imposible para asegurarte de que yo esté bien.
+0107 [Willow] | ¿Cómo podré pagar alguna vez tanta amabilidad? Como empleada de la Asociación de Trekkers, tengo las manos algo atadas... Pero aun así...
+0108 [Willow] | Quiero ser tu fuerza. Ser alguien con quien siempre puedas contar.
+0109 [Willow] | Pensar que lograste conmover un corazón que solo se preocupaba por el trabajo.==W== Eres increíble, ==PLAYER_NAME==.
+0110 [Willow] | Uf...
+0111 [Tú] | ¡Willow! Estuviste allá abajo una eternidad. Empezaba a preocuparme...
+0112 [Willow] | Jaja, ¡relájate! Eso no es nada para una buceadora con experiencia.
+0113 [Willow] | ==PLAYER_NAME==...==W== ¿Puedo pedirte un favor?
+0114 [Tú] | ¿Qué es?
+0115 [Willow] | ¿Podría quedarme un poco más abajo? Aunque me siento fatal por hacerte esperar en el bote...
+0116 [Willow] | Para compensártelo, te traeré unas conchas interesantes. ¡Quién sabe, quizá alguna tenga una perla dentro!
+0117 [Tú] | ¿¡En serio!? No puedo esperar. No te preocupes por mí, ve a divertirte.
+0118 [Willow] | ¡Gracias! ¡Vuelvo a entrar!
+0119 [Willow] | Creo que entiendo lo que Laru quería decir sobre el equilibrio entre trabajo y vida. Después de un descanso como se debe, me siento más motivada para trabajar.
+0120 [Willow] | Quizá consentirme de vez en cuando no sea mala idea. ¡La próxima vez que lo haga, me aseguraré de invitar a ==PLAYER_NAME==!

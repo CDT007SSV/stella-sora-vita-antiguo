@@ -1,0 +1,127 @@
+# Historia de Allie · 1 · Make-Believe Wedding (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Girl | Niña curiosa
+N:Embarrassed Girl | Niña avergonzada
+N:Energetic Girl | Niña enérgica
+N:Enthusiastic Boy | Niño entusiasta
+N:Girl Passing By | Niña que pasa
+N:Happy Boy | Niño feliz
+N:Mature Girl | Niña madura
+N:Sleepy Boy | Niño somnoliento
+N:The Kids | Los niños
+N:avg1_139 | Allie
+N:avg3_100 | Sylar
+N:avg3_1311 | SaiLa F
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Boda de mentiras (Parte I)
+0003 [Intro] | Quizá Allie ya sea madre, pero nunca ha estado enamorada, y mucho menos casada... ¿Eso la sigue haciendo madre?
+0004 [Allie] | ¡Buenos días a todos! ¡Vayan a lavarse y luego vengan a desayunar!
+0005 [Sleepy Boy] | Mmm... Mamá, todavía tengo sueño...
+0006 [Allie] | Jaja, arriba, dormilón. El sol ya salió. Quítate la piyama y échate un poco de agua en la cara.
+0007 [Embarrassed Girl] | Mamá... mi camisa tiene un botón de más...
+0008 [Allie] | ¡Ay, cielos! No te preocupes, ¡ya voy a arreglarlo!
+0009 [Allie] | Jefe, ¿podrías traer unos huevos de la despensa? Hoy hay hotcakes de desayuno.
+0010 [Tú] | ¡Voy!==W== Siempre eres tan rápida y eficiente, Allie.==W== Es impresionante.
+0011 [Tú] | ¡Justo la Mamá perfecta para el Orfanato Margarita!
+0012 [Tú] | Allie... ¿Qué pasó aquí?
+0013 [Allie] | Ah... Jefe... Eh... Intentaba voltear un hotcake, pero no esperaba que saliera volando tan alto...
+0014 [1] | Y ahora está pegado al techo. Eso sí es talento...
+0015 [Allie] | Suspiro... ¿Por qué siempre soy así? Estaba teniendo cuidado...
+0016 [Tú] | Oye, no pasa nada. ¡Haré una tanda nueva! Los niños necesitan comer. Después del desayuno podemos revisar tu técnica para voltearlos.
+0017 [Allie] | Jefe... Gracias.
+0018 [Happy Boy] | ¡Los hotcakes están buenísimos! ¡Quiero más!
+0019 [Energetic Girl] | ¡Yo también!
+0020 [Tú] | Jaja, ¡bien, cálmense! Hay de sobra para todos. Hagan fila, sin empujar.
+0021 [The Kids] | ¡Vaaale!
+0022 [Allie] | Jefe... Sé que es mucho pedir, pero ¿podrías enseñarme a cocinar?
+0023 [Tú] | ¿Quieres que yo te enseñe?
+0024 [Tú] | Pero... ¿Soy la persona indicada? Si hablamos de cocina, probablemente sea mejor preguntarle a Noya...
+0025 [Allie] | Pero el Gremio de la Nueva Estrella salió a una comisión. No volverán en un buen rato.
+0026 [Allie] | Además, no está de más aprender de más de un maestro. ¡Tengo que mejorar en esto, por el bien de los niños!
+0027 [Tú] | ¡Tienes razón! No hay mejor momento que el presente. Probemos esos hotcakes otra vez.
+0028 [Allie] | ¡Gracias, Jefe!==W== Bien, paso uno. Tamizar la harina...==W==
+0029 [Tú] | ¡Cof, cof! A... ¡Allie... Con calma con el tamiz! Lo estás sacudiendo demasiado fuerte...
+0030 [Allie] | ¡L-lo siento! Qué raro, sentí que ya me estaba conteniendo...
+0031 [Tú] | Primero un hotcake en el techo, ahora una tormenta de harina. Antes de cocinar nada, tengo que enseñarle a Allie a controlar su fuerza.
+0032 [Tú] | Allie, ¿podrías darme tu mano?
+0033 [Allie] | Claro, pero... ¿Qué haces con mi mano?
+0034 [1] | Quiero que sientas cuánta fuerza uso.==W== Sí...==W== Eso, así. Relaja el agarre. No hace falta apretar.
+0035 [1] | Mantén el tamiz firme con la izquierda y golpéalo con la derecha. Así... Toc, toc, toc...
+0036 [Allie] | Oh,==W== ¿solo se necesita un toque ligero así?
+0037 [Tú] | ¿Ves? Completamente distinto a lo que hacías. Ya que tienes la sensación, ¡intentemos romper un huevo!
+0038 [Allie] | ¡Entendido, Jefe! Recuerda... Solo un golpecito suave...==W== Ah.==W==
+0039 [Tú] | Apenas rozaste el tazón y todo el huevo se hizo añicos. Parece que subestimé tu fuerza bruta...
+0040 [Allie] | ¡Lo siento! Voy a limpiar esto ahora mismo...==W== ¡Ay!==W==
+0041 [Allie] | ¡Ay, no, perdón! ¿Por qué siempre causo problemas...?
+0042 [Tú] | Oye, respira hondo. Yo me encargo de los platos rotos...==W== ¡Auch!==W==
+0043 [Allie] | ¡Jefe! ¿¡Estás bien!?
+0044 [Tú] | Solo un rasguño, nada grave.
+0045 [Narración] | Allie me toma la mano y se mete mi dedo sangrante directo a la boca.
+0046 [Allie] | Mmm...
+0047 [Tú] | ¿¡A-Allie!? ¿¡Qué haces...!?
+0048 [Allie] | ¿¡Ah!?==W== ¡Lo siento! Así es como curo los raspones de los niños. No estaba pensando...
+0049 [Tú] | Ah... Ya veo. Jaja. Me hizo sentir como en la infancia otra vez. Un poco vergonzoso, la verdad.
+0050 [Allie] | C-claro. Tú no eres exactamente un niño, Jefe...
+0051 [Allie] | Santo cielo, ¿qué hice...
+0052 [Girl Passing By] | ¿Eh? Mamá, Jefe, ¿por qué tienen las caras tan rojas?==W== ¿Los dos tienen fiebre?==W== ¿Están enfermos?
+0053 [Allie] | ¡N-no, estamos bien! ¡Mamá se siente de maravilla! ¿Verdad, Jefe?
+0054 [Tú] | ¿Eh? ¡Ah, sí! ¡Perfectamente! ¡Nada de qué preocuparse!
+0055 [Tú] | Aunque no tenga recuerdos de mi propia infancia, que me consientan como a un niño sigue siendo vergonzoso...
+0056 [Tú] | Aun así... ¿Por qué a Allie también se le puso la cara roja?
+0057 [Allie] | «Y así, la princesa y el príncipe se casaron, y vivieron felices para siempre. Fin».
+0058 [Allie] | Bien, eso es todo por esta noche. Hora de meterse a la cama, todos.
+0059 [Curious Girl] | Mamá, ¿qué significa «se casaron»?
+0060 [Allie] | ¿Eh? Bueno... Es cuando las vidas de dos personas se vuelven una y prometen quedarse al lado del otro.
+0061 [Enthusiastic Boy] | ¿«Se vuelven una»? Mamá, ¿el príncipe y la princesa se convirtieron en una sola persona?
+0062 [Curious Girl] | ¡Pero en el cuento ilustrado salen como dos personas!
+0063 [Allie] | Ah... Tienes razón, fue un poco difícil de entender.==W== ¿Qué tal «llevarse bien con alguien que te gusta y ayudarse mutuamente en la vida»? ¿Es más fácil de entender?
+0064 [Mature Girl] | Entonces, ¿tú y el Jefe están casados?
+0065 [Allie] | ¡¿Por qué?!
+0066 [Mature Girl] | Porque tú y el Jefe se llevan muy bien, ¿no?
+0067 [Curious Girl] | ¡Sí! ¡Esta tarde estaban riendo y cocinando juntos!
+0068 [Allie] | B-bueno, el Jefe y yo sí nos llevamos bien, pero no nos vamos a casar...
+0069 [Enthusiastic Boy] | ¿No?
+0070 [Mature Girl] | ¡Jefe! ¡Jefe!==W== ¿Tú y Mamá están casados?
+0071 [Tú] | ¿¡Yo!? Eh...==W== No, Allie y yo no estamos casados.
+0072 [Mature Girl] | ¿Es porque==W== no te cae bien Mamá...?
+0073 [Tú] | ¡No, claro que no!==W== ¡Allie me cae muy bien!
+0074 [Tú] | ¿Cómo lo explico? Ustedes también quieren a Mamá Allie, ¿verdad?
+0075 [Enthusiastic Boy] | ¡Sí! ¡Es nuestra favorita!
+0076 [Tú] | Pero no están «casados» con ella, ¿o sí?==W== Porque son sus preciosos hijos. ¿Tiene sentido?
+0077 [Enthusiastic Boy] | ¡Sip! Mamá es Mamá.
+0078 [Tú] | Exacto. No hace falta estar casados para querer a alguien y ayudarle.
+0079 [Tú] | ¡Yo ayudo a Mamá Allie, igual que ustedes!
+0080 [The Kids] | ¡Ah, ya entendimos!
+0081 [Tú] | Uf... Con esa explicación deberían quedar satisfechos.
+0082 [Curious Girl] | Pero si es así, ¿por qué el príncipe y la princesa tenían que casarse?
+0083 [Enthusiastic Boy] | ¿Y si la princesa fuera la mamá del príncipe,==W== y el príncipe fuera el papá de la princesa?
+0084 [Mature Girl] | Entonces, ¿podemos casarnos con Mamá y con el Jefe cuando seamos grandes? ¡Los queremos a los dos más que a nadie!
+0085 [Tú] | Eso es... Eh, bueno...
+0086 [Allie] | ¡Bien, ya basta de preguntas por esta noche! Los niños buenos ya deberían estar dormidos.
+0087 [The Kids] | Hmph...==W==
+0088 [Allie] | Nada de «hmph». Dejaremos el resto para mañana.
+0089 [The Kids] | Está bien. Buenas noches, Mamá. Buenas noches, Jefe.
+0090 [Tú] | Jaja... Los niños saben tomarte por sorpresa. No esperaba que lo vieran así. ¿Verdad, Allie?
+0091 [Allie] | Jefe, ¿te casarías conmigo?
+0092 [Tú] | ¡¿QUÉ?! ¿¡C-C-Casarme contigo!? ¿¡Yo y tú!?
+0093 [Tú] | ¿¡De dónde salió eso!?
+0094 [Allie] | No pude explicárselo a los niños de manera que lo entendieran. Eso demuestra que me falta experiencia en la vida real...
+0095 [Tú] | ¿¡Experiencia en qué!?
+0096 [Allie] | Jefe... La verdad es que nunca he tenido una cita, mucho menos una relación.==W== Solo juego a ser «mamá» copiando lo que hacen otros padres.
+0097 [Allie] | Enamorarse,==W== caminar hacia el altar,==W== tener un hijo...==W== Una madre de verdad sabe lo que se siente.==W== Pero yo no sé nada al respecto.
+0098 [Tú] | Allie...
+0099 [Allie] | Así que pensé que, para responder a sus preguntas, quizá debería averiguar por mí misma qué es el «matrimonio»...==W==
+0100 [Allie] | Así que por favor, Jefe.==W== ¡Cásate conmigo!
+0101 [Tú] | ¡Espera, espera, espera!==W== Entiendo lo que piensas,==W== pero saltar directo al matrimonio es demasiado rápido.
+0102 [Tú] | ¡E-en realidad! ¿Tienes tiempo libre más tarde? Hay un lugar que quiero mostrarte.
+0103 [Allie] | ¿Eh?

@@ -1,0 +1,90 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 4A · Red for Passion
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Girl | Chica curiosa
+N:Enthusiastic Kids | Niños entusiastas
+N:Excited Girl | Chica emocionada
+N:avg1_115 | Firefly
+N:avg1_126 | Flora
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Rojo de pasión
+0003 [Intro] | En el Clan Viento de Ceniza te encuentras con Flora, que anda en su gira de invierno. Resulta que vio la foto del Espíritu, y te da una pista que lleva a la casa de un carpintero en la calle Este 1.
+0004 [Narración] | Para encontrar la foto del Espíritu del Árbol, llegamos al lugar del Clan Viento de Ceniza.
+0005 [Tú] | No hay nadie...==W== Qué raro. Normalmente andan por aquí.
+0006 [Laru] | Es el Festival Nevado. Seguro salieron todos juntos.
+0007 [Tú] | Otro callejón sin salida, entonces.
+0008 [Tú] | Mmm, parece que algo está pasando allá afuera...
+0009 [Laru] | ¿Por qué no vamos a echar un vistazo?
+0010 [???] | ¿Quién será el próximo espíritu?
+0011 [Enthusiastic Kids] | ¡Yo! ¡Yo yo yo!
+0012 [???] | Entonces...==W== ¡Qué tal la niña del vestido rojo, la de la fila de atrás!
+0013 [Excited Girl] | ¡Yupiii!
+0014 [Laru] | Esa se parece a...==W== ¿la famosísima Maga Máxima, Flora...?
+0015 [Laru] | ¿Qué hace aquí?
+0016 [Narración] | Una esfera resplandeciente se elevó de la punta de su varita y giró lentamente alrededor de una niña.
+0017 [Flora] | ¡Muy bien! ¡Ha aparecido un nuevo espíritu!
+0018 [Excited Girl] | ¡Wow! ¡Yo también soy un espíritu! ¡Gracias, señorita linda!
+0019 [Tú] | Ah, está haciendo magia para los niños.
+0020 [Flora] | De nada~ Ji, ji. Ahora, ¿quién sigue...?
+0021 [Laru] | Tirano, quizá no deberíamos molestarlos. ¿Mejor revisamos otro lugar primero?
+0022 [Tú] | ¿Mm? Pensé que este tipo de espectáculo de magia te interesaría.
+0023 [Laru] | ¡Es hora de trabajar! ¡Primero tenemos que terminar la tarea como Mensajeros!
+0024 [Tú] | ¿La reina de los flojos tomando la iniciativa? Qué raro... Definitivamente algo se trae...
+0025 [Flora] | ¿Eh? ¿Tirano? Qué coincidencia.
+0026 [Flora] | ¿Y ella es...?
+0027 [Laru] | ¿Y-yo? Soy Laru, del Imperio de la Gracia.==W== Usted debe de ser la gran maga Flora, ¿verdad?
+0028 [Flora] | Ji, ji, eres muy amable. Déjame mostrarte un poquito de magia del Festival Nevado~
+0029 [Laru] | Wow, increíble—
+0030 [Curious Girl] | ¡Eres muy bonita! ¡Igualita al Espíritu del Árbol Nevado!
+0031 [Laru] | ¿El... el Espíritu del Árbol?==W== Ja, ja, no tanto.
+0032 [Flora] | Muy bien, chicos, con esto termina el espectáculo de la mañana. Vayan a comer, y nos vemos aquí otra vez a las dos, ¿sí? ¡No lleguen tarde!
+0033 [Enthusiastic Kids] | ¡Está bien!
+0034 [Flora] | Ji, ji, no esperaba verlos aquí. Ando en mi gira de invierno y decidí jugar un rato con los niños de aquí.
+0035 [Tú] | La primera vez que conocí a Flora también fue durante una de sus giras. Me eligieron como invitado para participar en el escenario. Qué buenos tiempos...
+0036 [Flora] | Por cierto, ¿por qué van vestidos así? ¿Es por el festival?
+0037 [Laru] | ¡Este es un atuendo especial nevado! El Imperio de la Gracia me puso a repartir regalos a los niños, y le pedí al Tirano que me acompañara.
+0038 [Tú] | También buscamos una foto. Al parecer muestra al Espíritu del Árbol Nevado. Todos los niños quieren verla.
+0039 [Flora] | ¿El Espíritu del Árbol Nevado...?==W== ¡Ah! Debe de ser la foto que vi esta mañana.
+0040 [Laru] | ¡¿La viste?!
+0041 [Flora] | Sí. Los niños estaban reunidos leyendo un libro, muy serios, así que me dio curiosidad y fui a ver.
+0042 [Flora] | Por cierto, el truco de magia que acabo de hacer se inspiró en esa foto. Un espíritu que irradia rayos de luz...
+0043 [Tú] | Flora, ¿recuerdas quién tenía el libro en ese momento?
+0044 [Flora] | Mmm...==W== Eran demasiados. No me fijé quién lo tenía.
+0045 [Tú] | Esto se complica...
+0046 [Flora] | Pero les oí decir que después se lo iban a enseñar a otra niña.
+0047 [Laru] | ¡¿A quién?!
+0048 [Flora] | Creo que era la hija del carpintero de la calle Este 1.
+0049 [Laru] | La hija del carpintero de la calle Este 1...
+0050 [Tú] | ¿La conoces?
+0051 [Laru] | Que yo sepa, no hay muchos carpinteros en la calle Este 1. No sé cuál tiene una hija, pero si preguntamos por ahí, pronto lo sabremos...
+0052 [Flora] | Qué bueno que pude ayudar~ Hablando de eso...
+0053 [Laru] | ¿Qué pasa? ¿Por qué me miras así?
+0054 [Flora] | Perdón, es que no esperaba que miembros del Imperio de la Gracia usaran atuendos como estos. Es muy distinto a sus uniformes de siempre.
+0055 [Laru] | ¡Ya te dije, es por trabajo!
+0056 [Tú] | Aun así, Flora, ¿no hay problema con que estés aquí haciendo magia para los niños? ¿No estás ocupada?
+0057 [Flora] | Ah, cierto, ya debo ir a prepararme.
+0058 [Flora] | Si ustedes no estuvieran trabajando... los invitaría a la función especial del Festival Nevado de esta noche.
+0059 [Laru] | Je, como es un espectáculo especial, ¿usarás un atuendo nevado, igual que nosotros?
+0060 [Flora] | Es una buena idea. Un vestuario festivo llamaría la atención. Lo pensaré.
+0061 [Laru] | Eh...==W== Supongo que el sarcasmo no funciona con las celebridades.
+0062 [Narración] | Después de despedirnos de Flora, nos dirigimos a la calle Este 1.
+0063 [Tú] | No esperaba que te comprometieras tanto con encontrar la foto.
+0064 [Tú] | Pensé que solo querías terminar de repartir los regalos rápido y relajarte después.
+0065 [Laru] | Pues...==W== Los niños están muy emocionados con eso. Así que a mí también me da curiosidad.
+0066 [Tú] | Ya veo. Pensé que quizá había algo en esa foto que realmente te llamó la atención.
+0067 [Laru] | Bueno... No es que no hubiera nada...==W== ¡Pero solo un poquito...!
+0068 [Tú] | Estabas desviando la mirada, ¿sabes? Bueno, entonces cuéntamelo cuando encontremos la foto.
+0069 [Laru] | Aunque no me lo pidieras, igual tendría que explicártelo entonces.
+0070 [Tú] | Bueno, bueno. Me muero de ganas.
+0071 [Laru] | No te emociones tanto por este tipo de...==W== Espera, Tirano, mira—
+0072 [Laru] | Esa es la niña que nos estaba espiando hace rato.

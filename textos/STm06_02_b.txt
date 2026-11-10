@@ -1,0 +1,140 @@
+# Capítulo 6 · Milagro de un destello · 2B · El precio de la negación
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cautious Soldier | Soldado cauteloso
+N:Proactive Team Leader | Líder de equipo proactivo
+N:Suspicious Officer | Oficial suspicaz
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_138 | Nyx
+N:avg2_962 | Empleado envenenado de Cosecha Unida
+N:avg2_963 | Empleado envenenado de Cosecha Unida
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1265 | Firenze
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El precio de la negación
+0003 [Intro] | Rechazas la lealtad de Darcia y quedas bajo arresto domiciliario, pero Firenze, conmovida por tus convicciones, decide colaborar contigo en secreto. Les adviertes a tus compañeras que escapen de inmediato.
+0004 [Lugar y hora] | 01:30, 5.º del mes de Messis, Distrito de Oro de Philae, pasillo de la compañía
+0005 [Firenze] | Por aquí, por favor, ==SEX12== Tirano.
+0006 [Narración] | Bajo la custodia de Firenze y sus soldados, me escoltan fuera de la oficina de Darcia.
+0007 [Tú] | Firenze, por favor. Tú lo sabes bien.==W== Soy el Jefe de Boss Accord, no el Tirano de las leyendas.
+0008 [Firenze] | No tiene caso que me lo explique a mí. Esa decisión le corresponde por completo a Lady Darcia.
+0009 [Firenze] | Aquí, si Lady Darcia dice que lo blanco es negro, entonces es negro.==W== Y como ella dice que usted es el «Tirano legendario», pues...
+0010 [Tú] | ...¿Entonces soy el Tirano?==W== Eso es ridículo. Me están deteniendo ilegalmente.
+0011 [Firenze] | ¿Hace falta que le recuerde dónde estamos, ==SEX12== Tirano? Esto es Cosecha Unida. Sus compañeras también son invitadas aquí... Así que, yo que usted, no intentaría ninguna tontería.
+0012 [Firenze] | Solo seguimos las órdenes de Lady Darcia. Por favor, no lo complique.
+0013 [Tú] | Usar la seguridad de todos como moneda de cambio...==W== ¡Darcia!==W==
+0014 [Lugar y hora] | 02:00, 5.º del mes de Messis, Distrito de Oro de Philae, sala de recepción VIP
+0015 [Firenze] | Sus aposentos provisionales, ==SEX12== Tirano. Por favor, siéntase como en casa.
+0016 [Firenze] | No salga de esta habitación. Si necesita algo, solo pídalo y lo tendré listo.
+0017 [Tú] | ¿Cuánto tiempo piensan tenerme aquí?
+0018 [Firenze] | Eso depende de usted... y de Lady Darcia, por supuesto.==W== Aunque imagino que, si de pronto «recordara» que es el Tirano, su estancia podría ser más corta.
+0019 [Tú] | ¿Por qué tengo que ser yo?
+0020 [Firenze] | No me corresponde especular.==W== Quizá solo sus talentos particulares cumplen con los estándares de Lady Darcia.
+0021 [Firenze] | Ahora, entrégueme su teléfono y su uniforme. Se los mostraremos a sus subordinadas para que estén tranquilas.
+0022 [Tú] | Hmph. Ellas son su moneda de cambio contra mí, y yo soy su moneda de cambio contra ellas. ¿Es eso?
+0023 [Firenze] | Lady Darcia cree que está rodeado de influencias traicioneras. Piensa que por ellas usted se ve a sí mismo como un Trekker y no como el Tirano.
+0024 [Tú] | ¿Por eso nos separaron?==W== Por cierto, ¿y si no te doy el teléfono?
+0025 [Firenze] | Lady Darcia me autorizó a usar la fuerza, siempre y cuando no le cause ningún daño.
+0026 [Firenze] | Sin embargo, preferiría no ejercer ese privilegio.
+0027 [Firenze] | Si satisface mi curiosidad con una respuesta, podría hacer una excepción. Me llevaré el uniforme, pero puede quedarse con el teléfono.
+0028 [Tú] | ¿Cuál es la pregunta?
+0029 [Firenze] | Le habría sido fácil fingir que aceptaba la lealtad de Lady Darcia. ¿Por qué decidió negarse de todos modos?
+0030 [Tú] | No deja de decir «Lady Darcia», pero pregunta algo que socava por completo a su señora. ¿Me está poniendo a prueba... o tiene sus propios planes?
+0031 [Tú] | No hay una gran razón. Simplemente no puedo estar de acuerdo con su filosofía. Eso es todo.
+0032 [Firenze] | ¿Aunque esa decisión lo ponga en peligro a usted y a sus subordinadas?
+0033 [Tú] | ¿No acabas de decir que esto es Cosecha Unida? Aquí nunca estuvimos a salvo, sin importar lo que yo eligiera.
+0034 [Tú] | No me importan las leyendas. Solo quiero ser el Jefe en quien confían mis compañeras.
+0035 [Firenze] | La persona en quien confían, ¿eh...?
+0036 [Firenze] | Esa confianza que hay entre ustedes... De verdad es envidiable.
+0037 [Firenze] | Muy bien. Para honrar nuestro acuerdo, no le pediré el teléfono.
+0038 [Tú] | Me alegra que estés satisfecha. Hablando de eso...==W== ¿De dónde sacaste esa maleta?
+0039 [Firenze] | ¿Esto? Es mi equipaje.==W== No se preocupe, solo lo indispensable: una muda de ropa y un estuche de maquillaje.
+0040 [Firenze] | Solo le pedí que se cambiara porque ese uniforme barato es un insulto a su posición. En cuanto al teléfono...==W== En realidad nunca tuvo que entregarlo.
+0041 [Firenze] | Lady Darcia solo me ordenó permanecer a su lado, para asegurarme de que esas subordinadas intrigantes no lo desvíen del camino.
+0042 [Tú] | ¿Y esa «fuerza» que mencionaste hace rato?
+0043 [Firenze] | Estaba fanfarroneando.
+0044 [Firenze] | ¿De qué otra forma iba a conocer sus verdaderos pensamientos sin una pequeña mentira? Sin embargo, cuando dije que envidiaba la confianza entre usted y sus compañeras, eso sí era verdad.
+0045 [Firenze] | Adelante. Contacte a sus amigas. Dígales lo que necesite decirles.
+0046 [Tú] | ¿Hacer esto... no va en contra de la voluntad de Darcia? ¿No te preocupa que te castigue?
+0047 [Firenze] | Mientras yo lo esté atendiendo, es imposible que lo desvíen del camino.
+0048 [Firenze] | Además...
+0049 [Firenze] | Tengo mucha curiosidad por ver exactamente qué clase de Jefe pretende llegar a ser.
+0050 [Lugar y hora] | 02:15, 5.º del mes de Messis, Distrito de Oro de Philae, oficina de Cosecha Unida
+0051 [Noya] | Aaah... Uf, qué sueño.==W== ==PLAYER_NAME== lleva siglos allá dentro. ¿Por qué tarda tanto?
+0052 [Iris] | Sin duda el Jefe está discutiendo asuntos ejecutivos complejos con Darcia. Al fin y al cabo, los dos son directores ejecutivos. ¡Es estrategia de alto nivel!
+0053 [Fuyuka] | Como Darcia es tan amable... Seguramente no culpará al Maestro aunque hayamos destruido el invernadero, ¿verdad...?
+0054 [Noya] | ¡Darcia ya dijo que no importaba! Además, ¿no fue ella la que nos salvó el pellejo de Firenze hace rato?
+0055 [Fuyuka] | E-eh... Entonces, ¿por qué hay tanta gente... mirándonos?
+0056 [Amber] | ¿Mm? Es el Jefe.
+0057 [Tú] | 
+0058 [Tú] | Amber, ¿están todas bien?
+0059 [Amber] | 
+0060 [Amber] | Jefe, aguantamos. Tenemos comida y agua.
+0061 [Amber] | Pero hay un montón de soldados de Cosecha Unida vigilándonos
+0062 [Tú] | 
+0063 [Tú] | Necesito un favor
+0064 [Tú] | Busquen la forma de salir de la ciudad. Vayan al campamento de Trekkers y reúnanse con Petal Bloom.
+0065 [Amber] | 
+0066 [Amber] | ¿Salir de la ciudad? Pero tú sigues en la oficina de Darcia.
+0067 [Tú] | No se preocupen por mí.
+0068 [Tú] | 
+0069 [Tú] | Darcia me tiene bajo arresto domiciliario. Ahora mismo no puedo escapar.
+0070 [Tú] | Si las cosas se ponen peligrosas, solo corran.
+0071 [Tú] | Si ustedes salen a salvo, no podrá usarlas como moneda de cambio contra mí.
+0072 [Tú] | Es la única forma de que tenga algo con qué negociar.
+0073 [Amber] | (Soldados afuera de la ventana... Y adentro también...)
+0074 [Amber] | (Es como si nos leyeran la mente).
+0075 [Amber] | (Tengo que encontrar una salida).
+0076 [???] | Mi pecho... Siento una opresión. ¿Me ayudas a llegar a la enfermería?
+0077 [Proactive Team Leader] | ¿Otra vez tú? ¡Que sea rápido! No te atrases con tu cuota.
+0078 [Proactive Team Leader] | Tú, el pasante, ve a echarle una mano.
+0079 [Amber] | Eso es. Usaré el truco que me enseñó Nyx... Ojalá capte la indirecta.
+0080 [Amber] | Mmgh... Me duele...
+0081 [Noya] | ¿Amber? ¡¿Amber?! ¡¿Estás bien?! ¡¿Qué te pasa?!
+0082 [Amber] | Mi pecho... Opresión... Necesito... la enfermería...
+0083 [Nyx] | ¿La enfermería...?
+0084 [Nyx] | ¡Ay, no, podría ser isquemia cardíaca por exceso de esfuerzo! ¡Tenemos que llevarla a la enfermería ahora mismo!
+0085 [Suspicious Officer] | Alto ahí. Las órdenes de Lady Darcia son absolutas: nadie sale de esta sala.
+0086 [Nyx] | ¿Ahora te pones a citar el protocolo? Ella es de Boss Accord, la invitada de honor de Lady Darcia. Si se desploma mientras tú estás de guardia, ¿vas a cargar con la culpa?
+0087 [Suspicious Officer] | Bueno... Yo...
+0088 [Cautious Soldier] | Lady Darcia quiere una alianza con Boss Accord. Técnicamente, nuestras órdenes son solo de «protección». Si una VIP sale lastimada... Rodarán nuestras cabezas.
+0089 [Suspicious Officer] | Es cierto... Pero no puedo dejarlas salir así nada más sin vigilancia.==W== Espera, ya sé.
+0090 [Suspicious Officer] | ¡Abran paso! No se les despeguen. Nosotros mismos las escoltaremos hasta allá.
+0091 [Lugar y hora] | 02:45, 5.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 7
+0092 [Nyx] | Aquí estamos. Bienvenidas a mi «enfermería».
+0093 [Fuyuka] | ¿Enfermería?==W== Sí, hay un catre, pero parece más bien un rincón escondido del invernadero...==W== Justo mi tipo de lugar.
+0094 [Cautious Soldier] | Llamada entrante de Lady Darcia.
+0095 [Suspicious Officer] | Sí, Lady Darcia. Ya tenemos a las Trekkers a la vista.
+0096 [Suspicious Officer] | Entendido. Eliminar a las Trekkers. Y a Nyx. Sin dejar sobrevivientes.
+0097 [Iris] | ¡O-oigan! ¡¿Qué están haciendo?!
+0098 [Noya] | ¿Sin dejar sobrevivientes...? Espera, eso significa...
+0099 [Nyx] | Si Darcia está actuando ahora...
+0100 [Nyx] | Algo debió de pasar.
+0101 [Suspicious Officer] | ¡¿De dónde vienen esos disparos?!==W== ¿Es... es una trampa del Departamento de Cumplimiento?
+0102 [Nyx] | Buenos reflejos, Amber. Justo a tiempo.
+0103 [Nyx] | Y aquí dentro... Mis Plumas tienen espacio para trabajar.
+0104 [Narración] | Varias pistolas flotantes, iguales a la que Nyx tiene en la mano, salen disparadas de entre los arbustos.
+0105 [Narración] | Atrapados en el fuego cruzado, los soldados de Cosecha Unida arrastran a sus heridos y se retiran.
+0106 [Noya] | Uf... Por fin los perdimos.==W== Oye, Amber, lo de fingirte enferma... ¿Sabías que Darcia nos iba a traicionar?
+0107 [Amber] | No fui yo. Fue el Jefe.==W== Mira, un mensaje de ==SEX4==.
+0108 [Fuyuka] | ¡¿El Maestro está bajo arresto domiciliario?!
+0109 [Iris] | ¿Cómo pasó esto?
+0110 [Nyx] | No hay tiempo para platicar. ¡Los soldados volvieron!
+0111 [Nyx] | Las cubriré con las Plumas. ¡Váyanse! ¡Diríjanse a la puerta principal!
+0112 [Noya] | ¡Voy a arrancar a Loxy!
+0113 [Noya] | ¡Nos vemos en la entrada!

@@ -1,0 +1,110 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 5 · Las apariencias engañan
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Panicked Treasure Hunter | Cazatesoros aterrado
+N:avg1_135 | Mistique
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_201 | Marlene
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Las apariencias engañan
+0003 [Intro] | Todas las pistas sugieren que su abuela mintió.==RT==El «Barco fantasma» no es más que un señuelo para engañar a los demás.==RT==«Enfrentar la verdad requiere valor.»
+0004 [Panicked Treasure Hunter] | ¡Rápido, comuníquenme con la jefa!
+0005 [Panicked Treasure Hunter] | ¡Estaremos perdidos si esto sigue así!
+0006 [Panicked Treasure Hunter] | ¡La jefa respondió! ¡Nos espera en el barco! ¡Vámonos!
+0007 [Karin] | ¡¿Creen que pueden huir?! ¡Piénsenlo otra vez! ¡Es hora de ver de qué es capaz este arpón!
+0008 [Shia] | Karin, tú inmovilízalos. Yo daré la vuelta hasta el barco y les cortaré la escapatoria.
+0009 [Karin] | ¡¡Entendido!!
+0010 [Tú] | Esa gente apenas tuvo oportunidad de defenderse... Una coordinación tan perfecta se construye sobre la confianza entre Shia y Karin.
+0011 [Tú] | ... ¿Eh? ¿Quién está en la cubierta?
+0012 [Karin] | ... ¡Granada cegadora! ¡Todos al suelo!
+0013 [Tú] | ¡Agh...! ¡Qué cegador!
+0014 [Narración] | Mi vista se aclara muy pronto, pero nuestros objetivos ya desaparecieron.
+0015 [Shia] | Ah, qué lástima. Los perdimos.
+0016 [Tú] | ¡Allá! ¡Su barco se está alejando!
+0017 [Karin] | Maldición, qué truco tan sucio... ¡Voy tras ellos!
+0018 [Shia] | Déjalos. Podríamos estar cayendo en una emboscada.==W== Buscamos lo mismo; nuestros caminos se cruzarán de nuevo.
+0019 [Karin] | Está bien. ¡Pero la próxima vez recibirán lo que se merecen!
+0020 [Shia] | Jefe, ¿estás bien? ¿No te lastimaste?
+0021 [Tú] | Estoy bien... y las provisiones que reunimos están intactas.
+0022 [Shia] | Bien. Se está haciendo tarde. Deberíamos regresar.
+0023 [Tú] | Shia ha estado callada... Seguro está molesta porque esa gente se escapó.
+0024 [Tú] | ¿Y qué es eso de un «diario»? ¿Será que lo que dijeron del «Monolito»... es cierto?
+0025 [Karin] | Ya terminé de comer.
+0026 [Shia] | Casi no comiste, Karin. ¿Pasa algo con la comida?
+0027 [Karin] | N-No, no es eso...==W== ¡La cena estuvo deliciosa!
+0028 [Tú] | El ambiente aquí está algo pesado...==W== Debería intentar aligerarlo.
+0029 [Tú] | Ejem. Eso fue culpa mía. Yo preparé el pescado. Creo que se me pasaron unas escamas, ¿no?
+0030 [Shia] | Jeje, siempre el pacificador, ¿verdad, Jefe?
+0031 [Shia] | Oye, Karin. Hasta el Jefe se da cuenta de que algo te preocupa. Cuéntanos, ¿sí?
+0032 [Karin] | Tú eres la que anda rara desde que volvimos. Te la has pasado cabizbaja y apenas probaste la sopa... No creas que no me di cuenta.
+0033 [Karin] | ¿«Cuéntanos»? ¡Shia, tú eres la que se lo guarda todo!
+0034 [Shia] | ¿Eh? Yo no... ¿De dónde sacas eso, por cierto?
+0035 [Karin] | ¡Es por lo que decía esa gente, ¿verdad?!==W== Ugh, ¡voy a meterlos uno por uno en un barril de pescado salado! ¡Eso les enseñará a esparcir rumores!
+0036 [Tú] | ¡Tiene razón! ¡Alguien debería coserles la boca!
+0037 [Shia] | Jeje...==W== No sé qué hacer con ustedes dos.
+0038 [Shia] | Karin, Jefe, los dos tienen razón. Cuando no puedes resolver algo tú sola, es mejor compartir la carga.
+0039 [Shia] | Hay algo...==W== que me ha estado atormentando desde hace mucho, mucho tiempo.
+0040 [Tú] | ¡¿Qué?!
+0041 [Shia] | Cuando la abuela regresó hace tantos años, todos vieron lo malherida que estaba, envuelta en vendas de pies a cabeza.
+0042 [Shia] | Pero... yo soy la única que sabía la verdad. No estaba herida en absoluto. Las vendas eran solo de adorno.
+0043 [Karin] | ¿Q-Qué...? ¡¿Cómo es posible?!
+0044 [Shia] | La primera noche que estuvo de vuelta, me preocupé tanto que no podía dormir, así que me colé en su cuarto para ver cómo estaba.
+0045 [Shia] | Y entonces lo vi. Se había quitado todas las vendas. No tenía ni un solo rasguño.
+0046 [Shia] | A la mañana siguiente estaba envuelta otra vez... Nunca entendí por qué lo hizo.
+0047 [Shia] | Unos días después, reuní el valor para preguntarle. Lo negó todo. Dijo que, en mi angustia, estaba confundiendo las pesadillas con la realidad...
+0048 [Shia] | Pero sé lo que vi. Fue real.
+0049 [Tú] | O sea, si de verdad se topó con eso, es imposible que saliera sin un rasguño. Los fantasmas de las leyendas no son precisamente amigables.
+0050 [Tú] | No salió herida, pero fingió estar gravemente lesionada...==W== ¿Habrá sido para aumentar el miedo al Barco fantasma?
+0051 [Karin] | ¿P-Por qué lo haces sonar todavía más espeluznante? ¡Aaaah!
+0052 [Shia] | Ese «diario» que mencionó esa gente... Me ha estado dando vueltas. La abuela llevaba una bitácora meticulosa de cada viaje. Si no podía escribir en el mar, la llenaba en cuanto volvía.
+0053 [Shia] | Pero una vez hojeé sus bitácoras. Ese viaje en particular era el único sin una sola anotación.
+0054 [Shia] | Por eso en este viaje tenemos que orientarnos constantemente, mantener una vigilancia atenta para registrar nuestra posición y ajustar el rumbo según haga falta.
+0055 [Karin] | Seguro la dejó en blanco a propósito, ¿no? Sería un gran problema que alguien más consiguiera la bitácora e intentara seguir su ruta.
+0056 [Tú] | Pienso lo mismo. Con otros Trekkers buscando el Barco fantasma, tu abuela probablemente la dejó así a propósito.
+0057 [Tú] | Todavía necesitamos más información... Mis compañeras están investigando en el pueblo. Les preguntaré a ver si encontraron alguna pista nueva.
+0058 [Shia] | Está bien. Contamos contigo, Jefe.
+0059 [Karin] | ¡Tu abuela era una guerrera impresionante! ¡Seguro derrotó a todos los fantasmas, por eso volvió ilesa!
+0060 [Tú] | Si ese fuera el caso, ¿por qué no escribiría «todos los fantasmas derrotados» en su bitácora? Que no lo hiciera... podría significar...
+0061 [Karin] | ¿S-Significar...?
+0062 [Tú] | Significa...==W== que Karin quizá aún tenga su oportunidad de unirse a la tripulación del Barco fantasma.
+0063 [Karin] | ¡Aaaaah...!==W== ¡¡Basta!! ¡Ahora solo te estás burlando de mí, Jefe!!
+0064 [Tú] | Solo exploro las posibilidades. Si ya tienes miedo, ¿qué harás si encontramos un fantasma de verdad? ¿Crees que podrías sostener firme la cámara?
+0065 [Karin] | ¡¿Q-Quién dice que tengo miedo?!
+0066 [Tú] | ¡Cuidado! ¡Detrás de ti!
+0067 [Karin] | ¡¡¡Waaaaaaugh...!!!
+0068 [Shia] | Jeje. Muy bien, Jefe, ya basta de bromas. Un poco más y la pobre Karin no podrá dormir esta noche del miedo.
+0069 [Karin] | ¡N-No es cierto! ¡Estoy perfectamente bien durmiendo sola!
+0070 [Tú] | Je... Parece que por fin todos se relajaron un poco.
+0071 [Narración] | Me toca la guardia nocturna. Ordeno la información que tenemos y le llamo a Mistique.
+0072 [Tú] | ...==W== Eso es lo que tenemos. ¿Alguna novedad de tu lado?
+0073 [Mistique] | ¡Por supuesto! Tras unos días de investigación clandestina, ¡esta bruja ha desenterrado algo espectacular!★
+0074 [Tú] | ¿Oh? Soy todo oídos.
+0075 [Mistique] | En aquel entonces, varias tripulaciones de Trekkers seguían a Marlene, pero los sorprendió una tormenta. La mayoría de los barcos dio media vuelta, todos menos uno.
+0076 [Mistique] | Un Trekker resistió la tormenta y siguió navegando tras ella. Era un cazatesoros fanático, convencido de que había tesoros de las profundidades en el origen de la luz.
+0077 [Tú] | Espera... ¿No crees que el diario que tenía ese grupo hoy le perteneció a él?
+0078 [Tú] | Pero ¿por qué están tan seguros de que la luz viene de un Monolito?
+0079 [Mistique] | —Porque ese hombre registró lo que vio con sus propios ojos:==W== el origen de la luz era un objeto colosal en una isla.
+0080 [Tú] | ¡¿Qué?!
+0081 [Mistique] | Un objeto enorme y resplandeciente que se alzaba desde una isla...==W== Solo podría ser un Monolito, ¿no crees?
+0082 [Tú] | Si es así, ¿por qué la mayoría todavía se aferra a la versión de Marlene sobre el «Barco fantasma»?
+0083 [Mistique] | Bueno, ¿a quién es más probable que le creas? ¿A los vivos o a los muertos?
+0084 [Tú] | O sea que ... ¿él nunca regresó? Con razón esa banda dijo que se le acabó la suerte.
+0085 [Mistique] | Exacto. Cuando recuperaron su barco, a bordo solo quedaban sus restos esqueléticos y un diario.
+0086 [Mistique] | Quedó gravemente herido en la tormenta y sufrió un brote psicótico. La segunda mitad del diario es incoherente; hasta su propia familia la descartó como delirio febril.
+0087 [Tú] | Ya veo...==W== Entonces, ¿cómo terminó su diario en manos de ellos?
+0088 [Mistique] | ¿Quién sabe? Seguramente ofrecieron una buena suma por él. Difícilmente se puede culpar a la familia por vendérselo...★
+0089 [Tú] | Cierto...==W== Por cierto, ¿el diario mencionaba algo de Marlene?
+0090 [Mistique] | La familia no la mencionó, no. Tendré que investigar eso más a fondo~
+0091 [Mistique] | Muy poca gente está al tanto de esto. Costó un esfuerzo considerable convencerlos de hablar, ¿sabes?
+0092 [Mistique] | A cambio, tú debes vigilar de cerca a esa banda por mí, Jefe~
+0093 [Tú] | Entendido. Te aviso en cuanto me entere de algo.
+0094 [Tú] | Bien, al menos ya sé de dónde salió el rumor. Pero ¿cómo les voy a decir a Shia y a Karin?
+0095 [Tú] | Confían tanto en su abuela...

@@ -1,0 +1,167 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 6 · La promesa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_119 | Nanoha
+N:avg1_145 | Otoha
+N:avg3_100 | Sylar
+N:avg3_1287 | Escorpión del Desierto
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | La promesa
+0003 [Intro] | A pesar de las amenazas de Otoha, insistes en presentarte en el banquete, por el futuro de Philae y por tu promesa a Firenze. Tras calcular las probabilidades, Otoha decide ayudarte.
+0004 [Lugar y hora] | 18:30, 5.º del mes de Venatio, Distrito de Plata de Philae, ???
+0005 [Tú] | Cof, cof...
+0006 [Tú] | ¿Dónde estoy? Esta habitación... ¿Sigo en el hotel?==W== Rayos. Estoy tan bien atado que no me puedo mover.
+0007 [Otoha] | Cinco minutos con veinte segundos.==W== Justo a tiempo. Estás en perfecto estado de salud, Jefe.
+0008 [Tú] | ¡Otoha! ¿Qué estás haciendo?
+0009 [Otoha] | Atraparte fue más difícil de lo que esperaba.
+0010 [Otoha] | Encendí incienso relajante en el pasillo y soborné al personal para que cambiara los números de las habitaciones y la decoración.
+0011 [Otoha] | Pero pasaste de largo. Ibas tan rápido que casi tumbas al mesero que estaba volviendo a cambiar los letreros.
+0012 [Otoha] | Intenté acercarme a ti de noche, pero tus amigas nunca se separaron de ti. No encontré ninguna oportunidad.
+0013 [Otoha] | Al final me disfracé de tu amiga para traerte aquí sin hacer ruido, y me descubriste de inmediato.
+0014 [Tú] | ¿Dónde está Noya? ¡¿Por qué te haces pasar por ella?!
+0015 [Otoha] | Tranquilo, la señorita Noya está ocupada en el banquete.
+0016 [Otoha] | En cuanto a por qué tomé su forma...==W== No tuve opción.
+0017 [Otoha] | Si ciertas personas me vieran en el hotel, podría haber complicaciones.
+0018 [Tú] | ¿Complicaciones?
+0019 [Otoha] | No soy la única que te está cazando.
+0020 [Otoha] | Así que ataqué primero. Aquí estamos a salvo. Nadie nos va a interrumpir.
+0021 [Otoha] | Me contrataron para entregarte un mensaje:
+0022 [Narración] | «Desaparece del banquete. Vete de Philae y no vuelvas a meterte en sus asuntos.»
+0023 [Otoha] | «Pórtate bien y recibirás una recompensa: 500 millones de Dorra. Suficiente para que tú y tus amigas se retiren cómodamente.»
+0024 [Otoha] | De lo contrario...
+0025 [Otoha] | Te quedarás atrapado aquí para siempre.
+0026 [Otoha] | Por siempre jamás.
+0027 [Tú] | ...==W== Ya veo. Tú eres la asesina que enviaron.
+0028 [Tú] | Si es así, ¿por qué esperar hasta ahora para darme el ultimátum? Tuviste incontables oportunidades.
+0029 [Otoha] | Porque...==W== quería ver tu verdadera naturaleza.
+0030 [Tú] | ¿Mi verdadera naturaleza...?
+0031 [Otoha] | El tiempo corre. Decide.
+0032 [Otoha] | Di que sí, y mi gente se encargará del resto. Te garantizo una salida segura de la ciudad.
+0033 [Otoha] | No todos los días te topas con un trato tan bueno.
+0034 [Tú] | Buen punto.
+0035 [Otoha] | Entonces eso significa...
+0036 [Tú] | Paso.
+0037 [Otoha] | ...¿Por qué?
+0038 [Tú] | Porque ni siquiera es una opción.
+0039 [Tú] | Primero, le prometí a Firenze que asistiría al banquete y daría su discurso por ella.
+0040 [Tú] | Segundo, mis amigos de Philae han hecho mucho por mí estos últimos meses.
+0041 [Tú] | ...He firmado contratos con socios que comparten mi visión.
+0042 [Tú] | Y también tengo parte de la culpa del caos reciente en la ciudad.
+0043 [Tú] | Hubo gente que salió herida por protegerme.
+0044 [Tú] | Jamás podría traicionarlos y tirar todo eso por la borda.
+0045 [Tú] | Además, Philae sigue inestable. Como director ejecutivo de Boss Accord, ¿cómo podría irme ahora?
+0046 [Tú] | Mi trabajo es devolverle la paz a Philae y a la sucursal de Cosecha Unida. No me voy a quedar de brazos cruzados mientras alguien les arruina esto.
+0047 [Otoha] | Je, je, je, je... Bravo. Me cautivaste.
+0048 [Otoha] | Pero no debería tener que recordarte tu situación, ¿verdad? Rechazarme significa la muerte.
+0049 [Otoha] | Un discurso precioso, pero no significa nada una vez que estés muerto.
+0050 [Tú] | Sí significa. Significa...==W== algo.
+0051 [Otoha] | ¿Y qué sería?
+0052 [Tú] | Que puedo ir con la frente en alto, sabiendo que cumplí mi promesa a mis compañeros.
+0053 [Otoha] | ...
+0054 [Otoha] | ...Ya veo. Ahora me queda perfectamente claro. Eres exactamente lo que dice tu expediente.
+0055 [Tú] | ¿...?
+0056 [Otoha] | Eres director ejecutivo, pero no actúas como un pez gordo con un Sello de la Gracia... Eres un enigma.
+0057 [Otoha] | Pongamos otra hipótesis.==W== Aunque estés dispuesto a morir por esta «promesa», ¿qué hay de los demás? ¿Puedes garantizar que ellos cumplirán su palabra? ¿Estás seguro de que siempre pensarán igual que tú?
+0058 [Tú] | Confío en mis compañeros.
+0059 [Otoha] | ¿Ah, sí? Por cierto...
+0060 [Otoha] | Seguramente tu amiga Firenze está recibiendo exactamente la misma oferta ahora mismo. ¿Crees que abandonará Philae?
+0061 [Otoha] | No escaló posiciones en Cosecha Unida por ser tonta. Aceptará el trato.
+0062 [Otoha] | ¿Oh, te está llamando Firenze? Interesante. Mi teoría era correcta: tu teléfono sí puede comunicarse con otras ciudades.
+0063 [Otoha] | ¿Qué te dije? Seguro te llama para despedirse.
+0064 [Otoha] | Anda, contesta. Platiquen a gusto.==W== Me muero por ver tu cara cuando rompa esa promesita tuya. Esto va a ser divertido.
+0065 [Otoha] | Y recuerda, tu vida sigue en mis manos. No intentes nada astuto.
+0066 [Tú] | Odio arruinar tu fantasía, pero eso no va a pasar. Aun así, si me está llamando, voy a contestar.
+0067 [Firenze] | Gracias al cielo que contestaste, Jefe. Me preocupaba que también te hubieran atrapado a ti.
+0068 [Tú] | ¿También? ¿Qué está pasando allá?
+0069 [Firenze] | A Nyx y a mí nos emboscó un grupo de gente vestida de negro.
+0070 [Firenze] | Su líder dijo que si renuncio y me voy de Philae para siempre, nos pagarán 500 millones de Dorra a cada una cuando las aguas se calmen.
+0071 [Tú] | Qué ofertón. Yo lo aceptaría sin pensarlo.
+0072 [Firenze] | Jaja, muy gracioso. Como si fuera a entregarle el futuro de Philae a una bola de matones turbios.
+0073 [Tú] | Sabía que dirías eso.==W== Oigo explosiones. ¿Todavía las persiguen?
+0074 [Firenze] | Sí, pero rompimos sus líneas. Vamos camino a ver a la gran inspectora Matilda. Parece que a ella también la mantuvieron en la ignorancia.
+0075 [Tú] | Bien.==W== No te preocupes por mí. Vuelve a llamarme cuando estés a salvo.
+0076 [Firenze] | Entendido. Y si te metes en problemas, llámame de inmediato. Hablamos pronto, Jefe.
+0077 [Otoha] | ...
+0078 [Tú] | Qué predicción tan certera. Suena a que «aceptó el trato» y se fue a darse la gran vida.
+0079 [Otoha] | ...Tus compañeros son un montón de bichos raros.
+0080 [Tú] | Puede ser. Pero «bichos raros» no es la palabra correcta.
+0081 [Tú] | Ya sea Boss Accord o la gente que me apoya como verdaderos amigos... Cada uno de ellos cumple su palabra.
+0082 [Tú] | Sé que cumplirán su parte del trato. Por eso apostaría mi vida por ellos.
+0083 [Otoha] | Todos los ejecutivos trajeados que he conocido se despiertan calculando márgenes y sopesando riesgos. Sin excepción.
+0084 [Tú] | Yo también sopeso los riesgos, ¿sabes?
+0085 [Tú] | Pero para mí, cumplir una promesa y construir confianza vale muchísimo más que exprimir una ganancia mezquina.
+0086 [Tú] | La confianza tarda toda una vida en construirse, pero solo un segundo en romperse. Eso es lo que la hace tan valiosa, ¿no?
+0087 [Otoha] | Te encantan tus grandes discursos, ¿verdad? Guárdalos para algún niño ingenuo que de verdad se los crea.
+0088 [Tú] | Pues parecías estar disfrutándolo. En fin, tanto Firenze como yo rechazamos a quien te contrató.
+0089 [Tú] | Mis compañeros no rompen sus promesas. Y creo que tú tampoco lo harás.
+0090 [Otoha] | ...¿Eh? ¿De qué hablas? ¿Perdiste la cabeza?
+0091 [Tú] | ¿No teníamos un trato? Prometiste mantenerme a salvo hasta que terminara el banquete. Sigues cumpliendo esa promesa.
+0092 [Otoha] | Eso me lo inventé en el momento. Y tú te lo creíste.
+0093 [Tú] | Cierto.==W== Te acercaste a mí con segundas intenciones, sin decir más que mentiras.
+0094 [Tú] | Pero hasta ahora, lo único que has hecho es atarme. No me has lastimado ni a mí ni a mis compañeras.
+0095 [Tú] | No solo te encargaste de las mercenarias que nos seguían... Anoche dejaste fuera de combate a todo un escuadrón de los Escorpiones del Desierto, todo para mantenerme a salvo.
+0096 [Tú] | Eso no solo te hace una guardaespaldas competente. Prácticamente te convierte en mi ángel de la guarda.
+0097 [Otoha] | Entonces, siguiendo tu lógica retorcida, ¿por qué te até, exactamente?
+0098 [Tú] | Bueno... Digamos que es un pasatiempo personal mío.==W== Gracias por seguirme el juego, Otoha.
+0099 [Otoha] | ¡¿Eh?!
+0100 [Tú] | ...==W== Ya dije suficiente. Me toca hacer una pregunta, y solo tengo una.
+0101 [Otoha] | ¿Sobre quien me contrató?
+0102 [Tú] | Eso no me importa. Firenze lo descubrirá muy pronto.
+0103 [Tú] | Lo que me importa es...==W== Otoha, ¿qué le hiciste a Nanoha?
+0104 [Otoha] | ¡¿...?!
+0105 [Tú] | No la vi en Goodwind Homecare.
+0106 [Tú] | Todo el lugar estaba vacío, salvo por ti. ¿Qué hiciste?
+0107 [Otoha] | ¡¿Nanoha...?!==W== ¿Tú y Nano...==W== no, tú y esa sirvienta son tan cercanos?
+0108 [Otoha] | Hasta donde sé, solo la has visto una vez. ¿Por qué te preocupa tanto una simple sirvienta?
+0109 [Tú] | Solo nos vimos una vez, pero nos ayudamos mutuamente. Si atacaste Goodwind Homecare porque yo iba a ir a verla, entonces soy responsable.
+0110 [Otoha] | Qué gracioso. Tu propia vida está en juego, y te preocupas por una desconocida que viste una sola vez.
+0111 [Otoha] | ¿Eres algún «santo» legendario del Imperio de la Gracia? No pensé que hoy vería un mito andante.
+0112 [Tú] | Esto es entre quien te contrató y yo. No tiene nada que ver con Goodwind Homecare.
+0113 [Tú] | Si arrastran a gente inocente a esto y la ponen en peligro, no te lo voy a perdonar.
+0114 [Otoha] | ...
+0115 [Otoha] | ¿Y si...==W== Y si esa sirvienta está coludida conmigo?
+0116 [Tú] | Nanoha no es así.
+0117 [Otoha] | ¿Ah, no? ¿Qué sabes tú de ella?==W== Todas las sirvientas de Goodwind se crían en un mundo de intrigas sin fin y expectativas aplastantes. Sin excepción.
+0118 [Otoha] | Confiar ciegamente en ella después de un solo encuentro... Qué ingenuo.
+0119 [Tú] | Puede que no sea bueno en muchas cosas, pero sé leer a la gente. Confío en ella.
+0120 [Tú] | Además, aunque me ataste, de ti me llega la misma vibra. Raro, ¿no?
+0121 [Otoha] | ¿Yo y... Nanoha? ¿La misma vibra?
+0122 [Tú] | Sí. Por eso te puse a prueba con mi pregunta.
+0123 [Tú] | Y tu reacción te delató. Eres buena persona.
+0124 [Tú] | No dejas de amenazar mi vida, pero ni una sola vez me has apuntado con esa pistola.
+0125 [Tú] | Hasta me mandaste ese dibujito tan lindo con días de anticipación. Disfrazado de amenaza, pero pensado como advertencia.
+0126 [Tú] | ¿Por qué no habría de confiar en alguien así?
+0127 [Otoha] | Sigues hablando de confianza... Eres increíble.
+0128 [Otoha] | ...
+0129 [Otoha] | Vine aquí a descifrarte, y tú le diste la vuelta por completo a la situación. Qué inesperado.
+0130 [Tú] | Yo ya conozco tu verdadera naturaleza. Pero dime... ¿Ya me descifraste a mí?
+0131 [Otoha] | ...Oye. ¿Traes dinero?
+0132 [Tú] | Algo de cambio, tal vez.
+0133 [Otoha] | Di una cifra. La que sea.
+0134 [Tú] | Entonces... ¿mil Dorra? Es todo lo que tengo.
+0135 [Otoha] | Con eso basta.
+0136 [Narración] | Otoha mete la mano en mi bolsillo y saca los Dorra.
+0137 [Narración] | Un destello cegador corta mis ataduras. La luz fluye hacia su mano y forma un kunai.
+0138 [Otoha] | Tomaré estos Dorra como pago por mi comisión.
+0139 [Otoha] | A partir de este momento, tú eres quien me contrata.
+0140 [???] | ¡Los encontré! ¡Por aquí!
+0141 [Otoha] | ¿Ya nos encontraron? Estos Escorpiones sí que son rápidos.
+0142 [Tú] | ¿Por qué me ayudas? ¿Qué hay de quien te contrató antes?
+0143 [Otoha] | Qué preocupón.
+0144 [Otoha] | Nunca firmé su contrato de seguimiento.
+0145 [Otoha] | Empezó a darme órdenes sin siquiera verificar si había firmado. Un idiota egocéntrico como ese no merece contratarme.
+0146 [Otoha] | Prefiero mil veces trabajar para el adorable idiota que se preocupa por todos los demás.
+0147 [Tú] | Jaja... ¿Lo tomo como un cumplido?
+0148 [Otoha] | Agacha la cabeza y no te separes de mí, Jefe. ¡Vamos a abrirnos paso!
+0149 [Otoha] | Mantén los ojos abiertos. Te voy a mostrar de lo que es capaz una «asesina» profesional.

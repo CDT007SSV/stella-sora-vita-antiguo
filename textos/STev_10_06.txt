@@ -1,0 +1,115 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 6 · Un mal comienzo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Talkative Treasure Hunter | Cazatesoros hablador
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_140 | Sparkla
+N:avg1_160 | Willow
+N:avg2_945 | Cangrejo ermitaño
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_211 | Líder de los cazatesoros
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Un mal comienzo
+0003 [Intro] | Piden prestado un bote para rastrear al cangrejo ermitaño. Por desgracia, una tormenta desvía el bote y choca contra un arrecife. Cuando recuperas el conocimiento, te encuentras en una isla desconocida con Willow.
+0004 [Treasure Hunter Leader] | Juntamos todo lo que teníamos para este bote. Se los prestamos solo esta vez. ¡Devuélvanlo de una pieza!
+0005 [Treasure Hunter Leader] | ¡Nuestro futuro está en sus manos! ¡Tienen que recuperar ese Artefacto de venta automática!
+0006 [Noya] | Ya, ya, ya te oímos. Es la tercera vez que lo dices.
+0007 [Talkative Treasure Hunter] | ¡Jefe, malas noticias! Otro huésped se está quejando. ¡Tiene que ir a atenderlo!
+0008 [Treasure Hunter Leader] | ¿Qué? ¡Ya voy!
+0009 [Treasure Hunter Leader] | ¡Por favor! ¡Cuento con ustedes!
+0010 [Noya] | Qué rápido corre. ¿Tan espantosas son las quejas?
+0011 [Willow] | Sin duda pueden ser un dolor de cabeza.
+0012 [Iris] | ¿Hasta alguien tan confiable como tú recibe quejas?
+0013 [Willow] | Así es el trabajo.
+0014 [Willow] | En fin, volvamos a lo importante. Antes de zarpar, ¿alguien aquí sabe navegar?
+0015 [Iris] | Pues...
+0016 [Amber] | Una vez jugué un juego de navegación en una arcada del Monolito.
+0017 [Noya] | Eh... Una vez manejé a Loxy hasta el agua. ¿Eso cuenta?
+0018 [Willow] | No cuenta.==W== ¿Y tú, ==PLAYER_NAME==?
+0019 [Tú] | He salido al agua antes y sé lo básico,==W== pero...
+0020 [Willow] | ... En ese caso, yo tomaré el timón.==W== ==PLAYER_NAME==, ¿me ayudas?
+0021 [Tú] | Sin problema.
+0022 [Iris] | No hay nada que no puedas hacer, Willow.
+0023 [Willow] | Tuve algo de entrenamiento básico en Sailstead, pero no soy experta.==W== Lo ideal sería un marinero experimentado, pero es una emergencia. No podemos darnos el lujo de esperar.
+0024 [Willow] | Sujétense fuerte, todos. Zarpamos.
+0025 [Amber] | Reporte. Sin rastro del objetivo.
+0026 [Iris] | Por aquí tampoco hay nada...
+0027 [Willow] | Ese cangrejo ermitaño con el que nos topamos parece un monstruo llamado Cangrejo Pisotón.
+0028 [Willow] | Se mueven en línea recta y necesitan salir a la superficie de vez en cuando a respirar.
+0029 [Willow] | Así que mientras sigamos en la misma dirección, deberíamos poder rastrearlo.
+0030 [Tú] | ...
+0031 [Willow] | ¿Pasa algo, ==PLAYER_NAME==?
+0032 [Tú] | El viento se está levantando...==W== Y esas nubes a lo lejos me preocupan un poco.
+0033 [Willow] | El clima cambia rápido en el mar. Tenemos que estar alertas.
+0034 [Noya] | ¡Lo veo! ¡Justo adelante!
+0035 [Willow] | ¡Vamos tras él!
+0036 [Iris] | Está lloviendo a cántaros. No veo nada...
+0037 [Iris] | ¡Aah!
+0038 [Willow] | ¡Iris!==W== ¡Todos, agárrense de algo y sujétense!
+0039 [Narración] | Otra ola enorme se estrella contra el casco. El barco sale lanzado por los aires antes de caer con estruendo. El mástil se sacude con violencia y desvía la proa de su rumbo.
+0040 [Narración] | De algún lugar debajo se oye de pronto un crujido seco.
+0041 [Noya] | ¿Qué fue eso?
+0042 [Willow] | Puede que la quilla esté dañada...
+0043 [Tú] | ¡Willow, rocas a babor!
+0044 [Willow] | ¡No sirve! ¡El timón no responde!
+0045 [Tú] | ¡Voy por las velas!
+0046 [Willow] | ¡No lo hagas! ¡Es demasiado peligroso!
+0047 [Tú] | ¡Ugh!
+0048 [Narración] | Finalmente el mástil cede ante el vendaval y se parte en dos con un crujido ensordecedor.
+0049 [Narración] | La cuerda da un tirón violento en mis manos. Me arrancan de la cubierta y me hunden en el mar antes de que pueda reaccionar.
+0050 [Willow] | ¡==PLAYER_NAME==!
+0051 [Tú] | Cof... Cof, cof, cof...
+0052 [Willow] | Gracias al cielo. Despertaste.
+0053 [Tú] | ¿Willow...?
+0054 [Willow] | No intentes levantarte todavía. ¿Estás mareado? ¿Te duele algo?
+0055 [Tú] | Sobreviviré... Siento que las olas me revolvieron todo por dentro. Y me tragué medio océano. Estoy tan lleno que hoy puedo saltarme la comida.
+0056 [Willow] | Todavía haces bromas. Es buena señal.
+0057 [Tú] | ¿Esto es...==W== una isla desierta?
+0058 [Willow] | Sí. Exploré la zona mientras estabas inconsciente. No hay rastro de vida humana por ningún lado.
+0059 [Tú] | ¿Y los demás?
+0060 [Willow] | Lo siento...==W== Arrastrarte hasta la orilla me costó todas mis fuerzas. No sé qué pasó con el resto...
+0061 [Tú] | Déjame probar el Heartlink. Mi teléfono llega a cualquiera, sin importar lo lejos que esté.
+0062 [Tú] | Qué raro, la pantalla está apagada. No me digas que se rompió...
+0063 [Vita] | Tirano, debo corregir un malentendido. El Trono nunca se rompe.
+0064 [Tú] | ¿Entonces cuál es el problema?
+0065 [Vita] | El agua penetró el dispositivo. Actualmente no está operativo.
+0066 [Tú] | ¡Esa es la definición exacta de roto!
+0067 [Vita] | Permítame reiterar. El Trono nunca se rompe. Simplemente está fuera de servicio de manera temporal.
+0068 [Vita] | Además, no me agrada estar mojada.
+0069 [Tú] | Vaya Sacerdotisa que eres... Bueno, puedes retirarte.
+0070 [Vita] | Su orden es mi voluntad.
+0071 [Willow] | ¿Qué pasa?
+0072 [Tú] | Jajaja... Pues, dato curioso, mi teléfono odia el agua...==W== No nos va a servir de nada por ahora.
+0073 [Willow] | Así que ni siquiera tú puedes contactar a los demás, ¿eh...?
+0074 [Tú] | No te preocupes. Todos son profesionales. Pueden con lo que sea.
+0075 [Willow] | Cierto... Tenemos que concentrarnos en mantenernos a salvo.
+0076 [Willow] | Busquemos refugio de la lluvia. Cuando descansemos, ya pensaremos cómo pedir ayuda.
+0077 [Tú] | Buena idea.
+0078 [Willow] | Paremos aquí un momento. Espera justo aquí.
+0079 [Narración] | Poco después, Willow regresa cargando ramas, enredaderas y enormes hojas. Una cuchilla sale de su prótesis y ella corta los materiales con maestría para armar una tienda improvisada.
+0080 [Tú] | Esa cuchilla gira rapidísimo... Oh, su prótesis tiene una sierra automática integrada...==W== Tiene sentido...
+0081 [Tú] | ¡Espera! ¿¡Tienes una sierra automática en el brazo!?
+0082 [Willow] | ¿Mmm? ¿Curioso?
+0083 [Willow] | Cuando Sparkla me la hizo, le dije que necesitaba poder manejar situaciones complejas. Así que le metió todo un juego de herramientas múltiples.
+0084 [Willow] | Hasta le agregó una hélice. Pensé que era exagerado, pero hoy sin duda vino de maravilla.
+0085 [Tú] | ¿Una... hélice...?
+0086 [Willow] | Sí. Si no, no habría forma de haberte arrastrado yo sola entre esas olas enormes hasta esta isla.
+0087 [Willow] | Todavía está tibio de funcionar a máxima potencia. Si tienes frío, puedes abrazarlo para entrar en calor.
+0088 [Tú] | Estoy bien. Gracias por el ofrecimiento, de todos modos...
+0089 [Willow] | Jeje. Por cierto, ¿cómo te sientes?
+0090 [Tú] | Estoy bien, solo un poco agotado.
+0091 [Willow] | Entonces descansemos un rato más. Nos ponemos en marcha cuando recuperes fuerzas.
+0092 [Willow] | Exploré la zona hace rato. No hay señales de bestias grandes ni monstruos.
+0093 [Willow] | Pero estamos demasiado abajo. Es más seguro estar en terreno alto. Lo siguiente es intentar encontrar una cueva o algo para refugiarnos.
+0094 [Tú] | Incluso cuando las cosas se ven mal, me siento seguro contigo, Willow.
+0095 [Narración] | La isla desierta frente a nosotros es desconocida y peligrosa.
+0096 [Narración] | Pero la sonrisa de Willow hace fácil creer que siempre hay un camino hacia adelante, por mal que se pongan las cosas.

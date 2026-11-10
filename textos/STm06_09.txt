@@ -1,0 +1,136 @@
+# Capítulo 6 · Milagro de un destello · 9 · The Battle in Philae I
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cautious Soldier | Soldado cauteloso
+N:Gen-3 Plant Shooter | Planta tiradora de 3.ª generación
+N:Gen-3 Plant Warrior | Planta guerrera de 3.ª generación
+N:Irritable Soldier | Soldado irritable
+N:avg1_110 | Firenze
+N:avg1_135 | Mistique
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_108 | Cosson
+N:avg3_115 | Jayhawk
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1251 | Empleado de Cosecha Unida
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_1268 | Hierba de largo alcance
+N:avg3_1269 | Hierba de largo alcance
+N:avg3_134 | Mina
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_167 | Chica
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | La batalla de Philae I
+0003 [Intro] | La legión de la sede se detiene por salarios sin pagar; las Plantas caen en una siesta vespertina bajo la influencia de Nyx. Con la marcha suspendida, le ordenas a Firenze que se reagrupe con los demás para un contraataque...
+0004 [Lugar y hora] | 07:00, 6.º del mes de Messis, afueras de Philae, campamento de Trekkers
+0005 [Cosson] | Inspectora Jayhawk, ¿están listas las tropas? ¿Podemos ponernos en marcha hoy?
+0006 [Jayhawk] | Uf... Bueno, la cosa está algo complicada. Y justo en el peor momento. Están armando un escándalo; dicen que no se mueven sin su «estipendio de asalto».
+0007 [Cosson] | ¿Estipendio de asalto? Si quieren un bono, diles que se les pagará después de tomar Philae.
+0008 [Jayhawk] | No es un bono, señor. Es un estipendio. Tenemos que ponerles Dorra contante y sonante en la mano ya. Sin efectivo, no hay marcha.
+0009 [Cosson] | ... Basta. ¿Cómo llegó nuestro ejército corporativo a esto?
+0010 [Jayhawk] | En cuanto al «cuándo»... Es práctica habitual desde hace cinco años. Estipendio de asalto, cuota por uso de magia, paga de guarnición, horas extra...
+0011 [Jayhawk] | En pocas palabras, si queremos que hagan algo, tienen que ver los Dorra.
+0012 [Cosson] | ¿En qué se diferencian de los trabajadores temporales? Ay. ¿Dónde quedaron los soldados intrépidos de antaño? ¿Los que valoraban el honor más que la vida misma?
+0013 [Jayhawk] | Se fueron junto con la nómina perdida, supongo. Lo último que supe es que a estas legiones no les pagan desde hace seis meses.
+0014 [Cosson] | ...
+0015 [Cosson] | Hacerme cargo de estas tres legiones fue claramente un error.==W== Está bien. Inspectora Jayhawk, vaya a la sucursal más cercana y consiga los fondos. ¿Cuánto tardará?
+0016 [Jayhawk] | ¡A mí no me molesta! Pero con el tiempo de viaje... Ida y vuelta es una semana, mínimo. Aunque no lo parezca, soy una flor delicada, ¿sabe? No me pueden apurar.
+0017 [Cosson] | Hmph... Mandar a una dama tan lejos es impropio. Pero...==W== ¿acaso espera que el comandante vaya en persona a mendigar los salarios? Mancharía mi elegante imagen.
+0018 [Lugar y hora] | 07:30, 6.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0019 [Darcia] | Su Majestad, el mapa.==W== Nuestras fuerzas, 30 000 Plantas Inteligentes de 3.ª generación mejoradas, están desplegadas a lo largo del río, esperando órdenes.
+0020 [Tú] | 30 000 mejoras en una sola noche... Qué rápido.
+0021 [Tú] | Mina, ¿tenemos información sobre las tres legiones de Cosecha Unida?
+0022 [Mina] | Confirmado. Nos enfrentamos a las legiones de élite 3.ª, 4.ª y 5.ª. Hace diez años, estas unidades aplastaron a un ejército corporativo del doble de su tamaño en un choque frontal.
+0023 [Mina] | Según la lista, son 31 000 efectivos en total, 25 000 de ellos aptos para el combate.
+0024 [Mina] | El reconocimiento de las Plantas ubica su cuartel general en el campamento de Trekkers.==W== Las legiones están atrincheradas al norte, al este y al sur.==W== Todavía no hay señales de movimientos ofensivos.
+0025 [Tú] | Les dicen «de élite», pero su mejor época fue hace una década. Aparte de los suboficiales, la tropa debe ser puro recluta nuevo. Es difícil saber si su reputación sigue en pie.
+0026 [Tú] | El verdadero peligro es que tienen orden de disparar a Mistique en cuanto la vean. Si asaltan Philae a ciegas, arrasarán la ciudad y masacrarán a los civiles.
+0027 [Tú] | En ese caso, la prioridad número uno es contenerlos. Que ni uno solo entre en los límites de la ciudad.
+0028 [Tú] | Darcia, separa 1000 de 3.ª generación. Que enfrenten al enemigo. Pongamos a prueba sus reflejos.
+0029 [Darcia] | Entendido.
+0030 [Narración] | Sin hacer caso de su teléfono, Darcia camina a grandes pasos hacia la Madre Hierba Esbelta. Abre el tanque y hunde la mano en la solución, con una mueca de dolor.
+0031 [Narración] | La Madre se estremece en su tanque, como si reconociera una señal.
+0032 [Lugar y hora] | 10:00, 6.º del mes de Messis, afueras de Philae, linde del bosque
+0033 [Cautious Soldier] | ¡Shh! ¡Baja la voz! Estamos de reconocimiento. ¿Quieres que nos descubran?
+0034 [Irritable Soldier] | ¿Y a quién le importa? Sin sueldo, sin estipendio... ¿Esperas que peleemos con el estómago vacío? Voy a hacer lo mínimo.
+0035 [Cautious Soldier] | Te entiendo, pero aquí estamos expuestos. Nos pueden emboscar en cualquier momento. Guárdate las quejas para cuando volvamos.
+0036 [Cautious Soldier] | Shh. Escucha. Algo se mueve más adelante.
+0037 [Gen-3 Plant Warrior] | ¡Yiii-ah!
+0038 [Cautious Soldier] | ¡Contacto! ¡Abran fuego! ¡Todos, disparen!
+0039 [Gen-3 Plant Warrior] | ¡Yiii-ah! ¡Yiii-yah...!
+0040 [Irritable Soldier] | ¡¿Qué demonios son estas cosas?! ¡Son demasiado rápidas para darles!
+0041 [Gen-3 Plant Shooter] | Gulu... ¡Uiiii...!
+0042 [Cautious Soldier] | ¡Maldición, nos están rodeando...! ¡Comunicaciones, pidan refuerzos! ¡Ya!
+0043 [Irritable Soldier] | ¡E-es inútil! ¡No podemos ganar!==W== ¡Corran!
+0044 [Lugar y hora] | 12:00, 6.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0045 [Darcia] | Su Majestad. En dos horas, nuestras mil plantas derrotaron a cinco batallones, casi 4000 efectivos. Perdimos menos de 200.
+0046 [Darcia] | Con resultados como estos, ¿por qué detener la ofensiva? Si enviamos al resto de las Plantas Inteligentes, las tres legiones de la sede se desmoronarían.
+0047 [Tú] | No.==W== Si lo apostamos todo, los que perdemos somos nosotros. ¿Sabes por qué?
+0048 [Gen-3 Plant Warrior] | Zzzzz...
+0049 [Darcia] | ¿Está... dormida?
+0050 [Tú] | Las llamamos «Inteligentes», pero actúan según la mente de su «nutriente». Se les pegaron las costumbres de Nyx, incluida la siesta de la tarde.
+0051 [Mina] | Lady Darcia, ==SEX12== Tirano. Conteo rápido de las trescientas unidades que custodian el laboratorio: dos tercios están profundamente dormidas y el resto está cabeceando. Su efectividad en combate es nula.
+0052 [Darcia] | Yo... No tenía idea...==W== ¡Le ruego me disculpe, Su Majestad! No previ cómo la mejora alteraría su comportamiento.
+0053 [Tú] | La 3.ª generación es poderosa, pero la arrogancia crea puntos ciegos.==W== Darcia, necesitamos una táctica para forzar su rendición.
+0054 [Darcia] | Rendición...==W== Ya veo. Los quiere para el Ejército del Tirano. Aunque, sinceramente, los soldados humanos no valen nada comparados con las plantas.
+0055 [Tú] | No se trata de mano de obra. Es una demostración de fuerza ante las demás empresas. La clemencia requiere mucho más poder que la aniquilación.
+0056 [Tú] | También necesitamos controlar la narrativa. Esto no es una invasión del Ejército del Tirano. Es una disputa interna entre la sucursal de Philae y la sede. Esa versión nos protege.
+0057 [Tú] | Si en Nova se enteran de que el Tirano declaró la guerra, nuestra lista de enemigos crecerá exponencialmente.
+0058 [Darcia] | Su previsión es admirable, Su Majestad. Pero...==W== hay algo que no entiendo...
+0059 [Darcia] | Perdonó al Gremio de la Nueva Estrella por los viejos tiempos.==W== Trata bien al personal de la sucursal para mantener la paz.
+0060 [Darcia] | Pero ¿por qué mostrar clemencia al enemigo? Si la sede fuera ganando, no dudaría en aplastarnos.
+0061 [Tú] | Nadie nace malvado. Esos soldados son solo gente común, movida por la mano del Senado.
+0062 [Tú] | Además, estas Plantas tienen un potencial infinito. Por eso debemos usar este poder para el bien,==W== para hacer el mundo un poco mejor.
+0063 [Tú] | Gobernar con fuerza bruta, como Cosecha Unida, no gana respeto ni lealtad.
+0064 [Tú] | Técnicamente, estoy manipulando a Darcia para ganar tiempo para un contraataque... Pero lo que acabo de decir lo dije en serio.
+0065 [Tú] | Todavía no sé por qué Darcia venera al «Tirano Legendario». Pero si logro descubrir la raíz de esa fe...
+0066 [Darcia] | Su Majestad...
+0067 [Darcia] | P-perdóneme. Perdí la compostura y hablé de más...
+0068 [Darcia] | Pase lo que pase, le juro mi vida, Su Majestad. Solo...==W== disculpe mi falta de cortesía, pero me siento bastante agotada. ¿Puedo retirarme?
+0069 [Tú] | Por supuesto. Trabajaste duro. Ve a descansar.==W== Como tengo aquí a Mina, mañana mandaré a Firenze a probar en el campo a las Plantas Inteligentes de 3.ª generación. ¿Te parece bien?
+0070 [Darcia] | Gracias por su amabilidad.
+0071 [Firenze] | ...
+0072 [Mina] | ...
+0073 [Tú] | ¿Mmm? Darcia por fin se fue y, gracias a Nyx, las plantas están profundamente dormidas. ¿Por qué siguen todos tan callados?
+0074 [Firenze] | Disculpe.==W== Sus palabras... me tocaron una fibra. En fin. ¿Cuál es la misión?
+0075 [Tú] | Proteger a Mistique. Y escalar el Monolito.
+0076 [Tú] | Las ambiciones de Darcia no son nuestro único problema. Las tres legiones de la sede también actúan de forma sospechosa.
+0077 [Tú] | Voy a atacar el campamento de Trekkers al amanecer. Reduciré las bajas al mínimo,==W== pero no puedo controlar a cada planta. Mistique está gravemente herida; sacarla a salvo será complicado. Te lo encargo a ti.
+0078 [Firenze] | Esa parte la entiendo. ¿Pero por qué escalar el Monolito?
+0079 [Tú] | Je. Ser el Jefe de Boss Accord tiene sus privilegios. O mejor dicho...==W== Digamos que desbloqueé una nueva autoridad.
+0080 [Tú] | ¿Sabes que el Monolito les otorga Gracia adicional a los Trekkers? Es un gran impulso en combate, pero solo mientras están dentro.
+0081 [Firenze] | Naturalmente. Pero ese poder desaparece en cuanto uno sale, así que nunca le di mucha importancia.
+0082 [Tú] | Cierto, pero ahora eres mi empleada. ¿Y si te dijera==W== que podrías conservar ese poder un día entero afuera?
+0083 [Firenze] | Jefe, ¿se da cuenta de lo que está diciendo? Eso...==W== Eso pondría de cabeza toda la industria de los Trekkers. No... cambiaría a la propia Nova.
+0084 [Tú] | Exacto. Si se corre la voz, el mundo caerá en el caos. Así que...==W== que quede entre nosotros.
+0085 [Tú] | Ya puse al tanto a Petal Bloom y a la Nueva Estrella por Heartlink. Firenze, reúnete mañana por la tarde con la Nueva Estrella en la Isla del Lago. Escalarás con ellas.
+0086 [Tú] | Fortalécete adentro. Luego, temprano el día 8, atacaremos por ambos lados: le caemos a Darcia, tomamos la llave y terminamos con todo esto.
+0087 [Firenze] | Exprimiéndome hasta la última gota de utilidad...==W== Un plan fascinante. Muy bien. Haré mi parte.
+0088 [Tú] | Te lo agradezco. Solo no te excedas.==W== Cuento contigo para explorar nuestra ruta de infiltración de mañana por la noche.
+0089 [Firenze] | Ahórrese el sentimentalismo, Jefe.
+0090 [Firenze] | Estamos en una partida sin retirada. Como jugador de esta partida, debería estar dispuesto a sacrificar a un peón como yo si eso asegura la victoria. Nos vemos.
+0091 [Tú] | Si ya estás de nuestro lado, podrías dejar esa actitud agresiva...==W== Ahora, Mina. ¿Qué haces aquí? ¿No deberías estar en casa cuidando a tus hermanas?
+0092 [Mina] | Me preocupé... Vine a ver cómo estaban todos. Pero en el camino, Mistique me mandó un mensaje... Está en problemas. E-encontré a Firenze, y me dijo que a Mistique la derribaron a tiros.
+0093 [Mina] | Una parte de mí quiere volver corriendo con mis hermanas, pero...
+0094 [Mistique] | Así que...==W== si de verdad quieres proteger algo, la decisión es tuya. ¿Entierras la verdad a cambio de paz?==W== ¿O la enfrentas de frente, aunque eso signifique lastimar a otros?
+0095 [Mina] | Yo...
+0096 [Mina] | No soy bruja ni Trekker. No puedo arriesgar mi vida como ustedes. Pero...==W== soy empleada de Cosecha Unida. Esto también me involucra.
+0097 [Mina] | Tal vez no sea una heroína...==W== Pero quiero proteger esta empresa a mi manera. Cuando vea a Mistique, quiero mirarla a los ojos y decirle que enfrenté la verdad, y que esta es mi respuesta.
+0098 [Tú] | Je... Lo entiendo. Veo tu determinación, tu sentido de la justicia.==W== Pero el peligro es real. Quédate cerca; no confío en que Darcia no intente algo si estás sola.
+0099 [Mina] | ¡S-sí! ¡Gracias, Jefe!
+0100 [Lugar y hora] | 08:00, 7.º del mes de Messis, Distrito Invernadero, Philae, Núcleo del laboratorio
+0101 [Darcia] | Su Majestad. Nuestras fuerzas están listas para iniciar el asalto cuando usted lo ordene.
+0102 [Darcia] | Firenze también tomó posición en el perímetro del campamento de Trekkers para vigilar a las Plantas.
+0103 [Tú] | Entonces, comencemos. Liberen a las Plantas Inteligentes de 3.ª generación. Tenemos que aplastar por completo su voluntad de pelear.

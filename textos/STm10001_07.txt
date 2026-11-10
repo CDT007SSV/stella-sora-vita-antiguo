@@ -1,0 +1,128 @@
+# Especial 9.5 · 7 · A Night Watcher's Daily Routine
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Filanian | Angry Filanian
+N:Excited Filanian | Excited Filanian
+N:Fierce Filanian | Fierce Filanian
+N:Injured Girl | Injured Girl
+N:Lulu | Lulu
+N:Onlooking Filanian | Onlooking Filanian
+N:Rowdy Filanian | Rowdy Filanian
+N:avg1_162 | Alina
+N:avg1_1992 | Resident
+N:avg2_978 | Rovina
+N:avg3_100 | Sylar
+N:avg3_1311 | SaiLa F
+N:avg3_1332 | Alina
+N:avg3_1335 | Filanis Citizen Male
+N:avg3_1341 | SaiLa F
+N:avg3_144 | Residente
+N:avg3_182 | Elis
+N:avg3_227 | Filanis Elder
+N:avg3_228 | Filanis Citizen (M)
+N:avg3_229 | Filanis Slave
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | La rutina diaria de un vigilante nocturno
+0003 [Intro] | Alina protege a una chica acusada de ser la Santa Caída de las turbas enojadas. Tu condición de acólito la ayuda y, para ganarte su confianza, tú y Elis os unís a los Vigilantes Nocturnos.
+0004 [Lugar y hora] | 16:30, Quinto Mes 26, Isla Filanis, Avenida Central
+0005 [Alina] | Sólo mírala. Ella no es una Santa Caída. Ella es sólo una pobre esclava que ni siquiera puede lanzar un simple hechizo.
+0006 [Excited Filanian] | ¡No hay esclavos en Filanis!==W== ¡Es un truco! ¡Ella debe ser la Santa Caída disfrazada!
+0007 [Alina] | Si no me cree, la llevaré ante el Sumo Sacerdote. Que él juzgue.
+0008 [Angry Filanian] | Ja. Esconderse detrás del Sumo Sacerdote en el momento en que las cosas se ponen difíciles. Debe ser agradable ser un Vigilante Nocturno.
+0009 [Angry Filanian] | ¡Mi hijo lleva un mes desaparecido! ¡Y ustedes, los inútiles Vigilantes Nocturnos, no han hecho nada al respecto!
+0010 [Angry Filanian] | Finalmente atrapamos al monstruo y, en lugar de quitarle la cabeza, ¡la proteges! ¿Qué, estás trabajando para ella?
+0011 [Fierce Filanian] | ¡Tírala a la casa de baños! El agua demostrará lo que es muy pronto.
+0012 [Excited Filanian] | ¡Sí! ¡Pruébala ahora mismo!
+0013 [Alina] | Mira lo frágil que es. ¡Arrojarla a esa agua es prácticamente una sentencia de muerte!
+0014 [Alina] | Por mi honor como Vigilante Nocturno, juro que la interrogaré y les daré sus respuestas.==W== Pero ahora mismo necesita un sanador. Hacerse a un lado.
+0015 [Injured Girl] | Uf... duele...==W==
+0016 [Angry Filanian] | ¡Como el infierno! La interrogas aquí mismo.
+0017 [Excited Filanian] | ¡Sí, aquí mismo, ahora mismo!
+0018 [Alina] | (Algo se siente mal...==W== ¿Por qué están todos tan nerviosos?==W== No importa eso...==W== Primero tengo que sacar a este niño de aquí.)
+0019 [Alina] | Dar marcha atrás. Estás interfiriendo con un Vigilante Nocturno. Me abriré paso a la fuerza si es necesario.
+0020 [Fierce Filanian] | ¿Forzar tu camino?==W== Ja. Puede que seas un Caballero, pero yo también.==W== Y sé cómo usar una espada.
+0021 [Rowdy Filanian] | ¡Maldita sea! ¡Nacimos y nos criamos en Filanis y hemos sangrado en las guerras! No vamos a permitir que ningún extraño nos pisotee. ¡Muéstrale quién manda!
+0022 [Onlooking Filanian] | ¡Sí! ¡Dale el infierno!
+0023 [Fierce Filanian] | ¿Bien?==W== Si realmente quieres tomar a esa Santa Caída, tendrás que pasar por mí. Veamos si realmente mereces ese título.
+0024 [Alina] | (¿Qué hago? Su manejo de la espada es, en el mejor de los casos, amateur.==W== Podría atravesarlo fácilmente, pero no sin lastimar a alguien).
+0025 [Alina] | (Mi deber es proteger a los ciudadanos de Filanis, no hacerles daño.==W== Pero si nos quedamos aquí...==W== Esta chica va a...)
+0026 [???] | ¿Cuál es el significado de esto?==W== ¡Despejen el camino! ¡Estás bloqueando el camino del honorable Acólito!
+0027 [Rowdy Filanian] | ¿Un acólito?==W== ¿Desde cuándo tenemos un acólito en Filanis?
+0028 [Onlooking Filanian] | Escuché que un acólito viajero acaba de llegar a la ciudad. Se dice que el Sumo Sacerdote Coppelius trata a ==SEX4== como a la realeza.==W== Mira, eso tiene que ser ==SEX4==.
+0029 [Rowdy Filanian] | Mmm...==W== Esas características llamativas,==W== ropa que nunca había visto antes...==W== Sí, definitivamente es un noble con el que no deberíamos cruzarnos.
+0030 [Tú] | ¿Cuál parece ser el problema? ¿Qué pasa con toda esta conmoción?
+0031 [Fierce Filanian] | ¡Honorable acólito! No quisimos bloquear tu camino.==W== Es solo que... ¡Atrapamos a la Santa Caída! Pero este Vigilante Nocturno se niega a que se haga justicia.==W== ¡Está intentando alejar al criminal de contrabando!
+0032 [Tú] | ¿Oh? Si no es Alina.==W== Me alegro de encontrarme contigo aquí.
+0033 [Alina] | Buenos días, ==SEX12== Acólito.==W== Asumo toda la responsabilidad por mi negligencia anterior.==W== Una vez que lleve a este niño a un sanador, me entregaré para recibir castigo.
+0034 [Tú] | Eso no sirve, Alina. ¿No escuchaste a estos buenos ciudadanos?==W== Piden la ejecución de la Santa Caída. No puedes simplemente ignorarlos e ir a curarla.
+0035 [Alina] | Pero Acólito, este niño no es...
+0036 [Tú] | Sin peros.==W== Puede que sea un acólito visitante que no debería entrometerse, pero como Vigilante Nocturno de Filanis, es tu deber escuchar a la gente.
+0037 [Excited Filanian] | ¡Tienes toda la razón! ¡Hablado como un verdadero acólito! Por fin, alguien a cargo que realmente nos respalda.
+0038 [Onlooking Filanian] | ¡A diferencia de cierta Vigilante Nocturna que prefiere proteger a los criminales que hacer su trabajo real!
+0039 [Fierce Filanian] | ¡Ey! Ya escuchaste al Acólito. ¡Haz fila, Vigilante Nocturno!
+0040 [Alina] | I...==W== Entiendo. ==SEX12== Acólito, da la orden. Haré lo que me ordenes.
+0041 [Tú] | Ya que todos habéis dejado esta decisión en mis manos, supongo que debo hacerlo.
+0042 [Tú] | Alina, escolta a esta Santa Caída a mis habitaciones. La interrogaré yo mismo.
+0043 [Lugar y hora] | 10:30, quinto mes 26, fuera de la isla Filanis, Insula deteriorada
+0044 [Elis] | Terminé de revisarla. La mala noticia es que tanto su cuerpo como su mente están destrozados.
+0045 [Elis] | El hambre crónica y los graves abusos han destrozado su psique.==W== Además, alguien manipuló su memoria usando magia.==W== Obtener algo útil de ella ahora es imposible.
+0046 [Lulu] | Es... ¡¿Es tan malo?!==W== ¡Esa escoria esclavista merece pudrirse!==W== ¿C-Podrá recuperarse?==W==
+0047 [Elis] | Oh my.==W== Mire quién de repente está poniendo su fe en un "vil parásito que voluntariamente se convirtió en esclavo".
+0048 [Lulu] | I...==W== Lo lamento. Estaba fuera de lugar en la casa de baños. No fue mi intención.
+0049 [Elis] | Hmph, no hay necesidad de disculparse.==W== ¿Parezco del tipo que guarda rencor?==W== Relajarse. Esas fueron solo las malas noticias. Aquí viene lo bueno.
+0050 [Elis] | Tiene una larga lista de problemas, pero ninguno de ellos es fatal.==W== Su cuerpo sólo necesita descansar. Una vez que recupere sus fuerzas, el daño a la memoria infligido por la magia debería desaparecer por sí solo.
+0051 [Elis] | Aquí. Escribí una receta. Mantenla con esto durante dos semanas y será una persona completamente nueva.
+0052 [Lulu] | Col, miel, pollo, salsa de pescado, higos, dátiles, garbanzos...==W== Espera, esto es sólo una lista de compras.
+0053 [Elis] | Exactamente. Olvídate de las hierbas. Lo que esta chica realmente necesita es una buena comida.
+0054 [Lulu] | ¡Entiendo!==W== I'm on it!
+0055 [Elis] | Uf.==W== Maestro, llevémosla al dormitorio para que descanse.==W== Tú ahí, Vigilante Nocturno.==W== ven a echarnos una mano.==W==
+0056 [Narración] | Alina le ofrece su propio dormitorio a la niña. Mientras arropamos a la niña, ella continúa con la mirada perdida, murmurando una súplica por su vida. Aún...==W== El puro terror en su rostro está empezando a desvanecerse.
+0057 [Tú] | Este mundo es mucho más cruel de lo que pensaba. Elis y Alina deben ser las raras excepciones. ¿Qué pasó hoy...?==W== Esa es la triste realidad para todos los demás.
+0058 [Alina] | Gracias por intervenir, acólito. Si no lo hubieras...==W== Esa chica y yo hubiéramos quedado atrapados en la isla. De hecho, podríamos haber necesitado que el Sumo Sacerdote Coppelius nos rescatara.
+0059 [Tú] | No lo menciones. No hice mucho.==W== Simplemente usé mi peso y usé lo que no sabían contra ellos.
+0060 [Tú] | Menos mal que no sabían que me quedaré contigo. Que yo la traiga aquí para un "interrogatorio" es lo mismo que tú la traigas aquí para recibir tratamiento.
+0061 [Tú] | ¿Crees que se darán cuenta? Una multitud enojada apareciendo en tu ínsula es lo último que necesitas.
+0062 [Alina] | Tenga la seguridad de que esas personas rara vez ponen un pie fuera de la isla. No tienen idea de lo que sucede aquí.
+0063 [Tú] | Bien. Entonces podremos concentrarnos en tratar a la niña.
+0064 [Tú] | Hablando de eso,==W== ¿Por qué estaban tan convencidos de que ella era la Santa Caída?==W== Pensé que Filanis no tenía esclavos.
+0065 [Alina] | Te lo explicaré todo en breve.==W== Pero antes de eso...==W==
+0066 [Alina] | ==SEX12== Acólito, cometí un grave error cuando acusé injustamente a Elis de ser la Santa Caída y los encerré a ambos en un carro de prisioneros.==W== Estoy listo para mi castigo.
+0067 [Tú] | Ah,==W== esto debe ser lo que me contó Elis...==W==
+0068 [Elis] | Alina también tiene que disculparse y cumplir con cualquier demanda que le hagamos, siempre y cuando no "causen la muerte o cicatrices permanentes".==W== Oh,==W== y casi la echan de Filanis.
+0069 [Tú] | Realmente no quiero castigarla.==W== No es necesario.==W== Más,==W== Alina sólo estaba haciendo su trabajo.
+0070 [Tú] | Desde la perspectiva de un extraño,==W== Elis y yo parecíamos muy incompletos.
+0071 [Elis] | Psst. Maestro, Maestro.==W== Ven aquí por un segundo.
+0072 [1] | ¿Qué opinas, Elis? Realmente no necesitamos castigar a Alina por esto. Incluso hablaste por ella antes.
+0073 [Elis] | Verdadero,==W== pero no puedes simplemente ignorarlo y no pedir nada. Rompe el carácter.
+0074 [Elis] | Además, esta es la oportunidad perfecta para tener a Alina de nuestro lado.
+0075 [Tú] | ¿Ponerla de nuestro lado?
+0076 [Elis] | ¡Sí! Piénselo. ¿Cuál es nuestra principal prioridad en este momento?
+0077 [Tú] | Asegurar una identidad sólida. Uno que resiste el escrutinio.
+0078 [Elis] | Exactamente. Nuestra portada ya engañó a la Santa y al Sumo Sacerdote. El único comodín que queda es este Night Watcher.
+0079 [Elis] | De camino a Filanis... Dejamos bastantes huecos en nuestra historia. Si ella comienza a indagar en ellos...
+0080 [Tú] | Punto justo. Entonces, ¿cuál es el plan?
+0081 [Elis] | Je. Está demasiado tensa. Aparte de Lulu, dudo que tenga un solo amigo en el mundo.
+0082 [Elis] | La gente como ella es como estatuas de mármol. No puedes sobornarlos ni amenazarlos.==W== Si queremos conquistarla,==W== Primero tenemos que corromperla.
+0083 [Tú] | ¿Corromperla?
+0084 [Elis] | Sólo me refiero a hacer que se relaje. Si podemos conseguir que ella revele lo que quiere, podremos darle exactamente eso.
+0085 [Tú] | Mmm...==W== Veo.
+0086 [Elis] | Si crees que es demasiado lento, inventé un hechizo de intercambio de almas que une los movimientos del firmante.==W== Podrías aprovechar esta oportunidad para ayudarme a probarlo...==W==
+0087 [Elis] | ¡Ey! ¡¿Adónde vas?!==W== ¡Aún no hemos repasado los temas de conversación!
+0088 [1] | Alina, he decidido tu castigo.
+0089 [Alina] | Nómbrelo y haré todo lo posible para compensarlos a ambos.
+0090 [Tú] | Unámonos a los Vigilantes Nocturnos y patrullamos contigo.==W== Además, trátanos a Elis y a mí como a tus iguales, no a tus superiores.==W== Deja todas las formalidades.
+0091 [Alina] | Comprendido. Lo haré...==W== Esperar,==W== ==SEX12== Acólito, ¿qué acabas de decir?
+0092 [Tú] | Llamarme "==SEX12==" es una violación de los términos. solo llámame ==PLAYER_NAME==y llámala Elis.
+0093 [Elis] | ¡¿Maestro?!
+0094 [Tú] | Y puedes dejar de llamarme "Maestro". Necesitamos integrarnos. Ya es hora de que devuelva a mi esclava el estatus de mujer libre.
+0095 [Tú] | No tenemos un contrato físico, así que dejemos que Alina actúe como nuestra testigo.
+0096 [Alina] | I ...==W== entender.==W== seré testigo de ==PLAYER_NAME== liberando a la esclava, Elis.
+0097 [Elis] | Ja...==W== Realmente no te entiendo.==W== ¿Qué está pasando dentro de esa cabeza tuya?
+0098 [Tú] | Bien. Ya nadie usa títulos. Me gusta esto.==W== So...==W== Capitán Alina, dé la orden.
+0099 [Tú] | Como nuevos reclutas de los Vigilantes Nocturnos, ¿cuál es nuestro primer paso?
+0100 [Alina] | Bien...==W==Luego, analicemos la conexión entre la Santa Caída y las recientes desapariciones en Filanis.

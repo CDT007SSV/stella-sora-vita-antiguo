@@ -1,0 +1,115 @@
+# Capítulo 3 · 11 · El último monstruo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Poisoned Trekker | Trekker envenenada
+N:avg1_133 | Nazuka
+N:avg1_142 | Cosette
+N:avg2_971 | Wandering Birds Trekker
+N:avg2_976 | Associated Tree
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_1246 | Alpha Boar
+N:avg3_1247 | Alpha Boar
+N:avg3_1248 | Alpha Boar
+N:avg3_135 | Claire
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto once
+0002 [Intro] | El último monstruo
+0003 [Intro] | Escuchas a escondidas la conversación entre Nazuka y Claire y casi te descubren. Nazuka te cubre, esperando que lo mantengas en secreto. Justo en ese momento, el Jardín Parásito lanza un ataque...
+0004 [Lugar y hora] | 16:15, 27.º del mes de Pluvia, afueras de Philae, bosque oeste
+0005 [Cosette] | ¡Hup... hup! Uf...==W== ¿Qué tan profunda debería hacer esta trampa?
+0006 [Cosette] | Cada palada la agranda un poco más... Es medio adictivo, jeje.==W== Perdí por completo la cuenta de lo hondo que iba...
+0007 [Cosette] | Ay, me muero de sed. Esto parece suficientemente profundo. Ahora, a buscar mi bebida favorita del Monolito y a idear cómo atraer al Jefe hasta aquí.
+0008 [Cosette] | ¿Eh? ¡M-monstruos por todas partes! Rayos, ¿ya empezó la incursión del Jefe contra el Espíritu de la Brutalidad? No me enteré de nada.
+0009 [Cosette] | ... Qué más da. Descanso para beber...
+0010 [Cosette] | ¿Eh?
+0011 [Cosette] | ¡Oigan! ¡Mi bebida! ¡Devuélvanla, ladrones!
+0012 [Narración] | Un Jabalí Corteza, con la lata ensartada en un colmillo, escapa entre los árboles. Negándose a rendir su bebida, Cosette sale disparada tras la manada en fuga...
+0013 [Narración] | ... dejando atrás un enorme foso sin disimular en el silencioso bosque.
+0014 [Lugar y hora] | 16:15, 27.º del mes de Pluvia, afueras de Philae, bosque oeste
+0015 [Claire] | No me tomes el pelo, Nazuka...==W== ¿Petal Bloom y el Gremio de la Nueva Estrella derribaron al Espíritu de la Brutalidad con un grupo tan pequeño?
+0016 [Claire] | Sería más creíble si dijeras que lo hiciste tú sola.
+0017 [Nazuka] | La batalla del bosque del este ya estaba en pleno apogeo cuando llegué. Míralo tú misma.
+0018 [Narración] | Nazuka ofrece su teléfono. La pantalla muestra a un grupo de Trekkers de Petal Bloom y del Gremio de la Nueva Estrella posando victoriosos ante el Espíritu de la Brutalidad caído.
+0019 [Claire] | Así que...==W== de verdad lo lograron. Tú interviniste, ¿verdad, Nazuka?
+0020 [Nazuka] | Solo ofrecí apoyo, usando un hechizo para dividir la marea de monstruos. Ellos derrotaron a la manada de Jabalíes Corteza y al Espíritu de la Brutalidad por su cuenta.
+0021 [Claire] | No, no me refería a eso. Sabes exactamente lo que pregunto...
+0022 [Nazuka] | El Espíritu de la Brutalidad no tenía «eso» consigo.
+0023 [Claire] | No sé si tenemos suerte o no...==W== Esto significa que no nos queda más remedio que desafiar al Jardín Parásito, y estamos muy cortos de gente.
+0024 [Claire] | Lo que me lleva de nuevo a: ¿por qué no reclutarlos? Es obvio que son capaces.
+0025 [Nazuka] | No te hagas la tonta, Claire.
+0026 [Claire] | Ugh, está bien. Olvida lo que dije. Pero contigo siempre es igual: quieres asumirlo todo tú sola. Nadie te va a colgar una medalla por eso, ¿sabes?
+0027 [Nazuka] | Basta. La partida de expedición no se amplía. Ya hablamos del Jardín Parásito: tienen que ser solo tú y yo.
+0028 [Claire] | No estoy a tu nivel, Nazuka. ¿De verdad crees que nosotras dos bastamos para manejar esa cosa?
+0029 [Nazuka] | Sabes de su niebla alucinógena. Más gente solo significaría más personas respirándola y atacándose entre sí. Sería un desperdicio sin sentido y solo estorbarían.
+0030 [Claire] | Lo entiendo, de verdad, pero...
+0031 [Nazuka] | Mira, no te voy a obligar. Ya descubrí su punto débil. Si tienes demasiado miedo, iré sola.
+0032 [Claire] | ¡Maldición, está bien, cuenta conmigo! Solo deja de ser tan difícil.==W== ¡Tenemos que conseguir «esa cosa»!
+0033 [Nazuka] | ... Bien. No podemos arrastrar a nadie más a esto. Del equipo que cubrió la retirada la última vez, solo quedamos nosotras dos. Esto nos corresponde enfrentarlo.
+0034 [Lugar y hora] | 16:25, 27.º del mes de Pluvia, afueras de Philae, bosque oeste
+0035 [Tú] | Nngh, definitivamente escuché algo que no debía. Mejor me largo de aquí...
+0036 [Tú] | ¡Rayos, pisé una ramita!
+0037 [Claire] | ¡¿Un monstruo...?!
+0038 [Narración] | Una daga te roza la mejilla y se clava hondo en el árbol que tienes detrás.==W== Una ardilla sobresaltada deja caer su bellota y se lanza al hueco del árbol.
+0039 [Claire] | Ah, es solo una ardilla.
+0040 [Narración] | Claire mueve la muñeca y la daga vuelve zumbando a su mano.
+0041 [Claire] | ¿Podemos ya encontrar «esa cosa»? Tanta paranoia me va a provocar una crisis nerviosa.
+0042 [Nazuka] | Je, tienes razón. Asustarse por una ardilla... ¿Por qué no regresas? Yo me quedaré un poco más para repasar nuestra estrategia.
+0043 [Claire] | Está bien, entonces me voy.
+0044 [Tú] | Uf, casi me muero del susto. Qué bueno que no me vieron.
+0045 [Nazuka] | ¿==PLAYER_NAME==? Claire ya se fue. Puedes salir. Tu sigilo necesita práctica.
+0046 [Tú] | ...==W== No esperaba que me lanzaran una daga.
+0047 [Tú] | Espera... ¿desde cuándo sabías que estaba aquí?
+0048 [Nazuka] | Desde el principio. El viento me trae todos los sonidos y tus pasos no eran precisamente discretos.
+0049 [Nazuka] | Debo admitir que tu compostura es impresionante. Enfrentar la daga de Claire y mi cuchilla de viento sin emitir un sonido... Si hubieras entrado en pánico, no habría podido cubrirte.
+0050 [Tú] | Más bien me quedé paralizado en el sitio...
+0051 [Nazuka] | Entonces, ¿qué necesitabas?
+0052 [Tú] | ¡Ah, cierto! Vengo a invitarte a la fiesta de la victoria sobre el Espíritu de la Brutalidad. Es en la antigua Casa de los Trekkers, esta noche a las siete.
+0053 [Nazuka] | Gracias, pero no puedo. Necesito trabajar en el plan de batalla contra el Jardín Parásito.
+0054 [Tú] | Pero todas esperan de verdad que estés allí...
+0055 [Nazuka] | Lo siento, pero las celebraciones no son para mí.
+0056 [Nazuka] | Y... un favor. Si oíste algo hace un momento,==W== por favor guárdatelo.
+0057 [Nazuka] | Les explicaré todo después de que derribemos al Jardín Parásito.
+0058 [Tú] | Por supuesto. Tienes mi palabra.
+0059 [Nazuka] | Gracias. Permíteme acompañarte. Los monstruos del bosque se ponen inquietos a esta hora.
+0060 [Tú] | ¿Es solo perceptiva o de verdad amable?==W== No es ni de lejos tan fría como parece...==W== Entonces, ¿por qué aleja a todos?
+0061 [Trekker envenenada] | C-Capitana... ¡Capitana Nazuka...!
+0062 [Nazuka] | ¿Qué pasa? Informa.
+0063 [Trekker envenenada] | ¡E-el Jardín Parásito emboscó a la escuadra! ¡Avisen a los demás!==W== ¡La información era errónea! ¡Nuestro explorador fue engañado por una ilusión!
+0064 [Nazuka] | Maldición...==W== Era una trampa. Y esta niebla...
+0065 [Nazuka] | ¡Es la niebla mágica del Jardín Parásito! ==PLAYER_NAME==, ¡al suelo!
+0066 [Tú] | ¿Su niebla mágica...? ¡¿Significa que ya está aquí?!
+0067 [Trekker envenenada] | ¡Aaaah! ¡¿Monstruos... aquí?!==W== ¡No! ¡Aléjense!
+0068 [Tú] | ¡Oye! ¡¿Qué haces?!
+0069 [Narración] | ==W==El rostro de la Trekker se retuerce de terror mientras desenvaina su arma y se abalanza sobre mí.
+0070 [Nazuka] | Las alucinaciones están haciendo efecto. Para ella, debemos de parecer monstruos.
+0071 [Nazuka] | ¿Ves? El Jardín Parásito usa estas ilusiones para enfrentar a sus presas entre sí, y luego ataca cuando están vulnerables.
+0072 [Nazuka] | Así que...==W== Este es el plan. Si solo ves monstruos, búscame a mí. Seré la que tenga hojas girando en sentido horario a su alrededor.
+0073 [Nazuka] | En cuanto a ti...==W== Quédate completamente quieto. Si veo un monstruo que no se mueve, sabré que eres tú.
+0074 [Tú] | Esto suena arriesgado...==W== Pero bueno, entendido.
+0075 [Narración] | Oigo los ecos de los valles y de mi corazón.
+0076 [Narración] | Nazuka entona un cántico suave otra vez. Esta vez no invoca una ventisca, sino una corriente de viento constante que barre el bosque y dispersa la niebla púrpura.
+0077 [Narración] | Cosecha almas vacías con una hoz verdeante.
+0078 [Tú] | ¡Vaya, este viento...! ¿Está intentando...==W== despejar todo el bosque?
+0079 [Narración] | A medida que el viento se intensifica, el sudor perla la frente de Nazuka. La ráfaga arrecia durante un minuto... luego tres... luego cinco...==W== Hasta que por fin, sin rastro de niebla, su bastón deja de girar.
+0080 [Nazuka] | Uf... uf... Ya...==W== Eso debería... bastar...
+0081 [Tú] | Gracias. Nos salvaste. Pero tu Piedra de Alma...
+0082 [Nazuka] | Ah, está gris. Me quedé completamente sin magia.==W== Pero todos... están a salvo ahora. La niebla se fue.
+0083 [???] | Cruuuj... Crac...
+0084 [Tú] | ... ¿Eh? ¿Qué es ese sonido? Me pone la piel de gallina.
+0085 [Nazuka] | Eso no es bueno. ==PLAYER_NAME==, tenemos que irnos. ¡Ahora!
+0086 [Tú] | ¿Q-qué pasa?
+0087 [Nazuka] | ¡El propio Jardín Parásito está aquí mismo!
+0088 [Nazuka] | ¡Ve! ¡Ponte a salvo...!
+0089 [Nazuka] | Ugh...
+0090 [Narración] | Tras unos pasos, una Nazuka agotada tropieza y se desploma. El corpulento ent está casi sobre nosotros.
+0091 [Tú] | ¡Maldición, a este paso terminaremos los dos!==W== Tiene que haber algo que pueda hacer...
+0092 [Tú] | ¿Eh? ¿Qué es eso...==W== Un foso? ¿Quién lo cavó? Da igual, no hay tiempo para pensar en eso...
+0093 [Tú] | ¡Nazuka, por aquí! ¡Agárrate!
+0094 [Narración] | Sujeto a Nazuka del hombro y, justo cuando las enredaderas se lanzan hacia nosotros, saltamos al foso negro como la noche.
+0095 [Narración] | Continuará

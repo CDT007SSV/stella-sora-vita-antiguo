@@ -1,0 +1,446 @@
+# Heartlink de Iris: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Iris] | Hola
+A01.0002 [Iris] | Soy Iris
+A01.0003 [Opción] | Hola hola
+A01.0004 [Opción] | Soy ==PLAYER_NAME==
+A01.0005 [Opción] | Tu foto de perfil es muy linda
+A01.0006 [Iris] | Oh, gracias...
+A01.0007 [Iris] | Es una foto que tomé hace tiempo
+A01.0008 [Iris] | Me gustó tanto que la puse de perfil
+A01.0009 [Iris] | ==PLAYER_NAME==, tu foto de perfil también está bonita
+A01.0010 [Iris] | Parece que este celular todavía funciona
+A01.0011 [Iris] | La función de Agregar Rápido funciona
+A01.0012 [Iris] | Y envía y recibe mensajes con normalidad.
+A01.0013 [Iris] | Yupi, ahora no tengo que sacar dinero para un celular nuevo
+A01.0014 [Opción] | Suenas muy aliviada
+A01.0015 [Opción] | Qué buena noticia
+A01.0016 [Iris] | Después de todo, el gremio de verdad está en la quiebra...
+A01.0017 [Iris] | Ah, cierto, déjame presentarme como es debido
+A01.0018 [Iris] | Me llamo Iris. Estoy a cargo de la logística y la contabilidad del gremio
+A01.0019 [Iris] | Fijo metas a largo plazo y organizo las tareas a corto plazo de nuestros miembros
+A01.0020 [Iris] | Hago inventarios de suministros con regularidad y recuerdo a todos que no desperdicien dinero
+A01.0021 [Iris] | También ayudo a Amber con su pelo enredado y saco a Noya de la cama todos los días
+A01.0022 [Iris] | En resumen, avísame si necesitas algo, lo que sea. ¡No tengas pena!
+
+## Conversación A02
+A02.0001 [Iris] | ==PLAYER_NAME==, ¿tienes planes para tu próximo día libre?
+A02.0002 [Opción] | Dar un paseo
+A02.0003 [Opción] | Dormir hasta tarde
+A02.0004 [Opción] | No lo he decidido
+A02.0005 [Tú] | Darme el gusto con comida y bebida ricas
+A02.0006 [Tú] | Y quizá comprar un libro...
+A02.0007 [Tú] | Me quedaré en la cama todo el día, durmiendo
+A02.0008 [Tú] | ¡Nadie me va a sacar de la cama!
+A02.0009 [Tú] | No hay nada que tenga que hacer
+A02.0010 [Tú] | Ya lo pensaré mañana
+A02.0011 [Iris] | Ese es tu estilo.
+A02.0012 [Tú] | ¿Y ustedes, chicas?
+A02.0013 [Iris] | Noya planea ver el musical El Escuadrón Oso
+A02.0014 [Iris] | Amber dice que irá al bosque a observar a los Shrubshrews
+A02.0015 [Iris] | En cuanto a mí...
+A02.0016 [Iris] | Haré dos exámenes de práctica del programa de reclutamiento del Imperio de la Gracia de este año
+A02.0017 [Opción] | ¿Eh?
+A02.0018 [Opción] | ¿Exámenes de qué?
+A02.0019 [Iris] | Exámenes de práctica del programa de reclutamiento del Imperio de la Gracia
+A02.0020 [Iris] | Compré la edición más reciente de Domina las pruebas escritas del Imperio de la Gracia
+A02.0021 [Iris] | Es una selección de preguntas de entrevistas de reclutamiento de los últimos tres años
+A02.0022 [Iris] | He estado demasiado ocupada para ponerme con ellas.
+A02.0023 [Iris] | En mi preciado día libre, voy a resolver todas las preguntas que pueda
+A02.0024 [Iris] | Para poder relajarme
+A02.0025 [Tú] | Suena a algo que tú harías
+
+## Conversación A03
+A03.0001 [Iris] | Qué sueño tengo...
+A03.0002 [Iris] | ==PLAYER_NAME==, si ya andas fuera, ¿podrías traerme un café?
+A03.0003 [Iris] | No de los de los Monolitos
+A03.0004 [Iris] | Quiero café falso hecho con granos de koopei, mientras más barato, mejor
+A03.0005 [Opción] | Te traigo uno ligeramente amargo a temperatura ambiente
+A03.0006 [Opción] | Te traigo uno sin hielo, de amargor medio
+A03.0007 [Opción] | Te traigo uno con hielo extra y muy amargo
+A03.0008 [Iris] | Yo no tomo ligeramente amargo.
+A03.0009 [Iris] | Mientras más amargo, mejor. Gracias
+A03.0010 [Iris] | Solo díselo al personal de la cafetería
+A03.0011 [Iris] | Lo quiero extra amargo, con mucho hielo
+A03.0012 [Iris] | ¡Sí!
+A03.0013 [Iris] | Gracias
+A03.0014 [Iris] | Acepté demasiado papeleo freelance por accidente
+A03.0015 [Iris] | El cliente me apura, dice que hay que entregarlo mañana
+A03.0016 [Iris] | Solo el café falso me sacará adelante esta noche...
+A03.0017 [Iris] | ¡Jaja! ¡Amo el trabajo!
+
+## Conversación A04
+A04.0001 [Iris] | Quiero conseguir más certificados
+A04.0002 [Opción] | ¿No tienes ya muchos?
+A04.0003 [Opción] | Date un respiro.
+A04.0004 [Iris] | Sí, pero siento que no son suficientes
+A04.0005 [Iris] | Pero me sentiría más segura con más certificados
+A04.0006 [Iris] | Si me topo con un buen encargo o trabajo freelance
+A04.0007 [Iris] | Y no puedo aceptarlo porque no tengo el certificado adecuado...
+A04.0008 [Iris] | Me decepcionaría muchísimo...
+A04.0009 [Opción] | Siempre habrá otro encargo
+A04.0010 [Opción] | Mmm... Eso tiene sentido
+A04.0011 [Iris] | No podemos elegir cuándo necesitamos dinero con urgencia
+A04.0012 [Iris] | Quiero poder darle respaldo económico al gremio
+A04.0013 [Iris] | Eso también les quitará algo de presión a ustedes...
+A04.0014 [Iris] | ¿Verdad?
+A04.0015 [Iris] | Mientras más certificados, mejor
+A04.0016 [Iris] | Así puedo aceptar más trabajos
+A04.0017 [Iris] | Y también les quitará algo de presión a ustedes...
+A04.0018 [Iris] | Así que hice un calendario de los exámenes de certificación que vienen
+A04.0019 [Iris] | Primero, certificarme como experta profesional en sonrisas
+A04.0020 [Iris] | Luego, certificarme como terapeuta de poesía
+A04.0021 [Iris] | Y una licencia de operadora de máquinas expendedoras
+A04.0022 [Iris] | Un Certificado de Analista de Comida de Monolito Nivel 2
+A04.0023 [Iris] | Certificado de Juez Profesional de Carreras de Puffloons
+A04.0024 [Iris] | ¡Empezaré con estos!
+A04.0025 [Tú] | No sé qué son todos esos, pero ¡te apoyo al 100%!
+
+## Conversación A05
+A05.0001 [Iris] | ==PLAYER_NAME==, ¿estás ahí?
+A05.0002 [Iris] | ¿Tienes un minuto?
+A05.0003 [Tú] | Sí
+A05.0004 [Tú] | ¿Qué pasa?
+A05.0005 [Iris] | Por favor, no le digas a nadie lo que voy a decirte.
+A05.0006 [Iris] | ¿Por favor?
+A05.0007 [Opción] | Oooo, ¿un secretito solo para mí?
+A05.0008 [Opción] | ¡Prometo no decirlo!
+A05.0009 [Iris] | Primero prométeme que no lo dirás
+A05.0010 [Tú] | Está bien, lo prometo.
+A05.0011 [Tú] | Aunque Mistique me ate a un árbol cabeza abajo y me torture
+A05.0012 [Tú] | ¡Seguiré con la boca cerrada!
+A05.0013 [Iris] | Está bien, eso me tranquiliza...
+A05.0014 [Iris] | ==PLAYER_NAME==
+A05.0015 [Iris] | Ayúdame.
+A05.0016 [Tú] | ¿Estás en algún apuro?
+A05.0017 [Tú] | ¿Dónde estás? Traeré a Noya y a Amber y llegaremos en un abrir y cerrar de ojos.
+A05.0018 [Iris] | No, no traigas a las demás.
+A05.0019 [Iris] | Espera a la noche y ven a la Calle Cruz de Jardín en el Distrito de Plata.
+A05.0020 [Iris] | Hay una panadería llamada «No Comas Pastel, Come Pan».
+A05.0021 [Iris] | Párate frente a la tienda y mira hacia adelante a la izquierda; verás un callejón pequeño.
+A05.0022 [Iris] | Camina hasta la entrada del callejón y detente frente a la máquina expendedora que hay ahí.
+A05.0023 [Iris] | Y luego
+A05.0024 [Tú] | ¿Y luego?
+A05.0025 [Iris] | Y luego, sácame de la máquina expendedora.
+A05.0026 [Tú] | ???
+A05.0027 [Tú] | ¿Cómo entraste ahí en primer lugar?
+A05.0028 [Iris] | Pues, hoy estaba haciendo un trabajo temporal...
+A05.0029 [Iris] | Y la tarea era trabajar como vendedora dentro de la máquina expendedora
+A05.0030 [Iris] | No tuve problema para entrar.
+A05.0031 [Iris] | Pero después de que terminó mi turno, me quedé atorada en la puerta trasera. Y ahora no puedo salir...
+A05.0032 [Iris] | ==PLAYER_NAME==, no puedes dejar que nadie más se entere de esto.
+A05.0033 [Iris] | Entra a escondidas, sin compañía, y sácame esta noche.
+A05.0034 [Iris] | ¿Por favor?
+
+## Conversación A06
+A06.0001 [Iris] | De verdad quiero quedarme en la cama
+A06.0002 [Iris] | Quiero quedarme en casa sin trabajar
+A06.0003 [Iris] | Quiero que me paguen mucho sin trabajar por ello
+A06.0004 [Iris] | Quiero holgazanear
+A06.0005 [Iris] | ¡¡De verdaaaad quiero holgazanear!!
+A06.0006 [Opción] | ¿Iris?
+A06.0007 [Opción] | ¿Quién es?
+A06.0008 [Tú] | ¿Es Iris?
+A06.0009 [Tú] | ¿Quién es? ¡Devuélvele el celular a Iris!
+A06.0010 [Iris] | Perdón, Jefe
+A06.0011 [Iris] | Fue un momento de debilidad
+A06.0012 [Tú] | No te preocupes. Yo tengo pensamientos así todo el tiempo.
+A06.0013 [Tú] | Solo me sorprendí un poquito
+A06.0014 [Tú] | de que tú también quisieras holgazanear...
+A06.0015 [Iris] | En realidad...
+A06.0016 [Iris] | La razón por la que trabajo tanto ahora es para no tener que hacerlo en el futuro
+A06.0017 [Iris] | Cuando haya ahorrado mucho dinero
+A06.0018 [Iris] | Cuando no tenga que preocuparme de que nos quedemos sin hogar o en la quiebra...
+A06.0019 [Iris] | ¡Voy a holgazanear a lo grande!
+A06.0020 [Iris] | Compraré una casa enorme para todos en el gremio
+A06.0021 [Iris] | ¡Para que todos podamos quedarnos en casa sin trabajar!
+A06.0022 [Tú] | ¡Suena genial! ¡Te lo voy a cobrar!
+A06.0023 [Iris] | ¡Sí!
+
+## Conversación A07
+A07.0001 [Iris] | ¿Cómo te ha ido desde que te uniste al gremio?
+A07.0002 [Iris] | ¿Hay algo con lo que estés teniendo problemas?
+A07.0003 [Iris] | ¿Qué se siente escalar los Monolitos con nosotras?
+A07.0004 [Opción] | Bastante bien
+A07.0005 [Opción] | ¿A qué vienen tantas preguntas de repente?
+A07.0006 [Tú] | Un lugar para dormir y tres comidas al día
+A07.0007 [Tú] | Muchos viajes a Monolitos
+A07.0008 [Tú] | ¡No se puede pedir más!
+A07.0009 [Iris] | Me alegra saberlo...
+A07.0010 [Tú] | Ha pasado bastante tiempo desde que me uní al Gremio de la Nueva Estrella
+A07.0011 [Tú] | Un poco tarde para una orientación, ¿no crees?
+A07.0012 [Tú] | ¿Será que se acabó mi periodo de prueba?
+A07.0013 [Tú] | ¿Y ahora estás haciendo evaluaciones?
+A07.0014 [Iris] | ¡No! ¡No es eso!
+A07.0015 [Iris] | No es una orientación. Y el Gremio de la Nueva Estrella no tiene periodo de prueba
+A07.0016 [Iris] | Solo estaba pensando...
+A07.0017 [Iris] | Nuestra situación ha mejorado muchísimo desde que te uniste a nosotras, ==PLAYER_NAME==
+A07.0018 [Iris] | Ya no nos preocupamos por de dónde saldrá la próxima comida
+A07.0019 [Iris] | Ya no batallamos para conseguir buenos encargos por malos desempeños
+A07.0020 [Iris] | Ni acabamos pagando enormes penalizaciones por algún contrato mágico tramposo
+A07.0021 [Iris] | Jefe, de verdad salvaste al Gremio de la Nueva Estrella de desmoronarse
+A07.0022 [Iris] | La vida nos mejora cada día
+A07.0023 [Opción] | Todas nos hemos esforzado mucho por ello
+A07.0024 [Opción] | Me vas a hacer sonrojar
+A07.0025 [Iris] | Estoy segura de que podrías unirte a cualquier gremio grande y lucirte allí.
+A07.0026 [Iris] | Pero me gusta el Gremio de la Nueva Estrella tal como está ahora
+A07.0027 [Iris] | Me gusta ser Trekker junto a ti y a todos los del gremio
+A07.0028 [Iris] | Así que...
+A07.0029 [Iris] | Así que...
+A07.0030 [Iris] | ¡Si hay algo que te moleste, lo que sea, tienes que decírmelo!
+A07.0031 [Iris] | ¡Pensaré en una forma de remediarlo!
+A07.0032 [Iris] | ¡Aunque sea un problema que no se pueda resolver de inmediato, trabajaré para mejorar la situación por ti!
+A07.0033 [Iris] | Por favor, no finjas que todo está bien
+A07.0034 [Iris] | Quizá tengas todos esos sentimientos negativos guardados
+A07.0035 [Iris] | No quieres molestarnos, así que no dices nada
+A07.0036 [Iris] | Simplemente lo aguantas...
+A07.0037 [Iris] | ¡Hasta que un día ya no puedes más y te vas sin avisarle a nadie!
+A07.0038 [Tú] | Vaya que tienes todo un escenario detallado...
+A07.0039 [Tú] | Pero de verdad no tengo ninguna queja
+A07.0040 [Tú] | Y no pienso cambiarme de gremio
+A07.0041 [Iris] | Qué alivio escuchar eso.
+
+## Conversación A08
+A08.0001 [Iris] | Están actuando muy raro.
+A08.0002 [Opción] | ¿Quiénes?
+A08.0003 [Opción] | ¿Raro cómo?
+A08.0004 [Opción] | No tanto.
+A08.0005 [Iris] | Noya y Amber. Están actuando muy raro
+A08.0006 [Iris] | Totalmente raro.
+A08.0007 [Iris] | Ni siquiera he dicho nada todavía...
+A08.0008 [Iris] | Hace un momento, Noya me dijo que...
+A08.0009 [Iris] | Anoche tenía hambre y de verdad, de verdad, de verdad quería comer fideos instantáneos
+A08.0010 [Iris] | Pero luego pensó que solo nos quedaba el último vaso
+A08.0011 [Iris] | Así que se conformó con Ruiseñor Leonado
+A08.0012 [Iris] | Luego quiso freír tocino para acompañarlo
+A08.0013 [Iris] | Pero también estábamos cortos de tocino, así que solo le untó media cucharada de mermelada
+A08.0014 [Iris] | Pero cuando volvió a la cama, sintió que no había saciado sus antojos en absoluto
+A08.0015 [Iris] | Estuvo dando vueltas hasta la madrugada
+A08.0016 [Iris] | Al final cedió. Se levantó, se comió los fideos instantáneos, frió el tocino
+A08.0017 [Iris] | ...Junto con treinta huevos y cincuenta salchichas
+A08.0018 [Iris] | Acabó con todas nuestras provisiones
+A08.0019 [Iris] | ¿Pero cómo logró comerse todo eso?
+A08.0020 [Tú] | Eh
+A08.0021 [Iris] | Luego apareció Amber y me dijo...
+A08.0022 [Iris] | Al principio quería trepar por el tragaluz hasta el techo para sentir la brisa
+A08.0023 [Iris] | Pero al parecer la brisa de allí no era lo bastante fuerte para ella
+A08.0024 [Iris] | Así que se subió a un árbol
+A08.0025 [Iris] | Pero luego resbaló y se cayó
+A08.0026 [Iris] | Justo por el tragaluz y dentro de la cabina
+A08.0027 [Iris] | Hizo pedazos nuestra almohada recién comprada
+A08.0028 [Iris] | ¿Pero cómo diablos se hace pedazos una almohada?
+A08.0029 [Tú] | Eh...
+A08.0030 [Iris] | Ahora las dos salen a reponer los objetos y reabastecer
+A08.0031 [Opción] | Suena a algo que esas dos harían
+A08.0032 [Opción] | Ni siquiera sé qué decir
+A08.0033 [Iris] | Normalmente
+A08.0034 [Iris] | Noya no se quedaría esperando a que yo despertara por algo así
+A08.0035 [Iris] | Hasta lloró al disculparse, pidiéndome que la esperara dentro de la casa rodante
+A08.0036 [Iris] | Dijo que no debía ir a ninguna parte hasta que regresaran
+A08.0037 [Iris] | En cuanto a Amber
+A08.0038 [Iris] | No hay manera de que se caiga de un árbol
+A08.0039 [Iris] | Todo esto es muy sospechoso
+A08.0040 [Tú] | Jaja, creo que le estás dando demasiadas vueltas...
+A08.0041 [Iris] | ==PLAYER_NAME==, ¿dónde estás ahora?
+A08.0042 [Tú] | ¡Estoy dándole de comer a las palomas en la plaza de la ciudad!
+A08.0043 [Iris] | ¿En serio? ¿Quieres decir que no estás tramando algún plan con esas dos?
+A08.0044 [Iris] | Bueno, quizá de verdad estoy paranoica.
+A08.0045 [Iris] | Hoy es mi cumpleaños
+A08.0046 [Iris] | Ahorré algo de dinero de mis trabajos extra. Salgamos a comer algo rico
+A08.0047 [Iris] | ¡Iremos cuando regreses!
+A08.0048 [Tú] | ¡Está bien, iremos cuando regresemos!
+
+## Conversación A09
+A09.0001 [Iris] | ==PLAYER_NAME==, te quiero pedir un gran favor...
+A09.0002 [Opción] | Dime
+A09.0003 [Opción] | ¿Qué pasa?
+A09.0004 [Opción] | Qué miedo
+A09.0005 [Tú] | Por ti,
+A09.0006 [Tú] | ¡haría lo que fuera!
+A09.0007 [Tú] | Caminaría sobre brasas
+A09.0008 [Tú] | ¡Movería cielo y tierra!
+A09.0009 [Iris] | Nada tan dramático como eso...
+A09.0010 [Tú] | Escucho y luego decido
+A09.0011 [Tú] | Si quieres que le diga a Noya que se modere con las botanas
+A09.0012 [Tú] | No se puede.
+A09.0013 [Iris] | No te pediría eso...
+A09.0014 [Tú] | No vas a pedirnos que recortemos gastos a partir del próximo mes, ¿verdad?
+A09.0015 [Iris] | No, no, no es eso.
+A09.0016 [Iris] | No soy tan desalmada.
+A09.0017 [Iris] | Quería preguntarte si puedes entrar conmigo al Monolito para hacer un entrenamiento especial.
+A09.0018 [Tú] | ¿Entrenamiento especial?
+A09.0019 [Iris] | Sí...
+A09.0020 [Iris] | En nuestros últimos viajes al Monolito me di cuenta de que tenemos una debilidad
+A09.0021 [Iris] | Noya y Amber son geniales con sus armas
+A09.0022 [Iris] | Y a ti se te da bien elaborar estrategias
+A09.0023 [Iris] | Pero a veces aun así fallamos
+A09.0024 [Iris] | Y eso es porque yo soy el eslabón débil del equipo
+A09.0025 [Tú] | Pero
+A09.0026 [Iris] | Oh, no necesitas intentar hacerme sentir mejor
+A09.0027 [Iris] | No soy fuerte y mis reflejos no son agudos: los hechos son los hechos...
+A09.0028 [Iris] | Pero quiero colaborar con el equipo
+A09.0029 [Tú] | Así que por eso quieres hacer un entrenamiento especial
+A09.0030 [Iris] | Como mínimo, tengo que dejar de tropezar cuando esquivamos.
+A09.0031 [Tú] | Claro, iré contigo
+A09.0032 [Iris] | ¡Yupi!
+A09.0033 [Iris] | ¡En cuanto me prepare, salimos!
+
+## Conversación A10
+A10.0001 [Iris] | Desde que me convertí en Trekker, ¿cuántos recuerdos habré perdido...?
+A10.0002 [Iris] | Claro, la mayoría no son importantes
+A10.0003 [Iris] | Pero seguro también he olvidado cosas importantes en el camino
+A10.0004 [Tú] | Es un problema que todo Trekker debe enfrentar.
+A10.0005 [Iris] | Sí...
+A10.0006 [Iris] | Entiendo que es inevitable
+A10.0007 [Iris] | Pero a veces me obsesiono con eso
+A10.0008 [Iris] | Quiero saber qué es exactamente lo que he olvidado
+A10.0009 [Iris] | Tenemos tanta suerte de haberte conocido, ==PLAYER_NAME==
+A10.0010 [Iris] | Ahora podemos asomarnos a nuestro pasado gracias al Disco Rúnico
+A10.0011 [Tú] | El pasado de Iris era...
+A10.0012 [Opción] | Muy genial
+A10.0013 [Opción] | Muy misterioso
+A10.0014 [Opción] | Sorprendente, pero tiene todo el sentido
+A10.0015 [Iris] | No, no, solo soy una persona común
+A10.0016 [Iris] | Ese recuerdo sí es bastante misterioso
+A10.0017 [Tú] | Como se esperaría de ti.
+A10.0018 [Iris] | No tenía idea...
+A10.0019 [Iris] | De que memoricé el noviano antiguo tantas veces...
+A10.0020 [Iris] | Y lo olvidé cada vez.
+A10.0021 [Iris] | Memorizar y olvidar, memorizar y olvidar, una y otra vez
+A10.0022 [Iris] | Bueno, supongo que eso es aprender
+A10.0023 [Tú] | No no, todo esto es por los Monolitos
+A10.0024 [Iris] | Pero no hay forma de evitarlo.
+A10.0025 [Iris] | Hay cierto consuelo en pensar que al menos últimamente no tengo que presentar exámenes
+A10.0026 [Iris] | De verdad debería irme
+A10.0027 [Iris] | Voy a memorizarlo otra vez
+
+## Conversación B01
+B01.0001 [Iris] | Siento que de verdad debería aprender otro idioma
+B01.0002 [Opción] | Saber noviano debería bastar, ¿no?
+B01.0003 [Opción] | ¿Planeas mudarte a otra ciudad y superar a los locales por los empleos?
+B01.0004 [Iris] | Si sé más idiomas, tendré más oportunidades de trabajo
+B01.0005 [Iris] | Eso es parte de ello, sí
+B01.0006 [Iris] | Pero lo más importante
+B01.0007 [Iris] | Nuestro viaje nos llevará por todo tipo de lugares de Nova
+B01.0008 [Iris] | Si puedo hablar otros idiomas
+B01.0009 [Iris] | Todo será mucho más fácil en el camino
+B01.0010 [Tú] | Es verdad
+B01.0011 [Iris] | Así que estoy pensando en empezar con el idioma loong
+B01.0012 [Tú] | ¡Mucha suerte!
+
+## Conversación B02
+B02.0001 [Iris] | ==PLAYER_NAME==, necesito hablar contigo de algo
+B02.0002 [Opción] | ¿Qué pasa?
+B02.0003 [Iris] | Hagas lo que hagas, no compartas tu pudín con Noya
+B02.0004 [Tú] | ¿Eh?
+B02.0005 [Tú] | ¿Por qué?
+B02.0006 [Iris] | Noya compró dos porciones de pudín para ella el mes pasado
+B02.0007 [Iris] | Y luego se comió también la mía
+B02.0008 [Iris] | Así que le recorté el presupuesto de pudín de este mes
+B02.0009 [Iris] | Seguro vendrá a quejarse contigo
+B02.0010 [Iris] | Y entonces te dará lástima
+B02.0011 [Iris] | Y le darás la mitad de tu pudín
+B02.0012 [Tú] | ¿Cómo sabes todo esto?
+B02.0013 [Iris] | Porque no es la primera vez
+B02.0014 [Iris] | Antes de que te unieras
+B02.0015 [Iris] | Amber era su objetivo
+B02.0016 [Iris] | Espera
+B02.0017 [Iris] | No me digas que ya lo hizo
+B02.0018 [Tú] | No, no
+B02.0019 [Iris] | Bien
+B02.0020 [Iris] | Esta vez tiene que aprender la lección
+B02.0021 [Iris] | No le des nada, ¿sí?
+B02.0022 [Tú] | No lo haré
+B02.0023 [Tú] | Lo prometo
+
+## Conversación B03
+B03.0001 [Iris] | ==PLAYER_NAME==, ¿conoces alguna forma de que Noya conduzca con más seguridad?
+B03.0002 [Opción] | No es que haya tenido un accidente, ¿verdad?
+B03.0003 [Opción] | ¿Limitar la potencia?
+B03.0004 [Opción] | ¿Sacarle aire a las llantas?
+B03.0005 [Iris] | Es verdad, pero...
+B03.0006 [Iris] | Siempre hay una primera vez...
+B03.0007 [Iris] | Y si eso pasa...
+B03.0008 [Iris] | Para empezar, no tenemos dinero para reparar a Loxy
+B03.0009 [Iris] | Además, solo las cuentas médicas aplastarían nuestras frágiles finanzas
+B03.0010 [Iris] | Y entonces vendrían tiempos oscuros, muy oscuros...
+B03.0011 [Tú] | Basta, basta... No dramatices
+B03.0012 [Iris] | Ugh...
+B03.0013 [Tú] | Como poner algo debajo del acelerador para que Noya no pueda pisarlo a fondo
+B03.0014 [Iris] | Buena idea
+B03.0015 [Iris] | ¿Pero y si ocurre algo urgente y necesita acelerar rápido?
+B03.0016 [Tú] | Eso la haría conducir más lento
+B03.0017 [Iris] | Pero también haría que conducir fuera aún más peligroso
+B03.0018 [Iris] | Supongo que hay que volver a la mesa de dibujo
+
+## Conversación B04
+B04.0001 [Iris] | ==PLAYER_NAME==, siento que nuestras finanzas están mucho mejor últimamente
+B04.0002 [Tú] | ¿No es algo bueno?
+B04.0003 [Iris] | ¡No no no!
+B04.0004 [Iris] | Es raro
+B04.0005 [Iris] | Piénsalo
+B04.0006 [Iris] | Antes de que te unieras
+B04.0007 [Iris] | No llegaría a decir eso
+B04.0008 [Iris] | que nuestras finanzas estaban en picada
+B04.0009 [Iris] | pero éramos muy pobres
+B04.0010 [Tú] | Es verdad
+B04.0011 [Tú] | Cuando ustedes tres me sacaron del Monolito
+B04.0012 [Tú] | No parabas de decir
+B04.0013 [Tú] | «Estábamos a punto de quebrar».
+B04.0014 [Iris] | ¡Sí!
+B04.0015 [Iris] | Pero después
+B04.0016 [Iris] | Aunque ahora tenemos una boca más que alimentar
+B04.0017 [Iris] | Y sumando todos los gastos diarios
+B04.0018 [Iris] | ¿Nuestra calidad de vida de hecho sigue mejorando?
+B04.0019 [Opción] | Quizá imaginaste parte de lo malo
+B04.0020 [Opción] | Nos ha ido bastante bien con los encargos últimamente
+B04.0021 [Iris] | Podría ser, sí
+B04.0022 [Iris] | Pero después de que te uniste, definitivamente empezamos a ganar más dinero
+B04.0023 [Iris] | Y más amigos
+B04.0024 [Iris] | Supongo que lo que intento decir es
+B04.0025 [Iris] | Gracias, ==PLAYER_NAME==
+
+## Conversación B05
+B05.0001 [Iris] | El cliente de hace unos días fue muy generoso
+B05.0002 [Iris] | Hasta nos pagó extra, no lo esperaba
+B05.0003 [Tú] | ¿Cuánto en total?
+B05.0004 [Iris] | Casi 100 mil Dorra
+B05.0005 [Opción] | ¡Quiero un banquete!
+B05.0006 [Opción] | ¡Quiero ir de compras!
+B05.0007 [Opción] | Deberíamos ahorrarlo
+B05.0008 [Iris] | Pero... yo pensaba ahorrar este dinero
+B05.0009 [Iris] | Pero... yo pensaba ahorrar este dinero
+B05.0010 [Iris] | Sí, yo también lo siento así
+B05.0011 [Iris] | Pero nos esforzamos mucho para un pago tan grande
+B05.0012 [Iris] | Se siente mal no celebrarlo como se debe
+B05.0013 [Tú] | ¿Qué tal si usamos parte del dinero
+B05.0014 [Tú] | Y tenemos una buena comida juntas?
+B05.0015 [Tú] | Podemos hacer que Noya cocine o ir a un restaurante
+B05.0016 [Iris] | Mmm...
+B05.0017 [Iris] | Hagamos lo que dices, ==PLAYER_NAME==
+
+## Conversación B06
+B06.0001 [Iris] | 111
+B06.0002 [Opción] | ¿Qué pasa?
+B06.0003 [Opción] | ¡¿Qué pasó?!
+B06.0004 [Iris] | Estoy haciendo el presupuesto del gremio para el próximo mes
+B06.0005 [Iris] | ¿Hay algo especial que necesites, ==PLAYER_NAME==?
+B06.0006 [Opción] | ¿Especial?
+B06.0007 [Opción] | Por el momento no
+B06.0008 [Iris] | Cosas que se deban comprar con los fondos del gremio
+B06.0009 [Iris] | Como el líquido de mantenimiento de Loxy o equipo de exploración
+B06.0010 [Iris] | Entonces iré a preguntarles a Noya y Amber
+B06.0011 [Tú] | ¿Por qué preguntas esto de repente?
+B06.0012 [Iris] | Porque ha pasado un tiempo desde nuestro último reabastecimiento
+B06.0013 [Iris] | Deberíamos reponer y hacer el mantenimiento adecuado
+B06.0014 [Iris] | Y va a costar bastante
+B06.0015 [Iris] | Así que necesitamos hacer un plan
+B06.0016 [Tú] | Ya veo
+B06.0017 [Tú] | Estás trabajando muy duro, Iris
+B06.0018 [Iris] | Si necesitas algo, ==PLAYER_NAME==
+B06.0019 [Iris] | Solo mándame una lista
+B06.0020 [Tú] | Okey

@@ -1,0 +1,104 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 10 · Ensueño
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dessert Shop Clerk | Empleada de la pastelería
+N:Isaki & Okra | Isaki y Okra
+N:Shuo | Shuo
+N:avg1_119 | Nanoha
+N:avg1_145 | Otoha
+N:avg1_164 | Shuo
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_202 | Isaki
+N:avg3_203 | Okra
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Ensueño
+0003 [Intro] | Al enterarse del ataque en el banquete, Nanoha te visita. Mientras comparten un postre, una figura conocida pasa junto a la ventana entre pétalos que caen...
+0004 [Lugar y hora] | 11:00, 7.º del mes de Venatio, Distrito de Plata de Philae, Goodwind Homecare
+0005 [Narración] | ...Si lo que dices es cierto, esta historia tiene demasiados huecos.
+0006 [Narración] | A ver si entendí. ¿Alguien se metió, te encerró y luego te dejó ir? ¿Sin hacerte daño?
+0007 [Shuo] | Sí. Después de encerrarme, se disfrazó de mí y vació la propiedad con el pretexto de una emergencia.
+0008 [Narración] | Disfrazada de ti... ¿Una maestra de la ilusión? Aun así, que nadie se diera cuenta... Patético.
+0009 [Narración] | Ya se emitió la orden de regreso. Todas deberían volver pronto.
+0010 [Narración] | Aun así... Shuo. ¿Esa persona se tomó tantas molestias solo para no hacer nada?
+0011 [Shuo] | En cuanto a eso...==W== Lo siento... Estuve inconsciente un tiempo, así que no conozco los detalles.
+0012 [Shuo] | Revisé la propiedad a fondo cuando recobré el conocimiento. Los archivos confidenciales están a salvo, y no falta ni se dañó nada más.
+0013 [Narración] | Recuerda los detalles y deja un informe completo en mi escritorio.
+0014 [Narración] | ...Y esto es clasificado. Ni una palabra a nadie. ¿Entendido?
+0015 [Shuo] | ...==W== Entendido.
+0016 [Shuo] | No hay pruebas sólidas, pero... Alguien con esa habilidad y que odia a los altos mandos...==W== Solo una persona encaja.
+0017 [Shuo] | Si fue ella, ¿cuál era su propósito? No tenía ninguna razón para perdonarme la vida.
+0018 [Shuo] | Y aun así...==W== como quien despierta de una pesadilla, desperté en mi propia cama.
+0019 [Shuo] | ¿Por qué lo hizo así? ¿Para salvar mi reputación? ¿Para ahorrarme la humillación?
+0020 [Shuo] | ¿O...==W== se contuvo conmigo por los viejos tiempos?
+0021 [Shuo] | No. Imposible. La única persona de toda la organización que le importó alguna vez... es su alumna.
+0022 [Shuo] | ...==W== Sea como sea, nos traicionó. La próxima vez que nos veamos, yo misma la traeré.
+0023 [Isaki] | Ya volvimos...
+0024 [Okra] | ¿Eh? Señorita Shuo...==W== ¿Qué hace aquí afuera tan sola?
+0025 [Nanoha] | Reporte del Escuadrón Uno de Philae. Nos avisaron que cancelaron la misión, así que volvimos antes.
+0026 [Shuo] | ¿Ah, sí? Buen trabajo. Ya me voy.
+0027 [Isaki] | Y ahí va...==W== Siempre te hace el feo, Maestra. Me pregunto por qué.
+0028 [Nanoha] | Le das demasiadas vueltas. Así era desde que éramos niñas y entrenábamos con mi Maestra.==W== No ha cambiado nada.
+0029 [Nanoha] | Además... Ella extraña esos días tanto como yo. Solía pasar mucho tiempo en este patio...==W== No es mala persona; por favor, no te hagas una idea equivocada.
+0030 [Isaki] | ¡Vaya! Tu Maestra...==W== ¿Cómo era? ¡Seguro era increíble!
+0031 [Nanoha] | Lo era. Increíble y estricta. Pero...==W== también tenía un lado amable.
+0032 [Okra] | Bueno, todas deben estar muertas de hambre. ¡Vamos a preparar algo!
+0033 [Nanoha] | Hoy cocino yo. ¿Qué se les antoja a ustedes dos?
+0034 [Nanoha] | Tengo que salir en la tarde, así que de paso dejaré lista la cena. No me esperen despiertas esta noche.
+0035 [Okra] | ¿Eh? ¿Adónde vas, senpai?
+0036 [Nanoha] | A visitar a un amigo.
+0037 [Isaki & Okra] | ¿Un amigo?
+0038 [Lugar y hora] | 14:30, 7.º del mes de Venatio, Distrito de Plata de Philae, pastelería
+0039 [Nanoha] | Por favor, disculpe la visita sin avisar. Gracias por hacerse un tiempo para verme.
+0040 [Tú] | No te preocupes, hoy de todos modos no tenía nada que hacer. Me estaba muriendo de aburrimiento cuando pasaste por el hotel.
+0041 [Tú] | He estado hasta el cuello con todo lo del banquete. Relajarme con unos postres me suena perfecto ahora mismo.
+0042 [Nanoha] | Por eso vine. Me enteré del ataque en el banquete...==W== Me alegra que esté a salvo.
+0043 [Tú] | Ah, eso...==W== Espera, ¿cómo te enteraste?
+0044 [Nanoha] | Goodwind Homecare tiene su propia red de inteligencia.
+0045 [Nanoha] | Aun así, mi nivel de autorización no es lo bastante alto para recibir actualizaciones en tiempo real. Cuando me enteré, ya había terminado.
+0046 [Tú] | No te preocupes. Tú también has estado ocupada, ¿no?
+0047 [Nanoha] | Así es. La gerente general emitió un despliegue de emergencia esa mañana. Enviaron a todas las sirvientas fuera de Philae.
+0048 [Tú] | ...Seguro fue Otoha.
+0049 [Tú] | Con razón el lugar estaba vacío cuando fui...
+0050 [Tú] | Pero le prometí a Otoha que no diría nada. Eso significa que tampoco puedo contárselo a Nanoha.
+0051 [Tú] | No pasa nada, de todos modos ya terminó todo. Si alguna vez necesito ayuda, te busco. Todavía tengo la tarjeta que me diste.
+0052 [Nanoha] | Esa tarjeta es la estándar. Solo lo comunica con la recepción de Goodwind Homecare.
+0053 [Nanoha] | Si no le molesta...==W== ¿Podríamos juntar nuestros teléfonos?
+0054 [Nanoha] | Listo. Ahora puede contactarme cuando quiera.
+0055 [Tú] | ...¿Una línea directa contigo? Eso me hace sentir mucho más tranquilo. Gracias.
+0056 [Nanoha] | Hablando de eso, hay algo más que quería preguntarle.
+0057 [Tú] | ¿Qué es?
+0058 [Nanoha] | Últimamente, varias empresas importantes me han contactado. Me ofrecen prestaciones excelentes para intentar reclutarme.
+0059 [Nanoha] | Alguien debió mandarles mi currículum. Por supuesto, los rechacé, pero siguieron insistiendo...==W== Una incluso afirmó que Goodwind Homecare estaba a punto de quebrar.
+0060 [Nanoha] | ¿Boss Accord también recibió mi currículum?
+0061 [Tú] | Ah, no. No lo recibimos.
+0062 [Tú] | Currículum...==W== ¿Otoha era quien los estaba mandando?
+0063 [Tú] | Si no hubiera cambiado de opinión y de verdad hubiera llevado a cabo el asesinato...
+0064 [Tú] | Goodwind Homecare habría cargado con la culpa. Nanoha no tendría adónde ir...==W== ¿Ese fue su plan desde el principio?
+0065 [Nanoha] | ¿Pasa algo? Parece perdido en sus pensamientos.
+0066 [Tú] | No, estoy bien. Me preguntaba...==W== ¿Esas empresas te han contactado últimamente?
+0067 [Nanoha] | No en los últimos días. Si ni siquiera usted sabe nada al respecto, seguramente fue un error.
+0068 [Tú] | No, no fue un error. Esta era la salida que Otoha le había preparado desde el principio...
+0069 [Tú] | Aunque todavía no sé==W== por qué a Otoha le importa tanto Nanoha...
+0070 [Tú] | ¿Dónde estará ahora?
+0071 [Dessert Shop Clerk] | Gracias por esperar.==W== Aquí está su pastel. Que lo disfruten.
+0072 [Nanoha] | Este pastel...==W== Antes me encantaba este pastel.
+0073 [Tú] | ¿Antes? ¿Ya no te gusta?
+0074 [Nanoha] | No exactamente...==W== Es solo que...==W== la persona con quien lo compartía ya no está.
+0075 [Nanoha] | Desde entonces, hasta comerlo sola se sentía vacío...==W== Y al poco tiempo, dejé de pedirlo por completo.
+0076 [Tú] | ...Lo siento.==W== No quise traerte recuerdos dolorosos. Pero solo por esta vez, dame el gusto. Comámoslo juntos.
+0077 [Nanoha] | Está bien...==W== Comamos.
+0078 [Tú] | ¿Mmm? ¿Qué fue eso...?==W== ¿Alguien pasó junto a la ventana?
+0079 [Tú] | Qué raro...==W== No hay nadie afuera. ¿Habrá sido mi imaginación?
+0080 [Nanoha] | ¿Qué está==W== mirando?
+0081 [Tú] | Ah, nada. Me vino alguien a la mente.
+0082 [Nanoha] | Le vino alguien a la mente...==W== Gracias por la invitación. Este pastel también me recuerda a alguien.==W== Alguien que no sé si algún día volverá.
+0083 [Tú] | Volverá.
+0084 [Nanoha] | ¿Mmm? ¿Cómo lo sabe?
+0085 [Tú] | Me refiero a que la persona en la que pienso volverá.==W== Así que quizá la persona en la que piensas tú también vuelva.
+0086 [Narración] | Tal vez en una esquina dentro de muchos años. O tal vez mañana.
+0087 [Narración] | Continuará

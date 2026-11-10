@@ -2,7 +2,23 @@
 // Para anunciar un cambio nuevo: agrega un bloque ARRIBA de la lista (con un id distinto y la fecha de hoy).
 // Enlace de tu formulario de opiniones (Google Forms, etc.). Si lo dejas vacío "" el botón de opinión no aparece.
 const BETA_FORM = "";
+// Versión que ve la gente en Ajustes. Súbela a mano en cada lanzamiento (1.1, 1.2…). El número de caché de sw.js es interno.
+const APP_VERSION = "1.0";
 const CAMBIOS = [
+  {
+    id: "v:2026-11-09-v1",
+    fecha: "2026-11-09T18:00:00-06:00",
+    titulo: "Stella Sora Vita 1.0 ya está aquí",
+    puntos: [
+      "Termina la beta: esta es la primera versión oficial. De aquí en adelante vienen las actualizaciones 1.1, 1.2…",
+      "Lector de historias con fondos, sprites, emojis, música y sonidos, como en el juego.",
+      "Heartlink: lee las conversaciones de chat de cada Trekker, igual que en el juego.",
+      "L2D en las fichas de personajes y discos, con zoom, y una lista de todos en Galería de arte.",
+      "Visor 3D con calidad a tu gusto. Carga solo cuando lo pides, y puedes desactivarlo en Ajustes si tu teléfono es modesto.",
+      "Armador de equipos con imagen para compartir.",
+      "La app carga más rápido y pesa mucho menos."
+    ]
+  },
   {
     id: "v:2026-11-05-beta",
     fecha: "2026-11-05T17:00:00-06:00",

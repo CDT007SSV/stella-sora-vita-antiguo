@@ -1,0 +1,6 @@
+# Historia de Shia — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_155_01 | Rastro de aroma (Parte I)
+CG_155_02 | Rastro de aroma (Parte II)
+CG_155_03 | Rastro de aroma (Parte III)

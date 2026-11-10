@@ -1,0 +1,103 @@
+# Historia de Nazuka · 3 · Whispers in the Wind (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Assailant Leader | Líder de los asaltantes
+N:Assailants | Asaltantes
+N:Fierce-Looking Assailant | Asaltante de aspecto feroz
+N:Hot-Blooded Assailant | Asaltante impetuoso
+N:Souvenir Vendor | Vendedora de souvenirs
+N:avg1_133 | Nazuka
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Susurros en el viento (Parte III)
+0003 [Intro] | Lo que dije ese día es un secreto; algún día te diré lo que de verdad hay en mi corazón.
+0004 [Nazuka] | Dijeron «suerte», ¿eh?==W== Yo también lo creo. Es hora de reparar mi error.
+0005 [Fierce-Looking Assailant] | Jah, ¿oyeron eso? Cree que puede con nosotros tres ella sola.
+0006 [Hot-Blooded Assailant] | Solo eres una Trekker apenas conocida. ¡Te arrepentirás de meterte con nosotros!
+0007 [Assailant Leader] | ¡Así es! ¡Escuchen, muchachos: en cuanto dé la señal, ataquen!
+0008 [Assailant Leader] | En cuanto a mí...==W== ¡me largo!
+0009 [Tú] | ¿Eh...?
+0010 [Assailants] | ¿Eh...?
+0011 [Nazuka] | ¡Ni lo sueñes!
+0012 [Nazuka] | ¡Hojas que con el viento juegan, tejan un muro que su paso niegue!
+0013 [Tú] | Ya lo habíamos hablado. Los atacantes ya conocían a Nazuka y la evitaban. Los que quedaban no se atreverían a enfrentarla de frente.
+0014 [Tú] | Pensé que me vería envuelto en la pelea, pero a este paso...
+0015 [Tú] | Ya terminó en un instante... Increíble.
+0016 [Tú] | Un muro de viento y hojas bloqueando su escape...==W== Usaste esta magia antes, cuando peleamos contra el Espíritu de la Brutalidad, ¿verdad?
+0017 [Nazuka] | Je, lo recordaste. La barrera de viento no solo me protege; también atrapa al enemigo dentro.
+0018 [Tú] | Exploración, ataque, captura... Nazuka de verdad puede con todo.
+0019 [Tú] | Entonces... ¿ya acabó?
+0020 [Nazuka] | Ya pedí refuerzos. Están en camino.
+0021 [Nazuka] | En cuanto hagamos que estos tipos nos digan dónde se esconden los demás, lo demás no será problema.==W== Con eso termina nuestra patrulla de hoy.
+0022 [Nazuka] | Gracias por acompañarme. Y...==W== lo siento muchísimo. Aun estando yo aquí, te llevaste un susto.
+0023 [Tú] | Nazuka...
+0024 [Tú] | Solo me mordió un venado, nada más.
+0025 [Tú] | No te preocupes. Solo quería ayudarte a atrapar a esos criminales.
+0026 [Tú] | Ahora podemos relajarnos y pasear por el mercado, ¿no? Jaja.
+0027 [Nazuka] | Aun así, si los hubiera capturado a todos antes, no habría tenido que arrastrarte a todo esto.
+0028 [Nazuka] | Perdón.
+0029 [Tú] | Parece que hay un malentendido.
+0030 [Tú] | ¿Pensaste que te estaba culpando?
+0031 [Nazuka] | ¿No era así?
+0032 [Tú] | Claro que no.
+0033 [Tú] | Solo cometiste un error. Eres demasiado dura contigo misma.
+0034 [Tú] | Solo quería corresponder a tu confianza, nada más.
+0035 [Tú] | Eres la guerrera perfecta, pero yo solo quería ayudar, aunque fuera de señuelo.
+0036 [Tú] | Al final no hice mucho, pero aun así me alegra haber trabajado contigo.
+0037 [Nazuka] | Jeje...
+0038 [Tú] | ¿Mmm?
+0039 [Nazuka] | Acabo de darme cuenta... Los dos nos esforzamos tanto por cumplir las expectativas del otro.
+0040 [Tú] | Es cierto.
+0041 [Nazuka] | Pero ==PLAYER_NAME==, para mí ya eres único: un compañero que no se puede reemplazar.
+0042 [Nazuka] | Así que, por favor, no le des demasiadas vueltas.
+0043 [Nazuka] | Mientras te quedes conmigo, entonces...
+0044 [Nazuka] | ...
+0045 [Tú] | ¿Entonces qué?
+0046 [Nazuka] | Es un secreto.==W== Quiero guardarme este sentimiento, por ahora.
+0047 [Tú] | Ahora me dio más curiosidad. Supongo que tendré que esforzarme más hasta que tú misma me lo digas.
+0048 [Nazuka] | Lo espero con ganas.
+0049 [Tú] | Bueno, ¿qué sigue? Ya comimos esas brochetas, así que no tengo hambre.
+0050 [Tú] | Ah, por cierto, Nazuka, volvamos a esa tienda de souvenirs de hace rato.
+0051 [Nazuka] | ¿Por qué?
+0052 [Tú] | Me dio curiosidad lo del molinete.
+0053 [Tú] | Reaccionaste de forma extraña en ese momento. ¿Significa algo que yo no sepa?
+0054 [Nazuka] | Eso en realidad es...
+0055 [Tú] | ¿Otra pregunta difícil?
+0056 [Tú] | Entonces lo diré así... Si te regalara un molinete, ¿te haría feliz?
+0057 [Nazuka] | Sí.
+0058 [Tú] | Muy bien, entonces está decidido.
+0059 [Tú] | Disculpe, ¿podría darme uno de esos molinetes de hace rato?
+0060 [Souvenir Vendor] | Claro que sí.
+0061 [Tú] | Toma. Es para ti.
+0062 [Nazuka] | ¿J-==W==Jefe…?!==W== Este...==W== molinete...==W== ¿De verdad puedo aceptarlo?
+0063 [Opción] | ¿Mm? ¿Te incomoda?
+0064 [Nazuka] | ¡N-no, para nada!==W== Es que, eh...==W== No,==W== no es==W== ninguna molestia…
+0065 [Nazuka] | Solo...==W== me sorprendí un poco, nada más.==W== Pero estoy muy feliz.==W== G-gracias.
+0066 [Opción] | Entonces, ¿qué significa regalar un molinete?
+0067 [Nazuka] | Eso...==W== no puedo decírtelo.==W== Ni siquiera a ti.==W== Es un secreto.
+0068 [Opción] | Entonces… ¿puedo regalarle uno a alguien más?
+0069 [Nazuka] | ¿¡Qué...!? ==W==Eh...==W== ¡Qué malo eres!
+0070 [Opción] | ¿Entonces solo dímelo?
+0071 [Nazuka] | Porque no puedo.==W== Pero,==W== prométeme que no le darás un molinete a nadie más. ==W==Ah, y,==W== no le preguntes a nadie más qué significa regalar un molinete.
+0072 [Nazuka] | Además...==W== no le cuentes a nadie más==W== que me diste uno.==W== ¿Lo prometes?
+0073 [Opción] | Tienes muchas reglas. Pero acepto.
+0074 [Nazuka] | B-bueno…==W== Eso está bien.==W== En ese caso,==W== quizá yo también te regale un molinete…
+0075 [Nazuka] | Pero después de hacerlo,==W== bajo ninguna circunstancia,==W== ninguna,==W== se lo cuentes a nadie más.==W== ¿Entendido?==W== ¡Ninguna!
+0076 [Opción] | Está bien, entonces este será nuestro pequeño secreto.
+0077 [Nazuka] | Ah...==W== Jeje,==W== gracias.==W==Este molinete...==W== siempre lo atesoraré...==W== Y espero==W== que tú siempre atesores el tuyo.
+0078 [Tú] | Hablando de eso, estos dos molinetes parecen un poco distintos.
+0079 [Nazuka] | Claro, esa es la característica de los molinetes artesanales de Philae: la diferencia está en los detalles de la hechura.
+0080 [Tú] | O sea que cada molinete es «único en su especie»...
+0081 [Tú] | Eso sí que lo hace especial.
+0082 [Nazuka] | Entonces, si no tienes nada más pendiente,==W== ¿damos una vuelta juntos por el mercado?
+0083 [Tú] | Con gusto.
+0084 [Nazuka] | Gracias... Entonces, vamos.
+0085 [Narración] | Con los molinetes en la mano, los dos paseamos por el bullicioso mercado, con pasos ligeros y tranquilos, hasta que==W== por fin cayó la noche...

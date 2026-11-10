@@ -1,0 +1,116 @@
+# Evento · Para ti, mi persona más querida · 8 · Para ti, mi persona más querida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Para ti, mi persona más querida
+0003 [Intro] | De vuelta en Post Haste, los espera una montaña de correo... Tras mucho esfuerzo, todas las cartas perdidas son devueltas a sus legítimos dueños. Al despedirse del Jefe, Donna toma una pluma para escribir una carta por primera vez en mucho tiempo...
+0004 [Teresa] | ¡¡Ya llegamooos!!
+0005 [Donna] | ¡La Operación: Encontrar las Cartas Perdidas es todo un éxito! ¡Otra victoria!
+0006 [Freesia] | ¿Hm? Gremio de la Nueva Estrella... No se ven bien.
+0007 [Iris] | Ah... Jefe... Todos... Bienvenidos de vuelta...
+0008 [Tú] | ¡¿Q-qué pasó?! ¡Parecen muertos vivientes!
+0009 [Amber] | No terminamos...
+0010 [Tú] | ¿Hm?
+0011 [Noya] | ¡Lo siiiento! ¡Aceptamos el trabajo, pero ni de lejos hemos terminado! ¡Aaaah!
+0012 [Iris] | Subestimé la carga de trabajo... Me comprometí a más de lo que podía, ¡lo lamento muchísimo!
+0013 [Amber] | Los Trekkers mensajeros... son fuertes.
+0014 [Donna] | ¡Jajaja! ¿Eso es todo? ¡No se preocupen!
+0015 [Freesia] | Miren la pila. Han avanzado bastante desde que nos fuimos.
+0016 [Teresa] | ¡Sip! ¡Para ser novatos, lo están haciendo genial!
+0017 [Iris] | ¡Ustedes...!
+0018 [Donna] | ¡Jajaja! ¡De hecho, la pila acaba de crecer! ¿Les importaría echarnos una mano con estas también?
+0019 [Noya] | ¡¿C-Cómo es que hay MÁS?! ¡Noooo!
+0020 [Tú] | Eh... Digamos que ha sido un día largo.
+0021 [Amber] | Horas extra... Confirmadas...
+0022 [Donna] | ¡No se preocupen, más trabajo significa más paga! Bien, ¡dividamos y venzamos!
+0023 [Tú] | ¡¿Ahora?! Han estado corriendo todo el día... ¡Descansen primero!
+0024 [Donna] | ¡No, no! ¡Cada minuto cuenta: quiero que estas cartas perdidas se entreguen cuanto antes!
+0025 [Noya] | Destinatario confirmado... ¡Aquí hay una! Destinatario confirmado... ¡Allá!
+0026 [Iris] | ¡Teresa! Te toca. ¡Encárgate de todo este sector!
+0027 [Teresa] | ¡Recibido! ¡Me voy, miau!
+0028 [Donna] | ¡Amber, Freesia! Este lote está listo. ¡Comiencen la ruta de entrega!
+0029 [Amber] | Entendido.
+0030 [Freesia] | Muy bien. Me retiro.
+0031 [Tú] | Y esa es la última pila. ¡Clasificación completa!
+0032 [Donna] | ¡Gracias, Jefe! Una vez que las agrupemos por distrito... ¡podremos despejar todo el atraso mañana!
+0033 [Narración] | Gracias al esfuerzo de todos, la caótica montaña de correo se reduce a pilas ordenadas y pulcras. La victoria está a la vista.
+0034 [Freesia] | Zzz... Zzz...
+0035 [Teresa] | Miau... Purr...
+0036 [Noya] | ... ¿Todo el equipo de Post Haste se está quedando dormido?
+0037 [Iris] | No se les puede culpar. Persiguieron las cartas, pelearon con un monstruo y luego volvieron directo a clasificar y repartir...
+0038 [Amber] | Trabajaron... muy duro.
+0039 [Tú] | Seguro que de verdad aman lo que hacen.
+0040 [Iris] | Sin duda he visto esa pasión de primera mano estos últimos días.
+0041 [Noya] | ... ¡Qué intensa es la dedicación de las mensajeras! ¡No sé por qué, pero en realidad es medio genial!
+0042 [Amber] | Se ve agotador... Pero el trabajo importa mucho.
+0043 [Tú] | Sí. De verdad que sí.
+0044 [Donna] | Miau... Post Haste... Entrega...
+0045 [Tú] | Soñando con el trabajo, hasta ahora...
+0046 [Tú] | Se merecen este descanso.
+0047 [Tú] | Supongo que mañana será el adiós al Puerto Bellin... Fue un viaje agitado, pero la verdad me la pasé de maravilla.
+0048 [Donna] | ¡Buenos díííías, Jefe! ¿Qué haces?
+0049 [Tú] | Buenos días, Donna. Solo disfrutando de la vista por última vez. Intentando grabarla en mi memoria.
+0050 [Donna] | Hermosa, ¿verdad? De hecho este es mi lugar favorito para contemplar la mañana.
+0051 [Tú] | De verdad lo es. Y esta brisa... Justo la necesaria para despertarme del letargo de la mañana.
+0052 [Tú] | ¿Dormiste bien?
+0053 [Donna] | ¡Como un tronco! Ahora que el trabajo terminó, ¡estoy recargada, descansada y al 100%!
+0054 [Donna] | Pero... eso también significa que el contrato del Gremio de la Nueva Estrella terminó. Hoy se van, ¿verdad?
+0055 [Tú] | Sí. Iris dice que es hora de ponerse en camino.
+0056 [Donna] | ¡Ay, qué lástima! Son unos naturales en esto de la mensajería. ¡Si se quedaran a ayudar, yo dormiría mucho mejor por las noches!
+0057 [Tú] | Jaja, por favor. Comparados con Post Haste, somos meros aficionados.
+0058 [Donna] | ¡Jajaja, es broma! Pero en serio... Aunque fuera solo por unos días, disfruté muchísimo trabajar con todos ustedes.
+0059 [Tú] | Yo...==W== también lo disfruté mucho.
+0060 [Donna] | ... Sí. Además, verte trabajar me hizo darme cuenta de algo, Jefe. Me falta mucho camino para poder llamarme una verdadera líder.
+0061 [Donna] | Tengo muchísimo más que aprender... Tengo que esforzarme por parecerme más a ti, Jefe.
+0062 [Tú] | Donna, no necesitas ser como yo.
+0063 [Donna] | ¿Eh?
+0064 [Tú] | Tienes tus propias fortalezas. La Donna que tengo enfrente ya es una líder increíble.
+0065 [Donna] | ¿D-De verdad? ¿Tú crees...? Yo...
+0066 [Tú] | ¿Recuerdas lo que te dije? Un líder sin convicción no tendrá seguidores.
+0067 [Tú] | Fue tu convicción la que nos sacó adelante. Todos te siguieron porque creyeron en ti.
+0068 [Donna] | ¡Basta, Jefe! ¡Eres demasiado bueno para los halagos! Si sigues hablando así, me vas a sonrojar.
+0069 [Donna] | ... Esta es la última vez que charlamos así, ¿verdad, Jefe? Me da un poco de tristeza.
+0070 [Tú] | Donna...
+0071 [Donna] | Soy pésima para las despedidas. ¿Te lo había contado? Solía andar de un lugar a otro, nunca tuve un verdadero hogar.
+0072 [Donna] | La amistad, la confianza... y los lazos... Siempre siento que podrían desaparecer en cualquier momento. No puedo dejar de pensarlo...==W== Y me hace sentir tan sola.
+0073 [Donna] | Por eso...==W== me aterra que Post Haste termine igual. Me parto el lomo trabajando solo para mantenernos todos juntos...
+0074 [Donna] | ¡Ah! ¡P-Perdón! ¿Por qué me pongo tan sentimental...? De algún modo siempre termino desahogándome contigo, Jefe.
+0075 [Tú] | Las despedidas ocurren. Suena triste, pero nada en este mundo dura para siempre.
+0076 [Donna] | ... Sí, lo sé.
+0077 [Tú] | Pero podemos escribirnos. Aunque estemos a kilómetros de distancia, una carta aún puede llegar.
+0078 [Tú] | «Incluso cuando las personas están a kilómetros de distancia, una carta mantiene viva su conexión».==W== ¿No es así, Donna?
+0079 [Tú] | Mientras tengamos el poder de las cartas, nunca estarás sola.
+0080 [Donna] | Yo soy la mensajera aquí, y tú eres quien me enseña sobre el poder de las cartas... Me ganaste.
+0081 [Donna] | Tienes razón. Las cartas son el puente que nos conecta a todos.
+0082 [Tú] | Escríbeme cuando quieras. Te prometo que te responderé.
+0083 [Donna] | ¡Claro que sí! ¡Es una promesa, Jefe!
+0084 [Teresa] | ¡No es justo! ¡Yo también quiero ser amiga por correspondencia del Jefe!
+0085 [Freesia] | Intercambiar cartas con el Jefe... Qué encanto.
+0086 [Donna] | ¡¿Eeeh?! ¡¿Teresa?! ¡¿Freesia?! ¡¿Desde cuándo escuchan?!
+0087 [Freesia] | ¿Cuándo? Déjame pensar... Creo que fue justo en «escríbeme cuando quieras».
+0088 [Donna] | Uf... O sea que no oyeron demasiado...
+0089 [Teresa] | ¡¿Quéeee?! ¡Ahora me muero por saber de qué hablaban antes de eso, miau!
+0090 [Donna] | ¡Ah! ¡Mira la hora, tengo que preparar el desayuno! ¡Jefe, ni una palabra sobre nuestra platiquita, ¿sí?!
+0091 [Teresa] | ¡Donna...!
+0092 [Tú] | Post Haste de verdad es una familia muy unida.
+0093 [Donna] | ¡Muchísimas gracias otra vez al Gremio de la Nueva Estrella! Solo salimos adelante sanas y salvas gracias a ustedes.
+0094 [Iris] | Lo mismo digo. También hemos aprendido muchísimo de esto.
+0095 [Amber] | Ser mensajera fue divertido.
+0096 [Noya] | ¡Si alguna vez vuelven a estar en apuros, avísennos! ¡Me subo a Loxy y llego volando en un santiamén!
+0097 [Tú] | ¡Teresa, Freesia, Donna! ¡Les deseo buen viento en su trabajo de mensajeras!
+0098 [Donna] | ¡Gracias! ¡Y si alguien necesita enviar algo, manden un encargo a Post Haste!
+0099 [Narración] | Conocerse, estrechar lazos y, con el tiempo, separarse... Ese momento es inevitable. Pero la voz de la chica no guarda tristeza... Su expresión es tan cálida y abierta como el cielo azul despejado.
+0100 [Narración] | Sabe que, mientras tome una pluma y envíe una carta... su corazón les llegará.
+0101 [Donna] | (Ahora que lo pienso, hacía siglos que no me sentaba a escribir una carta de verdad...==W== ¡La empezaré así!)
+0102 [Narración] | «Para ti, mi persona más querida: Jefe»...

@@ -1,0 +1,182 @@
+# Capítulo 2 · Epílogo · Un nuevo comienzo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Girl in Blue | Chica de azul
+N:Young Squire | Joven escudero
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_107 | Tilia
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_118 | Coronis
+N:avg1_132 | Minova
+N:avg1_142 | Cosette
+N:avg1_144 | Chitose
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_1243 | Bastelina
+N:avg3_152 | Bastelina
+N:avg3_197 | Feagin
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Un nuevo comienzo
+0003 [Intro] | Tras derrotar al Stellaroid colosal, eres aclamado como salvador. Despidiéndote del Clan Viento de Ceniza, emprendes un nuevo viaje, dando otro paso hacia lo desconocido.
+0004 [Narración] | Una semana después.
+0005 [Lugar y hora] | 09:00, 9 del mes de Pluvia, Distrito de las Cenizas, Emor. Prisión de la Guardia Imperial
+0006 [Tú] | ¿Todavía no hay pistas sobre el Orfanato de las Cenizas ni sobre adónde fue la tía Allie?
+0007 [Feagin] | Augh... ah...
+0008 [Tú] | He estado investigando a Creta Trading. Hace cinco años, cuando tu padre estaba al mando, Creta Trading iba bien, ¿verdad?
+0009 [Tú] | Pero entonces, una enorme parte de los ahorros de Creta Trading se esfumó. La mayoría de sus activos se vendieron o se hipotecaron.
+0010 [Tú] | Para cuando tomaste las riendas el año pasado, la empresa ya estaba en graves problemas.
+0011 [Tú] | Tiene que haber más en esa historia, ¿no? Si sabes algo, por favor dímelo.
+0012 [Feagin] | Ah... augh... ah...
+0013 [Joven escudero] | Eh... Entiendo que necesite respuestas, pero probablemente sea mejor dejarlo.
+0014 [Joven escudero] | No ha respondido a nada desde que la sacamos del Monolito hace cinco días. Apenas puede comer o beber, mucho menos hablar.
+0015 [Joven escudero] | El médico cree que es por haber deseado un Stellaroid muy por encima de sus límites. Dijo que podría recuperarse en décadas, o quizá nunca.
+0016 [Joven escudero] | Lo único que ha dicho estos días es...
+0017 [Feagin] | Philae... Philae... Philae...
+0018 [Joven escudero] | Sí. Sigue repitiendo el nombre de esa ciudad famosa por su grano.
+0019 [Tú] | Es información muy útil.==W== Gracias.
+0020 [Joven escudero] | ¡No hay de qué! Su gremio detuvo ese Colapso del Monolito. La Guardia Imperial las respalda.
+0021 [Joven escudero] | Eh... bueno, verá...
+0022 [Tilia] | Me llamo Tilia, escudera nueva de la Guardia Imperial.
+0023 [Tilia] | Sobre Creta Trading... la Guardia Imperial les causó muchos problemas. Sé que solo seguíamos órdenes, pero aun así creo que les debemos una disculpa.
+0024 [Tú] | No te preocupes. La Guardia Imperial es una compañía de seguridad. Solo hacían su trabajo.
+0025 [Tilia] | ¡Gracias por entender!==W== ¡Y no fue solo por los Dorra!==W== ¡Fue una oportunidad para todos nosotros, yo incluida, de reafirmar nuestro compromiso con el corazón de la justicia y el Código del Caballero!
+0026 [Tú] | Me suena a que esas cosas ya están en tu corazón.
+0027 [Tú] | Ese día en que el Stellaroid gigante destrozó el Distrito de las Cenizas, vi a una joven caballero protegiendo a unos niños.
+0028 [Joven escudero] | ¿Lo vio?
+0029 [Tú] | Fuiste muy valiente. Como un caballero salido de una leyenda.
+0030 [Tú] | Bueno, cuídate. Probablemente no regrese en un buen tiempo. Si volvemos a cruzarnos, quizá tenga que pedirte... a la Guardia Imperial su ayuda.
+0031 [Tilia] | Estoy deseando volver a verlo.
+0032 [Bastelina] | ¡Perdón por la espera! ¡Su única y exclusiva Bastelina tiene sus Piedras del Alma cargadas y listas para la acción! ♪
+0033 [Coronis] | Gracias.
+0034 [Coronis] | Jefe. Estoy impresionada. Hasta el Imperio de la Gracia te da trato especial. Cincuenta por ciento de descuento en la recarga... Je... ¿Quién demonios eres? Eres un caso verdaderamente curioso.
+0035 [Coronis] | Si el concepto de «alma» no fuera dudoso, me inscribiría ahora mismo en tu grupo==W== para disecar... ==W==no, observar... a un Jefe como tú.
+0036 [Tú] | ¿Acaba de decir «disecar»?==W== ¡Absolutamente dijo «disecar»!
+0037 [Chitose] | Las espadas no poseen alma. Por lo tanto, no puedo unirme a tu compañía por ese medio.
+0038 [Chitose] | ¿Qué debo hacer...?
+0039 [Tú] | No te preocupes. Unirse no requiere una transacción de almas. Un contrato normal sirve perfectamente.
+0040 [Tú] | Para mí, ya formas parte del equipo.
+0041 [Chitose] | Mi ==SEX11==...==W== Entonces obedeceré tu orden.==W== Esto significa que puedo reanudar mi viaje de entrenamiento.
+0042 [Tú] | Solo regresa pronto. Andamos bastante cortos de personal por aquí.
+0043 [Chitose] | Como ordenes. Completaré mi entrenamiento con rapidez, me convertiré en la hoja más afilada de toda Nova y volveré a servir bajo tu estandarte.
+0044 [Chitose] | Por último... Por favor, acepta esto.
+0045 [Tú] | Esto es...
+0046 [Chitose] | Este es mi sageo.==W== Simboliza el vínculo entre una hoja y su portador.
+0047 [Tú] | Un símbolo de nuestro vínculo...==W== Gracias. Lo atesoraré.
+0048 [Chitose] | Mi ==SEX11==,==W== adiós.
+0049 [Coronis] | Bueno, me voy.==W== La próxima vez que nos veamos, traeré más Piedras del Alma para que me las recargues.
+0050 [Bastelina] | Mmm, una médica brillante y una espadachina maestra... ¿Las dejas ir así sin más?
+0051 [Bastelina] | Sobre todo la que se llama tu «espada». Perdona mi franqueza, pero estaba totalmente preparada para dar la vida por ti.
+0052 [Tú] | Como dije, no necesito el alma ni la vida de nadie.
+0053 [Tú] | Reviví esta compañía para derribar a Creta Trading y ayudar a mis amigas.==W== La verdad, ni siquiera he decidido si la mantendré en funcionamiento después.
+0054 [Bastelina] | Una decisión muy prudente. Cada vez suenas más como los peces gordos que he conocido.
+0055 [Tú] | No me des demasiado crédito. No soy tan impresionante.
+0056 [Tú] | Coronis va por su cuenta, siempre en movimiento. Y Chitose... Nuestro encuentro fue solo una feliz casualidad en su viaje de entrenamiento.
+0057 [Tú] | Si el destino lo quiere, nuestros caminos se cruzarán de nuevo.
+0058 [Tú] | No, solo volver a vernos no tiene sentido. Antes de que eso ocurra, necesito empezar a parecer un director general.
+0059 [Bastelina] | Jeje, ¡como su fan, lo apoyaré, Jefe! ¡Ah, cierto! Permítame darle una pequeña muestra de mi agradecimiento.
+0060 [Tú] | ¿Una muestra? ¿Qué tenías en mente?
+0061 [Bastelina] | ¡Durante la investigación, dio un relato tan heroico de mi desempeño!
+0062 [Bastelina] | ¡Y gracias a eso me ascendieron de pasante a empleada de tiempo completo! ¡Todo gracias a usted, he dado mi primer paso para convertirme en una adorable miembro de la sociedad!
+0063 [Tú] | Felicidades.==W== Aun así... mencionaste un regalo y ahora me has dado curiosidad.
+0064 [Tú] | ¿Algo como... infusiones de Gracia gratis de por vida?
+0065 [Bastelina] | Ay, caramba~==W== ¡Ni siquiera una adorable empleada de tiempo completo como yo puede lograr eso! ♪
+0066 [Bastelina] | En realidad es información. Hay una corredora de información en Philae llamada Serena. Quizá sepa algo de lo que buscan.
+0067 [Tú] | ¿Crees que tendría información sobre el orfanato? ¿O sobre Boss Accord?
+0068 [Bastelina] | Posiblemente. Si Serena no lo sabe, es poco probable que alguien lo sepa.==W== Quizá incluso tenga datos sobre esa oficial de Nocturn Eterna con la que se toparon.
+0069 [Tú] | Ugh, de verdad no quiero tener nada más que ver con un grupo que destruye Monolitos.
+0070 [Bastelina] | Jefe,==W== a veces no importa si quieres tener algo que ver con ellos.==W== Lo que importa es quién te tiene en la mira.
+0071 [Lugar y hora] | 11:00, 9 del mes de Pluvia, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0072 [Aeloria] | Ugh, siento el cuerpo pesado... Completamente drenada.
+0073 [Chica de azul] | ¿Quieres un sorbo? ¡Te levantará al instante!
+0074 [Aeloria] | ¿No es solo una bebida de Monolito? Solo tiene azúcar, ¿no?==W== Ah, qué más da. Dámela.
+0075 [Aeloria] | Vaya... Guau, de hecho me siento mejor. Gracias.
+0076 [Chica de azul] | Las bebidas dulces levantan el ánimo. Un ánimo más ligero hace un cuerpo más ligero.
+0077 [Aeloria] | ¿Así que ese es el truco...?==W== Quizá debería tener de estas a mano. El golpe de esa mujer quemó dos años de mis reservas de magia.
+0078 [Aeloria] | Perdona... La siguiente fase queda en tus manos por ahora, Cosette.
+0079 [Cosette] | El Jefe y Boss Accord Staffing Co.
+0080 [Aeloria] | Exacto. Sigue a ==SEX4==. Tengo el presentimiento de que ==SEX== va a complicar nuestros planes.
+0081 [Cosette] | ¿Para bien o para mal?
+0082 [Aeloria] | Eso es lo que estamos a punto de averiguar.
+0083 [Aeloria] | Necesitamos un panorama completo de los movimientos de ==SEX3==.==W== Si llega el caso, tienes mi aprobación para usar cualquier medio necesario.==W== Incluso... el secuestro.
+0084 [Minova] | Y... terminamos.
+0085 [Noya] | ¡Todo listo!
+0086 [Iris] | Vaya... ¡Arreglaron todos los daños del Lucky Oasis!
+0087 [Amber] | Está aún más reluciente que antes.
+0088 [Vollara] | Hmph. Como dijo Noya, un vehículo es básicamente una patineta grande. Ambos tienen cuatro ruedas y una plataforma.
+0089 [Neuvira] | Cuando dijiste: «Si puedes construir una tabla, puedes arreglar un vehículo», pensé: ¿hablas en serio?
+0090 [Minova] | Noya mira una pieza y sabe exactamente dónde encaja.
+0091 [Minova] | ¡Ese es un talento digno de admirar!
+0092 [Noya] | Ejeje~ ¿Ves? ¡Mi instinto nunca falla!
+0093 [Tú] | Mmm, desear piezas de Artefactos en el Monolito y luego ensamblarlas... Podría ser una buena forma de ganar dinero.
+0094 [Minova] | Sí. Lo hablé con Vollara, Neuvira y el resto de los niños del Viento de Ceniza.
+0095 [Minova] | En cuanto el clan se recupere, entraremos al Monolito.
+0096 [Vollara] | ¡Un Artefacto especial al mes debería cubrir nuestros gastos!
+0097 [Neuvira] | He anotado todos los consejos para viajar por las Tierras Salvajes. Creo que le agarraré el truco.
+0098 [Minova] | Así que perdón, Jefe. Por ahora tenemos que ocuparnos de los asuntos del clan.
+0099 [Tú] | Si es así... te encargarás de mantener el fuerte del Clan Viento de Ceniza.
+0100 [Tú] | Es mi primera fortaleza real, después de todo.
+0101 [Minova] | ¡Claro que sí! Entonces trato hecho. ¡Dirigiremos esta ciudad hasta que regreses, Jefe! ¡Déjalo en nuestras manos!
+0102 [Tú] | Oye... ¿No es esta la parte donde empiezas a burlarte de mí?
+0103 [Minova] | ¡Jaja! Nah, estuvo genial y le quedó perfecto a tu estilo.
+0104 [Minova] | ¡Los niños del Viento de Ceniza van contando la leyenda: cómo jugaste ajedrez sobre el Canal, fresco como una lechuga mientras dabas órdenes, y luego ¡PUM! ¡derribaste a ese Stellaroid demencial!
+0105 [Tú] | ¿En serio? ¿De dónde salen estas historias? ¡Cuando Noya lanzó volando la casa rodante, el corazón casi se me sale del pecho!
+0106 [Noya] | ¿Eh, tan preocupado estabas? ¡Yo supe que funcionaría!
+0107 [Noya] | «¡Si cargamos con Loxy, seguro ganamos!»==W== ¡Qué bueno que tuve esa chispa de inspiración!==W== ¿Y ves? ¡Funcionó de maravilla!
+0108 [Noya] | ¡Esa será la técnica definitiva supersecreta del Gremio Nueva Estrella!
+0109 [Tú] | Mejor mantener en secreto un movimiento impredecible como ese.
+0110 [Noya] | ¡Vale!==W== ¡Ah, cierto, ==PLAYER_NAME==!
+0111 [Noya] | Como ganamos y todo eso, ¿no crees que merecemos una pequeña recompensa?
+0112 [Tú] | Es algo repentino.==W== No me opongo, pero tiene que ser algo que de verdad pueda darles.
+0113 [Amber] | El Boss Accord.
+0114 [Tú] | ¿Quieren firmar esa cosa? ¿Pero por qué?
+0115 [Noya] | ¡Somos un Gremio! ¡Los gremios tienen que mantenerse unidos! ¡Compartir los buenos momentos, compartir los riesgos!
+0116 [Amber] | Iris nos lo contó. Todas estábamos contigo, pero solo firmaste con Minova.
+0117 [Iris] | ¡Shh! ¡No tan fuerte! ¡No hace falta que lo anuncies! ¡El ambiente estaba tan tenso que no pude decir ni una palabra!
+0118 [Minova] | Perdón... Me puse demasiado ansiosa.
+0119 [Tú] | La verdad, no me entusiasma mucho esto de comerciar almas...==W== ¿Tienen siquiera algún deseo que se mueran por pedir ahora mismo?
+0120 [Noya] | No.
+0121 [Iris] | Por el momento no.
+0122 [Amber] | Yo tampoco.
+0123 [Tú] | En ese caso, diría que no firmen. Mejor evitar pactos dudosos que no entienden.
+0124 [Iris] | Ya veo... Bueno, ¿podemos dejarlo en pausa por ahora?
+0125 [Amber] | No podemos dejar que alguien más nos gane otra vez.
+0126 [Noya] | ¡Sí, nosotras te conocimos primero!
+0127 [Tú] | Eh... oye, Minova...==W== ¿sientes algo distinto últimamente?
+0128 [Minova] | Creta Trading ya no existe. Mi deseo se cumplió. Así que supongo que mi alma ahora te pertenece.
+0129 [Minova] | Pero no siento nada diferente.==W== Si acaso, estoy más llena de energía que nunca.==W== ¿Y tú, Jefe?
+0130 [Opción] | Más o menos igual que siempre.
+0131 [Tú] | Supongo que en realidad no se puede entregar el alma, ¿eh?
+0132 [Tú] | Lo que significa... ¿salí perdiendo en este trato?
+0133 [Minova] | Pero si preguntas dónde me siento distinta, es aquí.
+0134 [Narración] | Minova se señala el corazón.
+0135 [Minova] | A partir de ahora, sin importar la dificultad que enfrente... ya no sentiré pánico ni miedo aquí dentro.
+0136 [Minova] | Porque sé que mi alma está a salvo contigo.
+0137 [Minova] | Por eso puedo recorrer mi propio camino sin dudar. Solo puedo pensar así gracias a ti.
+0138 [Vollara] | ¡Jefa, eso estuvo genial!
+0139 [Neuvira] | No es de sorprender, ya que le llevó siete días inventar esa declaración de amor.
+0140 [Minova] | ¡¿Qué declaración de amor?! ¡Cállense!
+0141 [Noya] | ¡Oye, no es justo! ¡No podemos dejar que te quedes a ==SEX4== para ti sola!
+0142 [Amber] | ==PLAYER_NAME==. Firma el pacto. Ahora mismo.
+0143 [Iris] | Si no hay efectos secundarios,==W== no hay razón para decir que no, ¿verdad?
+0144 [Tú] | ¡E-==W==está bien, está bien!==W== ¡Ya entendí!
+0145 [Narración] | Y así, con Noya, Iris y Amber prácticamente suplicando, firmamos ese completamente inútil «Boss Accord».
+0146 [Narración] | El Lucky Oasis ruge a la vida otra vez.
+0147 [Narración] | Siguiendo las pistas del orfanato desaparecido, partimos rumbo a Philae.
+0148 [Narración] | Mientras tanto, en la cúspide del Canal de Emor...
+0149 [Narración] | Una chica de blanco observa a través de un Artefacto telescópico, con el teléfono en la otra mano, informando.
+0150 [Bastelina] | Sí, el Jefe y el grupo de ==SEX3== acaban de salir de la ciudad de Emor.
+0151 [Bastelina] | Como deseaste, el viejo lastre de Creta Trading por fin está resuelto.
+0152 [Bastelina] | La limpieza fue perfecta también. Ese Stellaroid destrozó unos cuantos almacenes: la excusa perfecta para dar de baja años de Artefactos desaparecidos.
+0153 [Bastelina] | ... Mjm, entiendo.==W== Así que ahora solo queda vigilar «ese» despertar, ¿verdad?
+0154 [???] | Bienvenido de nuevo al Sistema de Desarrollo de Tiranos del Pozo de los Mundos, ==SEX12== Tirano.
+0155 [???] | Soy Vita, su secretaria personal exclusiva, disponible las 24 horas. Su primera misión es...
+0156 [Narración] | Fin de Vientos del Distrito de las Cenizas

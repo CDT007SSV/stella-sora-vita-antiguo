@@ -1,0 +1,107 @@
+# Evento · Un crepitante indicio de primavera · 4 · La carnada está puesta
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Passerby | Transeúnte curioso
+N:Flustered Gang Member | Miembro de la pandilla nervioso
+N:Haggard Gang Member | Miembro de la pandilla demacrado
+N:Prosperity Gang Leader | Líder de la Pandilla Prosperidad
+N:Tired Gang Member | Miembro de la pandilla cansado
+N:avg1_113 | Shimiao
+N:avg1_141 | Chixia
+N:avg1_159 | Coronis
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1273 | Residente de Loong
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | La carnada está puesta
+0003 [Intro] | Con una gran reserva de fuegos artificiales, logras atraer a los contrabandistas directo a tu trampa al caer la noche.
+0004 [Narración] | Chixia y Coronis empujan un carrito sobrecargado de petardos entre la bulliciosa multitud.
+0005 [Chixia] | Yo misma elegí a mano cada uno de estos petardos.
+0006 [Chixia] | A unos cuantos les hice ajustes también. Pegan tres veces más fuerte...==W== No, mejor dicho: ¡cinco veces, como mínimo!
+0007 [Coronis] | ¿Oh? Fascinante. No sabía que incursionabas en la pirotecnia.
+0008 [Chixia] | ¡Claro que sí! ¡Mis petardos personalizados son bastante famosos entre los aficionados!
+0009 [Chixia] | Mira este: le sellé un talismán por dentro. Reproduce una grabación al explotar.==W== Este grita «¡Prosperidad para ti!»,==W== ¡y aquel chilla «¡Dinero, vente a mi casa!»!
+0010 [Chixia] | Y mira esto: mi nuevo Pilar del Trueno Sacudecielos. ¡Es del tamaño de una persona!==W== Aunque mis seniors me placaron antes de que pudiera probarlo en el retiro...
+0011 [Coronis] | Je, je... Debo decir que admiro tu innovación. Tu compromiso con las pruebas de campo es bastante refrescante.
+0012 [Chixia] | ¿De verdad? ¡Por fin alguien que me entiende!
+0013 [Chixia] | Si te gusta este tipo de cosas, Coronis, date una vuelta algún día por el Retiro Yunji. Tengo guardados unos artilugios mucho más geniales.
+0014 [Coronis] | Con gusto. Las artes de las Xuan Shi me fascinan. Seguro que me darán mucha inspiración.
+0015 [Chixia] | ¿Artes? ¿Te refieres a nuestros hechizos?==W== Jeje... Tú espera. ¡Luego te muestro mis habilidades con los talismanes!==W== Intenta no quedar demasiado impresionada, ¿va?
+0016 [Coronis] | Lo espero con ansias.==W== Ahora bien, ¿a dónde vamos exactamente?
+0017 [Chixia] | Si queremos que nos vean, vamos a la calle de enfrente. Está llenísima.
+0018 [Curious Passerby] | ¿Eh? Qué carrito enorme de petardos. ¿Van a poner un puesto?
+0019 [Curious Passerby] | ¡Miren el tamaño de esas cosas! Seguro que hacen un estruendo tremendo. ¡Va a ser todo un espectáculo!
+0020 [Chixia] | ¡Je, je, qué buen ojo tienes!
+0021 [Chixia] | Mira nada más esta belleza. Por fuera es bonita, sí, pero por dentro es una obra maestra de...==W== Ah...
+0022 [Narración] | ¡Achís!
+0023 [Narración] | Cuando Chixia estornuda, una llama sale disparada de la punta de su cola.
+0024 [Curious Passerby] | ¡Guau! ¡Los fuegos artificiales... se están prendiendo!
+0025 [Chixia] | ¿Eh? ¡¿De dónde salieron esas chispas?!==W== ¡R-rápido, apáguenlo!
+0026 [Narración] | ¡Aguas, broten!
+0027 [Shimiao] | Ustedes dos. Es una gran cantidad de explosivos la que transportan. Supongo que presentaron las declaraciones necesarias.
+0028 [Chixia] | ¿D-declaraciones...?
+0029 [Shimiao] | La pirotecnia de esta magnitud exige reporte e inspección obligatorios, tanto para el transporte como para el almacenamiento.
+0030 [Shimiao] | Además, las mechas son de longitudes dispares y las carcasas incumplen las normas de seguridad. Son modificaciones no autorizadas, ¿correcto?
+0031 [Chixia] | Eh... Bueno...
+0032 [Shimiao] | Desconozco cuáles son sus alteraciones específicas, pero los explosivos inestables representan un riesgo grave. Un solo error podría ser catastrófico.
+0033 [Shimiao] | ¿Saben el peligro que esto implica? Si esa mecha no se hubiera apagado, el incendio resultante habría requerido mucho más que una simple disculpa para resolverse.
+0034 [Chixia] | O sea... Sí, tienes razón...
+0035 [Shimiao] | Por motivos de seguridad, la Oficina Baize tomará custodia de este lote. Determinaremos su destino tras una evaluación exhaustiva.
+0036 [Chixia] | Está bien. Supongo que tendré que despedirme de mis bebés...==W== ¡Cuídamelos bien!
+0037 [Narración] | Ante la multitud que observa, Shimiao confisca todo el cargamento de petardos y se lo lleva.
+0038 [Coronis] | Ya se fue. Puedes dejar de encogerte, señorita Chixia.
+0039 [Chixia] | Uf...==W== Me dio un susto de muerte. Shimiao da muchísimo miedo cuando está en modo trabajo...
+0040 [Chixia] | Entonces... ¿Qué tal la actuación? Estuvo bastante bien, ¿no? ¡Como de verdad!
+0041 [Coronis] | Una actuación espléndida. Sobre todo esas chispas que conjuraste. Les dio un susto genuino a los presentes.
+0042 [Chixia] | En fin, con eso debería bastar, ¿no?
+0043 [Coronis] | Sí, la intensidad y la frecuencia fueron suficientes. Ahora solo toca esperar y observar.
+0044 [Narración] | Cae la noche frente a un almacén abandonado.
+0045 [Prosperity Gang Leader] | ¡Apúrense! ¡Si van más lento, la patrulla nos va a pescar con las manos en la masa!
+0046 [Prosperity Gang Leader] | ¡Bajen la voz! Con tanto escándalo... ¿quieren que nos atrapen?
+0047 [Prosperity Gang Leader] | ¡Oye! ¡Tú! ¿¡Qué crees que estás haciendo!?
+0048 [Haggard Gang Member] | Tomándome un respiro. ¿Qué parece?
+0049 [Prosperity Gang Leader] | ¡Aguántate y sigue moviéndote! ¡Cada segundo cuenta ahora! ¡No tenemos tiempo para descansos!
+0050 [Tired Gang Member] | No es que no queramos... Es que literalmente no podemos. Llevo dos días sin dormir...
+0051 [Prosperity Gang Leader] | ¡Échenle ganas! ¡No dejen que la fatiga los venza! ¡Que sea el dinero el que los noquee!
+0052 [Prosperity Gang Leader] | ¡Aquí no estamos moviendo petardos! ¡Estamos cargando los ahorros del año que viene, una casa nueva y buen karma para la próxima vida!
+0053 [Prosperity Gang Leader] | ¡Si logramos esto, nadie volverá a menospreciar a la Pandilla Prosperidad! ¡Un botín impresionante por unas cuantas noches de trabajo!
+0054 [???] | Pues a Shimiao le va a tocar un «botín» bien impresionante...
+0055 [Prosperity Gang Leader] | ¿¡Quién dijo eso!?
+0056 [Haggard Gang Member] | ¿E-ese ruido...==W== salió de la pila de petardos?
+0057 [Tired Gang Member] | ¿¡Los petardos acaban de hablar!? ¿Estamos alucinando por el cansancio...?
+0058 [Chixia] | ¡Tranquilos, sus oídos funcionan perfectamente!
+0059 [Tired Gang Member] | Dios mío, ahora hay espíritus de petardos... Oficialmente perdí la cabeza.
+0060 [Prosperity Gang Leader] | ¡Usa la cabeza! ¡Es obvio que es una enemiga! ¡N-no entren en pánico! Es una sola. No puede con todos nosotros.
+0061 [Shimiao] | No está sola.
+0062 [Haggard Gang Member] | Ja, ja... ¡Los espíritus de petardos se están multiplicando!
+0063 [Shimiao] | Eh...==W== ¿Se encuentran bien?
+0064 [Prosperity Gang Leader] | Espera... ¿¡Eres de la Oficina Baize!?
+0065 [Shimiao] | Robo, contrabando y ahora agresión con intención.==W== Los hemos atrapado con las manos en la masa y con pruebas irrefutables. Les recomiendo encarecidamente que se rindan de inmediato.
+0066 [Prosperity Gang Leader] | ¡Tch! ¡No podemos caer aquí! ¡Olviden el botín! ¡Dispérsense!
+0067 [Flustered Gang Member] | ¡Voy!==W== Espera... M-mis piernas... ¿Por qué no se mueven?
+0068 [Coronis] | Parece que...==W== el anestésico especial por fin está haciendo efecto.
+0069 [Haggard Gang Member] | ¿¡Anestésico!?==W== ¿Acaso... acaso caímos directo en una trampa?
+0070 [Chixia] | Les tomó su tiempo darse cuenta.==W== Aunque, viendo lo molidos que estaban, supongo que es de esperarse.
+0071 [Prosperity Gang Leader] | Imposible...==W== Fuimos cuidadosos. Borramos todo rastro. ¿Cómo nos olfatearon?
+0072 [Coronis] | Je, je. Simple. Nuestro brillante comandante previó cada uno de sus movimientos.
+0073 [Tú] | Sobre eso... De hecho, tengo un plan...
+0074 [Tú] | Podemos atraerlos para que caigan directo en nuestras manos.
+0075 [Chixia] | No puede ser tan fácil.==W== ¿En qué consiste el plan?
+0076 [Tú] | Como dije, han estado sacando petardos de contrabando en lotes pequeños hacia un escondite. Ahora solo esperan acumular una carga más completa antes de moverla.
+0077 [Tú] | Y ayer contrataron a la Nueva Estrella para el transporte.
+0078 [Tú] | Necesitar manos extra significaba que ya habían reunido suficiente mercancía. Estaban listos para irse de Cangwu.
+0079 [Tú] | Pero anoche los robos se reanudaron de repente.
+0080 [Tú] | Esta vez rompieron su patrón y vaciaron hasta el último petardo de las casas de las víctimas.
+0081 [Tú] | Mi apuesta es que ayer toparon con un obstáculo. Perdieron la carga, entraron en pánico y regresaron a toda prisa a reabastecerse.
+0082 [Tú] | Siguen escondidos en la ciudad. Y nada atrae más a unos ladrones desesperados que una pila enorme de petardos sin vigilancia.
+0083 [Tú] | Y tal como se predijo, los criminales nos llevaron directo a su nido.
+0084 [Coronis] | ¿Esos petardos? Considérenlos un regalo. La carnada perfecta, preparada especialmente para ustedes.
+0085 [Prosperity Gang Leader] | ¡Estábamos a nada de hacernos ricos! ¡No pienso caer así!
+0086 [Prosperity Gang Leader] | ¡Atrápenlos!

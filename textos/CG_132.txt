@@ -1,0 +1,6 @@
+# Historia de Minova — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_132_01 | El día de una delincuente (Parte I)
+CG_132_02 | El día de una delincuente (Parte II)
+CG_132_03 | El día de una delincuente (Parte III)

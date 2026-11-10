@@ -1,0 +1,158 @@
+# Capítulo 8 · Calor residual · 14A · Sunrise in Mirage
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_139 | Allie
+N:avg1_146 | Benito
+N:avg3_100 | Sylar
+N:avg3_1222 | Guardia
+N:avg3_1311 | SaiLa
+N:avg3_1313 | Allie
+N:avg3_157 | Guardia Imperial
+N:avg3_181 | Narida
+N:avg3_207 | Myrsha
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_209 | Secuaz de los Escorpiones del Desierto
+N:avg3_210 | Hazana
+N:avg3_218 | Residente de Mirage
+N:avg3_219 | Residente de Mirage
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto catorce
+0002 [Intro] | Amanecer en Mirage
+0003 [Intro] | Le cuentas al grupo lo que viste en el recuerdo. Ahora que sabes que Allie es Taffett, partes en busca de la sala secreta del Gato Blanco. Tras recorrer una mina infestada de Escorpiones del Desierto, encuentras a Hazana custodiando la puerta...
+0004 [Lugar y hora] | 08:00, 18.º del mes de Nebula, Mirage, Lucky Oasis
+0005 [Tú] | ¿Dónde estoy...? ¿Lucky Oasis?
+0006 [Tú] | Cierto. Anoche Allie intercambió su alma conmigo para que pudiera ayudarla a recuperar los recuerdos que le quitó el Monolito.
+0007 [Tú] | Le pedí a Vita una prueba de la Melodía del Monolito,==W== y nos quedamos dormidos aquí mismo.==W==
+0008 [Tú] | Pero... ese sueño fue largo. Incluso más que el de Iris.
+0009 [Tú] | Así que Allie es la «Taffett» que busca Kasimira...==W==
+0010 [Tú] | Borró sus propios recuerdos y vivió una vida completamente distinta para quedarse con esas niñas...==W== ¿Quién lo hubiera imaginado?
+0011 [Tú] | Pero entonces...==W== ¿Esta mujer que duerme a mi lado es la madre del orfanato o una soldado del Gato Blanco?
+0012 [Vita] | Buenos días, Tirano.
+0013 [Tú] | Buenos días, Vita.==W== Normalmente no me saludas. ¿Pasa algo?
+0014 [Vita] | Sí. Hay algo que deseo hablar contigo en privado, Tirano.
+0015 [Tú] | Ah, otra vez en tu sala blanca. Parece que te gusta este lugar.
+0016 [Vita] | No particularmente. Simplemente está vacía, lo que ahorra capacidad de procesamiento. Puedo simular otro entorno si lo prefieres. ¿Lo hago?
+0017 [Tú] | No, así está bien.==W== ¿De qué querías hablar?
+0018 [Vita] | Anoche te di otra prueba de la Melodía del Monolito. Tú y la señorita Allie soñaron sus recuerdos perdidos. Como la prueba incluye un borrado de memoria, ella olvidará todo cuando despierte.
+0019 [Vita] | Pero tu inmunidad a la magia anula el borrado. Tú lo recordarás todo.
+0020 [Vita] | Quizá te preguntes: si eres inmune a la magia, ¿cómo pudiste soñar esos recuerdos? ¿El sueño en sí no es magia?
+0021 [Vita] | Es sencillo. La Melodía del Monolito no es magia. Es un poder especial.
+0022 [Tú] | Espera, ¿lo sabías?==W== Creí que era el único==W== que se había dado cuenta de que conservaría los recuerdos.
+0023 [Vita] | Me subestimas. Como tu Sacerdotisa, lo tomé en cuenta.==W== Y como últimamente has sido tan proactivo cumpliendo tus misiones, una pequeña bonificación no hace daño.
+0024 [Vita] | Además, ¿no crees que la versión de prueba te resulta más útil que la versión completa?
+0025 [Tú] | En la versión completa, nadie olvida lo que recupera. Pero en la prueba, soy el único que recuerda.
+0026 [Tú] | Así que, si soy el único con los recuerdos, yo decido lo que significan. ¿Verdad?
+0027 [Vita] | Exacto. Como era de esperarse del Tirano. Ya lo sabías.
+0028 [Vita] | Quien controla el pasado controla el futuro. Quien controla el presente controla el pasado.
+0029 [Vita] | Ahora puedes usar el presente para reescribir lo que todos creen que es el pasado, y moldear su futuro.
+0030 [Tú] | Gracias, Vita. Siempre intentas darme ventaja.
+0031 [Vita] | Pero nunca sigues mis consejos. ¿Calculé algo mal?
+0032 [Tú] | Tu lógica es impecable, y sé que tienes buenas intenciones. Es solo que no quiero ser alguien que calcula cada movimiento.
+0033 [Vita] | Entiendo. Entonces, ¿qué clase de persona deseas ser?
+0034 [Tú] | Todavía no lo sé.==W== Probablemente alguien que confíe en ==SEX3== amigos y los apoye mientras avanzamos juntos.
+0035 [Vita] | Entendido. Lo anotaré. Con tu permiso.
+0036 [Tú] | Uf. Vita siempre me sale con sugerencias así.==W== Si le hubiera hecho caso desde el principio, me habría convertido en una mente maestra que trama planes las 24 horas.
+0037 [Allie] | Ah... Dormí de maravilla.==W== Buenos días, ==W====PLAYER_NAME==. Despertándote tú solito como un buen niño.==W== Hoy madrugaste.
+0038 [Tú] | ¡Oye, oye, Allie! ¿Sigues medio dormida?
+0039 [Allie] | ...¿Eh?==W== ¡Ay, perdón! Qué despistada...==W== Anoche tuve un sueño maravilloso y creo que me dejé llevar... ♪
+0040 [Tú] | ¿Un sueño maravilloso? ¿Me cuentas de qué se trataba?
+0041 [Allie] | Ah, bueno...==W== Iris, Noya y Amber estaban a mi alrededor y me decían mamá...==W== No recuerdo los detalles.
+0042 [Tú] | Ya veo.==W== Entonces la Melodía del Monolito funcionó.==W== Pero tú no recordarás ese sueño. Solo yo.==W== ¿Quieres escuchar primero lo de tu pasado?==W== Si hay algo que prefieras mantener en privado, puedo omitirlo...
+0043 [Allie] | No hace falta. ¿Cómo podría una madre mentirles a sus hijos?==W== ==PLAYER_NAME==, por favor, cuéntales a todos lo que pasó en esos recuerdos perdidos. No omitas nada.
+0044 [Lugar y hora] | 10:00, 18.º del mes de Nebula, Mirage, Orfanato Margarita
+0045 [Narración] | Unas horas después. Les relaté al Gremio de la Nueva Estrella y a la Compañía del Gato Blanco los recuerdos perdidos de Allie sobre Taffett y Narida, con todo detalle.
+0046 [Amber] | Tía Allie...==W== Fue una herida terrible. Debió de doler mucho.
+0047 [Noya] | Pero la herida sanó rápido, ¿no? Me acuerdo de que esa medicina del sótano curaba cualquier herida como por arte de magia.
+0048 [Allie] | Sí. Gracias a esa medicina, ni siquiera me quedó cicatriz. Supongo que en ese momento no era tan grave.
+0049 [Noya] | ¡Eres increíble, tía Allie!==W== Narida y tú derrotaron a más de cien Centinelas y Caballeros Imperiales.==W== Todas nosotras juntas apenas pudimos con diez.
+0050 [Amber] | Y pensar que la tía Allie es... el Gato Blanco más fuerte.==W== Todavía no lo puedo creer.
+0051 [Iris] | Así que por eso dejamos de decirte mamá y empezamos a decirte tía Allie.==W== El Monolito debió llevarse ese recuerdo cuando pedimos nuestros deseos. Qué bueno que lo recuperamos.
+0052 [Noya] | ¿Entonces por qué los niños que llegaron después empezaron a decirte mamá otra vez?
+0053 [Iris] | Porque la tía Allie...==W== digo, mamá, siempre ha sido como una madre para nosotros. Empezamos a llamarla así por nuestra cuenta cuando éramos pequeños, ¿no?
+0054 [Iris] | Para cuando dejaron de cazar a los Gatos Blancos en Emor, mamá ya había olvidado la prohibición, así que todos volvieron a decírselo.==W== Nosotras éramos las únicas que seguíamos respetando esa vieja regla.
+0055 [Allie] | ¡Ah, qué maravilla!==W== Me llena el corazón oír a Iris decirme mamá otra vez.==W==
+0056 [Allie] | Noya, Amber, ¿y ustedes dos? ¿Van a seguir su ejemplo?
+0057 [Amber] | M-mamá...
+0058 [Noya] | Mamá.==W== Mamá,==W== ¡mamá!==W== ¡¡MAMÁ!!==W== ¡Jaja, una vez que lo dices, ya no da tanta vergüenza! ♪
+0059 [Allie] | Suena maravilloso. Gracias a ti,==W== ==PLAYER_NAME==, mi corazón vuelve a derretirse con eso.
+0060 [Tú] | Jaja, con gusto.
+0061 [Tú] | Oigan, ¿podemos concentrarnos?==W== ¿Cómo terminamos discutiendo si decirle mamá o no?==W== Los rumores del asesinato, el pasado de Iris, la forma de entrar a la sala secreta. ¿Ya se les olvidó todo eso?
+0062 [Tú] | Aunque los Gatos Blancos se ven muy serios.==W== Me pregunto qué piensan realmente de toda esta historia.
+0063 [Kasimira] | Taffett...==W== No, como dejaste atrás ese nombre, te seguiremos llamando directora Allie.==W== Gracias, y gracias a ti también, Jefe, por sacar la verdad a la luz.
+0064 [Benito] | Así que eso explica adónde iba. Cada vez que mi hermana desaparecía durante meses, estaba en Emor.
+0065 [Kasimira] | Los Gatos Blancos nunca mataron a la Emperatriz. Nunca fuimos traidores. Todo fueron mentiras y calumnias.
+0066 [Benito] | Mi hermana no fue allá a rendirse.==W== Fue a romper las cadenas que nos ataban.
+0067 [Allie] | ¿A qué cadenas te refieres?
+0068 [Narración] | Peleábamos contra los Escorpiones del Desierto y la Guardia Imperial. Perdíamos gente todos los días.==P====W== Ninguno sabía por qué ese Monolito era tan importante.==P====W== Desperdiciábamos nuestras vidas por un honor y un deber ciegos.
+0069 [Narración] | La capitana Narida era el único Gato Blanco de Mirage que de verdad había conocido a la Emperatriz.==P====W== Los demás, yo incluida, solo entendíamos la idea básica de ser su guardia personal.==P====W== En retrospectiva, la capitana Narida debió darse cuenta entonces==P====W== de que, si seguíamos peleando así, todos moriríamos por una causa que ninguno entendía.
+0070 [Benito] | Mi hermana siempre sonreía.==W== Pero muchas noches la encontraba sentada sola en las dunas, mirando ese Monolito hasta el amanecer.
+0071 [Benito] | Buscaba desesperadamente una forma de salvarnos.==W== Eso explica por qué dejó el desierto para buscar a mamá,==W== o a Taffett, en ese entonces.
+0072 [Kasimira] | Al principio supuse que la capitana Narida intentaba descubrir la verdad sobre la muerte de la Emperatriz y limpiar nuestro nombre.
+0073 [Kasimira] | Pensé que, si te reclutaba, nuestra fuerza de combate estaría asegurada.
+0074 [Kasimira] | Pero volvió de uno de esos viajes como si se hubiera quitado un peso enorme de encima.
+0075 [Benito] | Dejó de quedarse toda la noche mirando el Monolito. En cambio, empezó a encerrarse en la sala secreta para estudiar una Piedra del Alma roja firmada.
+0076 [Kasimira] | En ese entonces supuse que por fin había encontrado una pista sobre Taffett...
+0077 [Kasimira] | Nunca imaginé que desaparecería junto con el Monolito.
+0078 [Narida] | Porque... Su Majestad ordenó a todos los Gatos Blancos, excepto a ti, sellar el Monolito de Mirage.==W== Nadie tiene permitido entrar.
+0079 [Kasimira] | Selló el Monolito como se le ordenó y, de paso, nos salvó a los demás.==W== Puso fin a esas batallas interminables que nunca entendimos.
+0080 [Kasimira] | Fue entonces cuando Mirage se volvió lo que es hoy. Todos le siguen el juego a esta enorme función.==W== Suena absurdo, pero desde entonces nadie ha muerto peleando.
+0081 [Chaton] | ¡Ah, ya entiendo!==W== Amber, tus pistolas. Cuando la directora Allie le dijo a Narida que se llevara las armas, Narida debió esconderlas en el sótano.==W== ¡Y luego tú las encontraste!
+0082 [Benito] | Creo que...==W== mi hermana quería dejarle esas pistolas a mamá como recuerdo. Aunque mamá nunca supiera que estaban ahí.
+0083 [Kasimira] | Gracias, Jefe.==W== Siento que por fin me quité un peso que cargué durante años.
+0084 [Kasimira] | Bueno, es hora de cumplir nuestra promesa. Los llevaremos a la sala secreta de los Gatos Blancos.
+0085 [Tú] | Pero ¿no dijiste que solo Narida o Taffett podían abrir esa puerta?==W== Los recuerdos de Allie no parecían contener la contraseña que mencionaste.
+0086 [Kasimira] | Ya la tenemos.==W== La contraseña es la canción==W== que tarareaba la capitana Narida.
+0087 [Lugar y hora] | 11:00, 18.º del mes de Nebula, Mirage, mina de diamante cristalino
+0088 [Noya] | Guau, ¿este es el tiro de la mina? ¡Increíble! ¡Se siente como una aventura de verdad!
+0089 [Chaton] | Je, je, je...==W== ¡Cada vez que desciendo a la oscuridad del abismo subterráneo, mi poder oscuro se desborda!==W== ...Probablemente.
+0090 [Noya] | ¡Sí! ¡Déjame respirar un poco de ese poder oscuro también!==W== Inhalo...==W== ¡Pfff!
+0091 [Chaton] | ¡No!==W== ¡No tienes permitido respirar! ¡Todo el poder oscuro de aquí abajo es mío!
+0092 [Tú] | Estas dos sí que se llevan bien...
+0093 [Tú] | Ahora que lo pienso, los diamantes cristalinos con los que nos pagaba la Guardia Imperial salían de lugares como este.
+0094 [Iris] | Un tiro tan profundo... ¿Cómo lo excavaron?==W== La tierra y la roca se pueden trabajar con herramientas, pero debieron toparse con rocas enormes e irrompibles.
+0095 [Amber] | ¿Volarlas con magia?
+0096 [Benito] | Eso no funcionaría. La tierra alrededor del tiro no es lo bastante estable. Una explosión descontrolada podría provocar fácilmente un derrumbe.
+0097 [Benito] | Por eso los mineros de antes usaban un método llamado «fuego y temple».
+0098 [Iris] | ¿Fuego y temple? ¿Cómo funciona?
+0099 [Benito] | Primero, alguien con magia de fuego calienta muchísimo la roca.==W== Luego, alguien con magia de agua la empapa para enfriarla al instante.
+0100 [Benito] | El cambio brusco hace que la piedra se agriete sola.==W== Después, se meten cuñas en las grietas para partirla.
+0101 [Iris] | Fascinante. Los mineros son muy ingeniosos. Tengo que anotarlo.
+0102 [Amber] | Sabes mucho, Benito.
+0103 [Benito] | Jaja, no es que se me haya ocurrido a mí.==W== Me lo contó un viejo minero que trabajaba aquí; yo solo transmito lo que sé.
+0104 [Tú] | Deberíamos movernos más rápido.==W== ¿Por qué esto parece una excursión escolar? ¿Está bien que nos lo tomemos tan a la ligera?
+0105 [Allie] | Estaremos bien.
+0106 [Tú] | Espera, ¿lo dije en voz alta?
+0107 [Allie] | Jeje.==W== No. Pero sé lo que estás pensando. Eres un libro abierto,==W== ==PLAYER_NAME==.
+0108 [Tú] | ¿Es algún superpoder de mamá?==W== No, imposible.==W== Aun así, es impresionante...==W== y un poco aterrador.
+0109 [Allie] | Shh. Atentos.==W== Alguien viene.
+0110 [Allie] | ¿Ves? Todos están en alerta máxima.==W== Tomárselo con calma hace rato era su forma de relajarse antes de una pelea.
+0111 [Tú] | Es cierto. Tienes a todos bien calados, Allie.
+0112 [Myrsha] | Alto ahí, Jefe. Hasta aquí llegan ustedes.
+0113 [Myrsha] | ¡Y ustedes, Gatos Blancos!==W== Si derrumban este túnel, se van a arrepentir.
+0114 [Chaton] | ¿Eh? ¡No hicimos nada malo! Ustedes son los que engañan a los Trekkers para obligarlos a trabajar.
+0115 [Myrsha] | ¿Trabajos forzados? Firmamos contratos. ¡Nuestras condiciones son mejores que las de Cosecha Unida!==W== ¿Qué pasa, Gatos Blancos, ya tienen ganas de volar algo otra vez?
+0116 [Tú] | Tranquila, Myrsha. No venimos a destrozar la mina.
+0117 [Tú] | Queremos abrir la sala secreta de los Gatos Blancos. Necesitamos encontrar el Monolito desaparecido.
+0118 [Hazana] | ¡Jaja! Perfecto.==W== No teníamos idea de cómo abrir esa sala. Nos ahorraron la molestia.
+0119 [Kasimira] | ...==W== ¿Y qué quieren los Escorpiones del Desierto con ella?
+0120 [Hazana] | ¿No es obvio?==W== Esta mina ahora es nuestra. Todo lo que hay dentro nos pertenece. Eso incluye la sala secreta.
+0121 [Kasimira] | Tonterías.==W== Resolvamos esto con un duelo. Reglas del desierto.
+0122 [Hazana] | ¿Un duelo?==W== ¡Jajaja!==W== ¡Adelante!==W==
+0123 [Noya] | ¡Uy! ¡Pfff! ¿Qué demonios? ¿Una tormenta de arena dentro de una mina?
+0124 [Kasimira] | Cof... Maldición, nos separaron. No podemos llegar hasta el Jefe.
+0125 [Hazana] | Yo. Soy. El desierto.
+0126 [Hazana] | Jejeje... Debiste aceptar nuestro trato, Jefe. Ahora pagarás el precio.
+0127 [Hazana] | ...Pero no soy un monstruo. ¿Quieres un duelo? Bien. Como quieres la sala, pelearás conmigo.
+0128 [Hazana] | Si ganas, la sala es tuya. Si pierdes, te unes a los Escorpiones del Desierto.
+0129 [Amber] | Sigue soñando.
+0130 [Noya] | Amber, Iris, vamos.
+0131 [Noya] | Aquí mismo le cobraremos lo de aquel intento de asesinato en Philae.

@@ -1,0 +1,121 @@
+# Capítulo 1 · 1 · El reinicio del despertar
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El reinicio del despertar
+0003 [Intro] | En tu sueño te llaman «Tirano». Despiertas como un Trekker sin memoria en un vehículo que avanza hacia la Ciudad de los Mil Monolitos. Las chicas prometen ayudarte a recuperar lo que olvidaste.
+0004 [Narración] | Las legiones de Emor sufrieron diez derrotas trágicas, impotentes ante la hechizante magia del Tirano.  Pero la intervención divina trajo claridad. El Tirano perdió sus poderes oscuros al pisar Emor y fue llevado ante el juicio.  Desde ese día, el Tirano dejó de existir, y la generosidad del Dios de la Gracia fluyó por igual sobre todos los Novianos.  —Crónicas de Nueva Nova, por Virigia
+0005 [Narración] | Un olor a pólvora flota en la brisa del atardecer.
+0006 [Narración] | Edificios derrumbados y estandartes hechos pedazos cubren el paisaje.
+0007 [Narración] | Hordas de soldados asaltan la Ciudad de los Mil Monolitos y reducen la magnífica ciudad a ruinas.
+0008 [Narración] | El soberano de ayer ahora está sentado, prisionero en un trono helado...
+0009 [Narración] | esperando a que algún afortunado reclame su cabeza.
+0010 [???] | Lo siento, mi Tirano...
+0011 [???] | Es porque te he traicionado…
+0012 [Opción] | ¿Quién... eres?
+0013 [Opción] | ¿Traicionado?
+0014 [Opción] | Te equivocas de persona. Yo no soy ningún Tirano.
+0015 [???] | Oh... Es verdad.
+0016 [???] | Supongo que funcionó…
+0017 [???] | Quizá perdiste la memoria, pero no pasa nada. Seguro que te esperan días felices.
+0018 [???] | Me volví contra el ejército del Tirano...
+0019 [???] | Y eso hizo que nuestro sueño se hiciera añicos.
+0020 [???] | Es decir... La historia que intentábamos escribir termina hoy.
+0021 [???] | Aunque tú no te consideres «Tirano»...
+0022 [???] | Mientras todos crean que lo eres...
+0023 [???] | Entonces eso es lo que eres, y nadie más.
+0024 [???] | Y una última cosa…
+0025 [???] | ¿Ves esa estrella tan brillante?
+0026 [???] | Para proteger su frágil ego…
+0027 [???] | la gente entrega sus deseos a esa estrella.
+0028 [???] | Porque así, cuando sus deseos no se cumplen...
+0029 [???] | «Bueno, hice lo que pude, pero mi estrella de la suerte no brilló para mí».
+0030 [???] | Pueden poner excusas.
+0031 [???] | Pero los sueños no se cumplen solo porque los deseemos. La vida no es tan fácil.
+0032 [???] | Pero somos tan patéticos que no podemos enfrentar nuestra vida sin engañarnos así.
+0033 [???] | Y justo por eso... no necesitas convertirte en una estrella de los deseos.
+0034 [???] | Nadie obtiene resultados distintos haciendo lo mismo una y otra vez.
+0035 [Opción] | Resultados distintos…
+0036 [???] | Adiós, Tirano. Me alegra que hayamos tenido esta última charla.
+0037 [???] | Pero, si... Si el destino volviera a guiarnos…
+0038 [???] | Volvamos a vernos bajo un cielo sin estrellas.
+0039 [Tú] | ¡N-No te vayas! Tengo preguntas para ti—
+0040 [Tú] | ¿Eh? ¿Dónde estoy...?
+0041 [Narración] | Despierto mirando el techo corredizo desconocido de una caravana.
+0042 [Tú] | Cierto. Me rescataron en el desierto.
+0043 [Tú] | Escalé el Monolito con ellas. Ahora nos dirigimos a la ciudad.
+0044 [Iris] | Estás empapado. ¿Una pesadilla?
+0045 [Narración] | Tomo una taza de Iris.==W== La bebida tibia alivia mi garganta y calma mis nervios.
+0046 [Tú] | No sabría decir si fue una pesadilla.==W== Pero gracias, ya me siento mejor.
+0047 [Tú] | En el sueño... alguien me llamó «Tirano».
+0048 [Amber] | Tirano...
+0049 [Noya] | Vaya, eso es antiguo. Como sacado de un cuento infantil.
+0050 [Opción] | ¿Antiguo?
+0051 [Iris] | ¿Te refieres a esta palabra?
+0052 [Narración] | Con un gesto que me resulta extrañamente familiar, Iris gira su cuaderno de lado y señala una frase.
+0053 [Narración] | Tirano.
+0054 [Tú] | Esa es.
+0055 [Iris] | En realidad, ya no usamos esa palabra. Es una palabra antigua.==W== Ahora todos dicen simplemente «Jefe».
+0056 [Tú] | ¿Jefe?
+0057 [Iris] | Es el Stellaroid más fuerte de todos dentro de un Monolito.
+0058 [Iris] | Esa palabra antigua... representaba a un destructor de mundos, al que derrotaban los guerreros...
+0059 [Amber] | Un villano supremo.
+0060 [Iris] | Así que hasta el sonido del nombre tuvo que desaparecer.
+0061 [Noya] | Espera, ¿el Tirano era así?
+0062 [Noya] | Yo pensaba que lo del Tirano era conquistar todos los Monolitos. ¿No es genial?
+0063 [Iris] | No terminaste la historia, Noya. El Tirano planeaba demoler todos los Monolitos después de conquistarlos.
+0064 [Iris] | Sin Monolitos no hay Artefactos... ¿cómo no va a ser el fin del mundo?
+0065 [Narración] | Iris acaricia su ansiado Artefacto de grabación.
+0066 [Noya] | Tranquila. Perder todos los Artefactos no sería el fin del mundo.
+0067 [Noya] | De todos modos empeñamos casi todos los Artefactos. No es que los usemos.
+0068 [Iris] | Cierto, ¡pero el dinero de venderlos es lo que paga las reparaciones del Lucky Oasis!
+0069 [Tú] | Lucky Oasis... ¿así se llama este vehículo?
+0070 [Amber] | Sí, y también es el nombre de nuestro hogar.
+0071 [Iris] | Exacto. Esto es más que nuestro transporte: es el hogar que construimos nosotras mismas.
+0072 [Iris] | Las tres crecimos en el mismo orfanato. Cada perno y cada placa del Lucky Oasis lo pusimos nosotras...==W== bueno, sobre todo Noya.
+0073 [Noya] | Ah, ¡y puedes llamarlo Loxy!
+0074 [Tú] | ¿Lo construyeron todo ustedes solas? Es increíble, Noya.==W== Pero si querían un vehículo, ¿por qué no pedirlo a alguna caja de deseos?
+0075 [Noya] | ¡Jeje! ¡Así hacemos las cosas los Trekkers! Pedir cosas sin más es aburrido. ¡Desea piezas y construye algo genial con tus manos!
+0076 [Noya] | Oye, Iris, Loxy hace ruido. ¿Crees que podemos darnos el lujo de comprar grasa cuando vendamos el botín?
+0077 [Amber] | Y mi arma... necesita una recarga de magia...
+0078 [Iris] | Parece bastante urgente...==W== Pero la respuesta es no.
+0079 [Noya] | ¡Ay, vamos! ¿Por qué?
+0080 [Iris] | Estamos sin un centavo. Hasta la última moneda tiene que ir a lo esencial. «Bastante urgente» no basta.
+0081 [Iris] | Después de comprar los suministros esenciales, según mis cuentas nos alcanzará justo para una Piedra del Alma.
+0082 [Noya] | Piedra del Alma... ¡Ah, sí, hagámoslo!
+0083 [Amber] | De acuerdo.
+0084 [Tú] | Piedra del Alma... ¿Te refieres a la piedra con forma de estrella de cuatro puntas que llevan puesta?
+0085 [Iris] | Es una piedra ligada a tu alma que almacena magia.
+0086 [Iris] | Los hechizos y los Artefactos consumen mucho poder, así que primero hay que guardar algo en la piedra.
+0087 [Iris] | Además, el Imperio de la Gracia guarda el registro de todas las Piedras del Alma que se han fabricado.
+0088 [Iris] | Así, cuando te consigamos una nueva, tu nombre e identidad deberían aparecer de inmediato.
+0089 [Noya] | ¡Eres un genio, Iris!
+0090 [Amber] | Genio...
+0091 [Iris] | Gracias...==W== Pero ningún halago va a adelantar tus compras en la lista.
+0092 [Noya] | ...
+0093 [Amber] | ...
+0094 [Tú] | Pero es caro... No quiero ser una carga.
+0095 [Iris] | Todos los Trekkers juramos ayudar a quienes han perdido la memoria.
+0096 [Iris] | Porque quién sabe. Mañana podríamos ser nosotras las que nos quedemos en blanco.
+0097 [Noya] | ¡Tú acepta! No todos los días Iris es tan generosa.
+0098 [Iris] | ¡Noya—!
+0099 [Noya] | ¡Miren! ¡Llegamos a la Ciudad de los Mil Monolitos!
+0100 [Narración] | Noya conduce el vehículo hacia una ciudad inmensa y bulliciosa.
+0101 [Amber] | Vaya, han pasado dos años desde que nos fuimos.==W== Este lugar sigue tan animado como siempre.
+0102 [Amber] | Ah.
+0103 [Iris] | ¿Qué pasa, Amber?
+0104 [Amber] | Un gato negro.
+0105 [Iris] | Quizá deberíamos pasar por el Orfanato de las Cenizas a ver a la tía Allie... No, primero tenemos que vender los Artefactos.
+0106 [Tú] | Entonces la Ciudad de los Mil Monolitos... no fue destruida.
+0107 [Tú] | ¿De verdad... fue solo un sueño?
+0108 [Narración] | A lo lejos, estrellas incrustadas en altas torres blancas que se alzan como centinelas silenciosos.

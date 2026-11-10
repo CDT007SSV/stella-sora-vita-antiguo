@@ -1,0 +1,150 @@
+# Evento · Para ti, mi persona más querida · 2C · Siguiendo los mapas antiguos
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Montana | Montana
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Siguiendo los mapas antiguos
+0003 [Intro] | Repartes correo con Teresa y escuchas la historia de su encuentro con Donna. Teresa dibujó numerosos mapas y, entre los antiguos, descubres los datos del destinatario.
+0004 [Teresa] | ¡Atención, todos! ¡La misión de hoy son las entregas!==B====W== Revisen su carga antes de salir. ¡Dejar un paquete atrás sería un desastre!
+0005 [Iris] | Entendido. ¡Enséñame cómo se hace, Teresa!==W== A ver...==W== Hay bastantes entregas de larga distancia hoy. La preparación es clave, sin duda.
+0006 [Teresa] | ¡Claro que sí! Como aquella vez que salí corriendo y se me olvidó la cartera...==B====W== Ni siquiera pude comprar el almuerzo. ¡Casi me muero de hambre, miau!
+0007 [Iris] | Eh... ¿Teresa?
+0008 [Teresa] | Cartas...==W== Mapa...==W== Lonchera...==W== ¡Las tengo todas!==B====W== ¿Eh? ¿Qué se suponía que iba en esta caja...?==W==
+0009 [Iris] | Eh... Jefe... Teresa es una mensajera profesional, ¿verdad?==W== Tengo que ser sincera, empiezo a angustiarme un poco...
+0010 [Tú] | Puede que sea algo distraída, pero de verdad es una mensajera de primera.==W== Tú sígueme el paso.
+0011 [Teresa] | ¡Miau-aaah! ¡La casa de Montana está en la lista de hoy! ¡Hay que llevárselo rápido!
+0012 [Teresa] | ¡Jefe, Iris! ¡Vamos a tener que tomar un atajo!==W== ¡Síganme!
+0013 [Iris] | ¡¿Espera, Teresa?! ¡No nos dejes atrás!
+0014 [Teresa] | ¡Miau!==W== ¡Miau!==W==
+0015 [Iris] | O-Oye...==W== ¡Espera...!==W==
+0016 [Tú] | ¿Esto es un «atajo»? ¡Ni siquiera es un sendero de animales!==B====W== ¿Cuál es la prisa? ¿Por qué tanta urgencia?
+0017 [Iris] | ¡T-Teresa! Sé que tenemos prisa...==W== Uf... ¿Pero no podrías elegir...==W== un camino donde se pueda pisar?
+0018 [Teresa] | ¡Así es muchísimo más rápido! ¡Confíen en mí! ¡No se queden atrás!
+0019 [Tú] | ¡Iris, no te separes de ella!==W== ¡Si nos separamos, corremos un riesgo real de quedar varados aquí!
+0020 [Iris] | ¡¿V-Varados...?!
+0021 [Teresa] | ¡Señora Montana! ¡Entrega de Post Haste! ¡Cartas y medicina, sanas y salvas, miau!
+0022 [Tú] | ¿Medicina...?
+0023 [Montana] | Ah... ¡Qué rápido!==W== ¡No sé cómo agradecerles!
+0024 [Montana] | Justo se nos había acabado... Sus síntomas volvieron anoche. Estaba muerta de preocupación...==W== Gracias... Me salvaron la vida.
+0025 [Teresa] | ¡Misión cumplida! ¡Esa es la garantía de Post Haste!==W== ¡Cuando estén en un aprieto, déjennoslo a nosotros!
+0026 [Iris] | Ya veo... Era un paquete para una niña enferma.
+0027 [Tú] | Definitivamente era una emergencia. Aun así, un aviso previo habría estado bien...
+0028 [Teresa] | ¡Perdón! ¡Las entregas médicas son emergencias gravísimas! Lo recordé y mi cerebro simplemente... se aceleró a tope.
+0029 [Teresa] | De hecho conocí a la niña en una entrega hace un tiempo.==W== ¡Es una niña dulcísima, siempre pendiente de su familia!
+0030 [Teresa] | Pensar que estaba sufriendo... me dio pánico.
+0031 [Iris] | Lo entiendo.==W== Bueno, al menos llegamos a tiempo.
+0032 [Teresa] | Jeje. Gracias por seguirme el ritmo, ustedes dos.
+0033 [Tú] | Estamos bien. Pero todavía tenemos entregas que hacer. No nos atrasemos.
+0034 [Teresa] | ¡Jefe...!==W== ¡Tienes razón!==W== ¡Terminemos el resto de los pedidos!
+0035 [Iris] | O sea que tomaste ese atajo==W== porque sabías lo urgente que era el paquete.
+0036 [Teresa] | ¡Exacto!==W== Pero... ¡esa no es la única razón!==W==
+0037 [1] | ¿Oh? ¿Tomas «atajos» así muy seguido?
+0038 [Teresa] | ¡Abrir un camino nuevo es una aventura por sí sola!
+0039 [Teresa] | ¡Nunca sabes qué sorpresas te esperan en una ruta nueva!==B====W== Flores exóticas,==W== aves desconocidas revoloteando...==W== ¡Hasta podrías toparte con el escondite de un ermitaño y hacer un amigo nuevo!==W==
+0040 [Teresa] | ¡Mientras más avanzas, más encuentras!==W== ¿No es emocionante?
+0041 [Iris] | Adentrarse en lo desconocido... Suena arriesgado. ¿No te da miedo?
+0042 [Teresa] | ¡Qué va! ¡Si aparece algún problema, saco a Gram y lo resuelvo!
+0043 [Teresa] | Además, abrir camino ayuda a todos. ¡Con suficientes pisadas, un sendero áspero se convierte en un verdadero camino! ¡Y así la gente puede viajar todavía más lejos!
+0044 [Teresa] | Y más viajeros significa más gente que lleve cartas, ¿no? ¿Ves? ¡Abrir caminos nuevos lo resuelve todo de una vez!
+0045 [Iris] | Creo que malinterpreté tus intenciones, Teresa.==W== ¡De verdad eres una mensajera excepcional!
+0046 [Teresa] | ¡Jeje, yupi! ¡Me felicitaron!==W== ¡Gracias! ¡Tú también lo estás haciendo genial hoy, Iris! ¡Trabajo de mensajera de primer nivel!
+0047 [Teresa] | Ahora que lo pienso...==W== creo que conocí a Donna==W== en un bosque como este...
+0048 [Teresa] | Mmm... ¡nada supera una siesta en lo alto de un árbol!==W== ¡Con las pilas cargadas! Es hora de partir...==W== ¿Eh? ¿Escucho a alguien?
+0049 [Donna] | Esto está mal. Creo que de verdad estoy perdida...==W== ¿Qué voy a hacer cuando oscurezca?==W== Dicen que por aquí rondan monstruos...
+0050 [Donna] | ¿Por qué no traje un arma justo hoy...==W== Ugh...==W== Qué imprudente... ¿Estoy siendo tonta?
+0051 [Teresa] | ¡Ooooye!==W== ¿Estás bien allá abajo?
+0052 [Donna] | ¡¡Iiiiiih!!
+0053 [Donna] | ... ¿Eh?==W== No eres un monstruo...==W== ¿Quién eres?
+0054 [Teresa] | ¡Me llamo Teresa!==W== Déjame adivinar... ¿Te perdiste?
+0055 [Donna] | Hola... Soy Donna. Intenté tomar un atajo, pero me desorienté por completo en cuanto entré al bosque...==W== Qué vergüenza, pero sí... definitivamente estoy perdida.
+0056 [Teresa] | ¡No hay problema!==W== ¡Solo sígueme, yo te saco!
+0057 [Donna] | ¡Logramos salir...!==W== ¡Gracias! De verdad me salvaste el pellejo allá atrás.
+0058 [Teresa] | Hago entregas por aquí todo el tiempo. ¡Es básicamente mi patio trasero! ¡Jeje!
+0059 [Donna] | ¿Entregas...?==W== Espera, ¿tú también trabajas de «mensajera»?
+0060 [Teresa] | ¿«También»?
+0061 [Donna] | ¡Yo también!==W== ¡Trabajo como Trekker mensajera!
+0062 [Donna] | En realidad, andaba explorando una nueva ruta postal. Quería trazar un camino que la gente no suele tomar...==W== Pero, bueno, me perdí.
+0063 [Teresa] | ¿Una ruta nueva?
+0064 [Donna] | ¡Sí! Si los caminos principales se bloquean o se dañan, los paquetes dejan de avanzar...==B====W== Pensé que tener más opciones haría que todo el sistema fuera más confiable...
+0065 [Teresa] | ¡Eso es increíble! ¡Qué genial! ¡No puedo creer que encontré a alguien que piensa igual que yo!
+0066 [Donna] | ¿Que piensa... como tú?
+0067 [Teresa] | ¡Mira esto! ¡Mira, mira!
+0068 [Donna] | ¡¡¿Guaaau?!!==W== ¿Esto son... mapas?==W== ¡¿Dibujaste tú sola toda esta pila?!
+0069 [Teresa] | Si conecto todas las rutas posibles en estos... ¡quizá podamos llegar a todavía más personas!
+0070 [Donna] | ¡Teresa! ¡Tienes que unirte a mí!
+0071 [Donna] | Con tu ayuda... ¡mi sueño de conectar todo Nova podría hacerse realidad!
+0072 [Teresa] | ¡Hecho! ¡Cuenta conmigo!
+0073 [Donna] | ¡¿Eso es todo lo que hace falta para convencerte?!
+0074 [Teresa] | ¡Y esa es la historia de cómo conocí a Donna! ¡Miau!
+0075 [Iris] | ¡Qué casualidad!==W== Te detienes a ayudar a una desconocida perdida y resulta que comparten exactamente el mismo sueño.
+0076 [Tú] | El destino de verdad las juntó.
+0077 [Teresa] | ¡A mí también me tomó por sorpresa!==W== ¡Freesia ya estaba ahí cuando me uní yo! ¡Así fue como las tres empezamos Post Haste!
+0078 [Teresa] | Nuestro sueño en Post Haste es simple: ayudar a tanta gente como podamos con nuestras entregas. ¡Así que mientras repartimos, también vamos trazando rutas postales por todo el continente!
+0079 [Tú] | Mapear todo Nova... Es una labor enorme.
+0080 [Iris] | Teresa, esos mapas los llevas en tu bolso, ¿verdad? ¿Puedo echarles un vistazo?
+0081 [Teresa] | ¡Claro que sí!==W== ¡Toma!
+0082 [Iris] | Increíble... El nivel de detalle rivaliza con las Crónicas de Nova...==B====W== Y miren estos atajos y caminos secundarios... ¡Tu mapa podría ser incluso mejor que los oficiales!
+0083 [Tú] | Guau... ¿Cuántas páginas tiene esto? ¡¿Ya recorriste la mitad del continente?!
+0084 [Teresa] | Ni de cerca...==W== ¡Jeje, pero sí caminé todo el trayecto del Puerto Bellin a la Ciudad de los Mil Monolitos con mis dos pies!==W== ¡Me aseguré de anotar prácticamente todas las casas y tiendas del camino!
+0085 [Tú] | Casas en el Puerto Bellin...
+0086 [Tú] | Oye, ¿hay alguna posibilidad de que hayas anotado una casa marcada como «Howard» por aquí?
+0087 [Teresa] | Ya revisé a fondo los mapas que estoy usando... Por desgracia, nada.
+0088 [Tú] | Claro, revisar el mapa es lo primero que haría cualquiera...==B==espera.==W== No...
+0089 [Tú] | ¿Los mapas que «estás usando»...? ¿Eso significa que hay mapas que ya no usas?
+0090 [Teresa] | ¡Sip!==W== Los caminos se destruyen y las tiendas cambian todo el tiempo. ¡Tengo que mantener mis mapas actualizados para no perderme en una entrega!
+0091 [Iris] | Un momento. En ese caso, tal vez deberíamos revisar tus mapas más antiguos...==W==
+0092 [Tú] | Exacto. ¡Es posible que haya existido una «Casa de Howard» en aquel entonces!
+0093 [Teresa] | ¡¡Oh!! ¡Tienes razón, miau!==W== ¿Cómo no lo pensé...? Espera, déjame revisar...
+0094 [Teresa] | Este,==W== y este...==W== ¡Y mira este también!
+0095 [Iris] | Disculpa, déjame ayudarte a buscar...==B====W== Howard... Howard...
+0096 [Iris] | ¡Lo encontré!==W== ¡Está en el mapa, mira, aquí mismo!
+0097 [Teresa] | ¡Guau, de verdad dice «Casa del señor Howard» aquí...!==W== Antes pasábamos justo por ahí... Se me olvidó por completo, miau...
+0098 [Teresa] | ¡Gracias a ustedes dos, todo me está volviendo a la memoria, miau!==W== ¡Tengo que contárselo a Donna en cuanto lleguemos!
+0099 [Tú] | Según la información que reunimos, este tiene que ser el local de Howard.
+0100 [Teresa] | Si el mapa está bien, tiene que estar por aquí...
+0101 [Freesia] | Coincide con la zona de los archivos.
+0102 [Noya] | Una familia famosa con historia de varias generaciones...
+0103 [Donna] | Entonces parece que es a la familia Howard a la que buscamos.
+0104 [Amber] | Mm. Una familia de artesanos.
+0105 [Donna] | ¡Buen trabajo, todos! Aunque ya se hizo tarde. Hagamos la entrega mañana.
+0106 [Donna] | Todos trabajaron muy duro. ¡Esta noche se merece un premio! ¡Preparé un banquete! ¡Coman todo lo que quieran!
+0107 [Amber] | Zzz... Zzz...
+0108 [Noya] | Uf... Estoy llena... No me cabe un bocado más...
+0109 [Tú] | Ahora que todos estamos bien alimentados, ¡estamos cargados para mañana!==W==
+0110 [Tú] | ¿Hm?
+0111 [Tú] | ¿Donna? ¿A dónde irá a estas horas...?
+0112 [Donna] | ¡Ah! ¿Jefe? ¿Te desperté?
+0113 [Tú] | Todavía estaba despierto. Qué raro... No tengo nada de sueño.
+0114 [Donna] | ¡Jeje, a mí me pasa igual!
+0115 [Donna] | ¡Me divertí muchísimo esta noche! Quizá estoy demasiado emocionada para dormir.
+0116 [Tú] | Tu comida estuvo increíble.==W== Hacer todo eso de golpe... debió de ser agotador.
+0117 [Donna] | ¡Para nada! Sentí como si mi familia de pronto se hubiera hecho mucho más grande. ¡Disfruté cada segundo!==W== Me encanta tener a todos juntos, con ruido y alboroto.
+0118 [Donna] | Al principio, era yo sola repartiendo las cartas.
+0119 [Donna] | Yo sola no había manera de terminar todas las entregas de una sola vez.
+0120 [Donna] | Tenía que dividir las rutas y hacerlas día por día.
+0121 [Donna] | Viéndolo ahora... no tengo idea de cómo le hacía.
+0122 [Tú] | Solo de pensarlo me da dolor de cabeza...
+0123 [Donna] | ¿Verdad?
+0124 [Donna] | Pero luego llegaron Freesia y Teresa, y fundamos Post Haste. Ahora podemos lograr muchísimo más.
+0125 [Donna] | Entre preocupaciones y alegrías, estamos juntas. Estos días soy tan feliz... Hasta me da un poco de miedo.
+0126 [Donna] | Es que...==W== no quiero volver a estar sola nunca más.
+0127 [Tú] | ¿Donna?
+0128 [Donna] | ¡Ah! Uy, eso sonó medio raro, ¿no?==W== ¡No quise decir nada profundo! Es solo que...
+0129 [Donna] | ¡Mira, el trabajo no deja de acumularse! Una sola persona definitivamente no puede entregarlo todo, ¿verdad?==W== O sea, lo que quise decir es que ¡ir por la vida sola ya no es una opción!==W== ¡No, para nada!
+0130 [Donna] | ¡En fin! Mañana hay que madrugar, ¡así que me voy a dormir!==W== ¡Buenas noches, Jefe!
+0131 [Tú] | Buenas noches.
+0132 [Tú] | ¿Qué fue esa sensación tan extraña...? Por una fracción de segundo, Donna parecía una niña a punto de llorar...
+0133 [Donna] | Es que...==W== no quiero volver a estar sola nunca más.
+0134 [Tú] | No quiere volver a estar sola nunca más, eh...

@@ -1,0 +1,141 @@
+# Capítulo 3 · 4 · Una cacería fallida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Blade of Jade | Espada de Jade
+N:Crying Trekker | Trekker llorando
+N:Garden of Parasite | Jardín Parásito
+N:Injured Trekker | Trekker herido
+N:Spirit of Brutality | Espíritu de la Brutalidad
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_958 | Weed Brawler
+N:avg2_964 | Hummingbird
+N:avg2_976 | Associated Tree
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Una cacería fallida
+0003 [Intro] | Nazuna y su grupo se separaron de Nazuka por una misión de caza. Serena te pide ayuda con Petal Bloom. Al final, todos acuerdan un pacto: convertir a Fuyuka en una «Heroína Trekker».
+0004 [Narración] | Hace dos meses
+0005 [Lugar y hora] | 11:00, 6.º del mes de Clarus, afueras de Philae, en lo profundo del bosque
+0006 [Trekker herido] | Ugh...==W== ¡Ayuda...!==W== Me duele mucho la pierna... no puedo moverme...
+0007 [Trekker llorando] | No...==W== No quiero morir... Alguien, por favor... ayúdenme...
+0008 [Nazuna] | ¡Aguanten! ¡Los sacaré de aquí!
+0009 [Nazuna] | Kaede, ¿cómo va por tu lado?
+0010 [Kaede] | Hay demasiados heridos. No podemos atenderlos a todos aquí. Tenemos que sacarlos del bosque cargando.
+0011 [Nazuna] | Ja... ¿«Cargando»?
+0012 [Nazuna] | Qué fácil lo dices. Estamos rodeadas por tres monstruos muy peligrosos.
+0013 [Espíritu de la Brutalidad] | ¡ROAAAR!
+0014 [Espada de Jade] | ¡Kriii!
+0015 [Jardín Parásito] | ¡SSSSSS!
+0016 [Kaede] | ¡Nazuna, se acercan!
+0017 [Nazuna] | ¡Kaede, pon a la gente a salvo! ¡Yo contendré a los tres!
+0018 [Kaede] | ¡Eso es una locura! Destrozaron a toda esta gente en un instante. No puedes enfrentarlos sola...
+0019 [Narración] | Un torbellino verde desgarra el bosque. La enorme copa del Jardín Parásito se agita con violencia, bloqueando la picada de la Espada de Jade y cegando al Espíritu de la Brutalidad.
+0020 [Narración] | ¡Árboles, ábranse! ¡Que tiemblen las montañas!
+0021 [Narración] | ¡Oh, espíritus salvajes, que no solo tiemblen las hojas!
+0022 [Narración] | Avancen por este denso bosque y expulsen a las bestias que nos cierran el paso.
+0023 [Narración] | Tras su breve cántico, la tormenta se alza en una imponente muralla verde que aísla a los monstruos de los Trekkers heridos.
+0024 [Kaede] | Nazuka. Estás aquí.
+0025 [Nazuna] | Je, justo a tiempo. Logré juntar a esos tres monstruos gigantes para ti.
+0026 [Nazuna] | ¿Crees que puedes eliminarlos a todos de un golpe?
+0027 [Nazuka] | No, Capitana. No puedo.
+0028 [Nazuka] | Mi magia solo los contendrá un breve tiempo. Debe evacuar a los heridos. Ahora.
+0029 [Nazuna] | No tienes ningún sentido del humor, ¿lo sabías? Tú y Kaede saquen a todos. Como Capitana de Petal Bloom, no puedo simplemente dejarte morir.
+0030 [Nazuka] | Capitana, este no es momento de discutir. Mi magia no es adecuada para evacuar heridos. Solo sus habilidades sirven para esta tarea.
+0031 [Nazuna] | ...
+0032 [Nazuna] | ¡Kaede, vámonos! ¡Estas personas no pueden esperar más!
+0033 [Nazuka] | ¿Hay alguien más que todavía pueda mantenerse en pie? ¡Cubran nuestra retirada conmigo!
+0034 [Claire] | Yo... puedo ayudar.
+0035 [Nazuna] | ¡Nazuka, aguanta hasta que salgamos del bosque! En cuanto estemos fuera, te retiras de inmediato, ¿me oyes?
+0036 [Nazuka] | No se preocupe, Capitana. No tengo intención de morir hoy.
+0037 [Nazuka] | Hicimos una promesa, ¿recuerda? Vamos a escalar todos los Monolitos del mundo, juntas.
+0038 [Lugar y hora] | 21:00, 16.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0039 [Nazuna] | Y así fue. La primera escuadra de caza, completamente aniquilada por los Tres Grandes.
+0040 [Noya] | Uno vuela, otro escupe veneno y otro tiene un cuero duro como la piedra. Un trío así sería difícil de manejar para cualquiera.
+0041 [Iris] | Pero espera... ¿por qué llamaste traidora a Nazuka? Parece que los salvó a todos cubriendo su retirada.
+0042 [Nazuna] | ...
+0043 [Kaede] | La primera escuadra de caza fue organizada por un puñado de gremios de manera voluntaria. Estábamos entre ellos.
+0044 [Kaede] | Tal como dijo Nazuna, nos topamos con los tres monstruos a la vez. Los demás Trekkers fueron tomados completamente por sorpresa. Muchos resultaron heridos.
+0045 [Kaede] | Nazuna y yo salimos con heridas leves, así que ayudamos a escoltar a los demás fuera del bosque.
+0046 [Kaede] | Nazuka, quien nos ganó tiempo para escapar, también regresó sana y salva.
+0047 [Nazuna] | Sin embargo, a la Casa de la Asociación de Trekkers en Philae le cargaron la responsabilidad del fracaso de la cacería, y fue obligada a retirarse de Philae tras ser demandada por Cosecha Unida,==W== la mayor corporación local.
+0048 [Nazuna] | La Casa, antes bulliciosa, ahora está en ruinas, y solo quedamos nosotras para cuidarla en su nombre.
+0049 [Tú] | La Asociación de Trekkers fue realmente expulsada...==W== Así que por eso las recompensas por los Tres Grandes las emitió Cosecha Unida.
+0050 [Kaede] | Pero Nazuka no fue la misma después de ese día.
+0051 [Nazuna] | Primero, empezó a tomar distancia de nosotras: de mí y de Kaede.
+0052 [Nazuna] | Luego renunció a Petal Bloom. Ella y esa tal Claire consiguieron el respaldo de Cosecha Unida y organizaron una nueva escuadra.
+0053 [Nazuna] | Kaede y yo intentamos hablar con ella, pero solo recibimos habladurías corporativas...==W== Como si todo el tiempo que pasamos aventurándonos juntas no significara nada.
+0054 [Tú] | ¿Pasó algo después de que el grupo de Nazuna se retirara? ¿O hay algo más en la historia?
+0055 [Serena] | Tal como lo veo, decidió que eran un lastre y las dejó por un mejor equipo.
+0056 [Kaede] | ...
+0057 [Nazuna] | ¿Qué dijiste?
+0058 [Serena] | Es simple. Un mes después de formarse esa nueva escuadra, Nazuka lideró su propio equipo y derribó a la Espada de Jade.
+0059 [Serena] | Un éxito, un fracaso. Parece que la única diferencia fueron las personas involucradas.
+0060 [Nazuna] | ¡Eso es una tontería! ¡Peleábamos contra tres a la vez!
+0061 [Serena] | Reconocimiento adecuado, atraer y separar a sus objetivos, usar superioridad numérica... todo eso es parte del combate, ¿no?
+0062 [Nazuna] | Tú...
+0063 [Tú] | Las palabras de Serena son duras, pero es difícil rebatirlas. Mirando solo los resultados, Nazuka claramente lo hizo mejor tras dejar Petal Bloom.
+0064 [Serena] | Entonces, ¿qué tal mi pequeña propuesta? Parece perfectamente razonable, ¿no cree?
+0065 [Serena] | Confío en que no tendrá objeción en que les cuente a Nazuna y sus amigas la historia completa de cómo derrotaron a Creta Trading.
+0066 [Tú] | Adelante.
+0067 [Tú] | No hay razón para ocultar lo que hicimos en Emor. Tarde o temprano las noticias llegarán a Philae.
+0068 [Serena] | Maravilloso. Entonces permítame comenzar...
+0069 [Narración] | En un instante, el gran salón de la antigua Casa de los Trekkers se convirtió en el escenario personal de Serena.
+0070 [Narración] | Relató nuestras aventuras en Emor con sumo detalle, como si hubiera estado allí, una sombra invisible a nuestro lado.
+0071 [Tú] | ¿Quién es esta Serena? Incluso conoce los detalles exactos de cómo nos infiltramos en Creta Trading.
+0072 [Tú] | ¿Una simple corredora de información... de verdad expondría así los secretos de un cliente? ¿O tiene otros planes?
+0073 [Tú] | Noya, Iris, Amber. ¿Qué opinan? ¿Podemos con los dos encargos restantes?
+0074 [Noya] | Un jabalí gigante y una enorme planta devoradora de hombres... No pueden ser más duros que ese Stellaroid gigante de la Vía Fluvial, ¿verdad?
+0075 [Iris] | ¡Noya, no vas a embestirlo con Loxy!
+0076 [Amber] | Si los enfrentamos uno a la vez, deberíamos poder ganar.
+0077 [Tú] | Si todos están de acuerdo... Ayudarlas a cambio de información de Serena parece un trato razonable.
+0078 [Serena] | Entonces, ¿qué? Esta es su oportunidad de aprovechar el poder del Jefe...
+0079 [Nazuna] | Me niego.
+0080 [Serena] | ¿No sientes ni un poco de curiosidad por saber por qué Nazuka las dejó?
+0081 [Serena] | Piénsenlo. Si este grupo logra derribar a uno de los dos monstruos restantes y demostrar su fuerza... Nazuka, como figura clave de la nueva escuadra, no tendría más remedio que cooperar con ustedes para derrotar al último.
+0082 [Serena] | Esa sería su oportunidad de hablar con ella de igual a igual.
+0083 [Nazuna] | No me importa por qué se fue, y no tengo intención de arrastrarla de vuelta a Petal Bloom.
+0084 [Nazuna] | Que la «impresionante» nueva escuadra se encargue del Espíritu de la Brutalidad y del Jardín Parásito.
+0085 [Nazuna] | No tengo ningún deseo de «revivir el gremio». Estoy perfectamente feliz jugando a la máquina de garra todos los días.
+0086 [Nazuna] | ¿Kaede? ¿Tú qué opinas? Has estado callada todo este tiempo.
+0087 [Kaede] | Después de esa expedición fallida... me di cuenta de que simplemente no estoy hecha para ser Trekker. En realidad... pensaba buscar trabajo en Cosecha Unida.
+0088 [Noya] | ¡¿Qué?! ¡¿Por qué?! ¡¿Qué tiene de malo ser Trekker?!
+0089 [Tú] | Una negativa tan rotunda. Parece que a Serena se le acabaron las jugadas.
+0090 [Fuyuka] | Buaaa...
+0091 [Serena] | Je. Así que Petal Bloom de verdad es una causa perdida. Jefe, ¿podría proponerle un trato alternativo?
+0092 [Tú] | Claro. Es mejor no obligarlas.
+0093 [Serena] | Entonces le pido que tome a esta prometedora joven Trekker y la moldee hasta convertirla en... no, no solo del Campamento... en la heroína de toda Philae.
+0094 [Fuyuka] | ¿E-eh? ¿Eh? ¿M-moldearme... en una heroína?
+0095 [Fuyuka] | ¡Buaaa! ¡N-no puede ser! ¡No puedo hacerlo! ¡Es muy vergonzoso! ¡Me moriré! ¡Literalmente me dará un infarto!
+0096 [Nazuna] | Oye, Fu... Fuyuka... me estás apretando demasiado... no puedo respirar... ¡estoy perdida...!
+0097 [Serena] | Nazuna está obsesionada con la garra de premios y Kaede está ocupada buscando trabajo...
+0098 [Serena] | Así que ayudar a esta recién llegada a crecer con el Jefe parece una buena idea, ¿no? ¿O también van a rechazar eso?
+0099 [Nazuna] | N-no, no es eso...
+0100 [Kaede] | Hemos... hemos intentado entrenar con ella algunas veces... pero no funcionó muy bien.
+0101 [Serena] | ¡Pero quizá la próxima vez sea la vencida! Pequeña Fuyuka, ¿qué tal si dejas que el Jefe te ayude? La decisión es tuya.
+0102 [Fuyuka] | Yo... trabajar con el Jefe...
+0103 [Tú] | Haré lo mejor que pueda.
+0104 [Fuyuka] | ¡Iiiiiiik! ¡L-lo siento muuuucho! ¡Una humilde don nadie como yo ni siquiera debería mirar a una persona de su categoría! ¡Mis más sinceras disculpas!
+0105 [Tú] | Parece aterrada. ¿De verdad doy tanto miedo? Auch... eso duele un poco.
+0106 [Fuyuka] | P-pero... Fuyuka, no puedes seguir así. Solo seguirás frenando a todos.
+0107 [Fuyuka] | El Jefe... dirige toda una compañía... Alguien tan poderoso tiene que poder ayudarme con mis problemas. Esta es... esta es una oportunidad de cambiar.
+0108 [Tú] | ¿Una oportunidad de cambiar? ¿Qué está murmurando ahora...?
+0109 [Fuyuka] | E-em... ¡Je... Jeff! ¡Lo siento, lo siento mucho! ¡La arruiné justo en la parte más importante, lo siento muchísimo!
+0110 [Tú] | Está bien, no te preocupes. Por favor, continúa.
+0111 [Fuyuka] | Y-y-y-y-y-yo...
+0112 [Fuyuka] | ¡Quiero su ayuda! ¡Quiero que me ayude a ser igual que Nazuka: la le-leyenda de este Campamento!

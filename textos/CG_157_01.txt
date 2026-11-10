@@ -1,0 +1,119 @@
+# Historia de Karin · 1 · Three-Legged Race (Part Ⅰ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Creepy Trekker | Trekker siniestro
+N:Friendly Trekker | Trekker amistoso
+N:Gloomy Trekker | Trekker sombrío
+N:Serious Trekker | Trekker serio
+N:Veteran Trekker | Trekker veterano
+N:avg1_157 | Karin
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Carrera de tres piernas (Parte Ⅰ)
+0003 [Intro] | ¡Vamos, Karin, démosle una sorpresa a Shia! Espera, no—¡por ahí no!
+0004 [Tú] | A ver... ¿Tomo una comisión en la Casa de los Trekkers o voy a la entrada del Monolito...==W== ¿Mm?
+0005 [Karin] | Aquí tampoco está...==W== Buaa... No voy a lograrlo...
+0006 [Tú] | ¿Karin? ¿Qué haces aquí?
+0007 [Karin] | ¡¿Waaahhhhh?!
+0008 [Tú] | ¡¿Waaahhhhh?!
+0009 [Karin] | Ah, eres tú, Jefe...==W== Me asustaste...
+0010 [Tú] | Tú me asustaste a mí...
+0011 [Tú] | ¿Cómo es que no me viste? Estoy justo a tu lado. No es propio de ti.
+0012 [Karin] | Es que ... estaba demasiado concentrada en mi búsqueda.
+0013 [Karin] | ¡Ah, Jefe! ¿¡Viste por casualidad alguna entrada al Monolito por aquí cerca!?
+0014 [Tú] | Mmm... No...==W== ¿La estás buscando?
+0015 [Karin] | Bueno... Llevo dos semanas buscando en vano...
+0016 [Karin] | ¡¡¡Hoy en día hay demasiados Trekkers marinos!!!
+0017 [Tú] | Tiene sentido... Todos compiten por la entrada ahora.
+0018 [Karin] | Ay... ¿Qué más puedo hacer...==W== ¡Ah, Jefe! ¿¡Estás libre ahora!? Si lo estás, ¿¡me ayudas a buscarla!?
+0019 [Tú] | ¿Karin pidiéndome ayuda? Qué raro.
+0020 [Karin] | ¡Argh, ya no sé qué hacer! No puedo perder más tiempo o no llegaré al cumpleaños de Shia...
+0021 [Tú] | ¿Vas a pedir un regalo de cumpleaños para Shia?
+0022 [Karin] | ¿¡C-Cómo sabes mi plan secreto!?
+0023 [Tú] | Si es secreto, no lo digas tan fuerte...
+0024 [Karin] | Ya que lo sabes, no daré rodeos.==W== ¿Me vas a ayudar o no?
+0025 [Tú] | Pues...==W== Soy director de una empresa, después de todo, y estoy muy ocupado todos los días...
+0026 [Karin] | Ah, ya veo...
+0027 [Tú] | ¡Ajaja, era broma! ¡Te ayudaré!
+0028 [Karin] | ¿¡En serio!?==W== ¡¡Muchas gracias!!
+0029 [Tú] | Karin se ha esforzado mucho para lograr esto y el tiempo corre en su contra. ¡Debo ayudarla en todo lo que pueda!
+0030 [Karin] | ¿No íbamos a buscar la entrada al Monolito? ¿Por qué estamos aquí en la Casa de los Trekkers?
+0031 [Tú] | Acabas de decir que no pudiste encontrarla sola, ¿no?
+0032 [Tú] | Por eso estamos aquí, para reunir información de otros Trekkers.
+0033 [Tú] | Disculpe, ¿podría decirme cuándo fue la última vez que encontró una entrada al Monolito y dónde estaba?
+0034 [Friendly Trekker] | Yo no encontré ninguna, pero me dicen que alguien lo hizo hace un par de días.
+0035 [Tú] | Con eso basta. Gracias por compartirlo.
+0036 [Veteran Trekker] | Hace como una semana, aquí. Pero seguramente ya desapareció.
+0037 [Serious Trekker] | No hemos encontrado nada últimamente...==W== Nuestra última escalada fue hace un mes, por esta zona, probablemente.
+0038 [Karin] | Preguntando no llegamos a ningún lado. ¿De verdad vamos a encontrar una pista de la entrada así?
+0039 [Tú] | Confía en mí, normalmente es cuando se descubre la información oculta.==W== ¡Ah, hay un Trekker al que todavía no le preguntamos!
+0040 [Karin] | ¿De dónde diablos sale tanta confianza...
+0041 [Gloomy Trekker] | Oigan, ustedes dos...==W== Si buscan la entrada al Monolito, les sugiero que no pregunten tanto...
+0042 [Tú] | ¿A qué se refiere?
+0043 [Gloomy Trekker] | Porque si siguen indagando, podrían enterarse de «esa entrada»...
+0044 [Karin] | ¡¿Eh?! ¡Entonces sí hay una entrada oculta!
+0045 [Gloomy Trekker] | Sí hay una...==W== Pero nadie la va a usar jamás...
+0046 [Tú] | ¿Por qué?
+0047 [Gloomy Trekker] | Porque...==W== Dicen que está embrujada.
+0048 [Karin] | ¿E-Embrujada...?
+0049 [Gloomy Trekker] | Sí...==W== Hay fantasmas...
+0050 [Tú] | Ya veo. ¿Fantasmas en la entrada, eh?==W== Con razón la gente se mantiene alejada.
+0051 [Tú] | Ahora recuerdo. Dicen que el equipo desaparece, y a veces hasta los compañeros...
+0052 [Karin] | ¡Hmph! ¿Eso es todo lo que hace falta para espantarlos? ¡Qué cobardes!
+0053 [Karin] | ¡Yo no soy como esos miedosos! ¡Si ellos no la quieren, vayamos nosotros!
+0054 [Tú] | Si eres tan valiente, ¿por qué te tiemblan las piernas?
+0055 [Karin] | ¡Y-Yo solo estoy emocionada por nuestra próxima victoria!==W== Un rumor tonto como ese no me asustaría—==W==
+0056 [Karin] | ¡¿Nyaaaaoooooowh?!
+0057 [Tú] | ¡¿Karin?! ¡¿Dónde estás?!
+0058 [Karin] | ¡Aquí! ¡Por aquí, Jefe! ¡Sácame!
+0059 [Tú] | Esta trampa es bastante honda.==W== ¿Estás bien?
+0060 [Karin] | Uuuf...==W== Estoy bien.
+0061 [Karin] | ¡P-Pero! ¡Misterio resuelto! ¡Esos Trekkers desaparecidos seguramente cayeron en una trampa como yo!
+0062 [Karin] | ¡Eso es! Es solo una cueva normal...==W== Muy normal...==W== No tiene nada de raro...
+0063 [Tú] | ¿Estás tratando de convencerte a ti misma...?
+0064 [???] | ... Uoooaaa...
+0065 [Karin] | ¿Mm? ¿Qué dijiste, Jefe?
+0066 [Tú] | ¿Mm? Nada.
+0067 [Karin] | ¿No fuiste tú...?
+0068 [???] | ... Uoooooaaaa...
+0069 [Karin] | ¡No, sí oí bien! Hay un sonido extraño...==W== ¡Ah!
+0070 [Karin] | ¡Jefe! ¡Mira! ¿No es esa la entrada al Monolito?
+0071 [Tú] | ¡Espera, Karin! Acabas de salir de una trampa. Debemos tener más cuidado.
+0072 [Karin] | No te preocupes. ¡Estaremos bien! Ahora solo tenemos que entrar a—
+0073 [Creepy Trekker] | ¡GAAAAAH!
+0074 [Karin] | ¡WAAAAHHH!
+0075 [Tú] | ¡Karin! ¡¿Estás bien?!
+0076 [Karin] | ¡F-Fantasma! ¡Escucho un fantasma!
+0077 [Tú] | ¡No entres en pánico! Seguro es solo un pájaro.
+0078 [Karin] | ¿Un pájaro?==W== ¡¿Por qué chilla tan fuerte?!
+0079 [Karin] | Tus manos están frías, Jefe. ¿Tienes miedo? Estás literalmente congelado... Ja...
+0080 [Tú] | Eh...==W== ¿Karin? ¿Por qué le hablas a una roca?
+0081 [Karin] | ¡Ahh! ¡¿U-una roca?!
+0082 [Tú] | ¿No traes puestos tus lentes de contacto? Pero hace rato veías bien...
+0083 [Karin] | Yo... Este...==W== Pensé que tendría menos miedo si no veía, así que me los quité...
+0084 [Karin] | Y cuando intenté ponérmelos de nuevo...
+0085 [Tú] | ¡¿El grito del pájaro te asustó y se te cayeron?!
+0086 [Karin] | Sí... O sea que ahora estoy básicamente ciega... Si...==W== ¡Ah!
+0087 [Tú] | ¿Karin?
+0088 [Karin] | Mis lentes de contacto... Acabo de pisarlos...
+0089 [Tú] | Ugh... Debí pedirte que te quedaras quieta...==W== ¿Trajiste un par extra? ¿O tal vez anteojos?
+0090 [Karin] | No... Ese era mi último par, y mis anteojos se quedaron en el bote...
+0091 [Karin] | ¡E-Está bien! ¡Es solo un Monolito! Puedo subirlo sin vista...
+0092 [Karin] | ¡Te lo demostraré, Jefe! ¡Tú quédate aquí y te prometo que todo saldrá bien! ¡Me siento genial ahora mismo!
+0093 [Tú] | ¡Atrás! ¡De verdad no me ves si no estás tan cerca, ¿eh?!
+0094 [Tú] | Creo que deberíamos regresar, Karin. Es demasiado peligroso para ti.
+0095 [Karin] | ¡Pero venimos hasta aquí para encontrar la entrada! ¡Quizá ya no esté aquí la próxima vez!
+0096 [Karin] | No hay tiempo que perder...==W== ¡Definitivamente lo haré, aunque tenga que hacerlo sola!
+0097 [Tú] | Está bien... Bueno...==W== Déjame ser tus ojos, entonces.
+0098 [Karin] | Ah, Jefe...==W== ¡Muchísimas gracias!
+0099 [Karin] | ¡Vamos por nuestra Caja de Deseos, a toda prisa!

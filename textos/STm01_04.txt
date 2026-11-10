@@ -1,0 +1,152 @@
+# Capítulo 1 · 4 · Bajo el puente
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Noya & Amber | Noya y Amber
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Bajo el puente
+0003 [Intro] | Sin hogar pero sin rendirte, reúnes fuerzas para investigar la deuda y recuperar tu vehículo. Antes de irte, le das tu comida a una chica que se desmaya de hambre.
+0004 [Lugar y hora] | 11:25, 26 del mes de Floris, Distrito de las Cenizas, Emor. Bajo el puente del canal
+0005 [Noya] | ¿Están todos bien? ¿Alguien se empapó?
+0006 [Tú] | Yo estoy seco, pero Iris...
+0007 [Iris] | 49 990... 50 000, 50 001...
+0008 [Narración] | Las yemas de los dedos de Iris destellan y congelan la lluvia a nuestro alrededor en diminutas perlas de hielo que giran hasta formar una esfera de hielo cada vez mayor frente a su pecho.
+0009 [Iris] | 50 009, 50 010... ¡No, no, no es suficiente! ¡Esto NUNCA va a ser suficiente!
+0010 [Tú] | ¿Qué le pasa?
+0011 [Noya] | Seguro es la impresión.==W== Por fin volvemos a Emor y nos encontramos con el orfanato cerrado, la tía Allie desaparecida, Loxy confiscada y ahora estamos ahogadas en deudas.
+0012 [Amber] | Entró en modo crisis total.
+0013 [Noya] | Para Iris, todo esto es simplemente...
+0014 [Tú] | Ustedes dos están sorprendentemente tranquilas.
+0015 [Amber] | Regodearse en la desesperación... no arregla nada.
+0016 [Noya] | Puede que hayamos perdido algo muy valioso, pero ganamos un nuevo amigo. No hay razón para estar tristes por eso.
+0017 [Tú] | ¿Yo?
+0018 [Noya] | Tú calaste de inmediato a esos tipos de Creta... Supiste desde el principio que en realidad iban por nuestro vehículo.
+0019 [Tú] | Eh, más despacio. Yo soy el que no tiene recuerdos, ¿recuerdan?
+0020 [Noya] | Algo tienes que saber sobre cuál debería ser nuestro siguiente paso, ¿no?
+0021 [Tú] | Nuestro siguiente paso... Nos tenían en la mira desde que entramos a la ciudad. Está claro que Creta Trading no iba tras el dinero.
+0022 [Noya] | ¿Esa deducción brillante que dejó a Feagin acorralada? ¡Solo tú podías hacerlo!
+0023 [Tú] | Noya exagera... pero la forma en que hablaba Feagin...
+0024 [Tú] | ¿Van tras nuestro vehículo? ¿El orfanato esconde algún secreto?
+0025 [Iris] | 50 200... A este paso, juntar 830 mil Dorra será pan comido...
+0026 [Iris] | Jeje, ¡a este paso tendré 830 mil en un santiamén!
+0027 [Tú] | ¿Hay alguna forma de sacarla de este trance?
+0028 [Noya] | Hablarle con calma o esperar a que se le pase. Pronto se recupera. Si quieres acelerarlo, distráela con algo que le guste.
+0029 [Tú] | ¿Algo que le guste de verdad?
+0030 [Amber] | Resolver problemas.
+0031 [Opción] | Consolar a Iris como siempre
+0032 [Opción] | Consolar a Iris poniéndola a resolver problemas
+0033 [Opción] | Esperar con paciencia
+0034 [Tú] | Iris, vamos a recuperar el Lucky Oasis sin falta.
+0035 [Iris] | 50 310... 50 311...
+0036 [Tú] | No pasó nada.==W== Bien, hora de probar otro enfoque...
+0037 [Tú] | Mira, el vehículo se fue, estamos ahogados en deudas...==W== Quizá deberíamos dejar de lado esto de ser Trekkers para siempre.
+0038 [Noya] | ¿Ooh? Ya veo.
+0039 [Tú] | Bien, Noya lo entiende.
+0040 [Iris] | 50 340... 50 341...
+0041 [Tú] | Perdí la memoria, y Noya y Amber... no están hechas para la vida en la ciudad.
+0042 [Tú] | Así que larguémonos. Si nunca volvemos a Emor, no pueden cobrarnos esa deuda descabellada, ¿o sí?
+0043 [Amber] | Huir. Entendido.
+0044 [Noya] | Hagamos las maletas.
+0045 [Iris] | ¡NO!
+0046 [Noya] | ¡Uy! ¡Volvió!
+0047 [Iris] | ¿Q-qué estaba haciendo? ¿Alguien dijo algo de disolver el gremio?
+0048 [Noya] | Oíste mal.==W== Solo hablábamos del almuerzo.
+0049 [Tú] | ¿Y esas gotas de lluvia, Iris?
+0050 [Iris] | Es que... pensé que si lograba juntar 833 333 gotas de lluvia, se me ocurriría una solución.
+0051 [Tú] | De verdad se le fue la cabeza.
+0052 [Tú] | Le daré algo en qué pensar.
+0053 [Iris] | 50 310... 50 311...
+0054 [Tú] | Una chica recoge agua de lluvia. Junta 800 gotas por minuto, pero cada hora se evaporan 10 gotas.
+0055 [Tú] | ¿Cuánto tardará en juntar 833 333 gotas de lluvia?
+0056 [Tú] | Este problema absurdo debería distraerla de contar gotas de lluvia de verdad.
+0057 [Iris] | ¡17 horas y 22 minutos!
+0058 [Tú] | ¡Vaya, qué rápida!
+0059 [Tú] | Ejem.==W== En fin, la cuestión es que algunas cosas simplemente llevan tiempo.
+0060 [Iris] | Tiempo... ==PLAYER_NAME==, tienes razón.
+0061 [Tú] | Fue un poco forzado, pero al menos captó su atención.
+0062 [Iris] | El orfanato cerró, la tía Allie no está, remolcaron el Lucky Oasis y encima tenemos esos horribles pagos mensuales.
+0063 [Iris] | Es que... están pasando demasiadas cosas a la vez... y entré en pánico.
+0064 [Iris] | Pero si me tomo el tiempo de pensar, tiene que haber una solución. ¡Solo nos faltan algunas variables de la ecuación!
+0065 [Tú] | Uf. Su lógica es única, pero al menos recuperó el ánimo.
+0066 [Tú] | ¿Convencer a Iris? Imposible. Mejor dejarse llevar.
+0067 [Narración] | Pasan los minutos. Iris permanece inmóvil al borde del puente, con la mirada fija en la lluvia que cae.
+0068 [Iris] | 61 098... 61 099... 61 100...
+0069 [Iris] | ...
+0070 [Tú] | ¿Eh? ¿Por qué se detuvo? No me digas que por fin se rompió...
+0071 [Noya] | Tranquilo. Significa que está a punto de reaccionar.
+0072 [Iris] | Creo que... es hora de almorzar.
+0073 [Iris] | Noya, Amber, ==PLAYER_NAME==, ¿me echan una mano?
+0074 [Tú] | Iris, ¿estás bien?
+0075 [Iris] | Estoy bien.==W== ¿Estaba actuando raro?
+0076 [Noya] | Iris está tan obsesionada con nuestra salud que, por muy ida que esté, siempre recupera el sentido a la hora de comer para asegurarse de que comamos.
+0077 [Tú] | Qué costumbre tan específica==W==... ¡¿Así que me preocupé como loco para nada?!
+0078 [Iris] | Por cierto, ¿tienen algo donde guardar agua?
+0079 [Noya] | Yo tengo una lata.
+0080 [Amber] | Traje la olla.
+0081 [Iris] | Muy bien. Amber,==W== derrite esta bola de hielo y fíltrala. Con eso tendremos agua limpia.
+0082 [Narración] | Amber dispara con destreza un chorro de llamas con su arma. Es evidente que lo han hecho un millón de veces.
+0083 [Tú] | Incluso desesperada, sigue cuidando del Gremio.
+0084 [Tú] | Hablando de eso, Iris, ¿tú puedes usar magia de agua? ¿Por qué no haces agua sin más?
+0085 [Iris] | Ah, bueno...==W== casi toda mi magia toma el agua cercana o la humedad del aire. Sin la lluvia...
+0086 [Iris] | Tendría que usar el agua de mi propio cuerpo. Supongo que parecería que la creo de la nada...
+0087 [Tú] | Ah, ya entiendo. O sea, agua de la marca Iris...
+0088 [Iris] | ¡Eso es raro y lo sabes!
+0089 [Tú] | No le veo el problema.
+0090 [Noya y Amber] | A nosotras también nos da igual.
+0091 [Iris] | ¡Ese NO es el punto! ¡Dejen de ser tan complacientes!
+0092 [Tú] | Su vida en el camino sin duda es dura.
+0093 [Noya] | Amber pescó unos peces y yo encontré unos hongos. Hagamos fuego para asar pescado y hongos.
+0094 [Iris] | Esperen. Sin un buen alimento básico no es una comida de verdad.
+0095 [Narración] | Iris hurga en su sombrero y saca un billete.
+0096 [Iris] | Me quedan 10 000 Dorra. Si compramos el pan Ruiseñor Leonado más barato, alcanzará para el almuerzo y la cena de los cuatro.
+0097 [Noya] | Vaya, pensé que estábamos en la ruina.
+0098 [Iris] | Lo estamos. Este es el fondo de emergencia que he ido ahorrando.
+0099 [Amber] | Iris lo ahorró. Se saltaba una rebanada de pan en cada comida.
+0100 [Noya] | Siempre que las cosas se ven negras, Iris saca otro conejo de su sombrero.
+0101 [Amber] | Súper confiable.
+0102 [Iris] | ¡Oigan, no puedo sacar fondos de la nada para siempre!
+0103 [Iris] | Esto apenas nos alcanza hasta mañana. Necesitamos trabajo y un lugar donde quedarnos, y rápido.
+0104 [Noya] | ¡Vayamos a irrumpir en esa corporación y rescatemos a Loxy!
+0105 [Iris] | Entiendo cómo te sientes, pero es una pésima idea.==W== Si nos atrapan, estamos acabadas.
+0106 [Noya] | ¡No es justo! ¡Ellos son los que nos robaron el vehículo!
+0107 [Iris] | Feagin es la directora general de Creta Trading. Las compañías, su personal y los Trekkers como nosotras... no recibimos el mismo trato.
+0108 [Tú] | ¿Por qué? ¿Qué tiene de especial ese título de «directora general» que usa Feagin?
+0109 [Iris] | Las compañías están bendecidas por el Dios de la Gracia, con su Sello de la Gracia y todo.
+0110 [Iris] | Gobiernan ciudades, comandan soldados; algunas incluso tienen ejércitos privados.
+0111 [Iris] | Son lo más cercano a los Dioses. Solo responden a sus propios reglamentos, no a la decencia común.
+0112 [Iris] | Un director general es el líder de una compañía. Aunque infrinja la ley, casi siempre se sale con la suya pagando una multa.
+0113 [Tú] | ¿Pueden hacer lo que quieran sin más? ¿Nadie se opone nunca?
+0114 [Iris] | Siempre ha sido así. Supongo que todos están acostumbrados...
+0115 [Iris] | Nova estuvo gobernada por emperadores y nobles, pero las compañías los desplazaron. Ahora los títulos nobiliarios son solo nombres antiguos y elegantes.
+0116 [Iris] | Lo que de verdad importa es llegar a ser alguien importante en una compañía, o unirse a su senado. Esa es la verdadera gloria.
+0117 [Tú] | Que las cosas siempre hayan sido así... no significa que estén bien.
+0118 [Noya] | Yo sigo pensando que encontrar una Estrella de los Deseos en el Monolito es la máxima gloria.
+0119 [Iris] | La gente de la ciudad y los Trekkers simplemente ven las cosas distinto.
+0120 [Tú] | Yo veo las cosas más como Noya... Quizá antes fui Trekker.
+0121 [Tú] | Aun así, no podemos quedarnos de brazos cruzados.
+0122 [Tú] | ¿Y si investigamos el Orfanato de las Cenizas? Tal vez encontremos algo.
+0123 [Noya] | ¡De acuerdo! ¡Estoy harta de que nos usen así!
+0124 [Iris] | La lluvia está cediendo. Comamos y luego salgamos.
+0125 [Amber] | Eh... ¿Disculpen?
+0126 [Iris] | ¿Qué pasa, Amber?
+0127 [Amber] | Estaba explorando el puente... y encontré a alguien desmayada.
+0128 [Noya] | Ay, genial, ¿otra callejera?
+0129 [Lugar y hora] | 12:40, 26 del mes de Floris, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0130 [Amber] | Por aquí.
+0131 [Iris] | Qué reposo tan elegante.
+0132 [Tú] | Casi como... una muñeca de porcelana.
+0133 [Iris] | Ese no es el punto. Es raro que alguien duerma así aquí afuera. ¿Y si es una espía de Creta Trading?
+0134 [Noya] | Seguro no tiene adónde ir, como nosotras.
+0135 [Tú] | ¿Oyes cómo le gruñe el estómago? Debe de haberse desmayado de hambre.
+0136 [Tú] | Me da pena dejarla aquí, pero dejémosle algo de comida y vayamos primero al orfanato.
+0137 [Tú] | No tengo mucha hambre. Puede quedarse con la mitad de mi ración.
+0138 [Narración] | Antes de irnos, dejo mi pan y mi pescado guardados junto a la chica dormida.

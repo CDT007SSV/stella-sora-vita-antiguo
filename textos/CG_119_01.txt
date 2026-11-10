@@ -1,0 +1,75 @@
+# Historia de Nanoha · 1 · The Maid's Secret Mission (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cake Stallholder | Vendedor de pasteles
+N:Decisive Customer | Cliente decidido
+N:Longshoreman | Estibador
+N:Welcoming Vendor | Vendedor acogedor
+N:avg1_119 | Nanoha
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La misión secreta de la sirvienta (Parte I)
+0003 [Intro] | Misión n.º 1: compartir dulzura.
+0004 [Tú] | Qué bonito día hace hoy...
+0005 [Narración] | Nanoha me encargó hacer el papel de su empleador y acompañarla a una expo de postres.==B== Quedamos de vernos en la entrada de Goodwind Homecare el día del encargo.
+0006 [Tú] | Después de cruzar la intersección, gira a la derecha, luego a la izquierda y sigue derecho.==W== Después de pasar seis árboles, es el primer patio a la derecha...
+0007 [Tú] | Sí. Este es el lugar.
+0008 [Narración] | En apariencia, Goodwind Homecare parece una empresa común de servicios domésticos, pero en realidad es una organización muy unida de ninjas.
+0009 [Tú] | Supongo que este encargo de Nanoha en realidad es una misión secreta, y pedirme hacer de su «empleador» es solo una tapadera.
+0010 [Tú] | ¡¿Q-qué...?!
+0011 [Nanoha] | Buenos días, Amo. ¡Lamento muchísimo haberle hecho esperar!
+0012 [Tú] | B-buenos días, Nanoha.
+0013 [Tú] | Supongo que ya entró en personaje.
+0014 [Nanoha] | Lo lamento mucho. Hace un momento un insectito se coló en el patio.
+0015 [Nanoha] | Iba a invitarle a pasar a tomar una taza de té, pero por desgracia el lugar todavía se está limpiando...
+0016 [Tú] | «Un insectito...» ¿Habrá querido decir un intruso?
+0017 [Tú] | Parece que ya se encargó de eso.
+0018 [Tú] | No te preocupes, mientras el problema esté resuelto. ¿Nos vamos?
+0019 [Nanoha] | Como usted desee, Amo.
+0020 [Nanoha] | Por favor, sígame. Yo le guío.
+0021 [Welcoming Vendor] | ¡Vengan a ver! ¡Scones recién salidos del horno! ¡Degustación gratis!
+0022 [Decisive Customer] | ¡Oye, empácame estos pasteles, por favor!
+0023 [Longshoreman] | ¡Perdón! ¡Con permiso!
+0024 [Tú] | Vaya, hay incluso más gente de la que esperaba.
+0025 [Nanoha] | Amo, aquí tiene una guía de puestos que Nanoha preparó para esta expo de postres. Por favor, écheles un vistazo.
+0026 [Tú] | ¿Una guía de puestos?
+0027 [Nanoha] | He marcado las especialidades de cada puesto para que pueda elegir con facilidad qué probar.
+0028 [Nanoha] | Además del área de postres, la expo cuenta con una zona de juegos. Siéntase libre de visitarla si le interesa.
+0029 [Tú] | Está muy detallada...==W== Leámosla en el camino.
+0030 [Cake Stallholder] | ¡Buenos días! ¿Quiere probar nuestro tiramisú de la casa?==W== ¡Hay existencias limitadas, no se lo pierda!
+0031 [Nanoha] | Amo, el tiramisú de aquí tiene un intenso sabor a queso y un profundo aroma a cacao. Es una de las mejores recomendaciones de los organizadores de la expo.
+0032 [Tú] | Qué bien, lo probaré.
+0033 [Nanoha] | Una porción de tiramisú, por favor. Gracias.
+0034 [Tú] | ¿Solo una? ¿Y tú?
+0035 [Nanoha] | Como su sirvienta, me concentro únicamente en servirle.
+0036 [Nanoha] | Lo he cortado en trozos perfectos para un bocado. Por favor, disfrútelo.
+0037 [Tú] | Muy bien, entonces, con gusto.
+0038 [Tú] | Mmm...==W== ¡Delicioso! ¡La textura es perfecta y el nivel de dulzura es justo el adecuado!
+0039 [Nanoha] | Me alegra que sea de su agrado.
+0040 [Nanoha] | Entonces usaré este nivel de dulzura como referencia y le recomendaré otros postres que se ajusten a su gusto.
+0041 [Nanoha] | Amo, el pudín de la casa de aquí se deshace en la boca y la salsa de caramelo es dulce pero sin empalagar. ¿Le gustaría probarlo?
+0042 [Tú] | Claro.
+0043 [Nanoha] | Amo, los profiteroles de frutos rojos de aquí tienen una cubierta crujiente y los trocitos de fruta del interior logran el equilibrio justo entre dulce y ácido...
+0044 [Tú] | ¡Dámelos!
+0045 [Nanoha] | Los mochis de frijol rojo de este puesto...
+0046 [Nanoha] | Y las galletas hechas a mano de este puesto...
+0047 [Tú] | Yo... ya no puedo más... estoy a reventar...
+0048 [Nanoha] | Amo, aquí tiene un té refrescante especial que Nanoha preparó para limpiar el paladar. Por favor, disfrútelo.
+0049 [Tú] | ¡Justo lo que necesito!
+0050 [Tú] | Aunque solo yo como, Nanoha también parece estarla pasando bien.
+0051 [Tú] | Los postres de verdad alegran a la gente.
+0052 [Nanoha] | Nanoha ha empacado una porción extra de cada postre que usted disfrutó durante la degustación.
+0053 [Tú] | ¿Eh? Es demasiado generoso. Me da pena aceptarlo.
+0054 [Nanoha] | Es simplemente lo que una sirvienta debe hacer.
+0055 [Nanoha] | Si hay algo que pude haber hecho mejor, por favor no dude en decírmelo.
+0056 [Tú] | No, este es el encargo más fácil que me han dado.
+0057 [Tú] | ¿De verdad no hay nada más que quieras que haga?
+0058 [Nanoha] | No... Nada en absoluto.
+0059 [Nanoha] | Con que usted esté aquí es más que suficiente.
+0060 [Tú] | Ah, qué bueno oírlo.
+0061 [Tú] | ¡Entonces seguiré siendo tu tapadera!

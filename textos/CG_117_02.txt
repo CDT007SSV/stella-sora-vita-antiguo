@@ -1,0 +1,110 @@
+# Historia de Jinglin · 2 · Candy Hidden within the Promise (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Curious Customer | Cliente curioso
+N:Customer | Cliente
+N:Jing's Bistro Staff | Personal del Bistró Jing
+N:Server A | Mesero
+N:Server B | Mesero
+N:Server C | Mesero
+N:Smiling Customer | Cliente sonriente
+N:avg1_117 | Jinglin
+N:avg3_100 | Sylar
+N:avg3_113 | Ya
+N:avg3_129 | Guardia Imperial
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Un dulce escondido en la promesa (Parte II)
+0003 [Intro] | ¿Vencer a un maestro de Loong en mahjong? ¡Ese desafío será pan comido para el Jefe!
+0004 [Tú] | Qué dulce...==W== Ugh, tan, tan dulce...
+0005 [Tú] | Agua...
+0006 [Jinglin] | Tenga, tome un poco de té.==W== ¡Una taza de té le ayudará!
+0007 [Tú] | Cof... Cof...==W== G-gracias...
+0008 [Jinglin] | ¡Más despacio o se va a atragantar!
+0009 [Jinglin] | No se lo beba de golpe...
+0010 [Tú] | No, no, estoy bien...
+0011 [Tú] | Es solo que mis papilas gustativas recibieron una paliza.
+0012 [Curious Customer] | Jaja, ¡todavía se hace el duro! Pero oye, de verdad lo intentaste.
+0013 [Smiling Customer] | Jeje. De verdad cuesta tragar algo tan dulce.
+0014 [Smiling Customer] | Las papilas de Loong simplemente son distintas. No te fuerces.
+0015 [Jinglin] | Mejor pruebe la versión noviana～
+0016 [Tú] | Está bien...
+0017 [Jinglin] | Jeje, sabía que esto pasaría, así que tenía lista la versión noviana. ¡Aquí tiene, Bolas de camarón Luofu al estilo noviano!
+0018 [Narración] | Jinglin me entrega el platillo adaptado al paladar noviano. Esta vez, las bolas de camarón no solo llevan una salsa mucho menos azucarada...
+0019 [Narración] | Con la dulzura atenuada, el umami natural del propio camarón destaca más.
+0020 [Tú] | ¡¡Qué rico!!==W== ¡Nunca había probado camarones tan ricos...!==W== Ñam, ñam, ñam...
+0021 [Jinglin] | ¡Ajaja! Si le gusta, coma más～==W== ¡Verlo disfrutar tanto también me alegra mucho!
+0022 [Tú] | Cof, necesito agua...
+0023 [Jinglin] | ¡¿Estos platillos siguen siendo muy dulces?!
+0024 [Tú] | Cof, cof... No, no es eso...
+0025 [Tú] | Yo... comí muy rápido porque están muy buenos...
+0026 [Jinglin] | ¡Ajajaja! ¡Ya veo! ¡Un momento, le traigo té!
+0027 [Jinglin] | Cuídese, tío Feng. ¡Hasta la próxima!
+0028 [Jinglin] | Tío Lizi, el total son 810 Dorras.
+0029 [Customer] | Ochocientos... diez. Aquí tienes.
+0030 [Jinglin] | Además, la tía Langlang me pidió recordarle que ¡beba menos!
+0031 [Customer] | Jaja, no te preocupes. Esto apenas cuenta como beber.
+0032 [Customer] | Ah, cierto, me pidió que te preguntara. ¿Te inscribiste en el Torneo de Mahjong del próximo mes?
+0033 [Jinglin] | Mmm… Me encantaría ir, ¡pero quizá la próxima!==W== El restaurante ha estado lleno últimamente, gracias al apoyo de todos; apenas hemos tenido un momento para respirar.♪
+0034 [Jinglin] | Además, hace siglos que no juego. Estoy muy oxidada.
+0035 [Customer] | Qué lástima. Antes de que fueras gerente, siempre le pedías que jugara mahjong contigo.
+0036 [Jinglin] | Jeje, la próxima vez, seguro. Cuídese, tío Lizi～ Salude a la tía de mi parte.
+0037 [Jinglin] | Tía Lan, ¿dice que el taro dulce de hoy no está lo bastante dulce?
+0038 [Jinglin] | El otro día el tío Jian me dijo que tiene que reducir el azúcar, así que le pedí al abuelo Qin que usara menos azúcar morena.
+0039 [Tú] | Jinglin puede sacar cuentas mientras charla con sus clientes. ¡Impresionante!
+0040 [Tú] | Había oído que los Loong son buenos con las matemáticas. Parece que es verdad.
+0041 [Jinglin] | Ay, parece que sí faltaba dulzor. Perdón, pero ya sabe, ¡él solo se preocupa por usted!
+0042 [Tú] | Platican como viejos amigos poniéndose al día.
+0043 [Tú] | Nunca había sentido este ambiente en ningún otro restaurante.
+0044 [Narración] | Sin darme cuenta, se encienden las luces. Bajo la serena luz de la luna, el Bistró Jing sigue animado y lleno de risas.
+0045 [Jinglin] | ¡Cuídense, ustedes dos! ¡Hasta la próxima!
+0046 [Jinglin] | Uf... Todos, los clientes ya se fueron. ¡Hora de empezar a limpiar!
+0047 [Tú] | Entonces por fin puedo empezar con el encargo de hoy también.
+0048 [Jinglin] | ¿Su encargo?
+0049 [Tú] | Sí. ¿Recuerdas que mencioné que tenía un encargo por aquí? En realidad, me lo pidió tu personal.
+0050 [Jinglin] | ¡¿Eh?! No me digan que piensan que lo hago mal...
+0051 [Jing's Bistro Staff] | ¡Para nada!
+0052 [Jinglin] | ¿¿Eh??
+0053 [Server] | Has trabajado sin parar por el restaurante desde hace mucho. Y en todo este tiempo no has tenido un descanso de verdad.
+0054 [Server] | ¡Queremos que te diviertas de vez en cuando!
+0055 [Server] | Así que le pedimos a tu amigo que viniera a jugar contigo.
+0056 [Server] | Después de hablarlo, ==SEX1== hasta renunció a la comisión. Así que ==SEX1== jugará contigo tu juego favorito: ¡mahjong～!
+0057 [Tú] | Así es, tal como dijeron,==W== hoy vengo a jugar mahjong contigo, Jinglin～
+0058 [Jinglin] | Vaya... ¿Seguro que está bien?
+0059 [Jing's Bistro Staff] | ¡Segurísimo!
+0060 [Jinglin] | ¡Gracias! ¡Muchísimas gracias, todos!
+0061 [Tú] | Jeje... Qué escena tan conmovedora. El personal de verdad trata a Jinglin como familia.
+0062 [Tú] | Aunque... me preocupa qué clase de compañero de mahjong voy a ser.
+0063 [Tú] | Casi no sé nada del juego...
+0064 [Server] | No te preocupes. Las habilidades de mahjong de nuestra joven gerente son... así de chiquitas.
+0065 [Server] | Solo los principiantes pueden seguirle el ritmo.
+0066 [Tú] | ¿Pero no participó en el Torneo de Mahjong? Debe de ser buena.
+0067 [Server] | Eh, solo para completar los números y que su oponente pase a la siguiente ronda.
+0068 [Server] | Por eso el tío Lizi preguntó hace rato si se inscribió esta vez. Si a alguien le toca con ella en la primera ronda, ya puede ir preparándose para su oponente de la segunda.
+0069 [Tú] | Así que es eso...
+0070 [Server] | En fin, mientras ella la pase bien hoy, nosotros también estaremos contentos～
+0071 [Tú] | ¡Déjamelo a mí!
+0072 [Jinglin] | ¡O-oigan! ¡Están difamando mi buen nombre! Jefe, es su primera vez jugando este juego tradicional de Loong, ¿verdad? Entonces empecemos con las reglas del mahjong para dos jugadores.
+0073 [Jinglin] | Tenga, ¡échele un vistazo a esta guía! ¡La compiló Shimiao!
+0074 [Tú] | ¡¿Una guía de mahjong para dos jugadores adaptada para novianos?!
+0075 [Tú] | Cuántas palabras... Cuántas imágenes.==W== Se ve muy complicado... ¿De verdad voy a poder aprenderlo?
+0076 [Jinglin] | Usted es muy inteligente, Jefe. ¡Lo dominará en un abrir y cerrar de ojos!
+0077 [Jinglin] | Ya sé, hay mucho que digerir...
+0078 [Jinglin] | Porque a Shimiao le encantan las citas y las referencias...
+0079 [Jinglin] | Shimiao fue añadiendo muchas notas conforme avanzaba...
+0080 [Jinglin] | Aun así, para alguien tan listo como usted, Jefe, ¡seguro lo capta en poco tiempo!
+0081 [Jinglin] | Resalté las reglas importantes, Jefe. Concéntrese en esas y tendrá una idea general.
+0082 [Tú] | Ya veo... No está de más memorizarlas... Y lo más importante, como es para Jinglin, ¡me esforzaré!
+0083 [Narración] | Cinco minutos después...
+0084 [Tú] | Muy bien,==W== estoy totalmente listo.
+0085 [Jinglin] | ¡¿Tan rápido?!
+0086 [Tú] | ¡Vamos, juguemos una ronda a ver qué tal! ¡Es un enfrentamiento total entre profesionales!
+0087 [Jinglin] | ¡Los dos somos principiantes totales!==W== Pero oye, incluso entre principiantes hay diferencias. ¡No voy a perder contra un novato absoluto!

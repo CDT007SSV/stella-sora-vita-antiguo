@@ -1,0 +1,111 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 1 · Resplandor titilante
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Resplandor titilante
+0003 [Intro] | En un pueblo costero se cuenta una leyenda aterradora: una luz verde del «Barco fantasma» parpadea en el mar lejano. Tú ves esa luz siniestra y el océano te devora...
+0004 [Narración] | «En medio del aguacero de una noche de tormenta, un siniestro resplandor verde brota en el borde del mar negro como la tinta.»
+0005 [Narración] | «Es un barco corroído por los años, sin velas ni remos, con la cubierta repleta de huesos blanqueados.»
+0006 [Narración] | «Una docena de figuras permanece inmóvil sobre cubierta, empapadas y rígidas, atrapadas en el instante mismo de su muerte.»
+0007 [Narración] | «Sus rostros se han podrido hasta quedar en cuencas vacías que miran fijamente la noche infinita.»
+0008 [Narración] | «Sus almas están atrapadas en el barco para siempre, incapaces de hallar paz o escapatoria.»
+0009 [Narración] | «Los faroles en sus manos se mecían con una luz espantosa, como ojos de demonio,»
+0010 [Narración] | «atrayendo a marineros ingenuos, paso a paso, hacia un abismo del que no hay retorno.»
+0011 [Narración] | «Esa luz es el susurro inconcluso de los muertos y la maldición eterna que se hundió hasta el fondo del mar.»
+0012 [Narración] | «Una vez que te acercas, no hay vuelta atrás...»
+0013 [Iris] | ¡Aah...!
+0014 [Iris] | ¡Basta! ¿Cómo se supone que alguien va a dormir después de eso?
+0015 [Noya] | Sol, arena y mar.==W== ¡Esto sí es un verano!
+0016 [Noya] | ¡Oh! ¡Allá hay puestos de botanas y tiendas de bebidas! ¡Eso es!
+0017 [Iris] | Ugh, este sol... me estoy asando.==W== Quizá debería volver a cambiarme.
+0018 [Noya] | ¡Ni hablar! ==W==¡En la playa hay que usar traje de baño!==W== Además, te ves súper linda, Iris. ¿Verdad, Jefe?
+0019 [Tú] | Totalmente. Te queda muy bien.
+0020 [Iris] | Está bien, si el Jefe lo dice, lo intentaré...==W== ¡Ay! ¡Amber, tu brazo está helado como un bloque de hielo!
+0021 [Amber] | Así soy yo.
+0022 [Tú] | Cierto... Amber no parece tener nada de calor.
+0023 [Tú] | Todas llevan traje de baño, pero sus estados son completamente distintos.
+0024 [Noya] | ¡Ooh, yo quiero!==W== Ahhh, qué rico se siente...
+0025 [Amber] | Jefe, si tú también tienes calor,==W== puedes...
+0026 [Tú] | ¡N-No, estoy bien! Mejor busquemos algo de sombra por allá.
+0027 [Iris] | (bosteza)==W== Estoy agotada.
+0028 [Noya] | ¿No dormiste mucho?
+0029 [Iris] | Je, no sé por qué será...
+0030 [Iris] | Noya insistió en contar anoche la historia del Barco fantasma.==W== No pude sacarme la imagen de la cabeza y estuve despierta hasta el amanecer.
+0031 [Amber] | ... A mí también me quedó dando vueltas.
+0032 [Amber] | Rostro podrido... ¿Cómo se verá eso?
+0033 [Amber] | ¿Será que solo se cae la piel, o el cráneo se derrite?
+0034 [Tú] | ...==W== Bueno, bueno, ya déjenlo. Si seguimos con esto, esta noche nadie va a dormir.
+0035 [Noya] | ¡Oye, estaba leyendo el encargo que nos mandó Mistique!
+0036 [Noya] | Ella es quien nos pidió investigar este Barco fantasma. Hay que saber a qué nos enfrentamos, ¿no?
+0037 [Iris] | Supongo, pero aun así...
+0038 [Iris] | Hablando de eso, ¿dónde está Mistique? Llega tarde a nuestra cita.
+0039 [Tú] | Seguro está escondida por ahí, espiándonos. Otra vez.
+0040 [???] | ¡Je, je! ¡Los descubrí hablando a mis espaldas!
+0041 [Iris] | ¡¿Mistique?! ¿De dónde saliste?
+0042 [Tú] | ...==W== ¿Debajo de la palmera junto al puesto de bebidas?
+0043 [Mistique] | ¡¿C-Cómo lo supiste?!
+0044 [Amber] | Yo también te vi. No te interrumpí porque pensé que estabas atrapando cangrejos.
+0045 [Mistique] | O-Oh...==W== Qué agudos son, Gremio de la Nueva Estrella...
+0046 [Tú] | ¿Eh? ¿Qué dijiste?
+0047 [Mistique] | Nada~ ¡Digo que pasaron mi pequeña prueba de ataque sorpresa! ¡Ahora, el plato fuerte!
+0048 [Mistique] | Muy bien, equipo. Para este encargo necesito que me ayuden a salir a la calle y resolver el caso de la leyenda del Barco fantasma.
+0049 [Iris] | ¿Resolver el caso? Entonces, ¿crees que la leyenda es falsa?
+0050 [Mistique] | Las leyendas siempre empiezan con un grano de verdad. Solo que se... exageran al contarlas.
+0051 [Mistique] | Una luz misteriosa sí aparece en el mar. Eso es un hecho.
+0052 [Mistique] | Pero ¿que esa luz sea un «Barco fantasma»? Eso es pura especulación.
+0053 [Mistique] | Pero ya saben cómo se arman los rumores...==W== Con suficiente tiempo, hasta un simple destello de luz★ se vuelve una historia aterradora.
+0054 [Mistique] | De hecho, algunos rumores dicen que el «Barco fantasma» es solo un engaño para ocultar algo que cierta gente quiere mantener en secreto.
+0055 [Tú] | Algo que «mantener en secreto»... Vaya, vaya. Qué cliché.
+0056 [Iris] | De alguna manera, eso da todavía más miedo...
+0057 [Mistique] | La luz volvió a aparecer después de esa gran tormenta de hace unos días, y ahora todo el pueblo está alborotado.
+0058 [Mistique] | ¡Esta es mi oportunidad de descubrir la verdad y conseguir la portada!
+0059 [Mistique] | Cuando reciba mi bono anual de Scarlet Sights Media, me aseguraré de recompensarlos generosamente a todos.
+0060 [Noya] | ¡Perfecto! ¡Hora de festín!
+0061 [Amber] | ¿Y cuál es el plan?
+0062 [Mistique] | Ya exploré algunos lugares clave. Su trabajo es ir a preguntar por ahí.
+0063 [Tú] | Tengo un mal presentimiento sobre esto.
+0064 [Tú] | Ah, qué más da. Ya que estoy aquí, mejor disfruto del ambiente veraniego de la playa.
+0065 [Cosette] | Bien. Mi disfraz está funcionando. Este «traje de baño» es el camuflaje perfecto para mezclarme con la multitud.
+0066 [Cosette] | Ahora, de vuelta a seguir al Jefe.==W== Esta vez no fallaré.
+0067 [Tú] | Llevo todo el día preguntando y no saqué nada.
+0068 [Tú] | Como la luz aparece tan lejos en el mar, nadie la ha visto de cerca, y eso vuelve la investigación un verdadero reto.
+0069 [Tú] | Qué raro... Algunos lugareños se burlaron cuando mencioné el «Barco fantasma». Supongo que no se creen ese tipo de cuentos.
+0070 [Mistique] | ¡Jefe, gracias por tu ayuda de hoy! ¿Me echas un último vistazo a la playa, por favor?
+0071 [Mistique] | Ya se puso el sol. Si alguien anda al acecho, hará su movimiento ahora.
+0072 [Mistique] | ¡Grita si ves algo y llegaré volando en mi escoba! ★
+0073 [Tú] | Está bien, está bien. Iré a revisar otra vez.
+0074 [Tú] | En serio, ¿«al acecho»? ¿De verdad hay gente sospechosa por aquí?
+0075 [Tú] | ¿Eh? ¿Estaré viendo cosas? Esa luz... está titilando.
+0076 [Tú] | No, estoy seguro. Eso es...
+0077 [Narración] | Me acerco. Un solo punto de luz se mece sobre el mar, apareciendo y desapareciendo con el vaivén de las olas.
+0078 [Tú] | ...==W== Parece un farol.
+0079 [Tú] | «Farol»... ¿Por qué me suena tan familiar?
+0080 [Tú] | ¡¡Rayos!! ¡Me están arrastrando hacia el fondo...!
+0081 [Narración] | «Una docena de figuras permanece inmóvil sobre cubierta, empapadas y rígidas...»
+0082 [Narración] | «Los faroles en sus manos se mecían con una luz espantosa, como ojos de demonio,»
+0083 [Narración] | «atrayendo a marineros ingenuos, paso a paso, hacia un abismo del que no hay retorno.»
+0084 [Tú] | El farol... Ahora lo recuerdo...
+0085 [Tú] | Es del Barco fantasma...
+0086 [???] | ¿Qué acabas de decir?
+0087 [Tú] | ¡¡¡...!!!
+0088 [Tú] | ¡¿Quién eres?!==W== No, espera, ¡¿dónde estoy?!
+0089 [???] | Oye, no te asustes. Todo está bien~♪ Solo respira.
+0090 [Tú] | Ah, perdón. No quise gritar.
+0091 [???] | Hmph. No puedo creer que dejaran subir a alguien tan sospechoso. No tiene sentido...
+0092 [Tú] | Bien, definitivamente no soy santo de su devoción.
+0093 [Tú] | Lo único que recuerdo es que la ola me arrastró, y después nada.==W== ¿Qué es este lugar?
+0094 [???] | Jeje. Bienvenido a...
+0095 [???] | El. Barco. Fantasma.

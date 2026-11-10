@@ -1,0 +1,6 @@
+# Nova Times #04 · Sueños de matcha — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_04_01 | Sueños de matcha (Parte I)
+STsp_04_02 | Sueños de matcha (Parte II)
+STsp_04_03 | Sueños de matcha (Parte III)

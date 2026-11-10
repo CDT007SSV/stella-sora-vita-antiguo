@@ -1,0 +1,122 @@
+# Nova Times #15 · Síndrome de dependencia de la ternura · 2 · Cuteness Dependency Syndrome (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Vollara & Neuvira | Vollara y Neuvira
+N:avg1_132 | Minova
+N:avg1_149 | Gerie
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Síndrome de dependencia de la ternura (Parte II)
+0003 [Intro] | Para convertirse en la heroína más tierna y llamativa, ¡Minova elige «con firmeza» un atuendo de estilo «lindo pero venenoso»!
+0004 [Minova] | ¡Tsk! ¡Esta cosa es más dura de lo que parece!
+0005 [Neuvira] | Capi, nos quedamos sin bombas....
+0006 [Vollara] | ¡Rayos! Tss...==W== ¡Bajé la guardia...!
+0007 [Minova] | ¡Neuvira! Saca primero a Vollara de aquí. ¡Yo lo contengo!
+0008 [???] | Oh... Parece que se me escapó una presa grande.
+0009 [Minova] | ... ¿Eh?
+0010 [Gerie] | Jejeje♪ Perdón por robarles la presa.==W== Pero~ esta era mi presa desde el principio.
+0011 [Minova] | No...==W== De verdad nos ayudaste mucho.
+0012 [Gerie] | La pelirroja está herida, ¿verdad?==W== Toma, usa esto. Casualmente traje medicina curativa.
+0013 [Minova] | Muchísimas gracias.==W== Soy Minova, líder del Clan Viento de Ceniza.
+0014 [Gerie] | Un placer. Soy Gerie, de los Árbitros del Ocaso.
+0015 [Gerie] | Jeje, lo justo es justo. ¿Por qué no se presentan ustedes dos también?
+0016 [Vollara] | Y-yo… Soy Vollara.
+0017 [Neuvira] | Soy Neuvira...
+0018 [Minova] | ¡OYE! ¿Por qué están mirando para todos lados? ¡Así no se trata a quien acaba de salvarnos!==W== ¿No les he enseñado que cuando le agradecen a alguien, lo miran a los ojos?
+0019 [Vollara] | P-pero,==W== escuché que los Árbitros del Ocaso...
+0020 [Neuvira] | Corren todo tipo de rumores espeluznantes sobre ellos~
+0021 [Minova] | En serio,==W== asustarse tanto por unos cuantos rumores es medio ridículo.
+0022 [Gerie] | No pasa nada. Estoy acostumbrada a esa reacción.==W== Es natural ser cautelosa con alguien que acabas de conocer. Jeje.
+0023 [Gerie] | Por cierto...==W== ¿Por qué están en el Monolito a esta hora?==W== Últimamente las cosas no han estado precisamente tranquilas aquí adentro. No les recomendaría venir solo de paseo.
+0024 [Minova] | Bueno...==W== Es una historia larga. Todo empieza con...
+0025 [Gerie] | Así que vinieron a buscar un atuendo para un video promocional de la Guardia Imperial...==W== Jeje~ ¡Qué interesante!
+0026 [Neuvira] | Así es. No encontramos el atuendo que queríamos en ninguna tienda, así que vinimos a probar suerte aquí. Tal vez podíamos pedirlo como deseo.
+0027 [Gerie] | No es mala idea, pero pedir ropa como deseo es bastante difícil. Tienes que describir el estilo exacto que quieres en la plegaria...==W== Si solo tienes una idea vaga, es muy probable que no funcione.
+0028 [Gerie] | Aun así, tienen suerte~ En realidad sé un poquito sobre este estilo llamado tipo mina terrestre.
+0029 [Minova] | ¡¿Qué...?!
+0030 [Vollara] | ¿En serio?
+0031 [Gerie] | Claro. Como Árbitra, entro y salgo de todo tipo de Monolitos, así que he visto atuendos así varias veces~
+0032 [Minova] | No puede ser...==W== ¿De verdad existe ropa así? Nunca he visto nada parecido en la vida real...
+0033 [Gerie] | ¿Sorprendida?==W== Muchos diseños de moda de hoy en realidad se remontan a ropa que se encontró primero en Monolitos~
+0034 [Gerie] | Jeje. Quién sabe, quizá un video contigo con ese atuendo sea lo que haga despegar el estilo tipo mina terrestre.
+0035 [Neuvira] | ¿Estás diciendo que Capi está por convertirse en una «it girl» de la moda?
+0036 [Vollara] | ¡Claro que sí, esto tiene potencial! Capi, ¡vamos con ella y ampliemos nuestros horizontes!
+0037 [Minova] | Ustedes dos, cálmense. Nuestro objetivo original era encontrar un atuendo con «energía de heroína» que dejara contenta a la directora.==W== No tiene por qué ser tipo mina terrestre, ¿o sí?
+0038 [Gerie] | No, no, en realidad diría que van muy bien encaminadas.==W== ¿No dijiste que el papel que interpretas no es una heroína común?
+0039 [Gerie] | Una chica con una fragilidad oculta que despierta compasión y un peligro que hace que la gente se enamore de ella, mientras que por dentro tiene un fuego a punto de estallar...==W== Mmm, ese tipo de atuendo le quedaría perfecto.==W== Y si va acompañada de una compañera caballeresca clásica, se verá fantástico en cámara.
+0040 [Vollara] | ¡La era de la mina terrestre está por llegar!
+0041 [Neuvira] | Si hasta ella lo dice, debe ser cierto... Después de todo, ha visto muchísimas cosas dentro de los Monolitos~
+0042 [Gerie] | Por cierto, ya que es el destino que nos hayamos encontrado aquí, permítanme pedir un deseo en su nombre.
+0043 [Minova] | N-no, es demasiada molestia...
+0044 [Vollara & Neuvira] | ¡Aceptamos encantadas! ¡Muchas gracias!
+0045 [Minova] | Ay no...==W== ¡Tengo muy mal presentimiento de hacia dónde va esto...!
+0046 [Gerie] | Entonces primero busquemos una Caja de Deseos.==W== Vamos, ¡muévanse...!!!
+0047 [Minova] | ¡Oye! ¡Eso fue demasiado rápido!
+0048 [Gerie] | Excelente. Ahora que encontramos la Caja de Deseos, pidamos el deseo de inmediato...==W== Ejem.
+0049 [Gerie] | Oh, poderoso Dios de la Gracia, escucha nuestra plegaria… Concédeme...
+0050 [Narración] | Gerie sacó de la nada un cuaderno y, con voz lastimera, empezó a recitar una serie de líneas oscuras y difíciles de seguir.
+0051 [Gerie] | «Dime...==W== ¿Qué tengo que hacer para que me mires solo a mí y a nadie más?==W== Te amo tanto, ¿por qué no miras hacia mí?»
+0052 [Minova] | ¿Eh? Esa frase me suena muchísimo... Espera, ¡¿eso es...?!
+0053 [Gerie] | «Mis secretos son solo para tus ojos...==W== Un testimonio de mi amor.==W== Anda, ¿por qué no desciendes a la oscuridad a mi lado?»
+0054 [Vollara] | ¿Así se pide un deseo de verdad? Ni siquiera ha mencionado la ropa. Se siente un poco raro.
+0055 [Neuvira] | ¡Espera! ¡Miren! ¡La Caja de Deseos...!
+0056 [Gerie] | Vaya, qué bien se siente. Parece que di en el blanco a la primera.==W== Hace tiempo que no pedía un deseo, pero me alegra no haber perdido el toque.
+0057 [Minova] | No puede ser...==W== ¿E-es exactamente el mismo atuendo de la portada...?!==W== ¡¿Cómo?!
+0058 [Gerie] | Para transmitirle una imagen más concreta al Dios de la Gracia, recité líneas muy asociadas con esa ropa.
+0059 [Gerie] | Son de un libro que adoro absolutamente...==W== «Adiós, mi amiga de la infancia mina terrestre».==W== Una historieta shojo profundamente conmovedora...
+0060 [Minova] | ¡Ejem!==W== ¡Es un libro ilustrado para niñas! ¡Un libro ilustrado, ¿verdad?!
+0061 [Gerie] | ¿Un libro ilustrado?
+0062 [Minova] | ¡B-bueno, muchísimas gracias!==W== Nos salvaste hoy y además nos ayudaste a conseguir el atuendo. ¡No sé ni cómo pagártelo!
+0063 [Gerie] | De verdad no tienes que preocuparte por eso.==W== Aunque... si insistes, quizá podrías concederme un deseo a mí también.
+0064 [Minova] | ¿Un deseo? Supongo que es justo pagar un deseo con otro. No tengo objeción...==W== ¿Qué quieres que haga?
+0065 [Gerie] | Quiero verlas a todas con este atuendo. ¿Qué les parece?
+0066 [Minova] | ¡¿Queeeé?!==W== ¡No! ¡De ninguna manera!
+0067 [Gerie] | ¿Eh? ¿Pero no acabas de decir que no tenías objeción?==W== ¿O los miembros del poderoso Clan Viento de Ceniza no son muy dados a cumplir su palabra?
+0068 [Minova] | ¡Ugh! P-pero...==W== ¡¡Ngh...!!
+0069 [Vollara] | ¿De verdad está bien que usemos el probador de esta tienda?
+0070 [Gerie] | Claro~ El dueño de la tienda y yo nos conocemos de hace mucho. Ya lo hablé con él.
+0071 [Minova] | ¿Por qué siento que nos tendieron una trampa completa...?
+0072 [Gerie] | Bueno, bueno, no se fijen en los detalles. Vayan a cambiarse, todas.==W== Por aquí~ por acá~
+0073 [Neuvira] | Eh...==W== ¿No está este corsé un poco demasiado apretado...?
+0074 [Vollara] | Órale, esta blusa se ve increíble...==W== Pero ¿la falda no está medio corta...?
+0075 [Neuvira] | Espera, ¿eso es lo que se supone que significan estos accesorios...?==W== ¡Qué diseño tan atrevido!
+0076 [Vollara] | E-este atuendo es algo muy distinto...==W== ¿De verdad vamos a usarlo mientras filmamos?
+0077 [Gerie] | ¿Mm~?==W== ¿Por qué ya se volvieron a poner su ropa de antes?
+0078 [Neuvira] | Eh...==W== Como pensábamos, a Capi le queda mejor con esta ropa después de todo...==W== Así que le pedimos que ponga los ojos solo en ella.
+0079 [Vollara] | ¡Sí, exacto! Nosotras dos no podemos con esto, así que, señora, ¡por favor no gaste su atención en nosotras!
+0080 [Gerie] | En realidad pensé que a ustedes dos se les verían bastante lindas...==W== Pero bueno, ver sus reacciones ha sido suficientemente divertido por sí solo, así que lo dejaré pasar por ahora~
+0081 [Gerie] | Más importante, ¿dónde está nuestra protagonista? ¿Estará bien? Está totalmente callada desde que entró.
+0082 [Vollara] | Oye, Capi~ ¿Ya terminaste de cambiarte?
+0083 [Minova] | Ah, eh...==W== E-es que todavía no estoy mentalmente preparada...
+0084 [Gerie] | Jejejeje~==W== En ese caso, parece que necesitas un último empujoncito.
+0085 [Gerie] | Aquí~ Voy~♪
+0086 [Minova] | ¡Oye—?!==W== ¡¿Por qué abres la cortina?!==W== ¡¿Dije que todavía no estoy preparada?!
+0087 [Gerie] | No «mentalmente» preparada todavía.==W== Si no la hubiera abierto, creo que no habrías salido en esta vida.
+0088 [Gerie] | Dicho eso...==W== De verdad te ves a la altura. Muy linda♪
+0089 [Vollara] | ¡De verdad, Capi!==W== ¡¡¡Te ves muy bien con eso!!!
+0090 [Neuvira] | ¡Tiene ese toque genial, pero sigue siendo súper tierno!
+0091 [Minova] | Ugh...==W== ¿E-en serio?==W== ¿No me veo rara con algo así...?
+0092 [Gerie] | Claro que no. Ya eres una heroína tipo mina terrestre perfecta. Ten un poco de confianza en ti misma.
+0093 [Gerie] | Parece que este look te agrada bastante.==W== Hasta te tomaste el tiempo de peinarte para combinar.
+0094 [Minova] | E-eso es solo porque...==W== si me lo voy a poner, quería peinarme como se debe...==W== N-no, no es eso. ¡Simplemente creo que si haces algo, debes hacerlo a la perfección!
+0095 [Minova] | En realidad estaba intentando recrear el look de la heroína de «Adiós, mi amiga de la infancia mina terrestre»... ¡Jamás podré admitirlo!
+0096 [Minova] | Pero en el momento en que me puse este atuendo...==W== Por un instante sí sentí que me había convertido en la heroína de la historieta...
+0097 [Minova] | ¿Qué es esto...?==W== ¿Por qué me late tan rápido el corazón? ¿Es el poder de la mina terrestre?==W== Y a todas parece gustarles. Como vestuario, tal vez sí funcione...
+0098 [Gerie] | Oportunidades así no se dan seguido. Entonces, ¿por qué no te lo dejas puesto de regreso?
+0099 [Minova] | ¡N-no digas tonterías!==W== Ya vieron suficiente, ¿no? ¡Me voy a cambiar...!
+0100 [Gerie] | Aww~==W== Qué pena.==W== Quería seguir mirando un poco más.
+0101 [Minova] | Bien, el atuendo está decidido.==W== Ahora solo necesito mejorar mi actuación para dejar contenta a la directora.
+0102 [Vollara] | ¡Con un atuendo como este, será fácil!
+0103 [Neuvira] | ¡Esta vez definitivamente lo lograremos en una toma!
+0104 [Gerie] | Mmm...==W== ¿Será de verdad tan fácil?
+0105 [Minova] | ¿Q-qué? ¿Qué otro problema podría haber?
+0106 [Gerie] | Sigo sintiendo que, como heroína, a tu aura todavía le falta algo~==W== Mmm, todavía no te has soltado del todo de la vergüenza, ¿verdad?
+0107 [Minova] | Ugh...==W== ¡E-eso es pedir demasiado! ¡Fue la primera vez que me puse algo así...!
+0108 [Gerie] | Jejeje. Tienes suerte de haberme conocido. Llegaré hasta el final con esto. ¡Tomaré el toro por los cuernos y te convertiré en una heroína tipo mina terrestre per~==W==fecta!
+0109 [Gerie] | ¿Lista~?==W== Es hora de que experimentes mi régimen secreto de entrenamiento especial♪

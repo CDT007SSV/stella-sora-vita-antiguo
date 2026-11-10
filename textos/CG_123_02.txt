@@ -1,0 +1,106 @@
+# Historia de Ann · 2 · The Sleepless Little Guardian (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Bark Boar | Jabalí Corteza
+N:avg1_123 | Ann
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_110 | Coco
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La pequeña guardiana insomne (Parte II)
+0003 [Intro] | Manejo de trampas, molienda de medicinas, tratamiento de heridas, comunicación con animales... No te sorprendas: todas son materias obligatorias.
+0004 [Tú] | Eso es... un Jabalí Corteza. Y a juzgar por su tamaño y sus cicatrices, probablemente sea una bestia de clase Soberano.
+0005 [Ann] | ¿Clase Soberano...?
+0006 [Tú] | Es el poderoso monstruo que gobierna esta parte del bosque.
+0007 [Ann] | Eh... No entiendo bien...==W== O sea que es como el «jefe grande», ¿verdad?
+0008 [Tú] | Eres muy lista, Ann. Puedes verlo así, sí. En pocas palabras, es una criatura muy peligrosa. Deberíamos alejarnos.
+0009 [Tú] | Por ahora, retirémonos con cuidado a la aldea, avisemos a todos para que se preparen y luego contactemos a la Asociación para pedir ayuda.
+0010 [Ann] | No pasa nada, Jefecito. ¡No hace falta tanto lío! ¡Coco y yo podemos con esto solas!
+0011 [Ann] | Además, ¡es mi deber proteger el bosque y a todos los que viven en él!
+0012 [Tú] | Pero ni siquiera varios Trekkers de élite podrían con esa bestia.
+0013 [Tú] | Ya marcamos dónde apareció. Lo correcto ahora es retirarnos con cuidado,==W== y luego organizar una partida de caza como se debe...
+0014 [Tú] | Para asegurarnos de que nadie se meta por error, también habrá que poner letreros de advertencia por aquí...==W== Oye, ¿me estás escuchando siquiera, Ann?
+0015 [Tú] | ¡¿Ann...?! ¡Te dije que no!
+0016 [Ann] | Eh, disculpe...
+0017 [Bark Boar] | ¡GRRR!
+0018 [Coco] | ¡Auuu...
+0019 [Ann] | Está bien, Coco. Déjame hablar con él.
+0020 [Ann] | Eh, ¿señor Jabalí Grandote...?==W== Soy Ann, y no soy mala persona. Soy la capitana de la escuadra de exploradores del bosque.
+0021 [Ann] | «¿Un capitán es sabroso?»==W== ¡Claro que no! ¡Un capitán es igual que usted: el jefe de todos!
+0022 [Ann] | Creo que podría necesitar ayuda. ¿Puedo acercarme un poquito más?
+0023 [Bark Boar] | ¡Grrr...!
+0024 [Ann] | No se preocupe. No le voy a hacer daño. Déjeme ver dónde le duele, ¿sí?
+0025 [Bark Boar] | ¡GRRR... Grrr...
+0026 [Ann] | Mm, mm... Sí, eso es... Un momentito.
+0027 [Ann] | Mm... Ya veo... Justo como pensaba. Gracias, ya entendí.
+0028 [Tú] | ¡Ann! ¡¿Estás bien?!
+0029 [Bark Boar] | ¡GRRR!
+0030 [Ann] | No tenga miedo. El Jefecito es muy buen amigo mío. El Jefecito no le hará daño.
+0031 [Bark Boar] | ¡GRRR... Grrr... rrr...
+0032 [Ann] | Ya entendí todo. Está bien. Yo le ayudo.
+0033 [Tú] | Así que es verdad. Había oído que los Flufla pueden comunicarse con los monstruos... Pero es la primera vez que lo veo en persona.
+0034 [Tú] | Mientras no estés herida... ¿Puedes decirme qué te dijo el jabalí, Ann?
+0035 [Ann] | Mmm... Dijo muchas cosas. Jefecito, ¿qué parte quieres oír?
+0036 [Tú] | Ninguna. Solo me preocupaba que te hubiera dicho algo feo.
+0037 [Ann] | Cito: «¡Papa con patas! ¡Voy a azadonearte hasta enterrarte en la tierra!»
+0038 [Tú] | Vaya, qué palabras tan duras.
+0039 [Tú] | Pero hace un momento estaba tan agitado. ¿Por qué de repente está tan tranquilo?
+0040 [Ann] | Porque me escuchó y ahora sabe que tú y yo no somos malosos.
+0041 [Ann] | Le dije que no queremos hacerle daño. Además, el señor Jabalí Grandote no vino al bosque a causar problemas.
+0042 [Tú] | Ya veo... Entonces, ¿por qué vino a este bosque en primer lugar?
+0043 [Ann] | ... Es que...
+0044 [Bark Boar] | ==W==¡Grrrrr...
+0045 [Ann] | ¿Todavía le duele...? Lo siento. ¡Voy a curarlo enseguida!
+0046 [Ann] | Jefecito, vamos primero a mi base secreta. El señor Jabalí Grandote está herido y necesito unas cosas para curarlo.
+0047 [Narración] | Siguiendo a Ann, llegamos a una vieja cabaña abandonada junto al camino por el que vinimos.
+0048 [Tú] | ¿Así que esta es tu base secreta? Pensé que era solo una casa vieja abandonada.
+0049 [Ann] | Aquí vivía el tío Mike.
+0050 [Ann] | Después de que nos dejó la casa, todos juntamos herramientas y construimos juntos un escondite secreto.
+0051 [Tú] | Ah, ya veo. Entonces es un lugar lleno de recuerdos.
+0052 [Tú] | Sí, se nota que gran parte de esto está hecho a mano.
+0053 [Tú] | Espera... ¿Qué es esto?
+0054 [Tú] | ¿No es esto demasiado intenso para niños?
+0055 [Ann] | Ven a ayudarme, Jefecito...
+0056 [Ann] | Ayu—==W== da— ==W== ¡Ugh! ¡No alcanzo!
+0057 [Tú] | No te muevas, no te muevas. ¿Este frasco de vidrio, verdad? Yo lo bajo. Es peligroso, ¿sabes? No intentes hacerlo sola.
+0058 [Ann] | Normalmente hago todo yo sola. Es que hoy no encontraba la escalera, nada más.
+0059 [Ann] | Mmm… ¡Quiero crecer rápido!
+0060 [Tú] | ...==W== Cuando de verdad crezcas, ya no pensarás eso.
+0061 [Tú] | ¿Y qué hay dentro de este frasco? ¿Hierbas?
+0062 [Ann] | ¡Sí! Subo a la montaña cada semana a juntar algunas y las guardo, por si pasa algo así.
+0063 [Narración] | Mientras habla, Ann toma un mortero, un mazo y un banquito. Se sube al banquito y empieza a moler las hierbas. Se ve tan experta que uno no puede evitar preguntarse cuántas veces lo habrá hecho antes.
+0064 [Ann] | El frasquito gira y gira, tres a la izquierda, tres a la derecha～ La caléndula salta de alegría, la angélica ríe entre polvos de luz～
+0065 [Ann] | El morterito suena din-don; en primavera molemos nubes, en otoño escarcha～ La menta tiene un aliento fresco, la madreselva una brisa que calma～
+0066 [Ann] | ¡Hop...==W== ¡Allá vamos! Solo frótelo en la herida y sanará en un abrir y cerrar de ojos.
+0067 [Ann] | Jefecito, vamos rápido a llevarle la medicina～
+0068 [Ann] | ¡Gracias por esperar, señor Jabalí Grandote! Esto podría arder un poquito. Quédese quieto, ¿sí?
+0069 [Bark Boar] | ¡¡GRRR!!
+0070 [Ann] | ¡Le dije que se quedara quieto! ¡Solo me queda esta cantidad de medicina, y si no alcanza, le va a seguir doliendo!
+0071 [Bark Boar] | ¡GRRR... Grrr... rrr...
+0072 [Ann] | Así está mejor. Aguante, se sentirá mejor en nada～
+0073 [Tú] | Qué escena... Una bestia enorme que ni los Trekkers de élite pudieron manejar, domada por una niña pequeña...
+0074 [Ann] | ¡Listo! Ya puede levantarse y caminar, pero no se esfuerce, ¿sí?
+0075 [Bark Boar] | ¡Grrr! ¡Grrr!
+0076 [Ann] | No hay que agradecer. Solo hago lo que me toca.
+0077 [Bark Boar] | Grrr...
+0078 [Ann] | ¡Mm! Su herida ya está atendida, ¡así que ya es hora de despedirnos!
+0079 [Ann] | Ya que somos amigos, asegúrese de venir seguido de ahora en adelante.
+0080 [Ann] | Pero...
+0081 [Tú] | ¿Por qué de repente te escondes detrás de mí, Ann? Así no se dice adiós.
+0082 [Ann] | ¡N-no hay razón! ¡No espíes, Jefecito! Y...==W== señor Jabalí Grandote, cuídese mucho también, ¿sí...?
+0083 [Bark Boar] | ¡Gr... Grrr...!
+0084 [Tú] | Espera un momento, ¿va en dirección equivocada? Esa dirección lleva más adentro del bosque.
+0085 [Ann] | ... Sí, pero está bien.
+0086 [Tú] | ¿En serio?
+0087 [Ann] | Cuando me despedía del señor Jabalí Grandote, sentí que quería decirme algo. ==W== Seguro sabía que su hora está por llegar... Por eso vino aquí.
+0088 [Ann] | Antes había algunos animalitos en el bosque que jugaban conmigo, pero a veces, sin decir nada, simplemente dejaban de venir... En ese entonces nunca entendí por qué.
+0089 [Ann] | Con el tiempo la gente de Eaze me dijo: «Se fueron para siempre».
+0090 [Tú] | «Se fueron para siempre»...
+0091 [Ann] | Y-yo... recuerdo haber oído a los adultos de la aldea decirlo antes, pero nunca entendí realmente qué significaban esas palabras.
+0092 [Ann] | He pensado y pensado en ello, pero sigo sin entender.
+0093 [Ann] | Entonces, Jefecito, ¿puedes decírmelo?
+0094 [Narración] | ¿Qué significa «irse para siempre»?

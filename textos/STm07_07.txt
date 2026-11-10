@@ -1,0 +1,142 @@
+# Capítulo 7 · El precio de la estrella · 7 · Espadas reunidas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Salesperson No. 18 | Vendedor n.º 18
+N:Salesperson No. 19 | Vendedor n.º 19
+N:Salesperson No. 20 | Vendedor n.º 20
+N:Salesperson No. 21 | Vendedor n.º 21
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_135 | Mistique
+N:avg1_144 | Chitose
+N:avg1_1996 | Noya
+N:avg3_100 | Sylar
+N:avg3_1237 | Pandillera genial
+N:avg3_1238 | Chica de la pandilla
+N:avg3_1242 | Chitose
+N:avg3_152 | Bastelina
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Espadas reunidas
+0003 [Intro] | Chitose y tú se reencuentran. Ella te cuenta cómo le ha ido en la vida y en su entrenamiento. Antes de que partas a pedir el deseo, Chitose desbarata como si nada un complot de Omnisky Aegis sin despeinarse...
+0004 [Lugar y hora] | 08:35, 14.º del mes de Venatio, Distrito de Plata de Philae, camino junto al río
+0005 [Chitose] | ¿E-eres...?==W== ¿De verdad eres tú, mi ==SEX11==?
+0006 [Tú] | Soy yo.==W== Cuánto tiempo, Chitose.==W== ¿Cómo te fue en tu entrenamiento?
+0007 [Chitose] | S-sí, ha pasado mucho.==W== Y gracias a ti, mi entrenamiento fue todo un éxito.==W== Por favor, permíteme demostrártelo...
+0008 [Chitose] | ¡Ja!==W==
+0009 [Narración] | Un destello cegador. Antes de darme cuenta siquiera de que desenvainó, la hoja ya está de vuelta en la vaina.
+0010 [Chitose] | Por favor, mira hacia allá.
+0011 [Narración] | Sigo su mirada y veo una fina grieta que atraviesa de lado a lado una enorme roca en medio del río.
+0012 [Narración] | Partida en dos, la roca ya no divide la corriente. Los pétalos caídos de glicina simplemente se deslizan por el hueco y flotan juntos río abajo.
+0013 [Tú] | No me digas que... ¿partiste esa roca?==W== Pero está por lo menos a diez metros.==W== ¿Cómo?
+0014 [Chitose] | Una hoja forjada con magia. El Estilo sin Espada.
+0015 [Chitose] | Cuando nos conocimos,==W== solo podía controlar mi aura desbordante tomándote de la mano o estando a tu lado.==W== En ese momento supe que eras quien estaba destinado a empuñarme.
+0016 [Chitose] | Al principio, cuando me separé de ti para entrenar,==W== me costaba mucho mantener este poder bajo control...
+0017 [Chitose] | Solo imaginándote mientras practicaba con «Maestra» logré por fin hacer mía esta fuerza.
+0018 [Tú] | O sea que usaste el movimiento de desenvainar para proyectar una hoja mágica y cortar esa roca a distancia.
+0019 [Chitose] | Exacto.==W== Mi alcance ya no está limitado por la longitud del acero de «Maestra».
+0020 [Chitose] | Allá en el Canal... Si hubiera dominado el Estilo sin Espada,==W== jamás habría dejado que esa Nocturn Eterna se escabullera entre las sombras.
+0021 [Tú] | E-eso es...==W== increíble.==W== Ya eras muy hábil. Solo sobrevivimos a la pelea contra Aeloria gracias a ti...==W== Nunca imaginé que tus habilidades se volverían todavía más afiladas.
+0022 [Chitose] | Me halagas.==W== Soy tu espada. Abatir tus problemas y mantenerte a salvo es mi único propósito.
+0023 [Chitose] | Aun así...==W== no pude protegerte en el banquete.
+0024 [Chitose] | Por muy afilada que me vuelva, una espada que no está cuando más la necesita quien la empuña no es más que una deshonra.
+0025 [Chitose] | Mi ==SEX11==, a partir de este momento,==W== por favor, permíteme permanecer a tu lado. No volveré a dejarte.
+0026 [Firenze] | Necesitas un as bajo la manga en las sombras: alguien que esté fuera del radar de las otras empresas.
+0027 [Tú] | Chitose sería de gran ayuda,==W== pero...
+0028 [Tú] | La verdad es que ahora mismo a Boss Accord le falta personal. Estamos en un pequeño aprieto.==W== Pero ¿no sigues en medio de tu entrenamiento?
+0029 [Chitose] | Así es.==W== Pero vine a Philae por una sola razón: ofrecerte mi ayuda.
+0030 [Chitose] | Hace poco me crucé con una bruja. Parecía saber mucho de mí e insistió en hacerme una entrevista.
+0031 [Chitose] | A cambio, me advirtió que estabas en problemas aquí en Philae. Me separé de la doctora Coronis de inmediato y vine a toda prisa.
+0032 [Tú] | ¿Una bruja?==W== No te referirás==W==...
+0033 [Chitose] | Nunca dijo su nombre.==W== Solo presumía de tener «derechos exclusivos de entrevista con el Jefe».==W== Supuse que era una vieja amiga tuya.
+0034 [Tú] | ¿Dónde está ahora?
+0035 [Chitose] | Mencionó que tenía unos pendientes y se fue volando a toda prisa hacia Nueva Orelia.
+0036 [Tú] | Claro que era ella...==W== Seguro se separó del grupo de Nazuka de camino a Nueva Orelia y se topó con Chitose.==W== Ese «problema» que mencionó tiene que ser todo el lío con Darcia.
+0037 [Chitose] | Cuando llegué a Philae, no tenía forma de contactarte. Después de todo, una espada no necesita teléfono.==W== Mi única opción era rezarle al Guardián de Goodwind bajo las glicinas.
+0038 [Chitose] | Por lo tanto, mi ==SEX11==, si hay alguna forma en que esta espada pueda servirte,==W== da la orden. No te contengas.
+0039 [Tú] | Se lo toma tan en serio. Rechazarla ahora sería un insulto.
+0040 [Tú] | Entendido. Lo siguiente es entrar al Monolito de Philae.==W== Sería un honor contar con tu fuerza a mi lado, Chitose.
+0041 [Chitose] | ¡Sí, mi ==SEX11==!==W== Estoy a tus órdenes.
+0042 [Lugar y hora] | 09:30, 14.º del mes de Venatio, Distrito de Plata de Philae, habitación del hotel
+0043 [Narración] | Después de presentarles a Chitose a Firenze y Nyx, volvimos al hotel a prepararnos para el Monolito. Pero...
+0044 [Noya] | ¡Chitose! ¡Chitose!==W== ¡Déjame ver otra vez ese desenvaine rápido!==W== ¡Intenta partir ese Ruiseñor Leonado del otro lado del cuarto!
+0045 [Chitose] | ¿Tengo tu permiso, mi ==SEX11==?
+0046 [Tú] | Supongo que sí... Solo no te excedas, ¿okey?
+0047 [Chitose] | Entendido.==W== ¡¡Hiyah!!==W==
+0048 [Noya] | ¡Guau, increíble!==W== ¡Partiste a la mitad ese Ruiseñor Leonado duro como piedra!
+0049 [Iris] | De verdad,==W== Noya.==W== ¡Deja de jugar con la comida!
+0050 [Amber] | Tu ropa. Muy bonita. ¿Puedo tocar?
+0051 [Chitose] | Adelante.==W== Para que conste, de donde vengo esto se conoce como «atuendo de miko».==W== Es una vestimenta sagrada que usan las sacerdotisas en los rituales.
+0052 [Amber] | Qué suave.==W== Se siente==W== rico.
+0053 [Tú] | No me molesta el descanso, pero...==W== ¿de verdad deberíamos estar tan relajados?
+0054 [Noya] | ¿De qué hablas, Jefe?==W== ¡Chitose va a ser nuestra guardia en las sombras! Es natural que la conozcamos mejor.
+0055 [Tú] | Tienes razón.==W== Aun así, Chitose acaba de llegar de un largo viaje.==W== No deberíamos presionarla.
+0056 [Chitose] | No es ninguna carga.==W== De hecho, este momento tranquilo es perfecto para ganarme la confianza de tus compañeras.
+0057 [Tú] | C-claro.==W== Si tú lo dices, Chitose...
+0058 [Chitose] | De hecho, sí tengo una pregunta para ti, mi ==SEX11==.
+0059 [Tú] | ¿Ah, sí? Adelante.
+0060 [Chitose] | Bueno...==W== ¿Qué opinas==W== de mi nueva vaina?
+0061 [Opción] | Es una decisión difícil...
+0062 [Opción] | Te ves bien con cualquier vaina.
+0063 [Opción] | ¡Quiero ver más vainas!
+0064 [Tú] | Este atuendo blanco de miko es lindo.
+0065 [Tú] | Pero...==W== tu elegante uniforme negro también se veía genial. Es difícil elegir.
+0066 [Chitose] | Entendido. Como a mi ==SEX11== le gustan ambas vainas, las alternaré a partir de mañana.
+0067 [Tú] | Ah, no te tomes tantas molestias.==W== Usa lo que sea más práctico.
+0068 [Tú] | Además,==W== puedo cerrar los ojos==W== e imaginarte con cualquiera de las dos vainas.
+0069 [Chitose] | Mi ==SEX11==...==W== Tu profundo aprecio por mis vainas me conmueve.
+0070 [Tú] | Tanto el uniforme negro como este atuendo de miko==W== te quedan perfectos.
+0071 [Tú] | Es totalmente tu decisión.==W== Tu vaina favorita es mi favorita.
+0072 [Chitose] | Entendido, mi ==SEX11==.==W== Por ahora me quedaré con esta vaina.
+0073 [Noya] | Vaya.==W== Chitose le dice «vainas» a su ropa.
+0074 [Noya] | Oh, no,==W== ¡¿eso significa que mi vaina y la de Amber están llenas de agujeros?!==W== ¡Iris, eres la única con la vaina intacta!
+0075 [Iris] | ¿Por qué tenías que decirlo de una forma tan sucia==W==...?
+0076 [Tú] | Mmm==W==...==W==
+0077 [Chitose] | Si quieres que vuelva a mi vaina negra, me cambio de inmediato.
+0078 [Tú] | No, no es eso.==W== Dos simplemente no son suficientes.==W== ¡Necesitas muchísimas más vainas!==W==
+0079 [Tú] | ¡Como una vaina de traje de baño!
+0080 [Chitose] | Ya veo.==W== Una necesidad para el combate bajo el agua.
+0081 [Tú] | O una vaina de pants deportivos...
+0082 [Iris] | Eh... ¡Jefe!==W== Tenemos asuntos de verdad que discutir.==W== Chitose, el Jefe está bromeando.==W== Ignora a ==SEX4==.
+0083 [Chitose] | ¿Bromeando?
+0084 [Tú] | P-perdón.==W== Era broma, te lo juro.==W== El atuendo de miko es perfecto.
+0085 [Bastelina] | Convivir en equipo está muy bien...==W== Pero ¿no fue alguien quien acaba de preguntar==W== «¿de verdad deberíamos estar tan relajados?»?
+0086 [Tú] | Solo estaba cuidando a mi equipo.==W== Espera,==W== ¿Bastelina? ¿Qué haces aquí?
+0087 [Bastelina] | Ya salí del trabajo. Iba de regreso a descansar y los vi a todos.
+0088 [Bastelina] | Por cierto,==W== Jefe, estoy justo en el cuarto de al lado. La habitación 406.
+0089 [Tú] | 406... ¿No era la de Otoha...?
+0090 [Bastelina] | Sip. El precio se desplomó después de todo aquel incidente. Fue una auténtica ganga.
+0091 [Bastelina] | En fin, ya me voy a mi cuarto.==W== Suerte con sus deseos. Los estaré animando desde la banca.
+0092 [Tú] | Gracias. Nos hará falta.
+0093 [Chitose] | Yo también me retiro.==W== Voy a vigilar el vestíbulo disfrazada de miko de santuario, contratada por Cosecha Unida Philae para rezar por cielos despejados.
+0094 [Tú] | No te preocupes por nosotros. Concéntrate en tu misión. Tienes luz verde para ejecutar el plan.
+0095 [Noya] | Amber y yo prepararemos a Loxy. Jefe, tú e Iris encárguense del equipo de escalada.==W== Puede que estemos en el Monolito varios días.
+0096 [Tú] | Entendido. Salimos a las once en punto.
+0097 [Lugar y hora] | 10:30, 14.º del mes de Venatio, Distrito de Plata de Philae, vestíbulo del hotel
+0098 [Chitose] | Las 10:30. Hay tiempo.==W== Debería inspeccionar la zona mientras pueda.
+0099 [Chitose] | El perímetro está tranquilo.==W== No hay individuos sospechosos en la calle.==W== Todo lo contrario a la noche del intento de asesinato.==W==
+0100 [Chitose] | ¿Mmm? ¿Quiénes son ellos?==W== ¿Qué están haciendo?
+0101 [Salesperson No. 20] | ¡Disculpe, señorita! ¿Ha oído hablar de Omnisky Aegis? Protegemos sus bienes contra pérdidas imprevistas...
+0102 [Chitose] | Agentes de seguros.==W== Un negocio en el que uno compra una póliza para recibir una compensación por daños.==W== Desde luego enviaron a muchos.
+0103 [Salesperson No. 21] | Señorita, qué arma tan preciosa. ¿Qué tal una póliza para ella?==W== ¡Si alguna vez necesita pulido o reforja, Omnisky Aegis cubre la cuenta!
+0104 [Chitose] | ¿Una póliza para un arma? Innecesaria.==W== Esta hoja es mi Maestra. En todo caso, debería contratar un seguro de vida.==W==
+0105 [Salesperson No. 19] | ¡Oigan!==W== Ya agotamos el vestíbulo. Vamos a los pisos de arriba.
+0106 [Salesperson No. 18] | ¡No se vayan por su cuenta!==W==
+0107 [Chitose] | Sus chaquetas tienen bultos. Probablemente armas. ¿Por qué unos vendedores irían armados?==W== A menos que... ¡sean asesinos disfrazados!==W==
+0108 [Chitose] | Si es así,==W== para expiar mi ausencia en el banquete,==W== ¡hoy debo proteger a mi ==SEX11==!
+0109 [Salesperson No. 21] | Oiga, señorita, ¿por qué desenvaina la espada?==W== Si quiere la póliza, venga por acá, ¡no hace falta revisarla en público!
+0110 [Chitose] | Su verdadero objetivo es el director ejecutivo de Boss Accord,==W== ¿no es así?
+0111 [Salesperson No. 20] | ¡¿Qué?! ¿Cómo supiste...?==W== ¡Nos descubrieron! ¡Acaben con ella!
+0112 [Salesperson No. 20] | ¡Oigan, vengan acá!==W== Está sola.==W== ¡Ataquen!
+0113 [Lugar y hora] | 10:35, 14.º del mes de Venatio, Distrito de Plata de Philae, habitación del hotel
+0114 [1] | ¿Mmm? ¿Serena me está llamando? ¿Qué querrá?
+0115 [1] | ¿Bueno?==W== Habla ==PLAYER_NAME==.
+0116 [Serena] | Disculpa la intromisión, Jefe.==W== Pero tengo información crucial para ti. Jeje.==W== ¿La quieres? Hasta te hago descuento.

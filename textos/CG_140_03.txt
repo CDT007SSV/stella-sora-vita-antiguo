@@ -1,0 +1,111 @@
+# Historia de Sparkla · 3 · Sparkla's Troubles (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_140 | Sparkla
+N:avg3_100 | Sylar
+N:avg3_221 | Rabbit Pie
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Los problemas de Sparkla (Parte III)
+0003 [Intro] | Jefe, ¿qué funciones quieres añadirle al Pastel del Tirano? Puedo hacer realidad lo que sea, ¿sabes?~
+0004 [Tú] | Apenas Sparkla volvió del teatro, se encerró otra vez en el taller...
+0005 [Tú] | Aun así, mientras haya recuperado la inspiración, eso es lo que importa.
+0006 [Narración] | Dos horas después...
+0007 [Tú] | Sparkla, preparé la cena. Aquí tienes.
+0008 [Sparkla] | Espera, ya casi termino...==W== Ah, olvídalo. Debería comer ya.==W== Por cierto, ==PLAYER_NAME==, ¿quieres comer conmigo?
+0009 [Tú] | ¿Se puede?
+0010 [Sparkla] | Claro. Aquí en el taller no tengo ninguna «regla de no comer ni beber».
+0011 [Tú] | Entonces voy por mi comida también. Dame un segundo.
+0012 [Tú] | Perdón por la espera. Ya llegué.==W== Aunque... ¿Será que hay todavía más cosas aquí?
+0013 [Sparkla] | Es porque, después de tu última visita, he estado inventando toda clase de cosas~♪
+0014 [Tú] | Por eso eres la inventora maestra. ¿Puedo ver qué hay dentro de estas cajas?
+0015 [Sparkla] | Adelante. No seas tímido ♪
+0016 [Sparkla] | La caja más cercana a ti tiene un dispositivo de alteración de voz. ¡Me inspiré en ese cuento donde el lobo feroz se disfraza de abuelita!
+0017 [Tú] | Mmm... ¿O sea que con esto puedo cambiar mi voz?
+0018 [Sparkla] | Así es. Solo gira la perilla y podrás hacer tu voz tan grave o tan aguda como quieras.
+0019 [Sparkla] | Y si la giras todo hacia la derecha, se convierte en un maullido de gato. Todo hacia la izquierda, y se vuelve un ladrido de perro.
+0020 [Tú] | Eso suena bastante divertido. Déjame probarlo.==W== Primero la giro a la derecha...
+0021 [Tú] | Miau~
+0022 [Tú] | ¡Guau!
+0023 [Tú] | ¡Jajaja! ¡Vaya, esto es muy divertido!
+0024 [Sparkla] | ¿Verdad?==W== Pero el cliente dijo: «¿Quién necesita una función que convierta la voz en ruidos de animales?». Y luego lo devolvió.
+0025 [Sparkla] | Así que en cuanto entregué el pedido, lo bloqueé. Y me quedo esto para mí.
+0026 [Tú] | ¿Los demás también son así?
+0027 [Sparkla] | Todos estos son inventos que fueron devueltos por el diseño o por las funciones extra que no reconocieron.
+0028 [Sparkla] | Pero, ya sabes, como los devolvieron, quizá encuentren a alguien que aprecie lo que los hace especiales.
+0029 [Tú] | Jeje, qué cierto es.
+0030 [Sparkla] | ¡Además! El invento de esa caja se inspiró en La aventura subterránea de Alicia...
+0031 [Sparkla] | Ah...
+0032 [Tú] | Jaja, quizá deberíamos comer primero. Más tarde podemos ver el resto de los inventos.
+0033 [Tú] | ...==W== La comida terminó. Pero parece que no saldré del taller pronto.
+0034 [Tú] | Sí dijo que no puede avanzar si no está mirando mi cara mientras trabaja...==W== Bueno, da igual. A estas alturas, ya me acostumbré a que me miren fijamente.
+0035 [Tú] | Quedarme aquí sin hacer nada se siente un poco tonto. Quizá le eche un vistazo al diseño del Pastel del Tirano.
+0036 [Tú] | No está mal, no está mal. Sí se ve bastante tierno...==W== Mmm...
+0037 [Tú] | Pero...==W== ¿no es algo pequeño? Es apenas la mitad del tamaño del sombrero de Rabbit Pie.
+0038 [Sparkla] | Puede que sea pequeño, pero planeo hacerlo el autómata más fuerte que he construido. Lo que intento ahora es ver qué tan diminuto puedo hacerlo sin recortar ninguna función esencial.
+0039 [Sparkla] | Con el tiempo quiero hacerlo aún más pequeño...==W== Idealmente, tan pequeño que quepa en el bolsillo de un abrigo.
+0040 [Sparkla] | Diminuto y portátil, para que lo lleves contigo todo el tiempo y te acurruques con él cuando quieras. Jijiji~
+0041 [Tú] | Entonces sería bueno que también tuviera funciones de enfriamiento y calentamiento.
+0042 [Tú] | Podrías ajustar su temperatura según lo necesites: ¡calentarte las manos cuando haga frío, refrescarte cuando haga calor!
+0043 [Sparkla] | ¡Guau! ¡Qué idea tan genial!
+0044 [Sparkla] | Pero si hago eso, también tendría que añadir un interruptor de control de temperatura. Lo que significa piezas nuevas...
+0045 [Tú] | Parece que volvió a concentrarse. Mejor no interrumpir. Me quedaré aquí leyendo hasta que termine.
+0046 [Narración] | Tres horas después...
+0047 [Sparkla] | ==PLAYER_NAME==, si tienes sueño, puedes irte a la cama.
+0048 [Tú] | Mm... No puedo hacer eso. Quien trabaja como ==SEX19== no puede irse a la cama antes que su empleadora.
+0049 [Sparkla] | Vaya, vaya. Qué dedicación la de mi ==SEX19==~
+0050 [Sparkla] | Ese libro que tienes en las manos es La princesa burbuja, ¿verdad? ¿Elegiste ese? De verdad tienes buen gusto♪ Oh, ¿quieres que te lo lea?
+0051 [Tú] | No, está bien. Deberías estar trabajando en tus inventos, Sparkla.
+0052 [Sparkla] | Entonces tú ve a dormir. Solo asegúrate de despertarme temprano mañana.
+0053 [Tú] | Está bien, entonces. Buenas noches, Sparkla.
+0054 [Sparkla] | Sí, buenas noches, ==PLAYER_NAME==.
+0055 [Tú] | Jadeo... Jadeo...
+0056 [Tú] | Eh... ¿Q-qué pasa?
+0057 [Tú] | Ese ruido de hace rato... Vino del taller, ¿verdad?
+0058 [Tú] | ¡Sparkla! ¿¡Qué pasó!?
+0059 [Sparkla] | N-==W==no es nada~==W== Solo quería cambiar de posición para pensar un rato...==W== Sí,==W== ¡estoy bien!
+0060 [Opción] | Ah, ya veo. ¿Te ayudo a levantarte primero?
+0061 [Sparkla] | Vale, vale...==W== ¡Ah, espera!==W== ¡Primero levanta mi cuaderno!==W== Todas mis ideas del Pastel del Tirano están ahí.==W== ¡No puedo dejar que se moje!
+0062 [Opción] | Dar la vuelta al cuaderno
+0063 [Opción] | Se ve bien.
+0064 [Sparkla] | Uf...==W== Qué bueno.==W== ¡Ah, cierto!==W== Ya que estás aquí,==W== ¿por qué no eliges la función que más quieres?
+0065 [Opción] | Entonces... ¿La función de tocar el triángulo?
+0066 [Opción] | Así podrá tocarte canciones de cuna antes de dormir.
+0067 [Sparkla] | ¿Tocarme canciones de cuna?==W== Con la música del Pastel del Tirano,==W== seguro tendría dulces sueños todas las noches...
+0068 [Opción] | ¡Quizá también obtendría mucha inspiración de eso!
+0069 [Sparkla] | Si pudiera mejorar un poco más la velocidad de respuesta y la precisión de control del Pastel del Tirano…==W== ¡Mmm, qué bien se siente!==W== Jeje~==W== Cuando estoy contigo,==W== la inspiración no deja de fluir…
+0070 [Sparkla] | Eh... ¿Eh?==W== Tengo la cabeza toda borrosa...
+0071 [Opción] | Porque acabas de caerte y te quedaste demasiado tiempo en esa posición.
+0072 [Sparkla] | Jejeje...==W== Las estrellas dan vueltas~==W== Qué lindas...==W== Ahora hasta quiero darle al Pastel del Tirano==W== una función para atrapar estrellas también~
+0073 [Opción] | ¡Sparkla! ¡Reacciona!
+0074 [Sparkla] | ¡Ah—==W==qué cerca!==W== Ahora que lo pienso,==W== empiezo a sentirme un poco mal...==W== ¿Por favor, me ayudas a levantarme?
+0075 [Sparkla] | Uf... Gracias, ==PLAYER_NAME==. Ya me siento mucho mejor.
+0076 [Sparkla] | Probablemente estabas durmiendo bien y te desperté, ¿verdad? Perdón.
+0077 [Tú] | No pasa nada. Cuidarte es parte del trabajo.
+0078 [Tú] | Y de ahora en adelante, quizá deberías elegir una posición más segura cuando intentes pensar.
+0079 [Sparkla] | S-sí~ Tienes razón...
+0080 [Narración] | ¡Riiing! ¡Riiing!
+0081 [Tú] | Mmm... ¿Eh...?
+0082 [Narración] | ¡Riiing! ¡Riiing! ¡Riiing! ¡Riiing! ¡Riiing! ¡Riiing!
+0083 [Tú] | ¡Ya desperté, ya desperté, ya desperté! ¡Ya me levanto, pero no me golpees!
+0084 [Tú] | Uf. A mí no me vuelves a atrapar.==W== Muy bien, es hora de que quien hace de ==SEX19== se ponga a trabajar.
+0085 [Tú] | Huele rico...
+0086 [Rabbit Pie] | :] Pan. Huele rico.
+0087 [Tú] | ¡Oh, hola, Rabbit Pie! ¡Buenos días!
+0088 [Rabbit Pie] | :P Buen día. Tostadas listas.
+0089 [Tú] | ¡Guau! ¿Tú hiciste estas tostadas? El dorado es absolutamente perfecto...==W== Mucho mejor que el mío.
+0090 [Rabbit Pie] | :) Yupiiiii—
+0091 [Sparkla] | Jaaah~...==W== Buenos días, ==PLAYER_NAME==.
+0092 [Tú] | Hola, Sparkla. ¿Tú también te levantaste? Parece que el mantenimiento de Rabbit Pie ya terminó.
+0093 [Rabbit Pie] | :D Sí. Gracias a ti.
+0094 [Sparkla] | En realidad, todavía quiero que su módulo de voz sea un poco más fluido~
+0095 [Rabbit Pie] | :3 Necesito. Mejora.
+0096 [Sparkla] | Vale, vale. Lo pensaré. Dame algo de tiempo.
+0097 [Tú] | Ahora que Rabbit Pie volvió al trabajo, supongo que ya es hora de que me retire. Espero haber hecho un trabajo satisfactorio.
+0098 [Sparkla] | Eres muy humilde. Solo haber podido admirar tu cara de cerca ya valió la pena para mí~♪
+0099 [Sparkla] | Eh...==W== Entonces...==W== Como cierre==W== de esta comisión, ¿podría pedirte un último favor?
+0100 [Tú] | ...==W== Bueno, está bien.
+0101 [Narración] | Y así, Sparkla termina felizmente su desayuno mientras mira fijamente mi cara.

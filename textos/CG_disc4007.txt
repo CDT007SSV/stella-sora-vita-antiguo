@@ -1,0 +1,108 @@
+# Recuerdo de disco · Midnight Mayhem · 1 · Midnight Mayhem
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Tycoon | Magnate arrogante
+N:Brash Knight | Caballero impetuoso
+N:Knight Captain | Capitán de los caballeros
+N:Vollara & Neuvira | Vollara & Neuvira
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_1222 | Guardia
+N:avg3_1223 | Guardia
+N:avg3_1239 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_157 | Guardia Imperial
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Caos de medianoche
+0003 [Intro] | Con todo ya calmado, ¿cómo enfrentará el Clan Viento de Ceniza los nuevos desafíos que vienen?
+0004 [Vollara] | Uf...==W== ¡gracias a ti, Jefe, por fin nos libramos de Creta Trading!
+0005 [Neuvira] | Si no fuera por ti, seguramente aún estaríamos atrapadas en esa pesadilla~
+0006 [Tú] | ¿Eh? ¿Me sacaron a rastras en plena noche solo para volver a darme las gracias?
+0007 [Minova] | ¡Claro que sí! ¡Eres el gran benefactor del Clan Viento de Ceniza! Por más veces que te agradezcamos, nunca será suficiente.
+0008 [Tú] | Algo no me cuadra... No me digan que quieren pedirme un favor.
+0009 [Vollara & Neuvira] | Eeehh...
+0010 [Minova] | Nada se te escapa, Jefe. Nos descubriste.
+0011 [Tú] | Solo díganlo. Haré lo que pueda para ayudar.
+0012 [Minova] | No es algo súper importante, no.
+0013 [Minova] | Como sabes, el Clan Viento de Ceniza se formó para proteger el orfanato, para mantener a raya a Creta Trading y otras pandillas.
+0014 [Minova] | Ahora que todos nuestros enemigos han sido derrotados, el Clan Viento de Ceniza tiene una nueva meta: reunir Artefactos. Pero seguimos bastante perdidas sobre con qué mentalidad enfrentar los desafíos que vienen.
+0015 [Minova] | Así que, en realidad, te invité esta noche solo para platicarlo, para oír tu opinión.
+0016 [Tú] | Si lo pones así... no tengo una respuesta de inmediato.
+0017 [Minova] | ¡Está bien! Sin prisa. Podemos pensarlo mientras caminamos. ¡Solo vamos a dar un paseo!
+0018 [Tú] | Justo. Hace tiempo que no veo la vista nocturna del Distrito de las Cenizas.
+0019 [Minova] | ¡Entonces vayamos hacia el Canal!
+0020 [Vollara] | ¡Miren! ¡Por aquí hay un póster de Stella Drama!
+0021 [Neuvira] | Parece el que nos contaste la última vez...
+0022 [Minova] | ¡Ah, ese! ¡Recuerdo que tenía una línea que me gustó mucho!
+0023 [Minova] | «En todo corazón hay blanco y negro. La mayoría decide quedarse en el gris. Pero yo—»
+0024 [Minova] | Eh... ¿Cómo seguía...?
+0025 [Tú] | ¿No me digas que se te olvidó en tu último viaje al Monolito para pedir un deseo?
+0026 [Minova] | Debe de ser. No me acuerdo de nada. Rayos, era una línea tan importante...
+0027 [Neuvira] | Supongo que la única forma es volver a verlo dentro del Monolito.
+0028 [Tú] | No necesariamente. Si aún recuerdas la historia, probablemente podamos deducir el resto.
+0029 [Minova] | ¿En serio?==W== Déjame pensar...
+0030 [Narración] | Treinta minutos después.
+0031 [Tú] | Caminamos hasta el Canal y aún no podemos descifrar el resto de la línea.
+0032 [Minova] | Solo recuerdo que uno de los protagonistas era un antihéroe con un código moral medio gris, pero no recuerdo cómo terminó después.
+0033 [Vollara] | Seguro se volvió un héroe total. Así son siempre estas historias.
+0034 [Minova] | Eso habría sido aburridísimo. No hay manera de que disfrutara una historia así.
+0035 [Tú] | Creo que el resto de la línea tenía que ser sobre el héroe reflexionando sobre su propio mundo interior.
+0036 [Minova] | Reflexionando sobre su mundo interior, eh...
+0037 [Vollara] | ¡Viene alguien!
+0038 [Brash Knight] | ¡Oigan! ¡Ustedes! ¿¡Qué hacen merodeando en plena noche!?
+0039 [Minova] | Solo salimos a pasear, nada más. ¿Algún problema?
+0040 [Brash Knight] | Esta noche se transporta un cargamento de Artefactos. ¡Toda esta zona está bloqueada!
+0041 [Arrogant Tycoon] | ¿Para qué hablar con esta escoria del Distrito de las Cenizas? ¡Échenlos de aquí! Quién sabe si intentarán robar los Artefactos.
+0042 [Arrogant Tycoon] | ¿Dónde está su capitán?
+0043 [Knight Captain] | A sus órdenes.
+0044 [Arrogant Tycoon] | Si sus hombres son así de ineficientes, ¡la próxima vez tendré que contratar a otra empresa!
+0045 [Knight Captain] | ¡Mis disculpas! ¡Lo disciplinaré de inmediato!
+0046 [Knight Captain] | ¡Tú! Esto es lo que pasa por pasar demasiado tiempo en el Distrito de las Cenizas. No pierdas el tiempo hablando con esta escoria de baja cuna. Nuestra misión es satisfacer las exigencias del cliente.
+0047 [Brash Knight] | ¡Sí, Capitán! No volverá a pasar...
+0048 [Vollara] | ¡Oigan! ¿¡Qué tanto cuchichean allá!? ¿¡A quién le dicen escoria!?
+0049 [Arrogant Tycoon] | Gritar así... Qué barbaridad.
+0050 [Vollara] | ¡Desgraciado—!
+0051 [Minova] | Cálmate, Vollara. Esta noche no venimos a buscar pleito.
+0052 [Arrogant Tycoon] | Hmph. Al menos una de ustedes lo entiende.
+0053 [Arrogant Tycoon] | ¿Eh? ¡Oye! ¡Tú! ¿¡Por qué te has estado escondiendo atrás todo este tiempo!?
+0054 [Tú] | ¿Se refiere a mí?
+0055 [Brash Knight] | ¡Sí, tú!
+0056 [Brash Knight] | ¿¡Cómo es que nunca te había visto en el Distrito de las Cenizas!?
+0057 [Minova] | ¡Esta es la persona que nos salvó a todos del Colapso del Monolito! ¿¡Cómo que «nunca te había visto»!?
+0058 [Arrogant Tycoon] | ¡Como si alguien así fuera a rebajarse a mezclarse con escoria como ustedes!
+0059 [Arrogant Tycoon] | ¡Hombres! ¡Detengan a esta persona sospechosa! ¡Enciérrenla hasta que termine el transporte!
+0060 [Minova] | ¡Un momento! ¿Cómo pueden decir que el Jefe es sospechoso solo por eso?
+0061 [Arrogant Tycoon] | Eso depende de cuánta fianza puedan poner.
+0062 [Minova] | Tsk. ¿Qué es esto, extorsión?
+0063 [Arrogant Tycoon] | No es extorsión, es política de la empresa. Seguro que alguien como ustedes no anda corto de dinero. Digamos... ¿5,000,000 Dorra como garantía?
+0064 [Tú] | Minova, no tenemos tanto...
+0065 [Minova] | ...
+0066 [Vollara] | ¡Yo digo que peleemos y ya! ¡Hay que darles una lección!
+0067 [Minova] | No. Los caballeros de la Guardia Imperial no son presa fácil. Si iniciamos una pelea aquí, solo terminará mal para nosotras.
+0068 [Neuvira] | ¿Entonces qué hacemos? No podemos quedarnos de brazos cruzados mientras se llevan al Jefe~
+0069 [Minova] | Si tan solo hoy trajera ese uniforme...
+0070 [Minova] | Muy bien. Yo atraeré su atención. ¡Las demás escabúllanse por los callejones!
+0071 [Arrogant Tycoon] | Ya casi es hora~
+0072 [Minova] | ¡Cuidado! ¡Alguien va tras el cargamento de Artefactos!
+0073 [Arrogant Tycoon] | ¿¿¿Qué???
+0074 [Minova] | ¡Ahora! ¡Corran todos!
+0075 [Arrogant Tycoon] | ¡Maldición! ¡Cómo se atreven a engañarme!
+0076 [Arrogant Tycoon] | ¡Tras ellos! ¡Si dejan escapar a esa pequeña escoria, díganle adiós al contrato!
+0077 [Knight Captain] | ¡Sí, jefe!
+0078 [Knight Captain] | Maldición, una vez que se meten en esos callejones, es imposible encontrarlos...
+0079 [Brash Knight] | Capitán, ¿y ahora qué?
+0080 [Knight Captain] | ¡Sigan buscando! ¿Cómo más vamos a salir de esta?
+0081 [Narración] | ¡Ahora! ¡Vamos!
+0082 [Knight Captain] | ¡Agh... nos emboscaron, retirada, retirada!
+0083 [Vollara] | ¿¡A quién le dices escoria, eh!? ¡Si no puedes decir nada bonito, mejor cierra la boca!
+0084 [Narración] | Una bomba estalla a los pies de los caballeros. Minova, que esperaba en los tejados, salta para enfrentarse con el resto de los perseguidores.
+0085 [Narración] | Me agazapo detrás de una caja, viendo a Minova barrer el piso con los caballeros.
+0086 [Narración] | El hombre adinerado que observaba desde cerca hace solo unos momentos ya se esfumó sin dejar rastro.
+0087 [Narración] | En cuanto a la línea perdida de esa serie... ya no parece importar.==W== Por la mirada de Minova, puedo decir que ella ya tomó su propia decisión.

@@ -1,0 +1,132 @@
+# Especial 9.5 · 4 · Bathhouse Test
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:High Priest | High Priest
+N:Lulu | Lulu
+N:Saintess | Saintess
+N:avg1_103 | Amber
+N:avg1_162 | Alina
+N:avg2_941 | Olympia (Puppet)
+N:avg2_942 | Coppelius
+N:avg2_978 | Rovina
+N:avg3_100 | Sylar
+N:avg3_1333 | Elis
+N:avg3_182 | Elis
+N:avg3_225 | Leita
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Cuarto acto
+0002 [Intro] | Prueba de casa de baños
+0003 [Intro] | Elis se escapa del alcance de la Santa, pero el Sumo Sacerdote comienza a sospechar de ti. Para demostrar que eres verdaderamente un "Acólito", debes soportar un baño lleno de magia. Aunque eres inmune a la magia, eventualmente te desmayas de hambre.
+0004 [Alina] | ¿podrías decirme?==W== ¿Sobre la magia de la resurrección?
+0005 [Alina] | Dime tu precio...==W== ¡Te daré todo lo que tengo!
+0006 [Tú] | ¿Magia de resurrección?==W== ¿Por qué pregunta sobre eso...?==W==
+0007 [Elis] | Para mantener a los demás a salvo, mi misericordioso Maestro encerró a ==SEX8== en una torre en la naturaleza para intentar lo imposible:
+0008 [Elis] | La magia de la resurrección.
+0009 [Alina] | Resurrección... magia...==W== Mentiroso. Magia como esa no existe.
+0010 [Tú] | Justo después de que me desperté...==W== Elis sacó esa excusa de la nada para encubrir por qué no respiraba.
+0011 [Tú] | A juzgar por la reacción de Alina...==W== La magia de la resurrección es puro mito por aquí.==W== Entonces, ¿por qué no descubrió el farol de Elis de inmediato?==W== A menos que...
+0012 [Narración] | La habitual máscara de calma de Alina se resquebraja. Ella me mira, prácticamente suplicando un sí.
+0013 [Tú] | Quiero decir, hacer retroceder el reloj a través de la Sala Blanca podría técnicamente contar como alguna forma de resurrección.
+0014 [Tú] | No tengo idea de por qué está tan obsesionada con la magia de la resurrección, pero no puedo hablar exactamente de la Sala Blanca. E incluso si pudiera, definitivamente no es el tipo de magia que ella está buscando.
+0015 [Tú] | Además, ni siquiera sé si podré volver allí, y mucho menos encontrar la puerta correcta después de eso...==W== ¿Cómo se supone que voy a decepcionarla fácilmente?
+0016 [Alina] | Perdóname, ==SEX12== Acólito.==W== Husmeando en su investigación privada...==W== Me excedí.==W== Pido disculpas profundamente por arruinar tu paz después del baño.
+0017 [Tú] | Espera... ¿Tomó mi silencio como un rotundo no?
+0018 [Tú] | Alina es una buena persona. Una vez que aclaramos las cosas, ella realmente nos cuidó muy bien en el camino.==W== Si nos escapamos ahora...==W== ¿Ella va a cargar con la culpa?
+0019 [Tú] | Suspiro... La supervivencia primero, la culpa después.==W== Aún,==W== Lo mínimo que puedo hacer es responder algunas preguntas para compensarla.
+0020 [Tú] | Oh,==W== está bien.==W== Honestamente, todavía estoy tratando de entender la magia de la resurrección, así que realmente no puedo compartir mucho todavía.
+0021 [Tú] | Lo siento, no pude ser de más ayuda.==W== Tenemos algo de tiempo para matar ante la audiencia, así que siéntete libre de preguntar sobre algo más.==W== En realidad, pregunta lo que quieras.
+0022 [Alina] | T-==W==Realmente...?==W== ¿Puedo preguntar sobre la torre y los deseos?
+0023 [Tú] | ¿Aquí simplemente llaman torre al Monolito?==W== Bueno, eso puedo responder. Tengo más de medio año de experiencia en Trekker en mi haber.
+0024 [Tú] | Lo entendiste. Pregunte.
+0025 [Alina] | Eres demasiado generoso.==W== Un conocimiento de ese calibre cuesta una fortuna. Nunca logré ahorrar suficiente oro para acceder a esos registros en la Gran Biblioteca.
+0026 [Tú] | ... ¿Cobran aquí por información sobre Monolitos?
+0027 [Alina] | Entonces mi primera pregunta es...==W== ¿Puede realmente la torre conceder algún deseo? ¿Absolutamente cualquier cosa?
+0028 [Lulu] | ¡Malas noticias! Capitana Alina, ==SEX12== ¡Acólita! ¡Hubo una explosión masiva en el callejón trasero!
+0029 [Lulu] | ¡No es seguro aquí! ¡Refugiarse!==W== I am so,==W== lo siento mucho==W== por las molestias!
+0030 [Tú] | No me digas...
+0031 [Elis] | Me deslizaré por el desagüe y provocaré una escena en las calles. Una vez que ella sale corriendo a investigar, simplemente sales por la puerta principal.
+0032 [Tú] | Elis, no tenías que hacerlo tan dramático.
+0033 [Alina] | Manténgase firme. La magia en el aire se siente mal. Eso no fue una explosión. Es una ilusión.
+0034 [Alina] | Lulu, usa tus brazos mágicos para bloquear todas las salidas.==W== ==SEX12== Acólito, ¿es tu esclava...==W== ¿Tu sirvienta, Elis, sigue dentro?==W== Iré a buscarla.
+0035 [???] | Eso no será necesario.==W== ¿Supongo que esta es la Elis que estás buscando?
+0036 [Tú] | ¡¿E-Elis?! ¿Estás bien?
+0037 [Tú] | Hasta aquí su plan maestro. La arrestaron en el momento en que salió.
+0038 [Alina] | Santa. Sumo sacerdote. ¿Qué los trae a ambos aquí?
+0039 [High Priest] | La Arconte Olimpia recibió su solicitud de audiencia. Se nos informó que aseguró a un sospechoso que coincidía con la Santa Caída, junto con un Acólito que supuestamente tomó como rehén.
+0040 [High Priest] | El Arconte tenía la intención de discernir la verdad personalmente.==W== Sin embargo, como se encuentra en una etapa crítica de su ascensión, no puede aparecer. Por lo tanto, nos envió a verificar sus identidades en su lugar.
+0041 [Saintess] | Apenas habíamos llegado cuando vimos a esta joven, envuelta en una toalla, saliendo corriendo de una tubería de drenaje...
+0042 [Elis] | ¡Me acabo de marear por el calor! ¡Necesitaba un poco de aire fresco!
+0043 [Saintess] | ¿Oh? Si sólo necesitabas aire, ¿por qué te arrastraste debajo de mi carruaje?
+0044 [Elis] | ¡Porque la artesanía es impresionante! Tenía curiosidad y quería ver más de cerca el tren de aterrizaje...
+0045 [Saintess] | Veo. Que ignorante de mi parte. No tenía idea de que apreciar un carruaje requería que enmascararas tu presencia y te colgaras boca abajo del eje.
+0046 [Elis] | Yo... bueno...
+0047 [Saintess] | Acólito desde lejos.==W== Por favor, mantén una correa más apretada sobre tu esclavo. No queremos que se avergüence más.
+0048 [Tú] | ¿Esclavo?==W== Esperar...==W== ¿Eso significa que no creen que ella sea la Santa Caída?
+0049 [Tú] | Correcto, absolutamente.==W== Pido disculpas por el desastre que causó Elis. Me aseguraré de mantenerla a raya.
+0050 [Alina] | Saintess, ¿estás segura de que ella no es la Saintess caída?==W== Ella lanzó varios hechizos antes con una habilidad notable.
+0051 [Saintess] | Je. La Santa Caída es una carnicera despiadada. ¿De verdad crees que un monstruo como ese se desmayaría por un simple hechizo de ilusión?
+0052 [Saintess] | En cuanto a su magia...==W== Alina, fuera de los muros de Filanis, no es raro que los sacerdotes y senadores mantengan esclavos que saben lanzar hechizos básicos.
+0053 [High Priest] | La Santa tiene razón. Sin embargo... Esta Elis tiene un parecido sorprendente con el retrato buscado. Haríamos bien en mantenernos cautelosos.
+0054 [Saintess] | Tienes razón.==W== Entonces déjame echar un vistazo más de cerca.==W== Después de todo, entrené junto a nuestro fugitivo.==W==
+0055 [Elis] | Ow, ow, ow!==W== ¡Deja de pellizcarme las mejillas!
+0056 [Saintess] | El parecido está ahí, sí. Pero como ella no está bajo ningún disfraz de magia, esta no es la Santa Caída.
+0057 [High Priest] | ¿Cómo puedes estar tan seguro? Ella huyó hace tres años. Sus rasgos podrían haber madurado.
+0058 [Saintess] | Verdadero. Pero la naturaleza fundamental de una persona no cambia tan fácilmente.
+0059 [Saintess] | Cuando entrenaba, siempre le encantó interpretar al prodigio intocable. Actuar como si nada pudiera dejarla perpleja.==W== Sin embargo, en el momento en que llegó el momento de asumir la responsabilidad real, ella huyó del altar.
+0060 [Saintess] | Ella pensó que había hecho una ruptura limpia, tirando su desorden para que el resto de nosotros lo limpiáramos. Cada una de las Saintess de su cohorte pagó el precio.
+0061 [Saintess] | Más tarde, corrió la voz de que ella masacró a cualquiera que la reconociera en el camino sólo para cubrir sus huellas.==W== Egoísta,==W== vicioso,==W== y completamente cobarde.==W== Esa es la verdadera Santa Caída.
+0062 [Saintess] | Vivimos juntos durante tanto tiempo que su actitud exasperante está grabada en mi memoria. Nunca la confundiría.
+0063 [Saintess] | En cuanto a la esclava tonta que tenemos ante nosotros, arrojándose debajo de los carruajes envuelta en una toalla de baño... Ella es sólo una pequeña tonta, una doble.
+0064 [Elis] | Santos...==W== Tienes toda la razón.==W== Sólo soy un esclavo inútil.==W== No sé nada sobre ninguna Santa Caída.
+0065 [Alina] | Si la Santa ha tomado su decisión, entonces acepte mis disculpas por la falsa alarma...
+0066 [High Priest] | Espera un momento, Alina.
+0067 [High Priest] | El asunto de la Santa Caída está resuelto.==W== Sin embargo, aún necesitamos confirmar si nuestro invitado de lejos es realmente un Acólito.==W==
+0068 [Elis] | Bueno, has probado mi identidad. ¡Mi Maestro es obviamente un verdadero Acólito!==W== ==SEX1== acaba de tener un pequeño accidente mientras investigaba magia en la torre, así que ==SEX3== los recuerdos son un poco confusos...
+0069 [High Priest] | ==PLAYER_NAME==, ciertamente tienes un esclavo ferozmente leal.
+0070 [High Priest] | Por favor, tranquilízate. Filanis nunca hace daño a los inocentes ni perdona a los culpables.==W== Después de todo, este es el==W== Ciudad de la Perfección, forjada por la propia Arconte Olimpia.
+0071 [High Priest] | Contamos con un método perfectamente imparcial para verificar sus credenciales.==W== Alina.==W== Prepara la prueba de la casa de baños.
+0072 [Tú] | Después de tanto correr, volvemos al punto de partida.
+0073 [Tú] | Elis, ¿qué es una prueba de baño?
+0074 [Elis] | Ni idea. Probablemente alguna costumbre local extraña.==W== Mira el lado positivo... Al menos no es un interrogatorio.==W== Ni siquiera podías hablar para superar a ese atrasado Vigilante Nocturno.
+0075 [Tú] | Esta prueba es para mí, ¿verdad? ¿Realmente tienes que acompañarnos?
+0076 [Elis] | ¿Qué clase de esclavo sería si abandonara a mi Maestro en un momento como este?
+0077 [Elis] | Puaj...==W== ¿Qué es ese olor? ¿Cambiaron el agua?
+0078 [Alina] | ==SEX12== Acólito, la prueba de la casa de baños está preparada. Puedes ingresar cuando estés listo.
+0079 [Tú] | Entiendo.==W== Sólo... Antes de comenzar, ¿te importaría decirme exactamente de qué se trata esta prueba?
+0080 [Alina] | Por supuesto.==W== Como acólito, debes poseer una aptitud mágica extraordinaria.==W== La amnesia puede borrar tus hechizos, pero tu talento innato permanece intacto.==W== Esta prueba medirá ese talento.
+0081 [Alina] | La piscina está inundada de agua mágica. Por favor entre. Evaluaremos tu aptitud en función de cuánto tiempo puedas soportar la inmersión.
+0082 [Tú] | ¿Aptitud mágica?==W== ¡Eso es aún peor!==W== Puedo intentar engañarme durante un interrogatorio, ¡pero no puedo fingir magia! ¡Soy inmune a la magia!
+0083 [Elis] | Maestro, permítame ayudarle a entrar al agua.
+0084 [Tú] | No hay marcha atrás ahora.==W== Simplemente entraré...==W== y confiar en pura fuerza de voluntad.
+0085 [Elis] | Ow==W==, ow, ow!==W== ¡Está hirviendo! Vigilante Nocturno, ¿estás intentando hervir vivo a mi Maestro?
+0086 [Alina] | Elis, eso no es calor lo que sientes. Es el impacto físico de la magia altamente concentrada.==W== Una reacción tan violenta implica...==W== Tu aptitud mágica es pobre.
+0087 [Alina] | If ==PLAYER_NAME== Si eres un verdadero Acólito, esta agua no debería resultar abrumadora en lo más mínimo.
+0088 [Opción] | prueba el agua
+0089 [Tú] | Me parece agua de baño normal.==W== Esperar...==W== Si esto es sólo una prueba de resistencia, me he sumergido en cosas mucho más densas en magia que esto.==W==
+0090 [Tú] | Elis, si estás sufriendo, no tienes que quedarte aquí conmigo.
+0091 [Elis] | Disparates. A través del infierno y la marea alta, tu esclavo leal permanecerá a tu lado.
+0092 [Tú] | Bien... Pero parece que estás a punto de desmayarte.
+0093 [Elis] | Estoy tan mareado... Estoy ardiendo... Pero que conste, no me falta talento mágico. Mis habilidades simplemente... están en otra parte.
+0094 [Tú] | Lo sé. Ya has demostrado tu valía en el bosque.
+0095 [Elis] | Je, mi Maestro me conoce mejor.==W== Te digo que...==W== Antes de desmayarme, necesito un favor.==W== Por favor dame tu mano...==W==
+0096 [Tú] | ¡Espera! ¡No arrastres mi mano a tu pecho!==W== ¡No quise decir eso!
+0097 [Elis] | Estúpido. Este era el único lugar donde podía esconder esto para pasar su registro al desnudo.
+0098 [Tú] | Es esto ...==W== ¿Una piedra del alma?
+0099 [Elis] | ¿Una piedra del alma? ¿Qué es eso? ¿Cómo sabes siquiera acerca de esto?
+0100 [Elis] | Uf... Mi cerebro está hecho papilla. Lo que sea. Tíralo a la pila con el resto de tus secretos.
+0101 [Elis] | Ey, ==PLAYER_NAME==. Alina está fuera del alcance del oído, así que dejaré de actuar como esclavo.
+0102 [Elis] | Dios, mi primera vez compartiendo un baño... Mi primera vez llamando a alguien Maestro...==W== Incluso mi ropa...==W== Nunca antes me había puesto tan poco con nadie.==W== Te di muchas de mis primeras veces. Soy tu responsabilidad ahora.
+0103 [Tú] | Oye, ¿de qué estás hablando...?==W== ¡Alina! ¡Un poco de ayuda por aquí! ¡Elis se está desmayando!
+0104 [Elis] | Aférrate a esa piedra. No dejes que nadie lo vea.
+0105 [Narración] | Elis se queda inerte en mis brazos. Alina corre y la saca de la piscina.
+0106 [Narración] | Y así, mi prueba de resistencia continúa...
+0107 [Tú] | Uf... ¿Cuánto tiempo llevo hirviendo aquí...?
+0108 [Alina] | Tres horas...==W== Incluso un sacerdote completamente ordenado ya se habría derrumbado. ¿Estás bien?
+0109 [Tú] | Honestamente...==W== No tengo tanto calor.==W== Pero mi estómago...==W== Creo que ya terminé.
+0110 [Alina] | ==SEX12== Acólito, tu aptitud mágica está fuera de toda duda. No hay necesidad de torturarte más. Déjame ayudarte.
+0111 [Tú] | Estoy hambriento...==W== No he comido ni un solo bocado desde que llegamos a Filanis...==W==
+0112 [Narración] | Las aguas impregnadas de magia no logran someter al formidable Acólito.==W== En medio del suave jadeo de Alina, ==PLAYER_NAME== finalmente cae,==W== noqueado por el estómago vacío.

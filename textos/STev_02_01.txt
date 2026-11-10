@@ -1,0 +1,124 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 1 · Snowish Festival Messenger
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Grace Imperium Employee | Empleado del Imperio de la Gracia
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_168 | Chica
+N:avg3_177 | Estudiante de la Academia Luz de Gracia
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Mensajera del Festival Nevado
+0003 [Intro] | ¡Llegó el animado Festival Nevado! Vestida con un hermoso uniforme, Laru te engaña para que pases con ella un día muy ajetreado como Mensajera del Festival Nevado.
+0004 [Narración] | El aire invernal es cortante y helado, y copos de nieve cristalinos descienden lentamente del cielo. Las calles, cubiertas de blanco, relucen bajo las coloridas decoraciones del festival.
+0005 [Tú] | Así que este es el Festival Nevado, ¿eh? Las calles están muy animadas. La verdad es que se siente refrescante.
+0006 [Tú] | Como es día festivo, por una vez me daré chance de relajarme y pasearme un rato.
+0007 [???] | ¡En serio, ¿dónde se supone que encuentre a alguien que me ayude ahorita?! ¿No debieron avisarme con tiempo?
+0008 [Tú] | ¿Mm? Esa persona de allá... me suena familiar.
+0009 [???] | ¡Hoy es el Festival Nevado! Seguro todos ya tienen planes...==W== ¿Eh?
+0010 [Tú] | ¿Laru? Qué casualidad verte por aquí.
+0011 [Laru] | ¿Eh? ¿¡Ehhhh!? ¡¿J-Jefe?! ¡¿Qué haces aquí?!
+0012 [Tú] | Te vi y pensé en venir a saludarte...
+0013 [Laru] | ¡¡AAAH!!
+0014 [Tú] | ¿Por qué te escondes de mí?
+0015 [Laru] | Uf...==W== Justo hoy tenía que toparme contigo.
+0016 [Tú] | ...
+0017 [Laru] | No me mires así...
+0018 [Tú] | ¿Qué? Se te ve muy lindo, la verdad.
+0019 [Laru] | ¡¿Lindo?! Si tanto te gusta, me lo quito y te lo pones tú.
+0020 [Tú] | Paso.==W== Pero ¿vas a algún evento con ese atuendo?
+0021 [Laru] | Este es el uniforme de una Mensajera Nevada. Básicamente...==W== el Imperio de la Gracia me asignó este trabajo.
+0022 [Laru] | Cada año, durante el festival, el Imperio de la Gracia manda mensajeros a repartir regalos a los niños.
+0023 [Tú] | Ya veo. Pero ¿por qué?
+0024 [Laru] | Es tradición, nada más.
+0025 [Laru] | Hace mucho tiempo, había un misterioso Espíritu del Árbol Nevado vestido de rojo que recorría una tormenta de nieve en trineo, repartiendo Artefactos para que la gente se mantuviera calientita.
+0026 [Laru] | Hay muchos detalles sobre la leyenda, como que el Espíritu del Árbol dejaba caer los Artefactos por la chimenea y cosas así.
+0027 [Tú] | ¿Por la chimenea...?==W== Qué impresionante.
+0028 [Laru] | Dicen que el Espíritu del Árbol era un mensajero enviado por el Dios de la Gracia, que hacía realidad el deseo de todos de tener un invierno cálido.
+0029 [Laru] | Para conmemorar el regalo del mensajero, el Imperio de la Gracia declaró ese día, el 25 del mes de Gelu, el Festival Nevado.
+0030 [Laru] | Desde entonces, cada año en este día, el Imperio de la Gracia hace que su personal se disfrace del Espíritu del Árbol para darles regalos a los niños y cumplir sus deseos.
+0031 [Laru] | No sé por qué, pero siempre termino asignada a este trabajo...==W== Y este año pasó lo mismo.
+0032 [Laru] | Se supone que se hace en parejas, pero hace un momento mi jefa me dijo de la nada que andamos cortos de personal y que buscara otro compañero por mi cuenta...==W== ¿Qué voy a hacer?
+0033 [Tú] | ...
+0034 [Laru] | Por cierto, Jefe, ¿tienes planes hoy? No me digas que vas a ver a alguien, ¿o sí?
+0035 [Tú] | La verdad no...==W== Solo salí a dar una vuelta porque todos están celebrando.
+0036 [Laru] | ¡Perfecto! ¡Déjame mostrarte todo! Yo soy del Imperio de la Gracia, después de todo. Nadie sabe más del Festival Nevado que nosotros~
+0037 [Tú] | ¿No tienes trabajo que hacer?
+0038 [Laru] | ¡Eso no es nada! Tú quédate conmigo y vivirás el festival completo: la historia, las tradiciones, el ambiente, todo, a profundidad~
+0039 [Tú] | Si tú lo dices...
+0040 [Laru] | ¡Genial! ¡Vámonos ya!
+0041 [Tú] | Espera, ¿a dónde vamos?
+0042 [Laru] | Es un secreto~
+0043 [Tú] | Eh...==W== ¿En qué ayuda visitar el Imperio de la Gracia a vivir el festival?
+0044 [Laru] | Relájate, ¿sí? Esto es solo para abrir el apetito antes del plato fuerte.
+0045 [Tú] | Todo esto es muy sospechoso...
+0046 [Laru] | Ja, pronto lo averiguarás.
+0047 [Tú] | Tengo un mal presentimiento...
+0048 [Laru] | ¡Lo encontré! ¡Tarán!
+0049 [Tú] | No vas a intentar ponerme ese horrible gorro rojo, ¿verdad?
+0050 [Laru] | Exacto~ ¡Es el tradicional gorro del Festival Nevado!
+0051 [Tú] | Un gorro tradicional...==W== Está bien, me lo pongo.
+0052 [Laru] | ¿Eh? Jefe, te lo tomas mucho más tranquilo de lo que esperaba. Pensé que por fin te vería todo apenado.
+0053 [Tú] | Es solo un gorro...==W== Hay quienes la tienen mucho peor.
+0054 [Laru] | Ja, ja, no puedo negarlo.
+0055 [Laru] | Espera un momento. ¿Qué quisiste decir con eso?
+0056 [Tú] | Lo que sonó.
+0057 [Laru] | Hmph, esta vez lo dejo pasar. Es que me da un poco de pena que alguien conocido me vea así...==W== No es que no me guste el atuendo.
+0058 [Tú] | ¿Ah, sí? Yo pensé que lo odiabas.
+0059 [Laru] | ¿Por qué lo odiaría? ¡A los niños les encanta verme así!
+0060 [Tú] | Ja, ja, sí, me lo imagino.
+0061 [Tú] | En fin, ya entendí. Quieres que te ayude a repartir regalos, ¿verdad?
+0062 [Laru] | ¡Órale, lo adivinaste!
+0063 [Tú] | No fue muy difícil de adivinar...
+0064 [Laru] | Pero si lo piensas, no cualquiera puede hacer este trabajo. Además de ser empleado del Imperio de la Gracia,==W== ¡solo quien tenga un corazón puro como el de un niño puede lograrlo!
+0065 [Tú] | Esa segunda parte te la acabas de inventar, ¿verdad?
+0066 [Laru] | Claro que no~
+0067 [Tú] | ...
+0068 [Laru] | ¿Y esa cara? Ya es tarde para echarte para atrás.
+0069 [Tú] | ...
+0070 [Laru] | Está bien...==W== Supongo que tendré que rogarte de rodillas...
+0071 [Laru] | ¡Por favor, Jefe! ¡Ayuda a la pobre Laru—!
+0072 [Tú] | Ya, ya. Aunque no me rogaras, te ayudaría igual.
+0073 [Laru] | ¡Yupi! ¡Gracias, Jefe~! ¡Sabía que no me dirías que no!
+0074 [Tú] | Claro que quiero ayudar por los niños. Lo que necesites hoy, te echo la mano.
+0075 [Laru] | ¿En serio? Entonces, ¿qué tal si mejor te pones esto~?
+0076 [Tú] | ¿Ves? Sí lo odias después de todo.
+0077 [Laru] | ¡Que no! Bueno, ya que aceptaste, ¡vamos a registrarnos!
+0078 [Laru] | ¡Y ahora sí seremos un equipo oficial del Festival Nevado!
+0079 [Tú] | Va.
+0080 [Grace Imperium Employee] | Veo que por fin conseguiste compañero.
+0081 [Laru] | Más o menos.==W== Entonces, ¿qué zona me toca esta vez?
+0082 [Grace Imperium Employee] | Toma, tú te encargas del Distrito de las Cenizas. Por cierto, Lady Albedo me pidió que te dijera...
+0083 [Grace Imperium Employee] | «Asegúrate de terminar tu trabajo hoy. Y nada de irte a pescar».
+0084 [Laru] | Hmph...==W== Hoy estoy en otro nivel. ¡Cuenten conmigo!
+0085 [Tú] | Parece que hay bastantes regalos...==W== ¿Crees que alcancemos a entregarlos todos?
+0086 [Laru] | Pan comido~ ¡Con una sola vuelta en el trineo terminamos!
+0087 [Grace Imperium Employee] | Ah, es cierto. Hay otra cosa.
+0088 [Grace Imperium Employee] | Llegaron demasiado tarde y ya no quedan los trineos normales. Solo quedan los trineos especiales del festival.
+0089 [Tú] | ¿Trineos especiales?
+0090 [Grace Imperium Employee] | Este...==W== El trineo cañón.
+0091 [Laru] | ...
+0092 [Tú] | ...
+0093 [Laru] | Dime la verdad.==W== Esto fue idea de Albedo, ¿a poco no? ¿Quiere hacerme la vida difícil?
+0094 [Grace Imperium Employee] | ¡No, no, de verdad era el único que quedaba! Y la neta está bastante padre. ¡Puede disparar balas de cañón e incluso invocar soldados!
+0095 [Laru] | ¡Órale, qué increíble! Entonces quizá podamos invocar unos ayudantes~
+0096 [Laru] | ¡Olvídalo! Eso es demasiado peligroso.
+0097 [Tú] | Mmm...==W== Podría servirnos.
+0098 [Laru] | Jefe...==W== ¿Qué plan descabellado estás cocinando ahora?
+0099 [Tú] | A los niños les encantan las cosas llamativas. Quizá les guste más esto que un trineo normal.
+0100 [Tú] | Y tú misma dijiste que quieres hacerlos felices.
+0101 [Laru] | Está bien...==W== Lo aguanto, por los niños...
+0102 [Grace Imperium Employee] | No hay tiempo que perder. Será mejor que se pongan en marcha. ¡Los mensajeros del Festival Nevado no pueden llegar tarde!
+0103 [Laru] | ¡Sí, sí, ya sé! ¡Mañana mismo presento una queja!
+0104 [Laru] | Vamos, Jefe, a cargar los regalos en este trineo cañón.
+0105 [Tú] | Cómo cambiaste de parecer tan rápido...
+0106 [Laru] | ¡Entre más pronto atendamos a los niños, más pronto terminamos por hoy!
+0107 [Tú] | Si tú lo dices.==W== Y no olvides que después de esto todavía tienes que enseñarme todo.
+0108 [Laru] | ¡Va!

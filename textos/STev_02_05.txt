@@ -1,0 +1,99 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 5 · A Familiar Glimmer
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Carpenter's Daughter | Hija del carpintero
+N:avg1_115 | Firefly
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_167 | Chica
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Un destello familiar
+0003 [Intro] | En la casa del carpintero de la calle Este 1, tú y Laru por fin ven la foto: la figura de una niña que brilla tenuemente. Te das cuenta de que ella y la persona que está justo a tu lado se parecen muchísimo...
+0004 [???] | ...
+0005 [Laru] | Esa es...==W== la misma niña que salió corriendo hace rato, ¿verdad?
+0006 [Tú] | Creo que sí.
+0007 [Laru] | ¡Oye—! ¡Niña—!
+0008 [???] | ¡¡...!!
+0009 [Laru] | Uf... ¿Por qué volvió a salir corriendo?==W== Quería preguntarle si ya recibió su regalo. ¿Quizá solo es tímida...?
+0010 [Laru] | Si supiéramos su dirección, al menos podríamos llevárselo a su casa...==W== Pero los niños del Distrito de las Cenizas tampoco parecían conocerla... En fin, por ahora no nos preocupemos por eso.
+0011 [Tú] | No te preocupes. Mientras esté en la lista de entregas, la encontraremos tarde o temprano.
+0012 [Laru] | Sí...==W== ¡Quiero dárselo yo misma!
+0013 [Tú] | Entonces la próxima vez que la veamos, deberíamos acercarnos poco a poco...==W== ¿Al menos intentar no espantarla?
+0014 [Laru] | Tiene sentido. Por ahora,==W== ¡terminemos las entregas que nos faltan!
+0015 [Narración] | Después de eso, Laru y yo seguimos la lista y continuamos repartiendo regalos... Y por fin encontramos a la hija del carpintero, la que tenía ese libro.
+0016 [Laru] | ¡Feliz Festival Nevado—!==W== ¡Venimos con una entrega de regalo!
+0017 [Carpenter's Daughter] | ¡Wow, gracias! Perdón, debí ir por él yo misma...==W== Es que soy un poco débil...
+0018 [Laru] | ¡No te preocupes! ¡Para nada!==W== ¡Verte sonreír es lo que nos da fuerzas!
+0019 [Carpenter's Daughter] | ¡Gracias, señorita linda!
+0020 [Tú] | Vaya, tienes muchísimos libros...
+0021 [Carpenter's Daughter] | Como casi no puedo salir por mi salud, ¡mis amigos me prestan estos!==W== ¡Gracias a ellos, nunca me aburro en casa!
+0022 [Laru] | ¡Qué buenos amigos tienes!
+0023 [Carpenter's Daughter] | ¿Verdad? ¡Hasta le pidieron a una Mensajera que me trajera un libro nuevo hace rato—==W==la historia del Espíritu del Árbol Nevado!
+0024 [Laru] | Ah, ¿entonces todavía tienes el libro?
+0025 [Carpenter's Daughter] | Sí, apenas lo empecé a leer, pero ¡el Espíritu del Árbol Nevado de la foto es súper bonito! ¡Todo resplandeciente!
+0026 [Laru] | S-sí, aja...
+0027 [Carpenter's Daughter] | ¡Mira! Esta es la foto.
+0028 [Tú] | Ya veo.==W== Así que este es el Espíritu del Árbol Nevado...
+0029 [Carpenter's Daughter] | ¡Tú también crees en el Espíritu, ¿verdad?!
+0030 [Tú] | Eh...
+0031 [Opción] | Sí, creo.
+0032 [Opción] | Yo... ¿no creo que existan los espíritus?
+0033 [Carpenter's Daughter] | ¡Sí, sí! ¡Yo también pienso eso!
+0034 [Tú] | Sí. Y el Espíritu de verdad debe de ser todavía más bonito que el de la foto.
+0035 [Laru] | ¡¿Eh...?!
+0036 [Carpenter's Daughter] | ¡Ji, ji, sí! Ahh... Ojalá pudiera ser amiga del Espíritu y jugar juntas~
+0037 [Tú] | ¡Yo también!
+0038 [Carpenter's Daughter] | ¿Por qué? ¡Pero si es real!
+0039 [Tú] | Se ve demasiado perfecta==W== para ser real...
+0040 [Laru] | ¡¿Perfecta?!
+0041 [Carpenter's Daughter] | Pero tenemos la foto, ¿no?
+0042 [Tú] | Justo a eso me refiero. El espíritu de la foto se ve demasiado perfecto. Creo que si viéramos al de verdad, quizá nos decepcionaríamos...
+0043 [Laru] | ...
+0044 [Tú] | Los sueños son hermosos porque siempre están fuera de nuestro alcance...
+0045 [Carpenter's Daughter] | ¿Eh? ¿No quieres conocer al Espíritu?
+0046 [Tú] | Más o menos.==W== ¡Los adultos podemos ser muy complicados, ¿sabes?!
+0047 [Laru] | ¡B-bueno, por fin encontramos la foto!==W== Yupi...
+0048 [Laru] | Muy bien, entonces... Démonos prisa en entregar el siguiente regalo—
+0049 [Carpenter's Daughter] | ¡Esperen, por favor! ¡Todavía tengo algo que preguntarles!
+0050 [Narración] | La niña nos detuvo y sacó del libro un montón de hojas, todas cubiertas de letra de niños.
+0051 [Tú] | ¡¿Todo esto son... pistas sobre el Espíritu del Árbol Nevado?!
+0052 [Carpenter's Daughter] | ¡Sí! Queremos encontrarla de verdad, así que todos anotamos toda la información que reunimos y todas nuestras preguntas.
+0053 [Carpenter's Daughter] | Por ejemplo, si es un espíritu bueno o malo...
+0054 [Carpenter's Daughter] | ¿Usa magia? ¿Y de qué tipo será...?
+0055 [Carpenter's Daughter] | ¿Vive en el Árbol Nevado...?
+0056 [Carpenter's Daughter] | ¿Ustedes qué opinan?
+0057 [Laru] | Eh... Pues...
+0058 [Opción] | ¡Creo que es un espíritu malo!
+0059 [Opción] | ¡Creo que es un espíritu bueno!
+0060 [Tú] | ¡Seguro es un espíritu maligno!
+0061 [Laru] | ¡¿Qué?!
+0062 [Carpenter's Daughter] | ¿Por qué piensas eso?
+0063 [Tú] | Aunque puede cumplir los deseos de la gente, casi nadie la ha visto «en acción»,==W== lo que significa que casi no hace su trabajo. No es que no pueda usar magia, más bien no quiere, ¿no?
+0064 [Tú] | Un espíritu que siempre anda flojeando... ¿no suena medio maligno?
+0065 [Laru] | Eh...
+0066 [Tú] | ¡Creo que es un espíritu bueno!
+0067 [Carpenter's Daughter] | Sí... Yo también pienso eso. ¿Por qué lo crees?
+0068 [Tú] | A juzgar por la foto, se ve bonita e inteligente... Además, tiene un aura amable.
+0069 [Tú] | Y desprende ese resplandor suave...==W== Parece que está deseando que se cumplan los deseos de los demás. ¡Así que debe de ser un espíritu bueno!
+0070 [Laru] | ...
+0071 [Carpenter's Daughter] | Ya veo. Voy a anotar esto...
+0072 [Carpenter's Daughter] | ¿Eh? ¿Qué? ¡No puede ser—!
+0073 [Laru] | ¿Sí?
+0074 [Carpenter's Daughter] | Señorita... Se parece un poco a...==W== ese Espíritu del Árbol Nevado.
+0075 [Laru] | ¡¿Eh?! ¿Y-yo? No lo creo... Además, ¿no se supone que el Espíritu es una niña?
+0076 [Carpenter's Daughter] | ¡Es cierto! ¡Los espíritus no envejecen!
+0077 [Laru] | Yo no diría «envejecer»...
+0078 [Carpenter's Daughter] | Sí, también tengo que anotar esto...==W== ... señorita se parece al Espíritu... Los espíritus no envejecen, así que no es...==W== ¡Listo!
+0079 [Tú] | ¿Nos podrías prestar esta foto un ratito? Queremos ayudar a buscar al Espíritu del Árbol Nevado.
+0080 [Carpenter's Daughter] | ¡Claro! ¡Asegúrense de encontrarla!
+0081 [Tú] | ¡Gracias! ¡Entonces ya nos vamos!
+0082 [Carpenter's Daughter] | ¡Adiós!
+0083 [Tú] | Uf, ya tenemos la foto. Laru, le tomaré una foto y se la mandaré a mis amigos. Deberían encontrarla enseguida.
+0084 [Laru] | No, no, no—por favor no lo hagas.
+0085 [Laru] | Ah...==W== Tirano, qué malo eres...==W== Ya lo sabías, ¿verdad? Solo querías burlarte de mí.
+0086 [Laru] | Ese supuesto «Espíritu del Árbol Nevado» de la foto...==W== soy yo.

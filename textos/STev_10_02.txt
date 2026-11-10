@@ -1,0 +1,159 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 2 · Con trajes de baño y escobas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Noya & Iris & Amber | Noya, Iris y Amber
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_131 | Bloc
+N:avg1_160 | Willow
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Con trajes de baño y escobas
+0003 [Intro] | Llegan al resort, pero está mucho más tranquilo de lo que esperaban. Después de una limpieza rápida, se ponen los trajes de baño, listos para disfrutar de la soleada playa junto al mar.
+0004 [Noya] | ¡¡Por fiiiiin llegamos!!
+0005 [Noya] | ¡Miren esa agua! ¡El cielo!==W== ¡La brisa! ¡Y estas casas son preciosas!
+0006 [Iris] | El folleto destacaba el hermoso paisaje del pueblo, el agua cristalina y el servicio de primera.
+0007 [Iris] | Pasear por estas calles al compás de las olas...==W== Es la escapada tranquila definitiva.
+0008 [Tú] | Sí que está tranquilo. Nadie diría que es un resort popular.
+0009 [Amber] | Casi no hay nadie.
+0010 [Willow] | Demasiado tranquilo, ¿no creen? La playa está prácticamente vacía. No se parece en nada al bullicioso resort del folleto.
+0011 [Noya] | ¡Estamos de vacaciones! No le den tantas vueltas. ¡Vamos a ver nuestras habitaciones!==W== ¡Suite con vista al mar, allá vamos!
+0012 [Noya] | Oooh, ¿esta es nuestra habitación? ¡Se ve genial!
+0013 [Iris] | ¡Desde el balcón se ve el océano! Es precioso...
+0014 [Amber] | Aproximadamente treinta metros hasta la orilla. Ruta de evacuación despejada en caso de emergencia.
+0015 [Noya] | ¡Y esta cama se ve elegante! ¡Seguro que es súper cómoda!
+0016 [Willow] | Noya, si estás a punto de aventarte sobre esa cama... espera.
+0017 [Noya] | ¿Eh? ¿Qué pasa?
+0018 [Willow] | Todos, miren el piso.
+0019 [Tú] | ¿El piso? ¿Qué hay en el...?==W== ¡Oh!
+0020 [Willow] | Hay una gruesa capa de polvo. Se ven las huellas que acabamos de dejar.
+0021 [Willow] | También hay en el escritorio. Tanto polvo no se acumula de un día para otro. Nadie ha limpiado esta habitación en días.
+0022 [Noya] | Espera, ¿no se supone que los resorts limpian todos los días?
+0023 [Iris] | Deberían...==W== ¿Le pedimos a la recepción que nos den otra habitación?
+0024 [Noya] | ¡Eso es mucha lata! ¡Podemos limpiarla nosotros mismos!
+0025 [Willow] | Pero...
+0026 [Noya] | ¡Vamos, a limpiar! ¡El tiempo es Dorra!
+0027 [Willow] | Está bien, está bien.
+0028 [Narración] | Unos minutos después.
+0029 [Willow] | Noya, traje dos cubetas de agua.
+0030 [Iris] | Encontré unos trapos limpios.
+0031 [Noya] | ¡Genial! ¡Yo también estoy lista!
+0032 [Noya] | ¡Tara—!
+0033 [Iris] | ¿¡Ya te pusiste el traje de baño!?
+0034 [Amber] | Yo también me cambié.
+0035 [Iris] | Espera, ¿hasta tú, Amber...?
+0036 [Noya] | ¡Estamos en la playa! ¡Claro que usamos trajes de baño! ¡Vamos, apúrate y cámbiate!
+0037 [Willow] | Los trajes de baño no tienen nada que ver con limpiar... Podemos cambiarnos cuando de verdad vayamos al agua.
+0038 [Noya] | ¡Pero cambiarme me da ánimo!
+0039 [Amber] | Sube la moral.
+0040 [Iris] | Ay, no puedo con ustedes dos... ==W====PLAYER_NAME==, di algo.
+0041 [Opción] | ¡Sol! ¡Arena! ¡Mar! ¡Trajes de baño!
+0042 [Opción] | Primero limpiemos y luego nos cambiamos
+0043 [Opción] | ¿Qué tal un punto medio?
+0044 [Tú] | Ejem...
+0045 [Iris] | ¿¡==PLAYER_NAME==? ¿¡Tú también!?
+0046 [Tú] | Bueno... Me contagió el ambiente de vacaciones...
+0047 [Willow] | Déjalo, Iris.
+0048 [Willow] | Ver a todos tan emocionados me dan ganas de llegar a la playa a mí también.
+0049 [Iris] | Supongo... que tienes razón.
+0050 [Willow] | Muy bien. Para dejar este lugar limpio a fondo y rápido, este es el plan.
+0051 [Willow] | Noya barre,==W== Amber limpia los muebles==W== e Iris hace las camas.==W== ==PLAYER_NAME==, tú vienes conmigo. Nos encargaremos del equipaje y del desorden.
+0052 [Noya & Iris & Amber] | ¡Entendido!
+0053 [Tú] | Reparte las tareas como si fueran encargos del Gremio. Toda una profesional de la Casa de los Trekkers.
+0054 [Tú] | Noya, Amber. Sé que tienen muchas ganas de ir a la playa, pero...
+0055 [Tú] | ... Perdón. Estoy del lado de Iris y Willow en esto.
+0056 [Noya] | ¡Aww, no es justo—!
+0057 [Amber] | Traicionada... por el Jefe...
+0058 [Tú] | Limpiar un cuarto en traje de baño es demasiado raro. No puedo hacerlo...
+0059 [Tú] | Entre más rápido terminemos de limpiar, más rápido llegamos a la playa. Nos cambiamos entonces.
+0060 [Willow] | Ejem. Como no hay objeciones, manos a la obra. Estas son sus tareas.
+0061 [Willow] | Noya barre,==W== Amber limpia los muebles==W== e Iris hace las camas. ==W== ==PLAYER_NAME==, tú vienes conmigo. Nos encargaremos del equipaje y del desorden.
+0062 [Noya & Iris & Amber] | ¡Entendido!
+0063 [Tú] | Reparte las tareas como si fueran encargos del Gremio. Toda una profesional de la Casa de los Trekkers.
+0064 [Tú] | Solo necesitamos una solución que deje contentos a todos.
+0065 [Tú] | Un lado quiere cambiarse ahora mismo y el otro quiere esperar a terminar de limpiar.
+0066 [Tú] | Entonces... ¿Y si nos cambiamos mientras limpiamos?
+0067 [Iris] | ==PLAYER_NAME==, ¿te estás oyendo siquiera...?
+0068 [Tú] | ¡No, espera, escúchame! Un sistema de recompensas podría subirnos el ánimo...
+0069 [Tú] | Como... un sistema de metas. Limpiamos un poco, nos cambiamos una prenda. Limpiamos más, otra...
+0070 [Tú] | Eh...
+0071 [Tú] | Finjan que no dije nada. Terminemos de limpiar para ir a la playa.
+0072 [Willow] | Ejem. Como no hay objeciones, manos a la obra. Estas son sus tareas.
+0073 [Willow] | Noya barre,==W== Amber limpia los muebles==W== e Iris hace las camas. ==W== ==PLAYER_NAME==, tú vienes conmigo. Nos encargaremos del equipaje y del desorden.
+0074 [Noya & Iris & Amber] | ¡Entendido!
+0075 [Tú] | Reparte las tareas como si fueran encargos del Gremio. Toda una profesional de la Casa de los Trekkers.
+0076 [Narración] | Bajo la dirección de Willow, la habitación queda impecable en un santiamén.
+0077 [Iris] | Uf, mucho mejor. Ahora...
+0078 [Noya] | ¡El océano! ¡Allá voy!
+0079 [Amber] | ¡Mmm-mmm! ♪
+0080 [Iris] | Oigan, esperen...
+0081 [Iris] | No hay quien las detenga. Cambiémonos y alcancémoslas.
+0082 [Willow] | Iris...
+0083 [Iris] | ¿Eh?
+0084 [Willow] | ¿De verdad debe ser así? ¿No es un poco... escaso?
+0085 [Iris] | ¡Así son los trajes de baño!
+0086 [Willow] | Casi nunca uso cosas así. No estoy... acostumbrada para nada.
+0087 [Iris] | ¡Te ves genial! Elegimos este porque sabíamos que te quedaría bien.
+0088 [Willow] | Oh...
+0089 [Iris] | ¡Total! Y ==PLAYER_NAME== lo escogió. Confías en ==SEX3== gusto, ¿no?
+0090 [Iris] | Vamos, todos nos están esperando.
+0091 [Noya] | ¡Ah, por fin!
+0092 [Iris] | Perdón por la espera, chicos.
+0093 [Willow] | ¿Por qué están tan callados? Me hacen sentir cohibida.
+0094 [Noya] | ¡Porque te ves increíble!
+0095 [Amber] | Espectacular.
+0096 [Iris] | Sí, estamos hipnotizados...
+0097 [Willow] | Gracias a todos.
+0098 [Willow] | Iris dijo que lo escogiste tú, ¿verdad, ==PLAYER_NAME==?
+0099 [Tú] | Sí. En cuanto lo vi en la tienda, supe que te quedaría bien. Me alegra haber acertado.
+0100 [Willow] | Gracias por elegirlo. Tienes muy buen ojo.
+0101 [Willow] | Y... ==W== con esta prótesis nueva también te quedo a deber.
+0102 [Willow] | Bloc me contó que convenciste a Sparkla de no añadirle un montón de funciones extra...
+0103 [Tú] | No es nada. Solo le di un pequeño consejo, nada más.
+0104 [Noya] | ¡Ahora que ya nos cambiamos, vamos al agua a pasarla increíble!
+0105 [Willow] | Noya, espera un momento.
+0106 [Noya] | ¿Eh? ¿Y ahora qué—?
+0107 [Willow] | Nadie se mete al agua sin calentar primero. Eso significa al menos tres minutos de estiramientos como se debe.
+0108 [Willow] | O les dará un calambre a medio camino y tendremos que arrastrarlos de regreso a la orilla. ¿Entendido?
+0109 [Noya] | Está bien—
+0110 [Iris] | El agua está fresquita y la arena es tan suave... Qué relajante...
+0111 [Willow] | Iris, hasta ahí.
+0112 [Iris] | ¿Eh?
+0113 [Willow] | Ahí hay una corriente de resaca. Si te adentras más, las olas podrían arrastrarte mar adentro.
+0114 [Iris] | ¿U-Una corriente de resaca? Ni me di cuenta...
+0115 [Willow] | El agua puede verse tranquila, pero las corrientes son impredecibles. No te alejes demasiado sola.
+0116 [Iris] | Está bien, tendré cuidado.
+0117 [Willow] | Bien. Una vez que hayan calentado, quédense en las zonas seguras. ¡Y que nadie se salga de mi vista!
+0118 [Noya] | ¡Sí, sí, entendido!
+0119 [Willow] | ==PLAYER_NAME==, ¿no vas a entrar?
+0120 [Tú] | Creo que voy a tomar el sol un rato.
+0121 [Willow] | Ponte protector solar primero. El sol parece suave, pero igual te quema.
+0122 [Noya] | ¿¡También trajiste eso!?
+0123 [Willow] | Por supuesto. Estamos en la playa.
+0124 [Tú] | Siempre eres muy confiable, Willow...
+0125 [Iris] | Sí... Con Willow al mando, no hay de qué preocuparse. Seguimos su ejemplo.
+0126 [Iris] | Estar así de relajada... Es el paraíso...
+0127 [Amber] | Willow, Willow.
+0128 [Willow] | ¿Qué pasó?
+0129 [Amber] | Quiero entrar, pero no sé nadar bien...==W== ¿Me enseñas?
+0130 [Willow] | Claro.
+0131 [Noya] | ¡Yo también te enseño, Amber!
+0132 [Amber] | No. Me aventaste al agua y dijiste que ya aprendería sola.
+0133 [Noya] | ¡Oye, así aprendí yo!
+0134 [Willow] | No te preocupes, Amber. Esta vez lo haremos de la manera correcta.
+0135 [Amber] | Síii~
+0136 [Iris] | ==PLAYER_NAME==, tú tampoco sabes nadar, ¿verdad?
+0137 [Tú] | No. Quizá no me disuelva en el agua... pero igual no sé nadar.
+0138 [Iris] | ¿Por qué no aprendes ahora? Casi nunca tenemos vacaciones en la playa. Sería un desperdicio quedarte seco en la arena.
+0139 [Tú] | Buen punto... Lo pensaré.
+0140 [Narración] | El sonido lejano de las olas y las risas llega débilmente a mis oídos.
+0141 [Tú] | Willow es prácticamente nuestra líder. Con ella al mando, no tenemos que preocuparnos por Noya y Amber.
+0142 [Iris] | Da tranquilidad tenerla cerca.
+0143 [Iris] | Esta brisa marina se siente increíble...
+0144 [Iris] | Ojalá todos los días fueran así de relajantes...

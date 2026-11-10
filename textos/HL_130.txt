@@ -1,0 +1,366 @@
+# Heartlink de Donna: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Donna] | ¡Hola, soy Donna de Post Haste! ¡Mucho gusto!
+A01.0002 [Donna] | Si alguna vez necesitas enviar una carta, no dudes en contactarme cuando quieras~
+A01.0003 [Donna] | Como eres tú, hasta puedo ofrecerte un descuento~
+A01.0004 [Opción] | ¿Un descuento especial para una amistad?
+A01.0005 [Opción] | Esto empieza a sonar a discurso de ventas...
+A01.0006 [Donna] | ¡Sip! ¡Cinco por ciento de descuento!
+A01.0007 [Donna] | No está mal el trato, ¿verdad?
+A01.0008 [Donna] | Jajaja sí, me lo han dicho mucho.
+A01.0009 [Donna] | ¡Pero solo hago descuentos a las amistades, ¿vale?! ¡Cinco por ciento, solo para ti!
+A01.0010 [Donna] | Bueno, bueno, solo bromeaba~
+A01.0011 [Donna] | Mucho gusto~
+A01.0012 [Donna] | ¡Pero no me bloquees de verdad! ¡No voy a hacer ventas!
+
+## Conversación A02
+A02.0001 [Donna] | ==PLAYER_NAME==, ¡prueba rápida, lo primero que se te ocurra!
+A02.0002 [Donna] | Si tuvieras que elegir uno: ¿ballena, delfín o tiburón?
+A02.0003 [Opción] | ¿Ballena?
+A02.0004 [Opción] | Delfín, creo.
+A02.0005 [Opción] | ... ¿Tiburón, supongo?
+A02.0006 [Donna] | Ahh, ballena... ¡Es la misma que eligió Teresa!
+A02.0007 [Donna] | Un espíritu y cantante de las profundidades. También es una gran elección.
+A02.0008 [Donna] | ¿Delfín? Entonces elegiste lo mismo que Freesia~
+A02.0009 [Donna] | También son lindos~
+A02.0010 [Donna] | ¡Sabía que elegirías tiburón, jaja! ¡Igual que yo!
+A02.0011 [Donna] | ¡Los tiburones son geniales!
+A02.0012 [Opción] | ¿Es algún tipo de test de personalidad?
+A02.0013 [Opción] | ... No me estás engañando, ¿verdad?
+A02.0014 [Donna] | Jajaja, no no no~
+A02.0015 [Donna] | Queremos comprar una alfombra nueva para Post Haste~
+A02.0016 [Donna] | Pero las tres elegimos diseños distintos, así que quisimos pedirte que desempataras~
+A02.0017 [Donna] | ¡En fin, gracias!
+
+## Conversación A03
+A03.0001 [Donna] | ¡Oye, una pregunta para ti!
+A03.0002 [Donna] | Si ahora mismo tuvieras la oportunidad de vestir a tu mejor amistad con un traje de sirvienta súúúper lindo...
+A03.0003 [Donna] | ¿Se lo harías poner?
+A03.0004 [Opción] | ¡¡Claro que sí!!
+A03.0005 [Opción] | No si no quiere...
+A03.0006 [Donna] | ¡Sabía que dirías eso!
+A03.0007 [Donna] | ¡Genial, estamos del mismo lado!
+A03.0008 [Donna] | ¿Entonces sí eres del tipo legal bueno?
+A03.0009 [Donna] | ¿Seguro que no querrías verlo?
+A03.0010 [Tú] | Jaja...
+A03.0011 [Tú] | Sí quiero... Un poco...
+A03.0012 [Donna] | Bueno, entonces...
+A03.0013 [Donna] | ¡Ya que tú también quieres verlo, voy a preparar todo!
+A03.0014 [Donna] | ¡Solo espera con ganas nuestro próximo encuentro!
+
+## Conversación A04
+A04.0001 [Donna] | ¡Bip bip! ¡Bip bip!
+A04.0002 [Donna] | ¡Mayday! ¡Mayday!
+A04.0003 [Donna] | ¡==PLAYER_NAME==, responde, por favor! ¡Responde, por favor!
+A04.0004 [Tú] | ¿¿¿???
+A04.0005 [Tú] | ¿Qué pasó?
+A04.0006 [Donna] | ¡Revisión sorpresa! ¿Ya viste «Un gran tiburón»?
+A04.0007 [Opción] | ¿Qué es eso?
+A04.0008 [Opción] | Creo que he oído hablar de eso.
+A04.0009 [Opción] | Sip, ya la vi.
+A04.0010 [Donna] | ¡Es un Stella Drama nuevo que acaba de salir!
+A04.0011 [Donna] | Trata de un tiburón gigante al que de repente le salen patas y puede caminar del mar a tierra firme.
+A04.0012 [Donna] | ¿No suena divertido?
+A04.0013 [Donna] | ¡¿Tú también has oído hablar de ella?!
+A04.0014 [Donna] | Descubrí que es un Stella Drama hecho por un rico solo por diversión, y últimamente la exhiben en muchos lugares.
+A04.0015 [Donna] | ¡El cine al aire libre cercano también la proyecta!
+A04.0016 [Donna] | ¡¡¡¡Eeeeh!!!!
+A04.0017 [Donna] | ¿Estuvo buena?
+A04.0018 [Donna] | Mejor no me digas. ¡¡No quiero spoilers!!
+A04.0019 [Tú] | ¿Quieres ir a verla?
+A04.0020 [Donna] | ¡Sí!
+A04.0021 [Donna] | Pero Freesia y Teresa dijeron que no es lo suyo.
+A04.0022 [Donna] | Así que me preguntaba si querrías ir a verla conmigo.
+A04.0023 [Tú] | Claro.
+A04.0024 [Donna] | ¡¿En serio?!
+A04.0025 [Donna] | Entonces, ¿qué tal pasado mañana a las 2 p.m.? ¿Te viene bien?
+A04.0026 [Tú] | Me viene bien.
+A04.0027 [Donna] | ¡Hurra!
+A04.0028 [Donna] | ¡Nos vemos entonces!
+
+## Conversación A05
+A05.0001 [Donna] | Tengo un secreto que quiero contarte. ¿Quieres oírlo?
+A05.0002 [Opción] | ¿Qué es?
+A05.0003 [Opción] | ¡Nop!
+A05.0004 [Donna] | Acabo de notar algo...
+A05.0005 [Donna] | Detrás de Post Haste...
+A05.0006 [Donna] | ¡Floreció una florecita azul!
+A05.0007 [Donna] | ¡Tachán! ¡Mira!
+A05.0008 [Donna] | ¡¿¿Eeeeh??!
+A05.0009 [Donna] | ¡No! ¡Tienes que oír esto!
+A05.0010 [Donna] | ¡Mira, esto creció detrás de Post Haste!
+A05.0011 [Donna] | ¡Una florecita azul!
+A05.0012 [Tú] | Oh, de verdad es azul...
+A05.0013 [Donna] | ¡¿Verdad?! ¿No es increíble?
+A05.0014 [Donna] | ¡Quizá sea señal de que Post Haste está por ganar mucho dinero!
+A05.0015 [Tú] | ¡Jaja, quizá!
+A05.0016 [Donna] | ¡Acaba de entrar alguien, tengo que ir a recibir a esa persona!
+A05.0017 [Donna] | ¡Ven, dinero, ven! ¡Hablamos luego!
+
+## Conversación A06
+A06.0001 [Donna] | Uf...
+A06.0002 [Tú] | ¿Qué pasa?
+A06.0003 [Donna] | Nos pasamos del presupuesto otra vez este mes...
+A06.0004 [Donna] | A este paso... ¡¡nunca vamos a ahorrar nada!!
+A06.0005 [Tú] | Oye, el dinero siempre encuentra la manera. Palmadita.
+A06.0006 [Donna] | ¿Por qué las Dorra no pueden enamorarse si las juntas, casarse y tener Dorra bebés?
+A06.0007 [Donna] | Ojalá...
+A06.0008 [Donna] | Espera. ¿Y si hay algún tipo de Artefacto en un Monolito que permita que las Dorra se multipliquen solas?
+A06.0009 [Opción] | ¡¡No existe tal cosa!!
+A06.0010 [Opción] | Mmm... Nunca se sabe.
+A06.0011 [Donna] | ¡Déjame soñar un poquito!
+A06.0012 [Donna] | Pero... ¿y si sí?
+A06.0013 [Donna] | ¡¿Tú también lo crees?!
+A06.0014 [Donna] | Quizá... ¿podemos probar con un Monolito?
+A06.0015 [Tú] | ¡¿Eh?! ¡¿Hablas en serio?!
+A06.0016 [Donna] | ¡Jajaja, es broma!
+A06.0017 [Donna] | El dinero hay que ganarlo de forma honesta... O sea, eso me repito a mí misma.
+A06.0018 [Donna] | Pero está bien quejarse de vez en cuando, ¿no?
+A06.0019 [Donna] | Perdón, fue una tontería.
+A06.0020 [Opción] | Para nada es una tontería.
+A06.0021 [Tú] | Sentirse desanimada a veces... Es parte de ser humana.
+A06.0022 [Donna] | ¿Me estás consolando?
+A06.0023 [Donna] | Voy a tomarlo como que me estás consolando, ==PLAYER_NAME==~
+A06.0024 [Donna] | ¡Gracias!
+
+## Conversación A07
+A07.0001 [Donna] | Quisiera preguntarte algo.
+A07.0002 [Tú] | ¿?
+A07.0003 [Donna] | Eh... Bueno...
+A07.0004 [Tú] | ¿Qué pasa?
+A07.0005 [Donna] | Es que...
+A07.0006 [Opción] | ¡Suéltalo ya!
+A07.0007 [Opción] | Me estás asustando...
+A07.0008 [Donna] | Eh... O sea...
+A07.0009 [Donna] | Me cuesta decir esto...
+A07.0010 [Donna] | ¡¿Por qué te asustas?!
+A07.0011 [Donna] | ¡Es que me cuesta decirlo, ¿vale?!
+A07.0012 [Tú] | Entonces...
+A07.0013 [Donna] | Eh... Cierto...
+A07.0014 [Donna] | ¿No dije antes que te haría un atuendo?
+A07.0015 [Donna] | Ya está listo...
+A07.0016 [Donna] | Así que cuando tengas tiempo, ¿podrías pasar por Post Haste?
+A07.0017 [Donna] | Si no te queda bien, puedo ajustarlo al momento~
+A07.0018 [Tú] | ¡¿¿Qué??!
+A07.0019 [Tú] | ¡¿En serio?!
+A07.0020 [Donna] | ¡¡En serio!!
+A07.0021 [Donna] | ¡Entonces está decidido!
+A07.0022 [Donna] | Este fin de semana. ¡Te estaré esperando en Post Haste!
+
+## Conversación A08
+A08.0001 [Donna] | Hola, Su Excelencia, el poderoso Jefe~
+A08.0002 [Donna] | ¿Sabes qué día es hoy?
+A08.0003 [Opción] | ¡Sí!
+A08.0004 [Opción] | Un día para dormir hasta tarde.
+A08.0005 [Opción] | ¿Qué día es?
+A08.0006 [Donna] | ¡¿Qué?! ¡¿Lo sabes?!
+A08.0007 [Donna] | ¡No lo creo!
+A08.0008 [Tú] | Hoy es tu cumpleaños.
+A08.0009 [Tú] | Feliz cumpleaños~
+A08.0010 [Donna] | ¡¿Eh?! ¡¿Cómo lo supiste?!
+A08.0011 [Donna] | ¿Otro día para dormir hasta tarde?
+A08.0012 [Donna] | ¿Acaso hay días en que no duermas hasta tarde?
+A08.0013 [Tú] | Jaja...
+A08.0014 [Tú] | Entonces, ¿qué día es hoy?
+A08.0015 [Donna] | Obviamente...
+A08.0016 [Donna] | ¡El cumpleaños de la increíblemente adorable servidora!
+A08.0017 [Tú] | ¡Ah, ah, ya entendí!
+A08.0018 [Tú] | ¡Sabes, Teresa me lo dijo hace unos días!
+A08.0019 [Donna] | ¿Eh...?
+A08.0020 [Donna] | Obviamente...
+A08.0021 [Donna] | ¡El cumpleaños de la increíblemente adorable servidora!
+A08.0022 [Tú] | ¿En serio?
+A08.0023 [Donna] | ...
+A08.0024 [Donna] | ¡Oye! ¡¿Qué clase de reacción es esa?! ¡¿No se supone que debes decir «feliz cumpleaños» en una situación así?!
+A08.0025 [Tú] | Es que...
+A08.0026 [Tú] | Te lo iba a decir esta noche.
+A08.0027 [Donna] | ¿Eh...?
+A08.0028 [Tú] | Queríamos que fuera una sorpresa.
+A08.0029 [Tú] | Conseguimos un pastel, regalos y todo.
+A08.0030 [Donna] | ¿Eh?
+A08.0031 [Donna] | ¡¡¡¿¿EEEEEH??!!!
+A08.0032 [Donna] | ¡¡¡Ay, por favor!!! ¡Armar tanto alboroto da vergüenza!
+A08.0033 [Tú] | Demasiado tarde~ ¡Nos vemos esta noche en Post Haste!
+
+## Conversación A09
+A09.0001 [Donna] | ¡El entrenamiento de hoy estuvo muy interesante!
+A09.0002 [Donna] | Es asombroso. Solo era un jueguito sencillo, pero hizo que todos dijeran cosas que normalmente nunca se oyen.
+A09.0003 [Donna] | ¿Inventaste ese juego tú?
+A09.0004 [Opción] | No, lo saqué de un libro.
+A09.0005 [Opción] | ¡Fui yo~
+A09.0006 [Donna] | ¿De un libro?
+A09.0007 [Donna] | Supongo que leer sí es bueno, después de todo.
+A09.0008 [Donna] | ¡Guau, qué impresionante!
+A09.0009 [Donna] | A mí nunca se me ocurriría algo así.
+A09.0010 [Donna] | Entonces, la próxima vez que tengamos entrenamiento en equipo, ¿habrá juegos pequeños como ese otra vez?
+A09.0011 [Tú] | ¡Claro!
+A09.0012 [Tú] | La próxima será uno distinto.
+A09.0013 [Donna] | ¡Guaaa!
+A09.0014 [Donna] | ¡Ya tengo ganas!
+
+## Conversación A10
+A10.0001 [Donna] | Oye...
+A10.0002 [Donna] | Eso que me acabas de dar, eh...
+A10.0003 [Opción] | ¿Qué pasa?
+A10.0004 [Donna] | Tenía una pieza musical que se sintió extrañamente familiar.
+A10.0005 [Donna] | Y por alguna razón...
+A10.0006 [Donna] | De repente me trajo un recuerdo de vuelta.
+A10.0007 [Tú] | ¿Cuál fue?
+A10.0008 [Donna] | Era de cuando decidimos fundar Post Haste.
+A10.0009 [Donna] | Creo que fue una tarde. Las tres estábamos clasificando cartas juntas.
+A10.0010 [Donna] | Teresa preguntó si deberíamos ponerle nombre a nuestro pequeño grupo de mensajeras.
+A10.0011 [Donna] | Y así, sin más, nos convertimos en Post Haste.
+A10.0012 [Donna] | Pero... es raro. Antes de oír esa música...
+A10.0013 [Donna] | Sabía que ese momento había ocurrido, pero el recuerdo en sí se sentía borroso de algún modo...
+A10.0014 [Tú] | Al menos ahora lo recuerdas de nuevo. Los recuerdos importantes siguen ahí.
+A10.0015 [Donna] | Tienes toda la razón.
+A10.0016 [Donna] | En fin, ¡gracias por el disco!
+
+## Conversación B01
+B01.0001 [Donna] | Mmm...
+B01.0002 [Tú] | ¿Sí?
+B01.0003 [Donna] | Es que no se me ocurre nada
+B01.0004 [Tú] | ¿Nada para qué?
+B01.0005 [Donna] | Para un atuendo nuevo, claro
+B01.0006 [Donna] | Hace poco hice atuendos nuevos para Teresa y Freesia
+B01.0007 [Donna] | Y las dos me dicen que debería hacerme uno también para mí
+B01.0008 [Tú] | Supongo que tienen razón
+B01.0009 [Tú] | Llevas bastante tiempo con este atuendo
+B01.0010 [Donna] | Pero no se me ocurre ninguna idea
+B01.0011 [Tú] | ¿Por qué no les preguntas qué opinan Teresa y Freesia?
+B01.0012 [Donna] | Mmm...
+B01.0013 [Donna] | ¡Antes de preguntarles, prefiero saber qué opinas tú!
+B01.0014 [Tú] | ... ¿Yo?
+B01.0015 [Tú] | Pero no sé nada de moda ni de diseño
+B01.0016 [Donna] | No importa
+B01.0017 [Donna] | Lo que importa es qué estilo te gusta
+B01.0018 [Donna] | ¿Lindo? ¿Glamuroso? ¿Cool?
+B01.0019 [Tú] | Eh... Mm... Pues...
+B01.0020 [Opción] | Lindo
+B01.0021 [Opción] | Glamuroso
+B01.0022 [Opción] | Cool
+B01.0023 [Tú] | ¡Lindo, entonces!
+B01.0024 [Donna] | Lindo...
+B01.0025 [Tú] | ¡Glamuroso, entonces!
+B01.0026 [Donna] | ¡Ah!
+B01.0027 [Donna] | Te refieres al tipo de cosa que usarías en un banquete, ¿verdad?
+B01.0028 [Donna] | Nunca he probado ese tipo de estilo
+B01.0029 [Donna] | ¿Cool?
+B01.0030 [Donna] | ¿Algo como lo que suelo usar para escalar Monolitos?
+B01.0031 [Tú] | Sí... Algo así
+B01.0032 [Donna] | Creo que ya tengo una idea
+B01.0033 [Tú] | ¿Eh?
+B01.0034 [Donna] | Gracias~
+
+## Conversación B02
+B02.0001 [Donna] | ¿Te gustan las galletas?
+B02.0002 [Tú] | ¿Eh? Qué pregunta tan random
+B02.0003 [Donna] | El dueño de la dulcería donde trabajé la última vez
+B02.0004 [Donna] | me dio un montón de galletas
+B02.0005 [Donna] | Pensé en compartir algunas contigo
+B02.0006 [Tú] | Ya veo
+B02.0007 [Donna] | Si quieres, te las llevo
+B02.0008 [Tú] | No, no, no hace falta
+B02.0009 [Tú] | Puedo pasar yo a recogerlas
+B02.0010 [Tú] | No hay necesidad de tomarte tantas molestias
+B02.0011 [Donna] | ¡Ni hablar!
+B02.0012 [Donna] | ¡Somos Post Haste!
+B02.0013 [Donna] | ¡No podemos dejar que el cliente venga a recoger las cosas por su cuenta!
+B02.0014 [Donna] | Te las llevo ahora mismo
+
+## Conversación B03
+B03.0001 [Donna] | Acabo de ver un Stella Drama
+B03.0002 [Tú] | ¿De qué trataba?
+B03.0003 [Donna] | De una mensajera
+B03.0004 [Donna] | Básicamente...
+B03.0005 [Donna] | Una mensajera lo dio todo y superó un obstáculo tras otro
+B03.0006 [Donna] | para entregar una carta con información vital a las personas correctas
+B03.0007 [Tú] | ¡Ah!
+B03.0008 [Tú] | Suena muy a ti, Donna
+B03.0009 [Donna] | Sí...
+B03.0010 [Donna] | Pero creo que aún me falta mucho para compararme con ella
+B03.0011 [Donna] | Por ahora, no creo poder cruzar un campo de batalla, evadir enemigos e infiltrarme en su fortaleza al final
+B03.0012 [Tú] | Quizá simplemente no has tenido la oportunidad de demostrar tu valía
+B03.0013 [Donna] | ¿Eh?
+B03.0014 [Donna] | ¡No quisiera demostrar mi valía de esa manera!
+B03.0015 [Donna] | Guerra por todas partes...
+B03.0016 [Donna] | Las cosas están mucho mejor como ahora
+B03.0017 [Tú] | No no no
+B03.0018 [Tú] | No me refería a eso...
+B03.0019 [Tú] | ¡En fin!
+B03.0020 [Tú] | Seguro que algún día, Donna, serás una gran mensajera como esa dama del drama
+B03.0021 [Donna] | Ejeje
+B03.0022 [Donna] | ¿En serio?
+B03.0023 [Tú] | ¡Mm-hmm!
+B03.0024 [Donna] | Entonces será mejor que siga mejorando
+B03.0025 [Tú] | ¡Sin duda puedes lograrlo!
+
+## Conversación B04
+B04.0001 [Donna] | Ese atuendo que te hice la última vez
+B04.0002 [Donna] | ¿Te queda bien?
+B04.0003 [Tú] | Sí
+B04.0004 [Tú] | Me queda perfecto
+B04.0005 [Donna] | ¡Qué bien!
+B04.0006 [Donna] | Si alguna vez necesitas algo más
+B04.0007 [Donna] | Como remendar ropa vieja o si quieres algo nuevo
+B04.0008 [Donna] | ¡Siempre puedes venir conmigo!
+B04.0009 [Tú] | ¿En serio?
+B04.0010 [Tú] | Empiezo a sentir que me estoy aprovechando de ti
+B04.0011 [Donna] | Para nada
+B04.0012 [Tú] | Este...
+B04.0013 [Tú] | Pues...
+B04.0014 [Donna] | ¿Qué pasa?
+B04.0015 [Tú] | Mi pijama tiene un agujero
+B04.0016 [Tú] | ¿Crees que...
+B04.0017 [Tú] | podrías...?
+B04.0018 [Donna] | ¡Claro que sí!
+B04.0019 [Donna] | ¿Paso a recogerla, o prefieres traerla la próxima vez que vengas?
+B04.0020 [Tú] | La traeré yo la próxima vez
+
+## Conversación B05
+B05.0001 [Donna] | Por fin logré ahorrar un poco de dinero
+B05.0002 [Donna] | Debería pensar en qué gastarlo
+B05.0003 [Tú] | ¿Por qué?
+B05.0004 [Tú] | ¿Ese dinero no está... ahorrado?
+B05.0005 [Donna] | ¿Sí?
+B05.0006 [Donna] | Pero el objetivo de ahorrar es poder gastarlo cuando lo necesites después, ¿no?
+B05.0007 [Donna] | Todo el equipo de Post Haste acaba de volver de sus entregas
+B05.0008 [Donna] | ¡Así que pensaba invitarles una gran comida!
+B05.0009 [Tú] | Te entiendo
+B05.0010 [Tú] | Pero te has esforzado mucho para ahorrar ese dinero
+B05.0011 [Tú] | Si lo gastas así, ¿no es básicamente lo mismo que no haberlo ahorrado?
+B05.0012 [Donna] | Mmm...
+B05.0013 [Donna] | Tienes razón
+B05.0014 [Donna] | ¿Y si hacemos esto?
+B05.0015 [Donna] | Sacaré un poco y compraré víveres
+B05.0016 [Donna] | ¡Y cocinaré una buena comida aquí mismo en Post Haste!
+B05.0017 [Tú] | ¡Sí!
+B05.0018 [Donna] | Tienes que venir, ¿sí~?
+
+## Conversación B06
+B06.0001 [Donna] | Conseguimos un trabajo nuevo hace poco
+B06.0002 [Tú] | ¿Ah, sí?
+B06.0003 [Donna] | Reparto de leche
+B06.0004 [Donna] | Básicamente, entregamos leche fresca en la puerta de todos a la misma hora cada mañana.
+B06.0005 [Tú] | Suena genial
+B06.0006 [Donna] | Pero para repartir leche hay que levantarse muy temprano
+B06.0007 [Donna] | Como ir al pastizal y recoger la leche antes del amanecer
+B06.0008 [Donna] | Por ahora nos turnamos
+B06.0009 [Donna] | Primero yo, luego Freesia, luego Teresa
+B06.0010 [Donna] | Pero a veces Teresa se queda dormida
+B06.0011 [Tú] | Suena a que has trabajado muy duro
+B06.0012 [Donna] | Ah, por cierto
+B06.0013 [Donna] | ¿Tomas leche por las mañanas?
+B06.0014 [Donna] | Mañana me toca a mí
+B06.0015 [Tú] | Si te queda de paso
+B06.0016 [Tú] | Sí, quisiera una botella
+B06.0017 [Donna] | Entonces mañana entregaré la tuya primero y la de los demás después
+B06.0018 [Donna] | ¡Así seguro que me queda de paso!
+B06.0019 [Donna] | Bueno, me despido por ahora
+B06.0020 [Donna] | Hay que acostarse temprano
+B06.0021 [Donna] | Buenas noches
+B06.0022 [Tú] | Sí, buenas noches

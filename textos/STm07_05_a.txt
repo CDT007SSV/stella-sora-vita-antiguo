@@ -1,0 +1,98 @@
+# Capítulo 7 · El precio de la estrella · 5A · Pensamientos inquietantes
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_145 | Otoha
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Pensamientos inquietantes
+0003 [Intro] | Firenze y tú unen fuerzas para encontrar una salida. Dentro de una vieja caja fuerte, descubres una carta de Darcia. Incluso ahora, su feroz lealtad y su determinación atraviesan el tiempo y te llegan directo al corazón.
+0004 [Lugar y hora] | 16:15, 13.º del mes de Venatio, Distrito de Oro de Philae, Oficina Ejecutiva
+0005 [Firenze] | En las buenas y en las malas, ¿eh? Cuente conmigo. Conseguiré esos 20 mil millones de Dorra aunque me cueste la vida.
+0006 [Tú] | No lo digas ni de broma.==W== Todavía cuento con esos Ruiseñores Leonados gratis a cuenta de la empresa.
+0007 [Tú] | Si tú no estás,==W== ¿quién nos va a dar de comer?
+0008 [Firenze] | ¿Ah, sí?==W== ¿Entonces mi vida vale menos que un Ruiseñor Leonado gratis?
+0009 [Tú] | ¡Ah, oye,==W== no quise decir eso...!
+0010 [Firenze] | Es broma, Jefe. Le agradezco que intente aligerar el ambiente.==W== Pero no se preocupe, un poco de presión no me va a quebrar.
+0011 [Firenze] | Aunque, sinceramente, reunir 20 mil millones de Dorra en dos días raya en lo imposible.
+0012 [Firenze] | Pero con todos los representantes de las empresas reunidos aquí en Philae, y algunos ya fuera de la contienda,==W== 20 mil millones no son un sueño guajiro.==W== Espere buenas noticias.
+0013 [Firenze] | En cuanto a su parte, Omnisky Aegis sabe que no puede ganarles a usted y al Gremio de la Nueva Estrella en cuanto a pedir deseos.
+0014 [Firenze] | Lo que significa==W== que van a jugar sucio.
+0015 [Tú] | ¿Quieres decir...==W== como en el banquete? ¿Contratar asesinos y mercenarios para emboscarnos?
+0016 [Firenze] | Puede que eviten la violencia directa.==W== Hay muchas formas de sabotear sus deseos sin disparar un solo tiro.
+0017 [Firenze] | Seamos realistas, Jefe: ahora usted es prácticamente una celebridad.==W== Con un blanco tan grande en la espalda, a Omnisky Aegis le resulta facilísimo seguirle la pista a Boss Accord.
+0018 [Firenze] | Necesita un comodín en las sombras, alguien que no esté en el radar de las otras empresas.==W== Oh, ¿qué tal esa sirvienta?==W== ¿Todavía puede contactarla?
+0019 [Tú] | Si te refieres a Otoha,==W== intenté mandarle mensajes varias veces desde el banquete.==W== Silencio total.
+0020 [Firenze] | Mmm. Ya se me ocurrirá algo.==W== Descanse, Jefe. Mañana tiene un Monolito que escalar.
+0021 [Firenze] | ... ¿Ruby?==W== Disculpe un segundo, Jefe.
+0022 [Firenze] | Te escucho. ¿Cuál es la situación?
+0023 [Ruby] | ¡Lady Firenze, buenas noticias!==W== ¡Por fin abrimos esa caja fuerte!
+0024 [Firenze] | ¿La caja fuerte? Je, excelente trabajo.==W== Voy para allá.
+0025 [Firenze] | Sapphire,==W== tú vienes conmigo.
+0026 [Sapphire] | Enseguida,==W== Lady Firenze.
+0027 [Firenze] | Perdone, Jefe, pero ¿podría quedarse un rato más?==W== Hay algo que tiene que ver.
+0028 [Lugar y hora] | 17:00, 13.º del mes de Venatio, Distrito Invernadero de Philae, Núcleo del laboratorio
+0029 [Firenze] | Por aquí, Jefe.
+0030 [Firenze] | Desde la muerte de Darcia hemos estado retirando las Plantas Inteligentes,==W== y en el proceso, Ruby encontró una caja fuerte escondida dentro de una de las incubadoras.
+0031 [Ruby] | Es un código de cuatro dígitos, así que empecé a adivinar desde el 9999. Por fin la abrí con el 0606.==W== Uf, me habría ahorrado muchísimo tiempo==W== si hubiera empezado desde el 0000.
+0032 [Sapphire] | Le dije que empezara desde el 0000, pero insistió en que desde el 9999 sería más rápido.==W== Nos tomó tres días de andar perdiendo el tiempo para abrirla.
+0033 [Ruby] | ¡Como sea,==W== ya está abierta!==W== ¡Veamos qué secretos guardaba Darcia aquí!
+0034 [Sapphire] | ¿Un cheque al portador de Finanzas del Mar Profundo?==W== Un momento, ¡¿por... 2 mil millones?!==W==
+0035 [Ruby] | También hay una carta. Está dirigida a...==W== ==SEX12== Tirano.
+0036 [1] | ¿Una carta para mí... de Darcia?
+0037 [Opción] | Abrir el sobre
+0038 [Narración] | Para Su Majestad.
+0039 [Narración] | Para cuando lea esto, probablemente no seré más que una rama marchita, reducida a cenizas o enterrada bajo tierra.
+0040 [Narración] | Eso significará que eligió un futuro junto a sus compañeras y que, al hacerlo, rechazó uno conmigo.
+0041 [Narración] | A decir verdad, llegar a este final me deja un sabor amargo. Pero si este es el camino que eligió, lo aceptaré y me retiraré.
+0042 [Narración] | Hay algo que nunca le dije. Aunque pasé cada día anhelando su llegada, también la temía en la misma medida.
+0043 [Narración] | Aun si se me concediera una audiencia, ¿fui alguna vez digna de su salvación? ¿Podría ganarme su aprobación? Me avergüenza admitirlo, pero a pesar de mi bravuconería, no tengo verdadero talento. Sé que me falta la capacidad para estar a su lado.
+0044 [Narración] | Incluso después de toda mi investigación, en el fondo sabía que estas plantas sin alma, por fuertes que parecieran, no eran el poder que usted buscaba.
+0045 [Narración] | Quizá esto suene a excusa, a los amargos desvaríos de una perdedora. Pero, al final, simplemente no valía la pena salvarme. Eso es todo.
+0046 [Narración] | Si el día en que recupere su trono recuerda que hubo un alma que una vez le ofreció todo, que mi devoción nunca flaqueó pese a mi destino, entonces mi vida no habrá sido en vano.
+0047 [Narración] | Marchitarme aferrada a esa creencia... No hay final más feliz para mí.
+0048 [Narración] | El Dorra de esta caja fuerte proviene de la venta de la propiedad de mi familia. Es dinero limpio, y es mi forma de cortar lazos con un pasado que preferiría olvidar. Por favor, úselo libremente.
+0049 [Narración] | Quizá parezca una miseria cuando el mundo termine poniéndose en su contra, pero poder ayudarle, aunque sea de esta pequeña forma, es mi mayor honor.
+0050 [Narración] | Ojalá pudiera recibir una respuesta suya, aunque sé que es solo una ilusión.
+0051 [Narración] | Su leal servidora, Darcia
+0052 [Narración] | Hace 35 días. El día en que Firenze ultimó los planes con Petal Bloom y el Gremio de la Nueva Estrella para llevar a cabo el asesinato.
+0053 [Darcia] | Bienvenida de vuelta, Firenze.
+0054 [Firenze] | Lady Darcia. El reconocimiento de campo está completo. Aquí tengo el informe...
+0055 [Darcia] | Detente ahí, Firenze. No deberías informarme a mí.==W== ==SEX12== Tirano debe ser quien escuche primero cualquier información.
+0056 [Firenze] | Mis disculpas. Lo tendré en cuenta.
+0057 [Darcia] | Bien. ==SEX12== Tirano acaba de retirarse a descansar. Ve a despertar a ==SEX2== Majestad y acompaña a ==SEX4== al laboratorio. Tengo que hacer preparativos.
+0058 [Firenze] | Enseguida,==W== Lady Darcia.
+0059 [Darcia] | Su Majestad, su luz sigue encendida. ¿La dejó así por ella?
+0060 [Darcia] | Ya es hora de guardar esa carta.
+0061 [Darcia] | Pondré como contraseña el día en que leí su historia por primera vez. El día en que me salvó.
+0062 [Darcia] | Solo espero que mis sentimientos le lleguen, Su Majestad...
+0063 [Darcia] | Y ahora...==W== debo enfrentar mi final.==W==
+0064 [1] | ...==W==
+0065 [Firenze] | ...==W==
+0066 [Ruby] | Eh... ¿Lady Firenze? ¿Jefe?==W== ¿Qué dice la carta?
+0067 [Sapphire] | ... Bueno, es hora de que regresemos, Ruby. Todavía tenemos papeleo pendiente.==W== Jefe, Lady Firenze,==W== nos retiramos.
+0068 [Ruby] | ¿Eh?==W== ¿Qué papeleo?
+0069 [Sapphire] | ¡Vámonos!
+0070 [Firenze] | Darcia... Como Firenze de Feltro, jamás te perdonaré.==W== Pero... tus sentimientos sin duda le llegaron al Jefe.
+0071 [Tú] | Sí.
+0072 [Firenze] | Ya no tienes de qué preocuparte.==W== Descansa en paz.
+0073 [Tú] | Sí.
+0074 [Firenze] | Debería volver al trabajo.==W== A partir de mañana todos vamos a estar muy ocupados...
+0075 [Tú] | Espera, Firenze. Toma este cheque.==W== Con esto tenemos una décima parte de los 20 mil millones que necesitamos.
+0076 [Firenze] | ¿Está...==W== seguro?
+0077 [Tú] | Su carta parece escrita sabiendo que esto pasaría.==W== Si esto es lo que Darcia quería, deberíamos aceptarlo y darle un buen uso al dinero.
+0078 [Firenze] | Entendido. Lo haremos a su manera.==W== Nos vemos mañana, Jefe.
+0079 [Tú] | Nos vemos mañana.
+0080 [Narración] | Me dejo caer, recargado en la puerta abierta de la caja fuerte, y cierro los ojos. Los recuerdos del tiempo que pasamos juntos en esta sala me invaden.
+0081 [1] | Lo siento.==W== Si hubiera sido más fuerte...==W== Quizá también habría podido salvarte...==W==
+0082 [Tú] | Si te hubiera alcanzado==W== antes de que tomaras esa decisión...==W== ¿Serían distintas las cosas ahora?
+0083 [1] | Que por fin...==W== Que por fin...==W== encuentres la paz.
+0084 [Narración] | Buenas noches, Darcia.

@@ -1,0 +1,126 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 5 · Coleccionista en el vórtice
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Glopo Duke Ⅲ | Duque Glopo Ⅲ
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg1_160 | Willow
+N:avg2_938 | Duque Glopo
+N:avg2_945 | Cangrejo ermitaño
+N:avg2_975 | Glopo
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1317 | Cangrejo ermitaño
+N:avg3_1318 | Cangrejo ermitaño
+N:avg3_161 | Leafia
+N:avg3_937 | La multitud
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Coleccionista en el vórtice
+0003 [Intro] | Se revela la verdad detrás del mal humor del cangrejo ermitaño: el Duque Glopo de la zona le robó la enorme caracola que era su hogar. Karin decide ayudarlo a recuperarla, pero la condición del Duque Glopo es...
+0004 [Karin] | ¡Cuidado! ¡Un Stellaroid en la esquina!
+0005 [Leafia] | ¡¿Eh?! ¿Te refieres a este barril?
+0006 [Karin] | ¡Q-Quizá es un Stellaroid disfrazado de barril!
+0007 [Shia] | Tranquila, Karin. No hay peligro.
+0008 [Karin] | Ah... Bueno, entonces.
+0009 [Willow] | Nunca pensé que encontraríamos un Monolito bajo el agua.
+0010 [Karin] | Entramos por un remolino... Esto da escalofríos.==W== No nos va a saltar nada encima, ¿verdad?
+0011 [???] | Kha, kha...
+0012 [Karin] | ¡¡Waaah!!==W== ¡A-A-Algo salió de ahí!
+0013 [Leafia] | ¡Es ese cangrejo ermitaño!
+0014 [Iris] | ¿Seguirá queriendo vengarse...?
+0015 [Karin] | Espera...==W== No parece hostil.
+0016 [Willow] | ¿Puedes saberlo, Karin?
+0017 [Karin] | Sí, su lenguaje corporal dice...==W== Eh, déjame verlo más de cerca.
+0018 [Karin] | ¿Nos hiciste cambiar de rumbo y nos seguiste... para traernos hasta aquí?
+0019 [Hermit Crab] | ¡Kha!
+0020 [Karin] | Creo que quiere guiarnos a algún lugar...
+0021 [Shia] | Jeje, entonces sigámoslo. No deja de checar que lo estemos siguiendo.
+0022 [Tú] | Uf...==W== Qué travesía tan pesada.
+0023 [Willow] | Ni que lo digas. Los Stellaroids de aquí son más duros de lo que esperaba.
+0024 [Leafia] | Karin, ¿te preocupa algo?
+0025 [Karin] | ¿Eh? ¿P-Por qué lo preguntas?
+0026 [Leafia] | Has estado con el ceño fruncido desde que llegamos. Te ves tensa.
+0027 [Karin] | ¡No es cierto! Estoy...==W== Ejem. No es nada, no te preocupes.
+0028 [Karin] | ¡Oh, las puertas están abiertas! ¡Vamos!
+0029 [Shia] | ¿Eh? Todos, miren allá.
+0030 [Noya] | ¡Whoa, miren el tamaño de esa caracola!
+0031 [Hermit Crab] | ¡Kha, kha!
+0032 [???] | ¡Hmph!
+0033 [Glopo Duke Ⅲ] | ¡Hmph, hmph! ¡Hmph hmph hmph! ¡Hmph!
+0034 [Hermit Crab] | Kha...
+0035 [Karin] | Ay... Miren esa carita. Se ve tan triste que está a punto de llorar.
+0036 [Iris] | Quería preguntarte desde hace rato... ¿Cómo es que lees sus expresiones exactamente?
+0037 [Karin] | ¡S-Simplemente puedo, ¿okey?!
+0038 [Karin] | Bueno, sobre esa caracola...==W== ¿No será...
+0039 [Cosette] | Es su antiguo hogar.
+0040 [Karin] | ¿Cómo estás tan segura?
+0041 [Cosette] | ¡Eep!
+0042 [Leafia] | Karin, deja de fulminarla con la mirada. La estás asustando.
+0043 [Karin] | ¡¿Yo no hice nada?!
+0044 [Cosette] | P-Porque...==W== ya la había visto antes...
+0045 [Cosette] | Este cangrejo ermitaño...==W== justo antes de robarme mi Artefacto de venta automática, traía puesta exactamente esa caracola.
+0046 [The Crowd] | ¿Eh?
+0047 [Tú] | Espera, déjame procesarlo...==W== ¿Lo que cargaba hace rato era el Artefacto de venta automática de Cosette?
+0048 [Willow] | ¿Te refieres al Artefacto de venta automática del complejo turístico?
+0049 [Cosette] | No lo es...
+0050 [Cosette] | Siempre quise tener mi propio Artefacto de venta automática... Y un día caí en este remolino gigante y terminé aquí...
+0051 [Willow] | ¿Y pediste un deseo de un Artefacto de venta automática aquí abajo?
+0052 [Cosette] | Mjm...
+0053 [Iris] | Es increíble... ¡Esos Artefactos de venta automática valen una fortuna! Pides uno y tienes la vida resuelta por medio año...==W== ¡No, por un año entero!
+0054 [Iris] | ¡Lady Cosette, enséñeme, por favor! ¿Qué oración se dice para pedir un Artefacto de venta automática?
+0055 [Cosette] | Recuerdo que dije...==W== dame muchas, muchísimas bebidas que nunca se acaben...
+0056 [Iris] | ¡¿Y-Y funcionó?!
+0057 [Narración] | Hace unos meses.
+0058 [Cosette] | ¡Dame muchas, muchísimas bebidas que nunca se acaben!
+0059 [Cosette] | ¡Wow, apareció! ¡Sí! ¡Ahora puedo beber todo lo que quiera para siempre!
+0060 [???] | ¡Kha, kha, kha!
+0061 [Cosette] | ¡Waaah! ¡¿Qué es eso?!
+0062 [Cosette] | ¡M-Mi Artefacto de venta automática!
+0063 [Cosette] | ¡Devuélvelo! ¡Devuélvelo ahora mismo!
+0064 [Hermit Crab] | ¡¿Kha, kha?! ¡¿Kha?!!!
+0065 [Cosette] | Ese cangrejo ermitaño agarró mi Artefacto y soltó su caracola astillada. Lo perseguí hasta sacarlo de aquí.
+0066 [Cosette] | Pero cuando salí, lo perdí de vista...==W== Estuve triste por mucho, mucho tiempo...
+0067 [Cosette] | ¡Jamás esperé volver a toparme con él en el complejo turístico!
+0068 [Tú] | Con razón te alteraste en cuanto lo viste...==W== Esa trampa era para atraparlo, ¿verdad?
+0069 [Cosette] | ... Sí.
+0070 [Willow] | Pero si ese es el Artefacto de Cosette, ¿dónde está el del complejo turístico?
+0071 [Cosette] | B-Bueno... Me dio miedo que el cangrejo ermitaño también se robara ese, así que cavé un hoyo y lo enterré para protegerlo...
+0072 [Willow] | Eso lo explica. Esos Trekkers cazatesoros seguramente confundieron el Artefacto del cangrejo con el que desapareció.
+0073 [Karin] | Pero no creo que el cangrejo ermitaño==W== estuviera intentando robar el Artefacto.
+0074 [Karin] | Allá en la isla, cuando le tiramos la máquina de la espalda, se veía aliviado.
+0075 [Karin] | Y cuando vio esa caracola hace rato, estaba desesperado por recuperar su antiguo hogar.
+0076 [Hermit Crab] | Kha...
+0077 [Tú] | Tengo una teoría.
+0078 [Tú] | A este cangrejo ermitaño lo cazaban por todos lados por su valiosa caracola.==W== Los cazadores hasta le astillaron un pedazo de su más preciada posesión.
+0079 [Tú] | Huyendo por su vida, se metió a ciegas en el Monolito,==W== solo para espantarse con los Stellaroids y salir corriendo aterrado.
+0080 [Willow] | Oh... Pensamos que era agresivo, ¿pero en realidad huía aterrado?
+0081 [Tú] | Sí. Como Cosette. Ella sale corriendo en cuanto ve a alguien.
+0082 [Cosette] | ¡Oye...!
+0083 [Tú] | Mientras corría desorientado por el Monolito, el cangrejo chocó con el Artefacto de venta automática que Cosette pidió. Y luego...==W== se quedó atorado.
+0084 [Noya] | Whoa... Qué mala suerte.
+0085 [Tú] | Desde entonces carga a cuestas un nuevo hogar que nunca quiso.
+0086 [Tú] | Quiere su antigua caracola de vuelta, pero como ven, ese Glopo gigante ya la reclamó.
+0087 [Karin] | Con su cerebrito, el cangrejo ermitaño probablemente no tiene idea de lo que pasó.
+0088 [Karin] | Lo único que sabe es que vio a un humano en el Monolito, hubo un destello de luz y su caracola se convirtió en una gran caja cuadrada. Debe de estar completamente desconcertado.
+0089 [Karin] | Probablemente pensó que traer a otro humano al Monolito le ayudaría a recuperar su caracola.
+0090 [Willow] | Con razón apareció en el complejo turístico lleno de gente.==W== Qué lástima que todos lo vieran como un monstruo feroz.
+0091 [Hermit Crab] | Kha...
+0092 [Karin] | ¡O-Oye, no llores! ¡Ya sabemos la verdad! Nadie está enojado contigo.
+0093 [Hermit Crab] | Kha, kha...
+0094 [Karin] | ...
+0095 [Shia] | Karin, quieres ayudarlo a recuperar su hogar, ¿verdad?
+0096 [Karin] | ¿Eh? ¡¿Tan evidente es?!
+0097 [Shia] | Jeje, ni siquiera necesito mi nariz para esto. Lo tienes escrito en la cara.
+0098 [Willow] | Entonces nuestro objetivo es claro.==W== ¡Ayudemos al cangrejo ermitaño a recuperar su hogar!

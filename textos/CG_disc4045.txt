@@ -1,0 +1,131 @@
+# Recuerdo de disco · Petals of Blooming Mirage · 1 · Petals of Blooming Mirage
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Lively Young Maid | Joven sirvienta animada
+N:Passerby | Transeúnte
+N:The Nameless Phantom | El Fantasma Sin Nombre
+N:avg1_119 | Nanoha
+N:avg1_145 | Otoha
+N:avg3_100 | Sylar
+N:avg3_1285 | Otoha
+N:avg3_1286 | Otoha
+N:avg3_138 | Trekker
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_202 | Isaki
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Pétalos de espejismo en flor
+0003 [Intro] | Cuando la brisa se apaga y las flores se marchitan, el mundo despierta y descubre que la extensión floral no era más que un sueño tejido.
+0004 [Narración] | Esta noche a medianoche llegaré a reclamar la Pieza Blanco Puro. —El Fantasma Sin Nombre
+0005 [Tú] | ¿Esto es ...==W== una tarjeta de aviso?==W== «La Pieza Blanco Puro»...==W== ¿Será el Sello de la Gracia?
+0006 [Tú] | Aunque nunca he oído hablar de este ladrón.==W== ¿Será solo una broma?==W== Pero, si no lo es...
+0007 [1] | ¿Qué se supone que haga?==W== El Gremio de la Nueva Estrella no volverá de su encargo hasta dentro de dos días. Si el ladrón viene ahora, no tengo con qué defenderme...
+0008 [1] | ¡Ah, cierto!==W== Todavía tengo esa tarjeta de presentación. Quizá pruebe con Goodwind Homecare...
+0009 [Tú] | ¿Dónde está?==W== Se supone que nos veríamos por aquí.
+0010 [Lively Young Maid] | ¡Perdón por la espera! ¡Goodwind Homecare, a su servicio!==W== Usted es ==PLAYER_NAME==, ¿verdad? ¿Quien solicitó un guardaespaldas?
+0011 [Tú] | ¿Eh?==W== Oh...==W== Sí, soy yo. ¿Y tú eres...?
+0012 [Lively Young Maid] | ¡Las senpais están desbordadas ahora, así que las estoy reemplazando!==W== No se preocupe. ¡Yo me encargo de su seguridad!
+0013 [Tú] | Está bien...==W== Cuento contigo.
+0014 [Lively Young Maid] | ¡Déjelo en mis manos!==W== Por cierto, ¿le importa si le echo un vistazo al sello antes de ponernos a trabajar?
+0015 [Lively Young Maid] | Necesito conocer el verdadero, o quizá no note si lo cambian por uno falso.
+0016 [Tú] | Buen punto.==W== Está aq—
+0017 [Lively Young Maid] | Jeje...==W== Sigues siendo una presa tan fácil, ¿verdad?
+0018 [Tú] | Espera... Ese tono.==W== ¿¡No serás...!?
+0019 [Lively Young Maid] | Tienes que mantener la guardia en alto.==W== Si yo fuera la ladrona fantasma, ya habría robado ese sello hace tiempo.
+0020 [Tú] | ¿¡Otoha!?==W== ¿Q-qué haces aquí?
+0021 [Tú] | ¡Tu voz no combina nada con tu cara! Nunca lo habría adivinado...==W== ¿¡Gwah!?
+0022 [Passerby] | ¡P-perdón! ¡Tengo prisa!==W== ¡Mis disculpas—!
+0023 [Tú] | ¡Oye!==W== Fíjese por dónde va, señora.==W== Perdón, Otoha...
+0024 [Tú] | Espera, ¿adónde se fue?
+0025 [Tú] | Estaba justo aquí...==W== ¿Cómo desapareció así?
+0026 [???] | Jeje...
+0027 [Otoha] | No te molestes en buscar. Era solo un clon mágico mío.
+0028 [Tú] | ¿Un clon?==W== ¿Quieres decir que he estado hablando con...?
+0029 [Otoha] | Exacto. Esa sirvienta de Goodwind no era más que una ilusión mágica.==W== ¿Qué te parece? ¿No es impecable?
+0030 [Tú] | Es impresionante,==W== pero ¿por qué desperdiciar magia de tan alto nivel conmigo?
+0031 [Otoha] | ¿No es obvio?==W== Quería verte alterarte.
+0032 [Tú] | ¡Qué desperdicio total de talento!
+0033 [Otoha] | Mmm...==W== Una tarjeta de aviso de un ladrón fantasma.
+0034 [Tú] | Así es. Quisiera contratarte como guardaespaldas, por precaución.
+0035 [Otoha] | Claro.==W== Pero Jefe,==W== ¿no te parece extraña esta carta?==W== ¿Nunca se te ocurrió==W== que yo pude haber armado todo esto?
+0036 [Tú] | Mentiría si dijera que nunca se me ocurrió. Pero no tienes motivo.
+0037 [Otoha] | ¿Quién sabe?==W== ¿Quizá solo monté este pequeño show porque me moría de ganas de verte, Jefe?
+0038 [Tú] | Eres demasiado hábil para una treta tan torpe. Si quisieras verme, simplemente aparecerías.
+0039 [Tú] | Incluso si ocultaras algo, probablemente te colarías disfrazada de alguien de mi confianza.==W== Si jugaras en serio, no dejarías ni un solo rastro para que lo encuentre.
+0040 [Tú] | Y desde luego no habrías roto el personaje tan pronto.
+0041 [Otoha] | Jeje...==W== Así que hasta notaste que dejé esos huecos a propósito. Qué perspicaz.
+0042 [Otoha] | Mis disculpas por la pequeña prueba.==W== Tienes razón, por supuesto. Este ladrón no tiene nada que ver conmigo.
+0043 [Otoha] | Ahora, a lo nuestro. Preparémonos para nuestro invitado no invitado.
+0044 [Tú] | ... Y ato otra cuerda para asegurarlo...==W== Bien, creo que con esto bastará.
+0045 [Tú] | Uf. Armar incluso una sola trampa es todo un ejercicio. Espero que ella esté bien.
+0046 [1] | Otoha, ya terminé por aquí. ¿Necesitas ayuda con algo más?
+0047 [Otoha] | ¡Espera, Jefe! ¡No pises ahí—!
+0048 [1] | ¡Gah!==W== ¡M-mi espinilla!==W== ¡Mi espiniiiilla—!!
+0049 [Otoha] | Ten cuidado...==W== Ya preparé toda esta zona. Por favor, trata de no moverte de aquí.
+0050 [Otoha] | ¿Te encuentras bien de la pierna?
+0051 [Tú] | Estoy bien.==W== Perdón por romper tu trampa, eso sí...
+0052 [Otoha] | No te preocupes.==W== Era solo una trampa—==W==listo, restaurada.
+0053 [Tú] | ¡G-guau!==W== La arreglaste en un abrir y cerrar de ojos. A mí me costó una eternidad armar una...
+0054 [Otoha] | Gajes del oficio. He tenido mucha práctica con las manos.
+0055 [Otoha] | Aparte de ese rompe-espinillas, he preparado flechas, rocas, explosivos...==W== Toda clase de trampas divertidas—==W==digo, encantadoras.
+0056 [Tú] | ... Tu explicación da miedo.==W== Qué bueno que activé una «más segura».
+0057 [Tú] | Pero esta es un área pública. ¿Seguro que convertirla en un campo minado es buena idea?
+0058 [Otoha] | Descuida.==W== Filtré un rumor sobre residuos peligrosos en el lugar. Eso mantendrá alejada a la gente hasta mañana.
+0059 [Tú] | ...==W== Piensas en todo.
+0060 [Otoha] | Jeje. No habrá daños colaterales con una verdadera profesional.
+0061 [Otoha] | Bueno.==W== Eso es todo para los preparativos. Relajémonos con té y bocadillos mientras esperamos que nuestro invitado se presente.
+0062 [Otoha] | Jefe...==W== ¿Todo listo de tu parte?
+0063 [Tú] | Sí, por mi parte todo listo.
+0064 [Otoha] | Ese es el espíritu. Y faltan para la medianoche...==W== Tres,==W== dos,==W== uno—
+0065 [???] | ¡Bwa-ja-ja-ja!
+0066 [The Nameless Phantom] | ¡Contemplen a la estrella emergente de los ladrones fantasma: el Fantasma Sin Nombre! Fiel a mi tarjeta de aviso, he venido por la Pieza Blanco Puro—
+0067 [The Nameless Phantom] | ¡¡¡WAAAAAAAAAAAHHHHH!!!
+0068 [Tú] | A-ay...==W== ¿Exactamente cuántas trampas hay...?
+0069 [The Nameless Phantom] | Oí que el Jefe es débil. No esperaba un «regalo de bienvenida» tan enorme...
+0070 [The Nameless Phantom] | ¡Pero soy un ladrón fantasma! ¡Nunca me voy sin mi botín! ¡Como dice la tarjeta, el Sello de la Gracia es mío!
+0071 [Otoha] | Oh, vaya. ¿Sigues en pie? Eres más duro de lo que pareces.==W== Por favor, quédate atrás, Jefe.
+0072 [The Nameless Phantom] | Maldición... Nadie dijo que el Jefe tuviera un guardaespaldas así...
+0073 [Otoha] | Estoy en la nómina. Lo correcto es que mi cliente reciba lo que paga. Jeje...==W== Prepárate.
+0074 [The Nameless Phantom] | ¿Eh? Esa sombrilla...==W== ¡E-espera, es un arma!?
+0075 [Otoha] | Así es. Elegante, ¿no crees?
+0076 [Otoha] | Apenas te sostienes en pie...==W== ¿Listo para tirar la toalla?
+0077 [The Nameless Phantom] | ¡Perdóname, pero hay gente que cuenta conmigo!!
+0078 [Tú] | ¿¡Otoha...!?
+0079 [The Nameless Phantom] | ¡¡Jajaja!! ¡Qué tal ese regalo a cambio!==W== ¿Qué dijiste? ¡Prueba mi magia!
+0080 [The Nameless Phantom] | Muy bien, me llevaré el Sello—
+0081 [Otoha] | ¿Te vas tan pronto? No hemos terminado aquí.
+0082 [The Nameless Phantom] | ¡Imposible! ¡Te dejé fuera de combate!
+0083 [The Nameless Phantom] | ¡¿M-magia de clones…!?==W== Ya veo. ¡Lo que acabo de derrotar era solo una copia!
+0084 [Otoha] | Je. Tardaste bastante. Quizá esta vez intenta apuntar mejor.
+0085 [The Nameless Phantom] | ¡Maldición, solo quédate quieta y recibe el golpe!!
+0086 [Otoha] | Tu puntería es perfecta...==W== Pero no tienes la vista más aguda.
+0087 [Otoha] | Un clon mágico solo funciona si hay un cuerpo real que imitar.
+0088 [Otoha] | Pero a veces ...==W== ni yo misma sé cuál es el verdadero.
+0089 [Otoha] | Bueno... Basta de charla.==W== Es hora de bajar el telón.
+0090 [Otoha] | Adiós.
+0091 [The Nameless Phantom] | ¡¡Gwaaaaah!!
+0092 [The Nameless Phantom] | Ugh... L-lo siento...==W== Aprendí la lección...
+0093 [Tú] | Me pareces un tipo normal.==W== ¿Por qué hacerte el ladrón fantasma e ir tras el Sello de la Gracia, justo eso?
+0094 [The Nameless Phantom] | Yo... Yo solo escuché por casualidad a esos peces gordos hablar de ello...==W== Que el Jefe posee un Sello de la Gracia de valor incalculable.
+0095 [Otoha] | ¿Peces gordos? ¿Quiénes?
+0096 [The Nameless Phantom] | N-ni idea.==W== Hace unos días, una empresa del Distrito de Oro celebró una gran ceremonia de inauguración y me contrataron ahí como limpiador. Entonces oí su conversación.
+0097 [Tú] | ...
+0098 [Otoha] | Jefe, parece que tendrás que tener más cuidado de ahora en adelante.==W== No soy la única que te vigila desde las sombras. Jeje.
+0099 [Tú] | Sí, lo tendré presente.==W== Por cierto, ¿qué es eso de la identidad de ladrón fantasma?
+0100 [The Nameless Phantom] | ¿No crees ...==W== que es genial?
+0101 [Otoha] | Llámate como quieras. Al final del día sigues siendo un simple ladrón.
+0102 [The Nameless Phantom] | Auch...==W== Supongo que sí...
+0103 [Otoha] | Si de verdad quieres ganar dinero, consigue un trabajo honesto.==W== Toma. Quédate con esta tarjeta.
+0104 [Otoha] | Un conocido mío dirige este taller.==W== Con tu talento para la magia, la paga debería ser decente.
+0105 [The Nameless Phantom] | ¡M-muchas gracias!==W== ¡Nunca olvidaré tu bondad!
+0106 [Tú] | Uf.==W== Qué bueno que por fin terminó todo.==W== Gracias, Otoha. No habría podido mantener a salvo el Sello de la Gracia sin tu ayuda.
+0107 [Otoha] | Jeje, difícilmente podría negarme a ti, Jefe.==W== Además, que me debas un favor es un buen extra.
+0108 [Tú] | ¿Por qué me suena a mala noticia?
+0109 [Tú] | Por cierto... ¿Eres la verdadera tú? ¿O sigo hablando con un clon?
+0110 [Otoha] | Jeje, ¿no es obvio?==W== Soy la de verdad, la única e inigualable~

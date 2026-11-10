@@ -1,0 +1,114 @@
+# Recuerdo de disco · My Guiding Star · 1 · My Guiding Star
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_162 | Alina
+N:avg3_100 | Sylar
+N:avg3_1331 | Noya
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Mi estrella guía
+0003 [Intro] | Para volver a estar al lado de esa persona, la caballera hace un juramento bajo las estrellas y la torre.
+0004 [Alina] | ¡Alto a la izquierda!
+0005 [Alina] | ¡Bajo a la derecha!
+0006 [Alina] | Bien. Bájala con fuerza. Afloja las muñecas. Deja espacio para pivotar.
+0007 [Alina] | Mejor. Centra tu peso. Te inclinas demasiado hacia adelante. Necesitas equilibrio para cambiar de postura.
+0008 [Tú] | ¿A-así?
+0009 [Alina] | Exacto. Tu forma está mejorando.
+0010 [Alina] | Muy bien, probemos un combate de verdad, ==PLAYER_NAME==. Ven contra mí con todo lo que practicamos. No te contengas.
+0011 [Tú] | ¡Okey!
+0012 [Narración] | Las hojas resuenan en la noche tranquila. Aferrando mi espada de entrenamiento, me lanzo a la ofensiva con todo lo que tengo.
+0013 [Tú] | Un tajo básico solo será bloqueado. Dijo que usara todo, así que...
+0014 [Tú] | ¡Allá voy, Alina!
+0015 [Opción] | Fingir un tajo para preparar una estocada
+0016 [Alina] | Vaya... No está mal.
+0017 [Narración] | La punta de mi espada se cuela justo por su guardia. Mi primer golpe limpio de la noche.
+0018 [Tú] | ¡Te tengo!==W== Espera, ¿qué—?!
+0019 [Tú] | ¿Qué...==W== qué acaba de pasar? ¿E-estoy en el suelo?
+0020 [Tú] | Alina, afloja...==W== ¡No puedo respirar! ¡Me rindo!
+0021 [Alina] | ¡P-perdón, ==PLAYER_NAME==! Fue puro reflejo. ¿Te lastimé?==W== Ven, te ayudo a levantarte.
+0022 [Tú] | Estoy bien, no te preocupes. Además, me protegiste, ¿no? Cuando me derribaste,==W== me agarraste de los hombros para amortiguar la caída.
+0023 [Tú] | Pero oye, ¿no estuvo bastante buena esa jugada? ¡Logré obligarte a inmovilizarme! Mi esgrima debe de estar mejorando, ¿eh?
+0024 [Alina] | Tu esgrima...==W== Es más fluida. Y fingir el tajo para preparar la estocada fue astuto.
+0025 [Alina] | Pero a tu cuerpo le falta acondicionamiento. Simplemente no puede seguirle el ritmo a tu cabeza. Cuando cambiaste de postura, dejaste una enorme abertura.
+0026 [Alina] | Una abertura de esas que ...==W== hacen que un oponente quiera por instinto cerrar la distancia, barrerte las piernas y soltarte un cabezazo.
+0027 [Tú] | ¿Eh?
+0028 [Alina] | Era demasiado tentador. Mi cuerpo reaccionó solo. Gracias a las estrellas que me detuve antes del cabezazo.
+0029 [Tú] | Espera. O sea que no me agarraste con suavidad para amortiguar la caída... ¿¡Me estabas jalando para romperme la nariz!?
+0030 [Alina] | Sí.
+0031 [Tú] | ¡Oye, ¿no es un poco brutal?! ¡Se supone que estamos practicando!
+0032 [Alina] | Ejem. Ese fue mi error. Pero si no das todo en la práctica, no durarás ni un segundo en un combate real.
+0033 [Alina] | Tú también lo sentiste, ¿verdad, ==PLAYER_NAME==? Tu cuerpo frena la respuesta de tu cerebro. Las mejores tácticas del mundo no significan nada==W== si no puedes ejecutarlas.
+0034 [Alina] | Pero el acondicionamiento no se logra de la noche a la mañana. Aunque entrenes todos los días, necesitas meses para ver resultados reales.
+0035 [Alina] | A partir de mañana, ven a trotar conmigo por las noches. Combinaremos el trabajo de resistencia con tus formas de espada. Solo sé constante y, con el tiempo, todo mejorará.
+0036 [Tú] | Entendido, entendido. Lo tomaré en serio.
+0037 [Tú] | Aun así, ponte a hablar de espadas y no querrás parar nunca.
+0038 [Alina] | ¿Q-qué? ¿A-ah, sí? ¿De verdad hablo tanto?
+0039 [Tú] | Ahora que lo pienso, de todo el tiempo que pasamos a solas, diría que el cincuenta por ciento es puro entrenamiento...
+0040 [Alina] | ¡E-eso no es cierto!==W== También patrullamos juntas... Hablando de eso, ¡vayamos a patrullar ahora mismo! Un cambio de ritmo te hará bien.
+0041 [Tú] | Y el otro cincuenta por ciento es patrullar.
+0042 [Alina] | Sí. No tengo absolutamente ninguna réplica a eso.
+0043 [Alina] | Odio admitirlo, pero mi vida es simplemente ...==W== monótona. Debe de ser un aburrimiento total pasar el rato conmigo, ==PLAYER_NAME==.
+0044 [Tú] | ¿Objetivamente? Sí, es un poco aburrido.==W== Pero hacerlo todo contigo lo compensa.
+0045 [Alina] | ¿Sí?==W== Pero... No soy interesante en absoluto. Ni de lejos soy tan aguda ni leída como Elis, y no conozco Filanis ni la mitad de bien que Lulu.
+0046 [Tú] | Solo con estar a tu lado me siento a salvo.
+0047 [Alina] | ¿S...==W== Seguro?
+0048 [Alina] | Mi esgrima es buena y siempre te protegeré. Pero no puedo resolver absolutamente todos los problemas.
+0049 [Alina] | Incluso patrullando la «perfecta» ciudad de Filanis, podríamos toparnos con un ladrón hambriento o con algún matón violento de otra ciudad.
+0050 [Alina] | ¡N-no puedes bajar la guardia solo porque yo esté aquí! No puedes limitarte a sentirte a salvo. ¿Y si nos emboscan?
+0051 [Alina] | Estrictamente hablando, no puedo garantizar tu seguridad en todos los escenarios imaginables. Así que...==W== Por favor, no bajes la guardia.
+0052 [Tú] | No me refería a esa clase de seguridad. Quiero decir...==W== Incluso cuando caminamos en la oscuridad, y aunque casi nadie aquí sabe lo que haces por ellos...
+0053 [Tú] | ... Nunca te desanimas. Y nunca dejas de luchar por un mañana mejor.
+0054 [Tú] | Eres como un cálido solecito. Con solo estar a tu lado, se me pega algo de tu impulso.
+0055 [Tú] | Uf. Yo también tengo que esforzarme más. Cuando por fin te ganes el regreso al Monolito, voy a encontrar la manera de volver a casa.
+0056 [Alina] | Tu hogar...==W== ¿Me hablarías más de él?
+0057 [Alina] | Antes dijiste que allá no hay esclavos...==W== ¿Qué clase de ciudad es?
+0058 [Tú] | Ah, mi hogar no es exactamente una ciudad. Es un vehículo.
+0059 [Tú] | Mis amigos y yo lo conducimos por todo el mundo. Pero es cierto, de todos los lugares que hemos visitado, en ninguno hay esclavos.
+0060 [Alina] | Eso suena ...==W== tan libre. De niña, los únicos lugares que he conocido son la Gran Arena de Emor y Filanis.
+0061 [Alina] | Ni siquiera sé ...==W== cómo es Emor fuera de las murallas de la Arena.
+0062 [Tú] | Tendrás tu oportunidad. Tú también eres libre ahora, Alina. Solo te quedas para saldar una deuda y ayudar a que Filanis sea un lugar mejor.
+0063 [Tú] | Algún día, Filanis será la ciudad con la que siempre soñaste. Cuando llegue ese día...==W== Si sigo por aquí, viajaremos los dos.
+0064 [Alina] | ¿Es una promesa?
+0065 [Tú] | Es una promesa.
+0066 [Alina] | Ah, mira la hora. Debo comenzar la patrulla y tocar el cuerno que marca la hora.
+0067 [Tú] | Voy contigo.
+0068 [Alina] | Anoche te desvelaste haciendo los libros de cuentas de los Vigías Nocturnos...==W== ¿Siquiera puedes mantener los ojos abiertos?
+0069 [Tú] | No me subestimes. Soy el búho nocturno definitivo.
+0070 [1] | Zzz...
+0071 [Alina] | Al final te venció el sueño. Te dormiste en pleno camino, con la mano en la empuñadura de mi espada.
+0072 [Alina] | Últimamente te has estado exigiendo demasiado, ==PLAYER_NAME==.
+0073 [Narración] | Alina levanta a ==SEX9==, que se apoya contra ella, empuja la puerta de la insula y acuesta con suavidad a ==SEX4== en la cama.
+0074 [Alina] | ¿Estar a mi lado ...==W== de verdad te hace sentir a salvo?
+0075 [Alina] | Para ser sincera...==W== Estar a tu lado también me hace sentir segura a mí.
+0076 [Alina] | Sobre todo ...==W== cuando miro tu rostro dormido.
+0077 [Narración] | La patrulla nocturna termina. Alina se sienta, recargándose en el borde de la cama.
+0078 [Narración] | Bajo la fría luz de las estrellas, sus suaves respiraciones se sincronizan mientras se sumergen en un sueño profundo.
+0079 [Narración] | Tiempo después, la caballera se despierta sobresaltada.
+0080 [Narración] | La cama está vacía. Las almohadas y las cobijas están pulcramente acomodadas, como invitando a descansar a un viajero cansado.
+0081 [Narración] | La caballera nunca duerme en la cama. Está acostumbrada a quedarse dormida recargada en su borde. Esa cama...==W== Está reservada para alguien. Alguien importante para ella.
+0082 [Narración] | La caballera toma su espada larga y sale de la estrecha insula, bañada por la fría luz de las estrellas.
+0083 [Narración] | La Filanis de hoy ya no necesita sus patrullas nocturnas.
+0084 [Narración] | Jóvenes ciudadanos se han unido a los Vigías Nocturnos, tomando turnos diarios para vigilar la ciudad que les pertenece.
+0085 [Narración] | Aun así, ella sigue saliendo de casa a esta hora por costumbre, adentrándose en el terreno baldío junto a la insula.
+0086 [Narración] | ¡Allá voy, Alina!
+0087 [Narración] | Su mirada vaga. Busca una silueta, esperando que una voz familiar la llame por su nombre.
+0088 [Narración] | Pero su propia risita suave rompe la ilusión.
+0089 [Narración] | Ya no es Alina. Es Noya, una existencia insignificante.
+0090 [Narración] | Una Noya que quiere convertirse en la Noya de la que habló ==PLAYER_NAME==...==W== Una Noya que ni siquiera ==PLAYER_NAME== conoce todavía.
+0091 [Noya] | Suspiro... Qué tonta soy.
+0092 [Noya] | ¿Qué busco aquí afuera? ==SEX1== está allí mismo, dentro del Monolito.
+0093 [Noya] | Pero el acondicionamiento no se logra de la noche a la mañana. Aunque entrenes todos los días, necesitas meses para ver resultados reales.
+0094 [Noya] | A partir de mañana, ven a trotar conmigo por las noches. Combinaremos el trabajo de resistencia con tus formas de espada. Solo sé constante y, con el tiempo, todo mejorará.
+0095 [Narración] | La caballera murmura para sí misma, alzando lentamente su espada larga en guardia, como si quien la acompañaba, con más ideas que habilidad con la espada, aún estuviera frente a ella.
+0096 [Noya] | Protegeré este futuro que nos trajiste. Siempre.
+0097 [Noya] | Me aseguraré de que las huellas que dejaste en Filanis perduren.==W== Hasta el día en que cumplas nuestra promesa.
+0098 [Noya] | Sí. Mientras sea constante, todo estará bien. Todo deseo se hará realidad.
+0099 [Noya] | No tengo arrepentimientos, ==PLAYER_NAME==. Y no creo que tú tampoco.
+0100 [Noya] | Solo mírame. Me haré aún más fuerte.
+0101 [Noya] | La próxima vez, te protegeré hasta el final. Así que por favor... déjame pedir un deseo.
+0102 [Noya] | Que algún día volvamos a encontrarnos.
+0103 [Narración] | La caballera alza su espada en un juramento al cielo nocturno. Aquí afuera, los únicos que escuchan su deseo son las estrellas de arriba y la torre silenciosa.
+0104 [Narración] | En cuanto a si ese deseo se cumple... Esa es una historia para otra era.

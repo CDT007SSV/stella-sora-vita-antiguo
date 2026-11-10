@@ -1,0 +1,6 @@
+# Historia de Cosette — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_142_01 | Alboroto por una «cita» (Parte I)
+CG_142_02 | Alboroto por una «cita» (Parte II)
+CG_142_03 | Alboroto por una «cita» (Parte III)

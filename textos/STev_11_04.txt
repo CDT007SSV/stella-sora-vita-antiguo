@@ -1,0 +1,138 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 4 · Fantasmas del mar
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cosette & Leafia | Cosette y Leafia
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg1_160 | Willow
+N:avg2_945 | Cangrejo ermitaño
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_161 | Leafia
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Fantasmas del mar
+0003 [Intro] | En el viaje de regreso, el Monolito del rumor aparece de repente, pero es imposible acercarse a él. Impulsados por Cosette y guiados por el cangrejo ermitaño, deciden arriesgarse a navegar hacia las profundidades del remolino...
+0004 [Iris] | Ah... Podría acostumbrarme a esta paz y tranquilidad.
+0005 [Noya] | Tuvimos unos cuantos tropiezos en el camino, ¡pero al fin estamos juntos otra vez!
+0006 [Noya] | Ah, hablando de eso, ¿por qué solo el teléfono de Amber funciona? El mío sigue muerto.
+0007 [Amber] | Lo puse entre dos piezas de Ruiseñor Leonado, recé una oración y esperé a que se secara.==W== Shia me enseñó eso.
+0008 [Iris] | Las virutas de madera del Ruiseñor Leonado probablemente ayudan a absorber la humedad. Pero eh...==W== ¿Son seguros para comer después de empaparse con tanta agua?
+0009 [Tú] | Qué animado está esto. Parece que todos están aguantando bien. Bueno...==W== Casi todos.
+0010 [Cosette & Leafia] | Ugh... Todo me da vueltas...
+0011 [Willow] | Parece que esas dos la están pasando mal.
+0012 [Tú] | Es cuestión de constitución. No podemos hacer nada para ayudarlas.
+0013 [Karin] | ¡Perdón por la espera! Shia y yo preparamos una tanda mejorada del remedio contra el mareo. ¡Esto sí las va a curar!
+0014 [Karin] | Tomen, beban esto mientras está caliente. Se sentirán mejor en un santiamén.
+0015 [Tú] | Whoa... Una misteriosa masa oscura y burbujeante.==W== Ah, sí, se ve totalmente seguro.
+0016 [Cosette] | ¡¿Esto es medicina?! No, ni hablar, odio las medicinas...==W== Blegh...
+0017 [Karin] | ¡Oye, oye! ¡Espera! ¡No vomites en el camarote!
+0018 [Tú] | Imagina que es una bebida especial exclusiva de este barco. No la encontrarás en ningún otro lugar de Nova.
+0019 [Cosette] | ¿Especial y exclusiva?==W== Ugh... B-Bueno.==W== ¡L-La voy a tomar!
+0020 [Cosette] | ... Qué sabor tan... peculiar...
+0021 [Leafia] | Tengo... mucho sueño...
+0022 [Tú] | ... ¡¿Estaba tan fuerte que la noqueó?!
+0023 [Karin] | Ah... Le puse unas hierbas para dormir y ayudarlas a descansar. Quizá me pasé...
+0024 [Willow] | No pasa nada. Dejemos que lo duerman.
+0025 [Willow] | El mareo de Leafia es brutal, como siempre. Sabía cómo reaccionaría su cuerpo, pero insistió en venir de todos modos.
+0026 [Karin] | Sí, estaba decidida a encontrar ese Monolito en el mar. Nos rogó que la lleváramos.
+0027 [Karin] | De hecho ahora está mucho mejor. Antes ni se podía parar. Estaba tirada en la cubierta como un charco de lodo y no había forma de despegarla.
+0028 [Tú] | ¿El Monolito en el mar?
+0029 [Willow] | Ah, ¿hablas de ese rumor?
+0030 [Willow] | Hace una semana rescataron a un pescador cerca de Puerto Bellin. Lo atrapó una tormenta, derivó a mar abierto y aseguró que un Monolito apareció justo sobre el agua.
+0031 [Willow] | Aunque estaba delirando cuando lo encontraron. Todos supusieron que el Monolito fue una alucinación causada por el trauma.
+0032 [Karin] | Pero no puedes demostrar que es una alucinación sin comprobarlo tú misma. Además...
+0033 [Karin] | Leafia dijo que no le importaría no encontrar absolutamente nada. Solo quiere plasmar la verdad en su mapa.
+0034 [Karin] | Y la verdad, la respeto por eso.
+0035 [Willow] | Eso suena muy a Leafia.
+0036 [Tú] | ¿Vamos a salir a buscarlo ahora?
+0037 [Karin] | No. Vamos de regreso.
+0038 [Karin] | Leafia decidió que lo prioritario es devolverlos sanos y salvos. En cuanto al Monolito, puede esperar.
+0039 [Tú] | Ya veo...
+0040 [Noya] | ¡==PLAYER_NAME==! ¡Willow! ¡Vengan a ver!
+0041 [Iris] | ¡De repente apareció un Monolito en el agua!
+0042 [Tú] | ¡¿Qué?!
+0043 [Karin] | Así que ese es «el Monolito del mar»...
+0044 [Tú] | Espera, ¿cómo que apareció de repente?
+0045 [Noya] | ¡Justo lo que suena! ¡Hace un segundo el horizonte estaba vacío y de pronto salió un Monolito de la nada!
+0046 [Leafia] | ¡¿Qué?! ¡¿De verdad lo encontraron?!
+0047 [Leafia] | ¡¿Dónde?!==W== ¡Déjenme ver!
+0048 [Karin] | Mira nada más quién se curó. Una mención del Monolito y revive.
+0049 [Karin] | Entonces, ¿qué hacemos? ¿Seguimos de regreso, o...
+0050 [Leafia] | ¿Bromeas? ¡Está justo frente a nosotros! Obviamente...==W== eh...
+0051 [Tú] | Ya llegamos hasta aquí. Más vale echarle un vistazo.
+0052 [Leafia] | P-Pero...
+0053 [Willow] | Por favor, no se preocupen por nosotros. El Monolito era su objetivo principal.==W== Nos sentiríamos fatal si dieran la vuelta por nuestra culpa.
+0054 [Willow] | Además, seguro que todos aquí se mueren por ver de cerca este misterioso Monolito. ¿Verdad?
+0055 [Tú] | Si lo ignoramos, todos nos quedaremos despiertos esta noche arrepintiéndonos.
+0056 [Noya] | ¡Sí! ¡Yo sé que no pegaría un ojo!
+0057 [Shia] | Acerquémonos y veamos qué descubrimos.
+0058 [Narración] | El barco cambia de rumbo y se dirige directo al misterioso Monolito en el horizonte.
+0059 [Leafia] | Algo no está bien.==W== Vamos directo hacia él, pero la distancia no se acorta.
+0060 [Noya] | ¡¿El Monolito se está moviendo?!
+0061 [Amber] | No es justo...
+0062 [Karin] | Qué raro. El rumbo es exacto y la corriente no nos desvía. Y aun así no avanzamos nada.==W== Tch.
+0063 [Tú] | Quizá no es un Monolito de verdad.
+0064 [Karin] | ¿Quieres decir==W== que es un espejismo?
+0065 [Karin] | ¡Claro! Eso lo explica todo.==W== Si es un espejismo, nunca vamos a cerrar la distancia. La estructura real ni siquiera está ahí.
+0066 [Leafia] | O sea que sí es una ilusión. Lo que vio el pescador en verdad fue una alucinación...
+0067 [Karin] | Leafia...
+0068 [Noya] | ¡Whoa!
+0069 [Karin] | ¡¿Qué pasó?!
+0070 [Shia] | ¡Chocamos con algo! ¡Sujétense fuerte!
+0071 [Karin] | ¿Fue un arrecife?==W== ¡No, aquí no debería haber rocas!
+0072 [Willow] | ¡Miren en el agua! ¿Eso es...
+0073 [Noya] | ¡Otra vez este tipo!
+0074 [Iris] | ¡¿Por qué sigue embistiéndonos?!
+0075 [Willow] | Quizá está enojado==W== porque nos llevamos el Artefacto de venta automática...
+0076 [Iris] | ¡¿Y-Y nos siguió hasta aquí para atacarnos?!
+0077 [Amber] | Quiere venganza...
+0078 [Karin] | Eso no tiene sentido. Los Cangrejos Pisoteadores son dóciles. No atacan a menos que los acorralen.
+0079 [Karin] | Además, mírenlo. No parece enojado... Parece más bien...==W== ¿ansioso?
+0080 [Iris] | ¿Puedes saber lo que piensa un cangrejo?
+0081 [Karin] | Lo tiene escrito en la cara.
+0082 [Karin] | Además, se veía felicísimo cuando ese Artefacto se cayó hace rato.
+0083 [Leafia] | ¿Los cangrejos ermitaños tienen expresiones faciales?
+0084 [Noya] | Lo estoy mirando fijamente y sigo sin ver absolutamente nada.
+0085 [Tú] | Igual yo...
+0086 [Karin] | ¡S-Solo lo sé, ¿okey?!
+0087 [Shia] | ¡Cuidado, vuelve a embestir!
+0088 [Narración] | Shia forcejea con el timón para esquivar al cangrejo. La criatura es implacable y se niega a retroceder.==W==
+0089 [Karin] | Quizá... no intenta hundirnos. Nos está sacando del rumbo.==W== ¿Intentará guiarnos hacia algún lugar?
+0090 [Shia] | ¡Karin! ¡Problemas justo adelante!
+0091 [Karin] | ¿Qué es ese sonido? Eso no suena bien.==W== ¡¿Qué está pasando?!
+0092 [Narración] | El mar en calma se desgarra y se convierte en un enorme remolino. Una luz siniestra late en lo profundo del vórtice, como un ojo gigante que observa desde el abismo.
+0093 [Karin] | ¡Shia, gira el timón! ¡Estamos perdidos si nos succiona!
+0094 [Shia] | ¡No puedo! ¡La corriente es demasiado fuerte! ¡No gira!
+0095 [Shia] | Tenemos que abandonar el barco.==W== ¡Karin, baja el bote salvavidas! ¡Hay que movernos!
+0096 [Tú] | Si un barco de este tamaño está atrapado, ¿de qué sirve un bote salvavidas?
+0097 [Shia] | ¡Los botes salvavidas aceleran más rápido! ¡Si lo bajamos ahora, todavía podemos escapar de la succión!
+0098 [Karin] | Yo no me voy...
+0099 [Karin] | Shia, pon a todos a salvo. Yo me quedo para intentar sacarnos de aquí.
+0100 [Shia] | ¡No seas terca, Karin! ¿Olvidaste la regla número uno de la abuela?
+0101 [Shia] | «¡Nunca te pelees con el mar!»
+0102 [Karin] | ¡Lo sé! Pero si lo abandonamos, el barco va a quedar destrozado...
+0103 [Karin] | ¡Este es el barco de la abuela! ¡Te lo dejó a ti!
+0104 [Shia] | Karin...
+0105 [Cosette] | Eh... Allá abajo es seguro...
+0106 [Karin] | ¿Qué dijiste?
+0107 [Cosette] | Debajo del remolino es seguro... Estaremos bien aunque nos succione.
+0108 [Karin] | ¿Estás loca? ¡¿Cómo es eso posible?!
+0109 [Cosette] | ¡Eep!
+0110 [Cosette] | L-Lo juro, es verdad... Ya estuve allá abajo.
+0111 [Shia] | Karin, puedo oler que dice la verdad.==W== Creo que podemos confiar en ella.
+0112 [Karin] | Si Shia lo dice...==W== Si de verdad es seguro allá abajo... Entonces quizá...
+0113 [Leafia] | Tú decides, Karin. Confiamos en ti y en Shia.
+0114 [Karin] | Muy bien...
+0115 [Karin] | Shia, sigue la corriente directo hasta el ojo del remolino. Es nuestra mejor opción para mantener el barco de una pieza.
+0116 [Shia] | ¡Entendido! Déjame el timón a mí.
+0117 [Karin] | ¡Prepárense todos! ¡Nos zambullimos de lleno!
+0118 [Karin] | Ugh...==W== ¿Dónde estamos?
+0119 [Karin] | ... ¡¿Estamos dentro de un Monolito?!

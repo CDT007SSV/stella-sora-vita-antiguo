@@ -1,0 +1,107 @@
+# Historia de Flora · 2 · Miss Butterfly (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dejected Girl | Chica abatida
+N:avg1_126 | Flora
+N:avg3_100 | Sylar
+N:avg3_193 | Fannie
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Señorita Mariposa (Parte II)
+0003 [Intro] | La oportunidad de ser asistente personal de una gran estrella: más vale aprovecharla.
+0004 [Tú] | Habitación 1603... ==W==La encontré, habitación 1603.
+0005 [Narración] | Después de pasar por el gran vestíbulo, sigo las indicaciones que me dio Fannie y llego a la puerta.
+0006 [Tú] | Me pregunto qué clase de encargo imposible será este...
+0007 [Fannie] | Es así...
+0008 [Fannie] | Estos próximos días... ==W==¡cuento contigo para cuidar de Flora!
+0009 [Tú] | ¿Eh? ¿Cuidar?
+0010 [Fannie] | Sí, literalmente. Espero que cuides de Flora. Tengo algo importante que atender, así que estaré fuera unos días.
+0011 [Fannie] | Por eso necesito que seas el asistente de la maga mientras no estoy.
+0012 [Tú] | ¿Asistente de maga, eh? Ya entiendo. ¿Pero un asistente de verdad necesita «cuidar» a la maga? ¿Y una maga de verdad necesita que la cuiden?
+0013 [Fannie] | Normalmente no; pero la situación de Flora es un poco particular... ==W==Yo suelo vivir con ella.
+0014 [Tú] | Mencionaste antes que son hermanas. ==W==Espera, ¿tendré que vivir con ella?
+0015 [Fannie] | Sí, normalmente soy la única que realmente puede con este trabajo. Pero Flora me dijo: «El Jefe debería poder hacerlo».
+0016 [Tú] | ¡Espera, un momento! En realidad no sé hacer magia. Solo he estado en el escenario como ayudante. ¿De verdad puedo ser su asistente?
+0017 [Fannie] | Por supuesto. Tú y nadie más.
+0018 [Tú] | No lo entiendo...
+0019 [Fannie] | Las ideas únicas de Flora para sus espectáculos de magia fluyen de su «personalidad poco convencional»... Para estimular su creatividad, su asistente debe ser alguien en quien confíe por completo.
+0020 [Tú] | Sí, ¿y?
+0021 [Fannie] | Esa falta de convencionalismo quizá sea una ventaja para sus actuaciones y su creatividad, pero en la vida diaria... no tanto.
+0022 [Tú] | ¿Entonces?
+0023 [Fannie] | Si sus fans la vieran como es en el día a día... se desencantarían con ella. Así que ahora entiendes por qué tiene que ser alguien en quien confíe absolutamente, ¿verdad?
+0024 [Tú] | Bueno, oírlo todo esto en realidad me da un poco de curiosidad.
+0025 [Fannie] | Serás bien compensado. ¡Solo por favor cuida de mi hermana!
+0026 [Tú] | Ya que acepté, no hay forma de echarme atrás ahora.
+0027 [Tú] | Ahora que lo pienso, Fannie me dio hace rato una nota que decía... ==W=="Por favor, ayuda a apagar incendios"?
+0028 [Tú] | Bueno, es una maga que trabaja con fuego, así que un recordatorio de tener cuidado con los incendios en realidad tiene sentido...
+0029 [Narración] | Toco la puerta pero no hay respuesta.
+0030 [Tú] | Ya casi es mediodía. Hasta quien se levanta tarde ya debería estar despierto...
+0031 [???] | ==W==¡Ayuda! ¡Fannie! ¡Fan—nie!
+0032 [Tú] | ¡¿Esa es Flora?! ¡¿Qué pasa?!
+0033 [Tú] | Y hay olor a quemado en el aire... Ojalá no sea nada grave...
+0034 [Narración] | Saco la llave de repuesto que me dio Fannie. Entrar sin avisar se siente mal, pero es una emergencia. La puerta hace clic y entro sin perder un segundo.
+0035 [Tú] | ¡Oye, Flora! ¿Estás bien?
+0036 [Dejected Girl] | ¡Ayuda, aaaaah! ¡El fuego no se apaga! ¡Por favor, dime cómo apagarlo...!
+0037 [Tú] | ¡Muy bien, déjamelo a mí! ==W==...==W==Eh, ¿no basta con apagar la perilla?
+0038 [Dejected Girl] | ¡Guau, increíble, de verdad se apagó! Gracias, me salvaste...
+0039 [Dejected Girl] | Pero mi desayuno...
+0040 [Narración] | Hay una sartén sobre la estufa ya apagada. Lo único que queda adentro es un montón de algo quemado y ennegrecido.
+0041 [Dejected Girl] | ¡No, no, no, mis huevos! ¡Era el último cartón que tenía!
+0042 [Tú] | Qué lástima. ==W==Disculpa, ¿está Flora? ¿Tú también eres asistente?
+0043 [Tú] | Fannie no contrataría a otra asistente, ¿o sí? ¿Quién es esta chica, por cierto?
+0044 [Flora] | ¿De qué hablas? ¡Y-yo soy Flora!
+0045 [Tú] | ¡E-espera! ¿Entonces esta persona, que hace huevos frenéticamente y grita al mismo tiempo... es Flora?
+0046 [Flora] | ¡Ay, por favor! ¡Me cambié a algo más cómodo y no me reconoces!
+0047 [Tú] | Flora, ¿estás ahí? ¡Alguien que se parece a tu hermanita dice que quiere huevos fritos!
+0048 [Flora] | ¡No! ¡Soy Flora!
+0049 [Tú] | Ay, perdón... Mirando bien, de verdad se parece a Flora...
+0050 [Tú] | ¡¿Cómo se supone que alguien la reconozca?! ¡¿Adónde se fue esa genial maga estrella?!
+0051 [Tú] | Entonces, ¿qué hacías hace un momento? ¿Estás herida? Ahora soy tu asistente; si necesitas ayuda con algo, solo dímelo.
+0052 [Flora] | Solo intentaba hacer el desayuno...
+0053 [Tú] | Entendido, o sea que investigabas magia del desayuno. ¿Qué necesitas que haga?
+0054 [Flora] | ¡¡Oyeeeee!! ¡No es magia! ¡De verdad solo estaba haciendo el desayuno!
+0055 [Tú] | Mmm, este lado de Flora es bastante tierno.
+0056 [Flora] | Normalmente, en cuanto me levanto, Fannie me trae panqueques y huevos revueltos...
+0057 [Tú] | Claro, y hoy intentaste hacerlos tú misma.
+0058 [Tú] | O sea que eso quería decir Fannie con «por favor, ayuda a apagar incendios»...
+0059 [Flora] | Así que, como surgió la oportunidad, aunque ya ibas a venir a ayudar, ¡quise intentar cocinar por mi cuenta!
+0060 [Flora] | Como soy genial con el fuego, pensé que usar una estufa normal sería pan comido...
+0061 [Tú] | Lo que cuenta es la intención. Pero en serio, ¡una maga debe cuidarse las manos!
+0062 [Flora] | Sí... Tienes razón. No lo pensé bien.
+0063 [Flora] | En ese caso... ==W==¿Y si primero vamos a comprar víveres? De todos modos nos quedamos sin ingredientes.
+0064 [Tú] | No hace falta. Ya compré algunos bocadillos listos para comer y cosas que solo necesitan recalentarse un momento.
+0065 [Flora] | ¡Eso es muy de ti y de Fannie! ==W==Espera... ¿Por qué siento que los dos saben exactamente lo que estoy pensando?
+0066 [Flora] | ¡Ah, cierto! Tú también ven a comer.
+0067 [Tú] | Gracias, pero ya desayuné en casa.
+0068 [Flora] | Qué lástima. Quería desayunar contigo.
+0069 [Tú] | Mientras tanto ordenaré el lugar. Está tan desordenado que no se puede comer en un sitio así.
+0070 [Tú] | Además... si dejas que la habitación del hotel se ponga así, será un problema cuando cambies de cuarto, ¿no?
+0071 [Flora] | Ah, no te preocupes por eso. Esta habitación es de renta a largo plazo.
+0072 [Flora] | Mira, tengo que viajar todo el tiempo por trabajo, ¿no? Rentar un lugar a largo plazo tiene más sentido económico que comprar propiedades en todas partes.
+0073 [Tú] | Dicho así, tiene sentido.
+0074 [Flora] | Pero si sigo dejando que se ponga cada vez más desordenado, Fannie me volverá a regañar.
+0075 [Flora] | Así que... ¡por favor, ayúdame!
+0076 [Tú] | Así que «por favor, ayuda a apagar incendios» no era solo literal...
+0077 [Tú] | Déjame la limpieza a mí. En realidad se me da bastante bien.
+0078 [Flora] | ¡Qué confiable eres! ==W==Pero, eh... en realidad no es solo esta habitación...
+0079 [Narración] | Flora me dedica una sonrisa avergonzada. Como una empleada de hotel, abre la puerta del siguiente cuarto con un pequeño gesto de bienvenida...
+0080 [Narración] | Sorprendentemente, no está tan desordenado como imaginaba, aunque hay muchísimas cosas amontonadas.
+0081 [Tú] | A primera vista, son un montón de cosas raras... ¡Hay muchísimas!
+0082 [Tú] | ¿Podrías decirme qué son?
+0083 [Flora] | Jeje... Como ves... yo misma perdí la cuenta de lo que hay aquí.
+0084 [Tú] | No se va a hacer nada si me quedo parado... Mejor empiezo.
+0085 [Tú] | ¿Son... galletas caducadas?
+0086 [Flora] | Compré un montón porque el empaque se veía rico... ==W==Pero cuando las probé, no tenían ningún sabor... Resultó que eran galletas para mascotas.
+0087 [Tú] | ¿Por qué compraste cinco cojines lumbares con el mismo estampado? ¿Qué tienen de malo los de tu cama?
+0088 [Flora] | ¡Ah! Es que oí que están hechos con tecnología de punta. Son tan suaves y cómodos que, aunque dejes caer un huevo desde el aire sobre ellos, el huevo no se rompe...
+0089 [Tú] | ¿Y lo probaste de verdad?
+0090 [Flora] | ¡Sí! Probé lo del huevo. ¡El huevo no se rompió!
+0091 [Tú] | ¡¿Usas cojines lumbares para eso?! ¡¿Y si es solo para eso, para qué necesitabas cinco?!
+0092 [Flora] | Cada vez que paso por un puesto, termino comprando uno porque no me acuerdo de que ya tengo un montón en casa.
+0093 [Tú] | ¿Quieres que empaque los sobrantes? Si hay algo que no necesites, puedo donarlo a la comunidad o a los niños del Distrito de las Cenizas.
+0094 [Flora] | ¡Claro! Si alguien más puede aprovechar estas cosas, seguro se sentirá mucho menos desperdiciado.
+0095 [Narración] | Así, con Flora comiendo bocadillos para mantener la energía, empezamos a clasificar los montones de objetos y a despejar juntos.

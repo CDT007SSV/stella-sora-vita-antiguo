@@ -1,0 +1,141 @@
+# Nova Times #13 · La señorita y la criada descarada · 1 · The Missy and the Saucy Maid (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cheerful Young Trekker | Joven Trekker alegre
+N:Maid | Sirvienta
+N:Suspicious Sidekick | Compinche sospechosa
+N:Suspicious Trekker | Trekker sospechosa
+N:Trekker Outside | Trekker de afuera
+N:avg1_119 | Nanoha
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_1238 | Chica de la pandilla
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La señorita y la criada descarada (Parte I)
+0003 [Intro] | Incapaz de rechazar la fervorosa invitación de Eleanor, decides guiarla por el camino de un Trekker. Sin embargo, no está sola: la acompaña una sirvienta algo ... peculiar.
+0004 [Tú] | ¿Este es el lugar que está rentando? Es enorme...
+0005 [Tú] | La solicitud dice que quiere que yo le enseñe personalmente lo básico de la sociedad de los Trekkers...==W== Tiene que haber alguien más adecuado para esto.
+0006 [Narración] | Hace poco, una Trekker llamada Eleanor le escribió a Boss Accord, pidiendo específicamente que yo me encargara del trabajo.
+0007 [Cheerful Young Trekker] | ¡Oh, cierto! ¡Encontrarnos así debe de ser cosa del destino!
+0008 [Eleanor] | ¡Soy Eleanor! ¡Solo una Trekker novata, todavía aprendiendo lo básico!
+0009 [Tú] | Aquel primer encuentro se siente como de hace una vida. Nunca pensé que nuestros caminos se cruzarían otra vez.
+0010 [Tú] | Pero dada la enorme cuota de nominación y el depósito que puso, no pude negarme...
+0011 [???] | ¡Te estaba esperando, Mentor! ¡Pasa, por favor! ¡Rápido!
+0012 [Tú] | ¿¡Mentor...!?
+0013 [Eleanor] | ¡Perdón! Me emocioné de más al ver a la leyenda que admiro desde hace tanto... Jejeje.
+0014 [Tú] | Un momento. ¿No es un poco pronto para llamarme así...?
+0015 [Tú] | Además, Boss Accord tiene Trekkers con más experiencia. ¿Por qué yo?
+0016 [Eleanor] | Porque ... ¡eres el Jefe! ¡Un verdadero líder!
+0017 [Eleanor] | Verte liderar a la Nueva Estrella y a Petal Bloom para resolver las Tres Grandes Comisiones y salvar el campamento... ¡Me conmovió muchísimo!
+0018 [Eleanor] | Y corre el rumor de que... ¡tú le diste mentoría a Fuyuka, la actual capitana de Petal Bloom!
+0019 [Eleanor] | Tienes el liderazgo y la determinación que necesito. ¡Por eso quiero que guíes mis primeros pasos como Trekker!
+0020 [Tú] | Me das demasiado crédito. No soy tan increíble.
+0021 [Tú] | Solo derrotamos a los Tres Grandes porque todos trabajamos juntos. Si lo que quieres es aprender lo básico, otras personas serían más adecuadas para ti...
+0022 [Eleanor] | ¡Qué genial!
+0023 [Eleanor] | Humilde, sereno, siempre compartiendo el crédito... ¡Eres la definición de libro de un Trekker perfecto!
+0024 [Eleanor] | Sabía que mi instinto tenía razón. ¡Eres quien puede enseñarme cómo funciona esto!
+0025 [Eleanor] | Jefe... ¡digo, Mentor! Por favor, entréname duro. ¡Quiero convertirme en una verdadera Trekker que se valga por sí misma!
+0026 [Tú] | Bueno, si estás tan decidida... Quizá un mentor que sigue aprendiendo ofrezca una perspectiva fresca. Está bien, probemos.
+0027 [Eleanor] | ¡Gracias! ¡Prometo darlo todo al 110%!
+0028 [Eleanor] | Entonces ... ¿qué sigue en la agenda?
+0029 [Tú] | Vayamos directo al grano. Muéstrame tu equipo.==W== No todos los encargos son peligrosos, pero un Trekker siempre debe estar listo para defenderse.
+0030 [Eleanor] | Sobre eso... He estado probando un montón de cosas, pero nada me ha convencido todavía.
+0031 [Eleanor] | Como estas bombas de humo que conseguí... Me dijeron que todos los profesionales las usan. ¡Son un éxito de ventas!
+0032 [Tú] | Suena útil. ¿Cómo piensas usarlas?
+0033 [Eleanor] | A ver... ¿Quizá para escapar rápido?==W== Solo la lanzo así...
+0034 [Eleanor] | ¡Hiyah!
+0035 [Tú] | ¡Cof, cof! ¡No puedes lanzarla sin mirar! Ugh, este humo... ¡Me arden los ojos!
+0036 [Eleanor] | ¡L-lo siento muchísimo! No fue mi intención...
+0037 [Eleanor] | Mentor, de verdad lo siento...==W== ¡Pero mira esta minibomba! ¡Seguro tiene más potencia que esa bomba de humo!
+0038 [Tú] | Creo que esa bomba de humo ya tenía bastante potencia...==W== ¿Mm?
+0039 [Tú] | Eso no es una bomba. Es un petardo.
+0040 [Tú] | Los Loong los usan para celebrar, no para combatir.
+0041 [Eleanor] | ¿¡Eh!? ¿¡En serio!? ¿Por qué no me lo dijo mi arrendadora...?
+0042 [Tú] | ¿Arrendadora?
+0043 [Eleanor] | Sí, la dueña de esta casa. Antes dirigía un gremio aquí, antes de retirarse. Me vendió todo su equipo sobrante bien barato.
+0044 [Tú] | Ya veo... Por curiosidad, ¿cuánto es la renta?
+0045 [Eleanor] | Quinientas mil Dorras al mes.
+0046 [Tú] | ¿¡Quinientas mil!? Eso es un robo a mano armada. Ningún novato podría pagarlo.
+0047 [Tú] | Como la arrendadora es una ex Trekker, debería conocer bien el precio del mercado. Primero petardos como «minibombas», y ahora esto...
+0048 [Tú] | Eleanor, ¿te están estafando?
+0049 [Eleanor] | P-pensé que era un precio normal...
+0050 [Tú] | ¿Normal? ¿No te suena una locura 500 mil al mes?
+0051 [Eleanor] | ¿T-tal vez? Puedo pagarlo ... aunque a duras penas. Mis ahorros de la mesada lo cubren.
+0052 [Tú] | C-claro... Está bien...
+0053 [???] | Por favor, tome un poco de té.
+0054 [Tú] | Gracias. Eh, ¿quién es...?
+0055 [Eleanor] | ¡Oh! Olvidé las presentaciones. Mentor, ella es Nanoha. La contraté como mi sirvienta.
+0056 [Eleanor] | Quiero concentrarme por completo en mi preparación como Trekker,==W== así que le dejo las labores del hogar a ella.
+0057 [Tú] | Contratar a una sirvienta para concentrarse... Vivimos en mundos distintos...==W== ¿Mm? ¿Qué es ese sonido?
+0058 [Maid] | El timbre. Yo atenderé.
+0059 [Eleanor] | Gracias, Nanoha.
+0060 [Eleanor] | Mentor, ¿en verdad me estafaron?
+0061 [Tú] | Es difícil decirlo con certeza ... pero, a decir verdad, es probable.
+0062 [Eleanor] | Ugh...
+0063 [Maid] | Disculpe, señorita. La arrendadora ha venido a verla.
+0064 [Tú] | ¿Qué hace ella aquí?
+0065 [Eleanor] | ¡Justo a tiempo! Hazla subir al segundo piso.==W== Mentor, ¡voy a llegar al fondo de esto!
+0066 [Tú] | ¿¡Espera, Eleanor!? ¿¡Qué vas a—!?
+0067 [Eleanor] | ¡Nanoha, hazle compañía al Mentor por mí!
+0068 [Maid] | Como ordene, señorita.
+0069 [Tú] | Y se fue...==W== Eh, ¿te importa si te llamo «Nanoha»?
+0070 [Nanoha] | Por supuesto. Soy Nanoha, de Goodwind Homecare. Si me permite la pregunta, ¿es usted quien dirige Boss Accord, ==SEX7== ==PLAYER_NAME==?
+0071 [Tú] | Soy yo.
+0072 [Tú] | Me sorprende que una civil ajena al círculo de los Trekkers conozca mi nombre.
+0073 [Nanoha] | El honor es mío. Sus hazañas son bien conocidas, incluso en Goodwind Homecare.
+0074 [Narración] | Nanoha hace una reverencia respetuosa. Sus movimientos son impecables, lo que sugiere una disciplina muy superior a la de una sirvienta común.
+0075 [Tú] | Goodwind Homecare...==W== No puedo decir que haya oído de ella.
+0076 [Tú] | Supongo que ofrecen servicios domésticos, ¿no?
+0077 [Nanoha] | Precisamente. Limpieza, cocina, jardinería... Aceptamos encargos para lo que el cliente requiera.
+0078 [Tú] | Entonces, ¿cuál es la tarifa de una sirvienta de tu calibre?
+0079 [Nanoha] | Quinientas mil.
+0080 [Tú] | ¿¡Q-quinientas mil!?==W== ¿Eleanor gasta más de un millón al mes solo para vivir aquí...?
+0081 [Nanoha] | No. Quinientas mil no es la tarifa mensual. Es nuestra tarifa por hora.
+0082 [Tú] | ¿¡Quinientas mil ... la hora!?
+0083 [Tú] | Ocho horas al día... ¿¡Eso son cuatro millones de Dorras!? Iris se desmayaría si lo oyera.
+0084 [Tú] | Pero en serio, ¿quién es Eleanor?
+0085 [Tú] | ¿Será en realidad la hija de algún mega magnate...?
+0086 [Nanoha] | No estoy autorizada para revelar los datos de los clientes.
+0087 [Nanoha] | Sin embargo, mi presencia demuestra que la clienta puede pagar nuestras tarifas.
+0088 [Nanoha] | Una vez aceptada una solicitud, nos dedicamos por completo a ofrecer el mejor servicio. Eso justifica el precio premium.
+0089 [Nanoha] | Si alguna vez requiere nuestros servicios, ==SEX7== ==PLAYER_NAME==, por favor avísenos con anticipación.
+0090 [Tú] | Entendido. O sea que es un servicio de lujo exclusivo para los ricos.
+0091 [Tú] | Dijiste que sin importar la solicitud... ¿Eso significa que hacen trabajos aparte de la limpieza?
+0092 [Nanoha] | Precisamente. Ya sea limpiar, cocinar o deshierbar, podemos encargarnos de cualquier tarea en la que nuestros clientes necesiten ayuda.
+0093 [Nanoha] | ¿Tiene algún encargo en mente?
+0094 [Tú] | Ah, no, solo preguntaba. Mis bolsillos definitivamente no dan para sus tarifas, jaja...
+0095 [Tú] | En fin, me pregunto cómo le estará yendo a Eleanor...
+0096 [Tú] | ¿¡Qué fue ese ruido!?
+0097 [Eleanor] | ¿Cuál es el problema? Es de mala educación apuntarle objetos afilados a la gente, ¿sabes?
+0098 [Suspicious Trekker] | No me eches la culpa. Vine a hablar del aumento de la renta: ¿por qué me haces ver como la mala?
+0099 [Eleanor] | ¿Y tu justificación? ¡Ya pago muy por encima del precio de mercado! Además, ¿puedes explicarme por qué esas «minibombas» que me vendiste eran en realidad petardos?
+0100 [Suspicious Trekker] | ¡Cierra la boca y paga como siempre! ¡Deja de hacerte la lenta!
+0101 [Suspicious Trekker] | Sé una buena niña y entrega el dinero. Firma el contrato o las cosas se pondrán feas.
+0102 [Eleanor] | ¡Tú...!
+0103 [Tú] | ¡Eleanor! ¿¡Estás bien!?
+0104 [Eleanor] | ¡Mentor!
+0105 [Tú] | Por fin muestras tu verdadera cara.
+0106 [Suspicious Trekker] | ¿Y tú quién diablos eres?
+0107 [Tú] | Soy su mentor. Y no me quedaré de brazos cruzados mientras una basura como tú extorsiona a una colega Trekker.
+0108 [Tú] | Esto es lo que va a pasar: le devuelves su dinero, o la Guardia Imperial resuelve esto.
+0109 [Suspicious Trekker] | Tsk, bien. Ella recibe el dinero. Solo mantén fuera a la Guardia.
+0110 [Tú] | ¿Mm? ¿Cedes tan rápido?
+0111 [Suspicious Trekker] | ¡Sí, claro que sí! ¡Chicas, Plan B!
+0112 [Suspicious Sidekick] | ¡A la orden!
+0113 [Eleanor] | ¡E-espera...!
+0114 [Suspicious Sidekick] | ¡Toma esto!==W== ¡Disfruta tu estancia!
+0115 [Tú] | ¡Eleanor...!
+0116 [Eleanor] | ¡Ay! M-Mentor... Lo siento...
+0117 [Trekker Outside] | Je, je... ¡Jajaja!
+0118 [Trekker Outside] | Qué lástima, no tienes más opciones. ¡Una vez firmado el contrato, no hay escapatoria!
+0119 [Tú] | ¿Qué? ¿Eso fue...?
+0120 [Tú] | ¡Oh, no—!
+0121 [Eleanor] | ¿Eh? ¿Estamos ... encerrados?
+0122 [Narración] | Tardó un segundo en asimilarse: Eleanor y yo estamos atrapados en el salón del segundo piso.

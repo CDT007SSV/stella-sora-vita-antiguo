@@ -1,0 +1,244 @@
+# Heartlink de Chitose: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Sistema] | Tú y Chitose ahora son amigos. ¡Que empiece la charla!
+A01.0002 [Sistema] | Tú y Chitose ahora son amigos. ¡Que empiece la charla!
+A01.0003 [Sistema] | Tú y Chitose ahora son amigos. ¡Que empiece la charla!
+A01.0004 [Tú] | ¡Vaya, ¿cuántas solicitudes de amistad enviaste?!
+A01.0005 [Tú] | ¡Vale, vale! ¡Ya somos amigos!
+A01.0006 [Chitose] | Excelente, mi ==SEX11==. Por fin lo he logrado.
+A01.0007 [Tú] | Uf. Sí, ya somos amigos...
+
+## Conversación A02
+A02.0001 [Chitose] | Mi ==SEX11==, lloverá esta tarde. Por favor, no olvide un paraguas si sale de casa.
+A02.0002 [Tú] | ¡Gracias por el aviso!
+A02.0003 [Tú] | ¿Pero cómo sabes que va a llover?
+A02.0004 [Chitose] | Porque el aire está cargado de humedad.
+A02.0005 [Chitose] | Por lo tanto, lloverá esta tarde.
+A02.0006 [Tú] | Eh... ¿es así de simple?
+A02.0007 [Chitose] | Lo es.
+A02.0008 [Chitose] | El aroma del viento y la lluvia ya perdura en el aire.
+
+## Conversación A03
+A03.0001 [Chitose] | Mi ==SEX11==, las calles están bastante seguras por el momento.
+A03.0002 [Tú] | ¿?
+A03.0003 [Tú] | ¿Fuiste tú quien acaba de pasar zumbando a mi derecha?
+A03.0004 [Chitose] | ...
+A03.0005 [Chitose] | No lo fui. Yo no estoy allí.
+A03.0006 [Tú] | ¿Mm?
+A03.0007 [Tú] | ¿Te estás escondiendo detrás de ese barril?
+A03.0008 [Chitose] | Esa... no soy yo.
+A03.0009 [Tú] | Pero veo la empuñadura de tu espada.
+A03.0010 [Chitose] | Seguramente es otra espadachina.
+A03.0011 [Opción] | Voy a ir a mirar.
+A03.0012 [Opción] | Voy a llamarte.
+A03.0013 [Chitose] | Le ruego que no lo haga, mi ==SEX11==...
+A03.0014 [Tú] | Vale, vale. Entonces me voy.
+A03.0015 [Chitose] | Por favor, tenga cuidado en el camino, mi ==SEX11==.
+
+## Conversación A04
+A04.0001 [Chitose] | Mi ==SEX11==.
+A04.0002 [Tú] | ¿Qué pasa?
+A04.0003 [Chitose] | Vi mi tierra natal dentro del Monolito.
+A04.0004 [Chitose] | Sé que todo es una ilusión.
+A04.0005 [Chitose] | Pero los cerezos en flor de mi tierra, la nieve...
+A04.0006 [Chitose] | Todo parecía tan real.
+A04.0007 [Chitose] | Debo admitir que me turbé bastante.
+A04.0008 [Tú] | Está bien.
+A04.0009 [Tú] | El Monolito amplifica tus sentidos y emociones.
+A04.0010 [Chitose] | Si entreno para convertirme en una guerrera verdaderamente fuerte...
+A04.0011 [Chitose] | quizá entonces no sentiré tal zozobra al enfrentarme a mi hogar.
+A04.0012 [Tú] | ¡Yo creo en ti!
+
+## Conversación A05
+A05.0001 [Chitose] | Mi ==SEX11==, ¿está disponible en este momento?
+A05.0002 [Opción] | ¡Estoy libre!
+A05.0003 [Opción] | ¡Con algo de trabajo, pero no hay problema!
+A05.0004 [Tú] | ¿Qué pasa?
+A05.0005 [Chitose] | ¿Puedo invitarle a ser mi huésped en Amekiku, mi ==SEX11==?
+A05.0006 [Tú] | Amekiku... Me suena.
+A05.0007 [Tú] | ¿Dónde era?
+A05.0008 [Chitose] | Es una posada de paso que restauré para comodidad de los Trekkers.
+A05.0009 [Tú] | ¡Ah, claro!
+A05.0010 [Tú] | ¡Ya me acuerdo!
+A05.0011 [Chitose] | No se preocupe, mi ==SEX11==.
+A05.0012 [Chitose] | Apenas algún Trekker visita Amekiku.
+A05.0013 [Tú] | ¿En serio? ¿Es así?
+A05.0014 [Tú] | ¡Entonces seré tu primer huésped para vivir la experiencia completa!
+A05.0015 [Chitose] | Por supuesto, mi ==SEX11==.
+A05.0016 [Chitose] | Esperaré su llegada.
+
+## Conversación A06
+A06.0001 [Chitose] | Mi ==SEX11==, ¿requiere una escolta en este momento?
+A06.0002 [Tú] | ¡No, estoy bien!
+A06.0003 [Chitose] | Entiendo.
+A06.0004 [Chitose] | En tal caso, ¿requerirá una escolta más tarde, mi ==SEX11==?
+A06.0005 [Tú] | No lo creo...
+A06.0006 [Tú] | Chitose, puedes tomarte un descanso.
+A06.0007 [Tú] | No tienes que estar en guardia las 24 horas.
+A06.0008 [Chitose] | Muy bien.
+A06.0009 [Chitose] | Entonces, ¿requerirá una escolta mañana, mi ==SEX11==?
+A06.0010 [Tú] | ...
+A06.0011 [Tú] | Olvídalo.
+A06.0012 [Tú] | Mejor ven ahora, Chitose.
+A06.0013 [Chitose] | Mi ==SEX11==, ¿ha surgido de pronto la necesidad de una escolta?
+A06.0014 [Tú] | No realmente.
+A06.0015 [Tú] | Pero podríamos salir a caminar y despejar la mente.
+
+## Conversación A07
+A07.0001 [Chitose] | Mi ==SEX11==, creo que ha llegado el momento.
+A07.0002 [Tú] | ¿El momento de qué?
+A07.0003 [Tú] | ¿Qué momento es?
+A07.0004 [Chitose] | El momento de que usted se convierta en mi portador.
+A07.0005 [Tú] | ¡Vaya, qué repentino!
+A07.0006 [Chitose] | He traído una piedra de afilar y aceite para hojas.
+A07.0007 [Opción] | ¿Piedra de afilar? ¿Tu almohada de piedra?
+A07.0008 [Opción] | ¿Aceite para hojas? ¿Tu crema para la piel?
+A07.0009 [Chitose] | Sí, mi ==SEX11==. Esa es una forma de interpretarlo.
+A07.0010 [Tú] | Esto es un asunto bastante serio...
+A07.0011 [Chitose] | ¿Mi entrenamiento aún es insuficiente?
+A07.0012 [Tú] | ¡No, no, no!
+A07.0013 [Tú] | Si acaso, es mi entrenamiento el que no está a la altura.
+A07.0014 [Tú] | Pero si insistes...
+A07.0015 [Tú] | Puedo ser tu portador provisional.
+A07.0016 [Chitose] | ¿Portador provisional?
+A07.0017 [Tú] | Entrenamos juntos hasta que podamos confiar de verdad en las convicciones del otro.
+A07.0018 [Tú] | Solo entonces me convertiré en tu verdadero portador.
+A07.0019 [Chitose] | Entonces me esforzaré por hacerlo a su lado, mi ==SEX11==.
+
+## Conversación A08
+A08.0001 [Chitose] | Mi ==SEX11==, ¿está disponible hoy?
+A08.0002 [Tú] | Justo a tiempo, te estaba buscando.
+A08.0003 [Tú] | ¿Recuerdas que hoy es tu cumpleaños?
+A08.0004 [Chitose] | Lo recuerdo, pero hace bastante tiempo que no lo celebro.
+A08.0005 [Tú] | Pues eso está a punto de cambiar. Ven para acá.
+A08.0006 [Tú] | Tenemos una sorpresa de cumpleaños para ti.
+A08.0007 [Chitose] | En verdad, no hay necesidad de tanto alboroto.
+A08.0008 [Tú] | ¡No, no, no!
+A08.0009 [Tú] | Insistimos.
+A08.0010 [Tú] | ¡Una buena hoja merece una buena vaina!
+A08.0011 [Chitose] | Mi ==SEX11==, es usted de una consideración admirable.
+A08.0012 [Tú] | ¡Apúrate!
+A08.0013 [Tú] | Te conseguimos un pastel con forma de onigiri.
+A08.0014 [Chitose] | Espere un momento, mi ==SEX11==. Ya voy en camino.
+
+## Conversación A09
+A09.0001 [Chitose] | Mi ==SEX11==, creo que he llegado a un punto muerto en mi esgrima.
+A09.0002 [Tú] | ¿Cuál parece ser el problema?
+A09.0003 [Tú] | Supongo que no es un problema de postura.
+A09.0004 [Chitose] | Tiene razón, mi ==SEX11==. El problema reside en mi corazón.
+A09.0005 [Tú] | ¿En tu corazón?
+A09.0006 [Chitose] | Cuando alzo mi espada, me veo incapaz de alcanzar una mente serena.
+A09.0007 [Chitose] | En el instante en que mi hoja cae, los recuerdos del pasado inundan mis pensamientos.
+A09.0008 [Tú] | Quizá no deberías preocuparte tanto por eso.
+A09.0009 [Tú] | Es normal que la mente se acelere al blandir una hoja.
+A09.0010 [Tú] | Después de todo, no eres una máquina de combate sin sentimientos.
+A09.0011 [Chitose] | ¿Es algo bueno?
+A09.0012 [Tú] | Sí. Solo pensando con cuidado y comprendiendo la razón por la que alzas tu espada
+A09.0013 [Tú] | puedes asestar un golpe libre de toda distracción.
+A09.0014 [Tú] | Llegar a ese estado toma tiempo. Es un camino.
+A09.0015 [Chitose] | Me tomaré mi tiempo para comprenderlo.
+
+## Conversación A10
+A10.0001 [Chitose] | Mi ==SEX11==, está lloviendo de nuevo.
+A10.0002 [Tú] | Sí, una tormenta tras otra.
+A10.0003 [Tú] | Me pregunto cuándo despejará por fin.
+A10.0004 [Chitose] | En Goodwind existe una técnica de espada que implica múltiples cortes.
+A10.0005 [Chitose] | La hoja se blande tan velozmente que puede romper cada gota de lluvia que cae.
+A10.0006 [Tú] | ¡Ohhh, te he visto usar ese movimiento!
+A10.0007 [Chitose] | Pero aún no está perfeccionada.
+A10.0008 [Chitose] | Poseo tres hojas, y aun así mi fuerza no se triplica.
+A10.0009 [Tú] | Pero ya eres increíble.
+A10.0010 [Chitose] | El camino de templar la propia hoja es largo.
+A10.0011 [Chitose] | Mi ==SEX11==, ¿estaría dispuesto a presenciar mientras recorro este sendero?
+A10.0012 [Tú] | Sería un honor.
+A10.0013 [Tú] | ¡No importa cuán largo o sinuoso sea el camino, estaré contigo todo el trayecto!
+
+## Conversación B01
+B01.0001 [Chitose] | Hoy comí un estofado excepcionalmente salado.
+B01.0002 [Tú] | ¿Qué pasó?
+B01.0003 [Chitose] | Se me resbaló la mano y eché demasiada sal.
+B01.0004 [Tú] | Cuando queda muy salado se añade agua, y cuando queda muy desabrido, se añade sal...
+B01.0005 [Chitose] | Lamentablemente, la olla estaba casi llena hasta el borde.
+B01.0006 [Chitose] | El meollo del asunto fue que perdí el equilibrio.
+B01.0007 [Chitose] | A mitad de la preparación del estofado, alguien llamó a la puerta.
+B01.0008 [Tú] | ¿Quién era?
+B01.0009 [Chitose] | Esa mensajera que anda en bicicleta.
+B01.0010 [Chitose] | Dijo que había una entrega exprés urgente, por lo cual firmé de recibido.
+B01.0011 [Chitose] | Luego volví adentro y reanudé la cocina.
+B01.0012 [Chitose] | Justo cuando iba a añadir la sal, llegó otra entrega urgente. Me sobresalté y accidentalmente eché una cucharada entera.
+B01.0013 [Chitose] | Al final, moví la estufa y la olla justo a la entrada. Por si acaso...
+
+## Conversación B02
+B02.0001 [Chitose] | Mi ==SEX11==, ayer hubo una lluvia de lodo por aquí.
+B02.0002 [Tú] | ¿Lluvia de lodo? ¿Qué es eso?
+B02.0003 [Chitose] | El viento levanta polvo hacia el cielo; y si casualmente llueve al mismo tiempo, se convierte en lluvia de lodo.
+B02.0004 [Chitose] | Cuando cae sobre la ropa, deja manchas de barro.
+B02.0005 [Chitose] | Para quienes tienen la colada secándose afuera, es un grave desastre.
+B02.0006 [Tú] | Qué idea tan aterradora
+B02.0007 [Chitose] | Por fortuna, percibí la llegada de la lluvia de lodo y metí la colada de antemano.
+B02.0008 [Chitose] | Incluso advertí a una transeúnte que se apresurara a casa a recoger su ropa; lamentablemente, no me creyó.
+B02.0009 [Chitose] | Dijo: «Si va a llover lodo, ¿por qué estás aquí afuera sin paraguas?»
+B02.0010 [Chitose] | Hasta pensó que intentaba venderle algún Artefacto para lavar ropa.
+B02.0011 [Chitose] | Debatí con ella punto por punto y, al final, se molestó y se marchó.
+B02.0012 [Chitose] | Lo que no comprendo es esto... Discrepar con ella no significa que me desagrade.
+B02.0013 [Chitose] | ¿Por qué se enfureció tanto?
+B02.0014 [Tú] | ... Creo que a la mayoría de la gente le cuesta distinguir entre ambas cosas...
+
+## Conversación B03
+B03.0001 [Chitose] | Mi ==SEX11==, recientemente asistí a un festival de fuegos artificiales.
+B03.0002 [Tú] | ¡Guau!
+B03.0003 [Tú] | ¿Qué tal estuvo?
+B03.0004 [Chitose] | Fue muy hermoso.
+B03.0005 [Chitose] | Cuando era joven, veía los fuegos artificiales desde el patio de mi familia, pero solo de lejos.
+B03.0006 [Chitose] | Esta vez estuve allí en persona y tuve que alzar la vista para verlos.
+B03.0007 [Chitose] | Los fuegos artificiales subían disparados, trazando brillantes líneas en el cielo nocturno, y de pronto estallaban con sonidos atronadores.
+B03.0008 [Chitose] | Reventaban en formas que jamás había visto. Por un breve instante, los destellos incluso iluminaron el Monolito al fondo.
+B03.0009 [Chitose] | Sentí que jamás me saciaría de tanto esplendor.
+B03.0010 [Chitose] | Mi ==SEX11==, ¿cree que la gente podría ver esos fuegos artificiales desde Matsukawa?
+B03.0011 [Chitose] | Cuando personas de distintos lugares contemplan los mismos fuegos artificiales, ¿qué cosas pasarán por su mente?
+B03.0012 [Chitose] | Y esos viejos conocidos a quienes hace tiempo no veo... ¿Acaso también estarán contemplando la misma escena?
+B03.0013 [Tú] | Eh...
+B03.0014 [Tú] | Matsukawa probablemente está demasiado lejos... Seguramente tienes que estar en la misma ciudad para verlos...
+
+## Conversación B04
+B04.0001 [Chitose] | Mi ==SEX11==, ha pasado mucho tiempo. ¿Cómo ha estado últimamente?
+B04.0002 [Tú] | Estoy bien. ¿Y tú, Chitose?
+B04.0003 [Chitose] | Sigo aprendiendo a lidiar con la gente.
+B04.0004 [Chitose] | Nunca se me ha dado bien entender cómo funcionan las cosas, así que a menudo termino en situaciones incómodas e incluso me engañan personas astutas.
+B04.0005 [Tú] | Es un mundo peligroso ahí afuera. ¡Debes tener cuidado, Chitose!
+B04.0006 [Chitose] | En efecto. Mi ==SEX11== posee gran saber y ha recorrido mucho mundo, así que seguramente no tiene tales problemas.
+B04.0007 [Chitose] | En cuanto a mí, mi torpeza para manejar las relaciones sociales me deja exhausta, a veces incluso al borde de las lágrimas.
+B04.0008 [Tú] | Las habilidades sociales de verdad requieren mucha práctica...
+B04.0009 [Chitose] | Si tan solo las relaciones humanas fueran tan simples como el cruce de espadas...
+B04.0010 [Tú] | ... Te sugiero que lo reconsideres...
+
+## Conversación B05
+B05.0001 [Chitose] | Mi ==SEX11==, sigo pensando en las habilidades sociales que mencionó la última vez.
+B05.0002 [Tú] | ¿Alguna idea nueva?
+B05.0003 [Chitose] | Algunas ideas, sí, pero también nuevas preocupaciones.
+B05.0004 [Chitose] | Cuando otros me muestran amabilidad, nunca puedo aceptarla sin inquietud, y desde luego no me atrevo a pedirla yo misma.
+B05.0005 [Chitose] | Sé que tal amabilidad no tiene precio, y sin embargo me encuentro constantemente tratando de calcular cómo corresponderles.
+B05.0006 [Chitose] | ¿Está esto realmente en línea con lo que la gente llama un favor? ¿O lo único que importa es la sinceridad de la intención?
+B05.0007 [Tú] | Definitivamente necesitas reciprocidad, pero no es un cálculo matemático...
+B05.0008 [Tú] | Sobre todo con los amigos, cuando cuentas cada cosita, empieza a sentirse, bueno, nada amistoso...
+B05.0009 [Chitose] | Suspiro. La relación humana de verdad es muy complicada.
+B05.0010 [Chitose] | Pero de una cosa estoy segura: las relaciones son como nudos, que se aprietan con cada intercambio.
+B05.0011 [Chitose] | A veces basta con atar un nudo para sostener firmemente un vínculo.
+
+## Conversación B06
+B06.0001 [Chitose] | Mi ==SEX11==, recientemente aprendí a preparar un nuevo platillo
+B06.0002 [Tú] | ¿Sí?
+B06.0003 [Chitose] | Papas estofadas con carne.
+B06.0004 [Chitose] | Primero, corte las papas en trozos, rebane las cebollas a favor de la fibra y también rebane la carne.
+B06.0005 [Chitose] | Caliente la sartén y saltee las cebollas hasta que doren. Luego añada aceite, ponga la carne y sofría hasta que cambie de color.
+B06.0006 [Chitose] | A continuación, añada azúcar y salsa de soya, luego las papas, y por último suficiente agua para cubrirlo todo. Deje hervir a fuego lento media hora.
+B06.0007 [Chitose] | Sazone justo antes de servir, y listo.
+B06.0008 [Tú] | Ahora me dio hambre...
+B06.0009 [Chitose] | Si su agenda lo permite, mi ==SEX11==, ¿vendría a visitar Amekiku?
+B06.0010 [Chitose] | Permítame prepararle la cena.
+B06.0011 [Tú] | ¡Vale! ¡Voy para allá!
+B06.0012 [Chitose] | Anotado, ya he preparado té y bocadillos. Aguardo con ansiosa expectación.

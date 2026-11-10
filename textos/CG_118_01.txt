@@ -1,0 +1,101 @@
+# Historia de Coronis · 1 · Bones Obsession (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Loud Girl | Chica ruidosa
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_118 | Coronis
+N:avg3_100 | Sylar
+N:avg3_1060 | El chico al que llaman «Capi»
+N:avg3_1061 | Chica preocupada
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Obsesión con los huesos (Parte I)
+0003 [Intro] | Temiendo que tengas una enfermedad terminal, las chicas te llevan a toda prisa a la clínica de Coronis. Aunque intentan disimularlo, su expresión lo dice todo...
+0004 [Tú] | Eh...==W== ¿Dónde estoy...?
+0005 [Tú] | El olor a desinfectante es muy fuerte.
+0006 [Tú] | Esta habitación...==W== me resulta algo familiar.
+0007 [Tú] | ¿Por qué tengo las manos...==W== atadas a la cama?
+0008 [Tú] | Maldición, no puedo soltarme.
+0009 [???] | ¿Por qué forcejeas de repente? De verdad eres travieso.
+0010 [???] | Jeje, te va a doler un poquito, pero aguanta.
+0011 [Tú] | Oye...==W== ¿Quién eres...?==W== ¿Y qué...==W== estás haciendo...?
+0012 [???] | Sacar sangre es una parte esencial de un chequeo médico.
+0013 [???] | ¿De verdad creíste que te iba a inyectar algo raro? Vamos, ten más confianza en tus doctores.
+0014 [Tú] | ¿Soy un paciente?
+0015 [Tú] | Ah...==W== Eres tú, Coronis. Pensé que era un secuestro sospechoso. Me diste un buen susto...
+0016 [Narración] | Todo se remonta a hace unos días, cuando de repente perdí el conocimiento mientras exploraba.
+0017 [Narración] | Aunque recobré el conocimiento poco después, lo que siguió fueron varios días de fiebre leve, tos y dolor muscular.
+0018 [Narración] | Incluso ahora, a pesar de los cuidados de los compañeros del gremio, todavía no me he recuperado del todo.
+0019 [Iris] | Buaa... Buaa... ==PLAYER_NAME==...==W== No puedo creerlo...
+0020 [Tú] | Cof... Cof...==W== Perdón, chicas...
+0021 [Amber] | ¿De verdad es una enfermedad terminal?
+0022 [Iris] | Eso dice el folleto que acabo de recibir.
+0023 [Noya] | ¡P-pero, pero…!==W== ¡Tiene que haber otra manera!
+0024 [Noya] | ¡Ah! ¿Recuerdan a Coronis? Parece muy hábil. ¿Quizá ella podría curarle?
+0025 [Iris] | Coronis…==W== Es la misteriosa doctora que nos salvó en Emor, ¿verdad…?
+0026 [Iris] | No sé si pueda curar algo terminal...==W== ¡Pero quizá tenga alguna manera!==W== ¡Vamos a preguntarle!
+0027 [Tú] | Ah, sí, ya me acuerdo de todo.
+0028 [Tú] | Ya veo...==W== Después de eso me desmayé otra vez, y luego Noya y las demás me trajeron a tu clínica.
+0029 [Coronis] | Más o menos, sí.
+0030 [Coronis] | Tus tres compañeras me pidieron que te hiciera un chequeo a fondo.
+0031 [Tú] | Es verdad...==W== ¡Pero un chequeo normal no requiere atar al paciente a la cama!
+0032 [Coronis] | Es solo un procedimiento de tratamiento～
+0033 [Coronis] | Después de todo, casi todos los pacientes que atiendo intentan huir en cuanto empiezo.
+0034 [Tú] | ¿Huir? Si vinieron a tratarse, ¿por qué intentarían huir?
+0035 [Coronis] | Exacto, a mí también me parece raro. En cuanto la gente ve mis tijeras para huesos y la sierra quirúrgica, entran en pánico y tratan de escapar.
+0036 [Coronis] | Es muy inconveniente...
+0037 [Tú] | ...
+0038 [Tú] | ¿Qué son las tijeras para huesos? Suena aterrador. ¿De verdad forman parte del tratamiento?
+0039 [Coronis] | Por supuesto～
+0040 [Tú] | Ojalá no vaya a necesitarlas...
+0041 [Narración] | Una hora después.
+0042 [Narración] | Mantuve la vista en Coronis mientras escribía con atención en el expediente médico, con sudor frío recorriéndome la espalda, esperando el «veredicto final».
+0043 [Tú] | Doctora, no se preocupe por cuidar mis sentimientos: dígamelo sin rodeos...==W== ¿Cree que puede curarme?
+0044 [Coronis] | Pues...==W== el cuerpo humano tiene tantas incógnitas. Está lleno de misterios, como el mar profundo.
+0045 [Coronis] | Incluso con los Artefactos médicos más avanzados, hay muchísimas enfermedades de las que sabemos muy poco.
+0046 [Coronis] | En otras palabras, es difícil decirlo en este momento.
+0047 [Tú] | En otras palabras...==W== ¿estoy perdido?
+0048 [Coronis] | Primero necesito que te quedes aquí conmigo en observación un tiempo.
+0049 [Coronis] | Poder estudiar un caso como el tuyo, con una constitución tan única...
+0050 [Coronis] | Para una doctora...==W== o mejor dicho, para alguien que investiga los misterios del cuerpo humano...==W== solo pensarlo me emociona. Me dan ganas de ir a disecar una rana ahora mismo.
+0051 [Tú] | Eh...==W== Tengo la sensación de que quizá no salga de aquí con todas mis extremidades...
+0052 [Coronis] | No pongas esa cara. ¿No te dije que debías confiar más en los doctores?
+0053 [Coronis] | No te preocupes. Haré todo lo posible por ayudarte a mejorar.
+0054 [Narración] | Tres días después...
+0055 [Coronis] | Hoy hay dos pacientes que visitar. Cuento contigo para cargar el botiquín y la bolsa de herramientas.
+0056 [Tú] | ...Tú... Resuello...==W== Entendido.
+0057 [Tú] | El botiquín y la bolsa pesan mucho más de lo que pensaba...
+0058 [Coronis] | Jeje, ¿te arrepientes de haber aceptado ser mi asistente?
+0059 [Tú] | No puedo aceptar limosnas. Quedamos en que trabajaría como tu asistente para cubrir los costos del tratamiento, ¡así que lo veré hasta el final!
+0060 [Coronis] | Muy bien, entonces esfuérzate～
+0061 [Worried Girl] | ¡No puedes salir!
+0062 [Worried Girl] | La doctora te dijo que te quedaras en casa descansando, ¿no?
+0063 [The Boy Called "Cap"] | ¡He estado encerrado en casa demasiado tiempo! ¡Si no dejo ver mi cara por ahí, van a olvidar quién manda en este distrito!
+0064 [Worried Girl] | P-pero... ¿No dijo esa doctora que==W== los pacientes malos que no obedecen serán castigados...?
+0065 [The Boy Called "Cap"] | ¡Je, no le tengo miedo! Si intenta algo, simplemente la mando a volar...
+0066 [Loud Girl] | ¡Rápido, escóndanse! ¡Ya llegó el «Demonio de Blanco»!
+0067 [Loud Girl] | ¡Ay no...!==W== ¡Rayos!==W== ¡Hoy trae a un ayudante!
+0068 [The Boy Called "Cap"] | ¡N-no puede ser...!==W== ¡De verdad apareció...!
+0069 [The Boy Called "Cap"] | ¡Rápido, larguémonos de aquí! ¡Esto no es huir! ¡Es una retirada táctica...! ¡Waaah!
+0070 [Coronis] | ¡Jeje, te atrapé!
+0071 [The Boy Called "Cap"] | Guaa... ¡El Demonio de Blanco!
+0072 [Coronis] | Sí, recuerdo que la última vez te dije que necesitabas una semana de reposo, y apenas han pasado unos días. ==W== ¿Qué haces afuera?
+0073 [The Boy Called "Cap"] | Ugh…==W== ¡Yo soy el que manda aquí!
+0074 [Coronis] | Ya veo... Si no vas a portarte bien...==W== no me queda más remedio que castigarte.
+0075 [Coronis] | Sujeción, sedación o aislamiento... ==W== ¿Cuál prefieres?
+0076 [The Boy Called "Cap"] | N-ninguno...==W== Guaa...
+0077 [Coronis] | Entonces pórtate bien y ¡VETE A CASA!
+0078 [The Boy Called "Cap"] | ¡Sí, señora!
+0079 [Narración] | Los niños de la calle se dispersan de golpe. El chico «Capi» sale corriendo, pero aún alcanzo a oír sus sollozos.
+0080 [Tú] | El «Demonio de Blanco» de verdad hace honor a su nombre.
+0081 [Coronis] | No es mal apodo, ¿verdad? Bien, mi asistente, no olvides a qué venimos～
+0082 [Coronis] | Hora de ver a mi primer paciente del día.

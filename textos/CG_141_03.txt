@@ -1,0 +1,102 @@
+# Historia de Chixia · 3 · The Haunted Village (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_141 | Chixia
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La aldea embrujada (Parte III)
+0003 [Intro] | Mientras una tercera sombra titila a la luz de las velas, el secreto pronto será revelado...
+0004 [Tú] | ¡Oye, oye, con calma! Me vas a aplastar el brazo...
+0005 [Tú] | ¡Cálmate de una vez!
+0006 [Chixia] | Oye, ¿sientes más frío? Porque me está dando un escalofrío raro de las rodillas para abajo.
+0007 [Tú] | Creo que sí. Qué genial.
+0008 [Chixia] | ¿¡Por qué estás tan emocionado!? ¿¡No tienes nada de miedo!?
+0009 [Tú] | Pues...==W== Nunca me había topado con algo así, así que supongo que es como dicen: «los novatos no conocen el miedo».
+0010 [Tú] | Además, hemos estado aquí todo este tiempo y no nos ha pasado nada. Seguro eso significa que el «fantasma» en realidad no intenta hacerle daño a nadie, ¿no?
+0011 [Chixia] | S-supongo que tiene sentido...
+0012 [Chixia] | ¡B-bien, empecemos! ¡Mientras antes terminemos, antes podemos largarnos de aquí!
+0013 [Tú] | ¿O sea que vamos a recrear su ceremonia de boda de aquel entonces?
+0014 [Chixia] | Supongo. En las tradiciones Loong, además de vestir de rojo, hay una parte muy importante de la ceremonia: la pareja debe inclinarse ante el cielo y la tierra, ante los padres y, por último, uno ante el otro.
+0015 [Chixia] | Espera un momento. Si vamos a recrear la escena, ¿no necesitamos dos personas más...?
+0016 [Tú] | No es muy seguro arrastrar a otros a esto, considerando que...
+0017 [Chixia] | Tiene sentido...==W== Pero ¿quizá podamos usar otra cosa que haga las veces de personas?
+0018 [Tú] | Perfecto, entonces. Hay muñecos por todas partes afuera. Podemos traer un par para que ocupen su lugar.
+0019 [Chixia] | Oh... ¡Sí, buena idea!
+0020 [Chixia] | Jefe, ve por dos de ellos. Y-yo me quedo aquí a empezar la preparación.
+0021 [Tú] | ¿Solo dos muñecos, entonces?
+0022 [Chixia] | Sí...==W== Pero no te alejes demasiado, ¿vale? Si no vuelves en cinco minutos, y-yo juro que invocaré a un dragón de fuego parlante ¡y haré que grite tu nombre por toda la montaña!
+0023 [Tú] | Está bien, está bien.
+0024 [Tú] | Aunque me dan ganas de ver al dragón de fuego parlante...
+0025 [Tú] | ¡Ya tengo los muñecos!
+0026 [Narración] | Noto que Chixia está junto al pilar con las manos juntas. «Perdón», dice, «solo voy a tomar prestado esto». Con cuidado arranca un pequeño trozo de seda roja del listón que cuelga de los pilares.
+0027 [Tú] | ¿Para qué es eso?
+0028 [Chixia] | Este será el velo rojo. En las tradiciones de boda Loong, la novia lleva una tela roja sobre la cabeza durante la ceremonia.
+0029 [Chixia] | Solo pon esos dos muñecos frente a la mesa.
+0030 [Tú] | ¿Así? ¿Y luego?
+0031 [Chixia] | Voy a cubrir la cabeza de este con la tela, y luego me pondré de espaldas a la mesa, mirando hacia la puerta.
+0032 [Chixia] | Jefe, tú ponte del otro lado. Solo sostén ese muñeco y sígueme el ritmo.
+0033 [Chixia] | ¿Listo?
+0034 [Tú] | ¡Vamos!
+0035 [Narración] | Mientras sostenemos los muñecos y seguimos los pasos, se siente como si hubiéramos retrocedido en el tiempo, participando en una boda de hace mucho.
+0036 [Chixia] | ¡Primero, reverencia al cielo y la tierra!==W== ¡Segundo, reverencia a los venerados padres!
+0037 [Narración] | La ceremonia es bastante corta. Una vez que colocamos los dos muñecos frente a frente, llega el último paso.
+0038 [Chixia] | ¡Los novios se inclinan uno ante el otro!
+0039 [Tú] | ¿Eso es todo?
+0040 [Chixia] | Y con esa última reverencia, la ceremonia de boda queda completa.
+0041 [Chixia] | Eh... Entonces, señorita Novia, ¿ya está satisfecha? ¿Lo hicimos bien?
+0042 [Tú] | No parece que haya cambiado nada...
+0043 [Chixia] | Si nada ha cambiado, ¿no significa que por fin descansa en paz==W==...
+0044 [Chixia] | ¡¡¡WAHHH!!! ¡¿Qué es ese ruido?!
+0045 [Chixia] | ¿H-habremos hecho algo mal y enfurecido a un espíritu vengativo? Q-quizá deberíamos regresar por ahora...
+0046 [Tú] | Parece que hay una sombra afuera de la ventana.==W== Quédate aquí, iré a ver...
+0047 [Chixia] | ¡No me asustes así!
+0048 [Tú] | ¡¡Aah!!
+0049 [Chixia] | ¡Argh! ¿¡Qué pasó!?
+0050 [Chixia] | ¿Eh? ¿Je, jefe?
+0051 [Chixia] | ¡Oye, Jefe! ¿A dónde te fuiste?
+0052 [Chixia] | Bueno... Deja de jugar y sal ya...
+0053 [Narración] | En ese momento, una presencia fría y siniestra apunta hacia su cola.
+0054 [Chixia] | ¡FAN-==W====W==FAN-==W==TASMAAAAA!!! ==W==¡M-MI COLAAAAA! ==W==¡NO ME AGARRES LA COLAAAA!
+0055 [Chixia] | ¡Perdón, perdón, ==W==PERDOOOÓN!!! ==W==Solo soy una Xuan Shi patética de las más bajas que se creyó mucho. ¡Lo siento!
+0056 [Chixia] | ¡S-solo devuélveme al Jefe ==W==y me iré de inmediato! ==W====W==¡Hasta rezaré mis oraciones al llegar a casa! ==W==¡Por favooor!
+0057 [Opción] | Eh... En realidad estoy aquí...
+0058 [Chixia] | ¿¡Bu...!? ==W==E-esa voz... ==W==¿¡Espera, Jefe!? ==W==¿¡Por qué estás debajo del piso!?
+0059 [Chixia] | Uf... ==W==Gracias al cielo... ==W==Qué alivio que estés vivo...
+0060 [Chixia] | Estaba segura de que el fantasma te había atrapado ==W==y te había obligado a fugarte con él o algo así...==W==
+0061 [Opción] | Bueno, no hay razón para llorar ahora...
+0062 [Chixia] | ¡Yo no lloro, tú lloras! ==W====W==Si algo te hubiera pasado, ==W====W==estaba lista para arriesgar mi vida y pelear yo misma contra el fantasma...
+0063 [Opción] | No hace falta. Yo fui quien te agarró la cola
+0064 [Chixia] | … ¿Eh? ==W==¿Tú fuiste ==W==quien la agarró?
+0065 [Chixia] | ¡Qu...! ¡Tonto! ==W==¿¡Sabes lo que significa mi cola para mí!?
+0066 [Opción] | Pensé que podría trepar por ella como por una cuerda...
+0067 [Chixia] | ¡NI SOÑANDO! ==W==¡Hay cosas que puedes y que absolutamente no puedes tocar, ==W==¿sabes!?
+0068 [Chixia] | ¡Y! ==W==¡Hasta que yo diga que se puede, ==W==absolutamente NO puedes mirar hacia arriba! ==W==Solo mantén los ojos cerrados y yo te jalo hacia arriba, ==W==¡así que no te muevas!
+0069 [Chixia] | Ugh… ==W==Nunca volveré a aceptar una comisión así ==W==jamááás!==W==
+0070 [Tú] | Está bien, no espiaré. Solo jálame hacia arriba.
+0071 [???] | ¡¡¡Wooahhhh!!! ¡¡¡Hay un fantasma en el techo!!!
+0072 [Chixia] | ¡Espera, hay algo allá abajo! ¡Es una persona!
+0073 [Chixia] | ¡Tanto trabajo y no hay ningún fantasma aquí!
+0074 [Chixia] | En serio, ¿en qué pensaban esos nerds de la ONG, escondiéndose aquí para hacer Neo Solution y asustando a la gente con todas sus tonterías secretas y sigilosas?
+0075 [Tú] | Pero la verdad, si no fuera por los rumores de «apariciones», ese lugar podría ser un buen escondite.
+0076 [Tú] | Esconder Neo Solution dentro de los muñecos. Nadie lo esperaba.
+0077 [Chixia] | ¡Hmph. Todo es un negocio sospechoso!
+0078 [Chixia] | Ah, por cierto, la Oficina Baize encontró a la dueña original de ese diario. Resulta ser una anciana que vive en Cangwu.
+0079 [Chixia] | El día de la boda, las velas provocaron un incendio sin querer. Por suerte, no fue muy grave. Al final lo tomaron como una oportunidad para mudarse a Cangwu.
+0080 [Chixia] | La aldea fue alguna vez hogar de artesanos famosos por tallar muñecos de madera. Por eso hay muñecos por todas partes.
+0081 [Chixia] | De cualquier modo, ¡gracias a Chixia la Xuan Shi, todo esto quedó resuelto limpiamente!
+0082 [Tú] | Sí, claro, cuando no estabas ocupada gritando y casi rompiéndome el brazo…==W== ¡Auch! ¡Oye, ¿por qué me golpeaste otra vez?!
+0083 [Chixia] | ¡Nadie gritaba! ¡No andes inventando cosas!
+0084 [Chixia] | ¡Te lo digo, después de esto me convertí en una persona completamente nueva! Puedes confiarme este tipo de comisiones de ahora en adelante.
+0085 [Chixia] | Aunque, pensándolo bien, si no había fantasmas, ¿por qué ese «talismán buscafantasmas» que dibujé...
+0086 [Chixia] | Pero debería haber funcionado, ¿no? Eh...==W== Espera, ¿mi maestra de verdad me enseñó el «talismán buscafantasmas»? Creo que no era eso...
+0087 [Chixia] | Ay, no, ¿qué dibujé en realidad? ¿Por qué me hizo ver una visión de la cabeza del Jefe cayéndose? ¿Será que...
+0088 [Tú] | ¿Qué estás murmurando otra vez?
+0089 [Chixia] | ¡N-nada!
+0090 [Tú] | Vaya… En fin, como agradecimiento, déjame invitarte a cenar.
+0091 [Chixia] | ¿En serio?==W== ¡Quiero ir al Comedor Fenghuang! ¡Ya sabes, ese de la esquina de la calle!
+0092 [Narración] | ¡Qué suerte! ¡El Comedor Fenghuang tiene una oferta de dos por uno!

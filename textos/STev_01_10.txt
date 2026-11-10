@@ -1,0 +1,177 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 10 · El secreto del océano
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Bewildered Merchant | Comerciante desconcertado
+N:Confused Treasure Hunter | Cazatesoros confundido
+N:Happy Treasure Hunters | Cazatesoros contentos
+N:Hardworking Housewife | Ama de casa trabajadora
+N:Hexhorn Whale | Ballena Hexcuerno
+N:Knowledgeable Scholar | Erudito instruido
+N:The Crowd | La multitud
+N:Treasure Hunter Crew | Tripulación de cazatesoros
+N:Treasure Hunter Deputy | Lugarteniente de los cazatesoros
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:Worried Treasure Hunters | Cazatesoros preocupados
+N:avg1_135 | Mistique
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_990 | Miembro del Viento de Ceniza
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_201 | Marlene
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | El secreto del océano
+0003 [Intro] | Derrotas a los Trekkers cazatesoros que te han estado siguiendo. En medio del caos, recuperas sin querer el diario de la abuela. Ahora entiendes el secreto detrás de ese resplandor.
+0004 [Karin] | ¡¿El diario de la abuela?!
+0005 [Shia] | Sí. La abuela llevaba un diario mientras estaba en el mar y luego lo pasaba a la bitácora de navegación cuando volvía a casa.
+0006 [Tú] | Recuerdo que Shia dijo que a la bitácora le faltan anotaciones de este periodo en particular.
+0007 [Karin] | Si de verdad es el diario de la abuela, en cuanto lo consigamos por fin podremos averiguar qué pasó en aquel entonces.
+0008 [Karin] | Esa rastrera solo nos dejó verlo un instante antes de esconderlo... Qué tacaña.
+0009 [Shia] | Quiere usarlo como moneda de cambio. Tenemos que pensar en algo.
+0010 [Tú] | ...==W== Ah, tengo una idea.
+0011 [Tú] | Lo que tenemos que hacer es «devaluar» el diario: hacerle creer que no vale nada y engañarla para que lo entregue por voluntad propia.
+0012 [Treasure Hunter Leader] | ¿Siguen dudando, todos? Este diario es una prueba sólida de que Marlene mentía.
+0013 [Treasure Hunter Leader] | Si quieren proteger su nombre, me dejarán ir obedientemente y yo se lo guardaré en secreto.
+0014 [Karin] | Hmph, ¿crees que somos tan fáciles de engañar? ¿Por qué deberíamos creer que ese es su diario?
+0015 [Karin] | No creas que no lo sabemos: hay otro diario de un Trekker distinto de esa época. ¡Planeas engañarnos con ese!
+0016 [Treasure Hunter Leader] | ¡Tonterías! ¡Acabo de encontrar esto en este barco podrido!
+0017 [Shia] | Karin, no hace falta discutir con ella. Aunque el diario sea real, la abuela al final volvió sana y salva al pueblo, y eso es lo único que importa.
+0018 [Tú] | Exacto. Que piense que el diario no nos importa.
+0019 [Treasure Hunter Leader] | Mienten. Si de verdad no les importa, ¿por qué están aquí?
+0020 [Treasure Hunter Leader] | Ustedes tampoco se creen su historia del «Barco fantasma», ¿verdad? Ahora tienen que admitir que fue una mentira completa y absoluta.
+0021 [Treasure Hunter Leader] | Marlene debió de volver en secreto muchas veces a lo largo de los años y vender un montón de huesos de ballena. Qué vergüenza que una viajera tan famosa fuera tan codiciosa.
+0022 [Karin] | ¡¿Cómo se atreve a calumniar así a la abuela...?! ¡¡La voy a dejar hecha una croqueta de pescado!!
+0023 [Tú] | Está tratando de provocarnos. No caigas.
+0024 [Shia] | No te preocupes, Jefe. Subestima mi confianza en la abuela.
+0025 [Shia] | Además, su aroma cambió: ya se está desesperando.
+0026 [Treasure Hunter Leader] | ¿Ya decidieron? No querrán que Marlene se vuelva infame en el pueblo, ni en todo el mundo, ¿o sí?
+0027 [Shia] | Al escucharte... me das muchísima lástima.
+0028 [Treasure Hunter Leader] | ¡¿Eh?! ¡¿De qué hablas?!
+0029 [Shia] | Todo lo que has dicho es solo tu propio delirio. No tienes forma de probar que ella hiciera algo.
+0030 [Karin] | ¡Eso es! ¡Solo alguien tan egoísta como tú pensaría que todos son iguales! ¡La abuela jamás vendería huesos de ballena!
+0031 [Treasure Hunter Leader] | ¿Siguen sin ceder?
+0032 [Treasure Hunter Leader] | Bien. ¡Como ustedes quieran, revelaré sus perversos secretos aquí mismo, en este diario!
+0033 [Treasure Hunter Leader] | ¡Prepárense para la bofetada!
+0034 [Tú] | Bien, está sacando el diario. Ahora solo falta...
+0035 [Shia] | ¡Karin! ¡Apunta a su mano derecha!
+0036 [Karin] | ¡Entendido!
+0037 [Narración] | Una bala silba por el aire y golpea con precisión la mano de la cazatesoros. Ella grita y suelta el diario, que cae al suelo.
+0038 [Treasure Hunter Leader] | ¡Ah! ¡Mi diario!
+0039 [Treasure Hunter Leader] | ¡Ahhhhh...!
+0040 [Tú] | ¡Shia! ¡Se está cayendo!
+0041 [Shia] | ¡Déjamelo a mí!
+0042 [Narración] | Justo cuando estaba a punto de tocar el suelo, Shia saltó hacia adelante y la atrapó con firmeza.
+0043 [Treasure Hunter Leader] | Yo... sigo viva...
+0044 [Shia] | Uf... Ya no te vas a escapar.
+0045 [Treasure Hunter Leader] | T-Tú...
+0046 [Karin] | ¡Se acabó la plática! ¡Suéltate de los brazos de Shia ahora mismo! ¡Te voy a atar!
+0047 [Treasure Hunter Deputy] | O-Oh, jefa, usted también vino…
+0048 [Treasure Hunter Leader] | Hmph. Lo daremos por perdido. Pero a todos les llega su día, ¡tarde o temprano me reivindicaré!
+0049 [Karin] | ¿Te atreves a venir aquí otra vez? ¡Primero cuenta cuántas vidas te quedan!
+0050 [Karin] | ¡En cuanto tu barco navegue por este mar, la Ballena Hexcuerno no te dejará escapar!
+0051 [Hexhorn Whale] | ¡Awooo!
+0052 [Treasure Hunter Leader] | Si es así, ¿por qué no hacemos un trato? Ustedes se encargan del transporte y yo encuentro comprador.
+0053 [Treasure Hunter Leader] | Tantos huesos son como oro esparcido por todas partes. Es un desperdicio dejarlos aquí.
+0054 [Karin] | ¡Oye, ¿ya terminaste?! ¡Eres demasiado ambiciosa!
+0055 [Tú] | Parece que todavía no se rinde… ==W==¿Podremos mantener alejados a esos Trekkers solo con la Ballena Hexcuerno en el futuro?
+0056 [Tú] | ¿Eh? ¿Por qué siento que este esqueleto de ballena está más tenue que antes?
+0057 [Shia] | Así que no soy solo yo...==W== Creo que la luz de toda la isla se ha atenuado.
+0058 [Confused Treasure Hunter] | Sí, hemos visto cómo su luz se desvanecía poco a poco mientras montábamos guardia aquí…
+0059 [Karin] | ¿Qué está pasando? ¿Se habrán roto estos huesos?
+0060 [Shia] | Je, los huesos de ballena no son como las cosas normales, ¿cómo van a romperse?
+0061 [Shia] | Además, en el pueblo solo vemos esta luz cada pocos años, ¿no? De lo contrario, no tendríamos que esperar tanto para venir.
+0062 [Tú] | Rotos...
+0063 [Shia] | Este farol navegó con la abuela durante años. Varias veces creí que ya estaba muerto, pero ella no me dejaba tirarlo. Solo decía: «Ya se arreglará solo».
+0064 [Shia] | ... Todavía chisporrotea, prendiéndose y apagándose, incluso ahora. Y ella nunca me dijo por qué.
+0065 [Mistique] | La luz volvió a aparecer después de esa gran tormenta de hace unos días, y ahora todo el pueblo está alborotado.
+0066 [Narración] | «En medio del aguacero de una noche de tormenta, un siniestro resplandor verde brota en el borde del mar negro como la tinta.»
+0067 [Tú] | Farol, lluvia fuerte, luz... Si es así...
+0068 [Tú] | ¡El farol! ¿Dónde está el farol?
+0069 [Karin] | Está en mi bolsa, aquí...
+0070 [Tú] | Lo sabía. Otra vez no funciona.
+0071 [Shia] | ¿Qué pasa, Jefe? ¿Por qué tanta urgencia de repente?
+0072 [Tú] | Tengo una sospecha…
+0073 [Tú] | La primera vez que vi el farol, brillaba en el mar. Luego, cuando estaba en el barco, se apagó.
+0074 [Tú] | Pero la última vez, cuando cayó de nuevo al mar, se encendió otra vez.
+0075 [Tú] | ¿Querrá decir que cada vez que el farol toca el agua, se enciende?
+0076 [Shia] | Es posible. Déjame probar.
+0077 [Narración] | Shia camina hacia el mar y sumerge el farol en el agua. Un momento después, el farol se enciende, tal como esperábamos.
+0078 [Karin] | ¡Increíble! Eres genial, Jefe. ¿Cómo lo supiste?
+0079 [Shia] | Supongo que hay algún tipo de material luminoso dentro del farol que se activa con el agua.
+0080 [Tú] | Shia, si no te molesta, ¿puedo abrir el farol para ver qué hay dentro?
+0081 [Shia] | Adelante.==W== Pero no tenemos herramientas adecuadas…
+0082 [Treasure Hunter Leader] | Tenemos herramientas para abrir este tipo de carcasa de lámpara. ¿Quieren que se las prestemos?
+0083 [Karin] | Gracias.==W== Espera. ¿Por qué de pronto eres tan cooperativa?
+0084 [Treasure Hunter Leader] | La curiosidad es parte de la naturaleza humana. Si no fuera curiosa, no sería cazatesoros.
+0085 [Narración] | Los cazatesoros traen sus herramientas. Después de varios intentos, aparece una grieta en la carcasa exterior. Vierto la sustancia luminosa que hay dentro.
+0086 [The Crowd] | ¡¿Esto es...?!
+0087 [Narración] | Trozos de huesos relucientes yacen en mi palma. Su siniestro color verde es exactamente igual al del hueso de ballena.
+0088 [Tú] | Si no me equivoco, los huesos dentro de este farol deben de ser de la Ballena Hexcuerno.
+0089 [Tú] | La primera vez que vimos ese esqueleto de ballena, brillaba intensamente bajo la lluvia. Cuando dejó de llover, la luz se fue apagando poco a poco.
+0090 [Tú] | Recuerdo que Shia mencionó que la luz siempre aparece después de varios días de lluvia fuerte en verano.
+0091 [Tú] | Los huesos de ballena solo emiten una luz lo bastante brillante como para verse desde el pueblo después de absorber suficiente agua.
+0092 [Shia] | Por eso la luz no se veía en los últimos años.
+0093 [Karin] | Maldición, ¡y esos estafadores esparciendo el rumor de que la abuela se robó el tesoro! ¡Era el clima!
+0094 [Treasure Hunter Leader] | Así que pasamos todo este tiempo buscando un tesoro, y no solo no hay Monolito...
+0095 [Treasure Hunter Leader] | ... ¡¿sino que hasta estos huesos son solo material luminoso?!
+0096 [Tú] | Los huesos de Ballena Hexcuerno valían mucho hace años.
+0097 [Treasure Hunter Leader] | ¿Qué les dije? Algo tan mágico debe valer mucho.
+0098 [Tú] | Pero con la popularización de los Artefactos linterna, probablemente la gente ya no usa un método de iluminación tan complicado e inestable.
+0099 [Shia] | Es cierto. Hoy en día es casi imposible encontrar este tipo de farol en el mercado. Pensé en llevarlo a reparar, pero ni los artesanos lo reconocieron.
+0100 [Treasure Hunter Leader] | ¿Cómo puede ser...?==W== ¡N-No es cierto!
+0101 [Tú] | Muy bien, entonces tendré que encontrar la manera de demostrártelo.
+0102 [Tú] | Oye, Mistique, ¿estás ahí? Tengo grandes noticias para ti.
+0103 [Mistique] | ¿Qué pasa, Jefe? Si no es algo realmente explosivo, no te perdonaré por interrumpir mi sueño★
+0104 [Tú] | Es absolutamente explosivo. Pero tienes que hacerme un favor...
+0105 [Narración] | Cinco minutos después...
+0106 [Bewildered Merchant] | ¿Faroles de hueso de ballena? Nunca he oído de ellos... ¿Se refiere a faroles con carcasa de hueso de ballena?==W== Si no hay nada más, me retiro. El mercado matutino está por abrir...
+0107 [Knowledgeable Scholar] | Fue un tipo de farol popular en el pasado. Había que rellenarlo de agua con regularidad, pero demasiada agua bloqueaba la luz. Ya está obsoleto.
+0108 [Hardworking Housewife] | Qué complicados eran. Los Artefactos linterna son muchísimo mejores. Solo necesitan un poquito de magia para encenderse.
+0109 [Tú] | ¿Oyeron eso? Estos huesos no se venderán a buen precio.
+0110 [Treasure Hunter Leader] | Q-Quizá todavía haya lugares donde no se usen los Artefactos linterna...
+0111 [Tú] | Tal vez, pero para cuando traslades estos pesados huesos, considerando el costo de la magia, el almacenamiento y la fabricación de las carcasas de los faroles...
+0112 [Treasure Hunter Leader] | ¿Cómo puede ser un negocio con pura pérdida...?==W== ¡M-Me largo!
+0113 [Karin] | Buena jugada, Jefe. Casi la haces llorar.
+0114 [Tú] | Por fin todas las pistas encajaron.
+0115 [Treasure Hunter Deputy] | J-Jefa, ¿y nuestro bono...?
+0116 [Worried Treasure Hunters] | Y el viático, el transporte, el hospedaje y las horas extra que acordamos…
+0117 [Treasure Hunter Leader] | ¡Dejen de quejarse! ¡No voy a faltar a mi palabra! ¿Cómo se puede ser jefa sin integridad?
+0118 [Happy Treasure Hunters] | ¡Viva la jefa!
+0119 [Treasure Hunter Leader] | Rayos... No gané ni un solo Dorra y ahora estoy en una deuda enorme...
+0120 [Karin] | Jeje, eso te pasa por ser tan ambiciosa.
+0121 [Treasure Hunter Leader] | ¡C-Cállate!==W== ¡Muchachos, escúchenme! ¡Todavía tengo un viejo mapa del tesoro! Vámonos ahora. ¡Esta vez seguro volvemos ricos!
+0122 [Happy Treasure Hunters] | ¡Yujuuu...!
+0123 [Shia] | ¿De verdad crees que puedes irte así como si nada?
+0124 [Shia] | Has estado difamando a la abuela por todas partes. Todavía no he saldado cuentas contigo.
+0125 [Karin] | ¡Eso es! ¡Mi cubeta de pescado salado está lista! ¡Prepárense para quedar hechos croquetas de pescado!
+0126 [Treasure Hunter Crew] | ¡¡¡L-LO SENTIMOS MUCHÍSIMO...!!!
+0127 [Narración] | Y así, los cazatesoros se disculpan con nosotros, prometen aclarar todos los rumores sobre la abuela y juran que jamás volverán a esta isla a molestar a la Ballena Hexcuerno.
+0128 [Narración] | Al amanecer, emprendemos el viaje de regreso. La Ballena Hexcuerno nada junto al bote para despedirse.
+0129 [Narración] | Bañadas por la cálida luz de la mañana, Shia y Karin abren el diario sellado desde hace tanto tiempo:
+0130 [Narración] | ==A-1=="... 18.º del mes de Calor, nublado. Es mi tercer día en la isla. Ballenito me ayudó a recuperar el bote, pero estaba demasiado dañado para repararlo."==P== "==A-1==21.º del mes de Calor, nublado. Encontré una Ballena Hexcuerno moribunda en la playa. Ballenito estaba muy triste. Solo pude mirar cómo dejaba de respirar. Recogí unas conchas y las coloqué a su lado, deseando que tuviera un sueño largo y apacible."==P== ==A-1=="30.º del mes de Calor, soleado. Construí un barco nuevo y estaba lista para volver. Ballenito no quería que me fuera. No sé si podré proteger su hogar de otras personas en el futuro."
+0131 [Shia] | Esta es la última anotación. Recuerdo que la abuela regresó al pueblo unos días después.
+0132 [Karin] | ¿No hay nada más? Déjame ver...==W== ¿Eh? ¡Hay algo escrito en la contraportada!
+0133 [Narración] | «A quien lea esto: si no eres Shia, por favor detente aquí. Las siguientes palabras son lo que siempre quise decir pero nunca tuve la oportunidad.»
+0134 [Shia] | ¿Esto es... para mí?
+0135 [Narración] | ==A-1=="Shia, felicidades. Has descubierto la verdad por tus propios medios. Seguro ya eres una Trekker marina extraordinaria."==P== ==A-1=="El origen de la luz son estos huesos. No es un barco fantasma ni son tesoros. Seguro te sorprende, ¿verdad? Solo una Trekker de tercera se desanimaría porque no sean tesoros."==P== ==A-1=="Creo que entiendes que esta isla es el lugar sagrado de descanso de las Ballenas Hexcuerno. Para evitar que gente codiciosa las perturbe, inventaré una historia de barco fantasma. Por favor, sigue protegiendo esta isla en mi lugar."
+0136 [Karin] | Esa es la abuela. Sabía que esas «Trekkers de tercera» nos seguirían.
+0137 [Tú] | Y sabía que encontrarías el camino hasta aquí incluso antes de irse de la isla.
+0138 [Narración] | ==A-1=="Lo siento, Shia. Por favor, perdóname por ocultártelo todo este tiempo. Eras aún muy pequeña y me preocupaba que se te escapara por accidente. Traería demasiado peligro y temo que no podría protegerte."==P== ==A-1=="Ya debes de ser toda una adulta, ¿verdad? Cómo desearía ver en qué te has convertido... Pero, por desgracia, no tendré la oportunidad.==P== ==A-1==Bueno, no estés triste. Aunque haya dejado este mundo, siempre estaré a tu lado, como el mar.==P== ==A-1==Eres mi tesoro más preciado."
+0139 [Tú] | Para la abuela, el tesoro más preciado era Shia...
+0140 [Shia] | Gracias, Jefe. Gracias a ti pudimos leer el diario de la abuela.
+0141 [Shia] | Y... por fin entiendo lo que había en su corazón.
+0142 [Karin] | Uwahh… Abuela…
+0143 [Shia] | Oh, pequeña Karin, ¿por qué lloras?
+0144 [Tú] | Qué bueno que ya salió el sol, o podrías atraer fantasmas.
+0145 [Karin] | ¡Ya empezaste otra vez! ¡Ya no me vas a asustar! Jefe, tú espera...
+0146 [Shia] | Abuela… No te preocupes. Ya no estoy sola.
+0147 [Shia] | A mi lado ya tengo compañeros que son como mi familia.

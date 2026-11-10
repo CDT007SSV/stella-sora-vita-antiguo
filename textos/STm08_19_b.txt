@@ -1,0 +1,371 @@
+# Capítulo 8 · Calor residual · Final: Mom
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Allie? | ¿Allie?
+N:Brave Knight | Caballero valiente
+N:Calm Knight | Caballero sereno
+N:Imperial Knights | Caballeros Imperiales
+N:Iris & Noya & Amber | Iris, Noya y Amber
+N:Knight Captain | Capitán de los caballeros
+N:Knight Growing Braver | Caballero cada vez más valiente
+N:Lightly Wounded Knight | Caballero levemente herido
+N:Mischievous Kid | Niño travieso
+N:Quiet Kid | Niño callado
+N:Scorched Knight | Caballero chamuscado
+N:Serious Knight | Caballero serio
+N:Severely Wounded Knight | Caballero gravemente herido
+N:The Kids | Los niños
+N:Veteran Knight | Caballero veterano
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_1996 | Noya
+N:avg1_1997 | Soldado
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_1313 | Allie
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_157 | Guardia Imperial
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_210 | Hazana
+N:avg3_968 | Caballero cobarde
+N:avg4_104 | Piedra de la izquierda
+N:avg4_105 | Piedra de la derecha
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | Mamá
+0003 [Intro] | La nueva arma de Joseph te toma por sorpresa y acaba con tu vida. El Gremio de la Nueva Estrella perece, y Allie se culpa por no haber protegido a sus hijas. Consumida por el dolor, Allie deja Mirage sola en busca de venganza...
+0004 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0005 [Bernina] | Bienvenido de vuelta, Tirano.
+0006 [Virigia] | Bienvenido de vuelta. Desataste una revolución en Nova con los Cetros de la Muerte.
+0007 [Tú] | ¿Una... revolución?==W== Lo arruiné todo.
+0008 [Tú] | Creé el caos para proteger a los míos, y terminé fallándoles de la peor manera...
+0009 [Bernina] | Jeje. Cambio no significa progreso. Que Nova se hunda en el caos sigue siendo una revolución.
+0010 [Bernina] | Hasta la gente común sin magia puede matar a los poderosos protegidos por magos. Ese cambio no es necesariamente malo.
+0011 [Virigia] | Pero el caos que desataste acabará volviéndose en tu contra.
+0012 [Virigia] | Y, a juzgar por la historia, la victoria siempre termina en manos de quien controla los recursos. Aun así, sería bonito que las cosas cambiaran, aunque fuera un poquito.
+0013 [Tú] | El arma que me mató... parecía una especie de mina terrestre.
+0014 [Bernina] | Mm. No era algo que hubieras creado con un deseo, sino un Cetro de la Muerte totalmente nuevo, cuya plegaria inventó Joseph.
+0015 [Bernina] | Es increíblemente poderoso. Incluso con armadura antibalas, Greyhorn quedó partida por la mitad.
+0016 [Tú] | ¿Noya y las demás... sobrevivieron?
+0017 [Virigia] | Bueno...
+0018 [Virigia] | Deberías ver las grabaciones tú mismo. Los espejos están llenos.
+0019 [Quiet Kid] | ¡Mamá, la cena está riquísima!
+0020 [Allie] | ¿Sí? ¿Quieres más? Todavía queda mucha carne y verdura.
+0021 [Mischievous Kid] | Mamá no está viendo. Me voy a escapar.
+0022 [Allie] | No tan rápido...
+0023 [Allie] | ¡No te has terminado las verduras!
+0024 [Mischievous Kid] | ¡No, no, no! ¡No me voy a comer las verduras!
+0025 [Allie] | No podrás ser Trekker como tus hermanas mayores si no te comes las verduras.
+0026 [Mischievous Kid] | ¡Eso es mentira! ¡Los Trekkers tienen que ser fuertes, y uno se hace fuerte comiendo carne!
+0027 [Allie] | A las Tierras Salvajes no les importa si eres quisquilloso. Cuando se acaban las provisiones, te comes los monstruos que atrapes o las raíces que desentierres.
+0028 [Allie] | ¿Esas hermanas a las que tanto admiras? Han tenido que comer corteza de árbol.
+0029 [Mischievous Kid] | Guácala, ¿en serio...?==W== Pero las verduras saben amargas...
+0030 [Allie] | Mmm. He oído que el sentido del gusto de los niños es distinto al de los adultos. Algunas verduras sí les saben amargas.
+0031 [Allie] | Te propongo algo. La próxima vez las cocinaré mejor. Pero hoy, mi pequeño y valiente Trekker tiene que imaginar que estas verduras son Stellaroids y acabar con ellas.
+0032 [Allie] | Si lo haces, todos recibirán un dulce.
+0033 [Mischievous Kid] | ¡Un dulce! Entendido. Soy un Trekker valiente...
+0034 [Mischievous Kid] | ¡Mira cómo acabo con ellas!
+0035 [Kasimira] | Directora Allie.
+0036 [Allie] | ¡Kasimira!
+0037 [Allie] | Pasa y siéntate. ¿Alguna noticia del Gremio de la Nueva Estrella o del Jefe?
+0038 [Kasimira] | Lo siento...
+0039 [Kasimira] | Esto es todo lo que queda de ellos...
+0040 [Allie] | ¡¿Q-qué dijiste?!
+0041 [Narración] | Unos meses antes.
+0042 [Noya] | ¿Ya está todo empacado y listo?
+0043 [Amber] | Sí. Todo listo.
+0044 [Iris] | No hagan ruido. Van a despertar a la tía Allie.
+0045 [Allie] | ¿A quién no quieren despertar?
+0046 [Allie] | También encontré una nota en la cocina... ¿Adónde van?
+0047 [Noya] | ...Queremos ir a proteger a ==PLAYER_NAME==.
+0048 [Iris] | ==SEX1== está allá afuera sin nadie. Seguro no está comiendo ni durmiendo bien.
+0049 [Allie] | ¿Ayudar con la investigación? ¿No se están encargando de eso los Escorpiones del Desierto?
+0050 [Amber] | No confío en Hazana.
+0051 [Allie] | Confianza aparte...
+0052 [Allie] | No creo que el Jefe les diga dónde está ==SEX==.
+0053 [Iris] | El Jefe sabe lo peligroso que es. ==SEX1== nos ha estado protegiendo desde que se alió con los Escorpiones del Desierto.
+0054 [Amber] | Pero nosotras también queremos cuidar de ==SEX4==.
+0055 [Noya] | Así que iremos directo para allá...
+0056 [Noya] | ¡==SEX1== no puede decirnos que no!
+0057 [Allie] | Adelante, entonces.
+0058 [Noya] | ¿En serio? Pensé que ibas a...
+0059 [Allie] | ¿Pensaste que las detendría?==W== Las niñas que crie nunca abandonarían a un amigo.
+0060 [Noya] | ¡Mamá!
+0061 [Allie] | Ah, ahora sí soy mamá.==W== Bueno, como su madre, tengo una petición.
+0062 [Iris] | Te escuchamos, mamá.
+0063 [Allie] | Traigan al Jefe a casa para que terminemos esa cena. Y en cuanto den con ==SEX4==, llámenme para saber que están a salvo.
+0064 [Amber] | ¡Lo haremos!
+0065 [Allie] | ¿Por qué...? ¿Por qué no fui con ellas...?
+0066 [Kasimira] | Directora Allie, no es su culpa. Usted no podía irse.
+0067 [Allie] | ¿Quién los mató?
+0068 [Allie] | ¿Fue Angie? ¿La que perseguía al Jefe?
+0069 [Kasimira] | No fue ella. Angie no tuvo nada que ver con el negocio de los Cetros. Desapareció en el Monolito hace más de un año.
+0070 [Kasimira] | Fue una exempleada de Cosecha Unida llamada Lady Gray.
+0071 [Allie] | ¿Quién... es ella?
+0072 [Kasimira] | Cometió una serie de crímenes en Philae y la encerraron después del incidente de Darcia.
+0073 [Kasimira] | El Gremio de la Nueva Estrella y el Jefe ya la habían derrotado una vez. Pero nunca imaginamos...
+0074 [Kasimira] | ...que estuviera tan desesperada como para traicionar a sus propios patrones con tal de matar al Jefe.
+0075 [Kasimira] | Los usó como carnada, filtró a propósito el lugar de una reunión secreta entre los senadores...
+0076 [Kasimira] | ...y engañó al Jefe para que creyera que era la oportunidad perfecta para acabar con todos ellos.
+0077 [Kasimira] | Pero el almacén tenía una trampa. Estaba repleto de explosivos.
+0078 [Kasimira] | Para cuando llegamos... no encontramos nada más que... esto.
+0079 [Allie] | Esto es... de Iris...
+0080 [Kasimira] | Lady Gray seguramente se llevó las armas de Amber y Noya como trofeos. Todas murieron en el incendio. El Jefe estaba con ellas.
+0081 [Kasimira] | Directora Allie, lamento mucho su pérdida... La dejaré sola.
+0082 [Narración] | ¡Espera!
+0083 [Narración] | Dime dónde está.
+0084 [Kasimira] | Directora Allie...
+0085 [Allie] | Ya no soy la directora.
+0086 [Allie] | Soy Allie.
+0087 [Allie] | La madre de Noya.
+0088 [Allie] | La madre de Iris.
+0089 [Allie] | La madre de Amber.
+0090 [Allie] | La madre... de cada niño de este orfanato.
+0091 [Narración] | ¿Por qué ellas? Y el Jefe... ¡¿Por qué tuvo que pasar esto?!
+0092 [Narración] | Ahora dime. ¡Dime dónde está esa bestia!
+0093 [Kasimira] | Lady Gray tomó el dinero de sus patrones muertos y contrató a la Guardia Imperial como escolta personal. Usted sola...
+0094 [Allie] | No te lo estoy pidiendo. Ni te lo estoy rogando.
+0095 [Allie] | No voy a arrastrar a tu gente a esto. ¡Voy a vengar a mis hijas con mis propias manos!
+0096 [Narración] | ¡Ahora!
+0097 [Narración] | ¡Ahora mismo!
+0098 [Narración] | ¡Dímelo!
+0099 [Allie] | ¡¡Dime dónde está!!
+0100 [Mischievous Kid] | Mamá, ¿adónde vas?
+0101 [Allie] | Pórtate bien y hazles caso a Kasimira y a Chaton, ¿sí? Mamá tiene que hacer un viaje fuera del desierto. Tengo algo importante que hacer.
+0102 [Kasimira] | Directora Allie... Por favor, piénselo bien. Si nosotros nos encargamos del orfanato...
+0103 [Allie] | Aquí viven algunos niños del Gato Blanco. Sé que los mantendrás a salvo. Has mantenido la paz en Mirage, ¿no?
+0104 [Kasimira] | Está bien. Estaremos aquí esperando su regreso. Todos nosotros.
+0105 [Allie] | Mjm...
+0106 [Allie] | Solo estoy cumpliendo con el deber de una madre.
+0107 [Narración] | Ese día, Allie dejó Mirage.
+0108 [Narración] | Desde ese día, las pesadillas de los senadores tuvieron un nuevo nombre:
+0109 [Narración] | El Gato de Patas Negras.
+0110 [Narración] | Uno por uno, todos los que conspiraron contra el Jefe y condenaron al Gremio de la Nueva Estrella murieron.
+0111 [Narración] | Sin piedad. Sin juicio. Solo los pasos de la muerte en la oscuridad. Era un cataclismo silencioso que cobraba completas todas las deudas de sangre.
+0112 [Narración] | Pronto, solo queda un nombre en la lista de Allie: Lady Gray.
+0113 [Narración] | Desesperada por sobrevivir, la obscenamente rica Lady Gray contrató la mejor protección que podía ofrecer la Guardia Imperial y reservó un hotel entero para sus caballeros.
+0114 [Narración] | Es la protección más estricta y costosa que el dinero puede comprar en Nova.
+0115 [Calm Knight] | ¡Cuidado! ¡El Gato de Patas Negras está aquí!
+0116 [Narración] | ==Off==Sin ejército. Sin cuernos de guerra. Sin declaración.
+0117 [Narración] | ==Off==Solo una mujer cuyo mundo ya había perdido todo su color.
+0118 [Narración] | ==Off==Como una ejecución...
+0119 [Narración] | ==Off==...que está destinada a cumplirse.
+0120 [Knight Captain] | ¡En formación!
+0121 [Knight Captain] | ¡Escudos arriba! ¡Lanzas al frente!
+0122 [Imperial Knights] | ¡Listos!
+0123 [Knight Captain] | ¡Manténganse firmes! ¡Es solo una mujer!
+0124 [Noya] | ¡Mamá, mira! ¡Hoy atrapamos un jabalí enorme en el bosque!
+0125 [Amber] | La resortera que hiciste funciona muy bien.
+0126 [Noya] | ¡Iris lo congeló con un «¡Fiuuuuush!», y luego Amber y yo nos lanzamos y lo derribamos con un «¡Pum!»!
+0127 [Iris] | N-no es para tanto... Jeje... Al final fue Noya quien salvó el día.
+0128 [Amber] | ¡Porque cargó ese jabalí gigante ella sola hasta aquí!
+0129 [The Kids] | Tenemos hambre...
+0130 [Allie] | Jeje, tranquilos.==W== Voy a empezar con la cena. Esperen solo un poquito más~
+0131 [Calm Knight] | ¡¡¡Capitán!!!
+0132 [Knight Captain] | (Esto no se parece a aquel duelo...)
+0133 [Knight Captain] | (Lo que enfrentamos ahora mismo... es una guerra).
+0134 [Allie] | Porque... destazar un jabalí de este tamaño no es poca cosa...
+0135 [Cowardly Knight] | ¡¿De qué demonios está hablando?!
+0136 [Brave Knight] | ¡No se queden ahí parados! ¡Muévanse!
+0137 [Allie] | Primero se cuelga para que escurra la sangre... Luego se abre por la panza...
+0138 [Brave Knight] | Demasiado... rápida...
+0139 [Knight Growing Braver] | ¡Monstruo! ¡Toma esto!
+0140 [Allie] | Y los colmillos... son un material maravilloso para hacer manualidades.
+0141 [Noya] | ¡Guau, qué fuerte eres, mamá! Yo ni siquiera pude abollarlos con mi espada...
+0142 [Knight Growing Braver] | Me rompió la lanza... con las manos desnudas.
+0143 [Allie] | Je, después de todo soy su mamá. Un jabalí de este tamaño... Tiene la piel dura como una armadura. Puedo usarla para hacerles algo de equipo.
+0144 [Knight Captain] | ¡Dispérsense! ¡Que nadie la enfrente más que yo!
+0145 [Veteran Knight] | ¡Lo cubriré con magia, capitán!
+0146 [Knight Captain] | ¡Hazlo!
+0147 [Allie] | Oye, Amber. A la sopa todavía le falta hervir un rato. Si no, te va a caer pesada.
+0148 [Noya] | Mamá, si la sopa va a tardar una eternidad, ¡asemos carne! ¡Se me antoja muchísimo!
+0149 [Allie] | ¿Carne asada? ¿Por qué no?==W== El jabalí salvaje sabe delicioso a la parrilla. Pero me tendrán que ayudar a vigilarla para que no se queme.
+0150 [Veteran Knight] | Llamas primigenias,==W== ¡surjan e incineren a mi enemigo!
+0151 [Allie] | Aquí está...==W== Este corte es perfecto para asar.
+0152 [Scorched Knight] | ¡Aaaagh!==W== ¡Quema! Mi armadura... ¡Se está derritiendo!
+0153 [Knight Captain] | ¡Monstruo!
+0154 [Scorched Knight] | Capitán... Ayuda...
+0155 [Knight Captain] | ¡Gato de Patas Negras! ¡Pelea conmigo!
+0156 [Allie] | Ay, caramba... Se pasó un poquito. Con razón olía a quemado... Qué descuidada fue mamá.
+0157 [Knight Captain] | ¡Maldición!
+0158 [Allie] | Queda tanta carne...==W== Hay que prepararla fresca. Los niños están esperando...
+0159 [Veteran Knight] | Llamas primigenias...
+0160 [Knight Captain] | ¡Alto! ¡Cancela el hechizo!
+0161 [Veteran Knight] | Pero...
+0162 [Knight Captain] | Tus hechizos pegan fuerte.
+0163 [Knight Captain] | Pero no le das a ella y estás asando a nuestra propia gente...
+0164 [Knight Captain] | No puedo escuchar a otro caballero quemarse vivo.
+0165 [Amber] | ¡Guau, huele increíble!
+0166 [Noya] | ¡Me muero de hambre!
+0167 [Iris] | Jeje, solo hay que cuidar el fuego y no se quemará.
+0168 [Knight Captain] | Ah... Ah...
+0169 [Serious Knight] | Somos los últimos que quedamos en pie.
+0170 [Calm Knight] | ...¿Queda alguna esperanza?
+0171 [Veteran Knight] | Vayan con el capitán. Yo ganaré tiempo.
+0172 [Veteran Knight] | Aguas serenas,==W== ¡elévense como niebla y ciéguenla!
+0173 [Veteran Knight] | Mordió el anzuelo...
+0174 [Veteran Knight] | ¡Esperen! ¡Ni siquiera me está mirando!
+0175 [Veteran Knight] | ¡Capitán!
+0176 [Knight Captain] | Detuvo mi golpe más fuerte... solo con la mano izquierda...
+0177 [Allie] | ¡Vengan, cariños!==W== Es hora de cenar.
+0178 [Lightly Wounded Knight] | ¡Capitán, está demasiado malherido!
+0179 [Serious Knight] | Yo puedo contenerla. ¡Capitán, váyase de aquí!
+0180 [Veteran Knight] | Usted es el único que todavía puede salir con vida... Nosotros ya no podemos huir.
+0181 [Severely Wounded Knight] | No importa si morimos... Mientras usted viva... la unidad podrá reconstruirse.
+0182 [Allie] | Solo hay que poner este plato en la mesa... y...
+0183 [Allie] | ¡Listo~!
+0184 [Knight Captain] | ...Basta.
+0185 [Imperial Knights] | Capitán...
+0186 [Knight Captain] | ...Detente.
+0187 [Knight Captain] | Por favor, detente.
+0188 [Knight Captain] | Nuestro contrato era proteger a la clienta. Por el honor de la Guardia Imperial, teníamos que cumplirlo.
+0189 [Knight Captain] | Pero se acabó... Nos rendimos. Como comandante, asumo toda la responsabilidad.
+0190 [Knight Captain] | Mis manos, mis ojos, mis piernas, mi vida... Toma lo que quieras.
+0191 [Knight Captain] | Solo... perdona a mi gente.
+0192 [Veteran Knight] | ¡Capitán, no!
+0193 [Knight Captain] | ¡Cállate!
+0194 [Knight Captain] | ...Yo acepté este contrato y yo los traje aquí. Ya perdimos suficiente gente hoy.
+0195 [Allie] | ¿Tú también tienes gente a la que quieres proteger?
+0196 [Knight Captain] | Sí, la tengo... Mi gente vivirá, ¿verdad?
+0197 [Allie] | Llévame con Lady Gray.
+0198 [Knight Captain] | ...Ven conmigo.
+0199 [Veteran Knight] | Pero, capitán, ¿y la penalización enorme? ¿Y qué le vamos a decir a la empresa?
+0200 [Knight Captain] | Yo asumiré toda la responsabilidad.
+0201 [Lady Gray] | ¡Por fin regresaste! ¿Y bien? ¿Ya está muerta esa loca?
+0202 [Lady Gray] | ...¿Qué te pasó?
+0203 [Knight Captain] | El contrato queda rescindido. Aquí tiene su anticipo y la penalización.
+0204 [Lady Gray] | ¿Qué es esto? ¿Perdiste la cabeza? ¡No voy a rescindir el contrato! Quédate con tu Dorra. ¡Quiero que me protejas!
+0205 [Lady Gray] | ¡Pagué por mi seguridad! Te pagué para que murieras por mí, no para que me pusieras un papel en la cara. ¿Dónde quedó el honor de la Guardia Imperial?
+0206 [Knight Captain] | ¿Honor? Supe que una vez usó a sus propios patrones como carnada y luego les robó todo lo que tenían.
+0207 [Knight Captain] | Y aun así, aquí estoy, devolviéndole su anticipo y pagando la penalización. Yo diría que estoy defendiendo muy bien el honor de la Guardia.
+0208 [Knight Captain] | Es toda tuya.
+0209 [Narración] | ==Off==Gato de Patas Negras.
+0210 [Lady Gray] | No... No. ¡Espera! ¡Regresa!
+0211 [Lady Gray] | ¡Te pagaré más Dorra!
+0212 [Lady Gray] | ¡Vuelve aquí! ¡Es una orden!
+0213 [Knight Captain] | La Guardia Imperial ya no acepta sus órdenes.
+0214 [Lady Gray] | Lo sé... Sé que estás aquí por el Gremio de la Nueva Estrella.
+0215 [Lady Gray] | ¡Mira, yo solo iba tras el Jefe! Nunca quise hacerles daño. ¡Fue un accidente! ¡Un completo accidente!
+0216 [Lady Gray] | E-espera... Quieres esto, ¿verdad? ¡Pagué una fortuna para repararlas!
+0217 [Lady Gray] | ¡Toma, llévate sus armas! Te lo juro, he rezado por ellas al Dios de la Gracia todos los días desde que pasó. Déjame vivir y te daré lo que sea. Dorra, Artefactos, información...
+0218 [Lady Gray] | ¡AAAH...!
+0219 [Lady Gray] | Cof... Cof...==W== Aah...==W== Agh, agh...
+0220 [Allie] | De ahora en adelante...
+0221 [Allie] | Nunca más usarás esa boca para inventar mentiras baratas y tomarle el pelo a la gente.
+0222 [Lady Gray] | ¡Agh! ¡Agh! ¡Agh... Aah... Aah...
+0223 [Allie] | Y nunca más usarás esas manos para jugar con la vida de los demás.
+0224 [Lady Gray] | Agh... ¡Agh... Agh...!==W== Cof...==W== Agh...
+0225 [Allie] | Ya que llegaste a la cima aplastando a todos los que se cruzaban en tu camino...
+0226 [Narración] | ==Off==De ahora en adelante, disfruta ser un gusano...
+0227 [Narración] | _NOT_IN_LOG_==Off==...y arrástrate por la tierra.
+0228 [Narración] | ==Off==...y arrástrate por la tierra.
+0229 [Allie] | Muy bien.==W== ¿Ya comieron todos lo suficiente?
+0230 [Iris & Noya & Amber] | ¡Estamos llenas!
+0231 [Allie] | Qué bien.
+0232 [Allie] | Bueno, ya que están llenas... Vayan a lavarse los dientes y prepárense para dormir.
+0233 [Noya] | Hoy jugamos muchísimo. Tengo sueño...
+0234 [Iris] | Sí, y cocinar juntas tardó un montón. Se hizo tarde rapidísimo...
+0235 [Amber] | Mamá. La cena estuvo muy rica.
+0236 [Iris] | Gracias, mamá.
+0237 [Noya] | ¡Graaacias, mamá, mil gracias!
+0238 [Amber] | Gracias, mamá.
+0239 [Narración] | ¡Mamá!
+0240 [Allie] | Yo...
+0241 [Allie] | Una vez conocí a unas niñas maravillosas...
+0242 [Allie] | Lo único que quería era ser alguien en quien pudieran confiar. Alguien a quien quisieran...
+0243 [Allie] | Imité a los adultos que me rodeaban y aprendí a cuidarlas, a protegerlas, a ser una madre...
+0244 [Narración] | _NOT_IN_LOG_==Off==Todo es==A1.5==
+0245 [Narración] | _NOT_IN_LOG_==Off==tu==A1.3==
+0246 [Narración] | _NOT_IN_LOG_==Off==culpa==A0.8==
+0247 [Narración] | _NOT_IN_LOG_==Off==culpa==A0.8==
+0248 [Narración] | _NOT_IN_LOG_==Off==culpa==A0.6==
+0249 [Narración] | _NOT_IN_LOG_==Off==culpa==A1.2==
+0250 [Narración] | ==Off==Todo es tu culpa.
+0251 [Narración] | ==Off==No pudiste protegerlas.
+0252 [Narración] | ==Off==Sabías que era peligroso. Pero las dejaste ir.
+0253 [Narración] | ==Off==Si tan solo hubieras ido con ellas a ayudar al Jefe...
+0254 [Allie?] | Ellas no habrían...
+0255 [Narración] | El orfanato...
+0256 [Allie] | Nunca me gustó ese nombre...==W== Pero, pasara lo que pasara, era... nuestro hogar.
+0257 [Allie] | Ninguna de nosotras sabía cómo eran nuestros verdaderos padres. Pero ahí dentro, yo era su madre.
+0258 [Allie] | Les di todo lo que tenía. Todo el amor que podía ofrecer...
+0259 [Allie] | Recé para que nunca siguieran mi camino. Para que nunca terminaran como yo...
+0260 [Allie] | Quería que crecieran a salvo. Despreocupadas e inocentes, aferradas a sus sueños...
+0261 [Allie] | ¿Qué decisiones tomarían al crecer? ¿Qué clase de adultas llegarían a ser?
+0262 [Allie] | No tenía idea, claro.
+0263 [Allie] | Porque ese era su futuro... Solo de ellas.
+0264 [Allie] | Pero...
+0265 [Allie] | ¿Por qué...? ¿Por qué mis niñas? ¿Cómo salió todo tan mal...?
+0266 [Allie?] | Sabes perfectamente por qué. Todo es tu culpa...
+0267 [Allie] | ¿Mi culpa? No... No, no lo es. No es mi culpa...
+0268 [Allie?] | Todo es tu culpa...
+0269 [Allie] | ¡No lo es! E-ellas estaban aquí hace un momento... Justo a mi lado... Riendo...
+0270 [Narración] | ==Off==Todo es tu culpa...
+0271 [Narración] | _NOT_IN_LOG_==A1.5====Off==Todo esto... Todo esto　　　　　Todo esto... Todo esto Todo esto... Todo esto
+0272 [Narración] | _NOT_IN_LOG_==Off==Todo esto... Todo esto　　　　　Todo esto... Todo esto Todo esto... Todo esto
+0273 [Allie] | Noya... Iris... Amber...
+0274 [Narración] | ==Off==...es tu culpa...
+0275 [Allie] | ¡Bueno, bueno, niñas! Se acabó la cena.
+0276 [Allie] | Ya es tarde. Pórtense bien y váyanse a dormir.
+0277 [Allie?] | Todo es tu culpa.
+0278 [Allie] | Un sueño... Claro, esto es solo un mal sueño...
+0279 [Narración] | Todo es tu culpa.
+0280 [Allie] | Eso es. ¡Tiene que ser una pesadilla!
+0281 [Allie] | Todavía no me he despertado. Eso es todo.
+0282 [Narración] | ==Off==Jaja... Cuando despierte, todo volverá a la normalidad...
+0283 [Narración] | ==Off==Correrán a mis brazos, riendo y jugando como siempre...
+0284 [Narración] | ==Off==Todo es tu culpa.
+0285 [Allie] | Ah... Si es solo un sueño, no hay prisa... Cantemos una canción...
+0286 [Allie] | Cantaré esa... La canción de cuna que siempre les cantaba cuando eran pequeñas.
+0287 [Allie] | Si sigo cantando... despertaré...
+0288 [Narración] | ==Off==Todo es tu culpa.
+0289 [Narración] | ...==W==...==W==...==W==...==W==
+0290 [Allie] | No tengan miedo, mis cielos. No tengan miedo...
+0291 [Allie] | Mamá ya ahuyentó a todos los malos...
+0292 [Allie] | Así que vuelvan a casa... Vuelvan a casa con mamá.
+0293 [Allie] | Vengan, vengan aquí... Mamá nunca más las dejará enfrentar solas este mundo aterrador.
+0294 [Allie] | Niñas... ¿Adónde van? Regresen...
+0295 [Allie] | Por favor, no dejen atrás a mamá...
+0296 [Allie] | Mamá las mantendrá a salvo...
+0297 [Allie] | Esta vez... las protegeré a todas. Lo prometo.
+0298 [Allie] | Por favor...
+0299 [Allie] | Devuélvanme a mis hijas.
+0300 [Allie] | Vamos todas a casa...
+0301 [Virigia] | Eso fue lo que pasó después de que moriste.
+0302 [Bernina] | Esa madre se convirtió en un demonio en el momento en que supo que sus hijas habían muerto.
+0303 [Virigia] | Supongo que eso también es amor de madre.
+0304 [Tú] | ¿Qué... qué he hecho...?
+0305 [Bernina] | Solo usaste el Artefacto del Monolito para protegerte.
+0306 [Bernina] | Aprendiste de Darcia. Mantuviste a raya a los Escorpiones del Desierto, e incluso los convenciste de dejar de vender los Cetros de la Muerte.
+0307 [Bernina] | Pero hay poderes que, una vez que los tomas, ya no se pueden soltar.
+0308 [Tú] | Lo entiendo. En cuanto empecé a esparcir los Cetros de la Muerte para protegerme, era imposible que los novianos renunciaran a un arma tan conveniente.
+0309 [Tú] | Cualquiera con los medios querría un Cetro de la Muerte, aunque fuera solo para defenderse.
+0310 [Tú] | La mejor solución para el individuo resultó ser el peor desenlace posible para Nova.
+0311 [Tú] | Creí que lo tenía todo bajo control. En cambio, hice que mataran a mis amigas, destrocé a Allie y le prendí fuego a Nova.
+0312 [Tú] | Vita, abre la puerta.==W== Voy a cambiarlo todo.
+0313 [Vita] | Tu orden es mi voluntad.
+0314 [Hazana] | ¿Ya tomaste tu decisión, Jefe?==W== Los Escorpiones del Desierto no le temen a absolutamente nada. Siempre y cuando puedas hacer aparecer ese Artefacto para nosotros con un deseo.
+0315 [Hazana] | ¿Enfrentarnos al Comité de Salvación? No es problema para nosotros. Aquí en el desierto, los escorpiones no tienen depredadores naturales.
+0316 [Tú] | Te agradezco la oferta,==W== pero no volveré a pedir deseos para conseguir Cetros de la Muerte. Lo siento, Hazana.

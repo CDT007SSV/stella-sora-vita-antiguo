@@ -1,0 +1,96 @@
+# Capítulo 2 · Final: Eternidad
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Girl with a Lantern | Chica del farol
+N:Girl with a Mirror | Chica del espejo
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_1997 | Soldier
+N:avg3_100 | Sylar
+N:avg3_133 | Portia
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+
+## Texto
+0001 [Intro] | El final
+0002 [Intro] | Un final interminable
+0003 [Intro] | Ideas un plan para esconderte en una caja de Artefactos, pero el Monolito falla de repente y te deja atrapado dentro. Tras comer la comida de allí, descubres que ya no puedes salir.
+0004 [Lugar y hora] | 16:30, 2 del mes de Pluvia, Emor. Monolito n.º 7, piso 45
+0005 [Iris] | Bien, los Artefactos de hoy... cinco, diez... quince en total. ==W==Todos contados.
+0006 [Minova] | Los envían por el Canal... Así que se pondrá brusco cuando lancen las cajas. Silencio o nos descubren.
+0007 [Minova] | Muy bien, cárguenlas. Ya preparé las cajas con fondos falsos. Pondremos los Artefactos encima y nos meteremos en el espacio de abajo.
+0008 [Noya] | ¿O sea que esperamos a que termine el trayecto y salimos de golpe? Feagin tiene que guardarlos con los otros Artefactos, así que encontraremos a Loxy.
+0009 [Iris] | Es un buen plan, pero...==W== con nosotras adentro, el peso será totalmente distinto. ¿Seguro que nadie lo notará?
+0010 [Tú] | Tranquilas. Les diré a los mercenarios que hoy deseamos unos Artefactos inusualmente pesados. No lo pensarán dos veces.
+0011 [Amber] | Buen plan.
+0012 [Tú] | Muy bien, equipo. Vamos...
+0013 [Tú] | ¿No entró otra Trekker vestida de negro al Monolito con nosotros hoy?
+0014 [Noya] | ¿Mmm? Ah, sí... la perdí de vista a mitad de la subida. Seguro salió del Monolito hace rato.
+0015 [Minova] | ¿Preocupado, ==PLAYER_NAME==? Siempre podemos cancelar la misión e intentarlo otro día, ¿sabes?
+0016 [Noya] | ¡Vaya! ¿Por qué tiembla todo?
+0017 [Amber] | ¿Un terremoto?
+0018 [Iris] | Imposible. El Monolito está sellado del exterior. Aunque hubiera un terremoto allá afuera, no deberíamos sentirlo aquí.
+0019 [Minova] | Vaya, se apagaron las luces de golpe.
+0020 [Iris] | Qué raro... Las luces del Monolito nunca se habían apagado.
+0021 [Noya] | Quisiera decir «imposible», pero... sí, hasta yo tengo mala espina con esto.
+0022 [Noya] | ¡==PLAYER_NAME==, tenemos que largarnos! ¡Ya!
+0023 [Iris] | El elevador se detuvo... ¿Qué está pasando?
+0024 [Amber] | Escaleras. Ahora.
+0025 [Lugar y hora] | 19:50, 2 del mes de Pluvia, Emor. Monolito n.º 7, piso ??
+0026 [Iris] | Uf... uf... ¿Cuántos pisos... hemos bajado?
+0027 [Noya] | Cien...==W== no, quizá... ya casi doscientos.
+0028 [Minova] | ¡Maldición! ¿Qué tan alto es este maldito Monolito?
+0029 [Iris] | Ah... Ajajaja... Es inútil... Las escaleras no nos sacarán de aquí. Nunca subimos tantos pisos... Nos vamos a quedar atrapadas aquí para siempre...
+0030 [Noya] | ¡Oye, no digas esas cosas!
+0031 [Iris] | El Monolito... tiene que estar descompuesto.
+0032 [Iris] | ¡Siempre entramos por la sala del elevador! Y aunque lleguemos al fondo, si no podemos abrir las puertas del elevador, ¡seguimos atrapadas!
+0033 [Minova] | ¡Si hace falta, romperemos las paredes! Vamos a salir. Los niños nos esperan.
+0034 [Amber] | Oigan, todos. Miren.
+0035 [Noya] | ¿Eso es... un agujero de bala?
+0036 [Amber] | Esta marca... la hice hace una hora.
+0037 [Iris] | ¿Caminamos... en círculos? No... ¡no, es imposible! ¡Solo hemos bajado!
+0038 [Minova] | No lo entiendo. ¿Es algún tipo de magia retorcida?
+0039 [Tú] | ¿Cómo se construyen siquiera estos Monolitos?
+0040 [Iris] | Nadie ha entendido jamás por completo la estructura de los Monolitos.
+0041 [Iris] | Lo único que se sabe es: entras por el elevador, sales por el elevador y de allí no sale nada más que lo que deseaste.
+0042 [Noya] | No nos desesperemos ahora. Primero, tomemos algo de esta comida del Monolito. Es difícil idear algo con hambre.
+0043 [Iris] | Noya, toda comida que se come aquí la reclama el Monolito cuando sales.==W== Y si sigues comiéndola, olvidarás quién eres... y con el tiempo, simplemente desaparecerás.
+0044 [Noya] | Lo sé. Pero hasta fingir que estamos llenas podría ayudarnos a animarnos, y quizá se nos ocurra algo...==W== ¿no? ¿Qué daño puede hacer un bocadito...?
+0045 [Lugar y hora] | ??:?? ??? del mes ??, Emor. Monolito n.º 7, piso ???
+0046 [Narración] | Y así quedamos varados: Noya, Amber, Iris, Minova y yo. Pasamos lo que pareció una eternidad explorando. Al final, en un piso sin escaleras hacia arriba, encontramos un enorme agujero abierto en la pared.
+0047 [Narración] | Pero al asomarnos, solo vimos nubes blancas infinitas. Las paredes exteriores del Monolito eran perfectamente lisas. Más valía saltar que intentar trepar por eso.
+0048 [Narración] | El elevador no se movía. Estábamos atrapados en el Monolito para siempre.
+0049 [Narración] | Y entonces... pasó una eternidad.
+0050 [Narración] | Para cuando esa idea me golpeó de verdad... ya habíamos olvidado cómo se veía cada una.
+0051 [Tú] | Son 300 Monedas del Monolito, por favor.
+0052 [Tú] | Lo siento, aquí no hay fiado. Espero que lo entiendan.
+0053 [Tú] | Las cosas se ponen bastante duras en la siguiente sala. ¿No quieren revisar nuestro equipo antes de entrar?
+0054 [Portia] | ==PLAYER_NAME==, ¿puedes hacerme un reparto?
+0055 [Tú] | Voy para allá.
+0056 [Narración] | De vez en cuando, la tienda recibe encargos de reparto. Las puertas grandes con diseños son para los Trekkers, pero los empleados tenemos nuestras propias rutas secretas —como levantar una losa parpadeante del piso o arrastrarnos por un Artefacto lavadora— para llevar artículos a los Stellaroids.
+0057 [Lugar y hora] | ??:?? ?? ?? de ???? La Sala Blanca
+0058 [Tú] | Aquí tiene el artículo que pidió. Cuídese.
+0059 [Chica del farol] | Jejeje... Así que los rumores eran ciertos. Te traes algo fascinante entre manos.
+0060 [Tú] | Eh, ¿señorita? ¿Podría firmar la entrega, por favor?
+0061 [Chica del espejo] | ¿==PLAYER_NAME==? ¿No nos reconoces?
+0062 [Narración] | Me resultaban algo familiares. ¿Me habrán guiado antes?
+0063 [Narración] | Sus rostros eran amables, pero... desconocidos. No las conocía.
+0064 [Tú] | ...
+0065 [Chica del espejo] | ...Es trágico, pero inevitable. Esto es lo que les ocurre a quienes permanecen demasiado tiempo en el Monolito.
+0066 [Chica del farol] | Nosotras llevamos aquí mucho más tiempo. No quedamos así.
+0067 [Chica del farol] | ¡Mírenme! ¡Mi piel está radiante hoy! ♪
+0068 [Chica del espejo] | En la superficie, quizá.==W== Pero... ¿quién sabe en qué nos hemos convertido en el fondo?
+0069 [Chica del espejo] | Pero, mi Tirano, sus preocupaciones terminaron. Hoy usaremos nuestro poder para concederle la oportunidad de recuperarlo todo. ♪
+0070 [Chica del farol] | En otras palabras, el resto depende de usted.
+0071 [Chica del espejo] | Ahora bien... Que su viaje sea feliz esta vez.
+0072 [Chica del farol] | Jejeje, ¿cuándo volveremos a vernos?
+0073 [Tú] | ¿Eh? Algo vibra en mi bolsillo...
+0074 [Tú] | Ahora lo entiendo... Yo...
+0075 [Tú] | Si tan solo... si pudiera volver. A ese momento.
+0076 [Tú] | Esta vez, sin duda... confiaré en mis amigas.

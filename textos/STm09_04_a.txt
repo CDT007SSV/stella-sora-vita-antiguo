@@ -1,0 +1,142 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 4A · Sabiduría entre papas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Committee Members | Miembros del Comité
+N:Dejected Committee Member | Miembro del Comité abatido
+N:Quiet Committee Member | Miembro del Comité callado
+N:Sand-Wielding Sentinel | Centinela de la arena
+N:Wind-Wielding Sentinel | Centinela del viento
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_136 | Angie
+N:avg1_150 | Laru
+N:avg1_163 | Greyhorn
+N:avg1_1996 | Noya
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_1306 | Soldado de los Centinelas del Alba
+N:avg3_1325 | Residente de Mirage A
+N:avg3_1326 | Residente de Mirage B
+N:avg3_152 | Bastelina
+N:avg3_157 | Guardia Imperial
+N:avg3_217 | N.º 160
+N:avg3_219 | Residente de Mirage
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Sabiduría entre papas
+0003 [Intro] | Un poco antes. Laru ayuda al Gremio de la Nueva Estrella a escapar disfrazado de las minas. Greyhorn se da cuenta, pero las deja ir, ya que el único objetivo eres tú. Luego, Bastelina te pasa información clave sobre la n.º 160 en una caja de papas fritas.
+0004 [Lugar y hora] | 14:50, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0005 [Noya] | Uf... Uf...==W== Amber... ¿Todavía nos sigue esa francotiradora?
+0006 [Amber] | No nos ve. Creo que la perdimos.
+0007 [Iris] | ¡Noya, otra vez estás sangrando!
+0008 [Noya] | Uf... Se me debió abrir otra vez cuando salimos corriendo.
+0009 [Iris] | Lo siento. No te habrían disparado si no me hubieras cubierto.
+0010 [Noya] | No digas eso, Iris. A mí ya me habían dado.==W== Si tú también caías, Amber no habría podido sacarnos a las dos de ahí.
+0011 [Noya] | Jeje, ¿me curas una vez más? Ah, y ayúdame a quitarle la sangre a esta ropa.
+0012 [Noya] | No podemos dejar que ==PLAYER_NAME== vea esto. ==SEX1== se va a preocupar muchísimo y me va a mandar a la banca.
+0013 [Iris] | ¡Noya, ahora mismo es justo donde deberías estar, en la banca!==W==
+0014 [Noya] | ¡Tranquila, soy dura!==W== Un rasguñito no me va a impedir blandir una espada. ¡Mira!
+0015 [Noya] | ¡Ay, ay, ay!==W== Bueno... A lo mejor sí arde un poquito.
+0016 [Iris] | Deja de forzarte, Noya.==W== Hoy te estás esforzando demasiado... No es propio de ti.
+0017 [Noya] | ¿A-ah, sí?
+0018 [Amber] | Normalmente, tú serías la que lo diría: si estás herida, descansas.
+0019 [Noya] | ¿Lo diría...?==W== Sí, bueno, sí lo diría.
+0020 [Noya] | Pero esta vez es diferente. De verdad.
+0021 [Iris] | ¿Diferente en qué?==W== Quedar atrapadas en Mirage por el Comité de Salvación es nuestra mayor crisis hasta ahora, claro,==W== pero no es como si tuviéramos que vencerlos.
+0022 [Iris] | Si solo tenemos que escapar, el Jefe encontrará la forma.
+0023 [Amber] | No entres en pánico, Noya. Ni siquiera Iris está en pánico todavía.
+0024 [Noya] | No es pánico. Es una corazonada.
+0025 [Noya] | Saben que mis corazonadas nunca fallan. Y esta vez se siente...==W== diferente. Solo me he sentido así una vez antes.
+0026 [Amber] | Shh. Baja la voz.==W== El Comité de Salvación está adelante.
+0027 [Iris] | ¡Son los Guardias Imperiales que Nazuna y Fuyuka atraparon en las minas! ¡Tenemos que regresar!
+0028 [Iris] | Ay, no... El Comité también está bloqueando este camino...
+0029 [Amber] | Yo los callo.
+0030 [Laru] | ¡¿Callar a quién?!==W== ¡Esperen, es un enorme malentendido! ¡Yo también estoy con el Jefe!
+0031 [Noya] | ¿Estás... con el Jefe?
+0032 [Laru] | ¡No hay tiempo para explicaciones!==W== Pónganse esto y quédense detrás de mí.==W==
+0033 [Lugar y hora] | 14:55, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0034 [Laru] | ¡Capitana Greyhorn! ¡Y valientes almas de la Primera Compañía!==W== Deben estar agotados de tanto cazar al Tirano. ¡Por favor, disfruten estas papas fritas especiales con helado, cortesía de Logística!
+0035 [Dejected Committee Member] | Dos Trekkers de pacotilla nos tuvieron acorralados en una mina... ¡¿Quién tiene ganas de comer papas?!
+0036 [Quiet Committee Member] | Es una vergüenza. Una mancha para el Comité.
+0037 [Wind-Wielding Sentinel] | Lo siento, fue mi culpa. La gente del Tirano secuestró mis vientos y ni siquiera me di cuenta. Es humillante.
+0038 [Sand-Wielding Sentinel] | Igual yo. Mi hechizo de reconocimiento fijó los objetivos equivocados y nos arrastró a todos.
+0039 [Greyhorn] | Ya basta. Ganar y perder es parte de la guerra.
+0040 [Greyhorn] | Nos dieron una paliza en esas minas, pero el Comité todavía tiene la ventaja aquí.
+0041 [Greyhorn] | ¡Apéguense al plan de despliegue de la directora Angie y capturaremos al Tirano!
+0042 [Greyhorn] | Ahora, no desperdicien el esfuerzo de Logística. A comer. Necesitamos las calorías y la sal.
+0043 [Committee Members] | ¡Sí, capitana!
+0044 [Greyhorn] | Gracias por las raciones, Laru. Dale mis saludos a tu equipo.==W== Sin ustedes, la moral estaría por los suelos.
+0045 [Laru] | ¡Es usted muy amable, capitana! Solo hacemos nuestro trabajo.
+0046 [Greyhorn] | ¿Mm?==W== ¿Y ellas quiénes son?
+0047 [Laru] | ¡Ah, ellas! El helado se derrite rapidísimo fuera de la hielera. ¡Necesitaba manos extra para servirlo todo y que ustedes disfrutaran unas papas perfectas!
+0048 [Laru] | Así que contraté a unas cuantas locales para que me ayudaran.
+0049 [Greyhorn] | Ya veo. Gente de Mirage.
+0050 [Greyhorn] | (Qué disfraz tan descuidado. Una de ellas hasta apesta a sangre. Según el último informe de Gunhild...==W== Estas deben ser las compañeras Trekker de ==PLAYER_NAME==, y están heridas.)
+0051 [Greyhorn] | (Aunque, en realidad, yo no soy del Comité. No me creo ni por un segundo su discurso de salvar el mundo. Solo estoy aquí por órdenes del gran capitán.)
+0052 [Greyhorn] | (La directora Angie nos ordenó atacar solo al Tirano. No tengo por qué molestar a estas Trekkers. Lo que hicieron con ==PLAYER_NAME== en Philae fue un acto de justicia. Arrestarlas ahora iría contra mi honor de caballera.)
+0053 [Greyhorn] | Estoy satisfecha. Gracias por la comida.
+0054 [Greyhorn] | ¡Todos! En formación. Andando.
+0055 [Committee Members] | ¡Sí, capitana!
+0056 [Laru] | Uf... Estuvo cerca.
+0057 [Iris] | Gracias por cubrirnos.==W== Eres la señorita Laru, del Instituto del Cielo, ¿verdad?
+0058 [Laru] | ¿Señorita? Eso déjalo para Albedo. Me hace sonar viejísima.
+0059 [Laru] | ¡Dime la Chica de las Papas! ¡Toparme con ustedes tres aquí debe ser voluntad de la Diosa de las Papas!
+0060 [Iris] | ¿Eh? ¡¿Es momento de hablar de papas?!==W== ¡Tenemos que salir de aquí!
+0061 [Laru] | ¡Nunca subestimes a la papa!==W== ¡Sobre todo cuando está perfectamente bañada en helado!
+0062 [Laru] | Lamida...
+0063 [Laru] | ¡Mmm! ¡Está tan rico que podría desmayarme~~!==W==
+0064 [Noya] | ¿Tan rico está?==W== Déjame probar.
+0065 [Noya] | ¡Wow... Está buenísimo!
+0066 [Amber] | Frío. Delicioso.
+0067 [Iris] | ¡¿Por qué están comiendo todas?!==W== ¡Noya, estás herida! ¡Suelta esa comida chatarra!
+0068 [Noya] | ¡Un bocado no me va a matar! Toma, Iris, pruébalo...==W== Espera.
+0069 [Iris] | ¿Qué pasa, Noya?
+0070 [Noya] | La Chica de las Papas... Desapareció.
+0071 [Lugar y hora] | 15:40, 18.º del mes de Nebula, Mirage, Orfanato Margarita
+0072 [Noya] | Así que eso fue lo que pasó.==W== Esa señora del Imperio de la Gracia se hacía llamar la Chica de las Papas,==W== pero, ¿la verdad? «La Rarita de las Papas» le queda mucho mejor.
+0073 [Noya] | Pero definitivamente está de nuestro lado. Cuando terminamos las papas que nos mandó, encontramos un mensaje escrito por todo el interior de las cajas.
+0074 [Noya] | Hasta protegió la tinta de la grasa con papel de arroz.
+0075 [Tú] | No, seguro lo hizo para que la tinta no le arruinara las papas. Prioridades.
+0076 [Narración] | Sobre la mesa frente a mí hay tres cajas de papas aplanadas. El cartón está repleto de letra pulcra que detalla número de tropas, disposición defensiva y personal clave.
+0077 [Narración] | Hasta abajo hay una firma diminuta: Bastelina.
+0078 [Tú] | Esto es lo que Bastelina y Laru reunieron mientras estaban infiltradas en el Comité.
+0079 [Tú] | Dice que...==W== les confiscaron los teléfonos y perdieron sus contactos. No pudieron comunicarse con Albedo, así que nos hicieron llegar esto de contrabando. Quieren que salgamos con vida.
+0080 [Tú] | Parte de esto ya lo habíamos descubierto... Las tres divisiones, la francotiradora de élite que está con Angie, el campamento de artillería a las afueras de la ciudad.
+0081 [Tú] | Pero todavía hay un montón de información sólida aquí. Por ejemplo, esto...
+0082 [Narración] | Greyhorn. Comandante de Caballeros de la Guardia Imperial. No es miembro del Comité. Solo está ayudando a la directora Angie por órdenes de un superior.==P== Lo da todo en las batallas, pero no los perseguirá ni a ti ni a tus aliadas sin necesidad.
+0083 [Tú] | Y esta parte...
+0084 [Narración] | La n.º 160, una de los Árbitros del Ocaso. Al parecer, sufrió un trauma grave en su infancia y carga profundas cicatrices psicológicas.==P== Muestra tendencias masoquistas, pero eso es solo un detonante. Usa el dolor para revivir su trauma, lo que congela el tiempo a su alrededor.==P== Pero esta magia en realidad no detiene el tiempo. Solo usa poder mágico a la fuerza para restringir el movimiento de todo lo que pueda ver dentro de cierto radio a su alrededor.
+0085 [Narración] | Cuanto más dolor y miedo soporta, más lejos y durante más tiempo puede congelar todo a su alrededor.==P== Físicamente no es gran combatiente, pero esa daga suya es la verdadera amenaza. Un solo corte siembra «Miedo» en sus víctimas, las obliga a enfrentar sus peores pesadillas y las deja indefensas.==P== Además, la n.º 160 es una exoperadora interurbana. Puede interceptar las comunicaciones de Heartlink dentro de cierto radio. Por favor, usen sus teléfonos con cautela.
+0086 [Tú] | Así que su magia sí detiene el tiempo. Entre más sufre, más dura... Eso explica por qué recibió el puñetazo de Fuyuka a propósito.
+0087 [Tú] | Firenze tiene razón en ser precavida. Alguien del Comité de Salvación de verdad puede intervenir nuestros Heartlinks. Si Nazuka y Chitose revelan su ubicación, no podrán llegar de sorpresa a sacarnos del apuro.
+0088 [Tú] | Mmm, hay más...
+0089 [Narración] | La directora Angie es una aficionada.==P== Le falta experiencia tanto táctica como mágica.==P====W== Sin embargo, el Comité le es leal porque está dispuesta a sacrificar absolutamente todo para salvar el mundo, lo que significa matarte.
+0090 [Narración] | Por favor, tengan muchísimo cuidado.
+0091 [Tú] | Sacrificar lo que sea para matarme, ¿eh?==W== ¿Por qué está tan convencida de que el Tirano acabará con el mundo?==W== Me pregunto si podré sacarle algunas respuestas durante la negociación.
+0092 [Tú] | En fin, esta información es enorme. Lo hicieron muy bien.==W== Cuando salgamos de este lío, les deberemos una muy grande a Bastelina y a Laru.
+0093 [Noya] | Jeje. ¿Ves? Que me dieran un golpe tuvo sus ventajas.
+0094 [Tú] | ¡Wow, Noya, espacio personal! Tu nariz casi toca la mía.
+0095 [Tú] | Y no digas eso. Salir herida no tiene ninguna ventaja. Nada más de ver esa herida me da escalofríos.
+0096 [Tú] | Si te refieres a la información, Laru y Bastelina habrían encontrado la forma de entregarla aunque estuvieras bien.
+0097 [Noya] | No hablaba de la información.
+0098 [Noya] | Hacía muchísimo tiempo que no podía simplemente mirar tu perfil mientras trabajas duro.
+0099 [Tú] | ¿Q-qué tiene de especial mi perfil?
+0100 [Noya] | No sé. Solo me gusta mirarlo.
+0101 [Opción] | Sentarse junto a Noya
+0102 [Tú] | Toma. Mírame todo lo que quieras. Trato especial para la paciente.
+0103 [Noya] | ¡Ah! ¡Si te sientas justo a mi lado, se me arruinan los ángulos!==W== ¡No, no, se perdió todo el ambiente!
+0104 [Tú] | Pff...==W== Hoy estás sentimental.==W== Iris tenía razón. No te estás comportando para nada como tú.
+0105 [Tú] | Normalmente, si quisieras mirarme, te me echarías encima y pegarías tu cara a la mía.
+0106 [Noya] | ¡Oye! ¡Deja de hacerme sonar como un cachorrito recibiendo a su dueño!
+0107 [Noya] | Ay... Todo es por esta horrible corazonada. Me tiene ansiosa.
+0108 [Tú] | ¿Eh? ¿La siempre alegrísima Noya está ansiosa?
+0109 [Tú] | ¿Y qué te dice esa corazonada?
+0110 [Noya] | ...==W== Desde que salimos de la habitación secreta del Gato Blanco... He tenido este presentimiento muy pesado...
+0111 [Narración] | De que hoy... es el día en que nos dejas.

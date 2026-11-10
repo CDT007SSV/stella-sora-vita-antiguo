@@ -1,0 +1,6 @@
+# Historia de Karin — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_157_01 | Carrera de tres piernas (Parte Ⅰ)
+CG_157_02 | Carrera de tres piernas (Parte Ⅱ)
+CG_157_03 | Carrera de tres piernas (Parte Ⅲ)

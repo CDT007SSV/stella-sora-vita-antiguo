@@ -1,0 +1,103 @@
+# Nova Times #03 · Mil flores en la noche · 3 · A Thousand Blossoms by Night (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Concerned Voice | Voz preocupada
+N:Excited Tourist | Turista emocionado
+N:Passing Resident | Residente de paso
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg2_971 | Wandering Birds Trekker
+N:avg3_138 | Trekker
+N:avg3_175 | Loong Resident
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Mil flores en la noche (Parte III)
+0003 [Intro] | Jinglin, Shimiao y Chixia han terminado sus faroles y deciden competir en el Festival del Pez Nadador. Pero bajo el cielo festivo de Cangwu, se desarrolla una escena inesperada y mágica...
+0004 [Jinglin] | Impresionante...==W== ¡realmente impresionante, Chixia!==W== Te pido disculpas, no debí haberlo llamado cachorro hace rato.
+0005 [Shimiao] | Debo admitir que el efecto es perfecto.==W== Sobre todo esas escamas relucientes...==W== Son demasiado hermosas para describirlas.
+0006 [Chixia] | Bueno... ¿ahora sí reconocen mi arte? ¡Jajaja, vamos, díganme más!
+0007 [Chixia] | Este es mi propio «Pigmento Dorado Resplandeciente». La fórmula es secreta.
+0008 [Shimiao] | «Pigmento Dorado Resplandeciente»...==W== Sí, el nombre le queda.
+0009 [Jinglin] | Sí, entre todos estos faroles, este definitivamente destaca. ¡Chixia, esta vez vas a arrasar!
+0010 [Jinglin] | ¡Ah, pero! ¡Todavía tenemos que dejar que los demás los vean! ¡Saquemos nuestros faroles a la calle!
+0011 [Shimiao] | El desfile de faroles está por comenzar. Si queremos participar, tenemos que ponernos en la fila pronto.
+0012 [Chixia] | Entonces, ¿vamos?
+0013 [Chixia] | ¡Ah, espera, espera, acabo de acordarme de que falta una cosa más!
+0014 [Chixia] | Como las dos saben hechizos, ¿por qué no lanzan uno cada una sobre sus faroles?==W== Luego yo usaré mi poder de Xuan Shi para mantener estable la magia...
+0015 [Chixia] | ¡Así los nuestros serán sin duda los faroles más brillantes de la multitud!
+0016 [Jinglin] | Me gusta la idea. Shimiao, ¿qué opinas?
+0017 [Shimiao] | Mmm... Si las tres lanzamos hechizos, entonces nadie está haciendo trampa.==W== Estoy a favor.
+0018 [Chixia] | ¡Entonces está decidido! Todas, prepárense...
+0019 [Jinglin] | ¡Muy bien, yo voy primero—!
+0020 [Jinglin] | ¡Poder del trueno, álzate—!
+0021 [Shimiao] | ¡Lluvia oportuna, cae... empapa la tierra!
+0022 [Chixia] | ¡Mi turno!
+0023 [Chixia] | ¡Llama ardiente, purifica toda impureza!
+0024 [Jinglin] | ¡Oh! ¡Se ve bien, debería llamar bastante la atención!
+0025 [Chixia] | Je, ¿ven? ¡Tenía la idea correcta!
+0026 [Shimiao] | Aunque comparado con los faroles tradicionales, es... mucho más llamativo. Encendamos también los otros dos.
+0027 [Jinglin] | ¡Muy bien! ¡Los tres están encendidos! Después de tanto trabajo, ¡otra vez tengo hambre!
+0028 [Shimiao] | Chixia dijo que aún tenía unas cosas que terminar en el Retiro, así que nos dijo que nos adelantáramos y recorriéramos los puestos de comida.
+0029 [Chixia] | Sí, tengo unas cosas que atender. Nos vemos más tarde.
+0030 [Jinglin] | ¿Quieres que te eche una mano?
+0031 [Chixia] | ¡Ah, no! Nada importante. ¡Es trabajo para una sola persona!
+0032 [Shimiao] | ¿Qué estará tramando?==W== Bah, Chixia conoce este lugar como la palma de su mano. Vamos.
+0033 [Jinglin] | ¡Entonces vamos a comprar bocadillos! ¿Todavía existe esa tienda de nueces y espinos confitados?
+0034 [Shimiao] | Claro que sí. ¡Creo que hasta puedo encontrarla!
+0035 [Jinglin] | ¡Yupi!
+0036 [Shimiao] | ... Siento que has crecido mucho desde la última vez que te vi, pero sigues siendo tan abierta de corazón... Eso es lo que más me gusta de ti.
+0037 [Jinglin] | Eh~ ¿De verdad? Siento que me tratas como a una niña otra vez, qué vergüenza...
+0038 [Shimiao] | No hay ningún motivo para que te dé vergüenza. ¡Eres talentosa y amable, te mereces todos los elogios del mundo!
+0039 [Jinglin] | ¡Eh! ¡Ahora sí me da mucha vergüenza!==W== V-vámonos ya a la tienda de dulces. ¡Me suenan las tripas!
+0040 [Shimiao] | Claro. Sígueme.
+0041 [Chixia] | Jejeje... Ahora que Shimiao y Jinglin ya se fueron...
+0042 [Chixia] | Jejeje, con este pigmento secreto que me dio mi maestro...
+0043 [Chixia] | Jejeje... ¡No hay forma de que pierda!
+0044 [Concerned Voice] | Chixia, recuerda que este pigmento debe usarse con precaución...
+0045 [Concerned Voice] | —Pues puede hacer que la pintura cobre «vida». Ten cuidado, no lo salpiques con descuido...
+0046 [Chixia] | Sí, sí, lo sé, maestro, ¡no se preocupe por eso!
+0047 [Concerned Voice] | ... Mmm.
+0048 [Concerned Voice] | Bah, al fin y al cabo es un festival. Supongo que yo también iré a ver los faroles.
+0049 [Chixia] | Como dice el dicho, «los ojos son la ventana del alma de un Loong»...
+0050 [Chixia] | Qué hermoso farol de Loong,==W== dorado y resplandeciente, envuelto en magia de agua y trueno—==W==¡así que sus ojos deben brillar con fuerza—!
+0051 [Chixia] | ¡Ahí voy!
+0052 [Chixia] | ¡Jajaja! ¡Ahora mi «Farol del Loong Brillante y Volador» será==W== el más brillante de todos!
+0053 [Chixia] | Ah... ¡¿qué está pasando?! Las paredes, están temblando...
+0054 [Chixia] | ¡E-espera! ¡Un momento—! ¿Te puedes mover?==W== ¡Imposible!==W== ¡¿La pintura está cobrando vida?!
+0055 [Chixia] | ¡¿Waaah?!==W== ¡¿Por qué me agarras?! ¡¿Qué intentas hacer—?! ¡Aaaahhh!
+0056 [Chixia] | ¡Aaaaaaahhh—! ¡Aaaaaaahhh—! ¡Aaaaaaahhh—! ¡Aaaaaaahhh—!==W==
+0057 [Jinglin] | ¡Ah, estuvo deliciosooo—! Desde mis favoritos de la infancia hasta cosas que probé por primera vez, ¡todo sabía increíble!
+0058 [Shimiao] | Estoy segura de que tendrás mucha comida rica y mucha diversión en este viaje de regreso a casa.
+0059 [Jinglin] | ¡Y todo es gracias a ti y a Chixia!==W== Pero... Chixia todavía no ha vuelto, ¿verdad?
+0060 [Shimiao] | Es cierto... Y es un poco preocupante. Volvamos al Retiro a ver.
+0061 [Jinglin] | ¡Está bien! Una caminata ayudará a la digestión, ¡y luego tendremos espacio para comer más!
+0062 [Jinglin] | ¡Mira, Shimiao! ¡Todos los faroles están encendidos!
+0063 [Shimiao] | Sí, cada vez que veo esta vista, es simplemente impresionante...
+0064 [Jinglin] | ¡Qué feliz estoy de haber llegado justo a tiempo para esto!
+0065 [Jinglin] | Hacía tanto que no venía a Cangwu... Algunas cosas han cambiado y otras no.
+0066 [Jinglin] | Algunas se sienten familiares y otras nuevas. Es difícil describir esta sensación...
+0067 [Jinglin] | En fin,==W== ¡estoy en las nubes!
+0068 [Jinglin] | ¡Y hasta pude reunirme contigo y con Chixia! ¡Hoy es sin duda uno de los cinco días más perfectos de mi vida!
+0069 [Shimiao] | Me alegra oírlo.==W== Y es un honor compartir contigo este «día perfecto».
+0070 [Jinglin] | Pronto volveré a Philae...==W== ¡Pero el año que viene, y el siguiente, seguiré regresando a verlas a las dos!
+0071 [Jinglin] | ¡Guau, miren allá arriba! ¡¿Qué es eso en el cielo?!
+0072 [Shimiao] | Eh... ¿Te refieres a...?
+0073 [Jinglin] | ¡Mira más lejos—! ¡¿Eso es... un Loong dorado?!
+0074 [Shimiao] | ¡No puede ser! ¿No es ese...?
+0075 [Excited Tourist] | ¡Oigan, miren allá! ¿Es un espectáculo? Parece que algo vuela...
+0076 [Passing Resident] | ¿Fuegos artificiales? ¿Un hechizo? ¡¿Es la sorpresa especial de este año?!
+0077 [Shimiao] | Será mejor que nos apuremos a encontrar a Chixia.
+0078 [Jinglin] | Yo también tengo un mal presentimiento. ¡Volvamos al Retiro cuanto antes!
+0079 [Shimiao] | Normalmente estaría de acuerdo, pero... ¿Oíste eso...?
+0080 [Shimiao] | Sonó como Chixia.
+0081 [Jinglin] | ¿La voz de Chixia? ...==W== ¡Ah! ¡Yo también lo oigo!
+0082 [Chixia] | ¡Ayúdenmeee—! ¡Un Loong me tiene atrapada—!
+0083 [Chixia] | ¡Me dan miedo las alturas...! ¡Bájame!==W== ¡No, espera, así no, no me sueltes... me voy a caer!
+0084 [Jinglin] | Ah, Chixia... Ahora sí es el centro de atención, justo como quería.
+0085 [Shimiao] | Increíble... ¿Qué habrá hecho siquiera...?
+0086 [Chixia] | ¡Shimiao! ¡Jinglin! ¡Ayúdenmeeeeee!==W==
+0087 [Narración] | Al día siguiente, aquel resplandeciente dragón dorado —chisporroteando fuego y relámpagos, agitando nubes y tormentas— aparece en la primera plana de las noticias de la ciudad de Cangwu. Parece que el deseo de Chixia se hizo realidad.

@@ -1,0 +1,136 @@
+# Historia de Firstlight Noya · 1 · The Name of Hers (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Black Knight | Caballero Negro
+N:Boss | Jefe
+N:Captured Slave | Esclavo capturado
+N:Captured Slaves | Esclavos capturados
+N:Hot-Tempered Slave Trader | Traficante de esclavos irascible
+N:Slave Traders | Traficantes de esclavos
+N:Suspicious Slave Trader | Traficante de esclavos sospechoso
+N:avg1_112 | Noya
+N:avg1_162 | Alina
+N:avg3_100 | Sylar
+N:avg3_168 | Chica
+N:avg3_227 | Anciano de Filanis
+N:avg3_228 | Ciudadano de Filanis (H)
+N:avg3_229 | Esclavo de Filanis
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El nombre de ella (Parte I)
+0003 [Intro] | Una extraña sensación de déjà vu, una oportunidad de cambiar: todo comienza con su nombre.
+0004 [Tú] | ¡Hah!==W== ¡Hiyah!==W== ¡Zas!
+0005 [Tú] | Ugh... Esta espada tiene voluntad propia. Haga lo que haga, se siente mal...
+0006 [Tú] | Intentemos otra vez. Deja que la hoja haga el trabajo...==W== ¡Hah!==W== ¡Zas...!==W== ¡¿Guau?!==W==
+0007 [Tú] | Auch... Bueno, eso fue elegante. Qué vergüenza.==W== Jaja, al menos nadie vio...
+0008 [Alina] | Tu postura está toda mal.
+0009 [Tú] | ¡Waaah!
+0010 [Alina] | ... Menudo grito. Sin duda tienes pulmones para eso.
+0011 [Tú] | En serio, acercarse a la gente sin hacer ruido... Me diste un susto de muerte.
+0012 [Alina] | Solo seguí el ruido... Te levantaste inusualmente temprano. No es propio de ti.
+0013 [Tú] | Ah, solo estoy entrenando.
+0014 [Alina] | ¿Entrenando? Eso no parece algo que necesite un Acólito.
+0015 [Tú] | Eh... Pensé que debía aprender algo de defensa personal. Si soy completamente inútil en la patrulla, terminarás teniendo que cubrirme las espaldas.
+0016 [Tú] | Esta es ...==W== una postura que me enseñó una amiga. Dijo que era perfecta para principiantes.
+0017 [Alina] | Admirable, pero inútil así. Tu cuerpo está rígido y desperdicias energía...==W== Espera, ¿siquiera calentaste como se debe?
+0018 [Tú] | Eh... ¿Más o menos?
+0019 [Alina] | Entonces no lo hiciste bien. Tus músculos están agarrotados. Por eso perdiste el equilibrio y caíste de espaldas.
+0020 [Tú] | ¡¿Viste todo eso?!
+0021 [Alina] | Vamos, empezaremos de nuevo con estiramientos. Ponte de espaldas contra mí, así...==W== Ahora entrelaza los brazos.
+0022 [Alina] | Uno,==W== dos,==W== tres...
+0023 [Tú] | ¡Waaah!
+0024 [Tú] | (¡¿M-Mi columna está crujiendo?!)
+0025 [Noya] | Así. De espaldas contra mí...==B== Ahora engancha tus brazos con los míos.
+0026 [Noya] | ¡Arriba!
+0027 [Tú] | ¡Guau!
+0028 [Tú] | Esto me resulta tan familiar... Es igualito a cuando Noya me ayudó a estirar...
+0029 [Alina] | El siguiente estiramiento... Siéntate con las piernas rectas. Inclínate hacia adelante despacio e intenta tocarte los dedos de los pies.
+0030 [Narración] | Mientras presiona mi espalda, su peso va cayendo poco a poco sobre mí... Se siente exactamente como aquel día.
+0031 [Tú] | ¡Ay, ay, ay, ay! ¡Me rindo, me riiiindo!==W== ¡Me rindo, Noya!
+0032 [Alina] | ¿Noya?
+0033 [Tú] | Ah... Perdón. Pensé en una vieja amiga y se me escapó...
+0034 [Alina] | ... ¿Llamarme con el nombre de otra? Parece que aún te sobra energía. Para ayudarte a concentrarte en los estiramientos...
+0035 [Alina] | ¡Aplicaré un poco más de presión!
+0036 [Tú] | ¡Espera, espera, espera! ¡Me concentro! Me concentraré,==W== ¡waaah!
+0037 [Alina] | ¿Tu cuerpo se siente más relajado?
+0038 [Tú] | Uf... Uf... Esto ya no se trata de relajarse. Pensé que mi columna se iba a quebrar...
+0039 [Alina] | No te preocupes. El cuerpo humano es mucho más resistente de lo que piensas...==W== ¿Mm?
+0040 [Alina] | Una carreta. Suena como si viniera hacia acá. ==PLAYER_NAME==, escondámonos.
+0041 [Suspicious Slave Trader] | Muy bien, dejen descansar a los caballos aquí un rato. Luego iremos directo a la finca de Lord Caligula.
+0042 [Hot-Tempered Slave Trader] | ¡Entendido!
+0043 [Hot-Tempered Slave Trader] | Je, esta vez cazamos una pieza de primera. Debería conseguirnos un buen precio, ¿no?
+0044 [Suspicious Slave Trader] | ¡Lord Caligula paga con gusto un sobreprecio por mujeres! Hasta nos arregló una ruta oculta para entrar a la ciudad. Nos facilita muchísimo el trabajo. Es un salvavidas.
+0045 [Tú] | ¿Eso es ... una carreta de traficantes de esclavos?
+0046 [Alina] | Eso parece. Caligula... Jamás pensé que estuviera involucrado en el tráfico de esclavos.
+0047 [Tú] | ¿Lo conoces?
+0048 [Alina] | Su padre es originario de Emor. Miembro del Senado. Su familia posee vastas propiedades en todo Filanis.
+0049 [Alina] | Finge oponerse a la esclavitud, pero en secreto lucra con esta inmundicia.==W== ¡Imperdonable!==W==
+0050 [Tú] | ... ¿Quieres salvar a esos esclavos?
+0051 [Alina] | ¿Eh?
+0052 [Tú] | Lo tienes escrito en la cara.
+0053 [Alina] | Pero soy una Vigía Nocturna de Filanis. No tengo autoridad para liberar esclavos fuera de los límites de la ciudad.
+0054 [Alina] | ¿Esperar para interceptarlos después de que entren por las puertas...? No. Por lo que se oye, esta no es su primera transacción. Caligula tendrá la manera de encubrirlo.
+0055 [Alina] | Sin pruebas, los Vigías Nocturnos no pueden tocar a la familia de un Senador.
+0056 [Tú] | En ese caso, si dejas de ser Vigía Nocturna de Filanis por un momento... Problema resuelto, ¿no?
+0057 [Alina] | ¿A qué te refieres?
+0058 [Tú] | Es simple. A los traficantes no los ataca una Vigía Nocturna, los emboscan unos bandidos de paso. Aquí afuera en las Tierras Salvajes, que te ataquen bandidos es perfectamente normal.
+0059 [Alina] | Cierto, pero ¿qué probabilidades hay de que unos bandidos aparezcan justo ahora?==W== Espera, no me digas que...
+0060 [Tú] | Exacto. ¡Nosotros somos los bandidos!
+0061 [Alina] | ¿Nosotros? Una Vigía Nocturna haciéndose pasar por bandida... Eso cruza completamente la línea. Mancha el honor de los Vigías Nocturnos.
+0062 [Tú] | ¿Entonces te vas a quedar de brazos cruzados viendo?
+0063 [Alina] | Yo...
+0064 [Tú] | Creo que ignorar tu propia conciencia aquí manchará mucho más tu honor.
+0065 [Tú] | Y si de verdad crees que es cruzar la línea, bueno, me tienes aquí para cruzarla contigo.
+0066 [Alina] | Mi conciencia... ==PLAYER_NAME==, ¿te das cuenta de que estás tentando a una Vigía Nocturna a desviarse de su camino?
+0067 [Alina] | Pero ... tienes razón. ¡Hagámoslo!
+0068 [Suspicious Slave Trader] | ¡Muy bien! ¡Hora de partir!
+0069 [???] | ¡Estos bosques son nuestros, y reclamamos este camino!
+0070 [???] | ¡Si quieren pasar, paguen el peaje!
+0071 [???] | ¡Je, parece que hoy atrapamos un pez gordo! ¡Si valoran sus vidas, dejen la carga y márchense!
+0072 [Hot-Tempered Slave Trader] | ¡¿Bandidos?! Tienen agallas. ¿Saben de quién es esta carga? Solo el nombre los haría temblar.
+0073 [Boss] | No me importa de quién sea. Hoy, este botín mal habido le pertenece al Jefe.
+0074 [Suspicious Slave Trader] | ¿Jefe? ¿Así se hacen llamar? Je, lo recordaré.==W== Más les vale ir eligiendo su lápida.
+0075 [???] | Tú eres quien necesitará una tumba.
+0076 [Suspicious Slave Trader] | ¿Eh? M-Mi espada... ¡¿Cómo se partió en dos?!
+0077 [Tú] | Je je je... A menos que quieras que mi Caballero Oscuro te parta en dos,==W== lo más inteligente es huir.
+0078 [Slave Traders] | ¡Iiiiih! ¡Corran por sus viiiidas!
+0079 [Black Knight] | ¿Alguno está herido?
+0080 [Captured Slave] | ¡Por favor! ¡Haré lo que sea, solo dejen ir a mi hermana!
+0081 [Boss] | Cálmate. No somos bandidos.
+0082 [Black Knight] | Tomen estas monedas y corran. Vayan al norte, a Filanis. Sigan avanzando y llegarán en una hora.
+0083 [Black Knight] | Ningún traficante podrá tocarlos una vez que estén dentro de sus murallas.
+0084 [Captured Slaves] | Oh... ¡Gracias! ¡Muchísimas gracias!
+0085 [Alina] | Fiu. Todos escaparon. Una vez que lleguen a Filanis, estarán a salvo.
+0086 [Tú] | Sí. Por cierto, haces de bandida bastante convincente.
+0087 [Alina] | ... ¿Debo tomarlo como un insulto?
+0088 [Tú] | Para nada. Es un cumplido.
+0089 [Alina] | ¿Un cumplido...? Dudo que sea algo de lo que sentirse orgullosa.
+0090 [Alina] | ¿Y qué fue esa tontería del Caballero Oscuro?
+0091 [Tú] | Tener alias facilita las cosas. ¿Ves? Yo también me llamé Jefe, ¿no?
+0092 [Tú] | Si alguien puede cometer crímenes bajo el disfraz de la Santa Caída, no veo el problema en que usemos nombres falsos para hacer algo de bien.
+0093 [Alina] | Hacerse pasar por bandidos... Qué táctica tan despreciable. ¿Cómo puedes tener tanta determinación? ¿Por qué no hubo ni una pizca de duda?
+0094 [Tú] | Mmm... Porque fue una decisión de la que no me arrepentiré.
+0095 [Alina] | ¿Arrepentirte?
+0096 [Tú] | Sí... Si hubiéramos dejado ir a esos traficantes, sé que me habría arrepentido.
+0097 [Tú] | Así que simplemente confié en mi corazón y actué. Eso es todo.
+0098 [Tú] | Aunque digas que es despreciable, siempre tomaré una decisión de la que no me arrepienta. Cada vez.
+0099 [Alina] | ... Así que de verdad lo pensaste todo.
+0100 [Tú] | ¿Eh? ¡¿Qué clase de persona creías que era?!
+0101 [Alina] | Cuando alguien dice de pronto que nos haremos bandidos, cualquier persona normal asumiría que ha perdido la cabeza.
+0102 [Alina] | Pero...==W== Me ayudaste. Sin ti, me habría quedado ahí parada, sin poder hacer nada. Y sé que también me habría arrepentido...
+0103 [Tú] | Alina...
+0104 [Alina] | Dicho esto, ¡cruzar la línea termina hoy! Por el bien de nuestras reputaciones, jamás podemos hablar de lo que pasó aquí.
+0105 [Alina] | Lo que significa que esto queda entre tú y yo.==W== ¿Tenemos un trato?
+0106 [Tú] | Un secreto entre los dos...==W== Ah, entiendo.
+0107 [Noya] | Por cierto...==W== Lo que pasó hoy...==W== ¿Podemos dejarlo como nuestro pequeño secreto, por favor?
+0108 [Tú] | Tienes miedo de que Iris te regañe, ¿verdad?
+0109 [Noya] | Si se entera,==W== ¡no me dejará sentarme frente al volante de Loxy durante los próximos dos meses!
+0110 [Noya] | Por favor...
+0111 [Tú] | Ahora que lo pienso, una vez le hice una promesa parecida a Noya...
+0112 [Tú] | Noya, Iris, Amber... ¿Cómo puedo encontrar el camino de regreso a ustedes...?
+0113 [Alina] | Otra vez ese nombre... Noya. Quizá de verdad me parezco a ella.
+0114 [Alina] | Me pregunto... ¿Qué clase de persona será?

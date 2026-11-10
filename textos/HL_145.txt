@@ -1,0 +1,151 @@
+# Heartlink de Otoha: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Otoha] | Muy bien, aquí tienes mis datos de contacto.
+A01.0002 [Otoha] | Avísame si alguna vez necesitas una mano con lo que sea.
+A01.0003 [Tú] | ¿También ofreces servicios de limpieza del hogar?
+A01.0004 [Otoha] | ...
+A01.0005 [Tú] | ¿Qué pasa?
+A01.0006 [Otoha] | Nada...
+A01.0007 [Otoha] | Solo que no esperaba que esa fuera tu primera pregunta.
+A01.0008 [Otoha] | Pero claro. Si lo necesitas, me encargaría yo misma de esos servicios para ti.
+A01.0009 [Tú] | ¿«Yo misma»? Eso suena a estafa.
+A01.0010 [Otoha] | ¿Quieres adivinar?
+
+## Conversación A02
+A02.0001 [Otoha] | Dime, Jefe, ¿qué tanto conoces la luna?
+A02.0002 [Tú] | ¿Te refieres a su simbolismo?
+A02.0003 [Otoha] | Lo que sea.
+A02.0004 [Tú] | ¿Locura? ¿Reencuentros?
+A02.0005 [Tú] | Leí sobre algunos de esos conceptos en el Monolito.
+A02.0006 [Otoha] | Muy bien.
+A02.0007 [Otoha] | El Monolito también guarda unos cuantos libros de astrología y astronomía.
+A02.0008 [Otoha] | Dicen que la luna solo nos muestra una cara.
+A02.0009 [Otoha] | Mientras que la otra mitad permanece para siempre oculta en la oscuridad.
+A02.0010 [Tú] | Hace que se sienta bastante esquiva, ¿no?
+A02.0011 [Tú] | Aun así, es una locura que conceptos tan distintos se apliquen a lo mismo...
+A02.0012 [Otoha] | Bueno, así es la luna.
+
+## Conversación A03
+A03.0001 [Otoha] | Nanoha siempre parece tan feliz contigo.
+A03.0002 [Otoha] | Saberlo me deja tranquila.
+A03.0003 [Opción] | Espera, ¿cómo sabes que salimos?
+A03.0004 [Opción] | ¿De qué hablas?
+A03.0005 [Tú] | ¿Nos... estás siguiendo?
+A03.0006 [Otoha] | No exageremos.
+A03.0007 [Otoha] | Pero cuando quiero saber algo, tengo mis maneras de averiguarlo.
+A03.0008 [Tú] | Uf. Qué escalofriante...
+A03.0009 [Tú] | ¿Eh?
+A03.0010 [Otoha] | No me hagas caso, solo pienso en voz alta.
+A03.0011 [Tú] | Pero en serio, ¿cómo lo supiste?
+A03.0012 [Otoha] | Hoy estuve atendiendo la tienda. Hasta te pasé la botella de agua que compraste.
+A03.0013 [Tú] | ¡¡¡!!!
+A03.0014 [Tú] | ¡¿Esa eras TÚ?!
+A03.0015 [Otoha] | Eso lo dejo a tu criterio.
+
+## Conversación A04
+A04.0001 [Otoha] | [Recordatorio de Goodwind Homecare: Afuera está despejado y soleado, perfecto para secar la ropa.]
+A04.0002 [Otoha] | [Responde «0» para cancelar tu suscripción, «1» para continuarla.]
+A04.0003 [Opción] | 0
+A04.0004 [Opción] | 1
+A04.0005 [Tú] | No trabajas de verdad en Goodwind Homecare, ¿o sí?
+A04.0006 [Tú] | ¿Entonces a qué viene la actuación?
+A04.0007 [Otoha] | Jeje.
+A04.0008 [Otoha] | Es divertido meterse en un personaje de vez en cuando.
+A04.0009 [Tú] | ¿Otra vez con tu antiguo trabajo?
+A04.0010 [Otoha] | Claro que no. Es solo un pequeño juego de roles.
+A04.0011 [Tú] | Pensándolo bien, este mensaje me resulta familiar.
+A04.0012 [Otoha] | Oh, ¿en qué sentido?
+A04.0013 [Tú] | ... Espera, ya me acuerdo.
+A04.0014 [Tú] | Así que eso querías decir con «juego de roles».
+A04.0015 [Tú] | Nanoha me mandó este mismo texto una vez.
+A04.0016 [Otoha] | Jeje. Me alegra que prestes atención, Jefe.
+A04.0017 [Otoha] | Si hubieras olvidado un mensaje en el que ella se esforzó tanto...
+A04.0018 [Otoha] | Bueno, quizá nunca te lo perdonaría.
+
+## Conversación A05
+A05.0001 [Otoha] | Tengo una pregunta para ti.
+A05.0002 [Otoha] | ¿Viste algún comerciante de telas cuando estuviste en Philae?
+A05.0003 [Opción] | No que yo recuerde.
+A05.0004 [Opción] | ¿Creo que vi uno?
+A05.0005 [Tú] | ¿Buscas comprar tela?
+A05.0006 [Otoha] | Solo estoy atenta a un lote en particular, nada más.
+A05.0007 [Tú] | ¿Te refieres a la tienda de telas junto a la Tienda de Almas?
+A05.0008 [Otoha] | No, probablemente esa no.
+A05.0009 [Tú] | ¿Qué tipo de tela buscas, por cierto?
+A05.0010 [Tú] | Quizá tengan algo parecido en el Monolito.
+A05.0011 [Otoha] | Dudo mucho que sea algo que encuentres en el Monolito.
+A05.0012 [Otoha] | Pero no importa.
+A05.0013 [Otoha] | Seguro que aparecerá cuando llegue el momento.
+
+## Conversación A06
+A06.0001 [Otoha] | Jefe, ¿te gustan los juegos de roles?
+A06.0002 [Opción] | Antes jugaba a fingir que trabajaba en una empresa.
+A06.0003 [Opción] | No sé muy bien...
+A06.0004 [Otoha] | Vaya que sabes entretenerte.
+A06.0005 [Tú] | ¿Cuenta leer novelas?
+A06.0006 [Tú] | Ya sabes, meterte en la historia, reír y llorar junto con el protagonista.
+A06.0007 [Otoha] | Claro que cuenta.
+A06.0008 [Otoha] | En el fondo, creo que a todos nos gusta jugar a los roles.
+A06.0009 [Otoha] | Puedes convertirte en quien quieras, empezar de cero tantas veces como desees.
+A06.0010 [Otoha] | Cada nueva personalidad es un comienzo totalmente nuevo.
+
+## Conversación A07
+A07.0001 [Otoha] | ¿Andas en Emor últimamente?
+A07.0002 [Opción] | Sí.
+A07.0003 [Opción] | No
+A07.0004 [Tú] | Sí, ando por aquí. ¿Tú también?
+A07.0005 [Otoha] | Qué coincidencia. ¿Quieres tomar algo?
+A07.0006 [Tú] | En realidad acabamos de salir de la ciudad. ¿Por qué?
+A07.0007 [Otoha] | Oh, mal momento entonces.
+A07.0008 [Otoha] | Estaba de paso y me preguntaba si te gustaría tomar algo.
+A07.0009 [Otoha] | Conozco una cafetería por aquí que hace postres increíbles.
+A07.0010 [Tú] | De verdad te encantan los dulces, ¿eh?
+A07.0011 [Tú] | Quizá lo deje para otro día. Déjame ver...
+A07.0012 [Otoha] | Claro. Pongámonos al día cuando estés libre.
+
+## Conversación A08
+A08.0001 [Otoha] | ¿Tienes tiempo libre hoy, Jefe?
+A08.0002 [Tú] | ¡Ah! ¡Ya sé de qué se trata!
+A08.0003 [Otoha] | Shh...
+A08.0004 [Otoha] | Es un secreto. No lo arruines.
+A08.0005 [Tú] | Vale, vale...
+A08.0006 [Otoha] | Si estás libre, ven a verme a esa pastelería.
+A08.0007 [Otoha] | Tengo un pastel de matcha esperándote.
+A08.0008 [Tú] | Ah, nada supera el sabor clásico de Goodwind.
+A08.0009 [Otoha] | Oh, se pone mejor.
+A08.0010 [Otoha] | Me aseguré de que el chef duplicara la cantidad habitual de matcha en polvo.
+
+## Conversación A09
+A09.0001 [Otoha] | Había oído que no eras muy de pelear...
+A09.0002 [Otoha] | ... Pero no sabía que tuvieras tan poca defensa.
+A09.0003 [Tú] | Perdón por decepcionarte...
+A09.0004 [Otoha] | ¿O todo esto es una actuación astuta?
+A09.0005 [Otoha] | Si es así, tu desempeño es impecable. Una verdadera clase magistral de engaño.
+A09.0006 [Tú] | ...
+A09.0007 [Tú] | Me estás dando demasiado crédito.
+A09.0008 [Otoha] | Me lo imaginaba.
+A09.0009 [Otoha] | Aun así, podría enseñarte algunos trucos para mantenerte a salvo, si te interesa.
+A09.0010 [Otoha] | De hecho soy una mentora bastante capaz.
+A09.0011 [Otoha] | Solo di la palabra cuando quieras empezar a aprender.
+
+## Conversación A10
+A10.0001 [Otoha] | Jefe, ¿recuerdas ese Disco?
+A10.0002 [Tú] | Claro. Te veías espectacular en él.
+A10.0003 [Otoha] | Ahora, un pequeño acertijo para ti.
+A10.0004 [Otoha] | ¿Esa era realmente yo, o en realidad uno de mis clones?
+A10.0005 [Tú] | ¿Es algún tipo de prueba?
+A10.0006 [Tú] | Apenas puedo distinguirlas cuando están paradas frente a mí, mucho menos en una imagen fija...
+A10.0007 [Otoha] | Buen punto.
+A10.0008 [Tú] | ¿Qué te llevó a hacer una pregunta tan extraña?
+A10.0009 [Otoha] | Escuchar ese Disco despertó algunos viejos recuerdos.
+A10.0010 [Otoha] | Desagradables, por desgracia.
+A10.0011 [Otoha] | Me pregunto... ¿De verdad era yo la que estaba entre esas flores esa noche?
+A10.0012 [Otoha] | Cuando los recuerdos empiezan a desdibujarse, se pierde el rastro hasta de una misma.
+A10.0013 [Otoha] | Ah, perdón. No pretendía divagar.
+A10.0014 [Tú] | Está bien... Solo desearía tener alguna forma de ayudar de verdad.
+A10.0015 [Otoha] | Con escuchar basta.
+A10.0016 [Otoha] | Se hace tarde. Ve a descansar.

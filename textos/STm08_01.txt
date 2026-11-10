@@ -1,0 +1,149 @@
+# Capítulo 8 · Calor residual · 1 · Matanza inocente
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arrogant Sentinel of Dawn | Centinela del Alba arrogante
+N:Ruthless Sentinel of Dawn | Centinela del Alba despiadado
+N:avg1_136 | Angie
+N:avg1_144 | Chitose
+N:avg1_145 | Otoha
+N:avg1_150 | Laru
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Matanza inocente
+0003 [Intro] | Otoha y Chitose llegan a tiempo para sacarte de la mira de Serena. Al parecer, el resto del Imperio de la Gracia no la respalda. Desesperados por quitarse de encima a sus perseguidores, Chitose y tú corren hacia la única salida del hotel.
+0004 [Tú] | ¡¿Y si no soy el Tirano?!==W== ¡Estarías matando a la persona equivocada!
+0005 [Serena] | Tienes razón.==W== Pero si sacrificar tu vida puede salvar al mundo...==W== estoy dispuesta a correr ese riesgo.
+0006 [Serena] | Si mi juicio resulta equivocado, encontraré la forma de expiarlo.
+0007 [Tú] | ¡¿De qué me sirve tu expiación si ya estoy muerto?!==W== ¡Esto es una locura...!
+0008 [Serena] | Eres una buena persona y no te guardo ningún rencor personal.==W== Así que lo lamento profundamente, pero por el bien de este mundo... debo pedirte que mueras. Te lo agradezco.
+0009 [Serena] | Por favor, acepta esta bala, una que concede la misma muerte a todos.
+0010 [Serena] | Espero que esta vez encuentres el descanso eterno.==W== Adiós... Tirano.
+0011 [Narración] | En el instante en que Serena jala el gatillo, un relámpago violeta atraviesa la ventana y le arranca de la mano el Cetro de la Muerte.
+0012 [Serena] | ¡Agh!
+0013 [Serena] | Esa firma de energía mágica... Así que pusiste un francotirador en la azotea de enfrente.
+0014 [1] | (No, eso no fue cosa mía...)
+0015 [1] | (Ese disparo violeta... Creo que ya lo había visto antes.)
+0016 [Serena] | Vaya, un error de cálculo de mi parte. No esperaba que tuvieras un plan de respaldo, Tirano.
+0017 [Serena] | Pero esto lo confirma. Ahora estoy cien por ciento segura de que eres el legendario Tirano.
+0018 [Serena] | La mayoría de los directores ejecutivos no necesitan un francotirador que los cuide en una reunión.
+0019 [Serena] | Eso significa que te aterra que el «Héroe» de la profecía acabe contigo. ¿Me equivoco, Tirano?
+0020 [Tú] | ¡¿Pero de qué estamos hablando...?!==W== ¿Qué Tirano? ¿Qué Héroe? ¡¿De dónde saca todos estos disparates?!
+0021 [Otoha] | Jefe, ¿estás bien?
+0022 [Tú] |
+0023 [Tú] | Otoha, sabía que eras tú. ¿Cómo es que...?
+0024 [Otoha] | No hay tiempo para explicaciones.
+0025 [Otoha] | Mi campo de tiro es estrecho. Apenas puedo mantener a raya a esa loca.
+0026 [Otoha] | Yo te cubro. Hay refuerzos afuera. ¡Ahora vete!
+0027 [Tú] | ...¿Refuerzos? Está bien. Confío en ti.
+0028 [Tú] | Aun así, con el Cetro de la Muerte a solo cinco metros de Serena, aunque salga disparado hacia la puerta, no hay garantía de que logre salir...
+0029 [Serena] | Qué buena puntería... Tu francotirador de verdad quiere mantenerte con vida, ¿no, Tirano?
+0030 [1] | Serena, escúchame. No soy quien crees y no sé nada sobre el fin del mundo. Esto tiene que ser algún tipo de error. Así que, por favor, cálmate y hablemos.
+0031 [Serena] | Serena... Ese nombre... Je, da igual si te lo digo. Es un nombre que dejé atrás, de cuando todavía era humana.
+0032 [Serena] | Atesoro el tiempo que pasamos juntos bajo ese nombre. Pero ahora, por favor, llámame Angie. Esa es quien soy hoy: la que ha jurado salvar al mundo.
+0033 [Angie] | Tus amigos están desesperados por mantenerte con vida. Lo puedo sentir.
+0034 [Angie] | ¡Pero yo estoy mucho más decidida a impedirlo!
+0035 [1] | ¡¿Qué demonios?! ¡Prefiere recibir un disparo antes que dejarme vivir!
+0036 [Chitose] | ¡¡Ja!!==W== Mi ==SEX11==, ¿está herido?
+0037 [Tú] | ¡¡Chitose...!!
+0038 [Chitose] | Mi ==SEX11==, esta mujer apesta a corrupción y le desea el mal... Debí acabar con ella cuando tuve la oportunidad.
+0039 [Chitose] | Pero ahora le apuntó con su arma. Esta vez no tendré piedad.
+0040 [Tú] | Chitose, no hace falta enfrentarla de frente.==W== Salgamos de aquí.
+0041 [Angie] | Cof... Se escaparon. ¡Esa chica bloqueó la bala del Cetro de la Muerte con una espada! Tirano, la gente que tienes cerca... es difícil de manejar.
+0042 [Angie] | «Una mujer que apesta a corrupción...»==W== Je, no se equivoca. De verdad no tengo remedio. Pero mientras pueda proteger a Nova...
+0043 [Angie] | Tirano, la Nova que conoces no es más que una burbuja. Ni tú ni tus compañeros tienen idea de los horrores que hay allá afuera.
+0044 [Lugar y hora] | 10:00, 23.º del mes de Venatio, Distrito de Plata de Philae, pasillo del hotel
+0045 [Chitose] | Mi ==SEX11==, quédese detrás de mí. Yo abriré el camino.
+0046 [Chitose] | Donde golpea la espada, todo queda en silencio. Ja...
+0047 [???] | Ah, golpea fuerte.
+0048 [???] | La información era cierta: todos los guerreros que acompañan al Tirano tienen algún talento.
+0049 [Chitose] | Bloqueaste mi Estilo sin Espada. Ahora dime, ¿quién eres y por qué vas tras mi ==SEX11==?
+0050 [???] | ¿Quieres saber nuestros nombres...? ¿Para qué? De todos modos, hoy morirás aquí.
+0051 [???] | El Tirano quiere acabar con el mundo. Cualquier noviano tiene derecho a acabar con ==SEX4==.
+0052 [Chitose] | ¿Así que no piensan retirarse?
+0053 [???] | Eso iba a decir yo.
+0054 [???] | Tienes habilidad, te lo concedo. ¿Por qué no sueltas esa espada y te rindes? Hablaremos bien de ti con la presidenta. Te conseguiremos un lugar en el Comité de Salvación.
+0055 [Chitose] | Rechazo la oferta. Mi vida le pertenece por completo a mi ==SEX11==.
+0056 [Tú] | Chitose, deja de perder el tiempo con ellos. Quédate cerca de mí.
+0057 [Chitose] | Sí, mi ==SEX11==.
+0058 [???] | ¡No van a ir a ningún lado!
+0059 [???] | Gh... ¡Me dieron!
+0060 [???] | ¡Maldición! ¡Hay un francotirador afuera!
+0061 [Chitose] | Me quitaste los ojos de encima en plena pelea. Por eso perdiste.
+0062 [1] | ¡Otoha, buen rescate! Justo a tiempo.
+0063 [Otoha] | Je. Chitose los distrajo y dejaron la espalda totalmente descubierta. Fue un tiro fácil.
+0064 [Chitose] | Gracias por tu ayuda, pero me halagas. Solo seguía las órdenes de mi ==SEX11==.
+0065 [Chitose] | ¿Puedo preguntarte...? ¿Fuiste tú quien me guio hasta mi ==SEX11== con esos pétalos afuera del hotel?
+0066 [Chitose] | (Mi ==SEX11== lleva un buen rato adentro. ¿De verdad se puede confiar en esa informante?)
+0067 [Chitose] | (Una ráfaga de viento agita los pétalos... ¿Será otra señal de los Dioses? Un momento... Su movimiento parece... antinatural.)
+0068 [Chitose] | (Los pétalos flotan como al azar hacia la ventana de una habitación. La mujer que está junto a la ventana se parece a esa informante.)
+0069 [Chitose] | (Y ese destello en su mano...)
+0070 [Chitose] | ¡Mi ==SEX11== está en peligro!
+0071 [Otoha] | Buena deducción. Pero no me agradezcas todavía. Tu ==SEX11== me debe un favor que pienso cobrar más adelante,==W== así que no dejaré que le pase nada malo a ==SEX4==. Podría decirse que lo hice por mí.
+0072 [Otoha] | ...Bien, Jefe, es hora de subir al piso de arriba. Te preparé una ruta de escape... Je, je, ya conoces mis métodos, ¿no?
+0073 [Lugar y hora] | 10:20, 23.º del mes de Venatio, Distrito de Plata de Philae, pasillo del hotel
+0074 [Laru] | ¿Qué es todo ese escándalo? ¿Están cambiando los muebles de las habitaciones o qué?
+0075 [Albedo] | Concéntrate, Laru. Tenemos que encontrar a la directora. Rápido.
+0076 [Laru] | Yo digo que hay pocas probabilidades. Con lo escurridiza y misteriosa que es, nunca la encontraremos si ella no quiere.
+0077 [Laru] | ¡Ah, ya sé! Vamos por unas papas fritas. Conozco sus favoritas. En cuanto las huela, saldrá. ¿Qué dices?
+0078 [Albedo] | ...==W== ¿No podrías ponerte seria aunque sea de vez en cuando?
+0079 [Laru] | ¡Estoy hablando en serio! ¡Me rompí la cabeza pensando en este plan para «pescarla»!
+0080 [Bastelina] | Lady Albedo, tenemos un problema. El hotel está repleto de Centinelas del Alba y Guardias Imperiales. Afuera hay Árbitros del Ocaso.
+0081 [Laru] | Espera, ¿esos tres se aliaron? Eso sí es nuevo.
+0082 [Albedo] | No, ninguno de ellos es quien da las órdenes aquí. Es el Comité de Salvación.
+0083 [Laru] | ¿Comité... de Salvación? Suena a una especie de grupo de beneficencia.
+0084 [Albedo] | No, es una facción secreta dentro del Imperio de la Gracia. Su nombre oficial es «Comité Especial para la Salvación del Continente de Nova y la Neutralización del Tirano». Su misión es matar al legendario Tirano y detener el apocalipsis que anuncia la profecía.
+0085 [Laru] | Bueno, van tras el legendario Tirano, no tras el Jefe de Boss Accord. Pero ¿cómo se supone que vamos a matar a una leyenda?
+0086 [Albedo] | ...
+0087 [Laru] | Lady Albedo, ¿por qué te quedaste callada de repente?
+0088 [Albedo] | Nuestra directora también dirige el Comité de Salvación. Así que, si el Comité está involucrado, quiere decir que... ella concluyó que ==PLAYER_NAME== es el Tirano.
+0089 [Bastelina] | ¿Y por qué pensaría eso? ¿Cómo podría nuestro querido Jefe ser quien acabe con el mundo? No tiene ningún sentido...
+0090 [Albedo] | No sé qué habrá decidido la directora. Pero ya tomó su decisión. Normalmente se necesita una resolución de los Aspectos de la Tétrada para movilizar a las tres facciones. Pero esta vez no recibí ninguna notificación.
+0091 [Albedo] | O sea que llegó hasta este punto sin la aprobación de los Aspectos de la Tétrada. Lo que significa... que probablemente está actuando por su cuenta.
+0092 [Albedo] | Uf... ¿En qué estará pensando?
+0093 [Bastelina] | ¿La directora está... actuando por su cuenta? Entonces el Jefe no hizo nada malo, ¿verdad?
+0094 [Bastelina] | Entonces ganémosle la partida. Protejamos al Jefe antes de que la directora dé con ==SEX4== y evitemos que las cosas se salgan más de control. ¿Qué les parece?
+0095 [Laru] | ¡Buena idea! Encontrar al Jefe es muchísimo más fácil. ¡Yo me encargo!
+0096 [Laru] | ¡¡Guauguauguau~~!! ¡¡¡Por fin di con ==SEX4==!!!
+0097 [???] | Bien, el Instituto del Cielo vino a ayudar. ¡Jajaja! ¡Tirano, no tienes adónde huir!
+0098 [Chitose] | Mi ==SEX11==, estamos rodeados.
+0099 [Otoha] | Maldición, el Imperio de la Gracia también nos estorba.
+0100 [Tú] | Esas son... Bastelina, Laru y Albedo, todas con uniformes del Imperio de la Gracia. ¿De qué lado están?
+0101 [Tú] | Otoha, ¿hay otra salida?
+0102 [Otoha] | No. La única salida está detrás de ellas, Jefe. Atráelas hacia la ventana y yo me encargo del resto.
+0103 [Bastelina] | ¡Jefe, ven aquí con nosotras, las chicas lindas!
+0104 [???] | Lady Albedo, la presidenta nos ordenó capturar al Tirano. Agradeceríamos su ayuda.
+0105 [Bastelina] | Lo siento, pero Lady Albedo no es miembro del Comité de Salvación y no tiene ninguna obligación de seguir esas órdenes.
+0106 [Bastelina] | Y ustedes, como Centinelas del Alba, ¿cómo se atreven a atacar al director ejecutivo de Boss Accord sin la aprobación de los Aspectos de la Tétrada?
+0107 [Arrogant Sentinel of Dawn] | Del procedimiento nos encargaremos después. Si esperáramos a que los Aspectos de la Tétrada autorizaran cada acción, Nova ya estaría en ruinas.
+0108 [Ruthless Sentinel of Dawn] | Estamos aquí para salvar al mundo, para salvar el futuro de Nova. Así que dejen de lado cualquier vínculo que tengan con el Tirano y colaboren con nosotros.
+0109 [Albedo] | Me temo que no puedo. Aunque su causa sea justa, no pueden saltarse el proceso de autorización del Imperio de la Gracia.
+0110 [Ruthless Sentinel of Dawn] | Ja... Qué montón de basura burocrática. Si no van a ceder, no me culpen por lo que pase después...
+0111 [Laru] | ¡Oigan, esperen, esperen! Con cooperar basta, ¿no? ¡Me uno a ustedes!
+0112 [Bastelina] | ¡Señorita Laru! ¡¿Qué estás haciendo...?!
+0113 [Laru] | Bueno, para empezar, la directora es nuestra jefa. Y como también dirige el Comité, tenemos que seguir esas órdenes también. Los empleados leales hacen lo que dice la jefa, ¿no?
+0114 [Laru] | Además, la verdad no me importa mucho si se acaba el mundo. Pero si se acaba, ya no habrá papas fritas. ¡Y eso sí que no lo puedo permitir!
+0115 [Laru] | ¡Prepárate, Jefe! ¡Voy en serio! ¡Ustedes, Centinelas, vamos por ellos!
+0116 [Arrogant Sentinel of Dawn] | Hmph. Al menos alguien tiene cerebro.
+0117 [Tú] | Chitose, lánzate contra Laru, pero usa el lomo de la espada.
+0118 [Chitose] | Entendido, mi ==SEX11==.
+0119 [Laru] | Je, je...
+0120 [Laru] | ¡¡Toma esto con todas mis fuerzas!!
+0121 [Arrogant Sentinel of Dawn] | ¡Oye, ¿qué haces?!
+0122 [Laru] | Uy, perdón, perdón. Tranquilo, ¿sí? Hace siglos que no toco esta lanza, estoy medio oxidada.
+0123 [Ruthless Sentinel of Dawn] | Tch... ¡Deja de jugar!
+0124 [Ruthless Sentinel of Dawn] | ¡Ay...! ¡¿De qué lado estás?!
+0125 [Laru] | Ups, perdón... Qué raro. Creo que hoy mi lanza anda un poco fuera de control.
+0126 [Otoha] | ¡Jefe, salta por esa ventana! ¡Ya!
+0127 [1] | ¡Chitose, vámonos!
+0128 [Chitose] | Entendido.
+0129 [Narración] | Y así, sin más, Chitose y yo escapamos mientras Bastelina y Albedo nos veían irnos.

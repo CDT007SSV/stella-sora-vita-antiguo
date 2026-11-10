@@ -1,0 +1,116 @@
+# Especial 6.5 · Obertura de un enigma sombrío · 8 · Una promesa pronto cumplida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_145 | Otoha
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Una promesa pronto cumplida
+0003 [Intro] | Otoha derrota a Hazana. Para que llegues a tiempo al discurso del banquete, salta contigo desde la azotea. Al despedirse, percibes en ella un leve y persistente olor a sangre.
+0004 [Lugar y hora] | 20:20, 5.º del mes de Venatio, Distrito de Plata de Philae, azotea del hotel
+0005 [Otoha] | Cof, cof...
+0006 [Otoha] | ¿Una bomba de humo? Qué terriblemente poco romántico.
+0007 [Tú] | ¡Otoha! ¿Estás bien?
+0008 [Otoha] | No te preocupes. Es solo un rasguño.
+0009 [Tú] | ¿Segura? Dime que no te estás haciendo la fuerte.
+0010 [Otoha] | Jeje. No me molestaría hacer de damisela en apuros, si eso significara caer en tus brazos...
+0011 [Otoha] | Pero dejemos eso para después de nuestra próxima batalla.
+0012 [Tú] | Ojalá no haya una próxima vez...
+0013 [Tú] | En fin... Gracias por cuidarme la espalda.
+0014 [Tú] | Si quien te contrató antes va tras de ti, avísame. Haré todo lo que pueda para ayudarte.
+0015 [Otoha] | Eso no es tu responsabilidad. Te preocupas demasiado, Jefe.
+0016 [Otoha] | A estas alturas, un enemigo más en mi lista no me hace ninguna diferencia.
+0017 [Otoha] | Más importante, ¿no es hora de tu discurso?
+0018 [Tú] | Cierto...==W== Pero la escalera está completamente bloqueada.
+0019 [Tú] | Voy a llamar a Iris. Ella puede inventar una excusa para retrasar el evento...
+0020 [Otoha] | Je. Una explosión así ya asustó a los invitados. Si retrasas el discurso ahora, van a salir corriendo.
+0021 [Tú] | Pero la escalera se derrumbó y el elevador no sirve. Llegar al salón del banquete en diez minutos es imposible...
+0022 [Otoha] | Jeje.
+0023 [Tú] | Espera... Tienes un plan, ¿verdad?
+0024 [Otoha] | Claro que sí. Todo depende de si el Jefe confía lo suficiente en mí...
+0025 [Tú] | Confío en ti.
+0026 [Otoha] | Presentía que dirías eso.
+0027 [Otoha] | Si te llevo al salón del banquete sano y salvo y a tiempo, quiero que me concedas un deseo.
+0028 [Tú] | ¿Un deseo? ¿Como cuál?
+0029 [Otoha] | Je. Te lo diré cuando llegues de una pieza.
+0030 [Tú] | ...==W== Trato hecho. Entonces, ¿cómo lo vamos a hacer?
+0031 [Otoha] | Puede que no lo sepas, Jefe.==W== Antes trabajaba para Goodwind Homecare.
+0032 [Otoha] | Las flores hermosas tienen espinas, y las sirvientas de Goodwind no son la excepción.
+0033 [Otoha] | Por fuera, solo somos sirvientas obedientes que sirven té todo el día.
+0034 [Otoha] | Pero bajo estas mangas escondo los kunais más afilados.
+0035 [Opción] | Espera... ¡¿Un traje de ninja?!
+0036 [Otoha] | Hacía mucho que no mostraba mi verdadera cara bajo la luz de la luna.
+0037 [Otoha] | ¿Te sorprende verme así?
+0038 [Otoha] | Para nosotras, no hay lugar en este mundo que esté fuera de nuestro alcance.
+0039 [Otoha] | Si un camino está bloqueado, simplemente abrimos uno nuevo.
+0040 [Opción] | Eso suena tranquilizador...
+0041 [Opción] | Pero ¿dónde está el camino?
+0042 [Otoha] | Mira hacia abajo.
+0043 [Otoha] | La forma más rápida de volver al salón...==W== es una caída en picada desde esta azotea.
+0044 [Opción] | ¡¿Quieres que... saltemos?!
+0045 [Opción] | ¡¿Estás loca?!
+0046 [Otoha] | Tranquilo. Tengo mis métodos.
+0047 [Otoha] | Con el equipo adecuado...
+0048 [Otoha] | Azoteas, acantilados...==W== Incluso la cima del mismísimo Monolito.
+0049 [Otoha] | Puedo bajarte sin un solo rasguño.
+0050 [Narración] | Otoha saca un gancho de escalada de quién sabe dónde y lo asegura con destreza a un poste de luz de la azotea.
+0051 [Otoha] | Ven aquí, Jefe.
+0052 [Otoha] | El tiempo corre.
+0053 [Tú] | Esto es una locura...==W== Está bien. Hagámoslo.
+0054 [Otoha] | Agárrate fuerte. No te sueltes.
+0055 [Tú] | ¡Y-ya te tengo! ¿De verdad va a funcionar?
+0056 [Tú] | Su cola me acaba de envolver. Es cálida...==W== y suave...==W== ¡Tan esponjosa...!==W==
+0057 [Otoha] | Tres,==W== dos,==W== uno...==W==
+0058 [Otoha] | ¡Salta!==W==
+0059 [Otoha] | ¿Y bien?
+0060 [Otoha] | No está mal la vista desde aquí arriba, ¿verdad?
+0061 [Tú] | Nunca había visto nada igual.==W== El viento es brutal, pero...==W== es hermoso.
+0062 [Otoha] | Mírala bien. Esta es la ciudad que tanto te esfuerzas por proteger.
+0063 [Otoha] | ¿Ves esas luces a lo lejos? Quizá una de ellas vuelve a brillar gracias a ti.
+0064 [Otoha] | Todavía no entiendo por qué arriesgarías el pellejo por completos desconocidos.
+0065 [Otoha] | Pero si este es tu camino...==W== te ayudaré a recorrerlo.
+0066 [Opción] | Entonces, gracias de antemano.
+0067 [Otoha] | Por supuesto, mis servicios no son gratis.
+0068 [Otoha] | Por ejemplo, hace un momento.==W== Definitivamente me estabas acariciando la cola.
+0069 [Otoha] | Voy a agregar el «dinero por mi silencio» directo a tu cuenta.
+0070 [Opción] | ...¿Dinero por tu silencio?
+0071 [Tú] | ¡No es cierto! ¡No lo hice! Solo había una cosa esponjosa alrededor de mi cintura...
+0072 [Otoha] | Jeje. Pero la estabas acariciando. Es un hecho. No querrás que se sepa y arruine tu reputación, ¿o sí?
+0073 [Otoha] | Muy bien, prepárate. Vamos a aterrizar.
+0074 [Lugar y hora] | 20:27, 5.º del mes de Venatio, Distrito de Plata de Philae, pasillo del hotel
+0075 [Narración] | Bajamos por la cuerda y nos colamos por una ventana abierta hasta un pasillo del primer piso del hotel.
+0076 [Otoha] | ¿Qué hora es, Jefe?
+0077 [Tú] | 20:27...==W== Hasta nos sobran tres minutos.
+0078 [Otoha] | Con eso concluyen nuestro contrato y nuestra promesa.
+0079 [Tú] | Cierto. ¿Y ese «deseo» que mencionaste?
+0080 [Otoha] | Mmm. ¿Qué debería elegir?
+0081 [Otoha] | Quiero que hiervas los mares, derribes el Monolito, destruyas las empresas... que rehagas el mundo.
+0082 [Tú] | ...==W== ¿Qué?
+0083 [Otoha] | No me hagas caso. Era broma.
+0084 [Otoha] | Mi verdadero deseo es...
+0085 [Otoha] | Me lo guardaré.==W== Cuando llegue el momento...==W== lo cobraré, junto con el dinero por mi silencio que me debes.
+0086 [Tú] | Por mí está bien.==W== De todos modos se acabó el tiempo. Debería ir...
+0087 [Otoha] | Espera un momento.
+0088 [Tú] | ¿Qué pasa?
+0089 [Tú] | Espera, ¡¿cuándo te cambiaste?!
+0090 [Otoha] | En cuanto te diste la vuelta.
+0091 [Otoha] | Salir con mi viejo atuendo sería como confesar que yo empecé todo este lío.
+0092 [Narración] | De pronto, Otoha se inclina muy cerca de mí. En ese instante...
+0093 [Narración] | Percibo en ella un aroma leve y desconocido, completamente distinto de su perfume de siempre.
+0094 [Otoha] | Solo estoy pensando en voz alta, pero...
+0095 [Otoha] | A medida que el mundo se entere de tu existencia, seguirán ocurriendo «molestias» como la de hoy. Tarde o temprano, alguien intentará eliminarte con métodos mucho más brutales y directos...
+0096 [Otoha] | Hoy tuviste suerte. ¿Pero qué pasará la próxima vez? ¿O la siguiente?
+0097 [Otoha] | Y recuerda, quizá no seas el único en la mira.
+0098 [Otoha] | Tus compañeros podrían salir heridos por protegerte.
+0099 [Otoha] | A partir de ahora, tus decisiones cargarán con el peso de muchas vidas.
+0100 [Otoha] | Por favor, tenlo presente.
+0101 [Opción] | Lo haré.
+0102 [Otoha] | Y...==W== Que lo que pasó quede solo entre nosotros.
+0103 [Opción] | Sí, así será.
+0104 [Otoha] | Gracias. Ahora...==W== espero que tu banquete salga bien.
+0105 [Narración] | De vuelta en el salón, caigo en la cuenta...
+0106 [Tú] | Ese olor extraño...==W== Es sangre, disimulada con flores.
+0107 [Tú] | ¿De verdad Otoha estará bien?

@@ -1,0 +1,91 @@
+# Historia de Springseek Coronis · 2 · Secret Digestive Recipe (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Fainted Guard | Guardia desmayado
+N:Overwhelmed Guard | Guardia abrumado
+N:Rookie Guard | Guardia novato
+N:Tea Stall Owner | Dueña del puesto de té
+N:Veteran Guard | Guardia veterano
+N:avg1_159 | Coronis
+N:avg3_100 | Sylar
+N:avg3_176 | Residente de Loong
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Receta secreta para la digestión (Parte II)
+0003 [Intro] | Por una taza de Té Digestivo, la doctora está ahora en problemas: ¡«asistente», corre a su lado!
+0004 [Tú] | ¡Coronis! ¡¿Estás bien?!
+0005 [Coronis] | Pareces agitado. ¿Qué sucede?
+0006 [Tú] | Ah... Ah...==W== ¡Shimiao dijo que la Guardia Loong te detuvo para interrogarte, claro que entré en pánico!
+0007 [Coronis] | Estás exagerando. Aunque admito que ha surgido una pequeña complicación.
+0008 [Tú] | Los Guardias están revisando el equipaje de Coronis...
+0009 [Tú] | ¿Qué está pasando realmente aquí?
+0010 [Coronis] | Según ellos, un paciente al que traté ha caído en un coma repentino. Sospechan que mi tratamiento tuvo la culpa.
+0011 [Tú] | Eso no puede ser...==W== ¿Tienes idea de por qué?
+0012 [Coronis] | Desafía la lógica...==W== Su patología no debería desencadenar un coma agudo. Mi diagnóstico no fue erróneo.
+0013 [Coronis] | Solicité un examen de seguimiento por precaución. Sin embargo, se negaron, alegando que, como sospechosa, debo mantenerme alejada.
+0014 [Coronis] | Ahora el protocolo dicta una búsqueda exhaustiva de mis pertenencias...==W== Qué tedio.
+0015 [Tú] | Coronis se ve preocupada...==W== Lo entiendo. Que te traten de sospechosa de la nada molestaría a cualquiera.
+0016 [Coronis] | ... Qué tragedia...==W== Jamás había visto síntomas como estos,==W== ¡y ahora se me niega la oportunidad de estudiarlos en persona!
+0017 [Tú] | Ah... O sea que eso es lo que de verdad la molesta...
+0018 [Coronis] | Sin embargo, ahora que estás aquí, quizá mi suerte no se haya agotado del todo.
+0019 [Coronis] | ¿Qué te parece si te encargas tú de la investigación por mí?
+0020 [Tú] | ¿Yo?
+0021 [Coronis] | Como ves, no puedo irme hasta que esto se resuelva.==W== ¿Podrías revisar el estado del paciente en mi lugar?
+0022 [Tú] | Eh...==W== Pero no sé nada de medicina...
+0023 [Coronis] | No te preocupes. No te pido que «diagnostiques».==W== Solo necesitas «observar» y luego «informarme».
+0024 [Coronis] | Mientras reúna suficientes datos, debería poder resolver este problema.
+0025 [Tú] | Es cierto. Y eso ayudaría a limpiar tu nombre...==W== Está bien, lo haré.
+0026 [Coronis] | Tengo grandes expectativas en ti, mi querido asistente temporal.
+0027 [Tú] | Shimiao fue un salvavidas al arreglar las cosas por mí. Más me vale darme prisa y ver a esos pacientes.
+0028 [Tea Stall Owner] | ¡Disculpe! Usted estuvo con la doctora Coronis ayer, ¿verdad?
+0029 [Tú] | Usted es ...==W== ¿la dueña del puesto de té?
+0030 [Tea Stall Owner] | ¡Soy yo! Oh...==W== ¡Me enteré de que se llevaron a la doctora a un interrogatorio, así que vine corriendo a buscarle!==W== ¿Está bien? ¡¿Adónde se la llevaron?!
+0031 [Tú] | Por favor, cálmese. Estoy investigando la situación ahora mismo.
+0032 [Tea Stall Owner] | ¡Oh, qué alivio! Pero...==W== revisé todas sus recetas y tés de hierbas. Nada fuera de lo común.
+0033 [Tú] | Té de hierbas...==W== ¿Es el mismo que bebí antes?
+0034 [Tea Stall Owner] | Sí. La doctora Coronis suele recetar té para acompañar la medicina. Como dije ayer, es muy popular entre los pacientes.
+0035 [Tú] | Ya veo...
+0036 [Tú] | Ya volví...==W== Espera, ¡¿q-qué está pasando aquí?!
+0037 [Fainted Guard] | Ugh...
+0038 [Overwhelmed Guard] | Eh...==W== Urgh...
+0039 [Tú] | ¿Por qué hay más gente en el piso? ¿Qué está pasando...==W== Espera, ¡no me digas que...!
+0040 [Coronis] | Relájate. En realidad no les he hecho nada.
+0041 [Tú] | Entonces, ¿por qué están así?
+0042 [Coronis] | Mmm...==W== Sospecho que los traumatizó lo que encontraron en mi equipaje.
+0043 [Tú] | ¿A qué te refieres?
+0044 [Rookie Guard] | E-Espere... ¿Esto son ...==W== huesos?
+0045 [Coronis] | Exacto. Los encontré en las afueras de Cangwu. Mira las cicatrices, los bordes gastados...==W== Esta criatura definitivamente peleó a muerte contra varios Trekkers.==W== Por cierto, ¿puedes adivinar a qué monstruo pertenecen?
+0046 [Rookie Guard] | Urgh...
+0047 [Coronis] | Vaya, ¿eso es todo lo que hace falta?==W== Bueno...==W== Al menos sigue respirando bien.
+0048 [Veteran Guard] | Hmph. Los novatos son inútiles. Ni siquiera pueden con una simple revisión. ¡Hazte a un lado, yo lo haré! A ver, ¿qué es esto...==W== ¿Fruta seca?
+0049 [Coronis] | En realidad es el hígado de un Esbirro Colmilludo. Escuché que lo usan para recetas en Cangwu, así que compré un poco para probar su eficacia más tarde.
+0050 [Veteran Guard] | ¡¿H-Hígado?! ¿Por qué su bolsa está llena de cosas espeluznantes...==W== ¿Eh?
+0051 [Veteran Guard] | ¿Y esto qué es...?==W== ¡Hable! ¿Para qué diablos sirve esta cosa?
+0052 [Coronis] | Tijeras para huesos. Como su nombre indica, cortan huesos. También son útiles para separar el tejido muscular y poder examinar los órganos...
+0053 [Veteran Guard] | ¡Es un arma peligrosa, la confisco! Lo sabía...==W== ¡Es usted una impostora haciéndose pasar por turista, ¿verdad?!
+0054 [Coronis] | ¡Ah, tenga cuidado!
+0055 [Veteran Guard] | ¡Gaaah! ¡¿Por qué me está mordiendo esta hoja?!
+0056 [Coronis] | Suspiro...==W== Tocó sus pelos sensibles. Deje de retorcerse. Haré que lo suelte.
+0057 [Coronis] | Es solo una planta carnívora de las afueras de Cangwu. Es enorme, pero no es tóxica, así que no hay motivo de alarma...==W== ¿Mm?
+0058 [Veteran Guard] | Ugh...==W== Uggggh...
+0059 [Coronis] | ¿Usted también?
+0060 [Coronis] | Así que era eso. Como puedes ver, el interrogatorio tuvo que interrumpirse.
+0061 [Tú] | Con razón==W== los demás están amontonados en la esquina.
+0062 [Coronis] | Entonces, mi querido asistente. ¿Descubriste algo útil?
+0063 [Tú] | Revisé la casa del paciente, pero nada parecía fuera de lo común.
+0064 [Tú] | También me encontré con la dueña del puesto de té. Confirmó que no había nada malo con tu receta, así que tu diagnóstico debió ser correcto.
+0065 [Coronis] | Mmm...==W== ¿Revisaste cuánta medicina quedaba?
+0066 [Tú] | Por supuesto. Sospeché de un uso indebido, así que revisé las existencias. Pero ...==W== nada inusual ahí.
+0067 [Coronis] | ¿Y el té de hierbas?
+0068 [Tú] | Había desaparecido por completo. Ni siquiera quedaban los residuos.
+0069 [Coronis] | Ya veo. Ahora lo entiendo.
+0070 [Tú] | ¡¿Ya lo averiguaste?!
+0071 [Coronis] | Esos datos son suficientes, y estoy viendo un panorama más claro.==W== Pedirte ayuda fue la decisión correcta.
+0072 [Coronis] | Estamos a un paso de la verdad. ¿Puedo pedirte un favor más?
+0073 [Tú] | Bueno, ya llegué hasta aquí...==W== No puedo rendirme a medias. Solo dime qué hacer. Te ayudaré a ver esto hasta el final.
+0074 [Coronis] | Tan confiable como siempre. Ven. Es hora de despertar a nuestro paciente.

@@ -1,0 +1,126 @@
+# Capítulo 4 · Más allá del sueño · 4C · Supresión total
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dead Merc | Mercenario muerto
+N:Desperate Merc | Mercenario desesperado
+N:Garden of Parasite | Jardín Parásito
+N:Hunting Squad Member | Miembro del escuadrón de caza
+N:Mortally Wounded Merc | Mercenario herido de muerte
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_001 | Shrubshrew matón
+N:avg2_002 | Shrubshrew estaca
+N:avg2_003 | Shrubshrew granadero
+N:avg2_969 | Trekker de las Aves Errantes
+N:avg2_970 | Trekker de las Aves Errantes
+N:avg2_971 | Trekker de las Aves Errantes
+N:avg2_976 | Árbol Asociado
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1246 | Alpha Boar
+N:avg3_1247 | Alpha Boar
+N:avg3_1248 | Alpha Boar
+N:avg3_135 | Claire
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Supresión total
+0003 [Intro] | Bajo tu mando, Iris y Nazuka enlazan a los Trekkers con magia. La niebla deja de surtir efecto y el Jardín Parásito no es rival para ustedes. Sin embargo, Claire les cierra el paso, actuando según la misión de su empresa.
+0004 [Lugar y hora] | 07:45, 28.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0005 [Iris] | Por favor, dame tu mano.
+0006 [Hunting Squad Member] | ¡Increíble! El agua se convirtió en brazaletes que nos enlazan a todos.
+0007 [Iris] | Nazuka también puede hacer brazaletes parecidos. Si quieren uno, por favor, hagan fila allá.
+0008 [Nazuna] | ¡Nazuka, quiero uno!
+0009 [Nazuka] | Listo. Ya está.
+0010 [Nazuna] | ¡Genial! ¡Gracias!==W== Oye, ¿podrías hacer este brazalete de viento un poquito más bonito? ¿Ponerle algún adorno o algo?
+0011 [Nazuka] | No seas berrinchuda. Si perdemos más tiempo, el Jardín Parásito se va a escapar.
+0012 [Nazuna] | ¡Pero a Kaede y a Fuyuka les tocaron unos especiales!==W== ¡Yo también quiero uno! ¡Tienes que hacerme uno especial!
+0013 [Nazuka] | Justamente porque tardé tanto en hacerle una hoja de arce a Kaede y un conejo a Fuyuka, tuve que hacer el tuyo a la carrera.
+0014 [Nazuna] | Hmph... O sea, suena razonable,==W== pero lo haces a propósito, ¿verdad? ¡Claro que sí!
+0015 [Tú] | Esto está... animado. Casi no parece que estemos a punto de pelear contra un monstruo importante.
+0016 [Noya] | Je, no hay nada como un rato de relajo antes de una gran batalla.==W== Y claro, fuiste tú a quien se le ocurrió una forma tan ingeniosa de lidiar con esa niebla mágica.
+0017 [Narración] | Para proteger a todos de la niebla del Jardín Parásito, modifiqué el hechizo localizador que Iris había usado con nosotros antes.
+0018 [Iris] | ¿Empleado? ¡Es nuestro compañero!==W== ¿Ves el anillo de agua en ==SEX3== mano? Es una magia localizadora que lancé justo antes de entrar.
+0019 [Noya] | Al enlazar a todos con estos brazaletes de agua y viento, estaremos a salvo de las ilusiones.==W== Aunque la niebla sea tan fuerte que cambie cómo se ven los brazaletes, el enlace nos ayudará a distinguir a los amigos de los enemigos.
+0020 [Amber] | Esa niebla de ilusiones tan aterradora... El Jefe la resolvió por completo.
+0021 [Tú] | Yo solo tuve la idea. Iris y Nazuka son las que hicieron toda la magia de verdad.
+0022 [Tú] | Y Nazuka es increíble. Lo aprendió en nada y replicó perfectamente los brazaletes con su magia de viento.
+0023 [Nazuka] | Jefe, fue una tarea sencilla. No hace falta elogiarme.
+0024 [Nazuka] | El escuadrón de caza está enlazado en grupos de tres, como indicaste. Esperamos tus órdenes.
+0025 [Tú] | Vayan a sus posiciones==W== y rodeen esa cabaña.
+0026 [Hunting Squad Member] | ¡Entendido!
+0027 [Nazuka] | Tú solo concéntrate en dirigir, Jefe. Me aseguraré de que nada te alcance.
+0028 [Narración] | Con un movimiento de su bastón, se forma un anillo verde de viento alrededor de mi muñeca. Un hilo tenue, casi transparente, me conecta ahora con Nazuka, y...
+0029 [Claire] | Espera, ¿estoy en tu escuadra?
+0030 [Nazuka] | Sí. ¿Algún problema?
+0031 [Claire] | Es que, Nazuka, tu estilo de «lanzarse de cabeza a la pelea» es un poco demasiado para mí.
+0032 [Lugar y hora] | 08:10, 28.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0033 [Noya] | ¡Iris! ¡Congela las ramas! ¡Se está debilitando!
+0034 [Iris] | Recibido.
+0035 [Amber] | El golpe final.
+0036 [Garden of Parasite] | ¡CRUJE...!
+0037 [Nazuka] | Destrozar las ramas congeladas... Una táctica sólida.
+0038 [Tú] | ¡Ustedes tres tienen una sinergia excelente! Muy bien, Petal Bloom, ¡su turno!
+0039 [Fuyuka] | ¡Sí! ¡Maestro, voy a entrar!
+0040 [Narración] | Con Nazuna y Kaede cubriéndola, Fuyuka carga por detrás. Un pesado puño de hierro hace pedazos otra de las ramas atacantes.
+0041 [Claire] | Eso sí es dirigir con maestría. Con todos atacando sin parar desde distintas direcciones, el Jardín Parásito ni siquiera puede soltar su niebla.
+0042 [Claire] | A este paso, lo derribaremos en un dos por tres. Nunca pensé que pudiéramos con un monstruo tan complicado tan fácilmente, solo con cambiar de táctica.
+0043 [Nazuka] | El Jardín Parásito está lejos de estar agotado. No podemos bajar la guardia.
+0044 [Claire] | Aun así, tengo que recordártelo: Nazuka, no te olvides de «esa cosa». Para nosotras es más importante que derrotar a un monstruo cualquiera.
+0045 [Nazuka] | Lo sé. Pero no es el momento. En el campo de batalla, nuestra primera prioridad siempre es proteger a los aliados y derrotar al enemigo.
+0046 [Claire] | Pensar en el futuro también es importante.
+0047 [Tú] | Aun así... Esto se siente demasiado fácil.
+0048 [Tú] | El Jardín Parásito vino a cazar, entonces ¿por qué se quedaría esperando en una cabaña vacía a que lo rodeáramos? Algo no cuadra.
+0049 [Claire] | Le estás dando demasiadas vueltas. Un monstruo tonto como ese no es tan listo como para hacer trucos.
+0050 [Claire] | ¿Ves? Ya se está cayendo a pedazos. No va a aguantar mucho más.
+0051 [Garden of Parasite] | Crac... crac... crac...
+0052 [Nazuka] | Se están rompiendo muchísimas ramas... No, espera. Se está rompiendo sus propias ramas... ¿Por qué se hace daño así?==W== A menos que... esté concentrando su poder. Si es así...
+0053 [Nazuka] | ¡Está cargando un ataque! ¡Todos, prepárense!
+0054 [Amber] | Jefe, un enorme enjambre de monstruos viene hacia nosotros desde el bosque.
+0055 [Claire] | ¿Hasta los pequeños?==W== Imposible. Normalmente huyen en cuanto ven a un Trekker.
+0056 [Tú] | Así que era eso. El Jardín Parásito no estaba esperando: él era el señuelo. Nos estaba atrayendo hasta aquí.
+0057 [Tú] | Usó la niebla para controlar a los otros monstruos. Creíamos que lo teníamos acorralado, pero todo este tiempo nos estaba tendiendo una trampa.
+0058 [Claire] | ¡No puede ser! Solo es un monstruo...
+0059 [Narración] | Duele... tanto... Qué miedo...
+0060 [Narración] | No quiero morir... Ayúdenme... Por favor, ayúdenme...
+0061 [Narración] | Solo quiero volver con mis amigos...
+0062 [Nazuka] | ¿El Jardín Parásito...==W== está hablando?
+0063 [Nazuka] | No, eso no puede ser. Debe ser una ilusión... su último intento desesperado por sobrevivir.
+0064 [Dead Merc] | ¿Por qué...==W== Por qué fuiste la única que sobrevivió?
+0065 [Desperate Merc] | ¿Por qué no nos ayudaste...==W== aquella vez?
+0066 [Mortally Wounded Merc] | Sigan la orden...==W== Teníamos que conseguir «esa cosa»... costara lo que costara...
+0067 [Claire] | ¡No te acerques! ¡Nosotras nunca les hicimos nada!==W== ¡Ustedes fueron los que nos atacaron! ¡Querían matarnos!
+0068 [Nazuka] | Claire, cálmate. Es solo una ilusión. Aquí no hay nadie más que nosotros.
+0069 [Claire] | ¡Tú... tú eres el de negro! ¡No necesito que me digas nada! Solo vienes por «esa cosa», ¿verdad?
+0070 [Claire] | Malditos... ¡Malditos sean todos! ¡AAAAAAGH!
+0071 [Nazuka] | ¡Espera, detente! ¡Claire...! ¡No, va directo hacia el Jardín Parásito!
+0072 [Tú] | ¡Tsk! Los monstruos salen en masa del bosque... Justo ahora tenía que pasar esto.
+0073 [Nazuka] | Jefe, diles a todos que se retiren. Yo voy por Claire.
+0074 [Tú] | Voy contigo. Si vas a meterte a la niebla, puedo ayudar.
+0075 [Claire] | Jejeje... Ya casi... «esa cosa» ya casi es mía.
+0076 [Garden of Parasite] | ¡CRRUUUJE...!
+0077 [Narración] | Perdida en un trance, la estocada de Claire no tiene fuerza alguna y ni siquiera logra atravesar la corteza del Jardín Parásito.
+0078 [Claire] | ¡Ah, duele!
+0079 [Narración] | Que los árboles se partan. Que tiemblen las montañas...
+0080 [Nazuka] | ¡Claire, atrás!
+0081 [Claire] | ¡¿Por qué te metes en mi camino?! ¡Estaba tan cerca de conseguir «esa cosa»!
+0082 [Claire] | ¡En cuanto la tenga, todos nuestros problemas se van a resolver!
+0083 [Nazuka] | ... Lo siento, Claire.
+0084 [Nazuka] | ¡Jefe, llévatela y váyanse! Yo los contengo. ¡Pónganse a salvo, ya!
+0085 [Tú] | ¡No puedes hacer esto sola! Nos vamos todos juntos.
+0086 [Garden of Parasite] | No, huyan...
+0087 [Narración] | La, muerte, viene, por, todos, los, humanos...
+0088 [Tú] | El Jardín Parásito... está hablando.
+0089 [Narración] | ¡Ni se te ocurra! ¡Aléjate de mi Maestro!
+0090 [Nazuna] | ¡Jefe! ¡Nazuka! ¡Perdón por la espera!
+0091 [Nazuna] | ¡Nosotras contenemos la línea! ¡Ustedes concéntrense en salir de aquí!
+0092 [Fuyuka] | Maestro, daré todo de mí...==W== ¡para asegurarme de que escape a salvo!

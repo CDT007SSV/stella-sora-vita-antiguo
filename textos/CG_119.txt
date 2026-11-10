@@ -1,0 +1,6 @@
+# Historia de Nanoha — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_119_01 | La misión secreta de la sirvienta (Parte I)
+CG_119_02 | La misión secreta de la sirvienta (Parte II)
+CG_119_03 | La misión secreta de la sirvienta (Parte III)

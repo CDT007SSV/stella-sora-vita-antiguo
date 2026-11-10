@@ -1,0 +1,142 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 5B · Contraproducente
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Ambushing Committee Member | Miembro del Comité emboscado
+N:Committee Elite | Élite del Comité
+N:Dejected White Cat | Gato Blanco abatido
+N:Impulsive White Cat | Gato Blanco impulsivo
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_133 | Nazuka
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_142 | Cosette
+N:avg1_144 | Chitose
+N:avg1_163 | Greyhorn
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg3_100 | Sylar
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_1309 | Soldado de los Centinelas del Alba
+N:avg3_1311 | SaiLa
+N:avg3_152 | Bastelina
+N:avg3_216 | Gunhild
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Contraproducente
+0003 [Intro] | El Comité cambia a una nueva guerra de desgaste y la situación da un vuelco rápidamente. Los Gatos Blancos y tus aliadas empiezan a flaquear conforme se agotan los suministros. Entonces Gunhild revela la verdad: ninguno de ellos pelea por Angie.
+0004 [Lugar y hora] | 17:30, 7.º del mes de Nebula, Mirage, Calle sin nombre
+0005 [Committee Elite] | ¡Vanguardia, defensa!==W== ¡Retaguardia,==W== bolas de fuego de supresión!
+0006 [Dejected White Cat] | ¡Capitana Kasimira, no podemos contenerlos! ¡Sus reservas de magia no tienen fondo!
+0007 [Impulsive White Cat] | ¡Nuestros disparos no rompen su defensa, y esas bolas de fuego están derritiendo nuestra cobertura!
+0008 [Kasimira] | ¡Chaton, mantén la línea! ¡Los ciudadanos todavía están evacuando!
+0009 [Kasimira] | ¡Ustedes, conmigo! ¡Tomaremos el pozo de la mina y los flanquearemos!
+0010 [Committee Elite] | ¡Tercera descarga completa! ¡Retírense y cambien las Piedras del Alma!
+0011 [Kasimira] | ¿Creen que pueden disparar y huir? ¡No mientras yo esté aquí!
+0012 [Impulsive White Cat] | ¡Se están retirando!==W== ¡Avancen!
+0013 [Kasimira] | ¡Mantengan la posición! ¡Es una emboscada!
+0014 [Committee Elite] | Ja, los gatos tontos de verdad cayeron.
+0015 [Ambushing Committee Member] | ¡Vientos furiosos, despedácenlos!
+0016 [Dejected White Cat] | Ay, no,==W== una trampa...
+0017 [Kasimira] | ¡Retírense! ¡Yo los cubro!
+0018 [Committee Elite] | Hmph. La gata líder tiene garras.
+0019 [Ambushing Committee Member] | Déjenlos huir. La nueva táctica está funcionando a la perfección. Solo sigamos desgastándolos.
+0020 [Ambushing Committee Member] | Al Tirano y a ==SEX3== secuaces no les alcanzarán las Piedras del Alma para aguantar hasta el amanecer.
+0021 [Lugar y hora] | 18:00, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0022 [Dejected White Cat] | Capitana Kasimira, m-me rompí el brazo. ¿Eso significa que... quizá nunca vuelva a poder sostener un arma...?
+0023 [Kasimira] | No entres en pánico. Lo revisé hace rato y el hueso está bien. Descansa. Te vas a recuperar.
+0024 [Noya] | ¡==PLAYER_NAME==, otro escuadrón del Comité está avanzando! ¡Nosotras los contenemos!
+0025 [Tú] | No se atasquen y no los persigan. Solo háganlos retroceder.
+0026 [Noya] | ¡Entendido!
+0027 [Tú] | Kasimira, ¿qué está pasando allá afuera? La efectividad de combate del Comité se disparó de golpe. Es como si peleáramos contra un ejército completamente distinto.
+0028 [Kasimira] | Cambiaron de táctica.
+0029 [Kasimira] | Jefe, tus compañeras son fuertes. Pero, salvo la directora Allie, su fuerza individual no está muy por encima de la del Comité.
+0030 [Kasimira] | Una de tus combatientes puede contener a tres soldados regulares o a un capitán. Y eso es solo contenerlos, no sacarlos de la pelea.
+0031 [Kasimira] | La directora Allie es más fuerte. Puede enfrentarse de frente a dos capitanes y diez regulares. Pero solo tenemos una como ella.
+0032 [Kasimira] | Los Gatos Blancos somos más débiles individualmente. Hacen falta dos de nosotros para empatar contra un regular.
+0033 [Kasimira] | Entonces, si tú fueras su comandante, ¿qué harías?
+0034 [Tú] | Si yo fuera el comandante... La ventaja del Comité está en el número y los recursos. Y su debilidad es la fuerza individual.
+0035 [Tú] | El Tirano tiene poder bruto, pero le faltan gente y recursos. Así que la conclusión es obvia...
+0036 [Tú] | Dividiría las fuerzas en escuadrones de diez, a no más de cinco minutos de distancia para apoyarse entre sí. Luego iría apretando el cerco alrededor del Orfanato Margarita paso a paso.
+0037 [Kasimira] | ¿Ah, sí? ¿Y por qué?
+0038 [1] | Según tu análisis, el equipo del Tirano es fuerte, pero un escuadrón de diez no será aniquilado rápido a menos que se tope directamente con la directora Allie o con un ataque combinado.
+0039 [1] | Mientras los inmovilicemos y esperemos refuerzos, podemos arrastrar la pelea justo a nuestro terreno:==W== una guerra de desgaste decidida por el puro número y los recursos.
+0040 [1] | Aunque el equipo del Tirano concentre todos sus ataques o mande a la directora Allie,==W== solo podrían aplastar uno o dos escuadrones a la vez.
+0041 [1] | Los otros escuadrones pueden aprovechar esa abertura para flanquearlos y arrastrarlos de vuelta a la pelea.
+0042 [Kasimira] | Buen juicio. Ahora mismo, el Comité de Salvación está haciendo exactamente eso.
+0043 [Tú] | Pero ¿por qué ese cambio repentino de táctica?
+0044 [???] | Porque sacaste a Lady Angie del tablero.
+0045 [Tú] | ¡Bastelina, despertaste! ¿Cómo va tu herida? Perdiste muchísima sangre, ¿te sientes bien?
+0046 [Bastelina] | Jeje, el Jefe se preocupa por mí.
+0047 [Bastelina] | ¡Me siento bien! La herida se veía peor de lo que era. Solo me alcanzó una explosión mágica y sangré un poco más de lo normal. La directora Allie me curó enseguida.
+0048 [Bastelina] | Me cerró la herida con una especie de pegamento milagroso. Dijo que ni siquiera me dejaría cicatriz.
+0049 [Bastelina] | Menos mal. Las empleadas de la Tienda de Almas tenemos que ir a banquetes de vez en cuando. ¡Ahora no tengo que preocuparme por espantar a la gente con un vestido escotado de la espalda! Sigo siendo la perfecta y adorable Bastelina.
+0050 [Tú] | ¿Te alcanzó una explosión mágica?==W== ¿Quién fue?
+0051 [Bastelina] | En realidad... Fue fuego amigo.
+0052 [Bastelina] | El Comité estaba usando magia para arrasar las casas de las afueras de Mirage y despejar sus líneas de tiro. Me agarró el fuego cruzado cuando venía para acá a escondidas.
+0053 [Bastelina] | En fin, eso no importa. Jefe, tienes que huir.
+0054 [Bastelina] | Capturar a Lady Angie no detuvo al Comité. De hecho, lo volvió más peligroso.
+0055 [Tú] | ¿Porque... cambiaron de comandante? Pero con Angie capturada, ¿por qué siguen peleando?
+0056 [Bastelina] | Entendiste mal al Comité. Desde fuera, quizá parezcan un montón de lunáticos obsesionados con el Libro de las Profecías de la Gracia, pero no son el ejército privado de Lady Angie.
+0057 [Bastelina] | Después de que Laru y yo nos infiltramos, nos dimos cuenta de que sus ganas de salvar el mundo son genuinas. Cada uno tiene una razón inquebrantable y la pura fuerza de voluntad para detener el fin del mundo...
+0058 [Lugar y hora] | 18:15, 18.º del mes de Nebula, Mirage, desierto a las afueras de la ciudad
+0059 [Greyhorn] | Gunhild, ¿cómo va nuestro avance?
+0060 [Gunhild] | Tus tácticas están funcionando. Dividimos las fuerzas que nos quedan en veinticinco escuadrones de combate. Cinco protegen el campamento y los otros veinte se están desplegando y avanzando.
+0061 [Gunhild] | Tenemos al Tirano acorralado en las manzanas alrededor del orfanato. Solo que...
+0062 [Greyhorn] | ¿Solo que qué?
+0063 [Gunhild] | Perder a Lady Angie tiene a todos alterados. Están furiosos. La orden de «atacar solo al Tirano» ya no vale nada.
+0064 [Gunhild] | Después de todo, todos aquí han pasado por un infierno, y fue ella quien nos sacó de ahí, uno por uno.
+0065 [Gunhild] | Claro que no vamos a atacar a civiles ni a niños, pero a nadie le preocupan ya mucho los daños colaterales. En cuanto a las compañeras del Tirano... Pasamos de «herirlas» a «disparar a matar».
+0066 [Greyhorn] | Yo no soy miembro del Comité, Gunhild. No conozco el dolor que todos ustedes han sufrido, pero acepté las órdenes de Lady Angie y pienso cumplirlas fielmente.
+0067 [Greyhorn] | Haré todo lo que esté en mi poder para llevarnos a la victoria. Pero esta forma de pelear... No creo que sea lo que Lady Angie quería.
+0068 [Greyhorn] | Así que, por favor, intenta contenerlos, aunque sea un poco.
+0069 [Gunhild] | Entiendo lo que dices, pero... no puedo.
+0070 [Gunhild] | No llevamos mucho tiempo trabajando juntas, Greyhorn. Creo que nunca te he hablado==W== de mi pueblo natal, ¿o sí?
+0071 [Greyhorn] | No. Solo sé que te uniste a los Centinelas del Alba en Emor, pero por tu acento, es obvio que no eres de ahí.
+0072 [Gunhild] | No lo soy. Soy del lejano norte.==W== Allá hace un frío terrible. El invierno dura seis meses al año. Dependíamos de los Artefactos del Monolito solo para sobrevivir.
+0073 [Gunhild] | La vida era dura, pero nos cuidábamos unos a otros. La verdad, no nos iba nada mal.
+0074 [Gunhild] | Y entonces... El Monolito se apagó.
+0075 [Greyhorn] | ¿Se... apagó? ¿Cómo es eso siquiera posible?
+0076 [Gunhild] | ¿Eres capitana de la Guardia Imperial y no sabes de esto? Parece que tu gran capitán no te considera parte de su círculo cercano.
+0077 [Gunhild] | Los altos mandos de las grandes empresas de Nova tienen un acuerdo tácito para encubrir estas cosas. Pero esa es una conversación para otro momento.
+0078 [Gunhild] | En fin, después de que el Monolito se apagó, una ventisca repentina sepultó mi pueblo. Me separé de mis padres y terminé vagando hasta una ciudad vecina, huérfana.
+0079 [Gunhild] | La verdad, ni siquiera calificaba como huérfana. En esas calles la caridad no alcanzaba para todos. Si yo comía un bocado, alguien más se moría de hambre.
+0080 [Gunhild] | Si Lady Angie no me hubiera encontrado, seguramente me habría congelado hasta volverme un bloque de hielo en la calle, igual que mi hogar.
+0081 [Gunhild] | Cada miembro del Comité tiene una historia como la mía. Y el Tirano responsable de todo esto está justo frente a nosotros, rodeado de un montón de necios testarudos que protegen a ==SEX4==.
+0082 [Gunhild] | ¡¿Cómo se supone que voy a contener a todos en estas condiciones?!
+0083 [Gunhild] | ¡Si mi cañón no estuviera atascado, ahora mismo arrasaría por completo el bar donde se esconde el Tirano!
+0084 [Greyhorn] | Cof, cof, cof...==W==
+0085 [Gunhild] | Greyhorn, tus heridas internas son graves. Necesitas descansar, ahora mismo.
+0086 [Greyhorn] | Estoy... Estoy bien. Solo son unas costillas rotas. Le di mi palabra a Lady Angie, y cumpliré con mi deber hasta el final.
+0087 [Greyhorn] | Entiendo cómo se siente tu gente. Ya que no puedes contenerlos, resolveremos esto con la menor cantidad de bajas posible de ambos lados.
+0088 [Greyhorn] | Diles a las tropas que se turnen y desgasten al Tirano hasta el amanecer. ¡Entonces lanzaremos un asalto total y terminaremos con esto!
+0089 [Lugar y hora] | 18:30, 7.º del mes de Nebula, Mirage, Calle sin nombre
+0090 [Bastelina] | Y esa es la situación. El Comité de Salvación está formado por gente que perdió su hogar.
+0091 [Bastelina] | Lady Angie solo los reunió. Incluso sin ella, seguirían queriendo salvar el mundo desesperadamente.
+0092 [Tú] | ¿Entonces al capturar a Angie, en realidad le hice un favor al Comité?
+0093 [Bastelina] | Viendo el resultado, sí. Honestamente, Lady Angie es una aficionada total cuando se trata de dirigir batallas.
+0094 [Bastelina] | Amontonar guerreros de élite en tres compañías torpes, cuando solo la capitana Greyhorn tiene verdadera experiencia de mando... Solo a Lady Angie se le ocurriría que es buena idea.
+0095 [Bastelina] | Por lo tanto, Jefe... Hablando estrictamente como representante que vela por los intereses de su cliente, te recomiendo muchísimo que te escabullas esta noche al amparo de la oscuridad.
+0096 [Kasimira] | Yo sugiero lo mismo. Con la directora Allie y el resto de tu equipo, el Comité no podrá detenerte.
+0097 [Tú] | No... no puedo simplemente huir.
+0098 [Tú] | Kasimira, ¿cómo va la evacuación de los niños y de los ciudadanos de Mirage?
+0099 [Kasimira] | Mal. El Comité tiene Mirage rodeada por el este y el sur. Los Escorpiones del Desierto y la Guardia Imperial local no se han movido, pero bloquean las rutas del oeste y del norte. No podemos pasar.
+0100 [Kasimira] | Los combates también derrumbaron varios tramos de los pozos subterráneos de la mina. La evacuación va a paso de tortuga. No tendremos a todos afuera hasta mañana en la mañana.
+0101 [Kasimira] | Buenas noticias. Chaton encontró un pozo de mina abandonado que lleva al Monolito de las afueras de la ciudad. Algunos tramos están bloqueados por escombros,==W== pero, por suerte, encontramos a una ayudante muy capaz...==W==
+0102 [Tú] | ¿De casualidad encontraron a una Trekker muy capaz que pelea con garras?
+0103 [Kasimira] | No. ¿Es amiga tuya?
+0104 [Tú] | No, solo he oído hablar de ella.
+0105 [Tú] | Capturar a Angie cambió el orden de los acontecimientos. Entonces... ¿los Gatos Blancos nunca se toparon con ella?
+0106 [Tú] | Maldición, estaba tratando de cambiar el destino de Noya. Pero las cosas... obviamente solo están empeorando.
+0107 [Narración] | Mi mirada se posa en el Lucky Oasis estacionado cerca.
+0108 [Tú] | No hay forma de que abandone a todos y simplemente huya.
+0109 [Tú] | Espera, huir... ¡Si puedo usar eso al revés, de verdad podríamos tener una oportunidad de ganar esto!

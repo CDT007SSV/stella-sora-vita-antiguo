@@ -1,0 +1,146 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 1C · El cebo está puesto
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Committee Elite | Élite del Comité
+N:Committee Mage | Mago del Comité
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_1207 | Iris
+N:avg1_133 | Nazuka
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_144 | Chitose
+N:avg1_146 | Benito
+N:avg1_149 | Gerie
+N:avg1_150 | Laru
+N:avg1_163 | Greyhorn
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_125 | Meikyo
+N:avg3_1306 | Soldado de los Centinelas del Alba
+N:avg3_1307 | Soldado de los Centinelas del Alba
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_152 | Bastelina
+N:avg3_207 | Myrsha
+N:avg3_210 | Hazana
+N:avg3_216 | Gunhild
+N:avg3_217 | N.º 160
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El cebo está puesto
+0003 [Intro] | El Comité cae sobre el orfanato para obligarte a salir. Te usas a ti mismo como cebo para atraerlos hacia el Monolito del desierto, luego cambias una pieza de ajedrez por la ayuda de los Escorpiones y tiendes la trampa perfecta...
+0004 [Lugar y hora] | 13:50, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0005 [Tú] | Mientras logremos entrar a ese Monolito, podemos superar su número y darle la vuelta a toda esta guerra.
+0006 [Kasimira] | Dentro de ese Monolito...==W== Jefe, ¿piensas usar las bendiciones del Monolito?
+0007 [Kasimira] | La bendición del Dios de la Gracia sí aumenta la capacidad de combate. Por experiencia, llegar al piso más alto duplica más o menos tu potencia mágica.
+0008 [Kasimira] | Pero ¿qué resuelve eso? El enemigo recibe la misma mejora. Con su número, el aumento total de su poder eclipsará al nuestro.
+0009 [Tú] | No es la misma mejora. Si combinas bien las bendiciones, la recompensa en la cima es enorme. Hablamos de un aumento de cinco veces, como mínimo.
+0010 [Chaton] | ¡¿Cinco veces?!
+0011 [Noya] | Sip. Llegamos a esas cifras cada vez que escalamos.
+0012 [Amber] | Todo es gracias a Iris.
+0013 [Iris] | ¡Y-yo no hice mucho!==W== Solo armé una hoja de cálculo con todas las bendiciones que encontramos==W== y luego calculé las mejores combinaciones para el estilo de pelea de cada una.
+0014 [Iris] | El Jefe se está quedando corto. Con una buena sinergia mágica, hasta es posible un aumento de diez o veinte veces.
+0015 [Chaton] | ¡¿Veinte?!==W== ¡Si mi poder oscuro se multiplica por veinte, podría dominar este desierto ahora mismo!
+0016 [Kasimira] | Reacciona, Chaton. Las bendiciones no se pueden sacar. No importa qué tan fuerte te vuelvas ahí dentro: en cuanto sales, vuelves a la normalidad.
+0017 [Iris] | Ah, sobre eso...
+0018 [Tú] | Está bien, Iris. Los Gatos Blancos pelean a nuestro lado. No hay razón para ocultarlo.
+0019 [Iris] | Está bien.
+0020 [Iris] | Normalmente, las bendiciones no se pueden sacar. Por eso los demás Trekkers nunca se molestan en estudiar las combinaciones.
+0021 [Iris] | Si lo que quieres es un Artefacto, subir hasta la cima no tiene sentido. Basta con encontrar una Caja de Deseos y pedir un deseo.
+0022 [Iris] | Pero la autoridad del Jefe sí nos permite sacar las bendiciones. Solo duran un día, pero esa fue toda la excusa que necesité para ponerme a calcular combinaciones.
+0023 [Kasimira] | ¿Q-qué acabas de decir?
+0024 [Chaton] | ¡¿Podemos sacar las bendiciones?!==W== ¡Seríamos invencibles!
+0025 [Iris] | No exactamente. Una magia más fuerte consume muchísimo, y no podemos pagar lo que cuesta recargar las Piedras del Alma, así que la guardamos para emergencias extremas.
+0026 [Nazuka] | La última vez que la usamos...==W== fue para pelear contra Darcia. Un puñado de nosotras contuvo a cientos de Plantas Inteligentes, todo gracias a la Gracia.
+0027 [Chaton] | Jejeje... Lo entiendo perfectamente.==W== ¡Hacemos un pacto de almas contigo, sacamos las bendiciones y nos volvemos Supergatos!
+0028 [Chaton] | ¡Así podría enfrentarme a diez secuaces a la vez!==W== No, espera...==W== ¡Con veinte veces más poder oscuro, podría aplastar fácilmente a cien!
+0029 [Tú] | Un aumento de veinte veces requiere una planificación meticulosa y una sinergia perfecta. Ahora mismo no podemos lograrlo.
+0030 [Tú] | Además, Angie no se va a quedar de brazos cruzados durante horas mientras nosotros subimos tranquilamente hasta el último piso por un aumento normal de cinco veces.
+0031 [Tú] | Uf. Para explicar cómo sé todo esto,==W== tendré que tomar prestados otra vez los nombres de Bastelina y Laru.
+0032 [Tú] | Los informantes de Albedo dentro del Comité acaban de contactarme. Angie quiere obligarme a dar la cara. Para eso, envió a cien soldados a tomar el Orfanato Margarita.
+0033 [Iris] | ¡¿C-cien?!
+0034 [Allie] | Jefe, por favor, déjame regresar. Tengo que protegerlos.
+0035 [Amber] | Yo también voy.
+0036 [Tú] | Todos, calma. Vamos a proteger a los niños, pero no así.
+0037 [Tú] | El Comité nos supera en número y en armas. Si dejamos que ellos marquen el ritmo y andamos persiguiéndolos, tarde o temprano nos van a desangrar en una guerra de desgaste.
+0038 [Tú] | Elegí el Monolito precisamente para sacar a Angie de Mirage. Atraemos sus fuerzas hacia mí y mantenemos a los niños y a los ciudadanos fuera del fuego cruzado.
+0039 [Allie] | Pero acabas de decir que ellos tienen la superioridad numérica. Fácilmente podrían mandar un equipo de ataque tras nosotros y otro a Mirage para tomar a los niños como rehenes...
+0040 [Angie] | Con tan poco tiempo, no estoy completamente segura de poder acabar contigo. Nuestra batalla inevitablemente reduciría Mirage a escombros, con muchas bajas en ambos bandos.
+0041 [Angie] | Por eso, te pido que acabes con tu propia vida con este Cetro de la Muerte. A cambio, garantizaré la seguridad de tus compañeros y de la gente de Mirage.
+0042 [Angie] | Desde el principio, la única persona a la que he querido matar es al Tirano.
+0043 [Angie] | Justo por eso intenté emboscar a ==SEX4== en Philae.==W== Así,==W== las únicas víctimas habríamos sido nosotros dos.==W== ¿No crees que habría sido mucho mejor que dejar que las llamas de la guerra consuman Mirage?
+0044 [Angie] | Aunque me perdonen la vida por ahora, dentro de cuatro años, cuando el mundo esté verdaderamente a salvo de la destrucción, les pediré que me quiten la vida como compensación por la tuya.
+0045 [Angie] | En otras palabras, pase lo que pase, pagaré tu vida con la mía. Si todavía dudas de mí, tus compañeros pueden atarme con un contrato mágico. Uno inquebrantable.
+0046 [No. 160] | Quítense de mi camino. No vine a hacerles daño ni a ustedes ni a los niños. Solo quiero al Tirano.
+0047 [Tú] | No lo harán. No puedo explicar cómo lo sé, pero al Comité de Salvación solo le importa una cosa: matar al Tirano y salvar el mundo.
+0048 [Tú] | Si huyera a cualquier otro lugar, podrían recurrir a tácticas sucias para hacerme salir.
+0049 [Tú] | Pero el Monolito en ruinas es diferente. La entrada no es un elevador aleatorio. Es un solo agujero enorme en la pared.
+0050 [Tú] | Si bloquean ese agujero, me atrapan. Una vez que Angie me tenga acorralado, no tendrán ninguna razón para perder el tiempo con el orfanato ni con Mirage.
+0051 [Allie] | ¿Te vas a usar como cebo para proteger el orfanato?
+0052 [Allie] | ¡No! No puedo quedarme mirando cómo te sacrificas. Déjame contener al Comité mientras tú evacúas a los niños.
+0053 [Tú] | No te preocupes, Allie. Las cosas no están tan mal.
+0054 [Tú] | Primero: los refuerzos de Firenze y de los Árbitros del Ocaso ya vienen en camino. Llegarán a Mirage en tres días. El tiempo está de nuestro lado.
+0055 [Tú] | Segundo: igual hay que usar el elevador para moverse entre pisos. Límites de peso estrictos, destinos aleatorios. Es el cuello de botella perfecto para dividir sus fuerzas e ir eliminándolos.
+0056 [Tú] | Por último: el Comité es un rompecabezas de Centinelas del Alba, Guardias Imperiales, Árbitros del Ocaso y mercenarios de empresas. Puede que tengan magia de sobra, pero no tienen ninguna experiencia escalando juntos un Monolito.
+0057 [Tú] | Como dicen en Loong, tenemos a favor el momento, el terreno y la unión. No hay nada de qué preocuparse. Vamos a ganar.
+0058 [Noya] | ¡Guau! ¡Dicho así, casi parece que nosotros tenemos todas las cartas!
+0059 [Nazuka] | Es que el Jefe es demasiado bueno para tranquilizar a la gente.==W== ==SEX1== puede ver un desastre total y hacer que suene como si no hubiera nada que temer.
+0060 [Allie] | Mmm... Entiendo, Jefe.==W== Mientras no estés tirando tu vida a la basura, estoy de acuerdo con tu plan.
+0061 [Allie] | Voy contigo al Monolito. Ayudaré a entretener al Comité para que ganes tiempo y reúnas Gracia.==W== Es solo que... Lo del orfanato...
+0062 [Tú] | Benito, ¿podrías quedarte en Mirage y cuidar a los niños?
+0063 [Benito] | Claro. Los demás Gatos Blancos y yo mantendremos a salvo el orfanato.
+0064 [Tú] | Tengo un favor más que pedirte...
+0065 [Hazana] | Claro que lo que de verdad quería eran esos Sellos de la Gracia que supuestamente cargabas.==W== Con un Sello podemos fundar nuestra propia empresa.==W== Quizá no estemos a la altura del Imperio de la Gracia ni de Cosecha Unida, pero al menos no nos exprimirían hasta dejarnos secos.
+0066 [Myrsha] | Jefa, ¿hacer esto de verdad va a ayudar al Jefe?
+0067 [Hazana] | ¡Jajaja! ¡Ni idea! Pero esa Trekker, Noya, ¿no? Dijo algo muy cierto.
+0068 [Hazana] | Los Escorpiones necesitan que esta guerra territorial termine, y para ayer.==W== Y si no pueden terminarla, que se la lleven a otra parte. Si esto sigue así, nuestra mina de diamante cristalino se va a derrumbar.
+0069 [Tú] | Convence a los Escorpiones del Desierto de que se pongan de nuestro lado.
+0070 [Kasimira] | Jefe, eso es imposible. Los Escorpiones son unos oportunistas. Aunque no confíen en el Comité, ahora mismo no tienen ninguna razón para ayudarnos.
+0071 [Tú] | Nos ayudarán. Solo dale esto a Hazana.
+0072 [Benito] | ¿Esto es...==W== una pieza de ajedrez?
+0073 [Tú] | Sí. También es un Sello de la Gracia que Hazana ha estado buscando.
+0074 [Meikyo] | Sus patentes de franquicia son exclusivamente para minería.
+0075 [Tú] | Perfecto para explotar la mina de diamante cristalino de Mirage. Fundar su propia empresa es lo que los Escorpiones siempre han soñado.
+0076 [Tú] | Confío en que tomará la decisión que nos beneficie. Es la única jugada que coincide con los intereses de los Escorpiones.
+0077 [Benito] | Haré lo que me pides. Pero...==W== ¿estás seguro de usar un Sello de la Gracia invaluable para comprar a los Escorpiones?
+0078 [Tú] | ¿Comparado con todos ustedes, que están aquí a mi lado ahora mismo? Las cosas materiales como esta no valen nada.
+0079 [Chitose] | Mi ==SEX11==, su plan es impecable.==W== Sin embargo, tengo una pregunta:==W== ¿cómo nos aseguramos de que el Comité de Salvación sepa que vamos al Monolito? Quizá podría enviarme a mí a llamar su atención...
+0080 [Tú] | No hace falta correr ese riesgo. Tengo una forma mucho más sencilla.
+0081 [Narración] | Desbloqueo el Trono y recorro mis contactos de Heartlink hasta seleccionar un nombre con el que no hablo desde hace siglos, pero que nunca borré...
+0082 [Narración] | Serena.
+0083 [Lugar y hora] | 14:30, 18.º del mes de Nebula, Mirage, Calle principal
+0084 [Committee Elite] | ¡Apresúrense! El Orfanato Margarita está al final de esta calle.
+0085 [No. 160] | Lady Angie, la Segunda Compañía y yo nos acercamos al orfanato. No hemos encontrado resistencia. Todo va exactamente según su plan.
+0086 [No. 160] | ¿Qué dijo? ¿El Tirano apareció en el Monolito del Desierto? Entendido.==W== Desviaré de inmediato a la Segunda Compañía para que converja en su posición.
+0087 [No. 160] | Je, qué interesante. Aparecer en un lugar así... ¿Es una última resistencia desesperada? Por mí, perfecto. De todos modos no me interesa usar a niños como rehenes.
+0088 [No. 160] | ¡Segunda Compañía, escuchen!==W== ¡Mantengan la formación de marcha! ¡Media vuelta! Nuestro nuevo objetivo es el Monolito del desierto. ¡A toda velocidad!
+0089 [Committee Elite] | ¡Sí, señora!
+0090 [Lugar y hora] | 14:50, 18.º del mes de Nebula, Monolito del Desierto, planta baja
+0091 [Gunhild] | Uf, llegamos. Mi Tercera Compañía tuvo que venir a marchas forzadas desde nuestras posiciones en las dunas. La mitad de mi escuadrón se está quedando atrás.==W== Greyhorn, ¿cuál es tu situación?
+0092 [Greyhorn] | Dos Trekkers nos engañaron y nos quedamos atrapados en un pozo de la mina una eternidad. Sin bajas, pero la moral tocó fondo.==W== Por suerte, Laru, de Logística, nos trajo papas fritas y helado. Eso nos animó un poco a todos.
+0093 [Gunhild] | Uf, de verdad no entiendo qué está pensando Lady Angie. Abandonar un campamento perfectamente fortificado solo para rodear este Monolito, todo por un mensaje del Tirano.
+0094 [Gunhild] | Claro, este Monolito solo tiene una salida, así que es una oportunidad de oro para acorralar al Tirano.==W== Pero ¿traer aquí a todo el Comité de Salvación, con Lady Angie encabezando en persona el ascenso por el Monolito? ¿No es un poco...?
+0095 [Greyhorn] | «Quien fuerza la marcha cien millas en busca de ventaja lo pagará caro»...
+0096 [Gunhild] | ¿Eh? ¿Qué dijiste?
+0097 [Greyhorn] | Dije que Lady Angie tiene mucha visión.
+0098 [Greyhorn] | No somos ajenos a escalar Monolitos, pero tampoco somos expertos. Concentrar nuestras fuerzas para aplastarlos con pura superioridad numérica no es mala decisión.
+0099 [Greyhorn] | Es solo que...==W== no puedo quitarme la sensación de que la estrategia del Tirano va mucho más allá de aprovechar las bendiciones y conocer el terreno.
+0100 [Lugar y hora] | 14:55, 18.º del mes de Nebula, Monolito del Desierto, piso 2
+0101 [Committee Mage] | Nunca pensé que cazaríamos al Tirano dentro de un Monolito. Se siente igualito a cuando cazábamos a Nocturn Eterna.
+0102 [Committee Elite] | Manténganse alerta. Los compañeros del Tirano son mucho más peligrosos que Nocturn Eterna. El elevador solo sube a diez personas a la vez, así que ahora mismo nuestro número no sirve de mucho.
+0103 [Allie] | Tienes razón. Comité de Salvación, están rodeados. Nunca debieron venir aquí.
+0104 [Committee Mage] | ... ¿Estás sola?==W== ¡Ahórrate las fanfarronadas! ¿De verdad crees que puedes acorralar a diez de nosotros tú sola?
+0105 [Allie] | Eso es justo lo que estoy haciendo. Todavía están a tiempo de retirarse a un lugar seguro. Por esta vez los dejaré ir.
+0106 [Committee Mage] | ¡Pfft! ¡Ni en sueños! ¡Preparen las armas! ¡Acabemos con esta arrogante!
+0107 [Committee Elite] | ¡Esperen! Antes de entrar al Monolito, Lady Angie dijo específicamente que quería darles una última oportunidad al Tirano y a ==SEX3== gente.
+0108 [Committee Elite] | Directora Allie, si está dispuesta, puede usar este teléfono para hablar con Lady Angie.
+0109 [Allie] | Agradezco el gesto. Pero ahora mismo==W== son ustedes los que necesitan esa última oportunidad.

@@ -1,0 +1,107 @@
+# Capítulo 3 · Final: Terapia de choque
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_1253 | Fuyuka
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_974 | Serena
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Final
+0002 [Intro] | Terapia de choque
+0003 [Intro] | Intentas aumentar el valor de Fuyuka mediante el miedo. Te disfrazas de monstruo, pero en cambio atraes a un monstruo de verdad... Lo logras, en efecto, pero el precio es tu propia vida.
+0004 [Lugar y hora] | 08:30, 18.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0005 [Fuyuka] | Eh... Eh... ¿Seguro que de verdad está bien que simplemente... no haga nada?
+0006 [Tú] | Sí. Sigue con tu día como lo harías normalmente.
+0007 [Fuyuka] | Pero...==W== Perdón, no quiero cuestionarlo, Jefe. Es solo que... no siento que esto vaya a arreglar nada.
+0008 [Tú] | Tranquila. Ten un poco de fe.
+0009 [Fuyuka] | Vale... Confío en usted, Jefe.
+0010 [Tú] | Un verdadero cambio de personalidad requiere un susto de verdad. Si le aviso, arruinaré la sorpresa.
+0011 [Lugar y hora] | 19:30, 18.º del mes de Pluvia, afueras de Philae, antigua Casa de los Trekkers
+0012 [Tú] | ¿Listos?
+0013 [Serena] | ¡Todo listo!
+0014 [Nazuna] | ¡Yuju! ¡Vivo para las bromas!
+0015 [Nazuna] | Aunque, debo admitir, molestar a nuestra dulce junior se siente un poco cruel...
+0016 [Serena] | Lo disimulas bien.
+0017 [Nazuna] | Eso es aparte. Vamos, escondámonos. A ver...
+0018 [Nazuna] | Jeje, esa esquina. Totalmente oculta, fácil de pasar por alto. Nadie pensará en buscar ahí.
+0019 [Serena] | ¿Seguro que esto va a resolver el problema?
+0020 [Tú] | Un solo susto no bastará... Pero unos cuantos deberían endurecerla.
+0021 [Serena] | ¡Oh, ya entendí! Como cuando se saca un diente: se distrae al paciente para que no sienta el dolor.
+0022 [???] | Eh... Disculpen...
+0023 [Nazuna] | ¡Shhh, silencio! Fuyuka podría volver en cualquier momento.
+0024 [Fuyuka] | Ya estoy aquí.
+0025 [Fuyuka] | ¿Qué hacen todos escondidos aquí atrás?
+0026 [Nazuna] | ¡Qu... ¿cómo llegaste aquí?!
+0027 [Fuyuka] | He estado agachada aquí desde que regresé...
+0028 [Fuyuka] | Este lugar es pequeño y apartado. Se siente seguro. La gente normalmente no lo nota...
+0029 [Fuyuka] | Entonces... ¿están jugando a las escondidas?
+0030 [Fuyuka] | Y-yo también puedo jugar...==W== Oh, o... ¿estoy estorbando?
+0031 [Serena] | ¡N-no, solo buscábamos un lugar tranquilo para hablar! Ajaja.
+0032 [Tú] | Fuyuka conoce este lugar mejor que nosotros. Prácticamente inventó esconderse aquí. Esto no estuvo bien pensado, ¿eh?
+0033 [Tú] | Supongo que toca volver al tablero de dibujo.
+0034 [Lugar y hora] | 20:00, 24.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0035 [Tú] | Ya viene.
+0036 [Narración] | Un susurro llega de los árboles cercanos, como el viento murmurando entre las hojas.
+0037 [Narración] | Me pongo el disfraz del Espíritu de la Brutalidad que Noya pasó días haciéndome y espero a mi objetivo.
+0038 [Tú] | Parezco una bestia de verdad. Fuyuka va a saltar del susto...
+0039 [Tú] | Vaya, esta cosa tiene una visión de túnel terrible.
+0040 [Tú] | Hay que aguantar. Fuyuka ya casi llega. Hora de concentrarme en el susto.
+0041 [Tú] | Ay, rayos... Me obsesioné tanto con el disfraz que olvidé practicar el rugido. Bien, hay que pellizcarme la nariz, así...
+0042 [Tú] | Raawr... Raawr...
+0043 [???] | Raawr...
+0044 [Fuyuka] | Eh... Suena a un monstruo...
+0045 [Fuyuka] | ¿Q-qué hago ahora...? ¿Huyo...?
+0046 [Fuyuka] | Pero... está demasiado cerca de la Casa de los Trekkers. Si ataca... V-vale... Tengo miedo, pero debo detenerlo aquí. Por todos.
+0047 [Fuyuka] | Al menos estoy sola. Nadie más resultará herido.
+0048 [Fuyuka] | Inhalar y exhalar, inhalar y exhalar... Estaré bien. Si aparece algún monstruo, lo mandaré a la órbita de un puñetazo...
+0049 [Tú] | ¿Qué la retiene? No está tan lejos.
+0050 [Tú] | Oh, intenta acercarse sigilosamente por detrás. Qué lista. Lástima que la oí.
+0051 [Tú] | ¡Atacaré primero!
+0052 [Tú] | ¡RAWR!
+0053 [???] | ¡RAWR!
+0054 [Tú] | ¿Qué acabo de tocar? ¿Son... unos... dientes... gigantes...?
+0055 [Tú] | Eso es...==W== ¡un monstruo DE VERDAD!!
+0056 [Narración] | Al instante siguiente, una fuerza descomunal me lanza al cielo.==W==
+0057 [Narración] | Lo último que veo es...==W== una bestia de tamaño increíble.
+0058 [Fuyuka] | ¡Jefe!
+0059 [Fuyuka] | ¡Perdón! ¡Lo siento!==W== Es todo mi culpa: ¡dudé, tuve miedo! ¡Por eso llegué tarde!
+0060 [Narración] | El puño de hierro de Fuyuka golpea a la bestia y la onda expansiva arranca un torbellino entre los árboles.
+0061 [Narración] | Esta vez, su golpe esquiva mi cuerpo en el suelo y da justo en el blanco.
+0062 [Fuyuka] | ¿H-huyó...?
+0063 [Fuyuka] | ¡No, no es eso! Jefe, ¿está bien...!?==W== ¡Jefe, despierte!
+0064 [Fuyuka] | ¡Alguien, ayuda!
+0065 [Lugar y hora] | ??:?? ?? ?? ????, Sala Blanca
+0066 [Virigia] | Bienvenido.
+0067 [Bernina] | Bienvenido.
+0068 [Bernina] | Estimado Tirano. Realmente lo logró.
+0069 [Virigia] | Si me permite.
+0070 [Virigia] | Un solo puñetazo, lanzado con furia, derribó a esa enorme bestia en un instante. La chica que eligió es realmente única.
+0071 [Tú] | «Elegir» es mucho decir. Más bien me la endosaron...==W== Espera, ¿esa cosa de verdad me mandó a volar?
+0072 [Virigia] | Precisamente. Su actuación fue tan convincente que el Espíritu de la Brutalidad lo confundió con un rival que intentaba reclamar su territorio.
+0073 [Tú] | ¡Un momento! ¡¿El Espíritu de la Brutalidad?! No puedo creer que me topara con uno de los Tres Grandes ahí...
+0074 [Virigia] | En cualquier caso, debería estar contento. Estaba junto a la bestia y aun así su puñetazo ni siquiera lo rozó. Parece que su conflicto interno se resolvió.
+0075 [Bernina] | ¿Puso su vida en juego para ayudarla a superar sus problemas? ¡Qué abnegación! ==W==(solloza)
+0076 [Tú] | Esto es... demasiado. Lo están volviendo súper incómodo.
+0077 [Tú] | Así que solo puede liberar su verdadero poder cuando la empujan al límite, ¿eh?...
+0078 [Tú] | Ja... Solo alguien con ese talento es digna de servirme.
+0079 [Tú] | Y volver a verlos a ustedes dos...==W== Sí, supongo que debería alegrarme.
+0080 [Virigia] | Ah, es un honor siquiera estar en sus pensamientos, Tirano.
+0081 [Bernina] | ¡Es que solo podemos verlo cuando está al borde de la muerte! Ni siquiera podemos decir «vuelva pronto». Me mata~
+0082 [Tú] | Bien, regreso. Tengo cosas que atender.
+0083 [Tú] | Vita, abre la puerta.
+0084 [Vita] | Su comando es mi voluntad.
+0085 [Bernina] | Hasta la próxima, Tirano. Aunque no podemos decir «ojalá nos veamos pronto», esperaremos nuestro reencuentro♪
+0086 [Virigia] | Nos encantaría conocerla en el Monolito algún día.
+0087 [Tú] | Ja... Otra vez de vuelta.
+0088 [Tú] | Todo esto de saltar en el tiempo... nunca me acostumbraré.
+0089 [Tú] | Esta vez... probemos un método distinto.

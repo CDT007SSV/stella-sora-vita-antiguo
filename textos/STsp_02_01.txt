@@ -1,0 +1,122 @@
+# Nova Times #02 · Tu nombre, desconocido para mi corazón · 1 · Your Name, Unknown to My Heart (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Tu nombre, desconocido para mi corazón (Parte I)
+0003 [Intro] | El Jefe y el Gremio de la Nueva Estrella emprenden su primera ascensión conjunta al Monolito. Antes de entrar, todos están ocupados con los preparativos.
+0004 [Narración] | Todo esto ocurrió justo después de que me sacaron del desierto, antes de que siquiera llegáramos a Emor...
+0005 [Iris] | ¿Ven algo?
+0006 [Amber] | Despejado de mi lado.
+0007 [Noya] | ¡Nada a la vista!
+0008 [Iris] | ¡Noya! ¡Los ojos en el camino cuando manejas!
+0009 [Amber] | Es manejo peligroso.
+0010 [Noya] | Ay, pero ustedes la estaban pasando tan bien platicando. ¡Me sentí excluida!
+0011 [Iris] | Mira, ayudarnos a buscar está muy bien...==W== pero no si nos matas a todos en un choque, ¿eh?
+0012 [Tú] | ¿Qué buscan allá afuera?
+0013 [Iris] | La entrada del Monolito.
+0014 [Tú] | ¿La entrada?==W== Pero... ¿no está el Monolito allá?
+0015 [Narración] | Me asomo por la ventana. Un enorme Monolito se alza desde lo profundo del bosque,==B== coronado por una estrella en forma de cruz. Es como un faro que atrae a todos los Trekkers.
+0016 [Amber] | El Monolito está separado de su entrada.
+0017 [Tú] | ¿La entrada no está en el Monolito, sino en algún lugar cerca? Qué diseño tan raro.
+0018 [Noya] | ¡Ohh, miren!==W== ¡La encontré!
+0019 [Iris] | ¿Ya?
+0020 [Noya] | Jeje, parece que hoy es nuestro día de suerte.
+0021 [Tú] | ¿Esta es la entrada? Increíble. No estamos ni cerca del Monolito.
+0022 [Noya] | ¡Lo sé, es una locura! La primera vez que la vi, tampoco lo podía creer. Es solo una puerta en una roca, sin conexión con nada. Jamás adivinarías que es la entrada.
+0023 [Amber] | Abres la puerta. Entras. La cierras. La abres otra vez. Ya llegaste.
+0024 [Tú] | ¿Cómo diablos funciona eso?
+0025 [Iris] | Los Monolitos están llenos de misterios. No está confirmado, pero creemos que es alguna forma de magia de teletransportación...
+0026 [Iris] | No hay ninguna puerta en la base del Monolito. La única forma de entrar es encontrar uno de estos elevadores camuflados en el terreno. Se conectan con los elevadores del interior del Monolito.
+0027 [Tú] | Eso es... increíble.
+0028 [Iris] | Estos elevadores desaparecen en cuanto los usas, y reaparecen en algún otro lugar alrededor del Monolito. Seguramente es como dicen las leyendas:==W== una prueba del Dios de la Gracia para quien se atreva a escalar los Monolitos.
+0029 [Iris] | Normalmente toma algo de tiempo encontrar una entrada. Hoy fue rapidísimo. Una vez, dimos vueltas alrededor de un Monolito durante dos días enteros y aun así no pudimos encontrar su entrada...
+0030 [Tú] | Con razón sentía que solo dábamos vueltas en círculos.
+0031 [Noya] | Cuando eso pasa, significa que no tienes suerte. ¡Mejor no intentar la escalada! Aunque lo fuerces, tu deseo seguramente saldrá defectuoso.
+0032 [Iris] | No hay ninguna evidencia que conecte ambas cosas...==W== Es solo una corazonada tuya, Noya.
+0033 [Noya] | ¡Qué importa! ¡La encontramos tan rápido, así que estamos en racha! ¡Vamos, preparémonos y entremos!
+0034 [Iris] | Tienes razón...==W== Bien, empecemos a prepararnos.
+0035 [Iris] | ¿Y tú? Si no quieres escalar, puedes esperarnos aquí afuera.
+0036 [Noya] | ¡Ven con nosotras! Es demasiado peligroso andar a solas en las Tierras Salvajes. No te preocupes si pelear no es lo tuyo. Solo mantente justo detrás de nosotras.
+0037 [Amber] | Sí. Te protegeremos.
+0038 [Tú] | Quiero ir con ustedes. Todavía no recuerdo nada. Quizá encuentre alguna pista dentro del Monolito.
+0039 [Noya] | ¡Genial, está decidido!
+0040 [Narración] | Tras esconder el Lucky Oasis fuera de la vista, empezamos a prepararnos para la escalada.
+0041 [Tú] | Aunque no tengo idea de cómo prepararme...==W== Supongo que veré qué hacen ellas.
+0042 [Noya] | ¡Uf—!
+0043 [Tú] | ¿Qué haces?
+0044 [Noya] | ¡Estiro! Hay que hacer un buen calentamiento antes de una aventura de verdad.
+0045 [Noya] | Tú también deberías estirar. Ven, te ayudo.
+0046 [Tú] | Eh, ¿qué hago?
+0047 [Noya] | Así: espalda contra espalda conmigo...==B== Ahora engancha tus brazos con los míos.
+0048 [Noya] | Y... ¡arriba!
+0049 [Tú] | ¡Agh!
+0050 [Tú] | Mis huesos... los oigo crujir...
+0051 [Noya] | Bien, ahora siéntate con las piernas estiradas. Inclínate hacia adelante e intenta tocarte los dedos de los pies.
+0052 [Narración] | Noya se pone justo detrás de mí, con su cuerpo pegado al mío, y empuja suavemente mi torso hacia adelante.
+0053 [Narración] | Su respiración es suave. Un calor me recorre la espalda. Debería estar relajándome, pero el corazón me late con fuerza.
+0054 [Tú] | Espera, un momento...==W== ¡Ay! ¡Ay, ay, AY!
+0055 [Noya] | ¡Jajaja! ¡Ay, no exageres! ¡Solo un poquito más!
+0056 [Tú] | ¡Se va a romper! ¡Juro que la columna se me va a partir!
+0057 [Narración] | Diez minutos después...
+0058 [Tú] | Uf... Ni siquiera hemos empezado a escalar y mi cuerpo ya se está cayendo a pedazos...
+0059 [Noya] | Pero te sientes mucho más suelto después de estirar, ¿verdad?
+0060 [Tú] | Ahora que lo dices, sí me siento un poco más flexible.
+0061 [Noya] | ¡Jeje, qué bueno!==W== Nunca sabes con qué te vas a topar en un Monolito, ¡así que siempre recuerda calentar antes de entrar!
+0062 [Narración] | Me despido de Noya y me acerco a alguien más que me ha llamado la atención.
+0063 [Tú] | Amber, ¿qué haces?
+0064 [Amber] | Exploro.
+0065 [Amber] | Terreno elevado. Mejor vista.
+0066 [Tú] | Desde lo alto la vista es mucho mejor, pero...
+0067 [Tú] | ¿Por qué estás... colgada ahí?
+0068 [Amber] | Tuve un accidente...
+0069 [Tú] | ¿Eh? ¿Qué dijiste?
+0070 [Amber] | Al bajar, la correa elástica se enganchó en una rama. Se me enredaron los pies...
+0071 [Tú] | ¿«Correa elástica»? ¿Te refieres a esa negra que traes en la espalda?
+0072 [Amber] | Sí. Me permite colgarme de lugares difíciles y atar enemigos.
+0073 [Tú] | O sea que sus dos funciones se combinaron para crear un problema nuevo...
+0074 [Tú] | Te puedo atrapar desde aquí abajo. ¿Qué tal si rompes la rama y te dejas caer?
+0075 [Amber] | Entonces te lo dejo a ti... Mantener el equilibrio es difícil.
+0076 [Amber] | Voy a bajar.
+0077 [Tú] | ¡Cuando quieras!
+0078 [Narración] | Amber cae en mis brazos. Es pequeña y suave, y se acurruca instintivamente como un gatito.
+0079 [Amber] | Gracias.
+0080 [Amber] | Si... vuelvo a enredarme, cuento contigo.
+0081 [Tú] | Con gusto,==W== pero ¿quizá podrías tratar de no enredarte tan seguido?
+0082 [Iris] | Eh... ¿Disculpa?
+0083 [Tú] | Ah, ¿necesitas algo?
+0084 [Iris] | ¿P-==W==podría pedirte prestada la mano un segundo?
+0085 [Tú] | ¿Así?
+0086 [Narración] | Extiendo la mano hacia Iris. Un instante después, ella toma la mía entre las suyas y la aprieta con fuerza.
+0087 [Narración] | Sus palmas son suaves, y una agradable frescura se extiende desde sus dedos hasta los míos.
+0088 [Iris] | B-bien... Ya... Listo...
+0089 [Tú] | ¿De qué se trata esto?
+0090 [Iris] | Es un pequeño ritual que hago antes de entrar a un Monolito. Espero que no sea demasiado raro...
+0091 [Tú] | Ah, ya veo. Me tomaste la mano de la nada, así que pensé que pasaba algo.
+0092 [Iris] | ¡Ah, no! ¡Perdón por eso!
+0093 [Tú] | No hay de qué disculparse. Me hace sentir que ya soy parte del equipo. Es algo bonito.
+0094 [Iris] | Gracias. Es un gran alivio.
+0095 [Iris] | ¡Noya, Amber! Vengan. Hora del apretón de manos.
+0096 [Noya] | ¡Voy!
+0097 [Amber] | Bien.
+0098 [Narración] | Un rato después, estamos todos equipados y listos para partir.
+0099 [Iris] | Una vez dentro, tienes que mantenerte con nosotras. No te alejes.
+0100 [Iris] | El espacio de adentro es caótico. La única forma de avanzar o salir es mediante elevadores que aparecen al azar. Si te separas, podrías perderte aquí para siempre.
+0101 [Iris] | Además...==W== el Monolito está lleno de cosas mágicas, todas creaciones del Dios de la Gracia. Puedes mirar, puedes tocar, pero nunca te lleves nada. Y lo más importante: no comas absolutamente nada.
+0102 [Tú] | Si no podemos llevarnos nada, ¿cómo se supone que conseguiremos Artefactos?
+0103 [Iris] | Las reglas dicen que solo lo que sale de una Caja de Deseos nos pertenece. Hay que tener muchísimo cuidado con eso.
+0104 [Noya] | ¡Sip! ¡Rompe las reglas, y el Monolito te manda la factura!
+0105 [Iris] | No le hagas caso... No es una factura.==W== Lo que sea que comas, el Monolito simplemente te lo quita al salir.
+0106 [Iris] | ... No, que solo te lo quite sería salir bien librado. Cuanto más comes aquí dentro, más olvidas quién eres... hasta que te desvaneces por completo.
+0107 [Tú] | Vaya, eso da bastante miedo...==W== Pero bueno, tendré cuidado.
+0108 [Noya] | ¡Muy bien! ¡Vámonos!
+0109 [Iris] | Esta vez tenemos que conseguir un Artefacto... Necesitamos el dinero para sobrevivir...
+0110 [Amber] | Haré mi mejor esfuerzo.
+0111 [Narración] | Los cuatro entramos al elevador, que irradia un resplandor inquietante.

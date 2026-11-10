@@ -1,0 +1,224 @@
+# Capítulo 1 · 6 · Volando desde la ceniza
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Ash District Orphan | Huérfano del Distrito de las Cenizas
+N:Sleepy Child | Niño con sueño
+N:Timid Child | Niño tímido
+N:Tired Child | Niño cansado
+N:Vicious Gangster | Pandillero despiadado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Volar desde las cenizas
+0003 [Intro] | La pelea da pie a una alianza. Minova, la líder del Viento de Ceniza, revela que solo fingen ser una pandilla para protegerse de Creta Trading.
+0004 [Minova] | Buen manejo de la espada.
+0005 [Noya] | Jeje, igualmente. Aun así, no puedo creer que perdiéramos una pelea de tres contra una.
+0006 [Minova] | Pero fue divertido. Te dejo decir una última palabra antes de aplastarte.
+0007 [Minova] | Habla. ¿Quién las envió?
+0008 [Minova] | ¿Las Víboras del Suelo? ¿Los Eta? ¿O las Coronas?
+0009 [Noya] | Nueva Estrella.
+0010 [Minova] | Nunca las había oído. ¿Una pandilla nueva?
+0011 [Iris] | ¡No, no! Es el nombre de nuestro gremio.
+0012 [Vollara] | Cuidado, jefa. Solo esta semana apareció uno que decía ser senador del Imperio de la Gracia.
+0013 [Neuvira] | Así que me pregunto si de verdad son Trekkers.
+0014 [Iris] | De verdad fuimos niñas allí.
+0015 [Minova] | Oye, Vollara, Neuvira. ¿Reconocen estas caras?
+0016 [Neuvira] | Para nada. En los registros del orfanato no hay nadie de su edad.
+0017 [Vollara] | Jefa, solo diga la palabra. Hago que todas vuelvan.
+0018 [Tú] | ¿Esa batalla fue solo una táctica para ganar tiempo?
+0019 [Minova] | ¡Es una guerra de territorio! Todo se vale, aquí no se trata de honor.
+0020 [Tú] | Todos los que nos hemos topado en esta ciudad son muy impulsivos.
+0021 [Tú] | ¿No podemos hablarlo, sin más?
+0022 [Minova] | ¿Hablar? ¿Con una banda en la que no puedo confiar? Ahórrate el aliento.
+0023 [Niño tímido] | ¡Espere, hermana Minova! Yo las conozco.
+0024 [Minova] | ¿Eh?
+0025 [Iris] | ¿Tú eres... Rainea?
+0026 [Noya] | ¡Vaya, sí es Rainea! ¡Cuánto tiempo! ¿Cómo has estado?
+0027 [Amber] | Estás más alta. Bien.
+0028 [Niño tímido] | ¡De verdad son ustedes!
+0029 [Minova] | ¿De dónde la conocen? ¿De verdad son...?
+0030 [Rainea] | De verdad las conozco: antes de irse, solían llevarnos a escalar por el Canal.
+0031 [Noya] | ¿Ves? ¡Te dijimos que decíamos la verdad!
+0032 [Minova] | ¿En serio? Yo pensaba...
+0033 [Minova] | Eh… les pediremos disculpas como se debe. Pero antes, permítanme presentarme de nuevo.
+0034 [Minova] | Soy Minova, líder del Clan Viento de Ceniza. Mucho gusto.
+0035 [Lugar y hora] | 17:20, 26 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0036 [Minova] | Nuestras más sinceras disculpas.
+0037 [Vollara] | Lo sentimos muchísimo.
+0038 [Neuvira] | Nos pasamos por completo.
+0039 [Narración] | Minova y los miembros del Viento de Ceniza se arrodillan y se inclinan ante nosotros, con una actitud totalmente opuesta a la de antes.
+0040 [Iris] | No, por favor, no hace falta tanta formalidad.
+0041 [Minova] | ¡Ni hablar! ¡Tenemos que arreglar esto!
+0042 [Noya] | Vaya... Amber, mira. Todos se inclinan ante Iris... Supongo que ahora deberíamos llamarla «Lady Iris», ¿no?
+0043 [Amber] | Lady Iris.
+0044 [Iris] | ¡Oigan! ¡No empiecen ustedes dos!
+0045 [Tú] | ¿No bastaría con aceptar sus disculpas para zanjar esto?
+0046 [Iris] | Entonces, por favor, ==PLAYER_NAME==, encárgate tú.==W== Yo soy... muy mala en esto.
+0047 [Tú] | ¿Yo? Está bien... Supongo que alguien tiene que romper el empate.
+0048 [Tú] | Entendido. En nombre de mis compañeras, aceptamos sus disculpas.
+0049 [Minova] | La culpa fue nuestra por atacarlos. Así que, como muestra de sinceridad, garantizaré personalmente su seguridad mientras estén en Emor.
+0050 [Tú] | El orfanato ahora es guarida de una pandilla... Tenerla de nuestro lado podría ser útil.
+0051 [Tú] | ¿Qué opinan Noya y las demás?
+0052 [Narración] | Asienten hacia mí.
+0053 [Tú] | Muy bien. Trato hecho.
+0054 [Minova] | Uf.==W== Gracias por tomarlo con calma.
+0055 [Tú] | Entonces, ¿qué causó todo este malentendido?
+0056 [Minova] | «Senadores de ciertas compañías», «niños criados en el orfanato»... Hemos tenido un desfile de farsantes con todo tipo de títulos, husmeando y haciendo preguntas.
+0057 [Minova] | No sé qué buscan, pero mi prioridad es proteger a los niños del Clan Viento de Ceniza.
+0058 [Noya] | Ah, así que pensaron que éramos otro grupo de impostores.
+0059 [Iris] | Rainea, ¿cuántos niños quedan en el orfanato? ¿Sabes adónde fue la tía Allie?
+0060 [Rainea] | Ah... eh, la tía Allie... está desaparecida.
+0061 [Iris] | ¿Recuerdas algo de cuando desapareció?
+0062 [Rainea] | N-no sé. Esa noche... me escapé a atrapar luciérnagas...
+0063 [Rainea] | Me dio miedo meterme en problemas, así que dormí bajo el puente donde ustedes solían llevarme. Cuando volví a la mañana siguiente... el orfanato estaba vacío. Todos se habían ido.
+0064 [Amber] | Desaparecieron de la noche a la mañana, ya veo...
+0065 [Rainea] | Después, empezaron a llegar matones a esta calle y a apoderarse de la casa del orfanato.
+0066 [Rainea] | Pero luego apareció la señorita Minova —aún con su uniforme escolar— y los echó a todos. Fundó el Clan Viento de Ceniza para protegernos.
+0067 [Rainea] | ¡Y ahora yo también soy miembro del Clan Viento de Ceniza!
+0068 [Tú] | Mira qué orgullosa está... El Clan Viento de Ceniza. Así que Minova no es una villana después de todo.
+0069 [Tú] | Entonces todos los niños de aquí son...
+0070 [Minova] | Sí. Un montón de callejeros sin adónde ir.
+0071 [Tú] | ¿Por qué llegaría tan lejos por un puñado de desconocidos?
+0072 [Tú] | ¿Esta es su idea de... justicia?
+0073 [Iris] | Eh, perdona la pregunta, pero... Minova, ¿no serás por casualidad esa chica? ¿La que todos los padres ponían de ejemplo?
+0074 [Minova] | ¿Esa chica?
+0075 [Iris] | La genio que salió del Distrito de las Cenizas. La primera de por aquí en diez años en conseguir una beca en la Academia Platino. Eras casi una leyenda.
+0076 [Minova] | Hiciste la tarea... Sí, soy yo.
+0077 [Iris] | Pero ahora estás...
+0078 [Minova] | Quieres saber por qué volví aquí y fundé un clan en vez de darme la gran vida en el Distrito de Oro o el de Plata, ¿verdad?
+0079 [Iris] | Podrías haberte unido a una gran compañía...
+0080 [Minova] | Suena bastante sospechoso, lo entiendo. Desde donde están, solo soy la okupa que se apoderó de su hogar.==W== Tienen todo el derecho de desconfiar.
+0081 [Iris] | No... no quise decir eso.
+0082 [Rainea] | Señorita Noya, señorita Iris, señorita Amber, ahora que ya no pelean con la señorita Minova. Voy a echarme una siestecita.
+0083 [Iris] | ¿A esta hora?
+0084 [Niño con sueño] | Tengo tanto sueño...
+0085 [Niño cansado] | Demasiado cansada para hacer nada.
+0086 [Narración] | Los niños del clan parecen completamente agotados, como si hubieran pasado la noche en vela.
+0087 [Vollara] | (Bosteza) Jefa, Neuvira y yo también vamos a descansar un poco.
+0088 [Neuvira] | Cuídese usted también, jefa.
+0089 [Minova] | Sí, ustedes vayan. Yo estaré bien.
+0090 [Tú] | ¿Minova? ¿Qué está pasando aquí?
+0091 [Minova] | Ven conmigo. Necesitamos otro lugar para esta conversación; te lo contaré todo.
+0092 [Lugar y hora] | 17:50, 26 del mes de Floris, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0093 [Minova] | No está mal la vista, ¿eh? Me encanta subir aquí a sentir la brisa a esta hora.
+0094 [Noya] | Ni que lo digas. De niñas prácticamente vivíamos aquí arriba.
+0095 [Iris] | Amber dormitaba en un rincón, y yo me apoyaba en el pilar leyendo.
+0096 [Iris] | Y Noya se sentaba en esa barandilla de allá, mirando el Monolito durante horas.
+0097 [Noya] | El Monolito siempre ha sido especial para mí.
+0098 [Minova] | Son muy unidas, ¿eh?
+0099 [Noya] | Siempre lo hemos sido. Nos reímos juntas, lloramos juntas, peleamos como locas... y los últimos dos años hemos viajado juntas.
+0100 [Minova] | Dos años, ya veo... Yo entonces solo era estudiante de la Academia Platino.
+0101 [Minova] | Como dijo Iris, fui una de las afortunadas del Distrito de las Cenizas. Mis notas eran lo bastante buenas para llamar la atención de la Academia Platino, que me dio una beca completa.
+0102 [Minova] | Está en el Distrito de Oro.==W== La escuela rebosaba de Artefactos que podías usar cuando quisieras.==W== Nada que ver con aquí, donde una escuela tiene suerte si tiene uno o dos.
+0103 [Minova] | Estudié a fondo y fui subiendo hasta convertirme en la primera niña del Distrito de las Cenizas en presidir el consejo estudiantil de la Academia Platino.
+0104 [Minova] | Pensé que ese sería mi pasaje al cielo: salir volando del Distrito de las Cenizas y dejar atrás mi vida anterior.
+0105 [Minova] | Hasta que...
+0106 [Pandillero despiadado] | ¿Eso es todo lo que tienes?
+0107 [Huérfano del Distrito de las Cenizas] | L-lo siento.
+0108 [Huérfano del Distrito de las Cenizas] | Llovió todo el día, así que nadie quiso lustrarse los zapatos.
+0109 [Pandillero despiadado] | ¡Me importa un comino la lluvia! ¿Sin clientes? ¡Entonces ve a robar algo! ¡Asalta a alguien!
+0110 [Huérfano del Distrito de las Cenizas] | Pero la tía Allie dijo que no debemos portarnos mal.
+0111 [Huérfano del Distrito de las Cenizas] | Nos dijo que una vez que recurriéramos a hacer el mal, se volvería costumbre.
+0112 [Pandillero despiadado] | Oye, enano, ¿intentas burlarte de mí a tu manera solapada?
+0113 [Pandillero despiadado] | Además, ¿a quién le importa lo que dijera Allie? ¿No abandonó este orfanato inútil y huyó en mitad de la noche?
+0114 [Pandillero despiadado] | Ahora este es nuestro territorio, así que juegas con mis reglas.
+0115 [Huérfano del Distrito de las Cenizas] | Ugh...
+0116 [Pandillero despiadado] | ¡Deja de llorar, maldita sea! ¡Es molesto! ¡Quizá una paliza por fin te meta algo en esa cabeza dura!
+0117 [Minova] | ¡D-detente ahí mismo!
+0118 [Minova] | Mis puños volaron antes de que mi cerebro reaccionara. Fui directo contra esos dos matones.
+0119 [Noya] | Uf. Pobres de ellos.
+0120 [Minova] | Qué va, a mí me dieron una paliza. Lo único bueno fue que los niños lograron escapar.
+0121 [Minova] | Al llegar a casa, me miré al espejo y vi a una chica llena de moretones.
+0122 [Minova] | Era huérfana, igual que ellos. Viví en las mismas calles, sin saber nunca de dónde saldría mi próxima comida.
+0123 [Minova] | Y si alguna vez juntaba unas monedas, algún matón me las quitaba.
+0124 [Pandillero despiadado] | Vaya, vaya, si es la avecilla que salió volando del Distrito de las Cenizas.
+0125 [Pandillero despiadado] | ¿Qué pasa? ¿Te acostumbraste tanto a tu jaula de platino que olvidaste de dónde vienes? No querrás ensuciar esa ropa tan fina, ¿verdad?
+0126 [Minova] | Tenía razón. Había olvidado por completo quién era.
+0127 [Minova] | Me importaba demasiado esa prenda que llevaba puesta.
+0128 [Minova] | El primer libro que leí en mi vida me lo dio la tía Allie.
+0129 [Minova] | El orfanato no podía acoger a todos, pero su calle era la más segura del Distrito de las Cenizas. Podías dormir bajo un puente allí y tus cosas estaban a salvo.
+0130 [Minova] | La tía Allie me prestaba libros del orfanato. No conseguí la beca por ser lista. La conseguí porque alguien me cuidaba las espaldas.
+0131 [Iris] | Ah, así que por eso los libros del estante desaparecían y reaparecían. Eras tú quien los tomaba prestados.
+0132 [Minova] | Sí, prácticamente era una niña del orfanato. Lástima que no llegué a conocerlas en ese entonces.
+0133 [Amber] | Todavía no es tarde. Toma, intercambiemos números.
+0134 [Minova] | Claro.
+0135 [Minova] | Creí que había salido del Distrito de las Cenizas yo sola. Resulta que simplemente nunca noté a la gente que sostenía un paraguas sobre mi cabeza.
+0136 [Minova] | Cuando un pájaro se escapa de la jaula, eso es escapar. ¿Cuando toda la bandada alza el vuelo? Eso sí es volar de verdad.
+0137 [Minova] | Cuando la tía Allie y el orfanato desaparecieron, pensé que me tocaba a mí sostener el paraguas para los niños.
+0138 [Minova] | Pelear no era lo mío, pero estudié todos los libros de artes marciales de la biblioteca de la Academia Platino.
+0139 [Minova] | La vida de pandilla me era ajena, pero vi todas las películas de pandillas del Monolito de la colección de la Academia Platino.
+0140 [Minova] | Así que agarré un bate, me puse el atuendo que yo misma hice, fingí ser la más dura de todas y derribé la puerta del viejo orfanato donde se habían instalado las pandillas.
+0141 [Minova] | Y cuando me di cuenta, el Clan Viento de Ceniza ya existía. Y terminé con un montón de niños a mi alrededor... Yo solía ser una de ellos.
+0142 [Minova] | Y esa es mi historia.
+0143 [Iris] | Gracias... por proteger un lugar que significa tanto para nosotras.
+0144 [Minova] | No me lo agradezcas. Yo solo...
+0145 [Minova] | ...hacía lo que había que hacer.
+0146 [Minova] | Nada puede detener al viento que sopla por el Distrito de las Cenizas.
+0147 [Minova] | Suena bastante rudo, ¿verdad? En realidad, es solo un lugar donde un montón de callejeros nos cuidamos entre nosotros.
+0148 [Minova] | Yo, Vollara, Neuvira y los otros mayores... no podríamos proteger esta calle solos, al menos no jugando limpio.
+0149 [Minova] | Tenemos que parecer aterradores y actuar con exceso de agresividad solo para mantener a raya a las pandillas a duras penas.
+0150 [Minova] | La verdad es que... todos son buenos chicos.
+0151 [Lugar y hora] | 18:45, 26 del mes de Floris, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0152 [Noya] | Entonces... ¿esto significa que somos amigas?
+0153 [Minova] | ¿Eh? ¿A qué viene eso?
+0154 [Noya] | ¡Es simple! Tú quieres proteger a los huérfanos del Distrito de las Cenizas, yo también. Luchamos por lo mismo y ya peleamos codo a codo. ¡Eso nos convierte prácticamente en compañeras de batalla!
+0155 [Minova] | ...
+0156 [Minova] | ¡Jaja! Así que nos saltamos «amigas» y fuimos directo a «compañeras de batalla», ¿eh?
+0157 [Minova] | Me gusta cómo suena. Hagámoslo oficial, entonces.
+0158 [Tú] | Uf...==W== resulta que no da miedo en absoluto.
+0159 [Minova] | Bien, basta de hablar de mí. Tenemos que hablar de los niños.
+0160 [Minova] | Como Trekkers, ¿cómo lidian con los efectos secundarios de escalar los Monolitos?
+0161 [Iris] | Efectos secundarios... ¿te refieres a la «pérdida de memoria»?
+0162 [Minova] | Sí, todos los niños del clan están agotados porque los obligaron a escalar los Monolitos.
+0163 [Minova] | Para ser precisa, los obligaban a recuperar Artefactos con regularidad.
+0164 [Noya] | ¿Será igual con Rainea?
+0165 [Minova] | No solo ella. Nueve de cada diez niños de la calle del Distrito de las Cenizas habían pasado por lo mismo antes de unirse a nosotros.
+0166 [Minova] | Incluso después de dejar de escalar, siguen... ausentes. Completamente drenados.
+0167 [Noya] | ¡¿Obligaron a niños de verdad a escalar los Monolitos?! ¿Qué clase de monstruo haría eso?
+0168 [Minova] | Esta compañía, «Creta Trading».
+0169 [Noya] | Ugh... Creta Trading... No es un nombre que esperaba volver a oír pronto.
+0170 [Minova] | ¿Eh? ¿Ustedes también conocen a Creta Trading?
+0171 [Iris] | Sí. Esta misma tarde, de hecho...
+0172 [Narración] | Iris cuenta cómo Creta Trading se llevó el Lucky Oasis usando como excusa los préstamos del orfanato.
+0173 [Tú] | ¿Así que tienen la costumbre de hacer estas prácticas turbias?
+0174 [Minova] | Después de que el orfanato desapareció, Feagin empezó a reunir huérfanos.
+0175 [Minova] | Soltaba toda esa basura de que «es natural que los hijos paguen las deudas de sus padres». ¿Y saben qué usaron como «prueba»?
+0176 [Tú] | ¿Qué fue?
+0177 [Minova] | Un papel sin valor. Sin nombre, sin fecha, sin nada.
+0178 [Tú] | ¿Un trozo de papel? ¿Cómo puede ser eso legalmente vinculante?
+0179 [Iris] | ==PLAYER_NAME==, Creta Trading es una compañía. La gente común no puede cuestionarla.
+0180 [Iris] | Es el privilegio de las compañías. Están bendecidas por el Dios de la Gracia, después de todo.
+0181 [Tú] | Igual que lo que nos hicieron a nosotros. No sé si son más codiciosos o simplemente corruptos...
+0182 [Tú] | Nunca sale nada bueno de poner el poder en manos de quienes no lo merecen.
+0183 [Minova] | Bueno, qué bueno que aparecieron. Quizá algo bueno pueda salir de este desastre después de todo.
+0184 [Noya] | ¿Un rastro? ¿A qué se refiere?
+0185 [Minova] | Ahora lo entiendo.==W== La deuda del orfanato, los problemas del Clan Viento de Ceniza, la situación del Gremio Nueva Estrella... todo está conectado. Lo que significa...
+0186 [Noya] | ¡Tienes razón! Como la raíz de nuestros problemas es la corporación, ¡deberíamos unirnos para derribarla!
+0187 [Amber] | Creta Trading. Un enemigo en común.
+0188 [Minova] | Je. Supongo que ya somos más que compañeras de batalla. Podría decirse que somos cómplices.
+0189 [Tú] | «Cómplices», ¿eh?... Aun así, aliarse con el Clan Viento de Ceniza es una jugada inteligente. Conocen esta zona de arriba abajo.
+0190 [Iris] | Entonces, ¿Creta Trading los obliga a pagar la deuda escalando el Monolito y pidiendo deseos para ellos?
+0191 [Tú] | Los niños del Clan Viento de Ceniza... están más que agotados. ¿Cuánto los ha estado presionando el Consorcio?
+0192 [Iris] | Espera... ¡no me digas que los obligaron a pedir un deseo hoy!
+0193 [Minova] | Tranquila. En los últimos meses, solo Vollara, Neuvira y yo hemos hecho las subidas al Monolito.
+0194 [Minova] | Los otros niños ni se acercan. Una vez que entras al Clan Viento de Ceniza, me aseguro de que nadie vuelva a abusar de ti.
+0195 [Iris] | Si es así, ¿por qué Rainea y los demás siguen tan mal?
+0196 [Minova] | Ojalá lo supiera... Algo tiene que estar mal en la forma en que se piden los deseos.
+0197 [Minova] | Seguimos las instrucciones de Feagin al pie de la letra, pero quién sabe si algo de eso es correcto. No somos Trekkers, así que andamos a ciegas.
+0198 [Iris] | Qué horror...
+0199 [Noya] | Quedarnos aquí pensando no nos llevará a nada. ¿Y si...?
+0200 [Noya] | Mañana vayamos al Monolito con Minova y averigüemos qué trama realmente Feagin.

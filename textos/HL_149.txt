@@ -1,0 +1,293 @@
+# Heartlink de Gerie: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Gerie] | Soy la Árbitra Gerie, del Gran Santuario.
+A01.0002 [Gerie] | Que el Dios de la Gracia vele por usted.
+A01.0003 [Tú] | ¿Árbitra?
+A01.0004 [Tú] | ¿Las Árbitras tienen que castigar a los herejes?
+A01.0005 [Gerie] | No.
+A01.0006 [Gerie] | Las Árbitras no castigan a los herejes; es la Gracia quien desea purificarlos...
+A01.0007 [Gerie] | Limpiar la inmundicia con agonía divina~
+A01.0008 [Tú] | Eso es... Eso es aterrador.
+
+## Conversación A02
+A02.0001 [Gerie] | Gran ==SEX12==, una pregunta para usted. ¿Qué opina del dolor?
+A02.0002 [Tú] | ...
+A02.0003 [Tú] | ¿Tengo que opinar algo?
+A02.0004 [Tú] | Mmm... Mientras menos haya, mejor, creo.
+A02.0005 [Gerie] | Tiene razón.
+A02.0006 [Gerie] | Pero creo que solo el dolor y el sufrimiento pueden conducir a la salvación.
+A02.0007 [Tú] | ¿Eh?
+A02.0008 [Tú] | ¿De verdad? El precio de esa salvación es demasiado alto.
+A02.0009 [Gerie] | Es una pesada carga que debo llevar.
+
+## Conversación A03
+A03.0001 [Gerie] | Hola, Gran ==SEX12==.
+A03.0002 [Tú] | ¡Hola!
+A03.0003 [Gerie] | Entonces, ¿ha disfrutado de su vida hoy? ;)
+A03.0004 [Tú] | Qué pregunta tan repentina.
+A03.0005 [Opción] | He disfrutado comiendo.
+A03.0006 [Opción] | He disfrutado durmiendo.
+A03.0007 [Gerie] | Ah, qué devoción.
+A03.0008 [Tú] | ¿Eso cuenta como devoción?
+A03.0009 [Gerie] | Por supuesto.
+A03.0010 [Gerie] | Solo un corazón honesto puede vislumbrar la verdad de la Gracia.
+A03.0011 [Tú] | ¿Vislumbrar? ¿Solo vislumbrar?
+A03.0012 [Gerie] | No estamos destinados a comprender por completo la Gracia suprema.
+A03.0013 [Tú] | ¿Y si lo intento?
+A03.0014 [Gerie] | La Gracia perdona nuestras pequeñas pruebas ;)
+A03.0015 [Tú] | Mmm...
+
+## Conversación A04
+A04.0001 [Gerie] | ¡Gran ==SEX12==, estoy sangrando!
+A04.0002 [Tú] | ¿¿¿???
+A04.0003 [Tú] | ¿Dónde te lastimaste?
+A04.0004 [Gerie] | Está... está brotando...
+A04.0005 [Gerie] | Puedo sentir... la herida palpitando...
+A04.0006 [Gerie] | ¡No es suficiente! ¡Ni de lejos!
+A04.0007 [Gerie] | ¡¡¡Mi fe brilla radiante en esta sangre desbordante!!!
+A04.0008 [Tú] | ¿? ¿Estás bien?
+A04.0009 [Gerie] | Me corté el dedo
+A04.0010 [Gerie] | ¡Este es el beso de la Gracia! ¡Ofreceré este dolor y esta sangre como sacrificio!
+A04.0011 [Tú] | ¿?
+A04.0012 [Gerie] | ¿No lo entiende?
+A04.0013 [Gerie] | ¡Este es el punto más dulce en el camino a la salvación!
+A04.0014 [Gerie] | ¡¡¡La Gracia me observa AHORA!!! ¡¡¡Seré ELEVADA!!!
+A04.0015 [Tú] | ¿?? ¡Aunque sea una herida pequeña, véndala rápido, por favor!
+A04.0016 [Gerie] | ¡Debo negarme!
+A04.0017 [Gerie] | Seguiré este camino, pues el dolor es la antorcha en la noche más oscura...
+A04.0018 [Tú] | ¿¿¿??? Voy a pedirle a alguien más que venga a ayudarte.
+A04.0019 [Gerie] | No... Por favor, no...
+A04.0020 [Gerie] | ¿Cómo se puede compartir este dolor con nadie más...?
+A04.0021 [Gerie] | Por favor, no te preocupes por mí... Me encargaré yo misma...
+A04.0022 [Tú] | ¡Por favor, evita lastimarte en el futuro! ¡Y bajo ninguna circunstancia juegues con tus heridas!
+
+## Conversación A05
+A05.0001 [Gerie] | «Abraza todo el dolor mientras seas joven».
+A05.0002 [Gerie] | ¿Qué opina de eso, Gran ==SEX12==?
+A05.0003 [Tú] | No lo creo.
+A05.0004 [Tú] | Si empiezas a buscar el sufrimiento ahora
+A05.0005 [Tú] | probablemente más adelante igual tendrás sufrimiento sin fin.
+A05.0006 [Gerie] | Oh, ¿así funciona?
+A05.0007 [Gerie] | Entendido. Iré a saborear un poco de sufrimiento enseguida ;)
+A05.0008 [Tú] | ¿Eh?
+A05.0009 [Tú] | ¡No es eso lo que significa!
+A05.0010 [Tú] | Se supone que habla de las penurias espirituales
+A05.0011 [Tú] | no del dolor físico.
+A05.0012 [Tú] | Así que te anima a forjar resiliencia y a templar tu voluntad...
+A05.0013 [Gerie] | Ya veo...
+A05.0014 [Gerie] | Bueno, entonces, Gran ==SEX12==
+A05.0015 [Gerie] | ¿le gustaría venir a templar mi alma?
+A05.0016 [Gerie] | Yo aguanto ;)
+A05.0017 [Tú] | ...
+
+## Conversación A06
+A06.0001 [Gerie] | ¡Gran ==SEX12==! ¡Gran ==SEX12==!
+A06.0002 [Gerie] | ¿Dónde está?
+A06.0003 [Tú] | ¿Qué pasa?
+A06.0004 [Gerie] | El Dios de la Gracia hace mucho que no posa su mirada en mí.
+A06.0005 [Tú] | ¿Quieres decir que no has sentido dolor últimamente? ¡Eso es una gran noticia!
+A06.0006 [Gerie] | ¡Pero llevo siglos sin sentirme viva!
+A06.0007 [Gerie] | ¡¡Ya no lo soporto más!!
+A06.0008 [Gerie] | ¡¡¡Pero usted me dijo que no debo lastimarme!!!
+A06.0009 [Gerie] | ¡¡¡¡Por lo tanto, debe hacerse responsable!!!!
+A06.0010 [Gerie] | ¡¡Por favor, jale la cuerda!! ¡¡¡La necesito ahora!!!
+A06.0011 [Tú] | Eh... Voy al santuario ahora mismo...
+A06.0012 [Gerie] | Mmm~ un poco más fuerte, por favor~
+A06.0013 [Gerie] | Ah~ eso... eso es~
+A06.0014 [Gerie] | ...Todavía no es suficiente... Estoy desarrollando una fijación con esto...
+A06.0015 [Tú] | ¡Oye! ¡Todavía voy en camino!
+A06.0016 [Gerie] | Gran ==SEX12==~ ¡por favor, no pare!
+A06.0017 [Gerie] | Algo más profundo que la fe recorre mis venas...
+A06.0018 [Gerie] | ¿Es usted, Gran ==SEX12==? No me abandone...
+A06.0019 [Tú] | ¡Aguanta! ¡Ya casi llego!
+
+## Conversación A07
+A07.0001 [Gerie] | Gran ==SEX12==, últimamente he estado reflexionando sobre algo.
+A07.0002 [Tú] | ¿Qué es?
+A07.0003 [Gerie] | Quizá suene un poco abrupto, así que le ofrezco disculpas.
+A07.0004 [Tú] | No hay problema. Adelante.
+A07.0005 [Gerie] | Si un día usted falleciera de repente, ¿podría dejarme encargada de los arreglos funerarios?
+A07.0006 [Tú] | ...
+A07.0007 [Tú] | Dejando de lado la parte de «falleciera de repente»...
+A07.0008 [Tú] | ¿cómo exactamente podría contactarte después de muerto?
+A07.0009 [Gerie] | Jajaja...
+A07.0010 [Gerie] | Cierto. Supongo que no lo pensé bien.
+A07.0011 [Tú] | Entiendo de dónde vienes, Gerie.
+A07.0012 [Tú] | Pero por ahora pienso seguir en el mundo de los vivos.
+A07.0013 [Tú] | Por muchísimo, muchísimo tiempo.
+A07.0014 [Tú] | Así que si quieres estar presente en mis últimos momentos
+A07.0015 [Tú] | ¡tendrás que vivir tanto como yo!
+A07.0016 [Gerie] | Está bien, yo...
+A07.0017 [Gerie] | ¡Haré mi mejor esfuerzo!
+A07.0018 [Tú] | Pero para compensártelo...
+A07.0019 [Tú] | Si alguna vez me necesitas
+A07.0020 [Tú] | estoy a tu disposición, cuando y donde sea.
+A07.0021 [Gerie] | Es usted realmente demasiado amable.
+A07.0022 [Gerie] | Este mundo es tan feo, y aun así usted permanece intacto ante él.
+A07.0023 [Gerie] | Que las bendiciones de la Gracia lo protejan.
+
+## Conversación A08
+A08.0001 [Gerie] | ¿Gran ==SEX12==?
+A08.0002 [Tú] | ¡Oh!
+A08.0003 [Tú] | ¡Hoy es tu cumpleaños!
+A08.0004 [Gerie] | Antes no me importaba mucho este día.
+A08.0005 [Gerie] | Pero desde aquel accidente, he llegado a comprender realmente lo que significa estar viva. Por eso ahora lo valoro.
+A08.0006 [Tú] | ¡Vaya, espera!
+A08.0007 [Tú] | No nos pongamos tan serios en tu cumpleaños.
+A08.0008 [Gerie] | Jeje...
+A08.0009 [Gerie] | Tiene razón.
+A08.0010 [Gerie] | En ese caso... ¿Pasaría el día conmigo? ;)
+A08.0011 [Tú] | Por supuesto.
+A08.0012 [Tú] | Voy para allá.
+A08.0013 [Gerie] | Rezaré mientras espero.
+A08.0014 [Gerie] | Por mí, y por usted.
+A08.0015 [Gerie] | ¿Estaré pidiendo demasiada gracia, quizá?
+A08.0016 [Tú] | ¡Para nada!
+A08.0017 [Tú] | ¡Toda gracia tiene su propósito!
+
+## Conversación A09
+A09.0001 [Gerie] | La próxima vez que vayamos al Monolito, si hay que ir más profundo, permítame ir al frente.
+A09.0002 [Gerie] | Y si tenemos que retirarnos, cubriré nuestras espaldas.
+A09.0003 [Tú] | ¿Eh?
+A09.0004 [Tú] | ¿Por qué?
+A09.0005 [Gerie] | Es mi deber sanar las heridas de este mundo.
+A09.0006 [Gerie] | Y es mi responsabilidad mantener a todos a salvo.
+A09.0007 [Tú] | Mmm...
+A09.0008 [Tú] | No puedo permitírtelo.
+A09.0009 [Gerie] | Por favor, no se preocupe por mí. Puedo manejarlo.
+A09.0010 [Tú] | No me refiero a eso.
+A09.0011 [Tú] | La estrategia es clave en combate. Todos tenemos un papel que cumplir, y debemos ceñirnos a él.
+A09.0012 [Tú] | Del mismo modo, lastimarse no es asunto de una sola persona.
+A09.0013 [Tú] | Aunque no le tengas miedo al dolor, esa preocupación se extiende a todo el equipo.
+A09.0014 [Tú] | Que digas que estás bien no significa que nos quedaremos mirando cómo te lastimas.
+A09.0015 [Gerie] | Ah.
+A09.0016 [Gerie] | Su compasión brilla tan intensamente como aquel día.
+A09.0017 [Tú] | ¿Eh?
+A09.0018 [Gerie] | Que las bendiciones de la Gracia lo protejan.
+A09.0019 [Gerie] | Y mantenga afilada su hoja.
+
+## Conversación A10
+A10.0001 [Gerie] | ¿Esa soy yo en el Disco?
+A10.0002 [Opción] | Eres tú.
+A10.0003 [Opción] | Eres tú del pasado.
+A10.0004 [Gerie] | Esa debe de ser quien fui entonces.
+A10.0005 [Gerie] | Ah, ya veo.
+A10.0006 [Gerie] | En aquel entonces, debí de haberme hecho pedazos...
+A10.0007 [Gerie] | Pero el Dios de la Gracia me pasó de largo.
+A10.0008 [Gerie] | Las puertas del Inframundo se cerraron para mí. Fui rechazada.
+A10.0009 [Gerie] | Así que me levanté de nuevo. Mi peregrinación aún no termina.
+A10.0010 [Tú] | Eeeh
+A10.0011 [Tú] | ¿No es algo bueno, entonces?
+A10.0012 [Gerie] | Supongo que lo es...
+A10.0013 [Gerie] | He olvidado todo el sufrimiento que pasé.
+A10.0014 [Gerie] | Ahora vago en busca de salvación.
+A10.0015 [Tú] | Vaya... Qué profundo...
+
+## Conversación B01
+B01.0001 [Gerie] | De vez en cuando, en lo profundo del Monolito, me topo con Trekkers moribundos
+B01.0002 [Gerie] | Algunos están gravemente heridos por pelear contra Stellaroids
+B01.0003 [Gerie] | Otros han sufrido mutaciones severas tras permanecer demasiado tiempo allí
+B01.0004 [Gerie] | En cualquier caso, jamás podrán salir del Monolito
+B01.0005 [Gerie] | En ellos veo la muerte
+B01.0006 [Gerie] | Aun así, no lo llamaría una visión trágica. Su peregrinación de sufrimiento ha llegado a su fin
+B01.0007 [Tú] | En momentos así...
+B01.0008 [Gerie] | Sí, lo correcto es concederles el golpe de gracia
+B01.0009 [Gerie] | En el instante en que exhalan su último aliento
+B01.0010 [Gerie] | El dolor o la locura desaparecen por completo de su rostro
+B01.0011 [Gerie] | Lo único que queda es una especie de soledad que no reconozco
+B01.0012 [Tú] | Eres muy buena observadora...
+
+## Conversación B02
+B02.0001 [Gerie] | Los herejes siempre huyen despavoridos al verme
+B02.0002 [Gerie] | ¿Por qué no están dispuestos a alzar sus armas para defender sus creencias perversas?
+B02.0003 [Gerie] | ¿Será que se sienten impotentes ante el veredicto de la Gracia?
+B02.0004 [Tú] | Eh...
+B02.0005 [Tú] | No creo que sea el caso...
+B02.0006 [Gerie] | ¿Entonces qué?
+B02.0007 [Tú] | Creo que simplemente te tienen miedo
+B02.0008 [Gerie] | Bueno, es cierto
+B02.0009 [Gerie] | Sus débiles convicciones no pueden sostenerlos en una pelea a muerte
+B02.0010 [Gerie] | Desde el momento en que le dieron la espalda a la Gracia, la debilidad y la hipocresía quedaron marcadas en ellos para siempre
+B02.0011 [Gerie] | Cuando desciende el juicio, lo único que pueden hacer es dispersarse aterrados
+B02.0012 [Tú] | Gerie, tú y tu poder son incomparables
+
+## Conversación B03
+B03.0001 [Gerie] | ¿Recuerda nuestra conversación de antes? ¿La del dolor y el sufrimiento?
+B03.0002 [Tú] | ¿Qué pasa con ella?
+B03.0003 [Tú] | Por favor, no hagas nada peligroso...
+B03.0004 [Gerie] | Je, gracias por su preocupación.
+B03.0005 [Gerie] | Solo pretendía hablarlo como una idea
+B03.0006 [Gerie] | Antes pensaba que...
+B03.0007 [Gerie] | Aunque la Gracia me hizo sufrir, también sabía que no estaba más allá de la redención
+B03.0008 [Gerie] | Si simplemente lograba soportarlo, tarde o temprano, sería redimida una vez más
+B03.0009 [Tú] | ¿Y ahora?
+B03.0010 [Gerie] | Todo dolor que no pueda conducir a la trascendencia se soporta en vano
+B03.0011 [Tú] | ¡Buen punto!
+
+## Conversación B04
+B04.0001 [Gerie] | Jefe, hoy una anciana vino al santuario a confiarme sus penas
+B04.0002 [Gerie] | Su esposo falleció hace poco y todavía está de luto
+B04.0003 [Tú] | Oh...
+B04.0004 [Tú] | Ese tipo de pérdida es verdaderamente difícil de aceptar
+B04.0005 [Gerie] | En efecto, hay muy poco que podamos hacer
+B04.0006 [Gerie] | Nunca podemos sentir de verdad el duelo ajeno por un familiar perdido
+B04.0007 [Gerie] | Poco podemos hacer salvo ofrecer unas palabras de consuelo
+B04.0008 [Gerie] | Si algún día usted se fuera antes que yo...
+B04.0009 [Gerie] | Qué pesada carga sería para mí
+B04.0010 [Tú] | ALTO ALTO ALTO
+B04.0011 [Tú] | ¿Por qué vuelves a hablar de mi muerte?
+B04.0012 [Gerie] | Oh Dios de la Gracia, si se me halla culpable, que la milagrosa guíe mi camino
+B04.0013 [Gerie] | Y sin embargo, en esta peregrinación no veo un futuro en que ambos lleguemos juntos al final
+B04.0014 [Gerie] | Si estoy destinada a quedarme sola al final, ¿es este encuentro un milagro o simplemente otro castigo divino?
+B04.0015 [Tú] | Gerie, reacciona
+B04.0016 [Tú] | ¿Estás bien?
+B04.0017 [Gerie] | Mis disculpas, Jefe. Creo que lo perdí otra vez
+
+## Conversación B05
+B05.0001 [Gerie] | Jefe, cuando mi energía mágica está en su punto máximo
+B05.0002 [Gerie] | sigo recordando fragmentos del pasado
+B05.0003 [Tú] | ¿Como cuáles?
+B05.0004 [Gerie] | El crujir de las cuerdas de un columpio
+B05.0005 [Gerie] | Las pesadas puertas de madera del santuario
+B05.0006 [Opción] | ¿Recuerdos de la infancia, quizá?
+B05.0007 [Opción] | Probablemente restos de memoria
+B05.0008 [Tú] | Aunque la mayoría se han vuelto borrosos
+B05.0009 [Tú] | Aunque hayas olvidado la mayor parte
+B05.0010 [Tú] | Los fragmentos más importantes siguen enterrados en tu conciencia
+B05.0011 [Tú] | Y la magia puede despertarlos
+B05.0012 [Gerie] | Ya veo
+B05.0013 [Gerie] | Sin embargo, esos fragmentos parecen ligeramente distintos cada vez
+B05.0014 [Tú] | Porque la memoria es algo vivo. No deja de cambiar
+B05.0015 [Tú] | Los detalles olvidados son reemplazados por cosas que en realidad nunca pasaron
+B05.0016 [Gerie] | Yo...
+B05.0017 [Gerie] | Ya veo
+B05.0018 [Gerie] | Recuerdo la primera vez que fui a ver al Juez Supremo...
+B05.0019 [Gerie] | Las novicias me sujetaban las manos con fuerza; pensé que por fin había llegado mi juicio
+B05.0020 [Gerie] | Ella entreabrió la puerta y salió flotando un aroma como el de los fuegos artificiales del Festival Nevado
+B05.0021 [Gerie] | El Juez Supremo habló de milagros y absolución
+B05.0022 [Gerie] | Estaba aterrada, pero al final me acogieron
+B05.0023 [Gerie] | Claramente fue algo bueno, y aun así, cada vez que lo recuerdo, sigo sintiendo desasosiego
+B05.0024 [Gerie] | El pasado siempre se me hace insoportable
+B05.0025 [Tú] | Lo que no puedes soportar son solo tus recuerdos y tu imaginación
+B05.0026 [Tú] | Quizá estabas demasiado sola de niña y no tenías amigos a tu lado
+B05.0027 [Gerie] | Cierto, cierto
+
+## Conversación B06
+B06.0001 [Gerie] | Jefe, mi magia casi se descontrola otra vez hace un momento
+B06.0002 [Tú] | ¿Qué pasó? ¿Estás bien?
+B06.0003 [Gerie] | No se preocupe. Ya me calmé
+B06.0004 [Gerie] | En ese instante, pude sentir la energía recorriendo mis venas
+B06.0005 [Gerie] | Luego, un calor abrasador y una oleada de dolor empezaron a consumir todo mi ser
+B06.0006 [Gerie] | Por fortuna, inyecté el sedante a tiempo
+B06.0007 [Tú] | Qué bueno que no pasó nada...
+B06.0008 [Gerie] | Mi mente está más clara cuando la magia se desvanece
+B06.0009 [Gerie] | El dolor abrasador purifica mi alma una vez más
+B06.0010 [Gerie] | ¿Esto también es parte de la Gracia?
+B06.0011 [Tú] | No lo creo...
+B06.0012 [Gerie] | ¿No?
+B06.0013 [Gerie] | Gran ==SEX12==
+B06.0014 [Gerie] | Ya no quiero inyecciones. Lo que quiero es amor.

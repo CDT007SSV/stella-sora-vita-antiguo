@@ -1,0 +1,175 @@
+# Capítulo 9 · Un Monolito demasiado lejano · Interludio 1 · Preludio
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_108 | Kasimira
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_146 | Benito
+N:avg1_150 | Laru
+N:avg2_967 | Mercenario Gato Blanco
+N:avg3_100 | Sylar
+N:avg3_1319 | Angie
+N:avg3_152 | Bastelina
+N:avg3_216 | Gunhild
+
+## Texto
+0001 [Intro] | Interludio: El comienzo
+0002 [Intro] | Preludio
+0003 [Intro] | La Compañía del Gato Blanco detecta que se acerca la gente de Angie, y todos se ponen en marcha a la vez. Laru y Bastelina, infiltradas entre ellos, intentan ayudarte. La información enredada siembra la confusión, pero el ejército ya está aquí.
+0004 [Narración] | El arrogante Tirano volvió ==SEX3== espalda a la sabiduría de los Arcontes. Tras hacerse con el poder absoluto, ==SEX== desapareció en lo profundo del desierto, jurando reducir a cenizas los grandes Monolitos. —Crónicas de la Nueva Nova, de Virigia
+0005 [Lugar y hora] | 13:10, 18.º del mes de Nebula, Mirage, desierto a las afueras de la ciudad
+0006 [Angie] | Sin embargo,==W== el Tirano acabaría enfrentando el castigo divino.
+0007 [Angie] | El pueblo del desierto se unió al pie del Monolito. Derrotaron al Tirano que acechaba en las sombras y sellaron a ==SEX4== en un ataúd de piedra otorgado por los dioses.
+0008 [Gunhild] | Me reporto, señora. La artillería está lista.==W== Oh... ¿Interrumpo su lectura?
+0009 [Angie] | No pasa nada. Solo repasaba un poco de historia...==W== La historia del Tirano de hace mucho, mucho tiempo.
+0010 [Gunhild] | ¿También hubo un Tirano en la antigüedad? Me da vergüenza admitir que no lo sabía.
+0011 [Angie] | Sí. La historia de Nova es un ciclo interminable en el que nuestro pueblo se rebela contra el Tirano, lo derrota y lo sella.
+0012 [Angie] | Pero el Imperio de la Gracia enterró esa verdad. Las historias que se transmiten en nuestras escuelas y ciudades no son más que cuentos de hadas maquillados.
+0013 [Angie] | Si te interesa, cuando termine esta batalla puedo prestarte algunos libros de historia «verdadera».
+0014 [Gunhild] | ¡Gracias, señora!
+0015 [Gunhild] | La verdad, estaba bastante nerviosa por este enfrentamiento con el Tirano.
+0016 [Gunhild] | Pero verla aquí sentada leyendo con tanta calma me tranquilizó muchísimo.
+0017 [Gunhild] | Iré a hacer una última revisión de las coordenadas de tiro. ¡Cuando esto termine, le voy a cobrar esos libros!
+0018 [Angie] | Nerviosa, ¿eh...?
+0019 [Angie] | ¿Por qué desempolvé este libro de historia... si hacía tanto que no lo leía?
+0020 [Angie] | Tirano, ver tu viaje por Philae quizá fue la época más feliz de mi vida.
+0021 [Angie] | Si no supiera cómo tiene que terminar esto, podríamos haber sido grandes amigos.
+0022 [Angie] | Je. No es que ahora importe.
+0023 [Angie] | Despertaste en el desierto, y todo terminará en el desierto. Quizá así es exactamente como lo dispuso el Dios de la Gracia.
+0024 [Lugar y hora] | 13:15, 18.º del mes de Nebula, Mirage, cerca de la Mina de Diamante Cristalino
+0025 [Bastelina] | El forastero repartió las reliquias sagradas del Monolito entre el pueblo y forjó un nuevo hogar en las arenas del desierto.
+0026 [Bastelina] | Pero como la riqueza abundaba, el pueblo olvidó sus sacrificios pasados. Olvidaron al forastero y dieron su paraíso por sentado.
+0027 [Bastelina] | El forastero quedó complacido con ese desenlace. ==SEX1== desapareció en las Tierras Salvajes y nunca se le volvió a ver.
+0028 [Laru] | Bastelina, ¿qué tanto murmuras allá? Ya sé que este calor tiene a todos locos, pero guárdate las quejas antes de que te desmayes.
+0029 [Bastelina] | No me estoy quejando. Estoy estudiando para mi examen de Teoría de la Gracia. Esperan que memoricemos palabra por palabra estos pasajes históricos sacados de contexto, y me está dando dolor de cabeza.
+0030 [Laru] | Ah, cierto, ya me acordé. Es el examen que todos los recién contratados tienen que aprobar en su primer año, ¿no?
+0031 [Laru] | Nada más de pensarlo ya me fastidia... ¿Por qué un examen de Teoría de la Gracia está repleto de historia inútil?
+0032 [Laru] | Pero ¿qué estás leyendo exactamente? No recuerdo que eso viniera en el temario.
+0033 [Bastelina] | Mi supervisor me dio este material de repaso. Mira, es este libro.
+0034 [Laru] | Ah... ¿El supervisor al que siempre le mandas mensajes para pedirle instrucciones? A ver...
+0035 [Laru] | Crónicas de Nova,==W== y el autor es... ¿Eh? Está en blanco.
+0036 [Laru] | Mmm... Nunca había oído de este.
+0037 [Laru] | Uf, da igual. Este sol horrible me está derritiendo el cerebro. De todos modos no puedo concentrarme en ni una sola palabra. ¡Toma, te lo devuelvo!
+0038 [Laru] | Ay... Qué duro la tenemos. Si hubiera sabido que infiltrarme significaba asarme en un desierto, habría rechazado el bono de riesgo.
+0039 [Laru] | ¡O sea, por favor! ¡Las papas fritas y el desierto no combinan! ¡¿A quién se le ocurre comer algo hirviendo con este calor infernal?!
+0040 [Bastelina] | Prueba esto, Laru. Si mojas las papas calientes en helado frío, pasan mucho mejor.
+0041 [Laru] | ¿Papas con helado? Las papas son geniales y todo, pero es imposible que esa combinación funcione. Aunque sí le doy una mordida.
+0042 [Laru] | ... Espera, ¡¿qué es esto?! ¡Es increíble! Déjame darle otra mordida...
+0043 [Laru] | Esta combinación de salado y dulce, de caliente y frío...==W== ¡Es perfecta! ¡Los sabores opuestos saben buenísimo juntos! Repone el sodio y combate el calor. ¡Es un milagro que salva vidas!
+0044 [Laru] | Dulce y salado, frío y caliente... ¡Es la perfección absoluta! ¡Bastelina, eres un genio! ¡Una visionaria!
+0045 [Bastelina] | Je, las ventajas de trabajar en logística. Solo junté el hielo destinado al Comité con tu reserva de papas, y salió esto.
+0046 [Bastelina] | Aun así... Angie confía demasiado...
+0047 [Laru] | Hmph. Al Comité de Salvación lo acaban de tachar de hereje, y nosotras somos las únicas lo bastante locas como para ponernos de su lado ahora mismo.
+0048 [Laru] | Así que Angie no puede darse el lujo de darnos la espalda. Aunque sospeche de nosotras, tiene que tratar bien a las raritas valientes. Hacer otra cosa hundiría la moral.
+0049 [Laru] | La logística es importante, claro, pero ¿en esta operación? Comparado con el frente que va a la caza del Tirano, este es el puesto menos crítico.
+0050 [Laru] | Estamos atoradas en medio del desierto sin teléfonos, rodeadas de miembros del Comité. Aunque quisiéramos, no podríamos enviar información ni sabotearlos.
+0051 [Laru] | ¡Lo que significa que podemos relajarnos y flojear sin culpa!
+0052 [Bastelina] | ¿De verdad podemos? Si Angie captura al Tirano, purgarán a Lady Albedo por oponerse a ella, ¿no?
+0053 [Laru] | ¡Uy! ¡Tienes razón...! Angie tendrá cien maneras de obligar a ==PLAYER_NAME== a confesar que ==SEX== es el Tirano que destruirá el mundo...
+0054 [Laru] | Entonces los cargos de herejía desaparecerían, y Albedo sin duda sería la primera en caer. Espera, ¡hasta podrían acusarla de ser cómplice del Tirano!
+0055 [Laru] | ¡Lo que significa que solo es cuestión de tiempo para que también nos descubran a nosotras!
+0056 [Bastelina] | Llegado ese punto, que el Imperio de la Gracia nos despidiera sería lo mejor que podría pasarnos.
+0057 [Laru] | ¡¿Despedidas?! ¡Ni loca! ¡¿Cómo se supone que voy a flojear en el trabajo si estoy desempleada?! ¡Vamos a evitar ese futuro!
+0058 [Laru] | Tiene que haber una forma... Vamos, Laru, usa ese cerebrote tuyo. Piensa...
+0059 [Laru] | ¡Ya sé!
+0060 [Laru] | ¡Bastelina! Nuestra misión es pasarle información a Albedo, ¿no? Y el objetivo de Albedo es ayudar a ==PLAYER_NAME==.
+0061 [Laru] | No tenemos teléfonos, así que no podemos contactar a Albedo. ¡Pero ya estamos aquí, en Mirage! ¡Podemos ir directamente a ver a ==PLAYER_NAME==!
+0062 [Bastelina] | ¿De verdad podemos hacer eso? Siento que... que nos estamos saltando protocolos muy importantes.
+0063 [Laru] | ¡No te preocupes por los detalles! ¡Mientras crucemos la meta, tomar un atajo no importa!
+0064 [Laru] | ¡Bastelina, prepárame trescientas órdenes de papas con helado! ¡Aquí es donde la logística brilla de verdad!
+0065 [Laru] | ¡Diremos que estamos manteniendo a los miembros del Comité bien comidos y contentos! ¡Esa es la tapadera! ¡Luego, en medio del caos, buscaremos la forma de contactar a ==PLAYER_NAME==!
+0066 [Lugar y hora] | 13:20, 18.º del mes de Nebula, Mirage, Mina de Diamante Cristalino
+0067 [Noya] | Oigan, el túnel de la izquierda se derrumbó por completo. No podemos pasar.
+0068 [Amber] | El camino de atrás también está bloqueado.
+0069 [Iris] | ¿Ese temblor provocó el derrumbe? Ay, no... Llevamos media hora dando vueltas. ¿Y si nos quedamos atrapados aquí abajo?
+0070 [Benito] | No entren en pánico. Esta mina de diamante cristalino es una red enorme con cientos de pozos hacia la superficie.
+0071 [Benito] | Puede que tengamos que dar un rodeo, pero sin duda vamos a salir.
+0072 [Allie] | ¿Seguro que no fue un terremoto? Me preocupan los niños del orfanato.
+0073 [Kasimira] | Entendido. Mantengan su posición y esperen a que nos reunamos. No hagan nada imprudente.
+0074 [Kasimira] | Tenemos noticias de afuera. No fue un terremoto. El Monolito ha regresado.
+0075 [Noya] | ¿El Monolito ha regresado...? ¿Qué significa eso?
+0076 [Kasimira] | El antiguo Monolito de Mirage reapareció en el lugar donde desapareció hace años. Eso fue lo que causó el temblor.
+0077 [Iris] | ¡¿Un Monolito tan enorme apareció de repente en el desierto?! ¿E-esto es en serio?
+0078 [Kasimira] | Sé que es difícil de creer, pero mucha gente lo vio. Es verdad.
+0079 [Kasimira] | Y tenemos un problema más urgente. Los Gatos Blancos detectaron un grupo de combate de varios cientos fuera de Mirage. Es una mezcla de árbitros, centinelas y Caballeros Imperiales, todos con la bandera del Imperio de la Gracia.
+0080 [Amber] | El Comité de Salvación...
+0081 [Kasimira] | El día 16, Chaton se topó con Angie explorando sola en el desierto, a casi un día de camino de Mirage.
+0082 [Kasimira] | En apenas dos días, hizo marchar a toda esa fuerza hasta las afueras de la ciudad. No podemos subestimar su capacidad de mando.
+0083 [Chaton] | Guiada por el brillo de incontables estrellas, la gran Chaton es...
+0084 [Chaton] | ¡Oigan! ¿Por qué esas caras largas? Sin importar quiénes sean esos enemigos, mi poder oscuro...
+0085 [Kasimira] | Ay... Dejemos los poderes oscuros a un lado un segundo. ¿Qué dice el reporte de exploración? ¿Todavía sirven esos túneles abandonados de los archivos?
+0086 [Chaton] | Sip, estaban despejados cuando los revisé. Pero podrían derrumbarse en cualquier momento, así que más vale movernos rápido.
+0087 [Kasimira] | Bien... Gracias.==W== Miembros de Boss Accord, directora Allie, síganme. Los Gatos Blancos los sacarán sanos y salvos.
+0088 [Noya] | Vamos, ==PLAYER_NAME==. Andando.
+0089 [Tú] | Si el Monolito causó ese temblor...
+0090 [Noya] | Espera... La carta mencionaba una brújula en el sótano. ¿Será esta que nos dio Firenze?
+0091 [Amber] | Hay una ranura en el pedestal. Noya, pruébala.
+0092 [Tú] | Encontramos la brújula en el sótano del Orfanato de las Cenizas, y fue la emperatriz anterior quien instaló el orfanato en ese edificio.
+0093 [Tú] | La carta de Narida también mencionaba la brújula. Así que esta sala secreta de los Gatos Blancos en la mina... quizá también la preparó la emperatriz.
+0094 [Tú] | ¿Esa brújula hizo regresar al Monolito?
+0095 [Tú] | Si es cierto, todo encaja... Pero ¿qué tenía en mente la emperatriz anterior para los Gatos Blancos y el orfanato?
+0096 [Tú] | Y luego está ese libro...
+0097 [Narración] | ==Off==Mi Tirano.
+0098 [Tú] | Si todo era parte del plan de la emperatriz anterior... ¿De verdad soy el Tirano?
+0099 [Noya] | ==PLAYER_NAME==...
+0100 [Tú] | ¿Cómo pudo pasar esto? ¿Angie tiene razón? ¿De verdad soy el Tirano destinado a acabar con el mundo?
+0101 [Tú] | ¿Solo creía lo contrario porque perdí mis recuerdos?
+0102 [Noya] | ¡==PLAYER_NAME==!
+0103 [Tú] | ¿Eh? Ah, Noya. Me asustaste. Espera, ¿adónde se fueron todos?
+0104 [Noya] | ==PLAYER_NAME==, estabas tan ido que casi te dejamos atrás.==W== Hace un momento, Chaton encontró un pozo de la mina que todavía sirve. Así que les dije a Iris, Amber y mamá que se adelantaran con los Gatos Blancos mientras yo me quedaba a esperarte.
+0105 [Tú] | P-perdón.
+0106 [Noya] | Desde que saliste de esa sala oculta, te has ido quedando atrás del grupo, perdido en tus pensamientos. Lo que sea que te tiene pensando tanto debe ser algo serio.
+0107 [Noya] | ¿Sabes? Puedes caminar y pensar al mismo tiempo. Toma, dame la mano para que no te quedes atrás.
+0108 [1] | Gracias, Noya. Pero ya lo resolví, así que estoy bien. Vámonos.
+0109 [Noya] | ¿De verdad estás bien?
+0110 [Tú] | Sí. Solo estaba pensando en cómo escapar. Pero como tenemos un túnel despejado, deberíamos estar bien.
+0111 [Noya] | Mentiroso. Eso no es en lo que estabas pensando para nada.
+0112 [Tú] | ¿Qué?
+0113 [Noya] | No lo sabías, ¿verdad, ==PLAYER_NAME==? Cada vez que mientes, apartas la mirada sin darte cuenta. La verdad, estabas pensando en otra cosa, ¿no?
+0114 [Tú] | ¿E-en serio? Yo... yo...
+0115 [Tú] | Sí, tienes razón. No debería ocultarte cosas. En realidad estaba pensando en ese dibujo y en mi identidad.
+0116 [Tú] | El libro con el dibujo estaba debajo de la carta de Narida. Después de que ella desapareció, nadie pudo abrir la sala secreta de los Gatos Blancos.
+0117 [Tú] | Lo que significa que ese dibujo se dejó ahí hace seis años como muy tarde... Mucho antes de que me encontraran en el desierto.
+0118 [Tú] | Un dibujo de hace seis años... y el texto de ese libro... Odio admitirlo, pero por todo esto, la persona que era antes de perder la memoria...
+0119 [Narración] | ==Off==¡Tiene que ser el Tirano! Al menos, así es como me llaman los demás.
+0120 [Tú] | ¡Nadie montaría una mentira enorme con años de anticipación solo para engañarme, sobre todo si no podían garantizar que yo vendría aquí algún día!
+0121 [Noya] | Bueno, si eso piensas, entonces quizá de verdad eres el Tirano.
+0122 [Tú] | ¿Ves? Hasta tú crees que soy...
+0123 [Noya] | Pero ¿qué diferencia hace?
+0124 [Noya] | Dormimos en la misma casa rodante todas las noches. Eres la primera persona que vemos al despertar.
+0125 [Noya] | Nadie sabe mejor qué clase de persona eres que el Gremio de la Nueva Estrella.
+0126 [Noya] | Además, el día que te uniste a nosotras, mi intuición me dijo que íbamos a estar juntos para siempre. Iris y Amber seguro sienten lo mismo.
+0127 [Noya] | ¿Verdad...?
+0128 [Narración] | Mi salvador.
+0129 [Tú] | Ja... ¿De qué hablas, Noya? ¿Qué salvador...?
+0130 [Noya] | Esa palabra también estaba en el libro. ¡Si vas a obsesionarte con la parte del «Tirano», no puedes ignorar que también menciona al «Salvador»!
+0131 [Tú] | ¿Qué clase de lógica es esa...?
+0132 [Noya] | Como el libro pone al Tirano y al Salvador lado a lado, significa que quizá no solo seas el Tirano. También podrías ser el Salvador. Lo único que tenemos que hacer es derrotar a Angie y hacer que admita que eres lo segundo.
+0133 [Noya] | Así que deja de agobiarte, ==PLAYER_NAME==. Seas Tirano o «salvador», siempre serás mi ==PLAYER_NAME==.
+0134 [Tú] | Noya... Je, de verdad eres una optimista.
+0135 [Tú] | No te preocupes. Después de nuestra charla nocturna, prometí que no volvería a caer en ese bache. Solo me impactó la repentina «verdad», eso es todo.
+0136 [Tú] | Ahora mismo no me estoy agobiando por mi verdadera identidad. Estoy pensando cómo proteger a todos mientras hacemos frente a las fuerzas de Angie.
+0137 [Tú] | Y no importa cuánta gente traiga: no tengo la menor intención de caer fácilmente.
+0138 [Noya] | Je, je, ahí está el ==PLAYER_NAME== que conozco.
+0139 [Tú] | Ah, por cierto, Noya. Dijiste que aparto la mirada sin darme cuenta cuando miento.
+0140 [Tú] | ¿Se nota mucho? Sería un desastre que me pasara durante las negociaciones y el otro lado se diera cuenta.
+0141 [Noya] | Ah, ¿eso? Jaja...==W== En realidad me lo inventé. No lo haces para nada.
+0142 [Tú] | ¡¿M-me engañaste?!
+0143 [Noya] | Después de nuestra charla nocturna de la otra vez, las tres lo hablamos en privado. Amber dijo que a veces eres bastante reservado, y que necesitabas que alguien te diera un empujoncito para superarlo. Así que se nos ocurrió esta idea.
+0144 [Noya] | ¡A que no te lo esperabas! Yo también sé mentir. Iris tenía razón. La gente que parece más inocente es la que miente con más descaro. Jaja.
+0145 [Tú] | Y caí redondito...==W== ¡No volverá a pasar!
+0146 [Noya] | Y yo nunca volveré a mentirte. Eso significa que siempre te llevaré un punto de ventaja, ==PLAYER_NAME==.
+0147 [Tú] | No tiene caso competir por esto. Anda, alcancemos a los demás.
+0148 [Noya] | Espera, ==PLAYER_NAME==. ¡Tenemos compañía!
+0149 [Noya] | ¿Eso de allá adelante es humo verde?==W== No, ¡es magia de viento muy poderosa! ¡La están usando para buscarnos!
+0150 [Tú] | ¿La gente de Angie ya está en la mina?
+0151 [Noya] | Parece que sí. Una magia de este calibre no se lanza a la ligera. Tienen que ser los soldados de élite de Angie.
+0152 [Narración] | Noya desenvaina su espada y se pone delante de mí con naturalidad para protegerme.
+0153 [Noya] | Cuidado, se oyen pasos adelante. Sigue sin mí, ==PLAYER_NAME==. Yo los detengo.
+0154 [Narración] | Las espadas chocan y arrancan destellos brillantes en la penumbra de la mina.

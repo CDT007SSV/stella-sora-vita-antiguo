@@ -1,0 +1,122 @@
+# Historia de Caramel · 3 · Echo of Hearts and Stars (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Distraught Trekker | Trekker angustiado
+N:Stagehand | Tramoyista
+N:Tired Trekker | Trekker cansado
+N:avg1_147 | Caramel
+N:avg3_100 | Sylar
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_168 | Chica
+N:avg3_187 | Residente de Flavio
+N:avg3_188 | Residente de Flavio
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Eco de corazones y estrellas (Parte III)
+0003 [Intro] | En la suave noche, Caramel pulsa las cuerdas de su bajo y los corazones de los Trekkers atribulados. Así nace la leyenda de Flavio.
+0004 [Narración] | A través de la bruma, las luces brillantes de la ciudad aún centellean a lo lejos.
+0005 [Narración] | Pero aquí afuera no hay humo áspero, solo el suave aroma de la hierba y las flores silvestres.
+0006 [Narración] | Los Trekkers y los fieles fans de Caramel se sientan juntos bajo el cielo estrellado.
+0007 [Narración] | Ahora mismo, la tierra misma es el escenario.
+0008 [Narración] | Y el tenue resplandor del Monolito es el reflector que anima a la artista.
+0009 [Caramel] | Eh... ¿Productor?
+0010 [Caramel] | ¿Este es el lugar?
+0011 [Narración] | Mira a su alrededor con curiosidad.
+0012 [Tú] | Sí. Pensé que te sentirías más a gusto en un lugar así.
+0013 [Stagehand] | Señorita Caramel, cuando termine el acto de apertura,==W== será su turno de subir al escenario.
+0014 [Tú] | ¿Estás lista?
+0015 [Caramel] | Sí... ¡Daré todo de mí!
+0016 [Caramel] | Vino muchísima gente hoy... Y además están el Monolito, la tierra, el cielo, la luna...==W== Y tú, Productor.
+0017 [Tú] | Sí. Escucharé con todo el corazón.
+0018 [Tú] | Usar la música de Caramel para sanar las heridas mentales de los Trekkers...
+0019 [Tú] | Y aprovechar esta experiencia para que Caramel comprenda mejor sus mundos interiores y sus sentimientos...
+0020 [Tú] | Supongo que soy un productor astuto.
+0021 [Narración] | El suave sonido del bajo atraviesa el cielo nocturno.
+0022 [Caramel] | ♪—♪♪
+0023 [Narración] | El tiempo, que antes era la jaula que atrapaba a esos Trekkers, vuelve a fluir.
+0024 [Tired Trekker] | Ugh... Mi cuerpo... Cada vez que veo un Monolito, me quedo sin fuerzas... ¿Qué me pasa?
+0025 [Distraught Trekker] | … Si aparece un Stellaroid o algún monstruo... No podríamos defendernos así... Presentarse aquí es muy peligroso, ¿no?
+0026 [Tú] | Shhh...
+0027 [Narración] | Bajo la voz lo más que puedo, tratando de aliviar la tensión de esos susurros ansiosos.
+0028 [Tú] | ¡Cierren los ojos y concéntrense! La señorita Caramel está haciendo todo lo posible por ayudarnos...
+0029 [Tired Trekker] | Lo siento, pero... ¿De verdad funciona esto? O sea, es solo música... ¿no?
+0030 [Tired Trekker] | Espera... ¿Qué instrumento es este?
+0031 [Tired Trekker] | Es como si latiera al ritmo de mi corazón.
+0032 [Distraught Trekker] | … Ahora que lo dices, ese sonido grave y retumbante...
+0033 [Distraught Trekker] | Suena igualito a los pasos que se oyen al caminar por el Monolito...
+0034 [Narración] | La verdad no sé mucho de música.
+0035 [Narración] | Pero sí entiendo la emoción que contiene esta melodía.
+0036 [Narración] | Hay un toque de tristeza: suave, pero liberadora.==W== Se siente como... Nostalgia.
+0037 [Tú] | Con solo escucharla te transporta al pasado...
+0038 [Tú] | Ya veo. Entonces el tema que Caramel eligió es «el pasado».
+0039 [Tú] | El pasado... El Flavio de antes. Aquellas primeras aventuras.
+0040 [Tú] | ¿Recordarán los Trekkers por qué emprendieron su viaje en primer lugar?
+0041 [Narración] | En momentos así, se trata más de sentir la música que de tratar de entenderla.
+0042 [Narración] | Con eso en mente, dejo de darle vueltas a si está funcionando. Al fin y al cabo, los sentimientos no se pueden descomponer ni diseccionar.
+0043 [Narración] | La noche apenas comienza, pero la música ya llena el campamento de una cálida ternura.
+0044 [Distraught Trekker] | … ¿Cómo dejé que el miedo se apoderara así de mí...?
+0045 [Tired Trekker] | … Ahora lo recuerdo... La razón por la que quise ser Trekker por primera vez fue porque...
+0046 [Tú] | Parece que empiezan a recomponerse.
+0047 [Narración] | El tiempo sigue corriendo, pero nadie quiere abandonar el momento.
+0048 [Narración] | El espectáculo es un éxito sin precedentes.
+0049 [Narración] | Sin siquiera invitar a ninguna bruja a reportarlo, el show que montamos juntos terminó saliendo en los periódicos de Flavio e incluso se volvió leyenda urbana.
+0050 [Tú] | Caramel probablemente será aún más famosa después de esto... ==W==Aunque a ella no le importan esas cosas.
+0051 [Narración] | El tiempo vuela.==W== Unos días después, Caramel me arrastra a otro «viaje de inspiración».
+0052 [Caramel] | ¡Con solo pensar en esa presentación me emociono otra vez!
+0053 [Caramel] | ¡Hacía mucho que no me divertía tanto tocando! ¡La inspiración no deja de fluir!
+0054 [Tú] | Qué alivio escuchar eso.
+0055 [Caramel] | ¡Todo es gracias a ti, Productor!
+0056 [Tú] | Cada vez que Caramel me elogia así, me da un poco de pena...
+0057 [Caramel] | Productor... ¿De verdad fue pura casualidad que me eligieras para esta comisión?
+0058 [Tú] | ¡Para nada! ¡Es porque tu música siempre me atrapa, Caramel!
+0059 [Caramel] | ¿Ah, sí...? Jajaja...
+0060 [Narración] | Un poco nerviosa, me da un golpecito.==W== Ah, otra vez los fuertes puños de una verdadera música.
+0061 [Tú] | Siempre has dicho que la música es para expresarse, ¿no?
+0062 [Caramel] | Sí... Con la música puedo expresar mi paisaje interior...
+0063 [Caramel] | Y entonces... puedo hablar... con los Monolitos.
+0064 [Narración] | En realidad, los paisajes interiores de distintas personas también se pueden compartir, intercambiar e incluso mezclar. Así debe ser.
+0065 [Caramel] | Sí... Ahora lo entiendo. Ha sido una lección verdaderamente rara y valiosa.
+0066 [Tú] | Jaja, más bien, la gente como tú, que puede expresarse ante la tierra, el océano, los Monolitos, el cielo... Eres de las raras.
+0067 [Caramel] | Lo dices como si fuera increíble o algo así.
+0068 [Caramel] | Me da tanta pena...
+0069 [Tú] | Es que lo eres... Y no solo eso. Entendiste su dolor tan rápido.
+0070 [Tú] | Solo con tu música lograste que bajaran la guardia, enfrentaran sus miedos y reconectaran con los sueños con los que empezaron.
+0071 [Caramel] | Escuché... No, vi esos paisajes.
+0072 [Caramel] | Aunque no dijeron ni una palabra, igual sentí su tristeza. Es como si hubieran dejado algo atrás en el Monolito.
+0073 [Caramel] | Esa parte de ellos que dejaron atrás en el Monolito... La escuché, la vi. Intenté escucharla.==W== Y esa fue la canción que me llegó.
+0074 [Tú] | Tu música tiene el poder de resonar en lo profundo de los corazones. Es lo bastante fuerte para conmover el alma.
+0075 [Caramel] | Jaja, ahora sí estás exagerando.
+0076 [Narración] | Me suelta y da una vuelta, abrazando su bajo.
+0077 [Caramel] | Oye... ¡Todavía no te he agradecido como se debe, Productor!
+0078 [Tú] | ¿A mí? Yo no hice nada.
+0079 [Caramel] | No digas eso. ¡Fuiste una pieza enorme en este viaje de inspiración!
+0080 [Caramel] | ¡Gracias también por pasar todo este tiempo conmigo hoy! ¡Tengo muchísima inspiración fluyendo ahora mismo!
+0081 [Caramel] | Productor, ¿puedo tocar algo solo para ti?==W== Considéralo... un pequeño resumen de toda la inspiración que he reunido últimamente.
+0082 [Narración] | En cuanto empieza a hablar de tocar, vuelve a sonar emocionada.
+0083 [Tú] | Parece que el viaje de inspiración de hoy aún no termina...==W== Como productor, tengo que verlo hasta el final.
+0084 [Narración] | No muy lejos de aquí está el «espacio musical» al que ella suele ir.
+0085 [Narración] | Su mano fuerte toma la mía mientras me guía por los escalones de la puerta trasera...
+0086 [Narración] | Arriba está el espacio propio de Caramel. Su pequeño rincón de libertad.
+0087 [Caramel] | Es increíblemente raro, pero... ==W==¿Sabes que siempre estás ahí para mí justo en el momento EXACTO?==W==
+0088 [Caramel] | Me preguntaba... ==W==¿Será que tú también has oído las Notas del Monolito?==W==
+0089 [Opción] | ¿Notas del Monolito?
+0090 [Caramel] | ¡Sí! ==W==Has pasado por el Monolito muchas veces. ==W==Seguro las has oído, ¿verdad?
+0091 [Caramel] | Esos sonidos extraños ==W==que parecen resonar sin fin...
+0092 [Opción] | Ahora que lo mencionas, sí recuerdo una especie de música...
+0093 [Caramel] | ¿Verdad? ==W==¡Sabía que sí!==W==
+0094 [Caramel] | ¡Dicen que el Monolito es donde los sueños se hacen realidad y los deseos se cumplen! ==W====W==¡Así que me puse a pensar si las Notas del Monolito estarían hechas de los deseos de la gente!==W==
+0095 [Caramel] | ¡Y las he perseguido desde que ==W==se me metió esa idea en la cabeza!==W==
+0096 [Caramel] | ¡Espero que algún día pueda unirme al Monolito ==W==y hacer música hermosa con él!==W==
+0097 [Opción] | Qué sueño tan descabellado...
+0098 [Caramel] | ¡Quien no sueña en grande, no sueña, ¿no?! ♪
+0099 [Caramel] | Bueno, como te decía... ==W==Tú lo sabes todo sobre el Monolito, ==W==siempre ves el lado bueno, ==W==y siempre me entiendes...==W==
+0100 [Caramel] | ¡Y por eso mismo eres el único que puede ser mi productor!==W====W==
+0101 [Opción] | Bueno, ya que lo pones así...
+0102 [Opción] | Veamos qué podemos hacer juntos
+0103 [Caramel] | Wow... ♪ ==W==¡Muchas gracias! ==W==¡Ya verás! ==W==¡Algún día resolveré el misterio de las Notas del Monolito contigo a mi lado!==W==
+0104 [Narración] | El fragante aroma aún flota en el aire, y las luces de neón aún brillan con fuerza.
+0105 [Narración] | Sobre esta ciudad que se mece, su bajo resuena claro y brillante, atravesando la noche.

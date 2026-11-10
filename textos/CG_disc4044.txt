@@ -1,0 +1,114 @@
+# Recuerdo de disco · Veiled Dawn of Spring · 1 · Veiled Dawn of Spring
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Monster | Monstruo
+N:Shop Owner | Tendero
+N:avg1_159 | Coronis
+N:avg2_954 | Pezuñas Crujientes
+N:avg3_100 | Sylar
+N:avg3_176 | Residente de Loong
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | Alba velada de primavera
+0003 [Intro] | Elige un recuerdo y creemos más memorias entre los dos.
+0004 [Tú] | Queda poco tiempo en Cangwu...==W== ¡Tengo que terminar mis compras mientras pueda!
+0005 [Coronis] | ¿Oh? ¿También vienes de compras?
+0006 [Tú] | Ah, Coronis. Solo compro recuerdos antes de volver.==W== ¿Tú vienes por provisiones?
+0007 [Coronis] | Justo a tiempo. Quería conocer yo misma las especialidades locales.==W== De hecho, ¿podrías ayudarme a elegir unos regalos adecuados?
+0008 [Tú] | Claro, con gusto.
+0009 [Coronis] | Gracias. Cuento contigo, entonces,==W== mi fiel ayudante.
+0010 [Tú] | Qué bueno que confíe en mí, pero ¿y si tenemos gustos distintos?...==W== Bueno, ¡lo intentaré!
+0011 [Tú] | ¿No íbamos a comprar regalos...?==W== ¿Cómo terminamos en el bosque?
+0012 [Tú] | ¿Coronis? ¿No se suponía que íbamos por unas especialidades locales?
+0013 [Coronis] | Mm-hm. Recuerdo que estaba por aquí...
+0014 [Tú] | ¿Buscar especialidades de la ciudad en un bosque? ¿Eso tiene sentido?
+0015 [Coronis] | ¡Lo encontré!==W== No pude moverlo yo sola. Por eso te pedí ayuda.
+0016 [Tú] | Mover...==W== ¿¡H-huesos!?
+0017 [Coronis] | ¿Y bien? ¿No es hermoso? Lo vi cuando llegué. No puedo creer que lo dejaran aquí, expuesto así...
+0018 [Coronis] | Vaya, está perfectamente conservado.==W== Nunca había visto esta especie en Philae ni en Emor. Tengo que llevarlo para estudiarlo.
+0019 [Tú] | Casi lo olvidaba...==W== Este es el estilo de Coronis...
+0020 [Tú] | Jajaja...==W== Sin duda va con tus gustos. Muy bien, déjame agarrar este extremo—
+0021 [Monster] | ¡Grrraaagh!
+0022 [Tú] | ¿¡Q-qué!? ¿¡Un monstruo!?
+0023 [Coronis] | Je...==W== Qué suerte la nuestra. Parece que hoy sumamos otro recuerdo a la colección.
+0024 [Tú] | ¿Coronis? No hablas en serio...
+0025 [Coronis] | Hazte atrás, Jefe. Sería un desperdicio destrozar su fino esqueleto por error.
+0026 [Tú] | Nunca pensé que llegaría el día en que me daría lástima un monstruo...
+0027 [Coronis] | El dueño del hotel nos miró con mucha sospecha, pero al menos lo trajimos de una pieza. Gracias, mi ayudante.
+0028 [Tú] | Un placer ayudar.
+0029 [Coronis] | Por cierto...==W== ¿Te importa que te pida un favor más?
+0030 [Tú] | Supongo que no...
+0031 [Tú] | ¿Tiene el ojo puesto en otro juego de huesos?
+0032 [Coronis] | Como son para Igna, necesito botanas de larga duración. Puede que pase un buen rato antes de volver a verla...
+0033 [Coronis] | ¿Cuál de estas dos se ve mejor?
+0034 [Tú] | ¿Eh? A ver...==W== Yo me quedaría con las horneadas. Se ven bastante atractivas y apetitosas.
+0035 [Coronis] | Mm, buen punto.==W== Disculpe, ¿podría envolverme esto para regalo?
+0036 [Shop Owner] | Enseguida. Un momento.
+0037 [Tú] | Vaya. O sea que también compra recuerdos normales.
+0038 [Tú] | ¿Quién es Igna? ¿Una amiga?==W== Bueno, al menos no le va a regalar una bolsa de huesos. No, eso es grosero...==W== No debería juzgar...
+0039 [Coronis] | Ayudante... Mi fiel ayudante—
+0040 [Tú] | ¿Eh? Perdón, me distraje...==W== ¿Qué pasa?
+0041 [Coronis] | Nada importante...==W== Je. ¿Estábamos pensando algo grosero sobre mí, verdad?
+0042 [Tú] | ¿Eh? ¡No! ¿Por qué dices que—
+0043 [Coronis] | Pupilas dilatadas, respiración irregular...==W== Je, olvídalo. Vamos a la siguiente tienda.
+0044 [Tú] | No puedo ocultarle nada...==W== ¡Esta doctora es aterradoramente aguda!
+0045 [Tú] | ¿Este puesto vende ...==W== artesanías tradicionales?
+0046 [Coronis] | ¿Qué pasa? ¿Te sorprende? Hasta yo tengo derecho a apreciar la belleza, ¿no?
+0047 [Tú] | S-sí...
+0048 [Tú] | Bien, deja de darle tantas vueltas.
+0049 [Coronis] | Mmm. Me llevaré este.
+0050 [Coronis] | Ayudante. Dame la mano.
+0051 [Tú] | ¿Eh?==W==... ¿Una pulsera trenzada?
+0052 [Coronis] | Lo sabía. Este color te queda perfecto con el tono de tu piel.
+0053 [Coronis] | Disculpe, me llevo esto. ¿Le importa si pagamos con la pulsera puesta?
+0054 [Tú] | ¡Espera! ¡Es demasiado bonita! ¡No puedo aceptarla!
+0055 [Coronis] | Está bien. Considéralo un regalo. La vi el otro día y supe que te quedaría bien.
+0056 [Tú] | Pero...
+0057 [Coronis] | Además, te he arrastrado por todas partes todo el día. Tómalo como un agradecimiento.
+0058 [Tú] | Está bien...==W== Si insistes. La acepto.
+0059 [Tú] | Pero no puedo aceptar un regalo sin dar algo a cambio...==W== ¿Hay algo que quieras?
+0060 [Coronis] | Un regalo a cambio...==W== ¿Eso significa que puedo pedir lo que sea?
+0061 [Tú] | Eh...==W== Quisiera decir que sí, pero...==W== como Iris mantiene nuestro presupuesto con correa corta, me falta un poco de dinero de bolsillo.
+0062 [Coronis] | No te preocupes. Lo que quiero no te costará ni un centavo.
+0063 [Tú] | No me pedirás ... huesos otra vez, ¿verdad?
+0064 [Coronis] | No. Lo que quiero es—
+0065 [Opción] | ¿Qué está pasando?
+0066 [Coronis] | ¿A qué te refieres? Solo estás sobre la cama de un hotel. No estés tan tenso.
+0067 [Opción] | Me lo imaginaba.
+0068 [Opción] | Solo pregunto por qué.
+0069 [Coronis] | ¿No dijiste que querías darme algo a cambio?
+0070 [Coronis] | Además, tienes buen ojo. En cuanto mencioné un regalo «a cambio», debiste de darte cuenta exactamente de lo que quería...==W== ¿Verdad?
+0071 [Coronis] | ¿Quién dice que un regalo tiene que ser tangible? Los recuerdos que creamos en el camino son igual de preciosos. ¿No crees?
+0072 [Opción] | Supongo que entiendo tu punto...
+0073 [Coronis] | Entonces es simple.==W== El regalo que quiero son recuerdos de nosotros pasando tiempo juntos.
+0074 [Coronis] | Hemos creado muchos recuerdos desde que llegamos, sí. Pero lamentablemente siempre he sido una persona bastante codiciosa.
+0075 [Coronis] | Después de todo, nunca se tienen demasiados recuerdos, ¿verdad? Sobre todo siendo Trekker.
+0076 [Coronis] | Es una lástima que no podamos controlar qué recuerdos pagan nuestros deseos... La idea de que el Monolito devore mi tiempo contigo me resulta ... bastante desagradable.
+0077 [Opción] | Lo entiendo, pero...
+0078 [Opción] | ¿No te parece que este recuerdo en particular da un poco ... de miedo?
+0079 [Coronis] | ¿Hm? ¿Qué estás mirando...?==W== ¡Oh! ¿Esto? ¿Te refieres a la jeringa?
+0080 [Coronis] | No voy a usarla contigo; es solo para ambientar.
+0081 [Coronis] | Ah...==W== Con solo imaginar la cara que pondrás, los sonidos que se te escaparán...==W== ¡Me estoy emocionando...!
+0082 [Opción] | ¡Coronis! ¡Contrólate!
+0083 [Coronis] | No tengas miedo. Una doctora debe ser amable con sus pacientes, ¿no?
+0084 [Coronis] | ... Ah, espera. ¿Qué somos otra vez... doctora y ayudante? No... Seguramente algo mucho más íntimo...
+0085 [Coronis] | Jeje...==W== Sabes que eres especial para mí, ¿verdad? No haría nada ... travieso.
+0086 [Opción] | ¡Definitivamente estás tramando algo retorcido!
+0087 [Coronis] | Jeje, siempre tan a la defensiva...==W== Vamos, relájate. Concéntrate en mi voz ... y entrégame tu cuerpo y tu mente.
+0088 [Coronis] | Crear nuevos recuerdos juntos, lejos de casa...==W== Mmm,==W== ¡ese sí es el recuerdo perfecto!
+0089 [Coronis] | Entonces...==W== ¿Cómo se siente?
+0090 [Tú] | Ahh...==W== Mi cuerpo se siente ... ingrávido. Increíble.==W== Tienes manos mágicas, Coronis.
+0091 [Tú] | Hace que mi torpe intento de antes resulte francamente vergonzoso...
+0092 [Coronis] | ¡Fue solo tu primera vez, nada más! Además, tu técnica no estuvo nada mal.
+0093 [Tú] | Me alegra oírlo...==W== Pero yo soy quien recibe el masaje.==W== ¿Cómo es esto un regalo a cambio para ti?
+0094 [Coronis] | ¿Cómo no lo sería?==W== Como dije ... lo que quería era el recuerdo.
+0095 [Coronis] | Cada espasmo, cada gesto que hiciste, cada sonidito...==W== Los he memorizado todos. Mmm... Estoy bastante satisfecha.
+0096 [Tú] | ¡No lo digas así! Ya es suficientemente vergonzoso...
+0097 [Tú] | En serio, se sintió tan bien que mi mente se quedó en blanco...
+0098 [Coronis] | Por cierto, ¿puedo quedarme contigo un rato más?
+0099 [Coronis] | Los recuerdos conservan mejor su forma al decirlos en voz alta. ¿Por qué no tomamos un té y ...==W== saboreamos todo lo que pasó aquí?
+0100 [Tú] | Bueno, si lo pones así...==W== Espero con ganas tu té, Coronis.
+0101 [Coronis] | Entonces prepararé mis mejores hojas. Espéralo con ganas,==W== mi inigualable ayudante.

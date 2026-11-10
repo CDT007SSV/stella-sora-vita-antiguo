@@ -1,0 +1,152 @@
+# Nova Times #13 · La señorita y la criada descarada · 3 · The Missy and the Saucy Maid (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Suspicious Guard | Guardia sospechosa
+N:Suspicious Sidekick | Compinche sospechosa
+N:Suspicious Trekker | Trekker sospechosa
+N:avg1_119 | Nanoha
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_1238 | Chica de la pandilla
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La señorita y la criada descarada (Parte III)
+0003 [Intro] | La sirvienta ha dejado la farsa y la comedia por fin termina. Eleanor ha decidido volverse fuerte a su manera, y tarde o temprano sus caminos volverán a cruzarse.
+0004 [Suspicious Trekker] | ¡No van a ir a ninguna parte!
+0005 [Tú] | ¡Eleanor, Nanoha, sigan adelante! ¡No se detengan!
+0006 [Eleanor] | ¡S-sí!
+0007 [Tú] | ¡Solo tenemos que abrirnos paso y estaremos libres!
+0008 [Tú] | Luego avisamos a la Guardia Imperial y—==W==¡alto!
+0009 [Tú] | Tsk. ¿Más enemigos al frente? Un ataque de pinza... Qué bajeza.
+0010 [Suspicious Trekker] | ¿Creen que son los únicos con refuerzos? ¡Ingenuos!
+0011 [Suspicious Trekker] | Se los dije. ¡Nadie sale de aquí!
+0012 [Tú] | ¡Maldición!
+0013 [Tú] | Sin bombas de humo, y Nanoha no puede revelar su identidad aquí. ¿Y ahora qué...?
+0014 [Suspicious Sidekick] | Solo queremos a la chica. Los demás... ¡a morir!
+0015 [Eleanor] | ¡Mentor, cuidado!
+0016 [Tú] | ¿¡Eleanor!?
+0017 [Eleanor] | Es a mí a quien buscan, ¿verdad? ¡Entonces vengan por mí!
+0018 [Eleanor] | ¡Yo, Eleanor la Trekker, me enfrentaré a todos ustedes!
+0019 [Tú] | Espera, no me digas que vas a...
+0020 [Eleanor] | ¡Este montón está lleno de armas, alguna tiene que servir! ¿Qué importa si no sé usarla? ¡Lo averiguaré sobre la marcha!
+0021 [Eleanor] | ¡Si la rompo, qué más da! ¡Pagaré para repararla después!
+0022 [Eleanor] | ¡Si no quieren salir heridos, muévanse! ¡Ya!
+0023 [Suspicious Guard] | ¡Un momento! ¿¡Qué está sosteniendo!? ¿¡Es un Lanzador de Misiles Mágicos!? ¡Ya saben... esa cosa de cañón!
+0024 [Suspicious Sidekick] | ¡Corran!
+0025 [Tú] | ¡Eleanor, espera! ¡No te explotes a ti misma!
+0026 [Suspicious Guard] | ¿¡Está disparando eso dentro de la casa!? ¿¡Qué clase de mentor eres!?
+0027 [Tú] | Hmph... Je, ahora sí tienen miedo, ¿verdad?
+0028 [Suspicious Sidekick] | ¡Maldición! Olvídenlo, mejor vámonos—==W==¡guaj!
+0029 [Suspicious Guard] | ¿Qué demonios...?==W== ¡Ugh!
+0030 [Tú] | ¡Es Nanoha! El alboroto de Eleanor con el arma mantuvo a todos distraídos, dándole la oportunidad perfecta para atacar.
+0031 [Tú] | ¡Ahora solo tengo que añadir un poco más de caos a la mezcla!
+0032 [Tú] | ¡Toma esto!
+0033 [Suspicious Trekker] | ¡Oh, rayos! ¡Va a explotar...!
+0034 [Suspicious Trekker] | Espera, ¿no son los petardos que le vendimos...?==W== ¡Guaaah!
+0035 [Tú] | Trabajo limpio. Goodwind Homecare... Definitivamente no son sirvientas comunes.
+0036 [Tú] | Por fin afuera...
+0037 [Tú] | ¡Eleanor! ¿¡Estás bien!?
+0038 [Eleanor] | Uf... Uf... E-estoy bien.==W== ¿Y la señorita Nanoha?
+0039 [Nanoha] | Por favor, no se preocupe por mí.
+0040 [Eleanor] | ¡Oh, qué alivio! Usted también está a salvo... Uf...
+0041 [Eleanor] | ¡Mentor, fue increíble! Yo estaba ocupada peleándome con el arma, ¡pero cuando miré atrás, ya los habías derrotado a todos!
+0042 [Tú] | En realidad, no puedo llevarme el crédito—
+0043 [Nanoha] | Ejem...
+0044 [Tú] | —o, mejor dicho, no por mi cuenta. El verdadero mérito es tuyo, Eleanor. Alejaste a los guardias de la entrada, lo que nos permitió concentrarnos en el resto.
+0045 [Tú] | ¡No habríamos ganado sin ti!
+0046 [Tú] | Dar un paso al frente en una crisis así, empuñando armas que nunca habías usado...
+0047 [Tú] | Eso requirió agallas. Y el valor es el recurso más vital que puede tener un Trekker.
+0048 [Tú] | De verdad me dejas sin palabras. Gracias, Eleanor.
+0049 [Eleanor] | Jeje... Basta, Mentor, me estás sonrojando...==W== Ah, Nanoha, déjeme ver su mano.
+0050 [Nanoha] | ¿Sucede algo...?==W== Ah.
+0051 [Eleanor] | ¡Oh, no, está sangrando! ¡Necesitamos vendarla, ahora mismo!
+0052 [Nanoha] | Es solo un rasguño. Por favor, no se preocupe. Yo me encargo.
+0053 [Eleanor] | ¡Ni hablar! ¿Y si se infecta? ¡Voy a buscar a un médico!
+0054 [Tú] | ¡Eleanor, espera! No salgas corriendo sola—
+0055 [Eleanor] | ¡Quédate con Nanoha, Mentor!
+0056 [Nanoha] | Se fue...
+0057 [Tú] | ¿No estuvo a punto de ser secuestrada hace cinco minutos? No tiene mucho instinto de supervivencia.
+0058 [Nanoha] | La señorita Eleanor pone a los demás muy por encima de sí misma.
+0059 [Tú] | Sí. Tiene buen corazón.
+0060 [Nanoha] | También debo agradecerle su ayuda en la batalla.
+0061 [Nanoha] | Gracias a usted, mi evaluación de la señorita Eleanor está casi completa.
+0062 [Tú] | ¿Evaluación...?
+0063 [Tú] | ¿Quieres decir que el que ella te contratara ... no fue casualidad?
+0064 [Nanoha] | Fue una casualidad. Mis habilidades no son las del servicio doméstico y mis tarifas son altas... Quien quiere una sirvienta normal no me solicita a mí.
+0065 [Nanoha] | Pero la señorita Eleanor insistió. Eso despertó sospechas en Goodwind, así que me asignaron a evaluarla.
+0066 [Tú] | Con tus habilidades podrías haber escapado fácilmente. Te quedaste a propósito.
+0067 [Nanoha] | Perspicaz. En realidad detecté las trampas de esa casa.
+0068 [Nanoha] | Simplemente no sabía quién las había puesto. Eso era lo que investigaba en secreto...
+0069 [Nanoha] | Si hubiera previsto esto, las habría retirado antes para ahorrarle el susto a la señorita Eleanor.
+0070 [Tú] | Bueno, al menos confirmaste que Eleanor no es una amenaza para ti.
+0071 [Nanoha] | Correcto. La señorita Eleanor de verdad solo quería ayuda con sus labores. Ahora estoy segura. Es verdaderamente una joven amable e ingenua que no sabe nada del mundo criminal.
+0072 [Nanoha] | Hablando de «ingenuidad», usted no es muy distinto. Quedarse a solas con una sirvienta sospechosa, sin ninguna protección... ¿No es algo descuidado?
+0073 [Nanoha] | ¿Y si yo fuera una asesina despiadada que lleva todo este tiempo detrás de usted...? ¿Qué haría entonces?
+0074 [Tú] | Si fuera así, habrías hecho tu movimiento en medio de ese caos de hace rato.
+0075 [Tú] | Pero elegiste ayudarnos. Así que apuesto a que eres una aliada.
+0076 [Nanoha] | Je. Sin duda tiene la mente abierta.
+0077 [Nanoha] | La operación salió bien bajo su mando. Tal como se esperaba de quien dirige Boss Accord.
+0078 [Tú] | Solo hice lo que había que hacer.
+0079 [Nanoha] | Jefe, aquí tiene mi tarjeta. Por favor, acéptela.
+0080 [Nanoha] | Si alguna vez requiere mis servicios, no dude en contactarme.
+0081 [Tú] | Gracias... Pero definitivamente no puedo pagar 500 mil Dorras la hora...
+0082 [Nanoha] | Por favor, no se preocupe. Ese precio fue diseñado específicamente para la señorita Eleanor.
+0083 [Nanoha] | Sé que dije que Goodwind Homecare acepta cualquier tarea, pero en realidad examinamos a fondo cada encargo de antemano.
+0084 [Tú] | O sea que fingen estar abiertas a todo, pero en realidad escogen a conveniencia tras bambalinas.
+0085 [Tú] | Cuando no pueden rechazar una solicitud, cotizan un precio astronómico para ahuyentar al cliente sin ofenderlo... Estrategia astuta.
+0086 [Nanoha] | Toda organización hace lo mismo ante solicitudes inadecuadas o imposibles, ¿no es así?
+0087 [Tú] | Buen punto. Entonces, al darme esta tarjeta, ¿dices que estás dispuesta a aceptar mis encargos?
+0088 [Nanoha] | Correcto. Ya no hace falta ocultarle nada.==W== Además, la amabilidad debe corresponderse. Es mi código.
+0089 [Tú] | ¿Qué amabilidad?
+0090 [Nanoha] | Acabábamos de conocernos y aun así se lanzó a salvarme sin dudar, y guardó mi secreto.
+0091 [Nanoha] | No olvidaré ese favor.
+0092 [Nanoha] | Así que si alguna vez necesita algo, llámeme... Llame a Goodwind, quiero decir.
+0093 [Tú] | Gracias. La guardaré.
+0094 [Tú] | Si alguna vez estoy en un apuro, enviaré una solicitud. Cuento contigo entonces, Nanoha.
+0095 [Nanoha] | Bien, mi trabajo aquí está hecho, así que me retiro. Por favor, despídame de la señorita Eleanor.
+0096 [Nanoha] | Ah, cierto. ¿Podría pasarle también un mensaje de mi parte? Quizá le sirva.
+0097 [Eleanor] | ¡Men—tor! ¡Perdón por la espera! ¡El médico ya casi llega!
+0098 [Eleanor] | ¿Eh? ¿A dónde se fue Nanoha?
+0099 [Tú] | Dijo que está bien. No quiso ser una carga, así que se adelantó.
+0100 [Eleanor] | ¿De verdad está bien?
+0101 [Tú] | Sí. Hasta yo pude ver que es solo un rasguño. Sanará en nada.
+0102 [Eleanor] | Está bien... Si tú lo dices, Mentor. No me preocuparé.
+0103 [Eleanor] | Suspiro.
+0104 [Tú] | ¿Qué pasa? Te ves destrozada.
+0105 [Eleanor] | Mi familia se enteró del secuestro...
+0106 [Tú] | ¿Ya? ¿Cómo se enteraron tan rápido?
+0107 [Eleanor] | Me han tenido con la rienda corta desde que me secuestraron de niña...==W== La verdad es que esta vez tuve que escaparme a escondidas.
+0108 [Eleanor] | Ya habían avisado a la Guardia Imperial. En cuanto fui a presentar un reporte, me atraparon...
+0109 [Eleanor] | Me esforcé tanto para por fin convertirme en Trekker... ¿Todo va a terminar así?
+0110 [Tú] | ¿Crees que tendrías una oportunidad si dejaras de huir y realmente hablaras con ellos?
+0111 [Eleanor] | Lo dudo... Tendré suerte si me dejan salir de la casa, mucho menos tener mi propio lugar.
+0112 [Eleanor] | Pensé que si lograba demostrar que era una Trekker capaz que podía arreglárselas sola, podría convencerlos...
+0113 [Eleanor] | Pero ahora... Esa meta se siente a un millón de kilómetros.
+0114 [Tú] | ¿Eso es todo, de verdad?
+0115 [Tú] | Nanoha en realidad me pidió que te pasara un mensaje.
+0116 [Nanoha] | Mi maestra una vez me mostró una técnica deslumbrante. Cambiaba de arma constantemente, con ataques flexibles e impredecibles.
+0117 [Nanoha] | La señorita Eleanor no tiene por qué limitarse a una sola arma. Podría probar a mezclar distintos estilos de combate para desconcertar a sus oponentes.
+0118 [Nanoha] | Los medios económicos para reunir semejante arsenal son, después de todo, una de sus mayores fortalezas. ¿No está de acuerdo?
+0119 [Tú] | Nanoha mencionó que había visto un estilo de combate de un poderoso Trekker que te quedaría perfecto. Al principio tuve mis dudas.
+0120 [Tú] | Pero ahora no me queda duda: Eleanor, tienes talento para esto.
+0121 [Tú] | Así que no te des por vencida todavía. Un Trekker se define por su libertad y por su potencial ilimitado.
+0122 [Eleanor] | Se define por ... su libertad...
+0123 [Tú] | La libertad es un estado mental, Eleanor. No se define por dónde estás. Piénsalo...==W== Ya que no puedes salir de casa, ¿por qué no perfeccionar tus habilidades en casa?
+0124 [Tú] | Estudia Artefactos, redacta tácticas y aprende el oficio de pies a cabeza. Muéstrale a tu familia cuánto has crecido. Demuéstrales que estás lista para valerte por ti misma en este mundo.
+0125 [Eleanor] | Mentor...
+0126 [Eleanor] | Sniff... Yo… Mentor, yo... ¡de verdad no quiero rendirme!
+0127 [Tú] | Entonces no lo hagas. La junior que conozco es una fuerza de la naturaleza, ¿no es cierto?
+0128 [Tú] | Sé tú misma. Mantén la vista en el premio y corre hacia él: a toda velocidad.
+0129 [Eleanor] | ¡S-sí! ¡Lo haré!
+0130 [Tú] | Muy bien. Ya que lo decidiste, te dejo una pequeña tarea.
+0131 [Tú] | Empezaremos con protocolos de seguridad de armas...==W== Mejor olvídalo. Para ti, la primera lección debe ser «Economía para gente común 101»...
+0132 [Eleanor] | Jaja... Suena complicado... ¡Pero daré lo mejor de mí!
+0133 [Eleanor] | ¡Por mi libertad ... y para que algún día pueda volver a verte, Mentor!
+0134 [Narración] | Y así, entre risas y bromas ligeras, nuestra lección improvisada llega a su fin.
+0135 [Eleanor] | ¡Esto no es un adiós para siempre! ¡No me rendiré tan fácil!
+0136 [Eleanor] | ¡Voy a convertirme en una Trekker increíble y, cuando lo logre, volveré por ti! ¡Espera nomás, Mentor!

@@ -1,0 +1,406 @@
+# Heartlink de Teresa: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Teresa] | ¡Jefe!
+A01.0002 [Teresa] | ¡Jefe!
+A01.0003 [Teresa] | ¡Por fin logré agregarte!
+A01.0004 [Opción] | Hola, espero que trabajemos bien juntos
+A01.0005 [Opción] | No digas eso
+A01.0006 [Tú] | Hola, espero que trabajemos bien juntos~
+A01.0007 [Teresa] | ¡Entendido!
+A01.0008 [Teresa] | ¡Y espero tu guía!
+A01.0009 [Tú] | No digas eso, suena como si no fuera accesible...
+A01.0010 [Teresa] | ¡No no no!
+A01.0011 [Teresa] | ¡Eres el tercer contacto que agrego en este celular!
+A01.0012 [Tú] | ¿Los dos primeros son Donna y Freesia...?
+A01.0013 [Teresa] | ¡¿Cómo lo supiste?!
+A01.0014 [Tú] | Jaja...
+A01.0015 [Teresa] | ¡Oh, me salió otra entrega de correo!
+A01.0016 [Teresa] | ¡Nos vemos luego, Jefe!
+
+## Conversación A02
+A02.0001 [Teresa] | Jefe
+A02.0002 [Teresa] | Estoy preparando sopa de hongos, ¿te interesa?
+A02.0003 [Opción] | No sabía que sabías cocinar
+A02.0004 [Opción] | ¿Son venenosos esos hongos?
+A02.0005 [Teresa] | ¡Soy una Trekker de verdad, después de todo!
+A02.0006 [Teresa] | Quizá no tenga las habilidades culinarias de mi mamá
+A02.0007 [Teresa] | ¡Pero hago una sopa de hongos muy rica!
+A02.0008 [Tú] | Ahora te veo con otros ojos
+A02.0009 [Tú] | Solo para confirmar por segunda vez
+A02.0010 [Tú] | Los hongos no son venenosos, ¿verdad?
+A02.0011 [Teresa] | ¡Sé distinguir los hongos comestibles de los venenosos!
+A02.0012 [Teresa] | Si... ¡Si no me crees...
+A02.0013 [Teresa] | ¡te lo demostraré!
+A02.0014 [Tú] | ¿Por qué estás tan nerviosa? ¿No dijiste que sabías distinguirlos?
+A02.0015 [Tú] | Pero en serio
+A02.0016 [Tú] | ¿No tienes que vigilarla?
+A02.0017 [Teresa] | ¿A qué?
+A02.0018 [Tú] | A tu olla
+A02.0019 [Teresa] | ¡¡¡AY NO!!!
+
+## Conversación A03
+A03.0001 [Teresa] | ¡Acabo de ver un Artefacto idéntico al mío en el puesto de un vendedor ambulante!
+A03.0002 [Tú] | ¿Piensas comprarte unos goggles nuevos?
+A03.0003 [Teresa] | ¡Es un teclado!
+A03.0004 [Tú] | Teclado... ¿Te refieres al Artefacto que siempre llevas contigo?
+A03.0005 [Teresa] | ¡Sí! ¡Se siente muy bien al tacto!
+A03.0006 [Tú] | Al tacto... ¿Qué sueles hacer con él?
+A03.0007 [Teresa] | ¿Hacer con él...? Lo uso para relajarme, claro
+A03.0008 [Teresa] | Cuando estoy cansada, me acuesto sobre él... ¡Me ayuda a descansar!
+A03.0009 [Tú] | ¿Lo usas para masajes de espalda?
+A03.0010 [Teresa] | Sí, hace maravillas
+A03.0011 [Tú] | Mmm...
+A03.0012 [Tú] | Supongo que es una forma de usarlo
+A03.0013 [Teresa] | ¿Eh? Jefe, ¿lo usé mal?
+
+## Conversación A04
+A04.0001 [Teresa] | No tengo nada que hacer...
+A04.0002 [Teresa] | Ya terminé mis entregas de cartas del día
+A04.0003 [Teresa] | Donna y Freesia salieron y me dejaron cuidando la casa sola
+A04.0004 [Opción] | Tienes un rato a solas
+A04.0005 [Opción] | Ya sé lo que va a pasar
+A04.0006 [Tú] | Bien. Tienes un rato a solas
+A04.0007 [Tú] | Puedes hacer lo que quieras
+A04.0008 [Tú] | Dos ladrones intentarán entrar a tu casa
+A04.0009 [Tú] | Y tendrás que usar objetos domésticos de forma creativa para ahuyentarlos
+A04.0010 [Teresa] | Pues conozco esa trama de esa película del Monolito
+A04.0011 [Teresa] | No puedes asustarme
+A04.0012 [Tú] | Qué se le va a hacer~
+A04.0013 [Teresa] | Ugh... No hay nada que hacer...
+A04.0014 [Tú] | ¿Estás a punto de quedarte dormida?
+A04.0015 [Teresa] | Sí...
+A04.0016 [Tú] | ¿Estás acostada?
+A04.0017 [Teresa] | Sí
+A04.0018 [Tú] | Procura no dejar caer el celular en la cara
+A04.0019 [Teresa] | Se me cayó en la nariz...
+A04.0020 [Teresa] | Estoy sangrando...
+A04.0021 [Teresa] | Curita... Mi curita...
+A04.0022 [Tú] | Bueno, al menos eso me mantendrá entretenido un buen rato...
+
+## Conversación A05
+A05.0001 [Teresa] | Buaaa... Lo hice tan mal que me echaron
+A05.0002 [Opción] | Todos tienen que empezar por algún lado
+A05.0003 [Opción] | Así que eres consciente del problema
+A05.0004 [Opción] | ¡Teresa nunca admite la derrota!
+A05.0005 [Tú] | No te lo tomes a pecho
+A05.0006 [Teresa] | Fue tan vergonzoso, menos mal que no traje a Donna y a los demás.
+A05.0007 [Teresa] | Sniff...
+A05.0008 [Teresa] | ¡Qué injusto!
+A05.0009 [Tú] | Todavía no me has dicho qué pasó en realidad
+A05.0010 [Teresa] | Ah, cierto... Perdón, se me olvidó...
+A05.0011 [Teresa] | Llevé un montón de cosas nuevas para vender en el mercado de segunda mano
+A05.0012 [Teresa] | Pero la gente dijo que eran para el bote de basura
+A05.0013 [Teresa] | La verdad es que simplemente estaban abandonadas
+A05.0014 [Teresa] | Ninguna estaba realmente rota...
+A05.0015 [Teresa] | No... no pude hacerles entender mi punto, así que por ahora regresé...
+A05.0016 [Tú] | Las cosas de segunda mano tienen que verse bien
+A05.0017 [Tú] | Límpialas primero, y quizá así consigas mejores precios
+A05.0018 [Teresa] | Vale...
+A05.0019 [Tú] | Anímate
+A05.0020 [Tú] | Si no fuera por ti, quizá se pudrirían en algún lugar
+A05.0021 [Teresa] | ¡Sí!
+A05.0022 [Teresa] | ¡Gracias por platicar conmigo, Jefe!
+
+## Conversación A06
+A06.0001 [Teresa] | Jefe, ¿juegas videojuegos?
+A06.0002 [Opción] | Cuando tengo tiempo
+A06.0003 [Opción] | No se me dan bien
+A06.0004 [Opción] | Soy un dios de los videojuegos
+A06.0005 [Tú] | Cuando tengo tiempo, juego un poco
+A06.0006 [Teresa] | Yo también
+A06.0007 [Teresa] | Una vez compré una consola portátil de segunda mano con gráficos solo en escala de grises
+A06.0008 [Teresa] | Pero me preocupaba volverme adicta y que afectara mi trabajo
+A06.0009 [Teresa] | Así que le pedí a Donna que me la guardara bajo llave
+A06.0010 [Tú] | No se me dan bien; los videojuegos son un misterio total para mí
+A06.0011 [Teresa] | No puedo creer que haya algo que no se te dé bien
+A06.0012 [Teresa] | Jeje, de algún modo es un pensamiento reconfortante
+A06.0013 [Teresa] | ¡Justo lo que pensaba!
+A06.0014 [Teresa] | Bueno, volviendo a mi punto original...
+A06.0015 [Teresa] | Hace un tiempo entregué una carta a un Trekker
+A06.0016 [Teresa] | Me dio un cartucho de juego que había encontrado dentro de un Monolito
+A06.0017 [Teresa] | Es un juego donde los jugadores buscan recursos en un mundo postapocalíptico
+A06.0018 [Teresa] | Parece muy divertido. ¿Quieres jugarlo conmigo?
+A06.0019 [Opción] | Claro, podemos turnarnos y cambiar cuando uno muera
+A06.0020 [Opción] | ¡Verás cómo me paso el juego de un tirón!
+A06.0021 [Tú] | ¡Claro, verás cómo me paso el juego de un tirón!
+A06.0022 [Teresa] | ¡Sí!
+A06.0023 [Teresa] | Hoy no hay nadie más en Post Haste. ¡Te espero aquí!
+
+## Conversación A07
+A07.0001 [Teresa] | ¿Jefe?
+A07.0002 [Teresa] | ¿Necesitas una curita?
+A07.0003 [Tú] | Agradezco el gesto, pero no me he lastimado
+A07.0004 [Teresa] | Siempre es bueno estar preparada
+A07.0005 [Teresa] | ¿O tienes tu propia forma especial de curarte?
+A07.0006 [Opción] | Mi cuerpo se cura solo: el cuerpo humano es asombroso, ¿no?
+A07.0007 [Opción] | El seguro médico, el salvavidas definitivo
+A07.0008 [Opción] | Soy el Jefe, jeje
+A07.0009 [Tú] | ¿Eh? Mi cuerpo siempre se cura solo pase lo que pase
+A07.0010 [Tú] | El cuerpo humano es asombroso, ¿no?
+A07.0011 [Teresa] | Yo... yo también puedo curarme sola
+A07.0012 [Teresa] | Es que el proceso es difícil, nada más...
+A07.0013 [Tú] | Te recomiendo una póliza de seguro médico personal de Finanzas del Mar Profundo
+A07.0014 [Tú] | Cubre todas las enfermedades leves y las recetas
+A07.0015 [Teresa] | No esperaba que hubiera un servicio así
+A07.0016 [Teresa] | Pero con solo pensar en algo relacionado con contratos mágicos me da dolor de cabeza
+A07.0017 [Teresa] | Así que de verdad no quiero investigarlo...
+A07.0018 [Tú] | ¡Soy el Jefe, pequeña!
+A07.0019 [Tú] | ¡Invencible ante todos los venenos, inmune a todo daño!
+A07.0020 [Teresa] | ¡Eso suena a una línea de algún juego!
+A07.0021 [Tú] | ¿Cuándo me has visto lastimarme?
+A07.0022 [Teresa] | Vaya... Supongo que tienes razón...
+A07.0023 [Teresa] | Qué envidia... Ojalá yo tuviera ese tipo de cuerpo
+A07.0024 [Teresa] | Así no tendría que preocuparme por lastimarme al proteger a otros
+A07.0025 [Tú] | Por eso debes tener cuidado al pelear
+A07.0026 [Tú] | Aunque tengas curitas, debes intentar evitar salir herida en lo posible
+A07.0027 [Teresa] | Bueno...
+A07.0028 [Teresa] | Vale...
+
+## Conversación A08
+A08.0001 [Tú] | Teresa, feliz cumpleaños~
+A08.0002 [Teresa] | Gracias, Jefe
+A08.0003 [Teresa] | Estaba entregando cartas
+A08.0004 [Tú] | ¿Incluso en tu cumpleaños?
+A08.0005 [Teresa] | ¡Las tareas de entrega no tienen nada que ver con qué día sea hoy~
+A08.0006 [Tú] | ¡Pero encontré un lugar genial para lanzar fuegos artificiales!
+A08.0007 [Teresa] | Jefe, ¿podrías recomendarme algunos fuegos artificiales de pequeña escala?
+A08.0008 [Opción] | Bengalas
+A08.0009 [Opción] | Fuentes de fuegos artificiales
+A08.0010 [Opción] | Fuegos artificiales de trompo
+A08.0011 [Tú] | ¿Qué tal unas bengalas?
+A08.0012 [Teresa] | Buena idea
+A08.0013 [Teresa] | Son pequeñas, pero muy brillantes
+A08.0014 [Teresa] | ¿Pero puedo sostener dos a la vez?
+A08.0015 [Tú] | Claro, es tu cumpleaños, después de todo
+A08.0016 [Tú] | ¿Qué tal fuegos artificiales de fuente?
+A08.0017 [Teresa] | ¡Ohohoh!
+A08.0018 [Teresa] | ¡Siempre he querido probarlos!
+A08.0019 [Tú] | Es hora de hacer realidad tu sueño
+A08.0020 [Tú] | ¿Qué tal fuegos artificiales de trompo?
+A08.0021 [Teresa] | ¿Qué son? ¡Suenan geniales!
+A08.0022 [Tú] | Echan chispas y luego salen disparados al cielo girando
+A08.0023 [Teresa] | ¡Definitivamente quiero probarlos!
+A08.0024 [Tú] | Los llevo ahora mismo
+A08.0025 [Teresa] | ¡Estoy feliz!
+A08.0026 [Teresa] | ¡¡¡Superfeliz!!!
+A08.0027 [Tú] | ¿Tan emocionada estás?
+A08.0028 [Teresa] | ¡Porque voy a pasar mi cumpleaños contigo, Jefe!
+A08.0029 [Teresa] | ¡Lo que lo convierte en un día muy especial!
+A08.0030 [Teresa] | ¡Te espero aquí mismo!
+
+## Conversación A09
+A09.0001 [Tú] | Quiero preguntarte algo
+A09.0002 [Teresa] | Dispara
+A09.0003 [Tú] | ¿Cómo diablos manejas esa espada gigante?
+A09.0004 [Teresa] | Oh... No te lo he contado, ¿verdad?
+A09.0005 [Teresa] | Encontré esta espada dentro de unas ruinas del bosque
+A09.0006 [Teresa] | No sé por qué, pero se vinculó conmigo
+A09.0007 [Teresa] | Sin darme cuenta, ya podía levantar esta espada
+A09.0008 [Opción] | Sin foto no hay prueba
+A09.0009 [Opción] | ¿Y qué precio pagaste entonces?
+A09.0010 [Teresa] | ¡Ojalá hubiera podido tomar una foto!
+A09.0011 [Teresa] | Pero mi celular me lo dio mi papá
+A09.0012 [Teresa] | Es tan viejo que ni tiene cámara
+A09.0013 [Tú] | ¿En serio~?
+A09.0014 [Teresa] | ¡En serio!
+A09.0015 [Teresa] | Eh... ¿A qué te refieres?
+A09.0016 [Tú] | Este tipo de tropo se ve todo el tiempo en novelas y mangas recuperados del Monolito
+A09.0017 [Tú] | Los poderes asombrosos siempre vienen con un precio
+A09.0018 [Teresa] | ¡Nooo! ¡Soy muy joven! ¡Y aún tengo montones de entregas por hacer!
+A09.0019 [Teresa] | ¡Al menos espera a que termine de entregarlas!
+A09.0020 [Tú] | Por eso esas cosas solo pasan en las historias inventadas
+A09.0021 [Tú] | Sigues vivita y coleando, así que seguro estás bien
+
+## Conversación A10
+A10.0001 [Teresa] | Jefe
+A10.0002 [Teresa] | ¿Eso fue el Disco Rúnico?
+A10.0003 [Tú] | Sí, ¿te recordó algo?
+A10.0004 [Teresa] | Sí.
+A10.0005 [Teresa] | Si cierro los ojos, siento que puedo ver los rostros de mis padres
+A10.0006 [Teresa] | Más claros que en cualquier sueño
+A10.0007 [Opción] | ¿Los extrañas?
+A10.0008 [Opción] | ¿Qué tal ir a visitarlos cuando tengas tiempo?
+A10.0009 [Teresa] | Un poquito, sí
+A10.0010 [Teresa] | Pero primero quiero perfeccionar un poco más mis habilidades
+A10.0011 [Teresa] | ¡Para mostrarle a mi papá cuánto he crecido cuando regrese!
+A10.0012 [Teresa] | Quiero ir, pero no puedo dejar a Donna y a Freesia lidiando con todo en Post Haste.
+A10.0013 [Teresa] | Pero quizá pueda encontrar un momento en que todas estemos libres.
+A10.0014 [Teresa] | ¡Entonces podemos tomar unas vacaciones allá!
+A10.0015 [Tú] | De vez en cuando, mándales una carta para que sepan que estás bien
+A10.0016 [Teresa] | Tienes razón, Jefe
+A10.0017 [Teresa] | Pero...
+A10.0018 [Teresa] | ¿Quién entregaría una carta así...?
+A10.0019 [Tú] | ...
+A10.0020 [Teresa] | ...
+A10.0021 [Teresa] | ¡Mejor voy a ver si puedo cambiar mi turno!
+
+## Conversación B01
+B01.0001 [Teresa] | Cocinar... es bastante difícil, en realidad...
+B01.0002 [Tú] | ¿A qué viene el interés repentino?
+B01.0003 [Teresa] | Pues Donna y Freesia vuelven tarde hoy
+B01.0004 [Teresa] | Así que me he quedado aquí sentada con hambre
+B01.0005 [Teresa] | Y empecé a pensar que quizá debería aprender a cocinar o algo...
+B01.0006 [Tú] | Sí, al menos podrías arreglártelas en emergencias
+B01.0007 [Tú] | Antes de conocer a esas dos, Teresa, ¿cómo resolvías las tres comidas del día?
+B01.0008 [Teresa] | Déjame pensar...
+B01.0009 [Teresa] | Cuando aún vivía en casa, mi mamá me preparaba la comida
+B01.0010 [Teresa] | Cuando me independicé, simplemente recogía fruta silvestre del bosque y esas cosas
+B01.0011 [Tú] | ¡Vivías como una salvaje total!
+B01.0012 [Tú] | ¿Nunca comiste algo que no debías?
+B01.0013 [Teresa] | ¡Nop! Aprendí a identificar plantas silvestres desde muy temprano~
+B01.0014 [Teresa] | A veces hasta podía venderlas por unas cuantas Dorra~
+B01.0015 [Tú] | Supongo que la vida siempre se abre camino
+
+## Conversación B02
+B02.0001 [Teresa] | Mmm...
+B02.0002 [Teresa] | ¿Por qué será que, aun esforzándome tanto por tener cuidado, termino causando todo tipo de problemas?
+B02.0003 [Tú] | Escuché un dicho:
+B02.0004 [Tú] | «Cuanto más te preocupa que algo pase, más probable es que pase».
+B02.0005 [Teresa] | ¡¿Funciona así?!
+B02.0006 [Tú] | Ser demasiado cuidadosa solo te impide concentrarte
+B02.0007 [Teresa] | Con razón arruino lo que más me importa
+B02.0008 [Teresa] | ¿Pero cómo se supone que evite que pasen cosas malas?
+B02.0009 [Tú] | Somos simples mortales. No podemos predecir cada cosa mala
+B02.0010 [Tú] | Pero tenemos experiencia. Así nos protegemos de los riesgos
+B02.0011 [Tú] | Eres bastante hábil con las trampas cuando buscas tesoros, ¿no, Teresa?
+B02.0012 [Teresa] | ¿Yo...?
+B02.0013 [Teresa] | Siento que arruino las cosas todo el tiempo...
+B02.0014 [Tú] | Es porque siempre te metes en situaciones peligrosas. La mayoría de la gente no es tan capaz como tú
+B02.0015 [Tú] | ¿Y no eres más ágil ahora que antes?
+B02.0016 [Teresa] | ¿En serio...?
+B02.0017 [Teresa] | Jeje, creo que ya empiezo a entenderlo, Jefe
+
+## Conversación B03
+B03.0001 [Teresa] | Hoy fui a buscar tesoros y lo único que encontré fue un botón
+B03.0002 [Teresa] | Era rojo, de la mitad del tamaño de mi palma
+B03.0003 [Teresa] | Y está cubierto con una tapa transparente
+B03.0004 [Opción] | Un adorno a lo sumo
+B03.0005 [Opción] | ¿Se puede vender algo así?
+B03.0006 [Opción] | Mejor no tocarlo
+B03.0007 [Tú] | Parece bastante inútil
+B03.0008 [Tú] | Siento que es un adorno a lo sumo
+B03.0009 [Teresa] | Sí, eso mismo pensé yo
+B03.0010 [Teresa] | Si pudiera desarmarlo, quizá podría convertirlo en un timbre
+B03.0011 [Tú] | Quizá a la Organización Nueva Gracia le interese
+B03.0012 [Teresa] | ¿Un botón como este?
+B03.0013 [Tú] | Creo que a esos maniáticos de la tecnología les encantaría
+B03.0014 [Tú] | Suena sospechoso. Mejor déjalo en paz
+B03.0015 [Teresa] | ¿Qué crees que es, Jefe?
+B03.0016 [Tú] | Podría ser el disparador de algún mecanismo
+B03.0017 [Teresa] | Pero no vi ningún mecanismo cerca...
+B03.0018 [Teresa] | Eh...
+B03.0019 [Teresa] | Abrí la tapa para verlo mejor y lo presioné sin querer...
+B03.0020 [Tú] | ¡¿Cómo se presiona «sin querer»?!
+B03.0021 [Tú] | ¿Y qué pasó?
+B03.0022 [Teresa] | ¡Es un dispositivo de sonido!
+B03.0023 [Teresa] | Lo único que hace es decir: «Tengo hambre».
+B03.0024 [Teresa] | Solo repite: «Tengo hambre, tengo hambre».
+B03.0025 [Teresa] | ¡Es medio divertido!
+B03.0026 [Tú] | Esta cosa...
+B03.0027 [Tú] | ¿Será un juguete para mascotas?
+
+## Conversación B04
+B04.0001 [Teresa] | Tengo una pregunta para ti, Jefe, si no te molesta
+B04.0002 [Tú] | ¿Sí?
+B04.0003 [Teresa] | Una amiga mía quiere hacerle un regalo a otra amiga suya
+B04.0004 [Teresa] | Pero esa otra amiga está rodeada de mucha gente genial
+B04.0005 [Teresa] | Así que recibe todo tipo de regalos geniales
+B04.0006 [Teresa] | Mi amiga está preocupada...
+B04.0007 [Tú] | Le preocupa que su regalo sea demasiado ordinario, quizá hasta hecho a mano
+B04.0008 [Tú] | Teme que no sea lo bastante bueno para su amiga, ¿verdad?
+B04.0009 [Teresa] | ¡¿Cómo lo supiste?!
+B04.0010 [Opción] | Lo sé todo
+B04.0011 [Opción] | Esa «amiga» tuya...
+B04.0012 [Tú] | Sé lo que vas a escribir en cuanto empiezas a escribir
+B04.0013 [Teresa] | ¿En serio? Entonces no escribiré nada
+B04.0014 [Tú] | No te pases~
+B04.0015 [Teresa] | ¡Waaah!
+B04.0016 [Teresa] | ¡Bueno, bromas aparte!
+B04.0017 [Tú] | Esa «amiga» tuya no será por casualidad...
+B04.0018 [Teresa] | ¡De verdad es una amiga, lo juro!
+B04.0019 [Tú] | ¿Pero no dijiste que los únicos contactos en tu celular son Donna, Freesia y yo?
+B04.0020 [Teresa] | ¡Y-yo también hago amigos en la vida real!
+B04.0021 [Tú] | Vale, vale~
+B04.0022 [Tú] | En fin, quizá suene raro, pero...
+B04.0023 [Tú] | No creo que esa persona que le gusta a tu amiga desprecie un regalo hecho de corazón
+B04.0024 [Teresa] | ¡¿En serio?!
+B04.0025 [Tú] | Sí, en cosas así es mejor ser directa
+B04.0026 [Teresa] | ¡Vale! ¡Lo haré!
+B04.0027 [Teresa] | Eh, ¡quiero decir, le diré a mi amiga que lo haga!
+B04.0028 [Teresa] | ¡Gracias, Jefe!
+
+## Conversación B05
+B05.0001 [Teresa] | Hoy recibí un paquete de casa
+B05.0002 [Tú] | ¿Ah, sí?
+B05.0003 [Tú] | ¿Qué trae?
+B05.0004 [Teresa] | Lo mandó mi papá. Un libro que escribió cuando era joven
+B05.0005 [Teresa] | Lo curioso es que encontré una ilustración metida dentro
+B05.0006 [Teresa] | Es un dibujo que hice de niña. Debió de quedarse atorado en su libro en aquel entonces
+B05.0007 [Teresa] | Jejeje. Es un dibujo de «lo que quiero ser de grande».
+B05.0008 [Tú] | Je. Ahora sí me da curiosidad
+B05.0009 [Teresa] | Jeje~ ¿Quieres adivinar qué dibujé, Jefe?
+B05.0010 [Opción] | Una Trekker legendaria
+B05.0011 [Opción] | Una gran mensajera
+B05.0012 [Opción] | Una dueña de la casa de sus sueños
+B05.0013 [Tú] | ¿Querías ser una Trekker legendaria, igual que tu papá?
+B05.0014 [Teresa] | ¡De pequeña sí pensaba que mi papá era lo más genial!
+B05.0015 [Teresa] | ¡Pero mis ambiciones no terminaban ahí~
+B05.0016 [Tú] | ¿Querías ser una gran mensajera?
+B05.0017 [Teresa] | Sería conmovedor mirar atrás y darse cuenta de que ya cumpliste tu sueño de la infancia
+B05.0018 [Teresa] | Pero lo siento, bip bip~
+B05.0019 [Teresa] | Adivinanza fallida. Ni siquiera sabía qué era un mensajero en aquel entonces~
+B05.0020 [Tú] | «¡Hola, casa de mis sueños, abre la puerta!»
+B05.0021 [Tú] | «Podemos lograr cualquier cosa, ¿no...»
+B05.0022 [Teresa] | ¡Espera un momento!
+B05.0023 [Teresa] | ¡Eso es solo un anuncio del Monolito!
+B05.0024 [Teresa] | ¿Lista para la respuesta?
+B05.0025 [Teresa] | ¡En realidad quería ser una «heroína»!
+B05.0026 [Tú] | Hmph. Sabía que venías por mí, después de todo
+B05.0027 [Teresa] | ¡¡¡EEESPERA...!!!
+B05.0028 [Teresa] | ¡No esa clase de héroe!
+B05.0029 [Teresa] | La heroína de los libros ilustrados de cuentos de hadas
+B05.0030 [Teresa] | Mi mamá hasta me hizo un traje de heroína basado en el del libro
+B05.0031 [Tú] | Tus padres suenan muy comprensivos~
+B05.0032 [Teresa] | ¡Uno de estos días te llevaré a casa conmigo!
+B05.0033 [Teresa] | ¡Siempre he querido presentarte a mi mamá y a mi papá~
+B05.0034 [Tú] | ¡Genial, no puedo esperar!
+
+## Conversación B06
+B06.0001 [Teresa] | Jefe~ Jefe~
+B06.0002 [Teresa] | Compré una grabación de un Stella Drama de aventuras
+B06.0003 [Teresa] | ¿Quieres verlo juntos?
+B06.0004 [Tú] | Claro. Voy para allá
+B06.0005 [Teresa] | ¡Espera!
+B06.0006 [Tú] | ¿Qué pasa?
+B06.0007 [Teresa] | Es una grabación antigua, así que necesita un modelo específico de Artefacto proyector para reproducirla
+B06.0008 [Tú] | Ah... Sí, qué lástima
+B06.0009 [Tú] | Entonces quizá podríamos...
+B06.0010 [Teresa] | ¡¡Aah!!
+B06.0011 [Teresa] | ¡Espera! ¡Espera!
+B06.0012 [Teresa] | ¡Déjame revisar el almacén para ver si tengo ese modelo!
+B06.0013 [Sistema] | Teresa se ha desconectado
+B06.0014 [Sistema] | Teresa se ha conectado
+B06.0015 [Teresa] | ¡Encontré uno! ¡Encontré uno!
+B06.0016 [Tú] | Nunca dejas de sorprenderme
+B06.0017 [Tú] | Vale, voy para allá...
+B06.0018 [Teresa] | ¡¡Aah!!
+B06.0019 [Tú] | ¿Y ahora qué?
+B06.0020 [Teresa] | Este proyector... está bastante averiado
+B06.0021 [Teresa] | No sé si pueda repararlo
+B06.0022 [Teresa] | ¡Al menos hay que intentarlo! ¡Dame un minuto, Jefe!
+B06.0023 [Sistema] | Teresa se ha desconectado
+B06.0024 [Sistema] | Teresa se ha conectado
+B06.0025 [Teresa] | Después de todo mi esfuerzo...
+B06.0026 [Teresa] | Oficialmente no tiene reparación...
+B06.0027 [Tú] | Teresa...
+B06.0028 [Teresa] | ¿Mm?
+B06.0029 [Tú] | Hay unos callejones de Puerto Bellin que aún no he explorado
+B06.0030 [Tú] | ¿Te importaría llevarme a recorrerlos?
+B06.0031 [Teresa] | ¡
+B06.0032 [Teresa] | ¡Espera! ¡Voy para allá~
+B06.0033 [Teresa] | ¡Prometo que esta vez seré rápida!
+B06.0034 [Tú] | Buen viaje~

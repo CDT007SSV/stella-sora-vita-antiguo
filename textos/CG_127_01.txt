@@ -1,0 +1,86 @@
+# Historia de Teresa · 1 · The Clever Courier Never Gets Hurt (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_127 | Teresa
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La mensajera astuta nunca se lastima (Parte I)
+0003 [Intro] | Dicen: «Si siempre andas junto al río, tarde o temprano se te mojan los zapatos»... pero esto es un poco demasiado, ¿no?
+0004 [Tú] | Uf, aquí es.
+0005 [Narración] | Muy temprano por la mañana, llego al bosque a las afueras de Puerto Bellin para recolectar las hierbas que necesita el cliente.
+0006 [Tú] | Suspiro... Ojalá la encuentre pronto.
+0007 [Tú] | El pago por recolectar hierbas no es bueno, pero para un Trekker como yo que no puede usar magia, este tipo de trabajo es lo único que realmente puedo aceptar.
+0008 [Tú] | ¿Eh? ¿Qué es esto?
+0009 [Narración] | No muy lejos más adelante, ves extraños patrones tallados en el tronco de un gran árbol. Te acercas para verlos mejor...
+0010 [Tú] | ¿Serán marcas de garras dejadas por algún animal...? No, no es eso. Parecen más bien señales hechas por humanos.
+0011 [Tú] | Estas tallas... ==B==¿Son espinas de pescado?
+0012 [Tú] | Espinas... ¿Será una advertencia de algún peligro...?
+0013 [Tú] | Supongo que probaré a seguir la dirección a la que apunta la cabeza del pescado. Ese parche de pasto de allá adelante se ve sospechoso.
+0014 [Opción] | Lanzar una piedra
+0015 [Tú] | ¡Guau! ¡Una trampa de lazo que levanta a alguien del suelo! Por poco.
+0016 [Tú] | De no ser por esa señal, habría caído de lleno.
+0017 [Tú] | Quien hizo esa marca de verdad me hizo un favor.
+0018 [???] | ¡Ayuda!
+0019 [???] | ¡Alguien! ¡Ayuda!
+0020 [Tú] | Ay no, alguien más cayó en la trampa.
+0021 [???] | Cof, cof... Me duele muchísimo la garganta... ==B==Y todavía no aparece nadie.
+0022 [???] | ¿Me quedaré atrapada aquí para siempre?
+0023 [Tú] | ¡¿Teresa?!
+0024 [Teresa] | ¡¿J-Jefe?!
+0025 [Teresa] | ¿Será que... mi vida pasa ante mis ojos...? ==B==¡No! ¡Eres real! ¿Qué haces aquí...?
+0026 [Tú] | Solo pasaba por aquí. Te saco de aquí enseguida. Lo demás lo vemos después.
+0027 [Tú] | ...Entonces, ¿cómo terminaste cayendo en una trampa como esta?
+0028 [Teresa] | Yo... sin querer pisé un agujero de Shrubshrew...
+0029 [Teresa] | M-me salvaste... ¡Gracias, Jefe～～～!
+0030 [Teresa] | Atrapada en este agujero sin que nadie viniera a ayudar... De verdad creí que me iba a morir de hambre aquí... ¡Qué alegría, miau～～～!
+0031 [Tú] | Jaja, exageras, Teresa.
+0032 [Tú] | Noté que todos los árboles de por aquí tienen marcas de espinas de pescado que indican dónde están las trampas. ¿No las viste?
+0033 [Teresa] | Ah, así que notaste esas marcas. Sí, yo las dibujé todas, jeje.
+0034 [Teresa] | Hay grupos de Shrubshrews traviesos merodeando por este bosque. Se pelean por el territorio, así que han puesto un montón de trampas.
+0035 [Teresa] | ¿Ves?
+0036 [Narración] | Teresa lanza una piedra hacia otro punto marcado con una espina de pescado. Muchas frutas podridas de los árboles caen estrepitosamente.
+0037 [Tú] | ¡Ugh...! ¡Apesta...! Si caes en esa trampa, probablemente el olor no se te quite en días...
+0038 [Tú] | ¡Qué trampa tan asquerosa...!
+0039 [Tú] | Pero si eres lo bastante lista para detectar trampas tan bien escondidas, ¿cómo terminaste cayendo en uno de sus agujeros?
+0040 [Tú] | Cualquiera que pasara notaría un agujero de este tamaño.
+0041 [Teresa] | ¡E-espera! ¡No es que haya caído por tonta ni nada! ¡Hubo una razón!
+0042 [Teresa] | Esto no es una trampa. Es un agujero.
+0043 [Tú] | Eh... ==B==O sea, tienes razón en eso.
+0044 [Teresa] | ¡Te digo la verdad! Mira estos símbolos de espina de pescado.
+0045 [Teresa] | La cabeza del pescado indica la dirección de la trampa, el número de espinas dice cuántos pasos dar y el tamaño del ojo muestra qué tan peligrosa es.
+0046 [Teresa] | ¿Ves? ¡Tengo cubierto cada detalle, no hay forma de que caiga en una trampa!
+0047 [Tú] | Claro, las marcas son muy detalladas, pero no parecen tener mucho que ver con por qué caíste en el agujero...
+0048 [Tú] | Olvídalo. En fin, ¡buen trabajo, Teresa!
+0049 [Teresa] | Suena a cumplido con doble filo. Pero lo acepto, miau♪
+0050 [Teresa] | Siempre dejo una marca cada vez para que, cuando otros entren al bosque, no caigan en las trampas.
+0051 [Teresa] | Así quizá más gente se aventure fuera de la ciudad. Y más caminantes significan más senderos.
+0052 [Tú] | Es verdad... Supongo que yo mismo me salvé gracias a las marcas de Teresa. Gracias, Teresa. De verdad me ayudaste mucho.
+0053 [Teresa] | ¡Guau...! ¡Me diste las gracias...! ¿Creo que es la primera vez que alguien lo hace...?
+0054 [Teresa] | Todos los demás dicen que no distinguen hacia dónde miran las cabezas de pescado, o cuántas espinas hay, o ni siquiera las notan...
+0055 [Teresa] | Salvo Donna y Freesia, la gente solo dice: «Los Trekkers pueden con las trampas solos, estás perdiendo el tiempo»...
+0056 [Tú] | Yo no lo veo así. Si la gente aprende a leer las marcas, su viaje sería mucho más seguro.
+0057 [Tú] | Creo que lo que haces es increíble, Teresa. En serio, ten más confianza en ti misma.
+0058 [Teresa] | Jiji, ¡gracias!♪
+0059 [Teresa] | Ahora que lo pienso, ¿qué haces aquí, Jefe?
+0060 [Teresa] | ¿Explorar el Monolito como siempre? No hay ningún Monolito por aquí, creo.
+0061 [Tú] | Vine por Ortigas Moradas. Es una hierba que crece en laderas empinadas y florece con diminutas flores moradas.
+0062 [Teresa] | Ah, sí, a los Shrubshrews les encanta comerlas. Sé dónde hay. Sígueme.
+0063 [Tú] | De verdad no hace falta. ¿Y tu ruta de reparto?
+0064 [Teresa] | ¡No hay problema! ¡Me has ayudado muchísimo. Considéralo mi forma de agradecerte!
+0065 [Teresa] | El destino de la entrega de hoy está en lo profundo de este bosque. De todos modos vamos al mismo lugar.
+0066 [Tú] | ¿Post Haste reparte a lugares remotos como este?
+0067 [Teresa] | Claro que sí. Como dice Donna: «Una carta lleva el corazón de quien la escribe. Sin importar la distancia, debemos asegurarnos de que llegue a la otra persona».
+0068 [Teresa] | ¡Así que da igual si es en lo profundo del bosque o bajo tierra, me aseguraré de que la carta llegue!
+0069 [Teresa] | ¿Y si marco las trampas del camino, eso también podría ayudar a otros, no?
+0070 [Teresa] | Si eso significa que puedo ayudar a otros, ¡un poco de trabajo extra vale totalmente la pena!
+0071 [Teresa] | Recuerdo que están en esta dirección. Voy a echar un vistazo.
+0072 [Tú] | Gracias. Cuidado con las trampas.
+0073 [Teresa] | No te preocupes, ya marqué todas las trampas. Podría esquivarlas con los ojos cerrados...==W== ¡Guau!
+0074 [Teresa] | ¡¿Por qué hay otro agujero de Shrubshrew aquí?!
+0075 [Teresa] | Por favor, sácame de este agujero, Jefe... Otra vez.
+0076 [Tú] | Mmm... ¿De verdad va a estar bien?

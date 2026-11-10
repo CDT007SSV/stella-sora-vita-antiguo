@@ -1,0 +1,246 @@
+# Heartlink de Caramel: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Caramel] | ¡Dime qué quieres escuchar y te lo toco!
+A01.0002 [Tú] | ¿Eres... Caramel?
+A01.0003 [Caramel] | ¡Oh! Qué despistada, olvidé presentarme.
+A01.0004 [Caramel] | ¡Sip, soy yo!
+
+## Conversación A02
+A02.0001 [Caramel] | ¡==PLAYER_NAME==!
+A02.0002 [Tú] | ¿Qué pasa?
+A02.0003 [Caramel] | ¿Qué tal un concierto privado?
+A02.0004 [Opción] | Ahorita no
+A02.0005 [Opción] | Claro, me encantaría
+A02.0006 [Caramel] | Aww...
+A02.0007 [Caramel] | En realidad... no tengo dinero para comer.
+A02.0008 [Caramel] | ¿Podrías prestarme un poquito? ¡Prometo tocar para ti la próxima vez!
+A02.0009 [Caramel] | ¡Genial!
+A02.0010 [Caramel] | Entoncesss... ¿podría cobrar por adelantado?
+A02.0011 [Caramel] | Buaa, no tengo dinero para comer
+A02.0012 [Tú] | Parece que estás en un buen aprieto
+A02.0013 [Tú] | ¿Y si te doy un poco de efectivo?
+A02.0014 [Caramel] | ¡Nop, tengo mis estándares como música!
+A02.0015 [Caramel] | ¡Tenemos nuestro orgullo, ¿sabes?!
+A02.0016 [Caramel] | ¡Así que! ¡Voy a tocar para ganarme la cena ahora mismo! ¿Qué dices?
+
+## Conversación A03
+A03.0001 [Caramel] | ¡Oye, ==PLAYER_NAME==! ¿Qué tipo de música te gusta?
+A03.0002 [Opción] | La popular
+A03.0003 [Opción] | La poco conocida
+A03.0004 [Caramel] | ¡Ya entiendo!
+A03.0005 [Caramel] | ¡Así es como mantienes el vínculo con las masas!
+A03.0006 [Caramel] | ¡Ingenioso!
+A03.0007 [Caramel] | ¡Ya entiendo!
+A03.0008 [Caramel] | Hay que tener un gusto único para ser el Jefe, ¿verdad?
+A03.0009 [Caramel] | ¡Ahora todo tiene sentido!
+A03.0010 [Tú] | No es tan complicado. Solo me gusta lo que me gusta
+A03.0011 [Caramel] | ¡La sabiduría de la sencillez! ¡Aún más genial!
+
+## Conversación A04
+A04.0001 [Caramel] | ¡==PLAYER_NAME==! ¡Inventé una receta nueva!
+A04.0002 [Caramel] | ¡Huevos al Bajovapor!
+A04.0003 [Caramel] | ¿Quieres probarla primero?
+A04.0004 [Opción] | Suena medio espeluznante
+A04.0005 [Opción] | Suena a desastre culinario
+A04.0006 [Caramel] | ¡Oye, solo los sazono con ritmos de bajo brutales mientras se cocinan!
+A04.0007 [Tú] | Eso es... eh...
+A04.0008 [Tú] | ¿Y si mejor te presto dinero para comprar comida de verdad?
+A04.0009 [Caramel] | ¡¿Quéee?! ¡Mi cocina musical es genial!
+
+## Conversación A05
+A05.0001 [Caramel] | ¡==PLAYER_NAME==!
+A05.0002 [Caramel] | ¡Tienes que ser mi Producer!
+A05.0003 [Opción] | Ni de broma tengo la preparación.
+A05.0004 [Opción] | ¿Qué es un Producer?
+A05.0005 [Caramel] | ¡No te menosprecies!
+A05.0006 [Caramel] | ¡Eres ==PLAYER_NAME==! ¡Puedes hacer lo que sea!
+A05.0007 [Tú] | Casi seguro que «experto en música» no estaba en la descripción del puesto del Jefe...
+A05.0008 [Caramel] | Espera, ¿en serio? Qué raro
+A05.0009 [Caramel] | Un Producer es... ya sabes... eh... la persona que...
+A05.0010 [Caramel] | ¡Mira! ¡La cosa es que escuché que cuando tienes un Producer
+A05.0011 [Caramel] | las ideas musicales geniales empiezan a fluir solas!
+A05.0012 [Tú] | Creo que entendiste mal cómo funciona eso
+A05.0013 [Caramel] | ¿Cómo te convenzo de que seas mi Producer?
+A05.0014 [Tú] | Primero déjame escucharte tocar un poco más
+A05.0015 [Caramel] | ¡Hecho! ¡Sin problema!
+A05.0016 [Caramel] | ¡Cuando y donde quieras!
+
+## Conversación A06
+A06.0001 [Caramel] | ¡Producer!
+A06.0002 [Tú] | ¿Desde cuándo soy tu Producer...?
+A06.0003 [Caramel] | Jeje, tú eres quien mejor entiende mi música. ¡Sigamos así sin más!
+A06.0004 [Opción] | Si insistes...
+A06.0005 [Opción] | Lo que te haga feliz
+A06.0006 [Caramel] | Entoncesss, la próxima vez que vayas al Monolito, ¿puedo acompañarte?
+A06.0007 [Tú] | ¿Sabes pelear?
+A06.0008 [Caramel] | Ni idea
+A06.0009 [Caramel] | ¡PERO! En cuanto empiezo a tocar mi bajo, ¡esos Stellaroids siempre salen corriendo!
+A06.0010 [Tú] | Eso en realidad es bastante útil
+A06.0011 [Caramel] | Sí, es súper práctico, pero me da un poco de bajón.
+A06.0012 [Caramel] | Ojalá fueran mi público
+A06.0013 [Tú] | Quizá algún día los conquistes
+A06.0014 [Caramel] | Sería un sueño hecho realidad
+A06.0015 [Caramel] | ¡Dame más oportunidades de tocar!
+
+## Conversación A07
+A07.0001 [Caramel] | Producer...
+A07.0002 [Tú] | ¿Qué pasa?
+A07.0003 [Caramel] | Gracias otra vez por todo
+A07.0004 [Caramel] | ¡Ahora me siento mucho más segura tocando para la gente!
+A07.0005 [Tú] | A mí siempre me pareciste bastante segura
+A07.0006 [Caramel] | ¡Pff, para nada! Solo me pierdo en el ritmo y me olvido de que alguien me mira
+A07.0007 [Caramel] | ¿Podemos ir a otro viaje de inspiración pronto?
+A07.0008 [Tú] | Claro que sí
+A07.0009 [Caramel] | ¡¿EN SERIO?! ¡SIII!
+A07.0010 [Caramel] | ¡Voy para allá ahora mismo!
+A07.0011 [Tú] | Oye, tranquila. ¿Siquiera sabes adónde vamos?
+A07.0012 [Caramel] | No exactamente
+A07.0013 [Tú] | ...
+A07.0014 [Caramel] | ¿Qué pasa, Producer?
+A07.0015 [Tú] | Quizá deberíamos hacer un plan antes de salir corriendo la próxima vez
+A07.0016 [Tú] | Tenemos todo el tiempo del mundo. Para eso están los Producers, ¿no?
+A07.0017 [Caramel] | ¡Vale! Podemos hacer
+A07.0018 [Caramel] | planes
+
+## Conversación A08
+A08.0001 [Caramel] | Contenido de cumpleaños bloqueado temporalmente
+
+## Conversación A09
+A09.0001 [Caramel] | Lo estoy sintiendo
+A09.0002 [Tú] | ¿Qué cosa?
+A09.0003 [Caramel] | ¡Mis habilidades con el bajo acaban de subir a un nivel totalmente nuevo!
+A09.0004 [Caramel] | ¡Ahora hasta esos Stellaroids se quedarán a escuchar mis riffs!
+A09.0005 [Tú] | No quiero arruinarte la ilusión, pero quizá solo huyan más rápido
+A09.0006 [Caramel] | ¿Qué? ¿Por qué harían eso?
+A09.0007 [Caramel] | ¿Mi amplificador está muy fuerte o qué?
+A09.0008 [Tú] | Quizá tu música es demasiado alucinante...
+A09.0009 [Caramel] | ¿Tú crees?
+A09.0010 [Caramel] | Deberíamos probarlo
+A09.0011 [Tú] | Esta vez puedes ir al frente
+A09.0012 [Tú] | Confío en ti
+A09.0013 [Caramel] | ¿Por qué siento que hay trampa?
+
+## Conversación A10
+A10.0001 [Caramel] | ¡Qué tema tan increíble!
+A10.0002 [Caramel] | ¡Es como si estuviera pasando una película entera en mi cabeza ahora mismo!
+A10.0003 [Caramel] | Sí... esa presentación... yo estuve ahí
+A10.0004 [Caramel] | Abajo, entre el público, completamente hipnotizada
+A10.0005 [Tú] | De verdad te gustan los conciertos en vivo
+A10.0006 [Caramel] | Hay que estudiar a los maestros para convertirse en uno
+A10.0007 [Caramel] | Todos subimos de nivel aprendiendo unos de otros
+A10.0008 [Tú] | ¿Pero quién se presentaba?
+A10.0009 [Caramel] | Todo está borroso... pero a la vez raramente familiar
+A10.0010 [Caramel] | En realidad se me están saltando las lágrimas. Hacía siglos que la música no me pegaba tan fuerte
+A10.0011 [Caramel] | ¡Pero no te preocupes! Al final lo recordaré
+A10.0012 [Caramel] | ¡Con tu ayuda, seguro resuelvo este misterio!
+
+## Conversación B01
+B01.0001 [Caramel] | Dios mío, emergencia
+B01.0002 [Caramel] | Estoy perdida
+B01.0003 [Caramel] | ¡Producer—!
+B01.0004 [Tú] | Vaya, tranquila.
+B01.0005 [Tú] | ¿Qué está pasando? ¿Por qué el pánico?
+B01.0006 [Caramel] | Mi... mi bajo...
+B01.0007 [Caramel] | ¡Midas está roto—!
+B01.0008 [Tú] | ¡¿Qué?!
+B01.0009 [Tú] | Vale, eso SÍ es un desastre.
+B01.0010 [Caramel] | Buaaa qué hago
+B01.0011 [Caramel] | ¿Busco a alguien que lo repare?
+B01.0012 [Caramel] | Pero estoy en la ruina ... tan en la ruina que no puedo pagar ni el almuerzo...
+B01.0013 [Tú] | Todavía no entres en pánico. Solo respira.
+B01.0014 [Tú] | Lo arreglaremos, o compraremos uno nuevo. Hasta podemos pedirlo como deseo en el Monolito...
+B01.0015 [Tú] | Haré lo que sea para ayudar.
+B01.0016 [Tú] | Para eso estoy aquí.
+B01.0017 [Caramel] | Producer...
+B01.0018 [Caramel] | Ah, espera, olvídalo
+B01.0019 [Tú] | ¿?
+B01.0020 [Caramel] | Jeje... Resulta que solo me estaba desmayando de hambre
+B01.0021 [Caramel] | Se me nubló la vista un momento. Midas está perfectamente bien
+B01.0022 [Caramel] | Qué alivio jaja
+B01.0023 [Tú] | ¡Eso NO es un alivio!
+B01.0024 [Tú] | ¡Quédate donde estás! ¡Voy para allá ahora mismo!
+
+## Conversación B02
+B02.0001 [Caramel] | Producer, una pregunta rápida
+B02.0002 [Caramel] | ¿Crees que debí debutar en un grupo?
+B02.0003 [Tú] | Un poco tarde para preguntarlo, ¿no?
+B02.0004 [Caramel] | Bueno, una «banda» no debería ser de una sola persona
+B02.0005 [Tú] | Admito que es un poco inusual.
+B02.0006 [Tú] | ¿No encontraste a nadie con quien quedarte a largo plazo?
+B02.0007 [Caramel] | Mmm...
+B02.0008 [Caramel] | Los músicos con los que he tocado fueron todos muy amables
+B02.0009 [Caramel] | Pero siempre sentí que faltaba algo
+B02.0010 [Tú] | Seguro que con el tiempo encontrarás al indicado.
+B02.0011 [Tú] | ¿O sinceramente? Quizá ni siquiera importe si no lo encuentras.
+B02.0012 [Tú] | Porque con quien sea que toques, con el instrumento que sea
+B02.0013 [Tú] | siempre encuentras la forma de armonizar a la perfección.
+B02.0014 [Caramel] | Gracias por decir eso
+B02.0015 [Caramel] | Sabes, cada vez que hablo contigo, Producer
+B02.0016 [Caramel] | siento que todas mis dudas se despejan
+
+## Conversación B03
+B03.0001 [Caramel] | ¡¡Producer!! ¡¡Oye!!
+B03.0002 [Caramel] | ¡Tengo noticias enormes!
+B03.0003 [Tú] | ¿Qué pasa?
+B03.0004 [Caramel] | Iba a esperar para decírtelo en persona más tarde
+B03.0005 [Caramel] | Pero da igual, no puedo esperar
+B03.0006 [Caramel] | De verdad estoy emocionadísima
+B03.0007 [Tú] | ¿Tan emocionada, eh?
+B03.0008 [Caramel] | ¡Me pagaron por el concierto!
+B03.0009 [Caramel] | ¡Así que por fin puedo devolverte el dinero
+B03.0010 [Caramel] | de todas esas comidas que me pagaste!
+B03.0011 [Caramel] | ¡Lo liquidaré todo de una vez!
+B03.0012 [Tú] | Eso es una gran noticia. Pero sin prisa, puedes devolver solo una parte por ahora.
+B03.0013 [Tú] | ¿Te aseguraste de guardar lo suficiente para tus propios gastos?
+B03.0014 [Caramel] | Oh...
+B03.0015 [Caramel] | Gracias por recordármelo. Se me olvidó por completo esa parte
+B03.0016 [Caramel] | ¡Te cuento el resto cuando nos veamos!
+
+## Conversación B04
+B04.0001 [Caramel] | Producer, sabes mucho de música, ¿verdad?
+B04.0002 [Opción] | Solo un poco
+B04.0003 [Opción] | ¿Sinceramente? La verdad no
+B04.0004 [Tú] | Solo un poco.
+B04.0005 [Caramel] | Lo sabía
+B04.0006 [Caramel] | Nunca presumes. Qué humildad
+B04.0007 [Tú] | ¿Sinceramente? La verdad no.
+B04.0008 [Caramel] | ¿Eh? ¿No lo dices por modestia?
+B04.0009 [Caramel] | Mmm... Ya entiendo
+B04.0010 [Caramel] | Eso es lo que la gente llama «talento», ¿verdad?
+B04.0011 [Tú] | ¿A qué viene la pregunta de repente?
+B04.0012 [Caramel] | Porque hace un rato noté algo
+B04.0013 [Caramel] | Producer, de verdad entiendes el corazón de la gente
+B04.0014 [Caramel] | La mayoría solo oye la melodía
+B04.0015 [Caramel] | Pero tú «ves» la historia que hay detrás
+B04.0016 [Caramel] | Aaaah, ojalá tuviera un don así...
+
+## Conversación B05
+B05.0001 [Caramel] | Producer
+B05.0002 [Caramel] | Me siento medio decaída ahora mismo...
+B05.0003 [Tú] | ¿Por qué?
+B05.0004 [Tú] | ¿Otra vez hambre?
+B05.0005 [Tú] | Te mandaré unos bocadillos.
+B05.0006 [Caramel] | Nooo, no es eso
+B05.0007 [Caramel] | En realidad... es por mi composición
+B05.0008 [Caramel] | Últimamente no me llega la inspiración
+B05.0009 [Caramel] | Nada de lo que escribo se siente divertido ya...
+B05.0010 [Tú] | Sí, eso es difícil.
+B05.0011 [Tú] | Todo creador se topa con un muro tarde o temprano.
+B05.0012 [Caramel] | Entonces, Producer...
+B05.0013 [Caramel] | ¡Sal conmigo ahora mismo! ¡Vamos a buscar inspiración!
+
+## Conversación B06
+B06.0001 [Caramel] | ¡Producer, grandes noticias!
+B06.0002 [Caramel] | ¡Voy a tocar en el escenario de la competencia!
+B06.0003 [Tú] | ¿Ya pasaste las eliminatorias?
+B06.0004 [Tú] | ¡Felicidades! Eso es enorme.
+B06.0005 [Caramel] | Jeje no lo habría logrado sin tu apoyo
+B06.0006 [Caramel] | Te quedarás conmigo durante todo el proceso, ¿verdad?
+B06.0007 [Tú] | Claro. Ese es mi trabajo.
+B06.0008 [Caramel] | ¡Yupi!
+B06.0009 [Caramel] | Ojalá algún día llegue al escenario más grande
+B06.0010 [Caramel] | y te tenga justo ahí en primera fila, escuchándome tocar

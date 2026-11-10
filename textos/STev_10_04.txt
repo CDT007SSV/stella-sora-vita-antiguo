@@ -1,0 +1,116 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 4 · La historia del Artefacto de venta automática
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Voice | Voz enojada
+N:Bewildered Tourist | Turista desconcertado
+N:Excited Tourist | Turista emocionado
+N:Nervous Tourist | Turista nervioso
+N:Soothing Voice | Voz tranquilizadora
+N:Staff | Personal
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:Uneasy Tourist | Turista inquieto
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1210 | Cosette
+N:avg1_142 | Cosette
+N:avg1_160 | Willow
+N:avg2_956 | Flavor Dread
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_1310 | Miembro del Clan Viento de Ceniza
+N:avg3_138 | Trekker
+N:avg3_144 | Residente
+N:avg3_211 | Líder de los cazatesoros
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | La historia del Artefacto de venta automática
+0003 [Intro] | Al día siguiente te enteras de que unos visitantes fueron atacados aquí y de que dicen que este resort está embrujado, razón por la cual casi no viene gente. Entonces te topas otra vez con los Cazatesoros...
+0004 [Tú] | Ugh... Qué luz tan fuerte. ¿Ya es de mañana?
+0005 [Tú] | No hay nada como la playa. El sol está precioso, pero apenas puedo mantener los ojos abiertos...
+0006 [Tú] | Bueno, se me están cerrando de todos modos... Creo que dormiré unos minutos más.
+0007 [Iris] | ¡No, no, no! ¡Esto es un desastre!
+0008 [Tú] | ¿¡Qué pasa!?
+0009 [Iris] | ¡Olvidé la lista de suministros! ¡No he planeado los siguientes pasos del Gremio y no hay nada escrito para nuestro itinerario!
+0010 [Iris] | Espera, un momento...==W== ¿El techo de Loxy era así de alto?
+0011 [Amber] | Iris. Estamos en un resort.
+0012 [Iris] | Ah, es cierto... ¡Estamos de vacaciones!
+0013 [Iris] | Uf... Qué alivio. Por fin puedo relajarme.
+0014 [Noya] | Eres increíble, Iris. Diriges el Gremio hasta dormida.
+0015 [Iris] | No es que quisiera... Lo único que recuerdo es que intentaba cuadrar las cuentas y los números no salían.
+0016 [Iris] | Entre más lo intentaba, más me entraba el pánico, hasta que literalmente me incorporé de golpe en la cama.
+0017 [Iris] | Pero ya está bien. Voy a volver a dormir para recuperar cada minuto perdido.
+0018 [Angry Voice] | ¡Ya me harté! ¡No voy a pasar un día más en este basurero!
+0019 [Angry Voice] | ¡Quiero un reembolso! ¡Voy a hacer mis maletas y me largo ahora mismo!
+0020 [Iris] | Ugh, qué ruido... ¿Qué pasa allá afuera?
+0021 [Willow] | Parece una discusión.
+0022 [Soothing Voice] | Señor, por favor, cálmese...
+0023 [Angry Voice] | ¿¡Que me calme!? ¡Fui por una bebida y me atacaron de la nada!
+0024 [Angry Voice] | ¡Y esos ojos! Dos luces verdes que salían de la oscuridad total... ¿¡a quién no le daría terror!?
+0025 [Noya] | ¿Atacado? ¿Luces verdes? Suena a que pasó algo muy raro...
+0026 [Tú] | Un turista fue atacado...==W== Cosette puso trampas en la playa anoche. ¿Estará involucrada?
+0027 [Tú] | Podría ser un malentendido...==W== Pero si ella lo causó, no puedo mirar hacia otro lado.
+0028 [Tú] | En fin, mejor vamos a investigar.
+0029 [Willow] | De acuerdo. Si alguien está en problemas, no podemos ignorarlo. Además... no pienso permitir que un incidente cualquiera arruine nuestro viaje.
+0030 [Noya] | ¡Cuenten conmigo! ¡Quiero saber qué está pasando!
+0031 [Amber] | Primero necesitamos información.
+0032 [Willow] | Entonces separémonos y preguntemos por ahí.
+0033 [Willow] | Iris, si todavía estás cansada, siéntete libre de quedarte aquí a descansar.
+0034 [Iris] | Como si ahora pudiera dormir...==W== ¿Y si todos se van y me ataca alguna criatura rara...?==W== ¡Iiik!
+0035 [Iris] | ¡Entre más pronto descubramos esto, más pronto podré relajarme!
+0036 [Iris] | Disculpe, perdón por interrumpir. Llegamos ayer y oímos que alguien fue atacado esta mañana. ¿Es cierto?
+0037 [Nervous Tourist] | Sí, eso parece...==W== Oí que una figura sombría con tijeras atacó a alguien anoche.
+0038 [Uneasy Tourist] | ¡Yo también la vi! Volvía del bosque la otra noche y sentí algo detrás de mí.==W== ¡Me volteé y vi dos ojos brillantes del tamaño de focos mirándome desde la oscuridad!
+0039 [Iris] | ¿Seguro que eran ojos y no focos de verdad?
+0040 [Uneasy Tourist] | ¡Sí! ¡Dos globos oculares gigantes, dos globos oculares que se movían!
+0041 [Nervous Tourist] | Han pasado demasiadas cosas extrañas últimamente. Ya ni quiero quedarme aquí...
+0042 [Uneasy Tourist] | Yo en su lugar haría las maletas y me iría. Ahora se ve tranquilo, pero quién sabe qué ronde por aquí después del anochecer.
+0043 [Iris] | Ugh... Eso me da escalofríos.
+0044 [Amber] | No te preocupes, Iris. Si aparece un monstruo, lo derribo.
+0045 [Iris] | Gracias, Amber...
+0046 [Excited Tourist] | ¿Ustedes también andan cazando las leyendas urbanas del resort? ¡Qué buen momento! Estábamos debatiendo si vigilar el bosque esta noche para ver a Terror Scissorhands, o esperar en la playa al Artefacto de venta automática que devora gente.
+0047 [Noya] | ¿Qué? ¿Leyendas urbanas del resort?
+0048 [Excited Tourist] | Espera, ¿no vinieron por los rumores?
+0049 [Willow] | Somos turistas normales. Pero esos rumores suenan fascinantes. ¿Podría contarnos más?
+0050 [Excited Tourist] | ¡Claro!==W== Este resort se ha vuelto popular entre los buscadores de emociones fuertes últimamente. La mayoría viene exclusivamente por las leyendas.
+0051 [Excited Tourist] | Las tres principales son la Mirada en la Oscuridad, Terror Scissorhands y el Artefacto de venta automática que devora gente.
+0052 [Noya] | ¿El A-Artefacto de venta automática que devora gente? Suena intenso...
+0053 [Excited Tourist] | Dicen que aquí hay un Artefacto de venta automática que devora gente. Lanza bebidas para atraer a la gente y a veces se oye masticar desde adentro. Cuentan que las bebidas están hechas con la sangre de las víctimas.
+0054 [Excited Tourist] | Luego está Terror Scissorhands. Esa también es muy popular. La versión más difundida dice así...
+0055 [Excited Tourist] | Hace años, este resort tenía un jardinero muy trabajador. No podía dejar de trabajar ni después de morir, así que se convirtió en un espíritu vengativo. Cada noche recorría los terrenos con unas tijeras gigantes.==W==
+0056 [Excited Tourist] | En cuanto a la Mirada en la Oscuridad, hay un montón de teorías. La más graciosa es que es una Luz de Hada Saltarina que se escapó de un Monolito...
+0057 [Willow] | ¿Ha visto alguna de ellas usted mismo? No de oídas, sino con sus propios ojos.
+0058 [Excited Tourist] | Yo personalmente no. Mucha gente jura que son reales, pero nadie tiene pruebas concretas.
+0059 [Excited Tourist] | Por eso decidí no dormir durante unos días. ¡Seguro atrapo al menos una con las manos en la masa!
+0060 [Bewildered Tourist] | ¿Rumores extraños? Es la primera vez que oigo de eso. Estoy de vacaciones, solo vine a descansar.
+0061 [Tú] | ¿Ha oído ruidos extraños por la noche? ¿O notó algo inquietante?
+0062 [Bewildered Tourist] | En cuanto oscurece caigo rendido, así que no recuerdo nada.
+0063 [Bewildered Tourist] | Por cierto, ¿esa niña viene con ustedes?==W== Nos ha estado mirando todo este rato.
+0064 [Tú] | ¿Eh? ¿Cosette?
+0065 [Cosette] | ¡¡...!!
+0066 [Cosette] | Ay no. ¿¡Encontraron mi carnada otra vez!?
+0067 [Cosette] | N-No entres en pánico. Lady Aeloria dijo que la clave de cualquier misión es mantener la calma...
+0068 [Cosette] | Cálmate... Calma... Cal—==W== ¡¡BUAAAH!! ¡No puedo mantener la calma para nada! ¡Me largo de aquí!
+0069 [Tú] | ¡Oye, espera! ¡Necesito preguntarte algo!
+0070 [Tú] | Se fue. Qué rápida.
+0071 [Tú] | Ya no podemos sacarle respuestas a Cosette. Mejor volvamos y juntémonos con los demás.
+0072 [Narración] | Cuando nos reunimos, intercambiamos lo que habíamos averiguado.
+0073 [Iris] | O sea que este resort tiene un montón de rumores raros circulando, y además incidentes sospechosos de verdad que los respaldan. ¿Es así?
+0074 [Iris] | Además de los buscadores de emociones que vinieron por las historias de miedo, los huéspedes normales se han ido acabando. Por eso el lugar se siente tan muerto.
+0075 [Willow] | Las historias suenan horribles, pero cuando uno pregunta, casi nadie ha visto a los monstruos de primera mano.==W== Los rumores se fueron haciendo bola, cada vez más exagerados. Y aquí estamos.
+0076 [Tú] | Si Cosette ha estado usando bebidas para poner trampas, el rumor del Artefacto de venta automática probablemente empezó con ella.
+0077 [Tú] | Pero ¿y la Mirada en la Oscuridad y Terror Scissorhands? No puede ser que ella también esté detrás de eso.
+0078 [Tú] | Tenemos bastante claro qué está pasando, pero la causa de esas leyendas sigue siendo un misterio.
+0079 [Willow] | Entonces preguntemos a quienes mejor lo sabrían.
+0080 [Willow] | Hace rato pasé por el centro de atención. Parece que la empleada que atiende todas las quejas ya volvió a su escritorio.
+0081 [Tú] | Perdona la molestia, pero tengo un par de preguntas...
+0082 [Staff] | Claro, ¿en qué puedo ayudarte...?==W== ¡Espera! ¡Tú... tú eres...!
+0083 [Tú] | ¿Eh? ¿No eres de...?==W== Oh, ahora trabajas aquí.
+0084 [Treasure Hunter Leader] | Maldición. Justo con quienes nos topamos ahora.==W== Qué mala suerte que entraran por esa maldita puerta.
+0085 [Treasure Hunter Leader] | Al diablo. ¡Atacamos primero!==W== ¡Todos, a ellos!
+0086 [Noya] | ¡Oigan, esperen!==W== ¿¡Por qué nos atacan de repente!?

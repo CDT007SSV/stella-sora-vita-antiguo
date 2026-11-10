@@ -1,0 +1,99 @@
+# Evento · Enmarcando los sentimientos invisibles · 8 · Una sonrisa
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Composed Trekker | Trekker sereno
+N:Stellaroids | Stellaroids
+N:avg1_115 | Firefly
+N:avg1_120 | Canace
+N:avg2_956 | Flavor Dread
+N:avg2_972 | Guantelete de la Ira
+N:avg2_973 | Ejecutor de Mano Titánica
+N:avg2_974 | Martillo de la Olla de Vapor
+N:avg2_975 | Glopo
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1292 | Firefly
+N:avg3_139 | Trekker
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Una sonrisa
+0003 [Intro] | Firefly salva a todos y se desploma débilmente en tus brazos, pero en su rostro florece una sonrisa natural. Decides capturar este momento tan valioso.
+0004 [Stellaroids] | ¡Grawr!
+0005 [Firefly] | Yo...
+0006 [Firefly] | ... no les tengo miedo.
+0007 [Firefly] | Sigue volando, Avalanche. Más alto.
+0008 [Firefly] | Más rápido.
+0009 [Firefly] | No es suficiente... Puedo seguir...
+0010 [Firefly] | Zzz...==W== Zzzz...
+0011 [Firefly] | Avalanche, por favor...
+0012 [Firefly] | Mi cabeza... Me duele...
+0013 [Firefly] | Pero se siente... distinto esta vez.
+0014 [Firefly] | Duele... pero no lo odio...
+0015 [Narración] | Mantengo a todos a salvo.
+0016 [Tú] | ¡Increíble...! Es muy rápida...
+0017 [Canace] | ¡La potencia de Avalanche está por las nubes...!==W== ¿Firefly... superó sus propios límites?
+0018 [Firefly] | Iniciando==W== modo serio...
+0019 [Firefly] | Comenzando ataque.
+0020 [Stellaroids] | ¡Graaagh!
+0021 [Composed Trekker] | ¿T-terminó?
+0022 [Tú] | Sí. Parece que sí.
+0023 [Canace] | ¿Dónde está Firefly...?
+0024 [Tú] | ... ¡La encontré! ¡Allá!
+0025 [Opción] | ¡Firefly! ¿Sabes quién soy?
+0026 [Firefly] | ¿Tirano...?
+0027 [Opción] | ¿Estás herida? ¿Te duele algo?
+0028 [Firefly] | Me duele... un poquito la cabeza... Pero...
+0029 [Firefly] | ... Gané...
+0030 [Firefly] | Esta vez no estaba jugando...
+0031 [Firefly] | Peleé... con todas mis fuerzas...
+0032 [Opción] | Así es. Tu valentía nos salvó a todos.
+0033 [Firefly] | Jeje...
+0034 [Opción] | Firefly... ¿Acabas de...?
+0035 [Firefly] | ¿Qué...?
+0036 [Opción] | Sonreíste. Se veía completamente natural.
+0037 [Firefly] | ¿Yo... sonreí?
+0038 [Opción] | Sí. Y fue una sonrisa muy linda.
+0039 [Firefly] | Quiero verla...
+0040 [Firefly] | Tirano... Déjame verla...
+0041 [Opción] | No puedes ver tu propia cara directamente.
+0042 [Opción] | Para eso sirve el Capturador de Fotos.
+0043 [Opción] | Capturemos este momento.
+0044 [Firefly] | Mmm...
+0045 [Firefly] | Entonces... ¿tú tomarás la foto, Tirano?
+0046 [Opción] | Déjamelo a mí.
+0047 [Tú] | Déjame ajustar el enfoque...
+0048 [Tú] | Todo listo.
+0049 [Tú] | ¿Lista, Firefly?
+0050 [Firefly] | ... Mhm.
+0051 [Tú] | Muy bien. Aquí vamos...
+0052 [Firefly] | Ah, espera... Tengo algo que decir...
+0053 [Tú] | ¿Qué cosa?
+0054 [Firefly] | ... Profesora, ¿estás mirando?
+0055 [Firefly] | Creo que tengo suerte...
+0056 [Firefly] | ... de haberte conocido.
+0057 [Canace] | ... Yo siento exactamente lo mismo.
+0058 [Firefly] | Profesora...==W== ¿Ya soy una «niña normal»?
+0059 [Canace] | Bueno... Jeje, todavía no puedo darte la calificación perfecta. Después de todo, sigues creciendo.
+0060 [Canace] | Pero te prometo esto... Eres la alumna de la que me siento más orgullosa.
+0061 [Firefly] | Estás orgullosa de mí... Estoy muy feliz.
+0062 [Firefly] | Y tú eres... la mejor profesora del mundo... ¿Eso te hace feliz?
+0063 [Canace] | Claro que sí. Es lo mejor que me han dicho en la vida.
+0064 [Firefly] | Y Tirano... Eres mi primer amigo. Mi mejor amigo.
+0065 [Firefly] | Gracias... por jugar siempre conmigo...
+0066 [1] | Listo...
+0067 [1] | Sí, se ve genial.
+0068 [Firefly] | ¿Puedo ver... la foto...?
+0069 [Firefly] | Pero...==W== no puedo mantenerme despierta... Tengo... sueño...
+0070 [1] | ... ¿Firefly?==W== Oye, ¿Firefly...?
+0071 [Firefly] | Haa...
+0072 [Canace] | ¡¿Firefly?! ¡Despierta...! ¡Firefly...!
+0073 [1] | ¡Se está apagando rápido...! ¡Tenemos que salir del Monolito ya! Si no...
+0074 [1] | Firefly... tú... vas... a estar bien...
+0075 [Narración] | Profesora... Tirano...
+0076 [Narración] | ==Off==Ya no... estoy sola...
+0077 [Narración] | ==Off==Ya no estoy... sola...
+0078 [Firefly] | Ya puedo... descansar... ¿verdad?

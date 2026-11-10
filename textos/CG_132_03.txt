@@ -1,0 +1,141 @@
+# Historia de Minova · 3 · A Delinquent's Day (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Flamboyant Gangster | Pandillero llamativo
+N:Inquisitive Gangster | Pandillero curioso
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El día de una delincuente (Parte III)
+0003 [Intro] | La «bomba» resulta ser el mayor secreto de la chica delincuente.
+0004 [Inquisitive Gangster] | ¿Supiste? Minova, del Viento de Ceniza, aplastó una bomba con las manos desnudas, como si nada.
+0005 [Flamboyant Gangster] | Nah. Lo que pasó en realidad es que, justo antes de que estallara, Minova agarró la bomba y usó fuerza bruta para detener la explosión.
+0006 [Tú] | A la gente de Emor de verdad le encantan los cuentos exagerados.
+0007 [Tú] | En comparación, esa historia de que derroté yo solo a cientos de Stellaroids ya no suena tan descabellada, después de todo.
+0008 [Tú] | Minova, ¿estás ahí?
+0009 [Narración] | Aún preocupado por Minova, regreso a la sede del Clan Viento de Ceniza.
+0010 [Tú] | Encontré un ejemplar de «Explosivos mágicos y cómo detenerlos» en el librero de Lucky Oasis. Podría resultar útil.
+0011 [Minova] | Estoy bien. El Viento de Ceniza recibe amenazas así todo el tiempo.
+0012 [Minova] | Bombas. Asesinos. Ya estoy acostumbrada.
+0013 [Tú] | Hay algo en su expresión que me cuesta ignorar.
+0014 [Tú] | ¿No hay nadie?
+0015 [Minova] | ¡¡¡Kyaaaahhhh!!!
+0016 [Tú] | Viene de por allá. Parece Minova.
+0017 [Minova] | Es tu culpa... Mi corazón late más rápido que nunca.
+0018 [Tú] | ¿Esto es... una escalera que baja al sótano?
+0019 [Minova] | ¡Tú... eres un asesino!
+0020 [Tú] | Ay no, ¿la bomba será un señuelo y hay un asesino escondido en el clan?
+0021 [Opción] | Patear la puerta del sótano
+0022 [Tú] | ¡Minova, ya vamos!
+0023 [Minova] | ...
+0024 [Minova] | ¿Q-==W==qué hacen aquí?==W==
+0025 [Opción] | ¿Dónde está el asesino?
+0026 [Minova] | ¿Eh?==W== ¿Asesino? ==W==Aquí no hay nadie así.
+0027 [Opción] | ¿Eso era... de un libro?
+0028 [Minova] | Sí... ==W==Quizá estaba interpretando un papel y lo dije en voz alta sin darme cuenta...==W==
+0029 [Minova] | P-==W==¡pero eso solo demuestra lo increíble que es Caballero Bomba Fantasma, ¿sí?!
+0030 [Opción] | O sea que «bomba» es el título del manga y «asesino» es un personaje del manga…
+0031 [Minova] | P-perdón. ==W==No pretendía engañarte ni nada.==W== En fin, ==W==te lo explico. ==W==Pero primero, ¿puedes cerrar la puerta?
+0032 [Minova] | No quiero que nadie más oiga esto...
+0033 [Opción] | No hay nadie más. Estaba fingiendo.
+0034 [Minova] | ¿D-de verdad? ==W==Bueno, qué alivio...
+0035 [Opción] | ¿Tienes que ser tan reservada?
+0036 [Minova] | S-==W==¡sí, tengo que serlo!
+0037 [Minova] | Suspiro... ==W==Está bien, te explico todo. ==W==Pero antes de eso...==W== p-prométeme que guardarás en secreto que leo cómics.
+0038 [Minova] | ¡Haré lo que me pidas, solo prométemelo!
+0039 [Neuvira] | Vollara, creo que oigo la voz del Jefe.
+0040 [Vollara] | Parece que Capi también volvió.
+0041 [Vollara] | ¡Capi, Jefe! ¿Están ahí?
+0042 [Minova] | ¡Iiih!
+0043 [Minova] | Son Vollara y Neuvira. Jefe, ven a esconderte en esto.
+0044 [Tú] | ¿Por qué?
+0045 [Minova] | No hay tiempo de explicar. Por favor, solo haz lo que digo.
+0046 [Vollara] | ¿Eh? ¿Por qué está abierta la puerta de la biblioteca del sótano? ¿Se habrá metido algún niño?
+0047 [Tú] | Uf... Está demasiado apretado...
+0048 [Tú] | Minova, no hay forma de que un clóset individual como este esconda a dos personas.
+0049 [Minova] | Aguanta un poco, Jefe.
+0050 [Minova] | Movámonos un poco. Entra en mis brazos.
+0051 [Minova] | Así podrás mover los brazos.
+0052 [Tú] | Si nos descubren así, se vería mucho peor que verte leer manga shojo.
+0053 [Minova] | No. Que me vean leyendo manga shojo es definitivamente peor.
+0054 [Tú] | Shhh. Viene Vollara.
+0055 [Vollara] | Quizá alguien simplemente olvidó cerrar la puerta después de agarrar un libro.
+0056 [Vollara] | Busquemos en otro lado, Neuvira.
+0057 [Tú] | Ah... Por fin.
+0058 [Tú] | Vamos, ¿de verdad «Minova lee manga shojo» es información ultrasecreta?
+0059 [Minova] | Eh, bueno... Sí...==W== Este no es un lugar seguro. Hablemos en otro sitio.
+0060 [Minova] | Aquí estamos. Aquí empezó todo.
+0061 [Narración] | Minova me sube a un tramo roto del puente del canal, donde hay algunas cosas sueltas esparcidas por la superficie.
+0062 [Minova] | Cuando conocí a Vollara y a Neuvira, aquí era donde pasábamos el rato.
+0063 [Minova] | La forma en que el Viento de Ceniza sobrevive en este Distrito es actuando como una pandilla temible.
+0064 [Minova] | Si se supiera que a la líder del Viento de Ceniza le gusta leer manga shojo, nadie volvería a tomarnos en serio.
+0065 [Tú] | ¿Te percibirían como débil?
+0066 [Minova] | No, pero se darían cuenta de que... yo también soy una persona común con pasatiempos comunes.
+0067 [Minova] | Y las personas comunes no infunden miedo.
+0068 [Minova] | Me encantaría tener más historias sobre mí destrozando un puente de un solo batazo.
+0069 [Tú] | Por eso me mentiste y dijiste que el paquete contenía una bomba.
+0070 [Minova] | Ejem, no exactamente.
+0071 [Minova] | ¿Ves? De verdad contenía una bomba: Jinete Bomba Fantasma.
+0072 [Minova] | Así lo explico yo normalmente también. ¿La luz que parpadea? Solo es parte del disfraz.
+0073 [Tú] | Pero ahora ya sé la verdad.
+0074 [Minova] | No pasa nada que lo sepas. Después de todo, mi alma ya está en tus manos.
+0075 [Tú] | Tú misma lo dijiste. Mientras no se lo cuente a nadie, harás lo que te pida, ¿verdad?
+0076 [Minova] | Sí. Espero tus órdenes.
+0077 [Tú] | Termina de leer el manga aquí.
+0078 [Minova] | ¿Eh?
+0079 [Tú] | Sé lo frustrante que es que te interrumpan a la mitad de un manga. Lo entiendo perfectamente.
+0080 [Tú] | Pero es medio aburrido quedarme sentado mientras lees. ¿Hay algo que pueda hacer?
+0081 [Minova] | ¡Claro!
+0082 [Minova] | Aquí hay algo de pintura y una patineta guardadas.
+0083 [Minova] | ¿Quieres pintar la patineta, Jefe?
+0084 [Narración] | Minova y yo nos sentamos espalda con espalda en el puente.
+0085 [Narración] | Tomo el pincel y ella abre su manga.
+0086 [Tú] | ¡Listo!
+0087 [Narración] | Cuando doy la última pincelada, ya ha caído la noche.
+0088 [Narración] | Tras terminar su manga, Minova se queda en silencio, contemplando la majestuosa ciudad de Emor.
+0089 [Minova] | Desde aquí se ve el Clan Viento de Ceniza.
+0090 [Narración] | Minova levanta su bate y lo apunta con naturalidad hacia la noche.
+0091 [Narración] | No sé a qué casa señala, pero sé que acierta.
+0092 [Minova] | Estoy muy feliz. Hoy hice tantas cosas contigo.
+0093 [Tú] | Nos metimos en una pelea. Fuimos a clase. Y leímos mi manga a escondidas.
+0094 [Minova] | Suspiro. Ahora conoces todos mis secretos.
+0095 [Minova] | Entonces... ¿qué versión de mí te gusta más?
+0096 [Minova] | O mejor dicho, ¿cuál crees que es la verdadera Minova?
+0097 [Tú] | Qué pregunta tan tonta. Todas, por supuesto.
+0098 [Tú] | La mejor alumna de la Academia Platino que lee manga shojo y sabe pelear: esa es la verdadera Minova.
+0099 [Minova] | Jefe, empiezo a sentir que entregarte mi alma fue muy buena idea, porque entiendes a la gente.
+0100 [Tú] | Para ya, solo soy un Trekker común.
+0101 [Minova] | El viento puede soplar lejos, pero nunca olvida dónde empezó.
+0102 [Minova] | Jefe, cuando el viaje te agote, no olvides volver a visitar Emor de vez en cuando.
+0103 [Minova] | No olvides que aquí hay un alma que te pertenece.
+0104 [Narración] | Mi hombro roza el de Minova mientras la fresca brisa nocturna recorre el puente, levantando su cabello.
+0105 [Tú] | Está bien, si insistes...
+0106 [Tú] | Entonces la patineta que acabo de pintar, digamos que es un regalo de tu Jefe.
+0107 [Minova] | Mmm...
+0108 [Minova] | Nada mal. No sabía que existiera una técnica de pintura como esta...
+0109 [Tú] | ...
+0110 [Tú] | ¿Gracias...?==W== Ejem, el tema de la pintura es...
+0111 [Minova] | Ya sé, es de terror, ¿verdad?
+0112 [Minova] | Estas líneas retorcidas... la expresión exagerada de tensión...
+0113 [Minova] | ¡Es perfecta para asustar de muerte a los enemigos!
+0114 [Tú] | ...
+0115 [Tú] | No, en realidad eres tú. De pie en el puente del canal, mirando a lo lejos.
+0116 [Minova] | ¿Eh? … ¿Eh?
+0117 [Minova] | ¡Oh!
+0118 [Minova] | Sí... Ahora que lo miro bien, de verdad soy yo.
+0119 [Minova] | Ejem, esto plasma muy bien la confusión y la frustración que sentí cuando Creta Trading nos tenía acorralados.
+0120 [Tú] | No hace falta que me adules. Es solo una pequeña muestra de lo mucho que significas para mí.
+0121 [Tú] | Si quieres mostrar cuánto significo yo para ti, quizá deberíamos tomarnos de la mano de regreso.
+0122 [Narración] | Bajo la luz de la luna, de la mano, nos deslizamos por el puente del canal, adentrándonos poco a poco en la noche brumosa.
+0123 [Narración] | Más tarde, la patineta se exhibe en la pared del vestíbulo del Viento de Ceniza.
+0124 [Narración] | Y solo se baja ceremoniosamente para las grandes batallas contra facciones rivales.
+0125 [Narración] | Cuando eso ocurre, la propia Minova la monta y encabeza la carga más feroz del Clan Viento de Ceniza.

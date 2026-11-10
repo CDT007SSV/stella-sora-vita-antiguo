@@ -1,0 +1,73 @@
+# Historia de Laru · 2 · The Great Fry-tastrophe (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_150 | Laru
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | El gran desastre de las papas (Parte II)
+0003 [Intro] | Una captura es una captura, aunque sea solo maleza acuática. En cuanto a las papas… espera, ¡¿qué papas?!
+0004 [Laru] | Tres,==W== dos,==W== uno...==W== ¡Jala!
+0005 [Laru] | ¡Rápido! ¡Trae la red!
+0006 [Tú] | ¡Ahí va!
+0007 [Laru] | ¡Otro cubo lleno!
+0008 [Laru] | ¡Haaah, hacía siglos que no pescaba tanto!==W== A esto le dicen golpe de suerte. ¡Valió totalmente la pena escaparme hoy!
+0009 [Tú] | Qué cosecha tan buena.
+0010 [Laru] | Espera un segundo. ¿Dónde está tu pez?
+0011 [Laru] | Un momento. ¿Tu pez es una planta?
+0012 [Laru] | ¿Pasaste todo ese tiempo y solo pescaste una maleza acuática?==W== Jajaja... ¡no puedo, esto es demasiado gracioso!
+0013 [Tú] | La maleza acuática también se come. He decidido comer solo vegetales un tiempo.
+0014 [Laru] | Pfff...
+0015 [Laru] | Bien dicho. ¡Ese es el espíritu de un verdadero pescador! Al menos pescaste algo de planta. Es mejor que nada...
+0016 [Laru] | Pfff— Perdón, déjame reírme un ratito más, jajaja...
+0017 [Tú] | Te quedaste con toda mi suerte.
+0018 [Laru] | Bueno, ya basta de burlas. ¿Qué querías decirme?
+0019 [Laru] | Mientras sea del trabajo, no hay nada que no pueda manejar.
+0020 [Tú] | ¿Cómo se lo digo? Al fin y al cabo, no sé si de verdad es ella la que está en problemas...
+0021 [Tú] | ¡Ya sé!
+0022 [Tú] | Pues resulta que tengo una amiga que...
+0023 [Laru] | Te refieres a ti, ¿verdad?
+0024 [Tú] | ¿Me vas a dejar terminar o no?
+0025 [Laru] | Por favor, por favor, sigue.
+0026 [Laru] | Me callo y escucho.
+0027 [Tú] | Mi amiga está a cargo de pedir el té de la tarde, y pidió las botanas que más le gustaban a ella.
+0028 [Tú] | Solo después se dio cuenta de que el pedido era para sus superiores y que los gustos de ellos eran muy distintos a los suyos.
+0029 [Laru] | Guau. Suena a un problema grande.
+0030 [Laru] | ¿Se enteró la gente?
+0031 [Laru] | Si nadie se entera, en realidad no es un error.
+0032 [Tú] | La gente ya lo sabe, y sus compañeros de trabajo han empezado a hablar de eso.
+0033 [Laru] | Eso complica las cosas. Quizá pueda contratar un equipo de Trekkers para secuestrar el pedido.
+0034 [Laru] | Así tendrá una razón para repetirlo.
+0035 [Tú] | El robo es un problema aún más grave, ¿no?
+0036 [Laru] | Cierto...==W== ¡Entonces solo queda una opción!
+0037 [Tú] | ¿A qué te refieres?
+0038 [Laru] | El «Método de la disculpa infalible», que es básicamente la leyenda extraoficial de la oficina en el Imperio de la Gracia.
+0039 [Laru] | «Mientras seas honesta y confieses, te perdonarán; aunque sea algo tan grave como volar la sede del Imperio de la Gracia, no te castigarán ni perderás tu empleo».
+0040 [Laru] | ¡Ja! ¡Otro! ¡Por ahora tengo que concentrarme!
+0041 [Laru] | ¡Pesa mucho! ¡Es uno grande!
+0042 [Laru] | ¡Ahhh! ¡Jefe! ¡Ayúdame a jalar!
+0043 [Tú] | Ugh... ¿Cómo puede pesar tanto...?
+0044 [Laru] | ¡Ah!
+0045 [Laru] | Maldición,==W== se rompió el sedal. Definitivamente no es buena señal.
+0046 [Laru] | Bueno, sigue. ¿Qué botanas pidió tu amiga?
+0047 [Tú] | Creo que pidió papas fritas para el té de la tarde … durante un mes entero.
+0048 [Laru] | Tiene buen gusto. Las papas fritas son básicamente la mejor comida del mundo. Podrías comerlas todos los días y nunca te cansarías.
+0049 [Laru] | Ahora que lo pienso, la semana pasada, cuando estaba aburrida, armé un plan de degustación de un mes con «distintos sabores de papas fritas».
+0050 [Laru] | Lástima que no sé adónde fue a parar esa lista.
+0051 [Tú] | ...
+0052 [Laru] | ...
+0053 [Laru] | Espera. Espera. Un momento.
+0054 [Laru] | Jefe, ¿dónde trabaja esa amiga tuya?
+0055 [Tú] | En el Imperio de la Gracia, creo. Me enteré al pasar por la Tienda de Almas.
+0056 [Laru] | ¡L-==W==La... ==W==Tienda de Almas!!
+0057 [Tú] | También oí que Lady Albedo está furiosa.
+0058 [Tú] | Al principio pensé que podías ser tú, pero viendo lo segura que estás, debe de haber sido alguna otra pobre alma.
+0059 [Laru] | ...
+0060 [Tú] | Me pregunto si habrá oído del «Método de la disculpa infalible» que mencionaste.
+0061 [Tú] | ¿Eh? ¿Por qué te desplomaste?
+0062 [Laru] | J-Jefe... ¿Lo sabes?
+0063 [Tú] | ¿Qué cosa?
+0064 [Laru] | Esa amiga tuya,==W== soy yo...

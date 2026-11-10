@@ -1,0 +1,111 @@
+# Historia de Caramel · 2 · Echo of Hearts and Stars (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_147 | Caramel
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Eco de corazones y estrellas (Parte II)
+0003 [Intro] | Caramel te pide que seas su productor. ¿Qué harás para reavivar su chispa?
+0004 [Narración] | Hasta el aroma dulce de la pastelería de aquí es más fuerte que en cualquier otro lugar. Así es Flavio.
+0005 [Caramel] | … ¡Ay, qué rico está esto!
+0006 [Tú] | Parece hambrienta...==W== ¡Qué apetito, Caramel!
+0007 [Narración] | Perdón, cartera...
+0008 [Tú] | Había muchísimos fans en tu presentación de hace rato. Deberías estar ganando un buen dinero.
+0009 [Tú] | Entonces, ¿por qué sigues muriéndote de hambre?
+0010 [Caramel] | ¿Eh...?
+0011 [Caramel] | … A veces se me olvida...
+0012 [Tú] | Ah... Te absorbes tanto en la presentación que te olvidas de comer, ¿eh…?
+0013 [Caramel] | Más bien, se me olvida poner el frasco de propinas...
+0014 [Tú] | Supongo que es parte de ser un genio.
+0015 [Caramel] | ¡Ah! ¡No es que pase siempre! ¡Sí me pagan por mis presentaciones!==W== ¡Los dueños de los espacios musicales suelen recordármelo!
+0016 [Tú] | Qué amables.
+0017 [Caramel] | Pero el mantenimiento del bajo, las partituras y los boletos para las presentaciones... Todo suma.
+0018 [Caramel] | Luego están los gastos de viaje... Además de los suministros para explorar los Monolitos...
+0019 [Caramel] | ¿Cómo no voy a quedarme sin dinero para comer?
+0020 [Tú] | ¡Sí, claro!
+0021 [Tú] | Por más que la música alimente tu alma, no te llena el estómago.
+0022 [Tú] | En la ciudad todavía,==W== pero ¿te das cuenta de que si te desplomas de hambre en las Tierras Salvajes o en el Monolito, no hay nadie que te salve?
+0023 [Caramel] | Jeje... ¡Por eso es tan importante tener un productor!
+0024 [Narración] | Verla devorar feliz su crepa,==W== me tranquiliza un poco.
+0025 [Narración] | Con el hambre resuelta, Caramel y yo paseamos por la calle—==W==es hora de asumir las responsabilidades de ser su productor.
+0026 [Caramel] | Ah... Estuvo deliciosísimo. Hacía mucho que no comía tan rico...
+0027 [Tú] | Tienes que cuidar tu salud...
+0028 [Tú] | Pero volvamos al trabajo.==W== ¿Cómo encontrabas tu inspiración creativa antes?
+0029 [Caramel] | A ver...==W== Ahhh, ya sé, viendo «presentaciones».
+0030 [Tú] | ¿«Presentaciones»?
+0031 [Caramel] | Ups, perdón, debí explicarme mejor.==W== ¡Me refiero a las «presentaciones» de la Madre Naturaleza!
+0032 [Tú] | Ah... O sea, ¿«escuchar los sonidos de las montañas, el mar, los Monolitos y el cielo»? ¿Algo así?
+0033 [Narración] | Cuando te acostumbras, te das cuenta de que Caramel ve el mundo un poco distinto. Como su productor, de verdad tienes que prestar atención.
+0034 [Caramel] | Sí, todas son presentaciones de la Madre Naturaleza...
+0035 [Caramel] | Con solo escuchar esos sonidos lejanos y resonantes==W== se me llenan los ojos de lágrimas.==W== Y entonces la inspiración fluye sola...
+0036 [Tú] | Este tipo de arte quizá sea demasiado vanguardista para los novianos.
+0037 [Caramel] | … No te estás burlando de mí, ¿verdad?
+0038 [Tú] | Para nada.
+0039 [Tú] | Después de todo... Frente a la naturaleza, hasta el poderoso Jefe puede sentirse pequeño e impotente...
+0040 [Tú] | En cuanto a esa sensación de asombro, en realidad no somos tan distintos. Solo que tú eliges abrazarla y yo elijo hacerle frente.
+0041 [Caramel] | ¡Guau! Lo que acabas de decir...==W==
+0042 [Caramel] | ¡Me encanta! ¡Tiene un ritmo buenísimo! ¿Puedo convertirlo en letra?
+0043 [Tú] | Dejémoslo para después...
+0044 [Caramel] | En realidad también he estado viendo presentaciones en Flavio...==W== Aunque los boletos se acumulan.
+0045 [Tú] | ¿Ya no puedes sacar inspiración de ellas?
+0046 [Caramel] | ¿Cómo lo explico...==W== Antes había muchas presentaciones geniales. Siempre me abrían la mente... Podía ver el paisaje interior de los músicos.
+0047 [Caramel] | Pero últimamente esas presentaciones son cada vez más escasas.
+0048 [Tú] | ¿A qué te refieres?
+0049 [Caramel] | ...==W== ...
+0050 [Caramel] | … Suspiro.
+0051 [Narración] | Tras un largo silencio, suelta un hondo suspiro y explica—
+0052 [Caramel] | No soy buena con las palabras, pero... Hay algunas piezas... Por más populares que sean, simplemente no puedo conectar con ellas.
+0053 [Caramel] | A veces me pregunto si llevo demasiado tiempo desconectada de lo que le gusta a la gente...==W== Pero no puedo obligarme a tocar solo por llamar la atención.
+0054 [Caramel] | La música debe expresar cosas: tus sentimientos, tus historias, ¿no?==W== Si solo se trata de atraer multitudes con ruido fuerte, sin pintar ningún paisaje interior…
+0055 [Caramel] | Bueno, esa música también tiene su lugar.==W== Pero cuando toco junto a ellos, siento que no estoy expresando nada.
+0056 [Caramel] | Quizá no soy lo bastante buena...==W== Pero pase lo que pase, yo... simplemente no puedo escucharla y no la entiendo del todo.
+0057 [Tú] | Tus palabras son suaves. El mensaje de fondo, no tanto.
+0058 [Caramel] | ¿Eh? ¡E-espera, no! ¡No quise decir eso!
+0059 [Caramel] | De verdad creo que todos en Flavio persiguen algo significativo a su manera... Solo que lo hacemos de forma distinta, nada más.
+0060 [Tú] | Expresar el paisaje interior...
+0061 [Tú] | Ya veo... O sea, para Caramel este es un punto ciego.
+0062 [Narración] | Ignoro su cortés intento de suavizar las cosas y trato de reencauzar sus pensamientos—
+0063 [Tú] | —Como dijiste, la música es para expresarse.
+0064 [Tú] | Tocar para el océano o las estrellas es hermoso, y realmente va contigo.
+0065 [Tú] | Pero la verdad es que no son los únicos que de verdad te escuchan. ==W==Me refiero a la gente de la ciudad: los que se reúnen frente a tu escenario, tus fans.
+0066 [Caramel] | Mis... ==W==Mis fans...==W==
+0067 [Caramel] | Lo sé, pero cada vez que hay tanta gente, yo solo...
+0068 [Narración] | Infla las mejillas y me da unos golpecitos suaves—==W==vaya, sí son manos de músico, fuertes y firmes.
+0069 [Caramel] | No me acostumbro... Me siento tan inútil...
+0070 [Tú] | ¿Demasiados nervios?
+0071 [Caramel] | No... No es eso, en realidad.
+0072 [Tú] | ¿Sientes que no puedes ver sus corazones?
+0073 [Caramel] | … Quizá sea eso.
+0074 [Caramel] | La verdad no sé cómo comunicarme con la gente si no es con música...
+0075 [Caramel] | Son distintos del océano y las montañas...==W== Aplauden, me llaman. Pero yo...
+0076 [Caramel] | ¿Qué debería decirles en respuesta...?
+0077 [Caramel] | Si la presentación de hoy no conectó del todo con el público... ¿Tengo que dar explicaciones de algún modo?
+0078 [Caramel] | No sé... Es tan difícil pensar en todo esto.
+0079 [Caramel] | ¡Lo único que sé es música... Todo lo demás me parece tan complicado!
+0080 [Caramel] | Solo muy, muy poca gente es como tú: ==W==alguien que entiende el bajo, mi música y lo que intento expresar.
+0081 [Tú] | ...
+0082 [Caramel] | Ah...==W== Lo dije.
+0083 [Caramel] | Antes me sentía muy perdida... Sin saber nada. Pero contigo como mi productor...==W== siento que por fin tengo el valor de enfrentarlo todo.
+0084 [Caramel] | ¡Sí! De hecho, Productor, lo que dijiste tiene mucho sentido.
+0085 [Narración] | Aprieta los puños como si hubiera tomado una decisión. Sus largas orejas también se alzan.
+0086 [Caramel] | Yo... Puedo intentarlo. ¿Qué debo hacer? ¿Organizo una presentación ahora mismo?
+0087 [Tú] | Una vez que decide algo, actúa rápido. Clásico de Caramel.
+0088 [Tú] | El trabajo de un productor es ayudar al músico a encontrar su chispa, ¿no?
+0089 [Tú] | Entonces... Mi tema esta vez será «sanar heridas mentales».
+0090 [Caramel] | … ¿Sanar heridas mentales?
+0091 [Tú] | Sí, la razón por la que he venido a Flavio es que tengo que completar una comisión muy importante.
+0092 [Tú] | Hay un grupo de Trekkers que tuvo un accidente durante una expedición al Monolito...==W== Y por eso muchos están al borde del colapso mental.
+0093 [Tú] | Y esta podría ser tu oportunidad de entender sus deseos y escuchar sus verdaderos sentimientos.==W== No prometo nada, pero quizá... despierte algo nuevo.
+0094 [Tú] | Incluso como Jefe, no puedo comprender lo que sienten tantas personas...==W== Pero tú, Caramel, eres diferente.
+0095 [Caramel] | ¿Yo...? Solo soy bajista...
+0096 [Tú] | Tu música llega a las montañas, al océano, incluso a los Monolitos.==W== Así que creo que los que sufren también te escucharán.
+0097 [Caramel] | Sanar... con música...
+0098 [Caramel] | Ya veo... Déjame pensarlo... Pensarlo de verdad...
+0099 [Tú] | Ya que buscamos el mismo objetivo, empecemos los preparativos.
+0100 [Tú] | Deja el resto de los detalles a tu productor. Caramel, tú solo concéntrate en la música.
+0101 [Caramel] | … Gracias por la idea, Productor. Nunca pensé que este viaje en busca de inspiración arrancaría tan bien.
+0102 [Caramel] | Así que esto es lo que se siente... escribir música para alguien más...

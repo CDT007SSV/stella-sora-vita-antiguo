@@ -1,0 +1,108 @@
+# Nova Times #18 · Durmiendo donde el otoño se inclina · 2 · Slumbering Where Autumn Tilts (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Durmiendo donde el otoño se inclina (Parte II)
+0003 [Intro] | Primero una niña pequeña, luego una cazadora y ahora una frágil belleza: si uno llega a ver tantas facetas distintas de Noya, hacer de enfermería temporal no es ningún sacrificio.
+0004 [1] | ¡Noya! ¡¿Dónde estás?! ¡Di algo!
+0005 [1] | ¿Ahora estamos jugando a las escondidas...?==W== ¡Whoa!
+0006 [Tú] | ¿Por qué te escondes aquí? ¿Sabes cuánto tiempo llevo buscándote?
+0007 [Noya] | ¡Shh! ¡Baja la voz!
+0008 [Noya] | A salvo...==W== No nos vio.
+0009 [Tú] | Muy bien, se acabó el juego. Tenemos que regresar...
+0010 [Noya] | ¡¿Te volviste loco?! ¡Estás paseando por la guarida de un Loxwyrm!
+0011 [Noya] | Si no te hubiera agarrado, ya serías comida de dragón.
+0012 [Tú] | ¿Loxwyrm? ¿Guarida? ¿De qué hablas?
+0013 [Noya] | No tengo idea de quién eres, forastero. Pero ya que nuestros caminos se cruzaron, supongo que puedo mantenerte con vida un rato.
+0014 [Tú] | Cambió otra vez...==W== Ahora ni siquiera me reconoce. La niña también se fue.
+0015 [Tú] | Tengo que llevarla de vuelta a Loxy para que descanse. Lo mejor es seguirle el juego.
+0016 [Tú] | Entonces, ese Loxwyrm... No lo veo. ¿Dónde está?
+0017 [Noya] | ¿Dónde?==W== ¿Estás ciego? ¡Está justo ahí!
+0018 [Noya] | Contempla al Loxwyrm. Uno de los terrores más mortíferos de todo Nova.
+0019 [Tú] | Ah.==W== El Loxwyrm es literalmente Loxy.
+0020 [Tú] | Al menos no está peleando contra molinos de viento. Lo último que necesito es que lance a Loxy contra uno.
+0021 [Tú] | Entonces, ¿cuál es el plan? ¿Cómo lo derribamos?
+0022 [Noya] | Un Loxwyrm escupe fuego ...==W== y surca los cielos.
+0023 [Noya] | Si te lanzas a ciegas, eres ceniza en segundos.==W== Pero está dormido. Esta es nuestra oportunidad.
+0024 [Tú] | Se está metiendo por completo en el papel de cazadora veterana.==W== Seguiré siguiéndole la corriente.
+0025 [Tú] | ¿Dices que tenemos que matarlo?
+0026 [Noya] | Podemos domarlo con un Artefacto mágico especial...==W== Solo tenemos que escalar su lomo y activarlo...
+0027 [Tú] | No traigo ningún Artefacto mágico. Solo traje esto...
+0028 [Narración] | Saqué la llave de Loxy. Normalmente yo me encargo de las cosas pequeñas que se salen fácilmente de los bolsillos para que los demás se concentren en pelear.
+0029 [Noya] | ¡Sí! ¡Eso es! ¡¿Cómo conseguiste eso?!
+0030 [Tú] | Una compañera importante me la confió.==W== Ya que la tengo, déjame encargarme.
+0031 [Noya] | ¡Oho, mira quién se siente valiente! ¡Yo te cubro!
+0032 [Noya] | Bien, la bestia sigue dormida. Con calma y despacio... No la despiertes.
+0033 [Noya] | Usa las púas de su cola para subir. ¡Yo espero aquí!
+0034 [Tú] | Entendido. Déjamelo a mí.
+0035 [Tú] | Hngh...==W== Lo logré. ¿Esta es la vista que siempre tiene Amber desde aquí arriba?
+0036 [1] | Entrar fue la parte fácil.==W== Ahora giro la llave.
+0037 [Tú] | ¿Qué tal? La bestia está domada. Puedes relajarte.
+0038 [Noya] | Guau... ¡Eres increíble!==W== ¡El Loxwyrm está ronroneando!
+0039 [Tú] | Eso es literalmente el motor al ralentí...==W== Espera, ¿cómo le habrá parecido cuando me metí en el «estómago» del Loxwyrm?
+0040 [Tú] | Ya que tenemos la oportunidad, ¿quieres dar una vuelta en Loxy...==W== digo, en el Loxwyrm?
+0041 [Noya] | Increíble...==W== ¡De verdad te obedece!
+0042 [Noya] | ¡Oh! Dicen que ponerle nombre a un monstruo domado fortalece el vínculo. Mmm... ¿Cómo nombrar a un Loxwyrm...?==W== ¡Llamémoslo Loxy!
+0043 [Tú] | Perfecto.==W== Entonces, ¿cuál es tu plan maestro ahora con Loxy?
+0044 [Noya] | ¿No es obvio? ¡Lo montamos hasta la cima del Monolito! ♪
+0045 [Tú] | La cima del Monolito...==W== También lo mencionó antes.
+0046 [Noya] | No...==W== Tenemos que ...==W== llegar a la cima...
+0047 [Noya] | Hay algo ...==W== importante allá arriba...==W== Tengo que ir...
+0048 [Tú] | ¿Por qué te esfuerzas tanto por llegar a la cima?
+0049 [Noya] | ...
+0050 [Noya] | Eso es un secreto por ahora.
+0051 [Tú] | Normalmente diría que quiere ir a cosechar estrellas sin dudarlo ni un segundo...
+0052 [Tú] | Pensándolo bien... Loxy definitivamente no vuela.
+0053 [Tú] | Olvídalo.==W== No le des tantas vueltas.
+0054 [Noya] | Ugh...==W== ¿Por qué estoy ...==W== tan somnolienta...
+0055 [Tú] | ¿Noya? ¡¿Oye, Noya?!
+0056 [Tú] | Se desmayó...
+0057 [Tú] | Va a torcerse el cuello durmiendo así...==W== Bien, vamos a acostarte.
+0058 [Noya] | Mnn...==W== ¿D-dónde ...==W== estoy?
+0059 [Tú] | Oh, despertaste. El almuerzo está listo. ¿Crees que puedas comer?
+0060 [Tú] | ¿Noya?
+0061 [Noya] | Ah...==W== Perdón. Siento como si hubiera dormido por años.
+0062 [Tú] | ¿Segura de que estás bien? ¿Recuerdas mi nombre?
+0063 [Noya] | Perdón...==W== La habitación da vueltas. Tu rostro está borroso...==W== Pero sé que eres tú.
+0064 [Noya] | Gracias ...==W== por cuidarme siempre. Pero no me queda mucho tiempo...
+0065 [Tú] | ¿Está teniendo otro sueño?==W== Hable dormida o no, no tiene por qué sonar tan lúgubre...
+0066 [Tú] | No hables así. Vas a estar bien.
+0067 [Tú] | Preparé tu asado favorito para el almuerzo. Pruébalo.
+0068 [Noya] | Asado...==W== Lo extraño tanto...==W== Pero no puedo levantar los brazos...
+0069 [Tú] | ¿Quieres que te dé de comer?
+0070 [Noya] | ... Gracias. Siempre doy problemas. ¿De verdad está bien...?
+0071 [Tú] | Basta. Gracias a ti es que cualquiera de nosotros come bien en primer lugar.
+0072 [Tú] | ... ¿No tienes hambre?
+0073 [Noya] | Lo siento...==W== ¡Cof! ¡Cof, cof!
+0074 [Tú] | ¡¿Estás bien?! ¡Quédate quieta, te traigo agua!
+0075 [Noya] | Gracias...==W== Cof...==W== Mnn...==W== Hah...
+0076 [Tú] | Mejor déjala dormir. Iris dijo que esto pasaría en un día. No hay que forzarla.
+0077 [Noya] | Oye...==W== ¿Puedes acercarte un poco más?
+0078 [Tú] | Claro. Además, ustedes ya se me amontonan encima cuando duermen de todos modos.
+0079 [Noya] | Gracias... Me siento mucho mejor apoyada en ti así.
+0080 [Noya] | Creo que ...==W== estoy por caer en un sueño largo, larguísimo.
+0081 [Noya] | Todavía tengo tanto que quiero decirte...
+0082 [Tú] | ¿De qué hablas? Tenemos muchísimas aventuras por delante.
+0083 [Noya] | Siempre doy problemas...==W== Perdón. Cocinaste para mí y ni siquiera pude comerlo...==W== Perdón...
+0084 [Tú] | Tú eres quien cuida de nosotras. Mi comida ni se acerca a la tuya...
+0085 [Noya] | Perdón ...==W== por hacerte soportar mis tonterías...
+0086 [Noya] | Y ...==W== perdón por no poder quedarme contigo hasta el final...
+0087 [Tú] | ¿Qué clase de sueño está teniendo ahora?==W== ¿Por qué suena como una novela romántica trágica...?
+0088 [Noya] | Creo que ...==W== ya no necesito escalar el Monolito. Con quedarme sentada así ...==W== basta.
+0089 [Tú] | ¿Esas palabras de verdad salieron de la boca de Noya?
+0090 [Tú] | Noya...==W== ¿Qué es exactamente lo que está pasando...?
+0091 [Tú] | Sé que es el Síndrome de Messis hablando, pero ¿por qué mi pecho se siente tan...?
+0092 [Noya] | Pero ...==W== todavía tengo que pelear.
+0093 [Noya] | Los rastreadores...==W== Ya casi llegan...
+0094 [???] | ¡Maldición!==W== ¡¿A dónde se fueron?!
+0095 [???] | ¡Tienen que estar cerca! ¡No dejen que se escapen!
+0096 [Tú] | ¡¿Qué?! ¡¿Rastreadores de verdad?! ¡¿También estoy soñando?! No, no...==W== ¡Concéntrate!
+0097 [Tú] | Hasta acá...==W== ¿Nos topamos con bandidos?
+0098 [Tú] | Noya, quédate aquí. No hagas ruido. ¡Voy a ver qué pasa!

@@ -1,0 +1,158 @@
+# Capítulo 5 · Una chispa en la oscuridad · Epílogo · El Maestro
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Capable Secretary | Secretaria capaz
+N:United Harvest Merc | Mercenario de Cosecha Unida
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg2_965 | Lanterna
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1214 | Pumpka
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1250 | Empleado de Cosecha Unida
+N:avg3_134 | Mina
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | El Maestro
+0003 [Intro] | La investigación llega a su fin, pero Lady Gray se desploma envenenada antes de confesar. Firenze quiere culpar a alguien por el caos, pero Darcia la detiene. Para sorpresa de todos, Darcia le jura lealtad al Tirano.
+0004 [Lugar y hora] | 23:40, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0005 [Mina] | ¡Mistique!
+0006 [Mina] | ¡==PLAYER_NAME==, malas noticias! ¡Mistique se usó a sí misma como carnada! Alejó a la Espada de Jade para protegernos a la capturadora de fotos y a mí...
+0007 [Tú] | Voy a avisarle al equipo... Espera. ¡¿Mistique está llamando?!
+0008 [Mistique] | ¡Holaaa! Jefe, Mina, ¿están bien?
+0009 [Mina] | Tú... ¡¿Qué te pasa?! Perseguir la verdad es importante, sí, ¡pero no sirve de nada si te matan en el intento!
+0010 [Mistique] | ¿Eh? ¿De qué hablas? ¿No es obvio lo que estoy haciendo? Tenemos carteles de «La seguridad es primero» por toda la planta de producción...
+0011 [Mistique] | ¡Uy!
+0012 [Tú] | Mistique, ¿estás bien?
+0013 [Mistique] | ¡Estoy bien! Aunque la Espada de Jade está furiosa: me avienta magia como loca. Je, ¡qué lenta! No me alcanza ni aunque lo intente. ¡Seguro le arde!
+0014 [Mistique] | Mina, dime que sacaste una foto de mi gran salida del invernadero.
+0015 [Mina] | La tengo. Hasta tomé unas cuantas de más, por si acaso.
+0016 [Mistique] | ¡Bien! Cuida la capturadora hasta que nos veamos, ¿va?
+0017 [Tú] | ¡Fíjate por dónde vuelas! Y cuelga el teléfono.
+0018 [Mistique] | ¡Tranquilo! Pumpka y Lanterna van manejando la escoba. ¡Voy manos libres!
+0019 [Mistique] | ¡Ah, cierto! ¿Esa frase tan dramática que dije hace rato? «¡No voy a parar hasta sacar a la luz toda la horrible verdad!». Sí, hagan como que no la oyeron.
+0020 [Mistique] | Una verdadera bruja no debería quedarse en puras palabras. ¡Dejamos que nuestros actos den las respuestas! ¿O no?
+0021 [Tú] | Sigue haciendo lo que se le da la gana. Bueno, por lo menos está a salvo.
+0022 [Mina] | Sí... Voy a cuidar la capturadora. Se la devolveré en cuanto regrese Mistique.
+0023 [Tú] | Hablando de eso, hace rato parecías muy dividida sobre filtrar esas fotos. ¿Pero parece que cambiaste de opinión?
+0024 [Mina] | Así es. Voy a confiar en Mistique. Ella siempre sigue a su corazón, y quiero creer en eso.
+0025 [Mina] | El futuro de Cosecha Unida está en juego. Creo que todos los empleados tenemos que enfrentar este problema de frente.
+0026 [Mina] | Pero seguir el reglamento al pie de la letra, ya sea yo o la sede, no nos va a llevar a ningún lado. Je... Qué curioso. De verdad tenemos que pedirle prestado su poder a una bruja para arreglar las cosas.
+0027 [Tú] | Aunque tiene su precio. Puede que la reputación de Cosecha Unida no sobreviva a las consecuencias.
+0028 [Mina] | Ay, va a ser un desastre. Si yo fuera clienta, después de esto no tocaría nuestra comida ni con un palo.
+0029 [Mina] | ¿Pero encubrirlo? Eso es traicionar a todos los que alguna vez confiaron en nosotros. Y para mí, eso es mucho peor.
+0030 [Mina] | Por más mal que se pongan las cosas... ¡Como miembro de Cosecha Unida, juro que voy a volver a encarrilar el proyecto del Ruiseñor Leonado!
+0031 [Mina] | Porque proteger el Ruiseñor Leonado, asegurarme de que nadie tenga que preocuparse por su próxima comida... ¡Esa es la justicia en la que creo!
+0032 [Tú] | Fuerte y claro. Si la sucursal de Philae se mete en problemas por esto, cuenta conmigo para ayudar.
+0033 [Mina] | Gracias, ==PLAYER_NAME==.
+0034 [Tú] | Muy bien. Empecemos a limpiar este desastre.
+0035 [Lugar y hora] | 23:50, 4.º del mes de Messis, Distrito Invernadero de Philae, Plaza de la Abundancia
+0036 [Lady Gray] | Uf... Uf... Por fin me la quité de encima. ¡Oigan, ánimo! Vamos a la oficina del Maestro.
+0037 [Lady Gray] | ¿Quién demonios eres tú? Cargas esa almohada enorme a todas partes y aun así te deslizas como un fantasma.
+0038 [Nyx] | Tráfico de productos defectuosos, desvío de fondos, despliegue militar no autorizado, intento de homicidio... Lady Gray, cualquiera de esos cargos es cadena perpetua.
+0039 [Lady Gray] | ¡No se queden ahí parados, atrápenla! ¡Les pagan, así que gánense el sueldo!
+0040 [Nyx] | ¿Una capitana de escuadrón cuya única estrategia es gritar «atrápenla»? Eso es negligencia grave.
+0041 [Lady Gray] | Tsk... ¡Mocosa engreída! ¡Está bien! Ya que llegamos a esto, ¡yo misma acabaré contigo!
+0042 [Nyx] | ¿Ah, sí? ¿Y cómo, exactamente? Tu forma de lanzar hechizos es dolorosamente amateur.
+0043 [Nyx] | Te pasaste todo el tiempo haciéndole el trabajo sucio al Maestro, ¿verdad? Demasiado ocupada demostrando lealtad como para practicar.
+0044 [Lady Gray] | ¡M-me rindo! ¡Hablaré con el Departamento! ¡Confesaré todo lo que he hecho en estos años, lo juro!
+0045 [Nyx] | Confiesa todo y le pediré a la empresa que sea indulgente.
+0046 [Nyx] | Pero primero, el orfanato del Distrito de las Cenizas de Emor. ¿Qué sabes de él?
+0047 [Lady Gray] | Lo conozco... ¿Pero por qué sacas eso?
+0048 [Nyx] | Ya veo... Así que fuiste tú. Suéltalo: ¿qué le hiciste a ese orfanato?
+0049 [Lady Gray] | ¿Qué? ¡No! ¡La que estuvo metida en eso fue Firenze! Esa desgraciada... Aprovechándose del favor del Maestro, actuando como si fuera la dueña del mundo...
+0050 [Nyx] | ¿Firenze? Espera... ¿Qué quieres decir?
+0051 [Lady Gray] | Sí, fue Firen...==W==¡Urgh!
+0052 [Nyx] | Déjate de teatro. Sigue hablando.
+0053 [Lady Gray] | No... puedo... r-==W==respirar...
+0054 [Nyx] | ¡Oye! ¡Quédate conmigo!
+0055 [Lady Gray] | Es... veneno...==W== Ay-ayúdame...
+0056 [Nyx] | ¡¿Qué clase de veneno?! ¡Aguanta!==W== ¡Oye!
+0057 [???] | ¿Qué pasó aquí?
+0058 [Nyx] | ¡Lady Darcia! E-estábamos hablando y de repente se desplomó. Parece un veneno de acción rápida,==W== pero no estoy segura...
+0059 [Darcia] | ¿De repente se desplomó? ¡Llévenla a la enfermería, ya! Y, Nyx, ¿qué haces aquí a estas horas?
+0060 [Nyx] | Ella encabeza la lista de vigilancia de nuestro departamento, Lady Darcia. Últimamente ha actuado de forma errática, así que la he estado siguiendo todo el día.
+0061 [Darcia] | Encabeza la lista de vigilancia, ¿eh? Seguramente tomó el veneno ella misma para evitar el juicio. De todos modos, estabilícenla.
+0062 [Capable Secretary] | En seguida,==W== Lady Darcia.
+0063 [Nyx] | Gracias por su ayuda. Sin embargo, es sospechosa. Necesito estar presente durante su tratamiento.
+0064 [Darcia] | Espera. Tú eres la que resolvió ese gran caso hace cuatro años, ¿verdad? Nyx, del Departamento de Cumplimiento.
+0065 [Nyx] | Sí, Lady Darcia. Y sigo dedicada a erradicar a cualquiera que viole el protocolo de la empresa.
+0066 [Darcia] | Esta es Lady Gray, ¿no? Firenze mencionó que ha estado haciendo estafas usando nuestro nombre. Está bien. Es toda tuya.
+0067 [Nyx] | ¡Gracias, Lady Darcia!
+0068 [Darcia] | Pero antes de que te vayas... Me preocupa Firenze. Es demasiado impulsiva. Acompáñame.
+0069 [Lugar y hora] | 23:55, 4.º del mes de Messis, Distrito Invernadero de Philae, afueras del invernadero
+0070 [Fuyuka] | ¡Maestro!
+0071 [Tú] | ¿Están todos bien?
+0072 [Fuyuka] | Estamos a salvo. Maestro, ¿qué fue eso que salió volando por el techo? ¿Era la Espada de Jade?
+0073 [Tú] | Sí. Y Mistique. Se ofreció como carnada para cubrir nuestra huida.
+0074 [Tú] | No te preocupes. Seguro se la está pasando en grande haciendo que la Espada de Jade la persiga por todos lados.
+0075 [Noya] | Guau. ¿Un combate aéreo en escoba contra la Espada de Jade? No puedo creer que me lo perdí. La próxima vez, voy a hacer que Mistique me lleve a dar una vuelta.
+0076 [Iris] | No pongas esa cara de decepción... Pero... jamás me imaginé que Sir Joseph estuviera detrás del caso del Ruiseñor Dorado.
+0077 [Joseph] | ...==W==
+0078 [Mina] | Entreguémoslo a Firenze y a Lady Darcia. Esto nos queda demasiado grande.
+0079 [Amber] | Cuidado. Pasos. Muchos... Armados y vienen hacia acá.
+0080 [Tú] | ¿Firenze?
+0081 [United Harvest Merc] | ¡Bajen las armas! ¡Manos en la cabeza y al suelo!
+0082 [Noya] | ¡Oigan, ¿qué hacen?! ¡No hicimos nada malo!
+0083 [Mina] | Lady Firenze, ¿qué está pasando? Estamos en el caso del Ruiseñor Dorado; acabamos de atrapar al culpable.
+0084 [Firenze] | ¿Y? Eso no me dice qué es lo que de verdad buscan.
+0085 [Firenze] | Veo un invernadero destrozado, a nuestro director de I+D capturado y reportes de disparos y magia.
+0086 [Iris] | Eh, por favor, ¡déjenos explicarle!
+0087 [Firenze] | Llévenlos a todos al Distrito de las Cenizas. Guarden sus explicaciones para la sala de interrogatorios.
+0088 [Noya] | Oye, oye, espera. No me digas que tú eres el «Maestro», ese del que Joseph y Lady Gray no paraban de hablar.
+0089 [Amber] | ¿Sala de interrogatorios? Ni loca.
+0090 [Mina] | Lady Firenze, si cree que nos pasamos de la raya, podemos aclararlo frente a Lady Darcia.
+0091 [Firenze] | No están en posición de negociar. ¡Atrápenlos! ¡Vayan por ==SEX4==!
+0092 [Darcia] | Alto.
+0093 [Firenze] | ¿Lady Darcia? ¿Qué la trae por aquí?
+0094 [Darcia] | «Un líder siempre debe conocer la situación sobre el terreno».==W== Tú misma me lo enseñaste, Firenze.
+0095 [Darcia] | Además, que quede claro: actuaron bajo mis órdenes directas.==W== Si hay algún problema, asumo toda la responsabilidad.
+0096 [Firenze] | Con todo respeto, Lady Darcia, las excusas no cambian los hechos. El invernadero destruido y las heridas del director son culpa suya. El protocolo de la empresa exige que los detengamos.
+0097 [Darcia] | Como solo seguían mis órdenes, yo responderé por los daños.
+0098 [Tú] | Darcia en realidad ha sido amable con nosotros... y Firenze nos ayudó con todo ese asunto de Lady Gray. Entonces, ¿quién está realmente detrás del Ruiseñor Dorado?
+0099 [Darcia] | Jeje, cuánto tiempo sin verte, Fuyuka.
+0100 [Fuyuka] | ¡L-Lady Darcia! ¡H-hola! ¡Cuánto tiempo!
+0101 [Darcia] | Nyx, has estado siguiendo el caso del Ruiseñor Dorado, ¿verdad? ¿Cuál es tu evaluación de Mina y de estos Trekkers?
+0102 [Nyx] | Así es. No han causado ningún daño a los intereses de la empresa. Al contrario, le ahorraron a Cosecha Unida pérdidas considerables.
+0103 [Firenze] | ¿Nyx? ¿Qué haces aquí?
+0104 [Nyx] | Ah, ¿la directora de operaciones... me está ordenando que responda?
+0105 [Firenze] | ...
+0106 [Darcia] | Nyx, Firenze. Pórtense bien.
+0107 [Firenze] | Disculpe. Perdí la compostura.
+0108 [Darcia] | Y usted, Jefe. ¿Puedo llamarlo así?
+0109 [Tú] | Mucho gusto. Soy el Jefe de Boss Accord. El encargo está terminado, aunque debo disculparme por los daños que sufrió el invernadero.
+0110 [Darcia] | Pérdidas necesarias. Sé que es tarde, pero me intriga lo que pasó ahí dentro. ¿Me acompaña a mi oficina?
+0111 [Lugar y hora] | 00:45, 5.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0112 [Narración] | En el camino, Darcia habla bastante sobre Cosecha Unida y el Ruiseñor Leonado.
+0113 [Narración] | Para cuando llegamos a su oficina, solo me queda una pregunta.
+0114 [Darcia] | Tome asiento. ¿Un té?
+0115 [Tú] | Gracias. Sobre mi equipo...
+0116 [Darcia] | Tranquilo, están en buenas manos. Ahora, ¿en qué estábamos? Ah, sí. Las Plantas Inteligentes de 2.ª generación del invernadero. Eso es lo que le interesa, ¿no?
+0117 [Tú] | Es sorprendentemente directa. Habló mucho en el camino, incluso prometió limpiar la sucursal... Quizá sí sea razonable.
+0118 [Tú] | Así es. ¿Cuál es el verdadero plan de Cosecha Unida para esas plantas? ¿Trabajo pesado en entornos peligrosos?
+0119 [Darcia] | En cierto sentido, tiene razón. Están destinadas a un trabajo pesado y peligroso.
+0120 [Darcia] | Estas plantas son el ejército que su servidora ha preparado para Su Majestad.
+0121 [Tú] | Un ejército,==W== ¿eh...?==W== Espera.==W== ¿Qué? ¿U-un ejército?
+0122 [Darcia] | Sí, Su Majestad. Mi legión de plantas despejará todos los obstáculos, conquistará todas las ciudades y pondrá el mundo bajo su dominio.
+0123 [Tú] | ¿De qué está hablando? No soy ninguna «Majestad», y no tengo el menor interés en gobernar el mundo.
+0124 [Narración] | Darcia se arrodilla lentamente ante mí con solemne reverencia.
+0125 [Darcia] | Pero usted es Su Majestad. El único y verdadero Tirano. Yo, Darcia, le juro lealtad eterna.
+0126 [Darcia] | La sucursal de Philae de Cosecha Unida no es más que el cuartel que construí para usted. Y le ruego que la considere su capital provisional.
+0127 [Darcia] | Deseche ese nombre falso que le impusieron. Recuerde su gloria. Guíenos a nosotros, sus pobres súbditos, y dele nueva vida a este mundo devastado.
+0128 [Darcia] | En cuerpo y alma... Todo lo que soy le pertenece.
+0129 [Narración] | Continuará

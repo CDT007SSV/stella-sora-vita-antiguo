@@ -1,0 +1,182 @@
+# Capítulo 4 · Más allá del sueño · 2 · Su decisión
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Aggressive Mercenary | Mercenario agresivo
+N:Brutal Mercenary | Mercenario brutal
+N:Frenzied Mercenary | Mercenario frenético
+N:Ruthless Mercenary | Mercenario despiadado
+N:Spirit of Brutality | Espíritu de la Brutalidad
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_964 | Hummingbird
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_121 | Empleado de Cosecha Unida
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1249 | Empleado de Cosecha Unida
+N:avg3_1250 | Empleado de Cosecha Unida
+N:avg3_1251 | Empleado de Cosecha Unida
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+N:avg3_184 | Lady Gray
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Su decisión
+0003 [Intro] | Por razones desconocidas, Cosecha Unida pone la mira en los Tres Grandes, pero termina sufriendo una enorme pérdida. Lady Gray amenaza a Nazuka y a Claire. Para proteger a sus amigas, Nazuka decide cargar sola con todo el peso.
+0004 [Narración] | Hace dos meses...
+0005 [Lugar y hora] | 11:10, 6.º del mes de Clarus, afueras de Philae, en lo profundo del bosque
+0006 [Nazuka] | ¡Alto ahí!
+0007 [Claire] | Lo... lo detuviste. ¿Ya estamos a salvo?
+0008 [Nazuka] | Solo ganamos un segundo, nada más.==W== Van a volver a atacarnos. Prepárate para pelear.
+0009 [Nazuka] | A la Espada de Jade le gusta lanzarse en picada desde arriba, así que usaré mi magia Ventus para desviarla.
+0010 [Nazuka] | Al Espíritu de la Brutalidad le cuesta girar cuando embiste. Tú eres rápida con ese estoque, así que deberías poder esquivarlo, ¿no?
+0011 [Claire] | C-claro. Pero ¿y el otro?
+0012 [Nazuka] | La niebla del Jardín Parásito...==W== Supongo que no nos queda de otra más que separarnos.
+0013 [Nazuka] | Al menos así las alucinaciones no harán que nos ataquemos entre nosotras.
+0014 [Claire] | ¡¿Hablas en serio?! ¡Es arriesgadísimo!
+0015 [Nazuka] | Ya sé que es una apuesta. Pero solo tenemos que contenerlos diez minutos. Es tiempo suficiente para que los heridos se pongan a salvo.
+0016 [Claire] | Maldición, ¿qué demonios hago aquí...? ¡Me hice Trekker para hacerme rica, no para morir por una causa!
+0017 [Nazuka] | Ya te tendrás lástima cuando esto termine. ¡Prepárate!
+0018 [Claire] | Rayos... ¡Escúchenme bien, monstruos!
+0019 [Claire] | Si quieren pelea, ¡VENGAN POR MÍ! ¡AAAAAH!
+0020 [Spirit of Brutality] | ¡RRRROOOOAAAAR!
+0021 [Claire] | ¡Rayos, esta cosa es mucho más rápida de lo que pensaba!
+0022 [Nazuka] | ¡Es un monstruo de nivel jefe! ¡No lo subestimes!
+0023 [Claire] | ¡Ya lo sé! ¡Pero yo no soy tan poderosa como tú!
+0024 [Claire] | ¡Ay, no, no alcanzo a esquivarlo!
+0025 [Claire] | ¿Sigo... viva?
+0026 [Nazuka] | Ese emblema... ¡¿Cosecha Unida?!
+0027 [Claire] | ¡Nazuka, mira! ¡Son refuerzos! ¡Estamos salvadas!
+0028 [Nazuka] | ¡No te acerques!
+0029 [Claire] | G-gracias... Casi me muero.
+0030 [Claire] | ¡Oye! ¡¿Estás ciego?! ¡Soy una persona, no un monstruo!
+0031 [Ruthless Mercenary] | Cigüeña Negra llamando a Cuervo Gris, Cigüeña Negra llamando a Cuervo Gris. Los tres objetivos confirmados. También hay dos Trekkers en el lugar.
+0032 [Brutal Mercenary] | Shh... No hace falta molestar a Lady Cuervo Gris con esto. Ajá, dos Trekkers... Pero llegamos demasiado tarde... los monstruos las mataron. ¿Entendido?
+0033 [Ruthless Mercenary] | Recibido.
+0034 [Nazuka] | ¡Quieren silenciarnos! ¡Escóndete, ya!
+0035 [Ruthless Mercenary] | Son listas. Así me gustan las presas.
+0036 [Brutal Mercenary] | Un escuadrón, háganlas salir y mátenlas. Los demás, prioricen los objetivos. Nuestra misión es conseguir «esa cosa».
+0037 [Claire] | Nazuka, ¿qué hacemos? Estamos acorraladas entre monstruos y estos mercenarios. Tú quizá puedas salir volando, pero yo de verdad...
+0038 [Nazuka] | La Espada de Jade sigue dando vueltas, y esos tipos traen armas de fuego. Yo tampoco puedo salir.
+0039 [Claire] | ¡Cierto, tus compañeras! ¡Dijeron que volverían por ti!
+0040 [Nazuka] | Prefiero que se tarden. Si se topan con estos mercenarios, estarán en peligro.
+0041 [Claire] | Lo entiendo, pero... ¿no te da miedo morir?
+0042 [Nazuka] | Claro que sí. Pero los heridos están a salvo, eso es lo que importa. Cambiar nuestras dos vidas por las de todos ellos... Si tuviera que elegir otra vez, me volvería a quedar.
+0043 [Claire] | Jaja... Yo... De verdad no lo entiendo.
+0044 [Claire] | Je. Que una don nadie como yo muera junto a una gran Trekker como tú... Supongo que no está tan mal.
+0045 [Ruthless Mercenary] | ¡Contacto! ¡Hostiles a la vista! ¡Atentos!
+0046 [Brutal Mercenary] | Maldición, ¿de dónde salen tantos monstruos?
+0047 [Frenzied Mercenary] | ¡Quién sabe! ¡Mátenlos a todos!
+0048 [Brutal Mercenary] | ¿Pero qué...? La Espada de Jade se multiplicó... ¡Maldición! ¡No nos subestimen, monstruos asquerosos!
+0049 [Aggressive Mercenary] | Uf, uf... Espíritu de la Brutalidad... ¡Te llevaré conmigo!
+0050 [Claire] | ¿Qué está pasando...? ¿Se están matando entre ellos?==W== Ugh...
+0051 [Nazuka] | Esta niebla... ¿Cuándo llegó hasta aquí?==W== Ay, no... Es la niebla mágica del Jardín Parásito.
+0052 [Nazuka] | Claire...==W== Ugh...
+0053 [Nazuka] | ¡¿Monstruos?!
+0054 [Lugar y hora] | 18:00, 27.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0055 [Nazuka] | Claire, los mercenarios y yo... todos quedamos envenenados por la niebla mágica. Empezamos a ver a nuestros aliados como monstruos.
+0056 [Nazuka] | El campo de batalla era un caos total. Noqueé al monstruo más cercano y lo arrastré fuera del bosque.
+0057 [Nazuka] | De verdad creí que iba a morir.
+0058 [Nazuka] | Me corté el brazo y usé el dolor para obligarme a seguir consciente. Apenas logré llegar al linde del bosque. Por suerte, ahí me encontré con Nazuna y Kaede. Habían vuelto por mí.
+0059 [Tú] | Ya veo...==W== Pero esos mercenarios eran de Cosecha Unida, ¿no?
+0060 [Tú] | Ellos fueron los que publicaron el encargo para neutralizar a los Tres Grandes. Entonces, ¿por qué intentaron silenciarte? ¿Para no pagar la enorme recompensa que prometieron?
+0061 [Nazuka] | Fue por «esa cosa» que mencionaron los mercenarios.
+0062 [Tú] | «Esa cosa»... ¿Qué es exactamente?
+0063 [Nazuka] | Al día siguiente, volví a donde fue la pelea, pero no había nadie, ni siquiera una gota de sangre. Era como si esos mercenarios con máscaras de pico nunca hubieran estado ahí.
+0064 [Tú] | ¿Lo limpiaron todo tan a fondo en solo un día?==W== «Esa cosa» debe ser altamente confidencial.
+0065 [Nazuka] | Captas rápido. Justo lo que esperaba del Jefe que dirigió la pelea contra el Espíritu de la Brutalidad.
+0066 [Nazuka] | Cuando volví del bosque, había una carta sobre el escritorio de mi cuarto. Luego Claire me encontró, con una carta idéntica en la mano.
+0067 [Narración] | Hace dos meses.
+0068 [Lugar y hora] | 21:00, 7.º del mes de Clarus, Distrito Invernadero de Philae, Plaza de la Abundancia
+0069 [???] | Je. Te estaba esperando.
+0070 [Nazuka] | Supongo que tú eres «Cuervo Gris». Si tienes un encargo, debiste pasar por la Asociación de Trekkers.
+0071 [Lady Gray] | Pueden llamarme Lady Gray.==W== En cuanto a la Asociación... Es una petición justa, pero no habría podido contactarlas a través de ellos.
+0072 [Nazuka] | ¿Y por qué no?
+0073 [Lady Gray] | Porque la Casa de los Trekkers de las afueras de Philae cerrará esta noche.
+0074 [Claire] | ¡¿Qué?!
+0075 [Lady Gray] | En realidad es muy simple. Esperábamos resultados de la jugosa recompensa que ofrecimos, y aun así su escuadrón de caza no pudo derribar ni a un solo monstruo. Una sucursal de la Asociación que no sirve para nada no tiene razón de existir.
+0076 [Lady Gray] | Pero ustedes dos... Salieron de ese desastre sin un rasguño. En nombre de Cosecha Unida, quiero que formen un nuevo escuadrón y neutralicen a los Tres Grandes.
+0077 [Nazuka] | ...
+0078 [Claire] | Ni loca trabajo con alguien que casi hace que me maten.
+0079 [Lady Gray] | Hmph. Un malentendido. Mis tontos subordinados actuaron sin mi autorización y pagaron su insolencia con la vida.
+0080 [Claire] | ¡Entonces sí contrataste a esos matones! ¿Y ahora les echas la culpa? ¡¿Quién se va a creer eso?!
+0081 [Lady Gray] | Je. Solo les cuento cómo terminaron las cosas para ellos. Confío en que dos personas tan ingeniosas como para sobrevivir a una situación así sabrán tomar una decisión sensata.
+0082 [Nazuka] | Acepto el encargo.
+0083 [Claire] | ¡Ja! ¿Oíste? Nazuka dijo que no vamos a...==W== Espera, ¡¿qué?! ¿Te estás oyendo?
+0084 [Nazuka] | Claire, no tenemos opciones.
+0085 [Claire] | ... ¡Rayos!
+0086 [Lady Gray] | Dorra, provisiones, armas, pergaminos mágicos... Pongan ustedes el precio. Solo tengo una exigencia: exterminen a los tres monstruos.
+0087 [Nazuka] | Nosotras también tenemos una exigencia.
+0088 [Lady Gray] | Te escucho.
+0089 [Nazuka] | ¿Qué es en realidad «esa cosa» que buscas? ¿Qué esperas encontrar en esos monstruos?
+0090 [Lugar y hora] | 18:30, 27.º del mes de Pluvia, afueras de Philae, foso desconocido
+0091 [Tú] | Supongo que Lady Gray nunca te dijo qué es en realidad «esa cosa».
+0092 [Nazuka] | Lo único que dijo fue: «Es algo que jamás encontrarías en un monstruo. Lo sabrás cuando lo veas».
+0093 [Nazuka] | A la mañana siguiente, me entregaron un comprobante de depósito de Finanzas del Mar Profundo por diez millones de Dorra, y a Claire le llegó un cargamento de armas suficiente para armar a cien personas.
+0094 [Tú] | Más que otra cosa, parece una advertencia.
+0095 [Tú] | Un campo de batalla así de limpio... significa que tienen gente de sobra.==W== La carta demuestra que pueden entrar a tu cuarto.==W== Cerrar la Casa de los Trekkers te deja sin aliados.==W== El dinero y las armas son una demostración de poder.
+0096 [Opción] | Así que por eso dejaste Petal Bloom...
+0097 [Opción] | ... y te alejaste de Nazuna y Kaede.
+0098 [Opción] | Querías mantenerlas fuera de peligro.
+0099 [Nazuka] | Sí. Claire y yo ya estábamos demasiado metidas. No hay escapatoria.
+0100 [Nazuka] | Si encabezamos un nuevo escuadrón de caza con recompensas enormes y muchas provisiones, los Trekkers harán fila para unirse.
+0101 [Nazuka] | Pero Nazuna y Kaede me conocen demasiado bien... Me descubrirían enseguida y se meterían sin pensarlo dos veces.
+0102 [Nazuka] | ==PLAYER_NAME==, si salimos de aquí... ¿Podrías guardar esto entre nosotros?
+0103 [Opción] | Solo soy una estatua. No puedo prometer nada.
+0104 [Nazuka] | Ah, perdón. En realidad el efecto se pasó a mitad de nuestra conversación.
+0105 [Tú] | Ah, ¿sí? Ejem...==W== Bueno, entonces parece que estoy bien.
+0106 [Nazuka] | Tranquilo. Si a estas alturas no tienes síntomas, significa que el Jardín Parásito no te envenenó.
+0107 [Nazuka] | ¡El agujero se está derrumbando! ¡Vamos, te sacaré de aquí volando!
+0108 [Narración] | Nazuka me toma de la mano. Su Piedra del Alma, aunque tenue, parpadea con la poca luz que acaba de reunir. Un viento verde pálido nos eleva con suavidad y nos lleva lentamente hacia arriba.
+0109 [Tú] | ¿Sabes? Esta vez no dijiste ningún conjuro.
+0110 [Nazuka] | ¿Conjuro?==W== Ah, eso es solo por el ambiente... Una manía personal. Me gusta recitar algo cuando lanzo hechizos.
+0111 [Nazuka] | Pero lo más importante... Lo siento, no recuperé suficiente magia. Me temo que no puedo sacarnos a los dos de aquí.
+0112 [Tú] | ¡¿Cómo?!==W== ¡El viento se está debilitando!
+0113 [Nazuka] | No te preocupes. Todavía me alcanza para sacarte a ti. Así que no olvides lo que me prometiste...
+0114 [Narración] | Entre las rocas y la tierra que caen, Nazuka me suelta la mano. Dirige lo último de su viento para empujarme hacia la abertura mientras ella empieza a caer.
+0115 [Opción] | Girar y tomar la mano de Nazuka
+0116 [Tú] | ¡No te rindas, Nazuka!
+0117 [Nazuka] | ¡Suéltame! ¡Si no lo haces, tú tampoco vas a salir!
+0118 [Tú] | ¡No lo sabremos si no lo intentamos!
+0119 [Narración] | Me estiro desesperadamente hacia la abertura, tratando de aferrarme al borde rocoso.
+0120 [Tú] | ¡Maldición, tan cerca!
+0121 [Narración] | Mis dedos rozan la tierra húmeda, pero lo único que alcanzo son unas cuantas raíces endebles.
+0122 [Narración] | La magia se agota. El viento verde pálido se disipa y la luz de la abertura se va haciendo más pequeña.
+0123 [Fuyuka] | ¡Maestro!
+0124 [Narración] | Una mano pequeña me sujeta la muñeca, y una figura conocida aparece en la abertura.
+0125 [Tú] | ¡¿Fuyuka?!
+0126 [Fuyuka] | Uf... Llegué justo a tiempo. Qué alivio.
+0127 [Tú] | Eso sí que es llegar en el momento perfecto.==W== Por cierto, ¿cómo encontraste este agujero escondido?
+0128 [Fuyuka] | Jeje... Porque el lazo entre el Maestro y yo es irrompible.
+0129 [Lugar y hora] | 18:35, 27.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0130 [Nazuna] | Toma. Olvidaste tu Piedra del Alma de repuesto en la antigua Casa de los Trekkers.
+0131 [Nazuka] | Gracias.==W== ¿Se toparon con el Jardín Parásito?
+0132 [Amber] | Solo con unos monstruos pequeños.
+0133 [Noya] | Por las huellas, debió huir a lo más profundo del bosque.
+0134 [Iris] | Me alegra muchísimo que todos estén bien,==W== pero gastamos demasiada magia. ¿Qué tal si volvemos al campamento a recuperarnos?
+0135 [Nazuka] | Buena decisión.==W== Saber cuándo descansar es parte de la estrategia.==W== Bueno, entonces yo...
+0136 [Kaede] | Nazuka, ¿adónde vas?
+0137 [Nazuka] | Soy la capitana del escuadrón de caza. Tengo que asegurarme de que toda mi gente haya salido a salvo.
+0138 [Kaede] | Ya veo...==W== Claro. Después de todo, eres la capitana.
+0139 [Nazuka] | No se preocupen. Gracias a ==PLAYER_NAME==, no estoy herida. La Piedra del Alma de repuesto que trajeron está completamente cargada, así que ningún monstruo me va a alcanzar.
+0140 [Nazuna] | ...
+0141 [Nazuka] | ==W==Nos vemos luego, entonces.
+0142 [Narración] | Antes de darse la vuelta para irse, Nazuka me hace un leve gesto con la cabeza, recordándome en silencio la promesa que en realidad nunca hice.
+0143 [Opción] | Guardar su secreto
+0144 [Opción] | Preocuparte por ella
+0145 [Opción] | Confiar en tu instinto
+0146 [Tú] | Nazuka se abrió conmigo porque confía en mí. Tengo que respetar eso...
+0147 [Tú] | Debería ser ella misma quien se lo cuente a Nazuna y a Kaede.
+0148 [Tú] | La cara que tenía cuando se fue... Era como si ya hubiera tomado una decisión.
+0149 [Tú] | Mi poder quizá no sea gran cosa por sí solo, pero algo es algo. Además, esa niebla no me afecta.
+0150 [Tú] | En realidad nunca di mi palabra... Así que no cuenta como promesa.
+0151 [Tú] | Perdón, Nazuka.==W== Esta decisión me toca a mí como Jefe.

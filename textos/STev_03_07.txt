@@ -1,0 +1,117 @@
+# Evento · Un crepitante indicio de primavera · 7 · La verdad revelada
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Lucky | Lucky
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg1_159 | Coronis
+N:avg2_952 | Lucky
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | La verdad revelada
+0003 [Intro] | Resulta que la «Nian» solo retenía a todos en el Monolito porque se sentía sola. Ahora sufre de dolor de estómago por haberse zampado demasiados petardos. ¡Suena a trabajo para la doctora!
+0004 [Iris] | Perdón, ==PLAYER_NAME==. No queríamos preocuparte.
+0005 [Noya] | Intentamos mandarte mensajes para explicarte, pero cada vez que sacábamos un teléfono, Lucky intentaba arrebatárnoslo. Casi le muerde la pantalla a Amber.
+0006 [Amber] | Da miedo.
+0007 [Tú] | Cuando dicen «Lucky», ¿se refieren a... Nian?
+0008 [Lucky] | Auuu...
+0009 [Noya] | ¿Eh? ¿A este pequeñín le dicen Nian?
+0010 [Shimiao] | Coincide con la descripción del contrabandista. Y también se parece bastante a la Nian de las leyendas.
+0011 [Iris] | ¿Contrabandista?
+0012 [Tú] | Cierto, ustedes no lo saben. Los tipos que las contrataron manejaban una red de contrabando de pólvora.
+0013 [Noya] | Pero dijeron que necesitaban encontrar a su amiga en el Monolito...==W== ¿Era mentira?
+0014 [Tú] | Solo una historia de fachada. Ni siquiera son Loong.
+0015 [Iris] | Con razón actuaban tan sospechoso y no quisieron pagar el resto por adelantado.
+0016 [Noya] | Sí me pareció raro que solo trajeran petardos. Supongo que así es como pasan la pólvora de contrabando...
+0017 [Iris] | Mi culpa. Debí investigar mejor el trabajo antes de aceptarlo.
+0018 [Amber] | No es tu culpa, Iris.
+0019 [Jinglin] | ¡Exacto! ¡Esos contrabandistas eran grandes actores! No puedo creer que lloré por su historia falsa... Ugh, qué vergüenza...
+0020 [Noya] | Entonces... ¿salieron vivos del Monolito?
+0021 [Coronis] | Y perfectamente sanos. De hecho, tenían energía de sobra para oponer resistencia cuando los arrestamos.
+0022 [Noya] | Qué bueno.
+0023 [Chixia] | Noya, ¿no estás enojada?
+0024 [Noya] | Un poquito, claro. Pero la verdad es que me preocupaba más que se lastimaran en el Monolito.
+0025 [Noya] | Además, ahora que los atraparon, recibirán lo que merecen, ¿no?
+0026 [Shimiao] | Exacto. Los culpables ya fueron entregados a la Guardia Loong.
+0027 [Noya] | ¡Je, je! Supongo que eso cuenta como desquite para nosotras, entonces.
+0028 [Tú] | Yo solo me alegro de que estén todas a salvo.
+0029 [Tú] | El jefe de los contrabandistas dijo que una Nian feroz los atacó. Que escaparon con vida por poco...
+0030 [Tú] | Entonces, ¿este es... esa «Nian feroz»?
+0031 [Lucky] | ¿Auuu?
+0032 [Tú] | No se ve tan peligroso... De hecho, parece que ustedes se la están pasando de maravilla.
+0033 [Iris] | Nosotras tampoco esperábamos que las cosas resultaran así...
+0034 [Noya] | ¡Lucky estaba bastante feroz cuando salió de repente! ¡Nos dio un susto de muerte!
+0035 [Iris] | Pero luego nos dimos cuenta de que... no tenía intención de atacarnos.
+0036 [Tú] | ¿Por qué?
+0037 [Iris] | Parecía que...==W== lo único que quería era darse un festín con los petardos.
+0038 [Chixia] | Entonces, ¿por qué no soltaron el alijo y salieron corriendo?
+0039 [Iris] | Ese era justo el plan. El problema es que...
+0040 [Lucky] | Grrr...
+0041 [Iris] | ¿Ves? Justo así. Cada vez que intentamos ir hacia la puerta, Lucky nos corta el paso y no deja salir a nadie.
+0042 [Noya] | Sabíamos que tarde o temprano nos encontrarías, ==PLAYER_NAME==.==W== Pensamos que mejor le pedíamos a Jinglin que nos enseñara Mahjong. ¡Es mejor que mirar las paredes!
+0043 [Coronis] | Sé que el Mahjong es popular entre los Loong, pero esto es... dedicación. No esperaba que Jinglin cargara un juego completo a todas partes.
+0044 [Jinglin] | ¿Cargar un juego a todas partes? ¿Estás bromeando? Lo sacamos de una Caja de Deseos. Pedimos una mesa de Mahjong totalmente automática y... ¡puf!, ahí estaba.
+0045 [Tú] | Gastar un deseo en una mesa de juego demuestra que están obsesionadas... En fin, ya me hago una idea.
+0046 [Tú] | Pero hay algo que me inquieta...==W== ¿Por qué el nombre «Lucky»?
+0047 [Noya] | Idea de Jinglin. Lindo, ¿verdad?
+0048 [Jinglin] | ¡Mi abuela tenía un perro llamado «Lucky». De pequeña éramos inseparables!
+0049 [Jinglin] | Este pequeñín me lo recuerda, así que el nombre se quedó.
+0050 [Lucky] | Auuu...
+0051 [Jinglin] | Jeje... ¿Ven? Le encanta~
+0052 [Lucky] | ¡Auuu!
+0053 [Chixia] | Para nosotros los Loong, «Lucky» es básicamente un nombre clásico para mascotas.
+0054 [Lucky] | ¡Guau!
+0055 [Chixia] | ¡Genial! ¡Si algún día tengo una mascota, quiero una igualita a este!
+0056 [Chixia] | Oye, Lucky, ¿nos enseñas un truco?
+0057 [Lucky] | ¿Guau?
+0058 [Tú] | Está completamente encantada...
+0059 [Coronis] | Una dieta de petardos... Comportamiento fascinante.
+0060 [Coronis] | ¿Pero por qué las retiene aquí? Una bestia territorial debería expulsar a los intrusos, no atraparlos adentro.
+0061 [Tú] | Eh, ¿nos habrá marcado como raciones de emergencia en cuanto entramos?
+0062 [Coronis] | Je. No lo descartaría.
+0063 [Jinglin] | ¡Ni hablar! ¡Lucky no es así!
+0064 [Coronis] | ¿Oh? Entonces, ¿cuál es tu teoría, Jinglin?
+0065 [Jinglin] | Creo que...==W== También quiere celebrar con nosotras el Festival Buscaprimavera.
+0066 [Jinglin] | Antes, toda la familia volvía a Cangwu y se reunía en casa de la abuela para el festival.==W== Lucky se emocionaba tanto, corría por todos lados rogando que jugaran con él.
+0067 [Jinglin] | Pero cuando el festival terminaba y la gente se iba, se deprimía.==W== A veces hasta bloqueaba la puerta para que no nos fuéramos.
+0068 [Jinglin] | Bloquear la salida así... me recuerda exactamente a cómo Lucky cuidaba la puerta.
+0069 [Noya] | Tiene sentido...==W== Por lo menos todavía no ha intentado atacarnos.
+0070 [Tú] | Solo quiere compañía para el festival... Mmm...
+0071 [Noya] | Viéndolo así, ¿quién tendría corazón para darle una paliza solo para poder irse?
+0072 [Amber] | Lucky no es el único que se siente solo.
+0073 [Amber] | Nosotras también queríamos pasar el festival contigo, ==PLAYER_NAME==.
+0074 [Opción] | Yo siento lo mismo.
+0075 [Opción] | Donde sea que estés, te encontraré.
+0076 [Chixia] | ¡Oigan! ¡Vengan acá! ¡Algo le pasa a Lucky!
+0077 [Coronis] | ¿Qué sucede?
+0078 [Shimiao] | Parece agitado. Miren cómo da vueltas, se levanta y se vuelve a echar una y otra vez.
+0079 [Chixia] | Y no deja de tener hipo.
+0080 [Lucky] | Hip... pfft.
+0081 [Chixia] | ¿¡Viste eso!? ¡Ahora echa fuego!
+0082 [Coronis] | ¿Mostró alguno de estos síntomas antes?
+0083 [Jinglin] | No... Hace un momento estaba lleno de energía, corriendo en círculos a nuestro alrededor.
+0084 [Jinglin] | Luego se quedó callado de repente. Pensé que simplemente se había cansado.
+0085 [Coronis] | Mmm... Permítanme echar un vistazo.
+0086 [Coronis] | Ya veo...==W== Ha ingerido una cantidad excesiva de petardos. Un caso severo de indigestión.
+0087 [Tú] | ¿Indigestión...?
+0088 [Jinglin] | ¿Podemos hacer algo? El pobrecito se ve fatal.
+0089 [Coronis] | Je, je... Pensar que me toparía con un caso tan fascinante en un lugar como este.
+0090 [Coronis] | Fue providencial que decidiera empacar esto para el viaje.
+0091 [Chixia] | ¡M-miren el tamaño de eso...! ¿¡Ese es el «protocolo quirúrgico de emergencia» que mencionaste antes!?
+0092 [Tú] | Eso es... muy propio de la doctora Coronis... Aguanta, Lucky.
+0093 [Lucky] | ¿Guau?
+0094 [Coronis] | Shhh, pórtate bien. Todo esto terminará pronto...
+0095 [Lucky] | ¡AUUUUUUU!
+0096 [Jinglin] | ¡Lucky! ¡Deja de correr! ¡La inyección es por tu bien!
+0097 [Coronis] | (suspiro) No puedo administrar el tratamiento en estas condiciones... Todos, por favor, ayuden a sujetar al paciente.

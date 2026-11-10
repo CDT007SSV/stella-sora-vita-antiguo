@@ -1,0 +1,6 @@
+# Historia de Ridge — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_116_01 | Un invernadero atípico (Parte I)
+CG_116_02 | Un invernadero atípico (Parte II)
+CG_116_03 | Un invernadero atípico (Parte III)

@@ -1,0 +1,151 @@
+# Capítulo 8 · Calor residual · Recuerdo · Happy Birthday Ⅲ
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Everyone | Todos
+N:Noya & Iris & Amber | Noya, Iris y Amber
+N:Orphanage Kids | Niños del orfanato
+N:Taffett | Taffett
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_139 | Allie
+N:avg3_1230 | Niña
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_181 | Narida
+N:avg3_200 | Chico del Distrito de las Cenizas
+
+## Texto
+0001 [Intro] | Recuerdo
+0002 [Intro] | Feliz cumpleaños Ⅲ
+0003 [Intro] | Narida y Taffett sobrevivieron a la batalla. En los últimos momentos del recuerdo, los niños celebraron juntos el cumpleaños de Taffett. Taffett perdió sus recuerdos tal como estaba planeado y se convirtió en Allie, mientras que Narida partió...
+0004 [Narración] | Año 987 del Calendario Monolítico
+0005 [Lugar y hora] | 05:30, 22.º del mes de Sonus, Distrito de las Cenizas de Emor, Calle sin nombre
+0006 [Narida] | Taffett, no te duermas. ¿Me oyes? ¡Di algo!
+0007 [Narida] | Ya casi llegamos a la clínica. Es un rasguño, te pueden curar.==W== ¡Ni se te ocurra cerrar los ojos!
+0008 [Taffett] | No... Nada de doctores. Llévame a casa.
+0009 [Narida] | ¡¿Estás loca?! ¡Te vas a morir!
+0010 [Taffett] | Hay medicina en el sótano, de Su Majestad. Funciona mejor que cualquier clínica...==W== Puedo arreglármelas.
+0011 [Narida] | ...¿Rechazas al doctor porque temes que descubran que eres un Gato Blanco?
+0012 [Narida] | ¡No es momento de preocuparse por eso!
+0013 [Taffett] | No... No es... por los Gatos Blancos...
+0014 [Narida] | ¿Entonces por qué?
+0015 [Taffett] | Les prometí... que volvería antes del amanecer. No puedo romper esa promesa.
+0016 [Taffett] | Quiero que ellos... crean... que este mundo no está completamente perdido.
+0017 [Narida] | ...Bueno, bueno. ¿Estás totalmente segura de que con ir a casa basta?==W== Entonces más te vale curarte. Si te me mueres, nunca te lo voy a perdonar.==W== Ni una cicatriz, ¿entendido?
+0018 [Taffett] | Je...==W== Estricta hasta con los heridos.==W== Naciste para ser...==W== la capitana de los Gatos Blancos.
+0019 [Taffett] | Oye...==W== Déjame en la puerta. Y...==W== llévate mis armas, por favor.
+0020 [Narida] | Taffett, necesitas algo para defenderte.
+0021 [Taffett] | No necesito nada...==W== Al menos...==W== no frente a...==W== los niños.
+0022 [Taffett] | Ellos no saben...==W== quién soy...==W== Y como no lo saben,==W== nunca tendrán que saberlo...
+0023 [Taffett] | Además...==W== no quiero que me vean con armas manchadas de sangre.
+0024 [Narida] | Yo no estaría tan segura. Son listos. Tal vez ya...
+0025 [Taffett] | Aun así...==W== no voy a arrastrarlos a nuestro mundo.==W== Que estas peleas sin sentido se queden en el pasado. Esto termina con nosotras.
+0026 [Narida] | ¡Ja! Mira cuánto has cambiado, Taffett.
+0027 [Taffett] | Claro. Yo también estoy creciendo...==W== Aunque lo mío con las tareas de la casa no tenga remedio...==W== En fin...==W== Ayúdame a guardar este secreto...==W== Puedes hacerlo, ¿verdad?
+0028 [Narida] | Qué tramposa...==W== ¿Cómo voy a decirte que no si estás así?
+0029 [Narida] | Muy bien, llegamos.==W== Me llevaré el arma y armaré un alboroto en el distrito de al lado. Descansa.==W== Nos vemos mañana, Taffett.==W==
+0030 [Taffett] | Nos vemos mañana...==W==
+0031 [Amber] | Mamá...
+0032 [Noya] | ¿Q-qué hacemos? Estás sangrando... ¡No para!
+0033 [Taffett] | Cof... Oigan, tranquilos. Nada de lágrimas... Estoy bien. Me caí torpemente en el trabajo y me raspé un poco... Con algo de medicina y una buena dormida, quedaré como nueva...
+0034 [Iris] | Medicina... ¡Y-yo la traigo!
+0035 [Narración] | Con la vista nublada, Taffett vio alejarse corriendo a la pequeña figura: la niña que Su Majestad le había confiado.
+0036 [Narración] | Primero una niña. Luego otra. Luego una más.==W== Creía que solo había acogido a unas cuantas almas perdidas.==W== En realidad, era ella quien había sido acogida.
+0037 [Taffett] | La que de verdad se salvó... fui yo.
+0038 [Iris] | ¡Mamá! Traje la medicina. ¡Rápido, tómatela!
+0039 [Taffett] | Gracias... Pero ya les dije... que no me digan «mamá»...
+0040 [Iris] | ¡No! ¡No te voy a hacer caso! Porque...
+0041 [Iris] | ¡Perdón por decirte cosas horribles anoche...! ¡Pero para mí, mamá es mamá! Anoche solo estábamos...
+0042 [Amber] | Queríamos estar contigo.
+0043 [Noya] | ¡Sí! ¡Porque ayer era tu cumpleaños!
+0044 [Taffett] | ¿Mi cumpleaños...? ¿Ayer?
+0045 [Noya] | ¡Sí! ¡Ayer era tu cumpleaños!
+0046 [Taffett] | Mi... cumpleaños... ¿Todo ese tiempo que pasaron preparando algo... era para mí?
+0047 [Taffett] | Ah... Jaja... Gracias. Nunca me lo hubiera imaginado...
+0048 [Taffett] | Pero... ¿de verdad pueden aceptar a una mamá como yo? Yo... podría ser una mentirosa...
+0049 [Noya] | ¡No lo eres! ¡Eres nuestra mamá, nuestra única mamá!
+0050 [Taffett] | ...Mmm... Je... Así que eso sienten... Pero yo... lo siento. Hasta les dije que no me llamaran mamá... Cof...
+0051 [Taffett] | Estaba... tan concentrada en cumplir la misión que me dio Su Majestad... que nunca pensé en lo que ustedes necesitaban... Lo único que siempre quisieron... era un hogar de verdad...
+0052 [Taffett] | E-entonces... Aunque quizá sea tarde para decirlo... Hasta que encuentren a su verdadera mamá y a su verdadero papá... ¿m-me dejarían ser su mamá?
+0053 [Amber] | Eso no está bien. Mamá es mamá. Tú eres nuestra verdadera mamá, la única.
+0054 [Noya] | ¡Digan lo que digan los demás, eres nuestra única mamá!
+0055 [Iris] | Así que, por favor, ya no aceptes trabajos peligrosos. ¡Si necesitamos dinero, lo resolveremos juntas!
+0056 [Taffett] | Está bien... Lo prometo... Ya no aceptaré trabajos peligrosos que las preocupen...
+0057 [Taffett] | Haremos este lugar más grande... Traeremos a todos los niños sin hogar del Distrito de las Cenizas... Construiremos un hogar de verdad y los haremos parte de la familia...
+0058 [Iris] | Pero si hay más niños, ¿no será demasiado pesado para ti, mamá?
+0059 [Taffett] | Jeje... Tal vez sí. Pero esto es algo... que t-tengo que hacer.
+0060 [Taffett] | Algún día... encontrarán sus propios sueños y tendrán el valor de perseguirlos...
+0061 [Taffett] | Y cuando llegue ese día... si puedo tomarlas de la mano y darles un empujoncito cuando lo necesiten... entonces todo este esfuerzo habrá valido la pena.
+0062 [Taffett] | Porque soy su mamá... De todas ustedes.
+0063 [Noya] | ¡Sí! ¡Así que tienes que recuperarte pronto, mamá!
+0064 [Amber] | Te protegeremos hasta que te recuperes.
+0065 [Taffett] | Entonces cuento con ustedes, mis pequeñas guardaespaldas... Ah, pero todavía no me digan mamá delante de otras personas, ¿sí?
+0066 [Iris] | ¿Eh? ¿Por qué no? Dijiste que serías nuestra mamá...
+0067 [Taffett] | Hay cosas que ahora no puedo contarles... Pero todo lo que hago es para mantenerlas a salvo. Por eso...
+0068 [Taffett] | Cuando me haya encargado de todo... podrán llamarme mamá donde quieran, incluso en público.
+0069 [Taffett] | Así que, por ahora... que sea nuestro pequeño secreto. ¿Trato hecho?
+0070 [Noya] | ¡Sí! ¡Trato hecho!
+0071 [Amber] | Sin mentiras.
+0072 [Iris] | ¡Eso! ¡Hagamos promesa de meñique!
+0073 [Everyone] | ¡Promesa de meñique, una promesa que nunca se rompe!
+0074 [Narración] | Taffett toma de la mano a las niñas y cierra los ojos.
+0075 [Narración] | La luz del sol asoma por el borde de la ciudad. Llegó el amanecer de una nueva familia.
+0076 [Narración] | Un año después
+0077 [Narración] | Año 988 del Calendario Monolítico
+0078 [Lugar y hora] | 10:30, 21.º del mes de Sonus, Distrito de las Cenizas de Emor, Orfanato de las Cenizas
+0079 [Orphanage Kids] | ¡Feliz cumpleaños!
+0080 [Narida] | Feliz cumpleaños, Taffett.
+0081 [Noya & Iris & Amber] | ¡Feliz cumpleaños, mamá!
+0082 [Taffett] | Gracias a todos.
+0083 [Amber] | Pero... ¿solo veinte velitas? ¿Alcanza con eso?
+0084 [Iris] | ¡Espera, Amber,==W== no digas eso!
+0085 [Noya] | ¡Mamá! ¡Narida me contó un secreto!==W== ¡Si apagas todas las velitas de un solo soplido, puedes pedir un deseo!
+0086 [Taffett] | ¿Un deseo?==W== Lo intentaré.
+0087 [Taffett] | Deseo que todos crezcan sanos y felices.==W== Y deseo que podamos quedarnos todos juntos aquí para siempre.==W== Ah... Tengo muchos deseos.==W== ¿Estoy siendo codiciosa?
+0088 [Noya] | ¡Oye, no los digas en voz alta! No importa cuántos tengas. ¡Si los dices, no se cumplen!
+0089 [Taffett] | Ah, ¿así funciona? Jeje.==W== Bueno, si los digo en voz alta, todos podemos echar una mano. Prefiero confiar en nosotros que en los dioses.
+0090 [Iris] | ¿Entonces qué caso tiene pedir deseos?==W== En fin, ya se apagaron las velitas.==W== ¡Hora del pastel!
+0091 [Amber] | Yo lo corto.
+0092 [Noya] | ¡Oye, no se vale!==W== ¡Yo quería cortarlo! ¡Me apunto la segunda rebanada!
+0093 [Taffett] | Tranquilas, tranquilas. No se peleen. Hay suficiente para todos.
+0094 [Narida] | Oye, Taffett. ¿Tienes un segundo? Sal un momento, necesito hablar contigo.
+0095 [Taffett] | ¿Qué pasa?
+0096 [Narida] | Qué día tan bonito.==W== Hiciste algo increíble aquí, ¿sabes? Construiste un orfanato en un año y lo mantienes funcionando de maravilla.
+0097 [Taffett] | Se lo debo a usted. Estaríamos hundidos si no me hubiera enseñado a pedir deseos en el Monolito.==W== Cambiar mis recuerdos por Artefactos valió la pena: por ahora estamos bien de Dorra.
+0098 [Taffett] | ¿Sabes? Eso de escribir todo lo importante en una libreta y leerla después de cada viaje al Monolito es genial.==W== Es una Trekker de primera.
+0099 [Narida] | Una Trekker... de primera, ¿eh?...
+0100 [Taffett] | Y...==W== usted era mi mejor amiga, ¿verdad, señorita Narida?==W== Apenas lo descubrí el otro día, cuando revisé mis notas.
+0101 [Narida] | Jaja. Sí. Éramos mejores amigas.
+0102 [Narida] | Verte así me deja tranquila. Parece que nuestro pequeño truco contra el hechizo de extracción de recuerdos funcionó.
+0103 [Narida] | ...Es hora de que yo haga mi propia jugada.
+0104 [Narida] | Oye, esa Piedra del Alma roja firmada que está en el sótano. ¿Me la das?
+0105 [Taffett] | La Piedra del Alma roja...==W== Creo que sé cuál es.==W== Llévatela. Tengo otras.
+0106 [Narida] | Gracias.==W== Ya me voy, Taffett.
+0107 [Taffett] | ...¿Señorita Narida?==W== ¿Va a ir a algún lugar lejano?
+0108 [Narida] | ¿Eh? ¿Por qué lo preguntas?
+0109 [Taffett] | Siempre dice que nos vemos luego.==W== Esta vez dijo que ya se iba. Eso fue lo que me dio la pista...
+0110 [Narida] | Jaja...==W== Notas hasta el cambio más pequeño. Esa es mi compañera.
+0111 [Narida] | Si el destino lo permite, nos volveremos a ver.
+0112 [Taffett] | ...Ya entiendo. De verdad se va.==W== Entonces, antes de irse, ¿podría hacerme un último favor?
+0113 [Narida] | Claro. Me llevé tu Piedra del Alma. Te lo debo.
+0114 [Taffett] | Gracias. Quiero que...==W== me dé un nombre nuevo.==W== Creo que Taffett ya no me queda.
+0115 [Taffett] | Así que...==W== quiero algo sencillo. Mientras más sencillo, mejor...==W== ¿Es mucho pedir?
+0116 [Narida] | Un nombre...==W== Eso es algo muy importante. ¿Segura que quieres que alguien como yo lo decida?
+0117 [Taffett] | No diga «alguien como yo» de esa forma.==W== Me conoce mejor que nadie en el mundo. Es mi mejor amiga, ¿no?
+0118 [Narida] | Jeje ♪==W== Si lo pones así, no puedo negarme.==W== A ver...==W== ¿Qué tal Allie?
+0119 [Taffett] | Al... Allie.==W== Qué bonito. ¿Tiene alguna historia?
+0120 [Narida] | No. Se me ocurrió de repente. Es de lo más común, como pediste.==W== ¡Entonces está decidido!
+0121 [Narida] | Bueno, ya me voy.==W== Allie... Pase lo que pase, sigue adelante.
+0122 [Allie] | Gracias... Narida.
+0123 [Narida] | Tú...==W== Ah, olvídalo.==W== Es mejor así.
+0124 [Amber] | ¡Mamá, el pastel está listo!==W== ¡Ven a comer!
+0125 [Noya] | ¡Hoy tú eres la estrella, mamá!==W== Te guardé la rebanada con fresa.
+0126 [Iris] | ¡Shh, ustedes dos! Estamos en público. No griten «mamá» así. ¿Y si alguien las oye?
+0127 [Allie] | Ya, ya, Iris.==W== Relájate un poco.
+0128 [Allie] | Vaya, este pastel está increíble.==W== Noya, ¡tu repostería deja en vergüenza a la de mamá!
+0129 [Narida] | ...Es mejor así.==W== Para proteger el futuro de esas niñas...==W== los adultos tenemos que enterrar el pasado.
+0130 [Narida] | Muy bien,==W== Compañía del Gato Blanco... Es hora de nuestro...==W== último telón.

@@ -1,0 +1,19 @@
+# Afinidad de 997: archivo del personaje y recuerdos de citas
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (a123.t, d456.m...).
+# Los saltos de línea van escritos como \n: déjalos donde van. Respeta ==PLAYER_NAME== y las marcas <...>.
+
+## Archivo (t = título, c = texto, u = texto extra)
+a99702.t | 
+a99703.t | 
+a99704.t | 
+a99705.t | 
+a99706.t | 
+a99707.t | 
+a99708.t | 
+a99709.t | 
+a99710.t | 
+a99711.t | 
+a99712.t | 
+a99713.t | 
+
+## Citas (n = nombre, 1-3 = escena, p = pista, m = recuerdo)

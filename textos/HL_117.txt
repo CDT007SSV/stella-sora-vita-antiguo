@@ -1,0 +1,315 @@
+# Heartlink de Jinglin: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Jinglin] | ¡Bienvenidos, bienvenidos!
+A01.0002 [Jinglin] | Si tienes alguna sugerencia sobre el servicio o los platillos del Restaurante Huaijing, ¡no dudes en contactarme directamente!
+A01.0003 [Opción] | Claro, gerente Jinglin
+A01.0004 [Opción] | Sin problema, gerente Jinglin
+A01.0005 [Tú] | ¿Alguna promoción para clientes nuevos?
+A01.0006 [Jinglin] | ¡Por supuesto! ¡Y es muy buena!
+A01.0007 [Jinglin] | Los clientes nuevos recibirán de cortesía un platillo salteado de la casa~
+A01.0008 [Jinglin] | Si gastas más de 6,000 Dorra, también recibirás un cupón de descuento: 3,000 de descuento por cada 5,000 gastados.
+A01.0009 [Tú] | ¡Guau, qué buen trato!
+A01.0010 [Jinglin] | Sí, pero tenemos nuestra propia política de cupones~
+A01.0011 [Jinglin] | Puedes usar hasta dos cupones por visita y recibirás uno extra después de usarlos
+A01.0012 [Tú] | ¿Uno extra?
+A01.0013 [Jinglin] | Así esperamos que los clientes regresen, tú incluido~
+A01.0014 [Tú] | Es un buen modelo de negocio.
+A01.0015 [Jinglin] | Gracias~
+
+## Conversación A02
+A02.0001 [Jinglin] | Oye, oye, ¿prefieres lo salado o lo dulce?
+A02.0002 [Opción] | Salado
+A02.0003 [Opción] | Dulce
+A02.0004 [Opción] | ¡Mientras sepa rico!
+A02.0005 [Tú] | Salado, a fin de cuentas
+A02.0006 [Tú] | La mayor parte del tiempo, los miembros de nuestro gremio sobreviven a base de Ruiseñor Leonado con una pizca de sal
+A02.0007 [Tú] | Cuando Noya asa la carne, también le gusta ponerle muchas especias y sal
+A02.0008 [Tú] | Dice que lo hace por experiencia propia entre Trekkers.
+A02.0009 [Jinglin] | No sé por qué es así, ¡pero lo anotaré!
+A02.0010 [Tú] | ¡Lo dulce, sin duda!
+A02.0011 [Tú] | La mayor parte del tiempo, los miembros de nuestro gremio sobreviven a base de Ruiseñor Leonado con una pizca de sal
+A02.0012 [Tú] | Cuando Noya asa la carne, también le gusta ponerle muchas especias y sal.
+A02.0013 [Tú] | ¡Pero lo dulce es lo que me levanta el ánimo!
+A02.0014 [Jinglin] | Jeje, a mí me pasa igual~
+A02.0015 [Tú] | ¡No importa, mientras sepa rico!
+A02.0016 [Jinglin] | Jeje, parece que no eres de gustos difíciles. En ese caso...
+A02.0017 [Tú] | ¿En ese caso?
+A02.0018 [Jinglin] | ¡En resumen, el Restaurante Huaijing busca Trekkers que sean probadores de platillos como parte de nuestro plan de expansión!
+A02.0019 [Jinglin] | Si te gusta lo salado, te haremos probar nuestros nuevos platillos salados~
+A02.0020 [Jinglin] | Y si te gustan los dulces...
+A02.0021 [Tú] | ¿Me harán probar los nuevos platillos dulces?
+A02.0022 [Jinglin] | ¡Exacto!
+A02.0023 [Tú] | ¿Qué hace exactamente un probador de platillos?
+A02.0024 [Jinglin] | Nuestro restaurante presenta platillos nuevos cada trimestre y los probadores pueden probarlos gratis
+A02.0025 [Jinglin] | Después de probar, los probadores deben llenar un cuestionario con sus opiniones sobre los platillos nuevos~
+A02.0026 [Jinglin] | ¡Si estás en Philae cuando lancemos platillos nuevos, no dejes de pasar!
+A02.0027 [Tú] | ¡Claro!
+A02.0028 [Jinglin] | ¡Espero verte pronto!
+
+## Conversación A03
+A03.0001 [Jinglin] | Jeje, mira lo que conseguí: ¡«Guía científica de mahjong 3.0»!
+A03.0002 [Opción] | Dame una copia
+A03.0003 [Opción] | Meh, paso
+A03.0004 [Tú] | ...¿Ya van en la versión 3.0?
+A03.0005 [Jinglin] | Jeje, el otro día mi mamá y yo volvimos a Cangwu, ¡y le pedí a Shimiao que la compilara para mí!
+A03.0006 [Tú] | Gracias, pero paso. Ninguna ciencia puede arreglar la mala suerte ni una mala mano...
+A03.0007 [Jinglin] | ¡No, no, esta versión sí ayudará!
+A03.0008 [Tú] | ¿Ya la 3.0? Qué rápido
+A03.0009 [Jinglin] | Jeje, el otro día mi mamá y yo volvimos a Cangwu, ¡y le pedí a Shimiao que la compilara para mí!
+A03.0010 [Tú] | ...
+A03.0011 [Tú] | ...
+A03.0012 [Tú] | Vaya, esta versión tiene muchas ilustraciones
+A03.0013 [Tú] | Aunque no ayudan nada a entender las fórmulas que escribió Shimiao
+A03.0014 [Jinglin] | Ah, las ilustraciones las dibujó Chixia...
+A03.0015 [Jinglin] | Es la prima de la hija de la cuñada de la tía abuela del vecino de mi pueblo.
+A03.0016 [Tú] | En resumen, una amiga, entendido
+A03.0017 [Jinglin] | ¡Sugirió añadir algo para que todo fuera más legible y creó personalmente estas «obras maestras»!
+A03.0018 [Jinglin] | ¡Las vi! Obras maestras, en cierto modo.
+A03.0019 [Tú] | Está bien
+A03.0020 [Tú] | Si tú lo dices
+A03.0021 [Jinglin] | Asegúrate de leerla con cuidado~
+A03.0022 [Jinglin] | La próxima vez que vengas, si me ganas al mahjong
+A03.0023 [Jinglin] | ¡Todo tu gremio comerá gratis!
+A03.0024 [Tú] | ¡Pondré a todos los demás a estudiarla de inmediato!
+
+## Conversación A04
+A04.0001 [Jinglin] | (Mirada fija)
+A04.0002 [Jinglin] | (Mirada fija)
+A04.0003 [Opción] | ¿Qué pasó?
+A04.0004 [Tú] | ¿Qué pasó? ¿Qué sucede?
+A04.0005 [Jinglin] | ¡Todavía no me has devuelto el cuestionario!
+A04.0006 [Tú] | ¡Ay, no!
+A04.0007 [Tú] | De repente nos llegaron muchos encargos estos días. Pensaba entregarlo pronto...
+A04.0008 [Jinglin] | Muchos encargos...
+A04.0009 [Jinglin] | ¡Qué bien!
+A04.0010 [Jinglin] | ¡Eso significa que tú y todos en el Gremio de la Nueva Estrella no tendrán que comer Ruiseñor Leonado todos los días!
+A04.0011 [Jinglin] | El cuestionario puede esperar. ¡Primero está ganar dinero!
+A04.0012 [Tú] | Jinglin...
+A04.0013 [Tú] | Eres muy comprensiva...
+A04.0014 [Jinglin] | ¡Los miembros trabajadores merecen una buena comida!
+A04.0015 [Jinglin] | ¿Qué tal si la hacen en Huaijing?
+A04.0016 [Tú] | Ya veo—
+A04.0017 [Tú] | ¡Qué intereses ocultos!
+A04.0018 [Jinglin] | Jeje, ¡creo que es una gran idea!
+A04.0019 [Tú] | Justo ahora estamos cerca de Philae...
+A04.0020 [Tú] | ¿Podría la señorita gerente reservarnos una mesa grande? ¡Nos vemos esta noche!
+
+## Conversación A05
+A05.0001 [Jinglin] | (Suspiro)
+A05.0002 [Jinglin] | (Suspiro)
+A05.0003 [Jinglin] | Quizá aprender gramática requiere talento. ¿Tú qué opinas, Jefe?
+A05.0004 [Opción] | ¿Sacaste mala nota en tu examen?
+A05.0005 [Opción] | ¿No pudiste memorizarlo para tu examen?
+A05.0006 [Jinglin] | Qué mal... Fallé nueve de diez preguntas de gramática y la que acerté fue de pura suerte
+A05.0007 [Tú] | Eso también requiere cierto talento
+A05.0008 [Jinglin] | No, fue un quiz que me puso mi mamá
+A05.0009 [Jinglin] | Fallé nueve de diez preguntas de gramática y la que acerté fue de pura suerte
+A05.0010 [Tú] | Eso también requiere cierto talento
+A05.0011 [Jinglin] | Deja de burlarte de mí
+A05.0012 [Tú] | Te enseñaré un truco que aprendí de un maestro: ¡una regla mnemotécnica muy práctica!
+A05.0013 [Jinglin] | ¿Te refieres a la de «tres cortas, una larga: elige la más larga; tres largas, una corta: elige la más corta»?
+A05.0014 [Tú] | Vaya. ¿Tú también la conoces?
+A05.0015 [Tú] | Hay cosas que son universales sin importar en qué ciudad vivas
+A05.0016 [Jinglin] | Pero a mí no me sirvió de nada
+A05.0017 [Tú] | Lo que demuestra que no hay atajos para aprender. ¡En el futuro tendrás que hacerlo por las malas!
+A05.0018 [Jinglin] | Bueno, no tengo opción.
+A05.0019 [Jinglin] | Mi mamá me confiscó las fichas de mahjong. Si repruebo el quiz otra vez la próxima semana, no volveré a verlas jamás
+A05.0020 [Jinglin] | ¡Asegúrate de esconder el juego de fichas de mahjong que te di!
+A05.0021 [Jinglin] | Si las cosas salen mal la próxima semana... ¡ese juego de fichas será mi última esperanza!
+
+## Conversación A06
+A06.0001 [Jinglin] | ¿Cómo es que siempre sabes lo que siento?
+A06.0002 [Jinglin] | Lo hiciste cuando jugamos mahjong la última vez
+A06.0003 [Jinglin] | Y cuando no podía con mi tarea
+A06.0004 [Jinglin] | Y cuando no ganamos el premio de «Negocio Sobresaliente» este trimestre.
+A06.0005 [Opción] | Es porque tengo poder de observación
+A06.0006 [Opción] | Es porque puedo leerte la mente
+A06.0007 [Tú] | Es porque tengo poder de observación, claro
+A06.0008 [Tú] | ¿No lo sabes? Tienes una seña.
+A06.0009 [Jinglin] | ¿A qué te refieres?
+A06.0010 [Tú] | Es porque puedo leerte la mente, claro
+A06.0011 [Jinglin] | ¿¿¿Puedes hacer eso???
+A06.0012 [Tú] | ¡¿No me digas que lo creíste?!
+A06.0013 [Jinglin] | ¡¡Claro que no!!
+A06.0014 [Tú] | En realidad, es porque tienes una seña
+A06.0015 [Jinglin] | ¿A qué te refieres?
+A06.0016 [Tú] | ¡La seña es tu cola!
+A06.0017 [Jinglin] | (Suspiro)
+A06.0018 [Tú] | Cuando estás feliz, meneas la cola hacia arriba tres veces: una a la izquierda y dos a la derecha.
+A06.0019 [Tú] | Cuando estás triste, simplemente cae.
+A06.0020 [Tú] | Cuando estás enojada, se esponja como loca
+A06.0021 [Tú] | Sin mencionar que...
+A06.0022 [Jinglin] | ¡¡¡AAAH!!!
+A06.0023 [Jinglin] | BASTA
+A06.0024 [Jinglin] | ¡Me haces sentir como una niña!
+A06.0025 [Jinglin] | ¡De ahora en adelante voy a controlar mi cola!
+
+## Conversación A07
+A07.0001 [Jinglin] | ¡Tachán! ¡Tengo buenas noticias!
+A07.0002 [Jinglin] | ¡Vamos a cambiar nuestra vitrina de vinos por una nueva!
+A07.0003 [Jinglin] | Guardamos tantas botellas para los clientes que la vitrina actual se está quedando chica
+A07.0004 [Jinglin] | Así que la cambiaremos por una más grande y más alta~
+A07.0005 [Opción] | ¡Por tu gran éxito!
+A07.0006 [Opción] | ¡Que tu negocio prospere!
+A07.0007 [Jinglin] | Dejé una fila vacía
+A07.0008 [Jinglin] | ¡El lugar más destacado!
+A07.0009 [Jinglin] | Mi mamá dice que es la peyorativa de la gerente, jejeje
+A07.0010 [Tú] | ¿La peyorativa de la gerente?
+A07.0011 [Jinglin] | ¡Sí, una fila entera de botellas tuyas!
+A07.0012 [Jinglin] | Mmm... Ahora que lo digo, es más bien la prerrogativa del Jefe
+A07.0013 [Tú] | ¡La prerrogativa del Jefe... Suena muy impresionante!
+A07.0014 [Jinglin] | Solo impresiona si se llena toda la fila
+A07.0015 [Jinglin] | Ahora está vacía~
+A07.0016 [Tú] | ¡Supongo que tendré que esforzarme aún más de ahora en adelante!
+A07.0017 [Jinglin] | ¡No lo olvides!
+
+## Conversación A08
+A08.0001 [Jinglin] | Je...jeje
+A08.0002 [Jinglin] | ¡Jefe! ¡Mira!
+A08.0003 [Opción] | Se ve riquísimooo
+A08.0004 [Tú] | ¡¡¡Se ve riquísimooo!!!
+A08.0005 [Jinglin] | Hoy es mi cumpleaños, así que mi mamá me hizo este tazón de fideos~~
+A08.0006 [Tú] | ¡Feliz cumpleaños, Jinglin!
+A08.0007 [Jinglin] | Gracias, Jefe~~
+A08.0008 [Jinglin] | No le cuentes esto a nadie más, Jefe
+A08.0009 [Jinglin] | Antes de este año, cuando mi mamá estaba enferma, siempre era el abuelo Qin quien me hacía los fideos de cumpleaños.
+A08.0010 [Jinglin] | No es que no estuvieran ricos, y de ninguna manera quería que mi mamá se tomara tantas molestias, pero...
+A08.0011 [Jinglin] | De verdad quería comer fideos de cumpleaños hechos por ella
+A08.0012 [Jinglin] | Así que el año pasado, en mi cumpleaños, pedí un deseo en secreto: que mi mamá se recuperara
+A08.0013 [Jinglin] | Y que... me hiciera fideos de cumpleaños
+A08.0014 [Tú] | ¡Tu deseo se cumplió hoy!
+A08.0015 [Jinglin] | ¡Sip!
+A08.0016 [Jinglin] | ¡Cuando el abuelo Qin me dijo que mi mamá había hecho estos fideos, me puse feliz!
+A08.0017 [Jinglin] | Y mi mamá me prometió que me los hará todos los años en mi cumpleaños de ahora en adelante
+A08.0018 [Jinglin] | ¡Ok, me voy a comer mis fideos antes de que se pongan blandos!
+
+## Conversación A09
+A09.0001 [Jinglin] | Guau...
+A09.0002 [Jinglin] | ¡¡¡Guau!!!
+A09.0003 [Jinglin] | ¡El curso de entrenamiento de Trekker funciona mejor de lo que pensaba!
+A09.0004 [Opción] | Acepto con gusto todos tus elogios
+A09.0005 [Tú] | ¡Acepto con gusto todos tus elogios!
+A09.0006 [Jinglin] | ¡Elogios, elogios, elogios!
+A09.0007 [Jinglin] | ¡En mis sueños puedo lidiar con los cocineros que entran al restaurante buscando problemas y enfrentar a los matones que acosan a Cai!
+A09.0008 [Tú] | No esperaba oír eso...
+A09.0009 [Tú] | No tenía idea de que manejar un restaurante fuera un negocio tan duro.
+A09.0010 [Jinglin] | Bueno, en mis sueños lo es
+A09.0011 [Jinglin] | Antes de entrenar, cuando me topaba con gente mala en mis sueños, lo único que quería era huir
+A09.0012 [Jinglin] | ¡Pero ahora tengo el valor de enfrentarlos y proteger a todos!
+A09.0013 [Jinglin] | ¡Y es gracias a ti, Jefe!
+
+## Conversación A10
+A10.0001 [Jinglin] | Recibí el Disco Rúnico que me enviaste, Jefe.
+A10.0002 [Jinglin] | La portada es muy interesante
+A10.0003 [Opción] | La portada de cada Disco es única
+A10.0004 [Jinglin] | ¿Entonces la mía también es única?
+A10.0005 [Tú] | Por supuesto
+A10.0006 [Tú] | La portada, la melodía y los recuerdos sellados en él son irremplazables
+A10.0007 [Jinglin] | Recuerdos... ¡Ya veo!
+A10.0008 [Jinglin] | ¡Eres increíble, Jefe!
+A10.0009 [Jinglin] | Hmph, averígualo por tu cuenta
+
+## Conversación B01
+B01.0001 [Jinglin] | Oye Jefe, ¿quieres venir a comer hoy al Bistró de Jing?
+B01.0002 [Jinglin] | Inventé un platillo nuevo~
+B01.0003 [Jinglin] | Y quiero invitarte a probarlo~
+B01.0004 [Tú] | ¡Cuenta conmigo!
+B01.0005 [Tú] | ¿Qué clase de platillo nuevo?
+B01.0006 [Jinglin] | Los clientes siempre dicen que mis fideos fritos con huevo y mi arroz frito con huevo están buenísimos
+B01.0007 [Jinglin] | Pero una porción no llena
+B01.0008 [Jinglin] | Y si pides las dos, no te las terminas
+B01.0009 [Jinglin] | ¡Así que hice una versión mejorada!
+B01.0010 [Jinglin] | ¡Arrofideos fritos con huevo!
+B01.0011 [Tú] | Suena rico, pero
+B01.0012 [Tú] | ¡es una bomba total de carbohidratos!
+B01.0013 [Jinglin] | En fin, pasa más tarde a probarlo~
+
+## Conversación B02
+B02.0001 [Jinglin] | ¡Jefe! ¡Jefe!
+B02.0002 [Jinglin] | ¿Crees que también debería preparar algunos platillos salados?
+B02.0003 [Tú] | ¿A qué viene el interés repentino?
+B02.0004 [Jinglin] | Porque cuando termino un postre me dan ganas de botanas saladas
+B02.0005 [Jinglin] | Y después de las botanas saladas quiero postre otra vez
+B02.0006 [Jinglin] | Por esa lógica
+B02.0007 [Jinglin] | Si el Bistró de Jing sirviera platillos dulces y salados
+B02.0008 [Jinglin] | Los clientes nunca se irían
+B02.0009 [Jinglin] | Dulce y luego salado, salado y luego dulce
+B02.0010 [Tú] | Entiendo lo que dices
+B02.0011 [Tú] | Pero la gente no puede comer para siempre
+B02.0012 [Jinglin] | ¡Oh! Es verdad
+B02.0013 [Tú] | Pero ampliar el menú es una buena idea
+B02.0014 [Tú] | Si preparas algo nuevo, yo también quiero probarlo~
+B02.0015 [Jinglin] | Jaja, entonces espera y verás~
+B02.0016 [Jinglin] | ¡Cuando saque los platillos nuevos, serás mi primer probador!
+
+## Conversación B03
+B03.0001 [Jinglin] | Los hongos silvestres de la montaña ya deben de estar listos, ¿no?
+B03.0002 [Jinglin] | Jefe, ¿quieres ir a recoger hongos conmigo esta semana?
+B03.0003 [Opción] | ¿Recoger hongos?
+B03.0004 [Opción] | Suena muy divertido
+B03.0005 [Jinglin] | ¡Sí! Los hongos silvestres saben increíble tanto en sopa como salteados
+B03.0006 [Jinglin] | Todos los años por estas fechas
+B03.0007 [Jinglin] | Muchos loong suben a la montaña a recoger hongos
+B03.0008 [Tú] | ¿Cuándo salimos?
+B03.0009 [Jinglin] | Este sábado un guía que conoce la montaña llevará a un grupo
+B03.0010 [Jinglin] | ¿Vienes?
+B03.0011 [Tú] | Sí sí
+
+## Conversación B04
+B04.0001 [Jinglin] | Ay no, ay no, ay no.
+B04.0002 [Jinglin] | Hoy mi mamá revisó mis tareas
+B04.0003 [Jinglin] | Reprobé el quiz y dijo que fue porque pasé demasiado tiempo jugando mahjong
+B04.0004 [Tú] | ¿Te desvelaste jugando otra vez?
+B04.0005 [Jinglin] | ¡Solo una vez! El fin de semana pasado
+B04.0006 [Jinglin] | En fin
+B04.0007 [Jinglin] | Mi mamá dijo que me va a confiscar las fichas de mahjong
+B04.0008 [Jinglin] | ¿Podrías...
+B04.0009 [Jinglin] | guardármelas un tiempo?
+B04.0010 [Tú] | Debería estar bien...
+B04.0011 [Tú] | Te propongo algo: déjamelas a mí
+B04.0012 [Tú] | Y cuando apruebes el quiz la próxima vez
+B04.0013 [Tú] | Te las devuelvo
+B04.0014 [Jinglin] | Vale, vale
+B04.0015 [Jinglin] | Eh... Algo en esto no me cuadra
+
+## Conversación B05
+B05.0001 [Jinglin] | ¡Jefe, tengo buenas noticias para ti!
+B05.0002 [Tú] | ¿Sí?
+B05.0003 [Jinglin] | Hace poco revisé unos libros antiguos
+B05.0004 [Jinglin] | Decían que se pueden cocinar hierbas con la comida para hacer comidas medicinales
+B05.0005 [Jinglin] | El abuelo conoce muy bien las hierbas, así que le pedí que hiciera una receta para mi mamá
+B05.0006 [Jinglin] | ¡Lleva un mes comiéndola y parece que va mejorando un poco!
+B05.0007 [Jinglin] | Si esto funciona
+B05.0008 [Jinglin] | ¡Quizá se recupere por completo pronto!
+B05.0009 [Tú] | ¡Guau! ¡Qué noticia increíble!
+B05.0010 [Tú] | ¡Deberías celebrar!
+B05.0011 [Jinglin] | ¡Sí! ¡Buena idea!
+B05.0012 [Jinglin] | Pero mi mamá no puede salir por ahora...
+B05.0013 [Tú] | Entonces haz lo que mejor sabes hacer
+B05.0014 [Tú] | ¿Un banquete delicioso y una tarjeta hecha a mano para que se mejore pronto?
+B05.0015 [Tú] | Lo que cuenta es la intención
+B05.0016 [Jinglin] | ¡Sí! ¡Tienes razón!
+B05.0017 [Jinglin] | ¡Empiezo ahora mismo!
+
+## Conversación B06
+B06.0001 [Jinglin] | Jefe, ¿estás libre mañana?
+B06.0002 [Jinglin] | Vamos a ir a recolectar verduras silvestres. ¿Vienes?
+B06.0003 [Tú] | ¿?
+B06.0004 [Tú] | ¿No dijiste que mañana ibas a limpiar el restaurante a fondo?
+B06.0005 [Jinglin] | Sí
+B06.0006 [Jinglin] | Temprano por la mañana recogemos verduras, luego vamos al mercado, en la tarde hacemos la limpieza y por la noche jugamos mahjong con unos clientes habituales
+B06.0007 [Tú] | Guau, qué juventud
+B06.0008 [Tú] | ¿De dónde sacas tanta energía?
+B06.0009 [Jinglin] | Esto es normal, ¿no?
+B06.0010 [Jinglin] | Cuando manejas un restaurante
+B06.0011 [Jinglin] | Te levantas antes de las cinco a preparar todo, abres a las ocho, cierras a las diez de la noche y luego limpias la cocina
+B06.0012 [Jinglin] | Y quizá hagas una salida por insumos en medio
+B06.0013 [Tú] | Es realmente impresionante...
+B06.0014 [Jinglin] | ¿Entonces vienes con nosotros mañana por la mañana?
+B06.0015 [Jinglin] | ¡Será divertido!
+B06.0016 [Tú] | Vale, vale
+B06.0017 [Tú] | Haré lo posible por levantarme...

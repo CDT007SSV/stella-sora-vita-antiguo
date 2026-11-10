@@ -1,0 +1,135 @@
+# Evento · Una tormenta de arena y disparos · 2 · Cangwu: Proof of Power
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Brave Trekker | Trekker valiente
+N:Caravan Leader | Líder de la caravana
+N:Monster | Monstruo
+N:Tired Trekker | Trekker cansado
+N:White Cat Troupe Member | Miembro de la Compañía del Gato Blanco
+N:White Cat Troupe Members | Miembros de la Compañía del Gato Blanco
+N:avg1_108 | Kasimira
+N:avg1_113 | Shimiao
+N:avg1_114 | Chaton
+N:avg2_967 | Mercenario Gato Blanco
+N:avg2_968 | Mercenario Gato Blanco
+N:avg2_977 | Alpha Boar
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_1246 | Alpha Boar
+N:avg3_1247 | Alpha Boar
+N:avg3_1248 | Alpha Boar
+N:avg3_175 | Residente de Loong
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Cangwu: prueba de poder
+0003 [Intro] | Aunque fue Chaton quien aceptó el encargo, Kasimira siempre «interfiere», lo que deja a Chaton muy inconforme.
+0004 [Narración] | Hace unos meses...
+0005 [Caravan Leader] | Muy bien, hasta aquí es suficiente. ¡Mis hombres se encargan del resto!
+0006 [Caravan Leader] | Gracias a ustedes, el viaje fue pan comido.==W== Aquí está su pago final.==W== ¡Nos encantaría contratarlos de nuevo si nuestros caminos se cruzan!
+0007 [Kasimira] | Es muy amable. Hasta la próxima.==W==
+0008 [Chaton] | Espera, ¿eso es todo?
+0009 [Kasimira] | Sí, eso es todo.
+0010 [Chaton] | ¿En serio?
+0011 [Chaton] | ¡Ni siquiera pasó nada!
+0012 [Kasimira] | Una escolta exitosa significa llegar a salvo sin atraer problemas.
+0013 [Chaton] | Ni una sola pelea decente...
+0014 [Chaton] | ¡Entonces, para qué vine!
+0015 [White Cat Troupe Member] | Capitana, ¿qué sigue?
+0016 [Kasimira] | Bueno... Todos trabajaron duro. Tomemos un descanso. Disfruten la ciudad y nos reunimos en la Oficina Baize en cuatro horas.
+0017 [White Cat Troupe Members] | ¡Genial!
+0018 [Chaton] | Aburrido. Qué. Abu-rri-do.
+0019 [Chaton] | ¡Debí quedarme en Mirage jugando con Benito!
+0020 [Kasimira] | ¿Y quién fue la que rogó que la dejáramos venir?
+0021 [Kasimira] | Pero si quieres un poco de acción, acompáñame a la Oficina Baize.
+0022 [Chaton] | ¿A qué?
+0023 [Kasimira] | A conseguir unos trabajos rápidos mientras reabastecemos. Necesitamos dinero para el viaje.
+0024 [Chaton] | Je, je, ya veo... ¿Así que desde un principio planeabas desatar el poder oscuro de la gran Chaton sobre estas tierras?
+0025 [Chaton] | ¡Je, je!==W== ¡La verdadera estrella siempre guarda su entrada para el final!
+0026 [Kasimira] | Eh...==W== Si así lo quieres ver.
+0027 [Chaton] | ¡Excelente! ¡Entonces la gran Chaton te acompañará!
+0028 [Shimiao] | ¿Vienen por un encargo?
+0029 [Kasimira] | Sí. Acabamos de terminar una larga escolta. ¿Tienes algo sencillo que podamos terminar hoy mismo?
+0030 [Shimiao] | Ya veo... Estos trabajos de reconocimiento podrían servirles. Echen un vistazo.
+0031 [Chaton] | Ugh... Se ven tan aburridos...
+0032 [Chaton] | ¡Oooh! ¡¿Y este?!
+0033 [Shimiao] | Ah, un encargo para eliminar monstruos en el bosque al oeste de Cangwu.
+0034 [Shimiao] | Los Trekkers reportan un aumento de monstruos por allá. Probablemente sea temporada de cría.
+0035 [Chaton] | Je... Qué oportuno.==W== Debe ser el destino.
+0036 [Chaton] | Lo sabía... ¡El destino favorece a la maestra del poder oscuro!
+0037 [Chaton] | ¡Si dejamos pasar esto, el Antiguo Dios Miau nos maldecirá!
+0038 [Kasimira] | ¿Un viaje al bosque? ¿Y regresar hoy mismo?
+0039 [Shimiao] | No queda lejos de Cangwu. Pueden terminarlo en unas horas.
+0040 [Shimiao] | Además, es un trabajo de la Oficina Baize, así que les pagan el mismo día.
+0041 [Chaton] | Hmph. Ya que el destino ha elegido por nosotros...
+0042 [Chaton] | ¡lo aceptaremos con gusto!
+0043 [Kasimira] | Está bien... Ya que lo quieres, lo tomamos.
+0044 [Chaton] | ¡Sííí! ¡La gran Chaton por fin va a brillar!
+0045 [Shimiao] | Entonces firmen este formulario de encargo. Solo no olviden traer los cuernos de los monstruos como prueba de que los eliminaron.
+0046 [Chaton] | ¡Entendido!
+0047 [Monster] | Grrr==W==...==W==
+0048 [Chaton] | Je... Lo siento. La oscuridad sellada dentro de mí ...==W== se está agitando.
+0049 [Chaton] | ¡Perfecto! ¡Serán mis sacrificios de debut!
+0050 [Chaton] | ¡Desciende, Luz del Fin del Mundo! ¡Atraviésalos!
+0051 [Monster] | ¡Grah!==W==
+0052 [Chaton] | ¡Ña-ja-ja-ja!
+0053 [Chaton] | ¡¿Vieron eso?! ¡Es la prueba de que mi poder oscuro está despertando!
+0054 [Chaton] | Justo a tiempo... ¡Más sacrificios!
+0055 [Chaton] | Sí... Bien... ¡Lo percibo!==W== ¡El poder sigue fluyendo!
+0056 [Chaton] | Este poder es mío...==W==
+0057 [Chaton] | ¡¿Eh?!
+0058 [Kasimira] | ¡A las diez en punto!==W== ¡Vienen dos más!
+0059 [Chaton] | ¡Oye, espera!==W== ¡Esos eran mis blancos!
+0060 [Chaton] | ¡Oye! Te estoy hablando...
+0061 [Kasimira] | No avances tanto. Cuida tus alrededores.
+0062 [Kasimira] | Si se pone muy pesado, retrocede y ponte detrás de mí.
+0063 [Chaton] | ¡¿Pesado?! ¡¿Retroceder?!
+0064 [Kasimira] | Yo me encargo del combate cuerpo a cuerpo. Tú dispara a los objetivos lejanos.
+0065 [Kasimira] | Tenemos cubiertos el combate cercano y el de largo alcance. Mantengamos este ritmo y avancemos.
+0066 [Chaton] | ¡Mi arma se las arregla bien de cerca!
+0067 [Chaton] | ¡Además, yo elegí este encargo! ¡Déjame encargarme a mí!
+0068 [Kasimira] | Espera, no me refería a eso...
+0069 [Chaton] | ¿Basura como esta? ¡Puedo acabar con todos yo sola!
+0070 [Monster] | ¡Grah!==W==
+0071 [Kasimira] | ¡Oye! ¡Chaton! ¡No te adelantes tanto tú sola!
+0072 [Tired Trekker] | Ugh... Estoy molido. Dame un minuto...
+0073 [Brave Trekker] | ¡Oye, no te detengas!
+0074 [Brave Trekker] | ¡Aguanta! ¡Podemos descansar en Cangwu!
+0075 [Monster] | ¡Rrrgh!
+0076 [Tired Trekker] | ¡Oye! ¡Cuidado! ¡Detrás de ti!
+0077 [Monster] | Urgh...==W==
+0078 [Brave Trekker] | ¿Eh? ¿Qué pasó?
+0079 [Chaton] | ¡Dije que yo podía!==W== ¡Atrás!
+0080 [Kasimira] | ¡Atenta! ¡A tu derecha!
+0081 [Monster] | Urgh...
+0082 [Kasimira] | Concéntrate en los más fuertes. ¡No dejes que te bloqueen la retirada!
+0083 [Chaton] | ¡Obvio! ¡No hace falta que me lo expliques, ¿sabes?!
+0084 [Chaton] | ¡Siempre me sermoneas con lo mismo! ¡Me saca de quicio!
+0085 [Tired Trekker] | Vaya... ¿Qué les pasa a esas dos?
+0086 [Tired Trekker] | Está cargando contra la primera línea con un rifle de francotirador... ¿No es francotiradora? Qué locura...
+0087 [Brave Trekker] | Y mira...==W== cuando hiere a uno,==W== la otra señorita se lanza a rematarlo.
+0088 [Brave Trekker] | La de la escopeta es una profesional.==W== Está cubriendo todos sus puntos ciegos...==W==
+0089 [Tired Trekker] | Sinceramente,==W== parece más que están peleando por las presas...==W==
+0090 [Brave Trekker] | ¿Y qué más da?==W== Están manteniendo ocupados a los monstruos.==W== ¡Aprovechemos para huir!
+0091 [Tired Trekker] | Buen punto... Este lugar es demasiado peligroso.
+0092 [Narración] | Dos horas después...
+0093 [Shimiao] | ¿T-Tantos?
+0094 [Kasimira] | Jaja, perdón. Nos dejamos llevar.
+0095 [Chaton] | ¡Hmph!==W==
+0096 [Chaton] | Habría cazado más si ella se hubiera hecho a un lado.
+0097 [Shimiao] | ¡Por favor, no! Van a arruinar el ecosistema...
+0098 [Shimiao] | ¡Gracias! Voy a calcular su recompensa. Esperen un momento.
+0099 [Kasimira] | Te lo agradezco.
+0100 [Chaton] | ¡Yo habría podido con ellos sola!
+0101 [Chaton] | ¡Pero siempre te metes!
+0102 [Chaton] | ¡Hace que me vea débil!
+0103 [Kasimira] | ¡Te extralimitaste! ¿Y si te hubieran acorralado?
+0104 [Chaton] | ¿Quién dice que me habrían==W== acorralado?
+0105 [Chaton] | ¡Aun así, me habría abierto paso sin problema!
+0106 [Kasimira] | Yo...
+0107 [Chaton] | Nunca me dejas terminar un trabajo por mi cuenta.
+0108 [Chaton] | ¡Ni una sola vez! ¡Me tratas como a una novata total!
+0109 [Kasimira] | ¡Eso no es cierto! ¿Y aquella vez en la Ciudad de los Mil Monolitos?
+0110 [Chaton] | ¿La Ciudad de los Mil Monolitos? Eso fue...

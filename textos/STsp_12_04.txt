@@ -1,0 +1,126 @@
+# Nova Times #12 · Tú, en mis ojos · 4 · You, In My Eyes (Part Ⅳ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Angry Arbiter | Árbitro furioso
+N:Familiar Girl | Niña conocida
+N:Impassive Officer | Oficial impasible
+N:Painful Woman | Mujer sufriente
+N:Resigned Man | Hombre resignado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_149 | Gerie
+N:avg3_100 | Sylar
+N:avg3_1239 | Guardia Imperial
+N:avg3_1240 | Guardia Imperial
+N:avg3_129 | Guardia Imperial
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_150 | Albedo
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Tú, en mis ojos (Parte Ⅳ)
+0003 [Intro] | En pleno forcejeo con Gerie, alcanzas a vislumbrar por accidente su pasado. Expuesta y conmocionada, tendrá que sacarte de allí, junto con los demás...
+0004 [Gerie] | Ahora estamos solos en este Monolito.
+0005 [Gerie] | ¡Vamos, Tirano, déjame verte por completo!
+0006 [Tú] | ¡Todo lo que ha hecho prueba que es peligrosa! Tengo que pensar rápido. ¡Si me atrapa, se acabó todo para mí!
+0007 [Tú] | Cuando jaló esa soga, se quedó paralizada por una fracción de segundo.
+0008 [Gerie] | Ahora bien, ¿por dónde debería comenzar mi juicio?
+0009 [Opción] | Tirar de la soga
+0010 [Gerie] | ¿¡Ghk—!?
+0011 [Tú] | ¿Qué—?
+0012 [Painful Woman] | ¡Gerie! ¿Cuántas veces tengo que decírtelo? ¡Mantén esa ventana cerrada!
+0013 [Familiar Girl] | Pero... mami, solo quería asomarme afuera. Ya nunca me dejas salir a jugar.
+0014 [Resigned Man] | Gerie, por favor. No te enojes con tu madre. Solo intenta mantenerte a salvo.
+0015 [Resigned Man] | La gente habla. Saben que llenaste esa Piedra del Alma con Gracia el otro día.
+0016 [Resigned Man] | Aguanta un poco más. Encontré un Trekker que nos escolte. Esta noche nos vamos a otra ciudad.
+0017 [Familiar Girl] | Papi, ¿por qué está mal? ¿Por qué no puedo llenar la Piedra del Alma con Gracia?
+0018 [Familiar Girl] | Esa niña ya no tenía nada de Gracia. Solo le compartí la que me sobraba.
+0019 [Resigned Man] | Gerie, escucha... Sé que querías ayudar. Pero la Gracia del Dios ... solo puede ser otorgada por el Imperio de la Gracia.
+0020 [Impassive Officer] | Buenas noches. ¿Aquí vive Gerie?
+0021 [Painful Woman] | ¿¡Qué quieren!? ¡Mi hija no está aquí! ¡Fuera! ¡Fuera de mi casa!
+0022 [Resigned Man] | Váyanse. Ahora. No molesten a mi familia. Mi hija no es una hereje: los rumores son un error.
+0023 [Impassive Officer] | Señora, señor, por favor cálmense. Representamos al Instituto del Cielo. Solo venimos a informarles que su hija probablemente padece una enfermedad poco común que requiere tratamiento inmediato.
+0024 [Familiar Girl] | Señorita... ¿Estoy enferma? ¿Costará mucho dinero curarme?
+0025 [Impassive Officer] | Bueno, tu condición es bastante ... complicada.
+0026 [Familiar Girl] | Entonces... ¿Podemos simplemente no tratarla? Ya no nos queda mucho dinero...
+0027 [Impassive Officer] | Pero morirás. ¿Eso no te importa?
+0028 [Familiar Girl] | Está bien. Tengo una hermanita. Aunque yo muera, mami y papi no se quedarán solos.
+0029 [Impassive Officer] | ... No digas eso, niña. Hay otra opción.
+0030 [Narración] | ¿Estarías dispuesta a servir al Dios de la Gracia?
+0031 [Angry Arbiter] | Gerie, destrozaste el blanco otra vez. Intenta contenerte la próxima vez.
+0032 [Gerie] | Perdón. Le ... puse demasiada magia.
+0033 [Angry Arbiter] | Ugh. La misión de los Árbitros del Ocaso es servir al Dios de la Gracia. Deja de buscar pelea todos los días.
+0034 [Angry Arbiter] | Sé de tu condición, pero no necesitamos a una bala perdida obsesionada con la violencia.
+0035 [Gerie] | Lo... lo siento...
+0036 [Angry Arbiter] | Llevas años sin sanar porque tu fe es débil. El Dios de la Gracia no puede oírte. Tus pecados permanecen.
+0037 [Angry Arbiter] | Olvídate de pelear. Quédate aquí a rezar hasta el amanecer.
+0038 [Gerie] | Sí...
+0039 [Gerie] | Mis... mis pecados siguen sin ser absueltos...
+0040 [Gerie] | Piso veintiuno. Despejado.
+0041 [Gerie] | Solo ahora se calma el dolor de mi cuerpo y mi mente. El único momento en que de verdad me siento viva.
+0042 [Gerie] | La Alta Árbitra dice ... que no me obsesione con el combate. Pero pelear es lo único que me da alivio.
+0043 [Gerie] | ¿Es esto una revelación divina? Pero ... ¿por qué no puedo oír la voz divina?
+0044 [Gerie] | Quizá... de verdad soy una hereje. Un monstruo disfrazado que se regodea en esta barbarie.
+0045 [Tú] | Estos deben de ser los recuerdos de Gerie. Incluso entonces, ella...
+0046 [Gerie] | Ugh... Ti-Tirano...
+0047 [Tú] | ¿Estoy viendo sus recuerdos porque agarré su soga?
+0048 [Gerie] | ¿Por qué... por qué no funciona la Cuerda de Almas contigo?
+0049 [Tú] | ¡Esta es mi oportunidad!
+0050 [Gerie] | No sueltes, Tirano... Me siento tan ligera... Se siente ... tan bien...
+0051 [Opción] | Soltar y huir
+0052 [Gerie] | ¿Eh? ¿Qué... qué me hiciste?
+0053 [Gerie] | Tú... ¡cómo te atreves a tocar la sagrada Cuerda de Almas!
+0054 [Tú] | No sirve. No llegaré al elevador... Tengo que jalar una vez más.
+0055 [Opción] | Tirar de la soga otra vez
+0056 [Gerie] | ¡Ahhh! ¿Por qué no puedo ... moverme... Tirano... Ahh...
+0057 [Gerie] | ¿Qué es ... esta sensación? Toda la magia acumulada dentro de mí... Está saliendo a chorros. Nunca había sentido ... nada igual...
+0058 [Tú] | Su magia se está escapando... ¿Será porque estoy tocando la Cuerda de Almas?
+0059 [Tú] | Soy inmune a la magia. La cuerda no puede afectarme, pero sigue intentándolo. Está drenando su magia en un ciclo interminable.
+0060 [Tú] | Si sigo así... quizá de verdad ... gane.
+0061 [Gerie] | Tirano—
+0062 [Tú] | ¡Guau! ¡Oye... no te desplomes sobre mí!
+0063 [Tú] | Ugh... ¿Dónde estoy?
+0064 [Iris] | Jefe, por fin despertaste. Estamos fuera del Monolito.
+0065 [Tú] | ¿¡Afuera!? Pero... ¿y Gerie?
+0066 [Noya] | ¿Gerie? Te sacó cargando y luego se fue. Aunque se veía totalmente agotada...==W== Ojalá esté bien.
+0067 [Tú] | Ya veo... Qué bueno que esté bien.==W== Un momento, ¿no pelearon con ella, verdad?
+0068 [Amber] | Nos cuidó muy bien.
+0069 [Tú] | ¿Q-que las cuidó bien?
+0070 [Noya] | ¡Sí! Ese dispositivo de tortura daba miedo, pero por dentro estaba acolchado. Nos quedamos sentadas y, cuando nos dimos cuenta, ya estábamos afuera.
+0071 [Iris] | Incluso nos ofreció la recompensa por los bandidos antes de irse. Pero la rechazamos. No nos pareció correcto aceptarla cuando lo único que hicimos fue actuar.
+0072 [Amber] | Jefe, tienes la cara pálida. ¿Qué pasó exactamente allá adentro?
+0073 [Tú] | Todavía lo estoy procesando... ¿Alguien me creería si intentara explicar ese lío?
+0074 [Tú] | No, espera. Si de verdad eran los recuerdos de Gerie, definitivamente no debería andar divulgándolos.
+0075 [Tú] | Eh... No lo tengo del todo claro. Básicamente...==W== Gerie acabó con todos los malos y con los Stellaroids.
+0076 [Amber] | Mientras estés a salvo.
+0077 [Noya] | ¡Oigan, oigan, basta de cosas pesadas! ¡Hablemos de la cena! ¡Esta noche nos damos un banquete! ¡En cuanto lleguemos a la ciudad, compraré los mejores ingredientes que tengan y cocinaré un festín!
+0078 [Iris] | Noya, trabajamos duro por ese dinero. Si lo gastas todo ahora, nos quedaremos sin un centavo en nada, ¿sabes?
+0079 [Narración] | Dentro del Lucky Oasis que se balancea, miro atrás hacia el imponente Monolito.
+0080 [Tú] | Algo me dice... que mi historia con ella está lejos de terminar.
+0081 [Gerie] | Me sorprende que hayas elegido un lugar así. ¿No odias las prisiones?
+0082 [???] | Detesto las prisiones, pero detesto aún más las filtraciones. Hay conversaciones que no son aptas para los pasillos del Imperio de la Gracia.
+0083 [Gerie] | Está bien. Quieres saber sobre el Tirano, ¿verdad?
+0084 [Albedo] | Antes de eso, explica por qué desplegaste la Cuerda de Almas. Varias veces.
+0085 [Gerie] | El Monolito estaba plagado de Stellaroids. Usar la Cuerda de Almas era la única forma de eliminarlos con eficiencia.
+0086 [Gerie] | Además, no tienen alma, son solo restos caóticos de emoción y deseo. No se puede violar el protocolo con algo que no existe, ¿cierto?
+0087 [Albedo] | Considéralo una advertencia. No permitiré que esa reliquia devore a nadie más.
+0088 [Albedo] | Ahora, tu conclusión. ¿Esa persona es el Tirano?
+0089 [Gerie] | ...
+0090 [Gerie] | ==SEX2== Puntaje de Herejía es patético. Ni siquiera es hereje, mucho menos el Tirano. Solo alguien con suerte y aislamiento mágico que se topó con un Sello de la Gracia.
+0091 [Albedo] | Muy bien. Verificaré yo misma si ==SEX== es el Tirano.
+0092 [Gerie] | Como desees.
+0093 [Albedo] | Una última cosa. ¡No vuelvas a usar la Cuerda de Almas sin mi orden directa!
+0094 [Gerie] | Hmph. Qué entrometida. Soy la única que puede manejar esta reliquia. Cómo la use es asunto mío.
+0095 [Gerie] | El Tirano... Fascinante.==W== Tu puntaje sí se disparó por encima de mil ... pero por una fracción de segundo lo sentí: nuestras almas se conectaron.
+0096 [Gerie] | ¿Qué fue esa sensación...? No puedo reportar lo que no entiendo. Tendré que descartar los datos. Los únicos puntos que quedan son...
+0097 [Gerie] | Diez puntos por resistirse a un enemigo superior.
+0098 [Gerie] | Diez puntos por buscar con calma una salida.
+0099 [Gerie] | Diez puntos por tocar la reliquia sin que te consuma.
+0100 [Gerie] | Y como hiciste que mi cuerpo se sintiera tan ligero... te quitaré un punto. Puntaje de Herejía total: noventa y nueve.
+0101 [Gerie] | No veo la hora~

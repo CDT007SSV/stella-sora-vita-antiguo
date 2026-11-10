@@ -1,0 +1,128 @@
+# Capítulo 6 · Milagro de un destello · 3A · Lealtad más allá de las palabras
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Elite Soldier | Soldado de élite
+N:Fierce Intelligent Plant | Planta Inteligente feroz
+N:Shooter Intelligent Plant | Planta Inteligente tiradora
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_138 | Nyx
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_115 | Jayhawk
+N:avg3_120 | Guardabosques de Cosecha Unida
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1262 | Guardabosques de Cosecha Unida
+N:avg3_1263 | Hierbajo Peleador
+N:avg3_1268 | Hierba de largo alcance
+N:avg3_1269 | Hierba de largo alcance
+N:avg3_134 | Mina
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Lealtad más allá de las palabras
+0003 [Intro] | Logras escapar de la compañía, pero pierdes contacto con Petal Bloom. Mientras el ejército de plantas de Darcia repele a los mercenarios de la sede, ella te obliga a volver sin compañía a la empresa, donde te espera una verdad aterradora.
+0004 [Lugar y hora] | 12:40, 8.º del mes de Messis, afueras de Philae, linde del bosque
+0005 [Fuyuka] | Ya casi, Maestro. El campamento no está lejos.
+0006 [Tú] | Físicamente estoy bien. Son los nervios los que tengo de punta. ¿No has podido comunicarte con Petal Bloom en tres días enteros?
+0007 [Fuyuka] | No... Noya y las demás también lo intentaron. Nadie contestó.
+0008 [Tú] | Mmm...==W== Por mi lado, silencio total también. Ojalá estén bien.
+0009 [Iris] | Puede que hayan aceptado un encargo que las llevó fuera del alcance del Monolito de Philae.
+0010 [Tú] | Espera, ¿a qué te refieres?
+0011 [Noya] | ¿No lo sabías, ==PLAYER_NAME==?==W== Los teléfonos solo funcionan dentro de la zona de un mismo Monolito.
+0012 [Noya] | Sí, nos vinculamos con Minova para agregar su Heartlink. Pero nosotras estamos en Philae y ella en Emor. No podemos conectarnos.
+0013 [Tú] | ¿En serio? Déjame intentar...==W== Vaya, tienes razón.
+0014 [Tú] | Debe de ser por la pérdida de memoria. No puedo creer que no sepa algo tan básico.
+0015 [Noya] | ¡No te preocupes por los detalles! Vamos al campamento a ver. Es mejor que quedarnos aquí preocupados, ¿no?
+0016 [Iris] | Es cierto. Escapamos vivos de Cosecha Unida. Concentrémonos en eso y seamos positivos.
+0017 [Narración] | Durante tres días, nos cuidamos de Darcia mientras buscábamos puntos débiles en las Plantas Inteligentes y los mercenarios. Por fin, con la ayuda de Mina, escapamos de los retorcidos pasillos de Cosecha Unida.
+0018 [Narración] | Queríamos llevarnos a Mina, pero dijo que no podía dejar atrás a sus dos hermanas menores.
+0019 [Narración] | Tuvimos que seguir adelante sin ella. Pero algún día volveremos por ellas.
+0020 [Lugar y hora] | 13:20, 8.º del mes de Messis, afueras de Philae, campamento de Trekkers
+0021 [Fuyuka] | Maestro, el campamento está vacío... ¿Adónde se fueron todos?
+0022 [Amber] | Jefe. Malas noticias.
+0023 [Amber] | Estamos rodeados.
+0024 [Elite Soldier] | ¡Contacto! ¡Fuego!
+0025 [Tú] | ¿Darcia nos rodeó? Imposible. Nadie es más rápido que Loxy.
+0026 [Noya] | ¡Deja de pensarle tanto! ¡Todos, a cubierto, ya!
+0027 [Tú] | Demasiados enemigos, demasiado poder de fuego... Los cinco no podemos abrirnos paso a la fuerza.
+0028 [???] | ¡Alto! ¡Alto el fuego! ¿Quién autorizó esa ráfaga mágica?
+0029 [???] | ¡Son solo un puñado de objetivos! Y acaban de quemar una fortuna en Gracia. ¡No tenemos presupuesto para este desperdicio!
+0030 [???] | Nuestro objetivo es Philae y Darcia, no un grupito cualquiera que juega a ser Trekkers.
+0031 [Tú] | ¿Su objetivo son Philae y Darcia?==W== ¡Entonces no trabajan para ella!
+0032 [Nyx] | Darcia, te volviste loca. Voy a reportar esto a la sede de inmediato.
+0033 [Tú] | ¿La sede los mandó después de que Nyx diera el reporte? Pero ¿cómo se movilizaron tan rápido?
+0034 [Elite Soldier] | Oficial Jayhawk, no es que queramos desperdiciarla... Estos Trekkers son duros. Perdimos a cientos solo para tomar este terreno.
+0035 [Elite Soldier] | Si sufrimos más bajas, el equipo se va a desmoronar antes de siquiera ver las murallas de la ciudad.
+0036 [Jayhawk] | ¡Si siguen desperdiciando energía, esas plantas retorcidas nos van a masacrar aunque logremos llegar!
+0037 [Jayhawk] | Esperen. ¿Oyen eso?
+0038 [Elite Soldier] | Algo se mueve...==W== ¡No, son enredaderas! ¡Son los monstruos de Darcia!
+0039 [Fierce Intelligent Plant] | ¡Uuuuu...!
+0040 [Shooter Intelligent Plant] | ¡Uiiii...!
+0041 [Jayhawk] | Tsk, mala señal...==W== ¡Olvídense del campamento! ¡Todos, retirada, ya!
+0042 [Fuyuka] | Maestro... Mire, los soldados se están retirando.
+0043 [Noya] | Sí, pero las Plantas Inteligentes que vienen detrás nos van a dar un buen dolor de cabeza...
+0044 [Darcia] | Su Majestad, ¿por qué tiene que ponerse en semejante peligro? Si algo le pasara... ¡No sabría qué hacer conmigo misma!
+0045 [Tú] | Darcia.==W== Firenze...
+0046 [Darcia] | ¿No lo sabía? El ejército de Cosecha Unida ya llegó al campamento de Trekkers. Están a punto de sitiar Philae. Este bosque es un campo de batalla.
+0047 [Tú] | ¿Por qué me ocultaste algo tan grande? ¿Y el Gremio Petal Bloom? ¿Sabes dónde están?
+0048 [Darcia] | Disculpe, Su Majestad. No hay noticias del gremio.==W== En cuanto a por qué le oculté los movimientos del enemigo... Bueno, es sencillo.
+0049 [Darcia] | Tiene traidores entre los suyos.
+0050 [Darcia] | Piénselo. Si no se hubieran empeñado en sacarlo de la ciudad, ahora mismo no estaría en este lío, ¿o sí?
+0051 [Tú] | Si te refieres a mis amigas, te equivocas.==W== Salir de Cosecha Unida fue decisión mía desde el principio.
+0052 [Darcia] | ¿Decisión suya? Ay, eso lo hace todavía peor.
+0053 [Darcia] | Ustedes cuatro. No lograron detener las exigencias imprudentes de ==SEX2== Majestad y se metieron a ciegas en una emboscada. O están conspirando contra ==SEX4==, o simplemente son unas incompetentes.
+0054 [Darcia] | Pero, la verdad, da igual cuál de las dos.==W== Plantas, ejecuten a estas tontas.
+0055 [Tú] | Darcia, ¡¿qué haces?! ¡Déjalas ir! ¡Dijiste que me serías leal para siempre!
+0056 [Darcia] | Por supuesto, Su Majestad. Sigo siendo su sirvienta eternamente fiel.
+0057 [Tú] | Entonces, ¡¿por qué te niegas a obedecer mis órdenes?!
+0058 [Darcia] | Esto no es desobediencia, Su Majestad.==W== Al contrario...==W== Lo hago precisamente por mi lealtad.
+0059 [Darcia] | Para garantizar su seguridad, hay que eliminar toda amenaza a su alrededor.
+0060 [Darcia] | ¿Y quién carga con el peso de semejante misión?==W== Je, je... Yo, por supuesto. Por eso cultivé esta legión de Plantas Inteligentes: para conquistar Nova y erradicar toda amenaza a su reinado.
+0061 [Tú] | Yo nunca dije que quisiera conquistar Nova.
+0062 [Darcia] | Como su sirvienta más devota, conozco sus verdaderos deseos,==W== deseos que quizá ni siquiera sabe que tiene.
+0063 [Darcia] | Así que, aunque me odie por ello, me desharé de ellas. Así de profunda es mi lealtad.
+0064 [Tú] | No tiene sentido... Darcia no me es leal a mí. Le es leal al Tirano que vive en su imaginación.
+0065 [Noya] | ¡No te preocupes por nosotras, ==PLAYER_NAME==! Unos hierbajos demasiado crecidos no pueden detener mi espada.
+0066 [Fierce Intelligent Plant] | ¡Uiiii-iii...!
+0067 [Noya] | No puede ser... ¿Cómo reacciona tan rápido?
+0068 [Darcia] | Observe, Su Majestad. Nuestras nuevas plantas de 3.ª generación superaron por completo a los obsoletos modelos de 2.ª generación y a la Hierba Radiante Mandrágora.
+0069 [Darcia] | Cada tallo posee ahora el instinto de combate y el criterio de un Trekker de élite. Su única deficiencia es la coordinación,==W== un defecto que mi investigación pronto corregirá.
+0070 [Tú] | Entiendo. Darcia... Déjalas ir. Volveré contigo.
+0071 [Fuyuka] | Maestro, ¿qué está diciendo? ¡Jamás lo dejaríamos atrás!
+0072 [Tú] | No me están dejando ustedes. Yo las estoy desechando.
+0073 [Tú] | Darcia tiene razón. Desde el momento en que desperté, una voz en mi interior me ha instado a conquistar este mundo.
+0074 [Iris] | ¡¿De qué estás hablando?! El Tirano de la leyenda tal vez haría eso, ¡pero sabes que ese no eres tú!
+0075 [Tú] | Eso es solo lo que ustedes suponen. Me quedé con ustedes porque tenían potencial. Pensé que me serían útiles.
+0076 [Tú] | Pero ahora que tengo todas estas Plantas Inteligentes, que son más fuertes... Ya no son necesarias.
+0077 [Tú] | En honor a nuestros viajes, seré clemente. Les perdonaré la vida.==W== Ahora váyanse... antes de que cambie de opinión.
+0078 [Amber] | Mentiroso...==W== Eres un mentiroso...
+0079 [Tú] | Tienes razón, Amber. Para mantenerlas a salvo, seré un mentiroso. Un demonio...==W== Incluso me convertiré en el verdadero Tirano. Lo que sea necesario.
+0080 [Darcia] | Qué benevolencia, Su Majestad.==W== ¿Y bien? El Tirano tuvo la gentileza de perdonarles sus patéticas vidas. Ahora, lárguense.
+0081 [Noya] | ...
+0082 [Noya] | ¡Ya verás, ==PLAYER_NAME==! ¡Volveré!
+0083 [Narración] | Fuyuka y el maltrecho Gremio de la Nueva Estrella se apoyan unas en otras y se alejan cojeando hacia las sombras del bosque.
+0084 [Darcia] | Suena a frase de despedida de villana de tercera.==W== Su Majestad, por favor, regrese a la ciudad. Yo me encargaré del resto.
+0085 [Firenze] | ...
+0086 [Narración] | Mientras nos vamos, Firenze me observa en un silencio helado. Me mira como si fuera una planta en maceta, clavada en su sitio, que solo existe para que otra mano la acomode.
+0087 [Lugar y hora] | 15:00, 8.º del mes de Messis, Distrito Invernadero de Philae, laboratorio subterráneo
+0088 [Narración] | Sigo a Darcia hasta lo más profundo de las instalaciones.==W== Pasamos interminables filas de tanques de cultivo antes de entrar en una sala subterránea enorme como una caverna.
+0089 [Narración] | Un tanque gigantesco, de dos o tres pisos de alto, domina el fondo. El líquido naranja de su interior absorbe la tenue luz,==W== y brilla con un tono inquietante y antinatural.
+0090 [Narración] | El Sello de la Gracia del «Alfil» reposa en el fondo del tanque, como una baratija diminuta en una pecera inmensa.
+0091 [Darcia] | Deléitese la vista, Su Majestad. El centro de mejora de nuestras Plantas Inteligentes de tercera generación. Gracias a su Sello del «Alfil», se vuelven más listas con cada dosis de «nutrientes» que añadimos.
+0092 [Tú] | Ngh...
+0093 [Narración] | Rostros conocidos flotan en la suspensión naranja. Me tapo la boca con la mano, conteniendo las ganas de vomitar.
+0094 [???] | Tomaste la decisión equivocada
+0095 [???] | Te vas a arrepentir
+0096 [Narración] | Puedo ver esos mensajes anónimos en mi cabeza.
+0097 [Tú] | Tenían razón. De verdad tomé la peor decisión posible.

@@ -1,0 +1,136 @@
+# Especial 9.5 · 9 · The Gladiator
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arena Slave Owner | Arena Slave Owner
+N:Injured Gladiator | Injured Gladiator
+N:No. 18 | No. 18
+N:Senior Gladiator | Senior Gladiator
+N:Slightly Famous Gladiator | Slightly Famous Gladiator
+N:Yonon | Yonon
+N:Young Gladiator | Young Gladiator
+N:avg1_162 | Alina
+N:avg2_940 | Puppet Soldier
+N:avg2_941 | Olympia (Puppet)
+N:avg3_1327 | Puppet Soldier (Initial Coordinates)
+N:avg3_1328 | Puppet Soldier (Initial Coordinates)
+N:avg3_1329 | Puppet Soldier (Initial Coordinates)
+N:avg3_1331 | Noya
+N:avg3_143 | Residente
+N:avg3_227 | Filanis Elder
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto Nueve
+0002 [Intro] | El gladiador
+0003 [Intro] | Alina revela su pasado como gladiadora que vivía entre esclavos. Obtuvo la libertad al derrotar a los títeres mágicos, pero no pudo salvar a sus compañeros que habían luchado y muerto junto a ella, y ese arrepentimiento se convirtió en su deseo.
+0004 [Senior Gladiator] | Oye, número 18. Estás despierto.
+0005 [???] | Sí.
+0006 [Senior Gladiator] | Escuchar. Cuanta más sangre se derrama, más se vuelve loca la multitud, especialmente cuando se trata de una chica delicada como tú. No importa si es tu sangre o la de tu oponente... Estarán encantados de cualquier manera. ¿Entender?
+0007 [???] | Sí.
+0008 [Senior Gladiator] | Bueno, si pudiste abrirte camino hacia la fama, entonces podrás despedirte de este lugar asqueroso para siempre.
+0009 [Senior Gladiator] | Vivirías en una mansión que huele a mirra e incienso. Descanse sobre cojines de seda rellenos de plumas de cisne junto a un estanque de aguas cristalinas, bebiendo hidromiel frío como una joven elegante...
+0010 [Senior Gladiator] | ¡Ja ja! Eso es lo que yo llamo vivir. Apuesto a que tú también sueñas con una vida así, ¿eh?
+0011 [???] | Sí.
+0012 [Senior Gladiator] | ...Dios. "Sí, sí"… ¿Es esa la única palabra que conoces? ¿Eres una marioneta o algo así?
+0013 [???] | Sí.
+0014 [Senior Gladiator] | Uf, bien. Olvídalo. Seguir. Un cobarde con esa mirada vacía como la tuya probablemente simplemente moriría y sería arrastrado fuera de inmediato.
+0015 [Alina] | En el corazón de Emor se encuentra un teatro donde el telón nunca cae.
+0016 [Alina] | Con imponentes muros como telón y arena amarilla como escenario. El público lujosamente vestido se sienta a la luz del sol, mientras los esclavos encadenados permanecen aturdidos, sin ver nunca la luz del día.
+0017 [Alina] | La gente llama al Grand Arena "el corazón que da vida a Emor".
+0018 [Alina] | Pero nunca es la gloria la que mantiene latiendo ese corazón... Es la sangre la que pinta de rojo la arena.
+0019 [Narración] | Nací bajo esos altos muros y heredé los grilletes de mis padres sin jamás tomar un nombre.
+0020 [Narración] | Nadie pregunta al hijo de un esclavo qué quiere ser cuando sea mayor. Desde el momento en que nacen, su amo decide su papel y les ata hilos como a una marioneta.
+0021 [Narración] | La única elección que se me permitió tomar... fue el arma con la que luchar. Elegí la espada.
+0022 [Narración] | La arena está dirigida por Arcontes gemelos. La hermana mayor alquila el lugar y los esclavos, mientras que la menor vende entradas y organiza el evento que comercializan como "lucha de gladiadores"...
+0023 [Narración] | Los amos controlarían a los esclavos,==W== ordenándoles que luchen, griten,==W== luego cae para complacer a la multitud.
+0024 [Injured Gladiator] | Um... Gracias por ser amable conmigo antes.
+0025 [???] | Pon un poco de miel en tu herida. Ayudará a evitar que se pudra.
+0026 [Yonon] | R-¿En serio? Oh, soy Yonon... ¿Cómo te llamas?
+0027 [No. 18] | 18.
+0028 [Yonon] | Ese es tu número, ¿verdad? Yo también tengo uno: 103. Pero no te estoy pidiendo tu número...
+0029 [No. 18] | No tengo un nombre, ni lo necesito.
+0030 [Young Gladiator] | Vamos, Yonon. Ven aquí para que pueda curarte.
+0031 [Slightly Famous Gladiator] | Yonon, ¿estás seguro de que es seguro hablar con ese niño? ¿Quién sabe lo que está pensando? Será mejor que te mantengas alejado en caso de que te apuñale por la espalda...
+0032 [Yonon] | ¿Puñalada? Pero ella es una chica amable...==W== No creo que ella me haga daño...
+0033 [Narración] | Los gladiadores no tienen nombres propios como los del público.
+0034 [Alina] | Por supuesto, algunos gladiadores se ponían nombres basados ​​en su estilo de lucha, esperando que la multitud los recordara...
+0035 [Narración] | Aun así, nunca pensé en tomar un nombre para mí. Después de todo, éramos objetos, propiedad de los amos.
+0036 [Narración] | Para un gladiador, un "nombre" no es más que una etiqueta de precio, algo que le hace valer más en el mercado.
+0037 [Narración] | Prefiero perfeccionar mi habilidad con la espada que perder el tiempo en eso.
+0038 [Narración] | Cada vez que derribaba a un oponente en la arena, la multitud apretaba los puños, levantaba los pulgares y me instaba a terminar el espectáculo con un golpe final.
+0039 [Alina] | Pero… no estaba interesado en seguir sus órdenes y mucho menos matar a su favor.
+0040 [Alina] | Entonces, en mis combates, cortaba la piel de mis oponentes con la punta de mi espada, pero evitaba todos los vasos sanguíneos o tendones principales.
+0041 [Narración] | De esa manera, la sangre saldría mucho, pero nadie perdería la vida.
+0042 [Alina] | Pero no lo sabía... En ese escenario sin salida, toda esperanza sólo conduciría a una desesperación más devastadora...
+0043 [Narración] | Hace un año,==W== El Arconte de Filanis llegó con un enorme lote de marionetas mágicas. Esa señora de buen corazón tenía la intención de que reemplazaran a los esclavos.
+0044 [Narración] | Pero ella no lo sabía. Al público no le podrían importar menos las habilidades o el talento para el espectáculo. Lo que ansiaban era el derramamiento de sangre de los vivos.
+0045 [Narración] | Para dar la bienvenida al Arconte de Filanis, los Arcontes gemelos que dirigen la arena organizan una gran pelea: un duelo entre gladiadores y marionetas mágicas.
+0046 [Narración] | Pero nunca fue un escenario para poner a prueba las habilidades de los títeres. Era un matadero de títeres mágicos para deshacerse de los "viejos títeres" que ya no obedecían religiosamente a sus amos.
+0047 [Yonon] | 18, aquí. Esto es para ti.
+0048 [No. 18] | Yonon? ¿Es esto... una espada?
+0049 [Yonon] | Sí. Estamos a punto de luchar contra los títeres mágicos, ¿verdad?
+0050 [Yonon] | Tu espada se está cayendo a pedazos así que... Juntamos nuestro dinero y te compramos una nueva.
+0051 [No. 18] | Para mí...? ¿Por qué?
+0052 [Yonon] | Um... Como agradecimiento por toda la ayuda, ¿supongo? Ajaja... Si no fuera por ti, probablemente ya estaríamos todos muertos hace mucho tiempo.
+0053 [Yonon] | D-De todos modos, la espada es tuya ahora. Jeje… Y mucha suerte con la pelea. Si alguien va a derrotar a esos títeres, eres tú, 18. Así que contamos contigo.
+0054 [Yonon] | Oh, por supuesto que también haremos nuestro mejor esfuerzo. Pero esos títeres probablemente no serán tan fáciles con nosotros como tú, así que estoy un poco preocupado...
+0055 [Narración] | Pensé en decirle que no estaba luchando por el bien de nadie y que sólo estaba resistiendo el destino que la arena había decidido para mí.
+0056 [Narración] | Pero... el peso de la espada en mi mano tocó mi corazón, y las palabras me fallaron. Fue el primer regalo que recibí en mi vida.
+0057 [Narración] | No es una recompensa, sino un regalo real...
+0058 [Narración] | Unos días más tarde, el maestro de la arena envió a aquellos cuyas vidas había salvado, con sus heridas aún no curadas, a la batalla contra los títeres mágicos.
+0059 [Narración] | La lucha comenzó a la hora sagrada de la medianoche. La gran arena encendió más de mil hogueras para el gran espectáculo.
+0060 [Narración] | Al principio, los títeres sólo se movían rígidamente y parecían indefensos ante nuestro trabajo en equipo.
+0061 [Narración] | Sin embargo, sus cuerpos mágicamente reforzados y su loco mimetismo los convirtieron en oponentes más duros de lo que esperábamos.
+0062 [Narración] | Los títeres pronto absorbieron nuestras técnicas y tácticas... y cambiaron el rumbo de la batalla. Mis aliados, ya heridos, cayeron uno a uno.
+0063 [Narración] | La sangre salpicada silbaba ásperamente en las hogueras... Pero incluso ese sonido fue ahogado por los rugidos de vítores.
+0064 [Narración] | Los ojos sedientos de sangre del público en ese momento eran más aterradores que esos títeres.
+0065 [Narración] | Afortunadamente, lo que los títeres habían copiado fue mi habilidad con la espada. Entonces mis camaradas caídos no habían sufrido heridas fatales. Al mismo tiempo, vi una oportunidad de ganar en su mímica.
+0066 [Narración] | _NOT_IN_LOG_==Off==Marionetas que no sienten dolor... ==A0.8==
+0067 [Narración] | _NOT_IN_LOG_==Off==Resolvamos esto. ==A0.8==
+0068 [Narración] | _NOT_IN_LOG_==Off== Mira si tu magia se acaba... ==A0.8==
+0069 [Narración] | _NOT_IN_LOG_==Off==... ¡¡antes de que mi espada se rompa!!==A0.8==
+0070 [Narración] | ==Off==Marionetas que no sienten dolor... Resolvamos esto. ¡¡Mira si tu magia se acaba antes de que mi espada se rompa!!
+0071 [Narración] | Cómo logré aguantar...==W== Ya no lo recuerdo.
+0072 [Narración] | Al final, cuando amaneció, en medio de vítores lo suficientemente fuertes como para hacer temblar la arena, me desplomé junto al último títere que quedaba en la arena empapada de sangre.
+0073 [Alina] | Y... cuando desperté de nuevo, estaba en un carruaje con destino a Filanis.==W== La Arconte Olimpia, la Arconte de Filanis, me compró, me liberó y me concedió el rango de Caballero.
+0074 [Alina] | La Arconte Olimpia me dijo que avanzaría en su investigación sobre marionetas mágicas que podrían reemplazar y algún día liberar a todos los esclavos.
+0075 [Narración] | Fue también cuando nació en este mundo el nombre "Alina Colossi".
+0076 [Narración] | Para pagar mi deuda con la Arconte Olimpia, me convertí en Vigilante Nocturno de Filanis. Y juré proteger la ciudad perfecta que ella había construido: una ciudad sin esclavos.
+0077 [Narración] | Cuando me uní a la Guardia Nocturna, el Arconte Olimpia incluso me pagó diez años de salario por adelantado... Había vivido como esclavo y no tenía idea de qué hacer con el dinero.
+0078 [Narración] | Entonces regresé a Emor con una gran suma de monedas de oro. Quería comprar la libertad de mis compañeros heridos.
+0079 [Narración] | Así como yo había superado esa noche y visto el amanecer, quería que mis compañeros también vieran esa luz.
+0080 [Arena Slave Owner] | Yonon? Lo siento, nunca había oído ese nombre antes.
+0081 [Arena Slave Owner] | ...Oh, espera un minuto. Creo que los 103 anteriores sí tenían ese nombre...
+0082 [Alina] | ¿Anterior? ¿Qué quieres decir?
+0083 [Arena Slave Owner] | Justo lo que dije. A los esclavos que mueren en la Arena se les transmite su número, ¿verdad? Todos los que lucharon contra los títeres estaban muertos. Naturalmente, todos sus números fueron reasignados a nuevos esclavos.
+0084 [Alina] | ¡Q-No me mientas...! ¡Esos títeres no deberían haber matado a nadie!
+0085 [Arena Slave Owner] | ¡Vaya, señora caballero, por favor cálmese...! No te estoy mintiendo ni nada, ¿ves?
+0086 [Arena Slave Owner] | La mayoría de los luchadores en ese combate resultaron gravemente heridos de todos modos, y la arena no da de comer a los holgazanes... Algunos de ellos duraron medio día... Y los más duros unos días más... Eso es todo.
+0087 [Arena Slave Owner] | Algunos de ellos solo sufrieron heridas leves, pero... Los arrojaron de regreso a la arena, incluidos 103. Se usan para probar las habilidades de los títeres, o eso escuché.
+0088 [Arena Slave Owner] | De todos modos, ahora mismo puedo conseguirte un esclavo gladiador de mucha mejor calidad que esos. Y si quieres un recuerdo de ese combate, tengo las etiquetas de identificación de dos luchadores... Je, je, compra un esclavo y te las regalaré.
+0089 [Narración] | La familiar etiqueta de identificación se deslizó entre mis dedos y cayó en el charco de sangre debajo de la arena que nunca se seca.
+0090 [Narración] | ==Off==Los títeres mágicos subieron al escenario de la arena... Pero nunca salvaron a ningún esclavo.
+0091 [Alina] | Lo siento... volví demasiado tarde...
+0092 [Alina] | Lo siento... Se suponía que ya habíamos ganado...
+0093 [Alina] | Lo siento... no pude salvar a ninguno de ustedes...
+0094 [Narración] | En medio de las oleadas de vítores ensordecedores de la arena, deambulé sin rumbo por las calles de Emor.
+0095 [Narración] | El espectáculo más popular ahora presenta esclavos luchando contra marionetas mágicas en lugar de entre sí. Es simplemente una masacre unilateral, más del agrado del público.
+0096 [Alina] | Y es todo porque... demostré en ese combate que los esclavos y los títeres mágicos podían luchar entre sí...
+0097 [Alina] | Yo... les despojé a todos de su salida con mis propias manos...
+0098 [Alina] | ... No, todavía no. Aún no ha terminado. No puede ser.
+0099 [Narración] | Fue entonces cuando recordé la historia de la torre que una vez mencionó Yonon.
+0100 [Yonon] | Oye, 18, ¿lo sabías? Dicen que si entras en esa torre y pides un deseo, ¡cualquier deseo se hará realidad!
+0101 [Yonon] | Hmm... "Por favor, no me dejes nacer esclavo nunca más en mi próxima vida..." ¿Crees que esto funcionaría?
+0102 [No. 18] | No sirve de nada pensar en ello. Es sólo para senadores, sacerdotes y santas. Los gladiadores no tienen cabida allí.
+0103 [Yonon] | Lo sé, lo sé. Un poco de ilusión no viene mal. Si alguna vez sobrevivimos a esto, ¿tal vez alguno de nosotros tenga suerte algún día?
+0104 [Yonon] | Y si uno de nosotros logra llegar a la torre... ¡podrían pedir un deseo en nuestro nombre! "¡Por favor, no dejes que ninguno de nosotros nazca esclavo en nuestra próxima vida"!
+0105 [Alina] | Si las monedas de oro no pueden traerte de vuelta... te ofreceré cualquier cosa más preciosa que el oro. Haré lo que sea necesario.
+0106 [Alina] | Ya que la muerte te ha llevado, iré a esa torre a pedir un deseo. Yo mismo traeré a todos de vuelta.
+0107 [Alina] | Con esta espada tuya, te lo juro... subiré de rango hasta ganarme el derecho a entrar en esa torre.
+0108 [Alina] | Esa arena empapada de sangre no será donde terminen tus historias.
+0109 [Alina] | Así es como el N° 18, ex gladiador,==W== se ha convertido en Alina, una Vigilante Nocturna.
+0110 [Alina] | El número 18 una vez tomó la espada simplemente para sobrevivir.
+0111 [Alina] | Pero esa ya no es la única razón por la que "Alina" empuña esta espada. Quiero verlos a todos otra vez... Para disculparme como es debido.
+0112 [Alina] | Decirles que realmente lamento haberles fallado... Por no estar con ellos cuando sufrían. Realmente... realmente lo siento.

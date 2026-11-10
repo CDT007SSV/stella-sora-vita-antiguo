@@ -1,0 +1,156 @@
+# Nova Times #02 · Tu nombre, desconocido para mi corazón · 4 · Your Name, Unknown to My Heart (Part IV)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_133 | Portia
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Tu nombre, desconocido para mi corazón (Parte IV)
+0003 [Intro] | El Gremio de la Nueva Estrella logró rescatar al Jefe del Monolito. Para celebrarlo, todos organizaron una fiesta de bienvenida. Sin embargo, esa «fiesta de bienvenida» resultó ser...
+0004 [Noya] | Iris, ¿hacia dónde vamos desde aquí?
+0005 [Iris] | La señal es débil...==W== pero todavía la capto. Parece que viene de muy arriba.
+0006 [Iris] | Ojalá ==SEX== esté bien...==W== Es demasiado peligroso andar a solas por el Monolito.
+0007 [Noya] | Mientras sigamos subiendo, daremos con ==SEX4==.
+0008 [Noya] | Oye, ¿no se te hace familiar esto?
+0009 [Amber] | El desierto. Cuando nos separamos.
+0010 [Iris] | Uf... Pensé que me iban a enterrar en la arena y que me iban a olvidar...
+0011 [Noya] | Solo ibas cinco minutos adelante de mí.==W== ¡No había de qué preocuparse! Además, aunque estuviéramos a kilómetros de distancia, ¡nuestro lazo nos reuniría de nuevo!
+0012 [Iris] | ¡«Confiar en nuestro lazo» no es un plan!==W== Precisamente por eso hice esta magia de localización. Solo que no esperaba que la necesitáramos tan pronto...==W== ¿por qué me miras así?
+0013 [Noya] | ¡Acabo de darme cuenta de la suerte que tenemos de tenerte!
+0014 [Amber] | Iris. Sólida.
+0015 [Iris] | ¿Q-qué es todo esto de repente...?==W== V-vamos, sigamos. Tenemos que encontrar a ==SEX4==, rápido.
+0016 [Tú] | ¿Eh? ¡Todo esto está caducado! En serio, la señorita Portia está holgazaneando otra vez.
+0017 [Tú] | Bien...==W== tirar lo viejo, poner lo nuevo...
+0018 [Tú] | ¡Listo! Todo repuesto y etiquetado con descuento.
+0019 [Tú] | Es hora de pararme junto a la puerta y atraer clientes...
+0020 [1] | ¡Mmmph-hmm, mmm-hmm!
+0021 [Portia] | Oh, ¿ya terminaste?
+0022 [1] | ¡Mmph~!
+0023 [Portia] | Je... Trabajas rápido.
+0024 [Portia] | Me encantaría tener a ==SEX4== aquí, trabajando para mí para siempre.
+0025 [Portia] | Qué lástima... ==SEX1== todavía no ha comido suficiente. Si la conciencia de ==SEX3== despierta, aún se puede recuperar a ==SEX==.
+0026 [Portia] | Y esos amiguitos de ==SEX5== deben llegar en cualquier momento. Je, je... ¿Qué hacer?
+0027 [Tú] | Ya me estoy cansando de las chuletas de cerdo...
+0028 [Tú] | La señorita Portia dijo que el chow mein de aquí también es bueno. Quizá lo pruebe después.
+0029 [Tú] | ¡Eso es! ¡Tengo que trabajar todavía más por ese delicioso chow mein!
+0030 [Tú] | ¿Eh? Suena a clientes. ¡Mejor me pongo en marcha!
+0031 [1] | ¡Mmmph-mm, hmm-hmm!
+0032 [Iris] | Mi magia está captando algo. ==SEX1== está cerca.
+0033 [Iris] | La tienda de conveniencia...==W== Recuerdo a esa dependienta. Parece que no ha dormido en una semana.
+0034 [Amber] | Por aquí. Una mascota grande.
+0035 [Amber] | Mmm, qué suave...
+0036 [Tú] | ¿De qué hablan estos clientes?
+0037 [Tú] | ¿No van a comprar nada? ¿A qué viene tanto piquete...?==W== Ah, ¿quizá quieren una foto? Mejor pongo una pose amistosa.
+0038 [1] | ¡Holaaa!
+0039 [Amber] | Abrazo.
+0040 [Tú] | Qué... raro.==W== ¿Por qué un abrazo suyo se siente tan cálido?
+0041 [Noya] | Oye, Iris, esta mascota... No estaba aquí la última vez que pasamos, ¿verdad?
+0042 [Iris] | Definitivamente es sospechosa. Mi magia...==W== Espera, ¡mi magia acaba de vincularse con la mascota!
+0043 [Noya] | ¡Trekker de la Caja de Deseos! ¿Estás ahí dentro?
+0044 [Tú] | Trekker de la Caja de Deseos... ¿Quién es ese?
+0045 [Tú] | ¿Qué es una Caja de Deseos? ¿Qué es un Trekker? ¿Y ya casi es hora de comer?
+0046 [Noya] | ¡Oye, reacciona! Todavía te debo una. Me salvaste, ¿recuerdas?
+0047 [Tú] | Salvé...==W== ¿A quién salvé? ¿Quién me salvó?
+0048 [Noya] | ¡Ni siquiera sabemos tu nombre! ¡Vamos, no puedes dejarnos así!
+0049 [Tú] | Mi nombre...==W== Cierto, yo soy... yo soy...
+0050 [Tú] | ¡El Trekker sin nombre y con pérdida de memoria... al que rescataron de la Caja de Deseos! Y ellas son...
+0051 [Tú] | ¡Noya! ¡Iris! ¡Amber!
+0052 [Noya] | ¡==SEX1== habló! ¡==SEX1== de verdad es el Trekker de la Caja de Deseos!
+0053 [Noya] | Tenemos que salir de aquí. Uf, ¿qué es este traje tan raro? Vamos a quitárselo.
+0054 [Amber] | Es suave. Como si fuera su propia piel. No sale.
+0055 [Portia] | Un momento. ¿A dónde creen que van con mi empleado?
+0056 [Iris] | ¿Empleado? ¡Es nuestro compañero! ¿Ves el anillo de agua en la mano de ==SEX3==? Es una magia de localización que lancé justo antes de entrar.
+0057 [Portia] | No importa quién haya sido ==SEX==. Ahora ==SEX1== es dependiente de esta tienda de conveniencia.
+0058 [Noya] | Entonces, ¿qué hace falta para que dejes ir a ==SEX4==?
+0059 [Portia] | ¿No es obvio? Esto es una tienda. Compras cosas.
+0060 [Portia] | De hecho, si compran todo mi inventario, les regalo al empleado de paso.
+0061 [Iris] | ¡¿Todo el inventario?! ¡Eso es ridículo—!
+0062 [Noya] | No sé cuántas Monedas Stella pides... ¿pero esto alcanzará?
+0063 [Narración] | Noya deja caer sobre el mostrador una enorme bolsa rebosante de Monedas Stella con un fuerte golpe.
+0064 [Iris] | ¡¿Noya?! ¿De dónde sacaste tantas Monedas Stella? ¿Cuándo es que...?
+0065 [Noya] | ¿Todos esos Stellaroids que derrotamos? Soltaron un montón de Monedas Stella. Pensé que podrían servirnos, así que las recogí todas.
+0066 [Noya] | Entonces, ¿es suficiente? Si no, podemos ir a conseguir más.
+0067 [Portia] | ... Debes de estar bromeando.
+0068 [Portia] | Pues bien, mi fiel empleado... Estos clientes han hecho una compra enorme. ¿Qué tal si les echas una mano?
+0069 [Portia] | Gracias por su compra.
+0070 [Narración] | Siguiendo las instrucciones de Portia, salgo tambaleándome de la tienda tras Noya, Iris y Amber, apenas pudiendo con la montaña de mercancía que cargo en los brazos.
+0071 [Tú] | Uf... Se me está aclarando la cabeza...==W== ¿Qué estaba haciendo? ¿Cómo acabé trabajando de dependiente?
+0072 [Noya] | ¡Jeje! ¡De vuelta entre los vivos!
+0073 [Tú] | Gracias. Me salvaron. Otra vez.
+0074 [Noya] | ¡Oye, para eso estamos! ¡El Gremio de la Nueva Estrella nunca deja atrás a un compañero!
+0075 [Tú] | Un compañero...
+0076 [Iris] | Llevamos casi dos días en este Monolito. Tenemos que salir ya, antes de que se ponga demasiado peligroso.
+0077 [Amber] | Volver. Juntos.
+0078 [Narración] | Echo un vistazo atrás hacia Portia. Está ordenando detrás del mostrador como si nada hubiera pasado.==W== Sin siquiera mirar, hace un gesto casual de despedida.
+0079 [Tú] | Bien.==W== Vámonos.
+0080 [Noya] | Uf, estoy llena.
+0081 [Tú] | Guau, en cuanto salgo del Monolito, me invade un hambre terrible.
+0082 [Iris] | Estuvimos ahí adentro treinta y cinco horas. No es de extrañar que tengamos hambre.
+0083 [Iris] | ¿Y esa comida de la tienda de conveniencia? Todo lo que no salga de una Caja de Deseos, el Monolito lo recupera al salir. Es como si nunca hubieras comido.
+0084 [Tú] | ¿Simplemente... se esfuma?==W== Entonces, ¿qué pasaría si alguien se quedara allí un mes?
+0085 [Noya] | El Monolito te quita todo lo que has comido. En cuanto sales, de repente te quedas en los huesos y mueres de hambre~
+0086 [Iris] | ¡No describas una escena tan aterradora con tanto detalle!
+0087 [Iris] | Bueno... Esa es solo su teoría. Nadie ha durado tanto en un Monolito. El récord es de una semana. Cuando sacaron a ese Trekker, había perdido la cabeza...
+0088 [Noya] | Yo he oído de eso. ¡Esa persona también dijo que vio héroes legendarios caminando a su alrededor!
+0089 [Iris] | ¡Iiiih...!
+0090 [Amber] | Iris se asustó.
+0091 [Iris] | Pensándolo bien...==W== Comparado con los fantasmas, morir de hambre sigue dando más miedo...
+0092 [Noya] | Bueno, bueno, ya lo dejo.==W== (bostezo) Se está haciendo tarde. ¿No es hora de sacar eso?
+0093 [Iris] | Cierto.
+0094 [Amber] | Esto. Para ti.
+0095 [Tú] | ¿Para mí?
+0096 [Noya] | ¡Tara! ¡Pijamas, solo para ti! Los sacamos de una Caja de Deseos mientras andábamos buscándote.
+0097 [Iris] | No puedes dormir a gusto con tu ropa de calle.
+0098 [Amber] | Son lindos. Fue idea de Noya.
+0099 [1] | Guau, qué suaves... Son increíbles. No sé cómo agradecerles.
+0100 [Noya] | ¡Oye, tú me salvaste de ese Stellaroid, ¿recuerdas?! ¡Considéranos a mano!
+0101 [Noya] | Además, hay otra cosa de la que queríamos hablar contigo.
+0102 [Amber] | Por aquí.
+0103 [Narración] | Amber me jala para que me siente con ellas.
+0104 [Noya] | ¡Trekker de la Caja de Deseos, ven a viajar con nosotras!
+0105 [Iris] | Nosotras, eh... Queremos invitarte a unirte al Gremio de la Nueva Estrella.
+0106 [Amber] | Quédate con nosotras. ¿Sí?
+0107 [Tú] | ¿Quieren que me una? ¿Por qué?
+0108 [Iris] | L-lo hablamos entre nosotras. Tu pérdida de memoria es bastante grave y... no parece que vaya a volver pronto. Nos preocuparía muchísimo que te fueras por tu cuenta...
+0109 [Iris] | Quiero decir, ¡un Trekker experimentado como tú estaría bien en cualquier lugar, estoy segura! Pero... ¿quizá podrías quedarte con nosotras, al menos hasta que averigües las cosas?
+0110 [Iris] | Y-y además también está...
+0111 [Noya] | ¡Bien, mi turno! La primera vez que te vi, ahí en la Caja de Deseos, supe que estábamos destinados a cruzarnos.
+0112 [Noya] | Además, trabajamos muy bien juntos allá en el Monolito. ¡Encajas de maravilla en nuestro gremio!
+0113 [Amber] | Nos caes bien. Queremos que te quedes.
+0114 [Tú] | Gracias...==W== No, eso no es lo que debería decir.
+0115 [Iris] | Entonces... ¿Qué dices?
+0116 [Noya] | ¿Te unirás a nosotras?
+0117 [Amber] | ¿Por favor?
+0118 [Opción] | Me encantaría.
+0119 [Opción] | Soy feliz cuando estoy con todas ustedes.
+0120 [Opción] | Yo también quiero estar en su equipo.
+0121 [Noya] | ¡Je, je, les dije que ==SEX== diría que sí!
+0122 [Amber] | ¡Qué felicidad!
+0123 [Iris] | Qué bueno...
+0124 [Iris] | ¡Entonces es oficial! ¡Te damos la bienvenida al Gremio de la Nueva Estrella!
+0125 [Tú] | Sí. Me alegra ser parte del equipo.
+0126 [Noya] | ¡No seas tan formal! ¡Ya eres de los nuestros, así que que empiece la fiesta!
+0127 [Tú] | ¡Guau—!==W== ¡Oye! ¡¿A qué viene el ataque sorpresa con almohadas?!
+0128 [Noya] | ¡Porque es hora de una guerra de almohadas!
+0129 [Tú] | ¿Quién hace una guerra de almohadas en una fiesta de bienvenida...?
+0130 [Noya] | ¡Je! ¡El primero que golpee gana!==W== ¡Te toca! ¡Piensa rápido, Amber!
+0131 [Amber] | Lo vi venir.
+0132 [Noya] | ¡Guau! ¡Buenos movimientos, Amber! ¡De verdad lo esquivaste!
+0133 [Amber] | Sin esfuerzo.
+0134 [Noya] | ¿Ah, sí? ¡Pues cuidado! ¡Voy a sacar mi movimiento especial!
+0135 [Amber] | No puedes seguirme el ritmo.
+0136 [Noya] | ¡¿Qué?! ¡¿Cómo falló...?!
+0137 [Amber] | Te quedaste sin nada. Mi turno. ¡Hi—yah!
+0138 [Iris] | Ustedes dos... ¿Podrían comportarse como de su edad?==W== ¡Ay!
+0139 [Amber] | Ah. Fallé el blanco.
+0140 [Noya] | Jajaja... Uh-oh, ahora sí la hiciste...
+0141 [Iris] | Je, je... ¿Supongo que ustedes dos están listas para lo que viene?
+0142 [Noya] | ¡Aah! ¡Sálvenme!
+0143 [Tú] | ¡E-esperen! Amber, Noya... ¡dejen de usarme como escudo—!
+0144 [Narración] | Una cálida luz anaranjada se derrama desde la ventana y se prolonga hasta bien entrada la noche. Y así, nuestro viaje comienza.

@@ -1,0 +1,82 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! · 9 · Un nuevo sueño
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Un nuevo sueño
+0003 [Intro] | Caterine y Vivian le confiesan a Eleanor lo que realmente quieren, y las tres deciden formar su propio gremio de señoritas. Mientras continúa su camino, Eleanor se cruza contigo una vez más.
+0004 [Eleanor] | ¡Perdón por hacerlas esperar!
+0005 [Caterine] | ¡Eres muy lenta, Eleanor! ¡Llevamos una eternidad esperando aquí afuera!
+0006 [Eleanor] | Perdón, Caterine. Empacar mi equipo y mis provisiones tomó más de lo que esperaba, y perdí la noción del tiempo...
+0007 [Vivian] | ¿A dónde te llevará tu próximo encargo?
+0008 [Eleanor] | Esta vez no es un encargo. Voy a desafiar un Monolito.
+0009 [Vivian] | Guau, ¿por fin vas a hacer una escalada oficial? ¿Será difícil?
+0010 [Eleanor] | Dudo que sea fácil. Pero llevo mucho tiempo preparándome para este día, así que no se preocupen por mí.
+0011 [Vivian] | Suena increíble. Siempre me he preguntado cómo se ve por dentro.
+0012 [Eleanor] | Si tengo oportunidad, dibujaré el paisaje o usaré un Capturador de Fotos para mostrarles lo que veo.
+0013 [Vivian] | Pero dicen que los entornos de ahí dentro cambian constantemente. Es una lástima que no podamos verlo nosotras mismas...
+0014 [Eleanor] | Vivian...
+0015 [Caterine] | ... Ejem. Ya que estamos en el tema...==W== Vivian, ¿no crees que ya es hora de contarle a Eleanor lo que decidimos?
+0016 [Eleanor] | ¿Eh?
+0017 [Vivian] | Sí... Ahora es el momento perfecto.
+0018 [Vivian] | Eleanor, ¿recuerdas la tarde de té que tuvimos después de tu primer encargo?
+0019 [Eleanor] | Sí... La recuerdo.
+0020 [Vivian] | Ese día nos hiciste una pregunta. Nos preguntaste si envidiábamos tu nueva vida como Trekker...
+0021 [Vivian] | No somos tan valientes como tú, Eleanor. Si tuviera que ponerlo en palabras...
+0022 [Vivian] | Creo que nuestro mayor deseo ... es encontrar un sueño propio.
+0023 [Vivian] | Y ahora ... por fin lo encontramos.
+0024 [Vivian] | Queremos ser Trekkers.
+0025 [Vivian] | Hemos estado a tu lado en todo.==W== Hemos visto tus sonrisas radiantes, y te hemos visto luchar cuando las cosas se pusieron difíciles.
+0026 [Vivian] | Todo lo que has vivido es lo que ha faltado en nuestras vidas.==W== Sin darnos cuenta, este pensamiento echó raíces en nuestros corazones: queremos vivir tan libremente como tú.
+0027 [Caterine] | Y cada vez que te vemos partir, Vivian y yo nos sentimos solas ... e inútiles.==W== Odiamos quedarnos aquí sentadas preocupándonos, sin poder ayudar en nada.
+0028 [Vivian] | Así que, Eleanor, ya no nos conformamos con quedarnos viéndote partir. Queremos caminar a tu lado por este camino.
+0029 [Caterine] | Así es. Convertirnos en Trekkers es cómo haremos realidad ese sueño.
+0030 [Caterine] | Si las tres pudiéramos salir juntas y vivir una aventura... ¿No sería increíble?
+0031 [Eleanor] | Vivir una aventura ... juntas...
+0032 [Eleanor] | Si eso realmente pasara, sería tan feliz...
+0033 [Eleanor] | ... Espera, ¿eso significa que quieren venir al Monolito conmigo hoy?
+0034 [Vivian] | Algún día, pero hoy no. Todavía no somos Trekkers. Si te acompañáramos ahora, solo seríamos una carga.
+0035 [Caterine] | Conocemos nuestros límites. La diferencia de habilidad entre nosotras es demasiado grande por ahora.
+0036 [Caterine] | Así que vamos a seguir tu ejemplo. Estudiaremos habilidades de Trekker y entrenaremos duro hasta poder seguirte el paso.
+0037 [Vivian] | Solo danos un poco de tiempo, Eleanor. Prometemos alcanzarte.
+0038 [Eleanor] | ¡Entonces déjenme ayudarlas! Ahora tengo experiencia. Puedo guiar su entrenamiento.
+0039 [Vivian] | ... ¿Segura? Ya estás bastante saturada.
+0040 [Eleanor] | ¡Por supuesto! Su sueño es mi sueño. Yo tampoco quiero que estemos separadas.
+0041 [Vivian] | Qué dulce eres, Eleanor... Quizá me atrae este sueño porque te vi perseguirlo.
+0042 [Caterine] | Guau, ustedes dos son tan cursis...
+0043 [Eleanor] | ¡Mentor!
+0044 [Eleanor] | ¡Qué gusto por fin verte!
+0045 [Tú] | Acabo de llegar a Emor. No esperaba toparme contigo cerca del Monolito. ¿Ya estás escalando por tu cuenta?
+0046 [Eleanor] | ¡Sí!
+0047 [Tú] | Mmm, has avanzado mucho.
+0048 [Tú] | Hablando de eso, resolviste un caso y rescataste a tu amiga, ¿cierto?
+0049 [Tú] | Conozco lo esencial, pero quiero oírlo de ti directamente.
+0050 [Eleanor] | ¡Tengo mucho que contarte, Mentor! Me alegra que quieras escucharlo.
+0051 [Tú] | No tenía idea de que pasaste por todo eso...
+0052 [Tú] | Eleanor, de verdad te has probado a ti misma. Fue un trabajo impresionante.
+0053 [Eleanor] | Je, je. ¡Gracias, Mentor! Significa mucho para mí.
+0054 [Eleanor] | De hecho, voy a ayudar a mis mejores amigas, Vivian y Caterine, a entrenar para ser Trekkers.
+0055 [Tú] | Seguro te vieron perseguir tu sueño y quisieron seguir tu ejemplo. Así como a ti te atrajo el tuyo.
+0056 [Eleanor] | Por eso quiero ayudarlas...==W== Sé que suena atrevido, pero quiero seguir tu ejemplo, Mentor. Aunque solo pueda hacer un poco, quiero dar lo mejor de mí por ellas.
+0057 [Eleanor] | Cuando aprendan a defenderse en las Tierras Salvajes,==W== fundaremos nuestro propio gremio. ¡Así podremos vivir aventuras juntas!
+0058 [Tú] | Un gremio, ¿eh?... Je, es una meta ambiciosa.
+0059 [Tú] | Solo puedes llegar hasta cierto punto por tu cuenta. Si quieres subir más alto, necesitas que otros te ayuden.
+0060 [Eleanor] | Sí. Desde que vi a los Trekkers de Philae trabajar juntos bajo tu liderazgo para derrotar a esos monstruos, he sentido lo mismo.
+0061 [Eleanor] | No estaría aquí sin ti, Vivian, Caterine y muchos otros. Sé cuánto importan esos lazos.
+0062 [Tú] | Lo has hecho bien. Parece que ya me queda poco por enseñarte...
+0063 [Eleanor] | ¡Eso no es cierto! Pase lo que pase, siempre serás mi Mentor.
+0064 [Eleanor] | Convertirme en Trekker, ganarme la aprobación de mi familia...==W== Esos sueños se cumplieron.
+0065 [Eleanor] | Pero no me detendré aquí. Ahora tengo nuevos sueños, nuevas metas.
+0066 [Eleanor] | Quiero fundar mi propio gremio, ganar experiencia y madurar. Y cuando esté lista...
+0067 [Eleanor] | ¡Quiero unirme a Boss Accord con mis amigas!
+0068 [Eleanor] | Mentor... ¿Te parece bien?
+0069 [Tú] | Je, por supuesto que sí. Sería un honor.
+0070 [Eleanor] | ¿Entonces es una promesa?
+0071 [Eleanor] | ¡Seguiré mejorando, Mentor, y espero que estés ahí para verlo!

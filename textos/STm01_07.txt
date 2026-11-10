@@ -1,0 +1,165 @@
+# Capítulo 1 · 7 · Un tipo distinto de deseo
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_132 | Minova
+N:avg1_1997 | Soldado
+N:avg3_100 | Sylar
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Un tipo distinto de deseo
+0003 [Intro] | El Gremio Nueva Estrella escala un Monolito para Creta Trading con el fin de liberar a los niños agotados por sus escaladas. Descubres el nuevo método que usa Feagin para pedir deseos.
+0004 [Lugar y hora] | 12:00, 27 del mes de Floris, Emor. Monolito n.º 7, piso 30
+0005 [Narración] | A la mañana siguiente, visitamos a Feagin y le ofrecemos recuperar el Artefacto del Monolito por ella.
+0006 [Narración] | Inesperadamente, Feagin nos lleva al Monolito sin ponernos trabas. Sin embargo...
+0007 [Noya] | Los Monolitos de la ciudad son pan comido. Encontramos la caja de deseos en un santiamén.
+0008 [Amber] | Todos los Stellaroids están congelados y no hay mecanismos ni trampas por ningún lado. Seguro como una casa.
+0009 [Minova] | ¿Los Monolitos de afuera no son así?
+0010 [Iris] | Sí, los Monolitos que solemos escalar están repletos de Stellaroids. ¿Estos de aquí? Parece que estuviéramos de compras en una tienda de regalos.
+0011 [Tú] | O sea que solo las compañías tienen acceso a lugares como este... ¿Es esta la famosa bendición que el Dios de la Gracia concede a las compañías?
+0012 [Tú] | Pero...
+0013 [Feagin] | Je, je... Solo las dejé entrar porque parecían muy ansiosas por pagar su deuda. Espero un poquito de gratitud.
+0014 [Tú] | No sabe decir nada amable, ¿verdad?
+0015 [Feagin] | Vengan a pedir un deseo.
+0016 [Iris] | ¿Podría especificar los requisitos del Artefacto? Haremos todo lo posible por desear justo lo que necesita.
+0017 [Iris] | Si nos da las especificaciones, haremos lo posible por desear algo que satisfaga sus necesidades.
+0018 [Feagin] | ¿Especificaciones? Hmph. El Consorcio de la Tiza no necesita métodos tan rudimentarios.
+0019 [Iris] | ¿Qué es esto?
+0020 [Feagin] | Tienes razón. Cuanto más específica sea la imagen, mayores son las probabilidades de obtener el Artefacto que quieres.
+0021 [Feagin] | Pero la imaginación de cada quien es distinta, ¿no? Parece ineficiente.
+0022 [Feagin] | Solo toma esta tarjeta, apoya la mano en una caja de deseos y recita la oración. ¿Ves? Simple, ¿verdad?
+0023 [Iris] | ¿O sea que no necesito pensar en nada en concreto?
+0024 [Feagin] | Para nada. Solo sigue mis instrucciones.
+0025 [Narración] | Aunque con dudas, Iris hace lo que le dicen.
+0026 [Iris] | Oh, poderoso Dios de la Gracia, escucha nuestra oración...
+0027 [Narración] | En cuanto termina, la caja se abre. Dentro hay un Artefacto de comunicación.
+0028 [Feagin] | Sí, exactamente el Artefacto de comunicación que buscaba.
+0029 [Noya] | ¿Estás bien, Iris? Te ves un poco rara.
+0030 [Iris] | Estoy... bien. Solo... un poco adormilada.
+0031 [Tú] | ¿Se habrán dado cuenta Noya y Amber? Iris se ve tan agotada como Rainea.
+0032 [Iris] | Pero... no tenemos ni idea de qué Artefacto estamos deseando... ¿Cómo funciona eso siquiera?
+0033 [Feagin] | Secreto comercial. Lo suyo es solo donar recuerdos; yo me encargo de elegir el Artefacto.
+0034 [Feagin] | Son escaladoras rápidas, no como esos otros niños que solo se ponen a llorar. Sería una lástima desperdiciar sus talentos.
+0035 [Feagin] | ¿Han pensado en trabajar para Creta Trading?
+0036 [Feagin] | Mira, lo entiendo. Probablemente me odian.
+0037 [Feagin] | Hoy están escalando el Monolito en lugar de esos niños del Clan Viento de Ceniza, en vez de hacerlo por dinero.
+0038 [Noya] | Al menos tienes conciencia de ello. Para mí, quien se lleva a Loxy es imperdonable.
+0039 [Feagin] | ¿Qué esperaban que hiciera? No puedo simplemente condonar deudas, ¿o sí?
+0040 [Feagin] | Soy yo quien hace una enorme concesión aquí. Dijeron que querían trabajar, y acepté de inmediato, ¿no?
+0041 [Noya] | ¿«Concesión»? ¿Qué tal si empiezas devolviéndonos a Loxy, el Lucky Oasis?
+0042 [Feagin] | Eso se puede arreglar.
+0043 [Noya] | ¿Ves? Mucho hablar, pero nada de...
+0044 [Noya] | Espera. ¿En serio?
+0045 [Feagin] | Técnicamente, «devolverlo» no es el término correcto... Hagamos esto: firmen un contrato de trabajo conmigo y les dejaré usar el Lucky Oasis, sin costo alguno.
+0046 [Feagin] | Y una vez bajo contrato, naturalmente les pagaré un salario. 300 mil Dorra al mes por persona. ¿Qué dicen?
+0047 [Iris] | ¡¿300 mil Dorra?!
+0048 [Feagin] | Entre las cinco son 1.5 millones de Dorra al mes. Incluso después de pagar su deuda, les sobrará de sobra, ¿no?
+0049 [Iris] | Nuestra deuda no es responsabilidad de Minova. Para las cuatro, son 1.2 millones al mes. Menos los 830 mil de la deuda... nos quedarían más de 300 mil.
+0050 [Tú] | Aquí hasta el pan barato cuesta 10 mil Dorra al día. Nos mataríamos trabajando por migajas.
+0051 [Tú] | Pero es una oportunidad de recuperar nuestro vehículo. Feagin es una negociadora astuta. Ese título de directora general no es solo de adorno, después de todo.
+0052 [Feagin] | Una cosa más: con escaladoras expertas como ustedes, estaría dispuesta a borrar todas esas deudas heredadas de los niños del orfanato.
+0053 [Feagin] | Con ustedes escalando los Monolitos, ya no los necesitaré a ellos.
+0054 [Minova] | ¿Borrarlas? ¿Dices que de ahora en adelante dejarás en paz a esos niños?
+0055 [Feagin] | Mira, no obligué a esos niños a subir a los Monolitos por diversión. Solo quería que probaran lo que es el trabajo de verdad.
+0056 [Tú] | Usar a los niños como palanca... Es una trampa en la que no tenemos más remedio que caer.
+0057 [Minova] | Tch...==W== Está bien. Lo haré.
+0058 [Noya] | Eh... ¿Amber? ¿Iris? ¿Qué opinan?
+0059 [Narración] | Tras sopesar nuestras opciones, no tenemos motivo para negarnos. Iris y Amber asienten, y firmamos un contrato de trabajo con Feagin.
+0060 [Feagin] | Excelente. Ahora que son oficialmente empleadas, por favor continúen con su trabajo.
+0061 [Iris] | Ya pedimos el deseo del Artefacto.
+0062 [Feagin] | Sí, lo hicieron. Pero nunca dije que fuera solo un deseo.
+0063 [Feagin] | Sigan escalando. ¡Al menos un deseo por persona!
+0064 [Iris] | Espera... ¿eso significa que...?
+0065 [Noya] | ¡¡¡Nos estafaron!!!
+0066 [Iris] | ¡¡¡Nos estafaron!!!
+0067 [Amber] | ...
+0068 [Lugar y hora] | 17:30, 27 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0069 [Iris] | Estoy... tan agotada... casi no puedo mover las piernas... ¿Cuál era la fórmula mágica de las flechas de hielo?... Se me borró.
+0070 [Noya] | Iris, ¿estás bien?
+0071 [Minova] | ¿Cuántos deseos pedimos hoy en realidad?
+0072 [Iris] | D-diez... Eso ni siquiera debería ser posible...
+0073 [Noya] | Sí... pero ahora lo entiendo. Seguro por esto Rainea y los niños siguen tan mal. Los obligaron a hacer esto una y otra vez.
+0074 [Iris] | Tienes razón... Que te arrebaten los recuerdos varias veces en un solo día debe de ser una carga enorme.
+0075 [Iris] | El desgaste físico ya es malo, pero soportarlo repetidamente... podría erosionar por completo el espíritu.
+0076 [Amber] | Si tu espíritu... se erosiona, ¿qué?
+0077 [Tú] | ¿Entonces qué?
+0078 [Iris] | En los peores casos, pierdes todos tus recuerdos y tu alma sufre un daño grave. Que alguien se recupere de eso, como tú, ==PLAYER_NAME==, es un milagro de uno en un millón.
+0079 [Iris] | La mayoría de la gente se convierte en cascarones vacíos que siguen viviendo mecánicamente.
+0080 [Minova] | Tch... No puede ser en serio. Voy a dar un paseo.
+0081 [Narración] | Minova intenta ocultar sus emociones mientras se dirige a la puerta.
+0082 [Iris] | ¡Ah! ¡Yo solo... solo estaba especulando! ¡No es que vaya a pasar seguro!
+0083 [Iris] | Perdón, es mi culpa por decir algo así. Iré a ver cómo está.
+0084 [Noya] | Yo iré a ver cómo está Rainea.
+0085 [Narración] | Noya e Iris también se van, y la sala queda en silencio.
+0086 [Tú] | Amber parece aguantar bien.
+0087 [Tú] | Uy, nuestras miradas se cruzaron.
+0088 [Tú] | ¿Debería preguntarle? Pero... a Amber no parece gustarle hablar.
+0089 [Amber] | ==PLAYER_NAME==. ¿Hacemos tap?
+0090 [Tú] | Eh... ¿eh?
+0091 [Tú] | Espera... un momento...
+0092 [Tú] | ¿A qué te refieres con «hacer tap»?
+0093 [Narración] | Amber junta su teléfono con el mío, espalda con espalda. En la pantalla de mi teléfono aparece un aviso.
+0094 [Narración] | «Amber te envió una solicitud de amistad».
+0095 [Tú] | Ah, a eso se refería.
+0096 [Opción] | Aceptar
+0097 [Opción] | Aceptar
+0098 [Opción] | Rechazar
+0099 [Amber] | ¿?
+0100 [Narración] | Amber ladea la cabeza confundida y vuelve a pegar su teléfono al mío.
+0101 [Narración] | «Amber te envió una solicitud de amistad».
+0102 [Opción] | Aceptar
+0103 [Opción] | Aceptar
+0104 [Opción] | Rechazar
+0105 [Amber] | ¿¿¿???
+0106 [Amber] | No me digas... ¿olvidaste cómo usar tu teléfono?
+0107 [Narración] | La frente de Amber toca la mía.
+0108 [Amber] | Sin fiebre.
+0109 [Narración] | «Amber te envió una solicitud de amistad».
+0110 [Opción] | Aceptar
+0111 [Opción] | Aceptar
+0112 [Opción] | Rechazar
+0113 [Tú] | Quizá me pasé un poco con la broma.
+0114 [Amber] | Supongo que... no me queda otra.
+0115 [Tú] | ¿?
+0116 [Narración] | Los dedos de Amber rodean mi dedo índice y lo obligan a moverse por la pantalla.
+0117 [Amber] | Presiona esto.
+0118 [Tú] | ¡¡Da un poco de miedo ahora mismo...!!
+0119 [Tú] | ¡P-perdón! ¡Lo siento! ¡Me pasé con la broma!
+0120 [Opción] | Aceptar
+0121 [Opción] | Aceptar
+0122 [Opción] | Aceptar
+0123 [Amber] | ¡Hola, ==PLAYER_NAME==!
+0124 [Amber] | Uf, por fin te agregué como amigo.
+0125 [Amber] | Antes querías preguntarme algo, ¿no?
+0126 [Amber] | ¿Qué era? ¡Te contesto todo lo que sepa!
+0127 [Tú] | Teléfonos... Espera un momento.
+0128 [Tú] | Quizá los niños se llevaron un golpe más duro porque...
+0129 [Tú] | Debería consultar con Minova e Iris. Si todos experimentan esto, podría confirmar mis sospechas.
+0130 [Amber] | Solo ando un poquiiito baja de energía.
+0131 [Amber] | ¡Pero estoy bien! ¿Exploramos juntos el puente del canal?
+0132 [Amber] | ==PLAYER_NAME==, ¿estuviste alguna vez en Emor antes de perder la memoria?
+0133 [Amber] | A lo mejor sí, y hasta te tomaste fotos en el canal.
+0134 [Tú] | Si ni los Trekkers profesionales logran descifrarlo, ¿qué posibilidades tengo yo con mi amnesia? Seguro son solo divagaciones mías. Mejor no meterme.
+0135 [Tú] | Ya no puedo pensar con claridad. Estaba a punto de descubrirlo.
+0136 [Tú] | No se puede pensar con el estómago vacío.
+0137 [Amber] | ¡Sí, los teléfonos son superdivertidos! Me gusta hablar por teléfono: es más rápido y además puedo seguir mejor las conversaciones.
+0138 [Amber] | ¡También me encanta tomar fotos con él, cuando sea y donde sea!
+0139 [Amber] | Cuando me siento triste, mi teléfono siempre me anima.
+0140 [Amber] | ¡Ojalá tuviera un teléfono con pantalla grande como el tuyo, ==PLAYER_NAME==!
+0141 [Tú] | Teléfonos... Espera un momento.
+0142 [Tú] | Quizá los niños se llevaron un golpe más duro porque...
+0143 [Opción] | Investigar más
+0144 [Opción] | Dejar de pensar en eso
+0145 [Opción] | Primero comamos
+0146 [Tú] | ¡Qué rápido!
+0147 [Tú] | Parece... algo emocionada.
+0148 [Tú] | No se ve «sin energía» en absoluto.
+0149 [Tú] | Ahora que lo pienso, Amber ha estado pegada a su teléfono desde que salimos del Monolito.

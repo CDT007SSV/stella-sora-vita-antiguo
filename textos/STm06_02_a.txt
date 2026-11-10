@@ -1,0 +1,154 @@
+# Capítulo 6 · Milagro de un destello · 2A · Negociar con un tigre
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Elite Soldier | Soldado de élite
+N:Fallen Soldier | Soldado caído
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg2_957 | Hierbajo Tirador
+N:avg2_958 | Hierbajo Peleador
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_134 | Mina
+N:avg3_183 | Joseph
+N:avg3_184 | Lady Gray
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Negociar con un tigre
+0003 [Intro] | Finges cooperar con Darcia para sacarle más información, pero terminas bajo arresto domiciliario. Mientras tanto, la fuente anónima que antes te pasaba información cortó todo contacto...
+0004 [Lugar y hora] | 01:30, 5.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0005 [Narración] | Después de jurarme lealtad, Darcia llamó a mis compañeras a su oficina y les explicó cómo había llegado yo a ser elevado a Tirano.
+0006 [Mina] | Lady Darcia, ¿de qué está hablando? ¿E-el Jefe es su señor?
+0007 [Darcia] | No. No insultes a ==SEX2== Majestad con ese nombre superficial y falso. ==SEX2== verdadero título es Tirano.
+0008 [Noya] | ¿El Jefe de Boss Accord... es el legendario Tirano? Eh... Creo que me perdí...
+0009 [Tú] | Esa es solo la versión de Darcia.
+0010 [Amber] | Jefe, otra vez haciendo de las suyas
+0011 [Amber] | 
+0012 [Amber] | ¿Cómo hiciste que Darcia se obsesionara tanto contigo? Actúa como si fuera a hacer cualquier cosa que le pidas.
+0013 [Tú] | ¡No lo digas así! Solo... cree a toda costa que soy el Tirano al que venera.
+0014 [Amber] | 
+0015 [Amber] | Entendido. Si un gato callejero hambriento cree que tienes comida, te sigue a todos lados y espera a que le des de comer.
+0016 [Amber] | ¿Entonces Darcia es básicamente lo mismo?
+0017 [Tú] | ¡Para nada! Es la directora ejecutiva de la sucursal de Philae de Cosecha Unida. ¿Qué le podría faltar?
+0018 [Tú] | En fin, voy a mantenerla tranquila por ahora para ver si le saco información sobre el orfanato, y luego buscaremos la oportunidad de escapar.
+0019 [Amber] | Las rutas para salir de Cosecha Unida y de la ciudad de Philae ya están exploradas.
+0020 [Tú] | De verdad me ayuda mucho tenerte cerca, Amber.
+0021 [Amber] | 
+0022 [Nyx] | Lady Darcia... ¿«sirvienta del Tirano»?
+0023 [Nyx] | Como directora ejecutiva de la sucursal de Philae, ¿tiene idea de lo que está diciendo?
+0024 [Darcia] | Je. Nyx... De verdad no lo entiendes.
+0025 [Darcia] | Todos en Cosecha Unida, yo como directora ejecutiva, Firenze como directora de operaciones, tú como oficial enviada por la sede... Incluso los empleados de las tiendas y los trabajadores del campo. ¿Acaso no somos todos sirvientes del Senado?
+0026 [Darcia] | Si es así... Abandonar a esa sabandija de Senado y entregarme al Tirano en su lugar, ¿no es lo más natural?
+0027 [Nyx] | Darcia. Te volviste loca.
+0028 [Firenze] | Nyx, ¿adónde vas?
+0029 [Nyx] | A reportar esto a la sede. ¿Por qué? ¿Vas a detenerme?
+0030 [Darcia] | Firenze. Déjala.
+0031 [Firenze] | Entendido.
+0032 [Tú] | Darcia, tengo una pregunta.
+0033 [Darcia] | Su Majestad, no tiene por qué preocuparse. Nyx no puede escapar de la compañía.==W== Las Plantas Inteligentes de 2.ª generación vigilan cada rincón de la compañía.
+0034 [Tú] | No puede escapar, ¿eh? Así que lo tiene todo pensado. Parece que aceptar primero sus condiciones fue la decisión correcta. Le seguiré el juego.
+0035 [Tú] | No me refería a eso. Cuando mencionaste abandonar a esa sabandija de Senado...
+0036 [Darcia] | Sí, a eso me refería... Es simplemente una evolución natural.
+0037 [Darcia] | Incluso compararlo a usted, Su Majestad, con esas criaturas ya era una gran falta de respeto.
+0038 [Tú] | ¿Piensas separar la sucursal de Philae de Cosecha Unida? Como ya conseguiste un Sello de la Gracia...
+0039 [Darcia] | Nunca lo había considerado. Mmm... ¿Quizá debería decidir ahora el futuro de la sucursal de Philae, Su Majestad?
+0040 [Tú] | Caí redondito.
+0041 [Tú] | Aun así... Quizá pueda sacar algo bueno de esto.
+0042 [Opción] | Entonces subiremos los sueldos. Y más días de descanso para todos.
+0043 [Tú] | Si las Plantas Inteligentes de 2.ª generación pueden reemplazar el trabajo pesado en los campos y en las líneas de producción, que lo hagan. Pero nada de despidos.
+0044 [Tú] | Esta compañía se construyó con el esfuerzo de todos. No la reduzcas solo a costos y ganancias.
+0045 [Darcia] | Entendido. El plan de Su Majestad es verdaderamente brillante. Ahora todos en la sucursal de Philae le estarán agradecidos, ==SEX12== Tirano.
+0046 [Tú] | Darcia me trata con muchísimo respeto... Y su lealtad... tampoco parece fingida.
+0047 [Darcia] | ¿Y qué hay de Joseph y Lady Gray? Ahora mismo están detenidos en la sala de interrogatorios del Distrito de las Cenizas por haberlo ofendido.==W== Le recomiendo ejecutarlos por este acto imperdonable, Su Majestad.
+0048 [Tú] | Mantenlos encerrados. No hay prisa.
+0049 [Tú] | Ejecutarlos ahora complicaría el proyecto de las Plantas Inteligentes, ¿no? Piensa en los mercenarios...
+0050 [Darcia] | Tiene razón. Pero ofender a Su Majestad es un crimen capital.
+0051 [Darcia] | Y, de todos modos, sus conocimientos y su experiencia hace mucho que le pertenecen a usted.
+0052 [Tú] | ¿Es una metáfora... o lo dice literalmente?
+0053 [Tú] | Mmm... Luego volvemos a eso. Ahora que el asunto de Cosecha Unida está arreglado, debería preguntar por el orfanato.
+0054 [Tú] | Una cosa más: ¿qué pasó exactamente con el Orfanato de las Cenizas en Emor? ¿Adónde se fueron la tía Allie y los niños? ¿Cómo terminó el orfanato con esa deuda?
+0055 [Darcia] | Firenze. Explícalo tú. Tú te encargaste de eso.
+0056 [Firenze] | Sí.
+0057 [Firenze] | Hace dos veranos, siguiendo las órdenes de Lady Darcia, fui a Emor.
+0058 [Narración] | Año 994 del Calendario Monolítico
+0059 [Lugar y hora] | 23:00, 14.º del mes de Tonitrua, Distrito de las Cenizas de Emor, cerca del orfanato
+0060 [Elite Soldier] | Lady Firenze, ya pasó más de una hora y nuestro escuadrón de reconocimiento no ha regresado. No pinta bien.
+0061 [Elite Soldier] | Según nuestra información, en el orfanato solo había una encargada llamada Allie y algunos niños. No deberían representar ninguna amenaza para nuestros soldados.
+0062 [Firenze] | Entonces fue una emboscada. Quédense alerta aquí. Iré a echar un vistazo yo misma.
+0063 [Elite Soldier] | Entendido.
+0064 [Firenze] | Ese es el orfanato... Las luces siguen encendidas, pero a esta hora los niños deberían estar dormidos.
+0065 [Firenze] | Si fuera una emboscada, no habría razón para dejar las luces encendidas como advertencia.==W== Espera, esto es...
+0066 [Fallen Soldier] | Ugh...
+0067 [Firenze] | Oye, ¿estás bien?==W== Todavía respira... Parece que lo dejaron inconsciente con toda calma.
+0068 [Firenze] | Pero no hay ninguna señal de pelea. ¿Qué pasó aquí...?==W== Esto es... ¿una carta?
+0069 [Firenze] | Estimado comandante:==W== No sé a qué compañía representa, pero sus soldados dormirán un día entero. Por favor, regrese para entonces.==W== Tenga la certeza de que no nos llevaremos nada que no nos pertenezca.
+0070 [Firenze] | ¿Una amenaza...? No. Nuestra orden es recuperar la reliquia antigua. No hace falta un enfrentamiento.
+0071 [Firenze] | Retirada. Volveremos mañana.
+0072 [Lugar y hora] | 02:00, 5.º del mes de Messis, Distrito de Oro de Philae, Oficina Ejecutiva
+0073 [Noya] | ¡Firenze! ¡¿Adónde se llevaron a la tía Allie y a los niños?!
+0074 [Firenze] | Cálmate, Noya. No les hicimos nada.
+0075 [Firenze] | Cuando regresamos al día siguiente, el orfanato ya estaba vacío.
+0076 [Firenze] | Esto es lo único que encontramos en el sótano...
+0077 [Firenze] | Esta receta es muy antigua. Creo que podría haber sido la reliquia antigua en sí... Pero resultó que no era lo que buscaba Lady Darcia.
+0078 [Firenze] | Así que la receta del Ruiseñor Leonado sí se encontró en el orfanato, tal como dijo el mensajero misterioso... Pero eso solo genera más preguntas.
+0079 [Iris] | ¿Entonces estás diciendo que... la tía Allie se llevó a los niños y se mudó de la noche a la mañana, tal como dijo Rainea?
+0080 [Firenze] | Eso parece. Quien sea que protegía el orfanato neutralizó a nuestros soldados con facilidad.==W== Trasladar a los niños no habría sido difícil, y una vez que se escondieron, no teníamos forma de rastrearlos.
+0081 [Amber] | ¿Y cómo explicas la deuda?
+0082 [Firenze] | La verdad es que apenas hace poco me enteré de la deuda que le cargaron al orfanato.
+0083 [Firenze] | Al parecer, para reunir fondos, Lady Gray buscó en los archivos de Cosecha Unida organizaciones que hubieran desaparecido hacía poco.==W== Usó esos nombres como entidades de préstamo, aprovechando los vacíos de información entre ciudades-estado para conseguir préstamos con garantía.
+0084 [Tú] | Así que fue un fraude de préstamos. Ese contrato terminó en manos de Feagin y nos causó un montón de problemas en Emor.
+0085 [Darcia] | Lo siento, Su Majestad. No lo pensé bien cuando estaba reuniendo fondos.
+0086 [Tú] | No se puede borrar lo que ya pasó... Pero ya quedó atrás.==W== ¿Qué era exactamente la reliquia antigua que buscabas debajo del orfanato?
+0087 [Darcia] | Buscaba un mapa antiguo, Su Majestad. Según la leyenda, registraba el camino que lleva al Tirano.
+0088 [Darcia] | Aunque Firenze nunca encontró ese mapa, el destino de algún modo nos reunió.
+0089 [Tú] | Basta de halagos.==W== Eso es todo por esta noche. Ya es tarde, vayan a descansar.
+0090 [Darcia] | Gracias por su consideración, Su Majestad.
+0091 [Lugar y hora] | 02:40, 5.º del mes de Messis, Distrito de Oro de Philae, sala de recepción VIP
+0092 [Darcia] | Esta sala está reservada para los invitados de honor de Cosecha Unida. Por favor, pónganse cómodos.
+0093 [Darcia] | Pronto mandaré preparar residencias privadas en Philae para todos ustedes. Por favor, disculpen nuestra hospitalidad tan poco adecuada.
+0094 [Fuyuka] | ¿R-residencias privadas? E-esto es demasiado.
+0095 [Darcia] | Ya que ustedes también sirven al Tirano, no hay por qué hacer tanto alboroto por esta modesta ofrenda.
+0096 [Darcia] | Su Majestad, me retiro.
+0097 [Tú] | Buenas noches.
+0098 [Narración] | Después de que Darcia y Firenze cerraron la puerta, un silencio inquietante cayó sobre la sala.
+0099 [Noya] | Oigan, oigan, oigan, ¿qué son esas caras largas?
+0100 [Noya] | Iris, Amber, Fuyuka y Mina, vengan a probar este colchón. Es comodísimo.
+0101 [Iris] | Bueno... Al menos Noya sigue actuando como siempre.==W== Puede que Darcia haya dicho que le jura lealtad al Tirano, pero de camino aquí no vi más que soldados y Plantas Inteligentes. ¿No es básicamente...?
+0102 [Amber] | Arresto domiciliario.
+0103 [Mina] | D-de verdad no esperaba que las cosas terminaran así...
+0104 [Mina] | Lady Darcia era la «pez gordo» detrás de la comisión del Ruiseñor Dorado,==W== pero nunca tuvo intención de investigar el Ruiseñor Leonado, ¿verdad? Su plan desde el principio era meterte en Cosecha Unida, ==PLAYER_NAME==.
+0105 [Mina] | Sé que probablemente ya es muy tarde... Pero de verdad lo siento, todos.
+0106 [Noya] | No seas tan dura contigo misma. Lo hecho, hecho está. Pensemos en nuestro siguiente paso.
+0107 [Iris] | ¿No vas a dormir en el colchón suavecito?
+0108 [Noya] | Claro que sí. Y vamos a dormir todos juntos.==W== Sonriendo o llorando, seguimos teniendo el mismo problema... Así que, ¿por qué no sonreír y sentirnos un poquito mejor?~
+0109 [Noya] | ¡Bueno! Basta de estresarnos por lo que ya pasó. ¡Saldremos de esto juntos!
+0110 [Noya] | Además, si queremos huir, más vale que comamos y descansemos. ¿Verdad? Su Majestad~
+0111 [Tú] | Eres muy optimista, Noya, incluso en un momento así.==W== Tienes razón: deberíamos relajarnos y dormir bien esta noche. Luego podremos idear un plan de escape.
+0112 [Tú] | En cuanto lleguemos al campamento de Trekkers, no habrá nada que temer.==W== Fuyuka, ¿podrías contactar a Petal Bloom?
+0113 [Fuyuka] | Sí, Maestro.
+0114 [Tú] | Bueno, entonces vamos a descansar todos.
+0115 [Tú] | Lo que dijo Darcia hace rato... ¿Debería preguntarle a Vita otra vez?==W== Quizá de verdad debería completar las misiones de Vita para conseguir ese permiso. Guardarme una última carta bajo la manga...
+0116 [Tú] | ¿Eh? ¿Cuándo llegó esto...?
+0117 [Narración] | «Usuario anónimo te envió una solicitud de amistad».
+0118 [Narración] | Alguien me envió una solicitud en Heartlink sin que me diera cuenta.
+0119 [Mistique] | Esta noche, en el almacén,==W== me llegó una solicitud de amistad de un usuario anónimo.
+0120 [Tú] | Lo mismo le pasó a Mistique aquella vez...
+0121 [Opción] | Aceptar la solicitud
+0122 [???] | Tonto
+0123 [???] | Tomaste la decisión equivocada
+0124 [???] | Te vas a arrepentir
+0125 [Tú] | ¿Quién eres?
+0126 [Narración] | Heartlink no establecido. No se pudo enviar el mensaje.
+0127 [Tú] | ¡Qué coraje! ¿Me eliminaron justo después de mandar estos mensajes?
+0128 [Tú] | Esta advertencia... De verdad me inquieta.

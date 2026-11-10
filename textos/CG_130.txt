@@ -1,0 +1,6 @@
+# Historia de Donna — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_130_01 | La otra Donna (Parte I)
+CG_130_02 | La otra Donna (Parte II)
+CG_130_03 | La otra Donna (Parte III)

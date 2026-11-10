@@ -1,0 +1,82 @@
+# Historia de Noya · 3 · Fast and Focused (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Admiring Driver | Conductor admirador
+N:Recording | Grabación
+N:avg1_112 | Noya
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Rápidos y concentrados (Parte III)
+0003 [Intro] | Noya aprende a manejar con seguridad, pero no sin pagar el precio.
+0004 [Noya] | … ¿Eh?
+0005 [Tú] | ¿Y ahora qué...?
+0006 [Narración] | El conductor furioso frente a nosotros abandona de pronto su pose de tipo duro==W== y se arrodilla en el suelo con un fuerte «¡plaf!».
+0007 [Admiring Driver] | ¡Maestra, ==W==Maestra!!==W== ¡Por favor, acépteme como discípulo!!
+0008 [Admiring Driver] | ¡Ese derrape y esa frenada que acaba de hacer... fueron épicos!
+0009 [Admiring Driver] | Fui un tonto al creer que podía competir contra usted.==W== ¡Solo una verdadera maestra como usted tiene esa calma==W== y esa soltura!
+0010 [Noya] | Jaja... ¿Derrape y frenada, dices? ¿De verdad es tan difícil?
+0011 [Admiring Driver] | ¡Por supuesto! Muy poca gente puede lograrlo. Maestra, ¿cómo lo consiguió?
+0012 [Noya] | Yo solo trato a Loxy como una compañera en sintonía conmigo.==W== Así se vuelve una extensión de mi cuerpo y esos movimientos salen con naturalidad.
+0013 [Admiring Driver] | Tratar al auto como una extensión del propio cuerpo...
+0014 [Admiring Driver] | ¿Esto es lo que significa ser una verdadera maestra? Es increíble...
+0015 [Admiring Driver] | ¡Por favor! ¡Acépteme como discípulo!!
+0016 [Noya] | ¿D-discípulo?!
+0017 [Tú] | No te adelantes.==W== Chocaste a propósito contra nuestra casa rodante. Fue muy peligroso.==W== Tienes que hacerte responsable.
+0018 [Admiring Driver] | ¡Por supuesto! ¡Por supuesto! ¡Casi choco con la compañera de la Maestra!==W== ¡Perdón!!
+0019 [Noya] | En fin, de ahora en adelante, pase lo que pase, no puedes manejar de forma temeraria.
+0020 [Narración] | Poco después, la Guardia Imperial llegó a la escena.==W== Remolcaron el auto dañado.==W== Entre gritos de «¡Maestra!», también se llevaron al dueño del auto.
+0021 [Tú] | Uf. Por fin...
+0022 [Tú] | No me había dado cuenta de que ya era tan tarde.
+0023 [Noya] | Antes de regresar, hay otro lugar al que quiero ir.
+0024 [Noya] | A comprar unos ...==W== suministros de reparación.
+0025 [Noya] | Con estos,==W== y las piezas de mi caja de herramientas,==W== ¡tendré a Loxy arreglada en un santiamén!
+0026 [Tú] | Yo también ayudaré.
+0027 [Noya] | ¡Jeje, genial!
+0028 [Tú] | 
+0029 [Noya] | ¿Qué pasa?
+0030 [Tú] | Durante la persecución pensé que quizá te arriesgarías, igual que en la situación del Gólem Hechizado en Emor,==W== y te estrellarías contra los árboles... Ese era tu plan, ¿verdad?
+0031 [Noya] | Sí.==W== Pero esta vez fue distinto.
+0032 [Tú] | ¿Distinto en qué?
+0033 [Noya] | Claro, ==W==pude haberlo obligado a detenerse... ==W==Pero no quise arriesgarme a que te lastimaras.==W==
+0034 [Opción] | Olvídate de mí un momento... ¿No tienes miedo de lastimarte, No<r=Seina></r>ya?
+0035 [Noya] | Nop. Para nada.
+0036 [Noya] | ¡Tengo Hyper Heal en el bolsillo! ==W==Si es solo un rasguño, ==W==una buena noche de sueño y quedo como nueva. ♪
+0037 [Opción] | Pero una herida sigue siendo una herida.
+0038 [Opción] | Entonces ... ¿y si yo me lastimo?
+0039 [Noya] | Bueno ...==W== eso sería más difícil de sobrellevar, ==W==para ser sincera.
+0040 [Noya] | Quizá suene raro, ==W==pero la primera vez que te vi en el desierto, ==W==sentí un zumbido, como si algo hiciera clic.
+0041 [Noya] | ==W==No sé por qué, pero… pensé: ==W==«Esta persona va a ser muy importante para mí».
+0042 [Noya] | Si alguna vez te lastimaras por mi culpa...==W== Ahhh, no creo que pudiera perdonármelo.==W==
+0043 [Opción] | Yo siento lo mismo.
+0044 [Noya] | ¿Lo mismo?
+0045 [Opción] | Verte herida también me pone triste y me preocupa.
+0046 [Opción] | Por supuesto...
+0047 [Noya] | Ah.
+0048 [Noya] | ==W==Bien. Así que eso sientes. ==W==Gracias. ♪
+0049 [Noya] | Jeje. ==W==No puedo creer que te hiciera admitir eso. ==W==Supongo que intentaré no preocuparte tanto de ahora en adelante.==W==
+0050 [Opción] | ¡Entonces es una promesa! ¡No hay vuelta atrás!
+0051 [Noya] | Bueno, ==W==no me gusta hacer promesas que no puedo cumplir.
+0052 [Noya] | ¡Pero no te preocupes! ==W==De ahora en adelante me cuidaré mejor ==W==¡para poder protegerte cuando de verdad importe!
+0053 [Noya] | Por cierto...==W== Lo que pasó hoy...==W== ¿Podemos dejarlo como nuestro pequeño secreto, por favor?
+0054 [Tú] | Te da miedo que Iris te regañe, ¿verdad?
+0055 [Noya] | Si se entera,==W== ¡no me dejará sentarme tras el volante de Loxy durante los próximos dos meses!
+0056 [Noya] | Por favor...
+0057 [Tú] | Claro.
+0058 [Noya] | ¿Eh? ¡¿Por qué aceptaste tan fácil?!
+0059 [Tú] | Porque ya me prometiste que te cuidarás bien de ahora en adelante, ¿verdad?
+0060 [Noya] | Jeje...
+0061 [Tú] | Pero sabes, una cosa que dijo el caballero de la Guardia Imperial fue muy acertada.==W== Siempre maneja a una velocidad segura, sin importar la habilidad.
+0062 [Tú] | Así que les pedí esto en especial.
+0063 [Noya] | ¿Q-qué?
+0064 [Recording] | «Primera regla de la conducción segura: el conductor debe tener conciencia de seguridad, conocer las leyes de tránsito y estar en buenas condiciones físicas y mentales...»
+0065 [Recording] | «Segunda regla de la conducción segura: ...»
+0066 [Tú] | Esta cinta está bastante buena, ¿no?
+0067 [Tú] | La próxima vez que salgamos a dar una vuelta y empieces a pensar «a toda velocidad», te la pondré.
+0068 [Tú] | Seguro te hará replantearte esa idea. Jeje.
+0069 [Noya] | ¡Waah! ¡Y-ya entendí!==W== ¡Por favor, páralo!
+0070 [Narración] | Y así, ==W==bajo el atardecer que se desvanece,==W== Loxy avanza suavemente por el camino por el que vinimos.

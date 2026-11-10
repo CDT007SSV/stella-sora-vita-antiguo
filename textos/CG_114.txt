@@ -1,0 +1,6 @@
+# Historia de Chaton — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_114_01 | Encargo: Las pruebas del Tirano (Parte I)
+CG_114_02 | Encargo: Las pruebas del Tirano (Parte II)
+CG_114_03 | Encargo: Las pruebas del Tirano (Parte III)

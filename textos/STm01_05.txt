@@ -1,0 +1,118 @@
+# Capítulo 1 · 5 · Vientos del distrito Ceniza
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Alert Girl | Chica alerta
+N:Brutal Gangster | Pandillera brutal
+N:Butcher's Staff | Empleado de la carnicería
+N:Cold Gangster | Pandillera fría
+N:Diligent Girl | Chica diligente
+N:Purple-Haired Girl | Chica de pelo morado
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1219 | Vollara
+N:avg1_1996 | Noya
+N:avg2_990 | Miembro del Viento de Ceniza
+N:avg2_991 | Miembro del Viento de Ceniza
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_166 | Anciana del pueblo
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_918 | Chica pelirroja
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Vientos del Distrito de las Cenizas
+0003 [Intro] | Descubres que el orfanato donde crecieron las chicas ya no existe y que ahora allí está el Clan Viento de Ceniza. En cuanto oyen que vienes del orfanato, desenfundan sus armas.
+0004 [Lugar y hora] | 15:00, 26 del mes de Floris, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0005 [Tú] | ¿Vamos a caminar así nada más por los Canales?
+0006 [Noya] | Los Canales de Emor conectan los siete Monolitos de la ciudad.
+0007 [Noya] | Así evitamos todas esas callejuelas retorcidas de abajo. ¡Es el camino más rápido al orfanato!
+0008 [Tú] | Si es tan práctico, ¿por qué nadie más lo usa?
+0009 [Iris] | Es muy alto y peligroso. Un resbalón y la caída es larga.==W== Creo que solo los Trekkers somos lo bastante temerarios para usar este camino.
+0010 [Noya] | ¡Oigan, vamos, por aquí! Creo que por ahí hay un atajo.
+0011 [Lugar y hora] | 15:45, 26 del mes de Floris, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0012 [Iris] | El puente está cortado más adelante... Noya, este atajo no sirve. Regresemos.
+0013 [Noya] | Iris, agárrate de mi mano.
+0014 [Iris] | Tranquila, no me voy a caer.
+0015 [Noya] | No me preocupa eso.
+0016 [Noya] | ¡Este es el atajo! ¡Lo que me preocupa es que no saltes!
+0017 [Iris] | Espera, qu...
+0018 [Iris] | ¡AAAAAAAYUDAAAAA!
+0019 [Amber] | Agárrate fuerte, ==PLAYER_NAME==. Yo te sostengo.
+0020 [Tú] | ¿Nosotros también saltamos?
+0021 [Amber] | La ruta de Noya. Confía en ella.
+0022 [Narración] | Resulta que en realidad no saltamos al suelo. Los restos del derrumbe habían formado una escalera improvisada por la que simplemente bajamos caminando.
+0023 [Iris] | Uf... uf...==W== Noya, la próxima vez avisa un poco, ¿sí?
+0024 [Noya] | ¡Pensé que lo sabías! ¡Encontramos este atajo cuando éramos niñas!
+0025 [Iris] | Eres la única que llamaría «atajo» a esto.
+0026 [Amber] | Shh. Tenemos compañía.
+0027 [Pandillera fría] | Fuera de mi camino. No nos metemos con niñas.
+0028 [Pandillera brutal] | ¡Que salga Minova! ¡Le voy a enseñar quién manda en esta calle!
+0029 [Chica pelirroja] | ¡No menciones el nombre de la jefa con esa boca!
+0030 [Chica pelirroja] | ¡Puedo derrotar a unos lentos como ustedes con una mano atada a la espalda!
+0031 [Pandillera brutal] | ¡Mucho hablar! ¡Empecemos por callarte para que Minova salga!
+0032 [Narración] | Una pandilla de mujeres amenazantes se abalanza sobre la chica pelirroja, pero ella gira y esquiva sus ataques con facilidad.
+0033 [Iris] | Minova... Ese nombre me suena.
+0034 [Noya] | ¿Apuestan quién gana?
+0035 [Amber] | La pelirroja. Es más rápida.
+0036 [Pandillera brutal] | Uf, resoplido... No logro ni tocarla.
+0037 [Pandillera fría] | ¿Qué es esa cosa como patineta? ¡Baja y pelea en serio!
+0038 [Chica pelirroja] | Oye, no es mi culpa que seas lenta.
+0039 [Pandillera fría] | Pequeña mocosa...
+0040 [Pandillera brutal] | Oye, ¿y esto?
+0041 [Chica de pelo morado] | Un regalito para ustedes.
+0042 [Pandillera fría] | ¿Eh? ¿Un rega...?
+0043 [Pandillera fría] | ¡GAAAAAAAH!
+0044 [Pandillera fría] | (Tose y se ahoga) ¡No... puedo respirar!==W== ¡Tramposa asquerosa!
+0045 [Chica pelirroja] | ¿«Asquerosa»? En una pelea callejera todo se vale.
+0046 [Chica de pelo morado] | Es humo de chile hecho a medida. Mejor lávense rápido o los ojos y la garganta les van a arder por días.
+0047 [Pandillera brutal] | ¡Está bien, ganaron esta ronda! ¡La próxima no tendrán tanta suerte!
+0048 [Chica pelirroja] | ¡Ja! ¡Vuelvan cuando quieran! ¡Les patearemos el trasero otra vez!
+0049 [Chica de pelo morado] | El humo ya se despejó también.
+0050 [Chica pelirroja] | Muy bien, todos, pueden retomar su día como siempre.
+0051 [Narración] | Cuando las dos pandilleras se van, la gente empieza a reunirse.
+0052 [Greengrocer] | ¡Gracias a las estrellas! Mis verduras estaban a punto de ir a la composta.
+0053 [Empleado de la carnicería] | Esos matones estaban apostados aquí desde el amanecer, espantando a todos los clientes.
+0054 [Bakeress] | Tome, lleve pan fresco.
+0055 [Noya] | Esas chicas parecen caerle muy bien a la gente. No parecen malas en absoluto.
+0056 [Iris] | Tenemos que volver al orfanato, rápido. Hay que rastrear pistas sobre ese extraño préstamo.
+0057 [Chica alerta] | ¡Oigan, ustedes! ¿De dónde salieron? ¿Por qué andan merodeando?
+0058 [Iris] | ¡Ah! Nos descubrieron.
+0059 [Chica diligente] | Carne fresca. ¿Son de la otra banda? ¡Rápido, avisen a la hermana Vollara!
+0060 [Iris] | ¡No, no, no! ¡Solo somos Trekkers normales!==W== ¡Nada sospechosas, lo juro!
+0061 [Vollara] | ¿A qué viene tanto escándalo?
+0062 [Chica diligente] | Hermana Vollara, estos se comportan de forma muy sospechosa.
+0063 [Iris] | ¡Qué mala suerte la mía! ¡¿Por qué siempre pasa lo peor?!
+0064 [Noya] | ¡Hola! Somos el Gremio Nueva Estrella, solo un grupo de Trekkers. Por cierto, ¡tus movimientos de hace rato estuvieron geniales!
+0065 [Vollara] | ¡Hmph! Aunque debo decir que los halagos suenan a música para mis oídos.
+0066 [Tú] | Increíble, Noya puede entablar conversación con cualquiera...
+0067 [Vollara] | Entonces, ¿qué hacen unos Trekkers en un lugar como este?
+0068 [Neuvira] | Es verdad... por aquí solo viene gente del barrio.==W== ¡Ah! Soy Neuvira, y ella es mi hermana mayor...
+0069 [Vollara] | Vollara. Un placer.
+0070 [Noya] | Soy Noya.==W== Ella es Iris,==W== y ella, Amber.==W== Y este... Mmm, ¿cuál será la mejor forma de presentarte?
+0071 [Tú] | «==PLAYER_NAME==, un Trekker con pérdida de memoria». Así suelo presentarme, pero con una pandillera como esta, quizá un nombre más memorable funcione mejor. Así que...
+0072 [Tú] | Llámenme Jefe.
+0073 [Neuvira] | ¿J-Jefe? ¿Como el villano supremo de los cuentos de hadas que intenta destruir el mundo?
+0074 [Vollara] | ¡Vaya! Ese sí que es un nombre con agallas.
+0075 [Noya] | ¿Jefe, eh? ¡Me gusta! ¡Suena súper rudo!
+0076 [Amber] | Enfrentar al mundo. Me gusta.
+0077 [Iris] | Uh-oh... Ahora parecemos los villanos.
+0078 [Vollara] | ¿Y bien? ¿Qué quieren?
+0079 [Iris] | ¡Ah, cierto! Buscamos el Orfanato de las Cenizas.
+0080 [Vollara] | ¿El Orfanato de las Cenizas? Cerró hace años.
+0081 [Neuvira] | ¿Qué asunto tienen con él?
+0082 [Noya] | Uh-oh. ¿Soy yo o de repente cambió el ambiente?
+0083 [Amber] | Estamos rodeadas. Prepárense para pelear.
+0084 [Iris] | ¡E-esperen un momento! ¡Crecimos allí! ¡Solo queríamos ver el viejo lugar!
+0085 [Vollara] | El lugar cerró hace dos años, sí. Pero ¿cómo van a probar quiénes son?
+0086 [Neuvira] | Son el cuarto grupo de esta semana que aparece diciendo que es de allí.
+0087 [Iris] | ¿Qué? ¿El cuarto? ¡P-pero de verdad lo somos!
+0088 [Vollara] | Hmph. Ya escuché suficiente.==W== Se ven sospechosos, ¡así que lárguense!

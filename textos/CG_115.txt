@@ -1,0 +1,6 @@
+# Historia de Firefly — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_115_01 | Buscando, buscando un amigo (Parte I)
+CG_115_02 | Buscando, buscando un amigo (Parte II)
+CG_115_03 | Buscando, buscando un amigo (Parte III)

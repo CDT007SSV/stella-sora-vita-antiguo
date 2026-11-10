@@ -1,0 +1,155 @@
+# Capítulo 7 · El precio de la estrella · Final: Paradero desconocido
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_118 | Coronis
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg1_144 | Chitose
+N:avg1_156 | Nazuna
+N:avg1_1992 | Residente
+N:avg1_1993 | Residente
+N:avg3_100 | Sylar
+N:avg3_132 | Kaede
+N:avg3_139 | Trekker
+N:avg3_169 | Chica
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_176 | Residente de Loong
+N:avg3_220 | Mercurio
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | Paradero desconocido
+0003 [Intro] | Firenze y tú aceptan la tentadora apuesta de Mercurio. Pero, un año después, ella deja la empresa y Omnisky Aegis activa su trampa. Tomados por sorpresa y emboscados, quedan en una situación desesperada, con su destino en el aire...
+0004 [Lugar y hora] | 18:00, 13.º del mes de Venatio, Distrito de Plata de Philae, Comedor Fenghuang
+0005 [Mercurio] | Gracias por venir. Es un placer poder hablar por fin cara a cara.
+0006 [Mercurio] | Disculpen lo modesto del lugar. Organicé esto para aclarar las cosas:==W== Omnisky Aegis no tiene ningún deseo de volverse enemiga de Cosecha Unida Philae ni de Boss Accord.
+0007 [Firenze] | Me gusta la comida de Loong, pero...==W== ¿no hay demasiado ruido aquí?
+0008 [Mercurio] | El ruido impide que nos escuchen. Además, este es un establecimiento de Loong. No tienen que preocuparse de que les haga trampa,==W== como esconder asesinos en el pasillo.
+0009 [Tú] | Tengo curiosidad. ¿Por qué Omnisky Aegis está peleando tanto por el Monolito? 40 mil millones es un pésimo negocio.
+0010 [Mercurio] | Tiene razón. De hecho, no estamos para nada empeñados en arrendarlo. Basta con que lo digan, y mi empresa retirará su oferta.
+0011 [Firenze] | Entonces...==W== ¿Solo ofertaron para subir el precio y fastidiarnos?
+0012 [Mercurio] | Ay, no somos tan mezquinos. Teníamos nuestras razones. Todo se remonta a aquel banquete...
+0013 [Tú] | Entonces...==W== Necesitaban una distracción. Usaron la subasta para salir en los titulares.
+0014 [Mercurio] | Exactamente. A Omnisky Aegis no le vendría mal un Monolito nuevo, pero no estamos tan desesperados como para tirar 40 mil millones de Dorra en uno.
+0015 [Firenze] | Hmph. Lo tienen todo calculado. Ustedes se retiran, y nosotros nos quedamos atorados con un arrendamiento de 40 mil millones.
+0016 [Mercurio] | Es cierto. Y nos sentimos fatal por eso. Por eso les propongo una solución en la que todos ganemos.
+0017 [Firenze] | ¿Todos ganamos?
+0018 [Mercurio] | Seguro se preguntan cómo van a juntar ese dinero. Como muestra de buena fe, Omnisky Aegis cubrirá la mitad del arrendamiento. 20 mil millones de Dorra.
+0019 [Mercurio] | Cosecha Unida Philae conserva todos los derechos de uso. Nosotros pedimos el 30 por ciento de los derechos de escalada: de cada diez escaladas, nuestros Trekkers hacen tres.
+0020 [Firenze] | Ponen 20 mil millones, pero no quieren los derechos de uso, ni siquiera la mitad de las escaladas. Solo el 30 por ciento.
+0021 [Firenze] | Lady Mercurio, esas condiciones son demasiado generosas.
+0022 [Mercurio] | Naturalmente, hay condiciones.==W== Omnisky Aegis quisiera proponerles una apuesta.
+0023 [Mercurio] | Si ustedes dos siguen trabajando en Cosecha Unida Philae para la próxima licitación del Monolito dentro de diez años, Omnisky Aegis no disputará los derechos; les ayudaremos a ganar.
+0024 [Mercurio] | Pero si para entonces ya no trabajan en Cosecha Unida Philae, esperamos que la empresa se retire y haga todo lo posible por ayudarnos a ganar.
+0025 [Firenze] | Una apuesta sobre dónde estaremos en diez años... Me parece justo.==W== Pero ¿por qué apostar esto al Jefe y a mí?
+0026 [Mercurio] | Omnisky Aegis considera que ustedes dos son mucho más valiosos, y mejores aliados, que la propia empresa.
+0027 [Mercurio] | Les ofrecemos estas condiciones solo porque ustedes están al mando. Estamos dispuestos a gastar Dorra de más para limar asperezas.
+0028 [Mercurio] | Si siguen al frente, seremos sus aliados. Pero si se hacen a un lado, esperamos su ayuda para quedarnos nosotros con Philae.
+0029 [Tú] | Entonces parece que somos aliados. Firenze y yo jamás pensaríamos en abandonar esta empresa.
+0030 [Mercurio] | Eso nos conviene. Omnisky Aegis no tiene grandes ambiciones. Solo queremos socios confiables en este mundo caótico de Nova.
+0031 [Tú] | Sus condiciones suenan sinceras, pero no sé qué tan ciertas sean. Tendré que leer con cuidado cada cláusula de ese contrato mágico.
+0032 [Firenze] | Mercurio, necesitamos hablarlo en privado. Salvo alguna sorpresa, aceptaremos la apuesta.
+0033 [Mercurio] | Je. Entonces, por nuestra colaboración. Salud.
+0034 [Firenze] | Un momento. Ya que cerramos el tema de negocios, tenemos una pregunta personal. ¿Puede contarnos sobre sus nuevas pólizas de seguro de vida?
+0035 [Mercurio] | ¿Ah? ¿Buscan un seguro? Bienvenidos. Ofrecemos varios tipos: de gastos médicos, de vida y amplio. ¿Cuál les interesa?
+0036 [Firenze] | El seguro de vida.
+0037 [Mercurio] | ¿El seguro de vida? Mmm. La gente pregunta por él, pero nadie llega a contratarlo.
+0038 [Mercurio] | Al fin y al cabo, la póliza es sencilla: si el asegurado fallece según los términos del contrato, el beneficiario recibe una indemnización.
+0039 [Mercurio] | La mayoría lo ve como apostarle tu propia vida a Omnisky Aegis a cambio de un pago.
+0040 [Mercurio] | Pero no vendemos un pago por muerte. Vendemos una prueba de su valor. Ustedes dos son excepcionales. Si ocurre lo peor, esto protege a sus familias.
+0041 [Mercurio] | Sinceramente, yo misma impulsé esta póliza para que ningún otro niño termine como yo.
+0042 [Tú] | ¿Termine...==B== como usted?
+0043 [Mercurio] | Imagínenme de niña. Mi familia tiene un accidente terrible.
+0044 [Mercurio] | Mis padres nos protegen a mi hermana y a mí. Reciben el golpe y terminan en el hospital, respirando solo gracias a un Artefacto del Monolito.
+0045 [Mercurio] | Vendemos todo. Nos ahogamos en deudas. Y aun así los perdemos.
+0046 [Mercurio] | Mientras mueren, su peor agonía no es física. Es saber que nos dejan sin nada.
+0047 [Mercurio] | Nos ruegan que dejemos de malgastar Dorra en ellos.
+0048 [Mercurio] | Pero ¿cómo los desconectamos? Los perdemos de todos modos, y quedamos en bancarrota.
+0049 [Mercurio] | Algún día seré madre. Impulso esta póliza para no volver a sentir jamás ese arrepentimiento.
+0050 [Tú] | No tenía idea de que hubiera tanto dolor detrás de esto.==W== Dice «seguro por muerte», pero es una forma hermosa de proteger a la gente.
+0051 [Firenze] | Entendido. Anótenos mil pólizas para cada uno.
+0052 [Tú] | ¡¿M-mil?!
+0053 [Lugar y hora] | 21:00, 13.º del mes de Venatio, Distrito de Plata de Philae, Calle sin nombre
+0054 [Tú] | Firenze, sé que su historia es desgarradora, pero ¿no es una exageración esa cantidad?
+0055 [Tú] | 100 mil Dorra por póliza. Mil para cada uno son 200 millones al año. ¡No nos alcanza!
+0056 [Firenze] | Jefe, ¿y si le digo que sus padres están vivos y perfectamente sanos?
+0057 [Tú] | Bueno, qué buena noticia...==W== Espera, ¿qué? ¿Vivos? ¿No dijo que murieron en un accidente?
+0058 [Firenze] | Así es como vende. Por lo que he oído, a estas alturas sus padres ya murieron de una docena de formas distintas.
+0059 [Tú] | Eso es... retorcido. De verdad se mete de lleno en la estafa. Entonces, ¿por qué compraste las pólizas de todos modos?
+0060 [Firenze] | Para sobrevivir.
+0061 [Firenze] | En la cena hizo el papel de anfitriona respetuosa. Parece que Omnisky Aegis quiere evitar una guerra.
+0062 [Firenze] | Pero no podemos ignorar la apuesta que propusieron. Es una trampa.
+0063 [Tú] | ¿Quieres decir...==W== que piensan matarnos para ganar la apuesta?
+0064 [Firenze] | Exacto. La apuesta está ligada a Cosecha Unida Philae. Aunque nos muramos, es legalmente vinculante.
+0065 [Firenze] | Por eso compré las pólizas. A nuestra edad, morir en los próximos 20 años activa un pago de 100 millones por póliza.
+0066 [Tú] | Mil pólizas son cien mil millones. 200 mil millones en total por los dos...
+0067 [Firenze] | Exactamente. Ahora, matarnos no solo no les deja nada: los lleva a la bancarrota total.
+0068 [Tú] | Ya veo. 200 millones al año es poco precio por quitárnoslos de encima.
+0069 [Firenze] | Por cierto, Jefe. ¿Quién es su beneficiario?
+0070 [Tú] | El... Gremio de la Nueva Estrella. ¿Por qué?
+0071 [Firenze] | Qué suerte tienen. Si Omnisky Aegis nos asesina de todos modos, se quedarán con 200 mil millones.
+0072 [Tú] | ¿Por qué 200 mil millones...?==W== Espera, no me digas que...
+0073 [Firenze] | Porque mi beneficiario es usted, Jefe.
+0074 [Narración] | Mercurio no estaba fanfarroneando. Al día siguiente, Omnisky Aegis se retira y envía 20 mil millones de Dorra a Cosecha Unida.
+0075 [Narración] | La Guardia Imperial hace lo mismo.==W== La licitación del Monolito de Philae termina antes de que empiece siquiera la segunda evaluación técnica.==W== Como única candidata, Cosecha Unida Philae gana.
+0076 [Narración] | Después de eso, disfrutamos de una temporada tranquila.==W== Me quedo en Philae para ayudar a Firenze a construir la empresa. El Gremio de la Nueva Estrella y Petal Bloom siguen de expedición,==W== saltando de Monolito en Monolito.
+0077 [Narración] | Un año después
+0078 [Tú] | Uaaah... Qué buen día hace hoy.
+0079 [Tú] | La empresa por fin está en terreno firme. Es hora de salir de viaje con Noya y las demás a buscar el orfanato.
+0080 [Tú] | ¿Eh? ¿Mercurio? ¿Me está llamando? Eso es nuevo.
+0081 [Mercurio] | Hola, buenos días, Jefe.
+0082 [Tú] | Buenos días. ¿Vienes por la prima del próximo año? Firenze ya mandó el pago.
+0083 [Mercurio] | Ah, gracias por su preferencia. Pero no llamo por eso. Acabo de renunciar a Omnisky Aegis. Quería despedirme.
+0084 [Tú] | ¿Renunciaste? ¿No te iba de maravilla? Dicen que prácticamente diriges la mitad de la empresa.
+0085 [Mercurio] | Je, no te equivocas. Pero de repente me cayó el veinte...==W== Este trabajo no tiene sentido. Absolutamente ningún sentido.
+0086 [Mercurio] | Puede que no lo parezca, pero soy de las pocas personas decentes de ahí. Cuando me vaya, cuídate las espaldas.
+0087 [Tú] | Oye, ¿Omnisky Aegis es en secreto una fachada de la mafia?
+0088 [Mercurio] | ... Ja, quizá sí. Adiós, Jefe.
+0089 [Tú] | Mercurio renunció...==W== Algo no me cuadra. Debería llamar a Firenze.
+0090 [Tú] | Urgh... Algo me está estrangulando...==W== N-no puedo respirar...
+0091 [Tú] | ¿Dónde... Dónde estoy?
+0092 [Noya] | Doctora, dígamelo sin rodeos. ¿Cómo está ==PLAYER_NAME==?
+0093 [Coronis] | ==SEX1== estuvo demasiado tiempo sin oxígeno. El daño cerebral es irreversible.==W== ==SEX1== sigue con vida, pero... no hay forma de saber si ==SEX== despertará algún día.
+0094 [Iris] | Jefe, soy yo, Iris. ¿Me oyes? Escucha. Estoy cantando la canción que te despertó.
+0095 [Amber] | Estoy cazando al agresor.
+0096 [Fuyuka] | Maestro... Va a salir de esta, ¿verdad? Tiene que hacerlo. Todavía tiene mucho que enseñarme.
+0097 [Nazuna] | Jefe, ya dejé a tu agresor lleno de balas. Apúrate y despierta. ¡Tenemos máquinas de garra que jugar!
+0098 [Kaede] | Hoy el sol está cálido. Mira, te traje flores del pie del Monolito. Todos en Petal Bloom te están esperando.
+0099 [Nazuka] | ¡Tonto! ¡Rompiste tu promesa! ¡Eres un tonto enorme!
+0100 [Minova] | Gracias a ti, los niños del Viento de Ceniza están saliendo adelante. Te leo todos los días... ¿Me escuchas?
+0101 [Mistique] | Ándale, Jefe, esto es un titular malísimo.
+0102 [Mistique] | Te propongo algo: tú despiertas y yo hago una excepción. Te llevo a volar todo el tiempo que quieras.
+0103 [Nyx] | Tú y Firenze, los dos postrados en cama... Y aquí estoy yo, despierta, cuando soy la que de verdad disfruta dormir.
+0104 [Chitose] | Perdóneme, mi ==SEX11==. Llegué demasiado tarde. De ahora en adelante, me quedaré a su lado. Nunca más lo dejaré.
+0105 [Chitose] | Si nunca despierta... entonces lo seguiré al otro mundo.
+0106 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0107 [Tú] | ¿Qué... Qué me está pasando?
+0108 [Bernina] | Alguien te estranguló en la calle. En ese mismo momento, unos mercenarios emboscaron a Firenze.
+0109 [Virigia] | Su método fue preciso. No te mataron; solo te asfixiaron el tiempo suficiente para causarte un daño irreversible.
+0110 [Bernina] | El cerebro humano es frágil. Unos minutos sin oxígeno garantizan un daño irreversible.
+0111 [Virigia] | Firenze y tú no están ni vivos ni muertos. Parecen vivos, pero si desconectan los Artefactos médicos, mueren al instante.
+0112 [Bernina] | Tus compañeras se niegan a rendirse. Te cuidan durante más de una década. Pero, al final, tus órganos fallan y mueres.
+0113 [Virigia] | Una estrategia cruel. Tus amigas destrozan esa empresa para vengarte, pero ni tú ni Firenze pueden volver a hablarles jamás.
+0114 [Tú] | Omnisky Aegis...
+0115 [Tú] | Qué plan tan enfermo: robarse Philae y librarse a la vez de pagar el seguro de vida.
+0116 [Bernina] | Las empresas de Nova, tan despiadadas como siempre.
+0117 [Virigia] | Jeje... Harían absolutamente cualquier cosa por Dorra.
+0118 [Tú] | Fui demasiado ingenuo. Creí que los contratos y los seguros los mantendrían a raya.
+0119 [Tú] | Vita, abre la puerta. Me llevo estos recuerdos conmigo.
+0120 [Tú] | Algún día==W== borraré a Omnisky Aegis del mapa.
+0121 [Vita] | Su orden es mi voluntad.
+0122 [Firenze] | ¿«No buscan monopolizarlo»? ¿Qué se trae Mercurio...?
+0123 [Firenze] | ¿Usted qué opina, Jefe?
+0124 [Tú] | Y pensar que Mercurio de verdad pasa por alguien decente en Omnisky Aegis.
+0125 [Tú] | No hay forma de que trabajemos con esa empresa.

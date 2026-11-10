@@ -1,0 +1,102 @@
+# Historia de Wraith · 3 · The You I Know (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_143 | Wraith
+N:avg3_100 | Sylar
+N:avg3_1275 | Lucky Rubbi
+N:avg3_1276 | Lucky Rubbi
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La persona que conozco (Parte III)
+0003 [Intro] | ¿¡Te las estás quitando!? ¿¡Aquí y ahora!?
+0004 [Tú] | ¡Wraith! ¡A tu derecha!
+0005 [Wraith] | ¡Gracias por el aviso!
+0006 [Tú] | ¡También desde arriba!
+0007 [Wraith] | ¡Déjamelo a mí!
+0008 [Wraith] | ¡Haaah...!!
+0009 [Tú] | Uf...==W== Todo listo. Fue un golpe hermoso, impecable.
+0010 [Wraith] | Gracias. Tu dirección también fue impresionante.
+0011 [Tú] | Aunque alguien con tus habilidades habría podido con ellos fácilmente aun sin mi dirección.
+0012 [Wraith] | Para nada. Cuando me superan en número, sí se me complica. Gracias a ti todo salió tan bien.
+0013 [Wraith] | Sigamos avanzando. Todavía estamos lejos de la cima.
+0014 [Tú] | Uf...==W== Regresamos sanos y salvos. Y el botín de esta vez tampoco estuvo mal.
+0015 [Wraith] | Gracias por acompañarme. Contigo aquí, por fin avancé de verdad en lo que quería probar.
+0016 [Tú] | Cierto, lo mencionaste antes de entrar...==W== ¿Qué era exactamente esa «cosa nueva» que querías probar?
+0017 [Wraith] | Nada especial, en realidad. Solo quería intentar escalar el Monolito contigo.
+0018 [Tú] | ¿Eh? ¿Eso es todo?
+0019 [Wraith] | Probablemente lo haremos mucho de ahora en adelante, ¿no? Necesito acostumbrarme a tu estilo para que podamos trabajar en sincronía.
+0020 [Wraith] | Conocer mejor a tu compañero es una parte importante de la ecuación, ¿no crees?
+0021 [Tú] | Ya veo...
+0022 [Wraith] | Jefe, te ves algo raro. ¿Qué pasa?
+0023 [Tú] | Ah, estoy bien.==W== Ya que terminamos con el Monolito, ¿volvemos?
+0024 [Wraith] | Claro,==W== pero después de tanta pelea, tengo muchísimo calor...
+0025 [Tú] | ¡Alto! ¿¡Puedes no empezar a quitarte la ropa en cuanto sientes calor!? ¡Te detuve una vez y aquí vamos otra vez!
+0026 [Wraith] | Entonces me quedaré así.
+0027 [Tú] | Espera... ¿por qué me abrazas de repente? ¿Qué haces?
+0028 [Wraith] | Ya lo había notado... Tu cuerpo está agradablemente fresco. Se siente genial.
+0029 [Wraith] | Ya que no me dejas quitarme la ropa, deberías hacerte responsable. Déjame refrescarme así un rato.
+0030 [Tú] | Responsabilidad...==W== Espera... ¡Ya sé!==W== Quieres refrescarte, ¿verdad? ¡Entonces sígueme! ¡Conozco el lugar perfecto!
+0031 [Wraith] | ¿No puedo quitármelas primero y luego ir?
+0032 [Tú] | ¡No! ¡Aguanta! ¡No te quites nada! ¡Llegaremos en un segundo!
+0033 [Wraith] | Una cabaña en el bosque. Qué bien.
+0034 [Tú] | Alquilé este lugar la semana pasada como base temporal para investigación de campo y recolección de plantas medicinales.==W== Si quieres quitarte la ropa para refrescarte, al menos hazlo adentro...
+0035 [Wraith] | Entendido.
+0036 [Tú] | Entonces saldré un momento. Tómate tu tiempo.
+0037 [Wraith] | Uhh...==W== Estás complicando demasiado las cosas.
+0038 [Tú] | ¡Eso debería decirlo yo!
+0039 [Tú] | Suspiro...==W== Por fin...==W== Cada vez que le da un poco de calor, quiere quitarse la ropa. Es todo un problema.
+0040 [Tú] | Pero Wraith en combate... ni siquiera puedo medir qué tan fuerte es.
+0041 [Tú] | Sentidos agudos, golpes despiadados, juego de pies relampagueante...
+0042 [Tú] | Además...
+0043 [Tú] | No, no, no. ¿¡En qué estoy pensando!?
+0044 [Tú] | Me están viniendo pensamientos raros...==W== ¡Es toda la culpa de Wraith! ¡Siempre intenta quitarse la ropa frente a mí!
+0045 [Tú] | Deja de pensar tonterías.==W== Yo también necesito refrescarme... Refrescarme...==W== ¡No, espera, ni siquiera hace calor hoy!
+0046 [Tú] | Zzz...==W== Zzzz...
+0047 [Tú] | ¿¡Eh!?==W== Ay, no, creo que me quedé dormido...
+0048 [Tú] | ¿Todavía no sale?==W== Ha pasado una eternidad. ¿Cómo es que no oigo ni un ruido?
+0049 [Tú] | Wraith, volvamos pronto, ¿vale?
+0050 [Tú] | Sin respuesta...==W== ¿Qué estará haciendo ahí dentro?
+0051 [Tú] | ¿No se habrá desmayado por un golpe de calor? Mejor reviso cómo está.
+0052 [Tú] | Wraith, voy a entrar.
+0053 [Wraith] | Mm...==W== El piso ...==W== está tan fresco... Se siente increíble...
+0054 [Wraith] | Mis mejillas,==W== mis brazos,==W== mis piernas...==W== Todo mi cuerpo por fin se está enfriando...
+0055 [Wraith] | No quiero irme nunca de este lugar...==W== Solo quiero quedarme así para siempre…
+0056 [Opción] | Estás completamente expuesta, ¿lo sabes?
+0057 [Wraith] | Jeje,==W== mira quién llegó.==W== ¿No dijiste muy en serio==W== que, si estabas en la habitación, yo no debía desvestirme?
+0058 [Wraith] | De haberlo sabido,==W== me habría quitado la ropa antes...
+0059 [Opción] | Ese no es el punto aquí...
+0060 [Opción] | ¿Y si quien hubiera entrado no fuera yo, sino un enemigo?
+0061 [Wraith] | Cierto,==W== sería peligroso==W== que me emboscaran en este estado.
+0062 [Wraith] | Pero aun así elijo esto...==W== Recostada aquí en el piso frío.
+0063 [Opción] | ¿Por qué?
+0064 [Wraith] | Porque no hace falta tener defensas.
+0065 [Wraith] | Nunca se me ha dado bien recordar rostros,==W== y siempre he reconocido a las personas por las armas que llevan.
+0066 [Wraith] | Pero últimamente,==W== parece que... poco a poco,==W== empiezo a recordar tu cara.
+0067 [Opción] | Claramente no la recordabas en el restaurante...
+0068 [Wraith] | Jeje,==W== ¿no demuestra eso acaso==W== que nuestra relación está cambiando?
+0069 [Wraith] | Ahora,==W== no es solo tu rostro...==W== Hasta el sonido de tu voz y tus pasos,==W== y la frecuencia de tu respiración...==W== puedo identificarlos al instante.
+0070 [Wraith] | Para mí,==W== esto es verdaderamente un milagro.
+0071 [Opción] | Entonces... ¿por eso estás tan indefensa?
+0072 [Wraith] | Exacto.==W== Porque estoy segura==W== de que jamás me harías daño.
+0073 [Opción] | No puedes estar tan segura, ¿o sí?
+0074 [Wraith] | Puedo.==W== Tus ojos me lo dijeron.==W== Sé que no tienes mala intención.
+0075 [Opción] | Eso sí que es algo que dirías.
+0076 [Wraith] | Sí.==W== Así que espero que puedas aceptar esto entre nosotros.
+0077 [Wraith] | Con mi persona más especial,==W== puedo mostrarme por completo==W== sin guardarme nada.==W== Al menos, eso es lo que creo.
+0078 [Wraith] | Te pedí que nos viéramos en el restaurante porque me di cuenta de que ya no podía recordar tu rostro.
+0079 [Wraith] | Entré en pánico...==W== Intenté distraerme con el combate, y por eso no comí durante seis días. Pero...==W== Después de verte ese día, descubrí que podía recordar otra vez.
+0080 [Wraith] | Mientras más nos vemos, más nítido se vuelve tu rostro. Quizá...==W== seas la primera persona a la que puedo recordar sin mirar un arma. Y...==W== te recuerdo muy, muy claramente.
+0081 [Wraith] | Sinceramente, ahora que te conozco bien, a veces hasta puedo saber lo que piensas por tu cara.
+0082 [Tú] | Jajaja...==W== Me honra oír eso.
+0083 [Wraith] | ¿Mm?==W== Nunca te había visto esa expresión. ¡Déjame mirar más de cerca...!
+0084 [Tú] | ¿Por qué te acercas ...==W== t-tanto de repente?
+0085 [Wraith] | ¿Mmm—?
+0086 [Tú] | Eh...==W== ¡Deberíamos irnos!
+0087 [Wraith] | Oye,==W== no huyas. Aún no termino de observarte.
+0088 [Tú] | ¡Está bien, no huiré!==W== ¡Pero primero suéltame! ¡No puedo respirar!
+0089 [Wraith] | ¿Mm? Pero tus ojos dicen algo muy distinto.
+0090 [Tú] | Waahh...
+0091 [Tú] | ¡Por favor, suéltame—!!

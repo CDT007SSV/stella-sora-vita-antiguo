@@ -1,0 +1,124 @@
+# Historia de Karin · 2 · Three-Legged Race (Part Ⅱ)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1198 | Stellaroid
+N:avg1_1199 | Stellaroid
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_939 | Stellaroid Torre de Agua
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Carrera de tres piernas (Parte Ⅱ)
+0003 [Intro] | Aunque tu habilidad característica esté sellada, no hay de qué preocuparse. Recuerda que no tienes que hacerlo todo tú.
+0004 [Tú] | Me ofrecí a ser los ojos de Karin, pero...
+0005 [Karin] | ¡Toma esto!
+0006 [Karin] | ¡Muy lento!
+0007 [Karin] | ¡Fiu...!==W== ¡Creo que derrotamos a todos los Stellaroids de este piso!
+0008 [Tú] | Qué impresionante... Aquí no necesitas mi ayuda para nada, Karin...
+0009 [Karin] | ¡Es que tengo muy buen oído!
+0010 [Karin] | Como te dije, todo en la naturaleza produce sonidos únicos, y los Stellaroids también.
+0011 [Karin] | ¡Con un solo piar de un Stellaroid puedo ubicarlo aunque no vea!
+0012 [Karin] | Jajaja... Pero mi oído tan agudo también es la razón por la que me sobresalté en la cueva.
+0013 [Tú] | ¿Te refieres a que te asustó el grito del pájaro? Ya veo, debió sonar muy fuerte para ti.
+0014 [Karin] | ¡Que quede claro que me sobresalté, pero eso no me hace una cobarde!
+0015 [Tú] | ¡¿Waaahhhhh?!
+0016 [Karin] | ¡¿Eeeeeehhh?! ¡¿Qué pasa?! ¡¿Viste un fantasma?!
+0017 [Tú] | Ah, no, es que se me metió el cabello en la oreja. Me hizo cosquillas.
+0018 [Karin] | ¡Ugh!==W== ¡Si te atreves a asustarme otra vez, te convierto en alimento para peces! ¡¿Me oyes?!
+0019 [Tú] | Perdón, no más gritos, lo prometo.
+0020 [Tú] | Una duda: como te desenvuelves bien sin lentes de contacto ni anteojos, ¿por qué los usas?
+0021 [Tú] | Los lentes de contacto solo se encuentran en las Cajas de Deseos, y en cuanto a los anteojos...==W== No creo que te encanten, ¿verdad?
+0022 [Karin] | Tienes razón. Sin duda puedo prescindir de ellos para mis tareas cotidianas.
+0023 [Karin] | Pero...==W== Como soy una Trekker marina, es esencial tener la vista aguda.
+0024 [Tú] | ¿Y por qué?
+0025 [Karin] | ¡Muy bien! ¡Entonces déjame explicarte lo que se necesita para ser una Trekker marina!
+0026 [Karin] | Fue cuando empecé mi entrenamiento de Trekker marina con Shia—
+0027 [Shia] | Bien. Lo hiciste muy bien con el timón y las velas. Se nota que tienes talento para esto.
+0028 [Karin] | ¿¡En serio!? Jeje...==W== ¡Parece que pronto podré ser una verdadera Trekker marina...!
+0029 [Shia] | Bien, ¿por qué no intentas manejar el bote tú sola? Navega hasta donde quieras.
+0030 [Karin] | ¡Entendido!==W== Muy bien, el viento viene de este lado, así que giraré el timón todo a la derecha...
+0031 [Shia] | ¡Cuidado! ¡Karin, gira a la izquierda, YA!
+0032 [Karin] | ¿Eh? ¡Waaaahhh!
+0033 [Shia] | Fiu... Estuvo muy cerca...
+0034 [Karin] | ¡¿Q-Qué fue eso?!
+0035 [Shia] | Vi una sombra enorme en el agua, así que te pedí que giraras rápido. Podría ser una ballena o algún tipo de monstruo. Estuvo muy cerca. ¿No lo viste?
+0036 [Karin] | Este... Perdón... En realidad, no veo bien...
+0037 [Shia] | Ah, ya veo. ¿Hoy se te olvidaron los anteojos?
+0038 [Karin] | Pues... En realidad sí los traje. Es solo que...
+0039 [Shia] | ¿Mm? O sea que no quieres usarlos. ¿Puedo preguntar por qué?
+0040 [Karin] | En realidad soy muy miope, así que mis anteojos son súper gruesos. Hasta me hacían bullying por usarlos...
+0041 [Shia] | Ya veo... Entonces es complicado. Si vuelve a pasar algo parecido y no lo notas a tiempo, podrías morir.
+0042 [Shia] | Así que lo mejor es usar los anteojos al navegar...
+0043 [Karin] | ¡E-Entendido! ¡No dejaré que unos anteojos me impidan ser una Trekker marina...!==W== ¡Voy por ellos!
+0044 [Tú] | Ya veo... Una vista clara es esencial para navegar con seguridad.
+0045 [Karin] | Así es. Una lógica simple y obvia...==W== Qué gracioso lo ignorante que era entonces.
+0046 [Tú] | ¿Desde entonces siempre has usado anteojos?
+0047 [Karin] | Claro. No puedo poner a Shia en peligro solo porque no veo bien, ¿verdad?==W== Y luego, un día—
+0048 [Shia] | Oye, Karin, ¿por qué no le pides un deseo a la Caja de Deseos para conseguir algo que te permita navegar sin anteojos?
+0049 [Karin] | ¿Eh? ¡Pero tú encontraste esta caja! ¿Seguro que quieres darme tu deseo a mí?
+0050 [Shia] | ¡Claro~♪ Ya que estás decidida a ser una Trekker marina, ¡deberías poder disfrutar la diversión de navegar de todo corazón!
+0051 [Karin] | Ah, Shia...==W== ¡¡Gracias!!==W== Oh, poderoso Dios de la Gracia, escucha nuestra plegaria—
+0052 [Karin] | ¡Gracias a Shia, ya no tengo que usar mis gruesos anteojos!
+0053 [Karin] | Sin duda no habría podido disfrutar tanto de navegar si Shia no me hubiera dado ese precioso regalo...
+0054 [Tú] | Seguro notó que Karin ocultaba su verdadero yo.
+0055 [Tú] | Eres muy afortunada de tener una mentora tan gentil como Shia.
+0056 [Karin] | ¡Lo soy! ¡Shia es el alma más bondadosa del mundo! Mira nada más, sí sabes decir cosas lindas ♪
+0057 [Karin] | Shia y yo no somos parientes, pero me cuida como si fuera su hermana menor... Y para mí, siempre es mi querida hermana mayor.
+0058 [Karin] | ¡Así que mi regalo para Shia tiene que ser el más precioso y único!==W== Dicho esto, ¡pasemos al siguiente piso!
+0059 [Tú] | ¡Ah, oye! Karin—
+0060 [Tú] | Entiendo los sentimientos de Karin, pero pensando en el futuro...
+0061 [Karin] | Jefe, ¿ya encontraste la Caja de Deseos?
+0062 [Tú] | Todavía no...==W== ¡Espera!
+0063 [Karin] | ¡¿Q-Qué es eso?! ¡¿Lo oyes?!
+0064 [Tú] | ¡Cuidado, Karin! ¡Viene de este Stellaroid!
+0065 [Karin] | ¿Qué dijiste? ...==W== ¡Whaaaahhhh!
+0066 [Tú] | ¡Karin!
+0067 [Tú] | ¿¡Será que el Stellaroid hace tanto ruido que no me oye!?
+0068 [Tú] | El sonido viene de ...==W== ¿¡su cabeza!?
+0069 [Karin] | ¡¿Jefe?! ¡Aléjate! ¡Es peligroso!
+0070 [Tú] | ¡No me oyes si no estoy lo bastante cerca!
+0071 [Karin] | ¡Pero...!
+0072 [Tú] | ¡No hay tiempo para hablar ahora!==W== ¡Karin, salta a la izquierda!
+0073 [Tú] | Haz lo que te digo. ¡Calibraremos la puntería y lo derribaremos de un solo disparo!
+0074 [Karin] | ¡E-Entendido! Cuento contigo en esta.
+0075 [Tú] | Un poco más arriba...==W== Alto. Aguanta... Espera a que se acerque...
+0076 [Tú] | ¡Y ahora! ¡Fuego!
+0077 [Karin] | ¡Hyaaaaaaaah!==W==
+0078 [Karin] | El sonido se fue...==W== ¿¡Lo logramos!?
+0079 [Tú] | ¡Ajaja! ¡Sí! ¡Cayó!
+0080 [Karin] | ¡¡Geeeeenial!!
+0081 [Karin] | Ese Stellaroid era durísimo, así que debe haber una Caja de Deseos cerca...==W== ¡Ahh!
+0082 [Tú] | ¡Karin! ¡¿Estás bien?!
+0083 [Karin] | Ay... Algo me hizo tropezar...==W== ¡Ah! ¿Qué—es eso—
+0084 [Tú] | ¡¡Una Caja de Deseos!!
+0085 [Karin] | ¡Por fin! ¡Genial! ¡Ahora sí puedo conseguirle un regalo a Shia!
+0086 [Tú] | Pero Karin...==W== ¿Y si mejor pides un par de lentes de contacto para ti?
+0087 [Tú] | Sabes lo importante que es ver con claridad para una Trekker marina. También ayuda a escalar el Monolito... ¿No crees?
+0088 [Tú] | Piensa en tus futuras aventuras con Shia. Te sugiero que pidas unos lentes de contacto nuevos lo antes posible...
+0089 [Karin] | No hace falta gastar la Caja de Deseos en mí, en serio. Todavía puedo arreglármelas con mis viejos anteojos si es necesario.
+0090 [Tú] | Pero en realidad no quieres usarlos, ¿verdad?
+0091 [Karin] | Es cierto, pero...==W== Un regalo para Shia es muchísimo más importante.
+0092 [Karin] | ¡De verdad quiero verla sonreír!
+0093 [Tú] | Oh...
+0094 [Karin] | ¡Muy bien, voy a pedir mi deseo ahora!==W== Oh, poderoso Dios de la Gracia, escucha nuestra plegaria—
+0095 [Karin] | ¡Guau! ¡Qué brújula tan bonita! ¡Le queda perfecta a Shia! ¡Se va a poner feliz al recibirla!
+0096 [Tú] | Mientras te guste.==W== Por cierto... ¿Me haces un favor?
+0097 [Karin] | ¿Qué es?
+0098 [Tú] | Otra Caja de Deseos. ¡Qué rápido! ¡Muchas gracias!
+0099 [Karin] | ¡No es nada!==W== Entonces, ¿qué pediste, Jefe? No puedo ver bien lo que hay dentro...
+0100 [Tú] | Extiende la mano, Karin.
+0101 [Karin] | Eh... ¿Lentes de contacto?
+0102 [Tú] | Me conmovió mucho lo que hiciste por Shia, así que quiero darte este regalo.
+0103 [Karin] | ... O sea que me pediste ayudarte a encontrar otra Caja de Deseos... ¡¿para mí?!
+0104 [Tú] | Sé que puedes arreglártelas con tus anteojos, pero también sé que preferirías disfrutar de navegar sin ellos. ¿Me equivoco?
+0105 [Tú] | Elige la versión de ti misma que más te guste. Eso es lo que más importa.
+0106 [Karin] | Hmph, yo no te pedí que te metieras en mis asuntos, ¿o sí?==W== Pero, en fin...
+0107 [Karin] | Los acepto ... con gratitud...==W== O sea, gracias...

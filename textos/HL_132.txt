@@ -1,0 +1,376 @@
+# Heartlink de Minova: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Minova] | Esta es la forma de contactarme
+A01.0002 [Minova] | Como ya nos agregamos, ahora somos compas
+A01.0003 [Minova] | De ahora en adelante, te cubro las espaldas
+A01.0004 [Opción] | Yo también te cubro las espaldas
+A01.0005 [Opción] | A la orden, jefa
+A01.0006 [Minova] | Nada mal
+A01.0007 [Minova] | ¡Con iniciativa!
+A01.0008 [Tú] | A la orden, jefa~
+A01.0009 [Minova] | No me hagas la barba
+A01.0010 [Minova] | No somos del mismo clan
+A01.0011 [Minova] | En fin, no te pierdas
+A01.0012 [Minova] | Pasa por nuestro lugar cuando quieras
+
+## Conversación A02
+A02.0001 [Minova] | AAAAAAAAAAAHHHHH
+A02.0002 [Minova] | Ayayayay
+A02.0003 [Tú] | ¡¿Estás herida?!
+A02.0004 [Minova] | No hagas tanto escándalo
+A02.0005 [Minova] | Es un raspón
+A02.0006 [Tú] | ¿Qué pasó?
+A02.0007 [Minova] | Dos de los nuevos no saben cómo son las cosas
+A02.0008 [Minova] | Y se pelearon
+A02.0009 [Minova] | Intervine para detenerlos y me dieron un empujón
+A02.0010 [Minova] | Entonces mis chicas se metieron, listas para darles una lección a los novatos
+A02.0011 [Minova] | Me lastimé al detenerlas
+A02.0012 [Tú] | ¿Cómo las detuviste?
+A02.0013 [Minova] | Las mandé a sus cuartos, una por una
+A02.0014 [Minova] | Y les di suficientes tareas de entrenamiento para agotarlas por hoy
+A02.0015 [Minova] | Suspiro… Siguen siendo demasiado exaltadas, muy impulsivas
+A02.0016 [Minova] | Los oponentes podrían aprovecharse fácilmente de eso
+A02.0017 [Tú] | Mientras tú estés bien
+A02.0018 [Tú] | Tengo suministros médicos, ¿quieres venir por ellos?
+A02.0019 [Minova] | Siempre tan confiable
+A02.0020 [Minova] | Voy para allá ahora mismo
+
+## Conversación A03
+A03.0001 [Minova] | ¡Oye!
+A03.0002 [Minova] | ¿Te interesa practicar boxeo?
+A03.0003 [Tú] | ¿Por qué boxeo de repente?
+A03.0004 [Minova] | Hasta el Jefe necesita algunas habilidades básicas de defensa personal, ¿no?
+A03.0005 [Minova] | Aunque seas el cerebro de la operación, ¿y si alguien te derriba en un cuerpo a cuerpo?
+A03.0006 [Opción] | Tienes razón
+A03.0007 [Opción] | Pero tú me protegerás, ¿verdad?
+A03.0008 [Opción] | En el peor de los casos, me sacrifico y me los llevo conmigo
+A03.0009 [Tú] | No puedo discutirte eso
+A03.0010 [Minova] | Entonces búscame en la base secreta del Viento de Ceniza
+A03.0011 [Tú] | Pero si llega a eso, tú me protegerás, ¿verdad?
+A03.0012 [Minova] | ...
+A03.0013 [Tú] | ...¿Verdad?
+A03.0014 [Tú] | No pasa nada, en el peor de los casos me sacrifico y me los llevo conmigo
+A03.0015 [Minova] | No seas tan sombrío
+A03.0016 [Minova] | ¿Quién te crees? ¿Neuvira?
+A03.0017 [Tú] | Pero tengo curiosidad
+A03.0018 [Tú] | ¿Cómo piensas entrenarme?
+A03.0019 [Minova] | Es muy sencillo: solo sigues practicando defensas y contraataques en el poste de madera
+A03.0020 [Tú] | Ah, ¿tienes un poste de madera para esto?
+A03.0021 [Minova] | En este caso, el poste de madera soy yo
+A03.0022 [Tú] | ¡¿Eso no va contra los protocolos de seguridad del entrenamiento?!
+
+## Conversación A04
+A04.0001 [Minova] | ¿Estás ahí?
+A04.0002 [Minova] | ¿Qué haces?
+A04.0003 [Opción] | Vegetando
+A04.0004 [Opción] | Sonambulismo
+A04.0005 [Opción] | Respondiéndote
+A04.0006 [Tú] | Solo vegetando
+A04.0007 [Minova] | ¡Qué coincidencia! ¡Yo también!
+A04.0008 [Minova] | ...
+A04.0009 [Minova] | Vaya, de verdad estás vegetando
+A04.0010 [Tú] | ¿Y cómo no?
+A04.0011 [Minova] | ¿En serio?
+A04.0012 [Minova] | ¿Entonces cómo pudiste escribir?
+A04.0013 [Tú] | Solo jugaba contigo
+A04.0014 [Minova] | Lo sé, pero no te rindas tan pronto
+A04.0015 [Minova] | Perdón, ¿interrumpí algo?
+A04.0016 [Tú] | Nah, justo agarré el celular
+A04.0017 [Minova] | Ya veo...
+A04.0018 [Minova] | Eh... Bueno...
+A04.0019 [Minova] | A decir verdad, planeo comprar un Artefacto de cámara barato
+A04.0020 [Minova] | ¿Tienes alguna recomendación?
+A04.0021 [Tú] | ¿Qué te hizo querer uno de repente?
+A04.0022 [Minova] | Ahora mismo estoy paseando por el Canal y la vista aquí es hermosa
+A04.0023 [Minova] | Y es distinta a la que veo cuando ando en patineta
+A04.0024 [Minova] | Quiero usar el Artefacto para capturar la vista que veo mientras patino y compartirla contigo
+A04.0025 [Opción] | Suena genial
+A04.0026 [Opción] | ¡No puedo esperar a verlo!
+A04.0027 [Minova] | Entonces, ¿tienes tiempo para venir a ayudarme a elegir una?
+A04.0028 [Tú] | Sin problema
+A04.0029 [Minova] | ¡
+A04.0030 [Minova] | ¡Entonces es un trato!
+A04.0031 [Minova] | ¡Te espero aquí!
+A04.0032 [Minova] | ¡Sin echarte para atrás, ¿eh?!
+
+## Conversación A05
+A05.0001 [Minova] | Subgum, Chocolate Amargo o BBQ: ¿cuál te gustaría?
+A05.0002 [Tú] | ¿Eh?
+A05.0003 [Minova] | Sabores de paleta. ¿Cuál te gustaría?
+A05.0004 [Opción] | Subgum
+A05.0005 [Opción] | Chocolate Amargo
+A05.0006 [Opción] | BBQ
+A05.0007 [Tú] | Subgum, entonces
+A05.0008 [Minova] | Ah, de gustos tradicionales
+A05.0009 [Minova] | Vale, te lo consigo, te lo llevo luego
+A05.0010 [Tú] | Probaré el Chocolate Amargo
+A05.0011 [Minova] | Ah, aventurero y con buen gusto.
+A05.0012 [Minova] | Es la última. La conseguí y te la llevo luego.
+A05.0013 [Tú] | ¿B... BBQ?
+A05.0014 [Minova] | ¿?
+A05.0015 [Minova] | Entendido
+A05.0016 [Tú] | ¡Guau, ¿entonces sí es un sabor de verdad?!
+A05.0017 [Tú] | Espera, ¿por qué se te ocurrió de repente comprarme dulces?
+A05.0018 [Minova] | Jefe, siempre estás lidiando con tantas cosas a diario: necesitas reponer tu nivel de azúcar, ¿no?
+A05.0019 [Tú] | Yo tengo las mías
+A05.0020 [Tú] | Además, esa línea de razonamiento lleva directo a la adicción al azúcar...
+A05.0021 [Minova] | Eh... ¿Yo no? Hago ejercicio todos los días...
+A05.0022 [Tú] | Quieres pedirme un favor, ¿verdad?
+A05.0023 [Minova] | Me descubriste. Como era de esperarse...
+A05.0024 [Minova] | El clan va a hacer una limpieza a fondo y me preocupa que descubran el manga que compré...
+A05.0025 [Tú] | Vale, ya entendí, puedes dejármelo a mí
+A05.0026 [Minova] | Ah...
+A05.0027 [Minova] | Oh...
+
+## Conversación A06
+A06.0001 [Minova] | ¿Estás ahí? ¿Te interesa ver una película?
+A06.0002 [Tú] | Justo la estoy buscando ahora, ¿tienes alguna recomendación?
+A06.0003 [Minova] | Le pedí prestados unos rollos de película al dueño de una tienda de videos loong
+A06.0004 [Minova] | Puedes elegir uno para ver
+A06.0005 [Opción] | Las mil caras de Stellaroid
+A06.0006 [Opción] | Asuntos infernales
+A06.0007 [Opción] | Posada Cangwu
+A06.0008 [Tú] | Me quedo con Las mil caras de Stellaroid
+A06.0009 [Minova] | Tienes buen gusto para las películas
+A06.0010 [Minova] | Es una comedia muy popular
+A06.0011 [Minova] | Trata de un Trekker que obtiene un poder misterioso de un Monolito que le permite transformarse en cualquier Artefacto. Luego el Trekker regresa a Emor para perseguir un amor perdido
+A06.0012 [Tú] | Asuntos infernales suena muy interesante
+A06.0013 [Minova] | ¡Esta es mi favorita de todas!
+A06.0014 [Minova] | Trata de la Guardia Imperial y cierta pandilla, cada una infiltrando a un agente encubierto en las filas de la otra, lo que genera una red de engaños, enfrentamientos y enredos
+A06.0015 [Minova] | Las representaciones de cada bando en el Stella Drama son mucho más impresionantes que sus equivalentes en la realidad, pero lo hacen un Drama muy emocionante
+A06.0016 [Tú] | ¿Es una historia ambientada en Cangwu?
+A06.0017 [Minova] | Sí. Es la historia de un grupo de loong encargados de proteger a alguien importante. Llegan a una posada en medio de la nada y se ven envueltos en una lucha con las fuerzas locales y los enemigos que los persiguen
+A06.0018 [Minova] | Aunque no entiendo bien el concepto de «xia» que es tan popular en Cangwu
+A06.0019 [Minova] | Creo que se parece mucho al ideal del Clan Viento de Ceniza
+A06.0020 [Tú] | Todo eso es cierto, pero... quería preguntar
+A06.0021 [Tú] | Ya las viste todas, ¿verdad?
+A06.0022 [Minova] | ¡
+A06.0023 [Minova] | ¿Y qué?
+A06.0024 [Minova] | Puedo volver a verlas, ¿no?
+A06.0025 [Minova] | Además...
+A06.0026 [Tú] | ¿Además?
+A06.0027 [Minova] | ¡En fin! Me costó mucho esfuerzo conseguir prestados estos rollos
+A06.0028 [Minova] | Ya voy en camino. ¡Sin echarte para atrás!
+
+## Conversación A07
+A07.0001 [Minova] | ¿Recuerdas que te mencioné lo de conseguir un Artefacto de cámara?
+A07.0002 [Tú] | Claro que sí. ¿Qué pasó?
+A07.0003 [Minova] | Tomé muchas fotos con él
+A07.0004 [Minova] | Pero todas salieron desenfocadas, no sirven para nada...
+A07.0005 [Opción] | Entonces algo anda mal con el Artefacto
+A07.0006 [Opción] | Quizá tus manos no estaban lo bastante firmes
+A07.0007 [Opción] | Quizá sean influencias paranormales
+A07.0008 [Tú] | Seguro que algo anda mal con el Artefacto
+A07.0009 [Tú] | Después de todo, lo barato sale caro
+A07.0010 [Minova] | ¿En serio...?
+A07.0011 [Tú] | Quizá te mueves muy rápido y la función de enfoque no puede con tu velocidad
+A07.0012 [Tú] | O se te olvidó activar alguna función. ¿Dónde está el manual?
+A07.0013 [Minova] | Bueno, dije que era usado
+A07.0014 [Tú] | ¿Será que te topaste con algo paranormal...?
+A07.0015 [Minova] | Algo así no me asustaría
+A07.0016 [Minova] | Aunque de verdad existieran, les daría un golpe en la cabeza
+A07.0017 [Tú] | Entonces ya no se me ocurre nada...
+A07.0018 [Minova] | Mmm...
+A07.0019 [Minova] | Es una lástima que no pueda conseguir buenas fotos para compartirte
+A07.0020 [Minova] | Quizá sea mejor que las veas directamente desde mi punto de vista
+A07.0021 [Tú] | ¿A qué te refieres?
+A07.0022 [Minova] | Ayer...
+A07.0023 [Minova] | Le pedí a un amigo del café de gatos que modificara una patineta nueva: ahora pueden andar dos personas juntas
+A07.0024 [Minova] | Así que aunque no sepas andar, puedo llevarte...
+A07.0025 [Minova] | Entonces, ¿qué dices? ¿Te interesa?
+A07.0026 [Opción] | Ya que te tomaste tantas molestias
+A07.0027 [Opción] | ¿Cómo podría negarme?
+A07.0028 [Tú] | ¿Cómo podría negarme?
+A07.0029 [Tú] | ¿Cómo podría negarme?
+A07.0030 [Tú] | Ya que te tomaste tantas molestias
+A07.0031 [Minova] | ¿En serio?
+A07.0032 [Minova] | Entonces vamos ahora mismo, estoy en tus dos en punto
+A07.0033 [Tú] | Ah, ¿me escribías mientras andabas en patineta?
+A07.0034 [Minova] | ¡Olvida eso!
+A07.0035 [Minova] | ¡Vamos en la patineta más nueva!
+
+## Conversación A08
+A08.0001 [Tú] | Yo
+A08.0002 [Minova] | Yo
+A08.0003 [Tú] | Te compré
+A08.0004 [Minova] | Ya sé
+A08.0005 [Minova] | Cupcakes, ¿verdad?
+A08.0006 [Tú] | ¿Cómo lo supiste?
+A08.0007 [Minova] | Te he seguido todo el camino... ¡con mi uniforme escolar!
+A08.0008 [Minova] | Supongo que hasta a ti se te escapan cosas a veces
+A08.0009 [Tú] | Me quedé tan metido pensando en conseguirte un regalo
+A08.0010 [Minova] | Ya sé
+A08.0011 [Minova] | Así que pensaba interceptarte más adelante
+A08.0012 [Minova] | Usa la cabeza...
+A08.0013 [Minova] | No es el tipo de cosas que se hacen frente a mis subordinadas
+A08.0014 [Minova] | Vamos a nuestro lugar de siempre
+A08.0015 [Minova] | También te compré botanas
+
+## Conversación A09
+A09.0001 [Minova] | Esta es la segunda vez que hago combate de práctica contra el Gremio de la Nueva Estrella
+A09.0002 [Minova] | Su trabajo en equipo es realmente impecable
+A09.0003 [Opción] | Eres muy amable
+A09.0004 [Opción] | El Clan Viento de Ceniza también lo hizo muy bien
+A09.0005 [Tú] | Pero creo que el Clan Viento de Ceniza también lo hizo muy bien
+A09.0006 [Tú] | Eres muy amable
+A09.0007 [Tú] | Pero creo que el Clan Viento de Ceniza también lo hizo muy bien
+A09.0008 [Tú] | Nos lo pusieron muy difícil la primera vez que nos topamos
+A09.0009 [Minova] | Después de todo, así nos establecimos en el Distrito de las Cenizas
+A09.0010 [Minova] | Ah, por cierto
+A09.0011 [Minova] | ¿Neuvira y Vollara pueden acompañarlos la próxima vez?
+A09.0012 [Minova] | Creo que sería una gran oportunidad para que crezcan
+A09.0013 [Tú] | Claro, después de todo, ustedes también nos han ayudado muchísimo
+A09.0014 [Minova] | ¡Qué generosa! ¡Entonces es un trato!
+
+## Conversación A10
+A10.0001 [Minova] | ¿Eh...? ¿De verdad pasó eso?
+A10.0002 [Minova] | Las cosas que he olvidado...
+A10.0003 [Tú] | No es tu culpa haberlas olvidado
+A10.0004 [Minova] | No me refería a eso
+A10.0005 [Minova] | No me siento melancólica...
+A10.0006 [Minova] | Recuperar lo que alguna vez se perdió es la mejor sensación del mundo
+A10.0007 [Minova] | Y es gracias a ti, Jefe
+A10.0008 [Opción] | Solo hice lo que pude
+A10.0009 [Opción] | Después de todo, soy el Jefe
+A10.0010 [Minova] | Jefe
+A10.0011 [Minova] | ¿Podría tener un poco más de tiempo?
+A10.0012 [Minova] | Creo que todavía quiero quedarme en ese lugar un rato
+A10.0013 [Minova] | Claro, es solo para procesar algo de información y emociones
+A10.0014 [Tú] | Esperaré a que regreses
+A10.0015 [Minova] | Sí
+A10.0016 [Minova] | Seré la mejor versión de mí ahora mismo
+A10.0017 [Minova] | Lo prometo
+
+## Conversación B01
+B01.0001 [Minova] | Cuídate la espalda en el Distrito de las Cenizas estos días, Jefe
+B01.0002 [Minova] | Una pandilla nueva salió de la nada
+B01.0003 [Minova] | Un grupito de poca monta, pero está causando problemas por todos lados. Se mete con los débiles
+B01.0004 [Minova] | Ya hasta tienen el descaro de meterse con nosotras, los del Viento de Ceniza
+B01.0005 [Tú] | ¿Cómo se llaman?
+B01.0006 [Tú] | La pandilla nueva
+B01.0007 [Minova] | Creo que se llaman
+B01.0008 [Minova] | Los Bobos del Dumpling
+B01.0009 [Minova] | No sé, algo así
+B01.0010 [Minova] | En fin, ya mandé a Vollara y a Neuvira a investigar algo sobre ellos
+B01.0011 [Tú] | ¿Necesitas refuerzos?
+B01.0012 [Minova] | Nah, estamos bien
+B01.0013 [Minova] | Dales unos días y serán historia
+
+## Conversación B02
+B02.0001 [Minova] | ¡Jaja, lo logré!
+B02.0002 [Tú] | ¿Qué lograste?
+B02.0003 [Minova] | ¡Modifiqué mi tabla con propulsores!
+B02.0004 [Tú] | ¿Propulsores?
+B02.0005 [Minova] | Vale, técnicamente solo le até un montón de fuegos artificiales
+B02.0006 [Tú] | ¡Ten cuidado!
+B02.0007 [Minova] | Estoy tranquila
+B02.0008 [Minova] | Ya dominé la técnica
+B02.0009 [Minova] | Aunque tuve que caerme unas cuantas veces para lograrlo
+B02.0010 [Tú] | Eso no suena nada tranquilo.
+B02.0011 [Minova] | Relájate, estoy bien
+B02.0012 [Minova] | Ni siquiera me rompí la piel
+B02.0013 [Tú] | Solo cuídate.
+B02.0014 [Minova] | Sí, sí, ya sé
+B02.0015 [Minova] | Además, ya no me quedan fuegos artificiales
+B02.0016 [Tú] | Son una especialidad de Cangwu, después de todo
+B02.0017 [Tú] | Seguro es difícil conseguirlos en Emor.
+B02.0018 [Minova] | Sip
+
+## Conversación B03
+B03.0001 [Minova] | Ese transporte Artefacto tuyo está genial
+B03.0002 [Tú] | ¿Te refieres a Loxy?
+B03.0003 [Minova] | ¡Sí!
+B03.0004 [Minova] | Uf, tener un transporte así debe ser increíble
+B03.0005 [Minova] | Puedes andar por donde quieras
+B03.0006 [Minova] | Además, no te mojas cuando llueve
+B03.0007 [Minova] | He estado viendo montones de Stella Dramas sobre autos últimamente
+B03.0008 [Minova] | Me dieron ganas de ir al Monolito, pedir deseos y armar el mío
+B03.0009 [Opción] | Tener un auto es genial
+B03.0010 [Opción] | No es tan glamuroso como crees
+B03.0011 [Tú] | Súper conveniente.
+B03.0012 [Minova] | Tengo que sonsacarle consejos a Noya
+B03.0013 [Minova] | sobre cómo pedir las piezas correctas
+B03.0014 [Tú] | Noya consiguió las piezas de Loxy pidiendo deseos,
+B03.0015 [Tú] | y luego armó a Loxy desde cero.
+B03.0016 [Tú] | En realidad fue un proceso bastante complejo.
+B03.0017 [Tú] | Hay que darle mantenimiento, preocuparse por las abolladuras...
+B03.0018 [Tú] | Además, tienes que asegurarte de que sea fácil de manejar
+B03.0019 [Minova] | Buen punto
+B03.0020 [Minova] | Si no puedo conseguir un auto
+B03.0021 [Minova] | Quizá me conforme con dos ruedas
+B03.0022 [Minova] | Casi seguro que Tilia, de la Guardia Imperial, anda en una
+B03.0023 [Tú] | Pero una moto no te protege del clima.
+B03.0024 [Minova] | Cierto
+B03.0025 [Minova] | De todos modos no es tan ágil como mi tabla
+B03.0026 [Minova] | Lo pensaré
+
+## Conversación B04
+B04.0001 [Minova] | ¡Oye, Jefe!
+B04.0002 [Minova] | ¿¿Estás ahí??
+B04.0003 [Minova] | Necesito un favor ENORME
+B04.0004 [Opción] | Aquí estoy
+B04.0005 [Opción] | Lo que necesites
+B04.0006 [Minova] | ¿Puedes ir mañana a las 10:00 a Bosque de Manga? Está en la Quinta Avenida del Distrito de Plata
+B04.0007 [Minova] | Necesito que consigas el tomo nuevo de Jinete Bombardero Fantasma
+B04.0008 [Tú] | Bueno, claro...
+B04.0009 [Tú] | ¿Pero por qué no puedes ir tú?
+B04.0010 [Minova] | Vollara y Neuvira me van a arrastrar mañana al entrenamiento de Trekkers.
+B04.0011 [Minova] | Literalmente no puedo escapar
+B04.0012 [Minova] | ¡Eres la única en quien puedo confiar para esto!
+B04.0013 [Tú] | Ah, entendido.
+B04.0014 [Minova] | Dicen que este nuevo lanzamiento va a ser una locura
+B04.0015 [Minova] | Seguro habrá una multitud enorme acampando para el estreno
+B04.0016 [Minova] | Si llegas tarde, seguro se habrá agotado
+B04.0017 [Tú] | Suena intenso.
+B04.0018 [Tú] | ¿Debería ir a acampar ahí esta noche, entonces?
+B04.0019 [Minova] | Oye, no hace falta llegar TAN lejos
+B04.0020 [Minova] | No vale la pena que te resfríes
+B04.0021 [Minova] | esperando toda la noche
+B04.0022 [Minova] | Solo haz tu mejor intento mañana
+B04.0023 [Minova] | Si no lo consigues, olvídalo
+B04.0024 [Minova] | Yo esperaré a la reposición
+B04.0025 [Tú] | No te preocupes.
+B04.0026 [Tú] | Te conseguiré ese manga.
+
+## Conversación B05
+B05.0001 [Minova] | ¡Salí de la escuela! ¡Por fin libre!
+B05.0002 [Minova] | ¡Vamos! ¡Hora de pasear!
+B05.0003 [Minova] | Parece una eternidad desde que salimos juntos, Jefe
+B05.0004 [Opción] | Sí, así es
+B05.0005 [Opción] | ¿A dónde?
+B05.0006 [Tú] | Sí, así es.
+B05.0007 [Minova] | ¿Tienes algún lugar en mente?
+B05.0008 [Minova] | Escuché que hay un teatro nuevo en el Distrito de las Cenizas
+B05.0009 [Minova] | Escuché que hay un teatro nuevo en el Distrito de las Cenizas
+B05.0010 [Minova] | ¿Te interesa?
+B05.0011 [Opción] | ¡Claro!
+B05.0012 [Opción] | ¿Un teatro nuevo?
+B05.0013 [Minova] | Sip
+B05.0014 [Minova] | Ojalá estén pasando Stella Dramas nuevos
+B05.0015 [Minova] | Los de nuestro lugar de siempre
+B05.0016 [Minova] | Básicamente me los sé todos de memoria
+B05.0017 [Minova] | Necesito contenido fresco por una vez
+B05.0018 [Tú] | Genial, vamos a verlo.
+B05.0019 [Minova] | Increíble. Nos vemos allá
+
+## Conversación B06
+B06.0001 [Minova] | ¡Jefe! ¡Jefe!
+B06.0002 [Tú] | ¿Qué pasa?
+B06.0003 [Minova] | ¡Resulta que últimamente he estado dibujando unos mangas cortos de shoujo!
+B06.0004 [Minova] | ¿Quieres venir a echarles un vistazo?
+B06.0005 [Tú] | ¡Claro!
+B06.0006 [Tú] | Me encantaría apreciarlos como se debe.
+B06.0007 [Minova] | Solo... prométeme que no te reirás si el dibujo es malo
+B06.0008 [Tú] | ¿Por qué haría eso? ¡Tienes que tener más fe en ti, Minova!
+B06.0009 [Minova] | Llevo practicando una eternidad
+B06.0010 [Minova] | Pero algo en los personajes sigue sintiéndose raro
+B06.0011 [Tú] | ¿Raro en qué sentido, exactamente?
+B06.0012 [Minova] | Es difícil de explicar. Simplemente no se ven como los imagino en mi cabeza
+B06.0013 [Tú] | Suena a que podría ser un problema de fundamentos.
+B06.0014 [Tú] | Como anatomía o trazo.
+B06.0015 [Minova] | Supongo que de verdad debo volver a lo básico, entonces
+B06.0016 [Tú] | Tómate tu tiempo. Todo artista empieza por algún lado.

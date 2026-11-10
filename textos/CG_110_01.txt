@@ -1,0 +1,114 @@
+# Historia de Firenze · 1 · Philae Vacation (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Production Dept Employee | Empleado del Departamento de Producción
+N:Sapphire & Ruby | Sapphire y Ruby
+N:avg1_110 | Firenze
+N:avg3_100 | Sylar
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_180 | Investigador de Cosecha Unida
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Vacaciones en Philae (Parte I)
+0003 [Intro] | Su otra faceta, nunca antes vista.
+0004 [Narración] | La quietud dentro de la oficina solo era rota por el sonido constante de una pluma deslizándose sobre el papel.
+0005 [Firenze] | Adelante.
+0006 [Sapphire] | Lady Firenze, estos son los materiales para la reunión de mañana.
+0007 [Firenze] | Gracias. Déjalos aquí.
+0008 [Sapphire] | Eh...==W== Lady Firenze.
+0009 [Firenze] | ¿Hay algo más?
+0010 [Sapphire] | Según el calendario, hoy se supone que es su día libre. Ayer también se saltó la cena, ¿verdad? Me temo que se está exigiendo demasiado.
+0011 [Firenze] | Lo sé. Pero la empresa está en plena transición. No puedo dejar que el trabajo se acumule.
+0012 [Sapphire] | Entonces al menos permita que Ruby y yo ayudemos a llevar parte de la carga...
+0013 [Firenze] | Está bien. De todos modos hoy es día libre. Ruby y tú no deberían estar aquí. Vayan a casa a descansar.
+0014 [Sapphire] | Entendido...
+0015 [Ruby] | Bueno, ¿cómo te fue?
+0016 [Sapphire] | Suspiro, como siempre. Ella no quiere que trabajemos horas extra, pero ella misma...
+0017 [Ruby] | Lleva casi dos semanas sin parar. Esto no puede continuar.
+0018 [Sapphire] | No podemos convencerla de que se tome un descanso, así que necesitamos a alguien que sí pueda.
+0019 [Ruby] | Bueno, en ese caso, solo hay una persona a quien podemos recurrir...
+0020 [Tú] | ¿Así que por eso me trajeron a rastras hasta aquí?
+0021 [Ruby] | Por favor, Jefe. ¡A estas alturas eres la única persona con la que podemos contar!
+0022 [Tú] | Mmm. Por lo que me contaron, suena grave de verdad.
+0023 [Sapphire] | Gracias. Solo queremos que se tome un día libre para relajarse y aligerar sus cargas.
+0024 [Tú] | Pero aunque ayude, conociendo a Firenze, no descansaría si tuviera trabajo pendiente.
+0025 [Tú] | No podemos obligarla a irse, ¿verdad?
+0026 [Ruby] | No tienes de qué preocuparte. Sapphire y yo nos encargaremos de su trabajo mientras esté fuera.
+0027 [Sapphire] | Sí, ya está todo arreglado.
+0028 [Sapphire] | El problema mayor son los otros empleados que no están en el plan. Mientras la acompañas a salir del edificio, casi seguro alguien la detendrá para reportarle algo.
+0029 [Sapphire] | Por favor usa esta arma secreta que preparamos cuando la ocasión lo requiera.
+0030 [Tú] | ¿En esta bolsa? ¿Qué hay adentro?
+0031 [Ruby] | ¡E-eso es confidencial!==W== A menos que no tengas absolutamente otra alternativa, por favor trata de no soltarla...
+0032 [Tú] | Está bien...==W== Lo haré a su manera.
+0033 [Firenze] | Adelante.
+0034 [Tú] | Perdón por interrumpir.
+0035 [Tú] | Su oficina está tan ordenada como siempre y huele a limón...==W== Qué refrescante.
+0036 [Firenze] | ¿Qué te trae por aquí, Jefe?
+0037 [Tú] | Tengo algo importante que discutir contigo. Espero poder tomar un momento tuyo.
+0038 [Firenze] | Por favor, adelante.
+0039 [Tú] | Mmm...==W== Aquí no. ¿Podríamos hablar afuera?
+0040 [Firenze] | ¿Oh? Je...==W== Ya veo.
+0041 [Firenze] | El asunto es que todavía tengo trabajo pendiente. Si no te importa esperar un poco...
+0042 [Sapphire] | ¡Disculpe nuestra intromisión!
+0043 [Ruby] | ¡Perdón!
+0044 [Firenze] | Les dije a ustedes dos que se fueran a casa. ¿Por qué siguen aquí?
+0045 [Sapphire] | Nos topamos con el Jefe al salir.
+0046 [Ruby] | Dada la importancia de nuestra relación laboral, ¡sentimos que debemos priorizar lo que quiera el Jefe!
+0047 [Sapphire] | Por favor no se preocupe por el papeleo. Yo puedo encargarme.
+0048 [Ruby] | ¡Y yo me ocuparé de los mandados!
+0049 [Firenze] | ¿Se toparon con ==SEX4==? Qué coincidencia.
+0050 [Ruby] | Wah, esa mirada suya. La presión es tan intensa...
+0051 [Sapphire] | Silencio, te va a oír.
+0052 [Tú] | Ejem...==W== En fin, como el trabajo está cubierto, puedes venir conmigo, ¿verdad?
+0053 [Firenze] | Entonces dejo el resto en manos de ustedes dos.
+0054 [Sapphire & Ruby] | ¡¡...!!
+0055 [Sapphire & Ruby] | ¡Puede estar tranquila!
+0056 [Firenze] | ¿Vamos, Jefe?
+0057 [Tú] | Está bien.
+0058 [Tú] | Siento que ya se delataron solas...
+0059 [Ruby] | ¡Procura que no vuelva hoy, Jefe!
+0060 [Sapphire] | Buena suerte.
+0061 [Tú] | ¡Jajaja, haré lo mejor que pueda!
+0062 [Production Dept Employee] | ¡Lady Firenze! ¡Justo a tiempo!
+0063 [Firenze] | ¿Qué pasa? ¿Algún problema en Producción?
+0064 [Production Dept Employee] | No, solo una propuesta de mejoras de procesos. Necesitamos su opinión...
+0065 [Firenze] | Interesante. Déjame verla.
+0066 [Tú] | Espera un momento.
+0067 [Firenze] | ¿Mm?
+0068 [Tú] | Ruby y Sapphire ya están delegando, ¿no? Y Producción es su responsabilidad...
+0069 [Firenze] | Es verdad.
+0070 [Firenze] | Perdón, ¿podrías dejar la propuesta en mi oficina? Alguien la revisará.
+0071 [Production Dept Employee] | ¡Así lo haré!
+0072 [Tú] | Sí que estás ocupada.
+0073 [Firenze] | La empresa atraviesa grandes cambios y los nuevos procedimientos aún no se han formalizado. Todos están acostumbrados a venir directo conmigo.
+0074 [Firenze] | Pero tenías razón. No debería seguir socavando el orden de los procedimientos.
+0075 [Tú] | Ruby y Sapphire pueden encargarse.
+0076 [Firenze] | Aunque, Jefe... Si demasiada gente nos detiene en el camino, podría terminar regresando a mi oficina. Je. ¿Qué piensas hacer al respecto?
+0077 [Tú] | No hay problema. Todo lo que necesito es esta «arma secreta»...
+0078 [Firenze] | ¿Qué es esto?
+0079 [Tú] | Ruby y Sapphire la prepararon. Dijeron que la use si las cosas se complican.
+0080 [Firenze] | ¿La prepararon? Ya veo.
+0081 [Narración] | Firenze revisó el contenido de la bolsa y sonrió con una expresión tranquila y divertida.
+0082 [Tú] | ¿Qué hay adentro?
+0083 [Firenze] | Nada. Espera aquí por favor, vuelvo enseguida.
+0084 [Firenze] | Gracias por esperar.
+0085 [Tú] | Mmm...==W== ¿Eh??
+0086 [Firenze] | Uf, qué bueno que todavía me queda. ¿Cómo me veo?
+0087 [Tú] | Te ves muy bien...==W== ¿Es un uniforme escolar?
+0088 [Firenze] | Es de la Academia Philaense donde estudié.
+0089 [Tú] | Así que esta es el arma secreta...==W== Pero ¿por qué?
+0090 [Firenze] | Supongo que Ruby o Sapphire lo encontraron en mi clóset y decidieron que serviría de disfraz.
+0091 [Tú] | Pero ¿por qué un uniforme escolar?
+0092 [Firenze] | Porque no hay nada más. Para no perder tiempo eligiendo ropa cada mañana, mi guardarropa contiene treinta atuendos de trabajo idénticos. Aparte de esos, la única ropa que conservé fue este uniforme como recuerdo.
+0093 [Tú] | Eso ... sí suena a ti.
+0094 [Firenze] | Lo tomaré como un cumplido. Ahora que me cambié, vámonos.
+0095 [Narración] | Una vez que Firenze se puso el uniforme, nadie se le acercó con trabajo.
+0096 [Narración] | Algunos empleados nos miraron con curiosidad, pero ninguno relacionó que la «colegiala» era su jefa.
+0097 [Tú] | Uf, por fin afuera.
+0098 [Firenze] | Una excusa débil para sacarme de la oficina, y encima me hiciste ponerme un uniforme escolar...
+0099 [Firenze] | Je. Jefe, no me digas que intentas llevarme==W== a una cita.
+0100 [Tú] | ¡¿U-una cita?!

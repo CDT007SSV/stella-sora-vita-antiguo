@@ -1,0 +1,223 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 1A · Viento entre las copas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Arbiter in White | Árbitro de blanco
+N:Benito & Chaton | Benito y Chaton
+N:Boss (Nazuna) | Jefa (Nazuna)
+N:Committee Elite | Élite del Comité
+N:Committee Mage | Mago del Comité
+N:Committee Member | Miembro del Comité
+N:Itoha | Itoha
+N:Knight Captain | Capitán de los caballeros
+N:avg1_103 | Amber
+N:avg1_107 | Tilia
+N:avg1_108 | Kasimira
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_114 | Chaton
+N:avg1_132 | Minova
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg1_139 | Allie
+N:avg1_144 | Chitose
+N:avg1_146 | Benito
+N:avg1_156 | Nazuna
+N:avg1_1994 | Nazuka
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1265 | Firenze
+N:avg3_129 | Guardia Imperial
+N:avg3_1304 | Chaton
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_1311 | SaiLa
+N:avg3_132 | Kaede
+N:avg3_143 | Residente
+N:avg3_150 | Albedo
+N:avg3_157 | Guardia Imperial
+N:avg3_208 | Secuaz de los Escorpiones del Desierto
+N:avg3_217 | N.º 160
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Viento entre las copas
+0003 [Intro] | Diez días antes. Mientras el engaño en Philae avanza sin problemas, Nazuka y Firenze reúnen aliados en secreto por si acaso. Tras unos preparativos rápidos, el Gremio Petal Bloom se reúne contigo sin contratiempos.
+0004 [Narración] | Diez días antes.
+0005 [Lugar y hora] | 08:20, 8.º del mes de Nebula, Distrito Invernadero, Núcleo del laboratorio
+0006 [Nazuka] | ¡E-eso es todo por hoy! ¡Cuídate mucho allá afuera!
+0007 [Tú] | Tú también.
+0008 [Nazuka] | Uf. Bueno, ==SEX== ya se fue.==W== ==SEX1== no se va a comunicar en un buen rato, así que ya podemos hablar del «plan».
+0009 [Boss (Nazuna)] | Vaya, vaya.==W== Todo está saliendo perfecto, así que ¿por qué alguien tiene esa cara tan trágica?
+0010 [Nazuka] | ¿Qué? ¡Nadie tiene cara trágica! Sí, extraño oír ==SEX3== voz todos los días. ¡Pero es un sacrificio necesario! ¡Significa que después podremos estar juntos!
+0011 [Boss (Nazuna)] | Je,==W== hablaba de Chitose.==W== Pero alguien tiene muchas ganas de confesarse.
+0012 [Nazuka] | ¿Qué?
+0013 [Chitose] | Mi ==SEX11==... Las glicinas siguen floreciendo igual que el día en que nos reencontramos. Pero la lluvia ya borró los últimos rastros de tu presencia.
+0014 [Chitose] | Sobreviviré a los días que vienen aferrándome a nuestros recuerdos compartidos. Mi añoranza me sostendrá hasta que volvamos a vernos.
+0015 [Boss (Nazuna)] | ¿Ves, Nazuka? Toma nota.==W== Si sigues enterrando tus sentimientos, otras se te van a adelantar. Te van a dejar comiendo polvo.
+0016 [Boss (Nazuna)] | ¿Por qué termina siempre así...?==W== Yo fui la primera que hizo una promesa con ==SEX4==... ¡Yo fui la primera...!
+0017 [Nazuka] | ¡Nazuna! ¡Traer la cara del Jefe no te da permiso de decir tonterías!
+0018 [Boss (Nazuna)] | ¡Buaaa!==W== ¡Nazuka está enojada! ¡Escóndanme!
+0019 [Boss (Nazuna)] | ¡Chito-Chito, protege a tu pobre ==SEX11==!
+0020 [Chitose] | Le ruego que modere su enojo, Lady Nazuka. No hay por qué tomarse a pecho las bromas de Nazuna.
+0021 [Chitose] | Usted nunca ha sido deshonesta con sus sentimientos. Estoy segura de que mi ==SEX11== entiende su corazón con solo mirarla.
+0022 [Nazuka] | ¿L-lo ves? ¡Exacto! ¡El Jefe sabe lo que siento sin que yo tenga que decirlo! ¿Ves, Nazuna? Chitose sí lo entiende.
+0023 [Chitose] | Eh, Lady Nazuka, ¿quiere una toalla fría? Su cara brilla como una hoja recién salida de la forja.
+0024 [Nazuka] | ¡¿Q-quéééé?!
+0025 [Boss (Nazuna)] | Sip. Una cara así de verdad dice más que mil palabras.
+0026 [Firenze] | Ejem. Calmémonos. Agradezco los buenos ánimos, pero tenemos el tiempo contado. Volvamos a lo importante.
+0027 [Firenze] | Nyx, ¿cómo va el círculo antiespionaje?
+0028 [Nyx] | Hermético. No entra ni una mosca. Lo que digamos en esta sala se queda aquí.
+0029 [Firenze] | Bien. Ahora, la mala noticia. Nuestro numerito del señuelo no llamó mucho la atención. El Comité de Salvación no mordió el anzuelo.
+0030 [Firenze] | Albedo se reunió anoche con Nazuka y conmigo...
+0031 [Albedo] | Buenas noches, Firenze, Nazuka.
+0032 [Albedo] | Traigo buenas noticias. Que los Árbitros del Ocaso declararan herejes al Comité de Salvación desató una ola de deserciones. Obtuvimos una cantidad enorme de información de los miembros arrepentidos.
+0033 [Albedo] | Angie dio nuevas órdenes. Los miembros del Comité se están movilizando hacia algún lugar del oeste del Imperio de Nova.
+0034 [Nazuka] | ¿Al oeste? No tiene sentido. Philae está en el sur. Si quisieran atacarnos, irían hacia el sur.
+0035 [Albedo] | No conocemos las órdenes exactas. Sin embargo, su trayectoria indica claramente que descartaron Philae como objetivo. El camino a Emor también debería estar libre de sus fuerzas.
+0036 [Albedo] | Deberían aprovechar esta oportunidad para escoltar al Jefe a Emor. Si limpia ==SEX3== nombre en la conferencia de este mes, todos podrán volver a su vida normal.
+0037 [Firenze] | Gracias por el aviso, pero cuándo y cómo va el Jefe a Emor no es algo que pueda decidir yo sola. Al amanecer lo hablaré con mis compañeros.
+0038 [Boss (Nazuna)] | Esperen. ¿El Comité de Salvación está ignorando Philae? ¿Por qué? ¡Nazuka, acabas de decir que mi actuación era impecable!
+0039 [Nazuka] | No es tu culpa, Nazuna. No ignoraron Philae por tu disfraz.
+0040 [Nazuka] | Piénsalo. Aunque hubieran descubierto que eras una impostora, ¿cómo podrían saber que el verdadero Jefe no se escondía aquí también?
+0041 [Firenze] | El hecho de que se estén movilizando hacia otro lado significa que ya rastrearon al Jefe por otros medios.
+0042 [Fuyuka] | El Maestro se fue a un desierto en el oeste... ¡Ay, no, el Maestro está en peligro! ¡Solo los cuatro contra todo un ejército!
+0043 [Nazuka] | Eso nos lleva al verdadero asunto. Usamos la «misión de escolta a Emor» como tapadera, nos escabullimos y vamos directo al desierto a respaldarlos.
+0044 [Kaede] | Si el Comité de Salvación no viene para acá, sin duda deberíamos ir. Aunque sea para quitarles algo de presión. Pero... ¿de verdad tenemos que ocultárselo?
+0045 [Nazuka] | Tenemos que hacerlo, Kaede. Ya sabes cómo es el Jefe. Si le dijéramos: «Philae está a salvo, así que vamos al desierto», ¿cómo crees que reaccionaría ==SEX==?
+0046 [Kaede] | ==SEX1== lo rechazaría de inmediato. Cuando armamos el plan del señuelo, ==SEX== no dijo mucho, pero esa expresión en ==SEX3== cara... ==SEX1== se moría de culpa por habernos metido en esto.
+0047 [Nazuka] | Exacto. Si ==SEX== sabe que aquí estamos a salvo, ==SEX== peleará con uñas y dientes para mantenernos lejos del fuego cruzado. ==SEX1== nunca nos pondría en peligro.
+0048 [Fuyuka] | El Maestro... solo quiere protegernos.
+0049 [Chitose] | Mi ==SEX11== me consiente demasiado. Yo soy una espada. Mi único propósito es abatir a los enemigos de mi ==SEX11==.
+0050 [Firenze] | Es más que solo querer protegernos. ==SEX1== es la clase de líder que insiste en recibir todos los golpes. ==SEX1== se pondrá ==SEX8== en primera línea cada vez, si con eso se salva alguien más.
+0051 [Nazuka] | Y justo por eso nos volvimos camaradas que se confían la vida entre sí.
+0052 [Nazuka] | Mantenernos fuera de peligro es ==SEX3== decisión. Presentarme de todos modos es la mía.
+0053 [Nazuka] | Soy Trekker. Yo me abro mi propio camino. Me niego a quedarme sentada como una flor marchita de invernadero esperando a que la rieguen.
+0054 [Firenze] | Todos sabemos lo fuerte que es el Comité de Salvación. Este viaje será brutal. Nazuka y yo convocamos esta reunión para medir su determinación y definir quiénes van.
+0055 [Boss (Nazuna)] | ¿Nos trajeron hasta aquí solo para eso?
+0056 [Nyx] | Como si alguien en esta sala fuera a decir que no.
+0057 [Chitose] | Mi paciencia se agotó hace días. Estoy lista para marchar ahora mismo y ocupar mi lugar como vanguardia de mi ==SEX11==.
+0058 [Fuyuka] | Y-yo... sé que todavía tengo mucho que aprender, ¡pero voy a ayudar al Maestro pase lo que pase!
+0059 [Kaede] | La logística corre por mi cuenta. ¿Salimos hoy? Tengo que empezar a empacar.
+0060 [Itoha] | Bueno, mantener a Nazuna con la cara del Jefe durante el viaje requiere retoques constantes. Cuenten conmigo.
+0061 [Firenze] | Entonces ya está decidido. Salimos hoy, aprovechando el convoy de la Guardia Imperial que va hacia Mirage.
+0062 [Mistique] | Jeje, ¡una operación de rescate encubierta! ¡Imagínense las fotos! Pero, eh... No quiero arruinar el ambiente, pero ¿no se les olvida un detallito?
+0063 [Mistique] | Según su trato con Albedo, incluso de camino a Emor, el Jefe tiene que transmitir todos los días por Scarlet Sights Media. Solo para asegurarles a todos los novianos que ==SEX== no pretende acabar con el mundo.
+0064 [Mistique] | Con esa restricción no pueden desviarse así nada más a un desierto. ¿Y dividir al grupo? La gente los está observando. Las caras ausentes van a desatar rumores al instante.
+0065 [Firenze] | Tengo una solución para eso. Pero necesitaré un favor, Mistique.
+0066 [Mistique] | ¿Un favor? Me encantaría, pero sigo siendo una bruja.
+0067 [Mistique] | Si alguien me descubre ayudándolos, van a suponer que Boss Accord y Scarlet Sights Media están coludidos. Sus transmisiones diarias parecerían montadas.
+0068 [Firenze] | No llegará a tanto. Solo necesito que entregues una carta.
+0069 [Mistique] | Soy una bruja, no una mensajera...==W== Bueno, ya qué. ¿Adónde?
+0070 [Firenze] | Al Distrito de las Cenizas de Emor. Debajo del Canal. Al Clan Viento de Ceniza.
+0071 [Lugar y hora] | 10:00, 12.º del mes de Nebula, Tierras Salvajes, bosque sin nombre
+0072 [Knight Captain] | Lady Firenze. Dos días más hacia el norte y verá el Monolito de Emor. Mi unidad lleva grano a Mirage, así que desde aquí nos desviamos al oeste.
+0073 [Firenze] | Agradecemos la escolta. Que su escuadrón despejara el camino de monstruos nos ahorró muchos dolores de cabeza.
+0074 [Knight Captain] | No hay de qué. Usted paga la cuenta, y nosotros escoltamos al Jefe de Boss Accord. Es lo menos que podíamos hacer.
+0075 [Firenze] | Esa joven caballero tan entregada...==W== Tilia, ¿verdad?==W== Estuvo espectacular ayer en la batalla contra el Búho Vendaval.
+0076 [Knight Captain] | ¡Jaja, en realidad todavía es escudera! Pero con lo bien que blande la espada, los altos mandos la nombrarán caballero muy pronto.==W== ¡Tilia! ¡Ven acá y dale las gracias a Lady Firenze!
+0077 [Tilia] | ¡Gracias, Lady Firenze!==W== ¡Solo cumplía con mi deber!
+0078 [Firenze] | Le escribiré una carta de recomendación a la Guardia Imperial. Debería ayudarte en tu ascenso a caballero. Si necesitas algo más, por favor, dímelo.==W==
+0079 [Tilia] | Eh... En realidad hay algo que quería preguntarle, si no le molesta...==W==
+0080 [Tilia] | Oí que en Emor van a celebrar una conferencia para juzgar la identidad del Jefe.==W== ¿==SEX== va a estar bien?
+0081 [Firenze] | ==SEX1== estará bien. Conozco a ==SEX4== desde hace mucho.==W== ==SEX1== no tiene el menor interés en «acabar con el mundo».
+0082 [Firenze] | El Imperio de la Gracia y los representantes de las empresas no son tontos. No se van a tragar las calumnias del Comité de Salvación. Limpiarán ==SEX3== nombre.
+0083 [Tilia] | ¡Q-qué alivio! Si necesitan a alguien que testifique, ¡yo lo hago! ¡Puedo jurar ante quien sea que ==SEX== es una buena persona!
+0084 [Firenze] | Testificar... ¿Conoces a ==SEX4==?
+0085 [Tilia] | Bueno, ¡nos hemos cruzado algunas veces! En realidad no hemos hablado,==W== ¡pero basta con ver a ==SEX4==! ¡==SEX1== lucha por la justicia, igual que yo! Apuesto mi honor de escudera en ello...==W==
+0086 [Knight Captain] | ¿Apostar tu honor de escudera? ¿Y testificar?==W== ¡¿Esto no irá a meter en problemas a la Guardia Imperial, verdad?!
+0087 [Knight Captain] | ¡Andando! ¡Deja de molestar a Lady Firenze!==W== Jaja, lo siento muchísimo.==W== Así es la muchacha. En cuanto empieza a hablar de justicia, no hay quien la pare.
+0088 [Firenze] | Je, je, no se preocupe. Le transmitiré tu apoyo al Jefe, Tilia. Quizá te tomemos la palabra con ese testimonio.
+0089 [Knight Captain] | Bueno, Lady Firenze, aquí nos separamos. Buen viaje.
+0090 [Firenze] | Oí que el Comité de Salvación se está movilizando en una dirección parecida a la de su ruta. Por favor, tengan cuidado.
+0091 [Knight Captain] | Gracias por el aviso, pero dudo que pierdan el tiempo con un simple convoy de grano...
+0092 [Knight Captain] | ¡¿Q-qué fue eso?!
+0093 [Nazuka] | ¡Oh! ¡No!==W== ¡Es el Comité de Salvación!
+0094 [Committee Member] | ¡Rodéenlos!==W== ¡Maten al Tirano!
+0095 [Chitose] | Protegeré a mi ==SEX11==...==W==
+0096 [Chitose] | ...¡Ugh!==W== Estos enemigos son fuertes.
+0097 [Fuyuka] | ¡Maestro, vámonos!==W== ¡Yo lo protejo!
+0098 [Chitose] | Mi ==SEX11==, espéreme...==W==
+0099 [Firenze] | ¡Capitán, contacte a los Árbitros del Ocaso, rápido! ¡Repórteles que el Comité de Salvación nos atacó! Yo voy tras el Jefe.
+0100 [Knight Captain] | Ah... Sí...
+0101 [Tilia] | ¿Deberíamos ir a ayudar también? Llegó mucha gente del Comité, ¡y todos se metieron corriendo al bosque!
+0102 [Knight Captain] | ¡¿Ayudar en qué?! ¡Llevamos grano a Mirage, no estamos para hacerle de guardaespaldas al Jefe!
+0103 [Tilia] | Pero...
+0104 [Knight Captain] | No quiero oírlo. Seguimos las órdenes de Lady Firenze. Tilia, ve a Emor ahora mismo. ¡Repórtale esto a los Árbitros del Ocaso y a Cosecha Unida Philae!
+0105 [Tilia] | Sí, capitán...
+0106 [Knight Captain] | (¿De verdad era el Comité de Salvación...?==W== No sé los demás... Pero es imposible que a esa espadachina la hicieran retroceder con ataques tan débiles. Casi parecía que estaba montado...)
+0107 [Knight Captain] | (No, deja de darle vueltas. Que los peces gordos jueguen sus jueguitos. ¡A los soldados rasos como nosotros nos conviene quedarnos ciegos y sordos ante este tipo de cosas!)
+0108 [Lugar y hora] | 14:00, 18.º del mes de Nebula, Mirage, en lo profundo de la mina
+0109 [1] | O sea que el Clan Viento de Ceniza hizo de Comité, los Guardias hicieron de testigos, y ustedes fingieron mi secuestro en las Tierras Salvajes solo para colarse en Mirage.==W== ¿Entendí bien?
+0110 [Chitose] | Exactamente.==W== Lady Firenze también me pidió que le transmitiera un mensaje, mi ==SEX11==.
+0111 [Chitose] | Señaló que cualquier choque con el Comité de Salvación cerca de Mirage llamaría la atención inevitablemente. Necesitábamos una razón convincente para que usted apareciera de pronto aquí en lugar de en Philae.
+0112 [Chitose] | Sin ella, la gente se daría cuenta de que el Jefe que vieron en Philae era un señuelo. Eso dañaría gravemente la confianza del público en usted.
+0113 [Tú] | Sí, es cierto. No esperaba que Angie me acorralara en Mirage. Firenze de verdad piensa en todo. ¿Y qué pasó después de que llegaron al desierto?
+0114 [Nazuka] | Iba a usar Heartlink para contactarte de inmediato,==W== pero Mistique vio a las fuerzas del Comité demasiado cerca de nosotras.
+0115 [Nazuka] | Se dice que los Árbitros del Ocaso tienen formas de intervenir los Heartlinks locales. Pensamos que el Comité también podría, así que nos mantuvimos fuera de la red y solo los seguimos.
+0116 [Nazuka] | Los vimos montar un campamento en las dunas a las afueras de Mirage y mandar un escuadrón aquí abajo.
+0117 [Nazuka] | Así que los seguimos adentro y nos topamos de lleno con su hechizo de exploración. Usé mi propia magia para bloquear la suya mientras usaba el viento para buscarte. Por suerte, llegué justo a tiempo.
+0118 [Tú] | Así que esa neblina verde eras tú. ¿Y los demás?
+0119 [Nazuka] | Firenze y Nyx se separaron en cuanto vimos al Comité.==W== Se fueron a Emor para contratar a la Guardia Imperial y contactar a los Árbitros del Ocaso para que nos respalden.
+0120 [Nazuka] | Kaede, Itoha, Minova y Mistique se quedaron en las dunas,==W== listas para sacarnos de aquí.==W== Ese es el resumen completo.
+0121 [Tú] | Es un plan impecable. Excepto que...
+0122 [Nazuka] | Excepto que es demasiado peligroso para nosotras, ¿verdad?==W== ¡Sabía que ibas a decir eso!
+0123 [Nazuka] | Mira, claro que conocemos los riesgos.==W== Pero nosotras...==W== ¡Teníamos que venir! ¡Todas estuvimos de acuerdo!
+0124 [Tú] | Ah... Eh... En realidad no iba a decir eso.
+0125 [Nazuka] | ¡¿No?! ¡¿Entonces por qué la pausa dramática?!
+0126 [Tú] | Porque te veías linda así. No sueles alterarte tanto, Nazuka.
+0127 [Nazuka] | ¿L-linda...? ¿De... de verdad pensaste eso?
+0128 [1] | Sí. Y no estás del todo equivocada. Hace unas semanas, sin duda habría intentado dejarlas fuera por su propia seguridad. Pero...
+0129 [1] | He sido un idiota. Estaba tan concentrado en mantenerlas a salvo a todas que olvidé que ustedes también querían mantenerme a salvo a mí.
+0130 [Noya] | ¡Arriba ese ánimo! No nos subestimes. Todos en Philae han ido al infierno y vuelto contigo.
+0131 [1] | Hace rato Noya me hizo entrar en razón. Intentar alejarlas era un insulto para quienes se preocupan por mí.
+0132 [1] | Así que, ¡me alegra que estén aquí!
+0133 [1] | Nazuka, Chitose, Nazuna, Fuyuka, necesito su ayuda. ¡Salgamos de aquí peleando juntos!
+0134 [Nazuka] | ¡C-claro!
+0135 [Chitose] | No me contendré en absoluto.
+0136 [Fuyuka] | ¡Solo dé la orden, Maestro!
+0137 [Nazuna] | Sin problema. Pero oye, Jefe, no nos dejes con la duda. ¿Qué ibas a decir hace rato en realidad?
+0138 [Tú] | Ah, solo que su numerito del «secuestro» no va a engañar a nadie con dos dedos de frente.==W== Todos saben lo fuertes que son. Nunca caerían tan fácil.
+0139 [Nazuna] | ¡Jaja! ¡Es que Nazuka es pésima actriz!==W== «¡Oh! ¡No!==W== ¡Es el Comité de Salvación!»
+0140 [Nazuna] | ¡Como si la Trekker que derrotó sola a la Espada de Jade fuera a chillar por unos cuantos soldaditos cualquiera!
+0141 [Nazuka] | ¡No podía defenderme de verdad!==W== ¡Hice lo que pude!
+0142 [Chitose] | Perdóneme, mi ==SEX11==. Mi actuación fue igual de poco convincente.
+0143 [Tú] | No te preocupes. Los listos no se van a meter de todos modos. Solo se quedarán atrás esperando a ver quién sobrevive.
+0144 [Kasimira] | Jefe, llegamos a la salida. Pero hay malas noticias: las calles están infestadas de soldados del Comité.
+0145 [Arbiter in White] | Concéntrense en llegar al Orfanato Margarita. Ignoren todo lo demás.
+0146 [Committee Elite] | ¡Sí, señora!
+0147 [Arbiter in White] | Si lo aseguramos, el Tirano no tendrá más remedio que enfrentarnos.
+0148 [Allie] | ¡Dios mío, van por el orfanato! ¡Jefe, mantén a salvo a los niños! ¡Yo los detengo!
+0149 [Allie] | ¿Eh? Niñas, ¿qué están haciendo?
+0150 [Noya] | Mamá, toma.==W== Llévate las llaves de Loxy y saca de aquí a los demás.
+0151 [Amber] | Nosotras resistiremos.
+0152 [Allie] | ¡De ninguna manera! ¡No voy a dejar que arriesguen la vida!
+0153 [Iris] | Mamá, por favor. Los más pequeños te necesitan. Eres la única que puede evacuarlos lo bastante rápido.
+0154 [Kasimira] | Benito, reúne al resto de los Gatos Blancos y protejan a los niños. Chaton y yo nos quedamos aquí. Ustedes tres no pueden resistir solas.
+0155 [Benito & Chaton] | Entendido.
+0156 [Nazuka] | Nazuna, Fuyuka, saquen de aquí al Jefe. Yo me quedo. Mis muros de viento pueden ganarnos tiempo. ¿Estás de acuerdo, Jefe?
+0157 [Tú] | No hay tiempo para dudar. Ahora mismo sabemos muy poco. Esta vez Angie de verdad nos tomó por sorpresa.
+0158 [Tú] | Los demás podemos encargarnos del orfanato. Chitose, quédate con ellas. Es hora de que desenvaines tu espada.
+0159 [Chitose] | Como ordene.
+0160 [Tú] | ¡Solo necesitamos veinte minutos! ¡Después, replieguen hacia el bar Eureka!
+0161 [Lugar y hora] | 14:10, 18.º del mes de Nebula, Mirage, Calle principal
+0162 [Committee Elite] | ¡Muévanse! ¡El Orfanato Margarita está justo al final de la cuadra!
+0163 [Chitose] | Alto. ¡Mientras me quede aliento, no darán ni un paso más!
+0164 [Committee Elite] | Una de las lacayas del Tirano. Lady Angie solo pidió la cabeza del Tirano, pero si tienes tantas ganas de morir, ¡con gusto te complaceremos!
+0165 [Nazuka] | Les ofrezco el sueño que conceden los espíritus salvajes.
+0166 [Committee Elite] | ¡Gah! ¡El viento es demasiado fuerte! ¡Lancen un contrahechizo!
+0167 [Chitose] | No lo creo. ¡Toma esto!==W==
+0168 [Committee Mage] | Urgh... ¡Disipar!==W==
+0169 [Chitose] | Tch. De verdad logró lanzar el hechizo antes de caer.
+0170 [Nazuka] | ¡Cuidado, Chitose! Estos no son Trekkers comunes. ¡De verdad están entrenados para esto!
+0171 [Arbiter in White] | No dejen que los detengan. ¡Lleguen al orfanato!==W== ¡Inmovilícenlos y que el resto los rodee por los flancos!
+0172 [Kasimira] | Se están dividiendo. ¡Chaton, conmigo! ¡Vamos a interceptar a los que van por los flancos!
+0173 [Chaton] | ¡Jejeje! ¡Prepárense para probar el poder oscuro de la gran Chaton!
+0174 [Iris] | Son tantos... ¿De verdad podremos resistir?
+0175 [Noya] | ¡La mejor defensa es el ataque!
+0176 [Noya] | ¡Iris, Amber, nos lanzamos directo contra la multitud! ¡Si causamos suficiente caos, no tendrán tiempo de ir tras mamá y ==PLAYER_NAME==!
+0177 [Amber] | Yo me encargo de los duros.

@@ -1,0 +1,140 @@
+# Capítulo 7 · El precio de la estrella · 12 · Empezar con calma
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Frightened Trekker | Trekker asustado
+N:Jinglin & Jiyue | Jinglin y Jiyue
+N:Ruby & Sapphire | Ruby y Sapphire
+N:Timid Trekker | Trekker tímido
+N:avg1_110 | Firenze
+N:avg1_116 | Ridge
+N:avg1_117 | Jinglin
+N:avg1_138 | Nyx
+N:avg1_151 | Yunshu
+N:avg1_152 | Jiyue
+N:avg3_125 | Meikyo
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_220 | Mercurio
+
+## Texto
+0001 [Intro] | Acto doce
+0002 [Intro] | Empezar con calma
+0003 [Intro] | Mientras Chitose y tú avanzan, Firenze y Nyx mueven sus propias piezas para reunir fondos cerrando un contrato de 80 mil millones de Dorra. Mientras tanto, Mercurio entra discretamente a Finanzas del Mar Profundo para pedir un préstamo por su cuenta...
+0004 [Narración] | Dos días antes...
+0005 [Lugar y hora] | 11:35, 14.º del mes de Venatio, Distrito de Plata de Philae, entrada del hotel
+0006 [Nyx] | ¡Suelten las armas! ¡Manos detrás de la cabeza y al suelo!
+0007 [Frightened Trekker] | ¡Está bien, está bien!==W== ¡Por favor, no dispare!
+0008 [Nyx] | ¿Ni siquiera van a pelear?==W== Pensé que eran asesinos.
+0009 [Timid Trekker] | ¿Asesinos? ¿Qué?==W== ¡No, no, no, nosotros jamás haríamos algo así! ¡Tiene que creernos!
+0010 [Frightened Trekker] | ¡Somos inocentes! ¡Somos Trekkers comunes y corrientes, no violamos la ley!
+0011 [Nyx] | Claro. Porque los «Trekkers comunes y corrientes» suelen rondar los hoteles armados hasta los dientes, fulminando a todos con la mirada.
+0012 [Timid Trekker] | ¡Ese era el trabajo! La gente que nos contrató dijo que...==W== al VIP que se hospeda aquí le gusta un ambiente rudo...
+0013 [Timid Trekker] | Nos dijeron que trajéramos el equipo, que lo agitáramos y que gritáramos cuando nos dieran la señal.
+0014 [Frightened Trekker] | ¡Sí, exacto! Hasta ofrecieron un bono para el que se viera más malo.==W== ¡Obvio que dimos un buen espectáculo!
+0015 [Nyx] | ... Qué trabajo tan raro.==W== ¿Quién los contrató? Quiero nombres.
+0016 [Frightened Trekker] | ¡N-no sabemos! Pero los reconocimos. Antes eran jefes de pandillas aquí en Philae, antes de unirse a una empresa grande.
+0017 [Nyx] | ¿Y la paga?
+0018 [Timid Trekker] | 20 mil al día. ¡Eso apenas alcanza para el súper de una semana! ¿Quién comete un asesinato por unas monedas?
+0019 [Frightened Trekker] | ¡Exacto! Deberían interrogar a los tipos que sí asaltaron el hotel. ¡Oí que les pagaron 100 mil por cabeza!
+0020 [Narración] | Veinte minutos después.
+0021 [Nyx] | Perdón por la espera, Firenze.==W== Ya tengo el panorama completo. La mayoría de los capturados no tenía idea de que el Jefe estaba aquí. Los engañaron con un trabajo falso.
+0022 [Nyx] | A los que de verdad irrumpieron en el edificio les pagaron un poco más.==W== Pero su único objetivo era destrozar las escaleras y las puertas principales para atrapar a los huéspedes adentro.
+0023 [Firenze] | Una jugada astuta de Omnisky Aegis. Estos peones casi lo arruinan todo. Por suerte, Noya acaba de avisar: el Jefe llegó a la isla sano y salvo.
+0024 [Firenze] | Durante los próximos dos días, Philae es nuestro campo de batalla.==W== Cubrir un faltante de 20 mil millones de Dorra no será fácil.
+0025 [Firenze] | Ruby, Sapphire. ¿Cómo van?
+0026 [Ruby] | ¡Tranquila! Como estaba previsto, tenemos una montaña de Ruiseñores Leonados lista; alcanza de sobra para todos los que vinieron por el pan gratis.
+0027 [Sapphire] | Y como nos indicó, los repartimos junto con productos frescos y nuestros artículos de mejor textura. Todos se fueron contentos.
+0028 [Nyx] | Convertiste su trampa en una campaña publicitaria. Típico de Firenze, impecable como siempre.
+0029 [Firenze] | Je. Seguir las reglas al pie de la letra nunca protege lo que importa.==W== Nyx, lo demás te toca a ti.
+0030 [Nyx] | Entendido. El caos es pan de cada día en marketing. Ya estoy acostumbrada.
+0031 [Firenze] | Ruby, Sapphire.==W== Encuentren a esta empleada del invernadero. Tráiganla al Comedor Fenghuang de la calle Aswan en menos de una hora. Aquí está su expediente.
+0032 [Ruby & Sapphire] | ¡Sí, señora!
+0033 [Lugar y hora] | 12:45, 14.º del mes de Venatio, Distrito Invernadero de Philae, Comedor Fenghuang
+0034 [Jiyue] | Su té, Lady Firenze.
+0035 [Firenze] | Gracias...==W== ¿Oh? Qué interesante. Nunca había probado una mezcla así en Philae. ¿Estas hojas son de Cangwu?
+0036 [Jiyue] | ¡Vaya, sabe de té! El árbol del que sale crece en un acantilado justo a las afueras de Cangwu. Es rarísimo; de hecho, es el único de su tipo en toda la ciudad.
+0037 [Firenze] | ¿En serio? Entonces debe ser una taza de té muy valiosa.
+0038 [Jiyue] | Bueno, la variedad es única, claro, pero en Cangwu encuentra té así de bueno por todas partes.
+0039 [Yunshu] | Jiyue, no le sirvas a nuestra invitada las hojas de una semilla cualquiera que plantaste de niña para luego llamarla «variedad rara».
+0040 [Jiyue] | Jeje, ¡solo contaba un poco del folclor de Cangwu para entretener a Lady Firenze! Además, sí es el único árbol de su tipo en Cangwu.
+0041 [Yunshu] | Disculpe la espera, Lady Firenze. Estamos en plena hora de la comida.
+0042 [Firenze] | No se preocupe. Fui yo quien llegó sin avisar.
+0043 [Firenze] | Sin embargo, las vi a ambas representando al Comedor Fenghuang en el banquete de la otra noche. ¿Supongo que ustedes toman las decisiones aquí?
+0044 [Yunshu] | Depende del alcance de la decisión.==W== Para negociaciones comerciales como esta, lo dejamos en manos de nuestra gerente en el local.
+0045 [Firenze] | Me parece un buen enfoque. Solo podemos entender de verdad lo que necesitan los clientes si escuchamos al personal que los atiende.
+0046 [Jiyue] | Ah, ahí viene nuestra gerente.
+0047 [Jinglin] | ¡Yunshu, Jiyue, perdón por llegar tarde! ¿Qué tenemos para hoy?
+0048 [Yunshu] | Jinglin, te presento a Lady Firenze, directora ejecutiva de Cosecha Unida Philae. Vino a hablar de una alianza comercial.
+0049 [Yunshu] | Lady Firenze, ella es Jinglin. Administra nuestro Bistró Jing y hoy será quien tome la decisión.
+0050 [Firenze] | Soy Firenze.==W== Es un placer conocerla, gerente Jinglin. Disculpe que haya venido en plena hora de la comida; iré directo al grano.
+0051 [Firenze] | El Comedor Fenghuang tiene cinco locales en Philae. Me preguntaba cómo consiguen actualmente sus ingredientes.
+0052 [Firenze] | Si están abiertos a la idea, a nuestra empresa le gustaría convertirse en su proveedor principal.
+0053 [Jinglin] | ¿Cómo conseguimos los ingredientes...?==W== Nuestro personal va a los mercados locales todas las mañanas temprano a escoger todo a mano.
+0054 [Jinglin] | Eso significa que lo que conseguimos cada día define nuestro menú.==W== Lo admito, puede ser una lata.
+0055 [Jinglin] | Visto así, un proveedor confiable da tranquilidad...
+0056 [Jinglin] | Pero no podemos asociarnos con Cosecha Unida Philae.
+0057 [Jinglin] | Es usted una invitada muy distinguida, pero tengo que ser franca.==W== La calidad de los ingredientes de Cosecha Unida es inaceptable.
+0058 [Jinglin] | Mi madre todavía se queja de sus ingredientes de nuestros primeros días en Philae. Jitomates del mismo lote madurados de forma dispareja, carne y verduras sin sabor.
+0059 [Jinglin] | También recordamos su propuesta de ventas del año pasado. Sus representantes nos ofrecían comidas precocinadas y sugerían que dejáramos que las Plantas Inteligentes se encargaran de cocinar.
+0060 [Jinglin] | No pretendo criticar su modelo de negocio,==W== pero choca con nuestros valores fundamentales.
+0061 [Firenze] | Esa dedicación es la que mantiene constantes su sabor y sus precios.==W== Con razón tienen clientes tan leales.
+0062 [Firenze] | Yo misma como aquí seguido. Sería una pérdida para Philae que este lugar perdiera alguna vez su toque auténtico.
+0063 [Jinglin] | Ah, eh...==W== ¿Gracias?==W== Para evitar malentendidos: sé que la Cosecha Unida Philae de hoy no es la vieja Cosecha Unida.
+0064 [Jinglin] | El pan que sale de sus panaderías huele delicioso. Hasta nuestros propios clientes lo elogian.
+0065 [Jinglin] | Sigo dispuesta a comprarles cuando mejore la calidad de sus productos. Pero por hoy, mi respuesta es no.
+0066 [Jinglin] | Por sus antecedentes, me es imposible confiar en ustedes de inmediato. Así que...
+0067 [Jiyue] | ¿No está siendo Jinglin demasiado dura? Sabemos por el banquete que el Jefe y Firenze quieren darle la vuelta a esta empresa.
+0068 [Jiyue] | Además, asociarnos con ellos estabiliza el comercio de granos de Nova. Eso conviene a los intereses de Cangwu. Si Cosecha Unida Philae se hunde...
+0069 [Yunshu] | Baja la voz. Solo estamos observando bajo la fachada del Comedor Fenghuang. Además, quien está al frente es quien debe decidir. No nos corresponde intervenir.
+0070 [Yunshu] | Y si Firenze de verdad piensa reconstruir Cosecha Unida Philae, no se rendirá tan fácilmente.
+0071 [Firenze] | Tiene razón, gerente Jinglin. Pedirle su confianza sin ningún resultado concreto que mostrar sería increíblemente ingenuo.
+0072 [Firenze] | Dicho esto,==W== aunque no confíe en Cosecha Unida Philae, ¿qué tal si le ofrezco a ella?==W== Pienso dejar en sus manos nuestras futuras inspecciones de productos.
+0073 [Jinglin] | ¿Ella?
+0074 [Ridge] | ¡B-buaaah! ¡Perdón! ¡Lo admito, metí a escondidas mis verduras caseras al Bistró Jing para venderlas...==W== Pero, pero...!
+0075 [Ridge] | ¡Por favor, no me despidan! ¡Ni siquiera he regado los chícharos hoy!
+0076 [Jinglin] | ¿Eh? ¿Ridge?
+0077 [Ridge] | ¿Eh?==W== ¡Ah, Jinglin! ¡Hola!
+0078 [Firenze] | Las inspecciones agrícolas de Cosecha Unida Philae estarán a cargo de esta jardinera veterana del invernadero,==W== Ridge. Nuestra alianza con el Comedor Fenghuang será su primerísima tarea.
+0079 [Ridge] | Espera, ¿qué?==W== ¿Inspecciones?==W== ¿Yo?==W== Pero... ¡lo único que sé es cultivar!
+0080 [Firenze] | No te preocupes. Ruby y Sapphire te ayudarán con los detalles.
+0081 [Jinglin] | Si Ridge asume toda la responsabilidad...==W== Mmm. Sí prometí considerar seriamente una alianza, y no puedo faltar a mi palabra...
+0082 [Jiyue] | Jinglin, ¿de verdad es tan buena?
+0083 [Jinglin] | ¡Sí! Le importan las verduras, las frutas, básicamente todo lo que crece en la tierra, más que ella misma.
+0084 [Jinglin] | Los productos que nos entregaba eran los mejores que he comprado. Si ella hace las inspecciones, y con los cambios en Cosecha Unida Philae...==W== creo que podemos confiar en ellos.
+0085 [Firenze] | Me alegra muchísimo oír eso.==W== Redactemos los detalles de nuestra alianza de inmediato.
+0086 [Jinglin] | Ah, ¿por qué no lo platicamos mientras comemos? ¡Voy a preparar algo ahora mismo!
+0087 [Lugar y hora] | 14:50, 14.º del mes de Venatio, Distrito Invernadero de Philae, vestíbulo del Comedor Fenghuang
+0088 [Jinglin & Jiyue] | ¡Gracias por venir!
+0089 [Firenze] | El placer fue nuestro.==W== Fue una reunión productiva. Mañana entregaremos el primer lote.
+0090 [Ridge] | ¡H-haré lo mejor que pueda para ayudar!
+0091 [Ridge] | L-Lady Firenze, ¿está segura de encargarme algo tan importante como el control de calidad?==W== ¿Inspeccionar todas las frutas, verduras y carnes...?
+0092 [Firenze] | Lo harás bien. Te lo pedí precisamente porque confío en que puedes con ello.==W== Y como te dije, Ruby y Sapphire se encargarán del papeleo.
+0093 [Firenze] | Usa la misma energía que tenías cuando atrapabas al «ladrón» y te irá bien.
+0094 [Ridge] | Eso...==W== Eso fue...
+0095 [Firenze] | ¿Esto es...==W== jitomate?
+0096 [Firenze] | Se ven brillantes y jugosos. No esperaba una cosecha así en este invernadero.
+0097 [Firenze] | Creí que serían algo así como monstruos disfrazados de jitomates.
+0098 [Ridge] | ¡Te tengo! ¡Por fin!
+0099 [Ridge] | ¡Prepárate, culpable!
+0100 [Ridge] | ¡¡P-perdóneme muchísimo!!
+0101 [Ridge] | Uf, perdone mi confusión de hace rato...==W== Pero espere, Lady Firenze. ¿Eso significa que no está enojada porque cultivo y vendo verduras por mi cuenta...?
+0102 [Firenze] | Je. Nunca me molestó. Al contrario, debería darte las gracias.==W== Gracias a ti, el Comedor Fenghuang aceptó asociarse con nosotros.
+0103 [Ruby] | Esa gerente se ve joven, pero negocia sin piedad.
+0104 [Sapphire] | Este contrato asegura un pedido de granos de 8 mil millones de Dorra para sus sucursales de Philae y Puerto Jilguero. El anticipo de 4 mil millones llega a nuestras cuentas mañana.
+0105 [Ruby] | Los de Loong tienen un apetito sin fondo. Sé que manejan 10 sucursales entre ambas ciudades, pero ¿de verdad se acaban tanta comida en un solo año?
+0106 [Sapphire] | Va más allá del Comedor Fenghuang. Una buena parte se envía directo de Puerto Jilguero a Cangwu por rutas costeras y fluviales.
+0107 [Sapphire] | Los de Loong están obsesionados con sus reservas de granos. Seguramente esa reserva es su verdadero objetivo.
+0108 [Sapphire] | Aun así, Lady Firenze, el depósito vence mañana y todavía nos faltan 14 mil millones.==W== Si piensa presentarse ante otros inversionistas, puedo preparar los materiales ahora...
+0109 [Firenze] | Tranquila. Todos los grandes jugadores están siguiendo este contrato de cerca. Ellos mismos vendrán a buscarnos.
+0110 [Firenze] | Como convencimos a los de Loong, que son famosos por su cautela, el resto del mercado dará por hecho que somos una apuesta segura.
+0111 [Firenze] | Solo necesitamos...==W== un pequeño catalizador.==W== Ruby, asegúrate de que esa cifra de 8 mil millones se filtre al público.
+0112 [Ruby] | Enseguida. Conozco a unas cuantas brujas hambrientas de «noticias de última hora».
+0113 [Lugar y hora] | 22:50, 14.º del mes de Venatio, Distrito de Oro de Philae, sucursal de Finanzas del Mar Profundo
+0114 [Meikyo] | Lo siento. La sucursal está cerrada. Por favor, vuelva mañana...
+0115 [Mercurio] | ¿Oh? ¿Está segura?==W== Si me rechaza ahora, puede despedirse de un negocio enorme.
+0116 [Meikyo] | ¿Un negocio enorme?
+0117 [Mercurio] | Exacto. Dígale a su gerente que Omnisky Aegis==W== necesita un préstamo. ¡4==W==0==W== mil millones==W== de Dorra!

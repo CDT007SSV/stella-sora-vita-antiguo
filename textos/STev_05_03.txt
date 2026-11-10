@@ -1,0 +1,109 @@
+# Evento · Para ti, mi persona más querida · 3 · Un corazón sellado
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Equipment Shop Owner | Dueño de la tienda de equipo
+N:Howard | Howard
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_125 | Freesia
+N:avg1_127 | Teresa
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_937 | La multitud
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un corazón sellado
+0003 [Intro] | Llegan a la casa de Howard. Él acepta la carta, pero es evidente que se guarda algo. Justo cuando el trabajo parece terminado, Teresa, que vigilaba desde las sombras, informa que la carta ha desaparecido...
+0004 [Amber] | ¿Esta es la casa del señor Howard?
+0005 [Noya] | ¡Miren el tamaño de esta casa! Mi instinto dice que este es definitivamente el lugar.
+0006 [Iris] | Este edificio se ve antiquísimo... Lleva mucho tiempo en pie.==W== ¿Es así, Freesia?
+0007 [Freesia] | Correcto. La dirección se ha mantenido igual a lo largo de los años. Donna mencionó que una familia de artesanos ha residido aquí por generaciones.
+0008 [Freesia] | Mi investigación coincide perfectamente con el mapa de Teresa. Este es el lugar.
+0009 [Donna] | Mmm...
+0010 [Tú] | Donna... ¿Algo la preocupa?
+0011 [Donna] | ¡Ah, Teresa! ¿Recuerdas ese favorcito que te pedí hace rato? Es solo una corazonada, ¡pero más vale prevenir!
+0012 [Teresa] | Entendido, miau. ¡Cuando tienes una corazonada, casi siempre aciertas!
+0013 [Teresa] | ¡Entonces me voy!
+0014 [Tú] | ¿Eh? ¿Qué le encargaste exactamente a Teresa?
+0015 [Donna] | Jeje, es un secreto del oficio.==W== Hora de pasar al modo de negocios.==W== Uf... Respiro hondo...
+0016 [???] | ¿Quién anda ahí? ¿A qué se debe tanto escándalo frente a mi puerta...?
+0017 [???] | Eh, ¿qué pasa? ¿Por qué tanta gente?==W== Aquí no estoy dando ningún espectáculo. Se equivocaron de casa.
+0018 [Donna] | ¡Disculpe la intromisión! ¡Somos de Post Haste!
+0019 [Donna] | Venimos a entregar una carta...==W== ¿Se encuentra el señor Howard?
+0020 [???] | ... ¿Howard? Nunca lo he oído.==W== Se equivocaron de lugar. Por favor, váyanse.
+0021 [Freesia] | Con todo respeto... La dirección es correcta.==W== Yo misma revisé los archivos. Esta residencia está registrada a nombre del señor Howard.
+0022 [???] | ¡Mire, le digo que se equivocan! ¡Fuera!
+0023 [???] | ...? ¿Por qué no cierra?
+0024 [Donna] | Por favor. Solo escúchenos.
+0025 [Tú] | ¿Metió el pie en la puerta...? La tensión está subiendo.
+0026 [Donna] | No conozco la historia detrás de esta carta...==W== Pero sé que ha cruzado años y kilómetros para llegar hasta su puerta.
+0027 [Donna] | En las Tierras Salvajes las cosas se pierden, las roban... o simplemente las entregas se abandonan. Pasa. Pero gracias a los Trekkers errantes...
+0028 [Donna] | Aunque el viaje es mortal, hay almas valientes que lo arriesgan todo para que mensajes como este lleguen a su destino...
+0029 [???] | ...
+0030 [Donna] | En Post Haste llevamos ese mismo orgullo. Cumplimos con este deber pase lo que pase,==W== y esta carta representa esa promesa.
+0031 [Donna] | Es el mensaje sincero de alguien que nos lo confió. Eso lo hace valioso. Pero si el señor Howard no está, podemos volver mañana.==W== No nos rendimos tan fácil. ¡Perdone las molestias!
+0032 [???] | Ugh... Está bien. Está bien, ganaron.
+0033 [Howard] | Perdón. Soy yo. Justin Howard. Como soy el dueño y el único que vive aquí, supongo que soy a quien buscan.
+0034 [Donna] | En ese caso, señor Howard, tenemos una carta para usted. Firme aquí, por favor.
+0035 [Howard] | ...
+0036 [Howard] | Por fin llegó... después de tanto tiempo...==W== Suspiro. Da igual. Ya no importa.
+0037 [Donna] | ...
+0038 [Freesia] | Entrega confirmada.
+0039 [Iris] | Eso fue... algo distinto de lo que esperaba...
+0040 [Noya] | ¿Eh? ¿Cómo creías que iba a ser, Iris?
+0041 [Iris] | Si yo hubiera esperado tanto una respuesta...==W== seguro estaría más feliz de por fin tenerla en mis manos.
+0042 [Amber] | No se veía emocionado.
+0043 [Donna] | ¡Cada quien tiene su historia! Nunca se sabe cómo reaccionará un destinatario.==W== En fin, ¡trabajo terminado! ¡Volvamos a Post Haste!
+0044 [Tú] | ¿Dónde está Teresa? Todavía no vuelve.
+0045 [Donna] | Está atando unos cabos sueltos, ¡así que vayamos adelantando el almuerzo sin ella!
+0046 [Iris] | ¿Eh? Entonces... ¿cerramos el encargo así nada más?
+0047 [Noya] | Bueno... La carta llegó a su destino.==W== En ese sentido, sí, diría que técnicamente cumplimos con el pedido.
+0048 [Amber] | Técnicamente... Pero...
+0049 [Tú] | Parece que nadie está del todo convencido. Y la reacción del señor Howard definitivamente fue extraña.
+0050 [Howard] | Por fin llegó... después de tanto tiempo...==W== Suspiro. Da igual. Ya no importa.
+0051 [Tú] | El nombre del remitente era ilegible, y aun así Howard ni parpadeó. Debió de reconocerlo al instante.
+0052 [Tú] | Recibió la carta que esperaba, pero se veía tan conflictuado... ¿Por qué?
+0053 [Tú] | Ahora que lo pienso, ¿qué le pidió exactamente Donna a Teresa?==W== Está tardando.
+0054 [Donna] | ... ¡Oye! ¡Tierra llamando al Jefe!
+0055 [Tú] | ¡¿Eh?! No me asustes así...
+0056 [Donna] | ¿Por qué esa mirada perdida? ¿Estás bien?
+0057 [Donna] | ¡Te pregunté qué querías para almorzar y me ignoraste por completo!
+0058 [Tú] | P-Perdón... Estaba absorto en mis pensamientos. No te oí.
+0059 [Donna] | ¿Sigues dándole vueltas a esa carta?
+0060 [Tú] | Sí...
+0061 [Donna] | Tranquilo. Teresa ya está en el caso.
+0062 [Tú] | ¿Teresa...? Espera, ¿ese es el favor que le pediste...?
+0063 [Donna] | ¡Exacto! La puse a vigilar la casa del señor Howard desde lejos.
+0064 [Tú] | ¿Eh? ¿De verdad hace falta una vigilancia?
+0065 [Donna] | Post Haste es más que dejar sobres en la dirección correcta...==W== Tenemos el deber de asegurarnos de que los sentimientos del remitente de verdad lleguen a la persona.
+0066 [Donna] | Algo claramente le pasó a esa familia en el pasado...
+0067 [Equipment Shop Owner] | Los Howard eran herreros legendarios. Yo solía surtirme siempre de su equipo.
+0068 [Donna] | ¿Sabe dónde encontrarlos ahora?
+0069 [Equipment Shop Owner] | Se rumora que el heredero se fue a ser Trekker. ¿Creo que su hijo se hizo cargo del negocio?
+0070 [Equipment Shop Owner] | Puede que sigan en lo mismo, pero ya no bajo el nombre «Howard».
+0071 [Donna] | Si los Howard son tan famosos... su dirección no debería ser un secreto. Entregar una sola carta no debería ser tan difícil.
+0072 [Donna] | Y aun así, esa carta quedó a la deriva en el viento por tanto tiempo...==W== Tengo la sensación de que esto es más complicado de lo que parece.
+0073 [Donna] | Por eso le pedí a Teresa que vigilara desde las sombras... Solo para prevenir el peor de los casos.
+0074 [Amber] | ... ¿El peor de los casos? ¿Como cuál?
+0075 [Donna] | La carta...
+0076 [Donna] | Me preocupa que el señor Howard simplemente la tire a la basura.==W== Ya hemos visto que eso pasa, ¿verdad, Freesia?
+0077 [Freesia] | ...
+0078 [Iris] | Pero ¿por qué...? ¿No termina el deber de un mensajero en cuanto se entrega el paquete?
+0079 [Tú] | Iris tiene razón. Una vez que la acepta, lo que pase después... no es responsabilidad de Post Haste.
+0080 [Donna] | Eh... Sí. Técnicamente hablando... Claro.
+0081 [Donna] | Pero... ¿y si es el último mensaje de un pariente que perdió hace mucho?==W== Si la tira... y luego se da cuenta de su error cuando ya es tarde... ¿No sería... trágico?
+0082 [Tú] | ¿Donna...?
+0083 [Donna] | ¡Es solo hipotético! ¡Justo por eso tengo a Teresa de espía!
+0084 [Teresa] | ¡¡¡Deeeesaaaastreee...!!!
+0085 [Donna] | ¿Qué pasa? Respira hondo. Tómate tu tiempo.
+0086 [Teresa] | La carta...
+0087 [Tú] | ¿La carta...? ¿Qué pasa con ella?
+0088 [Teresa] | ¡¡¡Desapareció!!!
+0089 [The Crowd] | ¡¿Qué?!

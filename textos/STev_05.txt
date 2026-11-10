@@ -1,0 +1,15 @@
+# Evento · Para ti, mi persona más querida — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STev_05_01 | El encargo de Post Haste
+STev_05_02_a | Se rumorea que...
+STev_05_02_b | Sabio en letras
+STev_05_02_c | Siguiendo los mapas antiguos
+STev_05_03 | Un corazón sellado
+STev_05_04 | Encuentro con el ladrón de cartas
+STev_05_05 | ¿Fueron los monstruos?
+STev_05_06 | Operación Grano de Maíz
+STev_05_07 | Un saludo que trasciende el tiempo
+STev_05_08 | Para ti, mi persona más querida
+@BT01 | Convencer con razones
+@BT02 | Desafiar la tormenta

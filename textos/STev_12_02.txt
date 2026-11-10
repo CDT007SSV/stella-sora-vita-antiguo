@@ -1,0 +1,113 @@
+# Evento · ¡Adelante, mi señora! ¡Manual de entrenamiento Plus! · 2 · Con los pies en la tierra
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Dance Instructor | Instructor de baile
+N:General Store Owner | Dueña de la tienda general
+N:avg1_137 | Eleanor
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_138 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_145 | Residente del Distrito de Oro
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_196 | Empleada corporativa
+N:avg3_223 | Caterine
+N:avg3_224 | Vivian
+N:avg3_234 | Personal de la Asociación de Trekkers
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Con los pies en la tierra
+0003 [Intro] | Con la ayuda de sus amigas, Eleanor empieza a tomar clases de baile y unas prácticas en una tienda general para prepararse para su camino como Trekker.
+0004 [Dance Instructor] | Concéntrate. Observa mis pasos y deja que el ritmo te guíe.
+0005 [Dance Instructor] | Eso es. Tu juego de pies va mejorando.
+0006 [Dance Instructor] | Excelente. Tomemos un respiro rápido.
+0007 [Eleanor] | ... Uf... Uf...
+0008 [Eleanor] | Gracias ...==W== por la clase.
+0009 [Dance Instructor] | No hay de qué. Es mi trabajo.
+0010 [Dance Instructor] | Sabes, Eleanor, ni siquiera sueltas esa caja entre un baile y otro. ¿Hay algo importante adentro?
+0011 [Eleanor] | Eh, no necesariamente...
+0012 [Eleanor] | Solo quiero cargarla para acostumbrarme al peso.
+0013 [Dance Instructor] | ¿Incluso en clase de baile? Eres un caso curioso.
+0014 [Dance Instructor] | Cuando Vivian vino a pedir clases para una amiga, supuse que querías aprender porte de nobleza...
+0015 [Dance Instructor] | Pero hay más que eso. Tu postura diaria ya es impecable. Es evidente que has recibido formación en etiqueta.
+0016 [Eleanor] | E-Eso es porque...
+0017 [Dance Instructor] | Está bien. No voy a indagar.
+0018 [Dance Instructor] | Pero...==W== Eleanor, tienes un don natural. Si te dedicas al baile, te garantizo que llegarás a un escenario mucho más grande.
+0019 [Eleanor] | ... Lo siento, profesor. Ser bailarina no es mi sueño.
+0020 [Dance Instructor] | Me lo imaginaba.==W== No sé qué hay en la caja, pero supongo que está ligada a ese sueño tuyo, ¿verdad?
+0021 [Eleanor] | ... Sí, así es.
+0022 [Dance Instructor] | ¿Te importa si la levanto?
+0023 [Eleanor] | Adelante, pero ...==W== por favor, ten cuidado. Pesa más de lo que parece.
+0024 [Dance Instructor] | ... Sí que tiene su peso.
+0025 [Eleanor] | ¡Increíble...!==W== Lo dices así, pero la levantaste como si nada.
+0026 [Dance Instructor] | Je, los bailarines entrenamos levantamientos todo el tiempo. A veces los trajes ya pesan una tonelada, y encima tenemos que cargar a la pareja o la utilería.
+0027 [Dance Instructor] | Cargas ese peso mientras mantienes la postura perfecta y los pasos ligeros. Sin importar qué tan pesada sea la carga, jamás dejas que el público vea tu esfuerzo...
+0028 [Dance Instructor] | Puedo enseñarte la técnica, si te interesa.
+0029 [Eleanor] | ¡¿De verdad?! ¡Muchísimas gracias!
+0030 [Dance Instructor] | Guarda tus gracias. Mis estándares son altos.
+0031 [Dance Instructor] | Es un camino implacable para una principiante. No te lo voy a poner fácil solo porque seas amiga de Vivian.
+0032 [Eleanor] | ¡No hay problema! ¡Trabajaré el doble!
+0033 [Dance Instructor] | Bien. A ver qué puedes hacer.
+0034 [Eleanor] | ¡Mucho gusto!
+0035 [General Store Owner] | Ah, Eleanor. Qué bueno que llegaste.
+0036 [Eleanor] | ¿Qué hago hoy?
+0037 [General Store Owner] | Bueno, como todavía eres becaria, nos quedamos con lo básico. Llegó un nuevo lote de Artefactos al almacén. Clasifícalos por categoría y acomódalos en los estantes.
+0038 [Eleanor] | ¡Listo!
+0039 [General Store Owner] | ¿Ya? Qué rápida.
+0040 [General Store Owner] | Hace unos días ni siquiera distinguías las categorías básicas. Has estado haciendo tu tarea.
+0041 [Eleanor] | ¡Je, je! ¡Todo gracias a usted, mi gran maestra!
+0042 [Eleanor] | Además, verla trabajar me enseñó algo. Con suficiente experiencia, se puede averiguar cómo usar cualquier Artefacto, incluso uno que nunca has visto.
+0043 [Eleanor] | ¡Quiero dominar una habilidad así!
+0044 [General Store Owner] | Je...==W== Cuando Lady Caterine insistió en mandarte aquí, pensé que eras una niña rica y mimada que venía a jugar a disfrazarse. No esperaba que de verdad te ensuciaras las manos.
+0045 [General Store Owner] | Ya que eres tan decidida, ¿quieres encargarte de algo nuevo?
+0046 [Eleanor] | ¡Por supuesto! Además de tasar precios, quiero aprender a atender a los clientes. ¿Me enseñará?
+0047 [General Store Owner] | Ya veo. Quieres aprender también el trato en el piso de ventas...==W== Aunque tratar con la gente no es nada fácil.
+0048 [General Store Owner] | Tienes que leer al cliente, adivinar qué quiere y ofrecerle el artículo perfecto. Requiere habilidad. ¿Segura de que estás lista para ponerle empeño?
+0049 [Eleanor] | ¡Haré mi mejor esfuerzo! ¡Por favor, enséñeme todo!
+0050 [Eleanor] | Para terminar el plan de entrenamiento de Mentor, lo mejor es interactuar con tantas personas distintas como pueda...
+0051 [Eleanor] | Además, quiero ver qué piensa la gente de los Artefactos, qué es lo que los atrae de forma natural...==W== ¡Quiero absorberlo todo!
+0052 [General Store Owner] | Jaja, mira ese entusiasmo. A ver qué puedes hacer.
+0053 [Eleanor] | Uf...==W== Qué día tan largo.
+0054 [Eleanor] | Estoy agotada, pero me siento realizada...==W== Nunca había vivido nada igual.
+0055 [Eleanor] | Gracias a que Vivian y Caterine los convencieron, Madre y Padre por fin me dejaron salir de casa.
+0056 [Eleanor] | Los maestros que me presentaron son increíbles. Con la ayuda de todos, mis habilidades han mejorado en todos los aspectos.
+0057 [Eleanor] | Nunca habría llegado tan lejos sola. Tengo suerte de tener amigas que me ayuden.
+0058 [Eleanor] | Si Mentor estuviera aquí ahora, sé que ==SEX== estaría de acuerdo...
+0059 [Eleanor] | Pero...==W== Tengo que recomponerme. No es momento de descansar. Todavía tengo una tarea importante que terminar.
+0060 [Eleanor] | Nadie me vio... ¿Verdad?
+0061 [Eleanor] | Oh, qué alivio...
+0062 [Eleanor] | Perdónenme, Madre y Padre, pero tengo que hacer esto.
+0063 [Eleanor] | Esta vez no me estoy escapando de casa. Volveré pronto.
+0064 [Eleanor] | Todos siguen ocupados, incluso a esta hora...
+0065 [Eleanor] | Así que esta es la vida de un Trekker. Me pregunto si algún día seré como ellos...
+0066 [Eleanor] | Espera, no es hora de soñar despierta. Vine a reunir información.
+0067 [Eleanor] | Allá...==W== Ese es el tablón de encargos.
+0068 [Eleanor] | Ya no puedo morder más de lo que puedo masticar. Tengo que mantener los pies en la tierra y aprender cómo funciona el mundo de los Trekkers.
+0069 [Eleanor] | Tengo un plan. Cuando vea el progreso de mi entrenamiento, elegiré el encargo adecuado para ponerme a prueba...
+0070 [Eleanor] | Se lo demostraré a mí misma, a Mentor...==W== ¡Y a las amigas que más quiero!
+0071 [???] | ¿Demostrar qué, exactamente?
+0072 [Eleanor] | ¡¿Eh?!
+0073 [Willow] | Oh...==W== Perdona, no quería asustarte.
+0074 [Eleanor] | N-No pasa nada. No esperaba que nadie me hablara...
+0075 [Eleanor] | Soy Eleanor. ¿Trabaja aquí?
+0076 [Willow] | Sí, soy Willow, la gerente de este lugar.
+0077 [Willow] | No creo haberte visto antes. ¿Eres una Trekker nueva?
+0078 [Eleanor] | Sí...==W== Espere, no.
+0079 [Eleanor] | A decir verdad, todavía no soy una Trekker de verdad, solo una aprendiz que se prepara para dar sus primeros pasos en ese camino.
+0080 [Willow] | ¿Una aprendiz?==W== Je, qué manera tan encantadora de decirlo.
+0081 [Eleanor] | ¿Q-Qué? ¿Sonó raro?
+0082 [Willow] | Bueno...==W== Ser Trekker se trata de libertad. La mayoría se lanza sin pensarlo dos veces.
+0083 [Willow] | Si se topan con un muro, simplemente deciden que no es para ellos. Es raro ver a una novata tan reflexiva como tú.
+0084 [Eleanor] | ... Seré sincera. Una vez me fui de aventura por un capricho. Visto ahora, fue como jugar a imaginar.
+0085 [Eleanor] | Y, como era de esperar, me estafaron. Si un Trekker veterano no hubiera intervenido, no habría salido de esa...
+0086 [Eleanor] | Me di cuenta de que me había lanzado demasiado pronto. Así que decidí prepararme bien antes de emprender oficialmente mi viaje. También es lo que me aconsejó mi Mentor.
+0087 [Willow] | Decisión sabia.
+0088 [Willow] | Los Loong dicen que la buena comida vale la espera. Parece que encontraste una excelente guía.
+0089 [Eleanor] | ¡Así es!
+0090 [Willow] | Búscame cuando te decidas. Te elegiré el encargo perfecto.
+0091 [Willow] | Tengo ganas de ver de qué eres capaz, señorita Eleanor.

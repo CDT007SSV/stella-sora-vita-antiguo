@@ -1,0 +1,174 @@
+# Capítulo 2 · 9 · Una guerra de una hora
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Blade of the East | Espada del Este
+N:Blonde Bassist | Bajista rubia
+N:Cheapskate Mercenary | Mercenario tacaño
+N:Competent Association Trekker | Trekker competente de la Asociación
+N:Composed Assistant | Asistente serena
+N:Confused Gangster | Pandillero confundido
+N:Dashing Association Captain | Capitán apuesto de la Asociación
+N:Diligent Secretary | Secretaria diligente
+N:Gentle Maid | Criada amable
+N:Haughty Executive | Ejecutiva altiva
+N:Hurried Witch | Bruja apresurada
+N:Knight Captain | Capitán de los caballeros
+N:Knowledgeable Mercenary | Mercenario informado
+N:Proactive Employee | Empleada proactiva
+N:Scheming Manager | Gerente intrigante
+N:Shadow of the West | Sombra del Oeste
+N:Sluggish Xuan Shi | Xuan Shi perezoso
+N:Standard Bearer | Portaestandarte
+N:Timid Gangster | Pandillero tímido
+N:Voice from the North | Voz del Norte
+N:White-Haired Girl | Chica de pelo blanco
+N:Young Squire | Joven escudero
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_107 | Tilia
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_119 | Nanoha
+N:avg1_132 | Minova
+N:avg1_135 | Mistique
+N:avg1_141 | Chixia
+N:avg1_144 | Chitose
+N:avg1_147 | Caramel
+N:avg2_983 | Soldado Trekker
+N:avg2_985 | Darcia
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_1234 | Aeloria
+N:avg3_1235 | Aeloria
+N:avg3_1236 | Aeloria
+N:avg3_1239 | Guardia Imperial
+N:avg3_124 | Erinis
+N:avg3_1240 | Guardia Imperial
+N:avg3_1241 | Guardia Imperial
+N:avg3_125 | Meikyo
+N:avg3_129 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_150 | Albedo
+N:avg3_156 | Guardia Imperial bajito
+N:avg3_157 | Guardia Imperial
+N:avg3_159 | Horizon
+N:avg3_197 | Feagin
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+
+## Texto
+0001 [Intro] | Acto nueve
+0002 [Intro] | Una guerra de una hora
+0003 [Intro] | Eres el director general de Boss Accord Staffing Co. En el momento en que tu compañía se activa, la noticia recorre el mundo en un destello. De inmediato declaras una «guerra de compañías» contra Creta Trading.
+0004 [Lugar y hora] | 13:00, 2 del mes de Pluvia, Calle Flavio Vistas Escarlata
+0005 [Bajista rubia] | ¡Waaah!
+0006 [Bruja apresurada] | ¡Perdón! No quise asustarte.
+0007 [Bruja apresurada] | Me encantaría disculparme como se debe,==W== pero acaba de pasar algo enorme en Emor. Tengo que volar para allá ya.
+0008 [Bruja apresurada] | Así que estamos en paz, ¿verdad? ★
+0009 [Bruja apresurada] | ¡Te debo una! Seguro iré a tu próximo show, lo prometo.
+0010 [Trekker competente de la Asociación] | ¡Miren! ¡Hay una gran noticia sobre una compañía!
+0011 [Capitán apuesto de la Asociación] | ¿Noticias? Concéntrate en el trabajo, Willow. Las compañías ya no son lo que eran. Ningún titular nos conseguirá un patrocinador ahora.
+0012 [Xuan Shi perezoso] | ¿Qué te trae por aquí?
+0013 [Secretaria diligente] | Eso debería preguntarte yo. ¡Esta es mi oficina, no tu cuarto para dormir!==W== Aun así, tu llegada es perfecta. Información urgente sobre una compañía. Llévasela a tu maestro, máxima prioridad.
+0014 [Xuan Shi perezoso] | Ugh, estaba teniendo una siesta estupenda. Bien, voy en camino.
+0015 [Empleada proactiva] | Una vieja compañía acaba de salir del congelamiento. Nombre raro... ¿Boss Accord Staffing Co.?
+0016 [Gerente intrigante] | Jijiji, ¡qué encantador! Parece que tenemos una nueva «alcancía». Jejeje...♪
+0017 [Gerente intrigante] | Consíganme todo sobre esta compañía. Recién reactivada... Seguro necesitarán nuestro apoyo financiero.
+0018 [Empleada proactiva] | Sí, señora.
+0019 [Criada amable] | Entendido, señor Tanikaze.
+0020 [Criada amable] | Estamos listas para proveer personal doméstico a la compañía recién reactivada.
+0021 [Ejecutiva altiva] | ¿Una compañía recién reactivada declara la guerra a Creta Trading?==W== Interesante...
+0022 [Asistente serena] | Esta es la primera guerra de compañías en un siglo. ¿Enviamos observadores?
+0023 [Ejecutiva altiva] | No hay tiempo, ni podemos permitirnos tales distracciones. Nuestra propia investigación está en un momento crítico.
+0024 [Ejecutiva altiva] | Una vez que nuestro plan tenga éxito, Cosecha Unida será intocable.
+0025 [Sombra del Oeste] | Jajaja, ¡fantástico! Recién reactivada y ya iniciando una guerra... Parece que las leyendas no se equivocaban.
+0026 [Voz del Norte] | Por favor, Dios de la Gracia, no dejes que el mundo caiga en el caos. Por favor, mantén a salvo a la gente...
+0027 [Espada del Este] | ¿De qué sirven las oraciones? Usemos la cabeza. ¿No está aquí la Tétrada de Aspectos precisamente para manejar situaciones como esta?
+0028 [Espada del Este] | El Sur debería opinar... Tch. Ausente otra vez. Qué irresponsable. Absolutamente irresponsable.
+0029 [Albedo] | Mis disculpas. La señora Angie tenía asuntos urgentes que atender. Todos fueron notificados de antemano.
+0030 [Espada del Este] | Lo sé. No importa. Albedo. ¿Fue tu nueva pasante quien se encargó de la reactivación?
+0031 [Espada del Este] | No estarás... tramando algo otra vez, ¿verdad?
+0032 [Albedo] | Todo es conforme a la voluntad del Dios de la Gracia. Es lo único que me está permitido decir.
+0033 [Albedo] | Tranquilos todos. Me encargaré personalmente de Boss Accord.
+0034 [Portaestandarte] | Espera, ¿qué? ¿El objetivo de Creta Trading reactivó una compañía entera?
+0035 [Joven escudero] | Sí, señor. Y esa compañía ha declarado una guerra contra Creta Trading...
+0036 [Portaestandarte] | ¿Qué hacemos aquí parados? ¡Retiren nuestras unidades ahora!
+0037 [Portaestandarte] | La Guardia Imperial no se involucra en guerras de compañías.
+0038 [Lugar y hora] | 13:00, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Calle
+0039 [Feagin] | ¡Bien, salvajes! Están rodeadas. ¡Ríndanse!
+0040 [Feagin] | ¡Tuve que hipotecar la sede y mi Sello de la Gracia solo para acorralarlas, ratas!
+0041 [Feagin] | ¡Cada una de ustedes trabajará para mí gratis durante los próximos cincuenta años!
+0042 [Noya] | Uh-oh... Esto de verdad no está bien.
+0043 [Amber] | Están por todos los tejados.
+0044 [Noya] | Me pregunto si ==PLAYER_NAME== logró hacerlo por su lado.
+0045 [Vollara] | Aunque ==PLAYER_NAME== no pudiera, la jefa seguro puede.
+0046 [Neuvira] | Entonces, ¿ahora qué? Ya ganamos suficiente tiempo. ¿Nos rendimos por ahora?
+0047 [Chitose] | No.==W== Como espada de mi ==SEX11==, lucho hasta romperme o recibir órdenes.
+0048 [Capitán de los caballeros] | Todas las unidades, avancen.
+0049 [Joven escudero] | ¡E-espere, capitán! De hecho...
+0050 [Joven escudero] | (murmullando)
+0051 [Capitán de los caballeros] | Mmm...
+0052 [Capitán de los caballeros] | ¡Nos retiramos!
+0053 [Feagin] | ¡Oigan! ¡¿Adónde creen que van?! ¡Nuestro trato era atraparlas!
+0054 [Feagin] | ¡Esto es un grave incumplimiento de contrato! ¡Las demandaré por ello!
+0055 [Capitán de los caballeros] | Disculpas, jefa Feagin. Una compañía ha declarado la guerra a la suya.
+0056 [Capitán de los caballeros] | La Guardia Imperial renunció a las guerras de compañías hace un siglo. Le pedimos su comprensión.
+0057 [Capitán de los caballeros] | Lamentamos sinceramente romper nuestro trato. La Compañía de Soluciones de Seguridad Guardia Imperial compensará cualquier penalización en que incurra.
+0058 [Feagin] | ¡Maldición! ¿Quién viene ahora con esta basura?
+0059 [Opción] | Esos seríamos nosotras. Boss Accord Staffing Co.
+0060 [Feagin] | ¿Ja...? ¿Qué clase de broma enferma es esta? No hay manera de que ustedes, salvajes, posean un Sello de la Gracia...
+0061 [Pandillero confundido] | ¿Qué es una «guerra de compañías»?
+0062 [Pandillero tímido] | Ni idea, pero la Guardia se va. ¿Quizá deberíamos largarnos también?
+0063 [Mercenario tacaño] | ¡Ni hablar! ¡Esas Trekkers están agotadas! Con los caballeros fuera, esa recompensa es toda nuestra, ¿no?
+0064 [Mercenario informado] | No seas tonto. Una guerra de compañías es una lucha a muerte entre dos compañías. Solo termina cuando un bando se rinde y cumple todas las exigencias del otro.
+0065 [Mercenario informado] | Quien participa en una guerra de compañías pierde toda protección legal.
+0066 [Mercenario tacaño] | Espera... ¿quieres decir... que de verdad podrían matarnos?
+0067 [Mercenario informado] | Así es. Y para que conste, nadie recibe castigo por matar a alguien en una pelea así. Todo vale.
+0068 [Mercenario tacaño] | ¡Uy! ¡Entonces, ¿qué esperamos?! ¡Vámonos!
+0069 [Feagin] | ¡No se vayan! ¡Les pagaré el triple! ¡No, cinco veces la tarifa!
+0070 [Pandillero tímido] | ¿De qué sirve el dinero si estás muerto?
+0071 [Amber] | Se fueron todos.
+0072 [Tú] | Pensé que Creta Trading tendría al menos algunos empleados leales.
+0073 [Iris] | Esto pasa cuando solo contratas mercenarios.
+0074 [Chitose] | Quizá sea una espada, pero atacar a un enemigo indefenso está por debajo de mí.
+0075 [Feagin] | M-maldita seas. ¡¿Cómo se atreven a quedarse ahí parados regodeándose...?!
+0076 [Tú] | Ríndete, Feagin. Disuelve tu corrupta Creta Trading, explica lo que pasó en el orfanato y pide perdón a todos los que has engañado.
+0077 [Tú] | Esos son nuestros términos.
+0078 [Feagin] | ¿Pedir perdón? ¿Bromeas? ¡¿Quién aceptaría eso?!==W== Creta Trading, el orfanato... bien, lo que sea. Pero ¿una disculpa? Eso jamás va a pasar.
+0079 [Feagin] | ...Es culpa de ellos==W== por ser tan estúpidos!==W== Cuando a mí me estafaban, esos imbéciles solo se reían en mi cara. Nadie me pidió perdón jamás.
+0080 [Noya] | No sé qué has pasado, pero eso no es excusa para hacerle daño a otros.
+0081 [Feagin] | ¡Entonces, ¿qué quieren de mí?! ¡No es justo! ¡¿Por qué siempre soy yo a quien jodan?!
+0082 [Tú] | Algunos, habiendo sido agraviados antes, eligen proteger a otros de sufrir el mismo destino.
+0083 [Tú] | Solo buscas excusas para sentirte mejor por las terribles cosas que has hecho.
+0084 [Iris] | ¡Esa magia otra vez! ¡Cuidado!
+0085 [Chica de pelo blanco] | Vaya, vaya. No esperaba que nos topáramos otra vez tan pronto, mi estimado nuevo ejecutivo.
+0086 [Chica de pelo blanco] | ¿O debería llamarte Jefe ahora?
+0087 [Tú] | No sé por qué la ayudas,==W== pero ¿vas a seguir permitiendo esto?
+0088 [Chica de pelo blanco] | ¿Qué quieres que te diga? Tengo una deuda.
+0089 [Chica de pelo blanco] | Vayamos al Monolito, jefa Feagin.
+0090 [Chica de pelo blanco] | Te mostraré el valor de tu inversión en mí.
+0091 [Lugar y hora] | 14:00, 2 del mes de Pluvia, Emor. Monolito n.º 7, piso 45
+0092 [Feagin] | Maestra... ¿Esta es esa nueva tecnología que mencionó?
+0093 [Chica de pelo blanco] | Sí, échale un vistazo.
+0094 [Chica de pelo blanco] | He conectado cien cajas de deseos con magia. Podemos invocar un Artefacto de cualquier tamaño.
+0095 [Chica de pelo blanco] | En pocas palabras, cualquier pieza que exceda el límite de una sola caja se descompone en cien componentes. Solo los sacamos y los reensamblamos.
+0096 [Feagin] | ¡Esto es asombroso!
+0097 [Chica de pelo blanco] | Tenía una promesa que cumplir. Cuando llegué por primera vez a Emor, fuiste la única que creyó lo bastante en mi magia como para invertir en ella.
+0098 [Feagin] | ¡Jah! ¡Siempre confío en mi ojo para el talento!
+0099 [Feagin] | ¡Maestra, conjúreme un Artefacto! ¡Algo lo bastante poderoso para ganar esta guerra!
+0100 [Feagin] | ¡Ahora es la Vicedirectora... no, es la Codirectora de Creta Trading!
+0101 [Chica de pelo blanco] | Me temo... que eso no es posible.
+0102 [Chica de pelo blanco] | Verás, esta magia en particular altera las reglas fundamentales de los deseos.
+0103 [Chica de pelo blanco] | Hablando claro, estas cajas no requieren recuerdos humanos. Funcionan con... odio hirviente y burbujeante.
+0104 [Chica de pelo blanco] | Cuanto mayor es el odio canalizado, mayor es el Artefacto que puede manifestarse. Pero yo no tengo a nadie a quien odiar.
+0105 [Feagin] | Jejeje...==W== ¡Ajajaja! ¿Odio? Tengo de sobra.
+0106 [Feagin] | ¡El odio que siento por esas Trekkers, por todo Emor, prácticamente hierve!
+0107 [Feagin] | ¡Dios de la Gracia, escucha mi odio!
+0108 [Feagin] | ¡Concédeme un ==W==Artefacto para aplastar a esas salvajes!

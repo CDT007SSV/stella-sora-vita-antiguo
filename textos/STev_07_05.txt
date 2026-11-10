@@ -1,0 +1,162 @@
+# Evento · Enmarcando los sentimientos invisibles · 5 · Una amiga
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Stellaroid | Stellaroid
+N:Stellaroids | Stellaroids
+N:avg1_115 | Firefly
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1199 | Stellaroid
+N:avg1_120 | Canace
+N:avg2_975 | Glopo
+N:avg3_100 | Sylar
+N:avg3_205 | Igna
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Una amiga
+0003 [Intro] | Ya eres oficialmente el nuevo amigo de Firefly. Llaman a Canace con urgencia y te quedas solo cuidando de Firefly. Para animarla, regresas al Monolito a pedir más rollo como deseo.
+0004 [Tú] | Dicho así, no hay razón para que me niegue. Con mucho gusto seré su amigo.
+0005 [Canace] | Gracias, ==PLAYER_NAME==... Qué alivio. Creo que por fin podré dormir bien esta noche.
+0006 [Firefly] | ...
+0007 [Canace] | ... ¿Firefly? ¿Cuándo llegaste?
+0008 [Firefly] | Hace un momento.
+0009 [Canace] | ¿Te aburriste de jugar sola?
+0010 [Firefly] | Mhm. Quiero estar con ustedes también.
+0011 [Tú] | Seguramente nos escuchó. ¿Qué pensará al respecto?
+0012 [Tú] | Mejor se lo pregunto directamente.
+0013 [Tú] | Oye... Firefly.
+0014 [Tú] | ¿Recuerdas tu deseo del Festival Nevado del año pasado?
+0015 [Firefly] | ¿...?
+0016 [Firefly] | Yo... quería un amigo.
+0017 [Tú] | Así es.==W== Entonces... ¿qué te parecería que yo fuera tu amigo?
+0018 [Firefly] | ¿De verdad? Tirano, ¿quieres ser mi amigo?
+0019 [Tú] | Me encantaría, si me aceptas.
+0020 [Firefly] | Guau... ¡El Tirano y yo somos amigos!
+0021 [Canace] | ... Qué bueno.
+0022 [Firefly] | ...
+0023 [Canace] | ¿Qué pasa?
+0024 [Firefly] | Profesora, te ves cansada.
+0025 [Firefly] | Hace mucho... que no sonríes.
+0026 [Canace] | Ah… Je. Vaya profesora estoy hecha. Ahora hasta tú te preocupas por mí.
+0027 [Canace] | Les debo mucho a ti y a Igna. Con ustedes aquí, por fin puedo respirar.
+0028 [Tú] | Me alegra poder ayudar.
+0029 [Canace] | Justo ahora tenían que llamar...
+0030 [Canace] | ¿Bueno?
+0031 [Canace] | ... Igna. Qué sorpresa. Tú nunca me llamas primero.
+0032 [Canace] | ... ¿Qué pasa? Dame los detalles...==W== espera, ¡¿qué?!
+0033 [Canace] | Esos farsantes sedientos de poder... ¡No merecen llamarse investigadores!
+0034 [Canace] | Entendido. ¡Voy para allá!
+0035 [Canace] | Hablamos cuando llegue.
+0036 [Canace] | ...
+0037 [Canace] | Lo siento, ustedes dos. Surgió una emergencia. Tengo que ausentarme un tiempo.
+0038 [Firefly] | ¿Un tiempo? ¿Cuánto?
+0039 [Canace] | Unos días, probablemente...==W== Suspiro... Tendré que cancelar esas clases que les prometí a mis estudiantes.
+0040 [Tú] | ¿Qué pasó?
+0041 [Canace] | ... Tenemos un problema.
+0042 [Canace] | Firefly, danos un minuto. Tenemos que hablar de trabajo.
+0043 [Firefly] | Entendido.
+0044 [Canace] | ==PLAYER_NAME==, hablemos en un lugar privado.
+0045 [Tú] | ¿Era Igna? ¿Qué está pasando?
+0046 [Canace] | Suspiro... ¿Por dónde empiezo?
+0047 [Canace] | El laboratorio está intentando recuperar el control del proyecto. Quieren a Firefly de vuelta.
+0048 [Canace] | ... Este es nuestro peor escenario.
+0049 [Tú] | ¿Usan su «cuello de botella» como excusa?
+0050 [Canace] | Sí. Seguro exageraron en sus informes a los altos mandos y actuaron por su cuenta... Para ellos es solo un objeto. No les importa lo que siente.
+0051 [Tú] | ¿Cómo puedo ayudar?
+0052 [Canace] | Igna y yo nos encargaremos del laboratorio. Necesito que cuides a Firefly por mí.
+0053 [Canace] | Las reglas que le doy, como no entrar nunca sola al Monolito, son para mantenerla fuera de problemas...
+0054 [Canace] | Pero ahora está en tus manos. Tú decides. Confía en tu criterio y haz lo que creas mejor.
+0055 [Tú] | No hay problema. Prometo dar lo mejor de mí.
+0056 [Firefly] | ¿Profesora?
+0057 [Tú] | Ah... Creo que nos escuchó.
+0058 [Canace] | ... Está bien. Entiende más de lo que deja ver.
+0059 [Canace] | Tengo que irme. Firefly, hazle caso al Tirano, ¿sí?
+0060 [Firefly] | Entendido.
+0061 [Tú] | Hablo muy bonito sobre dar lo mejor de mí... ¿Qué se supone que haga ahora?
+0062 [Firefly] | Tirano, aquí estoy.
+0063 [Tú] | Eh... ¿Y ese atuendo?
+0064 [Firefly] | Pijama. De la profesora.
+0065 [Tú] | ¿Pijama de Sherlock? Te queda muy lindo.
+0066 [Firefly] | Porque Sherlock es lindo. También tengo fotos y muñecos. ¿Quieres verlos mientras comemos los bocadillos de la profesora?
+0067 [Firefly] | Ah, y...
+0068 [Tú] | Sin prisa. Tómate tu tiempo. Podemos pasar el rato hasta la hora de dormir.
+0069 [Tú] | Parece que a tu capturador de fotos se le acabó el rollo.==W== ¿Qué más haces para divertirte?
+0070 [Firefly] | Dibujar.
+0071 [Firefly] | La profesora me enseña a dibujar y a escribir.
+0072 [Firefly] | La profesora dice que hay que empezar por «conocerse a una misma».
+0073 [Firefly] | Ella me dibuja a mí, y yo la dibujo a ella.
+0074 [Tú] | O sea... retratos.
+0075 [Tú] | Se parece mucho a tomar fotos.
+0076 [Tú] | ¿Dibujos tuyos y de Canace? Me encantaría verlos.
+0077 [Tú] | ¿Esto es un conejito? ¿Por qué lleva un parche en el ojo?
+0078 [Firefly] | No es un conejito. Es el dibujo que la profesora hizo de mí.
+0079 [Tú] | ¿Y el parche?
+0080 [Firefly] | Me lastimé el ojo. La profesora dice que así se ve genial.
+0081 [Tú] | Ya veo. Lo dibujó así para que se sintiera mejor...
+0082 [Tú] | ¡Tengo que darle la razón! Es genial, pero también lindo. Muy buen dibujo.
+0083 [Tú] | ¿Cómo es tu dibujo de la profesora?
+0084 [Firefly] | Este.
+0085 [Tú] | Puf... Esta Canace se ve bastante feroz.
+0086 [Firefly] | Es la profesora enojada después de mi broma.
+0087 [Firefly] | Pero dibujar es difícil. Lo hago mal.
+0088 [Tú] | Creo que tienes talento natural. El arte consiste en capturar un sentimiento, y tú lo lograste.
+0089 [Firefly] | ¿De verdad?
+0090 [Tú] | ¿Crees que te mentiría?==W== Oye, ¿por qué no dibujamos algo juntos?
+0091 [Firefly] | ¡Bueno...!
+0092 [Tú] | Han pasado dos días desde que se fue Canace. Firefly y yo nos estamos llevando muy bien.
+0093 [Tú] | Tampoco ha habido grandes desastres. Sin presumir, ya somos básicamente mejores amigos.
+0094 [Tú] | ¿Será que conectamos de forma natural...==W== o soy en secreto un prodigio de las niñeras?
+0095 [Firefly] | ...
+0096 [Tú] | Aun así, el silencio total de Canace empieza a preocuparme.
+0097 [Tú] | Firefly debe de estar ansiosa con ella ausente tanto tiempo...
+0098 [Tú] | Ejem...==W== ¡Bien, Firefly! ¿A qué jugamos hoy?
+0099 [Firefly] | Tirano...
+0100 [Tú] | ¿Mm? ¿Quieres dibujar un poco más? O podemos jugar con los juguetes...
+0101 [Firefly] | Quiero ver a la profesora.
+0102 [Tú] | ... Lo siento. Yo tampoco sé dónde está Canace. No puedo comunicarme con su teléfono.
+0103 [Firefly] | ¿...?
+0104 [Tú] | Tampoco contesta mis mensajes.
+0105 [Tú] | Ojalá no haya pasado nada.
+0106 [Tú] | Oye, Firefly. ¿Quieres salir un rato? Podemos tomar algunas fotos.
+0107 [Firefly] | Pero no tengo rollo.
+0108 [Tú] | Iremos al Monolito a pedir más como deseo.
+0109 [Firefly] | ... Pero la profesora dijo que no puedo entrar sola.
+0110 [Tú] | Lo dijo porque si pasaba algo, nadie estaría ahí para ayudarte.
+0111 [Tú] | No soy muy bueno peleando, pero puedo cubrirte la espalda y sacarnos con bien si algo sale mal. Ya le explicaré todo después. ¿Qué dices?
+0112 [Firefly] | ¡Sí!
+0113 [Tú] | Muy bien, vamos.
+0114 [Stellaroids] | ¡RAWR!
+0115 [Firefly] | Je...
+0116 [Firefly] | ¿Me extrañaron? Vamos a jugar.
+0117 [Stellaroids] | ¡¿ROOAR?!
+0118 [Tú] | Nunca me voy a acostumbrar a lo fuerte que es...
+0119 [Tú] | Cobra vida dentro del Monolito.==W== Es como un parque de juegos para ella.
+0120 [Tú] | ¿Te diviertes jugando con los Stellaroids?
+0121 [Firefly] | Sí.
+0122 [Tú] | ¿Jugabas con Stellaroids antes de vivir con Canace?
+0123 [Firefly] | Sí. Antes, solo podía salir un día al mes.
+0124 [Firefly] | Podía volar y jugar con todo tipo de cosas...
+0125 [Firefly] | Los adultos lo llamaban... ¿«lluvia de cometas»? No sé qué significa.
+0126 [Tú] | ¿Querrá decir «entrenamiento de combate»?
+0127 [Firefly] | No me gustan los experimentos. Me duele la cabeza. Siempre me siento mal.
+0128 [Firefly] | Pero pelear contra Stellaroids no duele. Es divertido.
+0129 [Tú] | Ya veo...
+0130 [Tú] | Entre más escucho, más me revuelve el estómago.
+0131 [Tú] | Tratar a una niña inocente como rata de laboratorio...==W== Es imperdonable.
+0132 [Stellaroid] | ¡¡ROAAAAR!!
+0133 [Tú] | ¡¿Eh?!
+0134 [Stellaroid] | Graaagh...
+0135 [Firefly] | El Tirano es mi amigo. Nadie le hace daño a ==SEX4==.
+0136 [Tú] | ... Uf. Qué susto.
+0137 [Firefly] | Tirano, ¿estás bien?
+0138 [Tú] | Estoy bien. Me descuidé. Pensé que ya los habías eliminado a todos.
+0139 [Firefly] | Qué raro. Hoy se siente distinto. Hay...==W== demasiados juguetes.
+0140 [Narración] | ¡Aaaah!
+0141 [Narración] | ¡Ayuda! ¡Alguien, ayúdeme!
+0142 [Tú] | ¿Alguien pide ayuda? ¿Un Trekker?
+0143 [Tú] | ¡Firefly, vamos a ver!
+0144 [Firefly] | Entendido.
+0145 [Tú] | ¡¿Oye?! ¡Espera! ¡Espérameee!

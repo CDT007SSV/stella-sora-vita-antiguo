@@ -1,0 +1,128 @@
+# Historia de Wraith · 2 · The You I Know (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Amused Girl | Chica divertida
+N:Curious Girl | Chica curiosa
+N:Flippant Woman | Mujer insolente
+N:Restaurant Staff | Personal del restaurante
+N:Seemingly Composed Passerby | Transeúnte aparentemente serena
+N:Stall Owner | Dueño del puesto
+N:Weapon Shop Owner | Dueño de la tienda de armas
+N:avg1_143 | Wraith
+N:avg3_100 | Sylar
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_171 | Empleada
+N:avg3_196 | Empleada corporativa
+N:avg3_198 | Pandillera genial
+N:avg3_199 | Chica de la pandilla
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | La persona que conozco (Parte II)
+0003 [Intro] | Dijiste que ibas a cazar algo de comida, pero ¿qué es todo este OSO?
+0004 [Tú] | Me sentí muy mal por llegar tarde a ver a Wraith la última vez, sobre todo porque terminó causando semejante escena...
+0005 [Tú] | Hoy por fin logré llegar temprano...==W== ¡Pero un poco demasiado temprano, como resulta!
+0006 [Tú] | Bueno. Temprano sigue siendo mejor que tarde. Iré al punto de encuentro...==W== ¿Eh?
+0007 [Tú] | ¿No es esa Wraith? Así que llegó muy temprano.
+0008 [Tú] | Je. Parece que aún no me ha notado. Es mi oportunidad de acercarme por detrás y molestarla un poco...
+0009 [Tú] | ¿Adivina quién soy?
+0010 [Wraith] | ¿Eh... una emboscada...?==W== ¡Enfrenta tu final!
+0011 [Tú] | ¡Auch! ¡Mi brazo, se me va a romper el brazo!
+0012 [Curious Girl] | Miren allá, esos dos están coqueteando a la vista de todos.
+0013 [Amused Girl] | Así que las muestras de afecto en público están de moda hoy en día...==W== Qué atrevidos.
+0014 [Tú] | ¡La gente se va a hacer una idea equivocada!
+0015 [Tú] | ¡S-suéltame! ¡Wraith, soy yo! ¡Perdón!==W== ¡No debí intentar hacerte una broma!
+0016 [Wraith] | Te atreves a ponerme una mano encima... ¿Te envió Nocturn Eterna? Bien. Me ahorras el trabajo de hacer otro viaje hasta allá...==W== ¡Toma esto!
+0017 [Wraith] | ¡Ah, Jefe!!==W== Perdón, te lastimé, ¿verdad?
+0018 [Tú] | N-no, está bien...==W== Cof. Yo hice el primer movimiento.
+0019 [Tú] | Solo estaba parado detrás de ti y me sentiste al instante. Es como si tuvieras ojos en la nuca.
+0020 [Wraith] | Solo es un hábito profesional. Soy sensible a la presencia de las personas a mi alrededor.
+0021 [Tú] | Ahh, ya veo.==W== Por eso eres de élite en los Centinelas del Alba.
+0022 [Tú] | Entonces, hoy vamos de compras, ¿verdad? ¿Cómo puedo ayudar?
+0023 [Wraith] | Planeo entrar pronto al Monolito, así que quiero abastecerme de equipo y demás con anticipación...==W== Después de todo, lidiar con Stellaroids es un poco distinto a lidiar con Nocturn Eterna.
+0024 [Tú] | Entendido. Así que quieres oír ...==W== ¿la opinión de un Trekker?==W== Pero no soy la persona indicada. Soy quien tiene menos experiencia en combate de nuestro gremio. Noya y los demás serían mucho más útiles.
+0025 [Wraith] | No. No eres de mucho combate, pero eres excelente dirigiendo toda la operación.==W== Quiero tu consejo en ese ámbito.
+0026 [Tú] | Ugh. De verdad no endulzas nada...==W== Pero si confías tanto en mí, con gusto te ayudo.
+0027 [Wraith] | Aun así, si necesitamos conseguir equipo y suministros...==W== ¿De verdad podemos comprarlo todo en una tienda general como esta?
+0028 [Tú] | Claro que sí. Antes de entrar al Monolito, siempre...==W== ¿Eh?
+0029 [Seemingly Composed Passerby] | ¡¡Waaaaah!!
+0030 [Seemingly Composed Passerby] | ¡¿Por qué me agarras?! ¡Me duele!
+0031 [Tú] | ¿W-Wraith? ¿Qué haces?==W== ¡Suéltala!
+0032 [Wraith] | ¿No te diste cuenta? Intentaba robarte la cartera.
+0033 [Seemingly Composed Passerby] | Son puras mentiras. ¡Solo pasaba por aquí! ¿Tienes alguna prueba?
+0034 [Wraith] | ¿Pasabas por aquí?==W== Abre tu bolso, entonces. Si no robaste nada, déjanos echar un vistazo.
+0035 [Seemingly Composed Passerby] | Eh...==W== Bueno...
+0036 [Wraith] | Jefe, ábrelo y revisa qué hay dentro. Yo la sujeto.
+0037 [Tú] | Está bien... Perdón.==W== Solo voy a hacer una revisión rápida.
+0038 [Seemingly Composed Passerby] | ¡A-alto! ¡Esto es una invasión a la privacidad!
+0039 [Wraith] | Si no encontramos nada, te pediré disculpas desde el fondo de mi corazón.
+0040 [Seemingly Composed Passerby] | ¡¿Eh?! ¡¿Crees que una disculpa lo arregla todo?!
+0041 [Tú] | ¿Qué...? Todas estas carteras distintas. No pueden ser todas tuyas...==W== ¡Sí es una carterista!
+0042 [Wraith] | ¿Algo que quieras decir en tu defensa? Jefe, por favor llama a los guardias.
+0043 [Seemingly Composed Passerby] | Waaah...==W== Trabajé tanto por esto...
+0044 [Tú] | Estuvo cerca. Casi me atrapa. Menos mal que estabas aquí...==W== El almuerzo va por mi cuenta.
+0045 [Wraith] | Gracias, pero...==W== ¿Tienes suficiente dinero?
+0046 [Tú] | No te preocupes. Las comisiones últimamente han pagado bastante bien. ¡Pide lo que quieras!
+0047 [Wraith] | Gracias. No me voy a contener, entonces. La verdad...==W== no he comido nada desde esta mañana. Me muero de hambre.
+0048 [Tú] | ¿Está gastando otra vez esa energía de reserva? Saltarse comidas así es de verdad un mal hábito.
+0049 [Restaurant Staff] | ¡Bienvenidos! ¿Qué desean ordenar?
+0050 [Wraith] | Quiero el combo «Sacia tu hambre». Y esto, esto y esto. De postre...==W== Añade uno de estos.
+0051 [Tú] | Vaya, de verdad tienes hambre...
+0052 [Tú] | Huele increíble...==W== Ahora a mí también me dio hambre. No puedo esperar a saber a qué sabe todo.
+0053 [Wraith] | ...
+0054 [Tú] | ¿Mm? ¿Qué estás mirando? Te ves muy seria.
+0055 [Wraith] | Mira allá.
+0056 [Tú] | ¿La cocina? Solo veo a un cocinero ocupado salteando.
+0057 [Wraith] | Ese joven del wok...==W== Es sumamente fuerte.
+0058 [Tú] | ¿En serio?==W== No veo qué tiene de especial.
+0059 [Wraith] | Sé de lo que hablo. La forma en que maneja ese wok es impecable...==W== Los monstruos comunes no tendrían oportunidad contra él.
+0060 [Restaurant Staff] | ¡Perdonen la espera! Aquí tienen su combo y cuatro platillos a la carta...==W== ¡Uy!
+0061 [Wraith] | ¿Mm?
+0062 [Narración] | El mesero que carga la comida tropieza con una loseta del piso, y la charola y los platos salen volando, salpicando directo hacia mi cara.
+0063 [Wraith] | No puedo desperdiciar esta comida...==W== ¡Mira esto! ¡Hah, hup, hyah!
+0064 [Wraith] | Perfecto. Tú y la comida están a salvo. ¡Hora de que yo coma!
+0065 [Tú] | ¡¿Atrapó todo sin derramar ni una gota?! No sé si son sus reflejos o su pura devoción por la comida...
+0066 [Weapon Shop Owner] | ¡Gracias por venir! ¡Hasta la próxima!
+0067 [Wraith] | Gracias por tu consejo, Jefe. Nunca habría encontrado esta increíble munición de otra forma.
+0068 [Tú] | Mientras estés satisfecha. Qué pena no saber de armas. No puedo ofrecer un análisis más profesional.
+0069 [???] | ¡Oye! ¿Qué miras, mocoso?
+0070 [Tú] | ¿Qué está pasando? ¿Alguien está causando problemas?
+0071 [Wraith] | Podría estar relacionado con Nocturn Eterna. Vayamos a ver.
+0072 [Flippant Woman] | ¿No me oíste la primera vez? ¡Si quieres poner un puesto aquí, tienes que pagarme!
+0073 [Stall Owner] | ¡N-nunca había oído de una política así!
+0074 [Tú] | Cualquiera puede poner un puesto aquí gratis siempre que lo solicite por los canales adecuados.==W== Si intentas extorsionar a la gente, detente mientras puedas.
+0075 [Flippant Woman] | ¿¡Y tú quién eres!?==W== Métete en tus asuntos. ¿Quieres probar esto?
+0076 [Tú] | ¡Ay, no! ¡Está a punto de atacar!
+0077 [Wraith] | Aquí no se permite pelear. Si quieres dinero, hazlo por la vía legal.
+0078 [Flippant Woman] | Jah, ¿quién dice que esto no es legal?==W== ¡Dime qué ley estoy infringiendo!
+0079 [Wraith] | Con gusto. Ven conmigo. Haré que mis colegas de los Centinelas del Alba verifiquen exactamente qué estatuto has violado.
+0080 [Flippant Woman] | ¿T-tú eres de los Centinelas del Alba?==W== Tch... Maldita mi mala suerte.
+0081 [Wraith] | Ni se te ocurra huir.
+0082 [Flippant Woman] | ¡¿Eh?! ¡S-suéltame...==W== ¡Maldición!
+0083 [Tú] | Así es Wraith...==W== Los alborotadores ni siquiera pueden asestarle un golpe. A diferencia de ella, yo no sirvo en este tipo de situaciones...
+0084 [Wraith] | Hmph. Huir significa que tiene cargo de conciencia. Jefe, ¿podrías...
+0085 [Tú] | ¿Avisar a la Guardia Imperial, verdad? Claro, déjamelo a mí.
+0086 [Wraith] | Ha sido un día muy satisfactorio. Gracias, Jefe.
+0087 [Tú] | Yo soy quien debería agradecerte. Me ayudaste más de una vez hoy.
+0088 [Tú] | Además... tus reflejos son inhumanos.==W== ¿De verdad se puede llegar a tu nivel solo con entrenamiento...?
+0089 [Wraith] | Cómo decirlo... Si tuviera que explicarlo,==W== diría que todo está en observar sus ojos.
+0090 [Tú] | ¿Observar sus ojos?
+0091 [Wraith] | Sí. Al mirarles a los ojos, puedo más o menos saber qué piensan y qué harán a continuación.
+0092 [Wraith] | Igual con esa matona de hace rato. En cuanto empecé a mirarla fijamente, sus ojos empezaron a moverse de un lado a otro.
+0093 [Tú] | Quien intente mentirle a Wraith será descubierto así de fácil...
+0094 [Wraith] | Uf...==W== Apenas hemos caminado un poco, pero ya tengo calor.
+0095 [Tú] | Sí. Hemos estado sin parar desde el almuerzo sin descanso. Quizá deberíamos buscar un lugar para...
+0096 [Wraith] | Ugh, mi ropa está empapada de sudor. De verdad quiero quitármela y refrescarme un rato...
+0097 [Tú] | ¡Espera! ¡¿Qué crees que estás haciendo?!
+0098 [Wraith] | Refrescarme.
+0099 [Tú] | ¡Oye, oye! ¡No puedes desvestirte cada vez que tienes calor! ¿Y si alguien te ve?
+0100 [Wraith] | Es incómodo mantener atrapado todo el calor.==W== Y ahora no hay nadie cerca.
+0101 [Tú] | ¿¡Acaso yo no cuento o qué!?
+0102 [Wraith] | Pero tus ojos dicen «está bien».
+0103 [Tú] | No, tienes una idea equivocada. Eso no es...
+0104 [Tú] | ¡Alto! ¡No lo hagas aquí!

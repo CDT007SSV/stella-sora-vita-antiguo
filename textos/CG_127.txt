@@ -1,0 +1,6 @@
+# Historia de Teresa — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_127_01 | La mensajera astuta nunca se lastima (Parte I)
+CG_127_02 | La mensajera astuta nunca se lastima (Parte II)
+CG_127_03 | La mensajera astuta nunca se lastima (Parte III)

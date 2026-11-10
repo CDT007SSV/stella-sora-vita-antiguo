@@ -1,0 +1,6 @@
+# Historia de Mistique — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_135_01 | Un reportaje especial (Parte I)
+CG_135_02 | Un reportaje especial (Parte II)
+CG_135_03 | Un reportaje especial (Parte III)

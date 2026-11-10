@@ -1,0 +1,142 @@
+# Capítulo 6 · Milagro de un destello · 3B · Carreras callejeras a medianoche
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Lone Intelligent Plant | Planta Inteligente solitaria
+N:Nia | Nia
+N:Stern United Harvest Officer | Oficial severo de Cosecha Unida
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_134 | Fuyuka
+N:avg1_138 | Nyx
+N:avg1_142 | Cosette
+N:avg2_957 | Hierbajo Tirador
+N:avg3_100 | Sylar
+N:avg3_122 | Gerente de Cosecha Unida
+N:avg3_1220 | Guardabosques de Cosecha Unida
+N:avg3_1221 | Guardabosques de Cosecha Unida
+N:avg3_1260 | Hierbajo Peleador
+N:avg3_1268 | Hierba de largo alcance
+N:avg3_1269 | Hierba de largo alcance
+N:avg3_134 | Mina
+N:avg3_168 | Chica
+N:avg3_974 | Serena
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Carreras callejeras a medianoche
+0003 [Intro] | Al huir en Loxy, el grupo queda atrapado dentro de Philae. Nyx revela que la sede está investigando las acciones rebeldes de Darcia. Para ayudar a tus aliadas a escapar, planeas tomar la estación del teleférico de las afueras...
+0004 [???] | Vaya espectáculo el de esta noche. ¿Cómo vas aguantando?
+0005 [???] | A duras penas. Tres horas más y ganamos.
+0006 [???] | ¿Quieres que intervenga?
+0007 [???] | Ya no hay vuelta atrás. La suerte está echada.
+0008 [???] | Al amanecer, esto se acaba.
+0009 [???] | O eso espero... en fin.
+0010 [Lugar y hora] | 03:00, 5.º del mes de Messis, Distrito Invernadero de Philae, Plaza de la Abundancia
+0011 [Iris] | ¡El Lucky Oasis! ¡Súbanse, rápido!
+0012 [Noya] | ¡Muévanse! ¡Estas malditas plantas están tapando el camino!
+0013 [Amber] | ¡Esperen! Nyx todavía no lleg...
+0014 [Fuyuka] | ¡El invernadero! ¡Explotó!
+0015 [Narración] | El fuego ilumina la plaza. Una silueta atraviesa el humo y salta al vehículo.
+0016 [Nyx] | Uf... Estuvo cerca.
+0017 [Noya] | ¿Ya estamos todas? ¡Genial! ¡Písale, Loxy!
+0018 [Nyx] | ¡Noya, maneja! ¡Ve hacia las afueras! ¡Los perderemos en cuanto salgamos de la ciudad!
+0019 [Amber] | Nyx, ¿qué demonios pasó allá atrás?
+0020 [Iris] | ¿Por qué Darcia se volteó contra nosotras? Y el Jefe...==W== Ojalá ==SEX== esté a salvo.
+0021 [Fuyuka] | ¿De qué hablaron el Maestro y Darcia?==W== ¿Es... es porque destrozamos la compañía?
+0022 [Nyx] | No es su culpa. Es porque Darcia le juró lealtad al «legendario Tirano».
+0023 [Nyx] | En pocas palabras... Planea conquistar Nova en nombre del Tirano.
+0024 [Fuyuka] | ¿C-conquistar Nova? Eh...==W== No entiendo. ¿Es una metáfora?
+0025 [Nyx] | No es ninguna metáfora. Está investigando las Plantas Inteligentes para construirle un ejército al Tirano.
+0026 [Nyx] | El Departamento de Cumplimiento la ha estado vigilando, pero sobornó a suficientes senadores de Cosecha Unida para cubrir sus huellas.
+0027 [Nyx] | No me dejaban entrar al Invernadero n.º 100 ni al laboratorio subterráneo. Sin acceso, no había pruebas. Pero su investigación del Ruiseñor Dorado me dio la brecha que necesitaba.==W==
+0028 [Iris] | Una brecha...==W== Espera un momento. Darcia misma ordenó esa comisión. ¿Por qué expondría su propia operación?
+0029 [Nyx] | Supongo que... Desde el principio iba tras el Tirano.
+0030 [Nyx] | Si tengo razón... El Ruiseñor Dorado le importa un comino. Era solo un anzuelo para atraerlos.
+0031 [Nyx] | Además, ya tiene listas decenas de miles de plantas de 2.ª generación. Que sus métodos salgan a la luz ahora no va a cambiar nada.
+0032 [Noya] | ¡Agárrense!
+0033 [Iris] | ¡¿Qué...?! ¡¿Qué está pasando?!
+0034 [Noya] | ¡El camino está bloqueado! ¡Nos cerraron el paso!
+0035 [Stern United Harvest Officer] | Por orden de Lady Darcia: el Gremio de la Nueva Estrella, Petal Bloom y Nyx quedan arrestados por espionaje corporativo. ¡Si se resisten, abriremos fuego!
+0036 [Nyx] | ¡Noya, a la derecha! ¡Conozco una salida por atrás!
+0037 [Lugar y hora] | 03:30, 5.º del mes de Messis, Distrito de Oro de Philae, sala de recepción VIP
+0038 [Firenze] | ¿Lo oye, ==SEX12== Tirano? La ciudad está dando todo un espectáculo esta noche.
+0039 [Firenze] | Explosiones en el Distrito Invernadero, luego en el de Plata, luego en el de las Cenizas, y ahora otra vez en los invernaderos.==W== Intentaron escapar, solo para que las arrearan de vuelta al redil.
+0040 [Firenze] | Dígame, ==SEX12== Tirano. ¿No está preocupado?
+0041 [Tú] | Las Plantas Inteligentes no las van a detener.
+0042 [Firenze] | Cuánta fe les tiene.
+0043 [Tú] | Derrotaron al Stellaroid gigante del Canal de Emor y a los Tres Grandes en el bosque de Philae.
+0044 [Tú] | Las plantas tienen la ventaja numérica, claro.==W== Pero dudo que ellas, o los soldados de Darcia, puedan alcanzar al Lucky Oasis a toda velocidad.
+0045 [Firenze] | Su Artefacto es rápido, se lo concedo. Pero después de esa trifulca en el invernadero,==W== ¿les quedará suficiente Gracia en sus Piedras del Alma?
+0046 [Tú] | Gracia...
+0047 [Tú] | Rayos, se me olvidó por completo que la magia se gasta, como yo soy «inmune a la magia» y nunca he usado una Piedra del Alma.
+0048 [Firenze] | Según mis cálculos, la pelea de anoche agotó la mayor parte de sus reservas. Tendrán suerte si aguantan otras tres horas.
+0049 [Firenze] | Así que...==W== Su captura es solo cuestión de tiempo.
+0050 [Tú] | Firenze,==W== ¿te quedaste solo para regodearte?
+0051 [Firenze] | Admito que verlo retorcerse es delicioso,==W== pero no soy tan cruel.
+0052 [Firenze] | Lady Darcia pretende demostrarle lo que vale. Pero desgastar a sus amigas con oleadas de carne de cañón... Bueno, es una victoria bastante vacía.
+0053 [Firenze] | En fin, así están las cosas. Póngase cómodo. Es libre de hacer lo que quiera, siempre que no salga de esta habitación. Si se aburre... ¿Por qué no estudia el mapa? Podría ayudarle a apreciar nuestra encantadora Philae.
+0054 [Narración] | Con una sonrisa leve e indescifrable, Firenze arranca el mapa de la ciudad de la pared y lo extiende sobre el escritorio.
+0055 [Tú] | Si no pueden salir de la ciudad... ¿De qué sirve ver un mapa?
+0056 [Tú] | Espera. Quizá pueda encontrarles una salida.
+0057 [Tú] | Firenze, muéstrame dónde estamos.
+0058 [Firenze] | En ese edificio. Justo en el centro.
+0059 [Tú] | El Lucky Oasis salió de los invernaderos.==W== El este es la salida obvia, pero con todos esos ríos... Darcia podría bloquear los puentes fácilmente.
+0060 [Tú] | Firenze, ¿cómo es el terreno al oeste?
+0061 [Firenze] | Al suroeste hay campos de trigo: puro lodo después de la lluvia.==W== Al noroeste hay colinas empinadas con un camino sin salida que lleva a una estación de teleférico.
+0062 [Tú] | Maldición, no hay adónde ir... Un momento.==W== ¿Qué es eso en el lago del norte?
+0063 [Tú] | ¿El Monolito está en esa isla?
+0064 [Firenze] | Así es. Antes era un lugar popular entre los fotógrafos. Lástima que el Imperio de la Gracia lo declaró zona prohibida hace años.
+0065 [Tú] | ¡El Monolito! Eso es. Es la ruta perfecta.
+0066 [Tú] | ¿Cómo se llega allá? ¿En bote?
+0067 [Firenze] | No. Se toma el teleférico desde las colinas del noroeste.
+0068 [Lugar y hora] | 03:40, 5.º del mes de Messis, Distrito de Plata de Philae, calle de la Plaza Oeste
+0069 [Noya] | ¡Cuidado!
+0070 [Iris] | ¡Aaaaaah!
+0071 [Noya] | ¡Perdón! ¡Loxy chocó con una Planta Inteligente y derrapamos!
+0072 [Fuyuka] | Aquí adentro estamos bien, pero Amber sigue en el techo.
+0073 [Amber] | Estoy bien...==W== Enganché una cuerda elástica a la manija del quemacocos.
+0074 [Iris] | A las Piedras del Alma les queda poca Gracia. A este paso...==W== Nos vamos a quedar sin nada.
+0075 [Iris] | ¡Es el Jefe!
+0076 [Iris] | ¡Jefe! ¿Estás bien? ¡Estábamos muertas de preocupación! ¿Dónde estás? ¿Estás herido?
+0077 [1] | Iris, estoy bien. Pero escucha, ahora no hay tiempo para eso.
+0078 [1] | ¿Dónde están?
+0079 [Iris] | Distrito de Plata, calle de la Plaza Oeste... Cerca de la casa de Mina.
+0080 [1] | Bien. Lo más probable es que el este esté bloqueado por plantas y soldados. Vayan al noroeste. Nyx, ¿puedes guiarlas a la estación del teleférico?
+0081 [Nyx] | ¿El teleférico? ¿Planeas... llegar al Monolito de la isla?
+0082 [Noya] | El Monolito...==W== ¡Claro! Por dentro es un laberinto que cambia. ¡Una vez que entremos, esas plantas nunca nos van a encontrar!
+0083 [Noya] | ¡==PLAYER_NAME==, eres un genio!
+0084 [1] | Amber, derriba todo lo que bloquee el camino.
+0085 [Amber] | Recibido.
+0086 [1] | Fuyuka, si nos topamos con barricadas o plantas gigantes,==W== destrúyelas.
+0087 [Fuyuka] | ¡Sí, Maestro!
+0088 [1] | Iris, congela el camino detrás de ustedes. Que se frenen.
+0089 [Iris] | ¡Iniciando la secuencia del hechizo!
+0090 [1] | Nyx, tú conoces mejor estas calles. Vete de copiloto y guía a Noya.
+0091 [Nyx] | Órdenes precisas. No puedo discutir eso.
+0092 [1] | Noya,==W== necesitas velocidad máxima. Písale a fondo.
+0093 [Noya] | ¡Je, dalo por hecho, ==PLAYER_NAME==! ¡A todo lo que da! ¡Hora de dejarlos mordiendo el polvo!
+0094 [Lugar y hora] | 03:50, 5.º del mes de Messis, Distrito de Plata de Philae, casa de Mina
+0095 [Mina] | ¿Qué fue eso...?
+0096 [Nia] | Mm... Mina... ¿Qué es ese ruido?
+0097 [Mina] | Vuelve a dormir, cariño. Son solo truenos.
+0098 [Nia] | ¿No vienes a la cama?
+0099 [Mina] | Sí...==W== Tengo que terminar un poco de trabajo primero. Ahorita voy.
+0100 [Nia] | Bueno... No te desveles mucho...
+0101 [Mina] | Buenas noches.==W== Esa explosión... ==PLAYER_NAME==... ¿Qué está pasando allá afuera? Tampoco hay mensajes de Mistique.
+0102 [Mina] | Algo anda mal. Muy mal...
+0103 [Lugar y hora] | 04:00, 5.º del mes de Messis, Distrito de Plata de Philae, calle de la Plaza Oeste
+0104 [Lone Intelligent Plant] | ¿Uu?
+0105 [Lone Intelligent Plant] | Uuu...
+0106 [Cosette] | Baba verde. Iugh...==W== Qué asco.
+0107 [Cosette] | Oye. ¿Seguro que esto lleva al Jefe?
+0108 [Serena] | Tranquila. Soy Serena, la intermediaria que todo lo sabe. ¿Te acuerdas de esa bebida de edición limitada? Solo la conseguiste gracias a mi información.
+0109 [Cosette] | Hmph... Está bien. Confío en ti.
+0110 [Serena] | Rastrearlos toma tiempo. Tú te encargas de hacer de guardaespaldas, y yo te garantizo que encontraremos al Jefe.
+0111 [Cosette] | Trato hecho. Pero si me haces trampa,==W== te las verás con mis garras.==W== Yo despejaré el camino.
+0112 [Serena] | Je. Ay, Jefe...==W== Las cosas se están poniendo interesantes.
+0113 [Serena] | Me pregunto, cuando salga el sol y empiecen los verdaderos problemas, ¿qué decisión tomarás?

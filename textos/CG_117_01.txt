@@ -1,0 +1,130 @@
+# Historia de Jinglin · 1 · Candy Hidden within the Promise (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Grandpa Qin | Abuelo Qin
+N:Nearby Customer | Cliente cercano
+N:Passing Customer | Cliente de paso
+N:avg1_117 | Jinglin
+N:avg3_100 | Sylar
+N:avg3_109 | Abuelo Chai
+N:avg3_113 | Ya
+N:avg3_125 | Meikyo
+N:avg3_126 | Empleada de Finanzas del Mar Profundo
+N:avg3_129 | Guardia Imperial
+N:avg3_138 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_166 | Anciana del pueblo
+N:avg3_169 | Chica
+N:avg3_175 | Residente de Loong
+N:avg3_176 | Residente de Loong
+N:avg3_927 | Niña
+N:avg3_928 | Padre joven
+N:avg3_929 | Cliente impaciente
+N:avg3_930 | Cliente impaciente
+N:avg3_934 | Clientes curiosos
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Un dulce escondido en la promesa (Parte I)
+0003 [Intro] | «¡El lugar que tienes enfrente es el restaurante más popular de todo Philae!»==RT==—dice con orgullo la pequeña gerente, moviendo la cola.
+0004 [Narración] | En esta calle bulliciosa, la gente forma una fila ordenada y serpenteante frente a un pequeño restaurante.
+0005 [Tú] | Bistró Jing. Este debe ser. El local de Jinglin.
+0006 [Tú] | Me dijeron que era popular, pero esta fila es mucho más larga de lo que esperaba...
+0007 [Little Girl] | ¡Buaaa...!==W== ¡Me duelen las piernas! ¡Quiero irme a caaasa...!
+0008 [Young Father] | ¿Eh? Ya casi llegamos. ¡Aguanta un poquito más! ¿Sí?
+0009 [Young Father] | ¿No dijiste que querías probar los famosos Rollos de ciruela?
+0010 [Little Girl] | Buaaa... Pero estoy muuuy cansada. ¡Ya no los quiero! ¡Quiero irme a casa!
+0011 [Young Father] | ¡No seas tan difícil!==W== ¡No siempre puedes salirte con la tuya!
+0012 [Little Girl] | ¡Buaaaaa...!
+0013 [Impatient Customer] | ¿Cuánto más tenemos que esperar? ¿Mejor vamos a otro lugar?
+0014 [Impatient Customer] | Si no está a la altura de la fama, le voy a decir a todos: «¡comer en el Bistró Jing es tirar el dinero!».
+0015 [Tú] | Todos están de muy mal humor. Ni la comida más deliciosa sabría bien así...
+0016 [Jinglin] | ¡Perdón! ¡Perdón! ¡Gracias por esperar, todos!
+0017 [Tú] | ¿Eh? ¿Esa es Jinglin?
+0018 [Jinglin] | ¡El restaurante está lleno ahorita. Perdón por las molestias, a todos!
+0019 [Tú] | ¿Eso es...==W== un cubo de té gigante?
+0020 [Jinglin] | ¡Preparamos té y bocadillos gratis para todos los que están en la fila!
+0021 [Jinglin] | Además, ofrecemos postres gratis para cada mesa según su tiempo de espera.
+0022 [Jinglin] | ¡Sírvanse con confianza!==W== ¡Disfruten!
+0023 [Impatient Customer] | ¡Así sí! ¡Un bocadillo para aguantar hasta el banquete!
+0024 [Tú] | Qué ingenioso.==W== ¿Y el papá con su hija? Espero que ya estén mejor.
+0025 [Little Girl] | Buaaa... No quiero esto...
+0026 [Jinglin] | Ay no, ¿no hay nada que te guste?
+0027 [Little Girl] | No, no es eso... Me peleé con mi papá. No quiero comer lo que él escogió.
+0028 [Jinglin] | Está bien, está bien, entonces toma otra cosa.
+0029 [Jinglin] | Mira, tengo un pastelito y un caramelo de malta.
+0030 [Jinglin] | ¿Te interesa alguno?
+0031 [Little Girl] | Yo...==W== ¡quiero los dos!
+0032 [Jinglin] | ¡Claro! ¡Son tuyos!
+0033 [Jinglin] | Quizá empieza con el pastelito. El caramelo es muy dulce: guárdalo para el postre.
+0034 [Little Girl] | ¡Está bien～! Ñam, ñam... Mmm, ¡está delicioso!
+0035 [Jinglin] | Para cuando termines el pastelito, probablemente ya habrá una mesa libre. ¿Qué platillo quieres probar más?
+0036 [Little Girl] | Rollos de ciruela... ¡Son mis favoritos!
+0037 [Jinglin] | ¡Qué coincidencia! Tu papá justo tiene nuestro nuevo bocadillo, los Rollos de durazno, y son tan buenos como los de ciruela.
+0038 [Jinglin] | ¿Quieres probarlos?
+0039 [Little Girl] | Está bien...
+0040 [Jinglin] | Quizá puedas hacer las paces con tu papá, ¿sí?
+0041 [Jinglin] | En realidad, fue tu papá quien me dijo que te encantan los Rollos de ciruela y me pidió guardarte un Rollo de durazno.
+0042 [Little Girl] | ¿D-de verdad?
+0043 [Little Girl] | Papá... ¿Podemos dejar de pelear?
+0044 [Little Girl] | Yo... quiero probar este Rollo de durazno.
+0045 [Young Father] | Claro. Perdóname, cariño. No debí hablarte así de golpe.
+0046 [Jinglin] | Muy bien, disfruten. Hasta pronto～
+0047 [Tú] | Ya veo por qué este lugar es tan popular.==W== Maneja estas cosas tan bien... ¿mm?
+0048 [Narración] | Antes de llegar a la puerta, veo salir del restaurante a un grupo grande. Justo después, la fila empieza a avanzar rápido.
+0049 [Narración] | Tras controlar la fila, Jinglin mira alrededor a escondidas, como si temiera que alguien la viera. Luego saca rápido un caramelo y se lo mete a la boca.
+0050 [Jinglin] | Uf... Nada supera esto cuando estás cansada～～ Caramelo de malta dulce～
+0051 [Jinglin] | Mm... ¿Mmm...? Sabe todavía más dulce y mejor que antes～ ¿El abuelo Qin volvió a mejorar su receta?
+0052 [Jinglin] | Mmm～～ Ugh... ¡Hay que contenerse! No puedo comer muchos... O seguro me salen caries...
+0053 [Tú] | Jejeje. Comiendo dulces a escondidas y tan feliz... Dueña o no, sigue teniendo su lado infantil.
+0054 [Jinglin] | ¡Puf! Cof, cof...
+0055 [Jinglin] | ¡¿J-Jefe?! ¡¿C-cuándo llegó?!
+0056 [Tú] | Me salió un encargo por esta zona y pensé en comer algo.
+0057 [Jinglin] | Jeje, entonces llegó al lugar indicado～
+0058 [Jinglin] | ¡Nuestro Bistró Jing es el sitio más popular de todo Philae!
+0059 [Tú] | Vaya, este lugar está repleto.==W== Parece que eso de «el sitio más popular» tiene algo de cierto.
+0060 [Jinglin] | Jeje～ Tenga, este es nuestro menú.
+0061 [Jinglin] | Cada uno de nuestros platillos viene en versión tradicional y en versión con toque noviano.
+0062 [Jinglin] | Las versiones tradicionales son más adecuadas para el paladar de Loong. Para los clientes novianos primerizos como usted, Jefe, le recomiendo las versiones novianas.
+0063 [Tú] | ¿En qué se diferencian?
+0064 [Jinglin] | Las versiones tradicionales son más dulces que las novianas. Muchos platillos de Loong son de sabor muy intenso.
+0065 [Jinglin] | Antes solo hacíamos el estilo tradicional, pero al mudarnos a Philae, vimos que a la mayoría de la gente de aquí no le gustaban nuestros sabores dulces...
+0066 [Tú] | ¿Y así se les ocurrieron las versiones novianas?
+0067 [Jinglin] | ¡Sí! Con la ayuda de mamá, reuní opiniones de nuestros clientes y me alié con el abuelo Qin, nuestro chef principal, para ajustar los sabores de los platillos.
+0068 [Tú] | Así que fue un trabajo en equipo, ¿eh?
+0069 [Jinglin] | Se podría decir～ Pero para la gente de Loong que vive en Philae, también conservamos las versiones tradicionales.
+0070 [Tú] | Este lugar tiene el éxito que tiene hoy gracias al arduo trabajo de Jinglin, su familia y el personal.
+0071 [Passing Customer] | ¡Guau, guau, guau! ¿De verdad alguien está pidiendo la versión tradicional?
+0072 [Passing Customer] | ¡No puede ser... ==SEX1== ni siquiera parece Loong! No hay forma de que aguante ese sabor. ¡Pide otra cosa!
+0073 [Jinglin] | Jajaja... Es verdad.
+0074 [Tú] | Vaya, siento que me están subestimando.
+0075 [Tú] | ¡Jinglin! ¡Tráeme los platillos tradicionales! Costillas glaseadas con miel y Bolas de camarón Luofu.
+0076 [Jinglin] | ¡Jefe! ¿Está seguro...?
+0077 [Tú] | Por supuesto, mi palabra es mi compromiso. Además, ya estoy aquí, ¡sería una lástima no probarlo!
+0078 [Jinglin] | ¡Oh～! ¡Ese es el espíritu, Jefe! ¡Qué valiente!
+0079 [Jinglin] | ¡Abuelo Qin!
+0080 [Jinglin] | ¡Hoy tenemos un cliente nuevo que quiere probar nuestra auténtica cocina de Loong! ==SEX1== no es de Loong, ¡pero no se contenga! ¡Dale a ==SEX4== el trato completo!
+0081 [Grandpa Qin] | ¡¡¡Muy bien!!! ¡Siéntese y prepárese para quedar asombrado!
+0082 [Passing Customer] | ¡Oh! ¡Esto se va a poner interesante! ¡No puedo esperar a ver cómo acaba!
+0083 [Nearby Customer] | Hace tiempo que no veía un cliente con tanto gusto por la aventura...
+0084 [Tú] | ¿Eh? Tengo un mal presentimiento...
+0085 [Narración] | Quince minutos después...
+0086 [Jinglin] | ¡Gracias por esperar, Jefe! Aquí están los platillos que pidió.
+0087 [Jinglin] | ¡Costillas glaseadas con miel y Bolas de camarón Luofu, ambos al estilo tradicional!
+0088 [Jinglin] | Y, Jefe, cortesía de la casa...
+0089 [Jinglin] | Una==W== tetera de==W== Té Loong,==W== servido crudo.
+0090 [Narración] | El jarabe brillante y pegajoso baña la carne y las bolas de camarón, liberando un aroma dulce e intenso que sube con el vapor.
+0091 [Onlooking Customers] | ¡Ah, ya sirvieron la comida! ¡Que empiece el desafío!
+0092 [Tú] | ¿Por qué todos se amontonan a mi alrededor?
+0093 [Tú] | Esa familia de la mesa de al lado terminó de comer pero sigue ahí. ¿Esperan a verme fracasar?
+0094 [Tú] | Bueno, ya no hay forma de echarse para atrás...
+0095 [Onlooking Customers] | ¡Adelante! ¡Adelante!
+0096 [Jinglin] | ¡Todos están muy emocionados! ¡Vamos, Jefe!
+0097 [Jinglin] | Pero empiece con bocados pequeños, ¿sí?
+0098 [Tú] | Entonces... ¿simplemente le entro?
+0099 [Tú] | Uf... ¡Allá voy! ¡Todo de un solo bocado!
+0100 [Tú] | ¿¡!?
+0101 [Tú] | Mmm... Ugh...

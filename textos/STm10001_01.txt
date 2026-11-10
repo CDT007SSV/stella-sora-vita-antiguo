@@ -1,0 +1,142 @@
+# Especial 9.5 · 1 · Yesterday Once More
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_136 | Angie
+N:avg1_162 | Alina
+N:avg2_940 | Puppet Soldier
+N:avg3_100 | Sylar
+N:avg3_1311 | SaiLa F
+N:avg3_1327 | Puppet Soldier (Initial Coordinates)
+N:avg3_1328 | Puppet Soldier (Initial Coordinates)
+N:avg3_182 | Elis
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Primer acto
+0002 [Intro] | Ayer una vez más
+0003 [Intro] | Después de estar atrapado durante mucho tiempo en la Sala Blanca, te despiertas una vez más de la Caja de los Deseos y encuentras dos caras familiares pero desconocidas. Asumes el papel de un acólito, pero no puedes escapar de su escrutinio...
+0004 [Angie] | Despedida. Y ahora... ¡Únete a mí y conviértete en la base del nuevo mundo!
+0005 [Amber] | Jefe. ¿Estamos muriendo?
+0006 [Iris] | Sentado aquí contigo... Convirtiéndome en un faro para otros Trekkers... No es un mal camino a seguir, Jefe.
+0007 [Noya] | ¡Jefe, mantente despierto! ¡Mantén los ojos abiertos y mírame! ¡Hay tanto del mundo que aún no hemos visto!
+0008 [???] | Así que por favor, mi Tirano, no vuelvas a convertirte en una estrella.
+0009 [???] | El mismo viejo camino conduce a los mismos viejos extremos.
+0010 [Narración] | ♪~==W==♪~==W==♫~==W==♫~==W==♪~==W==♪~==W==♫~==W==♫~
+0011 [Tú] | ¿Eh? Esta voz... ¿Es de aquel entonces?
+0012 [Narración] | ¿Regresé? ¿Volver a cuando el New Star Guild me encontró por primera vez?
+0013 [Narración] | ==Off==¡Tengo otra oportunidad!
+0014 [Opción] | abre mis ojos
+0015 [???] | ¡Maestro!==W== ¡Finalmente estás despierto!
+0016 [???] | Parece que tu compañero está despierto.
+0017 [Tú] | Iris... Noya... Me alegro mucho de verte de nuevo.
+0018 [???] | ¿Iris? ¿Noya? Escucha, pecador. Ninguno de esos es el nombre que me diste antes. ¿Es esta persona realmente tu "Maestro"?
+0019 [Tú] | ¿Eh? ¿De qué están hablando? ¿Maestro?
+0020 [???] | Hmph. ¿Qué sabe un vigilante nocturno apartado? Este es un efecto secundario perfectamente normal de la práctica de la magia.
+0021 [???] | Maestro, ¡me ha vuelto a confundir con Iris! Soy yo, Elis. La hermana mayor de Iris. Tu leal y humilde esclavo.
+0022 [Opción] | ¿Elis...?
+0023 [Elis] | ¡Sí, Elis! Es el hermoso nombre que me diste.
+0024 [Elis] | Tu cabeza debe estar dando vueltas. Pero no te preocupes. Simplemente prueba que tu magia de resurrección fue un éxito.
+0025 [Elis] | No intentes hablar. Sólo descansa. Te recuperarás en breve.
+0026 [Tú] | ¿Qué está sucediendo? Se parece exactamente a Iris, pero dice ser su hermana mayor... ¿Elis?
+0027 [Tú] | Y el tono de Noya es completamente extraño. ¿Pecador?==W== Esperar. Este no es el Lucky Oasis... ¿Es esto un carro de prisión?
+0028 [???] | ¡Silencio! Eres un pecador engañoso.
+0029 [???] | Estás tratando desesperadamente de mantener ==SEX4== en silencio. ¿Tocó un nervio?
+0030 [???] | Déjame adivinar. Ni siquiera conoces a esta persona. Y ==SEX== Ciertamente no es tu "Maestro".
+0031 [Elis] | Uf, hablar con un tonto como tú es agotador. Bien. Lávate los oídos y escucha atentamente.
+0032 [Elis] | Mi Maestro es un sirviente de Goddess Trivia, el favorito de la semidiós Lucilla y el acólito más prometedor de Emor.
+0033 [Elis] | En Emor, cualquiera que busque convertirse en sacerdote completo debe ofrecer un hechizo original en el templo de la Diosa Trivia.
+0034 [Elis] | Pero crear magia es peligroso. Es increíblemente fácil que un hechizo sin refinar corrompa la mente del lanzador y confunda sus recuerdos.
+0035 [Elis] | Para mantener a los demás a salvo, mi misericordioso Maestro encerró a ==SEX8== en una torre en la naturaleza para intentar lo imposible:
+0036 [Elis] | La magia de la resurrección.
+0037 [???] | Resurrección... magia...==W== Mentiroso. Magia como esa no existe.
+0038 [Elis] | ¡Exactamente! ¡Por eso hubo que crearlo desde cero! Y gracias al puro genio de mi Maestro, ==SEX== ¡lo ha perfeccionado!
+0039 [Elis] | Lo viste tú mismo en los últimos días.
+0040 [Elis] | Mi Maestro no tenía latidos, ni aliento, ni calor corporal. Sin embargo, mira ==SEX4== ahora. ¡Completamente vivo!
+0041 [Elis] | ¿No prueba eso que la magia funcionó?
+0042 [???] | No lo compro. Obviamente usaste un hechizo para poner a ==SEX4== en un estado de animación suspendida.
+0043 [???] | Hacerse a un lado. Tengo algunas preguntas para su "Maestro".
+0044 [Elis] | ¡Cuida tu lugar, Vigilante Nocturno! No tienes autoridad para interrogar a un noble acólito.
+0045 [Tú] | Entonces el caballero que se parece a Noya está persiguiendo a Iris...
+0046 [Tú] | No. Está cazando a Elis, que se parece exactamente a Iris. Y de alguna manera fui arrastrado a eso, por eso compartimos jaula.
+0047 [Tú] | Eso deja dos posibilidades.
+0048 [Tú] | Uno: Elis miente entre dientes. Todo ese monólogo solo me estaba alimentando con mis líneas.
+0049 [Tú] | Quiere que le siga el juego como este noble acólito para que podamos mejorar nuestro rango y deshacernos de nuestro captor.
+0050 [Tú] | Dos: Elis está diciendo la verdad. Realmente tiene una hermana llamada Iris y conoce a un acólito que estudia magia de resurrección y se parece exactamente a mí.
+0051 [Tú] | ¡Como una coincidencia que incluso exista algo tan grande!
+0052 [Tú] | Ahora que lo pienso... ¿Dónde estamos exactamente? ¿Trivia de la Diosa? ¿La semidiós Lucila? Emor es el único nombre que reconozco.
+0053 [Tú] | ¿Eso significa que todavía estoy en Nova?==W== No. No ha habido esclavos en Nova desde hace mucho tiempo.
+0054 [1] | ¿Cruzar esa puerta en la Sala Blanca me llevó a un mundo paralelo?
+0055 [Tú] | Tal vez... ¿todavía estoy soñando? ¿O podría ser... todo esto es sólo una alucinación desde el momento en que me decapitaron?
+0056 [Tú] | ¿Qué opinas, Vita?
+0057 [Tú] | ... Bien. ¿Qué estoy haciendo? Vita se rompió al intentar salvarme.
+0058 [Tú] | Uf, basta de espirales. Dondequiera que esté, la prioridad uno es salir de esta jaula. Es hora de charlar con el Vigilante Nocturno.
+0059 [Opción] | Elis, pídele al Vigilante Nocturno que venga aquí.
+0060 [Elis] | ¿Maestro? No necesitas entretener los caprichos de un humilde Vigilante Nocturno.
+0061 [Elis] | ¡Nos metió en esta jaula sin la más mínima prueba! Ella es completamente bárbara.
+0062 [Elis] | Una vez que lleguemos a la ciudad, encontraré a su Patrón y me aseguraré de que sea severamente castigada.
+0063 [???] | Honorable ==SEXO12== Acólito.==W== Soy Alina Colossi, una Vigilante Nocturna de Filanis. Sirvo bajo el mando del Arconte Olimpia.
+0064 [Alina] | Por su propia seguridad, necesito hacerle algunas preguntas. Si resulta que he juzgado mal vuestras identidades, me disculparé y aceptaré el castigo de Lady Olympia.
+0065 [Tú] | Adelante. Me acabo de despertar y la cabeza todavía me da vueltas, pero responderé todo lo que pueda.
+0066 [Tú] | Obviamente, un malentendido nos llevó a esta jaula. Con suerte, ahora podremos aclarar las cosas.
+0067 [Alina] | Dime. ¿Está familiarizado con el incidente de la Santa Desaparecida de hace tres años?
+0068 [Narración] | Elis me lanza una mirada significativa. Parece que quiere que le diga que sí.
+0069 [Tú] | Este Night Watcher claramente respeta el título. Si queremos salir de aquí, necesito apoyarme fuertemente en esta personalidad de Acólito.
+0070 [Tú] | ... Parece que estoy siguiendo el juego de Elis por ahora.
+0071 [Tú] | Necesito mantener mis respuestas vagas. No le des nada para hacer agujeros.
+0072 [Tú] | Hace tres años... Eso me suena. ¿Pero qué tiene eso que ver con encerrarnos en una jaula?
+0073 [Alina] | Echa un vistazo a este retrato.
+0074 [Tú] | ... ¡Esto es!
+0075 [Alina] | Unas palabras en privado, por así decirlo.
+0076 [Narración] | Alina me lleva fuera del carro hasta un árbol a varios metros de distancia... lo suficientemente lejos como para evitar que Elis escuche a escondidas.
+0077 [Alina] | Tu esclava se parece mucho a la Santa desaparecida.==W== Si puedo preguntar, ¿cuándo y dónde se convirtió en tu esclava?
+0078 [Tú] | Entonces Elis podría ser la Santa desaparecida. Eso explica la persecución.
+0079 [Tú] | Pero ya estoy comprometido con este acto de Acólito. Elis y yo nos hundimos o nadamos juntos. Tendré que seguir el juego.
+0080 [Tú] | Elis y yo nos conocimos en Emor hace cuatro años. La línea de tiempo no coincide con la Santa desaparecida. Resulta que ella se parece al retrato.
+0081 [Alina] | Veo. Entiendo.==W== Parece que me equivoqué. Pido disculpas por confundir a tu esclava con la Santa.
+0082 [Alina] | Una vez que lleguemos a Filanis, le explicaré esto a mi patrón. Serás compensado y aceptaré mi castigo.
+0083 [Tú] | No hay necesidad de castigo. De todos modos, recientemente caí en un sueño mortal mientras investigaba magia.
+0084 [Tú] | Es un error fácil de cometer. Simplemente no nos trates más como sospechosos.
+0085 [Alina] | Eres tan humilde como misericordioso, ==SEX12== Acólito. Gracias por tu perdón. Liberaré a tu esclavo del carro inmediatamente.
+0086 [Alina] | Por cierto, crecí en Emor. Realmente extraño la Gran Arena. Los días de partido, la multitud era enorme y era casi imposible conseguir entradas. ¿Alguna vez viste un partido?
+0087 [Tú] | ¿Emor tiene una arena...? Eso es una novedad para mí.==W== Los partidos suenan como algo muy importante allí. Si digo que sí, ella me interrogará sobre los detalles.==W== Necesito una excusa creíble para ignorarla.
+0088 [Tú] | Ejem. Lamentablemente no.
+0089 [Tú] | Como Acólito, mis estudios me dejan poco tiempo libre. Y… las entradas son prácticamente imposibles de conseguir, tal y como dijiste.
+0090 [Elis] | Maestro. Has regresado.
+0091 [Tú] | Sí. Limpiamos el aire. Ella te está dejando salir.
+0092 [Alina] | ==SEX12== Acólito, hay algo que debes saber. Los rumores sobre la Santa desaparecida no son del todo exactos.
+0093 [Tú] | Oh?
+0094 [Alina] | El público cree que una Santa desapareció misteriosamente durante un ritual en la torre de Emor hace tres años. Supuestamente secuestrado por un poderoso mago.
+0095 [Alina] | Pero como Vigilante Nocturno de Filanis,==W== Me dijeron la verdad detrás de esto.
+0096 [Alina] | No hubo secuestro. La Santa Caída organizó todo. Abandonó a su dios jurado y huyó del ritual.
+0097 [Alina] | Para ocultar sus huellas, ha estado deambulando entre ciudades durante los últimos tres años, silenciando a cualquiera que se enterara. Quince personas han muerto por su culpa.
+0098 [Alina] | Su especialidad es hechizar a inocentes para que actúen como sus escudos. Sus víctimas, sin saberlo, la defienden y mienten para cubrir sus huellas.
+0099 [Tú] | ¿Elis es la santa caída? ¿Y estoy bajo su hechizo?==W== No. Soy inmune a la magia. No puedo dejarme hechizar.
+0100 [Alina] | Tu porte elegante y tu ropa fina me dicen que efectivamente eres un acólito, o al menos alguien de igual categoría.
+0101 [Alina] | Tus ojos son claros. No estás bajo ningún hechizo. Lo que plantea la pregunta: ¿por qué encubres a un pecador y mientes voluntariamente por ella?
+0102 [Tú] | ¿M-mentir?
+0103 [Alina] | Cuando hablas de Elis, nunca la llamaste tu esclava. No la ves como una propiedad. Un verdadero maestro nunca llevaría ==SEX8== de esa manera.
+0104 [Alina] | Me parece que no existe una relación amo-sirviente entre ustedes dos.
+0105 [Alina] | Por supuesto, eso por sí solo no fue suficiente para condenarte. Pero tu siguiente desliz demostró que definitivamente no eres de Emor.
+0106 [Alina] | El Grand Arena no vende entradas. No hay entradas. Los espectadores entran usando fichas de arcilla gratis.
+0107 [Tú] | ¿Qué? Pero dijiste...
+0108 [Alina] | Por cierto, crecí en Emor. Realmente extraño la Gran Arena. Los días de partido, la multitud era enorme y era casi imposible conseguir entradas. ¿Alguna vez viste un partido?
+0109 [Alina] | Perdona mi pequeño engaño.
+0110 [Alina] | La mujer que tienes delante es extremadamente peligrosa. Ella se llama a sí misma tu esclava por una razón.
+0111 [Elis] | M-Maestro... No la escuches, soy tu más leal...
+0112 [Alina] | ¡Pecador! Sin movimientos bruscos. Quita tu mano de la piedra en tu pecho.
+0113 [Elis] | Je. ¿Quién diría que un remanso como Filanis engendrara un Vigilante Nocturno tan astuto?
+0114 [Elis] | dios de la magia,==W== Cubre la tierra con las nieblas del inframundo.==W== Ciega a mis enemigos,==W== para que pueda caminar sin ser visto.
+0115 [Alina] | ¿Un hechizo de invisibilidad?
+0116 [Alina] | Deja que la chispa se convierta en llama.==W== ¡Revela lo invisible!
+0117 [Elis] | Je je. Sólo porque el canto diga invisible no significa que te haga invisible.
+0118 [Alina] | ¡¿Un hechizo de prisa?!
+0119 [Elis] | Gracias por la ayuda, "Acólito". Si no la hubieras llevado a diez pasos de distancia, nunca habría tenido tiempo de preparar mi círculo mágico.
+0120 [Elis] | Pues bien, hasta la próxima. Vigilante Nocturno, amable acólito.
+0121 [Alina] | ... ¿Acaba de animar los títeres abandonados en el bosque?
+0122 [Alina] | Acólito. Cierra la puerta del carrito y quédate adentro. Es el lugar más seguro para ti en este momento.
+0123 [Alina] | ¡Quitaré estos títeres!

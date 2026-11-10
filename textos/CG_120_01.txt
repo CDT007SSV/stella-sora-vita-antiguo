@@ -1,0 +1,95 @@
+# Historia de Canace · 1 · The Secret After-Class Paper (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:??? | ???
+N:Companion Student | Estudiante acompañante
+N:Devoted Student | Estudiante devota
+N:Inquiring Student | Estudiante curiosa
+N:Lonely Student | Estudiante solitaria
+N:Noble-Looking Student | Estudiante de aspecto noble
+N:Passing Student | Estudiante de paso
+N:Students Drawn by News | Estudiantes atraídos por la noticia
+N:avg1_120 | Canace
+N:avg3_100 | Sylar
+N:avg3_176 | Residente de Loong
+N:avg3_177 | Estudiante de la Academia Luz de Gracia
+N:avg3_178 | Estudiante de la Academia Luz de Gracia
+N:avg3_179 | Misha
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El artículo secreto extraescolar (Parte I)
+0003 [Intro] | ¡Nadie mencionó que un Trekker independiente también tiene que escribir artículos!
+0004 [Narración] | La Academia Luz de Gracia de Emor es la escuela más grande y prestigiosa de Nova.
+0005 [Narración] | Es un verdadero semillero de la élite y ha producido incontables figuras famosas en todas las industrias.
+0006 [Passing Student] | ¿Adivina qué? Entré a la clase de la profesora Canace.
+0007 [Companion Student] | ¿En serio? ¿Ese curso de Monolitología que todos se mueren por tomar, el del sorteo?==W== ¡Llévame contigo, me voy a sentar de oyente!
+0008 [Passing Student] | ¿No tienes otra clase a esa hora? Si faltas y te descubren, adiós a tu calificación de participación.
+0009 [Companion Student] | Sí, tienes razón... Suspiro, ¿dónde está la suerte?
+0010 [Tú] | Canace sí que es popular entre los estudiantes. Su encargo para mí...
+0011 [Canace] | Perdona que te moleste de repente, ==PLAYER_NAME==. Estoy trabajando en un nuevo artículo sobre el Monolito.
+0012 [Canace] | ¿Podrías venir mañana al campus para que platiquemos? Tu ayuda me vendría muy bien.
+0013 [Tú] | ¿De verdad puedo ser de ayuda? ¿Si ni siquiera recuerdo quién soy?
+0014 [???] | ¡¿Eh?! ¡¿De verdad esperas que me crea eso?!
+0015 [Tú] | ¿Qué fue eso...?
+0016 [Canace] | Te lo «creas» o no, un reprobado sigue siendo un reprobado, aunque te falte solo un punto para la nota aprobatoria.
+0017 [Noble-Looking Student] | ¡Sí, un miserable punto! ¿No puede dejarlo pasar? ¡Repetir el examen por un miserable punto es una pérdida de mi tiempo!
+0018 [Canace] | ¿Dejarlo pasar?==W== Si empezáramos a torcer las reglas por cosas así, el mundo entero ya se habría derrumbado.
+0019 [Canace] | Escucha bien. La ropa que usas, el vehículo Artefacto personalizado en el que te transportas, hasta la villa de lujo donde vives...==B== Todo eso se construyó con una precisión numérica estricta.
+0020 [Canace] | ¿De verdad crees que se trata solo de ajustar un número? Cambia todo, aquí y allá.
+0021 [Noble-Looking Student] | ¡Q-quién... a quién le importa nada de eso!
+0022 [Canace] | Suspiro... Si después de todo esto sigues sin entender, nunca vas a progresar.
+0023 [Noble-Looking Student] | ¡¿Qué...?! ¡¿Sabe quién es mi padre?! ¡¿Cómo se atreve a hablarme así?!
+0024 [Canace] | Galerius Licinius, gerente sénior de Finanzas del Mar Profundo en Philae.
+0025 [Canace] | Aunque nació en una rama menor de una familia antigua, amasó una inmensa riqueza y una reputación a la par.
+0026 [Canace] | Tu padre está allá en Philae y dispuso que estudiaras en casa. Si te viera comportándote así...
+0027 [Noble-Looking Student] | ¡¿Cómo sabe todo eso?! ¡Solo es una profesora, cómo se atreve a investigar...!
+0028 [Canace] | Lo sé todo de mis estudiantes, desde sus rutinas diarias hasta sus antecedentes familiares. Eso es lo que se obtiene de «solo una profesora».
+0029 [Canace] | Además, solo eres un niño que ni siquiera sabe quién es su propia profesora, y tratas de usar el apellido de tu familia para asustar a la gente.==W== Qué vergüenza para el apellido de tu familia.
+0030 [Noble-Looking Student] | ¡B-basta de sermones!
+0031 [Tú] | Ni siquiera necesita alzar la voz. Sus palabras tienen fuerza propia... Qué intimidante.
+0032 [Canace] | Hay gente que de verdad no tiene remedio. Parece que esta rama de la familia Licinius no se recuperará pronto...==W== ¿Mm?
+0033 [Tú] | ¡A Canace la rodeó una multitud de estudiantes!
+0034 [Tú] | ¿Será que ese chico de hace rato volvió a vengarse?==W== Mejor voy a ayudar...
+0035 [Devoted Student] | ¡P-profesora Canace! ¡Soy su mayor, mayor, mayor admiradora...!
+0036 [Devoted Student] | ¡No puedo creer que me topé con usted aquí! No entré a su curso. ¿Sería posible que ofreciera unos cuantos más?
+0037 [Lonely Student] | ¡Profesora Canace! ¿Podría... almorzar con usted?
+0038 [Inquiring Student] | ¡Profesora! Tengo una duda sobre los estudios del Monolito. ¿Tiene un minuto?
+0039 [Canace] | No hay prisa～ Responderé con paciencia las preguntas de todos. Por favor, formen una fila primero.
+0040 [Students Drawn by News] | ¡Profesora! ¡Somos de primer año y es la primera vez que la vemos! ¿Podemos pedirle un autógrafo? ¡Fírmenos los uniformes, por favor!
+0041 [Canace] | Mmm... Lo siento, el uniforme no se puede, pero algo como cuadernos estaría bien...
+0042 [Students Drawn by News] | ¡Sí, tenemos cuadernos! ¡Tenga, por favor!
+0043 [Tú] | Ah... Y yo que pensé que venían a vengarse. Qué tontería la mía.
+0044 [Tú] | Pero con tanta gente alrededor, no hay forma de acercarse... Supongo que tendré que esperar a que Canace termine.
+0045 [Canace] | Muy bien, todos, la siguiente clase está por empezar. Asegúrense de llegar a tiempo.
+0046 [Narración] | Dicho eso, todos los estudiantes empiezan a dispersarse.
+0047 [Canace] | Uf... Hasta los de primer año vinieron esta vez. Fue un poco demasiado.
+0048 [Tú] | Y por eso te llaman la profesora más popular de la Academia Luz de Gracia.
+0049 [Canace] | La verdad... burlarse así de los demás no es muy amable, ¿sabes?==W== Pero no importa. Ya que estás aquí, vayamos a mi oficina y a lo que vinimos.
+0050 [Canace] | Intentaré ser breve.
+0051 [Canace] | Te pedí que vinieras porque quería tu ayuda para escribir esto...
+0052 [Tú] | ¿«Investigación y modelo teórico del flujo de magia dentro del Monolito»?
+0053 [Canace] | Sí, estoy estudiando el flujo de la magia dentro del Monolito, con la esperanza de construir un modelo básico. Pero hay datos difíciles de obtener, así que por ahora solo tengo un borrador.
+0054 [Tú] | «Cuando un Trekker usa magia dentro del Monolito, ¿disminuye realmente la cantidad total de magia en el mundo?»... No lo entiendo bien.
+0055 [Tú] | Ya me conoces: soy inmune a todos los efectos de la magia. No sé nada de eso.
+0056 [Canace] | Y eso es exactamente lo que necesito de ti. He diseñado un círculo mágico para medir el flujo de magia dentro del Monolito, pero mi propia magia siempre interfiere en el proceso de medición.
+0057 [Canace] | Así que, si vienes conmigo al Monolito y activas el círculo con este pergamino mágico, evitará que la magia de otras personas, incluida la mía, interfiera en los resultados.
+0058 [Tú] | Mmm... Está bien, pero... no puedo contra los Stellaroids sin ayuda.
+0059 [Canace] | No te preocupes, eliminaré a todos los Stellaroids de ese piso de antemano.==W== Conmigo allí, nada te tocará.
+0060 [Tú] | ¡Guau!
+0061 [Canace] | Quizá sea solo una profesora, pero conozco varios hechizos de ataque poderosos. Llevo regularmente a decenas de estudiantes al Monolito para trabajo de campo.
+0062 [Tú] | Qué confiable. No me extraña que todos tus estudiantes te quieran.
+0063 [Canace] | Jejeje... No llegaría a tanto...
+0064 [Tú] | Aunque... creo que nunca te he oído mencionar que sabes hechizos de ataque.
+0065 [Canace] | Bueno... ¿Cómo decirlo? Algunas cosas es mejor dejarlas fuera de registro. Por eso no aparece en ningún documento oficial.
+0066 [Canace] | En fin, no es que no pueda pelear. Y tengo mucha experiencia enfrentando el Monolito.
+0067 [Canace] | Así que tranquilízate y quédate detrás de mí.
+0068 [Tú] | El pergamino mágico está listo y el círculo montado.
+0069 [Tú] | Entonces, Canace... cuento contigo.
+0070 [Canace] | Entendido. Voy a encargarme de los Stellaroids.
+0071 [Canace] | Allá voy...==W== ¡¿Ah?!
+0072 [Tú] | ¿Canace? ¿Canace?
+0073 [Canace] | Zzz...
+0074 [Tú] | ¡OYE, OYE, OYE! ¡No puedes dormirte aquí! ¡¿Y los Stellaroids de allá adelante?!

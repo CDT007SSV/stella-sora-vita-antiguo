@@ -1,0 +1,353 @@
+# Heartlink de Noya: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Noya] | ¡Holaaa holaaa!
+A01.0002 [Noya] | ¡Avísame si te llega, ==PLAYER_NAME==!
+A01.0003 [Opción] | Sip, mensaje recibido
+A01.0004 [Opción] | No, no lo he recibido
+A01.0005 [Tú] | Sip, mensaje recibido
+A01.0006 [Noya] | ¿Eh? ¿Es un error de mi lado?
+A01.0007 [Tú] | No, lo envié dos veces porque me emocioné mucho
+A01.0008 [Noya] | Je, yo hice lo mismo cuando usé un celular por primera vez
+A01.0009 [Noya] | Hasta rompí el botón de «enviar»
+A01.0010 [Noya] | ¿Eh? ¿No? ¿Le pasa algo a este celular?
+A01.0011 [Noya] | ¿Cuánto cuesta un celular nuevo?
+A01.0012 [Noya] | Quizá le pregunte a Iris luego
+A01.0013 [Noya] | ¡Un momento! ¡Sí recibiste mi mensaje!
+A01.0014 [Tú] | Creo que tengo un caramelo en el bolsillo. ¿Te interesa?
+A01.0015 [Noya] | ¡¡Claro!!
+A01.0016 [Noya] | Ah, casi olvido lo importante
+A01.0017 [Noya] | Si te sientes mal por cualquier motivo, avísanos, ¿sí?
+A01.0018 [Noya] | ¡Te cuidaremos muy bien ya que te sacamos del Monolito!
+
+## Conversación A02
+A02.0001 [Noya] | Aaay, el Ruiseñor Leonado de hoy... Fue como comer aserrín.
+A02.0002 [Opción] | ¿Quizá lleva demasiado tiempo afuera?
+A02.0003 [Tú] | Quizá lleva demasiado tiempo afuera y caducó.
+A02.0004 [Noya] | Creo que no... Cada vez que vamos de compras, Iris se asegura de probar la textura del pan
+A02.0005 [Noya] | Elige los relativamente suaves porque están más frescos
+A02.0006 [Noya] | Si el Ruiseñor Leonado se queda mucho tiempo afuera, su textura pasa de leñosa a pétrea
+A02.0007 [Tú] | Ah, otro consejo de vida de profesional
+A02.0008 [Noya] | Este pan está sorprendentemente lleno de aserrín, es como masticar madera
+A02.0009 [Noya] | Extraño muchísimo la vez que tuvimos una suerte increíble y logramos comprar una bolsa de Ruiseñor Leonado que de verdad estaba suave...
+A02.0010 [Noya] | Aunque lo pagamos con varios días de mala suerte después
+A02.0011 [Noya] | Si pudiera retroceder el tiempo, aun así... recogería esa bolsa de pan...
+A02.0012 [Tú] | ¡Basta!
+A02.0013 [Tú] | ¡Nuestra primera prioridad debe ser mejorar nuestro suministro de comida!
+A02.0014 [Noya] | Oye, ==PLAYER_NAME==, ¿nos vas a hacer llover Dorra?
+A02.0015 [Tú] | ¿Hay alguna manera de mejorar nuestra suerte?
+A02.0016 [Noya] | ¿Eh?
+A02.0017 [Tú] | Claro, ganar dinero es importante,
+A02.0018 [Tú] | pero cuando se trata del Ruiseñor Leonado, la suerte quizá sea aún más crucial
+A02.0019 [Tú] | ¡Tenemos que atacar el problema desde ambos lados!
+A02.0020 [Noya] | ¡Tienes toda la razón!
+A02.0021 [Noya] | ¡Preguntemos a Amber y a Iris a ver si tienen alguna idea!
+
+## Conversación A03
+A03.0001 [Noya] | No lo encuentro... ¡¡No encuentro mi rollo de película!!
+A03.0002 [Opción] | No te apresures, tómate tu tiempo y piensa dónde lo dejaste la última vez
+A03.0003 [Opción] | ¿Qué rollo de película? ¿Cuándo lo viste por última vez? ¿Podría estar simplemente extraviado?
+A03.0004 [Tú] | ¿Podría estar debajo de esa pila de cojines dentro de Loxy?
+A03.0005 [Tú] | Alguien dejó ahí un Disco Rúnico la última vez
+A03.0006 [Tú] | Casi me siento encima y lo rompo
+A03.0007 [Noya] | Revisé. No está ahí...
+A03.0008 [Noya] | Guau, son muchas preguntas de golpe
+A03.0009 [Noya] | Déjame pensar...
+A03.0010 [Noya] | Se llama El Escuadrón Oso. ¡La vi tantas veces!
+A03.0011 [Noya] | Después de verla la última vez, la puse...
+A03.0012 [Noya] | No me acuerdo para nada...
+A03.0013 [Noya] | ¡¡AHHH!!
+A03.0014 [Tú] | ?
+A03.0015 [Noya] | ¡Iris la encontró!
+A03.0016 [Tú] | ¿Dónde estaba?
+A03.0017 [Noya] | En el hueco entre los cojines del sofá... El estuche negro se mimetizaba con las sombras. ¡El escondite perfecto!
+A03.0018 [Noya] | Por suerte, Iris metió la mano por debajo para agarrar una Dorra. Estiró la mano hasta el fondo y la encontró
+A03.0019 [Noya] | Habría estado muy triste si hubiera perdido El Escuadrón Oso...
+A03.0020 [Tú] | Hay un espacio vacío bajo el sillón. Úsalo como su lugar designado de ahora en adelante~
+A03.0021 [Tú] | Así nunca volverás a perderla
+A03.0022 [Noya] | ¡Sí!
+
+## Conversación A04
+A04.0001 [Noya] | Anoche tuve una pesadilla terrible...
+A04.0002 [Opción] | Debió de ser muy mala para asustarte así, Noya
+A04.0003 [Noya] | Loxy contra Braude...
+A04.0004 [Tú] | ¿Eh?
+A04.0005 [Noya] | Soñé que Loxy se transformaba en un robot gigante
+A04.0006 [Noya] | ¡Y se metía en una gran pelea con Braude!
+A04.0007 [Tú] | ¿Braude? Creo recordar...
+A04.0008 [Noya] | Es el nombre del osito de peluche que llevo conmigo
+A04.0009 [Noya] | En mi sueño, se hacía enorme, aún más grande que un Monolito. Partió por la mitad el Monolito del centro de Emor de un solo zarpazo
+A04.0010 [Noya] | Pero Loxy no estaba lista para admitir la derrota. Arrastró a Braude y rompieron el Canal
+A04.0011 [Noya] | El anticongelante de Loxy y el relleno de algodón de Braude quedaron esparcidos por todas partes...
+A04.0012 [Noya] | ¡¡Ver eso me puso tan triste!!
+A04.0013 [Tú] | ¿Quién ganó al final?
+A04.0014 [Noya] | No lo sé. Para cuando llegaron al round 23, el Monolito de Emor explotó
+A04.0015 [Noya] | Braude sostuvo a Loxy en brazos, llorando, mientras ambos morían juntos en las llamas...
+A04.0016 [Tú] | Tengo la sensación de que pasaron muchas cosas durante esos 23 rounds...
+A04.0017 [Noya] | ¡Puedo contarte todo lo que recuerdo!
+A04.0018 [Noya] | Escribir es demasiado lento. Me paso a hablar~
+
+## Conversación A05
+A05.0001 [Noya] | ¡Encontramos algo increíble en nuestro paseo de compras hoy! ¡Adivina qué es!
+A05.0002 [Opción] | Anticongelante
+A05.0003 [Opción] | Galletas de mantequilla
+A05.0004 [Opción] | Galletas de gatito
+A05.0005 [Tú] | ¿El anticongelante que tanto querías?
+A05.0006 [Noya] | ¡Nop!
+A05.0007 [Tú] | ¿Galletas de mantequilla recién horneadas?
+A05.0008 [Noya] | ¡Nop!
+A05.0009 [Tú] | ¿Galletas con lindos diseños de gatitos?
+A05.0010 [Noya] | ¡Nop!
+A05.0011 [Tú] | ¿Entonces qué?
+A05.0012 [Noya] | Lo que conseguimos fue—
+A05.0013 [Noya] | ¡¡¡¡Un filete grande, fresco y jugoso!!!!
+A05.0014 [Tú] | Quieres decir...
+A05.0015 [Noya] | Esta noche cocinaré el filete~~
+A05.0016 [Tú] | ¡Yupi! ¡Por fin un descanso del Ruiseñor Leonado!!!
+A05.0017 [Tú] | Después de tantos años, Noya vuelve a cocinar para nosotros...
+A05.0018 [Noya] | Exageras. Solo ha pasado un mes.
+A05.0019 [Tú] | Cuando masticas madera, un día sí que se siente como un año...
+A05.0020 [Noya] | ¡Hoy deberías comer de más!
+A05.0021 [Tú] | No, sigamos con lo de siempre y decidamos al ganador con piedra, papel o tijera.
+A05.0022 [Noya] | ¡Entonces prepárate para mi décima victoria seguida!
+
+## Conversación A06
+A06.0001 [Noya] | Adiós, mi juventud~~
+A06.0002 [Opción] | ¿Qué te pasa?
+A06.0003 [Noya] | Esa historia que seguía en la «Colección de Historias de Trekkers», ¡acaba de terminar!
+A06.0004 [Tú] | Hasta tu puntuación lo delata...
+A06.0005 [Tú] | Ah, ¿te refieres a la historia paralela de la serie Estrellas Gemelas?
+A06.0006 [Noya] | Snif... Sí, esa...
+A06.0007 [Noya] | Pensé que el autor escribió la historia paralela porque quería compensar el final original...
+A06.0008 [Noya] | Qué ingenua fui
+A06.0009 [Noya] | Al final, Galavera siguió sin conseguir su estrella
+A06.0010 [Tú] | Pero mientras se aferre a su sueño, no es el final
+A06.0011 [Noya] | ¡Sí! ¡Tienes razón!
+A06.0012 [Noya] | Las aventuras de Galavera y Daria no han terminado
+A06.0013 [Noya] | Voy a buscar a Iris
+A06.0014 [Noya] | Voy a pedirle que le mande una carta a la revista por mí. ¡Quizá el autor escriba una historia paralela de la historia paralela!
+
+## Conversación A07
+A07.0001 [Noya] | Jefe
+A07.0002 [Noya] | Hoy Iris fue a presentar otro examen de certificación
+A07.0003 [Noya] | Y creo que Amber está cuidando a una gata que acaba de tener una camada
+A07.0004 [Noya] | En otras palabras, nos toca vigilar a Loxy
+A07.0005 [Opción] | ¿A qué te refieres?
+A07.0006 [Opción] | Ah sí, ya entiendo
+A07.0007 [Tú] | ¿Estás insinuando algo, Noya?
+A07.0008 [Noya] | Haz memoria de la última vez que quedamos a cargo de la casa rodante
+A07.0009 [Noya] | ¿Qué hicimos?
+A07.0010 [Tú] | Nos estafó alguien que fingió un accidente en el camino
+A07.0011 [Tú] | Pasamos la mayor parte del día haciendo reparaciones
+A07.0012 [Noya] | ¡No me refería a eso!
+A07.0013 [Tú] | Oh... Quieres decir que quieres...
+A07.0014 [Tú] | Quieres decir que quieres...
+A07.0015 [Tú] | ¿Llevar a Loxy a dar otro paseo a toda velocidad?
+A07.0016 [Noya] | ¡Jijiji!
+A07.0017 [Noya] | Prometo que esta vez manejaré despacio
+A07.0018 [Noya] | Mira, tengo la grabación de Iris conmigo
+A07.0019 [Tú] | Vienes preparada... ¿Tantas ganas tienes de manejar?
+A07.0020 [Noya] | ¡Sí!
+A07.0021 [Noya] | ¡¡¡¡Claro que sí!!!!
+A07.0022 [Tú] | Muy bien entonces
+A07.0023 [Tú] | A decir verdad, extraño la emoción de manejar como locos
+A07.0024 [Tú] | Es como el sueño más salvaje
+A07.0025 [Noya] | ¡Vaaamos~
+
+## Conversación A08
+A08.0001 [Noya] | ¿Durazno o naranja dulce?
+A08.0002 [Noya] | ¿Y limón?
+A08.0003 [Noya] | Uva suena rico también...
+A08.0004 [Noya] | ¿Cola? ¿Qué clase de sabor es ese?
+A08.0005 [Noya] | ¡Espera, espera, espera! ¿De dónde salió todo este Jugo Pep Pep?
+A08.0006 [Opción] | Es tu cumpleaños, Noya, puedes tomar el Pep Pep que quieras
+A08.0007 [Noya] | ¡¡Guau!!
+A08.0008 [Noya] | En ese caso... ¿Puedo llevarme todo el lote?
+A08.0009 [Tú] | Claro. ¡Lo que pidas, se te concederá!
+A08.0010 [Noya] | ¡Gracias, Jefe!
+A08.0011 [Noya] | ¿Te costó mucho reunir todo esto?
+A08.0012 [Tú] | No fue para tanto. Solo encontré un Monolito que producía muchos de estos
+A08.0013 [Tú] | Amber e Iris se encargaron de recolectar.
+A08.0014 [Tú] | ¡Yo me encargué del transporte!
+A08.0015 [Noya] | Entonces esperaré a que regresen antes de abrir alguno~
+A08.0016 [Tú] | ¿No quieres probar los sabores nuevos de inmediato?
+A08.0017 [Noya] | Esto viene de todos ustedes. ¡Quiero compartirlos con todos!
+
+## Conversación A09
+A09.0001 [Noya] | ¡La próxima vez quizá podamos aceptar encargos de mayor nivel!
+A09.0002 [Noya] | ¡Ahora soy SUPERFUERTE!
+A09.0003 [Opción] | ¡Ahora puedes leer unos cuantos tomos más de la Enciclopedia manuscrita del Trekker!
+A09.0004 [Opción] | ¡Aquí tienes un trofeo, el Trekker más trabajador del mundo!
+A09.0005 [Opción] | ¡Por favor acepta estas bebidas energéticas!
+A09.0006 [Noya] | Me cuesta procesar el texto. ¿Quizá deberías tomarte un descanso?
+A09.0007 [Noya] | Gracias, gracias~
+A09.0008 [Noya] | ¿¡Tantas de golpe!?
+A09.0009 [Tú] | ¡Sube de nivel y hazte más fuerte!
+A09.0010 [Tú] | ¡Igual que el Cryo nivel 999 de Tamago Pet!
+A09.0011 [Noya] | Cryo nivel 999... No suena tan poderoso.
+
+## Conversación A10
+A10.0001 [Noya] | Guau, sin darnos cuenta ya hemos juntado tantos Discos Rúnicos
+A10.0002 [Noya] | Sobre todo estos. Tienen a los tres en la portada
+A10.0003 [Opción] | Deben de ser buenos recuerdos
+A10.0004 [Noya] | Buenos o malos, mientras pueda recordar algo que hicimos juntas
+A10.0005 [Noya] | ¡lo considero suficiente suerte!
+A10.0006 [Tú] | También creo que es muy afortunado que
+A10.0007 [Tú] | pueda ser Trekker con todas ustedes
+A10.0008 [Noya] | Jeje, ¿tú también lo sientes así?
+A10.0009 [Opción] | Por supuesto
+A10.0010 [Opción] | Era broma
+A10.0011 [Noya] | Guau, no esperaba palabras tan emotivas...
+A10.0012 [Noya] | ¡Voy a reenviarle esto a Amber y a Iris!
+A10.0013 [Tú] | Solo bromeaba contigo
+A10.0014 [Tú] | Bueno, bueno
+A10.0015 [Tú] | Así lo siento yo también
+A10.0016 [Noya] | ¡Jeje, voy a mandarle esto a Amber y a Iris!
+A10.0017 [Noya] | ¡¡TENGO BUENAS NOTICIAS!!
+A10.0018 [Noya] | Iris dice que hace tiempo que no comemos bien
+A10.0019 [Noya] | Así que esta noche cocinaré a mi antojo
+A10.0020 [Noya] | Hasta me dio mucho dinero para comprar comida
+A10.0021 [Noya] | ¡Jeje, seguro prepararé un banquete!
+
+## Conversación B01
+B01.0001 [Noya] | ¡Waaah...!
+B01.0002 [Noya] | ¡Jefe! ¡Jefe!
+B01.0003 [Tú] | ¿Qué pasa?
+B01.0004 [Noya] | ¡Es Iris!
+B01.0005 [Noya] | ¡No puedo comer nada que no sea Ruiseñor Leonado durante todo un mes!
+B01.0006 [Tú] | ¿Qué está pasando?
+B01.0007 [Tú] | ¿Vamos a la quiebra?
+B01.0008 [Tú] | No puede ser. Ayer todo estaba bien...?
+B01.0009 [Noya] | No es eso
+B01.0010 [Noya] | Iris canceló mi presupuesto de pudín de este mes
+B01.0011 [Tú] | Ah
+B01.0012 [Tú] | Eso es porque el mes pasado compraste dos porciones de pudín para ti
+B01.0013 [Tú] | Y encima te comiste la de Iris...
+B01.0014 [Tú] | Pero ¿qué tiene que ver eso con el Ruiseñor Leonado?
+B01.0015 [Noya] | Porque aun así quiero comer pudín este mes
+B01.0016 [Noya] | Para juntar suficiente dinero, no podré comer nada más que Ruiseñor Leonado
+B01.0017 [Tú] | Comerlo todos los días no es saludable
+B01.0018 [Tú] | Si de verdad quieres pudín
+B01.0019 [Tú] | compartiré la mitad del mío contigo
+B01.0020 [Tú] | Ahorrar dinero de comida solo para comprar pudín...
+B01.0021 [Tú] | Simplemente no es buena idea
+B01.0022 [Noya] | ¿En serio? ¿¡Lo dices en serio!?
+B01.0023 [Tú] | Sí
+B01.0024 [Noya] | ¡SÍ! ¡Sabía que eres lo mejor del mundo, Jefe!
+
+## Conversación B02
+B02.0001 [Noya] | Últimamente, cada vez que salgo a manejar, me topo con cosas que me ponen furiosa
+B02.0002 [Opción] | ¿Otra vez estafadores de carretera?
+B02.0003 [Opción] | ¿Pasó algo?
+B02.0004 [Opción] | No manejas, aceleras, hay una diferencia
+B02.0005 [Noya] | Más o menos
+B02.0006 [Noya] | Básicamente, estoy furiosa
+B02.0007 [Tú] | ¿Qué pasó?
+B02.0008 [Noya] | El mismo truco de estafa de la última vez, otra vez
+B02.0009 [Noya] | No, esta vez de verdad manejé con cuidado
+B02.0010 [Noya] | ¡Ellos eran los que manejaban de forma temeraria!
+B02.0011 [Noya] | Así que he estado preparando un plan
+B02.0012 [Tú] | ¿Qué plan?
+B02.0013 [Noya] | Voy a modificar a Loxy específicamente para esto
+B02.0014 [Noya] | Añadirle una barra de embestida y rines con picos
+B02.0015 [Noya] | ¡Convertir a Loxy en un carro de la Parca!
+B02.0016 [Tú] | ¡Eso lastimará a gente inocente!
+B02.0017 [Tú] | Manejar un carro así dentro de la ciudad seguro hará que te detenga la Guardia Imperial
+B02.0018 [Noya] | Es broma, je je
+B02.0019 [Tú] | Me asustaste
+B02.0020 [Noya] | No es sano guardarse el enojo
+B02.0021 [Noya] | Solo me estoy desahogando
+B02.0022 [Noya] | No lo haría de verdad
+B02.0023 [Tú] | Eso supuse
+B02.0024 [Tú] | Si hago todas esas modificaciones
+B02.0025 [Tú] | el rendimiento de Loxy se desplomará
+B02.0026 [Noya] | Sí
+B02.0027 [Noya] | En lugar de intentar lidiar con todos los idiotas de la carretera, es más importante simplemente manejar de una forma que te resulte cómoda
+
+## Conversación B03
+B03.0001 [Noya] | ¡Sabes que ahora hay un nuevo sabor de Jugo Pep Pep!
+B03.0002 [Noya] | Pedí uno de la Caja de Deseos, así que lo probaré primero
+B03.0003 [Noya] | ¡Si está bueno, iré por unos cuantos más para todos!
+B03.0004 [Tú] | ¿Qué sabor es?
+B03.0005 [Noya] | Cereza-Cola
+B03.0006 [Noya] | ¿Lo has probado antes, Jefe?
+B03.0007 [Opción] | Vagamente...
+B03.0008 [Opción] | No, ¿qué es eso?
+B03.0009 [Noya] | ¿Está bueno?
+B03.0010 [Tú] | No lo recuerdo
+B03.0011 [Noya] | No importa, lo abro ya para darle un sorbo
+B03.0012 [Noya] | ¿Probablemente solo cola con sabor a cereza?
+B03.0013 [Noya] | ¿O jugo de cereza mezclado con cola?
+B03.0014 [Noya] | No sé
+B03.0015 [Noya] | ¡Pero lo voy a averiguar, ahora mismo!
+B03.0016 [Tú] | ¿Qué tal está?
+B03.0017 [Noya] | ¡Horrible!
+B03.0018 [Noya] | ¡Agh!
+B03.0019 [Noya] | A la basura...
+B03.0020 [Noya] | ¡Nunca más!
+
+## Conversación B04
+B04.0001 [Noya] | ¡Jefe!
+B04.0002 [Noya] | ¡Jefe Jefe!
+B04.0003 [Tú] | ¿Qué pasa?
+B04.0004 [Noya] | Hace poco vi un Stella Drama sobre carreras
+B04.0005 [Noya] | ¡Había una toma que era súper genial!
+B04.0006 [Tú] | ¿Cuál?
+B04.0007 [Noya] | El copiloto jala el freno de mano mientras el conductor calcula el momento
+B04.0008 [Noya] | ¡Y juntos derrapan por la curva!
+B04.0009 [Tú] | ¡Eso suena a un trabajo en equipo asombroso!
+B04.0010 [Noya] | ¿Verdad, verdad?
+B04.0011 [Noya] | Entonces, estaba pensando...
+B04.0012 [Noya] | Con lo unidos que somos...
+B04.0013 [Opción] | Acrobacia peligrosa realizada por profesionales, no lo intentes en casa
+B04.0014 [Opción] | No sé manejar...
+B04.0015 [Noya] | Vamos, buscaremos un lugar bien amplio
+B04.0016 [Noya] | No va a pasar nada malo
+B04.0017 [Noya] | Lo único que tienes que hacer es jalar el freno de mano
+B04.0018 [Noya] | Pan comido
+B04.0019 [Tú] | Imposible. Ni hablar
+B04.0020 [Tú] | ...
+B04.0021 [Tú] | ...
+B04.0022 [Tú] | Está bien, vale
+B04.0023 [Tú] | Pero solo una vez por favor, sin repeticiones
+B04.0024 [Noya] | Seguro que funciona
+B04.0025 [Noya] | Ten fe en nuestro vínculo
+
+## Conversación B05
+B05.0001 [Noya] | Jefe, ¿tienes tiempo libre estos días?
+B05.0002 [Opción] | Todo el que quieras
+B05.0003 [Opción] | Nop
+B05.0004 [Noya] | ¿Te acuerdas del Tamago Pet que he estado criando todo este tiempo?
+B05.0005 [Noya] | Ahora tiene una función nueva
+B05.0006 [Noya] | ¡Ahora puedes tocar para agregar amigos, igual que con los celulares!
+B05.0007 [Noya] | Solo te llevará un poquito de tiempo
+B05.0008 [Noya] | Solo tienes que iniciar sesión y alimentarlo una vez al día
+B05.0009 [Tú] | ¿Es el Tamago Pet que has estado criando todo este tiempo?
+B05.0010 [Noya] | Sip sip
+B05.0011 [Noya] | Ahora tiene una función nueva
+B05.0012 [Noya] | ¡Ahora puedes tocar para agregar amigos, igual que con los celulares!
+B05.0013 [Noya] | ¡Jefe, tú también deberías tener uno! ¡Juguemos juntos!
+B05.0014 [Noya] | Es súper sencillo
+B05.0015 [Tú] | Okey
+B05.0016 [Tú] | Puedes enseñarme cómo se hace cuando regrese esta noche
+
+## Conversación B06
+B06.0001 [Noya] | ¿Qué quieres cenar esta noche?
+B06.0002 [Opción] | Filete
+B06.0003 [Opción] | Mariscos
+B06.0004 [Opción] | Lo que sea está bien
+B06.0005 [Noya] | ¡Voy!
+B06.0006 [Noya] | ¡Voy!
+B06.0007 [Noya] | No se permite «lo que sea»
+B06.0008 [Tú] | No sé qué quiero comer, de verdad
+B06.0009 [Tú] | Me parece bien lo que tú quieras comer
+B06.0010 [Noya] | Está bien, entonces decido por los dos
+B06.0011 [Tú] | Entonces, ¿qué pasa?
+B06.0012 [Noya] | Jejeje
+B06.0013 [Noya] | Hoy ayudé a un vendedor del mercado a mover mercancía
+B06.0014 [Noya] | Y la recompensa fue elegir un ingrediente para llevarme a casa
+B06.0015 [Noya] | ¡Así que esta noche hay banquete!
+B06.0016 [Tú] | ¡Yupiii!

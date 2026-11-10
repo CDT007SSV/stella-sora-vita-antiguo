@@ -1,0 +1,75 @@
+# Historia de Cosette · 2 · "Date" Turmoil (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_1210 | Cosette
+N:avg1_142 | Cosette
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Alboroto por una «cita» (Parte II)
+0003 [Intro] | Recuerda siempre que el objetivo principal de esta «cita» es reunir información... ¿¿Eh?? ¿¡Qué bebida!?
+0004 [Cosette] | Qué raro... ==W==¿No se suponía que había una promoción de una bebida nueva? ¿Por qué casi no hay nadie aquí?
+0005 [Tú] | Sí, es raro. Este lugar suele estar lleno cuando hay una promoción.
+0006 [Cosette] | No me digas ... ==W==¿¿llegamos demasiado tarde?? ¿¿¿La promoción ya terminó???
+0007 [Tú] | No puede ser...
+0008 [Tú] | ¿Mm? Creo que veo el cartel de la promoción por allá.
+0009 [Tú] | Sí, lo recordaba bien. Este es el lugar correcto.
+0010 [Cosette] | ¡Jefe, apúrate! ¡Apúrate!
+0011 [Tú] | ¡Espera, Cosette! No te veo.
+0012 [Cosette] | Este yogur...
+0013 [Tú] | No digas más, Cosette. Lo entiendo...
+0014 [Cosette] | Qué decepción...
+0015 [Cosette] | La textura no se parece nada al yogur. Dicen que es sabor sandía, pero no siento nada de sandía. En cambio, es como ... ¿apestoso?
+0016 [Cosette] | ¿Soy solo yo? Déjame probar otra vez.
+0017 [Tú] | Mejor no. ¿Y si te da diarrea...
+0018 [Tú] | Con lo terrible que es este nuevo sabor, no es de extrañar que la gente no haga fila.
+0019 [Cosette] | Por qué... Cómo es posible...
+0020 [Cosette] | Espera, espera, no vine a esta cita por el yogur...
+0021 [Cosette] | Soy la «Limpiadora» de Nocturn Eterna, y tengo una misión de Lady Aeloria que debo cumplir...
+0022 [Tú] | ¿Qué estás murmurando? ¿Sigues quejándote del yogur?
+0023 [Cosette] | ¡N-no, no es nada!==W== Eh ... Jefe, ¿y si mejor ... vamos al Monolito?
+0024 [Cosette] | ¡Todavía es temprano! Si salimos ahora, ¡podemos volver antes de que oscurezca!
+0025 [Tú] | Sí que le gustan los Monolitos...
+0026 [Tú] | Bueno, estaba pensando en tomar otra cosa para quitarme el mal sabor, pero el Monolito también sirve.
+0027 [Cosette] | ¿Mm? ¿Tomar otra cosa?
+0028 [Tú] | Sí, yo también quedé decepcionado con el nuevo sabor. Si no tomo otra cosa, este sabor horrible es lo único que recordaré.
+0029 [Tú] | Últimamente han aparecido por Emor varios «Artefactos de venta automática». Tienen sabores de bebidas del Monolito totalmente nuevos. ¿Quizá podríamos ir a verlos?
+0030 [Cosette] | ¡Sabores de bebidas del Monolito totalmente nuevos!
+0031 [Cosette] | ¿Qué son los «Artefactos de venta automática»? ¡Suenan geniales!==W== ¿Qué sabores nuevos hay? ¿Cuántos tipos?
+0032 [Tú] | No conozco los detalles... Oí que es un nuevo negocio de una empresa.
+0033 [Tú] | Dicen que algunas de las bebidas ni siquiera se venden en las tiendas de por aquí... ¿Quieres ir a ver?
+0034 [Cosette] | ¡Sí. El Monolito lo dejamos para la próxima!
+0035 [Tú] | Qué raro... Vi uno justo aquí antes... ¿Por qué ya no está?
+0036 [Cosette] | Jefe, ¿dónde está este Artefacto de venta automática?
+0037 [Tú] | Revisemos otra calle, quizá lo movieron.
+0038 [Cosette] | Sí...
+0039 [Tú] | Se ve tan decepcionada. Mejor llevo esta conversación a otro lado.
+0040 [Tú] | Ahora que lo pienso, ¿por qué insistes tanto en llevarme al Monolito? No me digas ... ¿que eso también es parte de tu misión?
+0041 [Cosette] | ¿Q-qué misión... ==W==N-no es que tenga que hacerte un trabajo de limpieza...
+0042 [Tú] | Se delata con tanta facilidad.
+0043 [Cosette] | Si solo hubiera venido por un trabajo de limpieza, podría haberme acercado sigilosamente por detrás y acabar contigo hace rato.
+0044 [Cosette] | ¡No hace falta tomarme tantas molestias! Invitarte al Monolito era solo una forma de descubrir tu habilidad especial!
+0045 [Tú] | ¡¿Lo soltó así sin más?! ¿Su mente ya se fue al Artefacto de venta automática?
+0046 [Cosette] | Así que... ¡No te preocupes! ¡Cuando te ataque por sorpresa, lo haré limpiamente y de frente!
+0047 [Tú] | Decírmelo en mi cara le quita todo el sentido a un ataque sorpresa...
+0048 [Cosette] | Eh... ¿Dije algo raro...?
+0049 [Cosette] | Ah... ¿todavía no encontramos el Artefacto?==W== ¿Qué clase de bebidas del Monolito habrá?
+0050 [Tú] | Parece que por fin se dio cuenta de que metió la pata.
+0051 [Tú] | Justo a la vuelta de la esquina. Ya casi llegamos.
+0052 [Cosette] | Hmmmph...
+0053 [Cosette] | Qué miedo... ¿Se me escapó algo hace rato?
+0054 [Cosette] | El Jefe probablemente no escuchó lo que dije hace un momento, ¿verdad?==W== ==SEX1== no reaccionó mucho... Así que supongo que ==SEX== no lo oyó, ¿no?
+0055 [Tú] | ¿Oír qué?
+0056 [Cosette] | ¡N-nada!
+0057 [Cosette] | —¿Eh? Ese de allá... ¡¿Es el Artefacto de venta automática?!
+0058 [Tú] | Sí, ese es. ¡Por fin!
+0059 [Cosette] | ¿Soy yo o de verdad se parece a uno de los Stellaroids del Monolito...?
+0060 [Tú] | ¿A qué te refieres?
+0061 [Cosette] | La sensación que da... Y su tamaño...
+0062 [Cosette] | No va a lanzarnos misiles de bebida cuando nos acerquemos... ¿Verdad?
+0063 [Tú] | Relájate. Es imposible que algo tan peligroso se deje en la calle. Es solo un Artefacto que alguien deseó.
+0064 [Tú] | ¡Vamos a ver si hay algo que te guste~
+0065 [Cosette] | Jefe, espérame...==W== ¡Aún no estoy mentalmente preparada!

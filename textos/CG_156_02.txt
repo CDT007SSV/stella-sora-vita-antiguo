@@ -1,0 +1,78 @@
+# Historia de Nazuna · 2 · Small Room, Big Clean-up (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_156 | Nazuna
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Un cuarto pequeño, una limpieza enorme (Parte II)
+0003 [Intro] | Aun con los ojos cegados por el deseo y el alma atormentada por el tiempo, esa persona nunca dejó de avanzar en su camino.
+0004 [Nazuna] | Este redondito se llama Conde Mordimordi el Tiburón.
+0005 [Nazuna] | Al Conde Mordimordi el Tiburón le encanta rodar, así que necesita estar en un sofá suave.
+0006 [Narración] | Nazuna ordena el cuarto poco a poco==W== mientras me presenta a sus muñecos de peluche.
+0007 [Tú] | ¿Por qué se llama Mordimordi? ¿Es por sus dientes afilados?
+0008 [Nazuna] | ¡Porque muerde a todo el que conoce!
+0009 [Tú] | ¿De verdad así se saluda a la gente...?
+0010 [Nazuna] | Y este con alas es el Rey Altivuelo. Le encantan los lugares altos.
+0011 [Narración] | Nazuna se sube a una silla, estirándose de puntitas,==W== tratando con todas sus fuerzas de colocar el muñeco en el estante alto.
+0012 [Nazuna] | N-no... no alcanzo...
+0013 [Tú] | No te fuerces. Yo te ayudo—
+0014 [Nazuna] | ¡Aaah!==W==
+0015 [Narración] | Nazuna pierde el equilibrio y se cae de la silla, aterrizando de cabeza en la pila de peluches que está cerca.
+0016 [Tú] | ¡Ni siquiera terminé de decir...! ==W==¡Nazuna!
+0017 [Nazuna] | Buuu... ¡¡Buuu...!!
+0018 [Tú] | Espera un momento. Ya voy.
+0019 [Narración] | Nazuna es ligera==W== y no cuesta mucho sacarla de la pila.
+0020 [Nazuna] | Gracias, ==PLAYER_NAME==.==W== Uf, por un momento pensé que ya era hora de despedirme.
+0021 [Nazuna] | Bueno, quizá sería lo mejor. Así ya no tendría que seguir luchando.
+0022 [Tú] | ¿Qué lucha? Solo estás limpiando tu cuarto.
+0023 [Nazuna] | Si pudiera quedarme tranquila junto a mis amigos así, esperando mi último aliento...
+0024 [Nazuna] | No estaría tan mal.
+0025 [Tú] | Solo dices tonterías... O sea, simplemente no quieres molestarte en ordenar, ¿verdad?
+0026 [Tú] | ¿No tienes algo más importante que hacer que esperar tu último aliento?
+0027 [Tú] | Por ejemplo,==W== limpiar tu cuarto.
+0028 [Nazuna] | ¡Ohohoh!
+0029 [Tú] | ¡Me asustaste! ¿Ahora qué?
+0030 [Nazuna] | Unos nuevos amigos me están llamando.
+0031 [Nazuna] | Piden mi ayuda.==W== ¡Debo salvar a estos amigos de su prisión!
+0032 [Narración] | Mientras habla,==W== Nazuna se arrastra paso a paso hacia la puerta.==W== Sin duda alguna, está por escapar.
+0033 [Tú] | ¿Segura que está bien==W== dejar a tus amigos==W== así?
+0034 [Nazuna] | Guaa... Yo... Está bien, no...
+0035 [Tú] | Si sigues así, me voy a ir a mi casa.
+0036 [Nazuna] | ¿Qué? ¡E-espera!==W== ¡Sin tu ayuda no hay manera de que termine de limpiar hoy, ==PLAYER_NAME==!
+0037 [Nazuna] | No quiero hacer enojar a Kaede. Kaede da muchísimo miedo cuando se enoja.
+0038 [Nazuna] | ¡==PLAYER_NAME==, no puedes dejarme a merced de su ira! Por favor...
+0039 [Tú] | ¿No estabas esperando tu último aliento?
+0040 [Nazuna] | Nah, otro día.
+0041 [Tú] | ¿Y lo de salvar a tus nuevos amigos de su prisión?
+0042 [Nazuna] | Perdón. Sé que estuvo mal de mi parte. Por favor, perdóname~
+0043 [Tú] | De verdad que eres un caso.
+0044 [Tú] | Sigamos limpiando juntos, entonces. Pero esta vez más te vale tomártelo en serio.
+0045 [Tú] | Fiu... Por fin avanzamos algo.
+0046 [Nazuna] | Gracias, ==PLAYER_NAME==.
+0047 [Tú] | De nada==W==...==W== ¿A qué viene eso de repente?
+0048 [Nazuna] | Nunca supe que limpiar un cuarto pudiera ser tan divertido.
+0049 [Nazuna] | Cuando el lugar queda ordenado, es como si todos los sentimientos enredados dentro de mí también se acomodaran.==W== Me siento muy, muy bien ahora.
+0050 [Nazuna] | No hay manera de que lo hubiera logrado sola...==W== Qué bueno que estés aquí, ==PLAYER_NAME==.
+0051 [Tú] | No quiero arruinarte la ilusión,==W== pero...
+0052 [Tú] | Es que==W== apenas terminamos de ordenar la zona==W== de la puerta.
+0053 [Nazuna] | ¡Qué—no puede ser!==W== ¡¿Ya estoy así de cansada y apenas hicimos eso?!
+0054 [Tú] | Perdón, pero tienes que afrontar la realidad,==W== que es que todavía quedan tres montañas enteras de muñecos adentro.
+0055 [Tú] | Pero con tantos... No hay manera de que quepan todos en el cuarto.==W== Tendremos que guardar algunos en el almacén.
+0056 [Nazuna] | ¡¿Qué, vas a encerrar a todos en el almacén?!==W== ¡Hasta viniendo de ti, ==PLAYER_NAME==, eso es demasiado cruel!
+0057 [Nazuna] | Además, ¿eso no significa que tendré que dejar ir a todos?==W== ¡No quiero separarme de nadie, ni hablar!
+0058 [Tú] | Pero si sigues amontonándolos aquí, el cuarto nunca quedará limpio.
+0059 [Nazuna] | ¡Aunque eso sea cierto, ¿por qué tiene que ser el almacén?!==W== ¡¿De verdad eres tan cruel, ==PLAYER_NAME==?!
+0060 [Tú] | Suena un poco dramático...
+0061 [Tú] | ¿Y si lo vemos de otra manera?==W== Estamos preparando un nuevo hogar para tus amigos.
+0062 [Nazuna] | ¿Nuevo... nuevo hogar?
+0063 [Tú] | Exacto.==W== Los amigos que no caben en este cuarto pueden mudarse a un hogar nuevo.==W== Si elegimos un lugar cercano, será fácil que los visites, Nazuna.
+0064 [Tú] | Los verdaderos amigos siguen conectados,==W== por muy lejos que estén.
+0065 [Tú] | ¿O estás diciendo que tu vínculo con tus amigos es tan frágil==W== que se romperá==W== solo porque no se ven todos los días?
+0066 [Nazuna] | ¡Claro que no! ¡Nuestros corazones siempre estarán juntos!
+0067 [Tú] | Entonces está decidido.==W== Preparemos su nuevo hogar,==W== para que tus amigos ya no se lastimen.
+0068 [Nazuna] | Tienes razón.==W== Lo más importante es que todos estén sanos.
+0069 [Narración] | Y así comenzó la gran mudanza de muñecos.

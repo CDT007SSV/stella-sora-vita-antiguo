@@ -1,0 +1,117 @@
+# Historia de Firstlight Noya · 2 · The Name of Hers (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Resident | Residente angustiado
+N:avg1_162 | Alina
+N:avg3_100 | Sylar
+N:avg3_229 | Esclavo de Filanis
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | El nombre de ella (Parte II)
+0003 [Intro] | Quiero estar más cerca de ti, estar a tu lado y convertirme en una compañera en quien puedas confiar.
+0004 [Tú] | Una pizca de sal...==W== Deja que se dore...
+0005 [Alina] | Ya volví. Huele increíble...==W== ¿Qué estás preparando?
+0006 [Tú] | Pescado a la parrilla. Dame un segundo, ya casi está.
+0007 [Alina] | Así que así se hace...
+0008 [Tú] | ¿Q-Qué pasa? Me miras tan fijo que me desconcentro...==W== ¿No me digas que odias el pescado?
+0009 [Alina] | Para nada. Como mientras esté bien preparado. No me refería a eso. Es solo que... tengo un favor que pedirte.
+0010 [Alina] | ¿Podrías ...==W== enseñarme a cocinar?
+0011 [Tú] | Claro, puedo hacerlo. Pero ¿a qué viene esto?
+0012 [Alina] | No puedo seguir dejando que mi invitado haga toda la cocina. Como anfitriona, mi deber es atenderte.
+0013 [Tú] | De verdad no me molesta...==W== Pero bueno, si quieres aprender, te enseñaré.
+0014 [Tú] | Eso sí, te advierto que no seré blando contigo. Más te vale ir preparándote.
+0015 [Alina] | Por supuesto. No lo querría de otra manera.
+0016 [Tú] | Empecemos con las verduras. Corta las papas en trozos pequeños.
+0017 [Alina] | Entendido. Trozos pequeños...
+0018 [Tú] | ¡Espera, espera, alto!
+0019 [Alina] | ¿Qué pasa?
+0020 [Tú] | Espera, ¿no las vas a pelar? Y estos trozos son enormes. ¿Cómo se supone que alguien se los coma?
+0021 [Alina] | La cáscara se come. Y si son muy grandes, se muerden a la mitad.
+0022 [Tú] | Supongo que la cáscara no es del todo incomible, pero la textura es horrible. Además, no se cocerán parejo si son tan grandes. ¡Y lo más importante: es una lata comerlas!
+0023 [Alina] | No tenía idea de que había tantos detalles que considerar...
+0024 [Tú] | No puedes escatimar si quieres buena comida. Yo me encargo de picar. Tú solo observa por ahora.
+0025 [Tú] | Muy bien, las verduras ya están suaves. Hora de sazonar. Agrega sal al gusto, por favor.
+0026 [Alina] | Entendido. Al gusto...
+0027 [Tú] | ¡Espera, espera, alto!
+0028 [Alina] | ¿Ahora qué?
+0029 [Tú] | ¿Vas a echar el frasco entero? ¿No vas a usar una cuchara...?
+0030 [Alina] | Así es más rápido. Además, si es «al gusto», ¿no significa que puedo agregar lo que quiera?
+0031 [Tú] | No es eso lo que significa...==W== Déjame preguntarte, Alina. ¿Te gusta la comida salada o suave?
+0032 [Alina] | Suave, supongo.
+0033 [Tú] | Entendido...==W== Bien, entonces más o menos esta cantidad. Toma, prueba un sorbo.
+0034 [Alina] | Oh, está bueno...==W== Si sabías exactamente cuánto agregar, ¿por qué no lo dijiste desde el principio?
+0035 [Tú] | Porque el paladar de cada quien es distinto. Por eso dije «al gusto».
+0036 [Tú] | Averiguar qué sabores prefiere tu invitado, aprender cómo funciona cada ingrediente...
+0037 [Tú] | Saber todo eso antes siquiera de empezar a cocinar es el verdadero secreto de una buena comida.
+0038 [Alina] | O sea que cocinar requiere tanta precisión como la esgrima. No lo sabía.
+0039 [Tú] | Jaja, la verdad, mis habilidades a medias vienen de una amiga. Solo copio lo que ella me enseñó.
+0040 [Alina] | Déjame adivinar...==W== ¿Noya?
+0041 [Tú] | Sí. Cada platillo que preparaba Noya era una obra maestra. Siempre me enseñaba.
+0042 [Alina] | Ya veo...
+0043 [Alina] | ¿Qué clase de persona es... esa Noya?
+0044 [Tú] | ¿Eh?
+0045 [Alina] | Me has llamado por su nombre más de una vez. Es difícil no sentir curiosidad.
+0046 [Tú] | ... Justo. A ver, ¿cómo lo explico...
+0047 [Tú] | Supongo que lo primero que se me viene a la mente es su sonrisa. Su energía y su calidez me salvaron más veces de las que puedo contar.
+0048 [Tú] | Y siempre cuidaba de mí. Incluso compartía conmigo la mitad de su bebida favorita...
+0049 [Tú] | Siempre protegiéndome. Asegurándose de que nunca me hicieran daño.
+0050 [Alina] | ... ¿Así que significabas mucho para ella?
+0051 [Tú] | Ahora que lo mencionas, una vez dijo algo así.
+0052 [Alina] | ¿Es cierto...?==W== ¿Y tu costumbre de saltarte las reglas? ¿También la aprendiste de ella?
+0053 [Tú] | Ah...==W== Probablemente. A Noya siempre se le ocurrían las ideas más descabelladas.
+0054 [Tú] | Como cuando decidió estrellar a Loxy directo contra ese enorme Stellaroid. De verdad me dio un susto de muerte.
+0055 [Alina] | ¿Stellaroid? ¿Loxy?
+0056 [Tú] | Eh...==W== Imagina estrellar una carreta a toda velocidad contra un monstruo gigante. ¿Así se entiende mejor?
+0057 [Alina] | ¿Qué clase de estrategia es esa...?==W== Es completamente imprudente.
+0058 [Tú] | Jaja, cualquiera lo pensaría. Pero de algún modo, lo logró.
+0059 [Tú] | Pero desde entonces, supe...==W== que mientras Noya estuviera a mi lado, por muy locas que se pusieran las cosas, siempre encontraríamos una salida.
+0060 [Alina] | Por muy locas que se pusieran...==W== Ya veo. Creo que entiendo por qué siempre eres tan audaz.
+0061 [Alina] | Comparada con ella, todavía me falta mucho por recorrer.
+0062 [Alina] | Muy bien. La tomaré como meta. ¡Empecemos por dominar la cocina!
+0063 [Alina] | En fin...==W== Gracias por contarme todo esto. Ya me aprendí la receta de la sopa.
+0064 [Alina] | Ya casi es hora del plato fuerte. Pondré en práctica todo lo que acabo de aprender. Puedes dejarme el resto.
+0065 [Tú] | B-Bueno, está bien.
+0066 [Tú] | Alina está muy motivada. Más me vale esforzarme por ayudarla.
+0067 [Alina] | Sí...
+0068 [Tú] | Por alguna razón, no me sorprende.
+0069 [Alina] | Me esforcé tanto por seguir todo lo que dijiste...
+0070 [Tú] | ¡Pero huele muy bien! Una presentación terrible no siempre significa que sepa mal.
+0071 [Alina] | No tienes que forzarte. Lo voy a tirar...
+0072 [Tú] | Si no te molesta...
+0073 [Alina] | ¡E-Espera, ¿qué haces?! ¡Escúpelo! ¡Te vas a enfermar!
+0074 [Tú] | Mmm...==W== Las partes quemadas están un poco amargas, pero mejora cuanto más mastico. En realidad no está mal...
+0075 [Alina] | ¡Te dije que no tienes que forzarte!
+0076 [Tú] | No me fuerzo. El sazón de verdad está mucho mejor esta vez.
+0077 [Alina] | ¿Eh? ¿E-En serio...?
+0078 [Tú] | Sí. El único problema real esta vez fue el fuego. ¡Aprende de esto y sé que tu próximo platillo quedará increíble!
+0079 [Alina] | Lo siento...==W== Dijiste que me asegurara de que todo estuviera bien cocido. Lo hice, pero creo que me pasé un poco...
+0080 [Tú] | Pfff...==W== ¡Jajajaja! Eres tan directa y sincera, Alina.
+0081 [Alina] | ¡¿Qué tiene de malo?!
+0082 [Tú] | No tiene nada de malo. Solo no esperaba ver un lado tuyo tan adorable.
+0083 [Alina] | ¡¿A-Adorable...?!==W== ¡Deja de burlarte de mí...!
+0084 [Tú] | Bien, raspa los bordes quemados. Lo demás se puede comer.
+0085 [Alina] | ¿Siquiera me estás escuchando...?==W== Es prácticamente carbón, ¿y aun así te lo vas a comer?
+0086 [Tú] | Debería estar bien, ¿no? Como dije, el sabor en sí no está mal. Además...
+0087 [Tú] | Le pusiste mucho corazón. Sería una lástima tirarlo.
+0088 [Alina] | ... ¿También aprendiste de Noya a animar así a la gente?
+0089 [Tú] | No, esto es todo mío.
+0090 [Tú] | Aunque supongo que su optimismo quizá se me pegó un poquito.
+0091 [Tú] | Dicen que la comida sale más rica cuando el cocinero está feliz.
+0092 [Alina] | Feliz...==W== Quizá debería intentar sonreír un poco más.
+0093 [Tú] | Abre grande. Prueba un bocado, de verdad está delicioso.
+0094 [Alina] | Oye, no me trates como a una niña. Puedo comer sol—
+0095 [Anxious Resident] | ¡Lady Alina! ¡Lady Alina, por favor ayude! Mi familia...==W== ¡Se llevaron a mi familia!
+0096 [Alina] | Intenta calmarte. ¿Quién se los llevó? ¿Sabes adónde fueron?
+0097 [Anxious Resident] | ¡Fue Caligula! ¡Sus hombres arrastraron a mi familia y a nuestros vecinos directo a su finca! ¡Apenas logré escapar con vida...!
+0098 [Alina] | Caligula otra vez...==W== Tranquilícese. Juro que traeré de vuelta a todos.
+0099 [Tú] | Pero ¿cómo piensas hacerlo, Alina? Sé que proteger Filanis es tu deber y que tenemos la razón, pero derribar la puerta principal solo nosotros dos no es precisamente lo más inteligente...
+0100 [Alina] | No necesitamos un asalto frontal. Hace unos meses desmantelé una banda de ladrones. Estaban excavando un túnel por las cuevas bajo Filanis para robar la mansión de Caligula.
+0101 [Alina] | Podemos usar ese túnel para colarnos.
+0102 [Tú] | Colarse por un túnel de ladrones...==W== Suena a cruzar la línea para alguien como tú.
+0103 [Alina] | Simplemente tomo una decisión de la que no me arrepentiré.
+0104 [Alina] | Además, te tengo aquí para cruzarla conmigo, ¿no?
+0105 [Tú] | Jaja, exacto. Estoy a tu lado.
+0106 [Tú] | Muy bien entonces... ¡En marcha!

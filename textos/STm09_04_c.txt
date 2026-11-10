@@ -1,0 +1,192 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 4C · Lo que permanece igual
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Giant Stellaroid | Stellaroid gigante
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_136 | Angie
+N:avg1_142 | Cosette
+N:avg1_144 | Chitose
+N:avg1_163 | Greyhorn
+N:avg2_979 | Enviado espectral
+N:avg3_100 | Sylar
+N:avg3_1311 | SaiLa
+N:avg3_1319 | Angie
+N:avg3_217 | N.º 160
+N:avg4_104 | Piedra de la izquierda
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Lo que permanece igual
+0003 [Intro] | Gracias a tu estrategia, la unidad de cien efectivos se desmorona y Angie se rinde. A solas contigo, revela la verdad: ella también llegó al futuro y vio la ruina. Con la última bala, apunta contra sí misma...
+0004 [Greyhorn] | Lady Angie, tenemos que retirarnos. Nuestros ataques apenas le hacen un rasguño a este Stellaroid...
+0005 [Angie] | No lo creo. Según los registros de combate del Canal, solo tenemos que romper ese círculo mágico de su cabeza.
+0006 [Greyhorn] | Este Stellaroid no se parece en nada a aquel... Ya lo intentamos y no funciona.
+0007 [Greyhorn] | Nuestra magia ni siquiera puede atravesar su barrera mágica. Esto no es un Stellaroid normal... ¡Es un Arconte!
+0008 [Angie] | ¡No! Tengo que matar al Tirano aquí y ahora. ==SEX1== se ha convertido en el verdadero Tirano.
+0009 [Angie] | Si la magia no basta, veamos qué tal le va contra el Cetro de la Muerte.
+0010 [Narración] | La bala de Angie desgarra la barrera mágica del Stellaroid y se incrusta en el círculo mágico de su cabeza.
+0011 [Giant Stellaroid] | Vrrrr...
+0012 [Greyhorn] | Lady Angie... Huya. Perdimos.
+0013 [Greyhorn] | La Guardia Imperial cumplirá con su deber... Cubriremos su escape...
+0014 [Angie] | ¡Greyhorn!
+0015 [Narración] | Para cuando Noya y yo salimos de la Caja de Deseos, el piso ya está sembrado de miembros del Comité inconscientes.
+0016 [Narración] | La única persona que sigue de pie en la sala... es Angie.
+0017 [Iris] | Jefe, el equipo que fue por las Piedras del Alma ya regresó.
+0018 [Iris] | Amber, no le quites el ojo de encima. Noya y yo traeremos a las demás.
+0019 [Narración] | Mientras el resto de nuestro equipo va llegando al Dominio del Jefe, Angie ni se inmuta. Solo se queda ahí, paralizada.
+0020 [1] | Se acabó, Angie. Las tres compañías del Comité fueron derrotadas dentro del Monolito.==W== Greyhorn, la n.º 160 y Gunhild están bajo nuestra custodia.
+0021 [1] | Perdiste.
+0022 [Angie] | Je. Tienes razón. Perdí.
+0023 [Angie] | Eres increíble.==W== Incluso con todos los recuerdos del futuro... aun así no pude vencerte.
+0024 [Tú] | ¿Recuerdos? ¿De qué está hablando?
+0025 [Noya] | ==PLAYER_NAME==, no gastes saliva con ella.
+0026 [Amber] | Solo hay que capturarla.
+0027 [Iris] | Y todo esto se habrá terminado.
+0028 [Chitose] | Esta bellaca ha conspirado contra usted una y otra vez. Basta con que lo diga, mi ==SEX11==, y la abatiré.
+0029 [Tú] | Ríndete, Angie. Estás rodeada.
+0030 [Tú] | Si te rindes, no te haremos daño. Puedo garantizarte un juicio justo.
+0031 [Angie] | ... Qué sorpresa.
+0032 [Angie] | Incluso ahora, sigues teniendo la intención de perdonarme la vida.
+0033 [Narración] | Eres demasiado blando, Tirano.
+0034 [1] | Más te vale no confundir eso con debilidad, Angie.
+0035 [1] | Solo quiero darte un final justo. No pienses ni por un segundo que no te mataría.
+0036 [Angie] | Lo sé. Precisamente por eso estoy considerando tu oferta.
+0037 [Angie] | Dadas las circunstancias... me rindo.
+0038 [Angie] | Pero tengo una condición.
+0039 [Tú] | ¿Una condición...?
+0040 [Nazuka] | Mira las cartas que tienes. Ahora mismo no estás en posición de negociar.
+0041 [Angie] | Je. Creo que aceptarás esta condición, Tirano.
+0042 [Angie] | Quiero hablar a solas contigo. Aquí mismo está bien, solo pídeles a tus compañeras que mantengan su distancia.
+0043 [Tú] | ¿Qué nos podría quedar por hablar?
+0044 [Angie] | Quiero contarte la verdad sobre el fin del mundo. Y es solo para tus oídos.
+0045 [1] | ¿De qué sirve? Aunque acepte, les voy a contar todo en cuanto terminemos.
+0046 [Angie] | Algunas verdades solo traen más problemas si llegan a los oídos equivocados.
+0047 [Angie] | Lo entenderás cuando lo escuches.
+0048 [1] | En mis dos últimas negociaciones con Angie, ella sacó muchas cosas... Cosas de las que yo no tenía ni idea.
+0049 [1] | El diario de la difunta Emperatriz, el Monolito que cae y el «as bajo la manga» que nunca reveló... Aunque solo sea por la información, vale la pena escuchar lo que tiene que decir.
+0050 [1] | Iris, Nazuka. Lancen algo de magia defensiva sobre mi ropa.
+0051 [Tú] | Muy bien. Todas se replegaron hasta el borde de la sala. Desde ahí no podrán oírnos.
+0052 [Tú] | Ahora, habla. ¿Cuál es esa verdad sobre el fin del mundo?
+0053 [Angie] | Gracias por aceptar mis condiciones. Incluso me dejaste el Cetro de la Muerte… Después de todo lo que has hecho, debo devolverte el favor con sinceridad.
+0054 [Angie] | Empezaré por la conclusión.
+0055 [Angie] | Vengo del futuro. De dentro de cuatro años.
+0056 [1] | ¿Qué?
+0057 [Angie] | Esto no es ninguna broma. Dentro de cuatro años, este mundo se acabará.
+0058 [Angie] | El mundo quedará hecho ruinas, las civilizaciones se derrumbarán y del Imperio de Nova no quedarán ni las cenizas.
+0059 [Angie] | Todo lo que tú y yo amamos...==W== Todo lo que tú y yo odiamos... Todo será borrado.
+0060 [Angie] | Y la raíz de todo... es el Tirano.==W== Es decir, yo.
+0061 [Tú] | ¡¿Tú eres el Tirano?! ¡¿De qué estás hablando?!
+0062 [Angie] | Por un capricho del destino, una vez conseguí un celular. Era idéntico al que tienes en la mano.
+0063 [Angie] | El Sistema de Desarrollo de Tiranos del Pozo de los Mundos. ¿Te suena?
+0064 [1] | ...!
+0065 [Angie] | En ese entonces no tenía nada. Por mi propio bien y por el de mis compañeros, luché con uñas y dientes para completar las misiones de ese sistema. Una y otra vez, me entregó recompensas que ni siquiera podía imaginar.
+0066 [Angie] | Al final, completé todas y cada una de las misiones. Cumplí todos y cada uno de mis deseos.
+0067 [Angie] | Pero todo terminó con el Monolito derrumbándose frente a mí... Junto con este mundo.
+0068 [Angie] | Usé las recompensas que me dio el sistema para pedir un último deseo. Escapé diez años al pasado... Es decir, seis años antes de hoy.
+0069 [Angie] | Sin embargo, aunque huí de la realidad, nunca tuve el valor de volver a abrir esa caja fuerte. Ni el valor de enfrentar a mis futuros aliados.
+0070 [Angie] | Lo único que podía hacer era reunir información desesperadamente y vigilar esa Tienda de Almas desde lejos.
+0071 [Narración] | Y... Durante ese tiempo, se eligió al nuevo Tirano… Y no fue otro más que tú.
+0072 [1] | ¡Mientes!
+0073 [Angie] | ¡¡Jajajajaja!! ¡Eso es! ¡Esa es la mirada, Tirano!
+0074 [Angie] | Tú también debes conocer ese sistema. Jeje... ¿Por qué puedo afirmarlo? Es sencillo.==W== Lo que estás haciendo es lo mismo que yo hice en el pasado.
+0075 [Angie] | Te das cuenta de que no miento, ¿verdad? Algo tan fuera de la comprensión humana... no puede salir de la pura imaginación, ¿o sí?
+0076 [Angie] | Ahora escucha, Tirano.
+0077 [Angie] | Tus actos coinciden con el Libro de las Profecías de la Gracia, pero no habría actuado solo por eso.
+0078 [Angie] | La difunta Emperatriz guardaba escondido un viejo libro con tu retrato dibujado, pero tampoco habría actuado solo por eso.
+0079 [Angie] | Porque... Después de volver al pasado, ya no creo en nadie... ni en nada.
+0080 [Angie] | Sin embargo... No me queda más remedio que creer en mí misma.
+0081 [Angie] | ¡El Tirano que destruye el mundo es el Tirano que posee ese sistema!
+0082 [Narración] | ==Off==Solo he tenido un objetivo en la vida. Y es salvar a Nova de un Tirano así.
+0083 [Angie] | ¿Entiendes lo que intento decirte? Tirano... Si tú no estuvieras aquí, el desastre que nos espera no ocurriría.
+0084 [Angie] | Dicho esto, sé lo irracional que sueno ahora mismo...
+0085 [Angie] | Morir contigo sería mi expiación.
+0086 [Tú] | ¿Qué tonterías estás soñando despierta? ¡¿Por qué tiraría mi vida por tus desvaríos de loca?!
+0087 [Angie] | ¡Solo nuestras muertes abrirán el camino a la salvación de todos! ¡Por eso lo sacrificaré todo por Nova!
+0088 [Angie] | Y bien, Tirano, ¿qué dices?
+0089 [Angie] | ¡No es solo por la gente de Mirage! ¡También estarás protegiendo a las personas que más te importan!
+0090 [Tú] | Ya basta de faroles. Mi destino lo decido yo.
+0091 [Tú] | ¡Si de verdad existe una crisis capaz de destruir el mundo, lucharía para detenerla pase lo que pase!
+0092 [Tú] | Intentas usar a mis amigas y a Mirage como moneda de cambio, pero ya disparaste nueve balas con ese Cetro de la Muerte. Solo te queda una, ¿verdad?
+0093 [Angie] | Je. Así que sí las estabas contando.
+0094 [Angie] | Es como dices. Al Cetro de la Muerte solo le queda una carga... Ni siquiera puede atravesar tu protección mágica.
+0095 [Angie] | Pero no estoy echando faroles.
+0096 [Angie] | Elige, Tirano.
+0097 [Narración] | ¿Morirás conmigo, o toda Nova quedará sepultada con nosotros?
+0098 [Tú] | ... ¿Tantas derrotas seguidas por fin te hicieron perder la razón?
+0099 [Angie] | Je. Quizá.
+0100 [Angie] | Haga lo que haga, nunca logro adelantarme a ti.
+0101 [Angie] | Viste a través de cada uno de mis movimientos. Incluso cuando creía que te había alcanzado, seguía un paso atrás.
+0102 [Angie] | ¿Cómo es posible, si soy yo la que tiene recuerdos del futuro? Ja, es tan frustrante...
+0103 [Angie] | Pero, a juzgar por esa cara de confusión, todavía no sabes... de mi arma secreta.
+0104 [Narración] | Angie saca lentamente una pieza de ajedrez... Una Torre Negra.
+0105 [Tú] | Tú también tienes un Sello de la Gracia...
+0106 [Angie] | Esta Torre Negra me otorga la autoridad para controlar un Monolito.
+0107 [Angie] | Solo que este Monolito es muy inusual y se mantiene suspendido en lo alto del cielo.==W== Solo quien posee esta pieza puede viajar allí usando una capa especial.
+0108 [Tú] | ¡¿Un Monolito en el cielo?! Quieres decir...
+0109 [Angie] | Por fin lo entendiste, ¿verdad?
+0110 [Angie] | En este momento, ese Monolito flota sobre Mirage, tan alto que es invisible a simple vista.
+0111 [Angie] | Por cierto, si dejo de respirar, este Monolito empezará a desmoronarse… y caerá del cielo. Entonces...
+0112 [Angie] | Moriremos.
+0113 [Narración] | Tus compañeras morirán.
+0114 [Angie] | ¡Así es! ¡Todo quedará sepultado en la oscuridad de la historia! ¡También Mirage y todo lo que pasó ahí!
+0115 [Tú] | ¡Angie, detente! Estás loca...
+0116 [Angie] | Es posible. Pero si hace falta una loca para salvar el mundo...
+0117 [Angie] | Aceptaré ese papel con gusto.
+0118 [Tú] | ¡Espera, Angie! ¡Baja el Cetro de la Muerte!
+0119 [Angie] | Con solo sacrificar un pueblito fronterizo sin valor, el resto del mundo escapará de la aniquilación.
+0120 [Angie] | Ya que diriges una empresa, deberías saber si la ganancia justifica el costo.
+0121 [Narración] | Eso es todo por ahora, Tirano.
+0122 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0123 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0124 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0125 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0126 [Narración] | _NOT_IN_LOG_==A0.1====Off==Adiós.
+0127 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0128 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0129 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0130 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0131 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0132 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0133 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0134 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós.
+0135 [Narración] | ==Off==Adiós.
+0136 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0137 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0138 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0139 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0140 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0141 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0142 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0143 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0144 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0145 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0146 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0147 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0148 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0149 [Narración] | _NOT_IN_LOG_==A0.05====Off==Adiós. Y ahora...
+0150 [Narración] | ==Off== Y ahora...
+0151 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0152 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0153 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0154 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0155 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0156 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0157 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0158 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0159 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0160 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0161 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0162 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0163 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0164 [Narración] | _NOT_IN_LOG_==A0.05====Off== Y ahora... Acompáñame—
+0165 [Narración] | ==Off== Acompáñame—
+0166 [Narración] | —y conviértete en los cimientos del nuevo mundo.
+0167 [Cosette] | El Jefe y esa gente con uniformes del Imperio de la Gracia deberían estar peleando dentro de este Monolito...
+0168 [Cosette] | Esta vez no voy a fallar por nada del mundo.
+0169 [Cosette] | ¡Los Monolitos son el territorio de Nocturn Eterna!
+0170 [Cosette] | ¿Eh? ¿Por qué se oscureció el cielo? ¡¿Q-qué es eso?! ¡¿Por qué hay un Monolito en el cielo?!

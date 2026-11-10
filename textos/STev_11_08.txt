@@ -1,0 +1,125 @@
+# Evento · Surf y salpicaduras: ¡una brillante aventura de vacaciones! · 8 · Fracturas y refugio
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Glopo Duke Ⅲ | Duque Glopo Ⅲ
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_142 | Cosette
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg1_160 | Willow
+N:avg2_938 | Duque Glopo
+N:avg2_945 | Cangrejo ermitaño
+N:avg3_100 | Sylar
+N:avg3_161 | Leafia
+N:avg3_937 | La multitud
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Fracturas y refugio
+0003 [Intro] | El grupo trabaja en equipo para reparar la caracola dañada, lo que permite al cangrejo ermitaño recuperar por fin su hogar, y todos regresan navegando sanos y salvos. Entre los elogios de sus amigos, Karin por fin hace las paces con sus lentes.
+0004 [Glopo Duke Ⅲ] | ¡Hmphhh—!
+0005 [Karin] | ¡Vuelve aquí! ¡Hace un momento te hacías el rudo, ¿eh?!
+0006 [Shia] | Tranquila, Karin. Déjalo ir. Recuperamos la caracola, eso es lo que cuenta.
+0007 [Karin] | Está bien.==W== Hmph. Qué lata.
+0008 [Leafia] | Esta caracola es preciosa. Fresca y lisa como el jade. No me extraña que todos la quisieran.
+0009 [Willow] | Qué lástima ese agujero enorme, eso sí. Ya no se le puede llamar hogar, ¿o sí?
+0010 [Hermit Crab] | Kha...
+0011 [Karin] | Oye, deja de llorar. Ya veremos qué hacer.
+0012 [Karin] | Nos costó mucho recuperarla. No voy a dejar que te quedes sin hogar.
+0013 [Amber] | ¿Se puede arreglar?
+0014 [Iris] | Si fueran unas cuantas grietas, quizá.==W== Pero un agujero tan grande...
+0015 [Noya] | ¡Estamos dentro de un Monolito! ¿Por qué no pedimos los materiales como deseo?==W== Cuando se rompió la ventana de Loxy, pedí un cristal nuevo y se lo puse sin más.
+0016 [Leafia] | Buena idea. Pero, ¿qué necesitamos?
+0017 [Leafia] | Karin, tú eres la experta marina. ¿Tienes idea de qué está hecha en realidad esta caracola?
+0018 [Karin] | Déjame pensar...
+0019 [Karin] | Estas caracolas gigantes son mucho más gruesas que las normales. Increíblemente duras por fuera, pero flexibles por dentro, lo que les permite absorber el impacto de las olas.
+0020 [Karin] | Así que para repararla necesitaríamos algo impermeable con un adhesivo súper potente...
+0021 [Narración] | Karin detalla con cuidado las propiedades del material necesario para reparar la caracola.
+0022 [Leafia] | Suena complicado. ¿Existe siquiera un solo material que haga todo eso?
+0023 [Tú] | No tenemos que depender de uno solo.==W== Si los combinamos, serían tres componentes: un relleno estructural, un adhesivo y un sellador.
+0024 [Tú] | Para la base, un compuesto que equilibre dureza y flexibilidad. Resina para el pegamento, y para el sellador...==W==
+0025 [Tú] | Oh poderoso Dios de la Gracia, escucha nuestra plegaria... Por favor concédeme...
+0026 [Tú] | Listo, eso es todo.
+0027 [Willow] | Hora de parchar esto.==W== Pero... ¿Alguien aquí sabe cómo arreglar una caracola?
+0028 [The Crowd] | ...
+0029 [Karin] | No puede ser tan distinto a arreglar un barco, ¿no?==W== Tapamos el agujero,==W== y luego...==W== Eh...
+0030 [Cosette] | Eh...==W== ¿Quizá podría intentarlo yo?
+0031 [Tú] | ¿Has arreglado una caracola antes, Cosette?
+0032 [Cosette] | No exactamente...==W== Pero cavo muchas trampas... Y soy buenísima haciendo que se mimeticen con el entorno.
+0033 [Cosette] | A-Además...==W== Cada vez que termino una bebida, siempre vuelvo a pegarle la anilla a la lata. De recuerdo.
+0034 [Cosette] | Cuando se trata de hacer que las cosas encajen sin que se note...==W== ¡T-Tengo mucha experiencia!
+0035 [Tú] | Eso tranquiliza. Nosotros nos encargamos del trabajo pesado y tú nos guías, Cosette.
+0036 [Cosette] | ¡Listo!
+0037 [Hermit Crab] | ¡Kh-khah!
+0038 [Karin] | De verdad no se nota la unión. Ni siquiera se siente el parche. Pedir ese papel de lija definitivamente fue buena idea.==W== Gracias, Cosette.
+0039 [Cosette] | D-De nada...
+0040 [Leafia] | Lástima que no pudimos quitar esta grieta tan evidente.
+0041 [Willow] | En realidad eso le conviene.==W== Con una grieta así, baja el valor de coleccionista. Nadie volverá a intentar robarla para sacar dinero rápido.
+0042 [Karin] | Exacto. Sin importar cuánto crean los humanos que vale, para el cangrejo esta caracola no tiene precio.==W== Es su hogar.
+0043 [Hermit Crab] | ¡Kha!
+0044 [Noya] | ¡Debe de estar emocionadísimo!
+0045 [Karin] | Sí. Con una sonrisa así, definitivamente le encanta su nueva caracola.
+0046 [Iris] | ¿Cómo puedes leer la expresión de un cangrejo...?==W== Sabes qué, mejor olvídalo.
+0047 [Shia] | Jeje. El cangrejo encontró su hogar, lo que significa que nuestra aventura está por terminar.==W== Probablemente deberíamos averiguar cómo salir de aquí.
+0048 [Leafia] | Considerando dónde está este Monolito...==W== Aunque salgamos, seguiremos bajo el agua, ¿no?
+0049 [Noya] | Espera...==W== ¡¿Vamos a tener que regresar nadando?!
+0050 [Tú] | ¿Todos listos? A la cuenta de tres, aguantamos la respiración y salimos corriendo.
+0051 [Tú] | Uno,==W== dos,==W== ¡tres!
+0052 [Karin] | Espera...==W== ¿Suelo firme?
+0053 [Tú] | Parece que el Monolito nos dejó en una isla cualquiera.
+0054 [Noya] | ¡Sí! Qué suerte. ¡Pensé que tendríamos que nadar hasta la superficie desde el fondo!
+0055 [Iris] | ¿Pero ahora qué? Nuestro barco sigue en el fondo del océano.
+0056 [Karin] | Si el casco está intacto, Shia y yo podemos subirlo.
+0057 [Tú] | Ni siquiera hace falta. Miren allá.
+0058 [Glopo Duke Ⅲ] | Hmph...
+0059 [Narración] | Una burbuja gigante eleva el barco de Shia hasta la superficie.
+0060 [Karin] | ¿Pusiste al Duque Glopo a hacer el trabajo pesado? Nada mal, pequeño.
+0061 [Hermit Crab] | Kh-khah, kh-khah.
+0062 [Karin] | Oh, ¿nos tiene miedo? No creí haberle pegado tan fuerte.
+0063 [Hermit Crab] | ¡Kha, kha!
+0064 [Karin] | Perfecto. El daño en el casco es mucho menor de lo que esperaba. No afectará nuestra navegación para nada.
+0065 [Shia] | Solo sobrevivimos a ese remolino gracias a ti, Karin.==W== Si no, este barco estaría hecho pedazos ahora.
+0066 [Shia] | Jeje. Ya eres una excelente Trekker marina.
+0067 [Karin] | ¡S-Solo hice mi trabajo!==W== Todavía estoy lejísimos de ser una excelente Trekker marina.
+0068 [Shia] | Pero te esfuerzas muchísimo por tu sueño. Esa clase de dedicación no la tiene cualquiera.
+0069 [Shia] | Así que... Toma. Esto es tuyo.
+0070 [Karin] | ¿Mis lentes? Se me cayeron en el Monolito. ¿Fuiste por ellos?
+0071 [Shia] | Quieta~==W==
+0072 [Karin] | ¿Eh? ¡Espera, yo me los puedo poner sola!
+0073 [Karin] | ¿Q-Qué haces...
+0074 [Shia] | Estarías perdida sin ellos, ¿no?
+0075 [Karin] | No lo estaría... Estoy perfectamente bien sin ellos.
+0076 [Shia] | Te veías increíble allá afuera con tus lentes puestos.
+0077 [Karin] | ... ¿Qué?
+0078 [Noya] | ¡Sí! Sobre todo cuando te los pusiste, gritaste «Voy a hacer que lo pague» y te lanzaste. ¡Estuvo épico!
+0079 [Leafia] | Diste lo mejor de ti en cuanto te los pusiste.
+0080 [Karin] | Bueno... Me dejan ver bien, nada más.
+0081 [Willow] | Lo que significa que tus lentes te hacen más fuerte, Karin.
+0082 [Karin] | ¿Mis lentes... me hacen más fuerte?
+0083 [Iris] | Además, te ves bonita con ellos puestos.
+0084 [Amber] | Te ves como toda una profesional.
+0085 [Karin] | ...
+0086 [Karin] | ¿A qué viene todo esto tan de repente...?
+0087 [Opción] | Porque lo decimos en serio.
+0088 [Karin] | ...==W== Ugh, qué pesados son. ¡Voy a preparar el barco! ¡Dejen de amontonarse y de mirarme!
+0089 [Karin] | Y...
+0090 [Karin] | Gracias, a todos.
+0091 [Leafia] | ...
+0092 [Karin] | ¿Qué haces aquí afuera? ¿No deberías estar descansando?
+0093 [Leafia] | Tengo que registrar las coordenadas del Monolito submarino, las condiciones del mar y las anomalías que confirmamos.
+0094 [Narración] | Leafia aferra su portapapeles y escribe línea tras línea con total concentración. Se detiene al final y, con solemnidad, añade una última nota:
+0095 [Narración] | Navegantes: Karin y Shia.
+0096 [Karin] | Ni siquiera estoy en la Asociación de Trekkers. ¿Por qué pones mi nombre?
+0097 [Leafia] | Porque hiciste una enorme contribución a este estudio. Sin ti y sin Shia, estoy segura de que jamás habríamos encontrado el Monolito submarino.
+0098 [Leafia] | Karin, tú y Shia son las mejores Trekkers marinas que he conocido.
+0099 [Karin] | Hmph~ E-Escribe lo que quieras...==W== Pero si me preguntas...
+0100 [Karin] | Tú... Tú eres la mejor topógrafa que he...==W== ¡Espera, oye! ¡¿Por qué tu cara está cambiando de todos los colores?!
+0101 [Leafia] | Las curvas de nivel... Están ondulando...==W== Urrgh...
+0102 [Karin] | ¡No, no, no, no! ¡No vomites! ¡Aguanta un poco más!
+0103 [Willow] | ¡Karin! ¿Queda algo de remedio contra el mareo? Cosette está...
+0104 [Karin] | ¡Argh! ¿Lo planearon?==W== ¡Voy por la medicina! ¡Todos, aguanten!
+0105 [Karin] | Se los dije... ¡NO vomiten en mi barco!

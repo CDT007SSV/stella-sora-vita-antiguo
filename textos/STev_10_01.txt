@@ -1,0 +1,136 @@
+# Evento · Brisa soleada y mares azules: ¡check-in para un verano acogedor! · 1 · ¡Hora de vacaciones!
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Fisherman in Trouble | Pescador en apuros
+N:Mysterious Clerk | Empleada misteriosa
+N:Noya & Iris & Amber | Noya, Iris y Amber
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_150 | Laru
+N:avg1_158 | Laru
+N:avg2_982 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_102 | Willow
+N:avg3_152 | Bastelina
+N:avg3_164 | Iori
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | ¡Hora de vacaciones!
+0003 [Intro] | Willow, una de las veteranas más confiables de la Asociación de Trekkers, trabaja tanto que hace mucho que no se toma unas vacaciones. Con la ayuda de Laru, tú y unos amigos por fin logran convencerla de irse de vacaciones todos juntos...
+0004 [Fisherman in Trouble] | Cof... Cof, cof...==W== Esa fue la última gota de agua.
+0005 [Fisherman in Trouble] | Dos días a la deriva. Sin tierra a la vista... Si hubiera sabido de esa tormenta, me habría quedado en tierra firme.
+0006 [Fisherman in Trouble] | ¿Eh? ¿Por qué el agua está...==W== brillando?
+0007 [Fisherman in Trouble] | ¿Eso es... un M-Monolito? ¡Hace un segundo no había nada ahí!
+0008 [Fisherman in Trouble] | ¡Qué más da! ¡Si logro llegar hasta allá, tal vez sobreviva!
+0009 [Narración] | Si tan solo pudiera llegar...
+0010 [Mysterious Clerk] | ¡Felicidaaades, afortunado cliente!==W== ¡Ganaste! ¡Y es nada menos que el gran premio máximo! ¡Cinco años seguidos sin que nadie lo reclamara!
+0011 [Mysterious Clerk] | ¡Ganaste una escapada de lujo al Seaside Resort! ¡Con esa suerte, todos van a morirse de envidia!
+0012 [Noya] | ¡Siií!
+0013 [Mysterious Clerk] | ¡Mira el folleto! ¡Suites de lujo con vista al mar y una playa privada! ¡Las vacaciones definitivas!
+0014 [Mysterious Clerk] | ¡Y hay más! ¡Este paquete incluye cinco boletos! Lleva a tus amigos y a tu familia, y disfruten juntos la magia del Seaside Resort.
+0015 [Noya] | ¡Y esa es la historia!
+0016 [Willow] | ¿El gran premio máximo, eh? Qué suerte tan impresionante.
+0017 [Noya] | ¿Verdad? Yo tampoco puedo creer que de verdad lo hayamos ganado.
+0018 [Willow] | Bueno, felicidades. Asegúrense de cuidarse en la playa.
+0019 [Noya] | ¿De qué hablas? ¡Tú vienes con nosotros, Willow!
+0020 [Willow] | ¿Perdón?
+0021 [Noya] | ¡Tenemos cinco boletos completitos!
+0022 [Tú] | Ejem. Lo que Noya quiere decir es...
+0023 [Tú] | Nosotros cuatro más tú somos cinco. Podemos ir todos juntos.
+0024 [Willow] | Suena tentador, pero últimamente el trabajo se ha acumulado en la Casa de los Trekkers...
+0025 [Noya] | Pero... ¡es un premio que nadie había ganado en cinco años!
+0026 [Amber] | Hay cinco boletos, pero solo somos cuatro.
+0027 [Iris] | ¡E-Exacto! ¡Sería un gran desperdicio no usarlos!
+0028 [Willow] | Agradezco el detalle, pero mi trabajo...
+0029 [Noya] | Willow... ¿Recuerdas siquiera cuándo fue tu último día libre?
+0030 [Willow] | ¿Eh?
+0031 [Iris] | ¡Nos enteramos! Tus últimas vacaciones fueron hace seis meses.==W== ¡Y esa misma noche volviste a la oficina! ¡Es una locura!
+0032 [Willow] | Sí que investigaron bien...
+0033 [Tú] | No, no... Cuando llegamos, solo saludamos a los demás y de casualidad salió el tema de ti.
+0034 [Willow] | Ah...==W== Así que fue casualidad.
+0035 [Willow] | Iori. Tú les soplaste la información, ¿verdad?
+0036 [Iori] | Sí. Tu agenda no es información clasificada. No hay ningún daño.
+0037 [Willow] | ...
+0038 [Willow] | Déjenme adivinar, la empleada que repartía los premios...==W== ¿Ojos morados, coletas?
+0039 [Noya] | ¿Eh? ¿Cómo supiste que era La...?
+0040 [Iris] | ¡¡Noya!!
+0041 [Noya] | ¡Ah, no, no, no! ¡Para nada ella! No, definitivamente no era Laru...==W== Ups.
+0042 [Willow] | Jeje... De acuerdo desde el principio, todo para sacarme de la oficina.
+0043 [Noya] | Ejeje... Nos descubriste.
+0044 [Willow] | Si querían pasar el rato, podían haberlo pedido. ¿Para qué tanto plan elaborado?
+0045 [Iris] | Eres demasiado dedicada, Willow. Si te lo pedíamos directamente, encontrarías alguna excusa para decir que no.
+0046 [Noya] | ¡Exacto! La última vez que te invitamos a salir, nos rechazaste de plano.
+0047 [Amber] | Y la vez anterior también.
+0048 [Willow] | Buen punto... No puedo negarlo.
+0049 [Tú] | Queríamos que descansaras, pero pedírtelo amablemente no iba a funcionar. Así que nos pusimos creativos...
+0050 [Noya] | ¡Un premio que sale una vez cada cinco años y un grupo perfecto de cinco!
+0051 [Noya] | Si no lo dejábamos como un hecho, nunca habrías aceptado venir.
+0052 [Willow] | Ya veo... Gracias por tomarse la molestia.
+0053 [Iori] | Ve con ellos, Willow. Todos coinciden en que ya te hace falta un descanso.
+0054 [Iori] | Nosotros nos encargamos de la Casa de los Trekkers mientras no estés. Tú solo ve a divertirte.
+0055 [Iori] | Odio cargar con trabajo extra...==W== Pero por ti haré una excepción.
+0056 [Tú] | Hasta Iori te está animando, Willow. Ya no te quedan excusas.
+0057 [Willow] | Muy bien, ya que lo tienen todo planeado...==W== Sería muy desagradecido de mi parte negarme.
+0058 [Iris] | O sea...
+0059 [Willow] | Sí. Será un placer acompañarlos.
+0060 [Noya] | ¡Sí! ¡Vacaciones con Willow!
+0061 [Amber] | Éxito.
+0062 [Iris] | Uf... Lograr que Willow se tome un descanso es casi un milagro.
+0063 [Willow] | Pero con una condición. Como vamos a la playa, la seguridad de todos...
+0064 [Willow] | ...es completamente responsabilidad mía.
+0065 [Noya & Iris & Amber] | ¿Eh?
+0066 [Willow] | Las conozco. Sin supervisión, se vuelven locas.
+0067 [Willow] | Sobre todo tú, Noya.
+0068 [Noya] | ¡Qué mala! ¿Por qué me señalas a mí?
+0069 [Willow] | En resumen, voy a redactar un manual de seguridad completo. Incluye zonas para nadar, higiene de los alimentos y reglas de recreación.
+0070 [Noya] | ¿¡Se supone que son vacaciones!?
+0071 [Willow] | Exacto~ Por eso no voy a dejar que nada arruine nuestro viaje.
+0072 [Narración] | Una hora después
+0073 [Iris] | Aquí quedamos de vernos,==W== ¿verdad?
+0074 [Noya] | ¿Dónde está todo el mundo?
+0075 [???] | ...
+0076 [Noya] | ¡Wow! ¡Me asustaste!
+0077 [???] | ¡La contraseña! ¡Rápido, di la contraseña!
+0078 [Noya] | La contraseña es... Espera, ¿cuál era? Papas... ¿Qué papas...?
+0079 [Iris] | ¿Papas suaves y calientitas?
+0080 [???] | Un momento.
+0081 [Amber] | Papas doradas y crujientes.
+0082 [Laru] | ¡Bingo! ¡Lo lograste! ¡Papas doradas y crujientes!
+0083 [Laru] | ¡Te equivocaste por mucho! ¿A quién le gustan las papas suaves?
+0084 [Tú] | Laru nunca desaprovecha una oportunidad para hacer el payaso...
+0085 [Tú] | En fin, el plan funcionó. Willow aceptó venir al resort con nosotros.
+0086 [Laru] | ¡Genial! ¡Sabía que lo lograrías! ¡Así es nuestro Tirano!
+0087 [Amber] | ¿«Nuestro» Jefe?
+0088 [Laru] | ¡No, espera, no lo dije en ese sentido!==W== ¡Oye, ==PLAYER_NAME==! ¿¡Por qué esta niña me mira con ganas de matarme!?
+0089 [Laru] | Bueno, mientras Willow vaya, valió la pena renunciar a este viaje.
+0090 [Tú] | ¿Seguro que nos das estos boletos así nomás, gratis?
+0091 [Laru] | ¡Tengo que hacerlo! Mira esta cara pálida: llevo tres días enteros sin tener un segundo para holgazanear...
+0092 [Laru] | Todo el departamento está trabajando sin parar. Si intentara escaparme de vacaciones, Albedo me colgaría de los tobillos con hilo de pescar en la oficina como advertencia...
+0093 [Laru] | Buaaah... En realidad yo también quería ir al resort a pescar...
+0094 [???] | Ya veo, ya veo~♪
+0095 [Bastelina] | Así que así «elogia» a Lady Albedo a sus espaldas, señorita Laru.
+0096 [Laru] | ¡¡¡AAAAAAAAAAAAH!!!
+0097 [Laru] | ¡Por favor, por favor, no le digas que andaba holgazaneando! ¡Si lo haces, estoy muerta! Te doy la mitad de mis papas...==W== No, espera, ¡te compro todas las que quieras!
+0098 [Bastelina] | Lo siento, no puedo ayudarla. Lady Albedo notó que no estaba y me envió a «invitarla» a volver.
+0099 [Laru] | Jaja... Estoy muerta...
+0100 [Bastelina] | Entonces nos retiramos. ¡Nos vemos!
+0101 [Iris] | Laru va a estar bien... ¿Verdad?
+0102 [Noya] | ¿Así funcionan las grandes empresas? Uf.
+0103 [Tú] | ¡B-Bueno! No podemos desperdiciar el regalo de Laru. ¡Hay que aprovechar bien estos boletos!
+0104 [Iris] | ¡Exacto! Tenemos que asegurarnos de que Willow tenga unas vacaciones increíbles.
+0105 [Tú] | Laru... Tu sacrificio no será en vano...
+0106 [Iris] | Deberíamos comprar algunas provisiones antes de irnos.
+0107 [Tú] | Y para un viaje a la playa, lo primero que necesitamos es...
+0108 [Noya] | ¡Pep Pep Juice!
+0109 [Iris] | ¿Medicina para la insolación?
+0110 [Amber] | Trajes de baño.
+0111 [Tú] | ¿Trajes de baño? ¿No los tenemos ya?
+0112 [Amber] | La señorita Iori dijo que seguramente Willow no tiene uno.
+0113 [Iris] | A Willow todavía le falta terminar trabajo antes de irnos, así que no tendrá tiempo de ir de compras. Elijamos uno por ella.
+0114 [Noya] | ¡Genial! ¡Será el regalo de viaje perfecto para ella!
+0115 [Tú] | Muy bien, vamos de compras.

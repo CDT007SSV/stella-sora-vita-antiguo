@@ -1,0 +1,176 @@
+# Capítulo 5 · Una chispa en la oscuridad · 10 · Momento de primera plana
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blade of Jade | Espada de Jade
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_135 | Mistique
+N:avg2_964 | Hummingbird
+N:avg2_972 | Guantelete de la Ira
+N:avg3_100 | Sylar
+N:avg3_134 | Mina
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | Momento de primera plana
+0003 [Intro] | La Espada de Jade recarga su magia y vuelve a atacar. Mistique rescata a Mina y le encarga proteger las pruebas guardadas en la capturadora de fotos; luego se ofrece como carnada para alejar a la Espada de Jade.
+0004 [Lugar y hora] | 23:10, 4.º del mes de Messis, Distrito Invernadero de Philae, Invernadero n.º 100
+0005 [Mina] | ¿S-se fue?
+0006 [Mistique] | Se metió más adentro.
+0007 [Tú] | Mistique, ¿la perseguimos?
+0008 [Mistique] | Paso.==W== Vine a exponer a Cosecha Unida, no a cazar monstruos.
+0009 [Mistique] | Además, ya tengo un montón de fotos. Hasta que no saque esta capturadora de fotos sana y salva, el resto del viaje es pura formalidad.
+0010 [Mina] | ...
+0011 [Mistique] | ¿Quién iba a decir que un caso menor de pan traería tanto bagaje? Neo Solution prohibida, Plantas Inteligentes...==W== y alguien que intenta callarnos para siempre.
+0012 [Mistique] | Hasta la Espada de Jade estaba metida.==W== Je, esto va a dar para un artículo de miedo♪
+0013 [Mistique] | Aun así, ¿conseguir tanta mugre de una sola vez? Quizá sea el karma recompensándome por ser tan santa ★
+0014 [Mina] | ...
+0015 [Mistique] | Todavía no me has contestado.==W== Tú eres la gerente, Mina. ¿Qué decides sobre estas fotos?
+0016 [Mina] | Si esto se filtra, Cosecha Unida está acabada...==W== La sucursal de Philae podría cerrar por completo. Toda esa gente, sin trabajo...
+0017 [Mina] | No, espera. Quizá la sede pueda arreglarlo... Nyx es inspectora. Ella puede reportarlo internamente, manejarlo como se debe...
+0018 [Mistique] | No cuentes con eso. Nyx puede ser honesta, ¿pero la sede?==W== ¿Por qué iban a sacar sus trapos sucios al sol? Los dramas internos no importan, pero un escándalo público quema Dorra de verdad.
+0019 [Mina] | Ugh...==W== Lo sé. Sé que tienes razón.
+0020 [Mina] | Si enterramos la verdad ahora, la historia simplemente se va a repetir.==W== Yo... me doy cuenta.
+0021 [Mina] | Tengo que dejar de lado mis sentimientos. Tomar la decisión correcta. Lógicamente... sé perfectamente lo que hay que hacer.
+0022 [Mina] | Pero...==W== si de verdad lo hago,==W== ¡todo aquello en torno a lo que construí mi vida se va a derrumbar!
+0023 [Mistique] | Oye, no soy una desalmada. Entiendo por qué estás dividida, Mina.
+0024 [Mistique] | Pero, como decimos en Scarlet Sights: «Más vale publicar una historia desordenada que dejar la página en blanco».
+0025 [Mistique] | Jefe, ¿cuánto falta para que llegue Fuyuka?
+0026 [Tú] | Fuyuka y el Gremio de la Nueva Estrella siguen abriéndose paso entre las enredaderas de la reja del invernadero. Diría que...==W== nos toca esperar un rato.
+0027 [Mistique] | Perfecto. Entonces es hora de un cuento.
+0028 [Mistique] | Tómenlo como un examen de admisión. Es un caso que toda bruja tiene que responder antes de que Scarlet Sights Media siquiera la tome en cuenta.
+0029 [Mistique] | Una bruja viajera llega a un pueblo justo cuando un monstruo salvaje empieza a atacar a los habitantes. Si no hace nada, el lugar quedará arrasado en un momento.
+0030 [Mistique] | Peor aún, hay otros pueblos cerca que no saben nada del monstruo. Cualquiera de ellos podría ser el siguiente objetivo.
+0031 [Mistique] | La bruja tiene dos opciones.
+0032 [Mistique] | Una: salvar a los habitantes y ahuyentar al monstruo, pero a costa de perder la foto. Sin una foto, nadie cree que la amenaza sea real.
+0033 [Mistique] | Dos: fotografiar la masacre. Usar esa prueba para advertir a las regiones cercanas de la crisis.
+0034 [Mistique] | Entonces, ¿qué harías?
+0035 [Opción] | Salvar a los aldeanos
+0036 [Opción] | Tomar la foto
+0037 [Opción] | Darle una paliza al que cuenta la historia
+0038 [Tú] | Ahuyentar al monstruo, obviamente. Olvídate de la foto: salvar vidas es lo primero.
+0039 [Mina] | Sí... Estoy con el Jefe. Yo también salvaría a los aldeanos.
+0040 [Mistique] | Y justo por eso ninguno de los dos tiene madera de bruja.
+0041 [Mistique] | En Scarlet Sights solo pasan los que eligen «tomar la foto».
+0042 [Mina] | ¿Pero y el pueblo?
+0043 [Mistique] | Mira, salvar gente es cosa de los Trekkers o de la Guardia Imperial. No está en la descripción del puesto de una bruja.
+0044 [Mistique] | La sociedad sobrevive porque cada quien hace su parte. Esa división del trabajo es lo único que mantiene estable el sistema.
+0045 [Mistique] | Piénsalo. Si nosotras también nos ponemos a jugar a las heroínas, ¿quién queda para dar la alarma? Sin una advertencia, el siguiente pueblo no tendrá ninguna oportunidad.
+0046 [Mina] | Yo los salvaría.
+0047 [Tú] | Yo tomo la foto.
+0048 [Mina] | ¿Eh? ¿Por qué? ¿No es prioridad salvar vidas?
+0049 [Tú] | Claro que las vidas importan. Pero piensa en lo que cuesta quedarse sin pruebas.
+0050 [Tú] | Salvas un pueblo, sí. Pero sin nadie que les avise, los vecinos quedan completamente expuestos. Terminas poniendo en peligro a mucha más gente.
+0051 [Mina] | Entonces estás diciendo...==W== ¿que sacrificar a uno para salvar a cien es aceptable?
+0052 [Tú] | Tranquila, Mina. Solo es un experimento mental, no la realidad.
+0053 [Tú] | Si fuera real, los Trekkers intervendrían y se encargarían.
+0054 [Mistique] | Calificación perfecta, Jefe. Si hubieras nacido en Flavio, harías un papel genial como ==SEX16==.
+0055 [Mina] | Los salvaría, obviamente. ¿Por qué siquiera es una pregunta?
+0056 [Tú] | ... Mmm. En ese caso...
+0057 [Tú] | Elijo darle una paliza al que cuenta la historia.
+0058 [Mistique] | ¡Jajaja! Esa respuesta es tan del Jefe... No, espera, eso es pura energía de «Tirano Legendario». Me encanta.
+0059 [Tú] | ¿Salvar a una persona es la respuesta «correcta» si pone a otras cien en la línea de fuego?
+0060 [Tú] | Pero, por otro lado, ¿sacrificar a uno para salvar a cien? Eso también me pesaría en la conciencia.
+0061 [Tú] | La culpa no es de quien elige, ni de la bruja, ni de los aldeanos. Es de quien se inventó este escenario tan retorcido en primer lugar...
+0062 [Tú] | Así que, si le doy una paliza a ese tipo, los aldeanos quedan a salvo y la bruja no tiene que atormentarse con su decisión.
+0063 [Mistique] | En fin, ya captaron la idea, ¿no? Igual que Mina insiste en apegarse a las reglas...
+0064 [Mistique] | Buscar la verdad, difundir la verdad. Ese es el código con el que viven las brujas. Y, siendo honesta, ese es justo el papel que la sociedad espera que cumplamos.
+0065 [Mistique] | Así que...==W== si de verdad quieres proteger algo, la decisión es tuya. ¿Entierras la verdad a cambio de paz?==W== ¿O la enfrentas de frente, aunque eso signifique lastimar a otros?
+0066 [Mina] | Yo...
+0067 [Tú] | Elija lo que elija Mina, dudo que pueda darnos una respuesta ahora mismo.
+0068 [Tú] | Mistique, ¿y tú qué respuesta diste en ese entonces?
+0069 [Mistique] | ¿Mmm? ¿Te da curiosidad?
+0070 [Tú] | Sí, solo como referencia...==W== ¿Eh? Perdón, espérame un segundo.
+0071 [Tú] | Mensaje de Nazuka. Le pedí que identificara esa pluma.
+0072 [Nazuka] | Jefe, la revisé con más calma. Definitivamente es una pluma de la Espada de Jade.
+0073 [Tú] |
+0074 [Tú] | Aguas... De hecho, acabamos de pelear contra la Espada de Jade.
+0075 [Nazuka] | ¡¿Pelearon contra ella?! ¿Están todos bien?
+0076 [Tú] | Estamos bien. Mistique le drenó toda la magia de las alas. Se fue volando.
+0077 [Tú] |
+0078 [Tú] | Cosecha Unida la tenía en el invernadero para cultivar la Hierba de Jade.
+0079 [Nazuka] | Aprovechar el poder de la Espada de Jade... No me lo esperaba. Espera, ¿a Mistique todavía le queda Gracia en su Piedra del Alma?
+0080 [Tú] | Sí. Le alcanza para enfrentarla otra ronda o dos.
+0081 [Nazuka] | No, cualquier resto de Gracia es justamente lo peligroso... La Espada de Jade absorbe magia pura, o sea, Gracia, para regenerarse.
+0082 [Nazuka] | La última vez que la cazamos, nos chupó la Gracia directamente de las Piedras del Alma.
+0083 [Nazuka] | El equipo recibió una paliza antes de que nos diéramos cuenta.
+0084 [Nazuka] | Al final, todos tuvieron que vaciar su Gracia a propósito. Yo la enfrenté sola.
+0085 [Nazuka] | Eso es lo esencial. Fíjense bien en lo que los rodea por si regresa.
+0086 [Tú] | Se regenera absorbiendo magia...==W== ¡¿Magia?!
+0087 [Mistique] | Ay, no. A lo mejor no huyó... ¡A lo mejor fue a drenar la Neo Solution para recargarse!
+0088 [Mistique] | ¡Hablando del diablo...! ¡Jefe, Mina, cuidado!
+0089 [Mistique] | Uf... Eso sí dolió. Pájaro tonto,==W== ¿llenaste el tanque solo para venir a vengarte?
+0090 [Blade of Jade] | ¡SKRIIII...!
+0091 [Fuyuka] | ¡Oye! ¡Aquí no se permiten destrozos! ¡Maestro, Mistique senpai, Mina senpai! ¡Corran!
+0092 [Tú] | Fuyuka, justo a tiempo. Gracias por salvarnos.
+0093 [Iris] | ¡Corran! ¡Las enredaderas están bloqueando la reja otra vez! ¡Muévanse, ya!
+0094 [Tú] | Vámonos.
+0095 [Amber] | Los cubro.
+0096 [Noya] | ¡Toma esto!
+0097 [Narración] | Los disparos de Amber y el viento de Noya desvían a la Espada de Jade en plena picada. Mistique me jala a su escoba y salimos disparados por las puertas del invernadero.
+0098 [Tú] | Uf... Logramos salir. ¿Todos bien?
+0099 [Mistique] | ¡¡¡¡AAAAAAHHHHHH!!!!
+0100 [Noya] | ¿Qué pasa?
+0101 [Mistique] | ¡No está! ¡No está! ¡Mi capturadora de fotos! ¡La Espada de Jade debió tirármela de las manos allá adentro!
+0102 [Mistique] | Todas las fotos que tomé están ahí... Mi primicia...==W== Se arruinó...
+0103 [Iris] | ¡Jefe! ¡Mistique! ¡Mina, ella...!
+0104 [Mistique] | ¿Qué le pasó a Mina?
+0105 [Iris] | ¡Justo en la salida gritó «¡Voy por la capturadora!» y se regresó corriendo!
+0106 [Amber] | Perdón. No alcancé a agarrarla.
+0107 [Mistique] | ¿Se regresó... por la capturadora?==W== En serio... ¿Qué está haciendo...?
+0108 [Mina] | Aquí fue donde ocurrió el ataque.
+0109 [Mina] | La capturadora...==W== ¿Adónde fue a parar?
+0110 [Mina] | Qué irónico.==W== Cosecha Unida se está volviendo igual que ese pueblo del cuento de Mistique.
+0111 [Mina] | Solo que el monstruo no llegó de afuera. Nació aquí mismo, desde adentro.
+0112 [Mina] | Matar al monstruo que tenemos enfrente no resuelve nada si escondemos la verdad. Al poco tiempo, otro nuevo ocupará su lugar.
+0113 [Mina] | Mistique dijo:==W== «Buscar la verdad, difundir la verdad». Ese es el código de las brujas.
+0114 [Mina] | Y aquí estoy yo. Siempre predicando sobre «protocolos»,==W== y nunca entendí lo que de verdad tenía que hacer.
+0115 [Mina] | Ahora lo entiendo. Salvar a la empresa significa mostrarle la realidad a todo el mundo. Aunque...==W== aunque duela.
+0116 [Mina] | Aquí está...
+0117 [Blade of Jade] | ¡SKRIIII==W==...!
+0118 [Mina] | Tiene que ser una broma... ¡¿Justo ahora?!
+0119 [Mina] | ¡Ah! ¡O-oye...! ¡Aléjate! ... Qué tonta soy. Los monstruos no entienden razones... Ugh...==W== No puedo dejarla atrás...==W== Pero por lo menos... ¡tengo que proteger la capturadora! Yo...
+0120 [Mistique] | ¡Mina! ¡Por aquí!
+0121 [Mina] | ¡¿Eh?! ¡¿M-Mistique?!
+0122 [Mistique] | ¡Muévete! ¡Toma mi mano!
+0123 [Mina] | ¿Eh? P-pero... la capturadora...
+0124 [Mistique] | ¡¿Estás loca?! ¡¿Sacrificarte por un aparato?!
+0125 [Mina] | ¡E-esa no es mi intención! Pero...==W== si la empresa la encuentra, la verdad quedará enterrada para siempre, ¡¿no?!
+0126 [Mina] | ¡La loca eres tú! Tú eres la bruja de la verdad,==W== ¿o no? ¡Entonces déjame! ¡Llévate la capturadora y corre!
+0127 [Mina] | Je... Jaja...==W== Vale más que yo, ¿verdad?
+0128 [Mistique] | ... ¿Eh?
+0129 [Mina] | Tú sola puedes escapar, ¿no?==W== ¡Cargar con un estorbo como yo solo hará que nos maten a las dos! ¡Es una decisión tonta se mire por donde se mire!
+0130 [Mistique] | ... Tienes razón. Si estuviera sola, quitarme de encima a esta cosa sería pan comido.
+0131 [Mistique] | Pero, Mina, se te está escapando un punto clave.
+0132 [Mina] | ... ¿Cuál?
+0133 [Mistique] | ¿Te acuerdas de la pregunta que mencioné? ¿La que toda bruja tiene que responder?
+0134 [Mina] | Sí. «Tomar la foto, aunque eso signifique que destruyan el pueblo». Esa es la elección de la bruja, ¿no?
+0135 [Mistique] | Exacto. Esa es la respuesta de manual.==W== Pero pregúntate: ¿qué es lo que de verdad busca una «bruja»? No necesitas ser bruja para deducirlo.
+0136 [Mina] | Mmm...==W== Supongo que no es difícil de imaginar.
+0137 [Mistique] | Je, ¿ves? Seguirle la corriente a un guion viejo y polvoso... ¿No es una pérdida de tiempo total? Además, hacer exactamente lo que esperan es aburridísimo.
+0138 [Mistique] | Así que...==W== esto fue lo que les respondí en ese entonces...
+0139 [Mistique] | ¡Haré que los aldeanos me tomen una foto de mi heroica victoria contra el monstruo!
+0140 [Mina] | ¿Eh?
+0141 [Mistique] | ¿Por qué obligarte a elegir entre dos opciones cuando pensarle un poquito te da una mejor respuesta?==W== ¡Jaja! Quien inventó ese dilema tenía piedras en la cabeza.
+0142 [Mistique] | Esa gente simplemente no es lo bastante codiciosa para ser bruja. ¿Una bruja perfecta como yo? Quiero el pueblo a salvo y la verdad expuesta.==W== Lo quiero todo.
+0143 [Mina] | ... Ah.
+0144 [Mistique] | Eres lista, Mina. Entiendes a dónde voy con esto, ¿verdad?
+0145 [Mina] | Yo me llevo la capturadora...==W== ¿y te tomo una foto peleando contra el monstruo...?
+0146 [Mistique] | ¡Bingo! ¡Eso es!
+0147 [Mistique] | Como te dije, soy una bruja codiciosa. Una simple foto no me basta. Tampoco basta con la pura verdad.
+0148 [Mistique] | ¡No voy a parar hasta sacar a la luz toda la horrible verdad!
+0149 [Mistique] | Mientras la verdad salga a la luz, no me importa quién tenga la capturadora.
+0150 [Mistique] | Je. ¡Ven por ella!==W== Debe doler que te atrapen después de perder contra un montón de Trekkers, ¿eh?
+0151 [Mistique] | ¡Así que esta vez te voy a dejar morado a golpes! ¡Y luego voy a poner tu cara fea y amoratada en toda la primera plana!
+0152 [Mistique] | Jejeje. Mira con atención, Jefe. Estoy a punto de mostrarte==W== ¡lo que puede hacer una verdadera bruja!
+0153 [Narración] | Un pilar de magia pura atraviesa la cúpula del invernadero. Los fragmentos de vidrio llueven y estallan al chocar contra el suelo.
+0154 [Narración] | Antes de que nadie se dé cuenta, el espíritu invocado junto a Mina se disuelve en una neblina rosa.
+0155 [Narración] | Y así, sin más, Mistique, con la Espada de Jade pisándole los talones, desaparece en la brumosa noche.

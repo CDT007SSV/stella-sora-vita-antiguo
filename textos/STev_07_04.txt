@@ -1,0 +1,151 @@
+# Evento · Enmarcando los sentimientos invisibles · 4 · Una sujeto de pruebas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Eye of Grace Researcher | Investigador del Ojo de la Gracia
+N:Eye of Grace Scholar | Erudito del Ojo de la Gracia
+N:Stellaroids | Stellaroids
+N:avg1_115 | Firefly
+N:avg1_1195 | Stellaroid
+N:avg1_1196 | Stellaroid
+N:avg1_1197 | Stellaroid
+N:avg1_120 | Canace
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_185 | Recepcionista de la Gracia
+N:avg3_205 | Igna
+N:avg3_214 | Investigador del Ojo de la Gracia
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Una sujeto de pruebas
+0003 [Intro] | Resulta que Firefly es una sujeto de pruebas acogida por el Ojo de la Gracia para el desarrollo de un arma secreta. Canace e Igna lograron sacarla de ahí, pero derretir su corazón congelado es la verdadera batalla…
+0004 [Tú] | ¿Firefly era==W== un «arma experimental» del Ojo de la Gracia?
+0005 [Canace] | Fue hace como un año.
+0006 [Canace] | Estaba investigando el Monolito yo sola cuando me topé con ella.
+0007 [Canace] | Al principio pensé que era una niña perdida que se había metido ahí. Iba a escoltarla afuera...==W== Pero pronto me di cuenta de que algo andaba mal.
+0008 [Canace] | Perseguía Stellaroids como si fuera un juego de las traes.
+0009 [Firefly] | Feliz. Esto es divertido.
+0010 [Stellaroids] | ¡Auuu!
+0011 [Firefly] | Por aquí.
+0012 [Canace] | ¿Q-quién eres...?
+0013 [Eye of Grace Researcher] | ¡Oye! ¿Cómo entró aquí una extraña?
+0014 [Eye of Grace Scholar] | Seguro es una Trekker que intenta escalar el Monolito. La distribución interior cambia. Aunque sellemos la entrada, siempre se cuelan unas cuantas ratas.
+0015 [Eye of Grace Researcher] | ¡Oye! Este es un campo de pruebas del Imperio de la Gracia. El personal no autorizado debe largarse, ¿me oyes?
+0016 [Canace] | ... ¿Pruebas? ¿Dentro de un Monolito?
+0017 [Canace] | ¿Y esa niña...?
+0018 [Canace] | Ese encuentro despertó mi curiosidad como estudiosa... Empecé a vigilarla.
+0019 [Canace] | Inicié una investigación discreta, moviendo todos los contactos de mis días universitarios para obtener información sobre el Ojo de la Gracia...
+0020 [Canace] | Lo que terminé descubriendo... fue el Proyecto Firefly.
+0021 [Tú] | ¿El Proyecto... Firefly?
+0022 [Canace] | Un programa encubierto dentro del Ojo de la Gracia. Intentaban construir un «superarma». Pero el poder resultante era demasiado inmenso para controlarlo.
+0023 [Canace] | Para anclar ese poder, necesitaban un tipo específico de sujeto de pruebas. Una niña de mente pura y psique inquebrantable.
+0024 [Canace] | Gastaron una fortuna rastreando el Continente de Nova en busca del candidato perfecto. Y adivina a quién encontraron...
+0025 [Eye of Grace Researcher] | Olvídalo. Suspende la prueba de hoy.
+0026 [Eye of Grace Researcher] | ¿Algo?
+0027 [Eye of Grace Scholar] | La telemetría es un desastre. Podemos analizar los números en el laboratorio, pero no te hagas ilusiones.
+0028 [Eye of Grace Researcher] | Firefly, ¿algún cambio físico?
+0029 [Firefly] | ...
+0030 [Eye of Grace Scholar] | Ay, ya déjalo. Si preguntarle a la sujeto sirviera de algo, no nos pagarían a nosotros.
+0031 [Eye of Grace Researcher] | A este paso nos van a correr a todos de todos modos. ¿Cuándo fue la última vez que su rendimiento realmente se disparó?
+0032 [Eye of Grace Scholar] | El día que se interesó por los monitores, creo. Hasta le dimos un capturador de fotos para jugar.
+0033 [Eye of Grace Scholar] | Pero ese pico duró solo unos días antes de caer en picada hasta el nivel base.
+0034 [Eye of Grace Scholar] | Después intentamos darle otros juguetes… Pero, bueno, ya viste lo que pasó.
+0035 [Eye of Grace Researcher] | Rayos. ¿Qué vamos a poner en el informe? Si seguimos retrasando los resultados, la junta va a...
+0036 [Eye of Grace Scholar] | Espera, viene alguien. ¿Esa es... la directora Igna?
+0037 [Eye of Grace Researcher] | ¿Asuntos Internos? ¿Qué hace aquí abajo?
+0038 [Igna] | Corre el rumor en la oficina de que están gastando fondos en un... fascinante proyectito.
+0039 [Igna] | Entregarles un superarma sin duda los volvería intocables aquí.==W== Lástima que mis auditorías recientes sugieren que están muy lejos de lograrlo.
+0040 [Igna] | Si no les molesta, tal vez podría interceder por ustedes ante los altos mandos.
+0041 [Tú] | No puedo creer que hubiera experimentos así...
+0042 [Canace] | Por lo que he reunido, los procedimientos no eran físicamente dañinos, pero el costo psicológico fue devastador.
+0043 [Canace] | Pueden llamarla el recipiente perfecto todo lo que quieran.==W== Pero al final del día, seguía siendo solo una niña...
+0044 [Canace] | Encerrada en un laboratorio todo el día antes de siquiera formar un sentido de sí misma...==W== Eso le deformaría la personalidad por completo.
+0045 [Canace] | En aquel entonces, Firefly era más máquina que humana.==W== O más bien, intentó matar sus propias emociones y convertirse en una, solo para sobrevivir.
+0046 [Tú] | ...
+0047 [Canace] | Los niños aprenden cómo funciona el mundo de los adultos que los rodean.
+0048 [Canace] | Si no se hubiera cerrado por completo, habría perdido la razón. ¿Por qué era la única atrapada ahí y tenía que sufrir sola todos los días?==W== ¿Cómo se supone que una niña procese eso? Sobre todo cuando nadie le daba una respuesta.
+0049 [Opción] | Qué horror.
+0050 [Canace] | Lo fue. Todo el experimento era inhumano... Una traición a todo lo que representa un estudioso. No pude mirar hacia otro lado.
+0051 [Canace] | En cuanto descubrí la verdad, fui directo a su laboratorio para clausurarlo.
+0052 [Canace] | Visto en retrospectiva, fue una imprudencia...==W== Pero por suerte no terminó en desastre.
+0053 [Tú] | ¿Porque Igna intervino?
+0054 [Canace] | Así es.
+0055 [Canace] | ¡Suelten a esa niña! ¡Ahora mismo!
+0056 [Eye of Grace Researcher] | ¡¿Quién eres?!
+0057 [Eye of Grace Researcher] | ¡Este es un laboratorio restringido! ¡Prohibido el personal no autorizado!
+0058 [Eye of Grace Scholar] | ¡¿Qué hace seguridad?! ¡Sáquenla de aquí!
+0059 [Canace] | ...
+0060 [Igna] | Cálmense. Es mi invitada.
+0061 [Canace] | ... ¿Qué?
+0062 [Eye of Grace Researcher] | ¿Directora Igna? ¿Qué está pasando?
+0063 [Igna] | Dado que hoy asumo el control total del Proyecto Firefly...==W== lo que pase con la sujeto de pruebas depende enteramente de mí.
+0064 [Eye of Grace Scholar] | ¡¿Qué?! ¡Eso es absurdo...!
+0065 [Igna] | Ya informé a los altos mandos sobre el avance de su proyecto. La dirección valora esta iniciativa. Tanto, que me enviaron a limpiar su desastre.
+0066 [Igna] | Aquí está la orden de traslado. Firmada y sellada.
+0067 [Eye of Grace Scholar] | ¡Imposible! ¡Déjame ver eso!
+0068 [Eye of Grace Scholar] | Es... Es auténtica. ¿Cómo es posible?
+0069 [Eye of Grace Researcher] | ¡P-pero esta es nuestra investigación! ¡El trabajo de nuestra vida! ¡No puede simplemente robárnosla!
+0070 [Igna] | Quéjense todo lo que quieran. Sus lamentos no cambian nada. Así funcionan las reglas.
+0071 [Igna] | Si no pueden crear valor, no son mejores que una gallina que no pone huevos.==W== Pero no se preocupen: lograron poner un huevo. Yo me encargo de incubarlo.
+0072 [Eye of Grace Scholar] | Maldita ladrona... ¡¿No tiene vergüenza como estudiosa?!
+0073 [Igna] | Profesora Canace, ignore sus berrinches. Haga lo que vino a hacer.
+0074 [Canace] | Eh...==W== Claro. Entendido.
+0075 [Igna] | Je. De nada.
+0076 [Igna] | Simplemente veo potencial en usted. Esperemos que logre reactivar este proyecto estancado.
+0077 [Igna] | Usted no es como estos necios obstinados. Un verdadero investigador abraza lo desconocido, ¿no?
+0078 [Firefly] | ...
+0079 [Firefly] | ¿Quién está ahí?
+0080 [Canace] | Perdona que te despierte.
+0081 [Canace] | Soy Canace. Soy profesora en la Academia Luz de Gracia.
+0082 [Firefly] | ¿Pro... fesora?
+0083 [Canace] | Piensa en «maestra».
+0084 [Firefly] | ¿«Maestra»...?
+0085 [Canace] | Vine a sacarte de este lugar. ¿Quieres venir conmigo?
+0086 [Firefly] | No entiendo...
+0087 [Firefly] | ¿Es... una orden nueva?
+0088 [Canace] | Y así fue como Firefly y yo nos conocimos.
+0089 [Canace] | Igna y yo sacamos a Firefly de ese laboratorio con la esperanza de darle una vida normal.
+0090 [Canace] | Yo me encargo de su vivienda y su educación. Igna actúa como nuestro respaldo, manteniendo al Ojo de la Gracia lejos de nosotras.
+0091 [Canace] | Firefly todavía tiene que ir a «pruebas» periódicas, pero su vida es mucho más normal ahora.
+0092 [Canace] | Sus números subieron de forma constante durante un tiempo antes de...==W== estancarse otra vez.
+0093 [Tú] | ¿Pasó algo?
+0094 [Canace] | No, nada.==W== Y ese es el problema. Un entorno seguro por sí solo no basta para arreglarlo todo.
+0095 [Canace] | Igna cree que Firefly se contiene de forma subconsciente. Su trauma pasado limita su progreso. Su falta de emoción se ha vuelto el mayor cuello de botella del experimento.
+0096 [Tú] | He oído que la magia está ligada a las emociones de quien la usa...
+0097 [Canace] | Exacto. Esa es la base de la teoría de Igna.
+0098 [Canace] | Tenga razón o no, si ella sigue estancada así... tarde o temprano...
+0099 [Tú] | ¿Se la llevarán de vuelta?
+0100 [Canace] | Sí. La única razón por la que la hemos mantenido fuera tanto tiempo es que fingimos que seguimos avanzando en su investigación.
+0101 [Canace] | Quiero que crezca sana, como una niña normal. Me he estrujado el cerebro intentando ayudarla a abrirse. Y entonces... caí en la cuenta...
+0102 [Canace] | El único lugar donde Firefly se siente feliz es dentro del Monolito, rodeada de peligro.
+0103 [Canace] | En aquel entonces, las pruebas de campo en el Monolito eran su única escapatoria del laboratorio. Sin experimentos dolorosos. Para Firefly, pelear contra Stellaroids era su único tiempo libre.
+0104 [Tú] | ... ¡Eso... me parte el corazón!
+0105 [Tú] | Así que durante el Festival Nevado, cuando nos arrastró a Laru y a mí al Monolito... Intentaba relajarse de la única manera que conocía.
+0106 [Tú] | ... Espere. ¿A Firefly no le encanta tomar fotos? ¿No podría eso ayudarla a abrirse?
+0107 [Tú] | Si logramos que deje de enterrar sus emociones, sus números deberían volver a subir, ¿no?
+0108 [Canace] | Me avergüenza admitirlo, pero como su tutora, apenas me di cuenta hace poco. Sabía que le gustaba el capturador desde el laboratorio, pero pensé que era casualidad. Solo una niña mirando un juguete nuevo y brillante.
+0109 [Canace] | Pero hace poco la vi tomando fotos del paisaje... Y se veía feliz de verdad.
+0110 [Canace] | Creo... O al menos quiero creer... que es una señal de sanación.
+0111 [Canace] | Me arrepiento de haber pasado por alto las señales hasta ahora...
+0112 [Tú] | No pasa nada. Todavía hay tiempo.
+0113 [Canace] | ... Tienes razón. Más aún con un asistente capaz a mi lado.
+0114 [Canace] | Ya lo sospecho. Mi compañía sola no basta para ayudarla a crecer.
+0115 [Canace] | Ahora puedo ser su «maestra», pero todavía estoy lejos de ser su «amiga». Además, mi trabajo me deja muy poco tiempo para ella.
+0116 [Canace] | Por eso necesito pedirte un favor, ==PLAYER_NAME==. ¿Serías amigo de Firefly?
+0117 [Tú] | ¿Yo...?
+0118 [Canace] | Eres el único otro adulto al que deja acercarse. Confía en ti.
+0119 [Tú] | ...
+0120 [Laru] | Ya veo...==W== O sea que tu deseo no era sobre regalos, ¿verdad?
+0121 [Firefly] | No.
+0122 [Laru] | Bien... Entonces, ¿cuál es tu deseo?
+0123 [Firefly] | Deseo...==W== un amigo con quien jugar.
+0124 [Tú] | En ese entonces no tenía ni idea...
+0125 [Tú] | No imaginé que un simple deseo de tener un amigo significara el mundo para ella.
+0126 [Canace] | Las cosas pintan mal, y por eso te necesito. Todo lo que hacemos es por Firefly.
+0127 [Tú] | Dicho así, no hay razón para que me niegue.
+0128 [Tú] | Con mucho gusto seré su amigo.
+0129 [Canace] | Gracias, ==PLAYER_NAME==...
+0130 [Canace] | Qué alivio. Creo que por fin podré dormir bien esta noche.

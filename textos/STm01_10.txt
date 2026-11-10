@@ -1,0 +1,151 @@
+# Capítulo 1 · 10 · Interpretación final
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_132 | Minova
+N:avg3_100 | Sylar
+N:avg3_152 | Bastelina
+N:avg3_197 | Feagin
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | La interpretación final
+0003 [Intro] | En Nova, un Sello de la Gracia permite a las compañías crear reglas que la gente común no puede desafiar. Por suerte, Bastelina te informa de que tú también tienes uno.
+0004 [Narración] | Cuatro días después, el día de pago
+0005 [Lugar y hora] | 09:00, 1.º del mes de Pluvia, Distrito de Oro, Emor. Creta Trading
+0006 [Feagin] | El Lucky Oasis sigue bajo custodia de la compañía.
+0007 [Iris] | ¿Qué? Nos dimos la mano con este trato...
+0008 [Iris] | Cumplimos nuestra parte: trabajamos para ustedes e hicimos los pagos. ¿Dónde está nuestro vehículo?
+0009 [Minova] | Los cinco trabajamos cuatro días el mes pasado. A 10 mil Dorra por cabeza al día, son 200 mil.
+0010 [Iris] | Y aquí están los 650 mil Dorra que juntamos trasnochando en los Monolitos, más lo que aportó Minova. En total, más que suficiente para el pago de este mes.
+0011 [Feagin] | Es cierto. Sobre el papel, su pago es suficiente.
+0012 [Noya] | ¡Cumplimos nuestra parte del trato! ¡Ahora cumple la tuya!
+0013 [Feagin] | Como dije. Suficiente... sobre el papel.
+0014 [Noya] | ¿«Sobre el papel»? ¿Qué se supone que significa eso?
+0015 [Feagin] | En pocas palabras, tras descontar las multas, su pago es... insuficiente.
+0016 [Iris] | ¡¿Multas?! ¿D-de qué hablas?
+0017 [Amber] | Cincuenta deseos impecables en esos cuatro días.
+0018 [Feagin] | Ustedes, ratas de alcantarilla, no saben nada del debido trato con la compañía.
+0019 [Feagin] | El reglamento de la compañía. Léanlo.
+0020 [Iris] | Gobiernan ciudades, comandan soldados; algunas incluso tienen ejércitos privados.
+0021 [Iris] | Son lo más cercano a los Dioses. Solo responden a sus propios reglamentos, no a la decencia común.
+0022 [Tú] | Ay, no.
+0023 [Feagin] | Permítanme enumerar las cláusulas que han infringido, una por una.
+0024 [Feagin] | Iris no respondió a los mensajes con prontitud quince veces. Son 2 mil Dorra por incidente, un total de 30 mil Dorra.
+0025 [Iris] | ¡No fue a propósito! Estaba peleando con Stellaroids cuando llegaron tus mensajes. Respondí justo después de derrotarlos.
+0026 [Feagin] | El reglamento de la compañía establece que toda comunicación debe confirmarse en 60 segundos.
+0027 [Iris] | ...
+0028 [Feagin] | Y tú, Minova. Cero registros de turno presentados. Son 3 mil Dorra de penalización cada vez, un total de 12 mil Dorra.
+0029 [Minova] | ¡¿R-registros de turno?! ¿Desde cuándo? ¡Nunca los mencionaste!
+0030 [Feagin] | Está en el reglamento. Desconocer la norma no es excusa.
+0031 [Feagin] | Y tú, Noya.
+0032 [Noya] | ¡Yo... yo seguí las reglas! Respondí mis mensajes, e Iris se encargó de mis registros...
+0033 [Feagin] | Comer durante las escaladas al Monolito, tres veces. 60 mil Dorra.
+0034 [Noya] | ¡¿Esperas que peleemos todo el día con el estómago vacío?! ¿Cómo se supone que funcione eso?
+0035 [Feagin] | Es cuestión de protocolo. Se trata de mostrar el debido respeto al Dios de la Gracia.
+0036 [Feagin] | Ah, y ustedes dos. Charla excesiva por teléfono durante las escaladas.
+0037 [Feagin] | 50 mil cada una, y estoy siendo indulgente.
+0038 [Amber] | ...
+0039 [Tú] | Amber solo puede comunicarse bien por teléfono, y solo hablábamos de la misión.
+0040 [Tú] | Explicar no servirá de nada. No está descontando el sueldo para hacer cumplir las reglas; está usando el reglamento como arma.==W== Así que este es el poder de una directora general...
+0041 [Feagin] | Hagamos la suma. 200 mil Dorra en salarios ganados. Penalizaciones... 202 mil Dorra.
+0042 [Feagin] | Están 2 mil Dorra en números rojos. Lo añadiremos a los descuentos del próximo mes.
+0043 [Noya] | ¡¿Quién en su sano juicio se tragaría esta basura?!
+0044 [Feagin] | Ah, ah, ah. La violencia no es la respuesta. Son nuestras empleadas, así que se aplica el reglamento de Creta Trading.
+0045 [Feagin] | Je... Confío en que ahora lo entienden. Esta es...
+0046 [Feagin] | ¡La ley de hierro de la ciudad-estado, de la compañía y del propio Imperio de Nova!
+0047 [Iris] | Noya, no. Tiene razón. Discutir con ella no va a cambiar nada.
+0048 [Feagin] | Son libres de renunciar cuando quieran, pero despídanse de su vehículo si lo hacen.
+0049 [Feagin] | Y tú, la callada, ni se te ocurra desenfundar tu arma. Recuerda a los niños del orfanato.
+0050 [Tú] | Amber, baja el arma.
+0051 [Amber] | ¡Y-ya lo sé!
+0052 [Feagin] | Y que me quede perfectamente claro. Tenemos contratos mágicos legalmente vinculantes. Con todas ustedes, hasta la última, y con esos niños.
+0053 [Feagin] | Sigan escalando esos Monolitos. Es lo único para lo que sirven.
+0054 [Minova] | Les das un dedo y se toman el brazo...
+0055 [Feagin] | ¿Q-qué crees que haces?
+0056 [Feagin] | ¡Soy miembro de alto rango de la Guardia Imperial! Una palabra mía y los caballeros llegarán de inmediato.
+0057 [Minova] | ¡Maldición!
+0058 [Feagin] | ¿Adónde crees que vas?
+0059 [Minova] | A pedir permiso. Creta Trading no puede negar esa solicitud, ¿verdad?
+0060 [Feagin] | Muy bien. Permiso de emergencia. Eso les costará tres días de salario.
+0061 [Iris] | ==PLAYER_NAME==, quédate con ella. Asegúrate de que Minova no haga nada... drástico. Nosotras cubriremos este turno.
+0062 [Tú] | Entendido.
+0063 [Tú] | Entendido. Yo también necesito permiso...==W== No... dormí bien anoche.
+0064 [Feagin] | La misma penalización para ti. ¡No digas que no te lo advertí!
+0065 [Lugar y hora] | 09:00, 1.º del mes de Pluvia, Distrito de las Cenizas, Emor. Calle
+0066 [Minova] | Perdón,==W== perdí los estribos. No pude controlar mis emociones.
+0067 [Tú] | Sinceramente, todas queríamos verte darle un puñetazo a Feagin.
+0068 [Tú] | Si tú no hubieras perdido el control, lo habría hecho yo.
+0069 [Minova] | Je... eso me hace sentir mucho mejor. Gracias.
+0070 [Minova] | Pero aun así, ha dejado algo clarísimo.
+0071 [Tú] | ¡¿Qué?!
+0072 [Minova] | Sí...==W== creo que puedo entender... por qué desaparecieron tu tía Allie y los niños.
+0073 [Minova] | Seguro los acorralaron, igual que a nosotras.
+0074 [Tú] | Malos que retienen a los niños como rehenes.
+0075 [Minova] | Incluso con poder mágico suficiente para desafiar a Creta Trading... no puedes proteger a todos.
+0076 [Tú] | Así que, para mantenerlos a salvo, la tía Allie tuvo que llevarse a los niños y simplemente... desaparecer de la noche a la mañana.
+0077 [Minova] | Quizá metí la pata desde el principio.==W== La Academia Platino, el Clan Viento de Ceniza... nunca tuve la oportunidad de liberarme.
+0078 [Minova] | No debí ser tan terca, intentando enfrentarlos de frente. Debí haberme hecho Trekker como ustedes, llevarme a los niños y dejar este lugar atrás.
+0079 [???] | ¡Espera! No te vayas.
+0080 [Tú] | ¡¿Quién anda ahí?!
+0081 [Bastelina] | ¡Muchísimas gracias por visitar el Imperio de la Gracia! Por favor, permítanme presentarme como es debido.
+0082 [Tú] | Eres... ¿esa pasante del Imperio de la Gracia?
+0083 [Bastelina] | ¡Me recuerdas! Qué feliz me hace.
+0084 [Tú] | Gracias por defendernos allá. Es una sorpresa verte en un lugar como este.
+0085 [Bastelina] | ¡No es ninguna sorpresa! Los he estado buscando por todas partes.
+0086 [Tú] | ¿Buscándome? ¿Por qué?
+0087 [Bastelina] | Se fueron con tanta prisa ese día que olvidaron este archivo.
+0088 [Bastelina] | Ejem, gracias por esperar. Perdón, ¿podría pedirles un momento más de su tiempo?
+0089 [Bastelina] | Mi supervisor me dice que hay un archivo importante en los archivos para quien abriera la Caja Fuerte n.º 1. Mi colega lo está trayendo ahora.
+0090 [Tú] | Nos olvidamos por completo de esto después de que nos robaron el vehículo.
+0091 [Tú] | Tienes razón, perdón. Nos fuimos con muchísima prisa.
+0092 [Bastelina] | ¡Qué bueno que lo recuerdas! ♪ ¡Porque este archivo es súper, mega, ultra importante!
+0093 [Bastelina] | Por suerte, hoy tuve la fortuna de encontrarte.
+0094 [Bastelina] | Aquí tienes, este es tu archivo.
+0095 [Tú] | Entendido. Gracias.
+0096 [Tú] | El Imperio de la Gracia... Parecen distintos de Creta Trading. Supongo que sí hay gente decente aquí, después de todo.
+0097 [Tú] | Entonces, ¿qué hay en este «archivo importante»...?
+0098 [Tú] | Bastelina, ¿puedes explicarme esto? ¿Es real lo que dice?
+0099 [Bastelina] | Tan real como la tinta en la página. Esa pequeña pieza que sacaste de la bóveda...
+0100 [Bastelina] | ...es un Sello de la Gracia.
+0101 [Tú] | ¿Un Sello de la Gracia?==W== ¿Como los que usan las compañías?
+0102 [Tú] | ¿Por qué? ¿Qué tiene de especial ese título de «directora general» que usa Feagin?
+0103 [Iris] | Las compañías están bendecidas por el Dios de la Gracia, con su Sello de la Gracia y todo.
+0104 [Tú] | ¡¿O sea que este sello representa a toda una compañía?!
+0105 [Bastelina] | ¡Exacto! Y este documento sirve como prueba de que quien abra la bóveda es el legítimo titular del sello.
+0106 [Bastelina] | En resumen, ahora eres el dueño de una compañía.
+0107 [Bastelina] | ¿Alguna duda hasta aquí?
+0108 [Tú] | Solo tengo dudas... ¿Un director general? ¿Yo?
+0109 [Minova] | ¡¿Una compañía entera?! ¿Una podrida hasta la médula como esa Creta Trading?
+0110 [Bastelina] | ¡Oh, no, estimada invitada! Una compañía es solo una compañía. Que sea decente o podrida depende de quienes la dirigen.
+0111 [Bastelina] | De hecho, la mayoría de las compañías y sus empleados probablemente hacen todo lo posible por distanciarse de gente como Feagin.
+0112 [Minova] | Entonces, ¿sabías de los chanchullos de Feagin? ¡¿Por qué no hiciste nada?!
+0113 [Bastelina] | Yo... yo solo soy una pasante, ¿sabes? Los conflictos entre compañías están por encima de alguien como yo.
+0114 [Tú] | Minova, no la presiones.
+0115 [Tú] | Bastelina, una pregunta.
+0116 [Tú] | Este Sello de la Gracia es mío, ¿verdad? ¿Eso significa que puedo fundar una compañía?
+0117 [Bastelina] | No hace falta.
+0118 [Bastelina] | Ya tienes una. Quien posee esa pieza es dueño de toda ella.
+0119 [Bastelina] | Y es una muy impresionante.
+0120 [Tú] | ¿Impresionante en qué sentido?
+0121 [Bastelina] | La compañía que representa esta pieza estuvo una vez en guerra con el mundo entero.
+0122 [Tú] | ¡¿En guerra con el mundo entero?! ¿Qué clase de compañía es esta...?
+0123 [Bastelina] | Sin embargo, tu compañía lleva eras inactiva.
+0124 [Bastelina] | Activos, cuentas de Finanzas del Mar Profundo... todo bloqueado.
+0125 [Tú] | ¿O sea que la compañía básicamente está extinta ahora mismo?
+0126 [Bastelina] | Así es. ¡Pero el bloqueo es solo temporal! Si quieres desbloquearlos, ven al Imperio de la Gracia. Te ayudaré a presentar el papeleo.
+0127 [Bastelina] | ¡Solo diles que te envió la «adorable Bastelina» y lo dejaremos todo listo para tramitártelo de inmediato!
+0128 [Tú] | Muchas gracias. De verdad agradezco tu ayuda.
+0129 [Tú] | Una compañía...
+0130 [Narración] | Bajo la vista hacia la pieza de ajedrez que cuelga de la correa de mi teléfono.
+0131 [Tú] | Según Iris, el poder de una compañía es casi ilimitado. Con esto... ya no tendremos que temerle a Creta Trading.
+0132 [Tú] | Todo ese poder... que se use para bien o para mal depende por completo de quien lo empuña...
+0133 [Tú] | Ahora que tengo esta clase de fuerza, quizá de verdad pueda cambiar las cosas. ¡Quizá pueda ayudar a todos a escapar de esta jaula, juntos!
+0134 [Narración] | Continuará...

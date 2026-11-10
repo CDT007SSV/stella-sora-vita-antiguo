@@ -1,0 +1,6 @@
+# Historia de Snowish Laru — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_158_01 | Regalos a domicilio (Parte I)
+CG_158_02 | Regalos a domicilio (Parte II)
+CG_158_03 | Regalos a domicilio (Parte III)

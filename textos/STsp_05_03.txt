@@ -1,0 +1,100 @@
+# Nova Times #05 · La veterana y la novata · 3 · The Old Timer and the Newcomer (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_150 | Laru
+N:avg3_102 | Willow
+N:avg3_152 | Bastelina
+N:avg3_161 | Leafia
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La veterana y la novata (Parte III)
+0003 [Intro] | Al descubrir que las horas extra de Willow son resultado de sus propios actos, Laru, sorprendentemente, se sienta en el escritorio de Willow y termina el trabajo atrasado por ella.
+0004 [Leafia] | Aquí tienen su té.
+0005 [Laru] | ¡Ah! ¡Yo también! ¡Yo también! ¡Gracias!
+0006 [Bastelina] | Huele delicioso. Gracias por el té.
+0007 [Bastelina] | Con tantos expedientes, ¿de verdad podrá la señorita Willow terminarlos todos para mañana?
+0008 [Leafia] | Mm, es increíblemente eficiente. Seguramente los terminará todos de madrugada.
+0009 [Bastelina] | ¿¡Todo en una noche!? ¡Qué rápido! ¡La señorita Willow suena increíble!
+0010 [Bastelina] | ¿Eh? En ese caso...==W== Perdón si suena grosero, pero... si la señorita Willow es tan capaz, ¿por qué se acumularon tantos expedientes antes de que se fuera?
+0011 [Leafia] | Eh...
+0012 [Laru] | Eh... Quizá porque ...==W== se fue a pescar conmigo hace unos días...
+0013 [Bastelina] | ¿A pescar?==W== Hace unos días... ¿No era esa su visita de enlace de rutina, señorita Laru?
+0014 [Laru] | Aun así...
+0015 [Laru] | ¡Espera, déjame explicar! Tenía una buena razón...==W== ¡Oye, no me mires así!
+0016 [Bastelina] | ¿Y qué razón podría ser más importante que el trabajo de la señorita Willow?
+0017 [Laru] | ¡Estuvo enterrada en papeleo por días! ¡Solo quería que se relajara un poco!==W== Te juro que fue solo eso, ¡confía en mí!
+0018 [Leafia] | Entiendo que se preocupara por su amiga,==W== pero ignorar el trabajo no hace que desaparezca.
+0019 [Laru] | Jaja... Sí, tienes razón...
+0020 [Leafia] | Ah, un Trekker. Con permiso un momento.
+0021 [Bastelina] | Todos en la Asociación de Trekkers parecen ocupados.
+0022 [Bastelina] | Comparada con esto, la carga de trabajo del Imperio de la Gracia es bastante ligera, ¿no?
+0023 [Laru] | ¡Oye, yo solo uso mi brillante intelecto para terminar rápido! ¡La carga de trabajo no es nada ligera!
+0024 [Bastelina] | Ya veo. O sea que usted se despacha las tareas rápido,==W== y cuando le toca a la señorita Willow, ella termina desvelándose para ponerse al corriente...
+0025 [Laru] | Yo ... yo también me desvelé hace unos días...
+0026 [Bastelina] | Eso fue porque antes estuvo holgazaneando. ¿O no, señorita Laru?
+0027 [Laru] | ...
+0028 [Bastelina] | Mmm, desvelarse toda la noche es duro. Arruina la concentración del día siguiente. La señorita Willow está realmente sobrecargada.
+0029 [Bastelina] | Una novata como yo quizá renunciaría después de un par de rondas así.
+0030 [Laru] | Yo ... no me di cuenta de que todavía quedaba tanto por hacer...
+0031 [Laru] | ¡Sabes qué! ¡Para compensárselo, yo me encargo de estos documentos!
+0032 [Bastelina] | ¿Está segura de que puede?
+0033 [Laru] | Quizá no conozca los informes de Trekkers, pero ¿clasificar Artefactos y revisar listas? ¡Eso es lo mío!
+0034 [Bastelina] | Pero son documentos de la Asociación de Trekkers... probablemente no deberíamos tocarlos, ¿o sí?
+0035 [Laru] | ¡Siempre hay una manera! Ahora mismo no soy empleada del Imperio de la Gracia. ¡Solo soy una Trekker que se ofrece de voluntaria para ayudar a la señorita Willow!
+0036 [Bastelina] | (Ni siquiera dudó... Guau, ¡de verdad lo está haciendo!)
+0037 [Bastelina] | (Nunca había visto a la señorita Laru tan seria...)
+0038 [Laru] | ¡Este ya está!
+0039 [Bastelina] | ¡Guau, qué rapidez!
+0040 [Bastelina] | Artefactos de cocina: Artefacto de olla a presión, nuevo; Artefacto de combustión, ochenta por ciento nuevo... Armas de fuego mágicas: dos largas, una corta, todas probadas una sola vez...
+0041 [Bastelina] | El total está bien.
+0042 [Laru] | ¡No me subestimes! ¡Soy de las que pueden despachar el trabajo de una semana en una sola noche!
+0043 [Bastelina] | (La señorita Laru puede ser increíblemente productiva cuando se lo propone...)
+0044 [Laru] | ¡A este paso, quizá terminemos antes de que vuelva Willow y le demos una sorpresa!
+0045 [Narración] | Atardecer—
+0046 [Willow] | Ya regresé...==W== ¿Dónde está Leafia?
+0047 [Willow] | A esta hora probablemente ya salió de turno.
+0048 [Bastelina] | ¡Hola, usted debe de ser la señorita Willow! Soy Bastelina, la empleada más nueva del Imperio de la Gracia.
+0049 [Willow] | Mucho gusto.==W== Imperio de la Gracia... ¿Así que vienes con Laru?
+0050 [Bastelina] | Sí, aunque en realidad...
+0051 [Bastelina] | Después de terminar de revisar todos los precios de los Artefactos, la señorita Laru se quedó dormida sobre el escritorio. Solo quería saludarla antes de irme.
+0052 [Willow] | Gracias por avisarme. Ah, Laru...
+0053 [Bastelina] | Creo que la juzgué mal...==W== No sabía que podía ser tan dedicada.
+0054 [Willow] | Le encanta holgazanear, sí; pero cuando se pone seria, es imparable.
+0055 [Bastelina] | Sí, no le llego ni a los talones en precisión y velocidad.
+0056 [Willow] | Entonces parece que ya se aclararon todos los malentendidos.
+0057 [Bastelina] | Así es... Ahora que usted regresó, me retiro. Si no le molesta, dejo a la señorita Laru a su cuidado.
+0058 [Willow] | Gracias. Buen viaje.
+0059 [Bastelina] | No se preocupe. Con o sin monstruos, ¿quién podría hacerle daño a una novata tan linda como yo?
+0060 [Willow] | Jaja, quién diría que logró que Laru trabajara...==W== Esta novata tiene potencial.
+0061 [Laru] | Zzz...
+0062 [Willow] | Está totalmente dormida. Y ...==W== otra vez comió papas fritas en mi escritorio...
+0063 [Willow] | ¡Oye! ¡Despierta ya! ¡Dormir así te hace daño! Y dejaste la ventana abierta, ¡te vas a resfriar!
+0064 [Laru] | Zzz...
+0065 [Willow] | Ay, por favor... Al menos cúbrete con la capa...
+0066 [Laru] | Mmm...==W== Qué calentito...
+0067 [Laru] | Papas...==W== Ricas...
+0068 [Willow] | Vaya, ¿sigue soñando con papas fritas? Algún día te convertirás en una.==W== ¡Espera! ¡Ya sé!
+0069 [Willow] | ¡Tan-tan! ¡El Hada de las Papas Fritas viene a visitarte!==W== Cortesía de mi dedo, claro.
+0070 [Laru] | Sniff, sniff.==W== Ah, papas fritas...
+0071 [Laru] | Una papa ...==W== vestida con la ropa de Willow...
+0072 [Laru] | Mmm, una papa con sabor a Willow==W== ... se ve rica...
+0073 [Willow] | ¿Rica?
+0074 [Laru] | Ah...==W== Solo le daré una mordidita...
+0075 [Willow] | ¡Ahhh! ¡Solo estaba jugando!
+0076 [Willow] | ¡Espera! ¡No me lamas el dedo!
+0077 [Bastelina] | (mirada fija)
+0078 [Willow] | ¿¡Ehhh!? ¿¡Bastelina!?==W== ¡Ah... eh... no es lo que parece!
+0079 [Bastelina] | No se preocupe por mí, continúen, continúen... No vi nada~
+0080 [Willow] | ¡No es lo que piensas! ¿¡Y no se suponía que ya te habías ido!?
+0081 [Bastelina] | Olvidé aquí mi separador de libros, así que regresé por él...
+0082 [Laru] | Papas con sabor a Willow... Ricas...
+0083 [Bastelina] | Ay, vaya~
+0084 [Willow] | ¡Este no es el momento!==W== ¡Despierta, Laru!
+0085 [Laru] | ¿Eh? Ah, hola, Willow... Ya regresaste...
+0086 [Willow] | Noooo, seguro va a entender todo mal...
+0087 [Laru] | Mmm... Bienvenida... ¿Entender qué mal?
+0088 [Willow] | Eh... O sea...
+0089 [Narración] | Después de eso, Laru se ve obligada a limpiar toda la oficina de arriba abajo y a explicarle a Willow cómo manejó los documentos de revisión de precios. Solo después de que acuerdan ir a pescar juntas ese fin de semana, Laru por fin se retira.

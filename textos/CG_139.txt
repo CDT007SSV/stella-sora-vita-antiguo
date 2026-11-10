@@ -1,0 +1,6 @@
+# Historia de Allie — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_139_01 | Boda de mentiras (Parte I)
+CG_139_02 | Boda de mentiras (Parte II)
+CG_139_03 | Boda de mentiras (Parte III)

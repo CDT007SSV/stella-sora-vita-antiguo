@@ -1,0 +1,6 @@
+# Historia de Noya — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_112_01 | Rápidos y concentrados (Parte I)
+CG_112_02 | Rápidos y concentrados (Parte 2)
+CG_112_03 | Rápidos y concentrados (Parte III)

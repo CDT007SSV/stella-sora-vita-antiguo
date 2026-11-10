@@ -1,0 +1,119 @@
+# Historia de Flora · 3 · Miss Butterfly (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_126 | Flora
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Señorita Mariposa (Parte III)
+0003 [Intro] | Cuando se apagan los reflectores, revela los verdaderos secretos detrás de su «magia».
+0004 [Flora] | Uf... ¡Por fin terminamos de limpiar!==W== Fuiste una gran ayuda, ==PLAYER_NAME==. Gracias♪
+0005 [Flora] | Esto es un pequeño agradecimiento de mi parte. Pide lo que quieras.
+0006 [Tú] | Entonces no me contendré. ==W==Por cierto, ¿no te preocupa que te reconozcan sentada aquí en el vestíbulo?
+0007 [Flora] | No hay problema. Vine preparada: ¡modo disfraz, activado!
+0008 [Tú] | ¿Este disfraz de verdad funcionaría?
+0009 [Tú] | ¿Fannie también te ayuda a ordenar? ¿Cómo se acumuló tanta cosa en tan poco tiempo?
+0010 [Flora] | Ay, jaja... bueno... ==W==Me da miedo que se enoje conmigo, así que nunca dejo que vea esa habitación. Qué bueno que logré limpiarla mientras no está.
+0011 [Tú] | Creo que ya entiendo. ¿Será que terminas tan cansada de hacer los espectáculos que, en tus días libres, simplemente no tienes energía para ocuparte de todo esto?
+0012 [Tú] | Pero deberías ordenar con más frecuencia para que no llegue a ponerse así de desordenado. Así Fannie no se enojará.
+0013 [Flora] | Tienes razón... Trataré de mejorar en eso. Pero, sinceramente, no es la única razón por la que todo se desordena tanto...
+0014 [Flora] | Más bien, soy demasiado distraída...
+0015 [Tú] | ¿Distraída? Pero durante tus actuaciones manejas tantas cosas a la vez, a la perfección.
+0016 [Flora] | ¿De verdad lo crees? ¡¿No bromeas?!
+0017 [Tú] | Claro que no. Para mí es evidente.
+0018 [Tú] | Lidiaste con los intrusos sin perder el ritmo.
+0019 [Tú] | Y eres muy amable. Por ejemplo, le diste una pequeña sorpresa a esa niña. Ese tipo de improvisación requiere tanto talento como experiencia.
+0020 [Flora] | ¿Te... te fijaste hasta en detalles pequeños como ese?
+0021 [Flora] | Me... me da un poco de vergüenza.
+0022 [Tú] | ¿No es justo por eso que eres una maga estrella tan querida?
+0023 [Flora] | En el escenario, quizá... Pero fuera de él, soy un desastre para las cosas domésticas.
+0024 [Tú] | Sí, ya probé un poco de eso.
+0025 [Flora] | ¡No tienes que darme la razón tan rápido!
+0026 [Tú] | Aun así, creo que eres muy capaz.
+0027 [Flora] | ¿Pero quemé mi desayuno?
+0028 [Tú] | No hay mucho que hacer al respecto. Después de todo, ni siquiera sabes manejar un Artefacto estufa.
+0029 [Flora] | ¿Y compro varias cosas iguales y no puedo mantener mi cuarto ordenado?
+0030 [Tú] | Bueno... Intentar esconder tu cuarto desordenado significa que sí te importa mantener las cosas limpias. Aunque eso no esté respaldado por acciones concretas...
+0031 [Flora] | Muchas gracias por ayudarme a limpiar. Lo mínimo que puedo hacer es invitarte una bebida.
+0032 [Tú] | Saber expresar agradecimiento también es una virtud. Está muy rica. Gracias.
+0033 [Flora] | De verdad sabes hacer sentir bien a alguien. O sea, yo soy quien debería agradecerte... ==PLAYER_NAME==.
+0034 [Flora] | Suspiro... Cuando estoy contigo, me siento tan tranquila. ¿Será alguna especie de magia especial tuya?
+0035 [Tú] | A decir verdad, el Imperio de la Gracia me reconoce oficialmente... como una de esas raras personas totalmente inmunes a la magia.
+0036 [Flora] | Aun si eso es cierto, sigo pensando que... eres muy bueno usando la «magia de la confianza».
+0037 [Flora] | Cada vez que hablo contigo, termino abriéndome sin querer.
+0038 [Flora] | No tengo que ponerme mi personaje de escenario... puedo ser yo misma contigo.
+0039 [Flora] | Sí, seguro por eso... eres el único que acepta a la verdadera yo...
+0040 [Tú] | Es un honor que la mejor maga de Nova piense eso de mí.
+0041 [Flora] | Jeje, ¡puedes presumirlo con la gente! «La famosa Flora dijo todas estas cosas lindas de mí～»
+0042 [Flora] | Ups, lo hice otra vez sin darme cuenta.
+0043 [Flora] | No sé cuándo empezó, pero en cuanto me pongo mi traje de escenario, ya no soy solo yo.
+0044 [Flora] | Estar en el escenario, actuar frente al público, me hace sentir el peso de todo lo que cargo...
+0045 [Flora] | La responsabilidad de ser líder del gremio, el afán de hacer felices a mis fans... Todo eso de alguna manera me obliga a sentirme así...
+0046 [Flora] | «¿Por qué hago magia en primer lugar?»
+0047 [Flora] | Pero eso no necesariamente es malo. Entender lo que cargo en realidad me ayuda a crecer. Es solo que...
+0048 [Tú] | ¿Sí?
+0049 [Flora] | Siempre es la yo «del escenario» quien se lleva todos los elogios. A veces me pregunto si valgo algo para alguien fuera del escenario.
+0050 [Flora] | Espero que Fannie y todos los demás siempre vean mi lado genial...
+0051 [Tú] | No tienes por qué arrinconarte a ti misma.
+0052 [Flora] | ¡De verdad odio sentirme así! ¡Por eso quiero darte un encargo, ==PLAYER_NAME==!
+0053 [Tú] | ¿Ah, sí? ¿Cuál es?
+0054 [Flora] | ¡Quiero que me ayudes a mejorar en cuidar de mí misma! ¡Enséñame a manejar todas esas cosas cotidianas!
+0055 [Flora] | Me aceptaste como soy, con todos mis defectos, así que eres el único que puede ayudarme con esto. Por favor, ¡cuento contigo, Jefe!
+0056 [Tú] | Sin problema. Haré lo posible por ayudarte.
+0057 [Flora] | ¡¿De verdad...?!==W== Gracias, ==PLAYER_NAME==, ¡eres el mejor!
+0058 [Tú] | Antes de que Fannie regrese, haré lo posible por ayudarte con todo esto. Hasta el más mínimo progreso cuenta como victoria.
+0059 [Tú] | Camino difícil por delante... Pero mientras ella tenga ánimo, siempre hay una manera.
+0060 [Narración] | Desde entonces... Flora ha dado mucho más trabajo del que imaginaba, pero de verdad va progresando, poco a poco.
+0061 [Narración] | Hoy es el último día del encargo. Flora por fin puede levantarse sola cuando suena la alarma, pero como hoy hay función, decido ir a ver cómo está por si acaso.
+0062 [Tú] | Qué raro. Nadie responde a la puerta. ¿Ya se fue al recinto?==W== No, algo me dice que no es eso...
+0063 [Narración] | Cuando me preparo para abrir la puerta, de pronto recuerdo mi primera vez aquí y no puedo evitar sonreír.
+0064 [Tú] | ¿Flora? Voy a pasar.
+0065 [Narración] | La habitación está en silencio y ordenada, aunque algo en penumbra. Comparada con mi primera visita, es una gran mejora.
+0066 [Tú] | ¡Buen trabajo, Flora...! ¡Claro que yo también merezco algo de crédito!==W== Pero aun así... ¿adónde se fue? Sus zapatos siguen junto a la puerta, así que probablemente no se ha ido.
+0067 [Narración] | Entro, me quito los zapatos y veo a Flora profundamente dormida en su escritorio. Hay accesorios de magia y notas de experimentos esparcidos a su alrededor.
+0068 [Tú] | Seguro se quedó despierta toda la noche trabajando en un truco nuevo... Con razón ordenar no estaba en su mente.
+0069 [Tú] | Flora también ha mejorado mucho en las tareas domésticas. Supongo que este encargo es un éxito.
+0070 [Tú] | Pero... si sigue durmiendo así, ¿llegará a tiempo a la función de esta noche?
+0071 [Flora] | ¡¿Eh...?! ¡¿Me quedé dormida sin darme cuenta...?!==W== ¡¿==PLAYER_NAME==?! ¿Cuándo llegaste...?
+0072 [Tú] | ¿Te desperté? ¡Perdón!
+0073 [Flora] | Ay, no. Es hora de que yo...
+0074 [Flora] | ¡Ay no! ¡Nooo! ¡Solo faltan dos horas para que suba el telón!
+0075 [Tú] | Cierto... Pero todavía hay tiempo. El recinto no queda lejos de aquí.
+0076 [Flora] | ¡No, no, no! ¡Todavía hay ALGO QUE ABSOLUTAMENTE TENGO que hacer...! Hay que darse prisa...
+0077 [Flora] | ¡Al recinto! ¡Ahora mismo!
+0078 [Narración] | Me agarra la mano, se pone sus lentes de sol y sale corriendo por la puerta. Parece que esta es la última parte de mi encargo.
+0079 [Narración] | En cuanto llegamos al recinto, Flora se lanza directo al camerino.==W== Unos minutos después, me llama...
+0080 [Flora] | ¡Ji, ji, ji!==W== ¿Qué pasa, ==W== ==PLAYER_NAME==?
+0081 [Flora] | A diferencia de lo habitual,==W== siento que me están mirando con mucho calor...==W== ¿Te cautivó este traje que rara vez uso? ==W==
+0082 [Opción] | Entonces, ¿lo que querías hacer era cambiarte de ropa?
+0083 [Flora] | ¡Así es!==W== Normalmente le pido a Fannie que me vista,==W== ¡pero hoy quise intentarlo!
+0084 [Flora] | ¡Ji, ji! ==W==¿Qué tal, bonito, no?==W== ¡Puedes darme muchos, muchos cumplidos!==W==
+0085 [Opción] | Bueno, desde luego que lo intentaste.
+0086 [Opción] | ¿Qué tiene tu falda?
+0087 [Flora] | ¿Mi falda?==W== Eh...==W== Qué raro.==W== Por más veces que lo haga,==W== siempre me equivoco con los botones.
+0088 [Flora] | Me pregunto si...==W== quizá alguien que ambiciona el puesto de mejor maga==W== me echó una maldición.
+0089 [Opción] | Todavía falta bastante para que puedas hacer las cosas por tu cuenta.
+0090 [Flora] | ¡Oye!==W== P-pero he mejorado en muchas otras cosas, ¿no?==W== Y solo bromeaba con lo de la maldición. Necesito un poco de tiempo,==W== pero puedo...
+0091 [Opción] | Confío en ti y todo, pero...
+0092 [Opción] | Te queda poco tiempo antes de que empiece la función.
+0093 [Flora] | Cierto...==W== E-entonces,==W== ¿podrías ayudarme con la falda?==W==
+0094 [Opción] | Practica ponerte la falda después, ¿sí?
+0095 [Flora] | Ugh...==W== B-bueno...
+0096 [Flora] | (Suspiro)...==W== De verdad quería mostrarte lo mucho==W== que he avanzado cambiándome sola...==W==
+0097 [Opción] | Quizá la próxima vez, supongo. Bueno, entonces...
+0098 [Flora] | ¡Hwaaaah...!==W== ¡O-oye!==W== ¿Por qué me soplas en la espalda? ==W==
+0099 [Opción] | ¡O sea, no puedo hacer mucho al respecto!
+0100 [Flora] | ¡Kyah!==W== ¡Oye, para!==W== ¡Me da cosquillas!==W== ¡O-oye! ¿Lo haces a propósito?==W== ¡Más te vale parar o si no!
+0101 [Opción] | Bien, ¿entonces no te ayudo?
+0102 [Flora] | ¡N-no!==W== ¡No tenemos tiempo para eso!==W====W==
+0103 [Flora] | ¡Está bien, de acuerdo!==W== ¡Me las arreglo!==W== ¡Terminemos con esto!==W==
+0104 [Narración] | Flora, la única e inigualable Maga Máxima de Nova: ¡su función está por comenzar!
+0105 [Flora] | ¡Hola a todos! ¡Muchísimas gracias por venir a mi espectáculo de magia hoy!
+0106 [Flora] | ¡Damas y caballeros! ¡Niños de todas las edades! ¡Disfruten el espectáculo!
+0107 [Flora] | Especialmente tú, que te esforzaste tanto por mí.
+0108 [Narración] | Flora parece susurrar algo, pero con su micrófono ya apagado, no logro entender las palabras.
+0109 [Narración] | Pero el movimiento de sus labios la delata. Aun sin oír las palabras, las siento en el corazón...
+0110 [Flora] | «Gracias, ==PLAYER_NAME==».

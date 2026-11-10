@@ -1,0 +1,117 @@
+# Nova Times #10 · Un día de cosecha · 3 · A Day of Harvest (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_116 | Ridge
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_003 | Shrubshrew granadero
+N:avg3_132 | Kaede
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un día de cosecha (Parte III)
+0003 [Intro] | Las ambiciones de Ridge van mucho más allá de un solo invernadero. Para hacer realidad sus sueños más grandiosos, decide buscar la ayuda de Trekkers fuera de las murallas de la ciudad.
+0004 [Narración] | Una pequeña figura vaga por lo profundo del bosque, cargando una pala.
+0005 [Ridge] | ¡Aúpa, aúpa!
+0006 [Ridge] | Es raro que me manden a hacer trabajo de campo, así que debo llevar de vuelta tantas muestras como pueda.
+0007 [Ridge] | Quizá encuentre algo adecuado para cultivo o cruza. Si lo encuentro, aceleraría muchísimo la mejora de cultivos...
+0008 [Ridge] | ¿¡Quién anda ahí!?
+0009 [Ridge] | No me digas que es otro ladrón de comida...
+0010 [Ridge] | No, no, no puedo sacar conclusiones apresuradas. Siempre termino malinterpretando a la gente.==W== Esta vez debo mantener la calma...
+0011 [Ridge] | Un momento,==W== e-este sonido...==W== ¿Se está acercando?
+0012 [Ridge] | Ugh... Tengo un poco de miedo... ¡Pero cuando se trata de proteger la comida, no me echo para atrás!
+0013 [Fuyuka] | Zzz... Zzzz...
+0014 [Fuyuka] | Siento que otra vez di un mejor golpe.
+0015 [Fuyuka] | Pero... sí, está bien. Ya puedo controlarlo...==W== ¿Probablemente?
+0016 [Ridge] | ¡Alto ahí, ladrona de verduras!==W== Ríndete por las buenas—
+0017 [Fuyuka] | ...
+0018 [Ridge] | ...
+0019 [Fuyuka] | ¿Q-q-==W==quién eres?
+0020 [Fuyuka] | ¿Habrá venido hasta aquí solo para molestarme? Trae una pala enorme, qué miedo...
+0021 [Ridge] | ¿Eh?==W== C-creo que otra vez me equivoqué...
+0022 [Ridge] | Y... trae un arma gigantesca. ¿Será una Trekker poderosa?
+0023 [Ridge] | ¡¿Iiiiik?!==W== ¡¿Q-q-qué hago?! ¡Me va a dejar hecha puré!
+0024 [Fuyuka] | Q-==W==quizá debería atacar primero...
+0025 [Fuyuka] | Eh...==W== Disculpa...
+0026 [Ridge] | ¡Lo siento!==W== ¡Por favor, déjame ir!
+0027 [Fuyuka] | Qu-qué es lo que está pasando aquí...
+0028 [Ridge] | Perdón por eso.==W== Pensé que eras otra Shrubshrew tratando de robarme la comida.
+0029 [Fuyuka] | No, no,==W== yo soy quien te asustó.
+0030 [Ridge] | Eh...==W== Dije algo grosero hace rato. ¡Por favor, déjame compensártelo!
+0031 [Fuyuka] | ¿Eh? D-de verdad, no hace falta...
+0032 [Ridge] | ¡Por favor! ¡Lo hago para quedarme tranquila! ¡Tienes que aceptar esto!
+0033 [Fuyuka] | B-bueno, está bien. ¿Esto es ... un sándwich de verduras?
+0034 [Fuyuka] | (sniff) Se ve tan fresco y huele delicioso.
+0035 [Fuyuka] | ¿Puedo probarlo?
+0036 [Ridge] | Claro. Ah, por cierto, yo misma cultivé todas estas verduras~
+0037 [Fuyuka] | ¿Cultivaste verduras tan buenas? Increíble...==W== Y-yo solo—mmmph.
+0038 [Fuyuka] | ¡Mmm...!==W== Se ven como las de siempre, pero son muchísimo más crujientes, y la frescura está en otro nivel.
+0039 [Ridge] | ¿Verdad? ¿¡Verdad!? Cultivar verduras es un poco como hacer amigos. Si le pones el corazón, siempre te responden.
+0040 [Fuyuka] | Suena muy interesante...
+0041 [Fuyuka] | Ah, espera, ¿eso significa que tú también viniste al bosque para...?
+0042 [Ridge] | Sí. Busco cualquier cosa que pueda inspirar ideas agrícolas.
+0043 [Ridge] | Idealmente algo que ayude a mejorar el ambiente en el invernadero, o semillas adecuadas para desarrollar nuevos cultivos.
+0044 [Fuyuka] | Eh, si sabes qué buscar, yo ... podría ayudarte. Probablemente conozco este bosque mejor que la mayoría.
+0045 [Ridge] | ¿D-de verdad? ¡Qué amable!
+0046 [Ridge] | Guau~ Esto es perfecto, encontramos todo de una vez.
+0047 [Ridge] | Los Trekkers con experiencia hacen un trabajo asombroso. Me alegra mucho haberme topado contigo, Fuyuka.
+0048 [Fuyuka] | Para nada. No tengo tanta experiencia. Comparada con mis superiores, todavía me falta mucho camino.
+0049 [Fuyuka] | Pero ... para cosas como las de hoy, quizá pueda ser de ayuda... Si alguna vez necesitas volver al bosque, no dudes en contactar a Petal Bloom cuando quieras.
+0050 [Fuyuka] | Poder promocionar así a nuestro gremio... Yo...==W== Supongo que yo también he crecido un poco,==W== jeje...
+0051 [Ridge] | Gracias, Fuyuka.==W== Te avisaré antes de venir la próxima vez.
+0052 [Ridge] | Por cierto, ¿estás libre más tarde? Quiero llevarte a un lugar genial.
+0053 [Fuyuka] | Esto es un... ¿campo de trigo?
+0054 [Ridge] | ¡Así es! La vista es increíble, ¿no~?
+0055 [Ridge] | Lamentablemente, como nadie lo ha administrado bien, algunas zonas están llenas de maleza.==W== Así que planeo recuperar esas zonas.
+0056 [Ridge] | He aprendido algunas técnicas con el cultivo en invernadero. Lo siguiente es lanzarme a cultivar al aire libre.
+0057 [Fuyuka] | Esos dos... ¿De verdad son diferentes entre sí?
+0058 [Ridge] | Con el cultivo en invernadero, puedes controlar la temperatura, la humedad, la iluminación y la circulación del aire==W== para crear un entorno de crecimiento estable para tus cultivos.
+0059 [Ridge] | El cultivo al aire libre, en cambio, depende del clima, del control de plagas y de las condiciones climáticas,==W== así que es mucho más exigente.
+0060 [Fuyuka] | G-guau...==W== No entendí nada de esa jerga...
+0061 [Ridge] | Suspiro, pero las cosas no salieron bien desde el principio.
+0062 [Ridge] | Compré un arado para labrar, pero no puedo jalarlo.==W== Se necesitaría un Artefacto o un monstruo para arrastrarlo.
+0063 [Ridge] | Pero no tengo un Artefacto así, y domar a un monstruo tardaría una eternidad...
+0064 [Ridge] | E-e-espera—¿¡qué!?==W== ¿¡Fu-Fuyuka, qué haces!?
+0065 [Fuyuka] | ¿¡Eh!?==W== ¿H-hice algo que no debía?
+0066 [Ridge] | ¡N-no, no! Solo preguntaba... ¿Puedes jalar ese arado tú sola...?
+0067 [Fuyuka] | ¡Lo siento! ¡No sabía que no debía tocarlo! ¡Lo regreso de inmediato!
+0068 [Ridge] | ¡No hace falta! ¡Solo me sorprendí, nada más!
+0069 [Ridge] | Eh... Señorita Fuyuka, ¿te puedo pedir que lo jales de ida y vuelta por este surco un par de veces más?
+0070 [Fuyuka] | Por este surco... Eh... ¿Así?
+0071 [Ridge] | ¡Sí, exacto! Te pagaré, por supuesto. ¡Por favor!
+0072 [Ridge] | El terreno quedó despejado.==W== Lo lograste de verdad...
+0073 [Ridge] | Guau,==W== ¿cómo podré agradecértelo?
+0074 [Fuyuka] | No es nada. Solo un poco de trabajo físico...
+0075 [Ridge] | Para nada, me ayudaste muchísimo...==W== ¡Ah, cierto!
+0076 [Ridge] | ¿Es posible firmar un contrato a largo plazo con tu gremio, Petal Bloom?==W== Así, ya sea trabajo en el bosque o recuperación de terrenos, puedo pedirles ayuda.
+0077 [Fuyuka] | ¿D-de verdad...? Siento que no hice tanto...
+0078 [Ridge] | Quizá para ti fue fácil, pero para mí fue un salvavidas. ¿Dónde tiene su sede Petal Bloom?
+0079 [Fuyuka] | Ah, queda algo lejos de aquí.
+0080 [Fuyuka] | Pero hay muchos canales alrededor de la ciudad de Philae, así que podemos ir en bote.
+0081 [Ridge] | Uf... La brisa se siente increíble.
+0082 [Ridge] | ¿Ves eso,==W== Fuyuka?
+0083 [Fuyuka] | ¿Eh?==W== No veo nada...
+0084 [Ridge] | Así es.==W== Por ahora no hay nada ahí.
+0085 [Ridge] | Pero algún día, jeje, me apoderaré de toda esta montaña, desde aquí hasta allá, cada centímetro.
+0086 [Ridge] | Sembraré todo tipo de verduras, frutas, árboles, flores...
+0087 [Ridge] | Cultivaré más comida deliciosa de la que cualquiera pueda contar, para que nadie tenga que pasar hambre.
+0088 [Fuyuka] | Guau... ¡Qué sueño tan increíble!
+0089 [Ridge] | Jeje, no se lo cuentes a nadie, ¿sí?
+0090 [Ridge] | Algunas personas... pensarán que solo estoy soñando despierta y se reirán de mí...
+0091 [Fuyuka] | Está bien, no se lo diré a nadie.
+0092 [Fuyuka] | ¡Ojalá algún día podamos ver todo eso hecho realidad!
+0093 [Kaede] | Muy bien, el contrato está firmado.==W== Por favor, guarden los documentos en un lugar seguro.
+0094 [Nazuna] | Guau, la capitana es tan eficiente. Salió a dar un paseo y volvió con un gran cliente.
+0095 [Nazuka] | Comparada con aquella excapitana que se pasaba el día obsesionada con las máquinas de garra, es de la noche al día.==W== Contamos contigo, capitana Fuyuka. Sigue con el gran trabajo.
+0096 [Nazuna] | ¡Oye, tú, ten cuidado con lo que dices—!
+0097 [Ridge] | Así que eres la capitana. Y hace rato eras tan modesta.
+0098 [Ridge] | ¡Cuento con ustedes de ahora en adelante, Petal Bloom!==W== La próxima vez traeré unas deliciosas verduras que yo misma cultivé. ¡Va a ser genial!
+0099 [Fuyuka] | Eh, gracias...
+0100 [Nazuna] | Verduras deliciosas... Suena maravilloso.==W== ¿Me tocará un poco?
+0101 [Ridge] | ¡Claro!==W== Conmigo, todos comen hasta quedar satisfechos.
+0102 [Ridge] | Después de todo,==W== mi sueño es...
+0103 [Narración] | Ridge no terminó la frase, pero intercambió una sonrisa con Fuyuka.
+0104 [Narración] | «¡Mi sueño es asegurarme de que todos puedan comer hasta saciarse!»

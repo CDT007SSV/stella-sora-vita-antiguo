@@ -1,0 +1,85 @@
+# Historia de Amber · 1 · The Lost Kitten (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Imperial Guard Knight | Caballero de la Guardia Imperial
+N:avg1_103 | Amber
+N:avg3_100 | Sylar
+N:avg3_129 | Guardia Imperial
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El gatito perdido (Parte I)
+0003 [Intro] | Amber y tú se unen para un encargo, pero pronto descubren que las cosas son más complicadas de lo esperado.
+0004 [Tú] | Con calma y despacio...==W== Perfecto, el objetivo no nos ha visto.
+0005 [Tú] | Amber, ¿cómo vas de tu lado?
+0006 [Amber] | ...
+0007 [Amber] | Objetivo fijado
+0008 [Amber] | Solo di la palabra
+0009 [Amber] | 
+0010 [Tú] | Bien, yo también estoy en posición
+0011 [Tú] | El resumen del encargo dice que el objetivo es ágil y astuto
+0012 [Tú] | Así que hay que tener mucho cuidado
+0013 [Amber] | Entendido
+0014 [Amber] | Quiero dinero para pudín
+0015 [Amber] | Así que no dejaré que nada me detenga
+0016 [Amber] | 
+0017 [Tú] | Después de tanto tiempo rastreando, atrayendo y preparando la emboscada...==W== Por fin llegamos.
+0018 [Tú] | Ahora solo hay que tomar al objetivo desprevenido y lanzar la emboscada...
+0019 [Narración] | No muy lejos, nuestro objetivo juguetea con las tejas del techo y se estira en un largo y perezoso bostezo.
+0020 [Tú] | No, no... A juzgar por sus patrones anteriores, ¡está a punto de moverse otra vez!
+0021 [Tú] | ¡Amber, ahora!
+0022 [???] | ¡Miau!
+0023 [Tú] | ¡¿Humo...?!==W== ¡No veo nada!
+0024 [Tú] | ¡Auch!
+0025 [Tú] | ¿Quién me pisó la cabeza?
+0026 [Amber] | Ah... Se escapó.
+0027 [Tú] | El humo es demasiado espeso. No conviene lanzarse sin más.
+0028 [Tú] | Esperemos a que el humo se disperse.
+0029 [Narración] | Diez minutos después...
+0030 [Imperial Guard Knight] | Cuando vi esa enorme nube de humo, me asusté muchísimo. Pensé que era otro caso.
+0031 [Tú] | Jaja... Gracias a las estrellas que solo es un accidente inofensivo por el desgaste de un Artefacto.
+0032 [Imperial Guard Knight] | Qué bueno oírlo. Últimamente ha habido varios robos por esta zona. Por favor, tengan cuidado.
+0033 [Tú] | Ejem... Menos mal que logramos disimularlo.
+0034 [Tú] | Entonces, ¿qué fue eso?
+0035 [Amber] | Una bomba de humo.
+0036 [Tú] | ¿La lanzaste tú, Amber? ¿Por qué?
+0037 [Amber] | 
+0038 [Amber] | Mi plan era usarla para bloquearle la vista al objetivo
+0039 [Amber] | Para que no supiera por dónde huir
+0040 [Amber] | Así podríamos atrapar al gato más fácilmente y terminar el encargo más rápido
+0041 [Amber] | Pero salió mal... Perdón...
+0042 [Tú] | Ya veo...
+0043 [Amber] | Sé que me equivoqué. Ya estoy reflexionando sobre mi error.
+0044 [Amber] | Ahora sé que una bomba de humo no es la mejor opción para una situación así
+0045 [Amber] | En un área abierta, el humo también nos bloquea la vista a nosotros
+0046 [Amber] | así que en realidad nos afecta más a nosotros
+0047 [Tú] | ...
+0048 [Tú] | … ¿A eso le llamas reflexionar?
+0049 [Amber] | Sí
+0050 [Amber] | Gas lacrimógeno, granadas aturdidoras, bombas tranquilizantes y las granadas congelantes hechas a la medida por Iris...
+0051 [Amber] | Necesito elegir la más adecuada entre todas estas opciones
+0052 [Amber] | ¡La próxima vez no me equivocaré!
+0053 [Amber] | 
+0054 [Tú] | Así que eso quisiste decir con «no dejaré que nada me detenga»...
+0055 [Tú] | Está... eh, está bien que estés tan motivada. Pero quizá la próxima vez podamos optar por un enfoque menos ... drástico, ¿no?
+0056 [Tú] | ¿Cómo le explico a Amber que no necesitamos todas estas armas peligrosas solo para atrapar a un gato?
+0057 [Tú] | Pero me mira con tanta inocencia que no me animo a decir nada.
+0058 [Tú] | ¿Q-qué pasa? ¿Por qué te acercas tanto de repente?
+0059 [Amber] | Tu frente... Tiene una huella roja de pata...
+0060 [Tú] | El gato saltó a mi cara y usó mi cabeza de escalón para escapar hace un momento.
+0061 [Tú] | Probablemente sea de entonces...
+0062 [Amber] | … ¿Te duele?
+0063 [Tú] | E-estoy bien. No tengo ninguna herida y ya no duele tanto.
+0064 [Tú] | Bueno, como el objetivo se escapó, empecemos de nuevo.
+0065 [Amber] | Mm.
+0066 [Amber] | El objetivo está muy alerta y tiene algo de habilidad para evadir vigilancia
+0067 [Amber] | Después de lo que pasó, no volverá a acercarse a esta zona
+0068 [Amber] | Probablemente vaya a esconderse a un lugar más apartado
+0069 [Tú] | Parece que tendremos que ampliar el perímetro de búsqueda
+0070 [Tú] | Separémonos, es más efectivo así
+0071 [Tú] | Terminemos con esto para que todos comamos pudín juntos
+0072 [Amber] | ¡Sí!
+0073 [Amber] | 

@@ -1,0 +1,6 @@
+# Historia de Coronis — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_118_01 | Obsesión con los huesos (Parte I)
+CG_118_02 | Obsesión con los huesos (Parte II)
+CG_118_03 | Obsesión con los huesos (Parte III)

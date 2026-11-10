@@ -1,0 +1,142 @@
+# Capítulo 5 · Una chispa en la oscuridad · 3B · Novatas y veteranas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Proactive Team Leader | Líder de equipo proactivo
+N:Slogan-Shouting Employee | Empleado que grita consignas
+N:Veteran Employee | Empleado veterano
+N:Young New Hires | Jóvenes recién contratados
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_135 | Mistique
+N:avg1_138 | Nyx
+N:avg1_1997 | Soldado
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_180 | Investigador de Cosecha Unida
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Novatas y veteranas
+0003 [Intro] | Amber se siente abrumada por el fervor del Departamento de Marketing, pero Nyx, una veterana, le tiende la mano. Mientras tanto, Iris se adapta sin problemas al ritmo frenético del trabajo…
+0004 [Narración] | Departamento de Marketing, Cosecha Unida
+0005 [Proactive Team Leader] | Unidos venceremos...
+0006 [Slogan-Shouting Employee] | Rompamos récords...
+0007 [Proactive Team Leader] | Subamos el rendimiento...
+0008 [Slogan-Shouting Employee] | Las ganancias nos esperan...
+0009 [Iris] | Las ganancias nos esperan...
+0010 [Amber] | ...
+0011 [Proactive Team Leader] | ¡Oye, becaria! ¿Por qué tan callada?==W== ¡Esto es un mitin motivacional! ¡Sin pena, grita con el equipo! ¡Suéltalo! ¡Que te oiga! ¡Vamos, a la cuenta...!
+0012 [Proactive Team Leader] | Subamos... el rendimiento...
+0013 [Amber] | ......
+0014 [Proactive Team Leader] | ¡No te oigo! ¡Desde el principio! A mi cuenta: tres, dos, uno, ¡GRITEN!
+0015 [Amber] | E-eh... este...
+0016 [???] | Ugh...
+0017 [Amber] | O-oye, ¿estás bien?
+0018 [???] | El pecho... Siento opresión. ¿Me ayudas a llegar a la enfermería?
+0019 [Proactive Team Leader] | ¿Otra vez tú? ¡Que sea rápido! No te atrases con tu cuota.
+0020 [Proactive Team Leader] | Tú, becaria, ve a echarle una mano.
+0021 [Proactive Team Leader] | Sí, tú. Déjala allá y regresa directo aquí.
+0022 [Amber] | E-en seguida.
+0023 [???] | Más adelante, a la derecha.
+0024 [Amber] | P-pero... la enfermería está a la izquierda.
+0025 [???] | ¿Eh? ¿Una novata que de verdad sabe dónde está la enfermería? ¡Qué lista!
+0026 [Amber] | Eh... Hice un reconocimiento.
+0027 [???] | ¿Reconocimiento? ¿No me digas que tú también buscabas un lugar para echarte una siesta?
+0028 [Amber] | ¿U-un lugar para la siesta?
+0029 [???] | Y aquí estamos. Mi «enfermería» personal.
+0030 [Amber] | ¿Una cama... en el invernadero?==W== Espera, ¿te sientes bien?
+0031 [???] | Uf, llegamos. Gracias por la ayuda.==W== ¡Ah, cierto! Como agradecimiento por dejarte secuestrar, ¿también quieres echarte una siesta, becaria?
+0032 [Amber] | N-no, gracias. Tengo que volver... al trabajo.
+0033 [???] | ¿Cuál es la prisa? Esos mitines nunca duran menos de dos horas. Así que, o tomas una siesta aquí, o te lavan el cerebro allá durante dos horas... Tú escoges.
+0034 [Nyx] | Ah, casi se me olvida presentarme. Soy Nyx. Llevo cuatro años en Marketing de Cosecha Unida. Técnicamente, eso me hace tu superior. Eres la nueva de Mina, ¿verdad?
+0035 [Amber] | Sí. Yo... soy Amber.
+0036 [Nyx] | Amber, ¿eh? ¡Mucho gusto! Por cierto, déjame adivinar. No eres precisamente muy sociable, ¿verdad?
+0037 [Nyx] | Te veías bastante incómoda allá atrás, así que te saqué. Espero no haberte empeorado las cosas.
+0038 [Amber] | Gracias.==W== Es que... soy muy mala para esas situaciones.
+0039 [Nyx] | Me alegra oírlo. De hecho, antes fui la superior de Mina cuando estábamos en el mismo equipo. Cuidar a su novata es lo menos que puedo hacer.
+0040 [Nyx] | En fin, eres bienvenida en este invernadero cuando quieras. Nada más avísame antes de venir, ¿va?
+0041 [Amber] | Eh, ¿podríamos...?
+0042 [Nyx] | ¿Intercambiar Heartlink? Claro.
+0043 [Amber] | ¡Gracias, muchísimas gracias! Eh, ¿señorita... Nyx?
+0044 [Nyx] | No te fuerces con los títulos si te resulta raro. Nyx está bien.
+0045 [Amber] | Ok
+0046 [Amber] | la vdd soy pésima en persona. nunca sé cómo actuar ni dónde están los límites con la gente en la vida real.
+0047 [Amber] | en serio me estaba volviendo loca en ese mitin.
+0048 [Amber] | gracias a dios me sacaste. siento que por fin puedo respirar.
+0049 [Nyx] | qué bueno que te ayudé. eres bien rápida con los pulgares.
+0050 [Amber] | ah, eh, es que vivo pegada al teléfono
+0051 [Amber] | Es más fácil ser sincera cuando no tengo que ver a alguien a los ojos... Mis dedos como que vuelan solos
+0052 [Amber] | Oye... ¿Nos vamos a meter en problemas por saltarnos el trabajo?
+0053 [Nyx] | ni te preocupes. todo el trabajo pesado les cae a las novatas como tú y a las del montón como yo de todos modos
+0054 [Nyx] | ya nos encargaremos de la pila cuando de verdad llegue a nuestros escritorios
+0055 [Nyx] | oí que mañana empezamos con turno en tienda
+0056 [Nyx] | ya sabes, promociones en vivo, gritar consignas, todo el paquete. mejor descansamos mientras se pueda.
+0057 [Amber] | mañana
+0058 [Amber] | en tienda
+0059 [Amber] | gritar consignas
+0060 [Amber] | Estoy perdida... ¡¿Qué voy a hacer???!
+0061 [Tú] | El Departamento de Marketing está justo adelante. Espero que Iris y Amber se estén adaptando bien.
+0062 [Mistique] | Shh. Escucha. El personal de Marketing está platicando.
+0063 [Veteran Employee] | Uf, me quedé ronca de tanto gritar en ese mitin. Nada me caería mejor ahorita que una bebida del Monolito bien fría.
+0064 [Young New Hires] | Pero... la máquina expendedora de nuestra oficina no tiene bebidas del Monolito de verdad, ¿o sí?
+0065 [Veteran Employee] | Obvio. De todos modos no me alcanza para las auténticas. Solo finge que estas imitaciones son las de verdad. ¿Ves? ¿A poco no te sientes mejor ya?
+0066 [Young New Hires] | Tiene razón. Ha estado menos pesado desde que llegaron los nuevos,==W== pero ¿de verdad deberíamos flojear tan descaradamente?
+0067 [Veteran Employee] | Mira y aprende.
+0068 [Narración] | Con mucha destreza, saca de su bolsillo una pieza redonda de metal que no se parece en nada a una moneda y la mete en el Artefacto expendedor.
+0069 [Veteran Employee] | Listo, el Artefacto se atascó. Si alguien nos cacha, decimos que se descompuso. Que llevamos siglos esperando nuestras bebidas y estamos a punto de llamar a mantenimiento.
+0070 [Young New Hires] | Guau. Es usted un genio.
+0071 [Veteran Employee] | Es solo una habilidad básica de supervivencia corporativa. Hablando de gente intensa, esa becaria de Estrategia es otra cosa. Una adicta al trabajo total.
+0072 [Young New Hires] | ¡Shh! Viene para acá.
+0073 [Iris] | Disculpe. Terminé el presupuesto promocional del próximo trimestre. ¿Hay algo que cambiar?
+0074 [Proactive Team Leader] | Buen trabajo.==W== De hecho, llegas en el momento perfecto: tengo una tarea que solo tú puedes sacar adelante... ¿Te animas?
+0075 [Iris] | ¡¿Una tarea... que solo yo puedo sacar adelante?!==W== ¡¡Por favor, déjemela a mí!!
+0076 [Tú] | Iris sí que está entusiasmada.
+0077 [Mistique] | ¿Crees que se trague todo eso de «un gran poder conlleva una gran responsabilidad»? ¿O de plano no se da cuenta de que le están echando todo el trabajo pesado?
+0078 [Tú] | Oye, Iris. ¿Ocupada?
+0079 [Iris] | ¡Ah! ¡Je... ==PLAYER_NAME==! ¡Y Mistique! ¿Qué los trae por aquí?
+0080 [Tú] | Estábamos un poco preocupados. Pensamos en venir a ver cómo estabas.
+0081 [Iris] | Ya veo...==W== ¡Ah! ¡Mistique, cuidado!
+0082 [Mistique] | ¿Sí?
+0083 [Mistique] | ¡¿Aaah...?!
+0084 [Mistique] | Casi me sepulta viva esa avalancha de papeles... Iris, ¿en serio está bien esta carga de trabajo?
+0085 [Iris] | ¡Está bien! Soy la novata, así que debería hacer el trabajo pesado.==W== ¡La verdad, quiero más trabajo! ¡Es la forma más rápida de crecer!
+0086 [Tú] | ¿Se le olvidó por completo que está de incógnito?
+0087 [Iris] | Además, más datos significan más posibilidades de encontrar una pista. ==PLAYER_NAME==, mira esto.
+0088 [Tú] | Esto es... información de ventas del Ruiseñor Leonado.==W== Los ingresos se dispararon hace dos meses, treinta por ciento más que el año pasado.
+0089 [Iris] | Solo los Trekkers y los pobres del Distrito de las Cenizas compran Ruiseñores Leonados. Ese aumento del treinta por ciento... tiene que estar relacionado con lo que estamos investigando.
+0090 [Iris] | Crucé los datos con los registros migratorios. La población de Trekkers y del Distrito de las Cenizas en Philae no ha aumentado mucho en los últimos dos meses.
+0091 [Iris] | Lo que significa que, aunque el número de consumidores es estable, el consumo de pan sigue subiendo...
+0092 [Tú] | Entonces... ¿Los clientes compran el Ruiseñor Dorado, se dan cuenta de que no los llena y terminan gastando más en Ruiseñores Leonados?
+0093 [Tú] | Hace dos meses... ¿No fue cuando Nazuka andaba cazando a la Espada de Jade?
+0094 [Iris] | Hasta ahí llega mi teoría por ahora. Seguiré investigando y también revisaré el historial de compras de los mercenarios en las tiendas de Cosecha Unida.
+0095 [Tú] | Excelente trabajo.==W== Por cierto, ¿dónde está Amber?
+0096 [Iris] | A Amber también le va de maravilla. Ya se lleva muy bien con una superior llamada Nyx. Ahorita andan haciendo entregas en la ciudad.
+0097 [Tú] | ¿Amber está haciendo entregas?==W== Espero que no se esté esforzando demasiado...
+0098 [Tú] | Amber, ¿cómo va el trabajo?
+0099 [Amber] | 
+0100 [Amber] | Bien. Mi superior Nyx es súper buena onda, y el trabajo es medio divertido.
+0101 [Amber] | ¡Ya fuimos a cuatro tiendas!
+0102 [Amber] | A Marketing le falta personal, así que los envíos van tarde
+0103 [Amber] | Pero nyx fue increíble calmando a los gerentes enojados
+0104 [Tú] | ¿sí aguantas el ritmo?
+0105 [Amber] | 
+0106 [Amber] | Estoy aprendiendo a negociar con nyx.
+0107 [Amber] | Mientras ella platica con los gerentes adentro, yo practico tiro afuera
+0108 [Amber] | Cero tiempo perdido.
+0109 [Tú] | ¿¿¿¿práctica de tiro????
+0110 [Amber] | me voy. nos espera la siguiente tienda.
+0111 [Mistique] | ¿Y bien? ¿Cómo va Amber?
+0112 [Tú] | Hay algunos detalles que me dejan rascándome la cabeza... Pero parece que está bien.
+0113 [Mistique] | ¡Con eso me basta! Entonces, ¿cuál es el plan?
+0114 [Opción] | Ver cómo van Noya y Fuyuka
+0115 [Opción] | Ver cómo van Iris y Amber
+0116 [Opción] | Concentrarnos en nuestra propia tarea
+0117 [Tú] | Vamos a I+D.==W== Las ideas locas de Noya combinadas con la fuerza bruta de Fuyuka... Eso me preocupa.
+0118 [Mistique] | Entendido. Solo te aviso:==W== allá es un mar de batas de laboratorio.
+0119 [Tú] | Deberíamos seguir el plan e investigar nuestra propia tarea: el Departamento de Producción.
+0120 [Mistique] | Uy, mírate, todo un profesional, Jefe. ¡A los invernaderos★

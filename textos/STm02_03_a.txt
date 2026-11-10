@@ -1,0 +1,142 @@
+# Capítulo 2 · 3A · Ojos en la oscuridad
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Blade-Wielding Mercenary | Mercenario con espada
+N:Brawny Mercenary | Mercenario corpulento
+N:Mercenary Leader | Líder de mercenarios
+N:White-Haired Girl | Chica de pelo blanco
+N:avg1_103 | Amber
+N:avg1_106 | Aeloria
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_132 | Minova
+N:avg1_144 | Chitose
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_1234 | Aeloria
+N:avg3_1235 | Aeloria
+N:avg3_197 | Feagin
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Mirada en la oscuridad
+0003 [Intro] | La maga contratada por Feagin lanza un extraño hechizo que sella tu magia,==RT==y te obliga a retirarte empujando el vehículo.==RT==Mientras cruzas el Canal, no hay perseguidores a la vista: parece que alguien te está ayudando.
+0004 [Lugar y hora] | 03:13, 2 del mes de Pluvia, Distrito de Oro, Emor. Vestíbulo de Creta Trading
+0005 [Feagin] | Alarma puesta para las 8:30.
+0006 [Feagin] | Hmph. Solo cinco horas de sueño... casi nada.==W== Supongo que tendré que echar una siesta mañana por la tarde.
+0007 [Feagin] | ¡¿Quién anda ahí?!
+0008 [Minova] | Cinco horas es justo.==W== Ven, te ayudo.
+0009 [Minova] | Un buen golpe debería dejarte dormida por... uy, quince horas, fácil.==W==
+0010 [Feagin] | ¿Qué haces aquí? ¿Te dio remordimiento faltar? ¿Decidiste colarte a hacer horas extra?
+0011 [Minova] | ¿Horas extra? ¿Para esta compañía basura?==W== Por favor. Actúas como si te doliera pagarnos.
+0012 [Feagin] | ... Hmph. ¿Y?
+0013 [Feagin] | Este es el poder que concede el Dios de la Gracia.
+0014 [Feagin] | Con el Sello de la Gracia, puedo crear la regla que quiera...==W== y yo tengo la última palabra.
+0015 [Feagin] | Por ejemplo...==W== podría borrar todo tu salario.==W== Es perfectamente legal mientras use el Sello. ♪
+0016 [Minova] | Así que ese es tu plan maestro, ¿eh? ¿Dirigir la compañía extorsionando niños? Qué elegancia.
+0017 [Feagin] | ¡¿Cómo te atreves a hablarme así?! ¡Soy tu JEFA!
+0018 [Minova] | ¿«Jefa»? Nah. Pareces más uno de esos perros sarnosos del Distrito de las Cenizas.
+0019 [Minova] | Y este lugar, solo una perrera un poco más elegante.
+0020 [Feagin] | ¡¿Te atreves a calumniar a Creta Trading?! ¡Te demandaré! ¡Te llevaré a juicio!
+0021 [Minova] | ¿Eh? ¿Qué dijiste? Perdón, estoy perdiendo el oído.
+0022 [Tú] | Minova de verdad...==W== sabe sacar de quicio a cualquiera.
+0023 [Tú] | Pero,==W== para una abusona con ínfulas de poder como ella,==W== supongo que esto es justo lo que hace falta.
+0024 [Minova] | Quizá... ¿mi bate te oiga mejor?==W==
+0025 [Feagin] | ¡Eek! ¡¿Qué piensas hacer con ese bate?!
+0026 [Feagin] | No intentes nada estúpido. Es por tu propio bien.==W== Yo... ==W==contraté protección muy capaz.
+0027 [Minova] | ¿Te refieres a los temporales que están a un mal turno de un colapso total?
+0028 [Minova] | ¿O a los caballeros de la Guardia Imperial que contrataste, que duermen a pierna suelta a un kilómetro de aquí?
+0029 [Feagin] | Tch, ¿todavía te haces la dura...?!
+0030 [???] | Ni pienses en la alarma.==W== Y no te muevas...
+0031 [Noya] | ...o esta belleza te atraviesa el cuello.
+0032 [Feagin] | ¡¿Cuándo te pusiste a mis espaldas?!
+0033 [Noya] | Mientras estabas ocupada mirando a Minova.
+0034 [Noya] | Ahora, sé lista. Aleja la mano del botón.==W== ¡Y quédate quieta!
+0035 [Feagin] | ¡Está bien, está bien, Trekkers! ¡Me equivoqué! ¡Bajen la espada, por favor!
+0036 [Feagin] | ¡Solo hablemos! ¡Podemos arreglarlo! ¡Lo que quieran, solo díganlo! ¡De verdad, lo que sea!
+0037 [Tú] | Primero, quema los contratos que les impusiste a esos niños. Segundo, confiesa la verdad sobre el orfanato. Y tercero, devuelve el vehículo.==W== Haz eso y entonces hablaremos.
+0038 [Feagin] | ¡Está bien! ¡Está bien! ¡Lo que digan!
+0039 [Feagin] | Los contratos de los niños y del orfanato están arriba. Vengan conmigo. El vehículo...==W== Está allá, llévenselo cuando quieran.
+0040 [Feagin] | La cosa es que...
+0041 [Minova] | ¿Es qué?==W== ¿Tienes algún problema?
+0042 [Feagin] | ¡No, no, no! ¡Guarda el bate!
+0043 [Feagin] | Quiero copiar unas cuantas tarjetas de deseo más.
+0044 [Tú] | ¿Qué planeas?
+0045 [Feagin] | ¡Seguro lo viste! ¡Este método de pedir deseos... es revolucionario!
+0046 [Feagin] | ¡Imagínense!==W== Nada de escribir largas peticiones, nada de recitar oraciones complicadas. Solo sostienes una tarjeta, ofreces un recuerdo y pides un deseo.==W== ¿No es increíble?
+0047 [Tú] | Pero ese Lucky Oasis que tanto quieres, las tarjetas no te lo han dado,==W== ¿verdad?
+0048 [Feagin] | En teoría debería funcionar. Debe de haber un error en el proceso de réplica.==W== Solo tengo que seguir intentando...
+0049 [Tú] | ¿Y estás segura de que algún día funcionará?
+0050 [Feagin] | ¡Exacto!==W== ¿Lo entienden, verdad? Como escribir rollos de oraciones: ¡nunca te sale perfecto a la primera!
+0051 [Feagin] | ¡Imaginen!==W== Esto podría cambiar la forma de pedir deseos...==W== No,==W== ¡podría cambiar el mundo entero!
+0052 [Feagin] | ¡Podríamos multiplicar los Artefactos que producimos! Incluso quienes nunca podrían costearlos podrían tener uno, y la calidad estaría estandarizada.==W== ¿No ven que todo es por el bien común?
+0053 [Tú] | Suena genial. Solo tengo una pregunta.
+0054 [Tú] | Usar estas tarjetas quema recuerdos.==W== Incluso puede causar daños mentales graves.==W== Es un precio bastante alto.
+0055 [Opción] | ¿Quién exactamente esperas que pague ese precio?
+0056 [Feagin] | Bueno, por supuesto...==W== serían...
+0057 [Minova] | ¿Se te fue el valor?==W== ==PLAYER_NAME==, es una pérdida de tiempo==W== hablar con basura como ella.
+0058 [Noya] | Amber, encárgate tú. Yo voy por el vehículo.==W== Vigila a Feagin. No dejes que haga nada.
+0059 [Amber] | Entendido.
+0060 [Minova] | Tú. Ven con nosotras. ==W==Vamos por esos contratos.
+0061 [Feagin] | ¡S-sí! Pero por favor, ¿tienen que ser tan rudas?
+0062 [Noya] | ¿Eh?==W== ¿La puerta de Loxy se abrió sola?
+0063 [Chica de pelo blanco] | Aaaaah...
+0064 [Chica de pelo blanco] | Con razón hay un desorden aquí. ¿A qué viene tanto alboroto?
+0065 [Chica de pelo blanco] | No me digas que por fin presionaste tanto a tus empleados que decidieron amotinarse.
+0066 [Feagin] | ¡Por fin despiertas!==W== ¡Déjate de tonterías y deshazte de esta gente!
+0067 [Feagin] | ¡Suéltame!==W== Pagué una fortuna por esta maga de primer nivel. Un solo movimiento suyo==W== ¡y están acabadas!
+0068 [Chica de pelo blanco] | Lo siento, estoy fuera de turno.==W== Además,==W== soy de soporte técnico, no tu músculo contratado.
+0069 [Chica de pelo blanco] | Oye, tú. ¿Este vehículo es tuyo? ¿Cómo lo deseaste?
+0070 [Chica de pelo blanco] | La cama y los asientos son comodísimos. Mucho mejor que la perrera donde ella me alojó.
+0071 [Noya] | Je... me alegra que lo pienses.==W== Nosotras mismas hicimos todo el cosido.
+0072 [Chica de pelo blanco] | Ya veo.==W== Así que es obra de sus manos. Interesante.
+0073 [Feagin] | ¡Oye! ¡No me ignores!==W== ¡Pagaré el triple...==W== no, ==W==diez veces tu tarifa!
+0074 [Chica de pelo blanco] | No me interesan==W== los Dorra.==W== ¿Qué tal esto?... Tráeme unas cosas a cambio.
+0075 [Feagin] | ¡Sí, sí, lo que sea! Te conseguiré lo que quieras,==W== ¡solo deshazte de ellas!
+0076 [Minova] | ¡Oye!==W== ¿De verdad te pondrás del lado de esta basura?
+0077 [Chica de pelo blanco] | Puede que sea basura,==W== pero es mi basura útil.
+0078 [Minova] | ¿Desapareció?
+0079 [Amber] | No te muevas.
+0080 [Chica de pelo blanco] | Buenos reflejos.
+0081 [Chica de pelo blanco] | Pero qué lástima,==W== dudaste==W== en disparar.
+0082 [Amber] | La sombra... Algo anda mal.
+0083 [Amber] | Mi arma...==W== ¡se atascó!
+0084 [Minova] | ¡Maldición! ¿Qué magia es esta? ¡No puedo sacar poder de mi Piedra del Alma!
+0085 [Iris] | Mis flechas de hielo... no se forman.
+0086 [Chica de pelo blanco] | Hmph. Patético, depender de poder prestado.
+0087 [Noya] | ¡Te tengo!
+0088 [Chica de pelo blanco] | Así que... sí hay algunas Trekkers decentes en el grupo.
+0089 [Chica de pelo blanco] | Pero...==W== esta no es ropa común==W== la que llevo puesta.
+0090 [Noya] | ¿Eh? ¿Su cuerpo se está convirtiendo en niebla...?
+0091 [Narración] | Arrebató a Feagin del centro de nuestro círculo y se desvaneció, como nieve oscura derritiéndose bajo el sol de primavera.
+0092 [Noya] | ¡No dejen que escape!
+0093 [Tú] | Noya,==W== ¡espera!
+0094 [Noya] | ¡El edificio no es tan grande! Si buscamos habitación por habitación, las encontraremos.
+0095 [Iris] | Esa sombra bloquea nuestra magia.
+0096 [Amber] | Oí a Feagin. Se comunicó con la Guardia Imperial.
+0097 [Minova] | Nos van a rodear en cualquier momento. No hay tiempo de perseguirlas.
+0098 [Noya] | ¡Saquemos primero a Loxy de aquí!
+0099 [Lugar y hora] | 04:15, 2 del mes de Pluvia, Distrito de Oro, Emor. Pasillo del canal
+0100 [Mercenario con espada] | ¿Se enteraron? El viejo avaro de Creta puso precio a la cabeza de cinco Trekkers: un millón de Dorra por cabeza.
+0101 [Mercenario corpulento] | ¿Feagin soltando tanto? Esas cinco deben de haberle hecho algo grave a Creta Trading. Casi da ganas de no perseguirlas.
+0102 [Líder de mercenarios] | ¡Mira qué compasivo te pones!==W== Cobra esta recompensa y podremos descansar durante meses.
+0103 [Mercenario corpulento] | Sí, tienes razón.==W== Gotera en el techo y hay que pagar el préstamo del arma...==W== Si nos topamos con esas Trekkers, mala suerte la de ellas.
+0104 [Líder de mercenarios] | Seguro usan el Canal para moverse.==W== Prepararemos una emboscada justo aquí.
+0105 [Líder de mercenarios] | Oye,==W== ¡levántate!==W== No es momento de desca...==W==
+0106 [Lugar y hora] | 06:00, 2 del mes de Pluvia, Distrito de las Cenizas, Emor. Pasillo del puente del canal
+0107 [Noya] | Uf, Loxy está a salvo escondida.
+0108 [Noya] | La bifurcación de allá atrás lleva a un puente destruido.==W== Dudo que alguien vaya por ahí.
+0109 [Minova] | Qué raro. Pensé que los músculos contratados de Creta nos esperarían en el Canal.
+0110 [Minova] | Llegamos hasta aquí sin ver a un solo mercenario, y mucho menos a la Guardia.
+0111 [Iris] | Es inquietante...==W== pero tenemos que salir de este puente==W== antes de que Creta Trading descubra que escondimos nuestro vehículo aquí arriba.
+0112 [Amber] | Iré a explorar.==W==
+0113 [Tú] | ¿Es esa sensación... otra vez?
+0114 [Tú] | Pero...
+0115 [Narración] | El Canal está completamente desierto.
+0116 [Narración] | En la oscuridad, solo brilla la estrella en cruz sobre el Monolito.

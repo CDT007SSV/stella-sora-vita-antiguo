@@ -1,0 +1,103 @@
+# Historia de Kasimira · 3 · A Lucky Day (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_108 | Kasimira
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Un día de suerte (Parte III)
+0003 [Intro] | ¡Corre, Jefe! ¡Por tus zapatos!
+0004 [Kasimira] | ¡Toma la curva, a toda velocidad!
+0005 [Kasimira] | Viene la recta final. ¡Pongo todo lo que tengo!
+0006 [Tú] | ¡La meta!
+0007 [Narración] | Kasimira me lleva de vuelta al Monolito, a una sala de arcade que la Compañía del Gato Blanco usa como campo de entrenamiento.
+0008 [Kasimira] | Ugh...
+0009 [Tú] | ¿Por qué suspiras? Estuviste perfecta. Todas tus curvas fueron impecables.
+0010 [Kasimira] | Gracias. Pero está lejos de ser suficiente.
+0011 [Narración] | El puntaje de Kasimira destella en la pantalla: segundo lugar, un récord impresionante, pero aún lejos del primer puesto que aspiraba a superar.
+0012 [Tú] | ¿Así que lo importante que tenías que hacer hoy era intentar superar ese puntaje? Sí, eso requeriría algo de suerte.
+0013 [Kasimira] | Sí. He alcanzado el puntaje máximo en todas las demás máquinas de entrenamiento de este lugar. Esta es la única en la que no he llegado hasta la cima.
+0014 [Kasimira] | No sé qué antiguo miembro dejó ese puntaje máximo, pero siento que... ==W==hasta que lo supere, no tengo ninguna posibilidad de revivir de verdad a la Compañía del Gato Blanco.
+0015 [Kasimira] | Aun así, tienes razón, este simulador de manejo sí requiere algo de suerte. Hay partes en las que no puedo conseguir los puntos sin importar lo bien que maneje.
+0016 [Kasimira] | Qué raro... Sí traje mi amuleto de la suerte.
+0017 [Tú] | ¿Tu amuleto de la suerte? ¿Dónde?
+0018 [Kasimira] | Quizá sea porque no lo traigo puesto. Antes llevaba todos mis amuletos de la suerte encima.
+0019 [Tú] | ¿Eh? ¿Qué es esa cara?
+0020 [Kasimira] | Jefe, ¿puedo pedirte prestado un momento?
+0021 [Tú] | ¿Eh? ¿Ehhhh? ¿Qué haces?
+0022 [Narración] | Kasimira me atrae a sus brazos y me sienta frente a ella.
+0023 [Kasimira] | Perdón, Jefe, pero voy a necesitar tomar prestada un poco de tu suerte.
+0024 [Narración] | Una suave calidez se presiona contra mi espalda. Antes de que pueda decir palabra, Kasimira me envuelve en sus brazos y empieza la siguiente partida.
+0025 [Tú] | Dice que quiere que comparta un poco de mi suerte con ella, pero ¿cómo se comparte algo así exactamente?
+0026 [Kasimira] | Sujétate fuerte. ¡Vamos a empezar!
+0027 [Tú] | ¡Waaah!
+0028 [Tú] | Esto es mucho más intenso de lo que esperaba. Sentarse en el asiento del conductor se siente completamente distinto.
+0029 [Tú] | Sobre todo en las curvas, mi cuerpo no deja de salir despedido hacia un lado...==W== ¡Siento que ... ==W==estoy a punto de perder el conocimiento!
+0030 [Kasimira] | Sujétate fuerte, Jefe. Vamos a despegar aquí.
+0031 [Tú] | ¡No aguanto más! ¡Déjame bajar!
+0032 [Tú] | P-por fin se detuvo... ==W==Con una aceleración tan loca, tenemos que haber quedado en primer lugar...
+0033 [Kasimira] | Por desgracia, todavía bastante lejos.
+0034 [Kasimira] | Qué raro... ==W==El puntaje sigue sin subir. ¿Estaré usando mal el amuleto de la suerte?
+0035 [Tú] | Creo que quizá el momento en que usas los objetos es el que está mal.
+0036 [Kasimira] | ¿Objetos? ¿Te refieres a esa docena de botones junto al volante? Solo los presioné todos a la vez.
+0037 [Tú] | La pista ya es bastante complicada, así que presionarlos todos a la vez y concentrarte en manejar tiene sentido. Pero ... ==W==ahora me tienes a mí, ¿no?
+0038 [Narración] | Unos minutos después, de nuevo en el regazo de Kasimira, coloco las manos sobre el laberinto de botones de objetos.
+0039 [Kasimira] | Cuento contigo, Jefe. Confío en tu instinto táctico. ¿Listo?
+0040 [Tú] | Listo.
+0041 [Kasimira] | ¡Vamos!
+0042 [Narración] | En los brazos de Kasimira, me voy acostumbrando poco a poco al accidentado circuito de montaña, calculando a la perfección cada lanzamiento de objeto para bloquear a los autos rivales. Cada impacto exitoso suma a nuestro puntaje.
+0043 [Tú] | ¡Cáscaras de plátano, pulpos, caparazones de tortuga: molestemos a los demás corredores, una oleada a la vez!
+0044 [Kasimira] | Jefe, nada mal. ¿De verdad es tu primera vez jugando este juego?
+0045 [Tú] | Mmm... ==W==Ni idea. Perdí la memoria, después de todo.
+0046 [Tú] | Pero una vez que te concentras y lo piensas bien, no es tan difícil encontrar el momento adecuado para usar estos objetos.
+0047 [Kasimira] | ¿Cómo puedes mantener la calma con tanta sacudida?
+0048 [Tú] | Sé que no dejarás que me salga despedido.
+0049 [Kasimira] | Hmph, no te equivocas, pero solo con eso no conseguiremos el primer lugar. Mira nuestro puntaje.
+0050 [Tú] | Estamos casi en la meta, pero seguimos 100,000 puntos atrás... ==W==¡¿Cómo lo logró el líder?!
+0051 [Kasimira] | Deja de darle vueltas y concéntrate en la carrera.
+0052 [Tú] | Claro. Ah...
+0053 [Narración] | Para aumentar aún más nuestra velocidad, lancé el último objeto: ==W==la Estrella Cruzada Invencible.
+0054 [Kasimira] | Jefe, vamos demasiado rápido... No puedo controlar la dirección. A este paso vamos a salir volando de la pista.
+0055 [Tú] | Aquí hay un objeto de desaceleración... whoa, hay demasiada sacudida, no puedo presionar el botón...
+0056 [Tú] | Ay no, ¿presioné por accidente... ==W==el freno?
+0057 [Kasimira] | ¡No tenemos suficiente velocidad! ¡No pasaremos el puente roto de adelante!
+0058 [Tú] | Ay no...
+0059 [Kasimira] | ¡Espera! ¡Todavía no termina!
+0060 [Kasimira] | ¡H-hay un atajo oculto bajo el puente! ¡Estamos cruzando la meta...!
+0061 [Kasimira] | Jefe…==W== ¡Está hecho!
+0062 [Opción] | Guau... ¡Eso sí es un atajo!
+0063 [Kasimira] | Je,==W== hasta a mí me cuesta creerlo.==W== Sin duda eres mi amuleto de la suerte más confiable.
+0064 [Opción] | ¿Amuleto de la suerte? ¿Yo?
+0065 [Kasimira] | Sí,==W== la nota dentro de esa galleta de la fortuna me lo recordó.
+0066 [Opción] | ¿«Ichi-go ichi-e»?
+0067 [Kasimira] | Nuestro encuentro de hoy==W== quizá sea el único de nuestras vidas...==W== Esto, ==W==es lo que significaba.
+0068 [Opción] | De pronto siento una enorme responsabilidad...
+0069 [Kasimira] | ¿Verdad?==W== Por eso==W== debemos valorar a las personas que nos rodean,==W== y nunca dejar que se nos escape la suerte.
+0070 [Kasimira] | Mirando atrás,==W== todo este día estuvo lleno de «suerte»:==W== encontré un trébol de cuatro hojas,==W== comí una deliciosa galleta de la fortuna,==W== y además,==W== tuve un cartucho defectuoso afortunado en el ejercicio.
+0071 [Opción] | ¡E-eso último sobraba!
+0072 [Kasimira] | Jeje,==W== perdón.==W== Pero gracias a todo esto, por fin me di cuenta==W== de que la suerte que he estado persiguiendo …==W== tú ya me la habías traído==W== desde el principio.==W== Y eso me da==W== la confianza para romper el récord.
+0073 [Kasimira] | Gracias, Jefe.==W== Para mí==W==, eres una amistad insustituible.
+0074 [Kasimira] | Por cierto, ¿cómo supiste que eso era un atajo? He manejado esta pista tantas veces y nunca lo noté.
+0075 [Tú] | En realidad, no es que lo descubriera... ==W==Simplemente pasé por encima por accidente.
+0076 [Kasimira] | ¡Sí, lo sabía!
+0077 [Tú] | Oye, ¿por qué miras mis zapatos así?
+0078 [Kasimira] | Esa leyenda, la de la «Herradura de la Suerte».
+0079 [Tú] | ¿De qué hablas?
+0080 [Kasimira] | El demonio de esa leyenda quería zapatos, pero acabó con herraduras. Así que básicamente las herraduras son los zapatos del demonio, que luego se convirtieron en amuletos de la suerte.
+0081 [Tú] | Tus pensamientos saltan un poco, pero supongo que tiene sentido. ¿Y cuál es el punto?
+0082 [Kasimira] | ¡Tú eres el Jefe, así que seguro tus zapatos son todavía más afortunados!
+0083 [Tú] | Espera... ==W==No es que sea el jefe del demonio...
+0084 [Kasimira] | Pero el «ichi-go ichi-e» de hoy contigo de verdad me trajo la mayor suerte de todas.
+0085 [Kasimira] | Estoy segura de que esa galleta, no, que toda esa tienda, está según la voluntad del Dios de la Gracia.
+0086 [Kasimira] | Así que, por favor, véndeme tus zapatos, Jefe.
+0087 [Tú] | ¡NO!
+0088 [Kasimira] | ¡Pagaré diez veces... no, cien veces el precio original!
+0089 [Tú] | ¡No hay cantidad de Dorras que puedas pagar!
+0090 [Kasimira] | Los cuidaré, los llevaré todos los días, los frotaré antes de las tareas importantes y los colgaré junto a mi cama por las noches.
+0091 [Tú] | Ugh, ya no aguanto más...==W== Bueno, quedaste en primer lugar, así que el encargo terminó, ¿no? Nos vemos luego...
+0092 [Kasimira] | ¡No te vayas! ¡Jefe, dame tus zapatos!
+0093 [Narración] | Y así, Kasimira me persiguió por el Monolito durante un buen rato.
+0094 [Narración] | Al final, acepté compartir mi suerte con Kasimira antes de cada misión importante, en persona. Así fue como apenas logré conservar mis zapatos.

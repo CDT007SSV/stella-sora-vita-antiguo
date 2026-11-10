@@ -1,0 +1,378 @@
+# Heartlink de Coronis: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Coronis] | Esta es mi información de contacto.
+A01.0002 [Coronis] | Si en algún momento cambias de opinión, solo búscame en la clínica~
+A01.0003 [Opción] | ...Eso no va a pasar
+A01.0004 [Opción] | Cambié de opinión.
+A01.0005 [Tú] | ...¡Eso no va a pasar!
+A01.0006 [Coronis] | ¿Ah, sí?
+A01.0007 [Coronis] | Qué lástima.
+A01.0008 [Coronis] | ¿De verdad?
+A01.0009 [Coronis] | Si bromeas así conmigo, podría tomármelo en serio.
+A01.0010 [Coronis] | Eres un espécimen tan raro y precioso... que si no investigo un poco sobre ti...
+A01.0011 [Coronis] | Me arrepentiré el resto de mi vida~
+A01.0012 [Coronis] | Era una broma.
+A01.0013 [Coronis] | Bien, entonces esperaré con ansias el día en que visites mi clínica por voluntad propia~
+
+## Conversación A02
+A02.0001 [Coronis] | Acabo de adquirir un nuevo espécimen
+A02.0002 [Coronis] | ¿Quieres verlo?
+A02.0003 [Opción] | ...Paso.
+A02.0004 [Opción] | ¿Qué es?
+A02.0005 [Coronis] | ¿En serio?
+A02.0006 [Coronis] | ¡Es una cosita adorable!
+A02.0007 [Coronis] | Es una cosita adorable
+A02.0008 [Coronis] | Te lo enviaré
+A02.0009 [Tú] | ¿No es solo un espécimen de mariposa común?
+A02.0010 [Coronis] | ¿Eh?
+A02.0011 [Tú] | No, no es nada...
+A02.0012 [Coronis] | Ya veo
+A02.0013 [Coronis] | Del tipo de especímenes que deseas ver~
+A02.0014 [Coronis] | La próxima vez que visites la clínica, te los enseñaré~
+A02.0015 [Tú] | ¡¡No!! ¡¡No me refería a eso!!
+
+## Conversación A03
+A03.0001 [Coronis] | Preparé una medicina nueva para mejorar el sueño
+A03.0002 [Coronis] | ¿Te interesa probarla?
+A03.0003 [Opción] | ¿Puedo negarme?
+A03.0004 [Opción] | ¿Puedo negarme?
+A03.0005 [Coronis] | ¿De verdad deseas negarte?
+A03.0006 [Coronis] | Puedo ofrecerte una revisión gratuita a cambio
+A03.0007 [Tú] | ¿Cómo es eso un intercambio justo...?
+A03.0008 [Tú] | ¡¡Lo que quieres es investigar mi cuerpo!!
+A03.0009 [Coronis] | La hice especialmente para ti: me contaron que no has dormido bien.
+A03.0010 [Coronis] | Me preocupas mucho
+A03.0011 [Tú] | ...¿Puedes dejar de fingir?
+A03.0012 [Tú] | ¡¡Nada de eso es cierto!!
+A03.0013 [Coronis] | Ay, me descubriste
+A03.0014 [Coronis] | Qué lástima, esperaba reunir algunos datos clínicos tuyos
+A03.0015 [Coronis] | La próxima vez pensaré en una mejor razón
+A03.0016 [Coronis] | Ojalá entonces no me rechaces~
+
+## Conversación A04
+A04.0001 [Coronis] | ¿Sabías que...
+A04.0002 [Coronis] | incluso si de una persona solo queda un esqueleto, los huesos aún pueden contar una historia?
+A04.0003 [Tú] | ...¿De qué estás hablando? Suena aterrador.
+A04.0004 [Coronis] | ¿Aterrador?
+A04.0005 [Coronis] | Puedo saber el sexo de una persona por su pelvis y su edad por sus dientes
+A04.0006 [Coronis] | Los huesos rotos dejan marcas. Las toxinas y los medicamentos también dejan rastros en los huesos
+A04.0007 [Coronis] | Muy romántico, ¿no crees?
+A04.0008 [Opción] | Eh...
+A04.0009 [Opción] | ¿Q-quizá?
+A04.0010 [Tú] | Es el tipo de romance que solo tú entiendes, Coronis.
+A04.0011 [Tú] | Aunque yo no lo veo...
+A04.0012 [Coronis] | ¿Ah, sí...?
+A04.0013 [Coronis] | Qué lástima.
+A04.0014 [Coronis] | Quizá sea porque no has visto suficientes cadáveres.
+A04.0015 [Coronis] | Quizá si ves más, llegues a entender su belleza.
+A04.0016 [Coronis] | La próxima vez que prepare un espécimen, te invitaré a mirar.
+A04.0017 [Tú] | ¡No, gracias!
+
+## Conversación A05
+A05.0001 [Coronis] | Jefe, tengo una pregunta para ti
+A05.0002 [Coronis] | ¿Tienes alguna forma de controlar tus gastos mensuales?
+A05.0003 [Opción] | ¿Controlar mis gastos? Mi lema es que «no comprar es un 100% de descuento».
+A05.0004 [Opción] | Nop. El dinero está para gastarse.
+A05.0005 [Opción] | Mmm... ¿Quizá llevar una contabilidad?
+A05.0006 [Coronis] | ...
+A05.0007 [Coronis] | Lo que dices parece tener sentido
+A05.0008 [Coronis] | Pero es imposible de llevar a la práctica, ¿no?
+A05.0009 [Coronis] | ...
+A05.0010 [Coronis] | Admiro bastante tu forma de pensar
+A05.0011 [Coronis] | Suena como una buena idea
+A05.0012 [Coronis] | La probaré si tengo oportunidad
+A05.0013 [Tú] | ¿Por qué me preguntas esto de repente?
+A05.0014 [Coronis] | Los gastos de la clínica han aumentado misteriosamente cada mes
+A05.0015 [Coronis] | Si no hago nada, la clínica podría terminar en números rojos
+A05.0016 [Coronis] | No importa. Solo pensé en preguntar
+
+## Conversación A06
+A06.0001 [Coronis] | ¿Por qué los humanos necesitan trabajar para ganar dinero?
+A06.0002 [Coronis] | ¿Por qué la pasión y la dedicación no se recompensan con dinero?
+A06.0003 [Coronis] | Desperdiciar tiempo de investigación científica en asuntos tan triviales es un desperdicio de talento
+A06.0004 [Tú] | ¿????
+A06.0005 [Tú] | ¿Pasó algo?
+A06.0006 [Coronis] | ...
+A06.0007 [Coronis] | Nada
+A06.0008 [Coronis] | El cerebro humano usa los desvaríos como forma de equilibrar las emociones
+A06.0009 [Coronis] | Es un fenómeno fisiológico normal
+A06.0010 [Coronis] | Por favor, no me hagas caso
+A06.0011 [Tú] | ...
+A06.0012 [Tú] | Eso también fue un desvarío, ¿verdad?
+A06.0013 [Coronis] | ¿Tan obvio es?
+A06.0014 [Coronis] | Eres perspicaz
+A06.0015 [Tú] | Entonces, ¿qué pasó?
+A06.0016 [Coronis] | No, el paciente de hoy fue muy aburrido, eso es todo
+A06.0017 [Coronis] | Una lesión común de un viaje al Monolito
+A06.0018 [Coronis] | Le di unas puntadas rápidas al tipo, sanará en pocos días
+A06.0019 [Tú] | ¿No es algo bueno?
+A06.0020 [Coronis] | Sí, más o menos. Pero esperaba algunos casos desafiantes
+
+## Conversación A07
+A07.0001 [Coronis] | Ah, por cierto
+A07.0002 [Coronis] | ¿No dijiste que querías ver mi ojo derecho?
+A07.0003 [Opción] | ¡Ah, sí! ¡El ojo derecho encantado!
+A07.0004 [Opción] | ¿Dije eso...?
+A07.0005 [Opción] | Si lo miro, ¿me convertiré en piedra?
+A07.0006 [Coronis] | ¿Qué? ¿De dónde sacaste eso?
+A07.0007 [Coronis] | ¿No lo dijiste?
+A07.0008 [Coronis] | ¿Lo recuerdo mal?
+A07.0009 [Coronis] | Tienes buen humor, Jefe
+A07.0010 [Coronis] | No importa
+A07.0011 [Coronis] | Esta tarde calibraré mi ojo protésico
+A07.0012 [Coronis] | Por favor, búscame en la clínica si te interesa
+A07.0013 [Coronis] | ¡Ah, casi lo olvido!
+A07.0014 [Coronis] | Hoy un paciente de la clínica me regaló una bolsa de botanas
+A07.0015 [Coronis] | La dejaré ahí para ti
+A07.0016 [Tú] | ...¿Acaso dije que iría?
+A07.0017 [Coronis] | ¿Entonces no vendrás?
+A07.0018 [Opción] | ¡Iré...!
+A07.0019 [Coronis] | Entonces es un trato
+A07.0020 [Coronis] | No me hagas esperar demasiado
+
+## Conversación A08
+A08.0001 [Coronis] | Preparé dos frascos extra de polvo hemostático, sirve para detener hemorragias
+A08.0002 [Coronis] | Si los quieres, pasa a recogerlos
+A08.0003 [Tú] | Acabo de recordar que quiero decirte algo
+A08.0004 [Coronis] | ¿Sí? ¿Qué es?
+A08.0005 [Opción] | ¡Feliz cumpleaños, Coronis!
+A08.0006 [Coronis] | ¿Cumpleaños?
+A08.0007 [Coronis] | Oh, ¿ya es el Día del Tallador?
+A08.0008 [Coronis] | Gracias por recordármelo
+A08.0009 [Tú] | ¡Sabía que se te olvidaría!
+A08.0010 [Coronis] | No celebro mis cumpleaños, así que es natural que lo olvide.
+A08.0011 [Coronis] | Después de todo, llega cada año.
+A08.0012 [Coronis] | Pero me interesa saber...
+A08.0013 [Coronis] | ¿Cómo sabías cuándo es mi cumpleaños?
+A08.0014 [Tú] | Eh...
+A08.0015 [Tú] | No preguntes
+A08.0016 [Coronis] | ¿Oh? Parece que hay una historia detrás
+A08.0017 [Coronis] | Pero gracias por recordarlo por mí~
+
+## Conversación A09
+A09.0001 [Coronis] | El poder de la guadaña me permite levitar
+A09.0002 [Coronis] | Pero, sinceramente, aún no tengo idea de cómo funciona en realidad
+A09.0003 [Coronis] | Sería bueno poder investigarlo a fondo
+A09.0004 [Tú] | Debe de haber muchísimos artefactos que permiten volar.
+A09.0005 [Coronis] | Es cierto, pero
+A09.0006 [Coronis] | Esta guadaña no es un artefacto del Monolito
+A09.0007 [Tú] | ¿Eh?
+A09.0008 [Coronis] | Lástima que solo hay una
+A09.0009 [Coronis] | Si no, me encantaría desarmarla y ver qué hay dentro
+A09.0010 [Tú] | Aunque no entiendes del todo esta arma, la manejas con mucha destreza
+A09.0011 [Tú] | Eres increíble, Coronis
+A09.0012 [Coronis] | ¿Eh?
+A09.0013 [Coronis] | Pelear con armas también es un instinto natural de supervivencia
+A09.0014 [Coronis] | Pero mi pasión es estudiar su mecanismo
+A09.0015 [Coronis] | Quizá si descubro su secreto, también pueda resolver ese otro asunto
+A09.0016 [Coronis] | Bueno, solo estoy balbuceando para mí misma
+A09.0017 [Coronis] | Por favor, olvida lo que he dicho
+
+## Conversación A10
+A10.0001 [Coronis] | La memoria humana es un laberinto extraño
+A10.0002 [Coronis] | Después de olvidar algo
+A10.0003 [Coronis] | Incluso si lo vuelves a ver en tiempo real, si no puedes recordarlo de forma orgánica por cuenta propia, solo te sentirás como un espectador
+A10.0004 [Opción] | ¿Qué pasó?
+A10.0005 [Coronis] | Nada
+A10.0006 [Coronis] | Es solo que algunas imágenes cruzaron mi mente mientras escuchaba el Disco Rúnico
+A10.0007 [Coronis] | Se supone que son mis recuerdos
+A10.0008 [Coronis] | Pero aparte de una sensación de familiaridad, no puedo confirmar que sean realmente míos
+A10.0009 [Coronis] | Es como ver una película donde yo soy la protagonista
+A10.0010 [Coronis] | Sin ninguna sensación de experiencia personal real
+A10.0011 [Coronis] | ...
+A10.0012 [Coronis] | Disculpa, estoy divagando otra vez
+A10.0013 [Tú] | ¡¡No tienes que disculparte por algo así!!
+A10.0014 [Tú] | Me alegra mucho que compartas todo esto conmigo
+A10.0015 [Coronis] | ¿Ah, sí?
+A10.0016 [Coronis] | Mientras no te parezca molesto
+
+## Conversación B01
+B01.0001 [Coronis] | Dios mío
+B01.0002 [Coronis] | Esto es simplemente...
+B01.0003 [Opción] | ¿Simplemente qué...?
+B01.0004 [Opción] | ¿Eh?
+B01.0005 [Coronis] | ¡Esto es puro arte!
+B01.0006 [Coronis] | ¡El arte de las pociones!
+B01.0007 [Coronis] | Seguro querrás probar esto
+B01.0008 [Coronis] | Este lote es simplemente impecable
+B01.0009 [Opción] | Voy a denunciarte con la Guardia Imperial
+B01.0010 [Opción] | ¿Qué es?
+B01.0011 [Coronis] | ¿Por qué?
+B01.0012 [Coronis] | Es solo una nueva tableta efervescente que inventé
+B01.0013 [Coronis] | Una nueva tableta efervescente que inventé
+B01.0014 [Tú] | ¿Una tableta efervescente?
+B01.0015 [Coronis] | Sí
+B01.0016 [Coronis] | Solo échala al agua
+B01.0017 [Coronis] | y convierte el agua en una bebida o en una poción
+B01.0018 [Tú] | ¡Increíble!
+B01.0019 [Tú] | Y yo que pensaba...
+B01.0020 [Coronis] | ¿Que pensabas qué?
+B01.0021 [Tú] | Nada
+
+## Conversación B02
+B02.0001 [Coronis] | ¿Estás libre?
+B02.0002 [Opción] | Nop
+B02.0003 [Opción] | ¿Qué pasa?
+B02.0004 [Coronis] | ...
+B02.0005 [Coronis] | Hazme un favor
+B02.0006 [Tú] | Nop
+B02.0007 [Coronis] | ...
+B02.0008 [Coronis] | Ven a la clínica
+B02.0009 [Tú] | No
+B02.0010 [Tú] | Paso
+B02.0011 [Coronis] | Es importante
+B02.0012 [Tú] | No me importa
+B02.0013 [Tú] | En cuanto llegue me vas a atrapar
+B02.0014 [Tú] | y a hacerme experimentos
+B02.0015 [Coronis] | No es así
+B02.0016 [Coronis] | Tuve que ir a revisar a un paciente
+B02.0017 [Coronis] | Así que no estoy en la clínica ahora
+B02.0018 [Coronis] | Y olvidé apagar la caldera de reacción de las pociones
+B02.0019 [Tú] | ¿Va a...
+B02.0020 [Tú] | explotar?
+B02.0021 [Coronis] | Posiblemente
+B02.0022 [Coronis] | Así que por el bien de los especímenes raros de mi cuarto
+B02.0023 [Coronis] | Y para tener dónde dormir esta noche
+B02.0024 [Coronis] | ¿Puedes ir y apagar la caldera de reacción, por favor?
+B02.0025 [Tú] | Pero no sé cómo
+B02.0026 [Coronis] | Tiene una palanca roja, solo gírala hacia la izquierda
+B02.0027 [Coronis] | Si la clínica explota, tendré que quedarme un tiempo en tu gremio
+B02.0028 [Tú] | ¡Voy para allá!
+
+## Conversación B03
+B03.0001 [Coronis] | ¿Has estado perdiendo mucho cabello últimamente?
+B03.0002 [Opción] | No
+B03.0003 [Opción] | No te voy a comprar shampoo
+B03.0004 [Coronis] | Eso es un problema
+B03.0005 [Coronis] | No intento venderte shampoo
+B03.0006 [Coronis] | Se me acabaron las muestras de tu cabello
+B03.0007 [Coronis] | La próxima vez que pierdas cabello
+B03.0008 [Coronis] | Tráemelo
+B03.0009 [Tú] | Está bien... Mientras no experimentes conmigo
+B03.0010 [Tú] | ¡Espera un momento!
+B03.0011 [Tú] | ¡¿Cómo es que tienes mi cabello en primer lugar?!
+B03.0012 [Coronis] | Ah, eso
+B03.0013 [Coronis] | Cuando viniste a revisión la última vez
+B03.0014 [Coronis] | Recogí un poco en secreto
+B03.0015 [Tú] | ¿Recogiste lo que se cayó
+B03.0016 [Tú] | o lo arrancaste?
+B03.0017 [Coronis] | Relájate
+B03.0018 [Coronis] | Aún eres joven
+B03.0019 [Coronis] | Tendría que pasar mucho para que te quedes calvo
+B03.0020 [Tú] | ¡Nononono!
+B03.0021 [Tú] | ¡El cabello es valioso!
+
+## Conversación B04
+B04.0001 [Coronis] | Ven a comer conmigo
+B04.0002 [Coronis] | Yo invito
+B04.0003 [Opción] | ¿Qué te traes entre manos esta vez?
+B04.0004 [Opción] | ¡Suena bien! ¡VOY!
+B04.0005 [Coronis] | ¿Qué me traigo entre manos?
+B04.0006 [Coronis] | ¿Qué clase de persona crees que soy?
+B04.0007 [Tú] | Una científica loca que quiere convertirme en espécimen
+B04.0008 [Coronis] | Esa parte es bastante cierta
+B04.0009 [Tú] | ¡Ves! ¡Lo sabía!
+B04.0010 [Coronis] | Pero no esta vez
+B04.0011 [Coronis] | Entonces nos vemos esta noche en la entrada del Bistró de Jing
+B04.0012 [Tú] | ¿Por qué de repente me invitas a comer?
+B04.0013 [Tú] | Algo huele mal...
+B04.0014 [Coronis] | Para nada
+B04.0015 [Coronis] | Cuando trabajabas como mi asistente
+B04.0016 [Coronis] | ¿Recuerdas al paciente que decía tener una lesión cerebral?
+B04.0017 [Opción] | Ah, cierto
+B04.0018 [Opción] | No lo recuerdo
+B04.0019 [Coronis] | Le di medicinas placebo durante un tiempo
+B04.0020 [Coronis] | Ahora cree que está CURADO y me pagó una enorme tarifa de agradecimiento
+B04.0021 [Coronis] | Así que pensé en invitar a mi excelente asistente a una buena comida
+B04.0022 [Tú] | Pero no estaba realmente enfermo, ¿o sí?
+B04.0023 [Coronis] | Claro que no, pero soy una gran doctora
+B04.0024 [Tú] | Cada quien su opinión
+B04.0025 [Coronis] | En fin, no lo olvides, ven al Bistró de Jing esta noche
+B04.0026 [Coronis] | Te estaré esperando
+
+## Conversación B05
+B05.0001 [Coronis] | No olvides volver para tu seguimiento
+B05.0002 [Tú] | ¿Mi qué?
+B05.0003 [Coronis] | ...
+B05.0004 [Coronis] | Ups, persona equivocada
+B05.0005 [Coronis] | Hay demasiados pacientes últimamente
+B05.0006 [Coronis] | Es difícil llevar el control
+B05.0007 [Tú] | ¿Necesitas ayuda?
+B05.0008 [Coronis] | ...
+B05.0009 [Coronis] | Mejor no
+B05.0010 [Coronis] | No vengas
+B05.0011 [Tú] | Ahora sí vuelan los cerdos
+B05.0012 [Tú] | Me estás diciendo que no vaya a tu clínica
+B05.0013 [Coronis] | La gripe de temporada está circulando por el Distrito de las Cenizas
+B05.0014 [Coronis] | Podrías contagiarte si vienes
+B05.0015 [Tú] | ¿Es grave?
+B05.0016 [Coronis] | Bastante grave
+B05.0017 [Coronis] | Ni siquiera consigo una sola muestra de cadáver
+B05.0018 [Tú] | Entonces... no es grave
+B05.0019 [Coronis] | He desarrollado un antídoto especial
+B05.0020 [Coronis] | Que he estado repartiendo estos días
+B05.0021 [Coronis] | Todos deberían recuperarse pronto
+B05.0022 [Coronis] | Cuídate tú también
+
+## Conversación B06
+B06.0001 [Coronis] | Mi investigación de pociones ha llegado a un cuello de botella
+B06.0002 [Tú] | ¿Cuello de botella? ¿Tú?
+B06.0003 [Coronis] | No, me refiero a que no sé qué investigar ahora
+B06.0004 [Coronis] | Poción para dormir, poción hemostática, poción energizante...
+B06.0005 [Coronis] | ¿Hay algo que te gustaría?
+B06.0006 [Coronis] | Puedo intentar prepararlo
+B06.0007 [Opción] | Una poción equivalente a tres comidas completas
+B06.0008 [Opción] | Una poción que cure heridas al instante
+B06.0009 [Opción] | Una poción que te vuelva invisible
+B06.0010 [Tú] | Eso salvaría a mi gremio en las escaseces de comida
+B06.0011 [Coronis] | Mmm...
+B06.0012 [Coronis] | Sí hice una que te quita las ganas de comer durante tres días enteros
+B06.0013 [Coronis] | O sea que básicamente te ahorraría nueve comidas
+B06.0014 [Tú] | ¿Quita... las ganas de comer durante tres días enteros?
+B06.0015 [Coronis] | Correcto
+B06.0016 [Coronis] | El ingrediente principal eran insectos
+B06.0017 [Coronis] | Más hierbas y nutrientes
+B06.0018 [Tú] | ¡Eso no lo pruebo!
+B06.0019 [Coronis] | ¿De qué hablas?
+B06.0020 [Coronis] | Los insectos son súper nutritivos
+B06.0021 [Coronis] | Honestamente, en teoría podrían sustituir varias comidas
+B06.0022 [Tú] | Basta, solo basta
+B06.0023 [Coronis] | Mmm...
+B06.0024 [Coronis] | Con la tecnología actual, es imposible
+B06.0025 [Coronis] | Pero sí quiero intentar investigarlo
+B06.0026 [Coronis] | Curación instantánea
+B06.0027 [Coronis] | Su principio es similar al de las modificaciones genéticas de plantas de Cosecha Unida
+B06.0028 [Tú] | ¿Entonces hay riesgo de que me convierta en monstruo?
+B06.0029 [Coronis] | Correcto
+B06.0030 [Coronis] | Un riesgo bastante alto, diría yo
+B06.0031 [Coronis] | Pero si aceptas ser mi sujeto de prueba...
+B06.0032 [Tú] | ¡Entonces SÍ quieres experimentar conmigo!
+B06.0033 [Coronis] | No te alteres tanto
+B06.0034 [Coronis] | Piensa en la contribución a la ciencia
+B06.0035 [Coronis] | Debería darte orgullo
+B06.0036 [Coronis] | Si logro crear esto
+B06.0037 [Coronis] | La gente honrará tu memoria por generaciones
+B06.0038 [Tú] | ¡Pero si fallas
+B06.0039 [Tú] | me transformaré en monstruo y la Guardia Imperial me eliminará en cuanto me vea!
+B06.0040 [Coronis] | Relájate
+B06.0041 [Coronis] | Usaría a Charon para eliminarte antes de que eso pase
+B06.0042 [Coronis] | ¿Invisibilidad, eh?
+B06.0043 [Coronis] | Mmm...
+B06.0044 [Coronis] | Sin duda, una buena idea
+B06.0045 [Coronis] | Aunque no estoy segura de que sea posible
+B06.0046 [Coronis] | Pero ya puedo predecir esto
+B06.0047 [Coronis] | Si es una poción que se bebe
+B06.0048 [Coronis] | Solo tu cuerpo se volvería invisible; tu ropa, no tanto
+B06.0049 [Tú] | Quieres decir que...
+B06.0050 [Coronis] | Sí, una vez que la bebas, tendrías que quitarte toda la ropa
+B06.0051 [Coronis] | Si no, no funcionaría
+B06.0052 [Tú] | ¿No puedes hacer invisible también la ropa?
+B06.0053 [Coronis] | Entonces tendría que ser algo que te frotes en el cuerpo y la ropa
+B06.0054 [Coronis] | Pero ahí el momento se complica
+B06.0055 [Tú] | ¿A qué te refieres?
+B06.0056 [Coronis] | Si se acaba el efecto en tu cuerpo antes que en tu ropa...
+B06.0057 [Tú] | Olvídalo

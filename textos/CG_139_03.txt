@@ -1,0 +1,115 @@
+# Historia de Allie · 3 · Make-Believe Wedding (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Allie's Voice | Voz de Allie
+N:Energetic Boy | Niño enérgico
+N:Sleepy Girl | Niña somnolienta
+N:avg1_139 | Allie
+N:avg3_100 | Sylar
+N:avg3_139 | Trekker
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_166 | Anciana del pueblo
+N:avg3_167 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_200 | Chico del Distrito de las Cenizas
+N:avg3_219 | Residente de Mirage
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Boda de mentiras (Parte III)
+0003 [Intro] | En la enfermedad y en la salud, en la pobreza y en la riqueza, han jurado amarse, honrarse y protegerse para siempre.
+0004 [Allie] | ¡Buenos días a todos!==W== ¡Vayan a lavarse y luego vengan a desayunar!
+0005 [Sleepy Girl] | Mmm... Mamá, todavía tengo sueño...
+0006 [Allie] | Jaja, arriba, dormilona. El sol ya salió. Quítate la piyama y échate un poco de agua en la cara.
+0007 [Energetic Boy] | ¡Mamá! ¡Hay humo en la cocina!
+0008 [Allie] | ¡Ay, no!==W== Jefe, ¿podrías ayudar a los niños a vestirse?
+0009 [Tú] | Mm, déjamelo a mí.==W==
+0010 [Tú] | Quizá sea malísima con los quehaceres y nunca haya tenido hijos propios, pero su amor por ellos es completamente genuino.
+0011 [Tú] | Eres la Mamá perfecta para el Orfanato Margarita, Allie.
+0012 [Tú] | Muy bien, el desayuno ya casi está listo.
+0013 [Allie's Voice] | ¡Aaaah!
+0014 [Tú] | ¿¡Allie!?
+0015 [Tú] | ¡Ese grito vino del patio!==W== Definitivamente fue Allie. ¿Qué pasó?
+0016 [Tú] | Allie, ¿estás bien?==W== ¿¡Qué...!?==W== ¿De dónde salieron todas estas burbujas?
+0017 [Allie] | Ah...==W== Jefe.==W== Bueno,==W== estaba lavando las sábanas...
+0018 [Allie] | Pero aplasté el jabón sin querer, y entonces esta montaña de burbujas explotó por todas partes.
+0019 [Tú] | Supongo que el jabón tampoco puede con la fuerza de Allie.
+0020 [Tú] | En fin, déjame traer un poco de agua para enjuagar esto.
+0021 [Allie] | Vale, gracias.
+0022 [Tú] | Uf...==W== Ya colgamos la última de las sábanas.
+0023 [Allie] | Me alegra que estuvieras aquí, Jefe.==W== Si hubiera estado sola, probablemente me habría desmayado entre esa pila de burbujas...
+0024 [Allie] | Y yo que estaba decidida a ser una buena madre. Parece que todavía me falta mucho por aprender.
+0025 [Tú] | ¡Oye, tú hiciste todo el trabajo pesado cuando llevamos esas sábanas empapadas al tendedero!
+0026 [Allie] | Solo las cargué.==W== Además, cargar cosas pesadas es lo que mejor hago. Esto no fue nada.
+0027 [Tú] | Y eso es más que suficiente.
+0028 [Allie] | ¿Eh?
+0029 [Tú] | No tienes que cargar con todo tú sola.==W== «Se cubren los defectos mutuamente. Construyen una vida juntos paso a paso. De eso se trata formar una familia».==W== ¿No fueron esas tus palabras?
+0030 [Allie] | Jeje. Doy excelentes consejos a los demás, pero cuando se trata de mí misma, le doy demasiadas vueltas a las cosas. Es un pésimo hábito.
+0031 [Allie] | Tienes razón.==W== Debería admirar a familias como la de Julia.
+0032 [Allie] | Oye, Jefe.==W== ¿Alguna vez has pensado en casarte y formar una familia?
+0033 [Tú] | ¿Matrimonio?==W== No lo he pensado mucho.==W== La verdad es que lidiar con mis propios asuntos ya me tiene las manos ocupadas.
+0034 [Allie] | Yo era como tú. Lo único que me importaba era el orfanato, y el matrimonio ni se me pasaba por la cabeza.
+0035 [Allie] | Pero cuando los niños me preguntaron el otro día, me quedé completamente en blanco.==W== El romance me parece un mundo totalmente distinto...==W== Casi como un cuento de hadas.
+0036 [Tú] | ¿Quieres casarte, Allie?
+0037 [Allie] | Yo soy la madre aquí. ¿Cómo podría abandonar a los niños solo por mi propia felicidad?
+0038 [Allie] | Aun así...==W== Ver a personas junto al amor de su vida me da un poco de envidia.
+0039 [Allie] | He cuidado a estos niños yo sola durante años. Quizá por eso me encuentro soñando despierta con lo bonito que sería tener a alguien con quien hacer esto juntos.
+0040 [Tú] | Allie...
+0041 [Allie] | Casarte con la persona que amas, proteger tu hogar juntos, compartir los altibajos...==W== Debe de ser maravilloso.
+0042 [Allie] | Cuando estos niños crezcan y encuentren el amor,==W== los apoyaré con todo lo que tenga.==W== Je, ya tengo ganas solo de pensarlo.
+0043 [Tú] | ¿Y tú, Allie?
+0044 [Allie] | ¿Yo? ¿No acabo de decir...?
+0045 [Tú] | Me refiero a que, si dejas a un lado tu papel de madre por un momento. ¿Qué quieres?
+0046 [Allie] | ¿No como madre, sino como yo misma?
+0047 [Tú] | Porque puedo notar que hay una parte de ti que quiere casarse.
+0048 [Tú] | ¿No dijiste algo así después de ver ese Stella Drama?
+0049 [Allie] | Y su sonrisa en la escena final era preciosa.==W== Ver cómo su romance venció las adversidades también me hizo sentir increíblemente feliz...
+0050 [Allie] | Algún día... quiero...
+0051 [Allie] | E-eso fue porque me dejé llevar por el momento...
+0052 [Allie] | Además, ¿casarme ahora? Hacerlo por los niños es una cosa, pero hacerlo por mí misma se siente egoísta...==W== ¡Iiik!==W==
+0053 [Opción] | Allie, ¿estás bien?
+0054 [Allie] | Eso me asustó...==W== Qué viento tan fuerte.==W== No puedo creer que la ropa==W== haya salido volando hasta aquí.
+0055 [Allie] | Gracias,==W== Jefe.==W== Bueno,==W== apurémonos a colgar esto otra vez...==W== Ah.
+0056 [Opción] | Allie, ahora mismo te ves un poco como una novia.
+0057 [Allie] | ¿Yo?==W== ¿Una novia?==W== Oh...==W== Jefe, qué labia tienes.
+0058 [Allie] | Te lo dije, ¿no?==W== Soy la «Mamá Allie» de todos.==W== Ya es demasiado tarde para mí==W== para ser novia.
+0059 [Opción] | ¿Una «Mamá» no puede ser novia?
+0060 [Allie] | Eh...==W== Eso es...==W== Cómo explicarlo...==W== No creo que haya existido nunca una regla así…
+0061 [Opción] | Entonces nunca es demasiado tarde.
+0062 [Opción] | Creo que está bien si quieres casarte.
+0063 [Allie] | ¿De verdad...?==W== ¿Está bien?==W== Sí sueño con casarme, pero...
+0064 [Opción] | Eres Allie antes de ser «Mamá».
+0065 [Opción] | Si quieres, tú también puedes ser novia.
+0066 [Allie] | ¿Aun si==W== tengo hijos que cuidar?==W== Una madre==W== siempre debería poner la felicidad de sus hijos==W== antes que la suya.
+0067 [Opción] | Pero creo que los hijos también quieren que su madre sea feliz.
+0068 [Opción] | Quieres formar una familia que se ayude mutuamente, ¿verdad?
+0069 [Allie] | Jefe...==W== Si es así,==W== ¿podría pedirte un favor?
+0070 [Allie] | Quisiera pedirte que seas mi pareja en una boda de mentiras.==W== ¿Te gustaría==W== decir==W== los votos nupciales conmigo?
+0071 [Opción] | Si a ti te parece bien...
+0072 [Allie] | Gracias.==W== Muy bien entonces,==W== comencemos.
+0073 [Allie] | En la enfermedad==W== y en la salud…
+0074 [Opción] | En la pobreza y en la riqueza…
+0075 [Allie] | Juro amarte,==W== respetarte==W== y quererte todos los días venideros.
+0076 [Allie] | Jeje,==W== con esto me basta.==W== Gracias,==W== Jefe.==W== Hiciste realidad mi sueño.
+0077 [Allie] | Por cierto...==W== ¿Tanto se notaba que quería casarme?
+0078 [Tú] | Pues,==W== por lo que dijiste el otro día y hace un rato... Sí. Se notaba.
+0079 [Allie] | ¿Me descubriste desde tan temprano?==W== Ay... Ahora me da pena.
+0080 [Allie] | ¡Ni una palabra de esto a los niños, ¿eh?! ¡Pensarán que estoy siendo muy infantil!
+0081 [Tú] | ¡Mis labios están sellados!==W== Pero creo que querer casarse no tiene nada que ver con la edad.
+0082 [Tú] | Recuerda valorar tus propios sentimientos en lugar de enterrarlos bajo un título.
+0083 [Allie] | Eso mismo podría decirte yo a ti.
+0084 [Tú] | ¿Mm? ¿A mí?
+0085 [Allie] | Cargas con mucho peso sobre los hombros. Ser el «Jefe» no debe de ser fácil.
+0086 [Allie] | Así que no lo olvides.==W== Antes de ser el Jefe, también eres una persona.
+0087 [Tú] | Tienes razón.==W== Lo tendré presente.
+0088 [Allie] | Si alguna vez puedo ayudarte en algo, avísame. Sin cohibirte, ¿vale?
+0089 [Allie] | Tú ayudaste a que se cumpliera un pequeño deseo mío. Yo también quiero ayudar a que se cumpla uno de los tuyos.
+0090 [Tú] | Tener a Mamá Allie de mi lado me hace sentir mucho mejor. ¡Gracias!
+0091 [Allie] | ¿Verdad?==W== ¡Bien, déjame colgar de nuevo estas sábanas!
+0092 [Allie] | ¡Y luego es la hora de la merienda de los niños!==W== El menú de hoy... ¡Hotcakes!==W== Esta vez los haré perfectos.
+0093 [Tú] | Jaja, me encanta el entusiasmo. Aunque quizá esta vez ve más despacio con la masa.
+0094 [Allie] | ¡Claro!==W== ¡Hoy Mamá Allie va a toda máquina!
+0095 [Tú] | Sí,==W== quizá deba quedarme en la cocina con ella...

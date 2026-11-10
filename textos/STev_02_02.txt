@@ -1,0 +1,115 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 2 · Gift Rush
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Happy Little Girl | Niña feliz
+N:Little Girl’s Mother | Madre de la niña
+N:Lively Little Boy | Niño animado
+N:Shy Little Girl | Niña tímida
+N:avg1_115 | Firefly
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+N:avg3_1080 | Niño
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Operación: entrega de regalos
+0003 [Intro] | Tú y Laru empiezan a repartir los regalos del Festival Nevado a los niños del Distrito de las Cenizas. En el camino, platican sobre su loca idea de «lanzar regalos con un cañón». De pronto, una figura misteriosa te llama la atención.
+0004 [Narración] | Laru me llevó a un almacén lleno de regalos envueltos.
+0005 [Tú] | Solo tenemos un trineo. ¿Cómo se supone que vamos a meter todo esto?
+0006 [Laru] | ¡Haremos que quepa! ¡Si no, no hay manera de que terminemos las entregas hoy!
+0007 [Tú] | Ojalá pudiéramos lanzar los regalos como balas de cañón directo al regazo de los niños.
+0008 [Laru] | ¡Eres un genio!
+0009 [Tú] | ¿Mm?
+0010 [Laru] | Si pudiéramos usar magia para convertir el trineo cañón en un lanzador de regalos, las entregas serían muchísimo más fáciles.
+0011 [Laru] | ¡El próximo año, podría poner la dirección de la lista como coordenadas de tiro y entregar todo desde la oficina sin sudar una gota!
+0012 [Tú] | ¿Ah, sí? ¿Lo probamos ahorita?
+0013 [Laru] | No puedo.
+0014 [Laru] | Con mi magia, los regalos explotarían como fuegos artificiales en cuanto se dispararan.
+0015 [Tú] | ¡Entonces solo estás soñando despierta!
+0016 [Laru] | Yo le llamo dejar la ingeniería en manos de los profesionales. Voy a redactar una propuesta y mandarla a la Academia Luz de Gracia. Básicamente les estoy entregando su nuevo proyecto de investigación para el año que viene.
+0017 [Laru] | Y cuando de verdad lo fabriquen, haré que mencionen tu nombre en los agradecimientos~
+0018 [Laru] | «¡Debemos agradecer al gran Tirano==W== por el concepto inicial de este invento!»
+0019 [Tú] | Muy bien. Lo acepto con gusto.
+0020 [Laru] | Sí estaría padrísimo que existiera ese hechizo. Así,==W== hasta durante el festival podría irme a pescar en paz.
+0021 [Laru] | Seguro no lo sabes, Tirano. Pescar de noche en el puerto en invierno es un placer único.
+0022 [Laru] | Sobre todo en invierno, cerca del Festival Nevado. Se ven peces luminosos subir a la superficie en cardúmenes.==W== Es realmente hermoso, como sacado de un cuento de hadas.
+0023 [Tú] | ¿Hay peces que brillan?
+0024 [Laru] | ¡Claro! Algún día te llevo a verlos~
+0025 [Tú] | Te gustan mucho esos peces, ¿verdad?
+0026 [Laru] | Son hermosos. ¿A quién no le gustarían?
+0027 [Tú] | O sea...==W== la cara que pusiste hace rato... Te veías más tierna cuando hablabas de ellos.
+0028 [Laru] | ¿Y-yo? Seguro te lo imaginaste...==W== ¡Bueno, ya cargamos los regalos! ¡Vámonos!
+0029 [Laru] | ¡Los niños nos están esperando!
+0030 [Narración] | Como para esconder algo, Laru me agarró del brazo y me sacó a toda prisa del almacén.
+0031 [Tú] | Por cierto, ¿todos los niños reciben regalo en el Festival Nevado?
+0032 [Laru] | ¡Así es! Desde este año, todos reciben uno.
+0033 [Tú] | ¿Desde este año?
+0034 [Laru] | Sí. Los años anteriores, solo los niños de los Distritos de Oro y de Plata recibían regalos.
+0035 [Laru] | Pero este año alguien propuso que todos los niños de la ciudad recibieran uno.
+0036 [Laru] | Así que este año también entregamos regalos en el Distrito de las Cenizas.
+0037 [Tú] | Ya veo. Por eso hasta tú, la Reina de los Holgazanes, tienes que esforzarte.
+0038 [Laru] | ¡Oye, yo sé hasta dónde llegar!
+0039 [Laru] | Trabajar con eficiencia y luego disfrutar a todo el tiempo libre que me gané: ese es mi lema. Lo que significa que me tomo mi trabajo en serio.
+0040 [Laru] | Y este trabajo en particular es muy gratificante. ¿Por qué alguien querría flojear?
+0041 [Tú] | ¿Mm?
+0042 [Laru] | Como sabes, el Imperio de la Gracia actúa en nombre del Dios de la Gracia.
+0043 [Laru] | Para los niños, somos como mensajeros divinos que les traen regalos y bendiciones.
+0044 [Laru] | Ver sus ojos brillar de alegría e inocencia...==W== Esa es la mejor parte.
+0045 [Tú] | Así que Laru también tiene este lado...==W== Supongo que de verdad es el tipo de trabajo que hace realidad los sueños de todos.
+0046 [Narración] | Atravesamos unas cuantas calles angostas y llegamos a la zona que le tocó a Laru: la parte este del Distrito de las Cenizas.
+0047 [Tú] | Primera dirección: calle Este 1, n.º 123...==W== Es por aquí.
+0048 [Laru] | Espera. Si vamos de puerta en puerta, nos amanecemos aquí.
+0049 [Laru] | Mira y aprende.
+0050 [Laru] | Fiu...
+0051 [Laru] | ¡Oigan! ¡Niños que viven en la calle Este 1 y la calle Este 2! ¡Los mensajeros nevados llegaron con regalos—!!!
+0052 [Tú] | Vaya... No se me había ocurrido...
+0053 [Laru] | ¡Mientras los regalos lleguen, cualquier método sirve!
+0054 [Lively Little Boy] | ¡Ah, es la Reina de la Pesca!
+0055 [Laru] | Ja, ja, ja, ¿«Reina de la Pesca»? ¿Qué clase de apodo tonto es ese?
+0056 [Laru] | Espera, ¡¿no me digan que se refieren a mí?!
+0057 [Lively Little Boy] | Reina de la Pesca, ¿qué haces aquí?
+0058 [Laru] | Yo no soy la Reina de la Pesca...==W== Soy la mensajera nevada, vengo a entregarles regalos a todos~
+0059 [Lively Little Boy] | ¡¿Los rumores eran ciertos?! ¡¿De verdad nos van a dar regalos este año?!
+0060 [Laru] | ¡Claro! ¿Por qué más estaría mi trineo lleno de ellos?
+0061 [Laru] | A ver, ¿dónde vives?
+0062 [Lively Little Boy] | ¡Calle Este 2, n.º 432!
+0063 [Tú] | A ver... Sí, está en la lista.
+0064 [Laru] | Toma, este es tuyo~ ¿Ves? Es de verdad.
+0065 [Lively Little Boy] | ¡Wow! ¡Muchas gracias!
+0066 [Laru] | Ejem, como eres el primero en recibir regalo hoy, te voy a encargar una misión importante.
+0067 [Little Boy] | ¿Sí?
+0068 [Laru] | Puedes ayudarme avisándoles a todos que vengan por sus regalos~
+0069 [Lively Little Boy] | ¡Entendido!==W== ¡Esperen aquí, ya voy por ellos!
+0070 [Narración] | Poco después, uno tras otro, los niños del vecindario llegaron corriendo.
+0071 [Laru] | ¡No se amontonen, a todos les toca uno! Fórmense, de uno en uno.
+0072 [Happy Little Girl] | ¡Un regalo, por favor!
+0073 [Laru] | Tu dirección es...==W== ¿calle Este 1, n.º 234? Muy bien, aquí tienes~
+0074 [Happy Little Girl] | ¡Gracias!
+0075 [Shy Little Girl] | Mami...==W== ¿A mí también me dan uno?
+0076 [Little Girl’s Mother] | Claro que sí. Anda, sé valiente y pídeselo tú misma a la señorita.
+0077 [Shy Little Girl] | ¡Hola! ¡Yo también quiero un regalo! Vivo en...==W== ¡calle Este 1, n.º 165!
+0078 [Laru] | ¡Muy bien! Aquí tienes, no se te vaya a caer~
+0079 [Shy Little Girl] | ¡Gracias, señorita!
+0080 [Laru] | De nada~ ¡Que tengas un maravilloso Festival Nevado!
+0081 [Opción] | Laru la está pasando bien de verdad...
+0082 [Opción] | Parece otra persona por completo.
+0083 [Lively Little Boy] | Oye, Reina de la Pesca, ¿este cañón es de verdad?
+0084 [Laru] | ¡Deja de llamarme así!==W== Y el cañón es solo de adorno, no dispara. Así que no lo toques, ¿sí?
+0085 [Tú] | ¿No funciona? Pero ¿no dijo la gente del Imperio de la Gracia que...?
+0086 [Laru] | Shh,==W== ¡no les digas la verdad! ¿Y si empiezan a pedir jugar con él?
+0087 [Tú] | Tienes razón.
+0088 [Lively Little Boy] | ¿De qué cuchichean? ¿Es un secreto de adultos?
+0089 [Tú] | Pues pensábamos usar el cañón para entregar los regalos, pero todavía no se puede.
+0090 [Tú] | Por eso no le dijimos a nadie.==W== Si en el futuro se te ocurre un hechizo que lo logre, sería increíble.
+0091 [Lively Little Boy] | ¿Por qué no le piden un deseo al Espíritu del Árbol Nevado?
+0092 [Tú] | ¿Mm?
+0093 [Narración] | Se oye un crujido cerca.
+0094 [???] | ...
+0095 [Tú] | Esa niña...==W== viste ropa distinta a la de los niños del Distrito de las Cenizas...
+0096 [Laru] | ¡Hola! ¿También vienes por un regalo? Ven y escoge uno.
+0097 [???] | ¡¡...!!
+0098 [Laru] | Espera,==W== eso fue raro. ¿Por qué salió corriendo?

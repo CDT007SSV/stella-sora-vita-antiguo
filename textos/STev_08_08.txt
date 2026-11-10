@@ -1,0 +1,75 @@
+# Evento · ¡Latido! Rapsodia neoinspirada · EX · Un nuevo orden
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_131 | Bloc
+N:avg1_140 | Sparkla
+N:avg3_212 | Leona
+
+## Texto
+0001 [Intro] | Epílogo
+0002 [Intro] | Un nuevo orden
+0003 [Intro] | Sparkla, tienes uno, dos, tres, cuatro ... cincuenta y ocho pedidos nuevos esperándote. ¡Por favor, revísalos a la brevedad! ¡¿E-espera?! ¡¿Por qué me bloqueaste otra vez?!
+0004 [Narración] | Una semana después.
+0005 [Bloc] | ¡Oh, jojo! ¡Las Bombas Dispersoras Conejo, las Municiones de Supresión Conejil de Área Completa y las Bombas Rastreadoras Conejo se vendieron justo como esperaba! ¡Incluso con el aumento de precios, sin duda se agotaron!!
+0006 [Bloc] | Hay docenas de pedidos más que piden específicamente a Sparkla que antes. Si logro convencer a Sparkla de aceptarlos todos...==W== ¡debería poder reducir muchísimo el déficit de todo este incidente!!
+0007 [Bloc] | Además, la Neo Solution que Leona pasó una semana entera refinando sin dormir, y… Mm-hmm, eso debería cubrir como la mitad.
+0008 [Bloc] | Mis queriditas Dorra, vuelvan pronto a mí, buaaa~~
+0009 [Sparkla] | Bloc
+0010 [Sparkla] | Mándame los requisitos de esa prótesis
+0011 [Bloc] | 
+0012 [Bloc] | ¿Sparkla tan proactiva? ¡Esta debe de ser la primera vez que viene a pedirme un encargo, ¿verdad?!
+0013 [Bloc] | ¡Los requisitos de la señorita Willow son súper sencillos!
+0014 [Bloc] | Primero, tiene que verse bonita. Segundo, nada de diseños voluminosos innecesarios.
+0015 [Bloc] | En cuanto a funciones, la anterior está bien.
+0016 [Bloc] | Pero hay una petición extra. Quiere que sea resistente al agua. Después de todo, el entorno de trabajo de la Asociación de Trekkers no se limita a la tierra.
+0017 [Sparkla] | En ese caso, si maximizo la impermeabilidad y la hago una prótesis apta para uso bajo el agua, eso funcionaría, ¿no? Algo compatible tanto con agua dulce como con agua de mar.
+0018 [Bloc] | ¿Una prótesis que se puede usar bajo el agua? ¡Eso es increíble! ¡Es absolutamente un punto de venta~!
+0019 [Bloc] | Cuando terminemos este pedido, si podemos agregar especificaciones impermeables a otros modelos y producirlos en masa, ¡seguro causará sensación!
+0020 [Bloc] | Jeje... ¡Con esto, el negocio de Bloc estará a salvo!
+0021 [Bloc] | Cuento contigo, Sparkla~
+0022 [Bloc] | 
+0023 [Sparkla] | Solo para confirmar…
+0024 [Sparkla] | ¿Estás segura de que no necesita una función que la transforme en una trompeta conejo?
+0025 [Bloc] | ¡¡¡¡NO!!!!
+0026 [Sparkla] | Tsk. Está bien.
+0027 [Bloc] | Ah, cierto. Ya que estás en eso, ¿quieres quedarte también con el resto de mis pedidos~? Ya estás haciendo uno, ¿qué daño te harán diez más?
+0028 [Sparkla] | Me niego.
+0029 [Sparkla] | Solo acepté este pedido porque ==PLAYER_NAME== me lo pidió personalmente.
+0030 [Sparkla] | Como ya lo prometí, lo cumpliré sin importar qué tan aburrido sea.
+0031 [Sparkla] | Pero aparte de eso, no aceptaré ningún pedido nuevo durante los próximos tres meses. Ya te lo dije, ¿no?
+0032 [Bloc] | 
+0033 [Leona] | ¡Bloc, el último barril de Neo Solution está listo! ¡Eso significa que por fin terminamos, ¿verdad?!
+0034 [Leona] | Vaya, ¿no es raro? ¡Sparkla de verdad apareció en el chat grupal! ¡Oh, qué buen momento! ¡Justo tengo algo importante que anunciar!
+0035 [Leona] | ¡Sparkla, Bloc! ¡Contemplen mi flamante autómata nuevo! ¡La versión mejorada de Ticka-Boom!
+0036 [Leona] | ¡Ticka-Boom Din-Don Pum!
+0037 [Bloc] | Anda, piensa en esos pedidos como un pequeño cambio de ritmo mientras trabajas en el Pastel del Tirano. Una buena forma de relajarte~
+0038 [Leona] | ¡Sparkla, cuando termines tu Pastel del Tirano, tienes que avisarme de inmediato!
+0039 [Leona] | ¡Ticka-Boom Din-Don Pum está listo para aceptar tu desafío cuando quieras, jajajaja!
+0040 [Leona] | 
+0041 [Bloc] | Sparkla, ¿de verdad no vas a reconsiderarlo? Si diez son demasiados, cinco también sirven~
+0042 [Leona] | Esta vez preparé el entorno de pruebas de Ticka-Boom Din-Don Pum específicamente dentro del Monolito.
+0043 [Leona] | ¡Todo para que se enfrente al Pastel del Tirano, que está hecho específicamente para apoyar la escalada del Monolito, en el mismo campo de batalla!
+0044 [Bloc] | Si cinco todavía tardan demasiado, entonces tres~
+0045 [Bloc] | Menos que eso y mi negocio no podrá seguir funcionando.
+0046 [Narración] | Sparkla ha salido del chat grupal.
+0047 [Leona] | ¿?
+0048 [Leona] | ¡¿Por qué Sparkla se salió del grupo otra vez?!
+0049 [Bloc] | Ay no, ay no. Tengo un mal presentimiento...
+0050 [Bloc] | ¡¡AAAAAAAH~ Lo sabía!!==W== ¡Me bloqueó otra vez! ¡¡AAAAAAH!!
+0051 [Bloc] | ¿Qué voy a hacer con esta montaña de pedidos...?==B== ¿Y cómo voy a cubrir el déficit ahora...?
+0052 [Bloc] | ... Ah.==W== Se me acaba de ocurrir una gran idea~
+0053 [Bloc] | Suspiro. Leona, ¿qué crees que debería hacer con esta enorme pila de pedidos que piden específicamente a Sparkla?
+0054 [Bloc] | Leona fue quien ganó el primer lugar en la última Convención Tecnológica, pero todos siguen queriendo solo a Sparkla~
+0055 [Leona] | ¿¿¿Eeeeh????
+0056 [Leona] | ¡¿Qué quieres decir con «solo quieren a Sparkla»?! ¡¿Yo fui la campeona de esa convención, ¿recuerdas?!!
+0057 [Leona] | ¿Qué pedidos tienes? ¡Mándalos para verlos!
+0058 [Leona] | Hmph, ¿eso es todo? Son demasiado fáciles. ¡Puedo hacerlos mejor que Sparkla, sin problema!
+0059 [Bloc] | ¡Exacto~! ¡Eso mismo pensé yo! Entonces te dejo estos pedidos a ti, Leona. Muéstrale a todos de qué estás hecha~
+0060 [Leona] | ¡Hmph! ¡Ya verás de lo que es capaz Leona!
+0061 [Bloc] | Qué bien. Con eso también se resuelve el problema de los pedidos.
+0062 [Bloc] | ¡Ahora sí puedo abrir el negocio hoy por fin~!
+0063 [Bloc] | ¡Bienvenidos, bienvenidos! Pueden echar un vistazo con confianza~
+0064 [Bloc] | Todos estos son tesoros que seleccioné personalmente mientras viajaba por todo el continente de Nova.
+0065 [Bloc] | Tómense su tiempo, miren. Seguro hay algo aquí que es justo para ustedes~

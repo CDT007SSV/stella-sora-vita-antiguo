@@ -1,0 +1,122 @@
+# Recuerdo de disco · The Cat's Treasure · 1 · The Cat's Treasure
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_114 | Chaton
+N:avg2_972 | Guantelete de la Ira
+N:avg2_975 | Glopo
+N:avg2_980 | Atacante de proyectiles
+N:avg2_981 | Lucky Rubbi
+N:avg3_100 | Sylar
+N:avg3_1304 | Chaton
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Evocación del recuerdo
+0002 [Intro] | El tesoro del gato
+0003 [Intro] | ¡Oh, premio afortunado hechizado por el Ojo Demoníaco del gran Chaton! ¡Sométete a mi poder oscuro!
+0004 [Chaton] | ¡Escúchenme, patéticos Stellaroids! ¡Soy el gran Chaton, la Matadioses! ¡Mi ojo izquierdo contiene el poder de la oscuridad!
+0005 [Chaton] | Cualquier basura que se interponga en el camino del gran Chaton==W== ¡se convierte en sacrificio para la Entrada de Códice Inconclusa!
+0006 [Narración] | ==Off==¡Ojo Demoníaco, desátate—!
+0007 [Chaton] | ¡Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez...! ¡Racha de veinte bajas! ¡Aniquilación total!
+0008 [Chaton] | ¡Je, je! ¿Cómo me fue? Increíble, ¿verdad? Yo le pondría un noventa bien sólido.
+0009 [Tú] | ¡Chaton, cuidado atrás!
+0010 [Chaton] | ¡Buen trabajo, Tirano! ¡Asistencia perfecta!
+0011 [Chaton] | Sinceramente, después de ver nuestro trabajo en equipo impecable, ¡hasta me dan ganas de combatir contigo!
+0012 [Tú] | Jaja... Paso.==W== Además, no pareces del tipo que juega en modo fácil.
+0013 [Chaton] | ¡Obvio! ¡Pero si despiertas de repente en pleno combate... las cosas podrían pasar directo a modo infierno!
+0014 [Tú] | No me lo esperaría.==W== ¿Va a ocurrir alguna vez ese «momento de despertar» del que no paras de hablar?
+0015 [Chaton] | ¡Hmph! ¡Ocurrirá! ¡Definitivamente ocurrirá! ¡Absolutamente ocurrirá!==W== ¡Y aunque no, el gran Chaton te lo sacará a la fuerza!
+0016 [Tú] | Guau, qué intensidad... Sigues tan obsesionada con esto como siempre.
+0017 [Chaton] | ¡Claro! Porque si el verdadero poder del Tirano nunca despierta—
+0018 [Chaton] | —¡entonces no puedo derrotarte en tu apogeo para fortalecer mi propio poder oscuro!
+0019 [Tú] | Si tu poder ya es tan fuerte, no necesitarías derrotarme.
+0020 [Chaton] | ¿¡Quién lo dice!?
+0021 [Chaton] | ¡Como ostentas el título de Tirano, debes de ser el amo de todo poder oscuro!
+0022 [Chaton] | ¡Si derroto al Tirano... me convertiré en la nueva Tirana!
+0023 [Chaton] | ¡Ñajajajaja!
+0024 [Tú] | Pensándolo bien, así funciona en su lore...
+0025 [Tú] | Aun así, todavía no me acostumbro a su rara forma de hablar...
+0026 [Chaton] | ¡Contempla! ¡La Tierra Prometida! Dime, Tirano, ¿cuántas bajas lleva el gran Chaton?
+0027 [Tú] | Setenta y ocho.
+0028 [Chaton] | Mmm... No alcanzamos el récord. No aparecieron suficientes monstruos, no hay remedio. Qué lástima.
+0029 [Chaton] | ¡Pero aun así! ¡Setenta por ciento de esas fueron críticos de un golpe! ¡Estamos un paso más cerca del despertar!
+0030 [Tú] | Dejemos a un lado lo del despertar. Si esta es tu «Tierra Prometida», entonces llegamos al destino de hoy, ¿no?
+0031 [Chaton] | Je, je... ¡Exacto! ¡Este es el campo de batalla sagrado, una arena teñida con la sangre de incontables guerreros!
+0032 [Chaton] | ¡Choquemos otra vez y hagamos resonar nuestras almas! ¡Así el Tirano y el gran Chaton podremos ascender juntos a un reino superior!
+0033 [Tú] | Perdona, ¿a qué te refieres con eso?
+0034 [Chaton] | Como no pudimos batirnos en duelo como es debido mientras cazábamos Stellaroids,==W== ¡tendrán que servir los juegos! ¡Así potenciamos nuestra fuerza oscura y forjamos a un Tirano más poderoso!
+0035 [Tú] | Con Vita basta para entrenarme...
+0036 [Vita] | ¿Me llamaste?
+0037 [Tú] | No, no te llamé.
+0038 [Chaton] | ¡Vamos, Tirano! ¡Empecemos con esa máquina!
+0039 [Tú] | ¿Es un juego de ritmo? Parece que pisas las flechas del suelo...
+0040 [Chaton] | ¡Sip, pan comido! ¡Ahora mira!
+0041 [Chaton] | ¡Oh, música de los cielos,==W== resuena por este reino mortal!
+0042 [Chaton] | ¡Ñajaja! ¡Victoria abrumadora para el gran Chaton!
+0043 [Tú] | Jadeo... ¡Jadeo...! Este juego es mucho más duro de lo que pensaba...
+0044 [Chaton] | ¡Estás completamente agotado, pero tu puntuación no está mal!==W== ¡Aprovechemos el impulso y vayamos al siguiente juego!
+0045 [Tú] | ¿¡Qué!? ¡Espera, Chaton, déjame recuperar el aliento!
+0046 [Chaton] | Mmm... ¿Derecha ...==W== o izquierda...?
+0047 [Tú] | ... ¡Toma eso!
+0048 [Chaton] | ¡Ah! ¡Fallé otra vez!
+0049 [Chaton] | ¡Tirano, eres una bestia en el Hockey de Aire del Monolito!==W== ¡Una partida más! ¡Tendré mi venganza!
+0050 [Tú] | Van nueve seguidas.==W== ¿Lista para rendirte?
+0051 [Chaton] | ¡E-estaba cargando mi poder oscuro! ¡Esta ronda la gano yo!
+0052 [Chaton] | ¿A qué jugamos==W== ahora...==W== ¿Hm?
+0053 [Chaton] | ¿Hm?
+0054 [Tú] | ¿Qué pasa, Chaton?
+0055 [Chaton] | ¡E-esta aura oscura ... que emana del abismo...!
+0056 [Tú] | ¿Chaton? ¿Adónde vas? ¡Oye, Chaton!!
+0057 [Tú] | Por fin te alcancé... Chaton, ¿por qué saliste disparada así?==W== Espera...
+0058 [Tú] | ¿Esto es una ... máquina de garra?
+0059 [Chaton] | ¡Tirano, mira esto! ¿¡A que este peluche se parece a ti!?
+0060 [Tú] | ... ¿Se parece tanto a mí?
+0061 [Chaton] | ¡Totalmente!==W== Je, je... ¡Nuestro vínculo nos guio a este encuentro del destino!
+0062 [Chaton] | ¡Oh, premio afortunado, hechizado por el Ojo Demoníaco del gran Chaton! ¡Sométete a mi poder oscuro!
+0063 [Tú] | ¿Fallaste? Ni siquiera se movió.
+0064 [Chaton] | ... Hmph. Primer intento.==W== Tómalo como calentamiento. ¡La próxima seguro...!!
+0065 [Chaton] | ¡No atrapo nada! ¿¡Qué le pasa a esta garra!? ¡La configuración está arreglada!
+0066 [Tú] | ¿Seguro que es la garra...?
+0067 [Chaton] | ¡Oye! ¡Oyeee! ¿¡Dudabas de mí, verdad!? ¡Pues entonces inténtalo tú, Tirano! ¡Yo te guío!
+0068 [Chaton] | Más a la derecha... Sí, ¡alto! Ahora baja con suavidad...==W== ¡Ya!
+0069 [Tú] | ... ¡Aaah! ¿¡Por qué se cayó!?
+0070 [Chaton] | ¡Pensé que ya lo teníamos! ¡Aaaah!
+0071 [1] | Es más difícil de lo que pensaba... Tú eres la francotiradora, Chaton. Encárgate tú.
+0072 [Chaton] | ¡Cambio de roles otra vez! ¡Esta vez tú eres el observador, Tirano!
+0073 [Tú] | Sí, un poco a la izquierda...==W== Alto. Apunta al costado. Un poco más adentro...
+0074 [Tú] | ¡Ahí!
+0075 [Chaton] | ¡Dispara! ¡Ya!
+0076 [Chaton] | ¡Argh! ¡Iba perfecto!
+0077 [Tú] | Suspiro... ¿Cuántos intentos van? Creo que es hora de ren—
+0078 [Chaton] | ¡Espera! ¡Aún no terminamos! ¡Tengo una táctica más!
+0079 [Tú] | ¿¡Eh!? Chaton, ¿qué haces—?
+0080 [Chaton] | ¡Desde aquí adentro tengo una vista perfecta!
+0081 [Opción] | ¿¡No es trampa meterte dentro de la máquina!?
+0082 [Chaton] | ¡Claro que no! ¡Es una estrategia legítima!
+0083 [Chaton] | ¡La clave de la puntería es la posición del observador!
+0084 [Opción] | Estás justo ahí, ¿por qué no lo agarras tú?
+0085 [Chaton] | ¡Ni hablar! ¡Como Tirano y portador del poder oscuro, nuestra imagen lo es todo!
+0086 [Opción] | Ya estás adentro... ¿Qué diferencia hay?
+0087 [Chaton] | ¡La diferencia es la satisfacción! ¡Ya verás, Tirano!
+0088 [Chaton] | ¡Acata mi mandato!
+0089 [Chaton] | ¡Derecha veinte! No, te pasaste. Izquierda cinco. Tráelo hacia mí...
+0090 [Chaton] | ¡Alto! ¡Punto perfecto!
+0091 [Opción] | ¡Suéltalo!
+0092 [Chaton] | ¡Quienes osen desafiar el poder oscuro, sométanse! ¡Y abracen el vacío!
+0093 [Chaton] | ¡Chaton ordena! ¡Alas Plateadas, escuchen al Tirano que comanda la noche eterna!
+0094 [Opción] | ¡¡¡Tráelo!!!
+0095 [Chaton] | ¡Siií! ¡Lo logramos! ¡El gran Chaton siempre ríe al final!
+0096 [Chaton] | ¡Bien hecho! ¡El despertar del Tirano se acerca!
+0097 [Tú] | Despertar aparte,==W== sí fue increíblemente satisfactorio.
+0098 [Tú] | Qué lástima que no podamos quedárnoslo. Todo ese esfuerzo...
+0099 [Chaton] | ¿Verdad? Solo el botín de la Caja de Deseos se va. ¡El Dios de la Gracia es tan tacaño!
+0100 [Chaton] | ¡Pero oye, nos llevamos más que un peluche!
+0101 [Tú] | ¿Qué más...?
+0102 [Chaton] | ¡Hmph! ¡El recuerdo de haber ganado esto juntos!
+0103 [Chaton] | ¡La EXP de esta verdadera prueba del Tirano ya está grabada en nuestras almas!
+0104 [Chaton] | Valió la pena el viaje solo por eso, ¿verdad?
+0105 [Tú] | Sí...==W== Es cierto.
+0106 [Narración] | Aunque todo sueño se desvanezca, ella no pudo resistirse a extender la mano. Quizá ese es el destino de una chica atada al poder oscuro.
+0107 [Narración] | Y así, salió del Monolito con orgullo, abrazando el premio que ella y su Tirano habían ganado.

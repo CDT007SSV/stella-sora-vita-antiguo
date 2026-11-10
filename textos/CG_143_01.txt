@@ -1,0 +1,132 @@
+# Historia de Wraith · 1 · The You I Know (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Anxious Server | Mesero nervioso
+N:Cheerful Server | Mesera alegre
+N:Dizzy Chef | Chef aturdido
+N:Hasty Server | Mesero apurado
+N:avg1_143 | Wraith
+N:avg3_100 | Sylar
+N:avg3_1274 | Residente de Loong
+N:avg3_143 | Residente
+N:avg3_144 | Residente
+N:avg3_145 | Residente del Distrito de Oro
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La persona que conozco (Parte I)
+0003 [Intro] | Los guerreros de élite tienen apetitos de élite... Espera, ¿cómo que casi mueres por saltarte las comidas?
+0004 [Tú] | En serio, Wraith... Si quería que nos viéramos, podría haberme avisado con tiempo.
+0005 [Tú] | En cambio, me mandó un solo mensaje, «Es urgente», y luego me dijo que nos encontráramos aquí. Si me va a salir con esto, que no me culpe por llegar un poco tarde...
+0006 [Tú] | Uf...==W== Por fin llegué. Bien, no es tan tarde. Seguro que no se enojará...
+0007 [Cheerful Server] | ¡Bienvenido! ¿Tiene reservación?
+0008 [Tú] | Hola. Busco a una dama de cabello largo y plateado con una boina azul. ¿Puede decirme en qué mesa está?
+0009 [Cheerful Server] | Ah...==W== Se refiere a esa clienta. Está justo por allá.
+0010 [Wraith] | Mmmmm...==W== Delicioso.
+0011 [Tú] | Pidió una mesa entera de comida...==W== Supongo que empezó a comer sin mí porque no llegué a tiempo.
+0012 [Tú] | Perdón por llegar tarde.
+0013 [Wraith] | ¡Oh, este platillo también está sabroso!
+0014 [Tú] | ¡Es como si no me oyera!
+0015 [Tú] | Wraith...==W== Ya llegué. ¡H-O-L-A!
+0016 [Wraith] | ¿Mmph?==W== ¿Mesheroh? ¿Eshta eh la pershona que eshtoy eshperando?
+0017 [Tú] | Eh...==W== ¡Traga antes de hablar! No entiendo ni una palabra...==W== Pero se ve tan linda así, supongo que lo dejaré pasar.
+0018 [Tú] | Aunque estoy justo a su lado, todavía no se da cuenta de que soy yo.==W== Como siempre.
+0019 [Wraith] | Ñam, ñam...==W== Mm. Disculpe, la señorita de la charola, por favor.==W== Ese platillo que me recomendó hace rato fue muy peculiar. Quisiera otra porción.
+0020 [Hasty Server] | ¿Yo? Perdón, yo no fui quien la atendió hace rato...==W== ¡No sé qué platillo le recomendó ella!
+0021 [Tú] | Sé que Wraith reconoce a las personas por sus armas.==W== Al parecer una charola de servicio también cuenta como una...
+0022 [Wraith] | Ya veo. Disculpa. Déjame pensar...==W== Fue el que sacaron con un enorme trozo de carne, humeante. ¿Te suena?
+0023 [Hasty Server] | ¡Oh!==W== Se refiere a nuestro venado ahumado especial. No hay problema, lo preparo de inmediato. Estará listo en un momento~
+0024 [Wraith] | Sí, ese. Y ya que estás en eso...==W== ¿Podrías traerme otra porción de todos los platillos de pescado de esta página del menú?
+0025 [Hasty Server] | ¡¿Otra porción de todos?! ¡E-está bien! ¡Hago los pedidos enseguida!
+0026 [Tú] | ¿Cuánta comida piensa comer?==W== ¡Esa página tiene al menos una docena de platillos!
+0027 [Tú] | El personal corre como loco. Apuesto diez a uno a que es por culpa de Wraith.
+0028 [Tú] | Si sigue así...
+0029 [Wraith] | ¿Hola? Disculpe, quisiera ordenar.
+0030 [Wraith] | ... ¿Eh?==W== ¿Por qué nadie viene a tomar el pedido...?
+0031 [Tú] | Tal como pensé, con tanto pedido a la vez, el personal está completamente desbordado.
+0032 [Tú] | Considerando que yo fui quien llegó tarde...==W== Probablemente debería ayudarlos de alguna manera...==W== Ah, ya sé.
+0033 [Tú] | Wraith, yo ordeno por ti. ¿Qué más quieres?
+0034 [Wraith] | ¡Desde este hasta este! ¡Uno de todo lo que haya en medio!
+0035 [Tú] | De verdad me trata como a parte del personal...==W== Está bien. Solo tengo que pasar el pedido a la cocina.
+0036 [Tú] | Disculpe, la mesa cinco quiere añadir...
+0037 [Hasty Server] | ¡¿Ella otra vez?! ¡La cocina es un completo desastre!
+0038 [Anxious Server] | Imposible...==W== ¿¡Por qué estamos tan ocupados!? ¡Elegí el turno de hoy porque quería un día tranquilo!
+0039 [Tú] | Wraith probablemente sea la única persona en todo el continente capaz de aterrorizar al personal de un restaurante entero solo por comer ahí.
+0040 [Tú] | Es todo. Me retiro entonces...
+0041 [Hasty Server] | ¡Oye! ¡No te distraigas! ¡Saca los platillos! ¡Estos, y estos también! ¡Todo para la mesa cinco!
+0042 [Tú] | ¡E-espera, yo no soy del personal!
+0043 [Hasty Server] | ¡Rápido, rápido! ¡Nos falta personal!
+0044 [Tú] | Está bien...
+0045 [Tú] | ¡Aquí tiene!==W== Rosbif tierno, muslo de pollo chisporroteante, sopa de champiñones y filete de pescado sellado en sartén.
+0046 [Wraith] | Gracias. Llevaba un rato esperando. Por cierto, ¿puedo añadir algunos platillos más?==W== Quizá algo de beber. Tengo sed.
+0047 [Tú] | ¡¿Más platillos?!
+0048 [Tú] | ¡M-más platillos para la mesa cinco,==W== más una bebida!
+0049 [Hasty Server] | ¡La cocina no tiene tiempo para preparar bebidas! ¡Prepárala tú!
+0050 [Tú] | ¡¿Yo?! ¡P-pero no sé cómo!
+0051 [Hasty Server] | ¡Cuatro cubos de hielo en el vaso, luego sirve la bebida! ¡Recuerda tu capacitación de nuevo ingreso!
+0052 [Tú] | Pero no hay ninguna «capacitación de nuevo ingreso» en mi mente...==W== ¿¡De verdad perdí la memoria!?
+0053 [Hasty Server] | ¿Qué estás murmurando? ¡Muévete! ¡Rápido, rápido!
+0054 [Tú] | ¿¡Cómo llegué a esto!? Vine para una reunión...
+0055 [Tú] | Aquí tiene su bebida.
+0056 [Wraith] | Gracias, déjala por allá. Y quiero más platillos.
+0057 [Tú] | Como desee...==W== Espera, ¿¡quieres aún más platillos!?
+0058 [Wraith] | ¿Más pescado y carne, supongo?==W== Mmmm,==W== ¿cuál elegiré...
+0059 [Tú] | Tengo un mal presentimiento...
+0060 [Wraith] | Muy bien, ya decidí. Quiero otra ronda completa de todo lo que hay en el menú.
+0061 [Tú] | Espera, ¡¿no pidió ya todos los platillos de pescado hace rato?!
+0062 [Tú] | Uf... Uf...==W== Gritar pedidos, cargar comida, preparar bebidas... ¡No puedo seguir el ritmo!
+0063 [Dizzy Chef] | ¡Necesitamos todas las manos! ¡Oye, tú, el de las orejas puntiagudas, ven a ayudar a la cocina!
+0064 [Tú] | ¡¿La cocina?! Tomar pedidos es una cosa,==W== ¡pero de verdad no sé cocinar!
+0065 [Dizzy Chef] | ¡No pasa nada! ¡El amor es el ingrediente secreto!==W== ¡Cualquiera puede cocinar mientras tenga cariño y amor en el corazón!
+0066 [Tú] | No es nada de eso...==W== ¡N-no me arrastre! ¡Chef, cálmese!
+0067 [Tú] | Ugh... Ya casi oscurece. Hemos estado a tope todo este tiempo. No me digan que Wraith sigue comiendo...
+0068 [Wraith] | Ñam...==W== Glup, glup...
+0069 [Tú] | En todo este tiempo no ha parado ni un segundo. ¿Su estómago es un pozo sin fondo?
+0070 [Anxious Server] | Oye, tú. Lleva esto a la mesa cinco.==W== Además, se nos acabaron los ingredientes,==W== así que tenemos que dejar de tomar pedidos. Ve a decírselo.
+0071 [Tú] | ¿Se acabaron? ¡Sí! Por fin me libro de este infierno de pedidos adicionales...==W== N-no, espera, ¡ni siquiera trabajo aquí! Olvídalo...
+0072 [Tú] | Aquí tiene. Un último chuletón de cerdo.
+0073 [Wraith] | Ñam, ñam...==W== Glup. ¡Por fin! Este platillo siempre es tan bueno.==W== Por cierto, quiero...
+0074 [Tú] | Disculpa. Ya dejamos de tomar pedidos. Se nos acabaron por completo los ingredientes.
+0075 [Wraith] | ... ¿Se acabaron?==W== ¿Quieres decir que ya no puedo ordenar? ¿Ya no hay carne? ¿Ya no hay pescado?
+0076 [Tú] | Lo siento, pero no nos queda absolutamente nada.
+0077 [Wraith] | Está bien...
+0078 [Tú] | De inmediato pone esa mirada lastimera y con los ojos llorosos. ¡Eso es trampa!
+0079 [Wraith] | Bueno. Entonces iré a cazar algo de comida por mi cuenta.
+0080 [Tú] | Qué bien, volvamos por ahora...==W== Espera, ¡¿cazar comida?!
+0081 [Wraith] | Oh, ¿Jefe? Por fin llegaste. Llevo esperando una eternidad.
+0082 [Wraith] | Llegas muy tarde. Ya oscureció.
+0083 [Tú] | Lo dice quien tenía la cabeza agachada atragantándose y ni me notó...==W== En fin, yo llegué tarde primero. Perdón.
+0084 [Cheerful Server] | Disculpe, estamos por cerrar. Aquí está la cuenta...==W== ¿Podría pagar ahora, por favor?
+0085 [Tú] | ¿Estoy viendo mal? Ese número ...==W== tiene una cantidad verdaderamente absurda de ceros.
+0086 [Tú] | Wraith, apúrate. Quieren que paguemos. Hora de soltar los Dorra...
+0087 [Tú] | ¿Eh? ¿Wraith? ¿A dónde se fue?
+0088 [Tú] | Si su arma sigue aquí, no puede haber ido lejos...==W== Por favor, por favor, no me digan que se fue a casa.
+0089 [Cheerful Server] | Eh...==W== ¿Cómo desea pagar?
+0090 [Tú] | Eh, ¿podría ... tomar lo que gané con todo ese trabajo y restarlo de la cuenta? Ni siquiera trabajo aquí, así que fue como un empleo temporal. ¿Por favor?
+0091 [Cheerful Server] | Lo entiendo, de verdad, pero ya descontamos de la cuenta su salario del día...
+0092 [Tú] | ¡Estoy en la quiebra! ¡Wraith, regresa y sálvame...!!!
+0093 [Tú] | ¡¿Wraith?! Gracias al cielo, regresaste...==W== ¿Eh? ¿Qué arrastras detrás de ti?
+0094 [Wraith] | Cacé un oso. ¿Ya puedo pedir más platillos?
+0095 [Dizzy Chef] | Santo cielo...==W== Miren estos músculos densos, este pelaje liso y brillante...==W== Ya sea para cocinar o para fabricar equipo, es material de primera calidad. ¡Solo este vale al menos varios millones de Dorra!
+0096 [Dizzy Chef] | Señorita, ¿por qué no nos da el oso? Si lo hace, rompemos su cuenta. ¿Trato hecho?
+0097 [Wraith] | Pero... cacé este oso porque quería comérmelo...
+0098 [Tú] | Dejémoslo, Wraith.==W== Comer demasiado te va a revolver el estómago. Usa el oso para pagarles la comida, ¿vale? De verdad no fue barata.
+0099 [Wraith] | No, nunca me ha dolido el estómago.==W== Pero Jefe, si tú lo dices... ¡Está bien, quédatelo!
+0100 [Tú] | Por cierto... ¿A qué se debe el enorme apetito de hoy?
+0101 [Tú] | ¿No sueles decir: «No me importa qué coma, mientras sea comestible»?
+0102 [Wraith] | Bueno... En realidad, no he comido nada en seis días.
+0103 [Tú] | ¡¿Seis días?! ¿Dónde has estado...?
+0104 [Wraith] | Hice unas modificaciones a mi arma, así que quise probar su rendimiento dentro del Monolito.
+0105 [Wraith] | Y antes de darme cuenta, llevaba mucho tiempo sin comer.
+0106 [Tú] | ¿Puedes olvidar algo así...?
+0107 [Wraith] | ¿No te pasa siempre?==W== Cuando una persona pasa hambre, su cuerpo consume su propia grasa de forma automática. La comida de hoy no fue solo para hoy.
+0108 [Wraith] | Fue para los seis días que me salté y para los seis días por venir.
+0109 [Tú] | Oye, oye... ¿Qué eres, un camello?
+0110 [Tú] | En fin...==W== Mientras estés satisfecha.==W== Entonces, ¿por qué me buscabas?
+0111 [Wraith] | Mmh...==W== Ya no importa. Lo que quería...==W== ya lo obtuve.
+0112 [Tú] | ¿Qué se supone que significa eso?==W== Bueno, da igual... Wraith siempre es tan imposible de descifrar...
+0113 [Tú] | Por cierto...==W== Ni siquiera traías tu arma contigo hace rato...==W== ¿Cómo derribaste a un oso tan grande?
+0114 [Wraith] | Tengo mis manos, ¿no?
+0115 [Tú] | Eh, olvídalo...

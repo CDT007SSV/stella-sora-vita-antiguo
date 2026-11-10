@@ -1,0 +1,165 @@
+# Capítulo 9 · Un Monolito demasiado lejano · 6A · La lluvia que nunca cae
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Resolute Sentinel of Dawn | Centinela del Alba decidido
+N:Tired Sentinel of Dawn | Centinela del Alba cansado
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_136 | Angie
+N:avg1_139 | Allie
+N:avg1_144 | Chitose
+N:avg1_163 | Greyhorn
+N:avg2_947 | Soldado de los Centinelas del Alba
+N:avg2_948 | Soldado de los Centinelas del Alba
+N:avg3_100 | Sylar
+N:avg3_1306 | Soldado de los Centinelas del Alba
+N:avg3_1307 | Soldado de los Centinelas del Alba
+N:avg3_1308 | Soldado de los Centinelas del Alba
+N:avg3_1309 | Soldado de los Centinelas del Alba
+N:avg3_216 | Gunhild
+N:avg3_217 | N.º 160
+N:avg3_974 | Serena
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | La lluvia que nunca cae
+0003 [Intro] | Angie ofreció la paz a cambio de tu suicidio y reveló la verdad. Aun así, las negociaciones fracasaron. La artillería de Gunhild destrozó el terreno, y en los túneles derrumbados de la mina, Greyhorn y sus fuerzas esperaban a todos.
+0004 [Lugar y hora] | 16:40, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0005 [Nazuka] | Jefe, el reconocimiento aéreo está despejado. No hay enemigos a la vista.
+0006 [Chitose] | Mi ==SEX11==, los edificios están asegurados. No hay señales de emboscada.
+0007 [Tú] | Parece que a Angie una emboscada aquí le parece indigna de ella. O sabía que la descubriríamos enseguida y sería una pérdida de tiempo.
+0008 [Tú] | Noya, ¿tu corazonada te dice algo?
+0009 [Noya] | ¡Mmm, nada! Esa sensación inquietante de hace rato se fue, y ya le tomamos la medida a su magia.
+0010 [Noya] | Las balas del Cetro de la Muerte... Chitose puede bloquearlas, ¿verdad?
+0011 [Chitose] | Mientras no sea fuego rápido, puedo cortarlas todas.
+0012 [Noya] | Y el tiempo detenido de la n.º 160 no sirve de nada mientras no la lastimemos.
+0013 [Nazuka] | O la noqueamos de un solo golpe antes de que tenga oportunidad de lanzarlo.
+0014 [Nazuka] | El verdadero problema son los disparos de Gunhild. No tenemos una buena forma de lidiar con ellos.==W== Jefe, tejí un escudo en tu ropa. Creo que... puede bloquear al menos un disparo.
+0015 [Noya] | Ay. Si tan solo un aguacero le rebajara la cima a esa duna. Así Gunhild no tendría terreno elevado para apuntar.
+0016 [Tú] | Lluvia, ¿eh...?==W== En el desierto sí llueve, pero quizá solo una o dos veces al año. No tenemos tanta suerte.
+0017 [Noya] | Qué bueno sería que de verdad fueras el legendario Tirano.==W== El otro día encontré ese viejo cuento de hadas en el orfanato.
+0018 [Noya] | El Tirano del cuento hacía caer lluvias torrenciales sobre el desierto con solo un gesto de la mano.==W== Aparecían oasis,==W== y de las dunas brotaban flores hermosas.
+0019 [Tú] | Eso es solo un cuento de hadas. En la realidad, haría falta el poder combinado de varios magos poderosos para lograr algo así, ¿no?
+0020 [Nazuka] | Jefe, cuidado. Llegó la gente de Angie.
+0021 [Tú] | Greyhorn...==W== y la árbitra de hace rato. Hola.
+0022 [Tú] | ¿Dónde está Angie? Ella fue quien propuso esta negociación, ¿y en su lugar nos mandan a ustedes dos?
+0023 [No. 160] | ¡L-Lady Angie no se presentaría así como así!==W== ¡Tirano!==W== ¡¿D-dónde escondes a esa mujer despiadada de cabello rosa?! ¡Tiene absolutamente prohibido asistir a esta negociación!
+0024 [Tú] | Cabello rosa... ¿Allie? Hace rato la dejó bastante alterada.
+0025 [Tú] | ¿Husmear dónde están mis compañeras antes de que empiece la negociación? ¿Así hace las cosas el Comité de Salvación?
+0026 [Greyhorn] | Mis disculpas. Le pido perdón en nombre de la 160. Esa formidable directora del orfanato la dejó bastante alterada hace rato, y está hablando de más. Por favor, pásenlo por alto.
+0027 [Greyhorn] | Solo estamos aquí para asegurar el perímetro. Lady Angie llegará en breve.
+0028 [Narración] | Greyhorn despliega la capa que lleva en las manos. Una figura borrosa toma forma rápidamente dentro de ella.
+0029 [Tú] | ¿Cuántas capas idénticas tendrá listas para usar...?
+0030 [Angie] | Tirano. Nos volvemos a ver.
+0031 [Angie] | Vaya, tú también traes a tres compañeras. Qué precavido.
+0032 [Tú] | Solo cuando trato con gente turbia aficionada a los ataques sorpresa.
+0033 [Angie] | Je. Hoy vine a negociar con la mayor sinceridad.==W== Pero, como está claro que no nos vamos a llevar bien, vayamos al grano.
+0034 [Angie] | Tu objetivo es proteger a tus compañeras, ganar tiempo y escapar de Mirage. ¿Me equivoco?
+0035 [Angie] | El Comité de Salvación interceptó tu Heartlink con Firenze. Tus refuerzos llegarán a Mirage en un plazo de tres días.
+0036 [Angie] | A Firenze le gusta guardarse sus cartas, y sabía que la línea podía estar intervenida... Así que seguramente llegarán incluso antes.
+0037 [Angie] | Eso acorta mucho mi margen para matarte. Un día y medio... No, para estar segura, tengo exactamente veinticuatro horas.
+0038 [Angie] | Ya tomé el mando de los Escorpiones del Desierto y de la Guardia Imperial de Mirage, pero tus compañeras son mucho más fuertes de lo que anticipé.
+0039 [Angie] | Con tan poco tiempo, no tengo la certeza absoluta de poder acabar contigo. Nuestra batalla reduciría Mirage a ruinas sin remedio, con muchas bajas en ambos bandos.
+0040 [Angie] | Por lo tanto, te pido que te quites la vida con este Cetro de la Muerte. A cambio, garantizaré la seguridad de tus compañeras y de la gente de Mirage.
+0041 [Noya] | ¡¿A esto le llamas negociación?! Sueltas unas cuantas palabras y esperas que alguien se mate. ¡¿Estás loca?!
+0042 [Angie] | Sé muy bien que esta propuesta no está a la altura de sus expectativas. Por eso, añadiré una condición.
+0043 [Angie] | Tus compañeras pueden unirse al Comité de Salvación y quedarse a mi lado. Si, después de observar mis actos, deciden que en realidad no estoy salvando el mundo, pueden matarme cuando quieran.
+0044 [Angie] | Y aunque me perdonen por ahora, dentro de cuatro años, cuando el mundo esté verdaderamente a salvo de la destrucción, les pediré que me quiten la vida como compensación por la tuya.
+0045 [Angie] | En otras palabras, pase lo que pase, pagaré tu vida con la mía. Si todavía dudas de mí, tus compañeras pueden atarme con un contrato mágico. Uno irrompible.
+0046 [Tú] | ¡¿Qué clase de condición es esta?! ¿Llegaría a tanto solo para verme muerto...?
+0047 [Chitose] | ¿Cómo te atreves a comparar la noble vida de mi ==SEX11== con la de una hormiga insignificante como tú?
+0048 [Tú] | Chitose, tranquila. Déjame escucharla.
+0049 [1] | Angie, entiendo tu sinceridad.
+0050 [1] | No tenemos ningún rencor personal, y aun así estás dispuesta a entregar tu propia vida solo para matarme. Supongo que no lo haces por tu propio bien.
+0051 [Angie] | Gracias por entenderlo. Siempre es un placer hablar con alguien razonable.
+0052 [1] | En realidad, no lo entiendo.
+0053 [1] | Dices que el mundo se está acabando y que la única forma de salvarlo es matarme a mí, el legendario Tirano.
+0054 [Tú] | Pero eres la única que dice esto.==W== Hemos viajado por muchas ciudades,==W== y nunca hemos visto ni una sola señal del fin del mundo. Tampoco hemos oído a nadie mencionarlo.
+0055 [Tú] | ¿Y por qué yo, una persona sin recuerdos, sería el legendario Tirano? ¿Por qué tiene que acabar el Tirano con el mundo?
+0056 [Tú] | Todo tu razonamiento... no se basará en ese Libro de las Profecías de la Gracia, ¿o sí?
+0057 [Angie] | El Libro de las Profecías de la Gracia es solo un mapa. Uno antiguo, además. Solo puedes verificar su contenido si lo sigues hasta el destino.
+0058 [Angie] | Nadie deseaba más que yo que ese mapa estuviera equivocado. Por desgracia, cuando el Comité de Salvación y yo llegamos a su destino, comprobamos que era exacto. La realidad es incluso peor de lo que describía el mapa.
+0059 [Angie] | La única razón por la que no lo has visto es que no has llegado al verdadero Fin del Mundo.
+0060 [Noya] | ¿Mirage no es el Fin del Mundo?
+0061 [Angie] | Esto es solo el límite de la civilización...==W== Una recién formada, de apenas un siglo de antigüedad.
+0062 [Angie] | Para ver el verdadero Fin del Mundo, hay que viajar varios días hacia el oeste,==W== cruzar las arenas movedizas y las montañas, hasta donde el desierto se encuentra con el mar.
+0063 [Angie] | Ahí, la tierra se desmorona sin cesar hacia un abismo negro como la noche.
+0064 [Angie] | La única razón por la que ninguno de ustedes ha oído hablar de ello es que los novianos se acostumbraron a esconder la cabeza en la arena.
+0065 [Angie] | Hoy el continente de Nova es un tercio más pequeño que hace doscientos años. El Imperio tiene quince ciudades menos que hace un siglo.
+0066 [Angie] | Nadie les contará estas cosas, y no podrán descubrirlas por su cuenta. Las bibliotecas de Nova no tienen ningún libro de historia.
+0067 [Angie] | Listo. Ahora que te conté lo que le pasará al mundo, ¿me creerás?
+0068 [Tú] | La tierra desmoronándose sin cesar hacia un abismo negro como la noche...==W== ¿No es eso...?
+0069 [Nazuka] | ¡Jefe, toma mi mano!
+0070 [Tú] | ¿Esto es... un terremoto?
+0071 [Nazuka] | No, no es un terremoto.==W== ¡El Monolito se está hundiendo!
+0072 [Nazuka] | Jefe, nos está arrastrando con él...==W== Lo siento. Quizá no logremos volver.
+0073 [Tú] | Eso no fue el hundimiento accidental de un Monolito. Es una señal del fin del mundo...
+0074 [Tú] | Angie, te creo.
+0075 [Angie] | ¿Ah, sí? Qué sorpresa. En diez años, eres la primera persona que me cree nada más oírlo.==W== Y me doy cuenta de que no mientes.
+0076 [Noya] | Aunque todo lo que dijiste sea cierto, ¡¿qué tiene que ver eso con que ==PLAYER_NAME== sea el Tirano?!==W== ¡==SEX1== es nuestro Jefe! ¡==SEX1== no tiene nada que ver con tus leyendas estúpidas!
+0077 [Angie] | ¿Ah, no? Creo que hasta tu Jefe tiene sus dudas.
+0078 [Angie] | Como ya estuvieron en la habitación secreta del Gato Blanco, debieron ver ese libro, ¿verdad?
+0079 [Tú] | Esa habitación lleva años sellada. ¿Por qué sabes del libro?
+0080 [Angie] | Vaya, debí llegar tan de repente que no tuviste tiempo de terminar de leerlo.
+0081 [Angie] | Si lo hubieras leído completo, te habrías dado cuenta de que era el diario de la difunta Emperatriz.
+0082 [Angie] | El diario dice explícitamente que eres el legendario Tirano. La difunta Emperatriz incluso dibujó tu retrato con su propia mano.
+0083 [Angie] | No sé cómo Su Alteza tenía semejante clarividencia, pero es sin duda una prueba irrefutable.
+0084 [Tú] | Aunque yo sea el Tirano, no destruiré el mundo.
+0085 [Angie] | ¡La destrucción del mundo no tiene nada que ver con tu voluntad personal! Por mucho que me encantaría darte la respuesta definitiva... Se acabó el tiempo, Tirano.
+0086 [Angie] | Nunca esperé que te rindieras sin pelear. Para ganarte la lealtad de unas Trekkers tan excepcionales, debes tener una voluntad inquebrantable.
+0087 [Angie] | Solo aceptaste esta negociación para ganar tiempo para tu retirada, ¿verdad?
+0088 [Narración] | ¡Escisión!
+0089 [Tú] | Si sabes que estoy esperando a que todos los demás evacúen, ¿tú qué estás esperando?
+0090 [Angie] | Lo descubrirás muy pronto.
+0091 [Lugar y hora] | 17:00, 18.º del mes de Nebula, Mirage, desierto a las afueras de la ciudad
+0092 [Tired Sentinel of Dawn] | Capitana Gunhild, una unidad base de munición está en formación. Estamos listos para iniciar el bombardeo.
+0093 [Gunhild] | Buen trabajo, todos. Lady Angie retuvo al Tirano en la zona objetivo designada. ¡Ahora es nuestro momento de pelear! ¡Derrotaremos al Tirano aquí y ahora! ¡Protegeremos a Nova!
+0094 [Tired Sentinel of Dawn] | ¡Sí, señora!
+0095 [Gunhild] | ¡Perforadora, cambia a la segunda forma! ¡Inicien el bombardeo!
+0096 [Narración] | Rayos verde azulado chisporrotean por la Perforadora mientras su cañón se eleva. Su base trasera se extiende como la garra de un Loong y se ancla en lo profundo de la duna.
+0097 [Narración] | Los magos se forman en filas ordenadas, cada uno con varias valiosas Piedras del Alma en las manos. La maga de enfrente pone una mano sobre la Perforadora y murmura un antiguo conjuro.
+0098 [Resolute Sentinel of Dawn] | Por la sangre de mis venas, manifiesto el aliento de la magia. Que mi cuerpo sea la cadena, y que el fuego del infierno los sepulte.
+0099 [Narración] | Una energía desbordante recorre su cuerpo y se vierte violentamente en la Perforadora para forjar un proyectil mágico cegador.
+0100 [Narración] | La Perforadora ruge. Incapaz de soportar la sobrecarga, la maga se desploma y los médicos que esperaban preparados se la llevan al instante. El siguiente mago da un paso al frente y murmura exactamente el mismo conjuro.
+0101 [Gunhild] | Como mucho, tenemos dos unidades de fuego completas.
+0102 [Gunhild] | Si las usamos todas y aun así no podemos derribar al Tirano, tendremos que recurrir a nuestro último recurso.
+0103 [Lugar y hora] | 17:01, 18.º del mes de Nebula, Mirage, Calle sin nombre
+0104 [Noya] | ¡¿Q-qué clase de disparo es este?! ¡Nos están bombardeando a ciegas!
+0105 [Nazuka] | Esto no es un disparo de francotirador. Es un bombardeo de artillería... ¿Este es el verdadero poder de ese campamento de artillería?
+0106 [Nazuka] | ¡Jefe, Noya, Chitose, corran! ¡Mi escudo de viento no aguantará mucho más!
+0107 [Tú] | O nos vamos juntos o no se va nadie.
+0108 [Greyhorn] | Lady Angie, el bombardeo comenzó según lo planeado. Por favor, evacúe el campo de batalla. Yo me encargo de las cosas aquí.
+0109 [Angie] | Entonces te lo dejo a ti, Greyhorn.
+0110 [Greyhorn] | Terminemos con esto, Tirano.
+0111 [Noya] | Maldición. ¿Cómo puede estar en medio de un bombardeo sin un solo rasguño?
+0112 [Greyhorn] | No subestimen la magia defensiva de la Guardia Imperial, Trekkers.
+0113 [Chitose] | Mi ==SEX11==, yo la contendré.
+0114 [Nazuka] | ¡Mi Piedra del Alma está casi sin magia!
+0115 [Tú] | Cof... ¿Qué acaba de pasar? Noya, Nazuka, Chitose, ¿están bien?
+0116 [Nazuka] | Lo siento, mi escudo cedió. Parece que... caímos a un pozo subterráneo de la mina.
+0117 [Noya] | ¿Cuánta magia tiene el Comité? Atravesaron el suelo de un solo golpe. ¡Agh!==W== Mi herida...
+0118 [Chitose] | Mi ==SEX11==, mi brazo derecho... No se mueve. Me aplastó una roca cuando se hundió el suelo.
+0119 [Tú] | Esto es culpa mía. Calculé mal su fuerza.
+0120 [Nazuka] | No calculaste mal nada. Aun así logramos ganar suficiente tiempo.
+0121 [Noya] | ¡Exacto! A estas alturas, todos deberían estar saliendo de la ciudad. ¡Lo único que tenemos que hacer es seguir corriendo!
+0122 [Chitose] | La vida en el campo de batalla es tan fugaz como el rocío de la mañana. Si nos vemos en un aprieto, solo le pido que me abandone sin dudarlo. No mire atrás.
+0123 [Tú] | No digas eso, Chitose. Voy a sacarnos a todos de aquí sanos y salvos. No dejaremos a nadie atrás.
+0124 [Greyhorn] | No vas a salir de aquí, Tirano. Lady Angie apostó a mis tropas aquí de antemano.
+0125 [Greyhorn] | Levantó la restricción que nos limitaba a atacarte solo a ti. A partir de este momento, no nos contendremos con tus compañeras.
+0126 [Greyhorn] | Es cierto que son fuertes. Pero con la magia agotada y el cuerpo maltrecho, ¿qué pueden hacer ahora?
+0127 [Greyhorn] | Esta es la abrumadora diferencia de poder entre Boss Accord y el Comité de Salvación.
+0128 [Greyhorn] | Tirano, Lady Angie está dispuesta a darte una última oportunidad. Si contestas el teléfono, sus condiciones anteriores siguen en pie.
+0129 [Greyhorn] | Tsk... ¿Más refuerzos?
+0130 [Narración] | ==Off==¿Alguien está... molestando a mis niños aquí abajo?
+0131 [Noya] | ¡Mamá!
+0132 [Allie] | Jefe, Noya, Chitose, Nazuka. Adelántense.
+0133 [Allie] | Yo los voy a contener aquí.
+0134 [Allie] | Los niños del orfanato ya evacuaron sanos y salvos. Ahora mismo, ustedes son los únicos por los que todavía tengo que preocuparme.
+0135 [Greyhorn] | Directora Allie, usted es de las buenas, y formidable además. Pero ni siquiera usted puede contener a una Compañía entera sin restricciones.
+0136 [Allie] | ¿En serio...?
+0137 [Allie] | Hola. Tú, la del otro lado del teléfono, escucha con atención.
+0138 [Allie] | Voy a mostrarte lo frágiles que son en realidad tus pequeños planes y formaciones.

@@ -1,0 +1,106 @@
+# Historia de Donna · 1 · The Different Donna (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Gentle Elder | Anciano gentil
+N:Kindly Elder | Anciano bondadoso
+N:The Girl's Mother | Madre de la niña
+N:avg1_130 | Donna
+N:avg3_100 | Sylar
+N:avg3_109 | Abuelo Chai
+N:avg3_143 | Residente
+N:avg3_166 | Anciana del pueblo
+N:avg3_168 | Chica
+N:avg3_927 | Niña
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | La otra Donna (Parte I)
+0003 [Intro] | Donna la mensajera conoce cada rincón de esta ciudad: esta es la Donna que conoces.
+0004 [1] | Qué raro... Este debería ser el lugar.
+0005 [1] | Noya y las demás están hasta el cuello, así que me tocó encargarme de los suministros.==W== Pero en serio... ¿dónde está esta tienda?
+0006 [1] | ¿Mm? Alguien acaba de jalarme la manga...
+0007 [Tú] | Una niña pequeña... ¿Fue ella quien me jaló?
+0008 [Tú] | Hola. ¿Necesitas algo?
+0009 [Little Girl] | Ugh...
+0010 [Little Girl] | ¡¡Buaaaaa!!
+0011 [Tú] | ¡E-espera! ¡¿Por qué lloras de repente?!
+0012 [Little Girl] | ¡N-no encuentro mi casa! Mamá... ¿dónde estás...?
+0013 [Tú] | ¿Estás perdida?
+0014 [Tú] | Bueno, shh... No llores. Yo te ayudo. ¿Sabes dónde vives?
+0015 [Little Girl] | Buaaa... Mamá...
+0016 [Tú] | No habla... Pero no puedo dejarla así...
+0017 [Donna] | ¿Eh? Juraría que oí llorar a un niño...==W== ¿Oh? ¡Es el Jefe!
+0018 [Tú] | ¡Donna! ¡Justo a tiempo!
+0019 [Donna] | ¿Ah, sí?
+0020 [Donna] | Esta niña...==W== ¿Se perdió o algo así?
+0021 [Donna] | ¡Oh!==W== ¿O hiciste algo para que llorara, Jefe?
+0022 [Tú] | ¡Qué malentendido tan enorme!==W== ¡No hice nada!
+0023 [Donna] | ¡Jeje, es broma! Sé que no harías nada raro, Jefe.
+0024 [Donna] | Entonces, ¿qué pasa?
+0025 [Tú] | Pues, es así...
+0026 [Donna] | Ah, o sea que de verdad está perdida.
+0027 [Tú] | Parece que sí, solo que...
+0028 [Little Girl] | ¡¡Buaaaaa!!==W== ¡¡Quiero a mi mamá!! ¡¡Quiero irme a casa!!
+0029 [Tú] | Intenté preguntarle dónde vive, pero llora tan fuerte que no entendí nada. Es imposible comunicarse con ella.
+0030 [Donna] | Mmm... ¿Te importa si lo intento yo?
+0031 [Donna] | Ya, ya. Da miedo estar sola, ¿verdad? No te preocupes, yo te llevaré de vuelta con tu mamá. Así que sécate esas lágrimas, ¿sí?
+0032 [Little Girl] | (Snif) ¿De verdad... puedes encontrar a mi mamá?
+0033 [Tú] | ¡¿Con eso dejó de llorar?!
+0034 [Donna] | ¡Claro que sí! ¡Soy una Trekker mensajera! ¡Sin importar el lugar, siempre hago la entrega!
+0035 [Little Girl] | ¡Una Trekker mensajera... qué genial!
+0036 [Donna] | ¡Jeje! ¿A que sí? Ahora, ¿puedes decirme dónde vives?==W== ¿O hay algo cerca que destaque?
+0037 [Little Girl] | Eh... Hay una juguetería junto a mi casa,==W== ¡y un árbol muy, muy grande!
+0038 [Donna] | Una juguetería y un árbol grande... Estoy casi segura de que he pasado por ahí en mis rondas.==W== ¡Muy bien, vamos a llevarte a casa!
+0039 [Tú] | Me salvaste...==W== ¿Pero todavía tienes trabajo? Espero que esto no te haya quitado demasiado tiempo...
+0040 [Donna] | ¡Sin problema! De hecho acabo de entregar mi última carta del día. ¡Vamos, llevemos a casa a esta pequeña!
+0041 [Donna] | Y luego sigamos derecho por esta calle. Cuando veamos la florería, giramos a la izquierda hacia el callejón.
+0042 [Little Girl] | G-gracias...
+0043 [Tú] | La pobre niña se ve tan pálida... Perderse debe de haberla aterrado de verdad.
+0044 [Tú] | Aun así, ubicar el lugar solo con eso... Definitivamente haces honor a tu nombre de Trekker mensajera.
+0045 [Donna] | Reparto por esta calle todo el tiempo. Si lo haces lo suficiente, ¡te memorizas el trazado!
+0046 [Kindly Elder] | ¡Vaya, pero si es Donna! Gracias otra vez por traerme esa carta de mi hijo el otro día.
+0047 [Gentle Elder] | Post Haste siempre es muy confiable. Contaremos contigo la próxima vez también.
+0048 [Donna] | ¡Cuenten con ello! ¡Solo avísenme cuando necesiten enviar algo!
+0049 [Little Girl] | ¿De verdad las Trekkers mensajeras son tan geniales?
+0050 [Donna] | ¡Je, ya lo creo! ¡Montañas altas, océanos profundos, hasta la cima del Monolito!==W== ¡Si está en el continente de Nova, lo entregamos a tiempo!
+0051 [Little Girl] | Guau... ¡Qué increíble! Si algún día escribo una carta, ¿podrías entregarla por mí también?
+0052 [Donna] | ¡Claro!==W== ¡Nos aseguraremos de que llegue a la persona correcta sana y salva!
+0053 [Little Girl] | ¡Está bien! ¡Cuando necesite mandar una carta, te pediré ayuda!
+0054 [Tú] | Tienes un don con la gente, Donna.
+0055 [Donna] | Ser alegre y amable con todos es como debe ser, ¿no?
+0056 [Donna] | Además...
+0057 [Donna] | ¡Mantenerse en buenos términos con todos es como hacemos que el negocio de Post Haste siga boyante!
+0058 [Tú] | O sea que es por las relaciones públicas... De verdad eres una líder nata. Siempre velando por Post Haste.
+0059 [Donna] | ¡Oh, la florería! Gira a la izquierda en la siguiente esquina.
+0060 [Little Girl] | ¡Conozco este lugar! ¡Ya casi llegamos a mi casa!
+0061 [Donna] | ¡Genial! Entonces, ¿por qué no nos muestras el camino?
+0062 [Little Girl] | ¡Sí! ¡Vengan, por aquí!
+0063 [Donna] | ¡Guau! ¡Más despacio un momento!
+0064 [1] | ... Aunque,==W== dudo que lo haga solo por el bien de Post Haste.
+0065 [Donna] | ¡Oye, Jefe! ¡Date prisa o te dejo atrás!
+0066 [1] | Ah, voy justo detrás de ti.
+0067 [Little Girl] | ¡Mamá! ¡Ya llegué!
+0068 [The Girl's Mother] | Ay, por Dios... ¡¿A dónde te fuiste?! ¡Estaba muerta de preocupación!
+0069 [Little Girl] | Yo... lo siento...
+0070 [Little Girl] | ¡Pero conocí a una señora mensajera súper genial! ¡Me trajo hasta aquí!
+0071 [The Girl's Mother] | De verdad das mucho trabajo... Lamento muchísimo las molestias que les causó.
+0072 [Donna] | ¡Para nada! Nos alivia que haya llegado a casa sana y salva.
+0073 [The Girl's Mother] | Entraremos ahora. Vamos, di gracias.
+0074 [Little Girl] | ¡Gracias! Voy a escribir una carta, así que vengan a visitarme otra vez, ¿sí?
+0075 [Donna] | ¡Hecho: promesa de meñique! ¡Hasta luego!
+0076 [Tú] | Uf... Qué bueno que estabas ahí. Yo solo no habría sabido qué hacer.
+0077 [Donna] | ¡Sin problema! Tenemos que cuidarnos unos a otros, ¿no?==W== Pero... bueno, si de verdad quieres agradecerme...==W==
+0078 [Donna] | Podrías mandarme unos cuantos encargos grandes... ¿o quizá algunos clientes nuevos?==W== ¡Jeje, es broma!==W== ¡Nos vemos, Jefe!
+0079 [Tú] | Nos vemos. Supongo que debería volver a mi lista de compras...
+0080 [Tú] | ¡Ah!
+0081 [Donna] | ¿Mm? ¿Qué pasa?
+0082 [Tú] | Es que... Noya y las demás me mandaron por suministros, pero no encontré esa tienda...
+0083 [Tú] | El camino hasta aquí fue bastante confuso y no lo memoricé... Estoy casi seguro de que ahora sí estoy totalmente perdido.
+0084 [Donna] | Jajaja... ¿O sea que ahora te toca perderte a ti, Jefe?==W== ¿No te dieron un mapa o algo?
+0085 [Tú] | Sí me dieron... ¡Pero empieza desde Lucky Oasis! ¡Caminamos tan lejos que ahora es básicamente inútil!
+0086 [Donna] | Suenas bastante seguro para alguien que está perdido... A ver, déjame ver.
+0087 [Donna] | ¿Ah, este lugar? Hice una entrega ahí justo la semana pasada. Vamos, yo te llevo.
+0088 [Tú] | ¡¿De verdad?! ¡Gracias!
+0089 [Donna] | ¡No es nada! Vamos. ¡Quédate cerca para que no te pierdas otra vez!

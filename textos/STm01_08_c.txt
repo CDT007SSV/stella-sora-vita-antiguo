@@ -1,0 +1,97 @@
+# Capítulo 1 · 8B · Postre después de la cena
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Cheerful Child | Niño alegre
+N:Gaunt Child | Niño demacrado
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1205 | Minova
+N:avg1_132 | Minova
+N:avg2_993 | Neuvira
+N:avg2_994 | Vollara
+N:avg3_100 | Sylar
+N:avg3_167 | Chica
+N:avg3_168 | Chica
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Postre después de la cena
+0003 [Intro] | Una buena comida siempre sana el alma. Durante una deliciosa cena, te das cuenta de la clave para ayudar a los niños: crear más recuerdos divertidos.
+0004 [Lugar y hora] | 18:30, 27 del mes de Floris, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0005 [Niño alegre] | ¡Ñam!
+0006 [Niño demacrado] | Nunca había probado un pescadito asado tan rico.
+0007 [Neuvira] | Despacio, pequeño. Cuidado con las espinas.
+0008 [Narración] | En la mesa, el pescado asado de Noya es un éxito enorme y dibuja sonrisas en los rostros de los niños.
+0009 [Minova] | Yo he asado este mismo pescado antes, pero no sabía nada parecido.
+0010 [Minova] | Suelta la sopa, Noya. ¿Escondes alguna receta especial?
+0011 [Noya] | Para nada, nada especial. Lo hago a ojo.
+0012 [Noya] | Quizá Amber es la que tiene el toque mágico para pescar buen pescado.
+0013 [Minova] | Yo también lo hago a ojo, pero el mío ni siquiera parece comestible...
+0014 [Vollara] | Jefa, su «a ojo» es echar el pescado al fuego sin más. Un lado queda crudo, el otro carbonizado, y ni siquiera le quita todas las escamas.
+0015 [Minova] | ...
+0016 [Minova] | Mi error. ¿Qué tal si me prestas tus nudilleras la próxima vez? Servirían de maravilla para raspar escamas.
+0017 [Vollara] | ¡¿Quién querría unas nudilleras que apestan a pescado?!
+0018 [Neuvira] | Hermana, ni un bocado de pescado logra callarte, ¿eh?
+0019 [Iris] | Noya dice que lo hace «a ojo», pero en realidad adapta su técnica según el estado de cada ingrediente.
+0020 [Iris] | Incluso con dos peces pescados al mismo tiempo, usa distintos niveles de fuego para cocinar cada uno a la perfección según los más mínimos detalles.
+0021 [Minova] | ¿Todo eso para asar pescado? ¿Lo sabe con solo mirar...?
+0022 [Noya] | Para nada. Solo sigo mi instinto.
+0023 [Minova] | ¿Eh?
+0024 [Iris] | No tomes al pie de la letra lo que dice una genio culinaria.==W== Aunque intentaras copiarla, nunca te saldría igual.
+0025 [Minova] | Sí... supongo que el arte de asar pescado está más allá de mi comprensión.
+0026 [Tú] | La comida deliciosa de verdad ayuda a recuperar energía. Todos en la mesa la están pasando muy bien.
+0027 [Tú] | ¿Y todo esto es... gracias al pescado asado de Noya?
+0028 [Noya] | ¿==PLAYER_NAME==? Oye, ==PLAYER_NAME==, ven un momento.
+0029 [Tú] | ¿Eh?
+0030 [Opción] | (Sigue a Noya afuera)
+0031 [Noya] | Toma.
+0032 [Tú] | Esto es...
+0033 [Noya] | Pep Pep Juice original, sabor durazno.==W== Un sorbo y no podrás dejar de sonreír.
+0034 [Opción] | Gracias.
+0035 [Tú] | Esto sabe...
+0036 [Noya] | ¡Rico, ¿verdad?!
+0037 [Tú] | ¡Es increíble! Las burbujas que estallan me hacen cosquillas en la lengua.
+0038 [Tú] | ¿Por qué beber esto me resulta tan familiar de algún modo?
+0039 [Noya] | Jeje, salud.
+0040 [Opción] | Salud.
+0041 [Noya] | Ya te sientes mucho mejor, ¿no?
+0042 [Tú] | No me sentía mal ni nada,==W== pero sí, ese Pep Pep Juice definitivamente me animó aún más.
+0043 [Noya] | ¿No te sentías mal? Entonces, ¿por qué fruncías el ceño en la cena?
+0044 [Tú] | Solo estaba preocupado por los niños, nada más.
+0045 [Tú] | Oye, Noya, después de pedir tu deseo en el Monolito hoy, ¿sentiste algo distinto de lo normal?
+0046 [Noya] | Claro. Esa tarjeta de deseo se llevó más recuerdos de lo habitual hoy. De verdad me dejó noqueada.
+0047 [Noya] | Pero ya estoy de maravilla, gracias a mi arma secreta.
+0048 [Tú] | ¿Arma secreta?
+0049 [Noya] | ¡Pep Pep Juice, por supuesto! Mi bebida favorita de los Monolitos.
+0050 [Tú] | Estas bebidas... ¿las consigues dentro de los Monolitos?
+0051 [Noya] | No. Solo puedes sacar lo que deseas. No puedes comer lo que consigues dentro. Cualquier comida que tomes dentro del Monolito desaparece en cuanto sales.
+0052 [Noya] | Así que sí... este Pep Pep Juice es el último que me queda. Lo estaba guardando para una ocasión realmente especial.
+0053 [Tú] | ¿Tu último? ¿Seguro que debes darme algo tan importante?
+0054 [Noya] | ¡Ahh, no pasa nada, no pasa nada! Porque... mira.
+0055 [Tú] | ¿Mm? La lata de Noya es distinta de la mía. No huele a durazno.
+0056 [Tú] | Esto no es... Pep Pep Juice, ¿verdad?
+0057 [Noya] | No. Es solo agua.
+0058 [Noya] | Aunque tengo el sabor del Pep Pep Juice grabado en la memoria. Solo pensar en él basta para quitarme el cansancio.
+0059 [Noya] | Así que no te cortes, bebe. Quiero que tú también recuerdes este sabor, Jefe.
+0060 [Noya] | Y oye, solo entre nosotros... cuando te toque pedir un deseo, imagina que estás bebiendo un Pep Pep Juice...
+0061 [Noya] | Puede que el Dios de la Gracia sea lo bastante ingenuo para llevarse esa ensoñación feliz en su lugar. O sea, no sé qué se llevan en realidad, pero oye, es posible, ¿no?
+0062 [Tú] | Bueno, en ese caso, lo acepto con gratitud...==W== Pero ¿seguro, seguro? Tú solo estás bebiendo agua. Eso no puede estar ayudando con tu cansancio.
+0063 [Noya] | Supongo que me recupero rápido. Un poco de imaginación es todo lo que necesito para sentirme descansada otra vez.
+0064 [Noya] | ¡De hecho, solo con hablar así ya me siento con más energía! ♪
+0065 [Tú] | Recuperar fuerzas con solo imaginar algo... ¿De verdad puede ser tan simple?
+0066 [Tú] | Pero bueno, un recuerdo feliz es un recuerdo feliz, aunque sea imaginado. Aun así llena el vacío que queda.
+0067 [Tú] | Después de todo, la memoria no es la realidad. La línea entre lo «real» y lo «falso» se traza comparándolo con el mundo que nos rodea. Pero como los recuerdos que se toman para un deseo nunca se comparan con la realidad... ¿podría imaginar —o incluso crear— recuerdos nuevos y felices sanar de verdad un alma dañada?
+0068 [Tú] | La idea suena absurda, pero tampoco es que tengamos otras opciones. Es una posibilidad remota, ¡pero vale la pena intentarlo!
+0069 [Noya] | ==PLAYER_NAME==, estás frunciendo el ceño otra vez.
+0070 [Tú] | ¡Noya, ya lo descubrí!
+0071 [Noya] | ¿Descubriste... qué?
+0072 [Tú] | Cómo ayudar a los niños a recuperarse.
+0073 [Noya] | ¡¿Qu...?! ¡¿En serio?!
+0074 [Tú] | No puedo garantizar que funcione, pero...
+0075 [Tú] | Por cierto, eso que dijiste de imaginar el sabor del Pep Pep Juice...
+0076 [Tú] | ¿Te parece bien que se lo cuente a los demás?
+0077 [Noya] | Claro. Pero creo que ni siquiera lo han probado...==W== ¿Les servirá como referencia?
+0078 [Tú] | Sí servirá.==W== Si mi teoría es correcta, no tiene que ser Pep Pep Juice. Cualquier método más adecuado para los niños funcionará igual de bien.

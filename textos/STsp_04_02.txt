@@ -1,0 +1,127 @@
+# Nova Times #04 · Sueños de matcha · 2 · Matcha Dreaming (Part II)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Cocky Mercenary | Mercenaria engreída
+N:Friendly Merchant | Comerciante amable
+N:Gold District Visitor | Visitante del Distrito de Oro
+N:Hungry Mercenary | Mercenario hambriento
+N:Senior Executive | Alto ejecutivo
+N:Stern Captain | Capitana severa
+N:avg1_119 | Nanoha
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_145 | Gold District Resident
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_202 | Isaki
+N:avg3_203 | Okra
+
+## Texto
+0001 [Intro] | Acto dos
+0002 [Intro] | Sueños de matcha (Parte II)
+0003 [Intro] | ¡La misión comienza! En medio del concurrido banquete, ¿qué platillo preparará Okra para dar con el objetivo?
+0004 [Friendly Merchant] | ¡Bienvenidos todos! Me alegra mucho que hayan podido venir a mi humilde hogar. ¡Pasen, pasen, siéntanse como en casa!
+0005 [Senior Executive] | Es usted demasiado modesto. Difícilmente llamaría «humilde» a este lugar.
+0006 [Friendly Merchant] | ¡Jaja, me halaga! Comparado con su mansión, esto es una simple cabaña. Pero en serio, le debo todo mi éxito a su empresa. Brindemos por nuestra continua alianza.
+0007 [Senior Executive] | El sentimiento es mutuo, se lo aseguro. ¡Por un futuro próspero juntos!
+0008 [Nanoha] | Todavía no hay señales de nadie con uniforme de Tanikaze. Pero lleva años escondido, así que probablemente no se delatará así. Necesito otro plan.
+0009 [Okra] | A ver, escucha. Una vez en la cocina, solo vas a preparar el postre de matcha. ¿Entendido? No toques ningún otro ingrediente.
+0010 [Isaki] | ¿Eh? ¡¿Por qué?! ¡Yo quería servir el plato principal!
+0011 [Okra] | Porque si envenenas por accidente a un invitado y arruinas nuestra tapadera, se acabó todo.
+0012 [Okra] | El postre es mucho más sencillo. Tú puedes con eso. Además, no lo necesitamos de inmediato.
+0013 [Isaki] | Está bien...==W==¡Vayamos a la cocina y empecemos a preparar!
+0014 [Okra] | Todavía no. Primero me ayudarás a recoger unos ingredientes del mercado.
+0015 [Okra] | Nanoha acaba de contactarme. Quiere un platillo que solo alguien de Tanikaze conozca. Una trampa para que nuestro objetivo se revele.
+0016 [Isaki] | Un platillo que solo la gente de Tanikaze conoce...==W== ¡Ah! ¡Ya sé qué comprar!
+0017 [Friendly Merchant] | Es un verdadero honor. He oído hablar mucho de usted.
+0018 [Gold District Visitor] | Solo soy un viejo vagabundo, lejos de casa. Me da demasiado crédito.
+0019 [Friendly Merchant] | ¡Demasiado modesto! Sus logros son material de leyenda.
+0020 [Gold District Visitor] | Eso fue todo en el pasado. Hoy solo vengo a relajarme. Por favor, no llame la atención sobre mí.
+0021 [Friendly Merchant] | Entendido. Hemos preparado algunos platillos de su tierra natal. Espero que disfrute de la velada.
+0022 [Nanoha] | ¿Platillos de su tierra natal? Entonces va vestido como del Distrito de Oro, pero no es nativo de Philae.
+0023 [Nanoha] | Me pregunto cómo les estará yendo a Isaki y a Okra...
+0024 [Nanoha] | ¿Cómo va todo de su lado?
+0025 [Okra] | Estoy con el sashimi de fugu. Casi seguro que la mayoría de los invitados no conocerán este platillo.
+0026 [Isaki] | ¡Je, je, y yo tengo rábano carmesí recién rallado! Además de un pastel de matcha.
+0027 [Nanoha] | Sashimi de fugu... Cierto, algo exótico para Philae. El rábano también es un buen detalle. Pero... ¿un pastel de matcha?
+0028 [Isaki] | ¡Es para el postre del final! ¡Pienso dar todo de mí!
+0029 [Okra] | No se preocupe. La vigilaré. Aunque ya perdí la cuenta de cuánto polvo de matcha ha gastado.
+0030 [Nanoha] | Pues ahora sí tengo ganas de probar el pastel de matcha de Isaki.
+0031 [Isaki] | ¿Ve? ¡Hasta la Maestra tiene ganas de probar mi pastel!
+0032 [Okra] | Tú sigue la receta. Mientras no improvises, debería salir bien... Probablemente...
+0033 [Friendly Merchant] | Mis distinguidos invitados, ¿qué les parece la comida? Tienen que probar este sashimi de fugu, una delicadeza que normalmente solo se encuentra en Matsukawa y Cangwu.
+0034 [Senior Executive] | Un momento...==W== ¿No son venenosos los peces globo? ¿Es realmente seguro comerlo?
+0035 [Friendly Merchant] | Tranquilos, todos. Contraté a un especialista para preparar el pescado. Es perfectamente seguro.
+0036 [Gold District Visitor] | Jamás pensé que comería sashimi de fugu en Philae. Encontrar a un chef que sepa quitar correctamente la parte venenosa debió de ser un reto.
+0037 [Friendly Merchant] | Sin duda lo fue, pero lo logramos. Por favor, deléitense.
+0038 [Senior Executive] | Mmm. Un sabor tan limpio y delicado.
+0039 [Gold District Visitor] | Y hasta lo sirvieron con rábano carmesí rallado. Un detalle muy fino.
+0040 [Senior Executive] | ¿Se refiere a esto de al lado? ¿No es simplemente rábano?
+0041 [Gold District Visitor] | Es una pasta de rábano sazonada. Se supone que se combina con el sashimi.
+0042 [Friendly Merchant] | ¡Ah, un hombre que sabe de comida! Si usted no hubiera dicho nada, el resto de nosotros lo habríamos confundido con una simple guarnición.
+0043 [Gold District Visitor] | Jaja, lo comía todo el tiempo en mi tierra. Es un verdadero gusto volver a probar algo tan nostálgico. Gracias por su hospitalidad.
+0044 [Nanoha] | Así que es el único que conoce el fugu y la pasta de rábano. Y no es un Loong. Ese tiene que ser nuestro objetivo.
+0045 [Nanoha] | Pero lo primero es lo primero. Tengo un trabajo que hacer. Me ocuparé de él después del banquete.
+0046 [Isaki] | Bodega... la del polvo de matcha... ¿Dónde está...?
+0047 [Isaki] | Sabía que debí comprar diez veces más. No puedo creer que ya se nos acabó...
+0048 [Cocky Mercenary] | Capitana, mensaje del cliente. Tiene al objetivo a la vista.
+0049 [Stern Captain] | Hmph. ¿Ninjas de Matsukawa? Entendido.
+0050 [Isaki] | ¿Acabo de oír algo peligroso? Estos tipos...==W== ¿Son asesinos que trajo uno de los invitados?
+0051 [Hungry Mercenary] | Entonces, Capitana, ¿cuándo hacemos nuestro movimiento?
+0052 [Stern Captain] | Después del banquete. ¿O pensabas armar una trifulca frente a todos estos nobles?
+0053 [Cocky Mercenary] | Buen punto. Pero, eh, Capitana... ¿qué es exactamente un ninja?
+0054 [Stern Captain] | Ustedes...==W== Si quieren sobrevivir en este negocio, tienen que despabilarse. Piensen en ellos como mercenarios de Tanikaze. Un montón de cobardes que solo saben lanzar ataques por sorpresa.
+0055 [Isaki] | ¡¿Cobardes?! ¡¿Cómo se atreve?! ¡Les voy a mostrar...!
+0056 [Isaki] | Espera, este no es momento de alterarse. Rayos, ¡todo este encargo es una trampa! Tengo que avisarles a todos.
+0057 [Narración] | Una hora después—
+0058 [Friendly Merchant] | Todo lo bueno tiene un final. Y para cerrar, ¡disfruten de nuestro postre especial!
+0059 [Nanoha] | Aquí tiene su postre de esta noche: un pastel de matcha.
+0060 [Gold District Visitor] | Gracias. Ah, ese nostálgico sabor de Tanikaze... Dígame, señorita, ¿ha estado alguna vez en la ciudad de Matsukawa?
+0061 [Nanoha] | ¿No es una ciudad lejana, en el extremo occidental del continente? Solo he oído hablar de ella. Dicen que sus mares y bosques son hermosos.
+0062 [Gold District Visitor] | Parece que tiene una buena impresión de ella. En realidad, es un lugar remoto y apartado.
+0063 [Gold District Visitor] | Pero hablando de eso, este pastel tiene una forma muy parecida a esa isla ruinosa donde se encuentra la ciudad de Matsukawa.==W== La única diferencia es que... este es primero amargo y luego dulce. Lo único que tengo de esa isla son recuerdos amargos.
+0064 [Nanoha] | ...
+0065 [Gold District Visitor] | Mis disculpas. Perdone que le quite el tiempo diciendo tonterías...==W== Creo que ya estoy un poco achispado.
+0066 [Nanoha] | ¿Le traigo algo para eso? Tenemos agua y té disponibles.
+0067 [Gold District Visitor] | No, gracias. Este pastel de matcha ya está haciendo el trabajo.
+0068 [Hungry Mercenary] | ¡Capitana! ¡Pastel de matcha! Es mi favorito. ¿Puedo darle un mordisquito a escondidas?
+0069 [Stern Captain] | Ni lo sueñes. Estamos en una misión. ¡Concéntrate!
+0070 [Cocky Mercenary] | Vamos, Capitana. No hemos comido nada en toda la noche. Estamos funcionando con el estómago vacío.
+0071 [Isaki] | Trabajando duro, veo.
+0072 [Stern Captain] | ¿Quién eres? ¿Qué quieres?
+0073 [Isaki] | Soy de la cocina. El amo pidió que les trajéramos algo de postre, un pequeño sabor de Tanikaze.
+0074 [Hungry Mercenary] | ¡¿Pastel de matcha?! ¡¿En serio?! ¡Oh, gracias! ¡Este cliente es un santo!
+0075 [Stern Captain] | Un momento...==W== ¿Una cocinera? Entonces, ¿por qué el uniforme de Tanikaze?
+0076 [Isaki] | Ay, no sea tonta. Soy una de las subordinadas del amo, igual que ustedes. Mi trabajo es vigilar la cocina.
+0077 [Stern Captain] | Mmm...==W== Claro. El amo es de Tanikaze, así que unas cuantas caras de Tanikaze tienen sentido. Gracias.
+0078 [Stern Captain] | Muy bien, coman. El banquete está por terminar.
+0079 [Friendly Merchant] | Gracias de nuevo por venir. Por favor, permítame llevarlo en mi auto.
+0080 [Gold District Visitor] | No hace falta, pero gracias. Es una buena noche para caminar. Que el Dios de la Gracia vele por usted.
+0081 [Friendly Merchant] | Como desee. Buen viaje.
+0082 [Gold District Visitor] | Una noche sin luna. Perfecta para un asesinato.
+0083 [Gold District Visitor] | A mi amigo de las sombras: ¿no va a hacer su disparo?
+0084 [Nanoha] | ...
+0085 [Gold District Visitor] | Vaya, vaya. Si es la sirvienta del banquete. ¿Han caído tan bajo los ninjas de Goodwind que mandan niñas a sus misiones?
+0086 [Nanoha] | No me subestimes.==W== Deberías preguntarte por qué estoy aquí.
+0087 [Gold District Visitor] | ¿Qué...? Así que ahí fue a parar mi escuadrón de emboscada. Te encargaste de ellos...==W== Inútiles.
+0088 [Nanoha] | Los guerreros comprados con Dorra no tienen convicción verdadera. Si quieres soldados leales, deberías elegir con más cuidado.
+0089 [Gold District Visitor] | Grandes palabras... de una simple mercenaria.
+0090 [Nanoha] | ¿Recuerdas ese impuesto extra sobre el grano que les sacaste a esas aldeas?
+0091 [Gold District Visitor] | Je, claro que sí. Fue una molestia, pero me embolsé una buena cantidad de Dorra por mis esfuerzos.
+0092 [Gold District Visitor] | Y esos Dorra me compraron una nueva vida en el Distrito de Oro. Un poco de amargor antes de lo dulce, igual que un pastel de matcha, ¿sabes?
+0093 [Nanoha] | Los obligaron a pagar ese impuesto dos veces por tu culpa. Llevan años en dificultades. ¿Y no sientes ninguna culpa?
+0094 [Gold District Visitor] | Por favor. No necesito un sermón de una sirvienta...==W== ¿o es una ninja? La culpa es de ese funcionario incompetente por imponer otro impuesto solo porque no pudo atraparme.
+0095 [Nanoha] | Ambos son culpables.
+0096 [Gold District Visitor] | Piensa que les di la parte «amarga». Entonces, quizá algún buen samaritano venga y les dé la parte «dulce».
+0097 [Nanoha] | Sinvergüenza... ¡Ahórrate el aliento!
+0098 [Nanoha] | ¿Qué...?==W== ¡Bloqueado...!
+0099 [Gold District Visitor] | Los guerreros comprados con Dorra quizá no sean leales, pero ¿los pergaminos mágicos comprados con Dorra? Nunca me fallan.
+0100 [Nanoha] | Bloqueado otra vez... No hay apertura. El escudo se vuelve a formar. ¿A dónde apunto?
+0101 [Gold District Visitor] | Yo diría que te rindas. Invertí hasta el último Dorra de ese impuesto en estos pergaminos.==W== Tengo muchos más.
+0102 [Gold District Visitor] | Pero oye, si quieres seguir intentándolo, tengo toda la noche.==W== Tus amigas, en cambio... dudo que tengan tanto tiempo.
+0103 [Nanoha] | Okra, Isaki...
+0104 [Gold District Visitor] | Qué lástima, ¿no? Contraté más mercenarios de los que pensabas. Preferiría no ser rudo con ustedes, chicas. ¿Qué tal una pequeña charla?
+0105 [Gold District Visitor] | Tengo una forma en que ambos podemos ganar.

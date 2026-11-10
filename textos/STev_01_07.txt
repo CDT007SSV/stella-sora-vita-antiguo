@@ -1,0 +1,111 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 7 · Bajo la sombra
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Clumsy Treasure Hunter | Cazatesoros torpe
+N:Thuggish Treasure Hunter | Cazatesoros matón
+N:Treasure Hunter Leader | Líder de los cazatesoros
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg2_990 | Miembro del Viento de Ceniza
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto siete
+0002 [Intro] | Bajo la sombra
+0003 [Intro] | Una Ballena Hexcuerno gigante ataca, pero tú y Karin logran quitársela de encima. Justo cuando creen que el peligro pasó, Shia queda atrapada en un remolino. En ese momento de desesperación, aquel siniestro resplandor verde surge en silencio.
+0004 [Karin] | E-ese sonido... ¡Es una Ballena Hexcuerno! ¡Ugh, esas gigantes son lo peor con lo que lidiar!
+0005 [Karin] | Es toda mi culpa. Lo gafé por completo. Y ahora hay un monstruo marino de verdad...
+0006 [Karin] | Esto está mal. ¡Tenemos que llegar con Shia, ya!
+0007 [Tú] | Shia acaba de llamar. La señal se cortó casi de inmediato; las olas deben de estar muy fuertes.
+0008 [Tú] | Seguro también se topó con el monstruo. Nos dijo que fuéramos sin ella...
+0009 [Karin] | ¡¿Que fuéramos sin ella?! ¡Ni hablar!==W== ¡Está allá afuera completamente sola! ¡Tenemos que ir a salvarla, ahora mismo!
+0010 [Tú] | Karin, cálmate. No sabemos su posición exacta. Ir a ciegas podría empeorar las cosas.
+0011 [Tú] | Aclaremos los hechos y armemos un plan. No quieres ponerla en más peligro, ¿verdad?
+0012 [Karin] | Está bien... Tienes razón. Respira hondo...
+0013 [Karin] | Una Ballena Hexcuerno así de grande... No podemos ganar en un enfrentamiento directo. Hay que esquivar sus ataques...==W== Vamos, piensa. ¿Qué haría Shia?
+0014 [Karin] | ¡Ah, ya sé! Jefe,==W== necesito que me respaldes.
+0015 [Tú] | Dime qué hacer.
+0016 [Karin] | Yo seré la carnada. Tú toma el timón y sigue mi guía, Jefe. Atraeremos a la Ballena Hexcuerno lejos y luego la perderemos.
+0017 [Tú] | ¿Carnada? ¿Crees que caerá tan fácilmente?
+0018 [Karin] | Shia dijo que las ballenas son sensibles a las luces brillantes. Puedo llamar su atención con una bengala.
+0019 [Karin] | Mientras nos persiga a nosotros, no la perseguirá a ella. La mantendremos ocupada y le daremos tiempo a Shia para reunirse con nosotros.
+0020 [Tú] | Si Shia también vio al monstruo, no puede estar lejos... Es arriesgado, pero es nuestra única oportunidad.
+0021 [Tú] | Entendido. Lo haremos a tu manera.
+0022 [Karin] | ¡Cuento contigo, Jefe!
+0023 [Tú] | Pero Shia te confió a mí. Si las cosas se ponen peligrosas, tu seguridad es mi prioridad.
+0024 [Karin] | ¡Já, no te preocupes por mí!==W== ¡Cuando esto termine, te invito un platillo de mariscos de lujo! ¡Va por mi cuenta!
+0025 [Karin] | ¡Oye, grandulona! ¡Tengo un pescado súuuper sabroso para ti! ¡Ven por él!
+0026 [Narración] | Karin lanzó una bengala al cielo. Estalló una luz cegadora y la atención de la Ballena Hexcuerno se dirigió hacia ella.
+0027 [Tú] | ¡Karin, viene directo hacia nosotros!
+0028 [Karin] | ¡Dirige el barco! ¡No dejes que nos embista!
+0029 [Narración] | Más bengalas estallaron en el cielo, pero la Ballena Hexcuerno seguía pisándonos los talones, implacable. Parecía furiosa.
+0030 [Karin] | Hemos viajado tanto, maldición... ¡¿Cómo es que sigue detrás de nosotros?!==W== Muy bien, hora del plan B...
+0031 [Karin] | ¡Jefe! ¡Trae el tanque de gas a alta presión de la cabina! Si lo usamos para dar un impulso...
+0032 [Tú] | ¡Por fin podremos perderla!
+0033 [Karin] | ¡Exacto! Pero tiene una fuerza tremenda, ¡así que agárrate fuerte del timón!
+0034 [Tú] | No hay problema. ¡Estoy listo!
+0035 [Karin] | Tres, dos, uno...==W== ¡DALE!
+0036 [Karin] | ¡¡A TODA VELOCIDAD...!!
+0037 [Narración] | El tanque estalló en una espesa nube blanca, y la fuerza casi sacó el barco por completo del agua.
+0038 [Tú] | ¡Espera, vamos demasiado rápido!
+0039 [Karin] | Funcionó...==W== Jefe, ¿estás bien?
+0040 [Tú] | Estoy bien...==W== ¡¿Y la Ballena Hexcuerno?!
+0041 [Karin] | Se fue...==W== Creo que la perdimos.
+0042 [Tú] | Bien. Pero sigamos alerta.
+0043 [Karin] | Espera, ¿qué es ese sonido...?
+0044 [Karin] | ¡Ah! ¡El dron de Shia!
+0045 [Shia] | ¡Karin! Jefe...
+0046 [Shia] | ¡Vi las bengalas y vine lo más rápido que pude! ¡Buen trabajo, los dos!
+0047 [Karin] | ¡Shia! Gracias al cielo...==W== Por fin...
+0048 [Narración] | De pronto, el mar alrededor de Shia comenzó a agitarse. Un enorme remolino se abrió justo debajo de ella, arrastrando nuestro barco directo hacia el centro.
+0049 [Karin] | ¡Un remolino! ¡Jefe, toma el timón! ¡Yo me encargo de Shia!
+0050 [Tú] | Espera, esa enorme sombra bajo el agua... ¿Es...?
+0051 [Tú] | ¡Shia! ¡SAL DE AHÍ...!
+0052 [Narración] | Una sombra oscura brotó del mar. El rugido de la Ballena Hexcuerno desató una ola monstruosa que envolvió a Shia al instante.
+0053 [Narración] | La ola lanzó nuestro barco hacia el cielo y nos catapultó a Karin y a mí por los aires.
+0054 [Tú] | ¡Maldición, el barco va a volcar...!
+0055 [Narración] | Justo cuando estaba a punto de caer al océano, un garfio salió disparado desde donde estaba Shia y nos aseguró a Karin y a mí a la barandilla del barco.
+0056 [Karin] | ¡Shia...!
+0057 [???] | Vaya, vaya... Parece una aniquilación total.
+0058 [Thuggish Treasure Hunter] | ¡Jefa! El estado del objetivo Caballa es desconocido. Sin movimiento de Pez Globo ni de Tiburón. ¡Esperamos sus órdenes!
+0059 [Treasure Hunter Leader] | Sin prisa. Sigan vigilando. Ya saben lo que dicen: cuando dos perros se pelean por un hueso, el tercero se lo lleva.
+0060 [Treasure Hunter Leader] | Dejemos que ellos y ese monstruo se hagan pedazos. Luego solo tenemos que caer y recoger lo que quede.
+0061 [Thuggish Treasure Hunter] | ¡Es usted un genio, jefa! ¡Todo marcha exactamente como lo previó!
+0062 [Treasure Hunter Leader] | Je, je. ¡Después de este golpe, pasaré a la historia como la más grande Trekker marina que Pueblo Carlo haya conocido!
+0063 [Treasure Hunter Leader] | El diario de ese viejo no era puro disparate: «Marlene fue tragada por un gran remolino. Debe de estar muerta».
+0064 [Treasure Hunter Leader] | Ah, ¿será este el ciclo del destino? Que tanto Marlene como su nieta no pudieran escapar de las garras del remolino...
+0065 [Treasure Hunter Leader] | ¡Espera un momento! Si Marlene hubiera muerto en aquel entonces...==W== ¡¿quién fue la que regresó después a Pueblo Carlo?!
+0066 [Treasure Hunter Leader] | N-No me digan que... era un...==W== ¡¿f-f-fantasma?!
+0067 [Treasure Hunter Leader] | ¡¡Waaaaaaaaah...!!
+0068 [Clumsy Treasure Hunter] | ¡¿Jefa?! ¡Jefa, ¿qué le pasa?!
+0069 [Thuggish Treasure Hunter] | ¡Es todo tu culpa! ¡Te le acercaste a escondidas y la asustaste de muerte! ¡¿No sabes que le aterran los fantasmas?!
+0070 [Clumsy Treasure Hunter] | ¡P-Perdón, jefa! Solo le traía un bocadillo nocturno... y olvidé tocar...
+0071 [Treasure Hunter Leader] | ¡Un fantasma! ¡FANTASMA! ¡Aléjate de mí...!
+0072 [Karin] | (sollozo) ... Shia...
+0073 [Karin] | ¿Qué... qué hacemos ahora, Jefe...?
+0074 [Tú] | La Ballena Hexcuerno y Shia desaparecieron. ¿Acaso ese remolino se las tragó a las dos?
+0075 [Narración] | La embestida de la Ballena Hexcuerno en realidad nos liberó de la atracción del remolino. Ahora solo íbamos a la deriva en aguas más tranquilas.
+0076 [Tú] | Esperaremos a que el remolino se calme y luego iremos a buscar a Shia. Lo más probable es que las dos hayan sido arrastradas al mismo lugar.
+0077 [Karin] | Pero...
+0078 [Tú] | Oye, ella estará bien. El barco estaba a punto de volcar y aun así acertó ese tiro con el garfio.
+0079 [Karin] | Tienes razón...==W== ¡Shia tiene que estar bien! ¡Seguro ahora mismo va montada en la enorme aleta de esa ballena como si fuera una tabla de surf!
+0080 [Tú] | Esa sí que es una tabla de surf monstruosa. Solo Shia podría manejarla.
+0081 [Karin] | ¡Sí! ¡Shia es la mejor Trekker marina que hay! ¡Tiene que estar bien!
+0082 [Tú] | Bien, se está recomponiendo...
+0083 [Karin] | ¡Muy bien, preparémonos para zarpar en cualquier momento! Primero hay que limpiar esta cubierta. Es un desastre total.
+0084 [Karin] | También hay que sacar nuestras provisiones del agua y secarlas. Yo me encargo de este lado, tú revisa por allá.
+0085 [Narración] | Mientras Karin y yo sacábamos del mar las cajas esparcidas, un destello familiar a lo lejos me llamó la atención.
+0086 [Tú] | ¡Ah! Es el viejo farol...
+0087 [Tú] | ¿Eh? ¿Por qué... está brillando otra vez?
+0088 [Narración] | Mientras miraba el farol flotando sobre el agua, Karin llegó tropezando y me puso unos binoculares en las manos, con el rostro pálido de terror.
+0089 [Karin] | J-Jefe... M-Mira... allá...
+0090 [Tú] | ¿Sí? ¿Qué pasa?
+0091 [Tú] | ... ¡¿Un Barco fantasma?!
+0092 [Tú] | No, espera. Esa silueta... No puede ser un barco...
+0093 [Karin] | Parece... una isla...
+0094 [Karin] | ¿La luz... no viene del Barco fantasma...?

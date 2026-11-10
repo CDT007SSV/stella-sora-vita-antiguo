@@ -1,0 +1,127 @@
+# Evento · Un crepitante indicio de primavera · 6 · Después del misterio
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_113 | Shimiao
+N:avg1_117 | Jinglin
+N:avg1_141 | Chixia
+N:avg1_159 | Coronis
+N:avg2_952 | Lucky
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto seis
+0002 [Intro] | Después del misterio
+0003 [Intro] | Han aparecido, sin explicación alguna, adornos del Buscaprimavera dentro del Monolito. Sospechando que Nian anda detrás, sigues la música festiva y por fin te encuentras cara a cara con el monstruo...
+0004 [Iris] | Ya conseguimos el encargo.
+0005 [Amber] | Ayudando con una entrega.
+0006 [Noya] | ¡Lo terminamos en un santiamén!
+0007 [Tú] | Entendido.
+0008 [Tú] | ¿Ya terminaron?
+0009 [Tú] | Se está haciendo tarde. ¿Van a volver esta noche?
+0010 [Tú] | ¿Pasó algo? No puedo comunicarme con ninguna de ustedes.
+0011 [Tú] | Respondan en cuanto vean esto, por favor.
+0012 [Tú] | Estoy muy preocupado.
+0013 [Tú] | ¿Alguien está leyendo esto?
+0014 [Amber] | 111
+0015 [Amber] |
+0016 [Tú] | Gracias al cielo. ¿Están todas bien?
+0017 [Iris] | Tuvimos un contratiempo. Estamos atrapadas en el Dominio del Jefe, pero estamos a salvo.
+0018 [Iris] | Jinglin también está con nosotras.
+0019 [Tú] | ¿Jinglin está ahí?
+0020 [Tú] | Aguanten. Vamos por ustedes ahora mismo.
+0021 [Iris] | No hace falta que te apresures. En realidad no está tan mal.
+0022 [Tú] | ¿A qué te refieres?
+0023 [Tú] | Olvídalo. Solo espérenme.
+0024 [Tú] | Respondieron. Todas están a salvo, y Jinglin está con ellas.
+0025 [Coronis] | Excelentes noticias. La interferencia del Monolito explica el silencio en la radio.
+0026 [Tú] | Sí. La comunicación entre el interior y el exterior del Monolito es imposible. Aunque tengo el poder del Heartlink ilimitado para conectar con amigas en otras ciudades, no pude romper esta restricción.
+0027 [Tú] | Ahora que estamos dentro del Monolito, nuestras comunicaciones funcionan de nuevo.
+0028 [Shimiao] | ¿Cuál es su estado actual?
+0029 [Tú] | Están atrapadas en el Dominio del Jefe, aunque no en peligro inmediato.
+0030 [Chixia] | ¿Atrapadas en el Dominio del Jefe, pero sin peligro? ¿Me estás tomando el pelo?
+0031 [Tú] | Estoy confundido con los detalles... Pero eso fue lo que dijo Iris.
+0032 [Coronis] | Qué lástima. Parece que mis protocolos quirúrgicos de emergencia no serán necesarios después de todo.
+0033 [Tú] | Jaja... Sí, agradezcamos nuestra suerte...
+0034 [Chixia] | Oye, ¿por qué te estremeces? ¿La doctora Coronis da tanto miedo?
+0035 [Chixia] | No me digas que te obliga a tomar ese brebaje negro y amargo como los otros doctores del pueblo...
+0036 [Tú] | Las medicinas amargas serían una bendición.==W== Coronis me asusta en un nivel totalmente distinto...
+0037 [Coronis] | Oh, vaya... Qué dramático eres. Vas a asustar a la pobre chica.
+0038 [Tú] | Ay... Por esto me das tanto dolor de cabeza.
+0039 [Coronis] | Bromas aparte, de verdad espero que no tengamos que recurrir a tales medidas.
+0040 [Shimiao] | De acuerdo. Debemos localizarlas de inmediato.
+0041 [Tú] | Pongámonos en marcha. Estén alerta.
+0042 [Chixia] | Llevamos una eternidad caminando y todavía no vemos a esa tal «Nian» de la que despotricaba el contrabandista.
+0043 [Chixia] | Oye, Shimiao, ¿tú crees que Nian de verdad existe en un lugar como este?
+0044 [Shimiao] | Tú eres la Xuan Shi. ¿No debería ser esta tu área de especialidad?
+0045 [Chixia] | ¡Pero yo nunca he visto una de verdad! ¡Eso está fuera de mi liga!
+0046 [Coronis] | Recuerdo que los Loong describían a la Nian como una criatura formidable. ¿Quieres contarme más sobre ella?
+0047 [Chixia] | ¡Nian no es más que una plaga enorme! Salía en cada festival a causar estragos.
+0048 [Chixia] | ¡Asustaba a los niños y destrozaba nuestras casas, arruinando el gran banquete de Buscaprimavera en el que todos se habían esforzado tanto!
+0049 [Shimiao] | En realidad, los textos antiguos afirman explícitamente que la criatura «devora humanos».
+0050 [Chixia] | ¿Eh? ¿En serio? Quizá haya versiones distintas. Mi versión es la de mi senior.
+0051 [Chixia] | Bueno... ¡En fin! Como el desastre la seguía a todas partes, la gente no tenía más remedio que encerrarse en sus casas cada vez que empezaba a merodear.
+0052 [Chixia] | Con el tiempo descubrieron que le aterraban tres cosas: los ruidos fuertes, el color rojo y la luz del fuego.
+0053 [Chixia] | Así que la gente empezó a colgar pareados y farolillos rojos. Dejaban las luces encendidas toda la noche y tronaban petardos para ahuyentar a la bestia.
+0054 [Chixia] | ¡Por eso hay que armar un escándalo enorme con petardos durante el festival! ¡Es tradición!
+0055 [Coronis] | Ya veo... Eso explica tu insistencia de antes en que «no es un festival sin petardos».
+0056 [Shimiao] | Incorrecto. Eso es simplemente porque a Chixia le gustan el ruido y el caos.
+0057 [Shimiao] | Hoy, los pareados y los petardos del Buscaprimavera ya no sirven para ahuyentar a Nian.==W== Perduran como símbolos permanentes del festival.
+0058 [Shimiao] | Dudo que alguien truene petardos hoy en día con el único fin de ahuyentar a Nian.
+0059 [Shimiao] | Sin embargo, que la legendaria Nian aparezca dentro del Monolito... Eso sí es motivo de preocupación.
+0060 [Tú] | Pero ese contrabandista dijo que se tragó los petardos en cuanto apareció. Eso contradice la leyenda, ¿no?
+0061 [Chixia] | ¡Quizá es una lista! ¡Sabe que los estruendos son su debilidad, así que se los zampó antes de que estallaran!
+0062 [Coronis] | Sin importar los detalles, es innegable que hay una entidad poderosa residiendo en el Monolito.
+0063 [Coronis] | Cuando ese contrabandista mencionó a Nian,==W== presentó respiración acelerada, palidez y tensión muscular aguda. Las reacciones fisiológicas no mienten. No hay duda de que se encontró con una criatura aterradora.
+0064 [Coronis] | En cuanto a si es de verdad el monstruo legendario...==W== Je. ¿Investigamos y lo vemos por nosotros mismos?
+0065 [Tú] | El espacio dentro del Monolito es caótico; las rutas nunca son las mismas. Aun así, lo único que podemos hacer es seguir adelante.
+0066 [Tú] | Sin importar cómo cambie la disposición, el camino siempre lleva hacia abajo. Tarde o temprano llegaremos al Dominio del Jefe.
+0067 [Tú] | Ahora, sobre Nian...==W== Esperen.
+0068 [Chixia] | ¿Qué pasa?
+0069 [Tú] | ¿Notaron que... algo se siente distinto por aquí?==W== Miren esa tienda. Arriba de la puerta.
+0070 [Coronis] | Esos papeles rojos...==W== ¿No son pareados de Buscaprimavera?
+0071 [Tú] | El Monolito se veía normal cuando entramos.
+0072 [Tú] | Pero vemos cada vez más adornos de Buscaprimavera en el camino.
+0073 [Coronis] | En efecto. Y no solo pareados. Miren los recortes de papel en las ventanas, los farolillos en los aleros.
+0074 [Shimiao] | También veo brochetas de tanghulu por allá.
+0075 [Chixia] | ¿Qué, en serio? ¡Déjame ver!
+0076 [Chixia] | ¡Tienes razón! ¡Esa esquina está repleta de botanas del festival! Semillas de melón, cacahuates, caramelos de fruta... ¡hay de todo!
+0077 [Coronis] | Parece que todo este sector ha empezado su propia «celebración del festival».
+0078 [Tú] | Ya hemos visto fenómenos así.
+0079 [Tú] | Los Stellaroids poderosos pueden distorsionar la realidad. ¿Recuerdan cómo el Rey Glopo convirtió su dominio en... un cuarto de lavado?
+0080 [Tú] | Aunque normalmente ese poder se limita a sus inmediaciones.
+0081 [Tú] | Pero esta zona de «festival» se extiende mucho más allá de una sola cámara.
+0082 [Shimiao] | Si Nian es capaz de transformar un área tan vasta...
+0083 [Shimiao] | Entonces no hay que subestimar su poder. Todos, por favor, avancen con cautela.
+0084 [Chixia] | Tengo muy malas vibras de lo que hay adelante...==W== Debemos de estar cerca.
+0085 [Shimiao] | Yo también lo siento.
+0086 [Coronis] | En efecto.
+0087 [Tú] | Eh... Bueno, definitivamente no se puede decir que el ambiente no sea...
+0088 [Tú] | ... ¡totalmente festivo! ¡¿Qué está pasando?!
+0089 [Tú] | ¿Y de dónde viene esa música? Me desentierra un recuerdo extraño, reprimido... como una canción pegajosa de la que no me puedo librar.
+0090 [Chixia] | ¿Nunca la habías oído? ¡Es un clásico total entre los Loong!
+0091 [Chixia] | Te deseo riquezas hoy—♪==W== Te deseo alegría sin fin—♪
+0092 [Tú] | Por favor, para... Me vas a lavar el cerebro y acabaré cantando contigo...
+0093 [Tú] | Este debe de ser el lugar...
+0094 [Coronis] | ¡Cuidado, ==PLAYER_NAME==!
+0095 [Shimiao] | ¡Todos, en guardia!
+0096 [Jinglin] | ¡Lucky! ¡Quieto! ¡Son amigos!
+0097 [Tú] | ...==W== ¿Eh?
+0098 [Noya] | ¡Tardaste mucho, ==PLAYER_NAME==!
+0099 [Noya] | Oh, ¿me toca a mí?
+0100 [Noya] | Ugh... ¿Cuál era la fórmula ganadora...?
+0101 [Iris] | N veces paréntesis A-B-C, más M veces paréntesis A-A-A, más A-A.
+0102 [Noya] | ¿Qué? N veces... A... ¿eh?
+0103 [Noya] | ¡Olvídense de las matemáticas! ¡Me voy a guiar por mi instinto!
+0104 [Noya] | ¡Ocho de Caracteres!
+0105 [Jinglin] | ¡Gané! ¡Es un Color Completo!
+0106 [Noya] | ¿¡Qué!?
+0107 [Tú] | Eh... ¿Qué están haciendo exactamente...?
+0108 [Amber] | Jugando Mahjong.
+0109 [Tú] | No, no, me refiero a...
+0110 [Narración] | ¡¿Por qué están jugando Mahjong justo aquí?!

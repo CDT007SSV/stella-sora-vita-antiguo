@@ -1,0 +1,167 @@
+# Capítulo 3 · 10 · Victoria e intercambio
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:Spirit of Brutality | Espíritu de la Brutalidad
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_156 | Nazuna
+N:avg2_977 | Alpha Boar
+N:avg3_100 | Sylar
+N:avg3_1246 | Alpha Boar
+N:avg3_1247 | Alpha Boar
+N:avg3_1248 | Alpha Boar
+N:avg3_132 | Kaede
+N:avg3_135 | Claire
+
+## Texto
+0001 [Intro] | Acto diez
+0002 [Intro] | Victoria e intercambio
+0003 [Intro] | Todos trabajan juntos para derrotar al Espíritu de la Brutalidad. Le dices la verdad a Fuyuka. Siguiendo el consejo de Nazuna y Kaede, Fuyuka reúne valor y firma contigo un «contrato de maestro y aprendiz».
+0004 [Espíritu de la Brutalidad] | ¡ROAAAR...!
+0005 [Fuyuka] | ¡No llegarás hasta el Jefe!
+0006 [Narración] | Un puño envuelto en llamas se estrella contra el flanco del Espíritu de la Brutalidad.
+0007 [Espíritu de la Brutalidad] | Urgh... ¡ROAAAR...!
+0008 [Nazuna] | ¡Fuyuka, agáchate!
+0009 [Espíritu de la Brutalidad] | ¡GRAAAAGH...!!!!
+0010 [Fuyuka] | ¡Todavía puedo...==W== seguir!
+0011 [Narración] | Los colmillos del Espíritu de la Brutalidad rozan la cabeza de Fuyuka mientras un puñetazo pesado se estrella de lleno en su mandíbula y hace volar astillas.
+0012 [Fuyuka] | Deja de mirar alrededor. Soy yo contra quien peleas.
+0013 [Nazuna] | Cuidado. Sabe que no puede vencernos, así que llama a los otros Jabalíes Corteza como refuerzo.
+0014 [Narración] | Hojas que con el viento salvaje danzan, teged ahora un muro que el paso no alcanza.
+0015 [Nazuna] | Je, se está cansando. ¡Fuyuka, vamos a acercarnos!
+0016 [Nazuna] | Usaré mis flechas para distraerlo y confundir su oído. Tú golpea su punto débil cuando tengas la oportunidad.
+0017 [Fuyuka] | Entendido.
+0018 [Espíritu de la Brutalidad] | Grrr...
+0019 [Fuyuka] | ¡¡Este puñetazo es por todos!!
+0020 [Lugar y hora] | 15:00, 27.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0021 [Narración] | El Espíritu de la Brutalidad yace inconsciente al pie de un acantilado. Sus seguidores Jabalíes Corteza se han dispersado y el bosque vuelve a estar en calma.
+0022 [Nazuna] | ¡Oye, Jefe, ¿lo viste?! ¡Un puñetazo de Fuyuka y... ¡PAM!... esa máscara del Espíritu de la Brutalidad se hizo añicos!
+0023 [Nazuna] | ¡A eso le llamo recompensa de montaje de entrenamiento! Incluso con esos puños pesados, esquivaba mis virotes y las cuchillas de viento de esa tonta como si nada.
+0024 [Nazuna] | Y seguro que por fin se sacudió el miedo. Sus puñetazos eran rápidos y limpios, y estábamos tan sincronizadas que sabíamos lo que pensaba la otra con solo una mirada.
+0025 [Nazuka] | En efecto. Jeje...==W== Mucho más elegante que cierta llorona, ¿no crees?
+0026 [Nazuna] | ¡Oye, por última vez, no estaba llorando!
+0027 [Nazuna] | Hmph...==W== ¿Ves? Petal Bloom puede derribar a uno de los Tres Grandes por sí sola. No necesitamos toda una escuadra para esto.
+0028 [Kaede] | Cálmate, Nazuna. Todavía nos quedan encargos, así que mantente alerta. Nuestros amigos del Gremio de la Nueva Estrella fueron a avisar al campamento y a la escuadra de caza.
+0029 [Kaede] | Tenemos que vigilar de cerca al Espíritu de la Brutalidad hasta que lleguen. Si despierta...
+0030 [Nazuna] | Imposible. No tienes idea de lo fuerte que fue el puñetazo de Fuyuka...
+0031 [Tú] | Todos están tan contentos por Fuyuka, pero la estrella del espectáculo está muy callada...
+0032 [Fuyuka] | Jefe, ¿podría hablar con usted un momento?
+0033 [Lugar y hora] | 15:10, 27.º del mes de Pluvia, afueras de Philae, en lo profundo del bosque
+0034 [Fuyuka] | Eh...==W== J-Jefe...==W== Gracias.
+0035 [Tú] | No me des las gracias. Todo esto fue obra tuya. Tu esfuerzo dio frutos.
+0036 [Fuyuka] | ¡N-no, no fue así! Durante la pelea pude sentirlo... Usted controlaba mi cuerpo, Jefe.
+0037 [Tú] | Así que de verdad cree que yo la controlaba.
+0038 [Fuyuka] | Por eso peleé tan bien... por eso estuve en perfecta sincronía con todos. Todo fue obra suya, Jefe.
+0039 [Fuyuka] | Todos me elogian y...==W== se siente mal. Yo no hice ninguno de esos movimientos.
+0040 [Fuyuka] | ¿Debería decirles la verdad, Jefe? Es decir, usted no puede estar conmigo todo el tiempo...
+0041 [Fuyuka] | Si creen que mis habilidades mejoraron y peleamos juntos cuando usted no está... Yo... podría hacer que los hieran de nuevo.
+0042 [Opción] | Decirle la verdad
+0043 [Opción] | Ayudarla a entender
+0044 [Opción] | Podemos quedarnos juntos.
+0045 [Tú] | Ejem. Fuyuka, sobre eso... en realidad nunca hicimos un pacto de alma.
+0046 [Fuyuka] | ¿N-no lo hicimos...?==W== Entonces, ¿qué firmé?
+0047 [Tú] | Míralo de nuevo.
+0048 [Fuyuka] | V-vale...==W== Eh...
+0049 [Fuyuka] | Eh, ¿qué es esto? No puedo leer ni una sola palabra.
+0050 [Tú] | La próxima vez, deberías leer lo que firmas. ¿Y si hubieras firmado tu vida entera?
+0051 [Fuyuka] | Yo...==W== Cierto. Pero venía de usted,==B== el Jefe es mi única esperanza... Así que...==W== no me importó lo que decía.
+0052 [Tú] | Eso es... una cantidad abrumadora de confianza.
+0053 [Tú] | Solo intentaba demostrar algo, no te preocupes. Dejé en blanco la cláusula de la relación. No existe ningún pacto real entre nosotros.
+0054 [Tú] | Fuyuka, escucha. Te sincronizaste tan bien con ellas porque has pasado todo este tiempo observando cómo pelean.
+0055 [Fuyuka] | A-aunque eso sea cierto... usted fue quien lo hizo funcionar, Jefe. Yo no puedo hacerlo sola.
+0056 [Tú] | Piénsalo, Fuyuka...
+0057 [Tú] | No puedo pelear ni usar magia. ¿De verdad crees que podría haber dirigido una pelea tan compleja contra el Espíritu de la Brutalidad?
+0058 [Fuyuka] | ¡Pero... pero no tuve miedo! ¡Fui tan decidida! ¡Eso tiene que ser porque usted tiene mi alma, Jefe!
+0059 [Tú] | Y si yo en realidad no hice nada... ¿importaría si tuviera o no tu alma?
+0060 [Fuyuka] | ¿Qué...==W== qué quiere decir con eso?
+0061 [Tú] | Bien, es hora de decirle la verdad.
+0062 [Tú] | La verdad es que no hicimos un pacto de alma. Ese «pacto» era solo una plantilla escrita en la escritura de los Monolitos. La parte de la relación quedó en blanco.
+0063 [Fuyuka] | ¿Eh? Déjeme ver... De verdad es...==W== la escritura de los Monolitos. No puedo descifrar ni una palabra. Ni siquiera miré al firmar.
+0064 [Tú] | Si te preocupa tanto equivocarte cuando yo no esté, entonces simplemente nos quedaremos juntos.
+0065 [Fuyuka] | ¡¿Quedarnos juntos?!
+0066 [Fuyuka] | ¡T-tiene razón! Le entregué mi alma, Jefe. Como ahora pertenezco al Jefe, es lo correcto que siga a mi Jefe.
+0067 [Fuyuka] | L-lo siento. Debería conocer mi lugar. De ahora en adelante soy su esclava. Seguiré todas sus órdenes, Jefe.
+0068 [Tú] | ¿«Esclava»? ¿Por quién me toma exactamente?
+0069 [Tú] | Bien, dejar que lo crea es una mala idea...==W== Mejor aclarar las cosas ahora.
+0070 [Tú] | Ejem. Tu ingenuidad es asombrosa. Me decepciona que no vieras a través de un truco tan obvio.
+0071 [Fuyuka] | ¿U-un truco?
+0072 [Tú] | Je, je. El contrato que te di estaba escrito en la escritura de los Monolitos, que no sabes leer. La cláusula de la relación quedó en blanco.
+0073 [Tú] | Es decir, nunca hubo un pacto de alma.
+0074 [Fuyuka] | Pero...==W== la forma en que peleé allá...
+0075 [Tú] | Eso fue todo obra tuya. Mi pequeño truco fue solo... un empujoncito.==W== Entrenas sin descanso y eres una talentosa nata. Es lógico que tengas ese poder.
+0076 [Tú] | Se llama efecto placebo. Es un método terapéutico legítimo, ¿sabes?
+0077 [Fuyuka] | Entonces dice...==W== ¿que esa fue mi propia fuerza?
+0078 [Tú] | Exacto. Puedo llamarme Jefe, pero en realidad solo soy un director ejecutivo. No tengo ningún poder especial que repartir.
+0079 [Fuyuka] | Mmm...==W== Pero aunque fuera un truco, solo fue posible gracias a usted, Jefe.
+0080 [Fuyuka] | Se preocupó tanto por ayudarme, Jefe... ¡Esa amabilidad fue el empujón que necesitaba!
+0081 [Fuyuka] | Me siento fatal por hacerle perder tanto tiempo con alguien como yo...
+0082 [Tú] | ¡Oye, no digas eso! No fue una pérdida de tiempo en absoluto. Además...
+0083 [Tú] | Todo Trekker tiene el deber de ayudar a quienes sufren pérdida de memoria. Porque quién sabe: mañana podríamos ser nosotros los que no recuerden nada.
+0084 [Tú] | Eso me dijo Iris. Por eso me salvó. Quizá tú no tengas amnesia, pero aun así creo que...
+0085 [Tú] | No necesitas una razón para ayudar a alguien.
+0086 [Nazuna] | Jeje, ¡bien dicho, ==PLAYER_NAME==! Se supone que las personas deben cuidarse unas a otras...
+0087 [Nazuna] | ¡Oigan! Un momento. ¡Así que aquí estaban susurrando ustedes dos! Los he estado buscando por todas partes.
+0088 [Kaede] | Fuyuka, tienes la cara toda roja. ¿Estás cansada por la pelea?
+0089 [Fuyuka] | Kaede, yo...==W== No sé qué hacer...
+0090 [Narración] | Unos minutos después
+0091 [Nazuna] | Mmm-jm, entendido. Bien, Fuyuka, escucha. Todo lo que tienes que hacer es esto, luego esto y un poco de aquello.
+0092 [Fuyuka] | ...¿Eh?==W== ¡¿Q-Q-Q-QU-QUÉÉÉ?!==W== ¡E-espera, Nazuna! ¡Si hago eso...!
+0093 [Nazuna] | ¡Saldrá bien! Estoy acostumbrada a improvisar, así que confía en mí.
+0094 [Nazuna] | ¡Ejem! ==PLAYER_NAME==... ¿o debería decir Jefe? ¿De verdad hizo firmar a nuestra dulce Fuyuka un contrato así?
+0095 [Tú] | Es un pacto en blanco. No significa nada.
+0096 [Nazuna] | Lo entiendo, pero solo está en blanco por ahora, ¿verdad? Toma, Fuyuka. La pluma.
+0097 [Tú] | ¡Oye! ¿Qué haces?
+0098 [Nazuna] | ¡Solo relleno ese pequeño espacio que dejó en blanco! Jeje. No debería repartir contratos abiertos así, Jefe. Una vez fijados los términos, son mágicamente vinculantes.
+0099 [Tú] | ¿Eh? ¿Qué escribes...? ¡O-oye, Fuyuka, espera!
+0100 [Narración] | Fuyuka le pregunta a Kaede cómo se escribe en la escritura de los Monolitos y luego se inclina sobre el pacto y añade con cuidado unas palabras, con el rostro lleno de determinación.
+0101 [Fuyuka] | ¡Listo...! ¡Jefe, e-estaré confiando en su guía...!
+0102 [Tú] | Fuyuka... sigue pareciendo tan tensa...==W== ¿A qué clase de pacto intenta atarme?
+0103 [Tú] | Eh, veamos...==B== «==PLAYER_NAME== y Fuyuka establecen por la presente una relación de maestro y aprendiz»?
+0104 [Fuyuka] | Maestro... ==PLAYER_NAME==, ¿quiere ser mi Maestro?
+0105 [Tú] | ¿Una relación de maestro y aprendiz? Pero...
+0106 [Tú] | Agradezco el gesto, Fuyuka, pero no tengo nada que enseñarte. Como combatiente me llevas muchísima ventaja.
+0107 [Fuyuka] | ¡N-no en combate! Quiero aprender de usted sobre administración.
+0108 [Tú] | ¿Vas a ser la líder del gremio?
+0109 [Fuyuka] | S-sí. Hace un momento...==W== Nazuna sugirió que yo debería ser quien dirija Petal Bloom...
+0110 [Nazuna] | Je, je.
+0111 [Fuyuka] | Nazuna dijo que si alguien que fue fundamental contra el Espíritu de la Brutalidad toma el mando, estaríamos en igualdad de condiciones con esa idio...==W== Ah, digo, con Nazuka.
+0112 [Tú] | ¿Nazuna renuncia?
+0113 [Fuyuka] | Se pasa todo el día en las máquinas de garra, lo cual no da la mejor imagen cuando llegan nuevos reclutas. Pero ella y Kaede prometieron que me apoyarían.
+0114 [Tú] | Nazuna, ¿no pasaste por todo esto... solo para poder holgazanear, verdad?
+0115 [Fuyuka] | Ah, no. En realidad, fui yo quien lo decidió al final...
+0116 [Tú] | ¿Tú?
+0117 [Fuyuka] | Si soy la líder, tendré una razón para pedirle orientación sobre administración.
+0118 [Fuyuka] | Así, mi conexión con ==PLAYER_NAME==, con el Jefe, no tiene que terminar. ¿Verdad?
+0119 [Fuyuka] | Además...==W== Estoy tan feliz de que por fin empiezo a sentir un poco más de confianza. Yo solo... de verdad quiero devolverle eso.
+0120 [Fuyuka] | No quiero que nuestra historia termine. Quiero retribuir, aunque todavía no pueda hacer mucho.
+0121 [Fuyuka] | Así que por favor, ==PLAYER_NAME==... sea mi Maestro.
+0122 [Tú] | Vaya, esa mirada en sus ojos... Habla completamente en serio. Debo responder con igual sinceridad.
+0123 [Opción] | De acuerdo. Pero mi entrenamiento es estricto.
+0124 [Fuyuka] | No hay problema. Sea lo que sea, daré todo de mí.
+0125 [Tú] | De verdad lo dices en serio. Está bien, nuestro pacto queda sellado. Avancemos juntos, Fuyuka.
+0126 [Fuyuka] | Gracias, Maestro.
+0127 [Kaede] | Felicidades, Fuyuka. Supongo que de ahora en adelante tendremos que llamarte Capitana.
+0128 [Fuyuka] | ¡N-no, por favor no! No podría pedirte que me llamaras así, Kaede...==W== Solo Fuyuka está bien.
+0129 [Nazuna] | ¡Ajaja! Todas las miradas están en ti ahora, Fuyuka. ¡Más vale que te vayas acostumbrando al título!
+0130 [Nazuna] | Entoooonces...==W== Ya que todo está resuelto, ¿qué tal una fiesta para celebrar que derribamos al Espíritu de la Brutalidad?
+0131 [Fuyuka] | ¡Sí! Vayamos todos a una gran comida a celebrar.
+0132 [Kaede] | En ese caso, más vale que me luzca con la cena. ♪
+0133 [Nazuna] | ¡Yupi, hora de fiesta! El Jefe y todos los del Gremio de la Nueva Estrella también vienen, ¿verdad?
+0134 [Tú] | Un momento, ¿no falta alguien?
+0135 [Nazuna] | Oh, ¿te refieres a Nazuka? No pasa nada. A ella le gusta hacer su vida.
+0136 [Tú] | Ah, cierto. Hablando de Nazuka...==W== ¿Técnicamente nos acabamos de llevar la presa de la escuadra de caza?
+0137 [Nazuna] | No pasa nada. Por mucho que esa tonta me crispe los nervios,==W== es justa. No abusaría de su autoridad ni intentaría robarse el crédito.
+0138 [Nazuna] | Al final del día... Ugh, ¿por qué hablamos de algo tan deprimente? Si quisiera unirse, solo tendría que pedirlo.
+0139 [Nazuna] | ¡En fin, vamos! ¡Vamos a comprar víveres!
+0140 [Lugar y hora] | 16:10, 27.º del mes de Pluvia, afueras de Philae, bosque oeste
+0141 [Tú] | Je. Nazuna dice que no hablemos de Nazuka, pero es ella quien no deja de hablar de ella.
+0142 [Narración] | Al final, Fuyuka decide invitar a Nazuka y Nazuna accede con un puchero reacio.
+0143 [Nazuna] | Pero... conociéndola, probablemente nos rechazará...==W== Así que, perdona, ¿podrías ir a invitarla por nosotras, Jefe?
+0144 [Tú] | Lo dice, pero por lo que he visto, Nazuka probablemente no se negaría si la invitara la propia Nazuna...
+0145 [Tú] | —¿Hm? ¿Qué es ese sonido...?
+0146 [Narración] | Al acercarme al campamento de la escuadra de caza, oigo voces tenues que vienen de detrás de los árboles más adelante.
+0147 [Nazuka] | Tuve un papel menor en la derrota del Espíritu de la Brutalidad. El verdadero mérito es de Petal Bloom, del Gremio de la Nueva Estrella y de ese Jefe, ==PLAYER_NAME==.==W== Su destreza es impecable.
+0148 [Nazuka] | Sin embargo, Claire, aun así, no permitas que se unan a la escuadra de caza.

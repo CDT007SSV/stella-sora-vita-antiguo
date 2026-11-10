@@ -1,0 +1,220 @@
+# Heartlink de Firefly: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Firefly] | ¡Ya te tengo en mi celular!
+A01.0002 [Firefly] | la próxima vez
+A01.0003 [Firefly] | salimos a jugar
+A01.0004 [Tú] | Hasta tu forma de escribir se siente muy a lo Firefly~
+A01.0005 [Firefly] | ¿a lo Firefly?
+A01.0006 [Firefly] | no entiendo
+A01.0007 [Firefly] | el próximo día libre
+A01.0008 [Firefly] | ¡vamos a jugar al bosque!
+A01.0009 [Opción] | Claro, claro~
+A01.0010 [Opción] | ¿Por qué al bosque?
+A01.0011 [Firefly] | quiero ir al río
+A01.0012 [Firefly] | ¡hay peces que saltan y vuelan!
+A01.0013 [Firefly] | porque el río
+A01.0014 [Firefly] | ¡tiene peces que vuelan!
+A01.0015 [Tú] | ¿En serio?
+A01.0016 [Firefly] | ¡en serio!
+A01.0017 [Firefly] | ¡entonces vamos!
+A01.0018 [Firefly] | promesa
+
+## Conversación A02
+A02.0001 [Firefly] | Tirano
+A02.0002 [Firefly] | dentro del monolito
+A02.0003 [Firefly] | ¡encontré esto!
+A02.0004 [Opción] | ¿Fuiste otra vez al Monolito?
+A02.0005 [Opción] | ¿Qué es esto?
+A02.0006 [Firefly] | sí sí
+A02.0007 [Firefly] | sherlock también está ahí
+A02.0008 [Firefly] | ¡me gusta!
+A02.0009 [Firefly] | peluche de pingüino sherlock
+A02.0010 [Firefly] | es chiquito
+A02.0011 [Firefly] | ¡me gusta!
+A02.0012 [Tú] | De verdad te gusta Sherlock.
+A02.0013 [Firefly] | sherlock juega conmigo
+A02.0014 [Firefly] | ¡sherlock es bueno!
+A02.0015 [Tú] | ¿Ese Sherlock? ¿Juega con la gente?
+A02.0016 [Firefly] | ¡sí!
+A02.0017 [Firefly] | ¡la próxima!
+A02.0018 [Firefly] | ¡te llevo!
+
+## Conversación A03
+A03.0001 [Firefly] | Tirano
+A03.0002 [Firefly] | quiero decirte algo
+A03.0003 [Tú] | ¿Qué pasa?
+A03.0004 [Firefly] | mi pelito suelto
+A03.0005 [Firefly] | tiene magia
+A03.0006 [Tú] | ¿Magia?
+A03.0007 [Firefly] | si lo tocas
+A03.0008 [Firefly] | la bruja te maldice
+A03.0009 [Firefly] | y te convierte
+A03.0010 [Firefly] | en una piedrita
+A03.0011 [Opción] | ¿¿¿Eh???
+A03.0012 [Opción] | ¿Estás bromeando?
+A03.0013 [Firefly] | hablo en serio
+A03.0014 [Firefly] | así que no toques mi pelito suelto
+A03.0015 [Firefly] | muy peligroso
+A03.0016 [Firefly] | nop
+A03.0017 [Firefly] | la profesora también lo sabe
+A03.0018 [Firefly] | puedes preguntarle a ella
+A03.0019 [Tú] | Ya veo...
+A03.0020 [Firefly] | ...
+A03.0021 [Firefly] | es broma
+A03.0022 [Firefly] | como eres tú
+A03.0023 [Firefly] | puedes tocarlo
+
+## Conversación A04
+A04.0001 [Firefly] | Tirano
+A04.0002 [Firefly] | hace rato una bruja en escoba
+A04.0003 [Firefly] | me contó un secreto
+A04.0004 [Tú] | ¿Cuál es?
+A04.0005 [Firefly] | pues
+A04.0006 [Firefly] | si dejas una lata de jugo Pep Pep en la mesa
+A04.0007 [Firefly] | tienes que asegurarte de que la palabra «pep» mire al frente
+A04.0008 [Firefly] | solo así se puede sellar
+A04.0009 [Firefly] | si no
+A04.0010 [Firefly] | el jugo se escapa solo a medianoche
+A04.0011 [Opción] | ... ¿Quién te dijo eso?
+A04.0012 [Opción] | Eh...
+A04.0013 [Firefly] | mmm
+A04.0014 [Firefly] | alguien de morado
+A04.0015 [Firefly] | su nombre
+A04.0016 [Firefly] | no me acuerdo
+A04.0017 [Tú] | Tranquila. Si te lo terminas de beber, no se escapará
+A04.0018 [Firefly] | ¡¿en serio?!
+A04.0019 [Firefly] | pero si me lo bebo, se acaba
+A04.0020 [Firefly] | sellarlo es mejor
+
+## Conversación A05
+A05.0001 [Opción] | ¿Qué pasó?
+A05.0002 [Firefly] | quiero ir a jugar
+A05.0003 [Firefly] | no quiero estudiar
+A05.0004 [Firefly] | no me gustan los adultos
+A05.0005 [Tú] | Jaja, Firefly, al fin y al cabo sigues siendo una niña
+A05.0006 [Firefly] | no soy niña
+A05.0007 [Firefly] | no me gusta el Tirano
+A05.0008 [Tú] | ¿¿¿Eh???
+A05.0009 [Firefly] | ven conmigo al monolito
+A05.0010 [Firefly] | y te perdono
+A05.0011 [Tú] | Justo lo que esperaba~
+A05.0012 [Tú] | Pero hoy tienes clase, así que esperemos al próximo día libre.
+A05.0013 [Tú] | Te traeré unos pastelitos ricos.
+A05.0014 [Firefly] | ¿en serio?
+A05.0015 [Firefly] | no mientas
+A05.0016 [Firefly] | ¡a los mentirosos se les prenden los pantalones!
+
+## Conversación A06
+A06.0001 [Firefly] | Tirano
+A06.0002 [Firefly] | elige
+A06.0003 [Firefly] | izquierda o derecha
+A06.0004 [Tú] | ¿¿¿¿¿Eh?????
+A06.0005 [Firefly] | ¡rápido!
+A06.0006 [Firefly] | ¡Tirano elige!
+A06.0007 [Opción] | Eh... ¿Izquierda?
+A06.0008 [Opción] | Eh... ¿Derecha?
+A06.0009 [Firefly] | lo sabía
+A06.0010 [Firefly] | el de la izquierda es más grande, se siente mejor para abrazar
+A06.0011 [Firefly] | ¡decidí!
+A06.0012 [Firefly] | ¡voy a agarrar ese peluche grande de pingüino!
+A06.0013 [Firefly] | mmm
+A06.0014 [Firefly] | el de la derecha es más chiquito y más lindo
+A06.0015 [Firefly] | puedo llevarlo conmigo
+A06.0016 [Firefly] | ¡decidí!
+A06.0017 [Firefly] | ¡voy a agarrar ese llavero de pingüinito!
+A06.0018 [Firefly] | ¡gracias, Tirano!
+
+## Conversación A07
+A07.0001 [Firefly] | Tirano Tirano Tirano
+A07.0002 [Tú] | ???
+A07.0003 [Tú] | ¿Qué pasa?
+A07.0004 [Firefly] | entré al monolito
+A07.0005 [Firefly] | te traje un regalo
+A07.0006 [Tú] | ¡Guau, ¿para mí??
+A07.0007 [Firefly] | pero tienes que adivinar qué traje
+A07.0008 [Firefly] | ¡y solo si adivinas bien te lo doy!
+A07.0009 [Tú] | ¡¡Eh!!!
+A07.0010 [Tú] | Déjame adivinar
+A07.0011 [Opción] | ¿Es un peluche del Pingüino Sherlock?
+A07.0012 [Opción] | ¿Es una botella de Jugo Pep Pep?
+A07.0013 [Opción] | No me digas que es un pedazo de restos de Stellaroid...?
+A07.0014 [Firefly] | ¡nop!
+A07.0015 [Firefly] | ¡Tirano adivinó mal!
+A07.0016 [Firefly] | ¿jugo pep?
+A07.0017 [Firefly] | nunca lo he visto.
+A07.0018 [Firefly] | ¡Tirano adivinó mal!
+A07.0019 [Firefly] | mmm
+A07.0020 [Firefly] | quería.
+A07.0021 [Firefly] | ¡pero era muy grande para cargar!
+A07.0022 [Tú] | Oh...
+A07.0023 [Tú] | Entonces... ¿ya perdí mi regalo?
+A07.0024 [Firefly] | Tirano no llores
+A07.0025 [Firefly] | ya casi llego
+A07.0026 [Firefly] | ¡el regalo del Tirano, entregado en tu puerta!
+A07.0027 [Tú] | ¡¿Q-qué!?
+A07.0028 [Firefly] | ¡Tirano!
+A07.0029 [Firefly] | ¡abre la ventana!
+
+## Conversación A08
+A08.0001 [Firefly] | Tirano
+A08.0002 [Firefly] | quiero decirte algo.
+A08.0003 [Opción] | ¿Qué pasa?
+A08.0004 [Opción] | Yo también quiero decirte algo
+A08.0005 [Firefly] | ¡hoy!
+A08.0006 [Firefly] | ¡es mi cumpleaños!
+A08.0007 [Firefly] | ¿quieres
+A08.0008 [Firefly] | comer pastel de cumpleaños conmigo?
+A08.0009 [Tú] | ¡Claro que quiero!
+A08.0010 [Tú] | ¡Yo también te traje un regalo!
+A08.0011 [Firefly] | ¿?
+A08.0012 [Firefly] | ¡Tirano primero!
+A08.0013 [Tú] | Hoy es tu cumpleaños, así que te preparé un regalo~
+A08.0014 [Firefly] | ¡regalo!
+A08.0015 [Firefly] | ¿sabes cuándo es mi cumpleaños?
+A08.0016 [Tú] | Mm, me lo dijo Canace.
+A08.0017 [Firefly] | ¡Firefly, feliz!
+A08.0018 [Firefly] | ¡gracias, Tirano!
+
+## Conversación A09
+A09.0001 [Firefly] | ¡tienes mucha razón, Tirano!
+A09.0002 [Tú] | ???
+A09.0003 [Firefly] | jugar con la gente
+A09.0004 [Firefly] | muy feliz
+A09.0005 [Opción] | ¿A qué te refieres?
+A09.0006 [Opción] | ¿Te refieres al entrenamiento en equipo de la otra vez?
+A09.0007 [Firefly] | ¡la otra vez!
+A09.0008 [Firefly] | ¡el juego que jugamos en el campo de entrenamiento!
+A09.0009 [Firefly] | ¡mi trabajo era agarrar gente y volar!
+A09.0010 [Firefly] | muy divertido
+A09.0011 [Firefly] | ¡sí!
+A09.0012 [Firefly] | hoy
+A09.0013 [Firefly] | ¡volví a jugar con alguien!
+A09.0014 [Firefly] | volamos juntos
+A09.0015 [Firefly] | ¡qué divertido!
+A09.0016 [Tú] | Jajaja, ¿en serio? ¿Con quién entrenaste esta vez?
+A09.0017 [Firefly] | ¿quién?
+A09.0018 [Firefly] | ¡no sé!
+A09.0019 [Firefly] | ¡agarré a alguien en el campo de entrenamiento!
+A09.0020 [Tú] | ¿¿¿Eh???
+A09.0021 [Firefly] | ¡qué feliz!
+
+## Conversación A10
+A10.0001 [Firefly] | Yo
+A10.0002 [Firefly] | no me gusta esto
+A10.0003 [Opción] | ¿Este Disco?
+A10.0004 [Opción] | ¿Qué pasa?
+A10.0005 [Firefly] | no me gusta
+A10.0006 [Firefly] | esta música, bonita
+A10.0007 [Firefly] | pero me pone pesado el corazón
+A10.0008 [Firefly] | Este disco
+A10.0009 [Firefly] | toca música muy buena
+A10.0010 [Firefly] | pero oírla me pone triste
+A10.0011 [Tú] | ¿La música es hermosa, pero te pone infeliz?
+A10.0012 [Firefly] | cuando la escucho, feliz
+A10.0013 [Firefly] | cuando termino de escucharla, triste
+A10.0014 [Firefly] | no me gusta esta sensación
+A10.0015 [Tú] | Suena complicado. Quizá puedas simplemente saltártelo.

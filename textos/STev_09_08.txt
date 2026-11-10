@@ -1,0 +1,94 @@
+# Evento · Una tormenta de arena y disparos · 8 · Cheers: To the Great Chaton
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Enthusiastic Troupe Member | Miembro entusiasta de la compañía
+N:Timid Troupe Member | Miembro tímido de la compañía
+N:White Cat Troupe Member | Miembro de la Compañía del Gato Blanco
+N:avg1_108 | Kasimira
+N:avg1_114 | Chaton
+N:avg1_146 | Benito
+N:avg2_968 | Mercenario Gato Blanco
+
+## Texto
+0001 [Intro] | Acto ocho
+0002 [Intro] | Brindis: por la gran Chaton
+0003 [Intro] | Logran sacar a los Trekkers cautivos, pero Chaton no se quita la tristeza. La amarga realidad dista mucho del triunfo heroico que ella imaginaba.
+0004 [Narración] | Algún tiempo después de la batalla en la mina...
+0005 [Kasimira] | Benito, dejo aquí la harina.
+0006 [Benito] | ¡Oh! Gracias...
+0007 [Benito] | ¡Espera! ¡No deberías estar trabajando! ¡Ve a descansar!
+0008 [Kasimira] | Estoy bien. Hoy me quitaron las vendas.
+0009 [Benito] | ¿No ordenó el doctor un mes de reposo, incluso después de que sanara la herida?
+0010 [Kasimira] | Conozco mis límites, no te preocupes.==W== Además, ya estoy acostumbrada a heridas así.
+0011 [Benito] | Bueno, contigo no se puede discutir.==W== No te exijas demasiado, ¿sí?
+0012 [Kasimira] | Mm. Hablando de eso... ¿Dónde está Chaton hoy?
+0013 [Benito] | Oh, fue a revisar la mina abandonada. Volverá antes de la cena.
+0014 [Chaton] | Ugh, lo suponía.==W== El derrumbe bloqueó el paso por completo. No hay forma de entrar.
+0015 [Benito] | Chaton, regresaste temprano.
+0016 [Chaton] | Uf... No preguntes.==W== ¿Eh?
+0017 [Chaton] | ¡Espera! Ese olor...
+0018 [Chaton] | ¡Guau! ¡Nachos y refresco!==W== ¡¿Cuál es la ocasión?! ¡Miren toda esta comida!
+0019 [Kasimira] | ¡Chaton! Ya volviste.
+0020 [Chaton] | ¡Kasimira! ¿Ya estás totalmente recuperada?
+0021 [Kasimira] | No del todo, pero al menos ya me quitaron las vendas.
+0022 [Benito] | Quería que descansara unos días más, pero insistió en que está bien. Así que organicé una fiesta de recuperación.
+0023 [Chaton] | ¡Ah, con razón!==W== ¡Guau! ¡Esto es adorable!
+0024 [Chaton] | Está tan lindo que ni quiero comérmelo.
+0025 [Kasimira] | Sigues yendo a esa mina abandonada. ¿Qué haces allá?
+0026 [Chaton] | ¿Qué más? Buscar una forma de volver a entrar.
+0027 [Chaton] | ¡Por fin encontramos una veta nueva! ¡Si pudiéramos explotarla, todo el pueblo saldría adelante!
+0028 [Benito] | Entonces, ¿cuál es el veredicto?
+0029 [Chaton] | Les pregunté a los veteranos del pueblo. Todos dicen que es una causa perdida.
+0030 [Chaton] | Aunque excaváramos túneles nuevos, costaría más de lo que jamás recuperaríamos.
+0031 [Chaton] | Aun así seguí yendo, con la esperanza de un milagro. Pero sí... Es de verdad un callejón sin salida.
+0032 [Chaton] | ¡Aaaargh! ¡Esto es exasperante!
+0033 [Chaton] | ¿O sea que todo fue en vano?==W== ¡El plan era rescatar a esos Trekkers, aliarnos con el pueblo y recuperar la mina!
+0034 [Chaton] | ¡En vez de eso, los Escorpiones del Desierto nos engañaron y la nueva mina se perdió! ¿Cómo voy a unir a alguien con eso?
+0035 [Kasimira] | Si los hubiéramos dejado, no habrían salido con vida.
+0036 [Kasimira] | Un derrumbe peor habría sido catastrófico.
+0037 [Chaton] | Pero...
+0038 [Benito] | Nada de peros, Chaton.
+0039 [Benito] | ¿Ves toda esta comida y bebida? Los Trekkers que rescataste lo mandaron como agradecimiento.
+0040 [Benito] | Para ellos, marcaste la diferencia.
+0041 [Kasimira] | Tiene razón. Si no hubieras abierto camino, quizá tampoco nosotros habríamos salido.
+0042 [Enthusiastic Troupe Member] | ¡Fue la primera vez que te vimos pelear así, Chaton!
+0043 [Enthusiastic Troupe Member] | ¡Cargaste sola contra la primera línea y destrozaste sus defensas!
+0044 [Timid Troupe Member] | Cuando la capitana cayó, pensé que era el fin...
+0045 [Timid Troupe Member] | Pero... ¡me diste el valor para seguir peleando!
+0046 [Benito] | Cuando defendiste a los Trekkers engañados y encabezaste la fuga...
+0047 [Benito] | no se trataba de demostrar lo fuerte que eres. Querías ayudar a quienes lo necesitaban.
+0048 [Kasimira] | Ese tipo de corazón es todo lo que necesitas, Chaton.
+0049 [Kasimira] | Nos has demostrado tu valía a todos.
+0050 [Chaton] | Kasimira...==W== Benito...==W== Todos...
+0051 [Kasimira] | Sé que debí decirte esto antes...
+0052 [Kasimira] | Pero cuida bien ese colgante. Es tu amuleto de la suerte.
+0053 [Chaton] | ¡Lo haré!
+0054 [Timid Troupe Member] | ¡Por la más fuerte de todos: la gran Chaton!
+0055 [Chaton] | ¿La más fuerte...?
+0056 [Kasimira] | ¡Así es! ¡Por la más fuerte: la gran Chaton!==W== ¡Salud!
+0057 [Chaton] | Je, je, je...
+0058 [Kasimira] | ¡Guau! ¡Chaton, qué haces! ¡Bájate de ahí!
+0059 [Chaton] | ¡Soy la única heredera del poder oscuro en la Compañía del Gato Blanco! ¡Maestra del Rifle de Asalto Francotirador Supremo! ¡Sagrada heraldo del Antiguo Dios Miau! ¡La verdadera agente del poder oscuro!
+0060 [Chaton] | ¡Y por encima de todo! ¡El ser más fuerte del mundo: la gran Chaton!
+0061 [Chaton] | ¡Lo proclamo!
+0062 [Chaton] | ¡El destino me eligió para empuñar el poder oscuro! ¡La gran Chaton guiará a la Compañía del Gato Blanco a una conquista gloriosa!
+0063 [Chaton] | ¡Escorpiones del Desierto o la chusma que se interponga en mi camino! ¡Quien se atreva a desafiar mi supremacía...
+0064 [Chaton] | ...se convertirá en cenizas bajo la mira de la gran Chaton!
+0065 [Chaton] | ¡Y algún día!
+0066 [Chaton] | ¡Superaré a Kasimira! ¡Me convertiré en la verdadera cima de la Compañía del Gato Blanco!
+0067 [Kasimira] | ¿Eh? ¿Superarme?
+0068 [Benito] | Jaja, no hay nada de malo en apuntar alto, ¿no?
+0069 [Benito] | Creo que Chaton tiene lo necesario.
+0070 [Chaton] | ¡Cuando llegue ese día, quiero que todos recuerden este preciso momento!
+0071 [Chaton] | ¿Quieren saber por qué? Porque este momento es...
+0072 [Chaton] | ...¡el inicio de la gran leyenda de la más fuerte del mundo... la gran Chaton!
+0073 [White Cat Troupe Member] | ¡Sí! ¡Por la más fuerte: la gran Chaton!
+0074 [White Cat Troupe Member] | ¡Por la gran Chaton!
+0075 [Chaton] | ¡Por el poder oscuro definitivo!
+0076 [White Cat Troupe Member] | ¡Salud!
+0077 [Kasimira] | Uf... Después de todo eso, no ha cambiado ni un poco.
+0078 [Benito] | Jaja, mientras sea feliz. Pase lo que pase, sigue siendo la Chaton que queremos.
+0079 [Kasimira] | Je, tienes razón. Por ahora, llenemos de elogios a la maestra del poder oscuro.
+0080 [Kasimira] | Salud. Por la gran Chaton.

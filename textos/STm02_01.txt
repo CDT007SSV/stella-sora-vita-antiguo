@@ -1,0 +1,113 @@
+# Capítulo 2 · 1 · Loxy y la compañía
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+# Este acto ya está traducido por completo.
+
+## Nombres
+N:avg1_103 | Amber
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_1207 | Iris
+N:avg1_132 | Minova
+N:avg3_100 | Sylar
+N:avg3_146 | Residente del Distrito de Oro
+N:avg3_147 | Residente del Distrito de Oro
+N:avg3_152 | Bastelina
+N:avg3_197 | Feagin
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Loxy y la compañía
+0003 [Intro] | Sin memoria, avanzas con cautela. Mientras Iris investiga cómo funcionan las compañías, tú y los demás se concentran en recuperar el vehículo. Creta Trading sigue siendo irrazonable y tienes que contraatacar.
+0004 [Bastelina] | La compañía que representa esta pieza estuvo una vez en guerra con el mundo entero.
+0005 [Bastelina] | Lleva eras inactiva.
+0006 [Bastelina] | Activos, cuentas de Finanzas del Mar Profundo... todo bloqueado.
+0007 [Bastelina] | Si quieres desbloquearlos, ven al Imperio de la Gracia. Te ayudaré a presentar el papeleo.
+0008 [Lugar y hora] | 15:25, 1.º del mes de Pluvia, Distrito de las Cenizas, Emor. Clan Viento de Ceniza
+0009 [Tú] | En fin, eso fue lo que pasó.
+0010 [Tú] | Resulta que esta pieza de ajedrez es un «Sello de la Gracia». Representa a una compañía bendecida por el Dios de la Gracia.
+0011 [Tú] | Si voy a desbloquearla al Imperio de la Gracia, oficialmente tendremos una compañía.
+0012 [Iris] | ¿U-u-una compañía? ¡¿Vamos a tener una compañía?! ==W==Debo de estar soñando...
+0013 [Amber] | Iris... Se desmayó.
+0014 [Noya] | ¡Seguro está felicísima! ¡Tener un empleo fijo en una compañía siempre ha sido el sueño de Iris!
+0015 [Minova] | Es una locura... Las compañías... esos enormes gigantes que aplastan todo... representadas por esta diminuta pieza de ajedrez. O, eh, sello, como sea.
+0016 [Minova] | Ah, sin ofender, ==PLAYER_NAME==.
+0017 [Minova] | Cualquier compañía contigo seguro será buena, apuesto.
+0018 [Tú] | Pareces muy segura de eso.
+0019 [Minova] | ¡Claro que sí! Tienes más cerebro que todas nosotras juntas. Y eres buena persona.
+0020 [Tú] | Mmm... Si fuera tan agudo, quizá habría conseguido una beca para la Academia Platino.
+0021 [Minova] | Ugh, no, no como... inteligencia de libros... ¿Cómo lo digo?... ==W== ¡No es que seas tonto ni nada!
+0022 [Noya] | ¡Te estás cavando un hoyo más profundo, jaja!
+0023 [Minova] | O sea, ¿cosas que hacemos sin pensar?==W== ==PLAYER_NAME== ve al instante los puntos clave y lo explica todo.
+0024 [Minova] | Yo me obligo a ir a clases todos los días solo para que mis recuerdos no se desvanezcan, pero nunca lo entendí como tú.
+0025 [Tú] | Quizá sea la pérdida de memoria. Sin recuerdos, el sentido común no te frena.
+0026 [Iris] | U-u-una compañía...
+0027 [Iris] | ¡No podemos fundar una compañía!
+0028 [Amber] | Y ya volvió.
+0029 [Noya] | ¡Estás bien, Iris! ¡Esto es una gran noticia! ¡Tu sueño se hace realidad! Si ==PLAYER_NAME== funda una compañía, ¡seremos las primeras empleadas! ¿Verdad, ==PLAYER_NAME==?
+0030 [Iris] | ¡Esto  NO  es  una  buena  noticia!
+0031 [Iris] | ¿Alguna tiene idea de lo que esto significa en realidad?
+0032 [Iris] | ¡Cada mañana, lo primero que te preocupa es si podrás pagar la nómina este mes!
+0033 [Iris] | ¡Significa senadores traicioneros respirándonos en la nuca con una meta de ganancias imposible tras otra!
+0034 [Iris] | ¡Nos espera una pesadilla interminable!
+0035 [Iris] | Ser dueña de una compañía no es como tener un empleo: ¡es el primer paso en el camino a la ruina!
+0036 [Noya] | Vamos, no seas tan sombría. Nunca has dirigido una compañía, así que todo esto son suposiciones, ¿no?
+0037 [Iris] | Supongo... ¡Pero todos los libros de consulta dicen lo mismo, así que debe de ser verdad!
+0038 [Tú] | Aun con todo eso, las compañías tienen ventajas que los individuos u otros grupos no, ¿cierto?
+0039 [Iris] | Sí. Pero solo si logras conservarlas.
+0040 [Iris] | Las compañías siempre intentan destruirse entre sí.
+0041 [Iris] | Y los ganadores suelen aplastar por completo a los perdedores...
+0042 [Iris] | Muchos directores generales fracasados terminan peor que los mendigos de la calle.
+0043 [Iris] | ... En resumen, desbloquear la compañía significa lanzarnos a una guerra brutal y despiadada. Por favor, nunca lo olviden.
+0044 [Iris] | Y quien toma esa decisión... es el titular de este sello. Tú, ==PLAYER_NAME==.
+0045 [Iris] | En cuanto lo uses, probablemente otras compañías irán tras este sello.
+0046 [Tú] | Tranquila, Iris. ==W==Averiguaré más sobre toda esta situación de las compañías antes de decidir si activo el sello.
+0047 [Tú] | ¿Podrías investigar por mí? Sobre las compañías en general, y también sobre lo que quiso decir Bastelina con «estuvo en guerra con el mundo entero».
+0048 [Iris] | Yo me encargo.
+0049 [Noya] | Nosotras también hicimos algunos descubrimientos en el Monolito hoy.
+0050 [Amber] | ¿Podemos mejor mandarlo por mensaje?
+0051 [Tú] | Cierto.
+0052 [Amber] | Después de que te fuiste, las tres seguimos subiendo el Monolito.
+0053 [Amber] | Feagin estaba molesta, así que nada más nos dio una tarjeta de deseo.
+0054 [Amber] | La usé para pedir un deseo, y me salió...
+0055 [Amber] | El Lucky Oasis.
+0056 [Tú] | ¿El Lucky Oasis? ¿De qué hablas?
+0057 [Tú] | Amber, ¿te sientes bien? ¿No... no te quitó demasiados recuerdos?
+0058 [Amber] | Estoy bien. No perdí nada importante.
+0059 [Amber] | ¿Será porque no pedí el Lucky Oasis completo? Solo el cascarón.
+0060 [Amber] | Y ni siquiera es de metal. Se siente más como... ¿sabes esas botellas de bebida del Monolito?
+0061 [Amber] | No tengo idea de qué trama Feagin.
+0062 [Tú] | Espera, ¿Feagin está tratando de desear el Lucky Oasis?
+0063 [Iris] | Lo dudo. El Lucky Oasis es demasiado grande y complejo. Nadie ha deseado nunca un Artefacto de esa escala.
+0064 [Iris] | O sea, imaginarlo a la perfección ya es una cosa, ¿pero todas esas intrincadas piezas de automóvil? Es pedirle demasiado a la mente de una persona.
+0065 [Iris] | Un vehículo tan grande... ¡Olvida formar un deseo claro: el costo en memoria drenaría por completo la mente de quien desea!
+0066 [Iris] | Ningún Trekker lo haría por voluntad propia...
+0067 [Tú] | Todas lo están pensando... los niños del Distrito de las Cenizas. A Feagin le importa un pepino lo que le pase a quien pide el deseo. Seguirá engañando a más de ellos para que lo intenten.
+0068 [Minova] | Ugh... Voy a vomitar.
+0069 [Tú] | Bueno, adiós a tomárnoslo con calma.
+0070 [Tú] | Pero hay algo que me inquieta... Iris acaba de decir que puedes obtener lo que desees, siempre que lo imagines con suficiente claridad.
+0071 [Tú] | Entonces, si desear el vehículo entero es un fracaso, pero aun así quieres el Lucky Oasis... intentarías desear sus piezas. Lo que significa que tendrías que...
+0072 [Iris] | Ah, espera... ¿Lo van a desarmar?
+0073 [Noya] | ¡¿También van a meterse con Loxy?! ¡De ninguna manera! ¡No puedo quedarme de brazos cruzados!
+0074 [Minova] | Hmph. Si ese es el plan, entonces destrocemos Creta Trading y ya. Le haríamos un favor a esta ciudad.
+0075 [Noya] | ¡Sí! ¡Hagamos un plan!
+0076 [Amber] | Entraré esta noche.
+0077 [Minova] | Puedo usar mi fachada de la Academia Platino para hacer un reconocimiento de Creta Trading.
+0078 [Iris] | Ambos planes son arriesgados...==W== ==PLAYER_NAME==, ¿qué decides?
+0079 [Opción] | Colarnos esta noche.
+0080 [Opción] | Que Minova explore primero.
+0081 [Opción] | Pensemos en otra cosa.
+0082 [Tú] | Esperemos a que anochezca y entremos a escondidas. Lo simple es lo mejor.
+0083 [Amber] | Haré lo posible.
+0084 [Minova] | Muy bien, echemos un sueñito y recarguemos energías para esta noche.
+0085 [Tú] | Contamos con Minova para explorar primero.
+0086 [Tú] | El edificio de Creta Trading es enorme y vamos a ciegas.
+0087 [Minova] | Entendido. Voy a cambiarme.
+0088 [Tú] | Quizá haya una forma más astuta...
+0089 [Tú] | ¿Recuerdan cuando «trabajábamos» para Feagin? ¿Cómo movían los Artefactos del Monolito?
+0090 [Iris] | Iban empacados en cajas. Feagin contrataba mercenarios para llevarlas por el Canal hasta su sede.
+0091 [Tú] | Entonces, si nos escondemos en esas cajas, podemos llegar directo al corazón de su casa.
+0092 [Iris] | Tiene sentido.
+0093 [Minova] | Es arriesgado, pero quizá valga la pena intentarlo.
+0094 [Amber] | De acuerdo.
+0095 [Tú] | Muy bien, ese es el plan. Mañana, cuando lleguemos al trabajo, distraeré a los mercenarios. Ustedes se meten en las cajas mientras estén ocupados.

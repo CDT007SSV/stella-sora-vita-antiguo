@@ -1,0 +1,131 @@
+# Historia de Ann · 3 · The Sleepless Little Guardian (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_123 | Ann
+N:avg3_100 | Sylar
+N:avg3_110 | Coco
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | La pequeña guardiana insomne (Parte III)
+0003 [Intro] | Cuando algo no tiene sentido, primero duerme un poco. Algún día lo entenderás.
+0004 [Ann] | Jefecito, ¿puedes decírmelo?
+0005 [Ann] | ¿Qué significa «irse para siempre»?
+0006 [Narración] | Pasa una brisa. Es como si se hubiera llevado todo el ruido de antes, dejando solo el susurro de las hojas.
+0007 [Tú] | Debo responderle como se debe, pero ¿cómo lo digo...?
+0008 [Tú] | ¿Tú qué crees que significa, Ann?
+0009 [Ann] | Mmm... No estoy muy segura. ¿Quizá se fueron a algún lugar lejano?
+0010 [Tú] | Responder con una pregunta se siente como eludir mi responsabilidad. Después de todo, es algo que hay que enfrentar al crecer.
+0011 [Tú] | ¡No puedo escabullirme... tengo que responder su pregunta con honestidad!
+0012 [Tú] | Lo siento, Ann, pero la respuesta a esa pregunta es un poco larga...
+0013 [Tú] | Sentémonos bajo ese árbol y hablemos de ello.
+0014 [Narración] | Bajo las gruesas ramas del árbol, miro en la dirección hacia la que se alejó el Jabalí Corteza. Tras pensarlo un momento, recojo una hoja caída.
+0015 [Tú] | Ann, ¿sabes de dónde salen estas hojas?
+0016 [Ann] | Pues...==W== Primero hay una semilla, luego un brote, y cuando el brote se convierte en un árbol grande, se caen del árbol...
+0017 [Tú] | ¿Y adónde van las hojas al final?
+0018 [Ann] | Habrá muchísimas hojas, amontonadas...==W== Y luego... no sé...
+0019 [Tú] | Cada hoja tiene su propio viaje. La mayoría se descompone en la tierra, ayudando a que nuevas semillas broten y se conviertan en la siguiente generación de grandes árboles.
+0020 [Ann] | ¿Se convierten en tierra... y ayudan a que crezcan otros árboles?
+0021 [Tú] | Sí. Quienes se han ido para siempre son como las hojas caídas. ¿Tiene sentido?
+0022 [Tú] | Una vez que pierden su forma, las hojas caídas pueden parecer que «ya no están», pero siguen cerca, a veces hasta formando parte de un árbol completamente nuevo.
+0023 [Ann] | Siguen cerca... como parte de un árbol completamente nuevo.
+0024 [Tú] | Sí, y no solo pasa con los árboles y las hojas. Los animales... y las personas son igual.
+0025 [Tú] | Tus amigos del bosque «se fueron» por todo tipo de razones y nunca volvieron... Pero, a su manera, siguen contigo.
+0026 [Ann] | ... ¿De verdad?
+0027 [Tú] | Así es. Porque todavía te acuerdas de todos esos amigos que «se fueron», ¿verdad?
+0028 [Tú] | Mientras no los olvides, siempre estarán contigo, igual que las hojas caídas que se convierten en tierra y se quedan con los árboles.
+0029 [Tú] | «Irse» solo significa que cambiaron de forma. Quizá ya no veas a tus amigos como antes, y eso puede dar soledad...
+0030 [Tú] | Sin embargo, mientras recuerdes cómo eran, siempre sentirás su presencia de algún modo... Al menos, eso es lo que creo.
+0031 [Ann] | «Irse» solo significa que cambiaron de forma... Pero...==W== Eh...
+0032 [Tú] | Uy, quizá usé una metáfora difícil. ¿Habrá sido demasiado complicado para Ann...?
+0033 [Ann] | ¡Creo que ya entendí!
+0034 [Tú] | ¿De verdad?
+0035 [Ann] | Mmm... ¿Quizá?
+0036 [Tú] | Qué bueno saberlo...
+0037 [Opción] | Abrazar a Ann con suavidad
+0038 [Tú] | Está bien. Aunque no lo entiendas del todo ahora, lo irás entendiendo poco a poco al crecer.
+0039 [Tú] | Ahora eres como un arbolito, que todavía no ha crecido por completo. Pero algún día, seguro sentirás la presencia de tus amigos a tu alrededor.
+0040 [Ann] | ¡Sí! ¡Voy a comer mucha comida y crecer rapidísimo!
+0041 [Tú] | Así es, Ann. Tienes que comer bien o no vas a crecer.
+0042 [Coco] | ¡Auuu!
+0043 [Ann] | ¡Guau...! ¡Ay, mala Coco! ¡Comes demasiado!
+0044 [Ann] | ¡Si comes demasiado, en lugar de crecer te vas a hacer una bola!
+0045 [Coco] | ¡Auuu～～～
+0046 [Ann] | ¡Jaja～～
+0047 [Tú] | Parece que fue un día largo y cansado. Volvamos a la aldea y durmamos un poco.
+0048 [Ann] | Eh... ¡Je-jefecito...!
+0049 [Ann] | Bueno...==W== ¡Creo que tú también debes de estar cansado, Jefecito! ¡Deberíamos descansar aquí primero antes de volver a la aldea!
+0050 [Tú] | Es verdad. Qué considerada eres, Ann. Recostémonos a descansar aquí un rato.
+0051 [Ann] | Gracias, Jefecito.
+0052 [Tú] | ¿Eh?
+0053 [Tú] | ¿Qué pasa, Ann? ¿No querías tomar una siesta?
+0054 [Ann] | ¡Está bien, está bien!
+0055 [Ann] | Zzzz～～～ Zzzz～
+0056 [Ann] | Mira, estoy durmiendo.
+0057 [Tú] | Jaja. Dormir diciendo tonterías con los ojos bien abiertos... Ann sí que es única.
+0058 [Ann] | ¡S-sí! ¡Puedo dormir con los ojos abiertos, así que dormir así no es ningún problema!
+0059 [Tú] | ¡Imposible! Eso solo pasa en la ficción.
+0060 [Tú] | Ejem... ¿Será que... todavía hay algo que te preocupa, Ann?
+0061 [Ann] | Sí... ==W==Eres increíble, Jefecito...
+0062 [Ann] | En realidad, tengo un poquito de miedo... Si algún día me duermo, ¿eso significa que yo también me iré para siempre de con todos...?==W== Cuando pienso en eso, me da demasiado miedo dormir, y por eso no puedo.
+0063 [Tú] | ¿Así que era eso...? Escuchar lo que te dije hace rato te preocupó todavía más, ¿verdad?
+0064 [Tú] | No tienes que preocuparte. Ese tipo de «irse» no pasa tan fácilmente. Después de todo, siempre despiertas bien, ¿no es cierto?
+0065 [Ann] | Mm... Pero cada vez que me duermo, siempre veo a las personas y a los animalitos que ya se fueron.
+0066 [Tú] | Sabes, eso en realidad es prueba de los lazos formados por los recuerdos y los sentimientos. No es algo de lo que haya que tener miedo.
+0067 [Ann] | ¿Eh?
+0068 [Tú] | Lo sabía. Para empezar, no lo expliqué bien. ¿Qué tal si...?
+0069 [Tú] | Oye, Ann, ¿te acuerdas de esos sueños tuyos?
+0070 [Ann] | Ah, sí, sí.==W== Había una casa de dulces súper genial en el bosque, y a Coco le salieron alas y me llevó a volar... ¡Juntamos postres y convertimos la aldea en un reino de postres!
+0071 [Ann] | Pero... en mis sueños vi a personas con orejas igualitas a las mías a quienes nunca había conocido. ¡Y! También había unos gente-cuervo malvados que molestaban a los niños de la aldea.
+0072 [Ann] | ¡Y luego, junto con Coco y Bubble, usé todos los dulces que habíamos juntado para derrotar a los gente-cuervo y salvar a todos! ¡Ese fue el sueño que tuve!
+0073 [Tú] | Ya veo. La razón por la que sueñas con las personas que «se fueron» es que consiguieron boletos especiales. Ahora mismo viven en el Reino de los Sueños.
+0074 [Ann] | ¿De verdad? ¿Hay boletos especiales así? ¿Yo también puedo conseguir uno?
+0075 [Tú] | Claro. Pero es muy, muy difícil de conseguir.
+0076 [Tú] | Si quieres ese boleto, tienes que ahorrar muchos puntos todos los días.
+0077 [Ann] | ¿Puntos...? Pero ¿y si no puedo conseguirlos todos los días...?
+0078 [Tú] | Está bien si no puedes de vez en cuando. A mí también me pasa. Pero es algo a largo plazo, así que tienes que esforzarte mucho para juntar los puntos.
+0079 [Tú] | Cada vez que te acuestas a tu hora, te levantas temprano, comes tus verduras, te mantienes activa y ayudas a los demás... estás ganando esos puntos.
+0080 [Ann] | ¡Yo hago todo eso todos los días!
+0081 [Tú] | Así es. Lo estás haciendo muy bien, Ann, así que sigue así. Ahorra todos esos puntos y algún día llegarás al Reino de los Sueños.
+0082 [Tú] | Si se lo planteo así, sé que Ann podrá enfrentar el problema con una mentalidad positiva. Entonces el cuento de hadas que inventé de verdad significará algo.
+0083 [Coco] | ¡Grrr—!
+0084 [] | ¡Guuchuu—!
+0085 [Ann] | Jeje～ Coco y Bubble dicen que también han estado ahorrando esos puntos～
+0086 [Tú] | ¡Sí! Todos se están esforzando mucho.
+0087 [Ann] | Bostezo...
+0088 [Tú] | Parece que por fin está por quedarse dormida. Supongo que la tranquilicé un poco.
+0089 [Ann] | Me estoy... poniendo un poquitín soñolienta... Quiero acostarme aquí un ratito... ==W==Jefecito... ¿te quedarás conmigo...?
+0090 [Tú] | El tiempo que quieras.
+0091 [Narración] | Ann se acurruca en silencio a mi lado como un animalito, todavía con aire algo inquieto.
+0092 [Narración] | Aunque ahora ve el asunto de forma más positiva, el miedo a que la dejen atrás todavía no se ha desvanecido.
+0093 [Narración] | Parece que Ann lucha contra el sueño porque le preocupa que yo también pueda dejarla.
+0094 [Ann] | Murmullo... Jefecito...==W== sigues aquí... ¿verdad?
+0095 [Opción] | No te preocupes. Aquí estoy.
+0096 [Opción] | Relájate y échate una siesta.
+0097 [Ann] | Murmullo, murmullo...==W== Pero...
+0098 [Opción] | ¿Qué pasa?
+0099 [Ann] | Tengo el presentimiento...==W== de que no estarás cuando despierte...==W==
+0100 [Ann] | Tengo sueño==W== y quiero cerrar los ojos,==W== pero...==W== me da miedo quedarme dormida…
+0101 [Opción] | No te preocupes. No me voy a ninguna parte.
+0102 [Ann] | Gracias,==W== Jefecito...==W== Entonces, siempre que lo prometas...
+0103 [Ann] | Ann==W== no tendrá miedo...==W== Seguro ==W==me dormiré...==W==
+0104 [Ann] | Así que,==W== quédate a mi lado...==W== hasta que despierte...==W== ¿Sí?
+0105 [Opción] | Lo haré. Lo prometo.
+0106 [Ann] | Sí,==W== prométemelo... ==W==Prométeme que estarás aquí...
+0107 [Ann] | Ann...==W== quiere estar con el Jefecito...==W== para siempre...==W== y siempre...==W== y...
+0108 [Tú] | Parece que por fin está tranquila.
+0109 [Tú] | Dulces sueños, Ann.
+0110 [Narración] | Poco a poco, Ann se relaja y se duerme, con sus diminutos hombros subiendo y bajando suavemente con cada respiración.
+0111 [Tú] | Mmm, las orejas de Ann se mueven apenas un poquito...
+0112 [Tú] | Debe de estar explorando el Reino de los Sueños ahora mismo. Ojalá su sueño sea agradable.
+0113 [Tú] | Bien, por fin tengo un momento para empezar a trabajar en el plan del Gremio... ¿Adónde deberíamos ir para conseguir nuestro próximo encargo?
+0114 [Tú] | ¿Eh?==W== ¿Qué? Me agarró la mano. ¡¿Está despierta?!
+0115 [Ann] | Zzzz... ¡Coco! No te comas mis dulces...
+0116 [Tú] | Ah, habla dormida. Pero==W== ¿es así de fuerte hasta dormida...? ¡¿Qué...?!
+0117 [Coco] | Gr... Grrr...
+0118 [Tú] | ¡Nooooo, ahora también llegó Coco!
+0119 [Tú] | Jaja... Ahora sí que no puedo mover ni un dedo.
+0120 [Tú] | Parece que literalmente no puedo dejarla. Al menos, no por un rato.
+0121 [Narración] | Y así, me quedo al lado de Ann y sus amigos hasta que despierta.

@@ -1,0 +1,6 @@
+# Historia de Jinglin — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_117_01 | Un dulce escondido en la promesa (Parte I)
+CG_117_02 | Un dulce escondido en la promesa (Parte II)
+CG_117_03 | Un dulce escondido en la promesa (Parte III)

@@ -1,0 +1,163 @@
+# Capítulo 7 · El precio de la estrella · Final: La redención de Cosecha Unida
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Hungry Employee | Empleado hambriento
+N:Tired Employee | Empleado cansado
+N:Troubled Employee | Empleado preocupado
+N:avg1_107 | Tilia
+N:avg1_110 | Firenze
+N:avg1_133 | Nazuka
+N:avg1_138 | Nyx
+N:avg3_100 | Sylar
+N:avg3_1222 | Guardia
+N:avg3_124 | Erinis
+N:avg3_125 | Meikyo
+N:avg3_136 | Ruby
+N:avg3_137 | Sapphire
+N:avg3_140 | Empleado de Cosecha Unida
+N:avg3_141 | Trabajador de Cosecha Unida
+N:avg3_142 | Investigador de Cosecha Unida
+N:avg3_144 | Residente
+N:avg3_157 | Guardia Imperial
+N:avg3_173 | Bernina
+N:avg3_174 | Virigia
+N:avg3_215 | Matilda
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Fin
+0002 [Intro] | La redención de Cosecha Unida
+0003 [Intro] | Pides otro préstamo para controlar a las facciones en guerra de Cosecha Unida. Pero Matilda muere de repente y la empresa cae en el caos. Más tarde, el error de un empleado te manda a la cárcel. Intentas escapar, solo para ahogarte en la tormenta...
+0004 [Erinis] | Ni lo sueñes.==W== Aunque haya garantía, Finanzas del Mar Profundo no te va a prestar ni un Dorra más.
+0005 [Erinis] | Por lo que oigo, los márgenes de Cosecha Unida Philae son terribles.==W== Mueven muchísimo producto, pero apenas sacan un solo Dorra.
+0006 [Erinis] | Tu pago vence cualquier día de estos. Deberías preocuparte por saldar esa deuda, no por tramar otro préstamo.
+0007 [Tú] | Firenze,==W== cierra la puerta principal.
+0008 [Firenze] | Entendido.
+0009 [Tú] | Nazuka,==W== revisa la salida trasera.
+0010 [Nazuka] | De acuerdo.
+0011 [Meikyo] | ¡¿Q-qué están haciendo?!==W== ¡Les advierto que robar un banco es un delito grave!==W== ¡Con solo presionar este botón, la Guardia Imperial viene en camino!
+0012 [Tú] | Tranquila. Necesitamos privacidad para lo que vamos a hablar.
+0013 [Tú] | Gerente Erinis... Si no me falla la memoria, ese préstamo de 40 000 millones a Cosecha Unida Philae de hace dos años sigue siendo el contrato más grande que has conseguido, ¿no?
+0014 [Erinis] | S-sí, ¿y qué si lo es? Ahora mismo, mis indicadores de desempeño dependen por completo de la gestión posterior a su préstamo...
+0015 [Tú] | O sea... Si no hacemos el pago de este mes, tus superiores se te van a echar encima, ¿verdad?
+0016 [Erinis] | ¡E-eso no significa que pueda aprobar otro préstamo!==W== ¡Aunque tengan más dinero, igual no pueden pagarlo!
+0017 [1] | No, no, no. Gerente Erinis,==W== tienes que ver el panorama completo.
+0018 [1] | Ahora mismo hay una demanda enorme de grano y, aun así, los márgenes de ganancia de Cosecha Unida Philae están por los suelos.==W== Pero las ganancias nunca desaparecen. Solo se mudan de un bolsillo a otro.
+0019 [Tú] | Entonces,==W== ¿adónde van las ganancias de Cosecha Unida Philae?==W== Directo a Finanzas del Mar Profundo.==W== Ustedes compran nuestro grano al precio del contrato y lo revenden con un margen enorme, ¿no?
+0020 [Erinis] | S-sí... ¡Pero yo no dirijo esa división! No me dan ningún crédito por eso. ¡Las ganancias que les exprimen no tienen nada que ver conmigo!
+0021 [Tú] | Calma. No vine a señalar a nadie. Solo quiero justicia, nada más.
+0022 [Tú] | Piénsalo. Tú haces el trabajo pesado para negociar un trato brillante, solo para que otro departamento se lleve la gloria. Debe parecerte injusto.
+0023 [Erinis] | ... Es política de la empresa. N-no tiene nada de injusto.
+0024 [Tú] | Tu cara dice lo contrario, gerente Erinis. Esta es mi propuesta:
+0025 [Tú] | Nos prestas 80 000 millones de Dorra.
+0026 [Erinis] | ¡¿8==W==-80 000 millones?!
+0027 [Meikyo] | ¡Gerente Erinis!==W== ¡Gerente!
+0028 [Erinis] | Continúa.==W== Puedo soportarlo.
+0029 [Tú] | Con 40 000 millones saldamos el préstamo anterior y los intereses.==W== El resto es para quedarnos con las sucursales fracturadas de la antigua Cosecha Unida.
+0030 [Erinis] | Finanzas del Mar Profundo prohíbe estrictamente pagar deudas con más deuda,==W== Jefe. Ni siquiera yo puedo conseguir que lo aprueben.
+0031 [Tú] | Exacto. Por eso el préstamo no va a nombre de Cosecha Unida Philae. Va a nombre de Boss Accord.
+0032 [Tú] | Como garantía: los Artefactos de nuestro almacén y mi Sello de la Gracia.==W== Una patente exclusiva del comercio de almas cubre el costo de sobra.
+0033 [Erinis] | P-pero Boss Accord y Cosecha Unida Philae siguen siendo de gestión conjunta. Una revisión de responsabilidad solidaria mataría el trato de inmediato.
+0034 [Tú] | Ya no. Boss Accord cedió todas sus acciones a la nueva Cosecha Unida de la gran inspectora Matilda.
+0035 [Tú] | A partir de este momento, Boss Accord no tiene ningún vínculo con Cosecha Unida Philae.
+0036 [Erinis] | Técnicamente... Eso le da la vuelta a las reglas. Pero conseguir que aprueben 80 000 millones... No sé...
+0037 [Tú] | Gerente Erinis, este préstamo ofrece enormes beneficios para ti y para tu departamento.
+0038 [Tú] | Tenemos un contrato mágico con la nueva Cosecha Unida. Garantizamos la compra de la mitad de su producción de grano.
+0039 [Tú] | También podemos agregar una cláusula al préstamo: le vendemos todo ese grano a Finanzas del Mar Profundo a nuestro antiguo precio con descuento.
+0040 [Tú] | Solo no dejes que otro departamento se lleve el crédito esta vez.
+0041 [Erinis] | Si absorben esas sucursales fracturadas...==W== Su producción de grano se dispara. Aunque sea la mitad, significa ganancias exponenciales.==W== Solo con eso podría convencer al Senado.
+0042 [Meikyo] | Y todo el crédito sería directamente para usted,==W== gerente Erinis.
+0043 [Meikyo] | ¡Hagámoslo, gerente!
+0044 [Erinis] | Jefe...==W== ¿De verdad Boss Accord puede pagar 80 000 millones de Dorra?
+0045 [Tú] | Tranquila.==W== Lo tengo todo bajo control.
+0046 [Hungry Employee] | ¡Páguennos los salarios atrasados==W== y la sucursal de Puerto Jilguero se reincorpora de inmediato a la nueva Cosecha Unida!
+0047 [Troubled Employee] | Ay... La gran inspectora Matilda está en el norte peleando contra las élites de Nueva Orelia, y el desmonte del bosque quedó totalmente abandonado.==W== Si no lo despejamos ahora, la siembra de primavera se arruina.
+0048 [Troubled Employee] | Dennos el equipo para desmontar y con gusto aceptaremos sus órdenes.
+0049 [Tired Employee] | Pensar que la nueva Cosecha Unida de verdad se acuerda de nuestra pequeña sucursal.==W== El trigo se está pudriendo en el almacén. ¡Por favor, llévenselo!
+0050 [Narración] | Dos meses después
+0051 [Nazuka] | ¡Agárrate, Jefe,==W== vamos a aterrizar!
+0052 [Tú] | Uf. Por fin de vuelta.
+0053 [Narración] | Durante dos meses, la magia de Nazuka nos llevó a todas las sucursales y oficinas de Cosecha Unida fuera de Nueva Orelia.
+0054 [Narración] | Los 30 000 millones de Dorra que pedimos prestados a Finanzas del Mar Profundo las sacaron del borde de la ruina financiera.
+0055 [Narración] | Nuestras promesas para el futuro y la impecable reputación de la gran inspectora Matilda les dieron algo en qué creer.
+0056 [Narración] | Como un globo que se infla, la nueva Cosecha Unida recupera rápidamente su antiguo territorio, salvo Nueva Orelia.
+0057 [Nazuka] | Buenas noticias, todos. El viaje del Jefe fue un éxito. Todas las oficinas regionales están listas para reunirse bajo la bandera de la gran inspectora.
+0058 [Nazuka] | Ahora controlamos la mitad de la producción de grano de Nova. Si manejamos bien la siembra, evitaremos la crisis alimentaria.
+0059 [Firenze] | Increíble trabajo, ustedes dos. Son los héroes que mantienen a flote a Cosecha Unida.
+0060 [Tú] | Solo podemos negociar con confianza porque tú estás aquí cuidando el fuerte, Firenze. Tú mantienes esto funcionando.
+0061 [Nazuka] | Aun así... Esto suma cien mil nombres a nuestra nómina. ¿De verdad podemos con esta carga?
+0062 [Firenze] | Conocemos a nuestra gente de Philae, pero las otras sucursales... Casi no tenemos contacto con ellas.
+0063 [Sapphire] | La gran inspectora Matilda conoce cada sucursal al derecho y al revés. Qué lástima que no esté aquí.
+0064 [Tú] | Oí que está dirigiendo tropas hacia el norte para acabar con los remanentes de Nueva Orelia. ¿Alguna novedad del frente?
+0065 [Ruby] | Silencio total. Las comunicaciones están completamente cortadas.
+0066 [Firenze] | Enfrentar a dos mil soldados contra veinte mil es una misión suicida. Nyx y yo le insistimos en que no se apresurara a ir al norte, pero nos dijo...
+0067 [Matilda] | La facción de Nueva Orelia no se va a quedar de brazos cruzados viendo cómo nos consolidamos. Aunque sea solo para ganarles tiempo, tengo que ir.
+0068 [Tú] | Tomó la decisión correcta... Nunca habríamos asegurado esas sucursales si ella no hubiera mantenido la línea.
+0069 [Nyx] | Jefe... Todos. Ya volví.
+0070 [Firenze] | ¡¿Nyx?! ¿Cuándo llegaste? ¿No estabas desplegada con la gran inspectora?
+0071 [Nyx] | Nosotros... Ganamos.
+0072 [Nyx] | Ver cómo una sucursal tras otra se ponía de nuestro lado les destrozó la moral.
+0073 [Nyx] | Con la gran inspectora encabezando la carga, superamos su número y capturamos con vida a la mayor parte del Senado.
+0074 [Firenze] | Nyx... ¿Pasa algo?
+0075 [Nyx] | Ganamos... Pero la gran inspectora recibió un golpe directo.==W== Ya no está.
+0076 [Firenze] | ¡¿Qué?!
+0077 [Narración] | La muerte de Matilda desata consecuencias mucho peores de lo que jamás imaginamos.
+0078 [Narración] | Sin la gente ni los conocimientos para dirigir tantas sucursales nuevas, la sobreexpansión nos pasa factura rápidamente.
+0079 [Ruby] | Informe. El trigo de la Selva Frondosa no pasó la inspección. Un lote grande tiene moho.
+0080 [Firenze] | ¿Qué falló en el control de calidad?
+0081 [Ruby] | Los inspectores aseguran que estaba limpio cuando lo revisaron.
+0082 [Firenze] | Entonces el problema es el almacenamiento. ¿Quién es el encargado de este lote?
+0083 [Sapphire] | Eh, el encargado tuvo un accidente descargando en Puerto Jilguero. Las correas de la carga cedieron y quedó aplastado. Sigue en coma.
+0084 [Firenze] | Ya veo... Después resolveremos el error. Primero asegúrense de que su familia reciba una compensación.
+0085 [Nazuka] | Acaban de comunicarse desde Nueva Orelia. Su almacén se incendió.
+0086 [Firenze] | ¿Un incendio justo en medio de nuestra auditoría? Nyx, tendrás que ir tú misma.
+0087 [Nyx] | Claro, pero ya tengo una pila de casos de malversación esperando...
+0088 [Tú] | Yo me encargo de esos casos.
+0089 [Nazuka] | Jefe, ya no te quedan fuerzas. Déjame encargarme a mí.
+0090 [Tú] | Está bien. Ahora mismo todos estamos al límite. Solo tenemos que seguir adelante.
+0091 [Narración] | Pero algunos errores no se arreglan solo con trabajo duro.
+0092 [Narración] | No tenemos la capacidad de evaluar a los empleados de todas las sucursales, así que por ahora tenemos que conservarlos a todos.
+0093 [Narración] | Codicia, pereza, incompetencia pura... Las toxinas de la antigua Cosecha Unida se filtran directamente por la estructura corporativa e infectan Philae.
+0094 [1] | ¿Qué están haciendo? ¿Por qué me arrestan?==W== Erinis,==W== ¡estamos juntos en esto! ¿Qué ganas con meterme a la cárcel?
+0095 [Erinis] | ¿Meterte a la cárcel?==W== ¡Ay, por favor! ¡Yo me hundo junto contigo!
+0096 [Erinis] | ¡Finanzas del Mar Profundo nos auditó! ¡La mayoría de los Artefactos que pusiste como garantía son falsos, cascarones vacíos!==W== Nos acusan a los dos de fraude crediticio. ¡Me arruinaste por completo!
+0097 [1] | ¿Falsos...? ¡¿Cómo es posible?!
+0098 [Narración] | Unos días después.
+0099 [Tilia] | Jefe,==W== tienes visita.
+0100 [Tú] | Nazuka... ¿Ya se aclaró el lío del fraude? Te juro que soy inocente.
+0101 [Nazuka] | Jefe, nuestra investigación confirmó que unos cuantos empleados codiciosos malversaron activos de la empresa. Así fue como se comprometió la garantía.
+0102 [Nazuka] | Pero ya se gastaron el dinero. El escándalo está hundiendo el negocio de la nueva Cosecha Unida. Y lo peor es que...
+0103 [Nazuka] | Por ley, Finanzas del Mar Profundo puede negarse a liberarte hasta que Boss Accord pague completo el préstamo de 80 000 millones. Como director ejecutivo, tú eres el responsable.
+0104 [Tú] | 80 000 millones...
+0105 [Nazuka] | Bueno, Firenze y yo hicimos las cuentas. Se supone que podemos pagarlo en 15 años... 20 como máximo.
+0106 [Nazuka] | Te esperaré, Jefe.
+0107 [1] | Maldición, no puedo hacer que Nazuka espere tanto. Necesito un plan...==W== Un momento,==W== ¡esto lo vi una vez en un Stella Drama!
+0108 [1] | ¡Guardia! ¡Quiero un libro!==W== ¡Y tráiganme el póster más nuevo de la chica mágica!
+0109 [Narración] | Poco después...
+0110 [Tú] | Ya casi son dos años...==W== desde que me encerraron aquí.
+0111 [Tú] | Tengo escondida en un libro una cuchara robada de la cafetería.==W== Todos los días, a la hora del patio, tiro la tierra que saco con ella.
+0112 [1] | Esta noche hay una tormenta enorme==W==: la cobertura perfecta para escapar.
+0113 [1] | Aguanta, Nazuka.==W== ¡Voy a volver!
+0114 [Tú] | Muy bien... Me escurro por este agujero,==W== excavo el último tramo de tierra que bloquea el drenaje==W== y seré libre...
+0115 [Tú] | ¿Eh?==W== ¿Qué es ese ruido?==W== ¡¿De dónde sale toda esta agua?!==W==
+0116 [Tú] | Glugluglú...==W== ¡En el Stella Drama no pasaba así!==W==
+0117 [Lugar y hora] | ??:??, ?.º del mes de ?, ????, Sala Blanca
+0118 [1] | *Jadeo*... *Cof*...==W== ¿Cómo...==W== ¡¿Cómo es que me ahogué?!
+0119 [Virigia] | Esa tormenta es la peor de Philae en un siglo.==W== Tu ruta de escape se convierte en un río subterráneo mortal.
+0120 [Bernina] | No eres muy buen nadador, ¿verdad, Tirano?
+0121 [Tú] | ... ¡Nunca debí confiar en los Stella Drama!
+0122 [Virigia] | Échale un vistazo a tu celda. ¿Ya extrañas la vida en prisión?
+0123 [Bernina] | De hecho,==W== ahí dentro duermes de maravilla, haces ejercicio con regularidad y comes balanceado.
+0124 [Bernina] | Estás más sano que antes de entrar.
+0125 [Bernina] | Además,==W== una chica linda que de verdad se preocupa por ti te visita cada semana.==W== Con algo así, yo nunca me iría.
+0126 [Tú] | ¡¿Pero quién puede esperar 20 años?!
+0127 [Tú] | Vita, abre la puerta.==W== Voy a regresar.
+0128 [Vita] | Tu orden es mi voluntad.
+0129 [Bernina] | Adiós, Tirano.==W== Sin el equipo adecuado, administrar a tanta gente es solo una carga.
+0130 [Virigia] | Una empresa es mucho más letal y complicada que un Monolito.
+0131 [Tú] | Regresaré...==W== Esta vez debo volver a un pasado todavía más lejano.
+0132 [Firenze] | ¿«No busca monopolizar»? ¿Qué pretende Mercurio con esto...?
+0133 [Firenze] | ¿Qué opinas, Jefe?
+0134 [Tú] | Quizá pedir un préstamo a Finanzas del Mar Profundo sea el primer paso para entrar en la caja. Debería buscar otro camino.

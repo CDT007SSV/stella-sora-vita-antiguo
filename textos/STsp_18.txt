@@ -1,0 +1,6 @@
+# Nova Times #18 · Durmiendo donde el otoño se inclina — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_18_01 | Durmiendo donde el otoño se inclina (Parte I)
+STsp_18_02 | Durmiendo donde el otoño se inclina (Parte II)
+STsp_18_03 | Durmiendo donde el otoño se inclina (Parte III)

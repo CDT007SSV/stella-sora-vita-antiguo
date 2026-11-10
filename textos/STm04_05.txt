@@ -1,0 +1,151 @@
+# Capítulo 4 · Más allá del sueño · 5 · Lo que queremos proteger
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Energetic Squad Member | Miembro del escuadrón enérgico
+N:Worried Squad Member | Miembro del escuadrón preocupado
+N:avg1_133 | Nazuka
+N:avg2_976 | Árbol Asociado
+N:avg2_982 | Soldado Trekker
+N:avg2_983 | Soldado Trekker
+N:avg2_984 | Soldado Trekker
+N:avg3_100 | Sylar
+N:avg3_135 | Claire
+N:avg3_184 | Lady Gray
+
+## Texto
+0001 [Intro] | Acto cinco
+0002 [Intro] | Lo que queremos proteger
+0003 [Intro] | Tras la retirada al campamento, Claire confronta a Nazuka. Su deseo de proteger cosas distintas termina haciendo que Claire se ponga del lado de Lady Gray. Nazuka, sin saber qué hacer, te cuenta la historia de la Santa Manca.
+0004 [Lugar y hora] | 12:00, 28.º del mes de Pluvia, afueras de Philae, campamento de Trekkers
+0005 [Nazuka] | ¿Cómo se sienten? ¿Todavía ven cosas?
+0006 [Energetic Squad Member] | Estoy bien. Las alucinaciones ya se fueron.
+0007 [Worried Squad Member] | Todo gracias a tu magia. No respiramos mucha niebla, así que con descansar un poco bastó.
+0008 [Energetic Squad Member] | ¡Tú también tienes que cuidarte! ¡Allá afuera fuiste la que más se esforzó!
+0009 [Nazuka] | Gracias por preocuparse. Ya me recuperé por completo.
+0010 [Worried Squad Member] | Qué bueno oír eso. Capitana, ¡vamos por otra ronda! Ahora que sabemos cómo funciona, la próxima vez seguro acabamos con el Jardín Parásito.
+0011 [Energetic Squad Member] | ¡Sí! Aunque hoy fallamos, todos regresamos enteros. ¡Esta vez sabremos qué esperar!
+0012 [Nazuka] | Estoy de acuerdo. Lo intentaremos de nuevo pronto. Por ahora, descansen. Voy a ver cómo están los demás.
+0013 [Energetic Squad Member] | ¡Nos vemos, capitana!
+0014 [Claire] | ...
+0015 [Claire] | ¿Bueno? Habla Claire.
+0016 [Claire] | Entiendo. Pero no hagan nada todavía. Déjenme intentar hablar con ella otra vez.
+0017 [Lugar y hora] | 13:00, 28.º del mes de Pluvia, afueras de Philae, campamento de Trekkers
+0018 [Tú] | Está empezando a llover.==W== Qué bueno que compré un paraguas.
+0019 [Tú] | Noya y las demás por fin se libraron de esas ilusiones. Debería volver y pensar qué sigue.
+0020 [Tú] | ¿Esa es... Nazuka?==W== No trae paraguas. Debería ir a ayudarla.==W== Enfermarse aquí afuera con la lluvia sería terrible.
+0021 [Tú] | Naz...==W==
+0022 [Claire] | Llegaste.
+0023 [Nazuka] | Insististe en que nos viéramos de inmediato.==W== ¿Qué es tan urgente?
+0024 [Claire] | Solo quería confirmarlo contigo. En la próxima incursión contra el Jardín Parásito, tenemos que asegurar «esa cosa».
+0025 [Nazuka] | ¿Por qué tanta prisa de repente? No me digas que...
+0026 [Claire] | Adivinaste. Lady Gray acaba de pasar a presionarnos. También dijo que... «esa cosa» está escondida dentro de su tronco.
+0027 [Nazuka] | ¿El tronco? ¿Y cómo piensas conseguirla? Nuestra incursión fracasó apenas hoy.
+0028 [Claire] | Bueno... ¿Por qué no lo capturamos vivo y nos tomamos nuestro tiempo? Ándale, logramos atrapar a la Espada de Jade. ¿Qué tan difícil puede ser esta cosa?
+0029 [Nazuka] | ¿Capturarlo vivo? Es demasiado arriesgado. Tú misma lo viste: el Jardín Parásito se vuelve más fuerte cada día. Todavía no tenemos el poder suficiente para capturarlo vivo.
+0030 [Claire] | Pero estaremos en serios problemas si no conseguimos «esa cosa». ¿Ya olvidaste cómo nos amenazó Lady Gray?
+0031 [Nazuka] | Lo recuerdo.==W== Entonces, ¿cuál es el plan?
+0032 [Claire] | El verdadero problema es la niebla mágica.==W== En cuanto la agotemos, el Jardín Parásito no será más que un monstruo torpe agitando sus ramas.
+0033 [Nazuka] | ¿Y cómo la agotamos?
+0034 [Claire] | Con gente. Haremos que los miembros del escuadrón entren primero.
+0035 [Nazuka] | ¿Estás loca? Claire, sabes tan bien como yo que los estarías mandando a morir.
+0036 [Claire] | Solo van a respirar un poco de niebla.==W== Eso no es mortal... ¿verdad?
+0037 [Nazuka] | Si empiezan a alucinar, se atacarán entre ellos. El resultado es exactamente el mismo.
+0038 [Nazuka] | Además, el Jardín Parásito ya es demasiado poderoso.==W== Un monstruo así de peligroso... Claire, tenemos que destruirlo nosotras mismas en la próxima cacería.
+0039 [Nazuka] | No he tocado los 10 millones de Dorra de Lady Gray. Cuando acabemos con el Jardín Parásito, se los voy a devolver. Así se termina nuestro trato con Cosecha Unida.
+0040 [Claire] | ¿Crees que nos van a dejar ir así nada más cuando estemos «a mano»?==W== Ja, qué ingenua.==W== Después de todo lo que hemos visto, ¿de verdad crees que podemos irnos sin más?==W== Cosecha Unida nunca va a dejar esto así.
+0041 [Nazuka] | ¡La ingenua eres tú, Claire!
+0042 [Nazuka] | Piénsalo. «Esa cosa» puede convertir una enredadera mimética en la monstruosidad a la que nos enfrentamos. Cosecha Unida haría lo que fuera para que sus rivales no se enteren de que tienen algo tan poderoso.
+0043 [Nazuka] | Así que, en cuanto Lady Gray lo tenga en sus manos, nos va a mandar eliminar.
+0044 [Nazuka] | Pero si «esa cosa» se destruye en la pelea, si nadie la obtiene y podemos negar de forma creíble saber qué era, quizá Cosecha Unida nos deje en paz.
+0045 [Claire] | Ni loca, Nazuka, ¡estamos hablando de Cosecha Unida! Les fallamos. No hay forma de que no tomen represalias.
+0046 [Nazuka] | ¡Sí la hay! Los Tres Grandes llevan meses haciendo destrozos, y nuestro escuadrón de caza ha salido en los titulares, no solo en Philae, sino también en otras ciudades.
+0047 [Nazuka] | Ya no somos unas Trekkers desconocidas; ahora estamos a la vista del público.
+0048 [Nazuka] | Eso significa que ni siquiera una empresa como Cosecha Unida puede deshacerse de nosotras discretamente. Mientras no sepamos qué es en realidad «esa cosa», no es imposible salir de esto en paz.
+0049 [Claire] | Así que esa es tu jugada... Siempre has odiado ser el centro de atención, pero últimamente lo has estado buscando a propósito.
+0050 [Claire] | Pero ¿y si no les importa? ¿Y si deciden castigarnos de todos modos por arruinar el trabajo y volver con las manos vacías?
+0051 [Nazuka] | Si llega a pasar eso... Di que todo fue idea mía.==W== Finge que no sabías nada. Yo cargaré con toda la culpa.
+0052 [Claire] | Ja. Qué noble, Nazuka. Le das la espalda a Petal Bloom para proteger a tus amigas, cargas con toda la culpa para cubrir al equipo... Hasta tienes planeada una salida para mí.
+0053 [Claire] | Igual que la Santa Manca de las leyendas... Sacrificándose para salvar a Philae.
+0054 [Nazuka] | No es para tanto. Solo quiero que todos estén a salvo.
+0055 [Claire] | Hmph. Jejeje.==W== ¡Jajajaja!
+0056 [Nazuka] | Claire, ¿qué te pasa?
+0057 [Claire] | Sobrevivir sin ver «esa cosa»... ¿Por qué no se me ocurrió antes? Supongo que no estoy hecha para estos juegos de astucia como tú.
+0058 [Claire] | No puedo seguirle el ritmo a tanta intriga, y no quiero morir. Así que ya firmé un contrato mágico con Lady Gray.
+0059 [Nazuka] | ¿Un contrato? ¿Qué clase de contrato?
+0060 [Claire] | Dice que, mientras siga al pie de la letra las órdenes de Lady Gray y busque «esa cosa»...
+0061 [Claire] | Cosecha Unida me dará una fortuna y un trabajo cómodo donde podré ganar Dorra de por vida, sin importar el resultado.
+0062 [Nazuka] | ¿Cómo pudiste confiar en alguien como Lady Gray? Estamos hablando de Cosecha Unida. Seguro que ese contrato tiene alguna trampa o algún resquicio.
+0063 [Claire] | Sí... puede ser. Por eso necesito tu ayuda.
+0064 [Nazuka] | ¿Mi ayuda?
+0065 [Claire] | Así es. Le dije a Lady Gray que no hay forma de que yo sola acabe con el Jardín Parásito. Pero contigo, sé que podemos encontrar la manera.
+0066 [Claire] | Ellos saben lo fuerte que eres, claro. Lady Gray dijo que si te unes a Cosecha Unida y trabajas para ella, te dejará redactar el contrato.
+0067 [Claire] | ¿Ves? Tú eres la clave de todo este trato.
+0068 [Nazuka] | O sea que solo quiere usarnos como peones.==W== Ese plan de que los miembros del escuadrón desgasten la niebla... Fue idea suya, ¿verdad?
+0069 [Claire] | Tú lo descifras todo, ¿no, Nazuka? Pero yo no soy como tú. Ya no tengo opciones.
+0070 [Nazuka] | Claire, no hagas esto. Déjame pensar. Tiene que haber otra forma.
+0071 [Claire] | ¿Ah, sí? ¿La gran Santa va a llegar volando a resolver todos mis problemas?
+0072 [Claire] | Es imposible. No sé cómo lo veas tú, pero para mí, la distancia entre nosotras y Cosecha Unida es como una sola gota de lluvia frente a un cielo cubierto de nubarrones.
+0073 [Claire] | Si de verdad eres tan increíble, ¡¿por qué no dispersas las nubes que tenemos encima y haces que deje de llover?!
+0074 [Claire] | ¡Igual que la legendaria Santa Manca!
+0075 [Claire] | ... Es todo lo que tengo que decir.
+0076 [Claire] | Adiós, Nazuka. Al final, nunca fuimos por el mismo camino.
+0077 [Nazuka] | ...
+0078 [Tú] | Nazuka...
+0079 [Nazuka] | ==PLAYER_NAME==... Oíste todo eso...
+0080 [Lugar y hora] | 15:00, 28.º del mes de Pluvia, Distrito Invernadero de Philae
+0081 [Tú] | ¿Así que aquí fue donde conociste a Lady Gray?
+0082 [Nazuka] | Sí. Llevaba un uniforme de Cosecha Unida y parecía tener un cargo alto. Y todas las provisiones que nos dio después venían directamente de ellos.
+0083 [Tú] | Cosecha Unida... Se dedican a la industria de los granos y los alimentos, ¿verdad?
+0084 [Nazuka] | Así es. Son la empresa más grande de esta industria en Nova. Oí que cultivan el setenta por ciento de todo el grano del continente.
+0085 [Nazuka] | Tienen sucursales en todas las ciudades.
+0086 [Nazuka] | Dicen que la de aquí, en Philae, es la más grande.
+0087 [Tú] | El clima y el entorno de Philae... ¿Supongo que son ideales para los cultivos?
+0088 [Nazuka] | Eso, y la influencia del Monolito del lago.==W== Se sabe que sus cajas de deseos producen Artefactos útiles para la agricultura.
+0089 [Tú] | Dicho así, Cosecha Unida es un verdadero gigante empresarial. Sí parece que nosotras somos una sola gota de lluvia y ellos un nubarrón.
+0090 [Tú] | Entonces, ¿cuál es tu plan?
+0091 [Nazuka] | No confío en Lady Gray.
+0092 [Nazuka] | Ya que está tratando de usar a Claire para algún tipo de plan... Me voy a separar del escuadrón de caza por ahora.
+0093 [Nazuka] | Acabaré con el Jardín Parásito antes que Claire... Terminaré con esto yo misma.
+0094 [Tú] | La fuerza bruta antes que la estrategia, ¿eh? No es mala idea, pero... ¿no es un riesgo enorme?
+0095 [Nazuka] | Lo es. Con este clima es imposible usar fuego contra el Jardín Parásito... Y con la temporada de lluvias de Philae encima, no se sabe cuándo volverá a salir el sol.
+0096 [Nazuka] | Lo bueno es que con este clima los monstruos suelen esconderse, y el grueso de las fuerzas no puede adentrarse en el bosque. Así que no todo es malo.
+0097 [Nazuka] | Si tan solo pudiera hacer un milagro como la Santa Manca.
+0098 [Tú] | No dejo de oír sobre la Santa Manca. ¿Cuál es su historia?
+0099 [Nazuka] | Es una leyenda local de Philae.
+0100 [Nazuka] | Hace años, aquí desenterraron una estatua manca.
+0101 [Nazuka] | La placa de su base tenía grabada, ya desgastada, la palabra «Santa»...
+0102 [Nazuka] | ... y una losa de piedra cercana contaba su historia.
+0103 [Nazuka] | Hace mucho, mucho tiempo, la gente de Philae enfureció al dios de los pantanos.
+0104 [Nazuka] | En su furia, el dios maldijo la tierra con lluvias interminables que amenazaban con ahogar la ciudad.
+0105 [Nazuka] | La gente le suplicó al dios que se detuviera, pero este exigió como ofrenda lo más hermoso de la ciudad.
+0106 [Nazuka] | Le ofrecieron incontables tesoros, pero el dios no se conmovió.
+0107 [Nazuka] | No fue sino hasta que un día una Trekker de paso ofreció su propio brazo y su mano...
+0108 [Narración] | ...unas manos hábiles capaces de forjar cualquier cosa, que el silencio divino por fin se rompió.
+0109 [Nazuka] | El dios quedó complacido. Detuvo las lluvias, y las aguas de la inundación formaron un gran lago de orillas fértiles. Desde entonces, la gente de Philae vivió en prosperidad.
+0110 [Nazuka] | Y así termina la leyenda. ¿Qué te pareció, Jefe?
+0111 [Tú] | Mmm... A simple vista es una bonita historia... pero hay algo en ella que se siente un poco siniestro.
+0112 [Opción] | Admirar el valor de la Santa
+0113 [Opción] | Cuestionar los hechos
+0114 [Opción] | Proponer otra teoría
+0115 [Tú] | Creo que la leyenda quizá lo idealizó.
+0116 [Tú] | Tal vez la santa no se rindió sin más; tal vez peleó contra el dios y ganó, aunque a costa de su brazo. Por eso se detuvo la inundación.
+0117 [Nazuka] | Es posible...==W== Pero si fue así, no era un dios. Era un demonio.
+0118 [Tú] | Un «dios» que hace berrinches así como así no se parece a ningún dios normal que yo conozca.
+0119 [Tú] | Y al final, no es más que una estatua con un solo brazo, ¿no? Se le pudo haber roto y ya.==W== En cuanto a la tormenta, seguro solo fue un desastre natural.
+0120 [Nazuka] | Ja, qué pragmático. De verdad tienes un don para ver las cosas desde un ángulo puramente realista, Jefe.
+0121 [Tú] | Digo, es raro que un objeto antiguo desenterrado esté en perfectas condiciones, ¿no?
+0122 [Nazuka] | Es un buen punto.==W== Ojalá la verdad sea como dices: que nadie salió herido y que todos vivieron felices para siempre.
+0123 [Tú] | Mmm... Creo que eso de «ofrecer su brazo y su mano» era simbólico.
+0124 [Nazuka] | ¡¿Simbólico?!
+0125 [Tú] | El agua no se drena sola. Se necesitan manos para cavar canales y construir diques para controlar de verdad una inundación.
+0126 [Tú] | Tal vez la gente de Philae levantó la estatua para conmemorar a la persona que los guio para domar las aguas.
+0127 [Nazuka] | Vaya... Es una forma muy práctica de verlo, Jefe.
+0128 [Nazuka] | Aun así, lo que admiro de la Santa Manca es su valor para hacer ese sacrificio.
+0129 [Nazuka] | Soy Trekker, y el tiempo que he pasado pidiendo deseos en el Monolito me enseñó una cosa.
+0130 [Nazuka] | Si quieres obtener algo, primero tienes que renunciar a algo. Sin titubear.
+0131 [Nazuka] | Quiero ser ese tipo de persona decidida: alguien capaz de abrirles el camino a todos los demás.
+0132 [Tú] | Te entiendo.==W== Bueno... Ya que una vez me viste como una figura parecida a la Santa Manca...
+0133 [1] | En un día como hoy, en el que ni siquiera podemos usar fuego, déjame abrir el camino de otra manera.
+0134 [Tú] | Resulta que tengo una idea de cómo podemos investigar a Lady Gray y a las Tres Grandes Comisiones.

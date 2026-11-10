@@ -1,0 +1,6 @@
+# Nova Times #10 · Un día de cosecha — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STsp_10_01 | Un día de cosecha (Parte I)
+STsp_10_02 | Un día de cosecha (Parte II)
+STsp_10_03 | Un día de cosecha (Parte III)

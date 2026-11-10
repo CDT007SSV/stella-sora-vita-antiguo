@@ -1,0 +1,29 @@
+# Capítulo 9 · Un Monolito demasiado lejano — nombres de los actos y batallas
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+STm09_00_a | Preludio
+STm09_00_b | Ignición
+STm09_01_a | Viento entre las copas
+STm09_01_b | Presciencia
+STm09_01_c | El cebo está puesto
+STm09_01_d | Puerta estrecha
+STm09_02_a | Un respiro
+STm09_02_b | Cambio de bando
+STm09_02_c | La torre del Tirano
+STm09_03_a | Alto al fuego
+STm09_03_b | Lluvia en el desierto
+STm09_03_c | Donde todo comenzó
+STm09_04_a | La sabiduría de las papas fritas
+STm09_04_b | Lo que trae la victoria
+STm09_04_c | Lo que perdura sin cambiar
+STm09_05_a | La intuición de Noya
+STm09_05_b | El tiro por la culata
+STm09_05_c | Un Monolito demasiado lejano
+STm09_06_a | La lluvia que nunca cae
+STm09_06_b | Ella a tu lado
+STm09_07_a | Arena entre los dedos
+@BT01 | Cerrando el cerco
+@BT02 | Ejército de uno
+@BT03 | Cambiar las tornas
+@BT04 | Ventaja de local
+@BT05 | Otra vez contra los Stellaroids

@@ -1,0 +1,135 @@
+# Especial 9.5 · 8 · A Forbidden Wish
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Lulu | Lulu
+N:Slave Trader | Slave Trader
+N:avg1_162 | Alina
+N:avg2_978 | Rovina
+N:avg3_100 | Sylar
+N:avg3_1335 | Filanis Citizen Male
+N:avg3_1336 | Filanis Citizen Male
+N:avg3_1339 | Filanis Slave Girl
+N:avg3_1340 | Filanis Slave Girl
+N:avg3_138 | Trekker
+N:avg3_139 | Trekker
+N:avg3_168 | Chica
+N:avg3_170 | Chico del Distrito de las Cenizas
+N:avg3_182 | Elis
+N:avg3_225 | Leita
+N:avg3_228 | Filanis Citizen (M)
+N:avg3_229 | Filanis Slave
+
+## Texto
+0001 [Intro] | Acto octavo
+0002 [Intro] | Un deseo prohibido
+0003 [Intro] | Los niños desaparecen por Filanis y muchos culpan a la Santa Caída. Alina ya no sospecha de ti ni de Elis, y revela por qué está tan desesperada por saber sobre la magia de la resurrección.
+0004 [Lugar y hora] | 18:10, quinto mes 26, frente a la costa de Filanis, Rundown Insula
+0005 [Alina] | Bajo el gobierno del Arconte Olimpia, Filanis ha sido durante mucho tiempo una ciudad-estado pacífica y ordenada. Su gente vivía en armonía y los delitos graves eran casi inauditos.
+0006 [Alina] | Durante años, los Vigilantes Nocturnos tuvimos poco que hacer más allá de atrapar ladrones, apagar incendios y ahuyentar a los monstruos que se acercaban demasiado a la ciudad.
+0007 [Alina] | Hace un mes, esa paz se hizo añicos.==W== Una joven desapareció de su casa.==W== y a pesar de toda la búsqueda que hicimos su familia y yo, no encontramos ningún rastro de ella.
+0008 [Alina] | Al principio, pensé que podría haberse caído al agua y haber sido arrastrada por Filanis.==W== Pero entonces...==W==
+0009 [Alina] | Una semana después, un segundo niño desapareció,==W== esta vez fuera de Filanis.==W== Según la familia, el niño sólo había salido a comprar pan y nunca regresó.
+0010 [Alina] | Todos los niños filanianos saben nadar, por lo que las probabilidades de que dos de ellos cayesen accidentalmente al agua eran demasiado bajas. Lulu y yo registramos todos los sótanos y casas abandonadas de Filanis, pero no encontramos nada.
+0011 [Tú] | ¿Secuestro? Pero nadie vino nunca a exigir un rescate. ¿Podría haber sido trata?
+0012 [Alina] | Ese también era mi pensamiento, así que amplié la búsqueda y vigilé de cerca a los viajeros extranjeros. Casi al mismo tiempo, comenzaron a difundirse rumores sobre la Santa Caída.
+0013 [Alina] | Mucha gente estaba convencida de que la Santa Caída se había deslizado en Filanis.==W== y se llevó a esos pobres niños para devorarlos.
+0014 [Elis] | Vamos, ==W==No importa cuán malvada se suponga que sea la Santa Caída,==W== ¡ella no comería niños!
+0015 [Alina] | Por supuesto, era un rumor ridículo. De hecho...==W== No creo que la Santa Caída fuera responsable de esos crímenes.==W== o por cualquiera de esas muertes.
+0016 [Elis] | ¿Mmm? ¿Por qué piensas eso?
+0017 [Alina] | Si realmente estuviera huyendo, mudarse de ciudad en ciudad sería la peor opción. Sería mejor que desapareciera en algún lugar remoto y esperara hasta que la gente se olvidara de ella.
+0018 [Alina] | Una Santa que logró escapar de un sacrificio no puede ser tonta. No creo que ella haría algo tan estúpido como matar gente para ocultar su identidad, sólo para exponerse en el proceso.
+0019 [Elis] | Pero... esos crímenes realmente sucedieron...
+0020 [Alina] | Leí sobre un caso como ese en la biblioteca de Filanis.
+0021 [Alina] | Un asesino en serie al que se culpaba de treinta muertes en realidad sólo había matado a cinco. Los otros veinticinco fueron crímenes de imitación, atribuidos al asesino aún no identificado.
+0022 [Tú] | Quieres decir... la Santa Caída fue incriminada.==W== Entonces, ¿por qué intentaste arrestar a Elis en el bosque con ese nombre?==W==
+0023 [Alina] | Es posible que la llamada Santa Caída ni siquiera exista. Podría ser simplemente un nombre que la gente inventó a medida que se difundieron los rumores.
+0024 [Alina] | Pero los criminales que usan ese nombre como tapadera para todo tipo de crímenes… Son muy reales.
+0025 [Narración] | Varios días antes.
+0026 [Lulu] | Capitán Alina,==W== Otro niño ha desaparecido.
+0027 [Alina] | ¿Otro? Ya es el tercero...==W== lulú,==W== ¿Has descubierto algo sobre ese rumor de Fallen Saintess?
+0028 [Lulu] | Bueno, si tuviera que nombrar una pista...==W== Un hombre extraño apareció ayer en la casa de baños.
+0029 [Alina] | ¿Un hombre extraño?
+0030 [Lulu] | Un viajero con dinero para gastar. Dicen que incluso ostenta el título de caballero.==W== Pero seguía mirando los dientes y la piel de las personas, evaluándolos...==W== Como si estuviera inspeccionando mercancía.
+0031 [Alina] | Ese hábito... ¿No me digas que es un traficante de esclavos?
+0032 [Lulu] | Estaba recorriendo la casa de baños contándole a la gente historias sobre la Santa Caída. Pero él es un extraño...==W== ¿Cómo conoce tan bien nuestros rumores locales?
+0033 [Alina] | Muy sospechoso. Puede que sea él quien se llevó a los niños. He oído que en algunas ciudades-estado distantes, a los nobles no les importan los esclavos comunes y corrientes. Prefieren a los secuestrados, especialmente aquellos que alguna vez vinieron de familias respetables.
+0034 [Alina] | ¡Lulú, vamos a buscarlo!
+0035 [Alina] | Detente ahí mismo. Soy Alina de la Guardia Nocturna de Filanis. Estoy inspeccionando tu carro.
+0036 [Slave Trader] | Ja, a Filanis realmente le gusta extralimitarse.==W== Ahora estamos en plena naturaleza, no en tu ciudad.
+0037 [Lulu] | Capitán Alina, esos carros...==W== No, son jaulas. Hay varios esclavos adentro.
+0038 [Slave Trader] | Ja. Nunca trajimos esclavos a Filanis, por lo que no hemos violado ninguna de las leyes del Arconte Olimpia.==W== Esperar. Te ves familiar.==W== ¡Ah, eres esa chica de los baños!
+0039 [Alina] | No importa dónde suceda, tratar a las personas como juguetes o mercancías es malo. Y también eres sospechoso de secuestrar y sembrar el pánico. Te llevaré de regreso para interrogarte.
+0040 [Slave Trader] | Ridículo. Sólo sois dos y ¿creéis que podéis arrastrarnos de vuelta?==W== Chicos, parece que estamos agregando dos productos nuevos de primera calidad al carrito. ¡Sacad vuestras armas!
+0041 [Alina] | ¡Conoce tu lugar!==W== Lulu, mantenlos con vida. Todavía necesitamos que nos digan dónde están los niños.
+0042 [Lulu] | Entendido, Capitán.
+0043 [Alina] | Derrotamos a los esclavistas, pero los niños desaparecidos no estaban entre los esclavos en las jaulas.
+0044 [Alina] | En su camino había una torre en el bosque. Temía que pudieran estar escondiendo a los niños secuestrados allí, así que envié a Lulu de regreso a la ciudad y conduje uno de los carros de la prisión hasta la torre yo mismo...==W== Y ahí es donde me encontré contigo.
+0045 [Elis] | Entonces eso es lo que pasó. Acababas de derrotar a un grupo de esclavistas y estaban difundiendo rumores sobre la Santa Caída. Entonces me viste, luciendo exactamente como el boceto buscado, así que, por supuesto, tu mente fue allí. Tiene mucho sentido.
+0046 [Alina] | En realidad... nunca pensé que fueras la Santa Caída. Por un lado, no tienes los ojos de alguien que ha matado antes. Y por otro lado, siempre he creído que la Santa Caída era solo una figura exagerada por los rumores.
+0047 [Alina] | Sólo lo dije para ver cómo reaccionarías...==W== Sólo un pequeño truco que usamos los Vigilantes Nocturnos cuando interrogamos a los ladrones: comenzar con una acusación mayor y ver si retroceden.
+0048 [Elis] | ¿Entonces qué pensaste que había hecho?
+0049 [Alina] | Que podrías haber estado trabajando con los esclavistas. O tal vez... un ladrón de tumbas.
+0050 [Elis] | ¡Oye, vamos, usa tus ojos!==W== Soy así de lindo y encantador, ¿y pensaste que era un esclavista o un ladrón de tumbas?
+0051 [Alina] | Uh... Porque estabas parado al lado de un ataúd absurdamente lujoso, y dentro estaba el hombre sin aliento. ==PLAYER_NAME==.
+0052 [Tú] | Sí, puedo ver que eso habría parecido un robo de tumbas. Je.==W== Así que nos arrojaste a mí y al ataúd al carro como evidencia del "crimen" de Elis.
+0053 [Alina] | Así es. Lo lamento...
+0054 [Tú] | No hay necesidad de disculparse. En ese estado, cualquiera hubiera pensado que era un cadáver.
+0055 [Tú] | Por eso tu actitud cambió después... Yo "volví a la vida" y Elis me protegió sola. Lo que significaba que no podía haber sido una ladrona de tumbas o una esclavista.
+0056 [Alina] | Bien. Pero todavía tenía dudas sobre quién eras realmente...==W== Entonces te traje de regreso a Filanis.
+0057 [Tú] | ¿Y eso es porque...?
+0058 [Alina] | Elis actuó perfectamente natural para ser una esclava. Pero tú, como su maestro...==W== No tenías nada de ese aire de superioridad. Y la forma en que la trataste no fue como la de una esclava en absoluto. Era más como...==W== un amigo.
+0059 [Tú] | R-De verdad...
+0060 [Elis] | (Seguiré jugando a ser tu esclavo.==W== Pero en serio, sé un poco más despiadado conmigo. ¡Muestre algo de autoridad! Nadie trata a un esclavo con tanta gentileza como tú.)
+0061 [Tú] | Elis me advirtió sobre eso, pero simplemente no pude hacerlo... No importa cuánto lo intente, no puedo tratar a una persona viva como a un esclavo.
+0062 [Alina] | Entonces comencé a preguntarme si tal vez ustedes dos eran esclavos. Los de alto rango, los que sirven a los Arcontes o Semidioses.==W== Escaparon juntos, y pretender ser amo y esclavo era simplemente la tapadera más fácil.
+0063 [Tú] | So...==W== Nos trajiste a Filanis para protegernos y ayudarnos a empezar de nuevo allí con nuevas identidades.
+0064 [Alina] | Sí. Si la Arconte Olimpia descubriera que sois esclavos, lo más probable es que os liberaría.
+0065 [Elis] | Eres casi tan amable que ni siquiera parece real.
+0066 [Elis] | Tu patrona Olimpia, gobernante de Filanis, puede prohibir a la gente de Filanis tener esclavos, pero eso no significa que tengas que abandonar la ciudad y rescatar esclavos en la naturaleza, ¿verdad? ¿Eso no le traería problemas?
+0067 [Alina] | La Arconte Olimpia siempre dijo que cualquiera que entre en Filanis debe hacerlo como una persona libre. Ella nos apoya para liberar a los esclavos por medios pacíficos siempre que sea posible y castigar a quienes se benefician de su venta.
+0068 [Alina] | Y... yo también solía ser un esclavo. Sé lo que se siente al ser tratado como un objeto. Así que te ayudaré en lo que pueda.
+0069 [Alina] | ... ¿Por qué existen los esclavos? ¿Por qué la gente no puede simplemente vivir juntos en paz?
+0070 [Elis] | Claro que es porque...==W== Todo el mundo tiene deseos que quiere cumplir y algunas personas sólo pueden conseguir lo que quieren sacrificando a otros.
+0071 [Elis] | Hmph, no pienses que todos son tan ingenuos como ustedes dos idiotas. Sigues siendo así de crédulo y un día eso hará que te maten.
+0072 [Alina] | Gracias por la advertencia.==W== Pero...==W== Después de que intentaste escapar de la casa de baños y Saintess Leita te atrapó, comencé a repensar quién eras realmente. Probablemente no sean esclavos.
+0073 [Alina] | Elis, eres la santa fugitiva, ¿no? Y ==PLAYER_NAME== Es un noble de cierto prestigio que, por razones que desconozco, decidió ayudarte.
+0074 [Elis] | ¿¡Eh!? ¿De qué tonterías estás hablando? ¿Cómo podría ser una Santa?
+0075 [Tú] | Esa es una suposición bastante acertada. No es de extrañar que ella sea una Vigilante Nocturna... Aparte de una cosa que ella no podría saber, que soy de otro mundo, básicamente tiene razón.
+0076 [Alina] | Cuando Saintess Leita estaba tratando de determinar quién eras... Parecía como si te reconociera, e incluso ayudó deliberadamente a encubrirte.
+0077 [Alina] | Normalmente... Una persona inocente no tendría motivos para huir por las alcantarillas de esa manera. Pero cuando se trataba de que te escondieras debajo del carruaje, ella lo ignoró burlándose de ti.
+0078 [Alina] | Así que lo investigué...==W== En el pasado de la Santa Leita antes de convertirse en una verdadera Santa y descubrió que pertenecía a la misma clase que la Santa fugitiva.
+0079 [Alina] | Todos en esa clase tenían un historial claro, excepto la Saintess fugitiva. Ninguno de los demás podría haber terminado en Filanis como esclavo,==W== lo que deja sólo una posibilidad...
+0080 [Elis] | Incluso si supiera que Saintess, no prueba nada...==W== No tuvimos que reunirnos durante el entrenamiento. Quizás éramos sólo vecinos en Emor...==W== ¡Sí, vecinos!
+0081 [Alina] | ¿Cómo podría una Santa ser vecina de un esclavo? Si estás diciendo que ella era vecina de ==PLAYER_NAME== en cambio, luego en la casa de baños...==W== La santa Leita parecía no saberlo. ==PLAYER_NAME== en absoluto.
+0082 [Elis] | Yo... yo también puedo explicar eso...
+0083 [Tú] | Elis, deja de luchar.==W== Creo que Alina no está diciendo todo esto para denunciarnos. Después de todo, ella nunca planteó ninguna de estas dudas durante la prueba de la casa de baños.
+0084 [Alina] | La Arconte Olimpia nunca ha emitido una orden judicial para la Santa fugitiva en Filanis. Lord Coppelius me dijo una vez que no creía que la Santa fugitiva hubiera hecho nada malo.
+0085 [Alina] | Y durante todo este tiempo, incluso después de estar encerrados en un carro de prisión, ustedes dos nunca hicieron nada peligroso. Como uno de los Vigilantes Nocturnos de Filanis, no tengo motivos para arrestar a Elis.
+0086 [Tú] | Aunque no creo que esa sea toda la historia. De vuelta en la entrada de la casa de baños...
+0087 [Alina] | ¿Podrías hablarme sobre la magia de la resurrección?
+0088 [Alina] | Dime tu precio...==W== ¡Te daré todo lo que tengo!
+0089 [Alina] | T-==W==Realmente...?==W== ¿Puedo preguntar sobre la torre y los deseos?
+0090 [1] | Claramente tenías algo que querías preguntarme.==W== Si nuestras identidades quedaran expuestas, nos arrestarían o nos obligarían a huir.==W== Y entonces nunca obtendrías la respuesta que buscabas, ¿verdad?
+0091 [Alina] | Es vergonzoso, de verdad. Tuve la suerte de que se me concediera el estatus de noble y, aunque llevo el título de "Caballero", mi corazón todavía está lleno de deseos egoístas.
+0092 [Alina] | ==PLAYER_NAME==, tienes razón. Tengo mis propios motivos en este asunto.==W== Realmente quiero... aprender ese conocimiento de ti.
+0093 [Alina] | Así que, por favor, no pienses en mí... como en una buena persona desinteresada que sólo intenta ayudarte.
+0094 [Tú] | Todo el mundo tiene deseos.==W== Mientras esos motivos no dañen a nadie más, no creo que haya nada malo en ellos.
+0095 [Tú] | ¿Quieres continuar nuestra conversación anterior? ¿Sobre la torre y los deseos?
+0096 [Alina] | Sí... Sólo las Santas y los Sacerdotes pueden entrar a la torre de Filanis para pedir deseos, pero un caballero como yo también puede ganar una oportunidad única en la vida después de acumular suficientes méritos.
+0097 [Alina] | Quiero pedir un deseo para mis compañeros, pero no sé... cómo debo hacerlo para lograr el resultado que quiero.
+0098 [Alina] | Así que esperaba preguntarte cómo funcionan realmente los deseos.
+0099 [Elis] | ¿Pide un deseo para tus compañeros? Sólo tienes una oportunidad en toda tu vida. ¿No deberías pensar también en ti mismo?
+0100 [Alina] | Yo... les debo una. Pase lo que pase, quiero pagarles.
+0101 [Elis] | Hay otras formas de pagarle a alguien... Estamos hablando de un deseo. ¡Un deseo que puede conceder cualquier cosa!
+0102 [Tú] | ¡¿Cualquier cosa?!
+0103 [Alina] | Sí... creo que esta es la única forma en que puedo pagarles. Por favor, ven conmigo. Te llevaré con ellos.
+0104 [Narración] | Elis y yo seguimos a Alina por la puerta trasera de la Insula.
+0105 [Narración] | Caminamos por el bosque durante más de diez minutos. Sólo cuando incluso el Monolito de Filanis ha desaparecido detrás de los árboles, Alina finalmente se detiene.
+0106 [Alina] | Estos son los compañeros de los que hablé.
+0107 [Tú] | Esto es… ¿un cementerio? Lo siento, no lo sabíamos...
+0108 [Alina] | No hay necesidad de disculparse. Debería habértelo dicho antes.==W== Hace un año, esta Vigilante Nocturna de Filanis, Alina... todavía era una gladiadora en Emor.
+0109 [Elis] | ¿Qué? ¿Un gladiador? ¿El tipo de estrella famosa que pelea en la Grand Arena y disfruta de los aplausos de la multitud?
+0110 [Alina] | Ese tipo de gladiadores existen, sí. Pero yo no tenía nada que ver con ese mundo.
+0111 [Alina] | En aquel entonces... yo no era más que un esclavo gladiador sin siquiera un nombre...

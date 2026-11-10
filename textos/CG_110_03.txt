@@ -1,0 +1,93 @@
+# Historia de Firenze · 3 · Philae Vacation (Part III)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_110 | Firenze
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Vacaciones en Philae (Parte III)
+0003 [Intro] | Quiero compartir este sabor contigo, pues alguna vez estuvo unido a mis recuerdos.
+0004 [Firenze] | Llegamos.
+0005 [Narración] | Era un lugar pequeño y sencillo que ofrecía alguna versión de comida al estilo de los Monolitos. Nada de interiores llamativos. De esos sitios donde uno espera encontrar solo hamburguesas y papas fritas simples.
+0006 [Tú] | Nunca esperé que me trajeras a un lugar así...
+0007 [Firenze] | Déjame adivinar. En tu mente imaginabas un restaurante de clase alta iluminado por candelabros de cristal obtenidos como deseo en el Monolito, y con reservaciones hechas con meses de anticipación.
+0008 [Tú] | Después de todo, eres la directora de operaciones (COO) de la sucursal de Philae de Cosecha Unida. Esperaba un lugar acorde con ese título.
+0009 [Firenze] | Es natural que pensaras así. Este es un lugarcito al que solo vengo en ocasiones especiales.
+0010 [Firenze] | Cuando estudiaba en la Academia Philaense, venía aquí a menudo. Era el único lugar donde podía calmarme y disfrutar la comida sin distracciones.
+0011 [Tú] | ¿Porque los sabores intensos alivian el estrés?
+0012 [Firenze] | Y las porciones llenan. Perfecto para un estómago vacío, ¿verdad?
+0013 [Tú] | Así que sí oíste mi estómago rugir...
+0014 [Firenze] | Jeje, no tengo idea de qué hablas. Por favor, pide lo que quieras.
+0015 [Firenze] | Jefe, permíteme agradecerte como se debe. Así que gracias por sacarme de la oficina por un día.
+0016 [Narración] | Firenze sonrió con ternura a la comida colocada frente a ella.
+0017 [Tú] | ¿Lo sabías?
+0018 [Firenze] | Ruby y Sapphire no son buenas ocultando cosas...==W== Y tú tampoco.
+0019 [Firenze] | Pero eso es parte del encanto.
+0020 [Tú] | ¿No estás enojada con nosotros? Porque te engañamos para que salieras hoy.
+0021 [Firenze] | Te preocupas por mí. ¿Cómo podría enojarme?
+0022 [Firenze] | Y tenías razón. De verdad he estado demasiado impaciente últimamente.
+0023 [Firenze] | Pensé que invertir más tiempo y esfuerzo compensaría mis errores del pasado, pero una organización sana no puede funcionar en torno a una sola persona.
+0024 [Firenze] | Solo cuando todos cumplan su parte esta empresa podrá volver a encarrilarse.
+0025 [Tú] | En otras palabras, ¿dejarás eso de ser adicta al trabajo?
+0026 [Firenze] | Mm. De ahora en adelante empezaré a soltar poco a poco.==W== Como líder, si sigo haciendo el trabajo de mis subordinados, solo les quitaré oportunidades de crecer.
+0027 [Tú] | Qué bien. Entonces todos los que se preocupan por ti por fin podrán relajarse.
+0028 [Firenze] | ¿Contándote a ti?
+0029 [Tú] | Por supuesto.
+0030 [Firenze] | Esa fue una respuesta muy directa.
+0031 [Tú] | Tú misma dijiste que no se me da bien ocultar cosas.
+0032 [Firenze] | Jeje...==W== Muy bien, come mientras está caliente.
+0033 [Tú] | Tú también deberías comer más. Sapphire dijo que no has comido bien estos últimos días.
+0034 [Firenze] | Suspiro, Sapphire y su bocota...==W== Aunque, por lo que veo, pareces tener más cansancio que yo.
+0035 [Tú] | Ayer me pasé todo el día corriendo por las Tierras Salvajes. Todavía no me recupero.
+0036 [Firenze] | Y aun así, viniste hasta aquí a ayudar...==W== No te exijas demasiado tú también.
+0037 [Tú] | Estoy bien. Solo acepté ayudar a Ruby y Sapphire porque tenía ganas de verte.
+0038 [Firenze] | Vaya...==W== Qué frase.
+0039 [Firenze] | Déjame darte algo que te quite la fatiga. Cierra los ojos.
+0040 [Firenze] | Abre bien.
+0041 [Tú] | Ah...==W== ¡¿Gah?!
+0042 [Tú] | ¡Qué ácido!
+0043 [Firenze] | Limón fresco.==W== Delicioso, ¿verdad?
+0044 [Opción] | Está delicioso, sí, pero me sobresaltó un poco.
+0045 [Firenze] | Pero creo que es la sorpresa==W== lo que te despierta.
+0046 [Opción] | Supongo que tienes razón.
+0047 [Firenze] | Tu tiempo después==W== también me pertenece, ¿verdad?
+0048 [Firenze] | Así que quise==W== animarte,==W== para que podamos pasar un rato realmente agradable juntos.
+0049 [Opción] | Mmm... Tienes razón.
+0050 [Firenze] | En serio,==W== también quería…==W== compartir este sabor contigo.
+0051 [Opción] | ¿Qué tiene de especial?
+0052 [Firenze] | Como te dije antes,==W== venía aquí todo el tiempo cuando era estudiante,==W== y el sabor del limón de aquí==W== es un sabor conectado con mi memoria.
+0053 [Opción] | ¿Pero por qué limón?
+0054 [Firenze] | Esos días de escuela no fueron del todo fáciles...==W== Pero por eso mismo==W== no quiero olvidarlos.==W== Incluso ahora, siempre pongo un limón en el escritorio de mi oficina.
+0055 [Firenze] | Ácidos o amargos,==W== son recuerdos insustituibles para mí...
+0056 [Opción] | Más limones, por favor.
+0057 [Firenze] | ¿Eh?
+0058 [Opción] | Agreguemos también este momento a los recuerdos.
+0059 [Firenze] | ¿Qué …==W== quieres decir?
+0060 [Opción] | Un limón no tiene que ser ácido y amargo. También puede cargar momentos felices.
+0061 [Firenze] | Ah…==W== Je,==W== gracias,==W== Jefe.==W== Siempre tan perspicaz.
+0062 [Firenze] | Bueno, entonces...==W== ¿Nos terminamos hasta el último limón de aquí?
+0063 [Opción] | Eh, eso es un poco...
+0064 [Firenze] | Es broma.==W== Pero ya que lo mencionas…==W== Podrías terminarte todos estos limones==W== de la mesa, ¿verdad?
+0065 [Opción] | ¡C-claro que sí!
+0066 [Firenze] | Je,==W== entonces por favor, disfruta~
+0067 [Narración] | Después de saborear por completo los recuerdos de Firenze, salimos del restaurante.
+0068 [Firenze] | No esperaba que de verdad te los terminaras todos.
+0069 [Tú] | Una vez que te acostumbras, están bastante buenos. Y ya se me quitó el sueño por completo.
+0070 [Firenze] | Bien. Ahora podemos continuar con nuestra cita.
+0071 [Tú] | C-cita...==W== Está bien, ¿a dónde ahora?
+0072 [Firenze] | Ahora iremos a un lugar que es solo un poquitito emocionante.
+0073 [Tú] | Emocionante...
+0074 [Firenze] | Y la emoción va ligada al peligro.
+0075 [Tú] | ¿...?
+0076 [Firenze] | Jeje. Era una broma.
+0077 [Tú] | ...
+0078 [Firenze] | Solo quiero llevarte a ver los lugares donde vivía y recordar un rato.
+0079 [Firenze] | El camino es un poco largo. ¿Te animas?
+0080 [Tú] | Claro que sí. Hasta el final.
+0081 [Firenze] | Sabía que dirías eso. Vamos.
+0082 [Narración] | Firenze avanzó con un paso fácil y saltarín.
+0083 [Narración] | Al ver esa expresión de satisfacción en su rostro, sentí que había hecho exactamente lo que me propuse.
+0084 [Narración] | Y nuestro día juntos aún estaba lejos de terminar...

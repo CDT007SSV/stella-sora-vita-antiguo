@@ -1,0 +1,6 @@
+# Historia de Wraith — nombres de los actos
+# Traduce solo lo que va después de "|". No cambies lo de la izquierda.
+
+CG_143_01 | La persona que conozco (Parte I)
+CG_143_02 | La persona que conozco (Parte II)
+CG_143_03 | La persona que conozco (Parte III)

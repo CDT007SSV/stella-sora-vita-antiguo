@@ -1,0 +1,166 @@
+# Capítulo 8 · Calor residual · 3 · ¿Quién soy?
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:Blade of the East | Espada del Este
+N:Shadow of the West | Sombra del Oeste
+N:Voice from the North | Voz del norte
+N:avg1_103 | Amber
+N:avg1_110 | Firenze
+N:avg1_111 | Iris
+N:avg1_112 | Noya
+N:avg1_133 | Nazuka
+N:avg1_134 | Fuyuka
+N:avg1_138 | Nyx
+N:avg1_144 | Chitose
+N:avg1_145 | Otoha
+N:avg2_985 | Darcia
+N:avg3_100 | Sylar
+N:avg3_1285 | Otoha
+N:avg3_150 | Albedo
+N:avg3_152 | Bastelina
+N:avg3_154 | Laru
+N:avg3_999 | ???
+N:avg4_999 | Vita
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | ¿Quién soy?
+0003 [Intro] | Al reflexionar sobre este viaje, empiezas a preguntarte quién eres en realidad. Los otros tres miembros de los Aspectos de la Tétrada se deslindan públicamente de Angie y proponen una investigación oficial para limpiar tu nombre.
+0004 [Albedo] | Por favor, responda una pregunta, ==PLAYER_NAME==.==W== A estas alturas, ¿cree usted que es el legendario Tirano?
+0005 [Narración] | Al final, no le di una respuesta a Albedo.
+0006 [Narración] | Porque no sabía quién era en realidad... Incluso ahora, la respuesta se me sigue escapando.
+0007 [Lugar y hora] | 16:30, 23.º del mes de Venatio, Distrito Invernadero de Philae, interior de Cosecha Unida Philae
+0008 [1] | Chitose, ¿tienes sed?==W== Toma, te la regalo.
+0009 [Chitose] | Gracias, mi ==SEX11==. Entonces la acepto con gusto.==W== Glup...==W== Vaya, ¿qué es esto? Sabe a durazno y unas burbujitas me bailan en la lengua...==W== ¡Qué increíble!
+0010 [Tú] | Es una bebida con gas.==W== Se llama Pep Pep Juice. Puedes pedirla como deseo dentro del Monolito.
+0011 [Tú] | Noya dijo una vez==W== que el toque burbujeante te hace olvidar todos tus problemas...==W==
+0012 [Tú] | Pero las de esta máquina expendedora son imitaciones que fabrica Cosecha Unida Philae,==W== así que es difícil saber==W== si de verdad funcionan.
+0013 [Chitose] | Mi ==SEX11==...==W== ¿Le preocupa que el Comité de Salvación vuelva a atacar?
+0014 [Tú] | No, no cuando tengo a mi lado una espada en la que puedo confiar.==W== Contigo aquí, casi no son una amenaza.
+0015 [Tú] | Es solo que...==W==
+0016 [Tú] | ¿Mm?==W== ¿Un pétalo...?==W==
+0017 [Chitose] | Conozco este pétalo.==W== Es del mismo tipo que me advirtió y me llevó hasta usted.
+0018 [Tú] | Chitose,==W== ¿te molesta esperarme aquí?
+0019 [Chitose] | Como usted diga.==W== Manténgase alerta, mi ==SEX11==.
+0020 [Narración] | Sigo los pétalos por el camino silencioso del terreno de la fábrica, me cuelo por un gran agujero en la cerca y entro al invernadero, lleno de luz que proyecta sombras y de recuerdos marcados por la batalla.
+0021 [Otoha] | Jefe, te estaba esperando.
+0022 [Tú] | Otoha, gracias por salvarme hoy.==W== Si no hubiera sido por ti, me habría alcanzado el disparo del Cetro de la Muerte.==W== Espera, ese olor que traes... Lo recuerdo del banquete...==W==
+0023 [Otoha] | Y...==W== Que lo que pasó quede solo entre nosotros.
+0024 [1] | Ese olor extraño...==W== Es sangre, disimulada con flores.
+0025 [Tú] | Otoha, ¿estás herida?==W== La otra vez te lastimaste en el banquete, ¿no? ¿Ya fuiste al médico?
+0026 [Otoha] | Es solo un rasguño, nada de qué preocuparse.==W== La magia de los Centinelas es demasiado débil para acabar conmigo.
+0027 [Otoha] | Pero debo decir...==W== que me apena de verdad que todavía recuerdes algo tan insignificante de aquella noche.
+0028 [Otoha] | De verdad tienes un don para ganarte a la gente.==W== Esa chica que está a tu lado, como una espada que se lleva pegada al cuerpo,==W== seguro también se sintió atraída por lo considerado que eres.
+0029 [Tú] | «Una espada que se lleva pegada»...==W== ¿Te refieres a Chitose?==W== Mira, me das demasiado crédito.==W== Cualquiera se preocuparía por un herido.
+0030 [Otoha] | No tienes que ser tan modesto, Jefe.==W== Desde esa noche, soy tuya.
+0031 [Tú] | ¿T-==W==tuya?==W== ¿De qué estás hablando, Otoha?==W== ¿Cuándo fue que nosotros...?==W==
+0032 [Otoha] | Je, je. ¿Por qué te sonrojas?==W== Solo quise decir que he estado de tu lado todo este tiempo.==W== ¿Te estabas imaginando otra cosa?
+0033 [Tú] | ¡Ejem...!==W== Caray,==W== no lo digas de esa manera.
+0034 [Otoha] | Jejeje...==W== Perdóname, por favor.==W== Es que eres tan adorablemente ingenuo que no pude resistirme a molestarte un poquito... ♪==W==
+0035 [Tú] | ¡¿Cómo que ingenuo?!==W==
+0036 [Otoha] | Acabas de escapar de una emboscada y aun así te fuiste solo, sin ningún guardia, persiguiendo unos pétalos de flor...==W== ¿No es eso ser ingenuo?
+0037 [Tú] | Entiendo lo que quieres decir. Pero te prometí...==W==
+0038 [Otoha] | Que mantendrías en secreto mi trabajo de guardaespaldas gratis ante todos, salvo tú y el Gremio de la Nueva Estrella.
+0039 [Tú] | Además,==W== técnicamente no estaba «solo».==W== Conociéndote, seguro me estuviste vigilando todo el tiempo.==W== Contigo cerca, eso no cuenta como «estar solo».
+0040 [Otoha] | ...==W== Vaya, vaya.==W== Para ser un Jefe tan ingenuo, sí que sabes decir cosas bonitas.
+0041 [Otoha] | En fin, si mi información es correcta,==W== el Imperio de la Gracia se pondrá en contacto contigo mañana para explicar la situación.
+0042 [Tú] | ¿Mañana?==W== Ni siquiera Albedo pudo confirmarme una fecha.
+0043 [Otoha] | Je.==W== Nunca subestimes los contactos que puede tener una exninja.
+0044 [Otoha] | Ahora que lo pienso... Lograste que hablara la contadora en jefe, famosa por lo reservada que es.==W== ¿Cuál es tu truco?
+0045 [Tú] | No hice nada. Ella vino a mí y compartió información, todo para demostrar que el Imperio de la Gracia no era el culpable.
+0046 [Otoha] | Es cierto. Pero la gente no se esfuerza en demostrarte nada a menos que te hayas ganado su respeto,==W== lo que quiere decir que ya construiste una relación de confianza con el Imperio de la Gracia.
+0047 [Tú] | Respeto, ¿eh...? Me tienes en demasiada estima...==W== Yo también necesito información tuya.==W== ¿Sabes adónde fueron las dos empleadas del Instituto del Cielo que estaban con Albedo?
+0048 [Tú] | No ha podido comunicarse con ellas desde que se separaron en el hotel.
+0049 [Otoha] | ¿Te refieres a la linda dependienta y a la fanática de las papas fritas con la lanza?==W== Parece que terminaron con los soldados del Comité que huyeron.
+0050 [Otoha] | No sé si se las llevaron contra su voluntad o si se fueron con el grupo por su cuenta.==W== Sea como sea, no corren peligro inmediato. Si el Comité las quisiera muertas, no se habrían molestado en llevárselas,==W== ¿no crees?
+0051 [Otoha] | Un amable recordatorio, Jefe: ahora no es momento de preocuparte por los demás. Ni siquiera yo puedo hacerme una idea completa de lo que es capaz el Comité de Salvación.==W== Pero, por lo que sé, puede movilizar más recursos que una gran empresa como Cosecha Unida.
+0052 [Tú] | ¿Cuándo averiguaste todo esto? En el banquete dijiste...==W==
+0053 [Otoha] | A medida que el mundo se entere de tu existencia, seguirán ocurriendo «molestias» como la de hoy. Tarde o temprano, alguien intentará eliminarte con métodos mucho más brutales y directos...
+0054 [Otoha] | Fue pura coincidencia. Cuando conspiré contra Goodwind Homecare a tu sombra, aproveché para reunir algunas pistas extra. Por curiosidad, empecé a escarbar... y encontré algo enorme.
+0055 [Tú] | Otoha, me salvaste la vida cuando las cosas se pusieron feas hoy. Y ahora sigues cuidándome la espalda...
+0056 [Tú] | No sé qué has descubierto hasta ahora, pero no puedo evitar preguntarme: ¿has estado cuidándome todo este tiempo? ¿Desde aquel banquete?
+0057 [Otoha] | Claro que sí. Todas las noches me doy el gusto de ver esa carita tuya tan adorable mientras duermes~
+0058 [Tú] | Bueno... Tengo mucha suerte de tenerte como aliada, Otoha. Siento que te estoy causando muchas molestias.
+0059 [Otoha] | No tienes por qué sentirte mal.==W== Mmm... Si de verdad quieres compensarme...==W== Solo sé sincero conmigo.==W== ¿Eres el legendario Tirano?
+0060 [Tú] | Otra vez esa pregunta,==W== ¿eh...?==W==
+0061 [???] | Así que, por favor,==W== mi Tirano,==W== no vuelvas a convertirte en una estrella.
+0062 [Bastelina] | Ah, lo leíste mal.==W== Dice «Jefe».
+0063 [Bastelina] | Como lo pronunciaste,==W== Tirano...==W== Esa es una forma antigua.==W== No se ha usado en muchísimo, muchísimo tiempo.
+0064 [Vita] | Bienvenido de nuevo al Sistema de Desarrollo de Tiranos «Pozo de los Mundos»,==W== querido Tirano.
+0065 [Noya] | Jeje, voy a tomar el volante, Tirano.==W== ¡Grítame si necesitas algo!
+0066 [Tú] | No tienes que usar ese título...==W==
+0067 [Noya] | ¿Por qué no? Es bastante genial, ¿verdad? ¿No están de acuerdo?
+0068 [Iris] | Bueno, «Jefe» parece más apropiado para asuntos oficiales, considerando nuestros puestos como empleadas de «Boss Accord».
+0069 [Amber] | Yo solo usaré el nombre que está guardado en tus contactos.
+0070 [Chitose] | Soy Chitose, la espada forjada únicamente para usted, mi ==SEX11==.
+0071 [Fuyuka] | Maestro... ==PLAYER_NAME==, ¿quiere ser mi Maestro?
+0072 [Nazuka] | Siempre he... admirado esa escultura: la del héroe que lo sacrificó todo para salvar a los demás.
+0073 [Darcia] | Pero usted es Su Majestad. El único y verdadero Tirano. Yo, Darcia, le juro lealtad eterna.
+0074 [Iris] | Todos los Trekkers==W== juramos ayudar a quienes han perdido sus recuerdos.
+0075 [1] | Sueños, realidad, recuerdos perdidos...==W== Me llaman «Tirano». «Jefe». «Mi ==SEX11==». «Maestro». «Héroe». Y «Trekker»...==W==
+0076 [1] | He estado huyendo de esa pregunta todo este tiempo.==W== Pero ahora es momento de enfrentarla.
+0077 [Opción] | Un Trekker con amnesia
+0078 [Opción] | El director ejecutivo de Boss Accord
+0079 [Opción] | Si me tachan de Tirano...
+0080 [1] | No creo==W== que sea alguien importante.
+0081 [1] | Me encontraron dentro de una Caja de Deseos,==W== sin recuerdos ni identidad, así que podría ser un Trekker perdido cualquiera.==W==
+0082 [1] | Incluso mi rasgo de «inmunidad a la magia»==W== podría ser el resultado de un deseo desesperado al Monolito,==W== lo que explicaría por qué perdí todos mis recuerdos: un precio demasiado alto que tuve que pagar.
+0083 [Tú] | No me veo como el legendario Tirano,==W== y tampoco quiero ser alguien único en su tipo.
+0084 [Tú] | Solo quiero vivir mi vida como Trekker,==W== quedarme con mis amigas, a nuestra manera.
+0085 [Tú] | ¿Te convence mi respuesta?
+0086 [Otoha] | Muchísimo. La verdad, no me importa mucho quién seas.==W== Lo que de verdad importa es si puedes mantenerte firme en una situación tan grave como esta.
+0087 [Otoha] | Ahora que lo pienso, hacerte esa pregunta era completamente innecesario.==W== No te inmutaste cuando te tuve amarrado. ¿Por qué te iba a afectar una pequeña «cacería del Tirano»?
+0088 [1] | «Tirano» es un título.==W== Y los títulos solo importan si la gente los reconoce.
+0089 [1] | Si empezara a llamarme Soberano de Nova y a exigirle tributo a todo el mundo, solo pensarían que estoy loco.
+0090 [1] | Tanto Bastelina como Iris me dijeron==W== que el término «Tirano» es una forma antigua.
+0091 [1] | Así que, aunque haya existido un Tirano en la historia,==W== seguro quedó olvidado hace mucho,==W== lo que significa que el título en sí ya no tiene ningún significado real.
+0092 [1] | Por lo tanto,==W== lo que sea que haga creer a Angie que soy el Tirano...==W== no es más que una mala interpretación suya y de sus seguidores.
+0093 [1] | Soy quien soy:==W== un Trekker que ayudó a defender Philae junto con todos los demás,==W== y el director ejecutivo de Boss Accord.==W==
+0094 [1] | En todo caso, solo soy Jefe de nombre,==W== no un tirano apocalíptico de alguna profecía.==W==
+0095 [Tú] | ¿Te convence mi respuesta?
+0096 [Otoha] | Muchísimo. La verdad, no me importa mucho quién seas.==W== Lo que de verdad importa es si puedes mantenerte firme en una situación tan grave como esta.
+0097 [Otoha] | Ahora que lo pienso, hacerte esa pregunta era completamente innecesario.==W== No te inmutaste cuando te tuve amarrado. ¿Por qué te iba a afectar una pequeña «cacería del Tirano»?
+0098 [1] | Je...==W== Je, je, je...==W== ¡JAJAJAJA!==W==
+0099 [Otoha] | ¿...? ==PLAYER_NAME==, ¿qué te pasa?==W== ¿Estás bien?
+0100 [Tú] | Otoha, por fin lo entiendo. Las capacidades humanas tienen límites.
+0101 [Otoha] | ¿Q-qué...?==W== ¿Límites?
+0102 [Tú] | O sea, por más que me esfuerce, no puedo cambiar lo que ya creen.
+0103 [Otoha] | Bueno... Sí. Es cierto.
+0104 [Tú] | Así que, si están decididos a tacharme de Tirano, quizá debería convertirme en uno.
+0105 [Tú] | Si todos creen que voy a destruir el mundo, quizá sea hora de hacerme con ese poder destructivo y dejarlos a todos con la boca abierta.
+0106 [Tú] | Escucha bien, Otoha:==W== ¡me convertiré en un verdadero Tirano!==W==
+0107 [Tú] | ¿Te convence==W== mi respuesta?
+0108 [Otoha] | Muchísimo. La verdad, no me importa mucho quién seas.==W== Lo que de verdad importa es si puedes mantenerte firme en una situación tan grave como esta.
+0109 [Otoha] | Tu respuesta fue... poco convencional y un poco difícil de seguir.==W== Pero tu determinación quedó clarísima.
+0110 [Otoha] | Bueno, ya debería irme.==W== Si te entretengo demasiado, esa fiel espada tuya podría ponerse nerviosa y entrar a la carga.
+0111 [Tú] | Jaja... Sí, eso suena muy a Chitose. No hay forma de saber cómo reaccionaría.==W== Por cierto,==W== ¿hay alguna forma de contactarte, Otoha?
+0112 [Narración] | Mientras los pétalos giran suavemente con la brisa,==W== la chica que está justo frente a mí desaparece sin dejar rastro.
+0113 [Narración] | Deja mi pregunta suspendida en el aire, resonando bajo la cúpula de cristal del invernadero.==W== Pero el leve aroma a flores que me rodea delata su presencia.
+0114 [1] | Quizá quiere decir que... no necesito contactarla,==W== porque ella siempre está cuidándome.
+0115 [Narración] | Un día después
+0116 [Narración] | Tal como indicaba la información de Otoha, los miembros de los Aspectos de la Tétrada, todos excepto Angie, se comunicaron formalmente con nosotros desde Emor.
+0117 [Blade of the East] | Ofrecemos una sincera disculpa por los recientes ataques violentos en los que estuvo involucrado nuestro personal.
+0118 [Blade of the East] | Nuestra investigación confirmó que algunos de los responsables habían sido radicalizados por el Comité de Salvación, y que sus acciones violaron directamente nuestros valores y principios.
+0119 [Blade of the East] | Todos los involucrados fueron destituidos de sus puestos.==W== Tras una revisión interna exhaustiva, acordamos asumir toda la responsabilidad por cualquier daño causado por este incidente.
+0120 [Firenze] | Por una vez, el altivo y poderoso Imperio de la Gracia tuvo que tragarse su orgullo y ofrecer una disculpa genuina.==W== Aun así, tú decides si la aceptas o no, Jefe.
+0121 [Nyx] | Su promesa no vale nada a menos que nos den una solución concreta. Si confiamos en ellos tan fácilmente, seremos nosotros los que terminemos limpiando el desastre.==W==
+0122 [Shadow of the West] | ¿Ves? Ahora desconfían de nosotros. Te dije que esto pasaría.==W== Tú solo sirves para pelear. Mejor déjame a mí las negociaciones.
+0123 [Shadow of the West] | ¡Hola, hola a todos por allá~! Hablo en nombre del Ojo de la Gracia.==W== Supongo que ya han oído de nosotros. Siempre nos hemos dedicado a la investigación y a trabajar por la paz.
+0124 [Shadow of the West] | Por si sirve de algo, nuestra investigación muestra que las entradas del Libro de las Profecías de la Gracia no son nada confiables. Aunque alguna llegue a acertar, es pura casualidad.
+0125 [Shadow of the West] | Al final del día, todo eso del «legendario Tirano» no es más que un cuento anticuado enterrado en el polvo de la historia, de origen desconocido e imposible de rastrear.==W== Una persona de carne y hueso como usted seguramente no encaja en una historia así.
+0126 [Tú] | Así que esto niega que yo sea el legendario Tirano...==W== O quizá el Ojo de la Gracia niega la existencia misma del Tirano.
+0127 [Voice from the North] | Con todo respeto, debo corregir esa afirmación escandalosa. El Libro de las Profecías de la Gracia es una escritura sagrada otorgada por los Dioses. Sus palabras encierran la verdad absoluta.
+0128 [Voice from the North] | Sin embargo, Angie y el Comité de Salvación violaron claramente la doctrina del texto sagrado. Más tarde, el día de hoy, los Árbitros del Ocaso despojarán a Angie de todos sus cargos y declararán al Comité una organización herética.
+0129 [Voice from the North] | Los Árbitros del Ocaso desean realizar una investigación formal en nombre del Imperio de la Gracia para verificar si usted es el Tirano de las profecías. Tenga por seguro que la investigación será veraz e imparcial.
+0130 [Noya] | ¡Oye, espera!==W== ¿Quién les dio derecho a juzgar a ==PLAYER_NAME==?==W== ¡Eso no les corresponde!
+0131 [Voice from the North] | Los Árbitros del Ocaso siempre han sido responsables de defender la gloria del Dios de la Gracia y de proteger a los inocentes de los herejes malintencionados.
+0132 [Voice from the North] | Según el Libro de las Profecías de la Gracia, el Tirano existe, y su existencia amenaza el destino mismo de toda Nova.
+0133 [Voice from the North] | Esto no es un asunto personal. Concierne al mundo entero y exige atención inmediata.==W== Confiamos en que entrará en razón y cooperará con nosotros.
+0134 [Noya] | ¡Esto es absurdo e inaceptable!==W== ¡Sea cual sea la conclusión de su investigación, no se van a llevar a ==PLAYER_NAME==!
+0135 [Tú] | Gracias, Noya.==W== Pero puedes dejarme esto a mí.
+0136 [Noya] | P-pero...==W==
+0137 [Tú] | Confía en mí,==W== todo estará bien.
+0138 [Narración] | Me armo de valor y levanto el auricular del Artefacto de comunicación.
+0139 [1] | Habla ==PLAYER_NAME==. Los escuché. Cooperaré con la investigación del Imperio de la Gracia,==W== y confío en que el resultado será justo.

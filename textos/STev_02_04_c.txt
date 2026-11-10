@@ -1,0 +1,75 @@
+# Evento · Mensajera radiante, espíritu de la noche santa · 4C · Blue for the Snow
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_115 | Firefly
+N:avg1_125 | Freesia
+N:avg1_158 | Laru
+N:avg3_100 | Sylar
+
+## Texto
+0001 [Intro] | Acto cuatro
+0002 [Intro] | Azul de nieve
+0003 [Intro] | La Mensajera resulta ser Freesia, que también reparte regalos con uniforme. Ella recuerda que el libro fue a parar a la casa del carpintero de la calle Este 1. Laru sale corriendo apurada antes de que termines de platicar.
+0004 [Narración] | Para encontrar la foto del Espíritu del Árbol Nevado, vamos a la siguiente cuadra a buscar a la señorita Mensajera de la que hablaron los niños.
+0005 [Tú] | Ah, ahí está.
+0006 [Laru] | Sí, con una bolsa de correo tan grande, seguro es una Mensajera.
+0007 [Laru] | Y ese atuendo me suena...==W== ¿Será una compañera de trabajo...?==W== Espera, ¿quién es?==W== No la reconozco para nada...
+0008 [Freesia] | ¿Jefe? Buen día.==W== ¿Ese gorro que traes es...?
+0009 [Tú] | Ah, ¡sí es Freesia! También está en Emor... Y ese atuendo...
+0010 [Tú] | Yo...==W== acepté un encargo del Imperio de la Gracia para entregar regalos del Festival Nevado.==W== Y me tocó este gorro.
+0011 [Freesia] | Qué coincidencia. A Post Haste también le dieron el mismo encargo,==W== entregar a los residentes de Emor. Así que técnicamente estamos de viaje de trabajo.
+0012 [Freesia] | Claro que es algo bueno...==W== Pero a Post Haste le falta personal, así que aun con «todos al hilo», no avanzamos mucho...
+0013 [Laru] | ¿Eh? ¿Así que hasta subcontrataron ayuda? Qué locura...
+0014 [Laru] | Je, je, como sea, cualquiera que eche la mano es mi benefactor.
+0015 [Laru] | ¿Así que ustedes dos ya se conocen? Eres una de las profesionales de Post Haste...==W== Eh, entonces, querida benefactora, ¿cómo te llamas?
+0016 [Freesia] | Mucho gusto. Soy Freesia, de Post Haste.
+0017 [Laru] | Mm-hmm~ Soy Laru. ¡Un placer trabajar contigo, Freesia! Hay muchas probabilidades de que el Imperio de la Gracia te pida ayuda otra vez en la entrega del próximo año~
+0018 [Freesia] | Por supuesto...==W== De hecho, yo también quisiera preguntarte algo, si no te molesta.
+0019 [Laru] | ¿Mm? Si es sobre el trabajo, ¡pregunta lo que quieras! Como la forma más eficiente de hacerse la loca—==W==digo, de cumplir con tu trabajo... ¡o lo que sea!
+0020 [Freesia] | Sobre el encargo...==W== Como el Jefe puede confirmar, no es mi código de vestimenta habitual de trabajo.
+0021 [Tú] | Qué bueno. Sacó el tema que yo quería mencionar...
+0022 [Laru] | ¿Hablas de este atuendo de «Mensajera del Festival Nevado»? Je, je, ¿a poco no es lindo?==W== ¡Y el tuyo también está bastante lindo!
+0023 [Freesia] | Me halaga, Lady Laru—no, espere. Lo que quiero preguntar es...
+0024 [Freesia] | Para este trabajo de entrega, se supone que debemos usar uniforme...==W== lo cual entiendo, aunque este «uniforme» es...==W== bastante inesperado.
+0025 [Freesia] | Lo que en realidad quiero preguntar es... Este encargo se le dio a Post Haste en su conjunto,==W== pero solo recibimos un uniforme.
+0026 [Tú] | Parece que le tocó una decisión difícil.
+0027 [Freesia] | Así que al final fui yo la que se quedó con él...==W== ¿Hubo algún error en alguna parte?
+0028 [Laru] | ¿No les alcanzaron los atuendos? Mmm... Seguro alguien contó mal...==W== Pasa todo el tiempo...
+0029 [Tú] | No me digas que fuiste tú. Laru...
+0030 [Laru] | ¡Oye, no inventes rumores!==W== En fin, ¡disfruta el ambiente del festival! En cuanto te lo pones, eres una Mensajera del Festival Nevado. ¡Siéntete orgullosa!
+0031 [Tú] | ... ¿Y vamos a ignorar el uniforme mal contado así nada más?
+0032 [Laru] | Eh... De todos modos ya es tarde...==W== ¡Ejem! Ahorita todos tenemos deberes importantes...==W== ¡En nombre del Imperio de la Gracia, les agradezco su contribución! En cuanto al problema que mencionaste, se lo comunicaré a nuestro personal más tarde.
+0033 [Freesia] | Muchas gracias...==W== En Post Haste estaremos encantados de volver a trabajar con el Imperio de la Gracia en el futuro.
+0034 [Laru] | ¡Sin problema! Ah, cierto—==W==casi se me olvida, yo también tengo algo que preguntarte.
+0035 [Freesia] | Adelante, por favor.
+0036 [Laru] | Entre los regalos que entregaste, debe de haber bastantes libros, ¿verdad?
+0037 [Freesia] | Sí, a la gente de Emor le encanta leer.
+0038 [Laru] | Entonces, ¿has visto un libro con cuentos del Árbol Nevado, con una foto metida adentro?
+0039 [Freesia] | ¿Una foto? ¿Te refieres a la foto del «Espíritu del Árbol Nevado»? Pero es privacidad del cliente, no puedo...
+0040 [Tú] | Todo esto es para hacer realidad el deseo de los niños...==W== De verdad necesitamos esta información. Por favor, díganos. Les haremos una visita como se debe.
+0041 [Freesia] | Está bien, ya que lo plantea así...==W== El destinatario es... un niño de la calle Este 1.
+0042 [Tú] | ¿Recuerda algún otro detalle? Como... ¿el número de la casa?
+0043 [Freesia] | La casa no tenía número, pero por dentro olía agradablemente a virutas de pino. ¿Tal vez un carpintero?
+0044 [Laru] | Por fin, una nueva pista...
+0045 [Freesia] | Pero,==W== ¿cómo es que una foto puede cumplir el deseo de los niños?
+0046 [Laru] | Ah, están armando un escándalo por ver al Espíritu~ Y el Tirano también está bastante interesado. ¿Verdad?
+0047 [Tú] | Oye—
+0048 [Freesia] | Mmm... Puedo entender un poco ==SEX3== curiosidad. Después de todo, el espíritu de la foto...==W== parecía una niña muy tierna.
+0049 [Laru] | ...
+0050 [Freesia] | Se parecía muchísimo a...
+0051 [Laru] | ¡Ejem! ¡A-acabo de acordarme de que tenemos que darnos prisa con las entregas! ¡A este paso no vamos a terminar nunca!
+0052 [Laru] | ¡Perdón por quitarte el tiempo! ¡Mucha suerte! ¡Tirano, vámonos!
+0053 [Tú] | ¡¿Ah—?!==W== Está bien, adiós, Freesia—
+0054 [Freesia] | ¿Eh? Ah... Bueno, hasta la próxima, Jefe.
+0055 [Tú] | ¿Qué pasa? ¿Por qué estás tan nerviosa?
+0056 [Laru] | ¡Nada! Y de todos modos, todavía nos quedan montones de regalos por entregar...
+0057 [Tú] | Eso es cierto...==W== Pero ¿necesitamos apurarnos así? ¿No acabamos de conseguir una pista?
+0058 [Laru] | B-bueno, ya tenemos el dato clave, con eso basta. ¡Me daría pena seguirla entreteniendo!
+0059 [Tú] | Vaya...==W== No esperaba que fueras tan considerada, pensando en la carga de trabajo de tu «compañera».
+0060 [Laru] | ¡B-bueno! ¡Eso no importa, sigamos repartiendo regalos!==W== Y por supuesto, buscaremos la foto de pasada.
+0061 [Tú] | Vamos algo lento, pero al menos ahora sé que vamos en la dirección correcta.
+0062 [Narración] | Siguiendo la pista de Freesia, llegamos a la calle Este 1.
+0063 [Laru] | Repartamos regalos mientras preguntamos por ahí. No debe de haber muchos carpinteros en esta calle.
+0064 [Tú] | Sí—espera,==W== Laru, mira allá—

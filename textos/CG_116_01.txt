@@ -1,0 +1,75 @@
+# Historia de Ridge · 1 · An Atypical Greenhouse (Part I)
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_116 | Ridge
+N:avg3_100 | Sylar
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | Un invernadero atípico (Parte I)
+0003 [Intro] | Te invitaron al invernadero de Ridge... Espera, ¿de verdad se le puede llamar invernadero?
+0004 [Tú] | Hola, Ridge. Ya llegué. ¿Dónde estás?
+0005 [Tú] | Debería estar en este invernadero ahora mismo. En fin, déjame entrar a echar un vistazo.
+0006 [Tú] | Este lugar...==W== ¿por qué parece un laberinto...?
+0007 [Tú] | Y las plantas de aquí se ven distintas a las de otros invernaderos...
+0008 [Tú] | No hay plantas raras...==W== todas son verduras comunes y corrientes.
+0009 [Tú] | Más que un invernadero de Cosecha Unida, parece un enorme huerto...
+0010 [???] | ¡AAAAAAAAAAAHHHHH!
+0011 [Ridge] | ¡Te atrapé! ¡Hoy sí te llevas una buena tunda!==B== ¡Prepárate, ladrón de verduras!
+0012 [Tú] | ¡Espera! ¡Soy yo!
+0013 [Ridge] | ¿Eh? ¡Jefe! ¡L-lo siento mucho...!
+0014 [Tú] | Jaja...==W== No pasa nada, todos nos equivocamos a veces. Pero baja la pala por ahora, por favor...
+0015 [Ridge] | Ah...==W== Claro. De verdad, de verdad lo siento...
+0016 [Ridge] | Estaba podando el manzano y se me fue el tiempo por completo.
+0017 [Ridge] | ... ¡Ya sé!
+0018 [Ridge] | Espere aquí, Jefe.
+0019 [Ridge] | ¡Perdón por la espera! Tenga, le preparé esta ensalada mixta especial como disculpa: por el malentendido de hace rato y por hacerle esperar.
+0020 [Ridge] | Está hecha con verduras y fruta que cultivé yo misma, ¡súper frescas y muy ricas! ¡Adelante, pruébela!
+0021 [Tú] | ¡Vaya...!==W== Bueno, entonces a comer...
+0022 [Narración] | Desde que conocí a Ridge, cada vez que nos vemos me llena de comida...
+0023 [Narración] | Es difícil decir que no. Con ella mirándome con tanta ilusión, hice lo posible por terminar todo lo que compartió.
+0024 [Ridge] | Como era de esperarse, Jefe, de verdad disfruta la comida～==B== ¿Le gustó? ¿Le alcanzó? Puedo ir por más si quiere.
+0025 [Ridge] | Estuvo deliciosa, me encantó. Pero no hace falta, ya estoy lleno... Mejor hablemos del encargo.
+0026 [Ridge] | Ah, cierto...==W== El encargo.
+0027 [Ridge] | Acompáñeme, entonces. Cuidado dónde pisa.
+0028 [Tú] | Eh, Ridge...==W== ¿Es mi impresión,==W== o hay algo raro en este invernadero...?
+0029 [Ridge] | ¿De verdad? A mí todo me parece normal...
+0030 [Ridge] | ¡Ah! ¡Jefe, no vaya por ahí!
+0031 [Tú] | ¿Eh...? ¡Uy!
+0032 [Tú] | Casi me caigo… No puedo creer que haya trampas en un lugar así...
+0033 [Tú] | ¿Por qué hay tantas trampas en el invernadero de Cosecha Unida? ¿Alguien te pidió que las pusieras?
+0034 [Ridge] | No, no es eso.
+0035 [Ridge] | Es que siempre vienen ladrones a robar mis suministros. A veces hasta destrozan mis parcelas de prueba.
+0036 [Ridge] | Así que puse algunas medidas de seguridad en las zonas importantes.
+0037 [Ridge] | Y...==W== quizá me pasé un poquito～
+0038 [Tú] | ... ¿Un poquito?
+0039 [Ridge] | No nos preocupemos de eso por ahora...==W== Aquí es. Esta es mi parcela de prueba.
+0040 [Ridge] | Mi encargo trata del maíz que cultivo aquí.
+0041 [Ridge] | Aunque planté solo variedades certificadas de alto rendimiento, siempre hay diferencias notables en la cosecha del campo.
+0042 [Ridge] | Jefe, ¿podría ayudarme a averiguar algo?
+0043 [Tú] | Mmm...==W== Me encantaría ayudar, pero...==W== no sé nada de agricultura...
+0044 [Ridge] | ¡Pero creo que no hay nada que usted no pueda hacer, Jefe! ¡Seguro me ayuda con esto!
+0045 [Tú] | Me mira con tanta ilusión que no puedo decir otra cosa que sí...
+0046 [Tú] | Muy bien, repasemos la situación.
+0047 [Tú] | ¿Quieres decir que, aunque escogiste semillas de alto rendimiento, la cosecha de maíz sale distinta cada vez?
+0048 [Ridge] | ¡Sí, así es! ¡Jefe, qué rápido entiende!
+0049 [Tú] | Formas de aumentar el rendimiento, ¿eh?...==W== Ahora que lo pienso, creo que leí algo sobre esto en un libro dentro del Monolito... ¿Qué era...?
+0050 [Tú] | Ya, creo que era un «experimento con guisantes».
+0051 [Narración] | Basándome en lo poco que recordaba, le expliqué a Ridge un resumen rápido del «experimento con guisantes».
+0052 [Ridge] | ¡Ajá, ya entendí! O sea, ¿solo hay que cruzar las variedades de alto rendimiento, verdad?
+0053 [Ridge] | Se podría reevaluar cómo rinde cada variedad en distintos entornos.==W== Asegurarse de que el fertilizante sea el adecuado... Si se maximiza todo eso, seguro funciona...
+0054 [Ridge] | ¡Jefe, es increíble! ¡Esas sugerencias suenan como de un experto! De verdad me ayudan mucho.
+0055 [Tú] | ¿En serio para tanto? Bueno, mientras sirva, me alegro.
+0056 [Ridge] | Voy a sembrar un lote de guisantes tal como me sugirió, ahora mismo～
+0057 [Tú] | ¿Guisantes? ¿No cultivas maíz?
+0058 [Ridge] | Sí. Pasar directo al maíz podría ser un poco arriesgado. Como se llama «experimento con guisantes», lo probaré primero con guisantes.
+0059 [Ridge] | Cuando domine este método de cruza, lo usaré con otros cultivos también.
+0060 [Ridge] | ¡Guau～! Eso significa que el encargo está completo, ¿verdad?
+0061 [Ridge] | ¡Muy bien, entonces! Puede llevarse todo esto:==W== ¡hasta el último pedacito!
+0062 [Tú] | Vaya... Otra vez, tanta cantidad... En fin, gracias.
+0063 [Tú] | Un carrito entero de frutas y verduras... Por lo que veo, el Gremio de la Nueva Estrella no tendrá que preocuparse por comida por un buen rato.
+0064 [Ridge] | Si necesita más, avíseme, no sea tímido～
+0065 [Tú] | Jaja...==W== Si me llevo más, no podré cargarlo todo de regreso... Pero gracias, se lo agradezco mucho.

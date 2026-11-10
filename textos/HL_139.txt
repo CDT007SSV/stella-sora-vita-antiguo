@@ -1,0 +1,205 @@
+# Heartlink de Allie: conversaciones del telefono
+# Traduce solo lo que va después de "|". No cambies la clave de la izquierda (01.0001).
+# Los saltos de línea van escritos como \n. Respeta ==PLAYER_NAME==. [Tú] = tus mensajes y opciones.
+# Las opciones [Opción] son lo que el jugador puede elegir responder.
+
+## Conversación A01
+A01.0001 [Allie] | Entonces esto significa que somos amigos, ¿no?
+A01.0002 [Allie] | ¿Puedes ver mis mensajes, ==PLAYER_NAME==?
+A01.0003 [Opción] | ¡Sí! ¡Los veo!
+A01.0004 [Allie] | Ah, menos mal.
+A01.0005 [Allie] | Nunca había hablado con nadie con un teléfono.
+A01.0006 [Opción] | ¿Nunca habías usado un teléfono?
+A01.0007 [Opción] | ¿No te agregó el Gremio de la Nueva Estrella?
+A01.0008 [Allie] | O sea... sí los he usado...
+A01.0009 [Allie] | Pero no es que tenga contactos, ni a nadie a quien escribirle.
+A01.0010 [Allie] | Así que nunca me molesté.
+A01.0011 [Allie] | Mmm...
+A01.0012 [Allie] | Ellos no podían pagar teléfonos cuando salieron como Trekkers.
+A01.0013 [Allie] | Si no los hubieras traído hasta aquí...
+A01.0014 [Allie] | Probablemente nunca nos habríamos conectado.
+A01.0015 [Tú] | Ah, ya veo.
+A01.0016 [Allie] | Tengo que irme, los niños me necesitan.
+A01.0017 [Allie] | ¡Hablamos luego!
+
+## Conversación A02
+A02.0001 [Tú] | ¿Todo bien? ¿Pasó algo?
+A02.0002 [Allie] | No realmente.
+A02.0003 [Allie] | Acabo de terminar mis quehaceres, así que estoy un poco cansada.
+A02.0004 [Allie] | ¿No es este el emoji de sudor?
+A02.0005 [Opción] | Eh... No significa exactamente eso.
+A02.0006 [Allie] | ¿Eh?
+A02.0007 [Allie] | Uno suda cuando trabaja duro, ¿no?
+A02.0008 [Allie] | Y sudar significa que hay cansancio.
+A02.0009 [Allie] | ¿Está mal?
+A02.0010 [Allie] | Ahora que lo pienso, Iris me manda este de vez en cuando.
+A02.0011 [Allie] | ¿Estará trabajando demasiado últimamente?
+A02.0012 [Tú] | Bueno, conociendo a Iris...
+A02.0013 [Tú] | Cuando lo manda, hay muchas probabilidades...
+A02.0014 [Tú] | de que de verdad esté agotada.
+A02.0015 [Allie] | ¿Ves?
+A02.0016 [Allie] | Te lo dije.
+A02.0017 [Allie] | ¿Qué pasa?
+A02.0018 [Allie] | ¿Tú también estás agotándote, ==PLAYER_NAME==?
+A02.0019 [Tú] | Ah, no.
+A02.0020 [Tú] | Olvídalo. Estoy bien.
+
+## Conversación A03
+A03.0001 [Allie] | ¿Ya comiste hoy, ==PLAYER_NAME==?
+A03.0002 [Opción] | ¡Sí!
+A03.0003 [Opción] | No
+A03.0004 [Tú] | ¡Reportándome! ¡Plato limpio!
+A03.0005 [Allie] | ¡Bien hecho!
+A03.0006 [Tú] | Se me complicó el día y aún no he tenido oportunidad.
+A03.0007 [Allie] | Hmm...
+A03.0008 [Allie] | ¿Qué es más importante que cuidarse a uno mismo?
+A03.0009 [Tú] | Tuvimos un encargo urgente.
+A03.0010 [Tú] | Acabamos de terminar.
+A03.0011 [Tú] | ¡Estoy comiendo ahora mismo!
+A03.0012 [Allie] | ¡Bien!
+
+## Conversación A04
+A04.0001 [Allie] | No puedo creer que de verdad esté lloviendo en Mirage hoy.
+A04.0002 [Allie] | Dime que llevaste paraguas, ==PLAYER_NAME==.
+A04.0003 [Opción] | No
+A04.0004 [Opción] | Sí
+A04.0005 [Tú] | Pero encontré una roca donde esconderme
+A04.0006 [Tú] | Y el Gremio de la Nueva Estrella ya viene en camino con Loxy
+A04.0007 [Tú] | Claro
+A04.0008 [Tú] | ¡Nunca salgo de casa sin uno!
+A04.0009 [Tú] | ¡No te preocupes!
+A04.0010 [Allie] | Ah, qué bueno...
+A04.0011 [Tú] | ¿Quién espera un aguacero en pleno desierto?
+A04.0012 [Tú] | Sin duda me tomó por sorpresa
+A04.0013 [Allie] | Yo tampoco he visto llover tan fuerte por aquí.
+A04.0014 [Tú] | El clima ha estado totalmente loco últimamente
+A04.0015 [Tú] | ¿Será que alguien lo está manipulando con magia?
+A04.0016 [Allie] | No creo que exista una magia así.
+A04.0017 [Tú] | Buen punto
+A04.0018 [Tú] | Oh
+A04.0019 [Tú] | Loxy acaba de llegar
+A04.0020 [Tú] | Me subo
+A04.0021 [Allie] | Hablemos cuando llegues a casa.
+A04.0022 [Tú] | ¡Claro!
+
+## Conversación A05
+A05.0001 [Allie] | ==PLAYER_NAME==, ¿quieres escuchar una historia de Noya de cuando era pequeña?
+A05.0002 [Opción] | ¿A qué viene esto?
+A05.0003 [Opción] | Se siente un poco intrusivo, ¿no?
+A05.0004 [Allie] | Hoy estuve vaciando unas cajas.
+A05.0005 [Allie] | Encontré su vieja mantita de bebé.
+A05.0006 [Allie] | Me trajo algunos recuerdos.
+A05.0007 [Allie] | Pero...
+A05.0008 [Allie] | La verdad no creo que le moleste.
+A05.0009 [Allie] | Sobre todo si eres tú.
+A05.0010 [Allie] | Siempre pateaba las cobijas mientras dormía.
+A05.0011 [Allie] | Yo la arropaba...
+A05.0012 [Allie] | Le daba la espalda dos segundos y ya la había pateado otra vez.
+A05.0013 [Allie] | Así que se me ocurrió una solución.
+A05.0014 [Tú] | ¿Cuál?
+A05.0015 [Allie] | Até la manta al armazón de la cama con una soga para que no pudiera patearla.
+A05.0016 [Allie] | Luego la desataba antes de que se despertara.
+A05.0017 [Allie] | Nunca sospechó nada.
+A05.0018 [Tú] | Brutalmente efectivo.
+
+## Conversación A06
+A06.0001 [Allie] | ¡Jefe! ¡Jefe!
+A06.0002 [Allie] | ¡¿Cuándo vas a volver a jugar con nosotros?!
+A06.0003 [Opción] | ¿Quién es...?
+A06.0004 [Allie] | Ah.
+A06.0005 [Allie] | Perdón por eso.
+A06.0006 [Allie] | Los niños me robaron el teléfono.
+A06.0007 [Tú] | Ah, eso lo explica
+A06.0008 [Allie] | Desde que estuviste con ellos la última vez...
+A06.0009 [Allie] | El Jefe es casi una celebridad por aquí.
+A06.0010 [Allie] | Todos están ansiosos de que vuelvas.
+A06.0011 [Tú] | Me halaga
+A06.0012 [Allie] | Sinceramente, yo también quisdhjlhdajsf
+A06.0013 [Tú] | ¿Qué?
+A06.0014 [Allie] | Dame un segundo
+A06.0015 [Allie] | Un niño acaba de caerse en el patio.
+A06.0016 [Tú] | ¿Está bien?
+A06.0017 [Allie] | Sí, solo se raspó la rodilla.
+A06.0018 [Allie] | Tengo que ir a curarlo.
+A06.0019 [Tú] | ¿Necesitas una mano?
+A06.0020 [Allie] | Si tienes tiempo, ==PLAYER_NAME==.
+A06.0021 [Tú] | Voy para allá
+
+## Conversación A07
+A07.0001 [Allie] | ¿Por qué sigues despierto?
+A07.0002 [Allie] | Las luces de Loxy siguen encendidas.
+A07.0003 [Opción] | ¡Estamos dormidos!
+A07.0004 [Opción] | Solo olvidamos apagar las luces
+A07.0005 [Allie] | ¿Entonces quién me está escribiendo?
+A07.0006 [Allie] | ¿Cómo duermen con luces tan brillantes?
+A07.0007 [Allie] | Sinceridad, por favor.
+A07.0008 [Allie] | ¿Qué están haciendo?
+A07.0009 [Tú] | Estamos...
+A07.0010 [Tú] | Viendo ese Stella Drama que sacamos del Monolito con un deseo hoy
+A07.0011 [Allie] | En serio...
+A07.0012 [Allie] | ¿Otra noche en vela, eh?
+A07.0013 [Tú] | ¡Perdón!
+A07.0014 [Tú] | ¡Me voy a dormir ahora mismo!
+A07.0015 [Tú] | ¿Y tú por qué sigues despierta, Allie?
+A07.0016 [Allie] | Estaba terminando mi ronda y arropando a los niños.
+A07.0017 [Allie] | Entonces vi tu vehículo estacionado en el patio con las luces a todo.
+A07.0018 [Allie] | Bueno, yo también me voy a dormir.
+A07.0019 [Allie] | Apaga la pantalla, ¿me oyes?
+A07.0020 [Tú] | ¡A la orden, señora!
+
+## Conversación A08
+A08.0001 [Allie] | ¿Estás libre, ==PLAYER_NAME==?
+A08.0002 [Opción] | ¡Feliz cumpleaños!
+A08.0003 [Allie] | ¿Eh?
+A08.0004 [Tú] | ¿No es hoy tu cumpleaños?
+A08.0005 [Allie] | Déjame revisar el calendario...
+A08.0006 [Allie] | Vaya, creo que sí. El tiempo vuela.
+A08.0007 [Allie] | Gracias.
+A08.0008 [Allie] | En fin, volviendo a mi pregunta. ¿Estás libre hoy?
+A08.0009 [Opción] | Claro que sí
+A08.0010 [Opción] | ¿Qué pasa?
+A08.0011 [Allie] | Ven al orfanato a cenar esta noche.
+A08.0012 [Tú] | ¡Perfecto, yo llevo el pastel!
+A08.0013 [Allie] | ¡Solo ven tú! No hace falta comprar pastel.
+A08.0014 [Tú] | ¡Es un cumpleaños! ¡El pastel no se negocia!
+A08.0015 [Allie] | Está bien, está bien.
+A08.0016 [Allie] | Nos vemos esta noche.
+A08.0017 [Tú] | Nos vemos
+
+## Conversación A09
+A09.0001 [Allie] | Todos se han vuelto muy fuertes.
+A09.0002 [Allie] | Noya, Amber, Iris... Todas.
+A09.0003 [Tú] | Ya lo creo
+A09.0004 [Allie] | Verlos así...
+A09.0005 [Allie] | Creo que por fin puedo dejar de preocuparme tanto.
+A09.0006 [Allie] | Noya hasta podría ganarme en una pelea ahora.
+A09.0007 [Tú] | No exageremos
+A09.0008 [Tú] | ¡Sigues siendo una potencia, Allie!
+A09.0009 [Tú] | Además, te llevas perfecto con todos
+A09.0010 [Allie] | Eso es trabajo en equipo.
+A09.0011 [Allie] | Es el fuego de cobertura de Amber y el apoyo de Iris lo que hace que funcione.
+A09.0012 [Tú] | No, en serio
+A09.0013 [Tú] | Eres más que lo bastante fuerte por tu cuenta
+A09.0014 [Allie] | Jaja.
+A09.0015 [Allie] | Está bien, te creo.
+A09.0016 [Allie] | Aun así, ver a los niños crecer tan rápido...
+A09.0017 [Allie] | Mentiría si dijera que no siento la presión.
+A09.0018 [Allie] | Es hora de reforzar mi propio entrenamiento.
+A09.0019 [Allie] | ¡Tú tampoco te quedes atrás, ==PLAYER_NAME==!
+
+## Conversación A10
+A10.0001 [Allie] | Esos recuerdos...
+A10.0002 [Allie] | Y pelear junto a la Compañía del Gato Blanco hoy...
+A10.0003 [Opción] | ¿Allie?
+A10.0004 [Allie] | Perdón.
+A10.0005 [Allie] | No te preocupes por mí.
+A10.0006 [Allie] | Solo me quedé un poco atrapada en el pasado.
+A10.0007 [Allie] | Sobre el pasado grabado en este registro.
+A10.0008 [Allie] | Pero esa mercenaria, Taffett...
+A10.0009 [Allie] | Hace mucho que se fue.
+A10.0010 [Allie] | Lo único que queda es Allie, la madre del orfanato.
+A10.0011 [Tú] | ¡Exacto!
+A10.0012 [Tú] | ¡Y eres la mejor mamá que tus niños podrían pedir!
+A10.0013 [Allie] | Gracias, ==PLAYER_NAME==.
+A10.0014 [Allie] | Por ayudarme a revisitar esos recuerdos hoy.
+A10.0015 [Tú] | Cuando quieras

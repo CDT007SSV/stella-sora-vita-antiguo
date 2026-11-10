@@ -1,0 +1,117 @@
+# Evento · Enmarcando los sentimientos invisibles · 1 · El reencuentro
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_115 | Firefly
+N:avg1_118 | Coronis
+N:avg1_158 | Laru
+N:avg2_980 | Atacante de proyectiles
+N:avg3_100 | Sylar
+N:avg3_205 | Igna
+N:avg3_999 | ???
+
+## Texto
+0001 [Intro] | Acto uno
+0002 [Intro] | El reencuentro
+0003 [Intro] | Aceptas un encargo de Igna y viajas a Emor, donde te reencuentras con Firefly, la niña que conociste durante el Festival Nevado.
+0004 [Tú] | Por fin... Llegué...
+0005 [Tú] | Esta vez, el cliente me pidió que nos viéramos al pie del Monolito de Emor...
+0006 [Tú] | No esperarán que lo escale, ¿verdad?
+0007 [Tú] | Como se supone que este encargo no incluye ninguna pelea, vine solo...==W== Aun así, es un poco raro que me pidieran específicamente que viniera por mi cuenta...
+0008 [Tú] | Además, quien me consiguió este trabajo fue...
+0009 [Coronis] | Oh, hola, ==PLAYER_NAME==.
+0010 [Tú] | Perdona la espera.==W== Entonces... ¿para qué me necesitabas?
+0011 [Coronis] | ¿Qué es esa cara? Pareces una ratita de laboratorio resignada a su destino.==W== Si de verdad no te sientes bien, podría hacerte un examen completo antes que nada.
+0012 [Tú] | No, no, no hace falta.==W== No es necesario llegar a tanto. Hoy no...
+0013 [Coronis] | Entonces relájate. Hoy no te llamé para que me ayudes con mi investigación.
+0014 [Tú] | ... ¿En serio?
+0015 [Coronis] | Claro. Aunque siempre puedo cambiar de opinión sobre la marcha.==W== No hay sujeto de pruebas que me atraiga más que tú.
+0016 [Tú] | ¡N-no, gracias! ¡Mejor ve al grano!
+0017 [Tú] | Si no es un experimento...==W== ¿entonces tienes un encargo para mí?
+0018 [Coronis] | Así es. Más exactamente, viene de una vieja amiga mía.
+0019 [Coronis] | Una vez me salvó la vida...==W== literalmente.
+0020 [Tú] | Tu amiga...==W== ¿También es doctora?
+0021 [Coronis] | Doctora...==W== Más o menos.==W== Fue a la misma universidad que yo. Se llama Igna.
+0022 [Tú] | ¿Igna...?
+0023 [Coronis] | ¿Has oído hablar del Ojo de la Gracia, Tirano?
+0024 [Tú] | El Ojo de la Gracia... Si no me falla la memoria, es un instituto de investigación académica del Imperio de la Gracia, ¿no?
+0025 [Coronis] | Así que sí lo conoces. Igna trabaja ahí ahora, y al parecer el proyecto que lleva últimamente anda corto de personal.
+0026 [Coronis] | Por ciertas razones, todavía no estoy en posición de pasearme abiertamente por la ciudad de Emor...==W== Así que te recomendé a ti en mi lugar.
+0027 [Tú] | ¿Un proyecto de investigación? Pero yo no tengo ninguna formación médica profesional.
+0028 [Coronis] | Los proyectos grandes siempre terminan subcontratando...
+0029 [Tú] | ¡O sea que soy básicamente el temporal al que le echarán la culpa si algo sale mal!
+0030 [Coronis] | Je. Cuando pienso en gente capaz y culta, tú eres el primero que me viene a la mente.
+0031 [Coronis] | Aunque... tengo la impresión de que nunca tuvo la intención de pedírmelo a mí.
+0032 [Coronis] | Lo que en realidad me preguntó fue si conocía a alguien a quien pudiera traer para ayudar. Dudo que yo estuviera siquiera en sus planes.
+0033 [Coronis] | Así que te mencioné para tantear el terreno,==W== y se emocionó muchísimo de inmediato. Me dijo que tenía que trabajar contigo sí o sí.==W== ¿Ya se conocían?
+0034 [Tú] | No creo haberla conocido...
+0035 [Coronis] | Entonces parece que tu fama te precede, Tirano.
+0036 [Coronis] | Nunca imaginé que tanta gente reconociera tu valor.==W== Je. Y aquí estoy yo, deseando quedarme contigo para mí sola.
+0037 [Tú] | ... Viniendo de ti, por alguna razón no me alegra...
+0038 [Tú] | Espera un momento. No me digas que esa amiga tuya también es de las que...
+0039 [Coronis] | Je. Tranquilo. Ella no es una científica loca.
+0040 [Coronis] | Al menos, no de las que querrían atarte a una camilla para experimentar contigo.
+0041 [Tú] | Eh... Eso me tranquiliza...
+0042 [Coronis] | Aun así, deberías tener cuidado.==W== Tal vez solo esconde su obsesión detrás de una fachada respetable.
+0043 [Coronis] | La conozco desde hace mucho, pero incluso ahora,==W== sigo sin tener idea de lo que realmente pasa por su cabeza...
+0044 [Tú] | ¿Entonces es normal o no?
+0045 [Tú] | Suspiro... Olvídalo.==W== Volvamos al tema. ¿De qué trata exactamente este encargo?
+0046 [Coronis] | Eso,==W== no tengo la menor idea.
+0047 [Tú] | ... ¿Eh?
+0048 [Coronis] | Al parecer es confidencial. Dijo que te daría los detalles en persona.
+0049 [Coronis] | Pero sí dijo explícitamente que no habrá ningún combate, así que no tienes de qué preocuparte.
+0050 [Coronis] | Entonces, ¿lo aceptas?
+0051 [Tú] | Si no hay que pelear...==W== supongo que no habrá problema en ir solo.
+0052 [???] | ~♪
+0053 [1] | Parece que alguien está aquí. ¿Será el cliente?
+0054 [1] | No... No parece un adulto...==W== ¿Será un niño perdido?
+0055 [???] | Flores.==W== Bonitas.
+0056 [???] | Tomar foto.
+0057 [1] | ¿Eh? Ese mechón rebelde me resulta extrañamente familiar...
+0058 [Laru] | Ya veo...==W== O sea que tu deseo no era sobre regalos, ¿verdad?
+0059 [Firefly] | No.
+0060 [Laru] | Bien... Entonces, ¿cuál es tu deseo?
+0061 [Firefly] | Deseo...==W== un amigo con quien jugar.
+0062 [1] | ¿No es la niña con la que me topé durante el Festival Nevado?
+0063 [1] | ¿Quiere entrar al Monolito a jugar otra vez?
+0064 [1] | ¡Firefly, soy yo! ¿Te acuerdas de mí?
+0065 [1] | ¡¿Eh?!
+0066 [Firefly] | ~♪
+0067 [1] | Ah, está tomando fotos.==W==
+0068 [Firefly] | Otra más.==W==
+0069 [1] | Parece que no me ha visto.==W== Aun así, qué alivio. Al menos no va a entrar al Monolito...
+0070 [1] | La primera vez que nos vimos, andaba por todo el Monolito persiguiendo Stellaroids...==W== La verdad, verla con un pasatiempo normal como este es un gran alivio.
+0071 [Tú] | ¿Está sola? ¿Dónde está su tutora?
+0072 [???] | Hola.
+0073 [???] | Disculpa, ¿tú eres al que llaman Tirano?
+0074 [Igna] | Mucho gusto. Soy Igna, del Ojo de la Gracia.
+0075 [Tú] | ¿Eres mi cliente...?
+0076 [Igna] | Sí. Y es un honor conocerte.
+0077 [Firefly] | Aquí también...==W==
+0078 [Igna] | Parecía que estabas a punto de hablarle a esa niña...==W== ¿Conoces a Firefly?
+0079 [Tú] | Sí, nos conocimos una vez.
+0080 [Igna] | Ya veo...==W== Qué coincidencia tan inesperada.==W== Si no te molesta, ¿podrías contarme con detalle cómo fue ese encuentro?
+0081 [Tú] | Supongo que no hay problema...
+0082 [Tú] | Qué raro. ¿No íbamos a hablar del encargo?
+0083 [Tú] | Después entramos juntos al Monolito y combatimos contra Stellaroids...==W== En fin, más o menos ayudé a Firefly a cumplir su deseo.
+0084 [Tú] | ... Y básicamente eso fue todo.
+0085 [Igna] | Ya veo. Así que hubo todo un episodio así durante el Festival Nevado...
+0086 [Igna] | Je. Entonces parece que sí le pedí este encargo a la persona correcta.
+0087 [Tú] | ... ¿Hm? ¿A qué te refieres?
+0088 [Igna] | Me refiero a que, como ya tienes experiencia con ella, claramente nadie es más adecuado que tú para este trabajo.
+0089 [Igna] | El encargo es este:==W== quiero que cuides a Firefly por un tiempo.
+0090 [Tú] | ... ¿Eso es todo?
+0091 [Igna] | Eso es todo...
+0092 [Igna] | Bueno, no es tan sencillo como suena.
+0093 [Igna] | Imagino que ya te habrás dado cuenta, hasta cierto punto, de que Firefly creció en un entorno muy poco común.
+0094 [Igna] | Por eso, en muchos aspectos es distinta de los niños normales...==W== Es decir, su idea de lo que es normal es un poco diferente...
+0095 [Igna] | Lograr que se porte bien y haga caso puede ser un verdadero dolor de cabeza...
+0096 [Igna] | Y por eso mismo te lo pido a ti.==W== Como ya se conocen, de verdad son una muy buena pareja.
+0097 [Tú] | Ya veo... Si el encargo es solo eso, creo que puedo manejarlo yo solo.
+0098 [Tú] | Entendido. Acepto el trabajo.
+0099 [Tú] | Ahora que lo pienso, Firefly una vez mencionó que tenía una mentora.==W== ¿Serás tú?
+0100 [Igna] | No, esa es otra persona. La conocerás muy pronto.
+0101 [Igna] | Tengo otros asuntos que atender, así que por ahora dejo a Firefly a tu cuidado.==W== Cuando se haya divertido lo suficiente, por favor llévala de vuelta a su casa en Emor.
+0102 [Narración] | Después de explicar el encargo, Igna me dio la dirección de Firefly y me dijo cuándo volveríamos a vernos, y se marchó apresuradamente.
+0103 [Tú] | … Qué misteriosa es.

@@ -1,0 +1,129 @@
+# Evento · ¡Aventura audaz! El barco fantasma ronda las profundidades · 3 · Misterios y aromas
+# Traduce solo lo que va después de "|". No cambies el número ni lo que está entre [corchetes].
+# Respeta las marcas como ==W==, ==PLAYER_NAME== o ==SEX==.
+
+## Nombres
+N:avg1_155 | Shia
+N:avg1_157 | Karin
+N:avg3_100 | Sylar
+N:avg3_201 | Marlene
+
+## Texto
+0001 [Intro] | Acto tres
+0002 [Intro] | Misterios y aromas
+0003 [Intro] | Te enteras del propósito de Shia y Karin en este viaje: quieren limpiar el nombre de su abuela. Por alguna razón, Shia es inusualmente cariñosa contigo…
+0004 [Shia] | Hace trece años apareció una luz misteriosa sobre el mar y sumió a todo el pueblo en el pánico; la gente pensó que era una señal, un presagio de algún desastre.
+0005 [Shia] | La abuela era la mejor Trekker marina de la zona, así que, con un barco nuevo y las esperanzas del pueblo a cuestas, zarpó para averiguar la verdad.
+0006 [Shia] | Navegó tres días y tres noches... y por fin la alcanzó.
+0007 [Shia] | —Pero no era solo luz. Era un enorme Barco fantasma, brillando en plena noche.
+0008 [Marlene] | ...
+0009 [Marlene] | Así que las leyendas... son ciertas.
+0010 [Shia] | La abuela estuvo desaparecida casi dos semanas. Todos pensaron que la habíamos perdido.
+0011 [Tú] | ¿Qué pasó después?
+0012 [Shia] | Entonces, una mañana, alguien la encontró inconsciente en la playa. Había logrado volver en un botecito de remos desvencijado.
+0013 [Shia] | Estaba cubierta de vendas, con la ropa hecha jirones, agotada hasta los huesos... Me quedé helada del susto cuando la vi.
+0014 [Shia] | Cuando despertó, nos contó lo que pasó.
+0015 [Marlene] | Nunca...==W== jamás... se acerquen a esas aguas.
+0016 [Marlene] | Una vez que entras en el territorio del Barco fantasma, no hay escapatoria.
+0017 [Marlene] | Los fantasmas... se trepan a tu barco cuando no estás mirando, te ahorcan y te arañan la piel... lo que sea con tal de arrastrarte al fondo.
+0018 [Marlene] | Intenté repelerlos con un arma, pero mi esfuerzo fue en vano. Tuve que abandonar mi barco...==W== Si no fuera por ese bote de repuesto... ahora sería otro fantasma más a bordo.
+0019 [Tú] | Barco fantasma... ¿Así que sí existe? Pensé que era solo un mito.
+0020 [Karin] | El mar está lleno de cosas que no creerías.
+0021 [Karin] | ¡Eso es lo que lo hace tan tentador!
+0022 [Tú] | Pero si saben que es el Barco fantasma, ¿por qué arriesgarse a volver allá?
+0023 [Shia] | Porque algunas personas del pueblo no creen lo que dijo la abuela.
+0024 [Shia] | Piensan que la luz es algún enorme tesoro hundido.
+0025 [Shia] | Y que el Barco fantasma fue solo un cuento que ella inventó para quedarse con el tesoro...
+0026 [Tú] | Con razón algunos se rieron en nuestra cara cuando preguntamos por el Barco fantasma.
+0027 [Tú] | Me temo que piensan que es un engaño.
+0028 [Shia] | Desde entonces, la luz ha aparecido cada pocos años. Sea coincidencia o no, siempre aparece después de lluvias continuas de verano. Y como es cuando hay más tormentas, nadie se atreve a salir al mar.
+0029 [Shia] | Pero dejó de aparecer hace unos años... justo cuando la abuela falleció.
+0030 [Shia] | Así que la gente empezó ese horrible rumor de que la luz desapareció porque la abuela se llevó todo el tesoro antes de morir.
+0031 [Karin] | Ella intentaba proteger a todos, y la llaman mentirosa... Es tan injusto.
+0032 [Shia] | Pero después de esa gran tormenta de hace unos días, la luz por fin regresó. Esta es nuestra oportunidad. Tenemos que encontrar ese Barco fantasma.
+0033 [Tú] | Oh, ya entiendo. Lo hacen para limpiar el nombre de su abuela, ¿verdad?
+0034 [Karin] | Exacto. ¿Y los desgraciados que van esparciendo esas mentiras? Contrataron a sus propios Trekkers y presumen que «encontrarán el tesoro en una semana».
+0035 [Karin] | ...==W== Una buena tormenta debería deshacerse de ellos. ¿No?
+0036 [Tú] | ¿Acaba de decir lo que creo que dijo...? No, seguro entendí mal...
+0037 [Karin] | ¿Verdad? ¿Verdad? ¿Verdad? ¿Verdad? ¿Verdad? ¿Verdad? ¡¿Verdad?! ¡¡¿VERDAD?!!
+0038 [Tú] | ¡¡Esto sí da muchísimo miedo!!
+0039 [Shia] | A la abuela nunca le importaron los rumores, pero yo no soporto que hablen mal de su nombre.
+0040 [Shia] | ... Y sí, necesito resolver el misterio que nos dejó.
+0041 [Tú] | ¿Un misterio? ¿Entonces su abuela escondía otro secreto?
+0042 [Karin] | ¡Claro que sí! ¡Un estúpido barco fantasma no nos asusta!
+0043 [Karin] | ¡Además, hasta conseguimos una cámara especial de la Asociación de Trekkers para captar a esos fantasmas en foto!
+0044 [Tú] | Mmm, si de verdad lograran una foto del Barco fantasma...
+0045 [Karin] | —¡Podemos tomar fotos malditas! ==W==¡Eso maldecirá a todos los desgraciados que hablaron mal de la abuela! ¡Por generaciones! ¿Verdad?
+0046 [Tú] | ¿M-Maldecir...? Bien, definitivamente no entendí mal...
+0047 [Tú] | En fin, buscamos lo mismo.
+0048 [Tú] | Me pregunto si me dejarían unirme...
+0049 [Tú] | Ejem. Tengo una propuesta para ustedes dos.
+0050 [Shia] | ¿Una propuesta?
+0051 [Karin] | ¿Qué es? Suéltalo.
+0052 [Tú] | Ya que todos estamos investigando la luz, ¿les molesta si las acompaño?
+0053 [Tú] | No sé nadar ni navegar, pero soy rápido y puedo echar una mano. Un par de manos más, ¿no?
+0054 [Karin] | Mmm...==W== ¿Qué opinas, Shia?
+0055 [Karin] | Suena bien, pero ¿y si ==SEX== en realidad es mala persona?
+0056 [Karin] | Digo, ==SEX== podría terminarse nuestra comida mientras dormimos... o peor, ¡manipular el timón!
+0057 [Shia] | Jeje, no te preocupes, Karin~♪ El Jefe no es mala persona.
+0058 [Tú] | ¿Oh? ¿Estás segura?
+0059 [Shia] | Jeje, solo es una corazonada.
+0060 [Tú] | ¿Tendrá alguna habilidad especial...?
+0061 [Shia] | Entonces, ¿Karin? ¿Cuál es el veredicto?
+0062 [Karin] | Está bien. Tu instinto nunca falla. Me apunto~
+0063 [Karin] | ¡Bienvenido a la tripulación!
+0064 [Shia] | Qué gusto tenerte, Jefe~
+0065 [Tú] | El gusto es mío. Es mi primera vez en el mar, así que cuento con ustedes para enseñarme lo básico.
+0066 [Shia] | ¡Mjm! Te cuidaremos muy bien. ¡No te preocupes!♪
+0067 [Karin] | ¡Sin problema! ¡El mar está de nuestro lado! ¡Viento en popa!
+0068 [Tú] | ¡Guau...!
+0069 [Tú] | ... Pensé que me costaría dormir en un barco, pero caí como tronco.
+0070 [Tú] | Hay un silencio total aquí. ¿Seguirán dormidas?
+0071 [Shia] | Buenos días, Jefe♪
+0072 [Tú] | ¡Guau! ¡Me asustaste!
+0073 [Shia] | ¿Dormiste bien? ¿Cómo estuvo tu primera noche en el mar?
+0074 [Tú] | Genial. No se movió tanto como esperaba, y la ropa de cama olía... rico.
+0075 [Shia] | Oh, lo notaste... ==W==Perdón por eso. Es la manta que usamos Karin y yo.
+0076 [Tú] | ... ¡Oh! No tenían que molestarse. El piso habría estado bien.
+0077 [Shia] | No digas tonterías. Ahora eres parte de la tripulación, Jefe. Cuidamos de los nuestros.
+0078 [Tú] | Está bien, si tú lo dices. Gracias, te lo agradezco.
+0079 [Tú] | Por cierto, creí escuchar un ruido raro anoche. ¿Todo estuvo bien?
+0080 [Shia] | Solo las olas. Se pusieron bastante bravas por un rato. Me sorprendió que durmieras como si nada.==W== Estabas completamente noqueado...♪
+0081 [Tú] | E-Espera, ¿me estuviste viendo dormir?
+0082 [Narración] | La cabina se sacude y un grito de triunfo resuena desde la cubierta.
+0083 [Karin] | ¡GUAU! ¡Qué bacalao tan ENORME! ¡Por fin pesqué uno!
+0084 [Karin] | ¡Vamos! ¡A ver quién es más fuerte, tú o yo!
+0085 [Tú] | ¿Karin? ¿Qué está haciendo?
+0086 [Shia] | Lleva pescando desde el amanecer. Dijo que quería impresionarte.
+0087 [Tú] | ¿Qué tan grande será ese pez para que arme tanto escándalo...?
+0088 [Tú] | ¡¡Aaah...!!
+0089 [Narración] | Una sacudida mucho más violenta zarandea la cabina. Las tablas del piso se levantan, pierdo el equilibrio y caigo de espaldas.
+0090 [Narración] | Justo antes de golpear el piso, Shia jala la manta de la cama y la mete debajo de mí. Aterrizo sobre un montón suave.
+0091 [Shia] | Uf, por poco.==W== ¿Estás bien, Jefe?
+0092 [Opción] | Ugh, estoy bien...
+0093 [Opción] | Gracias por salvarme... otra vez. ¿Tú estás bien?
+0094 [Shia] | Estoy bien. ==W==Y qué suerte. Si hubieras golpeado ese piso, podrías haberte abierto la cabeza.
+0095 [Opción] | Ni me digas...
+0096 [Opción] | Esta manta tuya me salvó la vida.
+0097 [Shia] | Jeje♪ No seas tímido, puedes seguir alabándome, ¿sabes~?
+0098 [Opción] | B-bueno... podría...
+0099 [Opción] | Pero quizá deberíamos, ya sabes, levantarnos primero...
+0100 [Opción] | Estamos... algo cerca...
+0101 [Narración] | El cabello de Shia me hace cosquillas en el cuello. Se acerca y olfatea suavemente junto a mi oreja.
+0102 [Opción] | O-Oye, ¿qué haces...?
+0103 [Shia] | ¿Un momento tan perfecto? No podía desaprovecharlo.
+0104 [Opción] | ¿Perfecto?
+0105 [Shia] | Sí. Ese aroma recién despierto es el más puro. Si voy a comprobarlo, tiene que ser ahora~
+0106 [Shia] | Ven acá♪...
+0107 [Shia] | Lo sabía. Tienes un aroma de confianza, Jefe. Tal vez seas la clave para resolver mi pequeño misterio.
+0108 [Opción] | ¿Puedes saber todo eso solo por mi aroma...?
+0109 [Shia] | Je, ¿no lo sabías? Las conejas tenemos un olfato muy fino.
+0110 [Shia] | Aun así... hay algo más que no logro identificar.==W== Creo que necesitaré otro olfateo.
+0111 [Opción] | Bien, tiempo fuera...
+0112 [Karin] | ¡Lo logré! ¡Por fin lo logré!
+0113 [Karin] | ¡Shia, mira! Yo...
+0114 [Karin] | ... Lo... ==W==¿logré...?
+0115 [Tú] | ...==W== Uy.
+0116 [Shia] | ¡Guau~! ¡Está enorme!♪ ==W==¿Cómo lo cocinamos? ¿Guisado? ¿Frito? O quizá...
+0117 [Karin] | Ustedes...
+0118 [Karin] | ¡¿QUÉ ESTÁN HACIENDO?!
