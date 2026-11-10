@@ -150,25 +150,30 @@ function fadeTo(v,ms,done){
   clearInterval(fT);const a=BG.volume,st=Math.max(1,ms/40);let n=0;
   fT=setInterval(()=>{n++;BG.volume=Math.max(0,Math.min(1,a+(v-a)*n/st));if(n>=st){clearInterval(fT);done&&done()}},40);
 }
+/* respaldo de música y efectos: tablas de Jhon (nombre del juego -> archivo WAV de su repo, enlazado, no copiado) */
+const AJB=["https://cdn.jsdelivr.net/gh/jhon1466/StellaSoraData@main/02_Audios/","https://raw.githubusercontent.com/jhon1466/StellaSoraData/main/02_Audios/"];
+let AJ={se:{},m:{}};const AJP=fetch("audio-jhon.json").then(r=>r.ok?r.json():null).then(j=>{if(j)AJ=j}).catch(()=>{});
+const ajUrls=(k,c)=>{const l=(AJ[k]||{})[c];if(!l||!l.length)return[];const r=l[0].split("/").map(encodeURIComponent).join("/");return AJB.map(b=>b+r)};
 function bgm(code){
   if(S&&S.mute)return;
   if(!code){bgCur="";fadeTo(0,1200,()=>BG.pause());return}
   const m=/^m(\d+)$/.exec(code);if(!m)return;
   const u=FILE+"Bgm"+m[1]+".ogg";if(bgCur===u)return;bgCur=u;
-  fadeTo(0,250,()=>{BG.src=u;BG.play().then(()=>fadeTo(.5,900)).catch(e=>{if(e&&e.name==="NotAllowedError")bgPend=1;else sinAudio()})});
+  fadeTo(0,250,()=>{if(bgCur!==u)return;BG._l=[u].concat(ajUrls("m",code));BG._i=1;BG.src=u;BG.play().then(()=>fadeTo(.5,900)).catch(e=>{if(e&&e.name==="NotAllowedError")bgPend=1})});
 }
 /* si el navegador bloquea el sonido automático, se reintenta en el siguiente toque; si el archivo no carga, se avisa una vez */
 let bgPend=0,avisoAu=0;
 function sinAudio(){if(avisoAu)return;avisoAu=1;try{aviso("🔇 No se pudo cargar el audio")}catch(e){}}
-BG.addEventListener("error",()=>{if(BG.src)sinAudio()});
+BG.addEventListener("error",()=>{if(!BG.src||!bgCur)return;const l=BG._l||[];if(BG._i<l.length){BG.src=l[BG._i++];BG.play().then(()=>fadeTo(.5,900)).catch(e=>{if(e&&e.name==="NotAllowedError")bgPend=1})}else sinAudio()});
 document.addEventListener("pointerdown",()=>{if(bgPend&&bgCur&&S&&!S.mute){bgPend=0;BG.play().then(()=>fadeTo(.5,900)).catch(()=>{})}},true);
 const SEA=new Map(); /* efectos en curso por nombre: asi se pueden detener los largos/en bucle (se_xxx_stop) y al terminar la historia */
 function seStop(k){const s=k?SEA.get(k):null;if(k&&!s)return;(k?[s]:[...SEA.values()]).forEach(set=>set.forEach(a=>{try{a.pause();a.removeAttribute("src");a.load()}catch(e){}}));if(k)SEA.delete(k);else SEA.clear()}
 function se(n){
   if(!S||S.mute)return;
+  n=String(n||"").trim().replace(/^se\)?_?(\d+)(_stop)?$/i,(x,d,s)=>"se_"+d.padStart(3,"0")+(s||""));if(!n||n==="se_")return; /* corrige nombres mal escritos del guion (se048, se_62, se)_236) */
   if(/_stop$/i.test(n)){seStop(n.replace(/_stop$/i,""));return}
   try{const a=new Audio(FILE+n+".ogg");a.volume=.6;
-    if(/^vo_/i.test(n)){const l=voJ(n);let i=0;a.onerror=()=>{if(i<l.length){a.src=l[i++];a.play().catch(()=>{})}}}
+    {const l=/^vo_/i.test(n)?voJ(n):ajUrls("se",n.toLowerCase().trim());let i=0;a.onerror=()=>{if(i<l.length&&S&&!S.mute){a.src=l[i++];a.play().catch(()=>{})}}}
     let s=SEA.get(n);if(!s)SEA.set(n,s=new Set());s.add(a);a.addEventListener("ended",()=>s.delete(a));
     a.play().catch(()=>{})}catch(e){}
 }
