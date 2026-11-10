@@ -1034,6 +1034,7 @@ function showD(wikiUrl){
       <p class="nota-en" style="text-align:center;margin:6px 0 0">Toca la imagen para verla completa</p>
       <div class="badge b${d.rarity} rbig" style="margin:12px 0 6px">${estr(d.rarity,22)}</div>
       <h2 style="font-size:1.35rem">${esc(d.name)}</h2>
+      <div class="vt-fb" data-vtf="ds" data-vid="${esc(d.name)}" style="justify-content:center"></div>
     </div>
     <div class="chips"><span class="chip on" data-el="${d.element}">${elIcon(d.element)}${d.element}</span><span class="chip on">Disco</span></div>
     <div id="l2d-box"></div>
@@ -1047,6 +1048,7 @@ function showD(wikiUrl){
   cargarExtras().then(E=>{box.innerHTML=discExtraHtml(d,E)}).catch(()=>{box.innerHTML='<p class="nota-en">No se pudo cargar el detalle.</p>'});
   window.discoCargar&&discoCargar(d);
   window.l2dInit&&l2dInit(d,"d");
+  window.votoFicha&&votoFicha();
   go("detail");
 }
 
@@ -1085,7 +1087,7 @@ function showC(id){
       <div class="info">
         <div class="badge b${c.rarity} rbig">${estr(c.rarity,22)}</div>
         <h2>${esc(c.name)}</h2>
-        <button type="button" class="own-btn${ownOn(c.name)?" on":""}" data-own="${esc(c.name)}">${ownOn(c.name)?"⭐ En mis personajes":"☆ Agregar a mis personajes"}</button>
+        <button type="button" class="own-btn${ownOn(c.name)?" on":""}" data-own="${esc(c.name)}">${ownOn(c.name)?"⭐ En mis personajes":"☆ Agregar a mis personajes"}</button><div class="vt-fb" data-vtf="pj" data-vid="${esc(String(c.id))}"></div>
       </div>
     </div></div>
     <div class="chips">
@@ -1117,6 +1119,7 @@ function showC(id){
   go("detail");
   window.fichaCargar&&fichaCargar(c);
   window.l2dInit&&l2dInit(c);
+  window.votoFicha&&votoFicha();
   Promise.all([cargarExtras(),cargarModelIdx()]).then(([E,idx])=>{
     const b=document.getElementById("skins-box"); if(!b||cur!=="detail")return;
     b.innerHTML=skinsHtml(c,E,idx); skin3dBar(c,idx);

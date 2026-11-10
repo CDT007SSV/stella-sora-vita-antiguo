@@ -21,6 +21,9 @@ const css=document.createElement("style");css.textContent=`
 .vt-l.on{background:linear-gradient(90deg,#f6d77a,#e0a93a);color:#2a1d00;border-color:transparent;font-weight:700}
 .vt-note{font-size:.72rem;color:var(--t2);text-align:center;margin:14px 0 0}
 .cu-ic.vt-ic{font-size:1.1rem}
+.vt-r{cursor:pointer}.vt-mio{flex:none;width:26px;text-align:center;color:#f6d77a;font-size:1rem}
+.vt-fb{display:flex;align-items:center;gap:8px;margin-top:8px;min-height:34px}
+.vt-fb .vt-l{min-width:0;padding:7px 14px}.vt-fb small{font-size:.75rem;color:var(--t2)}
 `;document.head.appendChild(css);
 const cfg=()=>(window.SSV_VOTOS&&window.SSV_VOTOS.worker||"").replace(/\/+$/,"");
 function dev(){let d="";try{d=localStorage.getItem("ssv_dev")||""}catch(x){}
@@ -39,39 +42,54 @@ function pinta(root){
   const top=L.length?L[0].n:0;
   const total=Object.values(T).reduce((s,n)=>s+n,0);
   let pos=0;const H=L.map(x=>{pos++;return{x,pos}}).filter(o=>!q||norm(o.x.name).includes(q));
-  root.innerHTML=`<div class="vt-h"><b>👑 Ranking de la comunidad</b><span>Marca ♥ los que te gusten. ${total?total+" votos en total.":"Sé la primera persona en votar."}</span></div>
+  root.innerHTML=`<div class="vt-h"><b>👑 Ranking de la comunidad</b><span>Vota con ♥ desde la ficha de cada personaje o disco. ${total?total+" votos en total.":"Sé la primera persona en votar."}</span></div>
   <div class="vt-t"><button type="button" class="chip${tab==="pj"?" on":""}" data-tb="pj">Personajes</button><button type="button" class="chip${tab==="ds"?" on":""}" data-tb="ds">Discos</button></div>
   <input class="search" id="vt-q" type="search" placeholder="Buscar..." value="${e(busq)}" style="margin-bottom:10px"/>
   <div id="vt-ls">${H.map(({x,pos})=>`<div class="vt-r${x.n&&pos<=3?" p"+pos:""}" data-id="${e(x.id)}">
     <div class="vt-n">${x.n&&pos===1?"👑":pos}</div>
     <img src="${e(x.pt)}" data-img="${e(x.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="if(!this.dataset.f){this.dataset.f=1;this.src=this.dataset.img}else this.style.visibility='hidden'">
     <div class="vt-i"><b>${e(x.name)}</b><small style="color:${EC[x.el]||"inherit"}">${e(x.el||"")} · ${x.r?x.r+"★":""} · <span class="vt-c">${x.n}</span> ${x.n===1?"voto":"votos"}</small><div class="vt-b"><i style="width:${top?Math.round(x.n/top*100):0}%"></i></div></div>
-    <button type="button" class="vt-l${M.has(x.id)?" on":""}" data-v="${e(x.id)}" aria-label="Me gusta">${M.has(x.id)?"♥":"♡"}</button></div>`).join("")||'<p class="nota">Sin resultados.</p>'}</div>
+    <span class="vt-mio">${M.has(x.id)?"♥":""}</span></div>`).join("")||'<p class="nota">Sin resultados.</p>'}</div>
   <p class="vt-note">Ranking de la comunidad de Vita, no oficial del juego. El orden se actualiza al volver a abrir esta pantalla.</p>`;
 }
-function montar(root){
+function montar(root,o){
   pinta(root);
-  root.onclick=async ev=>{
+  root.onclick=ev=>{
     const t=ev.target.closest("[data-tb]");if(t){tab=t.dataset.tb;busq="";pinta(root);return}
-    const b=ev.target.closest("[data-v]");if(!b)return;
-    const id=b.dataset.v,M=DATA.m[tab],T=DATA.tot[tab]||(DATA.tot[tab]={}),on=!M.has(id),tp=tab;
-    on?M.add(id):M.delete(id);T[id]=Math.max(0,(T[id]||0)+(on?1:-1));
-    b.classList.toggle("on",on);b.textContent=on?"♥":"♡";
-    const row=b.closest(".vt-r"),c=row.querySelector(".vt-c");if(c)c.textContent=T[id];
-    try{
-      const r=await fetch(cfg()+"/votar",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({dev:dev(),tipo:tp,id,on})});
-      if(!r.ok)throw 0;const j=await r.json();if(typeof j.n==="number")T[id]=j.n;
-    }catch(x){ /* sin conexion: se revierte */
-      on?DATA.m[tp].delete(id):DATA.m[tp].add(id);T[id]=Math.max(0,(T[id]||0)+(on?-1:1));if(tp===tab)pinta(root);}
+    const r=ev.target.closest(".vt-r[data-id]");if(!r)return;
+    const id=r.dataset.id,tp=tab;const x=o&&o.querySelector("[data-ovx]");if(x)x.click();
+    setTimeout(()=>{try{if(tp==="pj"){if(location.hash==="#c/"+id)showC(id);else nav("c/"+id)}else{const d=DISCS.find(z=>z.name===id);if(d)showD(d.wikiUrl)}}catch(err){}},80);
   };
   root.oninput=ev=>{if(ev.target.id==="vt-q"){busq=ev.target.value;const p=ev.target.selectionStart;pinta(root);const i=root.querySelector("#vt-q");i.focus();try{i.setSelectionRange(p,p)}catch(x){}}};
 }
+/* boton de "me gusta" dentro de la ficha: es el unico lugar donde se vota */
+let T0=0;
+async function datos(){if(!DATA||Date.now()-T0>60000){await cargar();T0=Date.now()}return DATA}
+function pintaFb(b,err){
+  const tp=b.dataset.vtf,id=b.dataset.vid,on=DATA.m[tp].has(id),n=(DATA.tot[tp]||{})[id]||0;
+  b.innerHTML=`<button type="button" class="vt-l${on?" on":""}" data-fv>${on?"♥ Me gusta":"♡ Me gusta"}</button><small>${err?"No se pudo guardar, revisa tu conexión":n+(n===1?" voto":" votos")+" en el ranking 👑"}</small>`;
+}
+window.votoFicha=async function(){
+  const b=document.querySelector(".vt-fb[data-vtf]");if(!b||!cfg())return;
+  try{await datos()}catch(x){return}
+  if(!b.isConnected)return;pintaFb(b);
+  b.onclick=async ev=>{
+    if(!ev.target.closest("[data-fv]")||b._ocupado)return;b._ocupado=1;
+    const tp=b.dataset.vtf,id=b.dataset.vid,M=DATA.m[tp],T=DATA.tot[tp]||(DATA.tot[tp]={}),on=!M.has(id);let err=0;
+    on?M.add(id):M.delete(id);T[id]=Math.max(0,(T[id]||0)+(on?1:-1));pintaFb(b);
+    try{
+      const r=await fetch(cfg()+"/votar",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({dev:dev(),tipo:tp,id,on})});
+      if(!r.ok)throw 0;const j=await r.json();if(typeof j.n==="number")T[id]=j.n;
+    }catch(x){err=1;on?M.delete(id):M.add(id);T[id]=Math.max(0,(T[id]||0)+(on?-1:1))}
+    b._ocupado=0;if(b.isConnected)pintaFb(b,err);
+  };
+};
 window.votosAbrir=async function(t){
   if(t)tab=t;
   const o=window.ssvOverlay(`<div class="ovh"><span class="ntype t-cumple">👑 Ranking</span><button class="ovx" data-ovx aria-label="Cerrar">✕</button></div><div id="vt-root"><p class="nota">Cargando…</p></div>`,"vt-ovw");
   const root=o.querySelector("#vt-root");
   if(!cfg()){root.innerHTML='<p class="nota">El ranking de la comunidad aún no está activado.</p>';return}
-  try{await cargar();montar(root)}catch(x){root.innerHTML='<p class="nota">No se pudo cargar el ranking. Revisa tu conexión e inténtalo de nuevo.</p>'}
+  try{await cargar();T0=Date.now();montar(root,o)}catch(x){root.innerHTML='<p class="nota">No se pudo cargar el ranking. Revisa tu conexión e inténtalo de nuevo.</p>'}
 };
 document.addEventListener("click",ev=>{const b=ev.target.closest&&ev.target.closest("[data-vt]");if(b)window.votosAbrir(b.dataset.vt)});
 })();
