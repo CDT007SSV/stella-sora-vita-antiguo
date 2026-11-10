@@ -9,13 +9,13 @@ const urls=(f,mb,lfs)=>lfs?[`https://media.githubusercontent.com/media/${R}/main
   :(mb<=48?[`https://cdn.jsdelivr.net/gh/${R}@main/${D}${f}`]:[]).concat([`https://raw.githubusercontent.com/${R}/main/${D}${f}`,`https://media.githubusercontent.com/media/${R}/main/${D}${f}`]);
 /* f = mismo video para los dos protagonistas; fp/mp = versión ella / él. sub = subtítulos (por protagonista si son sub:{fp,mp}) */
 const CINE=[
- {id:"prologo",t:"Prólogo",antes:"STm00_01",partes:[
+ {id:"prologo",t:"Prólogo",en:["STm00_01"],partes:[
   {f:"Prologue-Prologue_P1.mp4",mb:11},{f:"Prologue-Prologue_P2.mp4",mb:27},{f:"Prologue-Prologue_P3.mp4",mb:20},
   {f:"Prologue-Prologue_P4.mp4",mb:75,sub:"prologo-p4.vtt"}]},
- {id:"ed4",t:"Final del capítulo 4",despues:"STm04_11",partes:[{fp:"CH04ED-CH04ED_FP.mp4",mp:"CH04ED-CH04ED_MP.mp4",mb:93}]},
- {id:"ed6",t:"Final del capítulo 6",despues:"STm06_13",partes:[{f:"CH06ED-CH06ED.mp4",mb:86}]},
- {id:"ed9",t:"Final del capítulo 9",despues:"STm09_07_a",partes:[{fp:"CH09ED-CH09ED_FP.mp4",mp:"CH09ED-CH09ED_MP.mp4",mb:81}]},
- {id:"i95",t:"Especial 9.5 · Introducción",antes:"STm10001_01",partes:[
+ {id:"ed4",t:"Final del capítulo 4",en:["STm04_10"],paso:[["STm04_10",0,0]],partes:[{fp:"CH04ED-CH04ED_FP.mp4",mp:"CH04ED-CH04ED_MP.mp4",mb:93}]},
+ {id:"ed6",t:"Final del capítulo 6",en:["STm06_13"],paso:[["STm06_13",0,0]],partes:[{f:"CH06ED-CH06ED.mp4",mb:86}]},
+ {id:"ed9",t:"Final del capítulo 9",en:["STm09_01_d"],paso:[["STm09_01_d",0,0]],partes:[{fp:"CH09ED-CH09ED_FP.mp4",mp:"CH09ED-CH09ED_MP.mp4",mb:81}]},
+ {id:"i95",t:"Especial 9.5 · Introducción",en:["STm10001_01"],paso:[["STm10001_01",0,0],["STm10001_01",1,1]],partes:[
   {fp:"CH10001Intro1-CH10001Intro1_FP.mp4",mp:"CH10001Intro1-CH10001Intro1_MP.mp4",lfs:1,sub:{fp:"i10-intro1-fp.vtt"}},
   {fp:"CH10001Intro2-CH10001Intro2_FP.mp4",mp:"CH10001Intro2-CH10001Intro2_MP.mp4",mb:26,sub:{fp:"i10-intro2-fp.vtt",mp:"i10-intro2-mp.vtt"}}]}
 ];
@@ -29,13 +29,14 @@ const css=document.createElement("style");css.textContent=`
 .rd-cn{display:inline-block;margin-top:10px}
 `;document.head.appendChild(css);
 const prot=()=>{try{return localStorage.getItem("rdg")==="0"?"fp":"mp"}catch(x){return"mp"}}; /* rdg: 1 = él */
-const para=(id,tipo)=>CINE.find(c=>c[tipo]===id)||null;
-window.cineDe=para;
-window.cineVer=function(id,i0){
+window.cineDe=id=>CINE.find(c=>(c.en||[]).includes(id))||null;
+/* paso del guion donde el juego reproduce un video: n-ésimo "vid" de la escena */
+window.cinePaso=(sid,n)=>{for(const c of CINE)for(const p of c.paso||[])if(p[0]===sid&&p[1]===n)return{c,i:p[2]};return null};
+window.cineVer=function(id,i0,solo){
   const C=CINE.find(c=>c.id===id);if(!C)return;
   const pr=prot();let i=i0||0;
   const o=document.createElement("div");o.className="cn-ov";
-  o.innerHTML=`<div class="cn-bar"><span>🎬 ${e(C.t)}${C.partes.length>1?" · "+(i+1)+"/"+C.partes.length:""}</span><button type="button" data-x>✕ Cerrar</button></div><video controls playsinline preload="metadata"></video><div class="cn-msg"></div>`;
+  o.innerHTML=`<div class="cn-bar"><span>🎬 ${e(C.t)}${C.partes.length>1&&!solo?" · "+(i+1)+"/"+C.partes.length:""}</span><button type="button" data-x>✕ Cerrar</button></div><video controls playsinline preload="metadata"></video><div class="cn-msg"></div>`;
   document.body.appendChild(o);
   const v=o.querySelector("video"),msg=o.querySelector(".cn-msg");
   const cierra=()=>{try{v.pause();v.removeAttribute("src");v.load()}catch(x){}o.remove()};
@@ -49,7 +50,7 @@ window.cineVer=function(id,i0){
     v.onerror=()=>{if(k+1<L.length){k++;v.src=L[k];v.load();v.play().catch(()=>{})}else msg.innerHTML="⚠️ No se pudo cargar el video. Revisa tu conexión e inténtalo más tarde."};
     v.src=L[0];v.load();v.play().catch(()=>{});
   };
-  v.onended=()=>{if(i+1<C.partes.length){i++;carga()}};
+  v.onended=()=>{if(!solo&&i+1<C.partes.length){i++;carga()}};
   carga();
 };
 })();
