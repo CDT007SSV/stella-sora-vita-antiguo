@@ -159,13 +159,18 @@ function btnM(){const b=el.querySelector('[data-a="m"]');if(b)b.innerHTML=S.mute
 /* respaldo de voces: repositorio jhon1466/StellaSoraData (enlazado, no copiado) */
 const VJ="jhon1466/StellaSoraData",VJD="/02_Audios/Voces_Personajes/Japones/";
 const voJ=c=>["https://cdn.jsdelivr.net/gh/"+VJ+"@main"+VJD+c+"_jp.wav","https://raw.githubusercontent.com/"+VJ+"/main"+VJD+c+"_jp.wav"];
-const VO=new Audio();
+let VO=new Audio();
+/* Voces: primero el repo de Jhon (ahí están casi todas), luego la wiki. Las siguientes 3 se descargan por adelantado para que suenen al instante. */
+const VPRE=new Map();let VLIST=[];
+function vozUrls(c){const b=cap(c);return voJ(c).concat([b+"_jp.ogg",b+"_en.ogg",b+"_cn.ogg",b+"_kr.ogg",b+".ogg"].map(x=>FILE+x))}
+function vozEl(c){const a=new Audio(),l=vozUrls(c);let i=0;a.preload="auto";a.onerror=()=>{if(i<l.length){const pl=a._quiere;a.src=l[i++];a.load();if(pl)a.play().catch(()=>{})}};a.src=l[i++];a.load();return a}
+function vozLista(steps){const L=[];(function w(a){if(!Array.isArray(a))return;if(a[0]==="say"&&typeof a[4]==="string"&&/^vo_/i.test(a[4]))L.push(a[4]);a.forEach(w)})(steps);VLIST=L;VPRE.clear();if(S&&!S.mute)L.slice(0,2).forEach(c=>VPRE.set(c,vozEl(c)))}
 function voz(c){
   try{VO.pause()}catch(e){}
   if(!c||!S||S.mute)return;
-  const b=cap(c),l=[FILE+b+"_jp.ogg"].concat(voJ(c),[b+"_en.ogg",b+"_cn.ogg",b+"_kr.ogg",b+".ogg"].map(x=>FILE+x));let i=0;
-  const t=()=>{if(i>=l.length)return;VO.src=l[i++];VO.volume=1;VO.play().catch(()=>{})};
-  VO.onerror=t;t();
+  VO=VPRE.get(c)||vozEl(c);VPRE.delete(c);VO._quiere=1;VO.volume=1;VO.play().catch(()=>{});
+  const k=VLIST.indexOf(c);if(k>=0)VLIST.slice(k+1,k+4).forEach(n=>{if(!VPRE.has(n))VPRE.set(n,vozEl(n))});
+  if(VPRE.size>8){const f=VPRE.keys().next().value;VPRE.delete(f)}
 }
 function pararAudio(){clearInterval(fT);BG.pause();bgCur="";try{VO.pause()}catch(e){}}
 /* ---------- interfaz ---------- */
@@ -725,6 +730,6 @@ async function iniciar(id,prev,hold){
   el.querySelectorAll(".rd-chars").forEach(c=>c.innerHTML="");el.querySelectorAll(".rd-hd,.rd-memo").forEach(c=>c.remove());el.querySelectorAll(".rd-bgi,.rd-sgi").forEach(e=>{e.style.cssText=""});el.querySelectorAll(".rd-sg").forEach(e=>e.classList.toggle("on",e.dataset.s==="0"));el.querySelector(".rd-film").classList.remove("on");
   el.querySelector(".rd-fxl").innerHTML="";el.querySelector(".rd-cur").style.opacity=0;el.querySelector(".rd-box").style.visibility="";
   S.mc=0;if(prev)S.vp=prev.vp;try{const mv=document.querySelector('meta[name=viewport]');if(mv&&!/viewport-fit/.test(mv.content)){S.vp=mv.content;mv.content=mv.content+",viewport-fit=cover"}}catch(e){}
-  btnG();btnM();btnZ();btnE();btnF();try{precarga(d.steps,S.pt);precargaBg(d.steps)}catch(x){}card(false);el.classList.add("on");stopShakes();fit();setTimeout(fit,400);if(hold)actos(true);else avanza();avisoAuto(id);
+  btnG();btnM();btnZ();btnE();btnF();try{vozLista(d.steps)}catch(x){}try{precarga(d.steps,S.pt);precargaBg(d.steps)}catch(x){}card(false);el.classList.add("on");stopShakes();fit();setTimeout(fit,400);if(hold)actos(true);else avanza();avisoAuto(id);
 }
 })();
