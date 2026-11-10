@@ -111,6 +111,7 @@ window.l2dDisp=async function(id,en,names){
   if(!activo())return null;const I=await indice();if(!I)return null;
   const m=/^CG_disc(\d+)/.exec(id||"");
   if(m){const n=I._dn&&I._dn[m[1]];return n&&I._d&&I._d[n]?{n:n,t:"d"}:null}
+  if(!/^CG_/.test(id||""))return null; /* solo historias de afinidad y recuerdos de disco, no la historia principal */
   for(const k in (names||{})){if(/^avg1_\d+$/.test(k)){const n=(en&&en[k])||names[k];if(I[n])return{n:n,t:"c"}}}
   return null;
 };

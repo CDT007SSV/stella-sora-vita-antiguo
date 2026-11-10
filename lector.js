@@ -146,7 +146,9 @@ BG.addEventListener("error",()=>{if(BG.src)sinAudio()});
 document.addEventListener("pointerdown",()=>{if(bgPend&&bgCur&&S&&!S.mute){bgPend=0;BG.play().then(()=>fadeTo(.5,900)).catch(()=>{})}},true);
 function se(n){
   if(!S||S.mute)return;
-  try{const a=new Audio(FILE+n+".ogg");a.volume=.6;a.play().catch(()=>{})}catch(e){}
+  try{const a=new Audio(FILE+n+".ogg");a.volume=.6;
+    if(/^vo_/i.test(n)){const l=voJ(n);let i=0;a.onerror=()=>{if(i<l.length){a.src=l[i++];a.play().catch(()=>{})}}}
+    a.play().catch(()=>{})}catch(e){}
 }
 function mute(){
   S.mute=S.mute?0:1;try{localStorage.setItem("rdm",S.mute)}catch(e){}
@@ -154,12 +156,15 @@ function mute(){
   btnM();
 }
 function btnM(){const b=el.querySelector('[data-a="m"]');if(b)b.innerHTML=S.mute?"Sonido: no":"Sonido: sí"}
+/* respaldo de voces: repositorio jhon1466/StellaSoraData (enlazado, no copiado) */
+const VJ="jhon1466/StellaSoraData",VJD="/02_Audios/Voces_Personajes/Japones/";
+const voJ=c=>["https://cdn.jsdelivr.net/gh/"+VJ+"@main"+VJD+c+"_jp.wav","https://raw.githubusercontent.com/"+VJ+"/main"+VJD+c+"_jp.wav"];
 const VO=new Audio();
 function voz(c){
   try{VO.pause()}catch(e){}
   if(!c||!S||S.mute)return;
-  const b=cap(c),l=[b+"_jp.ogg",b+"_en.ogg",b+"_cn.ogg",b+"_kr.ogg",b+".ogg"];let i=0;
-  const t=()=>{if(i>=l.length)return;VO.src=FILE+l[i++];VO.volume=1;VO.play().catch(()=>{})};
+  const b=cap(c),l=[FILE+b+"_jp.ogg"].concat(voJ(c),[b+"_en.ogg",b+"_cn.ogg",b+"_kr.ogg",b+".ogg"].map(x=>FILE+x));let i=0;
+  const t=()=>{if(i>=l.length)return;VO.src=l[i++];VO.volume=1;VO.play().catch(()=>{})};
   VO.onerror=t;t();
 }
 function pararAudio(){clearInterval(fT);BG.pause();bgCur="";try{VO.pause()}catch(e){}}
