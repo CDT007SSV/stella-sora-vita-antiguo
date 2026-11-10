@@ -67,7 +67,7 @@ let T0=0;
 async function datos(){if(!DATA||Date.now()-T0>60000){await cargar();T0=Date.now()}return DATA}
 function pintaFb(b,err){
   const tp=b.dataset.vtf,id=b.dataset.vid,on=DATA.m[tp].has(id),n=(DATA.tot[tp]||{})[id]||0;
-  b.innerHTML=`<button type="button" class="vt-l${on?" on":""}" data-fv>${on?"♥ Me gusta":"♡ Me gusta"}</button><small>${err?"No se pudo guardar, revisa tu conexión":n+(n===1?" voto":" votos")+" en el ranking 👑"}</small>`;
+  b.innerHTML=`<button type="button" class="vt-l${on?" on":""}" data-fv>${on?"♥ Me gusta":"♡ Me gusta"}</button>${err?"<small>No se pudo guardar, revisa tu conexión</small>":""}`;
 }
 window.votoFicha=async function(){
   const b=document.querySelector(".vt-fb[data-vtf]");if(!b||!cfg())return;
