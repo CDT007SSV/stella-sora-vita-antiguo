@@ -544,7 +544,7 @@ function avanza(){
     if(!f){fin();return}
     if(f.i>=f.a.length){S.stack.pop();continue}
     const s=f.a[f.i++];
-    if(S.pend&&/^(say|choice|intro|head|vid|end)$/.test(s[0]))vacia();
+    if(S.pend&&/^(say|choice|intro|head|vid|end)$/.test(s[0])){vacia();f.i--;return} /* el texto quedó a medias y el guion ya sigue: se completa y espera el toque antes de continuar */
     switch(s[0]){
       case"goon":if(S.pend){S.pend=0;tipea();return}break;
       case"bg":setBg(s[1],s[2],s[3]);break;
