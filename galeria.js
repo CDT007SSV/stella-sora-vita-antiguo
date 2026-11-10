@@ -17,6 +17,13 @@ function img(x,w,cls){
 }
 window.galFb=function(im){const q=(im.dataset.q||"").split("|").filter(Boolean);if(q.length){im.src=q.shift();im.dataset.q=q.join("|")}else if(im.classList.contains("gl-t")){im.style.display="none"}else{im.style.visibility="hidden"}};
 (function css(){const s=document.createElement("style");s.textContent=`
+.l2d-hero{position:relative;display:flex;align-items:center;gap:14px;width:100%;margin:0 0 14px;padding:14px 16px;border:1px solid rgba(255,255,255,.22);border-radius:20px;background:linear-gradient(120deg,#6d5cff 0%,#a45bd8 55%,#e46aa8 100%);color:#fff;font:inherit;text-align:left;cursor:pointer;overflow:hidden;box-shadow:0 6px 20px rgba(109,92,255,.35)}
+.l2d-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(105deg,transparent 35%,rgba(255,255,255,.28) 50%,transparent 65%);transform:translateX(-100%);animation:l2dSh 3.8s ease-in-out infinite;pointer-events:none}
+@keyframes l2dSh{0%,55%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
+.l2d-hero:active{transform:scale(.98)}
+.l2d-hav{display:flex;flex:none}.l2d-hav img{width:44px;height:44px;border-radius:50%;object-fit:cover;object-position:top;border:2px solid rgba(255,255,255,.9);background:#2a2350;margin-right:-12px;box-shadow:0 2px 6px rgba(0,0,0,.3)}
+.l2d-htx{flex:1;min-width:0;padding-left:12px}.l2d-htx b{display:block;font-size:1.05rem;line-height:1.2}.l2d-htx small{display:block;font-size:.78rem;opacity:.88;margin-top:2px}
+.l2d-hgo{flex:none;width:34px;height:34px;border-radius:50%;background:rgba(255,255,255,.22);display:flex;align-items:center;justify-content:center;font-size:1.4rem;font-weight:700;line-height:1}
 #gal-root .gl-cat{margin:14px 2px 6px;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:#9a95c4;font-weight:800}
 #gal-root .gl-g{border:1px solid #2c2850;border-radius:12px;background:rgba(20,16,50,.7);margin-bottom:8px;overflow:hidden}
 #gal-root .gl-h{display:flex;align-items:center;gap:10px;width:100%;padding:8px;background:none;border:0;color:#e9e5ff;font:inherit;text-align:left;cursor:pointer}
@@ -55,10 +62,14 @@ function portada(imgs){const l=mejor(imgs).slice(0,12).flatMap(x=>urls(x,0));ret
 function tarjeta(attr,col,im,sub,tit,w){
   return `<div class="hm hm-sub ${w?"w ":""}${col}" ${attr}>${im?img(im,420,"bg"):""}<div class="hm-sh"></div><div class="hm-cn"><i>${esc(sub)}</i><strong>${esc(tit)}</strong></div></div>`;
 }
+function l2dCaras(){
+  const C=typeof CHARS!=="undefined"?CHARS:[],P=["Firstlight Noya","Amber","Allie"];
+  return P.map(n=>C.find(c=>c.name===n)).filter(Boolean).map(c=>`<img src="${esc(typeof portC==="function"?portC(c):c.imageUrl)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.style.visibility='hidden'">`).join("");
+}
 function cuerpo(){
   if(!vc){
     const cats=[...new Set(D.grupos.map(g=>g.cat))];
-    return `<p class="nota" style="margin:2px 2px 10px">Ilustraciones del juego dentro de la app. Se agregan solas cuando salen historias nuevas.</p>${window.l2dActivo&&l2dActivo()?`<button type="button" class="btn l2d-btn" onclick="window.l2dLista&&l2dLista()">🎞 L2D de personajes y discos</button>`:""}<div class="hm-subgrid">`+
+    return `<p class="nota" style="margin:2px 2px 10px">Ilustraciones del juego dentro de la app. Se agregan solas cuando salen historias nuevas.</p>${window.l2dActivo&&l2dActivo()?`<button type="button" class="l2d-hero" onclick="window.l2dLista&&l2dLista()"><span class="l2d-hav">${l2dCaras()}</span><span class="l2d-htx"><b>Ilustraciones animadas</b><small>Live2D · personajes y discos</small></span><span class="l2d-hgo">›</span></button>`:""}<div class="hm-subgrid">`+
       cats.map((c,i)=>{const gs=D.grupos.filter(g=>g.cat===c),n=gs.reduce((t,g)=>t+g.imgs.length,0);return tarjeta('data-c="'+esc(c)+'"',COL[i%COL.length],portada(gs.flatMap(g=>g.imgs)),n+" ilustraciones",c,i%3===0)}).join("")+`</div>`;
   }
   if(!vg){

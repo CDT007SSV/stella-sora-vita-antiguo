@@ -115,15 +115,26 @@ window.l2dInit=async function(c,tipo){
   el.querySelector(".l2d-go").onclick=()=>iniciaCard(el);
 };
 /* ---- lista y visor a pantalla completa (Galería de arte) ---- */
-function overlay(titulo,onBack){
+/* pantallas encimadas con soporte del boton "atras" de Android: cada una agrega una entrada al historial */
+const PILA=[];
+function overlay(titulo){
   const o=document.createElement("div");o.className="l2d-ov";
   o.innerHTML=`<div class="l2d-oh"><button type="button" data-b aria-label="Volver">‹</button><b>${esc(titulo)}</b></div><div class="l2d-ob"></div>`;
-  o.querySelector("[data-b]").onclick=onBack;document.body.appendChild(o);document.body.style.overflow="hidden";return o;
+  o.querySelector("[data-b]").onclick=()=>history.back();
+  const prev=PILA[PILA.length-1];if(prev)prev.style.display="none";
+  document.body.appendChild(o);PILA.push(o);document.body.style.overflow="hidden";
+  try{history.pushState({l2d:PILA.length},"",location.href)}catch(x){}
+  return o;
 }
-function cierraOv(o){cierra();o.remove();document.body.style.overflow=""}
+window.addEventListener("popstate",()=>{
+  const o=PILA.pop();if(!o)return;
+  cierra();o.remove();const p=PILA[PILA.length-1];
+  if(p)p.style.display="";else document.body.style.overflow="";
+});
+function cierraOv(o){history.back()}
 window.l2dVer=async function(name,prev,tipo){
   const I=await indice(),lista=tipo==="d"?(I&&I._d&&I._d[name]):(I&&I[name]);if(!lista)return;
-  const o=overlay(name,()=>{cierraOv(o);if(prev)window.l2dLista()});
+  const o=overlay(name);
   const b=o.querySelector(".l2d-ob");b.style.cssText="display:flex;flex-direction:column;padding:0;overflow:hidden";
   b.innerHTML=`<div class="l2d-stage" hidden></div><p class="nota l2d-st" style="margin:6px 12px 0">Descargando el reproductor…</p><div class="skin3d l2d-bar" style="margin:0">${chipsHtml(lista)}</div>`;
   const msg=vistaMsg(b),stg=b.querySelector(".l2d-stage");
@@ -142,11 +153,11 @@ window.l2dDisp=async function(id,en,names){
 };
 window.l2dLista=async function(){
   const I=await indice(),nombres=Object.keys(I||{}).filter(k=>k[0]!=="_").sort(),DD=(I&&I._d)||{},discos=Object.keys(DD).sort();
-  const o=overlay("L2D de personajes y discos",()=>cierraOv(o));
+  const o=overlay("L2D de personajes y discos");
   const DS=(typeof DISCS!=="undefined"?DISCS:[]),di=n=>{const d=DS.find(x=>x.name===n);return d&&d.imageUrl||""};
   const C=(typeof CHARS!=="undefined"?CHARS:[]),ch=n=>C.find(x=>x.name===n),img=n=>{const c=ch(n);if(!c)return "";return (typeof portC==="function"?portC(c):c.imageUrl)||""},fb=n=>{const c=ch(n);return c&&c.imageUrl||""};
   const it=(n,t,k)=>`<button type="button" class="l2d-it" data-n="${esc(n)}" data-t="${t}"><img src="${esc(t==="d"?di(n):img(n))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-f="${esc(t==="d"?"":fb(n))}" onerror="if(this.dataset.f&&this.src!==this.dataset.f){this.src=this.dataset.f}else this.style.visibility='hidden'"><span>${esc(n)}</span><small>${k} ${k===1?"versión":"versiones"}</small></button>`;
   o.querySelector(".l2d-ob").innerHTML=nombres.length?`<p class="nota" style="margin:0 0 10px">Toca uno para ver su ilustración animada. Se descarga solo al abrirla.</p><h4 class="fk-h" style="margin:4px 0 8px">Personajes (${nombres.length})</h4><div class="l2d-gr">${nombres.map(n=>it(n,"c",I[n].length)).join("")}</div>${discos.length?`<h4 class="fk-h" style="margin:16px 0 8px">Discos (${discos.length})</h4><div class="l2d-gr">${discos.map(n=>it(n,"d",DD[n].length)).join("")}</div>`:""}`:'<p class="nota">No se pudo cargar la lista.</p>';
-  o.querySelectorAll("[data-n]").forEach(b=>b.onclick=()=>{cierraOv(o);window.l2dVer(b.dataset.n,true,b.dataset.t)});
+  o.querySelectorAll("[data-n]").forEach(b=>b.onclick=()=>window.l2dVer(b.dataset.n,true,b.dataset.t));
 };
 })();
